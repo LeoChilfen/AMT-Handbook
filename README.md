@@ -21,11 +21,12 @@ FAA《Aviation Maintenance Technician Handbook》（航空维修技师手册）�
 `docs/` 是生成产物，别手改。改完 `notes/` 下的 Markdown 后重新生成再推送：
 
 ```powershell
+python tools/gen_index.py         # 重建 INDEX.md（章节名用英文原名）
 python tools/build_site.py .      # 重新生成 docs/
 git add -A; git commit -m "更新笔记"; git push
 ```
 
-（`tools/build_site.py` 只用标准库，不需要装 markdown 之类的包；`tools/check_cloze.py` 可校验每章第 7 节完形填空的题号、选项、答案条数。）
+（三个脚本只用标准库，不需要装 markdown 之类的包；`tools/check_cloze.py` 可校验每章第 7 节完形填空的题号、选项、答案条数。）
 
 ## 目录结构
 
