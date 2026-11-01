@@ -7,6 +7,7 @@ code/links) plus a hand-written shell page.
 Usage:
     python build_site.py <repo-root>
 """
+import hashlib
 import io
 import json
 import os
@@ -346,11 +347,22 @@ def write_assets(assets):
         f.write(JS)
 
 
+def _asset_version(path):
+    """Short content hash used as a cache-busting query string."""
+    h = hashlib.md5()
+    with io.open(path, "rb") as f:
+        h.update(f.read())
+    return h.hexdigest()[:8]
+
+
 def write_shell(docs, groups):
-    shells = ["<html><head><meta charset=\"utf-8\"></head><body></body></html>"]
-    # placeholder replaced below
+    assets = os.path.join(docs, "assets")
+    html = HTML_SHELL
+    html = html.replace("__CSS__", _asset_version(os.path.join(assets, "style.css")))
+    html = html.replace("__DATA__", _asset_version(os.path.join(docs, "data.js")))
+    html = html.replace("__APP__", _asset_version(os.path.join(assets, "app.js")))
     with io.open(os.path.join(docs, "index.html"), "w", encoding="utf-8", newline="\n") as f:
-        f.write(HTML_SHELL)
+        f.write(html)
     with io.open(os.path.join(docs, ".nojekyll"), "w", encoding="utf-8", newline="\n") as f:
         f.write("")
 
@@ -362,7 +374,7 @@ HTML_SHELL = r"""<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>AMT Handbook · 中文笔记</title>
 <meta name="description" content="FAA AMT Handbook 三册 44 份中文笔记，含 TECC 式英语完形填空练习。">
-<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/style.css?v=__CSS__">
 </head>
 <body>
 <header class="topbar">
@@ -384,8 +396,8 @@ HTML_SHELL = r"""<!DOCTYPE html>
   <span>·</span>
   <span>笔记原文件为 Markdown，可用 Obsidian / VS Code 打开</span>
 </footer>
-<script src="data.js"></script>
-<script src="assets/app.js"></script>
+<script src="data.js?v=__DATA__"></script>
+<script src="assets/app.js?v=__APP__"></script>
 </body>
 </html>
 """
