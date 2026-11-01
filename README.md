@@ -14,13 +14,18 @@ FAA《Aviation Maintenance Technician Handbook》（航空维修技师手册）�
 
 ## 在线阅读（带目录的站点）
 
-`docs/` 目录里是生成好的静态站点，开启 GitHub Pages 后可直接在浏览器里带着目录翻：
-
-**Settings → Pages → Source: Deploy from a branch → 分支 `main`、目录 `/docs` → Save**，
-等 1～2 分钟后访问 <https://leochilfen.github.io/AMT-Handbook/>。
+在线站点：**<https://leochilfen.github.io/AMT-Handbook/>**（GitHub Pages，`main` 分支 `/docs` 目录）
 
 站点功能：左侧三册目录、顶部搜索框（按章节标题过滤，快捷键 `/`）、每页小节跳转、上一章 / 下一章翻页。
-网页只是 `notes/` 下 Markdown 的渲染结果，改笔记后重新生成即可。
+
+`docs/` 是生成产物，别手改。改完 `notes/` 下的 Markdown 后重新生成再推送：
+
+```powershell
+python tools/build_site.py .      # 重新生成 docs/
+git add -A; git commit -m "更新笔记"; git push
+```
+
+（`tools/build_site.py` 只用标准库，不需要装 markdown 之类的包；`tools/check_cloze.py` 可校验每章第 7 节完形填空的题号、选项、答案条数。）
 
 ## 目录结构
 
