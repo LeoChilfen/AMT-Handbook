@@ -1,4 +1,4 @@
-"""Regenerate INDEX.md with English chapter names as the link text."""
+﻿"""Regenerate INDEX.md with English chapter names as the link text."""
 import io
 import os
 import re
@@ -7,7 +7,7 @@ ROOT = r"F:\AMT-Handbook"
 BOOKS = [("general", "General", "通用"), ("airframe", "Airframe", "机体"),
          ("powerplant", "Powerplant", "动力装置")]
 
-H1 = re.compile(r"^#\s+Ch\s*(\d+)\s*([（(][^）)]*[）)])?\s*[·・]\s*(.*?)\s*(?:[（(]([^）)]*)[）)])?\s*$")
+H1 = re.compile(r"^#\s+Ch\s*(\d+)\s*([（(][^）)]*[）)])?\s*[·・]\s*(.*?)\s*(?:[（(](.*)[）)])?\s*$")
 
 
 def read(path):
@@ -31,7 +31,8 @@ def chapter(path):
                     summary = nxt.strip()
                     break
             break
-    title = "Ch %s%s · %s" % (num, part, en)
+    part_en = {"（上）": " (Part 1)", "（下）": " (Part 2)", "（前半）": " (Part 1)", "（后半）": " (Part 2)"}.get(part, part)
+    title = "Ch %s · %s%s" % (num, en, part_en)
     return num, title, summary
 
 

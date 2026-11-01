@@ -17,8 +17,8 @@
 | [Ch 09 · Fluid Lines & Fittings](notes/general/ch09.md) | 讲飞机刚性金属管和软管这两类流体管路的材料、尺寸标示、弯曲/扩口/滚波成形工艺、各种接头（AN 扩口、MS 无扩口、压接、Cryofit）、识别标记与安装检查要求。 |
 | [Ch 10 · Inspection Concepts & Techniques](notes/general/ch10.md) | 讲飞机检查从"绕机走一圈"到拆解加无损检测的完整体系：检查制度与法定间隔、依据的出版物与记录、各类特殊检查，以及目视、渗透、磁粉、涡流、超声、射线等 NDI 方法的原理、能查什么和局限。 |
 | [Ch 11 · Hand Tools & Measuring Devices](notes/general/ch11.md) | 讲 AMT 日常用的手工具（锤、螺刀、钳、冲子、扳手、剪切、锯、錾、锉、钻、铰、锪、攻丝）和量具（钢板尺、组合角尺、划针、分规、卡钳、千分尺、百分表、卡尺）的选用、用法、读数与禁忌。 |
-| [Ch 12（上） · Fundamentals of Electricity & Electronics](notes/general/ch12a.md) | 从物质的电子结构讲起，把静电—磁—电磁感应、欧姆定律与串并联电路、功率与能量、交流正弦量与阻抗、电容/电感、变压器、测量仪表和线路排故串成一条从"电子为什么动"到"怎么用表找出坏件"的主线。 |
-| [Ch 12（下） · Fundamentals of Electricity & Electronics](notes/general/ch12b.md) | 接前半章，讲蓄电池与逆变器、半导体与三极管/场效应管、滤波与放大、逻辑门与集成电路，再到直流/交流发电机与电动机、调压器与恒速传动装置。 |
+| [Ch 12 · Fundamentals of Electricity & Electronics (Part 1)](notes/general/ch12a.md) | 从物质的电子结构讲起，把静电—磁—电磁感应、欧姆定律与串并联电路、功率与能量、交流正弦量与阻抗、电容/电感、变压器、测量仪表和线路排故串成一条从"电子为什么动"到"怎么用表找出坏件"的主线。 |
+| [Ch 12 · Fundamentals of Electricity & Electronics (Part 2)](notes/general/ch12b.md) | 接前半章，讲蓄电池与逆变器、半导体与三极管/场效应管、滤波与放大、逻辑门与集成电路，再到直流/交流发电机与电动机、调压器与恒速传动装置。 |
 | [Ch 13 · Mechanic Privileges & Limitations](notes/general/ch13.md) | 本章按 14 CFR part 65 讲机务（mechanic）与修理员（repairman）两类维修人员执照的颁发、两个等级（机体/动力装置）、IA（检查授权）的取得与续期，以及持照人能做与不能做的事。 |
 | [Ch 14 · Human Factors](notes/general/ch14.md) | 本章讲维修人员为什么会出错：用 PEAR、SHEL、Reason 事故链与十二个危险因素（dirty dozen），把人的局限变成可识别、可管理的差错。 |
 
@@ -28,9 +28,9 @@
 |---|---|
 | [Ch 01 · Aircraft Structures](notes/airframe/ch01.md) | 本章讲机体结构：从木布桁架到复合材料的演变，五种应力，机身/机翼/尾翼/操纵面/起落架的结构形式与受力路径，以及站位、分区编号和直升机旋翼系统。 |
 | [Ch 02 · Aerodynamics, Aircraft Assembly, & Rigging](notes/airframe/ch02.md) | 从升力、阻力、稳定性和三轴操纵讲起，再落到固定翼与直升机的装配、校装（rigging）、操纵面平衡和适航检查。 |
-| [Ch 03 · Aircraft Fabric Covering（飞机蒙布（织物）覆盖）](notes/airframe/ch03.md) | 讲织物蒙皮的来龙去脉：从棉布加硝酸/丁酸纤维漆（dope），到现代聚酯织物加 STC 涂层体系，再到强度判定、蒙布施工与胶接修补。 |
-| [Ch 04（上） · Aircraft Metal Structural Repair](notes/airframe/ch04a.md) | 金属蒙皮结构修理的基础：六种应力与应力集中、钣金工具与成形、铝合金选材、铆钉及特种紧固件的安装、间距与拆除。 |
-| [Ch 04（下） · Aircraft Metal Structural Repair](notes/airframe/ch04b.md) | 从折弯展开计算讲起，经手工成形与特殊合金成形，讲到受力蒙皮、长桁、翼梁、隔框、前后缘的损伤分级、补片修理与放行审批。 |
+| [Ch 03 · Aircraft Fabric Covering](notes/airframe/ch03.md) | 讲织物蒙皮的来龙去脉：从棉布加硝酸/丁酸纤维漆（dope），到现代聚酯织物加 STC 涂层体系，再到强度判定、蒙布施工与胶接修补。 |
+| [Ch 04 · Aircraft Metal Structural Repair (Part 1)](notes/airframe/ch04a.md) | 金属蒙皮结构修理的基础：六种应力与应力集中、钣金工具与成形、铝合金选材、铆钉及特种紧固件的安装、间距与拆除。 |
+| [Ch 04 · Aircraft Metal Structural Repair (Part 2)](notes/airframe/ch04b.md) | 从折弯展开计算讲起，经手工成形与特殊合金成形，讲到受力蒙皮、长桁、翼梁、隔框、前后缘的损伤分级、补片修理与放行审批。 |
 | [Ch 05 · Aircraft Welding](notes/airframe/ch05.md) | 讲飞机维修里能用的几种焊接——气焊、电弧焊（SMAW/GMAW/TIG/PAW）、电阻焊，加上钎焊与软钎焊——的设备、火焰调整、材料适用性、接头形式与钢/铝/镁/钛的修理工艺。 |
 | [Ch 06 · Aircraft Wood & Structural Repair](notes/airframe/ch06.md) | 本章讲木结构飞机的选材、缺陷判废、胶接与检验，以及翼肋、翼梁和胶合板蒙皮的具体修理方法，标准是恢复到原件的强度、功能与气动外形。 |
 | [Ch 07 · Advanced Composite Materials](notes/airframe/ch07.md) | 从纤维与树脂基体讲起，覆盖层压与夹芯结构、制造与固化、缺陷与无损检测，最后落到层压板与蜂窝夹芯的粘接修补工艺（含透明塑料）。 |

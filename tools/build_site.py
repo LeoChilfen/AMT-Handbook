@@ -243,9 +243,22 @@ def parse_title(text, fallback):
                 rest = m.group(3)
             else:
                 part, rest = "", raw
-            mm = re.match(r"^(.*?)[（(]([^（）()]*)[）)]\s*$", rest)
-            if mm:
-                return part, mm.group(1).strip(), mm.group(2).strip()
+            # trailing "（…）" may itself contain nested parens, e.g.
+            # "Aircraft Fabric Covering（飞机蒙布（织物）覆盖）"
+            open_at = -1
+            if rest and rest[-1] in "）)":
+                depth = 0
+                for i in range(len(rest) - 1, -1, -1):
+                    ch = rest[i]
+                    if ch in "）)":
+                        depth += 1
+                    elif ch in "（(":
+                        depth -= 1
+                        if depth == 0:
+                            open_at = i
+                            break
+            if open_at > 0:
+                return part, rest[:open_at].strip(), rest[open_at + 1:-1].strip()
             return part, rest.strip(), ""
     return "", fallback, ""
 
@@ -274,7 +287,8 @@ def main():
             text = read(path)
             part, title_en, title_zh = parse_title(text, fname)
             if part:
-                title_en = (title_en + " (" + part + ")").strip()
+                part_en = {"上": "Part 1", "下": "Part 2", "前半": "Part 1", "后半": "Part 2"}.get(part, part)
+                title_en = (title_en + " (" + part_en + ")").strip()
             slug = "%s-ch%s" % (book_slug, num)
             body, headings = render_markdown(text)
             manifest.append(
@@ -404,8 +418,7 @@ body{
 .nav-link:hover{background:#f1f1ef}
 .nav-link.active{background:#1f2328;color:#fff}
 .nav-link.active .num{color:#c9cdd2}
-.nav-link .zh{display:block;margin-left:32px;color:#8a8f98;font-size:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.nav-link.active .zh{color:#c9cdd2}
+
 .content{flex:1 1 auto;min-width:0;padding:28px 40px 90px;max-width:900px}
 .content h1{font-size:26px;line-height:1.4;margin:6px 0 18px;letter-spacing:.2px}
 .content h2{scroll-margin-top:72px;font-size:20px;margin:36px 0 12px;padding-top:10px;border-top:1px solid #ececea}
@@ -481,8 +494,7 @@ JS = r"""(function(){
       g.chapters.forEach(function(c){
         html += '<a class="nav-link" href="#/' + c.slug + '" data-slug="' + c.slug + '">' +
           '<span class="row"><span class="num">' + pad2(c.num) + '</span>' +
-          '<span class="ttl">' + esc(c.titleEn || ('Ch ' + c.num)) + '</span></span>' +
-          (c.titleZh ? '<span class="zh">' + esc(c.titleZh) + '</span>' : '') + '</a>';
+          '<span class="ttl">' + esc(c.titleEn || ('Ch ' + c.num)) + '</span></span></a>';
       });
       html += '</div>';
     });

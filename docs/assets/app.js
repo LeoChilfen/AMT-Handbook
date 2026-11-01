@@ -19,8 +19,7 @@
       g.chapters.forEach(function(c){
         html += '<a class="nav-link" href="#/' + c.slug + '" data-slug="' + c.slug + '">' +
           '<span class="row"><span class="num">' + pad2(c.num) + '</span>' +
-          '<span class="ttl">' + esc(c.titleEn || ('Ch ' + c.num)) + '</span></span>' +
-          (c.titleZh ? '<span class="zh">' + esc(c.titleZh) + '</span>' : '') + '</a>';
+          '<span class="ttl">' + esc(c.titleEn || ('Ch ' + c.num)) + '</span></span></a>';
       });
       html += '</div>';
     });

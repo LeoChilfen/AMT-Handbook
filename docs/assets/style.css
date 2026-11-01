@@ -26,8 +26,7 @@ body{
 .nav-link:hover{background:#f1f1ef}
 .nav-link.active{background:#1f2328;color:#fff}
 .nav-link.active .num{color:#c9cdd2}
-.nav-link .zh{display:block;margin-left:32px;color:#8a8f98;font-size:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.nav-link.active .zh{color:#c9cdd2}
+
 .content{flex:1 1 auto;min-width:0;padding:28px 40px 90px;max-width:900px}
 .content h1{font-size:26px;line-height:1.4;margin:6px 0 18px;letter-spacing:.2px}
 .content h2{scroll-margin-top:72px;font-size:20px;margin:36px 0 12px;padding-top:10px;border-top:1px solid #ececea}

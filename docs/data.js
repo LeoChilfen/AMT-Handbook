@@ -495,7 +495,7 @@ window.AMT_DATA = [
     "bookEn": "General",
     "bookZh": "通用",
     "num": "12a",
-    "titleEn": "Fundamentals of Electricity & Electronics (上)",
+    "titleEn": "Fundamentals of Electricity & Electronics (Part 1)",
     "titleZh": "电工电子基础·前半",
     "headings": [
      {
@@ -539,7 +539,7 @@ window.AMT_DATA = [
     "bookEn": "General",
     "bookZh": "通用",
     "num": "12b",
-    "titleEn": "Fundamentals of Electricity & Electronics (下)",
+    "titleEn": "Fundamentals of Electricity & Electronics (Part 2)",
     "titleZh": "电工电子基础·后半",
     "headings": [
      {
@@ -767,8 +767,8 @@ window.AMT_DATA = [
     "bookEn": "Airframe",
     "bookZh": "机体",
     "num": "03",
-    "titleEn": "Aircraft Fabric Covering（飞机蒙布（织物）覆盖）",
-    "titleZh": "",
+    "titleEn": "Aircraft Fabric Covering",
+    "titleZh": "飞机蒙布（织物）覆盖",
     "headings": [
      {
       "id": "1-一句话",
@@ -811,7 +811,7 @@ window.AMT_DATA = [
     "bookEn": "Airframe",
     "bookZh": "机体",
     "num": "04a",
-    "titleEn": "Aircraft Metal Structural Repair (上)",
+    "titleEn": "Aircraft Metal Structural Repair (Part 1)",
     "titleZh": "金属结构修理·前半",
     "headings": [
      {
@@ -855,7 +855,7 @@ window.AMT_DATA = [
     "bookEn": "Airframe",
     "bookZh": "机体",
     "num": "04b",
-    "titleEn": "Aircraft Metal Structural Repair (下)",
+    "titleEn": "Aircraft Metal Structural Repair (Part 2)",
     "titleZh": "金属结构修理·后半",
     "headings": [
      {
