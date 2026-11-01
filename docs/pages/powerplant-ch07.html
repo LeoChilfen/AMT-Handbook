@@ -1,0 +1,259 @@
+<h1 id="ch-07-propellers-螺旋桨">Ch 07 · Propellers（螺旋桨）</h1>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>螺旋桨把发动机的制动马力转换成推力；本章从桨叶几何与受力讲到定距/变距/恒速/顺桨/反桨、调速器工作原理、材料与检查、平衡与振动排查。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ul><li>螺旋桨本质是"旋转的机翼"，靠桨叶剖面的迎角（AOA）和翼型产生推力；推力功率与制动马力之比即螺旋桨效率 η，书中给出 50%～87%。</li><li>桨距（pitch）不等于桨叶角（blade angle），但两者通常同增同减；几何桨距减有效桨距等于滑距（slip），几何桨距按 75% 站位桨叶角用公式算出。</li><li>旋转中的桨叶同时受离心力（最主导）、扭矩弯曲力、推力弯曲力、气动扭转力（趋于高桨叶角）和离心扭转力（趋于低桨叶角）作用，后两者正是变距桨改变桨叶角的动力来源。</li><li>恒速桨靠调速器（governor）感受转速：超速时节流减少活塞油量、飞重把桨叶推向高距；欠速时向活塞供油、把桨叶推向低距；调速弹簧张力由座舱桨距杆设定，从而设定转速。</li><li>顺桨（feathering）把桨叶角转到约 90° 以把阻力降到最小，桨叶靠气动力保持顺桨位；反桨（reverse）把桨叶角转到负值产生反向推力，用于着陆减速并减少刹车磨损。</li><li>桨叶材料分木质、金属（锻铝/铝合金、钢）和复合材料；木质为多层胶合加金属包边，金属怕刻痕引起的应力集中疲劳，复合材料靠敲击法（coin tap）查脱粘与分层。</li><li>振动与轨迹（tracking）是本章维修主线：全转速范围振动多为桨的问题，只在某一转速段振动多为发动机-螺旋桨匹配问题；轨迹公差由厂家规定，书中示例各桨尖相互差不超过 1/16 英寸。</li><li>结冰用 fluid anti-icing（异丙醇/磷酸酯经甩油环和 feed shoe 供液）或电加热 deicing（滑环-电刷送电、定时器循环通电），除冰必须各桨叶均衡，防止回冻（runback）。</li></ul>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">blade angle</td>
+<td style="text-align:left">桨叶角</td>
+<td style="text-align:left">桨叶弦线与旋转平面之间的夹角，通常以度计</td>
+</tr>
+<tr>
+<td style="text-align:left">pitch (propeller pitch)</td>
+<td style="text-align:left">桨距</td>
+<td style="text-align:left">螺旋桨转一转理论上前进的距离，常用英寸表示</td>
+</tr>
+<tr>
+<td style="text-align:left">geometric pitch (GP)</td>
+<td style="text-align:left">几何桨距</td>
+<td style="text-align:left">无滑距时一转应前进的距离，按 75% 站位桨叶角计算</td>
+</tr>
+<tr>
+<td style="text-align:left">effective pitch</td>
+<td style="text-align:left">有效桨距</td>
+<td style="text-align:left">考虑滑距后一转实际前进的距离</td>
+</tr>
+<tr>
+<td style="text-align:left">slip</td>
+<td style="text-align:left">滑距</td>
+<td style="text-align:left">几何桨距减有效桨距之差</td>
+</tr>
+<tr>
+<td style="text-align:left">chord line</td>
+<td style="text-align:left">弦线</td>
+<td style="text-align:left">从前缘到后缘的假想直线，桨叶因正面平坦常沿桨叶正面画出</td>
+</tr>
+<tr>
+<td style="text-align:left">mean camber line</td>
+<td style="text-align:left">中弧线</td>
+<td style="text-align:left">上下弧面之间的中线，与弦线一起描述剖面弯度</td>
+</tr>
+<tr>
+<td style="text-align:left">camber</td>
+<td style="text-align:left">弯度</td>
+<td style="text-align:left">剖面弧面的拱起程度，分上弧面与下弧面弯度</td>
+</tr>
+<tr>
+<td style="text-align:left">twist / pitch distribution</td>
+<td style="text-align:left">扭转 / 桨距分布</td>
+<td style="text-align:left">因各剖面线速度不同，桨叶从桨根到桨尖的桨距沿展向变化</td>
+</tr>
+<tr>
+<td style="text-align:left">blade back</td>
+<td style="text-align:left">桨叶背面</td>
+<td style="text-align:left">拱起（带弯度）的一面，相当于机翼上表面</td>
+</tr>
+<tr>
+<td style="text-align:left">blade face</td>
+<td style="text-align:left">桨叶正面</td>
+<td style="text-align:left">桨叶平坦的一面</td>
+</tr>
+<tr>
+<td style="text-align:left">leading edge / trailing edge</td>
+<td style="text-align:left">前缘 / 后缘</td>
+<td style="text-align:left">旋转时先接触空气的厚边 / 后缘</td>
+</tr>
+<tr>
+<td style="text-align:left">blade shank</td>
+<td style="text-align:left">桨叶加厚段（根部颈）</td>
+<td style="text-align:left">靠桨毂的厚而圆的部分，用于给桨叶提供强度</td>
+</tr>
+<tr>
+<td style="text-align:left">blade butt (base, root)</td>
+<td style="text-align:left">桨根</td>
+<td style="text-align:left">装入桨毂的一端</td>
+</tr>
+<tr>
+<td style="text-align:left">blade tip</td>
+<td style="text-align:left">桨尖</td>
+<td style="text-align:left">离桨毂最远端，一般定义为桨叶最后 6 英寸</td>
+</tr>
+<tr>
+<td style="text-align:left">station</td>
+<td style="text-align:left">站位</td>
+<td style="text-align:left">以距桨毂中心的英寸数定位桨叶剖面</td>
+</tr>
+<tr>
+<td style="text-align:left">hub</td>
+<td style="text-align:left">桨毂</td>
+<td style="text-align:left">安装并夹持桨叶、传递扭矩与拉力的中心件</td>
+</tr>
+<tr>
+<td style="text-align:left">fixed-pitch propeller</td>
+<td style="text-align:left">定距螺旋桨</td>
+<td style="text-align:left">桨叶角在制造时即确定，飞行中不可变</td>
+</tr>
+<tr>
+<td style="text-align:left">ground-adjustable propeller</td>
+<td style="text-align:left">地面可调距螺旋桨</td>
+<td style="text-align:left">仅在停转时松开夹紧装置才能改桨距</td>
+</tr>
+<tr>
+<td style="text-align:left">controllable-pitch propeller</td>
+<td style="text-align:left">可调距螺旋桨</td>
+<td style="text-align:left">旋转中可变距，但由飞行员直接选定桨叶角</td>
+</tr>
+<tr>
+<td style="text-align:left">constant-speed propeller</td>
+<td style="text-align:left">恒速螺旋桨</td>
+<td style="text-align:left">由调速器自动改变桨叶角以保持设定转速</td>
+</tr>
+<tr>
+<td style="text-align:left">feathering</td>
+<td style="text-align:left">顺桨</td>
+<td style="text-align:left">桨叶角转到约 90° 与气流平行，把阻力降到最小</td>
+</tr>
+<tr>
+<td style="text-align:left">reverse pitch</td>
+<td style="text-align:left">反桨</td>
+<td style="text-align:left">桨叶角转为负值，产生与前进方向相反的推力</td>
+</tr>
+<tr>
+<td style="text-align:left">governor</td>
+<td style="text-align:left">调速器</td>
+<td style="text-align:left">感受转速并计量高压滑油进出桨毂活塞的装置</td>
+</tr>
+<tr>
+<td style="text-align:left">speeder spring</td>
+<td style="text-align:left">调速弹簧</td>
+<td style="text-align:left">与飞重离心力对抗，其张力决定设定转速</td>
+</tr>
+<tr>
+<td style="text-align:left">flyweight</td>
+<td style="text-align:left">飞重</td>
+<td style="text-align:left">随转速外张的配重，把转速信号变成位移</td>
+</tr>
+<tr>
+<td style="text-align:left">pilot valve</td>
+<td style="text-align:left">分油活门（先导活门）</td>
+<td style="text-align:left">由飞重或调速弹簧推动，控制计量孔口的油流方向</td>
+</tr>
+<tr>
+<td style="text-align:left">servo piston / dome</td>
+<td style="text-align:left">伺服活塞 / 桨毂罩</td>
+<td style="text-align:left">受油压推动，经凸轮或连杆把直线运动变为桨叶转角</td>
+</tr>
+<tr>
+<td style="text-align:left">beta range</td>
+<td style="text-align:left">beta 范围</td>
+<td style="text-align:left">地面操作范围，桨叶角由功率杆而非调速器控制</td>
+</tr>
+<tr>
+<td style="text-align:left">alpha range</td>
+<td style="text-align:left">alpha 范围</td>
+<td style="text-align:left">飞行范围，桨叶角由调速器按预定调度控制</td>
+</tr>
+<tr>
+<td style="text-align:left">primary blade angle (PBA)</td>
+<td style="text-align:left">主（最小）桨叶角</td>
+<td style="text-align:left">飞行所允许的最小桨叶角，beta 模式的起点</td>
+</tr>
+<tr>
+<td style="text-align:left">NTS (negative torque sensing)</td>
+<td style="text-align:left">负扭矩传感</td>
+<td style="text-align:left">螺旋桨反拖发动机时推动顺桨活门使桨叶顺桨</td>
+</tr>
+<tr>
+<td style="text-align:left">autofeather</td>
+<td style="text-align:left">自动顺桨</td>
+<td style="text-align:left">起飞等阶段失去功率时自动顺桨的系统</td>
+</tr>
+<tr>
+<td style="text-align:left">synchrophasing</td>
+<td style="text-align:left">同步相位</td>
+<td style="text-align:left">保持主桨与从桨之间预定的桨叶相位角关系</td>
+</tr>
+<tr>
+<td style="text-align:left">tracking</td>
+<td style="text-align:left">轨迹检查</td>
+<td style="text-align:left">比较各桨尖是否在同一旋转平面内通过同一点</td>
+</tr>
+<tr>
+<td style="text-align:left">static / dynamic balance</td>
+<td style="text-align:left">静平衡 / 动平衡</td>
+<td style="text-align:left">重心是否落在转轴上 / 各桨叶重心是否在同一旋转平面</td>
+</tr>
+<tr>
+<td style="text-align:left">runback</td>
+<td style="text-align:left">回冻（回流水结冰）</td>
+<td style="text-align:left">加热过多而不足以蒸发时，水沿未加热面后流再结冰</td>
+</tr>
+<tr>
+<td style="text-align:left">deice boot</td>
+<td style="text-align:left">除冰套</td>
+<td style="text-align:left">贴在前缘、内含加热元件的胶套</td>
+</tr>
+<tr>
+<td style="text-align:left">slinger ring</td>
+<td style="text-align:left">甩油环</td>
+<td style="text-align:left">装在桨毂后部、靠离心力把防冰液分到各桨叶的环槽</td>
+</tr>
+<tr>
+<td style="text-align:left">LPI / MPI</td>
+<td style="text-align:left">液体渗透 / 磁粉探伤</td>
+<td style="text-align:left">非铁件查表面裂纹 / 钢件靠磁化吸附荧光粉查裂纹</td>
+</tr>
+<tr>
+<td style="text-align:left">CSU (constant speed unit)</td>
+<td style="text-align:left">恒速装置</td>
+<td style="text-align:left">PT6 系统中与调速器合一的恒速控制部件</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<ul><li>公式：<code>Work = Thrust × Distance</code>；<code>Power = Thrust × Velocity</code>。</li><li>螺旋桨效率 η = 推力马力 / 制动马力，书中范围 <strong>50%～87%</strong>（取决于滑距大小）。</li><li>公式：<code>Geometric pitch − Effective pitch = slip</code>。</li><li>公式：<code>GP = 2 × π × R × tangent of blade angle at 75 percent station</code>，其中 π = 3.14，R = 75% 桨叶站位处的半径；几何桨距以 pitch inches 表示。</li><li>桨叶最有效迎角为小的正值，<strong>2°～4°</strong> 正迎角。</li><li>推力约占螺旋桨吸收扭矩（总马力）的 <strong>80%</strong>，其余 <strong>20%</strong> 损失于摩擦与滑距。</li><li>螺旋桨驱动飞机速度受限制，约 <strong>400 mph</strong>；桨尖速度过高会降低效率并引起颤振与振动。</li><li>桨尖定义为桨叶最后 <strong>6 英寸</strong>；图 7-6 以 <strong>6 英寸</strong> 为一段划分桨叶站位（12、18、42 英寸站位示例）。</li><li>图 7-3 标注的桨叶角位置值：reverse −2°～−8°；locks 1°～2°；flight idle 10°～12°；ground idle 0°；power 20°～35°；feather 85°～90°。</li><li>顺桨位桨叶角约 <strong>90°</strong>。</li><li>液压变距所需滑油压力约 <strong>300 psi</strong>（由调速器自带泵增压）；图 7-16 中调速器安全活门设定 <strong>275 psi</strong>。</li><li>调速器调速弹簧的调速范围约 <strong>200 rpm</strong>，超出即无法保持正确转速。</li><li>顺桨所需时间通常 <strong>3～10 秒</strong>；油道越大、弹簧越重则顺桨越快。</li><li>高距止动锁（feathering latch / high-pitch stop）在转速 <strong>600～800 rpm</strong> 以上时被离心力脱开。</li><li>Hartzell 桨叶离心力可达 <strong>25 吨</strong>，经桨叶夹、球轴承传到桨毂 spider。</li><li>发动机运转后离心力把桨叶紧压在轴承上，约 <strong>30,000～40,000 磅</strong>；故 blade shake 不是振动源。</li><li>轨迹（tracking）公差：各桨尖相互差不超过 <strong>1/16 英寸（±）</strong>（图 7-34 标 ±1/16"）。</li><li>判断振动源：在 <strong>1,200～1,500 rpm</strong> 范围内观察桨毂/整流罩是否在水平面内旋转。</li><li>只在某一转速段振动（书中例 <strong>2200～2350 rpm</strong>）通常属发动机-螺旋桨匹配不良，而非螺旋桨本身故障。</li><li>转速表准确性：<strong>每 100 小时或年度检查，以先到者为准</strong>校验；Hartzell 要求转速表准确度在 <strong>±10 rpm</strong> 以内。</li><li>电除冰定时器：每个加热段通电 <strong>15～30 秒</strong>，完整循环 <strong>2 分钟</strong>。</li><li>动平衡（spin balance）：迎风、风速最大 <strong>20 节</strong>，低巡航转速运转；推荐 <strong>12 个</strong> 等分位置装平衡配重；配重螺钉用航空级 <strong>10-32 或 AN-3</strong> 螺栓，自锁螺母处露出 <strong>最少 1 牙、最多 4 牙</strong>；Hartzell 推荐动平衡读数 <strong>0.2 ips 或更小</strong>。</li><li>润滑间隔：不超过 <strong>100 小时或 12 个日历月</strong>，以先到者为准；年飞行明显不足 100 小时或存放于高湿、盐雾等恶劣环境时，日历间隔缩短为 <strong>6 个月</strong>；新桨或刚翻修桨在运行 <strong>1～2 小时</strong> 后补润滑。</li><li>每次加注润滑脂 <strong>1 液体盎司（30 ml）</strong>，用手动脂枪约 <strong>6 下</strong>。</li><li>木质桨：由 <strong>5～9 层</strong>、每层约 <strong>3/4 英寸</strong> 厚的硬木胶合；粗坯需干燥约 <strong>1 周</strong> 使含水率均衡；最外 <strong>12 或 15 英寸</strong> 桨叶蒙布。</li><li>木桨桨毂 flange plate 孔内有 <strong>15°（后端）与 30°（前端）</strong> 锥座，用于在桨轴上定心。</li><li>法兰式安装：<strong>6 个</strong> 螺柱分布在 <strong>4 英寸</strong> 圆周上，其中 <strong>2 个</strong> 兼作定位销传扭。</li><li>通用桨叶角量角器：游标 <strong>10 格 = 刻度盘 9 格</strong>，游标每格代表 <strong>0.1°</strong>。</li><li>翻修中桨距修正精度可达 <strong>小于 0.1°</strong>；翻修工具含 <strong>15 英尺</strong> 扭矩加长杆与 <strong>100 吨</strong> 压床。</li><li>PT6 类小涡桨功率 <strong>500～2,000 shp</strong>；P&amp;W 150、AE2100 等可达 <strong>5,000 shp</strong>。</li><li>PT6 反桨时螺旋桨转速比选定转速低 <strong>5%</strong>（约在 <strong>95%</strong> 转速时复位杆接触调速弹簧杯，而不是 100%）；Py 放气限制使桨/动力涡轮不超过 <strong>106% rpm</strong>。</li><li>超速调速器（oil overspeed governor）在超过最大螺旋桨转速 <strong>4%</strong> 时动作，放掉伺服油使桨叶角增大。</li><li>反桨状态下 beta 随动低距止动比飞行低距止动低约 <strong>2°</strong>，作为第二道低距止动。</li><li>顺桨/回桨（unfeathering）时，转速升到约 <strong>1,000 rpm</strong> 后关闭顺桨泵电机。</li><li>PT6A-67B 系统图中标注滑油压力 <strong>180–210 psi</strong> 与 <strong>1,100 psi</strong> 两处压力值。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<ul><li><strong>基本几何（Figure 7-1、7-2、7-6、7-7）</strong></li><li>桨尖 blade tip（最后 6 英寸）、桨毂 hub、桨叶背面 blade back、桨叶正面 blade face、前缘/后缘、弦线 chord line。</li><li>桨叶分段：以距桨毂中心英寸数标定的 station；剖面即微型翼型，弦长等于该处桨叶宽度。</li><li>桨叶 = 不规则平面形状的扭转翼型（twisted airfoil of irregular planform）；扭转即桨距分布。</li><li><strong>旋转中作用在桨叶上的力（Figure 7-8）</strong></li><li>离心力 centrifugal force：把桨叶往外甩，最主导，桨叶重量因此关键。</li><li>扭矩弯曲力 torque bending：空气阻力使桨叶向旋转反方向弯曲。</li><li>推力弯曲力 thrust bending：推力使桨叶向前弯曲。</li><li>气动扭转力 aerodynamic twisting：趋向增大桨叶角（高距）。</li><li>离心扭转力 centrifugal twisting：大于气动扭转力，趋向减小桨叶角（低距）。</li><li>变距桨正是利用后两个力作为主/次动力：离心扭转力推向低距，气动扭转力推向高距。</li><li><strong>螺旋桨分类</strong></li><li>定距 fixed-pitch：整体式，多为木或铝合金，仅在某一转速与飞行速度组合下效率最佳，用于低功率/低速度/低高度轻机，无操纵输入。</li><li>试验桨 test club：多叶、为磨合与试车提供正确载荷并增加冷却气流。</li><li>地面可调距 ground-adjustable：松开夹紧装置改桨距，飞行中不可变，现已少用。</li><li>可调距 controllable-pitch：旋转中可变距，可为两位式（如 Hamilton Standard 飞重两位桨）或任意角，但须飞行员直接改变。</li><li>恒速 constant-speed：由调速器自动改变桨叶角，保持转速恒定。</li><li>顺桨 feathering：多发改动机飞机必备，桨叶角约 90°。</li><li>反桨 reverse-pitch：多为涡桨采用，几乎都是顺桨式，可到负桨叶角。</li><li>按位置分：拉进式 tractor（驱动轴上游、支撑结构之前，气流扰动小、应力低）与推进式 pusher（驱动轴下游，易被砂石与水花打伤，故常装于机翼上方后方）。</li><li><strong>变距机构</strong></li><li>液压活塞-缸筒式：活塞在缸内动，或缸筒在固定活塞上动；直线运动经齿轮、连杆、拨叉转为桨根转角。</li><li>每片桨叶装在允许其转动变距的轴承上（Figure 7-13 桨毂内的桨叶轴承支承区）。</li><li>油压多取自发动机润滑系统，由调速器自带泵增压至约 300 psi。</li><li><strong>调速器（Figure 7-15、7-16）</strong></li><li>组成：由发动机驱动的齿轮泵、由飞重控制的分油活门（pilot valve）、调压/安全活门系统、调速弹簧 speeder spring、由座舱桨距杆带动的调整齿条/蜗杆。</li><li>作用：把发动机滑油增压，按分油活门相对计量孔口的位置，向桨毂活塞供油或从活塞放油，改变桨叶角从而稳住转速。</li><li>七种控制力：离心扭转力矩（→低距）、调速器油压作用于活塞（对抗桨叶飞重，→高距）、桨叶飞重（→高距）、作用于活塞的空气压力（→高距）、大弹簧（→高距及顺桨）、离心扭转力（→低距）、气动扭转力（→高距）；其中最强的是作用在活塞上的调速器油压。</li><li><strong>恒速桨典型构件（Figure 7-24、7-25）</strong></li><li>铝毂 compact：毂壳分两半、沿旋转平面螺栓连接，内部容纳变距机构与桨根，前部装液压缸，只能装法兰式发动机。</li><li>钢毂：中央 spider 支承铝桨叶，桨叶夹 blade clamp 经桨叶保持轴承连接桨根，液压缸装在旋转轴线上。</li><li>顺桨型另有顺桨弹簧、启动锁 latch、空气charge 腔、低距止动、配重、润滑嘴。</li><li><strong>涡桨系统（PT6 / Hartzell，Figure 7-47～7-54）</strong></li><li>主要分组件：barrel（桨筒）、dome（桨毂罩/伺服活塞）、低距止动组件、超速调速器、桨距控制组件、辅助泵、顺桨与回桨活门、扭矩马达、整流罩、除冰定时器、beta 反馈组件、螺旋桨电子控制；现代机用双通道 FADEC 同时控制发动机与螺旋桨。</li><li>控制分两段：alpha 范围（飞行，按预定调度自动）与 beta 范围（地面，桨叶角由功率杆控制，可到零推力/负推力）。</li><li>顺桨：把桨距杆拉到顺桨位，CSU 上的转速选择杆压下顺桨活门柱塞，伺服油泄入减速齿轮箱油池，顺桨弹簧与桨叶飞重把桨叶顺桨。</li><li><strong>Hydromatic（Figure 7-55～7-57）</strong></li><li>双作用（double-acting）调速器：活塞两侧都有油压，一侧为调速器增压油、另一侧为发动机滑油压力。</li><li>四大组件：毂组件（spider + barrel）、dome 组件（rotating cam、fixed cam、piston、dome shell）、distributor valve 组件或 engine-shaft-extension 组件、防冰组件。</li><li>特点：不用飞重，运动件全封闭；靠离心扭转力矩 + 发动机油压推向低距，调速器油压推向高距；优点是桨叶角范围大、可顺桨可反桨。</li><li><strong>辅助系统</strong></li><li>防冰（fluid anti-icing）：液箱→泵→发动机前机匣固定喷嘴→桨毂后部甩油环 slinger ring→离心力经喷嘴到各桨根→前缘 feed shoe 内平行槽道→桨尖方向并横向流到前缘；feed shoe 覆盖到约 75% 半径。</li><li>除冰（electric deicing）：电源→电刷块/滑环→桨毂→柔性连接→桨叶前缘除冰套内加热元件；定时器按顺序给各套或各段通电。</li><li>同步与同步相位：电子控制盒、DC 电源、两位置开关、各桨磁电式转速传感器、对"慢"发动机调速器上的 rpm trimming coil 发指令修正转速。</li><li>自动顺桨：两个扭矩开关感受低扭矩→电磁活门放掉桨毂油压→桨叶顺桨；配 test-off-arm 开关；NTS 装置在感受负扭矩时机械推动顺桨活门柱塞。</li><li><strong>涡桨传动</strong>：减速齿轮组件（多为行星齿轮减速）把发动机高转速降到不超桨尖音速的桨速，并提供调速器、滑油泵等附件传动；齿轮箱内常设螺旋桨刹车，防止空中顺桨后风车转动并缩短停车后停转时间。</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<ul><li><strong>检查周期与内容</strong>：具体间隔由螺旋桨厂家规定；每日例行检查为对桨叶、桨毂、操纵与附件做安全性、保险与一般状况的目视检查，且必须细致到能发现任何缺陷。<strong>25/50/100 小时</strong> 等较长间隔检查通常包括：桨叶/整流罩/外表面有无过量油污；桨叶与桨毂的焊接、钎焊部位有无失效迹象；桨叶、整流罩、桨毂有无刻痕、划伤等缺陷（必要时用放大镜）；整流罩或 dome 壳体固定螺钉是否紧固；润滑要求与油位（适用时）。</li><li><strong>事故/打地/突然停车</strong>：若螺旋桨涉及事故、可能内部损伤，或发生 ground strike、sudden stoppage，须按发动机与螺旋桨厂家维护手册拆解检查；凡从桨轴上拆下螺旋桨，都要检查毂锥座、锥体及其他接触面有无异常磨损、咬伤或腐蚀。</li><li><strong>持续适航文件</strong>：必须保持螺旋桨 AD（适航指令）与 SB（服务通告）最新；AD 是合法适航的强制要求，SB 也应执行；所有工作（含 AD、SB 执行情况）都要记入螺旋桨履历本 logbook。</li><li><strong>木桨检查</strong>：查裂纹、凹痕、翘曲、胶合失效、涂层分层，以及因安装螺栓松动而在桨叶与法兰之间出现的木材焦化；重点查金属包根（metal sleeve）附近向外延伸的裂纹（常起于 lag screw 螺纹端，可能指示内部开裂）；按厂家要求检查固定金属包根的 lag screw 紧固度；查金属包尖、前缘条及周边有无松动/滑移、钎焊接头分离、螺钉铆钉松动、断裂、裂纹、腐蚀；前缘条与包尖之间出现分离说明包尖在离心力下外移，常伴变色与铆钉松动；用手握住桨尖绕桨叶纵轴轻扭并前后轻弯查裂纹（裂纹多起于前缘）；确认排水（moisture）孔畅通；蒙布或塑料层上出现的细线可能表示木材裂纹；查后缘的胶接、分离或损伤。</li><li><strong>金属桨检查</strong>：钢桨叶可用目视、荧光渗透或磁粉检查；目视时在桨叶上涂滑油或防锈剂更易发现缺陷；用放大镜查整条前缘（尤其近桨尖）、整条后缘、桨根上的槽与台肩、所有凹坑与伤痕，判断是划伤还是裂纹。金属桨对应力集中敏感，尖锐刻痕、切口、划伤的底部易起疲劳裂纹，必须勤查快修。</li><li><strong>铝桨检查</strong>：任何尺寸的横向裂纹或缺陷即判废；铝合金可调距桨叶的桨根（root/hub end）不允许修理，必须保持在厂家极限内；前缘与正面出现多处深刻痕、凿伤即判废；怀疑裂纹时用着色渗透或荧光渗透确认；异常情况上报厂家。</li><li><strong>复合材料桨检查</strong>：目视查刻痕、凿伤、松散材料、侵蚀、裂纹与脱粘、雷击；用金属硬币敲击桨叶或 cuff（如装有）听声查分层与脱粘，声音变空、变闷即可能脱粘或分层；带 cuff 的桨叶在 cuff 区音调不同，须把 cuff 区、cuff 与桨叶过渡区、桨叶本体分开敲；更细致检查可用相控阵、超声等 NDT。</li><li><strong>维修资质</strong>：螺旋桨修理多限于小修；持证机械员不得做螺旋桨大修/大改，大修须由持证的螺旋桨修理站完成（翻修章节同此原则：小修小改可由修理站、A&amp;P 或在 A&amp;P 直接监督下的人员完成；大修/大改含可调距桨翻修须由相应等级的修理站、制造厂或航空承运人完成）。</li><li><strong>转速表检查</strong>：属螺旋桨检查的重要部分；转速表不准会导致转速受限运行与破坏性高应力、缩短桨叶寿命甚至灾难性失效；每 100 小时或年度检查（先到者为准）校验准确性，Hartzell 要求 ±10 rpm 内并有校准计划。</li><li><strong>轨迹检查（tracking）步骤</strong>：打轮挡固定飞机→每缸拆一个火花塞便于安全转动→把一片桨叶转至向下→在桨尖旁放实心物（如比桨尖离地距离高至少数英寸的重木块）或把指针/指示器固定在整流罩上→缓慢转动螺旋桨，看下一片桨叶是否通过同一点，各桨尖应在 <strong>1/16 英寸</strong> 内→超出轨迹的原因：一片或多片桨叶弯曲、桨法兰弯曲、安装螺栓扭矩过大或不足；轨迹不良会引起振动与机体/发动机应力，甚至过早失效。轨迹只反映桨叶相互位置，不反映真实轨迹。</li><li><strong>桨叶角检查与调整</strong>：按厂家资料取桨叶角设定值与检查站位；<strong>禁止用金属划针或尖头工具</strong>在桨叶上划站位或基准线（划痕成为应力集中源）；桨拆下时用台式量角器（bench-top protractor），装在机上或置于刀口平衡架上时用手持量角器（数字式更便）；通用桨叶量角器用法：桨叶转至水平、前缘朝上→角水准器与量角器面成直角→先对好度盘与游标零位再锁盘→松开 ring-to-frame 锁，转环使环与盘零位都在顶部→以桨毂螺母端面等已知在旋转平面内的面定"旋转平面"零点并锁环→把另一条前缘竖直边贴到规定站位桨叶面，转盘使中心水准器水平→两零位之间的度数与十分之一度即桨叶角；十分位在游标上读（由游标零位到与刻度线最对齐的游标线之间的格数）。调好后锁定，逐片重复。</li><li><strong>静平衡</strong>：刀口平衡架须置于无气流、尽量远离强振源的房间。步骤：桨毂轴孔装衬套→穿芯棒/心轴→把桨总成架在两刀口上并确保能自由转动。两叶桨先在桨叶竖直位、再在水平位检查，然后把原向下的桨叶转到向上重做竖直位检查；三叶桨逐片置于向下竖直位检查。检查前必须确认各桨叶角一致。合格标准（除厂家另有规定）：在所检查各位置均无转动趋势；必要时补查中间位置。需修正时只允许：总重低于允许限时在规定位置加固定配重；总重已达允许限时在规定位置去重；加减重的位置由厂家确定，方法与位置须对照图纸核查。</li><li><strong>动平衡</strong>：用分析仪套件做旋转平衡，可显著降低传到座舱的振动与噪声、减少对机体与发动机件的损害；只能改善外部旋转件质量不平衡引起的振动，机械状况不良（磨损、松动件）时无法平衡，也治不了气动不平衡。典型系统：靠近螺旋桨装在发动机上的振动传感器 + 计算配重重量与位置的分析仪；多数设备用光电拾取反光带读转速，用加速度计以 ips 读振动。程序：机头正迎风（风速≤20 节）、打轮挡→装设备→低巡航转速试车，分析仪算出各桨叶位置所需配重→装配重后再试车验证，可能反复数次。平衡前先目视检查桨总成：新桨或刚翻修桨首次试车后桨叶与整流罩内壁可能留有少量油脂，用 Stoddard 溶剂（或等效品）彻底清除；查各桨叶组件与整流罩内壁有无漏脂迹象，无漏脂则按维护手册润滑，有漏脂先定位并排除再润滑与动平衡；动平衡前记录所有配重的数量与位置。配重数量不得超过厂家限值；配重螺钉露出自锁螺母 1～4 牙；用反光带者平衡后立即撕除；把动平衡配重（以及重新配置过的静平衡配重）的数量与位置记入履历本。</li><li><strong>拆装要点</strong>：拆：按整流罩程序拆 dome，剪断并取下安装螺柱上的保险丝；用吊带托住桨总成，若为已动平衡的桨要重装，只能用毡头笔在桨毂与发动机法兰上做对应标记以保证原位复装；拧下 4 个安装螺栓、2 个安装螺母及相连螺柱（翻修间隔之间拆装时，螺柱、螺母、垫圈若无损伤或腐蚀可重用）；小心从安装法兰上取下以免伤螺柱；放上运输车。装：法兰桨为 4 英寸圆周上 6 个螺柱、其中 2 个兼作定位销传扭并定相位（定位销位置标在桨毂型号上）；用快干 Stoddard 溶剂或 MEK 清洁发动机法兰与桨法兰；在毂孔 O 形圈槽装 O 形圈（出厂通常已装）；用吊具把桨移到安装法兰，对准定位销与孔（只允许给定位置或转 180° 两个位置，查发动机/机体手册确认）；安装件必须清洁干燥以免法兰预载过大；均匀拧紧螺母以免伤毂；干装螺母与垫片，按规定扭矩拧紧，需要时在桨安装法兰后部成对保险螺柱。</li><li><strong>清洁与保养</strong>：铝、钢桨叶与桨毂用合适清洗溶剂加刷或布清洗；<strong>禁止用酸或碱性材料</strong>，避免动力抛光机、钢丝棉、钢丝刷等会划伤桨叶的工具；抛光的要在抛后立即清除所有抛光剂残留，清洁后涂一层干净滑油或等效品。木桨用温水加中性皂与刷/布；遭海水溅到后不论铝、钢、木都要尽快用淡水冲净盐迹，冲后彻底干燥并给金属件涂清洁滑油。除油脂用 Stoddard 溶剂或等效品蘸布擦净，再用非腐蚀性皂液洗、清水冲净、晾干。</li><li><strong>桨毂空气腔充压</strong>：确认螺旋桨在启动锁（start locks）位置、用正确操纵机构，然后用干燥空气或氮气给缸筒充压；充气活门在缸筒上（Figure 7-41）；<strong>优先用氮气</strong>；正确充气压力按温度-压力表查出后充入。</li><li><strong>润滑</strong>：Hydromatic 桨以发动机滑油工作、部分密封桨不需润滑；电动桨的毂与变距传动需油和脂。某些型号水会进到桨叶轴承组件，必须按厂家润滑计划执行以防腐蚀；多数缺陷不是外部的，而是看不见的内部腐蚀，异种金属接触更易腐蚀，只有拆解才能检查，严重腐蚀会显著降低桨叶或桨毂强度，甚至轻微腐蚀就会让桨叶或桨毂检查不合格（涉及掉桨叶的安全后果）。示例程序：从装在发动机侧毂半的缸筒侧毂半上拆下润滑嘴→在拉进式安装中向最靠近前缘的嘴、推进式安装中向最靠近后缘的嘴泵入 1 液量盎司（30 ml）脂，直到脂从拆下的孔溢出（以先发生者为准）→装回润滑嘴并拧至贴合，确认钢球就位，装回嘴盖；按厂家说明通过压注嘴（zerks）换脂。</li><li><strong>翻修</strong>：在规定的最大小时数或日历期限到达时（先到者为准）翻修。接收后建立全程跟踪文件、核查全部适用 AD、现行规范与厂家 SB；核对序号并在工单上记录接收时的一般状况；分解清洗时做初检，把需返工/更换的件按件号与原因记入翻修记录；分解时废弃所有螺纹紧固件并按厂家允许的少数例外换新；翻修需大量专用工具（15 英尺扭矩加长杆、100 吨压床到微小定位销对中器）；对易磨损件按厂家规范做尺寸检查；合格后铝件阳极氧化、钢件镀镉防腐蚀。桨毂：非铁毂除漆除阳极氧化层后用 LPI 查裂纹（刻蚀、冲洗、干燥、浸荧光渗透液、浸泡后冲洗吹干、涂显像剂、紫外灯下判读）；部分型号在高应力区做涡流检查（可发现表面下的缺陷）；钢件用 MPI（通电磁化、喷荧光氧化铁粉悬浮液、黑光下裂纹呈亮荧光线）。桨叶：先精确测量宽度、厚度、面alignment（面偏摆）、桨叶角与长度并记入各桨叶检查记录，与厂家最低可接受翻修规范比较；翻修包括表面磨削与必要时重新定距（repitching），偶需桨叶矫直（冷矫直限度由厂家规定）；用手工精磨去掉腐蚀、划伤与表面缺陷，磨完所有应力集中源后再测终值并记录；随后对桨叶做平衡与配对，阳极氧化并涂漆防腐蚀。</li><li><strong>总装与放行</strong>：核对件号与厂家规范，按各组件的翻修手册润滑与装配；总装后用空气压力在全桨叶角范围内循环，检查恒速桨高/低距角度是否正常、有无渗漏；再做静平衡，必要时在各"轻"桨根座处加配重（这些配重属基本毂组件，后续机上动平衡时不应移动）；除自锁件外所有硬件都要保险；最终检验员填写并签署维修放行标签，注明已完成工作、适用 AD 与所有执行的服务器材文件。</li><li><strong>故障排查</strong>：hunting 为转速围绕目标值周期性上下波动，surging 为一两次大幅升降后回到设定值；hunting 时应由持证修理机构查调速器、燃油控制器、同步相位器/同步器。转速随姿态（空速）变化：小幅波动正常；非顺桨桨下降或增速时转速升高可能是调速器未增加桨毂油量、发动机传动轴承泄漏过多、桨叶轴承或变距机构摩擦过大。顺桨失败或顺桨慢：查空气腔充压（按维护手册 air charge 节）、桨/调速器操纵连杆的功能与校装、调速器放油功能、桨的失调或内部腐蚀（多在桨叶轴承或变距机构）引起的过大摩擦（此步须在持证螺旋桨修理站做）。</li><li><strong>调速器设定</strong>：调速器上有可调止动限制发动机最高转速；到达起飞转速后桨叶离开低距止动，较大桨叶角增大发动机载荷从而保持规定最高转速。装机/装桨/装调速器后，地面试车把油门放到起飞位，记录转速与进气压力；若转速高于或低于厂家规定的起飞转速，调整调速器可调止动直到达标。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（螺旋桨）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> Blade angle is the angle between the chord line and the plane of _____, and it is usually given in degrees.</p>
+<p>A) rotate　　B) rotating　　C) rotational　　D) rotation</p>
+<p><strong>2.</strong> Metal blades are sensitive to stress concentration, so a sharp nick must be _____ out before the aircraft is returned to service.</p>
+<p>A) blended　　B) blend　　C) blending　　D) blendable</p>
+<p><strong>3.</strong> A propeller that overspeeds in one or two large swings and then settles back to the selected rpm is said to _____.</p>
+<p>A) hunt　　B) surge　　C) feather　　D) track</p>
+<p><strong>4.</strong> The deice timer switches each heating element _____ for 15 to 30 seconds and then moves on to the next element.</p>
+<p>A) off　　B) on　　C) up　　D) over</p>
+<p><strong>5.</strong> Of all the forces acting on a rotating blade, centrifugal force is the _____.</p>
+<p>A) dominant　　B) more dominant　　C) most dominant　　D) dominance</p>
+<p><strong>6.</strong> Composite blades are inspected by tapping them with a coin; a dull, hollow sound may indicate _____ or delamination.</p>
+<p>A) debonding　　B) bond　　C) bonding　　D) bonded</p>
+<p><strong>7.</strong> The governor sends oil to the servo piston _____ the engine speed tends to fall below the selected value.</p>
+<p>A) which　　B) when　　C) what　　D) whose</p>
+<p><strong>8.</strong> When a blade is feathered, it is turned to about 90 degrees so that it is almost _____ to the relative wind.</p>
+<p>A) perpendicular　　B) parallel　　C) paralleled　　D) perpendicularity</p>
+<p><strong>9.</strong> The tips of all blades must pass through the same point within 1/16 inch of one _____.</p>
+<p>A) another　　B) other　　C) others　　D) the other</p>
+<p><strong>10.</strong> A propeller is statically balanced on knife edges; a properly balanced assembly shows no _____ to rotate at any position checked.</p>
+<p>A) tend　　B) tending　　C) tendentious　　D) tendency</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. D</strong> —— 介词 <code>of</code> 后面必须接<strong>名词</strong>，<code>the plane of rotation</code>（旋转平面）是本章固定说法。A <code>rotate</code> 是动词；B <code>rotating</code> 是现在分词/形容词；C <code>rotational</code> 是形容词，不能直接作 of 的宾语。考点：<strong>词性判断</strong>。</p>
+<p><strong>2. A</strong> —— <code>must be _____ out</code> 是情态动词被动结构，需要<strong>过去分词</strong> <code>blended</code>，<code>blend out a nick</code>（打磨掉刻痕）是消除应力集中的标准做法。B 原形、C 现在分词都不能构成被动；D <code>blendable</code> 是形容词（可混合的），词义与语法都不对。考点：<strong>被动语态 + 词性</strong>。</p>
+<p><strong>3. B</strong> —— <code>surge</code> 指转速出现一两次大幅升降后回到设定值，与问句描述完全吻合。A <code>hunt</code> 是围绕目标值<strong>持续</strong>周期性波动，不是「一两次大摆」；C <code>feather</code> 是顺桨、D <code>track</code> 是轨迹检查，都是维修动作而非转速故障。考点：<strong>近义术语辨析</strong>。</p>
+<p><strong>4. B</strong> —— <code>switch on</code>（通电、打开）是电除冰定时器的固定搭配，本章要求每段加热元件通电 15～30 秒。A <code>off</code> 意思相反；C <code>up</code>、D <code>over</code> 都不能与 switch 构成「通电」之义。考点：<strong>动词 + 小品词固定搭配</strong>。</p>
+<p><strong>5. C</strong> —— <code>of all the forces</code> 是三者以上的范围比较，必须用<strong>最高级</strong> <code>the most dominant</code>。A 原级缺少比较范围标记；B <code>more dominant</code> 只用于两者比较；D <code>dominance</code> 是名词，不能作表语。考点：<strong>形容词最高级</strong>。</p>
+<p><strong>6. A</strong> —— <code>indicate</code> 后接名词性成分，<code>debonding</code>（脱粘）是复合材料桨叶的典型缺陷名，与 delamination 并列。B <code>bond</code> 是「结合」本身、C <code>bonding</code> 是中性「粘接」，都不能表示缺陷；D <code>bonded</code> 是过去分词，不能直接作 indicate 的宾语。考点：<strong>动名词作名词 + 前缀辨义</strong>。</p>
+<p><strong>7. B</strong> —— 空格后是完整从句 <code>the engine speed tends to fall...</code>，需要<strong>时间状语从句连词</strong> <code>when</code>（当转速趋于下降时）。A <code>which</code>、D <code>whose</code> 引导定语从句且从句内必须缺成分；C <code>what</code> 不能引导状语从句。考点：<strong>状语从句连词 vs 关系词</strong>。</p>
+<p><strong>8. B</strong> —— 顺桨时桨叶角约 90°，桨叶几乎与相对气流<strong>平行</strong>，故填 <code>parallel</code>。A <code>perpendicular</code> 是「垂直」，恰好相反；C <code>paralleled</code> 是动词过去式；D <code>perpendicularity</code> 是名词，均不合。考点：<strong>近义/反义形容词辨析</strong>。</p>
+<p><strong>9. A</strong> —— <code>one another</code>（彼此）是固定的相互代词，<code>within 1/16 inch of one another</code> 意为「相互差不超过 1/16 英寸」，正是本章轨迹公差。B <code>one other</code>、C <code>one others</code>、D <code>one the other</code> 都不是英语固定搭配形式。考点：<strong>固定代词短语</strong>。</p>
+<p><strong>10. D</strong> —— <code>no</code> 后接<strong>名词</strong>，<code>show no tendency to rotate</code>（无转动趋势）是静平衡合格判据。A <code>tend</code> 是动词、B <code>tending</code> 是动名词/分词、C <code>tendentious</code> 是形容词且意为「有倾向性的（言论）」，都不能作 show 的宾语。考点：<strong>名词化 + 搭配 show no tendency</strong>。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ul><li><strong>pitch（桨距）vs blade angle（桨叶角）</strong>：桨距是"一转前进多少英寸"的距离量；桨叶角是"弦线与旋转平面夹多少度"的角度量。两者同向变化但物理量不同。</li><li><strong>可调距 controllable-pitch vs 恒速 constant-speed</strong>：可调距只表示飞行中能改桨叶角，改多少、何时改由飞行员直接给定，且改完就不再自动变化；恒速是由调速器按设定转速自动、连续地改桨叶角。</li><li><strong>顺桨 feathering vs 反桨 reverse</strong>：顺桨把桨叶角转到约 90° 使桨叶与飞行方向平行以减阻（多用于单发失效）；反桨把桨叶角转到负值以产生反向推力（多用于着陆减速），两者角度方向相反。</li><li><strong>静平衡 vs 动平衡</strong>：静平衡在刀口架上静态查重心是否落在转轴上（还能查气动不平衡以外的质量偏心）；动平衡在发动机运转中用传感器与配重把旋转件质量不平衡引起的振动降下来，且不能修正机械状况不良或纯气动不平衡。</li><li><strong>tracking（轨迹）vs balancing（平衡）</strong>：轨迹只比较各桨尖相互位置是否在同一旋转平面内通过同一点；平衡处理质量分布。轨迹合格并不等于平衡合格，反之亦然——书中排查顺序是先查轨迹、再查低距桨叶角，两者都正常才判为静/动不平衡。</li><li><strong>离心扭转力 vs 气动扭转力</strong>：两者方向相反。离心扭转力趋向低桨叶角（低距、高转速），气动扭转力趋向高桨叶角（高距、低转速）；前者大于后者，故失去调速器油压时螺旋桨趋于低距（顺桨型则靠顺桨弹簧与飞重趋于顺桨）。</li><li><strong>防冰 anti-icing vs 除冰 deicing</strong>：防冰是防止冰形成（液体喷洒，靠甩油环与 feed shoe 供液，受携带液量限制）；除冰是允许冰先形成再用周期性电加热把它除掉（滑环送电、定时器循环、注意 runback）。</li></ul>

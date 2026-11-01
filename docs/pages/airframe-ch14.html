@@ -1,0 +1,239 @@
+<h1 id="ch-14-aircraft-fuel-systems-飞机燃油系统">Ch 14 · Aircraft Fuel Systems（飞机燃油系统）</h1>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>讲飞机燃油从油箱到发动机的全链路：油品种类与特性、油箱、油泵、阀门、油管、滤、油量/流量/压力指示，以及污染控制、加油放油、渗漏修理与防火安全。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ul><li>燃油系统由 storage tanks、pumps、filters、valves、fuel lines、metering devices、monitoring devices 组成，按 14 CFR part 23/25/27/29/31 认证；part 33 管发动机，part 34 管涡轮机排气通风（EPA）。</li><li>燃油只有两大类且<strong>不得混用</strong>：往复机用 aviation gasoline（AVGAS），涡轮机用 jet fuel（煤油型）。加错油是最严重的污染，发现者必须让飞机停飞（ground the aircraft）。</li><li>油箱分 rigid removable、bladder（fuel cell）、integral（wet wing）三类；integral 用耐油双组分密封胶密封机体结构，容积最大、重量最轻，是结构的一部分。</li><li>喷气运输机燃油系统分 5 个子系统：storage、vent、distribution、feed、indicating；通气的核心是 surge tank + check valve，保证任意姿态、任意油量都能通气。</li><li>油泵按用途分：boost pump（离心式为主，箱内正压、防 vapor lock）、engine-driven pump（vane 式为主，constant displacement）、ejector pump（引射，保证泵进口有正压头）、wobble pump / hand primer（起动注油，已基本淘汰）。</li><li>阀门必须能随时<strong>确切判明阀位</strong>：手动阀靠 detents + 指示手柄 + 标牌，电动/电磁阀另有 annunciator lights；gate valve 因无需电源即可断油而专作 fire control valve。</li><li>燃油必须清洁、明亮（clean, bright）：水最常见、surfactant 让水与颗粒悬浮、微生物在油水界面生长并造成电解腐蚀；每日排放 strainer 与 sump 是最基本的防线。</li><li>静电与点火源是燃油作业的头号风险：所有部件必须 electrical bonding/grounding，加油必须在室外、先接搭接线再开油箱盖，灭火器用 CO2 或干粉，<strong>不得用水型灭火器</strong>。</li></ul>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">aviation gasoline (AVGAS)</td>
+<td style="text-align:left">航空汽油</td>
+<td style="text-align:left">往复机燃油，高挥发、低闪点，用颜色与辛烷值标识</td>
+</tr>
+<tr>
+<td style="text-align:left">jet fuel / kerosene</td>
+<td style="text-align:left">喷气燃油 / 煤油</td>
+<td style="text-align:left">涡轮机燃油，挥发性低、闪点高，无色或稻黄色</td>
+</tr>
+<tr>
+<td style="text-align:left">TEL (tetraethyl lead)</td>
+<td style="text-align:left">四乙基铅</td>
+<td style="text-align:left">提高汽油辛烷值的添加剂，100LL 每加仑含 2 mL</td>
+</tr>
+<tr>
+<td style="text-align:left">volatility</td>
+<td style="text-align:left">挥发性</td>
+<td style="text-align:left">燃油汽化倾向，过低起动困难、过高易 vapor lock 与爆震</td>
+</tr>
+<tr>
+<td style="text-align:left">vapor lock</td>
+<td style="text-align:left">气塞</td>
+<td style="text-align:left">燃油在油箱到化油器之间汽化形成气泡，中断供油</td>
+</tr>
+<tr>
+<td style="text-align:left">detonation</td>
+<td style="text-align:left">爆震</td>
+<td style="text-align:left">高压高温下混合气自燃，冲击波经活塞、连杆传到曲轴</td>
+</tr>
+<tr>
+<td style="text-align:left">integral tank / wet wing</td>
+<td style="text-align:left">整体油箱 / 湿翼</td>
+<td style="text-align:left">用密封胶把机翼或机身结构本身密封成油箱</td>
+</tr>
+<tr>
+<td style="text-align:left">bladder tank / fuel cell</td>
+<td style="text-align:left">软油箱 / 油囊</td>
+<td style="text-align:left">增强柔性材料制成，可卷起塞入结构舱再展开</td>
+</tr>
+<tr>
+<td style="text-align:left">rigid removable tank</td>
+<td style="text-align:left">刚性可拆油箱</td>
+<td style="text-align:left">铆接、焊接或锡焊的金属箱，用绑带固定在结构上</td>
+</tr>
+<tr>
+<td style="text-align:left">surge tank</td>
+<td style="text-align:left">溢流油箱</td>
+<td style="text-align:left">主翼油箱外侧的常空舱，接收溢流并作为通气空间</td>
+</tr>
+<tr>
+<td style="text-align:left">boost pump</td>
+<td style="text-align:left">增压泵</td>
+<td style="text-align:left">箱内电动泵，给发动机驱动泵正压供油并防气塞</td>
+</tr>
+<tr>
+<td style="text-align:left">ejector pump</td>
+<td style="text-align:left">引射泵</td>
+<td style="text-align:left">用 venturi 产生低压把邻舱燃油吸入泵舱，保证泵进口正压</td>
+</tr>
+<tr>
+<td style="text-align:left">wobble pump</td>
+<td style="text-align:left">手摇泵</td>
+<td style="text-align:left">双作用叶片泵，手柄往复泵油，用于起动注油</td>
+</tr>
+<tr>
+<td style="text-align:left">vane-type pump</td>
+<td style="text-align:left">叶片泵</td>
+<td style="text-align:left">往复机主泵，constant displacement，每转输出恒定容积</td>
+</tr>
+<tr>
+<td style="text-align:left">constant / variable displacement</td>
+<td style="text-align:left">定排量 / 变排量</td>
+<td style="text-align:left">前者每转油量固定，后者随转速或需求变化</td>
+</tr>
+<tr>
+<td style="text-align:left">selector valve</td>
+<td style="text-align:left">选择阀</td>
+<td style="text-align:left">兼具关断与选箱功能，轻机常只有这一个阀</td>
+</tr>
+<tr>
+<td style="text-align:left">cone (plug) valve</td>
+<td style="text-align:left">锥阀 / 旋塞阀</td>
+<td style="text-align:left">转动带钻孔通道的锥体对准某进口即导通</td>
+</tr>
+<tr>
+<td style="text-align:left">poppet valve</td>
+<td style="text-align:left">提动阀</td>
+<td style="text-align:left">凸轮把所选口的提动件顶离阀座，其余靠弹簧关闭</td>
+</tr>
+<tr>
+<td style="text-align:left">gate valve</td>
+<td style="text-align:left">闸阀</td>
+<td style="text-align:left">闸板滑入油路断流，内置 thermal relief bypass</td>
+</tr>
+<tr>
+<td style="text-align:left">solenoid valve</td>
+<td style="text-align:left">电磁阀</td>
+<td style="text-align:left">线圈驱动 poppet，开闭极快，带 locking stem 锁定</td>
+</tr>
+<tr>
+<td style="text-align:left">detent</td>
+<td style="text-align:left">定位槽</td>
+<td style="text-align:left">弹簧销落入的凹槽，使手动阀阀位可凭手感确认</td>
+</tr>
+<tr>
+<td style="text-align:left">annunciator light</td>
+<td style="text-align:left">信号牌灯</td>
+<td style="text-align:left">驾驶舱燃油面板上指示阀位、泵状态、低压的灯</td>
+</tr>
+<tr>
+<td style="text-align:left">crossfeed</td>
+<td style="text-align:left">交输供油</td>
+<td style="text-align:left">打开交输阀让任一油箱给任一发动机供油</td>
+</tr>
+<tr>
+<td style="text-align:left">fuel jettison / dump</td>
+<td style="text-align:left">抛油 / 放油（空中）</td>
+<td style="text-align:left">大型机经翼尖 dump chutes 安全排出燃油以减重</td>
+</tr>
+<tr>
+<td style="text-align:left">defueling</td>
+<td style="text-align:left">地面放油</td>
+<td style="text-align:left">经压力加油口或箱底 sump drain 把油排出</td>
+</tr>
+<tr>
+<td style="text-align:left">single point pressure refueling</td>
+<td style="text-align:left">单点压力加油</td>
+<td style="text-align:left">一个加油接头加满全机，靠 fueling valve 分配</td>
+</tr>
+<tr>
+<td style="text-align:left">gascolator</td>
+<td style="text-align:left">沉淀杯滤</td>
+<td style="text-align:left">带沉淀碗的主滤，油自下而上穿过滤芯，水聚碗底</td>
+</tr>
+<tr>
+<td style="text-align:left">strainer / filter</td>
+<td style="text-align:left">滤网 / 滤芯</td>
+<td style="text-align:left">前者粗网拦大块杂物不挡水，后者细网并能拦水</td>
+</tr>
+<tr>
+<td style="text-align:left">micronic filter</td>
+<td style="text-align:left">微米级滤</td>
+<td style="text-align:left">涡轮机用，可捕捉 10–25 microns 的极细颗粒</td>
+</tr>
+<tr>
+<td style="text-align:left">fuel cooled oil cooler (FCOC)</td>
+<td style="text-align:left">燃油冷却滑油散热器</td>
+<td style="text-align:left">同时加温燃油、冷却滑油，防滤芯结冰</td>
+</tr>
+<tr>
+<td style="text-align:left">capacitance-type system</td>
+<td style="text-align:left">电容式油量系统</td>
+<td style="text-align:left">探头电容随油面变化，桥式电路换算成磅</td>
+</tr>
+<tr>
+<td style="text-align:left">fuel totalizer</td>
+<td style="text-align:left">总油量计算器</td>
+<td style="text-align:left">把各箱油量相加，供机组与 FMC 做性能计算</td>
+</tr>
+<tr>
+<td style="text-align:left">drip stick / measuring stick</td>
+<td style="text-align:left">量油尺</td>
+<td style="text-align:left">机械式交叉检查油量，读数查表换算成磅或加仑</td>
+</tr>
+<tr>
+<td style="text-align:left">RTD</td>
+<td style="text-align:left">铂电阻温度元件</td>
+<td style="text-align:left">热扩散流量传感器用两只，一冷一热测质量流量</td>
+</tr>
+<tr>
+<td style="text-align:left">sloshing compound</td>
+<td style="text-align:left">摇荡密封胶</td>
+<td style="text-align:left">倒入箱内翻滚覆盖内表面，填补微小渗漏缝隙</td>
+</tr>
+<tr>
+<td style="text-align:left">combustible-gas indicator</td>
+<td style="text-align:left">可燃气体检测仪</td>
+<td style="text-align:left">进箱前确认蒸气已排净的仪器（测 LEL）</td>
+</tr>
+<tr>
+<td style="text-align:left">WBL (wing buttock line)</td>
+<td style="text-align:left">机翼站位线</td>
+<td style="text-align:left">图上标定整体油箱挡板阀与油泵位置的横向坐标</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<ul><li>油箱容量：至少 <strong>30 分钟</strong>最大连续功率/推力用油。</li><li>燃油密度（B777 容量图取值）：<strong>6.7 lb/US gal</strong>。</li><li>B777 可用油量（level attitude）：左主箱 9,560 gal / 64,000 lb；右主箱 9,560 gal / 64,000 lb；中央箱 26,100 gal / 174,900 lb；合计 <strong>45,200 gal / 302,900 lb</strong>。</li><li>AVGAS 蒸气压：<strong>5.5–7.0 psi @ 100 °F</strong>（最大 7 psi）；Jet A <strong>0.125 psi</strong>；Jet B <strong>2–3 psi</strong>。</li><li>闪点：Jet A / Jet A-1 <strong>110–150 °F</strong>。</li><li>冰点：Jet A <strong>–40 °F</strong>；Jet A-1 <strong>–52.6 °F</strong>；Jet B 约 <strong>–58 °F</strong>。</li><li>100LL 含 TEL <strong>2 mL/加仑</strong>。</li><li>涡轮机油水兼容性判据：燃油在 <strong>80 °F</strong> 被水饱和，每加仑加 <strong>0.75 cm³</strong> 游离水，再冷却到最严酷结冰条件仍能持续工作。</li><li>化油器结冰最常见环境温度 <strong>30–40 °F</strong>（潮湿天更高温亦可发生）。</li><li>喷气机高空燃油温度可达 <strong>–50 °F</strong>。</li><li>整体油箱挡板单向阀（737，图 14-32）：WBL 157.0 处 <strong>5 个</strong>、WBL 227.0 处 <strong>6 个</strong>、WBL 557.0 处 <strong>1 个</strong>；boost pumps 装在 WBL 157 内侧。</li><li>刚性油管支撑间隔（图 14-37，管外径→间距）：3/16 in→<strong>9 in</strong>、5/16 in→<strong>12 in</strong>、1/2 in→<strong>16 in</strong>、3/4 in→<strong>22 in</strong>、1 1/4 in→<strong>30 in</strong>、2 in→<strong>40 in</strong>；支撑管至少离穿孔边 <strong>1/4 in</strong>。</li><li>颗粒尺寸：<strong>1 micron = 1/1,000 mm</strong>；micronic filter 捕捉 <strong>10–25 microns</strong>；可更换 cellulose 滤芯拦 <strong>10–200 microns</strong> 并吸水。</li><li>燃油水含量判据：通用测试包 <strong>&gt;30 ppm</strong> 变色报警；涡轮燃油另有 <strong>15 ppm</strong> 测试；超过即视为不可接受、不适航。</li><li>金属箱检漏压力：<strong>1/2–3.5 psi</strong>，涂皂液看冒泡。</li><li>渗漏分级（30 分钟内收集燃油的表面面积直径）：stain <strong>&lt; 3/4 in</strong>；seep <strong>3/4–1 1/2 in</strong>；heavy seep <strong>1 1/2–4 in</strong>；running leak 会滴落并沿机体流远。</li><li>仪表量程示例：燃油压力表 <strong>0–30 psi</strong>；differential fuel pressure gauge <strong>0–7 diff. psi</strong>。</li><li>蒸馏塔馏分温度：C1–C4 气体 20 °C；C5–C9 石脑油 70 °C；C5–C10 汽油 120 °C；C10–C16 煤油 170 °C；其后 270 °C、600 °C，&gt;C70 为渣油；C14–C20 柴油、C20–C50 润滑油、C20–C70 燃料油。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<ul><li><strong>油箱</strong></li><li>rigid removable：3003 或 5052 铝合金、不锈钢；铆接 + 缝焊防漏；早期薄钢板镀 lead/tin 合金称 terneplate，折边 + 锡焊；机体结构完整性不依赖油箱，故不算 integral。</li><li>bladder（fuel cell）：增强柔性材料，安装开口可很小，卷起塞入再展开；必须贴结构固定、铺平无皱（底面有皱则杂质无法沉入 sump）。</li><li>integral（wet wing）：耐油双组分密封胶密封结构，容积最大、重量最轻；用翼肋与 box beam 兼作 baffles，加 baffle check valves 只许油向内侧/低处流，保证 sump 上方 boost pumps 任何姿态都有油。</li><li>附件：低处 sump + drain valve、finger screen、baffling、加油口 scupper、access panel（O-ring + 铝垫片用于 electrostatic bonding，clamp ring 压紧）。</li><li><strong>喷气运输机五大子系统</strong></li><li>storage：integral 主箱 + 可选 auxiliary tanks + surge tank（内装单向阀只许流回主箱）。</li><li>vent：vent tubing 把各箱连到 surge tank 通气空间或排出机外，配 check valves、float valves、多处通气口。</li><li>distribution：压力加油、放油（defueling）、转输（transfer）、抛油（jettison）。</li><li>feed：每箱通常 2 个 boost pumps → 每发一个 shutoff valve → manifold + crossfeed valves；有 boost pump bypass，全部增压泵不工作时发动机仍能运行。</li><li>indicating：油量、流量、压力、温度、阀位与警告灯。</li><li><strong>油泵</strong></li><li>离心式 boost pump：variable displacement，浸没箱内或箱底外装；外装式配 pump removal valve，可不排空油箱拆泵；出口 check valve 防回流，系统设 bypass valve。</li><li>ejector pump：把泵出口油经小管引回，venturi 造低压吸油，与 baffle check valve 一起维持泵进口正压头。</li><li>脉动式电动泵（plunger）：solenoid + 触点 + calibrated spring 往复，单作用，对出口压力敏感，diaphragm 阻尼脉动。</li><li>vane-type：constant displacement，偏心转子 + 叶片 + central floating spacer pin；可调 pressure relief 把多余油送回进口；compensated 型用 diaphragm 感受计量装置进气压力自动改泄放压力。</li><li>wobble pump（双作用叶片）与 hand primer（单作用柱塞）：起动注油用。</li><li><strong>阀门</strong></li><li>手动：cone/plug、poppet（部分用钢球）、gate。</li><li>gate valve 作 fire control valve（无需电源断油）、地面 defuel valve、boost pump isolation valve；内置 thermal relief bypass 泄放关闭段的热膨胀压力。</li><li>电动：可逆齿轮电机 + 密封 gate/blade，带 manual override lever。</li><li>电磁：poppet 型，开线圈通电 + locking stem 锁定开位，关线圈通电解锁后弹簧回座。</li><li><strong>滤与加温</strong>：finger screen → 主 strainer/gascolator（低点、带排放）→ 发动机驱动泵 → micronic filter（涡轮机 wafer/叠片）→ 计量装置；滤组件内含弹簧加载 bypass valve。加温器为 air-fuel heater（压气机引气）或 oil/fuel heater（FCOC），可手动或 thermostatic 自动。</li><li><strong>指示</strong>：sight glass / 浮子杆 / crank and pinion / magnetic coupling / 可变电阻 ratiometer / 电容式（探头并联 + reference capacitor + compensator unit + trimmer）/ fuel totalizer / drip stick。</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<ul><li><strong>日常</strong>：每日排放 strainer 与 sump，配合定期换滤与目视检查；加油后应等一段时间再检查 sump，让水与沉淀沉到排放点。</li><li><strong>污染判定</strong>：燃油应为 clean, bright；浑浊偏向箱底是水、偏向箱顶是空气；细颗粒表现为雾状（haze）或在燃油控制滑动面上留下深色虫胶状痕迹；滤中发现明显金属颗粒可能是上游部件失效。</li><li><strong>外来物</strong>：系统打开时管路立即封盖，加油口周围先清洁；换滤按间隔执行并检查滤中颗粒。</li><li><strong>泄漏</strong>：先目视找源（接头处最常见；汽油带出染料或留下无尘干净区，喷气燃油靠尘土沉入显现）；漏到蒸气可积聚区域必须飞行前修好；外部无点火危险的泄漏可推迟但须定位并监控。分级按 30 分钟内 3/4 in、1 1/2 in、4 in 的直径界线。</li><li><strong>接头与油管</strong>：<strong>禁止靠过度拧紧止漏</strong>——按规定扭矩仍漏则卸压、拆开目视检查、必要时换件；软管不得扭曲（用管外印字作 lay line）；油管与电线分开，无法分开时油管走在电线下方；刚性管用 bonded cushion clamp 按外径查表支撑，两固定点之间须有小弯吸收振动与温度胀缩；所有部件 electrical bonding 到结构。</li><li><strong>垫片/密封件</strong>：重装必须用<strong>新件</strong>，按件号选对，注意包装上的货架寿命；彻底清除旧垫片、清洁配合面，均匀拧紧螺栓防止挤伤。</li><li><strong>金属箱</strong>：焊接箱修理前必须彻底 purge 油气（steam cleaning、hot water purging、inert gas purging），焊后清除焊剂杂物；检漏加压仅 1/2–3.5 psi 并用准确减压器与压力表，装于机上的箱加压前须同样支撑。轻微渗漏可用批准的 sloshing compound 翻滚覆盖内壁，但须先向厂家确认对该机型是适航修理。铆接箱补片与接缝涂耐燃油化合物；锡焊箱补片须有规定搭接量并清除焊剂。</li><li><strong>软油箱</strong>：补片按厂家批准材料与方法，须有规定搭接量，<strong>穿透性损伤内外各加一块补片</strong>；有有限使用寿命，渗漏超出可接受限即更换；平时保持充油湿润，干存时涂清洁发动机油防干裂；装回须用正确紧固件牢固固定。</li><li><strong>整体油箱</strong>：access panel 渗漏常可靠转油、换密封胶与正确螺栓扭矩解决；接缝密封胶失效须转油或放空后进人，用<strong>非金属刮刀</strong>除旧胶、残留用 aluminum wool，清洁后按厂家涂新胶，遵守固化时间与泄漏检查。</li><li><strong>进箱作业</strong>：按图 14-92 检查单逐项完成并签字——接地、封锁设牌、boost pump 断电拔 CB、电瓶断开与外电挂牌、无线电雷达关闭、只用防爆设备与工具、OSH class 110 以上呼吸器与连体服棉帽脚套护目、受训 attendant 与受限空间记录、aerator 清洁、海绵、带 streamer 的堵头、机械通风（<strong>开箱期间通风必须始终运行</strong>，失效或有头晕刺激异味立即停工撤出）、持证进箱人员与观察员、通知消防部门，并记录氧气百分比、燃油蒸气 ppm、LEL 读数。</li><li><strong>防火</strong>：燃烧三要素为蒸气、空气、点火源；空油箱残留蒸气风险极高，修理前必须 purge；灭火器用 CO2（对准火焰基部扫射）或适用燃油的干粉，<strong>严禁水型灭火器</strong>。</li><li><strong>加油/放油</strong>：只在室外；油车停机位置要能迅速驶离；先接静电搭接线再开油箱盖；加油枪不得插到底压凹蒙皮、不得离手留置、不得拖拽掉落；油车移动前排放各 sump 并目视检查，刚加过油或被颠簸的涡轮燃油应静置数小时；放出的污染油单独容器存放，绝不与好油或其它牌号混合，放出的好油按厂家规定决定能否再用。</li><li><strong>加错油</strong>：未开泵未起动的，放空、用正确燃油冲洗油箱与油管；已起动或试图起动的，全系统放空冲洗、做压缩试验、对燃烧室与活塞做 borescope 检查、放掉滑油并检查所有滤网滤芯，重新组装加正确燃油后放行前须做完整 run-up。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（飞机燃油系统）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> Any aircraft found to contain the wrong grade of fuel must be _____ until the system has been drained and flushed.</p>
+<p>A) grounded　　B) grounding　　C) ground　　D) grounds</p>
+<p><strong>2.</strong> In turbine fuel systems, the element that traps particles between 10 and 25 microns is called a _____ filter.</p>
+<p>A) micron　　B) micrometer　　C) micronic　　D) micronize</p>
+<p><strong>3.</strong> Within 30 minutes, a leak that wets an area less than 3/4 inch across is classified as a _____.</p>
+<p>A) running leak　　B) stain　　C) heavy seep　　D) seep</p>
+<p><strong>4.</strong> During refueling, the bonding cable must be connected _____ the filler cap is opened.</p>
+<p>A) after　　B) while　　C) since　　D) before</p>
+<p><strong>5.</strong> Static electricity can build up as fuel flows through the lines, so every component must be bonded _____ the aircraft structure.</p>
+<p>A) to　　B) with　　C) on　　D) at</p>
+<p><strong>6.</strong> An integral tank is made by applying a fuel-resistant two-part _____ to the joints of the structure.</p>
+<p>A) seal　　B) sealing　　C) sealant　　D) sealed</p>
+<p><strong>7.</strong> Fuel discharged overboard in flight to reduce the landing weight is said to be _____.</p>
+<p>A) defueling　　B) jettison　　C) draining　　D) purging</p>
+<p><strong>8.</strong> _____ with aviation gasoline, jet fuel has a much higher flash point and a lower volatility.</p>
+<p>A) Compare　　B) Comparing　　C) To compare　　D) Compared</p>
+<p><strong>9.</strong> The probe of a capacitance-type quantity system acts as a capacitor whose _____ changes as fuel surrounds it.</p>
+<p>A) capacitive　　B) capacitively　　C) capacitance　　D) capacitate</p>
+<p><strong>10.</strong> Water and sediment should be allowed to _____ out at the lowest point of the tank before the sump is drained.</p>
+<p>A) set　　B) settle　　C) sit　　D) seat</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. A</strong> —— <code>must be _____</code> 是被动结构，且 <code>ground</code> 在此是动词「使停飞」，故用过去分词 <code>grounded</code>。B 现在分词、C 原形、D 第三人称单数都不能构成被动。考点：<strong>情态动词 + be + 过去分词</strong>。</p>
+<p><strong>2. C</strong> —— 修饰 <code>filter</code> 需要形容词，<code>micronic filter</code>（微米级滤）是本章固定术语。A <code>micron</code> 是名词、B <code>micrometer</code> 是量具名（千分尺）、D <code>micronize</code> 是动词，都不能直接作定语。考点：<strong>同词族形容词作定语</strong>。</p>
+<p><strong>3. B</strong> —— 按本章四级分类，30 分钟内浸润面积小于 3/4 英寸的是最轻的 <code>stain</code>（渗痕）。A <code>running leak</code> 会滴落并沿机体流淌、C <code>heavy seep</code> 对应 1 1/2–4 英寸、D <code>seep</code> 对应 3/4–1 1/2 英寸，量级都偏大。考点：<strong>渗漏等级术语的精确辨析</strong>。</p>
+<p><strong>4. D</strong> —— 静电搭接线必须<strong>先接好再开油箱盖</strong>，否则开盖瞬间可能放电点燃蒸气，故用 <code>before</code>。A <code>after</code> 顺序颠倒（本章明令禁止）、B <code>while</code> 只表同时、C <code>since</code> 表原因或「自从」，都不表达先后。考点：<strong>时间连词与作业程序的一致性</strong>。</p>
+<p><strong>5. A</strong> —— <code>be bonded to</code> 是「搭接到……上」的固定搭配，<code>to</code> 引出接地对象（机体结构）。B <code>with</code>、C <code>on</code>、D <code>at</code> 都不是 bonding 的标准介词搭配。考点：<strong>动词 + 介词固定搭配</strong>。</p>
+<p><strong>6. C</strong> —— 空格前有 <code>a ... two-part</code>，需要可数名词，<code>sealant</code>（密封胶）是材料名词。A <code>seal</code> 指密封件/封印、B <code>sealing</code> 是动名词（表动作）、D <code>sealed</code> 是过去分词，都不能被 <code>two-part</code> 修饰指材料。考点：<strong>同词族名词的词义甄别</strong>。</p>
+<p><strong>7. B</strong> —— 空中放油减重的专用词是 <code>jettison</code>（dump）。A <code>defueling</code> 是地面放油、C <code>draining</code> 是排放、D <code>purging</code> 是吹洗油气，三者都发生在维护场景而非飞行中。考点：<strong>近义术语的场景辨析</strong>。</p>
+<p><strong>8. D</strong> —— <code>compared with ...</code> 是过去分词短语作状语，逻辑主语是 jet fuel（被拿来与汽油比较），构成 <code>Compared with A, B ...</code> 的标准句式。A 原形、B 现在分词（会变成「jet fuel 主动去比较」）、C 不定式表目的，都不合。考点：<strong>分词状语与逻辑主语</strong>。</p>
+<p><strong>9. C</strong> —— 定语从句 <code>whose _____ changes</code> 中 <code>whose</code> 后必须接名词，<code>capacitance</code>（电容）正是名词。A <code>capacitive</code> 是形容词、B 是副词、D <code>capacitate</code> 是动词，都不能作从句主语。考点：<strong>同词族的名词/形容词/副词</strong>。</p>
+<p><strong>10. B</strong> —— <code>settle out</code> 是「（杂质、水分）沉降析出」的固定短语。A <code>set</code> 是放置/凝固、C <code>sit</code> 是坐、D <code>seat</code> 是使就座/安装，三者与 <code>out</code> 搭配都不表示沉降。考点：<strong>形近动词 + 小品词</strong>。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ul><li><strong>strainer 与 filter</strong>：两者常被混用称呼，但 strainer 是粗金属丝网、只拦大块杂物、不挡水；filter 是细网，能拦细微颗粒并帮助拦水。</li><li><strong>vapor lock 与 detonation</strong>：vapor lock 是燃油在到达化油器前汽化成气泡导致供油中断（热天、低压、紊流、爬升时箱压下降易发）；detonation 是混合气在气缸内高压高温自燃爆燃、冲击波损伤活塞连杆曲轴。</li><li><strong>重力供油与泵供油</strong>：高翼机可靠重力供油、无燃油泵，两箱互相通气保证压力相等；低/中翼机不能靠重力，须电泵 + 发动机驱动泵并联，且<strong>不能同时从两个油箱抽油</strong>（会吸空），因此不需要互连通气。</li><li><strong>boost pump 与 engine-driven pump</strong>：boost pump 多为箱内离心式、电动、variable displacement，负责正压与防气塞；engine-driven pump 多为 vane 式、constant displacement、由附件齿轮箱驱动，是主供油泵并靠可调 relief 控制供油量。</li><li><strong>integral tank 与 rigid removable tank</strong>：两者都可能是金属结构，但 rigid removable 由绑带固定在机体上、机体结构完整性不依赖它，因而不算 integral；integral 是结构本身被密封成箱。</li></ul>

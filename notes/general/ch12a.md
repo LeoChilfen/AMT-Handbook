@@ -200,27 +200,71 @@
 
 **其他**：电容选型工作电压至少比最高施加电压高 50%；固定翼飞机上多台交流汇流条可能处于分裂未同步状态，**不可把不同相位的信号混接**，会损坏系统或航电。
 
-## 7. 高频考点（TECC / 口试风格）
+## 7. 高频考点 · TECC 完形填空
 
-问：写出欧姆定律三种形式。 答：I = E/R、E = I(R)、R = E/I。
+> 10 道题，全部取材本章（电工电子基础·前半）。每题一个空、四个选项，只有一个最合适——干扰项按**形近词、同词族变体、近义词**设置。答案与解析在末尾。
 
-问：导线电阻由哪四个因素决定？ 答：材料（电阻率）、长度（正比）、截面积（反比）、温度（金属随温升增大，碳随温升减小）。
+**1.** Soft iron is used for the core of an electromagnet because it offers a very low _____ to magnetic flux.
 
-问：串联电路与并联电路各有什么特征？ 答：串联电流处处相同、总阻相加、电压按阻分配；并联各支路电压相同、总阻小于最小电阻、电流按支路分配。
+A) reluctant　　B) reluctance　　C) reluctantly　　D) reluctancy
 
-问：基尔霍夫两条定律各是什么？ 答：KVL——回路内电源电压等于各电压降之和（代数和为零）；KCL——流入节点的电流之和等于流出之和。
+**2.** The total resistance of a parallel circuit is always _____ than the smallest resistor in that circuit.
 
-问：功率三个公式及 1 hp 合多少瓦？ 答：P = I(E) = I²R = E²/R；1 hp ≈ 746 W（= 33,000 ft-lb/min）。
+A) lesser　　B) least　　C) less　　D) little
 
-问：交流有效值与峰值的关系？ 答：Vrms = 0.707 Vp，Vp = 1.414 Vrms；110 V 市电峰值为约 155 V。
+**3.** Before a static-sensitive component is handled, the technician's body must be _____ to the airframe structure to drain the static charge.
 
-问：感抗与容抗公式，各自造成什么相位关系？ 答：XL = 2πfL（电流滞后电压 90°）、Xc = 1/(2πfC)（电流超前电压 90°）；阻抗 Z = √(R² + (XL − XC)²)。
+A) ground　　B) grounded　　C) grounding　　D) grounder
 
-问：变压器匝比与电压、电流的关系？ 答：E2/E1 = N2/N1；升压的同时电流按同比例下降，次级功率不会大于初级。
+**4.** The opposition that an inductor offers to a changing current is called inductive _____, and it is measured in ohms.
 
-问：电流互感器安装与停用有什么禁忌？ 答：标 H1 的一侧朝发电机；系统运行时二次侧绝不能开路，停用但留在系统内时必须用跨接线短接。
+A) resistance　　B) reluctance　　C) conductance　　D) reactance
 
-问：欧姆表测电阻前为什么要调零、为什么必须断电并脱开元件？ 答：电池电压随使用下降需调零保证读数准确；断电与脱开可防止损坏表、并避免并联支路造成误读。
+**5.** In a series circuit, the voltage drop across each resistor is directly proportional _____ its resistance.
+
+A) to　　B) with　　C) for　　D) by
+
+**6.** The current in an RL circuit reaches about 63 percent of its final value after one time _____.
+
+A) constant　　B) constantly　　C) constancy　　D) constants
+
+**7.** The _____ of a capacitor depends on the area of the plates, the spacing between them and the dielectric material.
+
+A) capacity　　B) capacitive　　C) capacitance　　D) capacitor
+
+**8.** A transformer that has more turns in the secondary winding than in the primary winding is called a _____ transformer.
+
+A) step-down　　B) step-over　　C) step-aside　　D) step-up
+
+**9.** An ammeter must never be connected _____ the two terminals of a power source, because its very low resistance would draw a destructive current.
+
+A) across　　B) through　　C) between　　D) along
+
+**10.** The greater the number of turns in a coil, the _____ its inductance.
+
+A) great　　B) greatly　　C) greater　　D) greatness
+
+### 答案与解析
+
+**1. B** —— `a very low _____ to` 需要**名词** `reluctance`（磁阻，对磁通的阻碍）。A `reluctant` 是形容词（不情愿的），不能作介词 to 前的主体；C `reluctantly` 是副词；D `reluctancy` 不是英语中该术语的写法。考点：**同词族词性（形/副/名）**。
+
+**2. C** —— 有 `than` 就必须用**比较级**，`less` 是 `little` 的比较级，与「总阻总小于最小的那只电阻」完全对应。A `lesser` 意为「次要的/较小的（作定语）」，不用于 `lesser than` 这种数量比较；B `least` 是最高级；D `little` 是原级。考点：**比较级与 than 的呼应**。
+
+**3. B** —— `must be _____` 是情态动词被动，须用**过去分词** `grounded`（必须被接地）。A 是原形，`be ground` 不成立；C 现在分词不表被动；D `grounder` 是名词（意为接地装置/接地极），不能作分词。考点：**情态动词 + be + 过去分词**。
+
+**4. D** —— 电感对变化电流的阻碍叫**感抗** `reactance`，单位欧姆；后半句「measured in ohms」正好排除磁阻。A `resistance` 是电阻（对直流的阻碍，元件的固有性质），语义相近但对象不对；B `reluctance` 是磁阻（单位是磁阻单位而非欧姆）；C `conductance` 是电导（电阻的倒数，方向与阻碍相反）。考点：**近义术语辨析（reactance / resistance / reluctance / conductance）**。
+
+**5. A** —— `be proportional to` 是固定搭配，意为「与……成正比」。B `with`、C `for`、D `by` 都不与该形容词搭配；`proportional` 只接 `to`。考点：**形容词 + 介词的固定搭配**。
+
+**6. A** —— `time constant`（时间常数，τ = L/R）是固定的复合术语，用**名词单数**作定语。B `constantly` 是副词、C `constancy` 意为「恒定性」（不是该术语）、D `constants` 是复数形式，都不能构成 `time constant`。考点：**专业复合术语的词形**。
+
+**7. C** —— 空格是句子的主语中心词，需要一个表示**电容量**的名词 `capacitance`（单位法拉，由极板面积、间距和介质决定）。A `capacity` 泛指「容量、能力」，不是电学量名；B `capacitive` 是形容词（电容性的）；D `capacitor` 是元件本身（电容器），不是它的量值。考点：**形近名词辨析（capacitance / capacity / capacitor）**。
+
+**8. D** —— 次级匝数多于初级即**升压**变压器，英文为 `step-up`。A `step-down` 恰好相反（降压）；B `step-over`、C `step-aside` 是生造搭配，英语中不存在这种变压器术语。考点：**近义/反义复合词辨析**。
+
+**9. A** —— 把表跨接在电源两端说 `connect across the terminals`，`across` 表示「跨接在……两端」。B `through` 意为穿过（表不是串在线路里穿过去）；C `between` 可以表示「在两者之间」，但 `between the two terminals of a power source` 只表位置而不表并联跨接，且与本章「绝不可跨接电源」的表述不符；D `along` 沿……方向，语义无关。考点：**介词搭配与电路连接方式**。
+
+**10. C** —— `the + 比较级 ..., the + 比较级 ...` 是固定的平行结构（「越……越……」），前半句已有 `the greater`，后半句必须用**比较级** `greater`。A `great` 是原级、B `greatly` 是副词、D `greatness` 是名词，都破坏了该平行结构。考点：**the more ... the more ... 平行结构**。
 
 ## 8. 易混点
 

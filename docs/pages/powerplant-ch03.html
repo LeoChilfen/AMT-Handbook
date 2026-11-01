@@ -1,0 +1,320 @@
+<h1 id="ch-03-induction-exhaust-systems-进气与排气系统">Ch 03 · Induction &amp; Exhaust Systems（进气与排气系统）</h1>
+<blockquote>说明：本文件对应 PDF 129–159 页，页眉为 3-1～3-31，正文实为 Chapter 3「Induction &amp; Exhaust Systems」。燃油与燃油计量（AVGAS、Jet A、float-type 汽化器、FCU 等）不在此文件内，而在 <code>powerplant-ch02.txt</code>（PDF 83–128 页，页眉 2-1～2-46）那一章。</blockquote>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>本章讲活塞发动机进气系统（进气斗、滤、汽化器加热、增压器与涡轮增压器控制）和活塞/涡轮发动机的排气系统（排气管、喷管、推力反向、加力、消音与排放），重点在冰、增压控制与排气部件的失效检查。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ol><li>进气系统的任务链是：进气斗（air scoop）→ 导管 → 空气滤 → 燃油计量装置（汽化器或燃油喷射器）→ 进气总管 → 气缸。节气门后的空气压力叫进气总管压力（manifold pressure），用英寸汞柱（"Hg）计量，直接决定功率输出。</li><li>汽化器结冰分三类：撞击冰（impact ice）、燃油蒸发冰（fuel evaporation ice）、节气门冰（throttle ice）。除冰靠汽化器加热（carburetor heat），热源取排气总管周围的加温空气；用过量的加热会降低空气密度、减少充气重量、损失功率，高温还可能引起爆震。</li><li>部分油门（part throttle）时节气门处形成极低压区，是节气门冰的成因；滑翔时定距桨风车转动使发动机吸气量增大，会加剧这一低压。装可变距桨的发动机用较高的 BMEP、在低转速下开大节气门，可减轻节气门结冰倾向。</li><li>往复式发动机进气系统按有无增压分为自然吸气与增压两类；增压又分内部驱动（机械传动、压气机位于汽化器之后）和外部驱动（涡轮增压器，压气机位于燃油计量装置之前）。</li><li>只有把进气总管压力增压到 30 "Hg 以上才算真正的增压（ground boosted）；只补偿高度带来压力损失的叫归一化（normalizing），不属地面增压。涡轮增压器由压气机组件、涡轮叶轮组件、全浮式轴轴承组件三大部分组成，用发动机滑油作控制与润滑介质，靠废气门（waste gate）调节涡转转速。</li><li>涡轮增压系统靠控制器放油（bleed oil）建立废气门作动筒油压：油流限制越多、作动筒压力越高、废气门越关、增压越大。三个自动调节件是排气旁通活门组件、密度控制器（density controller）、压差控制器（differential pressure controller）；另有绝对压力控制器、斜率控制器（sloped controller）与可变绝对压力控制器（VAPC）。</li><li>排气系统是"扫气"系统，首要职责是安全排走高热有毒废气；活塞机分短排气管（short stack）与集合器（collector）两类，涡轮增压机必须用集合器把废气集中去驱动涡轮。</li><li>涡轮排气段的关键件是喷管：收敛喷管靠减小出口面积提高流速增推，流速到 Mach 1 即成"堵塞喷管"，多余流量转为压力推力；压比足够高时用收敛-扩张（C-D）喷管。推力反向器分机械阻挡式（蛤壳门）与气动阻挡式（平移罩、阻挡门、叶栅），加力燃烧可把推力提高到原来的两倍。</li></ol>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">induction system</td>
+<td style="text-align:left">进气系统</td>
+<td style="text-align:left">从进气斗到气缸进气口的整条空气通路</td>
+</tr>
+<tr>
+<td style="text-align:left">air scoop</td>
+<td style="text-align:left">进气斗</td>
+<td style="text-align:left">装在发动机整流罩上、迎风收集进气空气的开口</td>
+</tr>
+<tr>
+<td style="text-align:left">fuel metering device</td>
+<td style="text-align:left">燃油计量装置</td>
+<td style="text-align:left">汽化器或燃油喷射器，按进气量配油的部件</td>
+</tr>
+<tr>
+<td style="text-align:left">throttle plate</td>
+<td style="text-align:left">节气门（蝶形活门）</td>
+<td style="text-align:left">驾驶舱操纵、控制进入气缸空气量的活门</td>
+</tr>
+<tr>
+<td style="text-align:left">manifold pressure</td>
+<td style="text-align:left">进气总管压力</td>
+<td style="text-align:left">节气门后混合气的绝对压力，单位 "Hg，决定功率</td>
+</tr>
+<tr>
+<td style="text-align:left">balance tube</td>
+<td style="text-align:left">平衡管</td>
+<td style="text-align:left">连通两侧进气歧管、消除压力不均的横管</td>
+</tr>
+<tr>
+<td style="text-align:left">updraft / downdraft</td>
+<td style="text-align:left">上吸式 / 下吸式</td>
+<td style="text-align:left">混合气自下而上或自上而下进入气缸的进气布置</td>
+</tr>
+<tr>
+<td style="text-align:left">carburetor heat</td>
+<td style="text-align:left">汽化器加热</td>
+<td style="text-align:left">引排气总管周围热空气进汽化器防冰/除冰</td>
+</tr>
+<tr>
+<td style="text-align:left">alternate air door</td>
+<td style="text-align:left">备用空气门</td>
+<td style="text-align:left">正常进气被堵时靠发动机吸气自动吸开的弹簧门</td>
+</tr>
+<tr>
+<td style="text-align:left">impact ice</td>
+<td style="text-align:left">撞击冰</td>
+<td style="text-align:left">过冷水滴撞在进气道、滤网等表面直接冻结的冰</td>
+</tr>
+<tr>
+<td style="text-align:left">fuel evaporation ice</td>
+<td style="text-align:left">燃油蒸发冰</td>
+<td style="text-align:left">燃油在汽化器内蒸发吸热使温度降到冰点以下结的冰</td>
+</tr>
+<tr>
+<td style="text-align:left">throttle ice</td>
+<td style="text-align:left">节气门冰</td>
+<td style="text-align:left">部分油门时节气门处低压低温形成的水冰</td>
+</tr>
+<tr>
+<td style="text-align:left">ice guard</td>
+<td style="text-align:left">防冰网</td>
+<td style="text-align:left">装在滤前进气口处的粗目网，结冰后空气绕网而过</td>
+</tr>
+<tr>
+<td style="text-align:left">BMEP</td>
+<td style="text-align:left">制动平均有效压力</td>
+<td style="text-align:left">衡量单位排量作功能力的平均压力</td>
+</tr>
+<tr>
+<td style="text-align:left">supercharger</td>
+<td style="text-align:left">增压器</td>
+<td style="text-align:left">压缩进气、把进气总管压力提高到环境压力之上的装置</td>
+</tr>
+<tr>
+<td style="text-align:left">turbosupercharger / turbocharger</td>
+<td style="text-align:left">废气涡轮增压器</td>
+<td style="text-align:left">用排气能量驱动涡轮、同轴带动压气机的增压器</td>
+</tr>
+<tr>
+<td style="text-align:left">normalizing turbocharger</td>
+<td style="text-align:left">归一化涡轮增压器</td>
+<td style="text-align:left">只补偿高度引起压力损失、不把 MAP 增到 30 "Hg 以上的增压器</td>
+</tr>
+<tr>
+<td style="text-align:left">ground boosted</td>
+<td style="text-align:left">地面增压</td>
+<td style="text-align:left">能把进气总管压力增压到 30 "Hg 以上的真正增压</td>
+</tr>
+<tr>
+<td style="text-align:left">critical altitude</td>
+<td style="text-align:left">临界高度</td>
+<td style="text-align:left">标准大气中仍能保持规定转速下规定功率或规定 MAP 的最高高度</td>
+</tr>
+<tr>
+<td style="text-align:left">waste gate</td>
+<td style="text-align:left">废气门</td>
+<td style="text-align:left">旁通排气、控制进涡轮废气量的蝶形活门</td>
+</tr>
+<tr>
+<td style="text-align:left">waste gate actuator</td>
+<td style="text-align:left">废气门作动筒</td>
+<td style="text-align:left">用滑油压力推动活塞、经连杆操纵废气门的执行件</td>
+</tr>
+<tr>
+<td style="text-align:left">deck pressure / upper deck pressure</td>
+<td style="text-align:left">增压腔压力 / 上增压腔压力</td>
+<td style="text-align:left">压气机出口到节气门之间的空气压力</td>
+</tr>
+<tr>
+<td style="text-align:left">density controller</td>
+<td style="text-align:left">密度控制器</td>
+<td style="text-align:left">只在全油门工作、用充氮波纹盒保持进气密度的控制器</td>
+</tr>
+<tr>
+<td style="text-align:left">differential pressure controller</td>
+<td style="text-align:left">压差控制器</td>
+<td style="text-align:left">感受节气门前后的压差、部分油门时放油定位废气门</td>
+</tr>
+<tr>
+<td style="text-align:left">absolute pressure controller</td>
+<td style="text-align:left">绝对压力控制器</td>
+<td style="text-align:left">只在最大输出时限制压气机出口压力的控制器</td>
+</tr>
+<tr>
+<td style="text-align:left">VAPC</td>
+<td style="text-align:left">可变绝对压力控制器</td>
+<td style="text-align:left">用随油门转动的凸轮改变上增压腔压力给定值的控制器</td>
+</tr>
+<tr>
+<td style="text-align:left">sloped controller</td>
+<td style="text-align:left">斜率控制器</td>
+<td style="text-align:left">全油门保持额定压气机出口压力、部分油门时降低该压力</td>
+</tr>
+<tr>
+<td style="text-align:left">bootstrapping</td>
+<td style="text-align:left">自举（增压漂移）</td>
+<td style="text-align:left">废气门全关时功率变化被放大、MAP 持续漂移的不稳定状态</td>
+</tr>
+<tr>
+<td style="text-align:left">overboost</td>
+<td style="text-align:left">超增压</td>
+<td style="text-align:left">进气总管压力超过该发动机规定限值，会严重损坏发动机</td>
+</tr>
+<tr>
+<td style="text-align:left">overshoot</td>
+<td style="text-align:left">过冲</td>
+<td style="text-align:left">快速推油门后 MAP 短暂偏离设定值，比自举轻，需飞行员慢推油门</td>
+</tr>
+<tr>
+<td style="text-align:left">aftercooler</td>
+<td style="text-align:left">中冷器</td>
+<td style="text-align:left">装在压气机与节气门之间、冷却压缩空气提高充气密度的换热器</td>
+</tr>
+<tr>
+<td style="text-align:left">distribution impeller</td>
+<td style="text-align:left">分配叶轮</td>
+<td style="text-align:left">装在曲轴后端、同速旋转把油珠打碎使混合更均匀的叶轮</td>
+</tr>
+<tr>
+<td style="text-align:left">inlet guide vanes (IGV)</td>
+<td style="text-align:left">进口导流叶片</td>
+<td style="text-align:left">装在压气机进口、整直气流并导向第一级的叶片</td>
+</tr>
+<tr>
+<td style="text-align:left">compressor stall</td>
+<td style="text-align:left">压气机失速</td>
+<td style="text-align:left">气流停滞或倒流、伴随涡轮段超温的异常工况</td>
+</tr>
+<tr>
+<td style="text-align:left">ram recovery</td>
+<td style="text-align:left">冲压恢复</td>
+<td style="text-align:left">气流在进气道内被滞止压缩而收回的总压</td>
+</tr>
+<tr>
+<td style="text-align:left">divided-entrance duct</td>
+<td style="text-align:left">分开式进气道</td>
+<td style="text-align:left">从机身两侧（翼根或侧斗）分别进气再汇合的进气道</td>
+</tr>
+<tr>
+<td style="text-align:left">variable-geometry duct</td>
+<td style="text-align:left">可变几何进气道</td>
+<td style="text-align:left">随飞行马赫数改变通道面积（斜板/楔块）的超音速进气道</td>
+</tr>
+<tr>
+<td style="text-align:left">bellmouth inlet</td>
+<td style="text-align:left">喇叭口进气</td>
+<td style="text-align:left">试车台用、进口圆滑几乎无损失、可测总压总温的进气喇叭</td>
+</tr>
+<tr>
+<td style="text-align:left">divergent / convergent duct</td>
+<td style="text-align:left">扩张 / 收敛通道</td>
+<td style="text-align:left">前者降速增压，后者增速降压</td>
+</tr>
+<tr>
+<td style="text-align:left">short stack</td>
+<td style="text-align:left">短排气管</td>
+<td style="text-align:left">每缸一根短管直接排大气的开式排气系统</td>
+</tr>
+<tr>
+<td style="text-align:left">exhaust collector ring</td>
+<td style="text-align:left">排气集合环</td>
+<td style="text-align:left">星形机把各缸排气汇入单一出口的焊接钢环</td>
+</tr>
+<tr>
+<td style="text-align:left">augmentor tube</td>
+<td style="text-align:left">引射管</td>
+<td style="text-align:left">用排气抽吸作用引射冷却空气流过发动机舱的套筒</td>
+</tr>
+<tr>
+<td style="text-align:left">exhaust ejector</td>
+<td style="text-align:left">排气引射器</td>
+<td style="text-align:left">装在防火墙后、靠排气流引射舱内冷却空气的喉道组件</td>
+</tr>
+<tr>
+<td style="text-align:left">convergent nozzle</td>
+<td style="text-align:left">收敛喷管</td>
+<td style="text-align:left">出口面积小于进口、把燃气加速到音速的喷管</td>
+</tr>
+<tr>
+<td style="text-align:left">convergent-divergent (C-D) nozzle</td>
+<td style="text-align:left">收敛-扩张喷管</td>
+<td style="text-align:left">喉道后再扩张、使燃气在超音速下继续加速的喷管</td>
+</tr>
+<tr>
+<td style="text-align:left">choked nozzle</td>
+<td style="text-align:left">堵塞喷管</td>
+<td style="text-align:left">喉道处已达 Mach 1、流量不再随出口压力增加的喷管</td>
+</tr>
+<tr>
+<td style="text-align:left">pressure thrust</td>
+<td style="text-align:left">压力推力</td>
+<td style="text-align:left">喷管内外的压力差乘以喷口面积所得的附加推力</td>
+</tr>
+<tr>
+<td style="text-align:left">thrust reverser</td>
+<td style="text-align:left">推力反向器</td>
+<td style="text-align:left">阻挡并偏转排气（或外涵气流）以产生反推的装置</td>
+</tr>
+<tr>
+<td style="text-align:left">translating cowl / blocker door / cascade vane</td>
+<td style="text-align:left">平移整流罩 / 阻挡门 / 叶栅</td>
+<td style="text-align:left">气动式反推的三个主件：后移罩、封住外涵的门、导流叶片</td>
+</tr>
+<tr>
+<td style="text-align:left">afterburning (thrust augmentation)</td>
+<td style="text-align:left">加力燃烧</td>
+<td style="text-align:left">在排气喷管内喷油补燃、把推力提高到约两倍</td>
+</tr>
+<tr>
+<td style="text-align:left">thrust vectoring</td>
+<td style="text-align:left">推力矢量</td>
+<td style="text-align:left">偏转喷管方向使推力不沿纵轴，喷嘴可上下偏 20°</td>
+</tr>
+<tr>
+<td style="text-align:left">corrugated-perimeter / multi-tube suppressor</td>
+<td style="text-align:left">波纹周边式 / 多管式消音器</td>
+<td style="text-align:left">把单股射流分成多股小射流、提高噪声频率的消音器</td>
+</tr>
+<tr>
+<td style="text-align:left">TAPS combustor</td>
+<td style="text-align:left">双环预混旋流燃烧室</td>
+<td style="text-align:left">用两个高能旋流器预混油气、降低燃烧温度以抑制 NOX</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<ul><li>进气总管压力单位：英寸汞柱（"Hg）；真增压的门槛值是 <strong>30 "Hg</strong>（超过 30 "Hg 才算 supercharged / ground boosted）。</li><li>地面增压型涡轮增压系统可把进气总管压力从 30 "Hg 提高到约 <strong>40 "Hg</strong>。</li><li>归一化涡轮增压器常设定在某一高度以上才工作，书中举例 <strong>5,000 ft</strong>；低于该高度不增压即可获得最大功率。</li><li>临界高度举例：<strong>16,000 ft</strong>——高于此高度无法保持 100% 额定进气总管压力。</li><li>汽化器进口空气 <strong>100 °F</strong> 时，因燃油在汽化器喷嘴处部分汽化，温度约下降 <strong>50 °F</strong>。</li><li>涡轮增压器可把进气温度提高到约 <strong>5 倍</strong>；100 °F 的全功率起飞日，压气机出口气温可达 <strong>500 °F</strong>。</li><li>节气门进口允许的最高气温一般为 <strong>230 °F（低）～300 °F（高）</strong>，超过则更接近爆震。</li><li>全关的 augmentor vane 使排气管横截面积减小约 <strong>45%</strong>。</li><li>排气部件内部泄漏试验：堵住开口、充入约 <strong>2 psi</strong> 内压后浸入水中，冒泡即漏。</li><li>消音器与热交换器失效中约 <strong>一半</strong> 可追溯到用于座舱/汽化器加热的热交换面裂纹或破裂。</li><li>星形机排气集合环：<strong>14 缸</strong> 发动机的集合环由 <strong>7 段</strong> 焊成，每段收 <strong>2 个</strong> 气缸的排气；截面由内侧最小渐变到外侧（接排气管处）最大。</li><li>带引射器的星形机：<strong>18 缸</strong> 用 <strong>2 套</strong> 排气总管 + <strong>2 套</strong> 引射器，每套总管收 <strong>9 个</strong> 缸的排气。</li><li>高涵道比涡扇风扇：<strong>1 级</strong> 动叶 + 静子，直径 <strong>小于 84 in 到大于 112 in</strong>；外涵气流产生 <strong>80%</strong> 的推力。</li><li>未涵道（分开喷管）发动机：风扇气流产生 <strong>80–85%</strong> 总推力，内涵 <strong>20–15%</strong>。</li><li>涡桨排气喷管只产生 <strong>10–15%</strong> 的推力，其余能量已传给螺旋桨。</li><li>加力燃烧可把推力提高到原来的约 <strong>2 倍</strong>，耗油也几乎翻倍（"almost double"）。</li><li>推力矢量：矢量喷管可上下偏转 <strong>20°</strong>。</li><li>排气噪声几何（图 3-52）：以喷管直径 <strong>D</strong> 为基准，高频细涡流区约在喷口后 <strong>10 D</strong> 内，低频大涡流区约在 <strong>30 D</strong> 处，扩散锥角 <strong>10°</strong>。</li><li>音速界限：喷口流速达 <strong>Mach 1</strong> 后不再随压比升高；发动机内气流任何时刻都必须低于 Mach 1。</li><li>压力推力公式（文字表述）：<strong>压力推力 =（喷管内压力 − 外界大气压力）× 喷口面积</strong>。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<ul><li>活塞发动机进气系统</li><li>进气斗（装在整流罩上，迎风）→ 空气滤（铝合金框 + 深压波纹滤网；纸质、泡沫等型式）→ 汽化器加温箱/进气导管 → 燃油计量装置（汽化器或燃油喷射器）</li><li>上吸式：两根进气总管（runner）+ 平衡管 + 每缸进气支管；平衡管消除两侧压力差</li><li>下吸式平衡式：在整个工作范围内给各缸更均匀的空气流量，混合比匹配更好</li><li>汽化器加温支路：加温空气门（驾驶舱推拉钢索操纵）+ 备用空气门（弹簧常闭、靠吸气打开）</li><li>汽化器空气温度表：感温包在汽化器进口侧测进气温度，在发动机侧测混合气温度</li><li>进气滤与防尘</li><li>备用进气口 + 集尘滤：滤芯、门、电动 actuator；空气经不对正气流的百叶窗进入，靠惯性分离尘土</li><li>弹簧加载滤门：滤芯堵塞时自动打开，防止进气中断</li><li>防冰网（ice guard）：粗目网，结冰后含水少的空气绕网进入滤芯</li><li>增压系统</li><li>内部驱动增压器：机械传动、位于汽化器之后压缩混合气；分配叶轮直接装在曲轴后端同速转动，只打碎油珠不显著增压；增压叶轮经齿轮组增速驱动</li><li>外部驱动（涡轮增压器）：压气机组件（叶轮 impeller + 扩压器 diffuser + 机匣）+ 涡轮叶轮组件 + 全浮式轴轴承组件；转子 = 叶轮 + 涡轮轴；中间有隔热/导冷挡板（baffle）或冷却罩</li><li>控制链：滑油 → 控制器（放油量）→ 废气门作动筒活塞 → 连杆 → 废气门蝶阀 → 进涡轮废气量 → 转速 → 增压腔压力</li><li>滑油路：滑油冷却器后部 → 供油软管 → 增压器中心机匣与轴承 → 回油软管 → 发动机后部回油泵；供油路单向活门防止停车时滑油漏入增压器；压气机轴上的活塞环式油封防止滑油窜入涡轮/压气机机匣</li><li>控制器族：密度控制器（充干氮波纹盒，全油门限压）、压差控制器（节气门前后压差，抑自举）、绝对压力控制器（仅最大输出）、VAPC（凸轮随油门改变给定）、斜率控制器（全油门额定、部分油门降压）</li><li>中冷器：位于压气机级与节气门之间</li><li>涡轮发动机进气段</li><li>进气导管（多属机体件）+ IGV；导管作扩压器（渐扩、降速增压）</li><li>形式：单进口、分开式（翼根/机身侧斗，可加转向叶片）、可变几何（斜板/楔块、气流旁通、激波）</li><li>防护：压气机进口滤网（可收放）、喇叭口进气（试车台/直升机，带总压总温探针）</li><li>涡桨/涡轴：ducted 布置最佳；进气道唇口电加热防冰、偏转门挡冰挡脏、锥形整流罩</li><li>涡扇：风扇与低压压气机一体；唇口内用热引气防冰；风扇叶尖处有可磨涂层；进气道内贴吸音材料</li><li>活塞发动机排气系统</li><li>短排气管（开式）：每缸短管 + 固定卡箍，拆装只动压紧螺母与卡箍</li><li>集合器：每缸下排管（高温锁紧螺母）→ 两侧集合管（环形卡箍）→ 排气引射器（防火墙后下方）；集合管外有座舱加温热交换套</li><li>星形机集合环：7 段焊接件，螺栓固定于增压器段支架，靠短管套接支撑；排气管用套筒式膨胀接头连接</li><li>引射器（augmentor）：文氏效应抽吸舱内冷却空气；尾管内装电动 actuated 的引射叶片</li><li>涡轮发动机排气段</li><li>喷管：收敛喷管（含排气堵锥形成初始扩张段）、C-D 喷管；涡轴用扩张喷管（不产生推力）</li><li>反推：机械阻挡式（倒锥/半球/蛤壳门）与气动阻挡式（平移罩 + 阻挡门 + 叶栅）；作动源为气动或液压，经齿轮箱、软轴、螺旋作动筒、控制活门、气马达/液压马达</li><li>加力：火焰稳定器、燃油总管、火焰保持器、点火器、可变面积喷管 + 隔热衬套</li><li>消音：波纹周边式/多管式消音器 + 短舱内多孔蒙皮/蜂窝吸音衬里（声能转热）</li><li>排放：TAPS 双环预混旋流燃烧室（压气机高压空气经两个高能旋流器预混）</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<ul><li>进气系统：每次定期检查都查裂纹与漏气、各件安装牢固性；保持清洁（抹布、纸片进入进气道会限流；松脱螺栓螺母进入发动机会造成严重损伤）。</li><li>汽化器空气滤：脏污或油膜不足即拆下清洗；干燥后浸入滑油与防锈剂的混合液，装回前让多余液体滴净；纸质滤芯视情更换；滤芯过脏会导致功率损失甚至不能起动。</li><li>起动防火：起动全过程须有防火员持 CO₂ 灭火器守候，且必须熟悉该机进气系统，以便把 CO₂ 打入进气道；起动中着火应继续摇转把火吹灭，若起动不成功且火继续燃烧则停止起动，由防火员灭火。排气系统也可能因缸内液体燃油被点燃后排出而起火。</li><li>排气系统（活塞机）：</li><li>严禁在排气系统上使用镀锌或镀锌工具，严禁用铅笔在排气件上做记号——铅、锌在高温下被金属吸收，改变组织、使局部软化而开裂。</li><li>装好全部排气件与整流罩后先试车到正常工作温度，停车拆罩，检查每个卡箍连接与每个排气口有无漏气；漏气表现为管子上平坦的灰色或烟黑色条痕，多因两件对合不正；松开卡箍重新对位。</li><li>按规定扭矩拧紧；若到规定扭矩仍松动，说明螺栓螺母已被拉长，应更换；拧紧后所有螺母打保险。</li><li>陶瓷涂层排气管只能用除油清洗，禁止喷砂或碱液清洗；喷砂表面的可按工艺清理。</li><li>检查外表面裂纹、凹坑、缺件，覆盖焊缝、卡箍、支架、支架凸耳、撑杆、滑动接头、法兰、垫片、柔性接头；每个弯头与焊缝邻近区域都要查；凹坑与低点查内腐蚀减薄与点蚀，可用冰锥状尖具探试。</li><li>视需拆开检查内部挡板与扩压件；不可直视处拆下做 2 psi 水浸漏气试验；日常检查看外露部分的裂纹、起皮、过量泄漏与卡箍松动。</li><li>修复原则：排气短管、消音器、尾管等一般以新件或翻修件更换代替修理；必须焊修时保持原轮廓、不得使系统对正变形；内部凸出的焊瘤不可接受（局部热点并限流）；必须用规定的高温黄铜/专用锁紧螺母与卡箍，不得用钢制或低温自锁螺母代替；旧垫片一律不重用。</li><li>涡轮增压系统：定期除焦（de-coking）；废气门内积碳会使工作不稳，积碳过多可把废气门卡在全关位而造成超增压；涡轮内积碳造成飞行中逐渐掉功率、起飞前 MAP 偏低。</li><li>引射管：定期检查对正、固定与总体状态；裂纹会让废气进入短舱/机翼/座舱，构成火警与 CO 危害。</li><li>推力反向器：任何维护时只要人在反推区域，必须机械锁定，禁止其动作；反推展开或收上都不允许影响发动机工作，驾驶舱应有状态指示。</li><li>排气系统失效后果：任何排气失效都按严重危害对待——一氧化碳中毒、部分或全部功率损失、着火；垫片四周的黑烟灰即垫片失效的标志。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（进气、增压与排气系统）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> A turbocharger consists of a compressor assembly, a turbine wheel assembly and a full-_____ shaft bearing assembly.</p>
+<p>A) float　　B) floating　　C) floated　　D) flotation</p>
+<p><strong>2.</strong> A turbocharger that only restores the pressure lost with altitude, without raising manifold pressure above 30 inches of mercury, is called a _____ turbocharger.</p>
+<p>A) normal　　B) normalized　　C) normally　　D) normalizing</p>
+<p><strong>3.</strong> Carburetor heat should be used only as long as necessary, because excessive heat raises the charge temperature and may _____ detonation.</p>
+<p>A) lead to　　B) lead on　　C) lead off　　D) lead in</p>
+<p><strong>4.</strong> The waste gate is _____ by oil pressure from the actuator, and the oil pressure itself is controlled by the amount of bleed oil leaving the controller.</p>
+<p>A) operate　　B) operating　　C) operated　　D) operation</p>
+<p><strong>5.</strong> The density controller works only when the throttle is fully open, _____ the differential pressure controller operates at every other throttle position.</p>
+<p>A) whereby　　B) whereas　　C) wherein　　D) whereupon</p>
+<p><strong>6.</strong> An overboost is far more serious than an overshoot, because manifold pressure beyond the approved limit can _____ the engine.</p>
+<p>A) harm　　B) hurt　　C) injure　　D) damage</p>
+<p><strong>7.</strong> The nozzle area must be large enough to avoid _____ the engine, since a choked nozzle limits the flow through the whole engine.</p>
+<p>A) choking　　B) choke　　C) choked　　D) chokingly</p>
+<p><strong>8.</strong> The _____ of the exhaust gas through the nozzle converts pressure energy into velocity and produces thrust.</p>
+<p>A) expand　　B) expansive　　C) expansion　　D) expanded</p>
+<p><strong>9.</strong> After all exhaust components and cowling are installed, the engine should be _____ to normal operating temperature before the cowling is removed for the leak check.</p>
+<p>A) run in　　B) run on　　C) run out　　D) run up</p>
+<p><strong>10.</strong> Thrust reversers are used to _____ the landing roll by redirecting the exhaust or the fan air forward.</p>
+<p>A) short　　B) shorten　　C) shortness　　D) shortly</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. B</strong> —— <code>full-floating</code> 是本章术语「全浮式」，现在分词 floating 作前置定语修饰 shaft bearing assembly。A <code>float</code> 是动词/名词、C <code>floated</code> 是过去分词（表被动完成）、D <code>flotation</code> 意为浮选，都不是该轴承的写法。考点：<strong>分词作定语</strong>。</p>
+<p><strong>2. D</strong> —— <code>normalizing turbocharger</code> 指只把高度造成的压力损失补回来的归一化增压器，用现在分词表示其功能。B <code>normalized</code> 是「已被归一化的」状态形容词，不用于设备名称；A <code>normal</code> 是普通、C <code>normally</code> 是副词。注意超过 30 "Hg 的才叫 ground boosted。考点：<strong>形近词辨析</strong>。</p>
+<p><strong>3. A</strong> —— <code>lead to</code> 意为「导致」，过量加温使进气温度过高，可能引发爆震。B <code>lead on</code> 引诱、C <code>lead off</code> 开始/领开、D <code>lead in</code> 引入（lead-in 多作名词「引入线」），都不表示因果关系。考点：<strong>短语动词</strong>。</p>
+<p><strong>4. C</strong> —— 废气门是被滑油压力「操纵」的受动者，需被动 <code>operated</code>。A <code>operate</code> 原形、B <code>operating</code> 现在分词、D <code>operation</code> 名词，都不能与 is 构成被动谓语。考点：<strong>被动语态</strong>。</p>
+<p><strong>5. B</strong> —— <code>whereas</code> 表对比：密度控制器只在全油门工作，压差控制器在其他所有油门位置工作。A <code>whereby</code> 意为「凭此」、C <code>wherein</code> 意为「在其中」、D <code>whereupon</code> 意为「于是、随后」，都不是对比连词。考点：<strong>从句连词</strong>。</p>
+<p><strong>6. D</strong> —— 发动机、结构件的损坏用 <code>damage</code>。A <code>harm</code>、B <code>hurt</code>、C <code>injure</code> 主要用于人或生物体受到的伤害，用在发动机上不合英语习惯。考点：<strong>近义词辨析</strong>。</p>
+<p><strong>7. A</strong> —— <code>avoid</code> 后接动名词，<code>choking</code> 表示「把发动机憋住/堵塞」。B <code>choke</code> 原形、C <code>choked</code> 过去分词、D <code>chokingly</code> 副词，都不能直接作 avoid 的宾语。考点：<strong>动名词作宾语</strong>。</p>
+<p><strong>8. C</strong> —— 主语中心词需要名词 <code>expansion</code>（膨胀），指燃气在喷管中膨胀。A <code>expand</code> 动词、B <code>expansive</code> 形容词、D <code>expanded</code> 过去分词，均不能作主语中心词。考点：<strong>词性判断</strong>。</p>
+<p><strong>9. D</strong> —— <code>run up</code> 意为试车、把发动机拉到工作状态；本章要求装好排气件后先试车到正常工作温度，再拆罩检查各卡箍与排气口。A <code>run in</code> 磨合运转、B <code>run on</code> 继续运转、C <code>run out</code> 用完/偏心，语义都不对。考点：<strong>短语动词</strong>。</p>
+<p><strong>10. B</strong> —— <code>shorten</code> 意为缩短，反推的作用就是缩短着陆滑跑距离。A <code>short</code> 是形容词、C <code>shortness</code> 是名词、D <code>shortly</code> 是副词，都不能放在 to 后面作动词。考点：<strong>词性判断</strong>。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ol><li><strong>增压器（supercharger）vs 涡轮增压器（turbosupercharger）</strong>：前者是内部机械驱动的压气机，位于汽化器之后压缩混合气；后者是外部排气能量驱动的涡轮带动的压气机，位于燃油计量装置之前只压缩空气。二者都要求 MAP 超过 30 "Hg 才算真正增压。</li><li><strong>归一化（normalizing）vs 地面增压（ground boosted）</strong>：归一化只把高度造成的压力损失补回来，MAP 不超过 30 "Hg，且常只在某高度以上工作；地面增压可从海平面起就把 MAP 增到 30 "Hg 以上（约 40 "Hg），临界高度以内保持额定功率。</li><li><strong>自举（bootstrapping）vs 超增压（overboost）</strong>：自举是控制环自身造成的 MAP 持续漂移，不损害发动机寿命；超增压是 MAP 超出规定限值，会严重损坏发动机，部分系统用略高于最大增压腔压力设定的卸压活门防止。</li><li><strong>收敛喷管 vs 收敛-扩张喷管</strong>：收敛喷管把亚音速燃气加速到喉道处的 Mach 1；C-D 喷管在喉道后再扩张，让燃气在超音速下继续加速，只有在发动机压比高到出口流速会超过 Mach 1 时才有优势。</li><li><strong>汽化器加热使混合气变富还是变贫</strong>：原文前面一处写"加热使空气密度下降、混合气变贫（leans）"，后面机理段又写"不结冰时加温且油门不变，混合气会变富（richer）"。按后文机理（空气密度下降而燃油量未减）应为富油，考试按机理答"变富"。</li></ol>

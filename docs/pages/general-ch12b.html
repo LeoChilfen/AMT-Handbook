@@ -1,0 +1,337 @@
+<h1 id="ch-12-下-fundamentals-of-electricity-electronics-电工电子基础-后半">Ch 12（下）· Fundamentals of Electricity &amp; Electronics（电工电子基础·后半）</h1>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>接前半章，讲蓄电池与逆变器、半导体与三极管/场效应管、滤波与放大、逻辑门与集成电路，再到直流/交流发电机与电动机、调压器与恒速传动装置。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ol><li>四种机载蓄电池各有适用面：铅酸便宜但需补水和测比重；镍镉（Ni-Cad）单体 1.25 V、能量密度高但需单体匹配和定期台架容量测试；密封铅酸（SLA）免维护、无"记忆"效应，适合惯导/陀螺备用电池组；锂离子已在 787 上使用，更轻更强但电解液易燃、有热失控风险。</li><li>逆变器（inverter）把部分直流变成 400 cps 交流供仪表、无线电、雷达使用；旋转式靠直流电动机拖动交流发电机（永磁式、旋转电枢式、感应子式三类），静止式（固态）无运动部件、效率高、对负载响应快，已广泛替代旋转式。</li><li>二极管的一切行为都能用 PN 结解释：正偏时耗尽区变窄、电阻极小（导通）；反偏时耗尽区变宽、电阻最大（截止）。整流器就是利用这一单向性把交流变直流，固态整流器已几乎取代干片、真空管等所有其他型式。</li><li>特殊二极管是"把某个物理量变成反偏电流或电容"的器件：齐纳管反压恒定作稳压/削波，光电二极管电流随光照增大，变容二极管电容随反压减小用于调谐，肖特基管无耗尽区、开关可达 300 MHz。</li><li>三极管放大的机理是"低阻正偏结进、高阻反偏结出"：发射结正偏约 0.65~0.7 V 注入载流子，集电结反偏形成高阻，基区做得很薄很轻掺杂以减少复合损失，于是小信号控制大功率——"transfer + resistor"即 transistor。</li><li>三种组态用途分明：共射（CE）电压、电流、功率增益都较好且唯一反相 180°，最常用；共集（CC）输入阻抗高、输出阻抗低，作阻抗匹配与电流驱动（射极跟随器）；共基（CB）输入阻抗低、电流增益恒小于 1，只作电压放大（如话筒放大器）。</li><li>放大器按导通角分类：A 类 360°（失真最小、效率最低）、AB 类 50%~100%、B 类 50%（效率是 A 类两倍）、C 类小于 50%（效率最高、失真最大）。滤波器按通带分低通、高通、带通、带阻四类，全部是无源 LC 组合。</li><li>逻辑电路把"真/假"变成高低电平：与门全高才高、或门任一高即高、非门取反；NAND、NOR 是带反相输出的与/或，XOR 只在输入不相同时输出 1。这些门做在集成电路（IC）里，集成度由 SSI、MSI、LSI 到微处理器逐级提高。</li><li>直流发电机与直流电动机是同一台机器的两种用法：发电机靠导体切割磁力线感应电势、用换向器把交流整成直流；电动机靠载流导体在磁场中受力产生转矩、靠换向器每转两次换向维持连续转动。反电势（counter emf）是电动机自限制电流的关键。</li><li>交流异步/同步电动机与交流发电机都建立在"旋转磁场"上：三相绕组产生旋转磁场，笼型转子因转速略低于同步转速（slip）而感应电流受力；同步电动机转子通直流、必须借助起动装置牵入同步。交流发电机按励磁方式、相数、旋转部件分类，机载以三相、旋转磁场（转枢式已被淘汰）为主，输出经 GCU 调压、经 CSD/IDG 保持恒频。</li></ol>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">electrolyte</td>
+<td style="text-align:left">电解液</td>
+<td style="text-align:left">电池内参与化学反应的导电液体，铅酸为硫酸、Ni-Cad 为氢氧化钾（KOH）</td>
+</tr>
+<tr>
+<td style="text-align:left">specific gravity</td>
+<td style="text-align:left">比重</td>
+<td style="text-align:left">电解液相对纯水的密度，用来判断铅酸电池荷电状态</td>
+</tr>
+<tr>
+<td style="text-align:left">hydrometer</td>
+<td style="text-align:left">比重计</td>
+<td style="text-align:left">抽吸电解液读比重的仪器，量程 1.100~1.300</td>
+</tr>
+<tr>
+<td style="text-align:left">ampere-hour</td>
+<td style="text-align:left">安培小时</td>
+<td style="text-align:left">电池容量单位，等于安培×小时，飞机电池按 5 小时放电率标定</td>
+</tr>
+<tr>
+<td style="text-align:left">sintered plate</td>
+<td style="text-align:left">烧结式极板</td>
+<td style="text-align:left">Ni-Cad 薄极板，适合高速率充放电</td>
+</tr>
+<tr>
+<td style="text-align:left">pocket plate</td>
+<td style="text-align:left">袋式极板</td>
+<td style="text-align:left">把活性物质压入穿孔镀镍钢袋或管中，减少活性物质脱落</td>
+</tr>
+<tr>
+<td style="text-align:left">sealed lead-acid (SLA)</td>
+<td style="text-align:left">密封铅酸蓄电池</td>
+<td style="text-align:left">免维护、单体天然匹配、无电压凹陷，装机可用 BITE 自测</td>
+</tr>
+<tr>
+<td style="text-align:left">inverter</td>
+<td style="text-align:left">逆变器</td>
+<td style="text-align:left">把直流变成交流，机载通常 400 cps</td>
+</tr>
+<tr>
+<td style="text-align:left">static inverter</td>
+<td style="text-align:left">静止式（固态）逆变器</td>
+<td style="text-align:left">无运动部件、可传导冷却、效率高、响应快</td>
+</tr>
+<tr>
+<td style="text-align:left">semiconductor</td>
+<td style="text-align:left">半导体</td>
+<td style="text-align:left">锗与硅，原子 4 个价电子，掺杂后导电性可控</td>
+</tr>
+<tr>
+<td style="text-align:left">doping</td>
+<td style="text-align:left">掺杂</td>
+<td style="text-align:left">掺入施主或受主杂质，做成 N 型或 P 型</td>
+</tr>
+<tr>
+<td style="text-align:left">majority carrier</td>
+<td style="text-align:left">多数载流子</td>
+<td style="text-align:left">N 型中是电子，P 型中是空穴</td>
+</tr>
+<tr>
+<td style="text-align:left">minority carrier</td>
+<td style="text-align:left">少数载流子</td>
+<td style="text-align:left">P 型中的电子、N 型中的空穴，构成反偏时的微小电流</td>
+</tr>
+<tr>
+<td style="text-align:left">depletion zone</td>
+<td style="text-align:left">耗尽区</td>
+<td style="text-align:left">PN 结两侧无载流子的固定电荷层，形成势垒</td>
+</tr>
+<tr>
+<td style="text-align:left">forward bias</td>
+<td style="text-align:left">正向偏置</td>
+<td style="text-align:left">外加电压削弱势垒、耗尽区变窄，二极管导通（电阻极小）</td>
+</tr>
+<tr>
+<td style="text-align:left">reverse bias</td>
+<td style="text-align:left">反向偏置</td>
+<td style="text-align:left">外加电压与结电场同向，耗尽区变宽，多数载流子不能跨越</td>
+</tr>
+<tr>
+<td style="text-align:left">rectifier</td>
+<td style="text-align:left">整流器</td>
+<td style="text-align:left">限制或调节电流方向，把交流变直流</td>
+</tr>
+<tr>
+<td style="text-align:left">full-wave bridge rectifier</td>
+<td style="text-align:left">全波桥式整流器</td>
+<td style="text-align:left">四只二极管两两导通，两个半周都变成同向电流</td>
+</tr>
+<tr>
+<td style="text-align:left">Zener diode</td>
+<td style="text-align:left">齐纳（稳压）二极管</td>
+<td style="text-align:left">反压达到击穿值后恒压导通，作稳压器与波形削波器</td>
+</tr>
+<tr>
+<td style="text-align:left">LED</td>
+<td style="text-align:left">发光二极管</td>
+<td style="text-align:left">正偏时电子落入空穴，能量以光而非热的形式放出</td>
+</tr>
+<tr>
+<td style="text-align:left">photodiode</td>
+<td style="text-align:left">光电二极管</td>
+<td style="text-align:left">开窗暴露 PN 结，光照越强反偏电流越大</td>
+</tr>
+<tr>
+<td style="text-align:left">varactor</td>
+<td style="text-align:left">变容二极管</td>
+<td style="text-align:left">反向电压控制结电容，多已取代机械调谐电容</td>
+</tr>
+<tr>
+<td style="text-align:left">Schottky diode</td>
+<td style="text-align:left">肖特基二极管</td>
+<td style="text-align:left">金属-半导体结、单极器件，无耗尽区与电荷存储，开关快</td>
+</tr>
+<tr>
+<td style="text-align:left">transistor</td>
+<td style="text-align:left">三极管</td>
+<td style="text-align:left">三端器件，用发射极/基极/集电极放大信号、控制电流</td>
+</tr>
+<tr>
+<td style="text-align:left">FET</td>
+<td style="text-align:left">场效应管</td>
+<td style="text-align:left">只有一个 PN 结、电压控制型器件，分 JFET 与 MOSFET</td>
+</tr>
+<tr>
+<td style="text-align:left">common-emitter (CE)</td>
+<td style="text-align:left">共射组态</td>
+<td style="text-align:left">三种组态中唯一输出反相 180°，增益组合最好、最常用</td>
+</tr>
+<tr>
+<td style="text-align:left">coupling</td>
+<td style="text-align:left">耦合</td>
+<td style="text-align:left">把信号从一级传到下一级，分直接、RC、阻抗、变压器四种</td>
+</tr>
+<tr>
+<td style="text-align:left">negative feedback</td>
+<td style="text-align:left">负反馈</td>
+<td style="text-align:left">输出信号反相送回输入端，降低增益换取稳定</td>
+</tr>
+<tr>
+<td style="text-align:left">operational amplifier (OP AMP)</td>
+<td style="text-align:left">运算放大器</td>
+<td style="text-align:left">高增益、高输入阻抗，有反相（−）与同相（+）两个输入端</td>
+</tr>
+<tr>
+<td style="text-align:left">logic polarity</td>
+<td style="text-align:left">逻辑极性</td>
+<td style="text-align:left">规定高电平代表 1 还是低电平代表 1，分正逻辑与负逻辑</td>
+</tr>
+<tr>
+<td style="text-align:left">truth table</td>
+<td style="text-align:left">真值表</td>
+<td style="text-align:left">列出所有输入组合对应输出的表格</td>
+</tr>
+<tr>
+<td style="text-align:left">integrated circuit (IC)</td>
+<td style="text-align:left">集成电路</td>
+<td style="text-align:left">把门电路、元件做在同一块半导体晶片上，更小更省电更可靠</td>
+</tr>
+<tr>
+<td style="text-align:left">armature</td>
+<td style="text-align:left">电枢</td>
+<td style="text-align:left">发电机/电动机的转动部件，含绕组、铁芯与换向器</td>
+</tr>
+<tr>
+<td style="text-align:left">commutator</td>
+<td style="text-align:left">换向器</td>
+<td style="text-align:left">由云母绝缘的铜换向片组成，把交流整成直流或给电动机换向</td>
+</tr>
+<tr>
+<td style="text-align:left">interpole</td>
+<td style="text-align:left">换向极</td>
+<td style="text-align:left">装在主磁极之间的辅助磁极，抑制电枢反应造成的磁场畸变</td>
+</tr>
+<tr>
+<td style="text-align:left">compensating winding</td>
+<td style="text-align:left">补偿绕组</td>
+<td style="text-align:left">嵌在极靴槽内、与电枢串联，抵消电枢磁场使中性面固定</td>
+</tr>
+<tr>
+<td style="text-align:left">neutral plane</td>
+<td style="text-align:left">中性面</td>
+<td style="text-align:left">电刷应处的位置，此处被短接绕组的感应电势为零、不打火</td>
+</tr>
+<tr>
+<td style="text-align:left">counter emf</td>
+<td style="text-align:left">反电势</td>
+<td style="text-align:left">电动机电枢旋转时感应出的反向电压，限制电枢电流</td>
+</tr>
+<tr>
+<td style="text-align:left">induction motor</td>
+<td style="text-align:left">异步（感应）电动机</td>
+<td style="text-align:left">靠旋转磁场在笼型转子中感应电流产生转矩，转速略低于同步速</td>
+</tr>
+<tr>
+<td style="text-align:left">slip</td>
+<td style="text-align:left">转差率</td>
+<td style="text-align:left">转子转速低于同步转速的差值，以同步转速的百分比表示</td>
+</tr>
+<tr>
+<td style="text-align:left">synchronous speed</td>
+<td style="text-align:left">同步转速</td>
+<td style="text-align:left">旋转磁场的转速，由电源频率与极数决定</td>
+</tr>
+<tr>
+<td style="text-align:left">alternator</td>
+<td style="text-align:left">交流发电机</td>
+<td style="text-align:left">经滑环（而非换向器）输出交流的发电机</td>
+</tr>
+<tr>
+<td style="text-align:left">exciter</td>
+<td style="text-align:left">励磁机</td>
+<td style="text-align:left">给交流发电机转子磁场供电的直流或交流电源</td>
+</tr>
+<tr>
+<td style="text-align:left">wye connection</td>
+<td style="text-align:left">星形（Y）接法</td>
+<td style="text-align:left">三相一端共接，线电压为相电压的 1.73 倍、线电流等于相电流</td>
+</tr>
+<tr>
+<td style="text-align:left">delta connection</td>
+<td style="text-align:left">三角形（△）接法</td>
+<td style="text-align:left">三相首尾相接，线电压等于相电压、线电流为相电流的 1.73 倍</td>
+</tr>
+<tr>
+<td style="text-align:left">generator control unit (GCU)</td>
+<td style="text-align:left">发电机控制组件</td>
+<td style="text-align:left">集调压、过压保护、并联均载、反流检测于一体</td>
+</tr>
+<tr>
+<td style="text-align:left">constant speed drive (CSD)</td>
+<td style="text-align:left">恒速传动装置</td>
+<td style="text-align:left">液压变速机构，把发动机变速输入变成 6,000 rpm 恒速输出</td>
+</tr>
+<tr>
+<td style="text-align:left">integrated drive generator (IDG)</td>
+<td style="text-align:left">组合传动发电机</td>
+<td style="text-align:left">CSD 与交流发电机装在同一壳体内的整体组件</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<p>蓄电池与逆变器：</p>
+<ul><li>铅酸电解液充足电比重 1.270（60 °F）；放电后降到约 1.150。</li><li>比重读数判读：1.300~1.275 高荷电，1.275~1.240 中等，1.240~1.200 低荷电（须立即充电）；比重计刻度范围 1.100~1.300。</li><li>新充足电的电解液体积比约 30% 硫酸、70% 蒸馏水，重量为纯水的 1.300 倍。</li><li>比重读数温度在 70~90 °F 内不需修正，超出范围按修正系数加减。</li><li>铅酸单体刚从充电机取下约 2.2 V，额定按 2 V 计；12 V 电池 6 个单体、24 V 电池 12 个单体；12 单体充足电开路电压约 26.4 V，充电约需 28 V。</li><li>电池寿命 500~1 300 个充放电循环；寿命终止定义为容量降到初始额定值的 80%。</li><li>镍镉单体典型开路电压约 1.25 V；KOH 电解液浓度 20%~34%（重量）。</li><li>Ni-Cad 换装铅酸舱时，sump jar 垫片用 3%（重量）硼酸水溶液浸透；硼酸中和液配比每加仑水一磅。</li><li>机舱通风须使密闭空间氢气浓度不超过 1%（体积），超过 4% 有爆炸危险。</li><li>锂离子：波音 787 用两个 32 V、8 单体电池组，可为飞机上电提供 150 A。</li><li>机载逆变器输出通常 400 cps，可多绕组（如 26 V AC 与 115 V）；小飞机静止式逆变器有 250 VA（应急，电池供电）与 2 500 VA（主交流）两种；稳压正弦波型输出抽头 105/115/125 V AC，全负载变化下输出变动典型小于 1%。</li></ul>
+<p>半导体与二极管：</p>
+<ul><li>齐纳击穿电压范围 2~200 V，功率额定约 250 mW~50 W；在交流电路中须两只反向串联。</li><li>1N4001~1N4007 系列：平均电流约 1 A，峰值反向电压 50~1 000 V；大功率整流二极管可载 300 A、峰值反向电压 600 V。</li><li>肖特基二极管开关时间可达 300 MHz。</li><li>LCD 功耗为微瓦级，LED 为毫瓦级。</li></ul>
+<p>三极管与放大器：</p>
+<ul><li>发射结正偏约 0.65~0.7 V（相对发射极为正）。</li><li>NPN 示例偏置：Vbb = 1 V（基极电源），Vcc = 6 V（集电极电源）。</li><li>增益 Gain = 信号输出 / 信号输入；1 V 输入、10 V 输出则增益为 10。</li><li>导通角：A 类 100%（360°）、AB 类大于 50% 小于 100%、B 类 50%、C 类小于 50%；B 类效率为 A 类的两倍；CE 组态输入输出相差 180°。</li><li>磁放大器效率约 90%，适用频率 100 Hz 及以下；示例中 A 线圈 1 A/10 匝、B 线圈 10 匝输出 1 A，C 线圈加 30 mA 直流后 B 输出降到 0.24 A。</li></ul>
+<p>逻辑与数字电路：</p>
+<ul><li>正逻辑示例：1（真）= +5 VDC，0（假）= −5 VDC；负逻辑示例：1（真）= 0 VDC，0（假）= +5 VDC。</li><li>脉冲上升/下降时间在 10%~90% 幅度之间测量，脉宽在上升沿与下降沿的 50% 幅度点之间测量。</li><li>布尔基本运算为 AND、OR、NOT，其组合构成另外 13 种算子，本章讨论其中 6 种。</li><li>中规模集成（MSI）每片含 12~100 个门元件；典型 16 脚 IC 外形约 0.785 in × 0.280 in × 0.200 in。</li></ul>
+<p>直流发电机与直流电动机：</p>
+<ul><li>每个线圈对应 2 个换向片：1 个线圈 2 片、2 个线圈 4 片、4 个线圈 8 片；线圈数增加只减小纹波（ripple），不提高最大电压，提高最大电压要靠增加每线圈匝数。</li><li>发电机转速为发动机曲轴转速的 1⅛~1½ 倍；开始正常发电的 "coming in" 转速约 1 500 rpm。</li><li>电刷压力：碳、石墨或轻金属化电刷为 1½~2½ psi；电刷弹簧张力通常调到 32~36 盎司。</li><li>磨电刷用 No. 000 或更细的砂纸；砂纸与换向器/滑环的间隙控制在 1/32"~1/16"。</li><li>高云母（high mica）下刻深度等于云母片宽度（原文记作 "approximately 1.20 inch"）。</li><li>大型 24 V 发电机端子为 B（正电枢）、A（并励磁场）、E（负电枢）。</li><li>28 V 直流电动机电枢电阻约 0.1 Ω，直接接通时理论电流 28/0.1 = 280 A，而正常运行仅约 4 A——差额由反电势承担。</li><li>电动机转矩：线圈平面与磁力线平行时转矩为零，垂直时为 100%，中间位置在 0~100% 之间变化（45° 时约 71%）。</li></ul>
+<p>交流电动机与交流发电机：</p>
+<ul><li>转速公式 rpm = 120 × 频率 / 极数；400 cps 电动机转速约为同极数 60 cps 电动机的 7 倍。</li><li>400 cps 感应电动机转速范围 6 000~24 000 rpm。</li><li>极数公式 P = 120 × f / N（P 为每相极数，f 为 cps，N 为额定转速 rpm）；例：60 cps、1 750 rpm 得 7 200/1 750 ≈ 4 极，同步转速 7 200/4 = 1 800 rpm。</li><li>转差率示例：转子 1 750 rpm、同步 1 800 rpm，差 50 rpm，slip = 50/1 800 = 2.78%。</li><li>分相式与电容启动式电动机在约 25% 额定转速时由离心开关切断启动绕组。</li><li>单相感应电动机最大做到 2 hp，主流在 1 hp 及以下；小容量 115 V，1/4 hp 及以上 110~220 V。</li><li>三相电动机断一根引线仍能运转但只输出 1/3 额定功率；两相电动机断一相输出 1/2 额定功率；两者都不能自启动。</li><li>交流串励电动机电枢电压限制在约 250 V；大型交流串励电动机常用 25 cps。</li><li>交流发电机频率公式 F = P × N / 120；例：2 极 3 600 rpm = 60 cps，4 极 1 800 rpm = 60 cps，6 极 500 rpm = 25 cps，12 极 4 000 rpm = 400 cps。</li><li>星形接法线电压为相电压的 1.73 倍、线电流等于相电流；三角形接法线电压等于相电压、线电流为相电流的 1.73 倍。</li><li>交流发电机—整流器组件用于 12 500 lb 以下飞机：转速 2 100~9 000 rpm，直流输出 26~29 V、125 A，三相三角形接全波桥式整流。</li><li>无刷交流发电机：励磁机（pilot exciter）8 极、8 000 rpm、533 cps；主发电机 6 极、8 000 rpm、31.5 kVA、115/200 V、400 cps，三相四线星形、中性点接地。</li><li>交流发电机额定举例：40 kVA、208 V、400 周、三相、功率因数 75%。</li></ul>
+<p>调压与恒速传动：</p>
+<ul><li>振动式调压器整定时，先把磁场变阻器调到端电压约为正常值的 60%。</li><li>差动继电器：发电机电压高于汇流条 0.35~0.65 V 时接通，出现反流时断开；电压继电器在 22 V 时闭合；过压继电器在 32 V 时动作。</li><li>恒速传动装置（CSD）输入 2 800~9 000 rpm 时输出恒定 6 000 rpm；输入低于 6 000 rpm 为 overdrive（增速），等于为 straight drive，高于为 underdrive（减速）。</li><li>CSD 驱动的发电机频率在空载 420 cps、满载 400 cps 之间变化。</li><li>CSD 补油泵供油压力 300 psi；泵侧缸体 14 个柱塞、马达侧缸体 16 个柱塞。</li><li>超速保护离心开关在输出转速达 7 000~7 500 rpm 时闭合，激励超速电磁线圈把阀锁在减速位。</li><li>晶体管调压器的基准桥由 R2、齐纳管 CR5、R9/R7/RT1（热敏电阻）等组成，用 Q1~Q4 控制励磁机励磁；F+ 端子附近设欠速开关，频率不足时禁止励磁。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<p>蓄电池</p>
+<ul><li>铅酸：正极板二氧化铅（PbO₂）、负极板海绵状铅、电解液稀硫酸；单体 2 V。</li><li>镍镉（Ni-Cad）：充电态正极为氢氧化镍（NiOOH）、负极为海绵镉（Cd）、电解液 KOH；极板分烧结式与袋式；单体 1.25 V。</li><li>密封铅酸（SLA）：单体匹配为固有特性，无电压凹陷（voltage depression）。</li><li>锂离子：正极金属氧化物、负极碳、电解液为有机溶剂中的锂盐；电极的阳极/阴极角色随电流方向反转。</li></ul>
+<p>逆变器（inverter）</p>
+<ul><li>旋转式：同一壳体内直流电动机 + 交流发电机，共用一轴。</li><li>永磁式：电动机电枢在转子上经换向器与电刷取直流，永磁转子在轴另一端，定子绕组取交流（无需电刷），转子 6 极交替 N/S。</li><li>旋转电枢式三相：直流电动机为四极复励（并励多匝细线 + 串励少量粗线），离心调速器控速；交流发电机为三相四极星形，经三个滑环输出。</li><li>感应子式（inductor-type）：转子为开槽软铁叠片，励磁线圈与交流电枢线圈分别绕在两组静止极上，靠磁阻变化感应交流。</li><li>静止式（固态）：无运动部件、可传导冷却，按输出波形与功率分级，有稳压正弦波型与方波型。</li></ul>
+<p>半导体器件家族</p>
+<ul><li>二极管：整流二极管、齐纳二极管、LED、LCD、光电二极管、变容二极管、肖特基二极管、阶跃恢复二极管（step-recovery diode）。</li><li>三极管：按 NPN / PNP 分层排列分类；三个区域为发射极 E（重掺杂）、基极 B（很薄、轻掺杂）、集电极 C（中等掺杂）。</li><li>场效应管：JFET（一个 PN 结，栅极反偏形成耗尽区压缩沟道）与 MOSFET（增强型，无栅偏压时无沟道，符号用虚线表示）。</li><li>组态：共射 CE、共集 CC、共基 CB；判断方法是看输入、输出各用哪个极，剩下那个就是公共极。</li></ul>
+<p>滤波与放大</p>
+<ul><li>电容滤波：与负载并联，对纹波呈低阻抗、对直流呈高阻抗，把纹波旁路到地。</li><li>电感滤波：与负载串联，对纹波呈高阻抗（铁芯扼流圈，几亨利）、对直流呈低阻抗。</li><li>LC 组合：L 型（倒 L 型）、T 型、π 型；按电容位置分电容输入式与扼流圈输入式；滤波电容常用电解电容（注意极性）。</li><li>滤波器四类：低通、高通、带通、带阻（带阻中窄带的称陷波器 notch filter）。</li><li>放大器耦合方式：直接耦合、RC 耦合（最常用）、阻抗耦合（用线圈作负载）、变压器耦合（效率高、可兼作阻抗匹配）。</li><li>反馈：正反馈（再生，与输入同相，会造成音频啸叫）与负反馈（退化，反相，降低增益换稳定）。</li></ul>
+<p>逻辑与数字电路</p>
+<ul><li>逻辑门：非门（反相器）、与门 AND、或门 OR、与非门 NAND、或非门 NOR、异或门 XOR、同或门 XNOR。</li><li>集成电路：单片式（monolithic）把电阻、三极管、二极管、电容都做在同一晶片上；集成度分小规模 SSI（基本门）、中规模 MSI（编码器、译码器、寄存器、计数器、多路复用器、小容量存储器、运算电路）、大规模 LSI、微处理器。</li><li>微处理器：可编程执行算术与逻辑运算，作 CPU 与存储器、I/O 电路配合；其电路基本组织称为 architecture。</li></ul>
+<p>直流发电机</p>
+<ul><li>主要部件：磁极框架（field frame / yoke）、转动电枢（armature）、电刷组件（brush assembly）。</li><li>磁极：叠片以减少涡流，极靴凸出（salient pole）以缩短气隙；磁极数必为偶数，N/S 交替。</li><li>电枢：环形（Gramme ring，内侧绕组切割磁力线少，已少用）与鼓形（drum，绕组长边全部切割磁通，感应电压高得多）；鼓形绕组分叠绕（lap，大电流、多电刷、并联支路）与波绕（wave，高电压、串联相加）。</li><li>换向器：硬抽铜楔形片 + 云母绝缘，V 形环固定，凸起部分称 riser；电刷为高等级碳，经 pigtail 引出。</li><li>抑制电枢反应：移动电刷到中性面（plane of commutation）、加补偿绕组、加换向极。</li></ul>
+<p>直流电动机</p>
+<ul><li>主要部件：电枢组件（叠片软铁芯、绕组、换向器）、磁场组件（磁极框架、极靴、励磁线圈，2~8 极）、电刷组件、端盖。</li><li>类型：串励（启动转矩大、轻载飞车）、并励（转速几乎恒定、启动转矩小）、复励（串励+并励，叠加式 cumulative 或差接式 differential）。</li><li>换向：每转两次倒换线圈端子方向，实际电机用大量线圈与换向片使转矩连续。</li></ul>
+<p>交流电动机</p>
+<ul><li>感应电动机：定子（分布式绕组嵌在槽内）+ 笼型转子（铜或铝导条焊在两端环上，形似鼠笼）；靠旋转磁场感应电流产生转矩，转速略低于同步速。</li><li>单相感应电动机要解决自启动：蔽极式（shaded pole，铜环使磁通滞后，启动转矩极弱、功率因数低）、分相式（split-phase，启动绕组与运行绕组相差 90 电角度，离心开关在 25% 转速切断）、电容启动式（电容串在启动绕组中，启动转矩接近额定转矩）。</li><li>同步电动机：定子产生旋转磁场，转子通直流形成磁场并被"拖着"同步旋转；无启动转矩，需另用起动电动机或笼型启动绕组牵入同步。</li><li>交流串励电动机：有电刷与换向器，交直流两用；为适应交流需叠片磁路、高导磁硅钢片、浅极靴少匝数低磁通密度、补偿绕组、预防引线（preventive leads）；小功率者称通用电动机（universal motor）。</li></ul>
+<p>交流发电机</p>
+<ul><li>按励磁方式：同轴直流发电机励磁（或先用电池励磁后自励）、由交流系统变压整流励磁（靠剩磁建压）、整体无刷式（整流器装在转轴上）。</li><li>按相数：单相、两相、三相（机载最常见），甚至六相以上。</li><li>按旋转部件：转枢式（仅小容量、一般不用）与转磁场式（定子为电枢、转子为磁场，可大截面导线直连负载，机载几乎全用此型）。</li><li>三相接法：星形（wye/star，可引出中性线）与三角形（delta）。</li><li>无刷式组成：pilot exciter + exciter + 主发电机；励磁机磁场装在主发电机定子上并带永磁体（保证建压，免"充磁 flashing"），励磁机三相电枢装在转轴上，输出经转轴内三相全波桥式整流后送主发电机旋转磁场。</li><li>起动发电机（starter generator）：启动时作起动机、运转时作发电机，省去专用起动机；787 发动机上已装大功率型。</li></ul>
+<p>调压与并网</p>
+<ul><li>调压手段：改变励磁电流（磁场变阻器）→ 改变磁场强度 → 改变输出电压。</li><li>振动式调压器：电磁铁吸力与弹簧张力平衡，触点通断把电阻切入/切出磁场回路；dashpot 阻尼防抖动（anti-hunting）、触点并联电容消火花。</li><li>三单位调压器：电压调节器 + 电流限制器（限制输出电流）+ 反流切断器（防止电池向发电机倒灌而"motoring"）。</li><li>差动继电器：电压继电器 + 差动继电器 + 主接触器三部分，按发电机与汇流条电压差接通/断开。</li><li>发电机控制组件（GCU）：调压、过压保护、并联运行均载、过励磁保护、差压（差动电压）检测、反流检测。</li><li>恒速传动装置（CSD）：液压传动，由输入轴、旋转缸体（泵侧 14 柱塞、马达侧 16 柱塞）、泵摆盘、马达摆盘、补油泵与回油泵、调速器（离心飞重式或电控式）、单向超转离合器、超速与负载分配（droop）电路组成；CSD 与发电机合装一体即 IDG。</li><li>晶体管调压器：基准桥（R2 + 齐纳管 CR5 与 R9/R7/RT1 组成）+ 差动放大（Q1、Q4）+ 输出级（Q2、Q3）控制励磁机磁场；含欠速开关（频率不足禁止励磁）与 K1 继电器控制的"充磁"（field flash）电路。</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<p>蓄电池</p>
+<ul><li>只能用蒸馏水补水，且必须在电池完全充足电时加——Ni-Cad 放电时极板吸收电解液、充电时液面上升，充电不足时加水会溢出。</li><li>比重必须在加蒸馏水之前读；温度超出 70~90 °F 要按修正系数修正读数。</li><li>保持单体与电池箱上部清洁干燥；白色苔状物是碳酸钾（K2CO3），须清除。</li><li>单体间连接件按规定扭矩紧固；保持通气帽畅通，充电时松开通气帽但留在原位。</li><li>充电区域禁止明火与火花；断开或接通电池连线前先用远程开关把电池离线。</li><li>操作 KOH 电解液须戴护目镜、塑料手套和围裙；溅到皮肤或衣物立即用醋或稀硼酸溶液中和，再用清水冲洗；硫酸灼伤先用水冲、再用碳酸氢钠。</li><li>Ni-Cad 换装前，电池舱要清洁干燥，用氨水或硼酸溶液中和残酸，彻底干燥后涂耐碱清漆。</li><li>Ni-Cad 应急电池组须定期在台架上做容量（能量）测试；SLA 可装机测试并用 BITE 按钮自检。</li></ul>
+<p>直流发电机</p>
+<ul><li>装机检查六项：安装牢固性、电气连接状况、内部脏污与油（有油要查发动机油封，脏物用压缩空气吹净）、电刷状况、发电机工作情况、调压器工作情况。</li><li>电刷研磨（seating）：抬起电刷，插入 No. 000 或更细砂纸（砂面朝电刷），沿电枢旋转方向拉；回程时抬起电刷；只在旋转方向磨。</li><li>严禁用金刚砂布（emery cloth）或类似磨料研磨电刷或换向器——含导电颗粒会引起打火。</li><li>电刷压力过大磨损快，过小会跳动造成烧蚀麻点；碳/石墨/轻金属化电刷压力 1½~2½ psi，弹簧张力 32~36 盎司，用盎司刻度的弹簧秤在弹簧臂与电刷顶接触点测量。</li><li>电刷引线（pigtail）须连接可靠，不得妨碍电刷自由活动；其作用是载流，避免电流经弹簧致其过热失效，并减少电刷在刷握中摆动引起的侧面磨损与打火。</li><li>磨电刷后必须彻底清除碳粉——碳粉曾引起多起严重火灾并损坏发电机。</li><li>换向器表面不得沾油或润滑脂，清洁时严防划伤；打火是电刷位置不当（换向不良）的主要原因。</li><li>高云母：换向片间云母凸出时须下刻至云母片宽度的深度（原文记 "approximately 1.20 inch"）。</li><li>电刷磨到规定最小长度必须更换；某些电刷表面轻微沟槽属正常（内含两根膨胀率更高的硬质芯），不要因沟槽更换。</li><li>更换发电机必须选额定值、旋转方向都正确的型号——方向错了电压极性会反。</li></ul>
+<p>直流电动机</p>
+<ul><li>检查顺序：先查被驱动部件工作是否正常、再查外部线路（导线、接头、端子、保险丝、开关）、保持电动机清洁与安装螺栓紧固、查电刷状况/长度/弹簧张力、查换向器（清洁度、麻点、划痕、粗糙、腐蚀、烧蚀、高云母）、查外露导线有无过热、按厂家要求润滑（多数机载电动机大修间隔内不需润滑）、按厂家要求调整并润滑齿轮箱。</li><li>换向器脏污用蘸推荐溶剂的布清洁；粗糙或腐蚀用 000 或更细砂纸打磨后压缩空气吹净；烧蚀、严重麻点、沟槽或云母与换向片齐平则更换电动机。</li><li>导线或绕组绝缘烧焦、开裂、发脆则更换电动机。</li><li>多数"电动机不转"其实不是电动机故障：先查外接电路开路/接地/短路与被驱动机构机械卡滞；保险丝未断多为开路，保险丝熔断多为接地或短路。</li><li>蓄电池电压低会造成继电器"颤动"（chattering）：吸合后电动机大电流把电压拉到保持值以下、断开后电压回升又吸合，反复通断电弧烧蚀触点。</li></ul>
+<p>交流电动机</p>
+<ul><li>维护简单：密封轴承出厂已润滑则无需再加注；线圈必须保持干燥、不沾油。</li><li>温度是首要限制因素，经验判据是"手觉得烫就是过热"。</li><li>声音是第二判断依据：正常均匀嗡鸣；过载发出"grunt"沉闷声；三相电动机断一相不转并发出"growl"低吼；敲击声多为电枢线圈松动、轴不对中或轴承磨损导致扫膛。</li></ul>
+<p>交流发电机</p>
+<ul><li>建压失败时先核对电压表（用其他发电机或另一只表比对），再查线路、电刷、传动装置；若均正常，可能是励磁机失磁，需按厂家说明对励磁绕组"充磁"（flashing the field）；充磁后仍无电压则更换发电机。</li><li>外壳用认可溶剂清洁；粗糙或麻点的励磁机换向器/滑环用 000 砂纸打磨后擦净抛光；定期检查电刷长度与状况。</li><li>大型机（两台或四台发电机）每个配电板有三个信号灯分别接三相，灯亮表示该板有电；各汇流条可用该汇流条供电的设备逐条验证。</li><li>台架试验：交流发电机与恒速传动装置在修理厂用试车台测试，输入转速 2 400~9 000 rpm；典型台架电动机用 220/440 V、60 周三相电源，配通风鼓风机、油冷器、负载箱与仪表。</li><li>便携式负载箱可在地面或机上给发电机加载，由电阻性与电抗性负载、选择开关和表面板仪表组成。</li></ul>
+<p>调压与并网</p>
+<ul><li>三单位调压器的三个单元不可混用：电压调节器按线电压动作、电流限制器按线电流动作、反流切断器按电流方向动作。</li><li>多台发电机并联时，差动继电器在轻载下不会全部闭合（例如 50 A 负载时可能只闭合两三个），加大负载后均载电路降低已并网发电机电压、抬高其余发电机电压，使其余继电器闭合。</li><li>并联的交流发电机必须频率与电压都相等才能合闸，否则突然并网可能造成严重损坏。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（电工电子基础·后半）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> Abrasive cloth containing conductive grit must never be _____ on a commutator, because the particles embed in the copper and cause sparking.</p>
+<p>A) use　　B) using　　C) used　　D) usage</p>
+<p><strong>2.</strong> An induction motor can never run at exactly the _____ speed, because the rotor bars must cut the rotating field in order to produce torque.</p>
+<p>A) synchronize　　B) synchronizing　　C) synchronously　　D) synchronous</p>
+<p><strong>3.</strong> A device that changes alternating current into direct current is called a _____, and its operation depends on the one-way conduction of a diode.</p>
+<p>A) inverter　　B) rectifier　　C) resistor　　D) transistor</p>
+<p><strong>4.</strong> A Zener diode is operated in reverse breakdown, where it holds a nearly constant voltage _____ a wide range of current.</p>
+<p>A) over　　B) across　　C) through　　D) above</p>
+<p><strong>5.</strong> If one of the three leads of a three-phase motor opens, the motor keeps running but delivers only one _____ of its rated power.</p>
+<p>A) third　　B) three　　C) thirds　　D) thirdly</p>
+<p><strong>6.</strong> Without counter emf, the starting current of a 28-volt motor would be many times its normal _____ current.</p>
+<p>A) operate　　B) operation　　C) operated　　D) operating</p>
+<p><strong>7.</strong> Before two alternators are paralleled, each of them must be _____ to the same voltage and frequency.</p>
+<p>A) bringing　　B) brought　　C) bring　　D) bring-up</p>
+<p><strong>8.</strong> The difference between the synchronous speed and the actual rotor speed of an induction motor is called _____.</p>
+<p>A) shift　　B) glide　　C) slip　　D) drift</p>
+<p><strong>9.</strong> The cells of a battery are connected in _____ with one another, so that their individual voltages add together.</p>
+<p>A) series　　B) sequence　　C) order　　D) line</p>
+<p><strong>10.</strong> Carbon dust must be blown out of a generator after the brushes have been seated, since it _____ several serious fires in the past.</p>
+<p>A) cause　　B) causing　　C) caused　　D) causes</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. C</strong> —— <code>must never be _____</code> 是情态动词被动结构，须用<strong>过去分词</strong> <code>used</code>（绝不可被使用）。A <code>use</code> 是原形，<code>be use</code> 不成立；B <code>using</code> 是现在分词，不表被动；D <code>usage</code> 是名词（用法/使用量），不能作分词。考点：<strong>情态动词 + be + 过去分词</strong>。</p>
+<p><strong>2. D</strong> —— 空格修饰名词 <code>speed</code>，需要<strong>形容词</strong> <code>synchronous</code>（同步的），<code>synchronous speed</code> 是本章的固定术语「同步转速」。A <code>synchronize</code> 是动词、B <code>synchronizing</code> 是分词（虽可作定语但此处指同步转速这一固有名词）、C <code>synchronously</code> 是副词，不能修饰名词。考点：<strong>同词族词性（动/分词/副/形）</strong>。</p>
+<p><strong>3. B</strong> —— 把交流变成直流的器件是<strong>整流器</strong> <code>rectifier</code>，依靠二极管的单向导电性。A <code>inverter</code> 恰好反着来（把直流变交流），是本章第 8 节重点辨析的易混项；C <code>resistor</code> 是电阻器（限制电流，不改变电流方向）；D <code>transistor</code> 是三极管（放大或开关，不作整流）。考点：<strong>近义/反义术语辨析</strong>。</p>
+<p><strong>4. A</strong> —— <code>over a wide range of ...</code> 是固定搭配，表示「在很宽的范围内」。B <code>across</code> 表跨接在某两端之间（用于电压跨接于元件），C <code>through</code> 表穿过（用于电流流过），D <code>above</code> 表位置或数值「在……之上」，都不与 <code>range</code> 搭配表示范围。考点：<strong>介词与 range 的固定搭配</strong>。</p>
+<p><strong>5. A</strong> —— 表示分数「三分之一」用 <code>one + 序数词单数</code>，即 <code>one third</code>。B <code>three</code> 是基数词（<code>one three</code> 不成立）；C <code>thirds</code> 是复数序数词，用于分子大于 1 的分数（如 <code>two thirds</code>），与 <code>one</code> 连用错误；D <code>thirdly</code> 是列举用的副词（第三点）。考点：<strong>分数表达与序数词单复数</strong>。</p>
+<p><strong>6. D</strong> —— 修饰名词 <code>current</code> 需用<strong>现在分词作定语</strong> <code>operating</code>（工作电流、运行电流）。A <code>operate</code> 是动词原形、B <code>operation</code> 是名词（<code>operation current</code> 不是该术语）、C <code>operated</code> 是过去分词，表被动（被操作的），均不合。考点：<strong>现在分词作前置定语</strong>。</p>
+<p><strong>7. B</strong> —— <code>must be _____ to</code> 是情态动词被动，需要<strong>过去分词</strong> <code>brought</code>（必须被带到……），<code>bring ... to the same voltage</code> 的被动形式。A <code>bringing</code> 是现在分词，C <code>bring</code> 是原形，D <code>bring-up</code> 是名词（拉起、启动），三者都不能构成被动。考点：<strong>不规则动词的过去分词与被动语态</strong>。</p>
+<p><strong>8. C</strong> —— 异步电动机转速低于同步转速的差值在术语上叫<strong>转差（率）</strong> <code>slip</code>，是本章的核心名词。A <code>shift</code> 意为「移动、班次」；B <code>glide</code> 意为「滑翔」（指平滑运动，非转速差）；D <code>drift</code> 意为「漂移」（多指缓慢偏离，如仪表漂移），都不是该电学术语。考点：<strong>近义动词名词的术语辨析</strong>。</p>
+<p><strong>9. A</strong> —— <code>in series with</code> 是「与……串联」的固定搭配，串联时各单体电压相加。B <code>in sequence</code> 意为「按顺序」、C <code>in order</code> 意为「整齐/按次序」、D <code>in line</code> 意为「排成一行/一致」，三者都是顺序或位置概念，不是电路连接方式。考点：<strong>介词短语固定搭配（串联/并联）</strong>。</p>
+<p><strong>10. D</strong> —— <code>since</code> 引导原因状语从句，主句用现在时（<code>must be blown out</code>），从句陈述的是长期成立的事实，用<strong>一般现在时 + 第三人称单数</strong> <code>causes</code>；<code>it</code> 指代不可数名词 carbon dust。A <code>cause</code> 少了第三人称单数 -s；B <code>causing</code> 不能单独作谓语；C <code>caused</code> 是过去时，与「碳粉历来引起多起火灾」的现在时语境及主句时态不呼应。考点：<strong>主谓一致与从句时态</strong>。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ul><li>整流器（rectifier）与逆变器（inverter）：前者把交流变直流、用二极管的单向性；后者把直流变交流、用振荡/开关或旋转电机。两者方向相反，不要因为都带"变流"字样而混用。</li><li>齐纳二极管与普通整流二极管：普通管反偏就是截止（超过峰值反向电压则损坏）；齐纳管在设计的击穿电压处"可控击穿"并恒压工作，是正常用法而非损坏。</li><li>NPN 与 PNP：不只看材料排列，最快判据是符号上发射极箭头方向——箭头朝内是 PNP，朝外是 NPN；PNP 的多数载流子是空穴，偏置极性须与 NPN 全部相反。</li><li>发电机与电动机：同一台机器，输入机械能输出电能即发电机（导体切割磁力线生电势），输入电能输出机械能即电动机（载流导体在磁场中受力生转矩）；换向器在发电机里起"整流"作用，在电动机里起"换向"作用。</li><li>感应电动机与同步电动机：感应（异步）电动机转矩来自转子感应电流，转速永远略低于同步速（有转差）、能自启动；同步电动机转子通直流、转速严格等于同步速、本身无启动转矩，必须另设启动装置。</li><li>恒压充电与恒流充电：恒压是"电压固定、电流随时间衰减"；恒流是"电流固定、电压随时间上升"。二者不能按字面把"恒"理解成两个量都不变。</li></ul>

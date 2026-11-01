@@ -1,0 +1,204 @@
+<h1 id="ch-04-engine-ignition-electrical-systems-发动机点火与电气系统">Ch 04 · Engine Ignition &amp; Electrical Systems（发动机点火与电气系统）</h1>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>本章讲活塞发动机磁电机点火的磁路、一次/二次电路与起动辅助装置，涡轮发动机电容放电高能点火，以及火花塞、点火线束、点火正时和飞机电气线路的选型、施工与检查。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ol><li>点火系统的共同要求：按点火顺序在各缸火花塞电极间打出高压火花，并在上止点前规定的曲轴转角度数发火；系统输出电压必须在所有工况下都足以击穿电极间隙。</li><li>磁电机是永磁式交流发电机。转子磁极每转 90° 完成一次"全对准—中性—反向全对准"，一次电流把磁通"顶住"到中性位置之后几度，即 E-gap；此时断开触点，磁通骤变，二次线圈感应出可达 20,000 V 的高压。</li><li>发火必须同时满足三件事：转子在 E-gap、断电器触点打开、分电器转子对准该缸电极。分电器转速为曲轴的一半，分电器座上的编号是"磁电机发火顺序"，不是发动机缸号。</li><li>起动时磁电机转速只有约 80 rpm，感应电压不足，必须靠辅助装置：booster coil、starting vibrator（shower of sparks）、impulse coupling 或电子点火；它们同时承担"起动延迟点火角"的任务。</li><li>火花塞由电极、绝缘体、外壳三部分组成。热值由绝缘体鼻长决定：hot plug 鼻长、散热慢；cold plug 鼻短、散热快。间隙必须用圆线规测，安装扭矩过大会拉伸外壳并破坏气密。</li><li>涡轮点火是电容放电式高能系统：exciter 把低压整成高压给储能电容充电（约 4 J），再由触发变压器电离 igniter plug 间隙放电；只在起动和连续点火时工作，需风扇冷却。</li><li>活塞点火正时要四个条件同一瞬间成立（1 缸压缩行程上止点前规定度数、转子在 E-gap、1 缸凸角处触点刚要打开、分电器指针对准 1 缸电极）。点火过早会功率下降、过热、爆震和早燃；过晚会燃烧不完全、功率下降。</li><li>电气部分的核心是"选线—施工—保护"：按允许压降（主电缆不超过调节电压的 2%）和载流量选导线，按弯曲半径、间隙、绑扎、搭接接地规范施工，用过流保护器、开关降额和负载限制保证不超限。</li></ol>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">magneto</td>
+<td style="text-align:left">磁电机</td>
+<td style="text-align:left">永磁转子由发动机驱动、靠磁通突变产生点火高压的交流发电机式点火电源。</td>
+</tr>
+<tr>
+<td style="text-align:left">high-tension magneto</td>
+<td style="text-align:left">高压磁电机</td>
+<td style="text-align:left">高压在磁电机内部产生，经分电器和高压线束直接送到火花塞。</td>
+</tr>
+<tr>
+<td style="text-align:left">low-tension magneto</td>
+<td style="text-align:left">低压磁电机</td>
+<td style="text-align:left">磁电机只产生低压，由装在火花塞附近的变压器线圈升压。</td>
+</tr>
+<tr>
+<td style="text-align:left">E-gap position</td>
+<td style="text-align:left">效率间隙位置</td>
+<td style="text-align:left">转子越过中性位置几度、一次电流把磁通顶住后突然反转的位置。</td>
+</tr>
+<tr>
+<td style="text-align:left">full register position</td>
+<td style="text-align:left">全对准位置</td>
+<td style="text-align:left">磁极与极靴完全对齐、铁芯磁通最大的位置（0°）。</td>
+</tr>
+<tr>
+<td style="text-align:left">neutral position</td>
+<td style="text-align:left">中性位置</td>
+<td style="text-align:left">距全对准 45°、铁芯磁通为零的位置。</td>
+</tr>
+<tr>
+<td style="text-align:left">breaker contact points</td>
+<td style="text-align:left">断电器触点</td>
+<td style="text-align:left">由凸轮控制开闭、切断一次电流的触点副。</td>
+</tr>
+<tr>
+<td style="text-align:left">condenser</td>
+<td style="text-align:left">电容器</td>
+<td style="text-align:left">与触点并联，抑制触点电弧并加速一次磁场崩塌。</td>
+</tr>
+<tr>
+<td style="text-align:left">distributor rotor / block</td>
+<td style="text-align:left">分电器转子 / 分电器座</td>
+<td style="text-align:left">转子把高压分配到座上各缸电极，再经点火线到火花塞。</td>
+</tr>
+<tr>
+<td style="text-align:left">ignition harness</td>
+<td style="text-align:left">点火线束</td>
+<td style="text-align:left">从分电器座接到各缸火花塞的带屏蔽高压导线总成。</td>
+</tr>
+<tr>
+<td style="text-align:left">shielding</td>
+<td style="text-align:left">屏蔽</td>
+<td style="text-align:left">包在导线外的金属编织网，抑制点火系统对无线电的干扰。</td>
+</tr>
+<tr>
+<td style="text-align:left">flashover</td>
+<td style="text-align:left">闪络</td>
+<td style="text-align:left">高压沿受潮绝缘表面跳火到地，或跳向错误的火花塞。</td>
+</tr>
+<tr>
+<td style="text-align:left">carbon tracking</td>
+<td style="text-align:left">碳迹</td>
+<td style="text-align:left">闪络烧出的铅笔状导电碳通道，使火花持续入地、该缸不点火。</td>
+</tr>
+<tr>
+<td style="text-align:left">impulse coupling</td>
+<td style="text-align:left">冲击联轴器</td>
+<td style="text-align:left">起动时蓄能、瞬间扭快磁电机并延迟点火的机械装置。</td>
+</tr>
+<tr>
+<td style="text-align:left">booster coil</td>
+<td style="text-align:left">升压线圈</td>
+<td style="text-align:left">独立于磁电机、起动时自产连续火花的旧式辅助点火装置。</td>
+</tr>
+<tr>
+<td style="text-align:left">starting vibrator</td>
+<td style="text-align:left">起动振动器</td>
+<td style="text-align:left">把直流变成脉动直流送入磁电机一次线圈，产生"火花雨"。</td>
+</tr>
+<tr>
+<td style="text-align:left">shower of sparks</td>
+<td style="text-align:left">火花雨</td>
+<td style="text-align:left">起动振动器在电嘴处产生的一串连续火花。</td>
+</tr>
+<tr>
+<td style="text-align:left">retard breaker</td>
+<td style="text-align:left">延迟断电器</td>
+<td style="text-align:left">起动时提供延迟点火角的附加断电器。</td>
+</tr>
+<tr>
+<td style="text-align:left">ignition timing</td>
+<td style="text-align:left">点火正时</td>
+<td style="text-align:left">火花相对活塞位置（曲轴转角）的定时关系。</td>
+</tr>
+<tr>
+<td style="text-align:left">advance / retard</td>
+<td style="text-align:left">提前 / 延迟</td>
+<td style="text-align:left">火花早于或晚于正常发火角。</td>
+</tr>
+<tr>
+<td style="text-align:left">spark plug reach</td>
+<td style="text-align:left">火花塞伸入深度</td>
+<td style="text-align:left">拧入缸盖的螺纹段长度，决定电极在燃烧室中的位置。</td>
+</tr>
+<tr>
+<td style="text-align:left">heat range</td>
+<td style="text-align:left">热值</td>
+<td style="text-align:left">火花塞把燃烧热传给缸盖的能力，由绝缘体鼻长决定。</td>
+</tr>
+<tr>
+<td style="text-align:left">fouling</td>
+<td style="text-align:left">积污</td>
+<td style="text-align:left">积炭、积铅、积油使火花不能或间歇跳过间隙。</td>
+</tr>
+<tr>
+<td style="text-align:left">pre-ignition</td>
+<td style="text-align:left">早燃</td>
+<td style="text-align:left">电极烧红像 glow plug 一样在正常点火前点燃混合气。</td>
+</tr>
+<tr>
+<td style="text-align:left">exciter</td>
+<td style="text-align:left">激发器</td>
+<td style="text-align:left">涡轮点火中储能、升压并触发放电的密封盒。</td>
+</tr>
+<tr>
+<td style="text-align:left">igniter plug</td>
+<td style="text-align:left">点火电嘴</td>
+<td style="text-align:left">涡轮燃烧室用的大间隙、耐高能放电的点火件。</td>
+</tr>
+<tr>
+<td style="text-align:left">annular-gap igniter plug</td>
+<td style="text-align:left">环隙电嘴</td>
+<td style="text-align:left">伸入火焰筒少许的长伸入式电嘴，火花更有效。</td>
+</tr>
+<tr>
+<td style="text-align:left">constrained-gap igniter plug</td>
+<td style="text-align:left">约束间隙电嘴</td>
+<td style="text-align:left">不伸入火焰筒、工作温度较低，火花越过火焰筒壁面。</td>
+</tr>
+<tr>
+<td style="text-align:left">FADEC</td>
+<td style="text-align:left">全权数字发动机控制</td>
+<td style="text-align:left">用 ECU 同时控制点火与燃油喷射的固态数字系统。</td>
+</tr>
+<tr>
+<td style="text-align:left">EICAS</td>
+<td style="text-align:left">发动机指示与机组警告系统</td>
+<td style="text-align:left">双显示器、双计算机的发动机参数与警告显示系统。</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<ul><li>一次线圈：约 180 匝、18 号导线；二次线圈：约 13,000 匝细绝缘导线。</li><li>二次电压：高压磁电机通常可达 20,000 V。</li><li>磁路角度：full register 0° → neutral 45° → 下一个 full register 90°；四极转子每转 360° 有 4 个最大磁通位、4 个零磁通位、4 次磁通换向。</li><li>E-gap 角度随机型不同；S-200 磁电机为从 neutral 起再转 10°。</li><li>断电器触点间隙（S-200）：0.018 in ± 0.006 in（0.46 mm ± 0.15 mm）。</li><li>分电器转速：四行程发动机上为曲轴转速的 1/2；分电器座电极数等于该磁电机所服务的缸数。</li><li>九缸星形发动机点火顺序：1-3-5-7-9-2-4-6-8。</li><li>起动转速下磁电机约 80 rpm。</li><li>火花塞工况：2,100 rpm 时单只火花塞每秒约 17 次高压火花；电极温度超过 3,000 °F；燃气压力可达 2,000 psi；电压可达 20,000 V。</li><li>磁电机掉转检查：每台磁电机通常 25–75 rpm；点火开关检查在 700 rpm 进行，掉转 200–300 rpm 后立即回 both。</li><li>断电器触点检查时张开量不得超过 1/16 in；油毡加油每处一滴，至少等 15 min 后再用无绒布吸掉多余油。</li><li>涡轮 exciter：直流输入 24 V；也可由 115 V AC 或永磁发电机供电；储能电容最大约 4 J（1 J/s = 1 W）。</li><li>拆涡轮高压线前先断低压一次引线，至少等 1 min 让储能放完。</li><li>DC 发电机额定：约 14 V 或 28 V；对应电池满电 12 V 或 24 V；"coming in" 转速约 1,500 rpm；传动比 1 1/8–1 1/2 倍曲轴转速。</li><li>主电源电缆压降：不超过调节电压的 2%（发电机带额定电流或电池按 5 分钟率放电时）。</li><li>接地回路电阻：从发电机/电池接地点到任一用电设备接地端子 0.005 Ω 视为合格；搭接跳线每个连接不超过 0.003 Ω。</li><li>导线标识：沿长度不超过 15 in 打一处标记，且在每个接头/终端 3 in 以内。</li><li>线束：一般不超过 75 根线或 2 in 直径；支撑间松弛不超过 1/2 in。</li><li>弯曲半径：线组/线束不小于外径的 10 倍；端子排处不小于 3 倍；同轴电缆不小于 6 倍。</li><li>支撑间距大于 12 in 时必须绑扎；绑扎/绞接后线头修剪到约 3/8 in。</li><li>导线与孔边小于 1/4 in 时必须装 grommet；与操纵索至少 3 in；与燃油/氧气导管至少 1/2 in，能做到 6 in 分离最好；分离在 1/2–2 in 之间时用背对背卡箍刚性隔开。</li><li>导管内径比线束最大外径约大 25%。</li><li>剥线/接头长度：分电器座端 3/8 in、火花塞端 1/4 in、拼接每端 1 in；应急焊接修补每端 1 1/2 in、绕 4 圈、60/40 锡铅树脂芯焊锡，灌封 4 h 初固、24 h 完全固化。</li><li>灯泡类负载合闸瞬间电流可达连续电流的 15 倍，开关必须降额。</li><li>电压降图的温度修正：L1 以 20 °C 为基准，换算到导体温度 T2（°C）下的长度 L2，按图 4-86/4-87 注中公式修正（原文公式排版残缺，系数未能可靠还原）。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<ul><li>活塞发动机点火系统分类</li><li>magneto-ignition system（磁电机点火）与 electronic FADEC system（电子全权数字控制）</li><li>single magneto（单磁电机，一台磁电机 + 线束，与另一台单磁电机同装一机）</li><li>dual magneto（双磁电机：一个旋转磁铁、一副凸轮带动两套触点与线圈，两个独立分电器，同一壳体）</li><li>high-tension（高压在机内产生）与 low-tension（低压配电、火花塞旁变压器升压）</li><li>高压磁电机三个电路</li><li>磁路：多极永久磁铁转子、软铁铁芯、极靴；磁通经铁芯穿过一次/二次线圈</li><li>一次电路：断电器触点、电容器、粗铜线一次线圈；触点闭合时建立一次电流，电容器并在触点两端</li><li>二次电路：二次线圈（约 13,000 匝）、分电器转子、分电器座、点火线、火花塞</li><li>断电器组件：无枢轴式（pivotless）触点、片弹簧、Micarta 凸轮从动件、毡油垫；凸轮有 2/4/8 凸角及补偿型 14 凸角</li><li>起动机与点火控制</li><li>ignition switch / magneto switch：off 位是把一次电路经开关接地（与其他开关"断开即断电"相反）</li><li>ignition/starter switch：同时控制磁电机与起动电磁开关；部分机型带 push to prime</li><li>起动辅助：booster coil、starting vibrator（含 retard breaker 的 high-tension 与 low-tension 两种接线）、impulse coupling、电子点火</li><li>火花塞</li><li>三部分：电极（massive 镍基合金 或 fine wire 铱/铂）、氧化铝陶瓷绝缘体、外壳（细牙螺纹 + 铜垫圈，内部密封）</li><li>分类：hot / cold（鼻长）、reach（螺纹段长度）、屏蔽桶 5/8 in 与 3/4 in 两种</li><li>涡轮发动机点火</li><li>双套独立系统：两个 exciter、两个变压器、两根中间点火线、两根高压线、两只 igniter plug</li><li>exciter 内部（老式电容式）：噪声滤波器、直流电机、多凸角凸轮与单凸角凸轮、断电器、自耦变压器、整流器、储能电容、触发变压器与触发电容、常开接触器、泄放电阻</li><li>igniter plug：annular-gap（long reach，伸入火焰筒）与 constrained-gap（不伸入、温度较低）</li><li>冷却：风扇空气先到 exciter 盒，再沿点火线、绕过电嘴回短舱</li><li>FADEC / PowerLink</li><li>ECU：下部电路板、上部点火线圈；每个 ECU 两个独立微处理器控制通道、两个 coil pack、四个 spark tower</li><li>传感器：SSA（转速与曲轴位置）、燃油压力、进气压力、MAT、CHT、EGT；关键传感器双冗余</li><li>低压线束（50-pin、25-pin 连接器）与高压线束；HSA 健康状态告警板</li><li>发动机指示与警告：EICAS 双显示器、双计算机、display select panel、maintenance panel、BITE；主屏显示 EPR、N1、EGT</li><li>飞机电气系统</li><li>DC 发电机：series wound（不用于飞机）、shunt/parallel wound、compound wound</li><li>调压：并励发电机用励磁回路串变阻器，实机由 voltage regulator 自动控制</li><li>导线与电缆：单股/多股、多芯电缆、双绞线、屏蔽电缆、射频同轴电缆</li><li>施工件：terminal lug、splice、connector（AN A/B/C/D/K 五类）、conduit、cable clamp、lacing cord</li><li>保护与接地：fuse/circuit breaker、switch 降额、relay、bonding 与 grounding</li><li>过压保护（overvoltage protection）的具体电路本章未涉及，只讲到调压与负载/过流保护。</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<ul><li>磁电机定期检查</li><li>先查安装牢固、接线、清洁；再开盖查凸轮润滑。用指甲压毡油垫，有油痕即够；无油则上下毡垫各滴一滴轻质发动机油，等 15 min 后用无绒布吸掉多余油。</li><li>触点表面判读：正常为暗灰色"喷砂状"；轻微光滑不平属正常磨损；出现明显凸峰、凹坑穿透铂垫则更换。frosting（粗晶、发黑）多因电容器开路；pitting 多因脏污杂质；built-up（金属转移堆高）多因弹簧张力过大、电容器不良或一次线圈接头松；oily（烟熏状）多因凸轮油过多或曲轴箱油气经通风器进入。</li><li>清洁触点只能用丙酮等认可溶剂做成的 swab，从触点外端施力，张开量不超过 1/16 in，防止片弹簧永久变形。</li><li>dielectric inspection：线圈盒、电容器、分电器转子/座若油污或有碳迹，用丙酮擦净；有碳迹或酸沉积时浸溶剂用硬毛刷 scrub，干后涂专用 ignition-treating wax。电容器件不可浸泡，防止溶液渗入短路。</li><li>点火线束</li><li>目视：外皮裂纹、磨伤、编织层破损、靠近排气管处过热；拆下火花塞端接头查 contact spring、compression spring、套筒裂纹与碳迹、接头螺纹。</li><li>电气：用高压线束测试器测每根线的导通（灯亮）与绝缘电阻（按下测试钮，指示灯闪且间隙跳火同时发生为合格；灯闪而不跳火说明该线漏电，必须更换）。</li><li>单根更换 8 步：拆分电器座—松 piercing screw 取旧线—两线各剥约 1 in 对接锡焊—从火花塞端抽出旧线、穿入新线—在线束内留余量—分电器端剥 3/8 in 装入并拧紧螺钉—火花塞端剥 1/4 in 装 elbow、整体密封与接线头—挂缸号标记。</li><li>整条线束只在屏蔽总管损坏或坏线太多时才换；cast-filled 线束只在浇注部分漏电时换。</li><li>点火正时</li><li>台架定 E-gap（以 S-200 为例）：拆检视塞，正常方向转到分电器齿轮涂色斜齿居中，再退回 neutral；装正时套装零位；正常方向转 10° 即 E-gap，调触点在此打开；转到凸轮高点测间隙 0.018 in ± 0.006 in，超差先调间隙再复查打开时刻，调不出则换触点。</li><li>装机对正时：先确认机内正时，再拆 1 缸火花塞、按旋转方向转桨至压缩行程、按手册停在上止点前规定度数（最后一段必须顺正常转向停）；磁电机驱动置于 1 缸发火位、装在长槽法兰中位；接正时灯，在槽内转动磁电机直到触点刚打开；两侧触点应在同一瞬间打开。</li><li>早期发动机有 staggered timing：两台磁电机分别在压缩行程不同提前角发火，此时靠排气门最近的火花塞先点火，两台要分别定时。</li><li>读正时标记必须正对指针，斜视会产生曲轴定位误差；存在齿轮间隙，读数或停位一律按旋转方向进行。top dead center 与 top center 不同：后者曲轴可在约 8° 范围内不动活塞，误差可达 1°–5°。</li><li>试车检查</li><li>磁电机检查：在手册规定转速稳定后，右—both—左—both，记录每次掉转；两台应均匀，一般 25–75 rpm。掉转过大说明磁电机、线束或火花塞有问题；只有一台大，可在该磁电机上隔离排查。</li><li>点火开关检查：约 700 rpm（不能更低就取最低转速），瞬间扳到 off，发动机应完全停火；观察到 200–300 rpm 掉转后尽快回 both，防止 afterfire/backfire。若 off 位仍不停火，说明 P lead（磁电机接地线）开路，必须修正——此时扳桨可能伤人致命。</li><li>火花塞</li><li>拆卸：先拆高压线，沿线筒轴线直拔，侧向受力会损坏绝缘；粘住的 neoprene collar 可像拧螺母一样扭松。用合适深套筒，一手扶正、一手加力，歪斜会损坏火花塞。</li><li>翻修：目视（螺纹、屏蔽桶、绝缘体裂纹/缺口、电极磨损、六方）→ 石油溶剂去脂（不可浸泡、溶剂不得进屏蔽桶）→ 振动清洁器去铅 → 磨料喷砂（边转边吹）→ 压缩空气吹净 → 放大镜检查 → 圆线规定间隙 → 在模拟缸压的 tester 上跳火检查。</li><li>装前：清洁缸盖火花塞衬套（丝锥沟槽填润滑脂防碳屑掉入；Heli-Coil 只用圆钢丝刷，绝不用清洁丝锥）→ 无绒布擦净垫圈座 → 查插头型号、防锈脂、螺纹与绝缘体、屏蔽桶内接触簧 → 换新垫圈（热电偶垫圈不叠加）。</li><li>安装：只在电极端起第 2–3 圈涂石墨基防咬合剂，绝不可沾到电极或鼻部（石墨导电会永久积污）；先手拧到底，再用扭矩扳手；扭矩过大会压坏垫圈、拉伸外壳、破坏气密。</li><li>涡轮点火</li><li>检查项：点火线终端陶瓷无电弧/碳迹/裂纹；grommet seal 无闪络与碳迹；导线绝缘仍柔软、无击穿痕迹；全系统安装牢固、无短路/高压打火、接头不松。</li><li>运转检查：起动时听电嘴处"啪"声；手册允许时才拆下电嘴打起动看火花。注意高能高压可致伤死。</li><li>拆装：断低压一次线后等 1 min 再拆高压线；清洁只用认可干洗溶剂；查接头螺纹、腐蚀、绝缘裂纹、插针弯断；查线磨损烧蚀、深切口、散股；做导通检查。低电压电嘴的放电端不得清除沉积物，高电压电嘴可清理以便检查；表面颗粒化、崩边、脏污或碳化的电嘴更换；装后查火焰筒与电嘴间隙、按规定扭矩拧紧并打保险。</li><li>电气施工</li><li>发电机在机检查 6 项：安装牢固、接线状态、内部脏污与油（有油查油封，压缩空气吹净）、电刷状态、发电机工作、调压器工作。</li><li>电刷研磨：抬起电刷，垫 000 号或更细砂纸（砂面朝碳刷），顺电枢旋转方向拉；回程抬起电刷；磨后彻底清除碳粉；绝不可用金刚砂布（导电颗粒会引起跳火）；刷簧压力用弹簧秤按手册查，过大磨损快、过小跳动烧蚀；pigtail 不得限制电刷自由活动。</li><li>布线：避免与非保护电源线、冗余重要设备线同束；接头错开排列并便于检查；导线远离高温、锐边、电池酸雾、溶剂，绝不从电池下方走线；轮舱线束加套管并勤查。</li><li>搭接/接地：连接面去漆去阳极氧化膜，跳线尽量短，铝跳线用于大多数场合，铜跳线用于不锈钢、镀镉钢、铜、黄铜、青铜件；异种金属间加垫片让腐蚀发生在垫片上；避免用锡焊固定跳线；完成后补保护涂层。</li><li>连接器：插合前对键槽，交替推入并拧紧连结环，空间不足时用 connector pliers 再紧 1/16–1/8 圈；禁止锤击、禁止用扭矩扳手或钳子锁环；分解后加盖或塑料袋防杂物。</li><li>书中引用 FAA-H-8083-30（General 分册）复习楞次定律（Lenz's Law）。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（磁电机点火、涡轮点火与飞机电气）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> The secondary winding of a high-tension magneto has many more turns than the primary, so it _____ the voltage to about 20,000 volts.</p>
+<p>A) steps down　　B) steps in　　C) steps up　　D) steps out</p>
+<p><strong>2.</strong> The secondary voltage is _____ through the distributor and the ignition harness to the spark plugs.</p>
+<p>A) carried　　B) carrying　　C) carry　　D) carrier</p>
+<p><strong>3.</strong> A cold spark plug has a short insulator nose and therefore _____ heat faster than a hot plug of the same size.</p>
+<p>A) dissipation　　B) dissipative　　C) dissipated　　D) dissipates</p>
+<p><strong>4.</strong> In a shunt-wound generator the field winding is connected _____ with the load, so the voltage falls as the load increases.</p>
+<p>A) in series　　B) in parallel　　C) in phase　　D) in step</p>
+<p><strong>5.</strong> Carbon tracking is a permanent, _____ path burned into the insulation by repeated flashover.</p>
+<p>A) conduction　　B) conduct　　C) conductive　　D) conductivity</p>
+<p><strong>6.</strong> At least one minute must be _____ after the low-voltage lead is disconnected before the high-tension lead is removed from an exciter.</p>
+<p>A) allowed　　B) allowing　　C) allows　　D) allow</p>
+<p><strong>7.</strong> The magneto switch must be _____ off and the P lead grounded before anyone turns the propeller by hand.</p>
+<p>A) put　　B) taken　　C) set　　D) switched</p>
+<p><strong>8.</strong> The heat range of a spark plug is correct when the insulator nose is hot enough to burn off deposits but not hot enough to cause _____.</p>
+<p>A) fouling　　B) pre-ignition　　C) detonation　　D) flashover</p>
+<p><strong>9.</strong> The annular-gap igniter plug projects slightly into the flame tube, _____ the constrained-gap plug is mounted flush with the liner.</p>
+<p>A) whereas　　B) unless　　C) until　　D) whether</p>
+<p><strong>10.</strong> Bonding jumpers should be kept as short as possible, and the mating surfaces must be cleaned of paint and anodic coating to ensure a low-_____ path.</p>
+<p>A) resistant　　B) resist　　C) resistive　　D) resistance</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. C</strong> —— <code>step up</code> 意为升高（电压），二次线圈匝数远多于一次线圈，所以把电压升到约 20,000 V。A <code>step down</code> 是降压，与 more turns 矛盾；B <code>step in</code> 介入、D <code>step out</code> 暂时离开，都与电压无关。考点：<strong>短语动词</strong>。</p>
+<p><strong>2. A</strong> —— 二次高压是被「输送」到分电器、再经线束到火花塞的，需被动 <code>is carried</code>。B <code>carrying</code> 现在分词、C <code>carry</code> 原形、D <code>carrier</code> 名词，都不能与 is 构成被动谓语。考点：<strong>被动语态</strong>。</p>
+<p><strong>3. D</strong> —— therefore 之后需要一个能与主语 a cold spark plug 搭配的第三人称单数谓语 <code>dissipates</code>（散热快）。A <code>dissipation</code> 名词、B <code>dissipative</code> 形容词、C <code>dissipated</code> 过去式，都不能单独作谓语。考点：<strong>同词族不同词性</strong>。</p>
+<p><strong>4. B</strong> —— shunt 即 parallel（并励），励磁绕组与负载并联，负载增大时电压下降。A <code>in series</code> 是串励，负载增大电压反而升高，飞机上不用；C <code>in phase</code> 同相、D <code>in step</code> 同步，都与绕组接法无关。考点：<strong>近义/反义辨析</strong>。</p>
+<p><strong>5. C</strong> —— 需要一个形容词 <code>conductive</code> 修饰 path（导电通路）。A <code>conduction</code> 名词、B <code>conduct</code> 动词/名词、D <code>conductivity</code> 名词（导电率），都不能直接修饰 path。考点：<strong>词性判断</strong>。</p>
+<p><strong>6. A</strong> —— <code>must be allowed</code> 是被动结构「必须留出一分钟让电容放电」。B <code>allowing</code> 现在分词、C <code>allows</code> 第三人称、D <code>allow</code> 原形，都不能与 must be 搭配。考点：<strong>被动语态</strong>。</p>
+<p><strong>7. D</strong> —— <code>switch off</code> 意为关断，磁电机开关扳到关位并使 P 线接地之后，才能用手扳桨。A <code>put off</code> 推迟、B <code>take off</code> 起飞/脱下、C <code>set off</code> 触发/出发，都不表示关断。考点：<strong>短语动词</strong>。</p>
+<p><strong>8. B</strong> —— 绝缘体鼻部过热时电极会像 glow plug 一样在正常点火前点燃混合气，即 <code>pre-ignition</code>（早燃）。A <code>fouling</code> 是过冷积污（方向相反）、C <code>detonation</code> 是爆震（燃烧速率问题）、D <code>flashover</code> 是高压沿潮湿绝缘表面跳火。考点：<strong>近义术语辨析</strong>。</p>
+<p><strong>9. A</strong> —— <code>whereas</code> 表对比：两种电嘴的伸入方式不同，环隙式伸入火焰筒少许，约束间隙式与筒壁齐平。B <code>unless</code> 除非、C <code>until</code> 直到、D <code>whether</code> 是否，逻辑都不通。考点：<strong>从句连词</strong>。</p>
+<p><strong>10. D</strong> —— <code>low-resistance path</code> 是固定说法「低电阻通路」，需要名词 resistance。A <code>resistant</code> 形容词（耐…的）、B <code>resist</code> 动词、C <code>resistive</code> 形容词（电阻性的），都不构成该搭配。考点：<strong>词性判断</strong>。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ul><li>top dead center 与 top center：top center 只是活塞在"不运动区"内的某一点，曲轴可在约 8° 内转动而活塞不动，对应转角可差 1°–5°；top dead center 是活塞销、曲柄销、曲轴中心成一直线的唯一位置，所有正时都以它为基准。</li><li>high-tension 与 low-tension 磁电机：前者高压在磁电机内产生、经分电器空气间隙和长高压线送到火花塞，易闪络；后者只送低压，火花塞旁变压器升压、高压线很短，但每缸要多一个线圈、成本高，现代飞机少用。</li><li>闪络（flashover）与碳迹（carbon tracking）：闪络是高压沿潮湿绝缘表面跳火的现象；碳迹是闪络烧出的导电碳通道，潮气消失后火花仍沿碳迹入地，是闪络留下的永久性后果。</li><li>series wound 与 shunt wound 发电机：串励的励磁绕组与负载串联，负载增大电压反而升高，调压极差，飞机上不用；并励（shunt = parallel）励磁与负载并联，负载增大电压下降，靠励磁回路电阻/调压器控制。</li><li>annular-gap 与 constrained-gap 电嘴：前者 long reach、伸入火焰筒少许，火花更有效但温度高；后者不伸入火焰筒，火花越过筒壁面，工作温度低得多。</li><li>术语提醒：本章通篇只用 magneto（磁电机）；magnetron（磁控管）是雷达微波管，与点火系统无关，不要混用。</li></ul>

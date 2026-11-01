@@ -12,6 +12,16 @@ FAA《Aviation Maintenance Technician Handbook》（航空维修技师手册）�
 
 **从总索引开始看**：[`INDEX.md`](INDEX.md) —— 每章一句话概括，点进去看全文。
 
+## 在线阅读（带目录的站点）
+
+`docs/` 目录里是生成好的静态站点，开启 GitHub Pages 后可直接在浏览器里带着目录翻：
+
+**Settings → Pages → Source: Deploy from a branch → 分支 `main`、目录 `/docs` → Save**，
+等 1～2 分钟后访问 <https://leochilfen.github.io/AMT-Handbook/>。
+
+站点功能：左侧三册目录、顶部搜索框（按章节标题过滤，快捷键 `/`）、每页小节跳转、上一章 / 下一章翻页。
+网页只是 `notes/` 下 Markdown 的渲染结果，改笔记后重新生成即可。
+
 ## 目录结构
 
 ```
@@ -21,6 +31,11 @@ FAA《Aviation Maintenance Technician Handbook》（航空维修技师手册）�
 │   ├── general/          General 分册笔记
 │   ├── airframe/         Airframe 分册笔记
 │   └── powerplant/       Powerplant 分册笔记
+├── docs/                 静态站点（GitHub Pages 用，自动生成）
+│   ├── index.html        站点入口
+│   ├── data.js           章节清单
+│   ├── assets/           样式与脚本
+│   └── pages/            每章渲染好的 HTML
 ├── .gitignore
 └── README.md
 ```
@@ -35,8 +50,10 @@ FAA《Aviation Maintenance Technician Handbook》（航空维修技师手册）�
 4. 关键数字
 5. 结构部件
 6. 检查 / 维修
-7. 高频考点
+7. 高频考点（TECC 英语完形填空）
 8. 易混点
+
+第 7 节共 10 道英文完形填空题，取材本章内容，每题一个空、四个选项，干扰项按**形近词、同词族变体、近义词**设置；答案与解析在每章末尾，用中文讲清语法点和词义辨析。
 
 ## 常用命令
 

@@ -1,0 +1,252 @@
+<h1 id="ch-04-上-aircraft-metal-structural-repair-金属结构修理-前半">Ch 04（上）· Aircraft Metal Structural Repair（金属结构修理·前半）</h1>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>金属蒙皮结构修理的基础：六种应力与应力集中、钣金工具与成形、铝合金选材、铆钉及特种紧固件的安装、间距与拆除。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ol><li>修理的目标是"等强度"而不是"更强"：接头太弱当然不行，太强（too strong）反而制造 stress riser，把裂纹赶到别处；修理件的强度、材料、尺寸应向原件看齐。</li><li>应力被当作在结构里"流动"，必须有一条连续通路，沿路截面不许突变；凡受循环载荷处的截面突变都会造成应力集中（stress concentration），进而疲劳开裂直至失效——表面的一道 scratch 或 gouge 就是这样一个起点。</li><li>六种应力：tension、compression、shear、bearing 是基本应力，bending、torsion 是组合应力。拉伸强度按 gross area 评定，但计算时要用 net area（毛面积扣除钻孔等去除部分）；铆钉、螺栓塞在孔里不会把拉伸载荷传过孔，所以不增加抗拉能力。</li><li>铆钉主要承受剪切，抗拉强度远低于抗剪，因此不能用于厚材料或受拉部位；铆接接头本身既不气密也不水密，除非另加密封或涂层。</li><li>铆钉直径按板厚定：至少是较厚板的 2.5–3 倍，常用范围 3/32–3/8 in；工程习惯是"板厚 × 3，取大一档"，如 0.040 in 蒙皮 → 0.120 in → 选 1/8 in（0.125 in）。</li><li>铆距与边距成体系：凸头铆钉最小间距 3.5D、埋头铆钉 4D；边距（孔中心到板边）不小于 2D、不大于 4D，推荐 2.5D；埋头铆钉最小边距 2.5D，凸头 2D。边距过小会把板边撕裂或拉脱，过大则板边翘起。</li><li>拆铆钉从 manufactured head（制造头）下手，因为它对铆钉杆更对称、伤孔风险小；用比铆钉杆小一号的钻头只钻到钉头深度，再用 drift punch 折断钉头、冲出钉杆。</li><li>盲铆钉（blind rivet）锁紧性能不如实心铆钉，只能在实心铆钉装不上的地方用，并有一批明确禁用部位；在机体金属结构上使用必须经机体厂家专门批准或 FAA 代表认可。</li></ol>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">stress concentration / stress riser</td>
+<td style="text-align:left">应力集中／应力上升源</td>
+<td style="text-align:left">截面突变或表面损伤处局部应力骤升，疲劳裂纹多由此起</td>
+</tr>
+<tr>
+<td style="text-align:left">tension</td>
+<td style="text-align:left">拉伸</td>
+<td style="text-align:left">抵抗把材料拉开的力的应力，单位 psi</td>
+</tr>
+<tr>
+<td style="text-align:left">compression</td>
+<td style="text-align:left">压缩</td>
+<td style="text-align:left">抵抗挤压、使构件缩短的应力</td>
+</tr>
+<tr>
+<td style="text-align:left">shear</td>
+<td style="text-align:left">剪切</td>
+<td style="text-align:left">抵抗一层材料相对相邻层滑动的应力，铆钉主要受此力</td>
+</tr>
+<tr>
+<td style="text-align:left">bearing</td>
+<td style="text-align:left">挤压（承压）</td>
+<td style="text-align:left">铆钉或螺栓压在孔壁上的应力</td>
+</tr>
+<tr>
+<td style="text-align:left">torsion</td>
+<td style="text-align:left">扭转</td>
+<td style="text-align:left">产生扭转变形的应力，本质是绕共同轴的剪切</td>
+</tr>
+<tr>
+<td style="text-align:left">bending (beam stress)</td>
+<td style="text-align:left">弯曲（梁应力）</td>
+<td style="text-align:left">拉伸与压缩的组合，内侧受压、外侧受拉</td>
+</tr>
+<tr>
+<td style="text-align:left">neutral axis</td>
+<td style="text-align:left">中性轴</td>
+<td style="text-align:left">弯曲时既不受拉也不受压的轴线，最大剪应力在此</td>
+</tr>
+<tr>
+<td style="text-align:left">gross area</td>
+<td style="text-align:left">毛面积</td>
+<td style="text-align:left">构件总截面面积，用于评定抗拉强度</td>
+</tr>
+<tr>
+<td style="text-align:left">net area</td>
+<td style="text-align:left">净面积</td>
+<td style="text-align:left">毛面积扣除钻孔等去除部分，用于强度计算</td>
+</tr>
+<tr>
+<td style="text-align:left">gauge</td>
+<td style="text-align:left">板厚号（规号）</td>
+<td style="text-align:left">钣材厚度标号，8–30 号，号数越大越薄</td>
+</tr>
+<tr>
+<td style="text-align:left">plate</td>
+<td style="text-align:left">厚板</td>
+<td style="text-align:left">厚度超过 6 mm（0.25 in）的板料</td>
+</tr>
+<tr>
+<td style="text-align:left">Alclad™</td>
+<td style="text-align:left">包铝板</td>
+<td style="text-align:left">铝合金表面包一层纯铝以抗腐蚀的材料</td>
+</tr>
+<tr>
+<td style="text-align:left">temper</td>
+<td style="text-align:left">回火状态（处理状态）</td>
+<td style="text-align:left">材料的硬度与加工性状态，决定能否冷成形</td>
+</tr>
+<tr>
+<td style="text-align:left">annealing</td>
+<td style="text-align:left">退火</td>
+<td style="text-align:left">加热缓冷使金属软化、便于成形的处理</td>
+</tr>
+<tr>
+<td style="text-align:left">spring-back</td>
+<td style="text-align:left">回弹</td>
+<td style="text-align:left">去除变形力后工件弹性回复的现象</td>
+</tr>
+<tr>
+<td style="text-align:left">bend allowance (BA)</td>
+<td style="text-align:left">弯曲余量</td>
+<td style="text-align:left">弯曲处中性线弧长，用于展开长度计算</td>
+</tr>
+<tr>
+<td style="text-align:left">grain of the metal</td>
+<td style="text-align:left">金属轧制纹向</td>
+<td style="text-align:left">板材轧制形成的纹理，弯曲线宜与纹向成 90°</td>
+</tr>
+<tr>
+<td style="text-align:left">manufactured head</td>
+<td style="text-align:left">制造头（原头）</td>
+<td style="text-align:left">铆钉出厂成形的一端，拆铆钉时从这端下手</td>
+</tr>
+<tr>
+<td style="text-align:left">shop head / bucktail</td>
+<td style="text-align:left">镦头／被镦端</td>
+<td style="text-align:left">安装时被顶镦成形的一端，直径/高度按标准检查</td>
+</tr>
+<tr>
+<td style="text-align:left">grip length</td>
+<td style="text-align:left">夹持长度</td>
+<td style="text-align:left">被连接各层板材的总厚度</td>
+</tr>
+<tr>
+<td style="text-align:left">edge distance (edge margin)</td>
+<td style="text-align:left">边距</td>
+<td style="text-align:left">铆钉孔中心到板边的距离</td>
+</tr>
+<tr>
+<td style="text-align:left">rivet pitch</td>
+<td style="text-align:left">铆距（纵向间距）</td>
+<td style="text-align:left">同一排相邻铆钉中心距</td>
+</tr>
+<tr>
+<td style="text-align:left">transverse pitch</td>
+<td style="text-align:left">排距（横向间距）</td>
+<td style="text-align:left">相邻两排铆钉之间的垂直距离</td>
+</tr>
+<tr>
+<td style="text-align:left">single / double shear</td>
+<td style="text-align:left">单剪／双剪</td>
+<td style="text-align:left">铆钉连两块板为单剪、连三块板为双剪</td>
+</tr>
+<tr>
+<td style="text-align:left">dimpling</td>
+<td style="text-align:left">压窝</td>
+<td style="text-align:left">把孔周压出锥形凹窝使埋头铆钉齐平，不去除材料</td>
+</tr>
+<tr>
+<td style="text-align:left">countersinking</td>
+<td style="text-align:left">锪窝</td>
+<td style="text-align:left">在孔周切削出锥形窝，去除材料</td>
+</tr>
+<tr>
+<td style="text-align:left">microstop countersink</td>
+<td style="text-align:left">限深锪窝器</td>
+<td style="text-align:left">带可调限位套筒的锪窝工具，控制窝深</td>
+</tr>
+<tr>
+<td style="text-align:left">Cleco fastener</td>
+<td style="text-align:left">克雷科临时紧固件</td>
+<td style="text-align:left">可重复使用的临时夹紧销，保孔位对齐</td>
+</tr>
+<tr>
+<td style="text-align:left">blind rivet</td>
+<td style="text-align:left">盲铆钉</td>
+<td style="text-align:left">只能从一侧安装的铆钉，芯杆拉断成形</td>
+</tr>
+<tr>
+<td style="text-align:left">lockbolt (huckbolt)</td>
+<td style="text-align:left">拉栓／锁栓</td>
+<td style="text-align:left">销杆加锁环的高抗剪紧固件，可替代铆钉/螺栓</td>
+</tr>
+<tr>
+<td style="text-align:left">Hi-Lok®</td>
+<td style="text-align:left">高锁螺栓</td>
+<td style="text-align:left">双件式高疲劳紧固件，扭断力矩自控，不会过扭</td>
+</tr>
+<tr>
+<td style="text-align:left">rivet nut (Rivnut®)</td>
+<td style="text-align:left">铆螺母</td>
+<td style="text-align:left">单侧压装的內螺纹件，供机螺钉旋入</td>
+</tr>
+<tr>
+<td style="text-align:left">SRM</td>
+<td style="text-align:left">结构修理手册</td>
+<td style="text-align:left">厂家给出的结构修理权威资料</td>
+</tr>
+<tr>
+<td style="text-align:left">AC 43.13-1</td>
+<td style="text-align:left">咨询通告 43.13-1</td>
+<td style="text-align:left">FAA 认可的一般检查与修理方法、技术、惯例</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<p><strong>板料与应力</strong></p>
+<ul><li>钣材 gauge 8–30 号，号数越大越薄；厚度超过 6 mm（0.25 in）称 plate。</li><li>抗拉强度 psi = 拉断载荷（lb）÷ 截面积（in²）。</li><li>铝合金成形通常在室温（冷成形）进行，冷成形后存在 spring-back。</li></ul>
+<p><strong>孔与钻头</strong></p>
+<ul><li>铆钉孔径取"能轻松插入铆钉的最小尺寸"，约为铆钉杆最大公差 +0.003 in。</li><li>常用铆钉的间隙钻头：3/32 in → #40（0.098）；1/8 in → #30（0.1285）；5/32 in → #21（0.159）；3/16 in → #11（0.191）；1/4 in → F（0.257）。</li><li>钻孔转速以表面线速度 sfm 计：铝合金 200–300 sfm，低碳钢 30–50 sfm；换算公式 CS × 4 = rpm × D（CS 为 sfm 切削速度，D 为钻头直径 in）。</li><li>HSS 钻头可耐约 1,400 °F（暗樱桃红）而不失硬度；钻铝用 135° 分裂尖。</li><li>扩孔钻（reamer）切削刃磨成 45° ± 5° 斜面。</li><li>大孔工艺：衬套导向预钻（衬套按 1/8、3/16、1/4 钻头配），阶梯钻扩到比成品孔小 1/64 in，最后阶梯铰刀铰到尺寸。</li><li>延长钻头长 6–12 in；小于 1/4 in 的延长钻必须加导管或弹簧护套防甩。</li><li>锪窝深度（主结构与增压蒙皮）：不超过外层板厚 2/3，或不小于 0.020 in 铆钉杆埋深，取二者中较大者；板太薄则改用压窝。</li><li>锪窝器导向销比孔径小约 0.002 in。</li><li>microshaver 刻度 0.001 in，调好后可把埋头铆钉头修到 0.002 in 以内齐平。</li></ul>
+<p><strong>铆钉本身的尺寸</strong></p>
+<ul><li>铆钉直径 ≥ 较厚板厚的 2.5–3 倍；常用 3/32–3/8 in；受结构应力的部位绝不用小于 3/32 in 的铆钉。</li><li>"板厚 × 3 取大一档"：0.040 in × 3 = 0.120 in → 选 1/8 in（0.125 in）。</li><li>穿过管件时，铆钉直径 ≥ 管外径的 1/8。</li><li>铆钉总长 A = B + C（B 为 grip length，C 为成形镦头所需杆长）；成形镦头长度 = 1.5 倍铆钉杆直径。</li><li>镦头尺寸按图 4-76 的"最小—最大—优选"三档控制，A/AD/B/DD 组与 D/E(KE)/M 组标准不同。</li><li>铆钉安装后被镦粗到约原杆径的 1.5 倍。</li><li>universal head：头径为杆径 2 倍，头高约为杆径的 42.5%；埋头头角度 60°–120°，以 100° 为标准。</li></ul>
+<p><strong>间距、边距、排距</strong></p>
+<ul><li>最小间距：凸头铆钉 ≥ 3.5D；埋头铆钉 ≥ 4D。</li><li>边距：2D–4D，推荐约 2.5D；凸头最小 2D，埋头最小 2.5D。</li><li>新增铆接区：边距 ≥ 2D，铆距 ≥ 3D，排距 ≥ 2.5D。</li><li>铆距最小 3D；一排与三排布置最小 3D，两排布置最小 4D；常用 4–6D，个别可到 10D；埋头铆钉铆距大于凸头。</li><li>排距（transverse pitch）通常为铆距的 75%，最小 2.5D。</li><li>经验余量：边距比最小值再加 1/16 in（或用大一档铆钉直径算），以便孔径加大时不违规。</li><li>接管件时：相邻铆钉互成 90° 取 4–7D，相互平行取 5–7D；接头两侧第一颗铆钉距套筒端 ≥ 2.5D。</li></ul>
+<p><strong>拆除与更换</strong></p>
+<ul><li>拆铆钉用比铆钉杆小一号的钻头（图注：小 1/32 in，即 0.0312 in），只钻到钉头深度；埋头铆钉钻到顶层板厚约一半。</li><li>更换原则：同尺寸同强度；孔已扩大/变形则铰到下一档加大铆钉。可用 2117 铆钉替换直径 ≤ 3/16 in 的 2017 铆钉、或 ≤ 5/32 in 的 2024 铆钉，条件是替换件直径大 1/32 in。</li></ul>
+<p><strong>紧固件强度与工具参数</strong></p>
+<ul><li>铆钉合金剪切强度：A（1100/3003）10 KSI，仅非结构；AD（2117）38 KSI；B（5056）30 KSI；D（2017）41 KSI，须在"W"状态铆打；DD（2024，"冰柜铆钉"）43 KSI；E/KE（7050）可取代 DD。</li><li>CherryMAX® 盲铆钉极限剪切 50–75 KSI，长度按 1/16 in 进级；直径 1/8、5/32、3/16、1/4 in 及加大档；安装后可吸收至少 1/16 in 的结构厚度变化。</li><li>Hi-Lok®：孔的最大干涉量不超过 0.002 in；头下 spot-face 直径比头径大 1/16 in。</li><li>锁栓（lockbolt）：拉力销 4 条锁紧槽、剪力销 2 条；pull-type 重量约为同等 AN 钢螺栓螺母的一半。</li><li>Cherry Maxibolt®：钢制 112 KSI 剪切，A286 制 95 KSI；Huck 盲螺栓 A286 制 95 KSI，可用于与盲面成 5° 的斜面。</li><li>新式钛合金盲螺栓剪切强度 90 KSI，约为多数盲铆钉的两倍；CherryBUCK® 95 KSI，允许温度 600 °F。</li><li>气动铆枪工作气压 90–100 psi，慢打型 900–2,500 次/分钟；4X 枪（dash 8 或 1/4 铆钉）用于常规工作，3X 用于薄结构小铆钉，7X 用于厚结构大铆钉；一颗铆钉应在 1–3 秒内顶镦完成。</li><li>气动 die grinder 转速 12,000–20,000 rpm。</li><li>Cleco 临时紧固件六种直径：3/32、1/8、5/32、3/16、1/4、3/8 in；六角/蝶形螺母式临时紧固件夹紧力 0–300 lb。</li><li>铆螺母孔与公差：No.4 用 5/32 钻头（0.155–0.157 in），No.6 用 #12 钻头（0.189–0.193 in），No.8 用 #2 钻头（0.221–0.226 in）。</li></ul>
+<p><strong>工具与设备能力</strong></p>
+<ul><li>脚踏剪板机（foot shear）与喉口开放式剪（throatless shear）最大剪 0.063 in 铝合金板。</li><li>折边机（bar folder）最大 22 号板厚、42 in 长，有 45° 与 90° 两个定位挡。</li><li>cornice brake 常规能力 12–22 号板、折弯长度 3–12 ft；回弹补偿：想折 90°，机器要调到约 93°（实际得到约 87°–88°）。</li><li>压弯机（press brake）用于超出闸式剪板折弯机能力的件：cornice/box-and-pan brake 上限约 0.090 in 退火铝、0.063 in 7075-T6、0.063 in 不锈钢。</li><li>drop hammer 不是精密成形，公差做不到 0.03–0.06 in。</li><li>收缩（shrinking）作业以压力大、道次少为好，8 道已被视为过多。</li><li>直剪（straight snips）刃口 85°，长 6–14 in，可剪铝板至 1/16 in；航空剪（aviation snips）：黄色剪直线、绿色剪右弯、红色剪左弯。</li><li>锉刀长 3–18 in；单纹锉齿与中心线成 65°–85°，双纹锉第一组 40°–50°、交叉组 70°–80°；锉刀粗细分 rough、coarse、bastard、second cut、smooth、dead smooth。</li><li>铆距规（rivet spacer）刻有 1/2、3/4、1、2 in 四档间距标记；常用钢直尺为 6 in 与 12 in。</li><li>中心冲尖角约 60°，精定位用的中心冲磨成 120°–135°； drive punch 面宽 1/8–1/4 in；pin punch 直径 1/16–3/8 in、按 1/32 in 进级；chassis punch 1/2–3 in、按 1/16 in 进级。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<p><strong>应力体系（六种）</strong></p>
+<ul><li>基本应力：tension（拉）、compression（压）、shear（剪）、bearing（挤压）。</li><li>组合应力：bending（弯曲 = 拉 + 压，中性轴处剪应力最大、外表面为零）、torsion（扭转，绕中性轴的剪切）。</li><li>受力传递链（机翼为例）：升力先作用于蒙皮与长桁（stringers）→ 传给翼肋（ribs）→ 经翼梁（spars）分布到机身。地面时重量向下，起飞后翼面受力方向反转成向上的升力。</li></ul>
+<p><strong>工具族（本章覆盖）</strong></p>
+<ul><li>划线/放样：scales、combination square（stock head 90°/45°、protractor head、center head）、dividers、scriber、rivet spacer。</li><li>打标记：fiber-tipped pen（铝上不用 2 号铅笔，石墨会致腐）、scribe（只在标记会被钻/切掉时用）、各类 punch。</li><li>切割：圆盘锯、Kett saw、气动圆锯、往复锯、cut-off wheel、nibbler；台式设备有 squaring shear、throatless shear、scroll shear、rotary punch press、band saw、disc/belt sander、notcher、磨床。</li><li>手工具：直剪、航空剪、锉刀、die grinder、burring tool。</li><li>制孔：便携电/气钻、气动钻马达（多用 3,000 rpm）、直角与 45° 钻、双孔钻（装 nutplate 用）、钻床、延长钻与转接器、钻套与导向器、钻深限位（drill stop）、chip chaser。</li><li>成形：bar folder、cornice brake、box and pan（finger）brake、press brake、slip roll former、rotary machine、stretch forming、drop hammer、hydropress、spin forming、English wheel、Piccolo former、收缩/拉伸工具、dolly 与 stake、硬木 form block 与 V-block、shrinking block、sandbag、钣金锤与木槌。</li><li>夹持：C-clamp、台钳（machinist's / utility）、Cleco、六角与蝶形螺母临时紧固件。</li></ul>
+<p><strong>紧固件族</strong></p>
+<ul><li>实心杆铆钉（solid shank rivet）：按头形（universal/凸头、100° 埋头）、材料、尺寸分类；识别码来自 MS/NAS 与老的 AN 体系，例 MS20426AD5-8：AD = 2117 合金，5 = 杆径 5/32 in，8 = 长度 8/16 in。</li><li>特种紧固件（special purpose）：摩擦锁紧盲铆钉（2117-T4、5056-F，特殊用途用 Monel）、机械锁紧盲铆钉（CherryMAX® 等）、销式高抗剪紧固件（Hi-Lok®、Hi-Tigue®、Hi-Lite®、CherryBUCK®）、锁栓（pull/stump/blind 三型）、盲螺栓（pull-type 与 drive-nut 两类）、锥形杆螺栓（Taper-Lok®）、套筒螺栓（SLEEVbolt®）、铆螺母（Rivnut®）。</li><li>铝合金牌号与用途：1100（油箱、整流罩、翼尖，可焊）、3003、2014（锻件、轮、主要结构件）、2017（铆钉，现已少用）、2024（蒙皮、铆钉、结构件）、2025（螺旋桨桨叶）、2219（油箱、蒙皮，可焊、抗应力腐蚀）、5052（燃油/液压/滑油管路）、5056（铆钉、与镁合金接触处）、6061（可焊、液压与气动导管）、7075（强度高于 2024 但断裂韧性低，T6 忌腐蚀环境，T7351 抗应力腐蚀好，T76 抗剥蚀）。</li><li>牌号标记：板/片材按约 5 in 间隔成行打印规范号或商业代号；管、棒、型材沿长度每 3–5 ft 打一次。</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<p><strong>损伤与本册给出的判据</strong></p>
+<ul><li>书中把金属结构损伤来源列为 corrosion（腐蚀）、erosion（侵蚀）、normal stress（正常工作应力）、accidents and mishaps（事故与误操作）；改装（如加装翼梢小翼）也需要大范围结构补强。</li><li>scratch/gouge：在高应力区形成应力集中，可直接导致零件失效；划线器划痕会削弱材料并引发腐蚀，故只允许用在随后会被钻掉/切掉的部位。2 号铅笔的石墨在铝上同样引起腐蚀。</li><li>dent/buckle：可用 Piccolo former 的 spot shrinking 消除鼓动与凹坑；压窝质量看凹窝边缘的"sharp break"，凹窝过深或孔壁粗糙会开裂。</li><li>crack：压窝裂纹分 radial cracks（从孔边向外扩展，多见于 2024-T3，允许很小容差）与 circumferential cracks（沿凹窝边缘一圈，常藏在包铝层下，一经发现即判废，多见于热压窝的 7075-T6，原因是压窝加热不足）。边距过小会使板边开裂或从铆钉处拉脱。</li><li>铆接缺陷判据：镦头尺寸用 scale 或 rivet gauge 核对；钉头下 0.005 in 塞尺不得塞入超过周长一半；铆钉不得转动或松动；漆层开裂、成组同向倾斜的钉头提示铆钉松动或错位。</li></ul>
+<p><strong>制孔与锪窝</strong></p>
+<ul><li>先划线打中心冲眼：冲眼以钻头横刃宽度为宜——太小钻头会"走位"，太重会造成局部冷作硬化。</li><li>制孔七步：划线→用尖冲或弹簧冲加放大镜定点→120°–135° 中心冲垂直敲实→用 1/16 in 小钻头校位→3/16 in 及以上先钻引导孔（引导钻直径等于成品钻横刃宽）→垂直轻压慢速起钻、必要时"walk the hole"纠偏→扩到成品尺寸。</li><li>钻孔时始终与工件（或曲面）成 90°，钻头下方垫木块支撑；去毛刺用 countersink、bearing scraper 或大一号钻头（手动旋转）。</li><li>锪窝只切到铆钉头与板材齐平所需深度；过深产生 knife edge，削弱连接并成为增压蒙皮疲劳裂纹源。锪窝后铆钉要先"抬高"再打，否则会把蒙皮冷作硬化。</li><li>压窝用阴阳模（punch and die set），轻打 2–3 下即可；每个铆钉尺寸与头形各需一套模具。压窝不去除材料，因 nestling effect 接头比非齐平式更强，且减小铆钉的剪切载荷、把载荷更多交给板件。</li><li>防颤振（chatter）措施：锋利刀具、低速稳定压力、带导向销（比孔小 0.002 in）、薄板加背衬、换不同槽数刀具、先钻小孔锪窝再扩孔。</li></ul>
+<p><strong>铆接施工与检查</strong></p>
+<ul><li>装铆钉前确认：孔全部对齐、毛刺与切屑清净、工件用临时紧固件夹紧。</li><li>双人作业用 tap code：一响＝未坐实再打，两响＝合格，三响＝废品需拆换。单人作业一手持顶铁一手持枪。</li><li>顶铁（bucking bar）必须先看形状，再看重量：太轻会使材料朝镦头方向鼓出，太重会朝反方向鼓出；顶铁面要与铆钉杆垂直，且必须一直顶到铆钉打完。</li><li>铆枪先调气压、在木块上试打；起打要慢、一次连续打完；打得太慢铆钉会冷作硬化。</li><li>常见缺陷与处置：钉头切伤/过平并开裂（工具握不稳或过度顶镦）→ 换铆钉；板层分离（未夹紧、杆部胀粗）→ 夹紧重铆；钉头倾斜（顶铁未顶牢或滑动）→ 换铆钉；杆部弯曲（铆钉过长）→ 换正确长度铆钉。</li><li>拆铆钉：凸头先锉平钉头、打中心冲眼（薄板要在镦头侧垫顶铁），用比杆径小一号的钻头钻透钉头深度（不可过深，否则残杆跟转撕伤孔壁），再用冲子掰断钉头、冲出钉杆；薄板或无支撑结构冲杆时要垫顶铁。埋头铆钉不必锉平，钻到顶层板厚约一半，用冲子撬断钉头，冲杆时垫木块或专用垫块。</li><li>换铆钉：孔扩大、变形、拉长时改用大 1/32 in 的铆钉；不得用强度更低的铆钉替换，除非以加大直径或增加数量补偿。</li><li>盲铆钉禁用部位：① 液体密封区；② 可能被发动机吸入的进气区；③ 操纵面、铰链、铰链支架、飞行操纵作动系统、机翼对接接头、起落架接头、浮筒或两栖船体水线以下，以及其他重载部位。机体金属结构上使用盲铆钉须厂家专门批准或 FAA 代表认可。</li><li>锁栓安装后检查三项：钉头牢固贴合、锁环紧贴材料且形状尺寸正确、销杆凸出量在限值内；拆卸时先切掉/劈开锁环再冲出销杆，背面垫块防孔拉长。</li><li>NACA 双面齐平铆接法：把铆钉杆镦进 82° 锪窝，主要用于油箱区，可按需修平镦头，但须参照厂家说明。</li><li>铆钉孔准备：孔过小会刮掉铆钉保护层，孔过大会使铆钉填不满孔、接头达不到全强度并可能在此处结构失效。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（金属结构修理基础：应力与应力集中、钣金成形、铆钉与特种紧固件、间距与边距、拆装与禁用部位）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> A repair should restore the original strength but never exceed it, because an over-strong splice merely creates a _____ where cracks will begin.</p>
+<p>A) stress riser　　B) stress rise　　C) stressed riser　　D) stress raising</p>
+<p><strong>2.</strong> Tensile strength is rated on the gross area, but the stress must be calculated on the _____ area, which allows for the metal removed by holes.</p>
+<p>A) gross　　B) net　　C) neat　　D) narrow</p>
+<p><strong>3.</strong> A rivet is mainly loaded in shear, and for that reason it must not _____ where the joint is in tension.</p>
+<p>A) use　　B) be using　　C) be used　　D) have used</p>
+<p><strong>4.</strong> The minimum edge distance is 2D and the maximum 4D, with 2.5D _____ the recommended value.</p>
+<p>A) being　　B) to be　　C) is　　D) been</p>
+<p><strong>5.</strong> The distance from the centre of a rivet hole to the edge of the sheet is known as the edge _____.</p>
+<p>A) distant　　B) distantly　　C) distance　　D) distanced</p>
+<p><strong>6.</strong> An over-strong repair does not add safety; it simply _____ the stress elsewhere in the structure.</p>
+<p>A) sets off　　B) sets in　　C) sets out　　D) sets up</p>
+<p><strong>7.</strong> Dimpling presses a conical recess into the sheet without removing any metal, whereas countersinking _____ material around the hole.</p>
+<p>A) cuts away　　B) cuts in　　C) cuts off　　D) cuts up</p>
+<p><strong>8.</strong> While the holes are being drilled, the sheets are held together by _____ reusable Cleco fastener.</p>
+<p>A) an　　B) the　　C) some　　D) a</p>
+<p><strong>9.</strong> Aluminium alloy sheet is supplied in tempers that decide whether it can be _____ formed at room temperature.</p>
+<p>A) cold　　B) coldly　　C) coldness　　D) colder</p>
+<p><strong>10.</strong> Rivets smaller than 3/32 inch must never be used in _____ members.</p>
+<p>A) structure　　B) structural　　C) structurally　　D) structured</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. A</strong> —— stress riser（应力上升源）是本章的固定术语，指截面突变或表面损伤处局部应力骤升的部位；B) stress rise 不是行业术语；C) stressed riser 把被修饰关系弄反，riser 本身并不"受应力"；D) stress raising 是动名词短语，不能充当"一个某物"的可数名词中心语。</p>
+<p><strong>2. B</strong> —— 与前文 gross area 相对的是 net area（净面积），即毛面积扣除铆钉孔后用于计算应力的有效截面；A) gross 正是被对比的那一项，逻辑相反；C) neat 意为"整洁的"，与 net 形近但无关；D) narrow 意为"狭窄的"，也不表示扣除孔洞后的截面。</p>
+<p><strong>3. C</strong> —— 铆钉是"被使用"的对象，情态动词 must not 后接被动语态 <code>be used</code>；A) use 是主动语态，主语会变成使用者；B) be using 是进行体主动；D) have used 是完成体主动，都不能表达"不得被使用"。</p>
+<p><strong>4. A</strong> —— <code>with 2.5D being the recommended value</code> 是 with 引导的独立主格结构，2.5D 与 be 之间没有谓语关系，须用现在分词 being；B) to be 表将来或目的，与这里的补充说明不符；C) is 是谓语形式，会造成两个谓语并列而无连词；D) been 是过去分词，不能单独引导该结构。</p>
+<p><strong>5. C</strong> —— 空格是表语中心词，需要名词 distance（距离）；A) distant 是形容词，B) distantly 是副词，D) distanced 是分词/形容词，三者都不能直接作"the edge ___"的中心名词。术语全称为 edge distance 或 edge margin。</p>
+<p><strong>6. D</strong> —— <code>set up</code> 在此意为"造成、形成（应力）"，符合"过强的修理反而在别处造出应力"的意思；A) set off 意为"出发、引爆"；B) set in 意为"（坏天气、不利情况）开始"；C) set out 意为"出发、陈述"，都不能表示造成应力。</p>
+<p><strong>7. A</strong> —— <code>cut away</code> 意为"切除、削去"，准确描述锪窝把孔周材料削掉；B) cut in 意为"插嘴、插队"；C) cut off 意为"切断、隔离"；D) cut up 意为"切碎、使伤心"，三者都不能表示按锥面去除孔周材料。</p>
+<p><strong>8. D</strong> —— Cleco 以辅音音素 /k/ 开头，不定冠词用 a；A) an 只用于元音音素前；B) the 表特指，而本句泛指"一种可重复使用的临时紧固件"；C) some 用于复数或不可数名词，与单数可数的 fastener 不搭配。</p>
+<p><strong>9. A</strong> —— 这里需要副词或零形式修饰过去分词 formed，构成 <code>cold formed</code>（冷成形的）这一复合表达，cold 在此作方式状语；B) coldly 意为"冷淡地"，语义完全走偏；C) coldness 是名词，不能修饰分词；D) colder 是比较级，本句没有比较对象。</p>
+<p><strong>10. B</strong> —— 修饰名词 members 需要形容词 structural（结构的），<code>structural members</code> 即结构件；A) structure 是名词，不能作定语（除非构成名词复合词，但这里不符合）；C) structurally 是副词；D) structured 意为"有组织的、结构化的"，不表示"承力结构件"。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ul><li><strong>countersinking 与 dimpling</strong>：前者切削去除孔周材料形成锥窝，后者用阴阳模压出凹窝、不去材料；压窝接头因嵌合效应更强，并把更多载荷交给板件而不是铆钉。</li><li><strong>rivet pitch / transverse pitch / edge distance</strong>：pitch 是同排相邻铆钉中心距（最小 3D，两排布置 4D）；transverse pitch 是相邻排之间的垂直距离（约 75% 铆距，最小 2.5D）；edge distance 是孔中心到板边的距离（2D–4D）。</li><li><strong>gross area 与 net area</strong>：gross 是总截面，用于评定强度；net 是扣除孔后的有效截面，用于受力计算。压缩载荷下若孔被等强度材料塞紧，可用毛面积。</li><li><strong>leg 与 flange</strong>：成形角材中较长的一边叫 leg，较短的一边叫 flange；两边等长时都称 leg。</li><li><strong>blind rivet 与 blind bolt</strong>：盲铆钉靠芯杆拉断成盲头，锁紧性能弱于实心铆钉；盲螺栓是螺纹件，剪切强度高得多（新型钛制可达 90 KSI，约为盲铆钉两倍）。</li><li><strong>7075-T6 与 7075-T7351/T76</strong>：T6 强度最高但抗应力腐蚀差、忌腐蚀环境；T7351 抗应力腐蚀优异且断裂韧性更好，T76 主要提高抗剥蚀能力。</li></ul>

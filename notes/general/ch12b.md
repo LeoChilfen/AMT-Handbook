@@ -278,35 +278,71 @@
 - 多台发电机并联时，差动继电器在轻载下不会全部闭合（例如 50 A 负载时可能只闭合两三个），加大负载后均载电路降低已并网发电机电压、抬高其余发电机电压，使其余继电器闭合。
 - 并联的交流发电机必须频率与电压都相等才能合闸，否则突然并网可能造成严重损坏。
 
-## 7. 高频考点（TECC / 口试风格）
+## 7. 高频考点 · TECC 完形填空
 
-问：铅酸电池放电时电解液比重为什么下降？ 答：放电时正极板二氧化铅与负极板铅都转变成硫酸铅（PbSO₄），硫酸被消耗、同时生成水，酸浓度下降，比重从约 1.270 降到约 1.150。
+> 10 道题，全部取材本章（电工电子基础·后半）。每题一个空、四个选项，只有一个最合适——干扰项按**形近词、同词族变体、近义词**设置。答案与解析在末尾。
 
-问：恒压充电与恒流充电各有什么优缺点？ 答：恒压法起始电流大、随后自动衰减到约 1 A，省时省人、不易过充；恒流法全程电流几乎不变，耗时更长且末期有过充危险。
+**1.** Abrasive cloth containing conductive grit must never be _____ on a commutator, because the particles embed in the copper and cause sparking.
 
-问：为什么 Ni-Cad 电池只能在完全充足电时加水？ 答：放电时极板吸收电解液、充电时液面上升；未充足电就加水，充电后液面过高会溢出。
+A) use　　B) using　　C) used　　D) usage
 
-问：正偏与反偏时 PN 结的电阻如何变化？ 答：正偏时耗尽区变窄、势垒降低，结电阻极小（近似短路）；反偏时耗尽区变宽、多数载流子不能跨越，结电阻最大（近似开路）。
+**2.** An induction motor can never run at exactly the _____ speed, because the rotor bars must cut the rotating field in order to produce torque.
 
-问：全波桥式整流器四个二极管如何工作？ 答：正半周 D1、D3 正偏导通（D2、D4 反偏截止），负半周 D2、D4 导通（D1、D3 截止），两个半周电流都同向流过负载。
+A) synchronize　　B) synchronizing　　C) synchronously　　D) synchronous
 
-问：齐纳二极管为什么在交流电路里要两只反向串联？ 答：齐纳管只在反偏击穿时稳压，而交流有正负两个半周，需两只反接分别覆盖两个半周。
+**3.** A device that changes alternating current into direct current is called a _____, and its operation depends on the one-way conduction of a diode.
 
-问：三极管的三个区域各自掺杂程度如何？ 答：发射极重掺杂、集电极中等掺杂、基极轻掺杂且做得很薄，以减少载流子在基区复合的损失。
+A) inverter　　B) rectifier　　C) resistor　　D) transistor
 
-问：三种组态中哪一种输出反相？ 答：只有共射（CE）组态输出与输入相差 180°，共集与共基输出都与输入同相。
+**4.** A Zener diode is operated in reverse breakdown, where it holds a nearly constant voltage _____ a wide range of current.
 
-问：为什么电动机启动电流很大而正常运转电流很小？ 答：静止时无反电势，电枢电流只受很小的电阻限制（28 V／0.1 Ω ≈ 280 A）；转速升高后反电势抵消大部分外加电压，电流降到约 4 A。
+A) over　　B) across　　C) through　　D) above
 
-问：感应电动机为什么必须有转差？ 答：若转子与旋转磁场同速，转子导条就不切割磁力线、无感应电势、无电流、也就没有转矩，转子必然减速，所以必须存在转速差。
+**5.** If one of the three leads of a three-phase motor opens, the motor keeps running but delivers only one _____ of its rated power.
 
-问：三相感应电动机断一根引线会怎样？ 答：仍能继续运转，但只输出 1/3 额定功率；若已停转则不能自行启动。
+A) third　　B) three　　C) thirds　　D) thirdly
 
-问：星形与三角形接法各有什么特点？ 答：星形线电压为相电压的 1.73 倍、线电流等于相电流；三角形线电压等于相电压、线电流为相电流的 1.73 倍。
+**6.** Without counter emf, the starting current of a 28-volt motor would be many times its normal _____ current.
 
-问：三单位调压器中反流切断器的作用是什么？ 答：当发电机电压低于电池电压时自动把电池与发电机断开；否则电池会向电枢倒灌，把发电机当电动机驱动（motoring），短时间内耗尽电池并可能烧坏绕组。
+A) operate　　B) operation　　C) operated　　D) operating
 
-问：CSD 的 overdrive 与 underdrive 分别对应什么工况？ 答：输入低于 6 000 rpm 时增速输出（overdrive），输入等于 6 000 rpm 时直驱（straight drive），输入高于 6 000 rpm 时减速输出（underdrive）。
+**7.** Before two alternators are paralleled, each of them must be _____ to the same voltage and frequency.
+
+A) bringing　　B) brought　　C) bring　　D) bring-up
+
+**8.** The difference between the synchronous speed and the actual rotor speed of an induction motor is called _____.
+
+A) shift　　B) glide　　C) slip　　D) drift
+
+**9.** The cells of a battery are connected in _____ with one another, so that their individual voltages add together.
+
+A) series　　B) sequence　　C) order　　D) line
+
+**10.** Carbon dust must be blown out of a generator after the brushes have been seated, since it _____ several serious fires in the past.
+
+A) cause　　B) causing　　C) caused　　D) causes
+
+### 答案与解析
+
+**1. C** —— `must never be _____` 是情态动词被动结构，须用**过去分词** `used`（绝不可被使用）。A `use` 是原形，`be use` 不成立；B `using` 是现在分词，不表被动；D `usage` 是名词（用法/使用量），不能作分词。考点：**情态动词 + be + 过去分词**。
+
+**2. D** —— 空格修饰名词 `speed`，需要**形容词** `synchronous`（同步的），`synchronous speed` 是本章的固定术语「同步转速」。A `synchronize` 是动词、B `synchronizing` 是分词（虽可作定语但此处指同步转速这一固有名词）、C `synchronously` 是副词，不能修饰名词。考点：**同词族词性（动/分词/副/形）**。
+
+**3. B** —— 把交流变成直流的器件是**整流器** `rectifier`，依靠二极管的单向导电性。A `inverter` 恰好反着来（把直流变交流），是本章第 8 节重点辨析的易混项；C `resistor` 是电阻器（限制电流，不改变电流方向）；D `transistor` 是三极管（放大或开关，不作整流）。考点：**近义/反义术语辨析**。
+
+**4. A** —— `over a wide range of ...` 是固定搭配，表示「在很宽的范围内」。B `across` 表跨接在某两端之间（用于电压跨接于元件），C `through` 表穿过（用于电流流过），D `above` 表位置或数值「在……之上」，都不与 `range` 搭配表示范围。考点：**介词与 range 的固定搭配**。
+
+**5. A** —— 表示分数「三分之一」用 `one + 序数词单数`，即 `one third`。B `three` 是基数词（`one three` 不成立）；C `thirds` 是复数序数词，用于分子大于 1 的分数（如 `two thirds`），与 `one` 连用错误；D `thirdly` 是列举用的副词（第三点）。考点：**分数表达与序数词单复数**。
+
+**6. D** —— 修饰名词 `current` 需用**现在分词作定语** `operating`（工作电流、运行电流）。A `operate` 是动词原形、B `operation` 是名词（`operation current` 不是该术语）、C `operated` 是过去分词，表被动（被操作的），均不合。考点：**现在分词作前置定语**。
+
+**7. B** —— `must be _____ to` 是情态动词被动，需要**过去分词** `brought`（必须被带到……），`bring ... to the same voltage` 的被动形式。A `bringing` 是现在分词，C `bring` 是原形，D `bring-up` 是名词（拉起、启动），三者都不能构成被动。考点：**不规则动词的过去分词与被动语态**。
+
+**8. C** —— 异步电动机转速低于同步转速的差值在术语上叫**转差（率）** `slip`，是本章的核心名词。A `shift` 意为「移动、班次」；B `glide` 意为「滑翔」（指平滑运动，非转速差）；D `drift` 意为「漂移」（多指缓慢偏离，如仪表漂移），都不是该电学术语。考点：**近义动词名词的术语辨析**。
+
+**9. A** —— `in series with` 是「与……串联」的固定搭配，串联时各单体电压相加。B `in sequence` 意为「按顺序」、C `in order` 意为「整齐/按次序」、D `in line` 意为「排成一行/一致」，三者都是顺序或位置概念，不是电路连接方式。考点：**介词短语固定搭配（串联/并联）**。
+
+**10. D** —— `since` 引导原因状语从句，主句用现在时（`must be blown out`），从句陈述的是长期成立的事实，用**一般现在时 + 第三人称单数** `causes`；`it` 指代不可数名词 carbon dust。A `cause` 少了第三人称单数 -s；B `causing` 不能单独作谓语；C `caused` 是过去时，与「碳粉历来引起多起火灾」的现在时语境及主句时态不呼应。考点：**主谓一致与从句时态**。
 
 ## 8. 易混点
 

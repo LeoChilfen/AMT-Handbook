@@ -1,0 +1,210 @@
+<h1 id="ch-09-engine-fire-protection-systems-发动机防火系统">Ch 09 · Engine Fire Protection Systems（发动机防火系统）</h1>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>讲运输类飞机发动机与 APU 的固定式防火：探测（热开关、热电偶、光学、气动、连续环）如何判火/判过热，灭火瓶如何喷放与指示，以及机上检查排故要点。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ul><li>防火区（fire zone）是制造商划定、要求火警探测和/或灭火设备并具备高固有耐火性的区域；"固定式"指永久安装，区别于手提灭火器。按 14 CFR part 23/25，多发布涡轮飞机、装涡轮增压器的多发布往复式飞机、发动机不易从驾驶舱看见的飞机、全部通勤类和运输类飞机、以及任何装 APU 的 APU 舱，防火系统是强制的；许多单发/双发往复式通航飞机不强制。</li><li>涡轮失效分热力学（thermodynamic）与机械（mechanical）两大类：进气整流罩/导流叶片结冰、放气过多或泄漏、控制故障导致压气机失速或富油，都会烧穿/甩出涡轮叶片；甩出的叶片可击穿尾锥、结构、油箱和易燃液体管路。</li><li>探测手段分点式（spot：热开关、热电偶、光学、气动式热探测）与连续环（continuous-loop）两类；连续环是热开关系统的变型，只感温、无温升率敏感性，大型商用机几乎全用连续环。烟雾探测器用于行李舱/厕所，一氧化碳探测器属另一类，都不用于发动机火警。</li><li>热开关：多个开关互相并联、再与指示灯串联，任一处超温该开关闭合即点亮火警灯；数量由制造商定。热电偶：靠升温速率工作，缓慢过热或短路不报警；4 mA 使灵敏继电器闭合，再带动从继电器点亮警告灯；回路总电阻一般不超过 5 Ω。</li><li>连续环两大流派：Fenwal 用因科镍管内填共晶盐（eutectic salt）+ 镍中心导体，受热后盐的电阻骤降导通判火，火灭后自动回到待命；Kidde 用管内热敏电阻芯，对地电阻下降先出过热（典型 10 s 延时）、继续下降出火警，并靠电阻变化速率区分"短路"与"真火"。</li><li>双环路用"与"逻辑（AND logic）：两条环都报警才给火警，极大提高抗假警能力；一条环失效可在驾驶舱选择单环放行，维护可延后。自动自询问（automatic self-interrogation）在毫秒级内替机组完成"查另一条环→抑制或确认火警"的判断。</li><li>灭火：part 23 通勤类至少一套一次性（one-shot）系统，part 25 运输类要求两次喷射且每次都能达到足够药剂浓度；APU、燃油加热器等可单套。主力药剂仍是 Halon 1301（不腐蚀、免清理、U.L. 分类 Group 61），部分军机用 HCL-125，CO2 多用于机坪外部灭火。</li><li>灭火瓶由瓶体、喷射活门（含 cartridge/squib 与易碎膜片）、压力表/压力开关、安全释压膜片、双向单向活门、红/黄释放指示片组成；维护核心是"压力落在压力-温度图内、火药筒在寿命内、膜片与封圈按拆装更换"。</li></ul>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">fire zone</td>
+<td style="text-align:left">防火区</td>
+<td style="text-align:left">制造商划定、要求探测和/或灭火且具高耐火性的区域</td>
+</tr>
+<tr>
+<td style="text-align:left">fixed fire protection system</td>
+<td style="text-align:left">固定式防火系统</td>
+<td style="text-align:left">永久装机，区别于手提灭火器</td>
+</tr>
+<tr>
+<td style="text-align:left">thermal switch</td>
+<td style="text-align:left">热开关</td>
+<td style="text-align:left">到达设定温度即闭合电路的热敏开关</td>
+</tr>
+<tr>
+<td style="text-align:left">thermocouple</td>
+<td style="text-align:left">热电偶</td>
+<td style="text-align:left">靠升温速率产生电压报警，慢升温不报</td>
+</tr>
+<tr>
+<td style="text-align:left">hot junction / reference (cold) junction</td>
+<td style="text-align:left">热端 / 参考端（冷端）</td>
+<td style="text-align:left">两端温差产生热电势</td>
+</tr>
+<tr>
+<td style="text-align:left">rate-of-temperature-rise detector</td>
+<td style="text-align:left">温升率探测器</td>
+<td style="text-align:left">只在温度快速上升时动作</td>
+</tr>
+<tr>
+<td style="text-align:left">optical fire detection (flame detector)</td>
+<td style="text-align:left">光学火警探测（火焰探测器）</td>
+<td style="text-align:left">感受碳氢火焰特定波段辐射，分 IR 与 UV</td>
+</tr>
+<tr>
+<td style="text-align:left">pneumatic thermal detector</td>
+<td style="text-align:left">气动式热探测</td>
+<td style="text-align:left">充氦闭管受热压力升到阈值即报警</td>
+</tr>
+<tr>
+<td style="text-align:left">continuous-loop detector</td>
+<td style="text-align:left">连续环探测器</td>
+<td style="text-align:left">沿全长连续感温，覆盖优于点式</td>
+</tr>
+<tr>
+<td style="text-align:left">Fenwal system</td>
+<td style="text-align:left">Fenwal 系统</td>
+<td style="text-align:left">因科镍管+共晶盐+镍导体，盐电阻骤降判火</td>
+</tr>
+<tr>
+<td style="text-align:left">Kidde system</td>
+<td style="text-align:left">Kidde 系统</td>
+<td style="text-align:left">因科镍管内热敏电阻芯，对地电阻下降判过热/火</td>
+</tr>
+<tr>
+<td style="text-align:left">eutectic salt</td>
+<td style="text-align:left">共晶盐</td>
+<td style="text-align:left">Fenwal 元件内受热电阻急剧下降的填料</td>
+</tr>
+<tr>
+<td style="text-align:left">thermistor</td>
+<td style="text-align:left">热敏电阻</td>
+<td style="text-align:left">温度升高、电阻下降的感温元件</td>
+</tr>
+<tr>
+<td style="text-align:left">inconel tube</td>
+<td style="text-align:left">因科镍管</td>
+<td style="text-align:left">耐高温合金外套管</td>
+</tr>
+<tr>
+<td style="text-align:left">dual-loop / "AND" logic</td>
+<td style="text-align:left">双环路 /"与"逻辑</td>
+<td style="text-align:left">两环都报警才出火警，抗假警</td>
+</tr>
+<tr>
+<td style="text-align:left">automatic self-interrogation</td>
+<td style="text-align:left">自动自询问</td>
+<td style="text-align:left">一环保警时自动测另一环，毫秒级判定</td>
+</tr>
+<tr>
+<td style="text-align:left">support tube-mounted sensing element</td>
+<td style="text-align:left">支撑管安装式感温元件</td>
+<td style="text-align:left">元件夹在预弯不锈钢管上，便于拆装</td>
+</tr>
+<tr>
+<td style="text-align:left">fire detection card / control unit</td>
+<td style="text-align:left">火警探测卡 / 控制盒</td>
+<td style="text-align:left">监测环路电阻并输出报警与故障信号</td>
+</tr>
+<tr>
+<td style="text-align:left">HRD (high rate of discharge)</td>
+<td style="text-align:left">高速喷射系统</td>
+<td style="text-align:left">开端管在 1–2 s 内喷完药剂</td>
+</tr>
+<tr>
+<td style="text-align:left">Halon 1301</td>
+<td style="text-align:left">哈龙 1301</td>
+<td style="text-align:left">现役商用机主力灭火剂，不腐蚀、免清理</td>
+</tr>
+<tr>
+<td style="text-align:left">HCL-125</td>
+<td style="text-align:left">HCL-125（原文如此）</td>
+<td style="text-align:left">部分军机使用，FAA 正在试验其商用化</td>
+</tr>
+<tr>
+<td style="text-align:left">CO2</td>
+<td style="text-align:left">二氧化碳</td>
+<td style="text-align:left">机坪外部灭火常用，可自压喷放</td>
+</tr>
+<tr>
+<td style="text-align:left">discharge cartridge (squib)</td>
+<td style="text-align:left">喷射火药筒（电爆管）</td>
+<td style="text-align:left">电起爆推弹丸击破膜片放气</td>
+</tr>
+<tr>
+<td style="text-align:left">frangible disc</td>
+<td style="text-align:left">易碎膜片</td>
+<td style="text-align:left">被击破后形成喷射通道</td>
+</tr>
+<tr>
+<td style="text-align:left">two-way check valve</td>
+<td style="text-align:left">双向单向活门</td>
+<td style="text-align:left">双瓶系统中防止药剂回流到已空瓶</td>
+</tr>
+<tr>
+<td style="text-align:left">discharge indicator (red / yellow disc)</td>
+<td style="text-align:left">释放指示片（红/黄）</td>
+<td style="text-align:left">红片=超温泄放，黄片=机组灭火</td>
+</tr>
+<tr>
+<td style="text-align:left">safety relief diaphragm</td>
+<td style="text-align:left">安全释压膜片</td>
+<td style="text-align:left">超温时先于瓶体试验压力破裂</td>
+</tr>
+<tr>
+<td style="text-align:left">APU</td>
+<td style="text-align:left">辅助动力装置</td>
+<td style="text-align:left">有独立防火区与独立灭火瓶</td>
+</tr>
+<tr>
+<td style="text-align:left">BITE</td>
+<td style="text-align:left">机内测试设备</td>
+<td style="text-align:left">自动检测火警系统完好性</td>
+</tr>
+<tr>
+<td style="text-align:left">AIMS</td>
+<td style="text-align:left">飞机状态监控系统</td>
+<td style="text-align:left">B777 接收火警卡数据（经 ARINC 629）</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<ul><li>法规依据：14 CFR part 23（通勤类）、part 25（运输类）。</li><li>理想火警探测器系统列出 12 项特性（不假警、快速定位、火灭/复燃指示、驾驶舱电测、抗油水振动高温、轻量、不用变流机、非报警时耗电最小等）。</li><li>热电偶：电流 &gt; 4 mA（0.004 A）时灵敏继电器闭合；回路总电阻通常不超过 5 Ω；一个继电器盒可含 1–8 套相同电路。</li><li>Kidde 连续环：过热指示典型带 10 s 延时；对地电阻降到过热设定点出过热、再降到火警设定点出火警，恢复后回到复位点。</li><li>红外光学探测器：滤光片只放行约 4.3 μm 波段的红外辐射。</li><li>Halon 1301：U.L. 分类 Group 61。</li><li>CO2：喷放时蒸发吸热把剩余液体冷到 –110 °F，形成干冰雪；极寒地区可加氮气增压（booster charge）。</li><li>HRD 系统：1–2 秒内喷出全部药剂。</li><li>连续环安装：直线段卡箍间距通常 8–10 in；端接头处第一个支撑卡箍距端接头 4–6 in；所有接头后先保持 1 in 直段再起弯；最佳弯曲半径 3 in。</li><li>喷射火药筒（cartridge）寿命按制造商日期钢印计，通常以年计，可供货 5 年或以上。</li><li>灭火瓶压力必须落在压力-温度图的上下限之间（图 9-18 坐标范围约 –40～80 °F、0～900 psig），超限即换瓶。</li><li>B777：BITE 在通电时、电源中断后、以及每 5 分钟运行各测一次；火警开关扳到 DISCH 1/2 并顶住止动位保持 1 秒。</li><li>APU 灭火：图 9-29 标注 10 秒延时（unattended 自动喷放支路）。</li><li>灭火区共 7 类（见第 5 节）。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<ul><li>完整防火系统 = 火警探测系统 + 灭火系统。</li><li>探测</li><li>点式（spot）</li><li>热开关系统：热开关（并联）+ 指示灯（串联）、测试继电器、变光继电器（串电阻调光）、按压试验灯泡</li><li>热电偶系统：热电偶（串联）→ 灵敏继电器 → 从继电器 → 警告灯；继电器盒内含灵敏继电器、从继电器、热测试单元；电路分探测/报警/测试三条</li><li>光学（IR / UV）：窗口 → 滤光片（4.3 μm）→ 感温面 → 放大 → 数字处理判时间特征</li><li>气动式：充氦闭管 + 响应器组件（responder assembly）+ 完好性压力开关</li><li>连续环</li><li>Fenwal：因科镍管 + 共晶盐 + 镍中心导体 → 控制盒加小电压 → 盐电阻骤降 → 输出继电器动作；可接成环路，断一处仍报警，多处断只失效断口之间段</li><li>Kidde：因科镍管 + 热敏电阻芯 + 两根导体（一根接地、一根回控制盒）→ 对地电阻下降；感温元件等效为沿长度无限多个热敏电阻并联，报警取决于"被加热长度×温度"的非算术平均值</li><li>双环路 + 自动自询问；支撑管安装（预弯不锈钢管、密集卡箍与衬套，单/双元件）</li><li>控制单元/火警探测卡：密封铝壳、电阻监测与报警输出；先进机型集成发动机、APU、货舱、引气全部防火功能</li><li>火警区（powerplant 7 类）</li></ul>
+<ol><li>发动机功率段（power section）</li><li>发动机附件段（accessory section）</li><li>除往复式外、功率段与附件段之间无隔离的整个动力装置舱</li><li>任何 APU 舱</li><li>任何燃油加热器及其他燃烧设备安装处</li><li>涡喷/涡扇的压气机段与附件段</li><li>含易燃液体或气体管路/部件的燃烧室、涡轮、尾喷管段</li></ol>
+<ul><li>此外多发布飞机还有行李舱、厕所、APU、燃烧加热器等处，但本章只讲发动机。</li><li>灭火</li><li>药剂：Halon 1301（主力）、HCL-125（军机）、CO2（机坪外部）、氮气（增压用）</li><li>分配：多孔管或喷嘴；HRD 用开端管</li><li>瓶体（HRD bottle）：不锈钢（可用钛）、球形最轻/圆柱形省空间、DOT 规范、温度-压力敏感安全释压膜片</li><li>喷射活门：cartridge(squib) + 易碎膜片；标准释放型=炸药推弹丸击破分段闭合片；直接爆炸冲击型=破预应力的耐蚀钢膜片；亦有电磁/手动座阀式</li><li>压力指示：螺旋波登管表、组合表-开关、地面可检的膜片式低压开关、Kidde 温度补偿压力开关（密封参考腔）</li><li>双向单向活门：铝或钢，MS-33514 / MS-33656 接口</li><li>释放指示：红色热释放片（超温泄放）、黄色释放片（机组灭火）</li><li>火警开关：中央顶板或中央操纵台；停车、隔离、灭火三合一；拉-转式或带护盖按压式；未探测到火时由锁止电磁线圈锁住，可手动超控</li><li>警告：喇叭 + 一个或多个警告灯，火灭即停</li><li>B777 典型</li><li>每发两条探测环 + 一块火警探测卡（ENG）；信号送 AIMS 与警告电子组件（WEU）</li><li>过热：主警戒灯 + 警戒音 + 发动机过热警戒信息</li><li>火警：主警告灯 + 火警音 + 火警信息 + 发动机火警灯 + 燃油控制开关火警灯</li><li>双瓶 Halon（氮气增压），位于前货舱右侧壁板后、货舱门之后；每瓶两个喷射组件（每发一个 squib）、安全释压与充填口、压力开关（常开，压力低闭合）、识别牌、4 个安装凸耳</li><li>火警开关在 P8  aisle stand 的发动机火警面板，每发一个开关、每瓶一个释放灯</li><li>APU：设计类似但有差别——无人值守（unattended，地面、发动机不转）时火警自动喷放；有人值守（至少一台发动机运转）时由机组手动喷放；火警开关在货舱火警/发动机控制面板与机头起落架处的 P40 地面服务与 APU 关车面板</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<ul><li>连续环感温元件目视检查 10 项（原文明确说这是示例，不能替代制造商手册）：</li></ul>
+<ol><li>被检查盖板、整流罩、发动机部件挤压造成的裂纹/断裂</li><li>与整流罩、附件、结构件摩擦造成的磨损</li><li>可能短接点式探测器接线柱的保险丝碎段或金属屑</li><li>安装卡箍橡胶衬套是否被油软化、被高温硬化</li><li>元件上的凹坑与扭结——直径、允许凹坑/扭结、管形平滑度按制造商规定；<strong>不得试图校直可接受的凹坑或扭结</strong>，否则产生应力导致管子失效</li><li>元件端部螺母的紧度与保险丝；松动者按手册力矩重新拧紧；某些接头用铜压溃垫圈，每次分解都要换</li><li>屏蔽软导线外层编织是否磨断（弯折或粗暴操作易在接头附近断丝）</li><li>走向与卡箍：长距离无支撑会因振动断裂；直线段卡箍间距 8–10 in；端接头首个卡箍 4–6 in；接头后留 1 in 直段；最佳弯曲半径 3 in</li><li>整流罩撑杆与元件干涉造成磨损并短接</li><li>衬套两端居中于卡箍、开口朝向最近弯头的外侧，卡箍与衬套应贴合</li></ol>
+<ul><li>排故 5 类：</li></ul>
+<ol><li>间歇报警——多为线路间歇短路（松线碰端子、磨破线擦结构、元件磨穿绝缘），可晃动导线复现</li><li>无火假警——先脱开控制盒侧的发动机感温环接头，假警消失则故障在该环，查是否被弯到贴热部件；找不到就逐段隔离</li><li>扭结/急弯造成内导线对外管间歇短路——欧姆表 + 敲击可疑段找短路</li><li>潮气很少引起假火警；一旦引起，警告会持续到污染物被排除或蒸发、环路电阻恢复正常</li><li>按测试开关不报警——测试开关/控制盒故障、无电、指示灯坏、元件或连线断路；双线环可断开量电阻，单线连续环中心导体应接地</li></ol>
+<ul><li>灭火系统维护：</li><li>定期查瓶压在上、下限之间，且随环境温度的变化落在规定范围内；超限换瓶</li><li>火药筒寿命按瓶上日期钢印算；查剩余寿命需拆电插头与喷射管、取出插塞体</li><li>新瓶到货时 cartridge 与喷射活门多为散件，装前须正确组装，通常用旋转螺母压紧垫环密封</li><li><strong>拆下的 cartridge 不得装到另一个喷射活门组件上</strong>——各组件触点凸出距离不同，长触点压出的凹痕配短触点会接触不良</li><li>常规项目还包括：瓶体检查与充灌、cartridge 与喷射活门拆装、喷射管路泄漏测试、线路连续性测试</li><li>涡轮地面火：可用起动机带转吹灭尾喷管内的火，运转中的发动机可加速到额定转速；仍不灭则向尾喷管喷灭火剂；注意过量 CO2 等有冷却作用的药剂会使涡轮机匣收缩、导致发动机解体。</li><li>法规/文件：运输类因环短路会使系统失效，14 CFR 要求短路故障指示；实际维修一律以该机型维护手册为准。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（发动机防火系统）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> Any fire in the engine compartment must be _____ quickly, before it can damage the structure.</p>
+<p>A) detect　　B) detecting　　C) detected　　D) detection</p>
+<p><strong>2.</strong> A thermocouple detector responds to the rate at which the temperature _____, so it ignores a slow overheat.</p>
+<p>A) raises　　B) rises　　C) arises　　D) rose</p>
+<p><strong>3.</strong> Pulling the fire switch _____ the fuel, hydraulic and bleed-air supplies to the affected engine.</p>
+<p>A) shuts down　　B) shuts out　　C) shuts off　　D) shuts up</p>
+<p><strong>4.</strong> The Kidde continuous loop contains a _____ core whose resistance to ground falls as the element heats up.</p>
+<p>A) thermostat　　B) thermometer　　C) thermistor　　D) thermocouple</p>
+<p><strong>5.</strong> Only when the APU is running unattended _____ the fire bottle discharge automatically.</p>
+<p>A) do　　B) is　　C) has　　D) does</p>
+<p><strong>6.</strong> When the cartridge fires, the gas pressure _____ the frangible disc and releases the agent.</p>
+<p>A) rupture　　B) ruptures　　C) ruptured　　D) rupturing</p>
+<p><strong>7.</strong> The fire detection control unit monitors the _____ of the sensing loop and warns the crew when the loop is broken.</p>
+<p>A) integrity　　B) integrate　　C) integral　　D) integrally</p>
+<p><strong>8.</strong> A fire in the engine compartment should _____ a warning in the cockpit within a few seconds.</p>
+<p>A) set up　　B) set off　　C) set out　　D) set in</p>
+<p><strong>9.</strong> Halon 1301 is widely used because it leaves no residue and is non-_____ to the metals it contacts.</p>
+<p>A) corrosive　　B) corrosion　　C) corrode　　D) corroded</p>
+<p><strong>10.</strong> The extinguishing agent is discharged into the zone _____ the fire is burning.</p>
+<p>A) which　　B) what　　C) whose　　D) where</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. C</strong> —— <code>must be _____</code> 是情态动词的被动结构，火必须「被发现」，需<strong>过去分词</strong> <code>detected</code>。A <code>detect</code> 原形、B <code>detecting</code> 现在分词都不能构成被动；D <code>detection</code> 是名词（探测），形近但词性不对。考点：<strong>被动语态 + 词性</strong>。</p>
+<p><strong>2. B</strong> —— <code>rise</code> 是不及物动词，主语是温度本身，「温度上升」用 <code>rises</code>。A <code>raises</code> 是及物动词，必须带宾语（raise the temperature）；C <code>arises</code> 意为「（问题）发生」，不用于温度；D <code>rose</code> 是过去式，与前面一般现在时 <code>responds</code> 不一致。考点：<strong>rise / raise 近义词辨析</strong>。</p>
+<p><strong>3. C</strong> —— <code>shut off</code> 指「切断（供应）」，与本章「火警开关停车、隔离、灭火三合一」的隔离功能吻合。A <code>shut down</code> 是关停设备本身；B <code>shut out</code> 是挡在外面；D <code>shut up</code> 是闭嘴，三者都不能接 supply 表示断供。考点：<strong>同一动词换小品词</strong>。</p>
+<p><strong>4. C</strong> —— Kidde 连续环的芯是<strong>热敏电阻</strong> <code>thermistor</code>，温度升高、对地电阻下降。A <code>thermostat</code> 是恒温器（控制温度的装置）；B <code>thermometer</code> 是温度计（读数）；D <code>thermocouple</code> 是热电偶（靠温差发电），四词同前缀但功能不同。考点：<strong>形近术语辨析</strong>。</p>
+<p><strong>5. D</strong> —— <code>Only when...</code> 置于句首时主句必须<strong>部分倒装</strong>，本句谓语是实义动词 <code>discharge</code>，需借助助动词 <code>does</code>。A <code>do</code> 与单数主语 the fire bottle 不一致；B <code>is</code>、C <code>has</code> 与动词原形 discharge 不匹配。考点：<strong>only 状语前置引起的倒装</strong>。</p>
+<p><strong>6. B</strong> —— 主语 <code>the gas pressure</code> 是第三人称单数，从句谓语用<strong>动词第三人称单数</strong> <code>ruptures</code>。A <code>rupture</code> 原形与单数主语不一致；C <code>ruptured</code> 是过去式，与 <code>fires</code> 的现在时态冲突；D <code>rupturing</code> 是分词，使从句失去谓语。考点：<strong>主谓一致与动词形式</strong>。</p>
+<p><strong>7. A</strong> —— <code>the _____ of the loop</code> 需要<strong>名词</strong>，<code>integrity</code>（完整性）正是控制盒监测的对象：环路断开即失去完整性。B <code>integrate</code> 是动词；C <code>integral</code> 是形容词/名词（积分），不表示「完好性」；D <code>integrally</code> 是副词。考点：<strong>同词族词性辨析</strong>。</p>
+<p><strong>8. B</strong> —— <code>set off</code> 意为「触发（警报）」，火警探测系统触发驾驶舱警告正用此义。A <code>set up</code> 是建立、C <code>set out</code> 是出发/着手、D <code>set in</code> 是（坏天气等）开始，三个小品词均不能表示「触发报警」。考点：<strong>短语动词搭配</strong>。</p>
+<p><strong>9. A</strong> —— 系动词 <code>is</code> 后接<strong>形容词</strong>，<code>non-corrosive</code>（无腐蚀性的）说明 Halon 1301 不腐蚀金属。B <code>corrosion</code> 是名词、C <code>corrode</code> 是动词、D <code>corroded</code> 是过去分词（表示已被腐蚀），与「不腐蚀」的逻辑相反。考点：<strong>形容词构词</strong>。</p>
+<p><strong>10. D</strong> —— 先行词 <code>zone</code> 表地点，从句 <code>the fire is burning</code> 成分完整，需要<strong>关系副词</strong> <code>where</code>（= in which）。A <code>which</code> 要求从句缺主语或宾语，这里不缺；B <code>what</code> 不能引导定语从句；C <code>whose</code> 表所属，zone 与 fire 没有所属关系。考点：<strong>关系副词 where</strong>。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ul><li><strong>热开关 vs 热电偶</strong>：定温 vs 温升率。前者能报缓慢过热，后者不能；所以"发动机缓慢过热没报警"对热电偶是正常现象，不是故障。</li><li><strong>过热警告 vs 火警</strong>：同一感温环两级阈值。过热在先（引气或燃气泄漏使舱温普遍升高），火警阈值高于泄漏热气所能达到的水平。</li><li><strong>红色释放片 vs 黄色释放片</strong>：红=超温泄放（热释放），黄=机组灭火；判读错误会导致误判故障来源。</li><li><strong>Fenwal 的"断一处仍报警" vs Kidde 的"短路不是火"</strong>：Fenwal 环路断线仍能报警（但多处断只失效断口间段）；Kidde 靠电阻变化速率区分电气短路与真火，短路比火警电阻下降更快。</li><li><strong>探测环故障 vs 灭火瓶压力低</strong>：前者由火警卡/控制盒报 fault，后者由瓶上压力开关（常开，压力低闭合）报；两者是不同的维护动作。</li><li>原文缺项提醒：本章正文只出现 Kidde、Fenwal 两种连续环，以及 Halon 1301、HCL-125（原文如此）、CO2、氮气四种介质；未出现 Lindberg 型、Halon 1211、HFC 与干粉（dry chemical），不要据此章笔记补写。</li></ul>

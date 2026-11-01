@@ -1,0 +1,289 @@
+<h1 id="ch-11-communication-navigation-通信与导航">Ch 11 · Communication &amp; Navigation（通信与导航）</h1>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>从半导体与逻辑门讲起，系统梳理飞机通信（VHF/HF、AM/FM/SSB、天线与传输线）与导航（VOR/ILS/ADF/DME/RNAV/应答机/TCAS/ADS-B/GPS/IRS）的原理，以及 A&amp;P 技师在安装、检查、抗干扰与测试上的职责边界。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ol><li>航电（avionics）设备的<strong>内部</strong>修理归厂家或持证修理站（certified repair station），而<strong>安装、检查、拆卸、维护、排故、天线与传输线施工</strong>是机体技师的法定职责范围。这一条贯穿全章，是理解"哪些能自己动手"的分界线。</li><li>无线电波频率与波长成反比；天线长度按半波长取值才能谐振，工程公式为 <code>Antenna Length (feet) = 468 / F MHz</code>。VHF 通信频段的半波长天线长达 3 米多，所以机体上普遍用 1/4 波长的 Marconi 天线，靠金属蒙皮（ground plane）补足另外 1/4 波长。</li><li>VOR 靠"基准信号与可变信号的相位差"测向，接收机输出方位角、航道偏离与 TO/FROM 三种信息；ILS 则把水平引导（localizer，90/150 Hz 调制）与垂直引导（glideslope，约 3°）分开播发，marker beacon 给距离点。</li><li>应答机—二次雷达（SSR）体系用 1030 MHz 询问、1090 MHz 应答，4096 个识别码；接通 ALT/Mode C 后由高度编码器把气压高度编成 1280 个高度码发回地面。Mode S 给每架机唯一地址，消除代码重号。</li><li>抗干扰是机体技师最能直接着手的维护内容：<strong>屏蔽（shielding）、隔离（isolation）、搭接（bonding）、静电放电刷（static discharger）</strong>四种手段，各有可测量的电阻判据（搭接 0.003 Ω、仅防射频噪声 0.01 Ω、放电刷对机体 0.1 Ω）。</li><li>安装航电属"大改"还是"小改"决定文书：厂家已批准的小改由持证机体技师签署放行；不在原设备清单上的加装属大改，须填 FAA Form 337，由持 IA（inspection authorization）者签署放行；STC 是最常见的批准依据。</li><li>几项硬性周期：应答机每 24 个日历月按 14 CFR part 43 Appendix F 测试；ELT 每 12 个月检查一次；VOR 用 VOT 测试误差不得超过 ±4°，超差即不得按 IFR 飞行。</li><li>雷达与 ELT 的测试带人身与空域风险：不得直视发射中的雷达天线、不得在机库内（无吸波材料时）开机、不得朝向建筑物或加油时开机；ELT 测试优先用假负载直连，406 MHz 输出须在 17–26 dBm。</li></ol>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">avionics</td>
+<td style="text-align:left">航电（航空电子）</td>
+<td style="text-align:left">aviation + electronics 的合称，1970 年代才出现的术语</td>
+</tr>
+<tr>
+<td style="text-align:left">carrier wave</td>
+<td style="text-align:left">载波</td>
+<td style="text-align:left">未调制的高频波，本身不携带有效信息</td>
+</tr>
+<tr>
+<td style="text-align:left">AM / FM</td>
+<td style="text-align:left">调幅 / 调频</td>
+<td style="text-align:left">前者改变载波幅度（易受静电干扰），后者改变载波频率（抗噪好、带宽大）</td>
+</tr>
+<tr>
+<td style="text-align:left">SSB (single sideband)</td>
+<td style="text-align:left">单边带</td>
+<td style="text-align:left">滤掉载波与一个边带，只发一个边带，带宽减半</td>
+</tr>
+<tr>
+<td style="text-align:left">sideband / bandwidth</td>
+<td style="text-align:left">边带 / 带宽</td>
+<td style="text-align:left">调制产生的载波±调制频率分量；上下边带加载波所占的频段即带宽</td>
+</tr>
+<tr>
+<td style="text-align:left">super heterodyne receiver</td>
+<td style="text-align:left">超外差接收机</td>
+<td style="text-align:left">用本振与来波混频，取差频作中频再检波</td>
+</tr>
+<tr>
+<td style="text-align:left">IF (intermediate frequency)</td>
+<td style="text-align:left">中频</td>
+<td style="text-align:left">混频后的差频，VHF 航空通信机中为 10.8 MHz</td>
+</tr>
+<tr>
+<td style="text-align:left">transceiver</td>
+<td style="text-align:left">收发机</td>
+<td style="text-align:left">收发共用部分电路与天线，PTT 按下时接收电路被封锁</td>
+</tr>
+<tr>
+<td style="text-align:left">VOR</td>
+<td style="text-align:left">甚高频全向信标</td>
+<td style="text-align:left">地面台发两路信号，机上比相位得方位，108–117.95 MHz</td>
+</tr>
+<tr>
+<td style="text-align:left">VORTAC / TVOR</td>
+<td style="text-align:left">伏塔克 / 终端 VOR</td>
+<td style="text-align:left">VOR 与军用 TACAN 同址即 VORTAC；机场内的 VOR 称 TVOR</td>
+</tr>
+<tr>
+<td style="text-align:left">CDI / OBS</td>
+<td style="text-align:left">航道偏离指示器 / 全向方位选择器</td>
+<td style="text-align:left">CDI 指针左右偏转示偏离，OBS 旋钮选航道，每格 2°</td>
+</tr>
+<tr>
+<td style="text-align:left">RMI</td>
+<td style="text-align:left">无线电磁指示器</td>
+<td style="text-align:left">罗盘、VOR、ADF 三合一，磁航向由 flux gate 罗盘转动刻度盘</td>
+</tr>
+<tr>
+<td style="text-align:left">HSI</td>
+<td style="text-align:left">水平状态指示器</td>
+<td style="text-align:left">把 VOR/ILS 方位与航向合成在一块的显示</td>
+</tr>
+<tr>
+<td style="text-align:left">EFIS</td>
+<td style="text-align:left">电子飞行仪表系统</td>
+<td style="text-align:left">PFD 上半为电子姿态仪、下半为电子 HSI 的基础</td>
+</tr>
+<tr>
+<td style="text-align:left">localizer</td>
+<td style="text-align:left">航向台（ LOC）</td>
+<td style="text-align:left">ILS 的水平引导，108–111.95 MHz 奇数频率，2.5° 扇区</td>
+</tr>
+<tr>
+<td style="text-align:left">glideslope</td>
+<td style="text-align:left">下滑台</td>
+<td style="text-align:left">ILS 的垂直引导，UHF 329.3–335.0 MHz，约 3° 下滑角</td>
+</tr>
+<tr>
+<td style="text-align:left">marker beacon</td>
+<td style="text-align:left">指点标</td>
+<td style="text-align:left">75 MHz 垂直向上发射，外/中/内指点标以灯光颜色与音调区分</td>
+</tr>
+<tr>
+<td style="text-align:left">compass locator</td>
+<td style="text-align:left">罗盘定位台</td>
+<td style="text-align:left">装在外/中指点的低功率 NDB，用 ADF 接收以切入 ILS</td>
+</tr>
+<tr>
+<td style="text-align:left">DME</td>
+<td style="text-align:left">测距仪</td>
+<td style="text-align:left">UHF 962–1213 MHz 问答测斜距，与 VOR 同址可定点</td>
+</tr>
+<tr>
+<td style="text-align:left">ADF / NDB</td>
+<td style="text-align:left">自动定向机 / 无方向信标</td>
+<td style="text-align:left">ADF 用环形天线找 NDB 的来波方向，sense 天线消除 180° 模糊</td>
+</tr>
+<tr>
+<td style="text-align:left">loop antenna</td>
+<td style="text-align:left">环形天线</td>
+<td style="text-align:left">正对来波（broadside）时两侧电流抵消成零信号，用于测向</td>
+</tr>
+<tr>
+<td style="text-align:left">RNAV</td>
+<td style="text-align:left">区域导航</td>
+<td style="text-align:left">不飞越台站的点到点导航，用 waypoint（如 200/25 表示 200° 径向 25 NM）</td>
+</tr>
+<tr>
+<td style="text-align:left">transponder</td>
+<td style="text-align:left">应答机</td>
+<td style="text-align:left">收到 SSR 询问后回 1090 MHz 编码信号，提供识别与高度</td>
+</tr>
+<tr>
+<td style="text-align:left">Mode C / Mode S</td>
+<td style="text-align:left">C 模式 / S 模式</td>
+<td style="text-align:left">C 模式回气压高度；S 模式每机唯一地址、可单机询问</td>
+</tr>
+<tr>
+<td style="text-align:left">ATCRBS</td>
+<td style="text-align:left">空管雷达信标系统</td>
+<td style="text-align:left">地面一次/二次雷达与机上应答机构成的传统体系</td>
+</tr>
+<tr>
+<td style="text-align:left">TCAS / ACAS</td>
+<td style="text-align:left">交通防撞系统</td>
+<td style="text-align:left">基于应答机的空空监视，TA 告警、RA 指令；国际名 ACAS</td>
+</tr>
+<tr>
+<td style="text-align:left">ADS-B</td>
+<td style="text-align:left">广播式自动相关监视</td>
+<td style="text-align:left">用 GPS 位置加机载状态自主广播，分 OUT 与 IN</td>
+</tr>
+<tr>
+<td style="text-align:left">UAT</td>
+<td style="text-align:left">通用接入收发机</td>
+<td style="text-align:left">978 MHz 数据链设备，用于通用航空 ADS-B</td>
+</tr>
+<tr>
+<td style="text-align:left">ELT</td>
+<td style="text-align:left">应急定位发射机</td>
+<td style="text-align:left">撞击 G 力触发，406 MHz 数字信号经卫星中继求救</td>
+</tr>
+<tr>
+<td style="text-align:left">Cospas-Sarsat</td>
+<td style="text-align:left">搜救卫星系统</td>
+<td style="text-align:left">LEOSAT + GEOSAT、LUT、MCC 组成的全球求救链</td>
+</tr>
+<tr>
+<td style="text-align:left">LORAN</td>
+<td style="text-align:left">远程无线电导航</td>
+<td style="text-align:left">100 kHz 脉冲塔链双曲线定位，美国已停用</td>
+</tr>
+<tr>
+<td style="text-align:left">GPS / NAVSTAR</td>
+<td style="text-align:left">全球定位系统</td>
+<td style="text-align:left">24 星测时测距定位，L1 1575.42 MHz 民用</td>
+</tr>
+<tr>
+<td style="text-align:left">WAAS</td>
+<td style="text-align:left">广域增强系统</td>
+<td style="text-align:left">地面站算差分修正经静止卫星播发，把误差压到 1–3 m</td>
+</tr>
+<tr>
+<td style="text-align:left">INS / IRS</td>
+<td style="text-align:left">惯性导航 / 惯性基准系统</td>
+<td style="text-align:left">自备式，靠加速度计与陀螺积分定位，IRS 为固态激光陀螺</td>
+</tr>
+<tr>
+<td style="text-align:left">ACARS</td>
+<td style="text-align:left">飞机通信寻址与报告系统</td>
+<td style="text-align:left">机载数字传感器数据与地面的双向数据链</td>
+</tr>
+<tr>
+<td style="text-align:left">VOT</td>
+<td style="text-align:left">VOR 测试设施</td>
+<td style="text-align:left">机场地面测试台，调 108.0 MHz 校验 VOR 精度</td>
+</tr>
+<tr>
+<td style="text-align:left">coax / balun</td>
+<td style="text-align:left">同轴电缆 / 平衡-不平衡变换器</td>
+<td style="text-align:left">同轴作传输线（约 50 Ω）；balun 做阻抗匹配</td>
+</tr>
+<tr>
+<td style="text-align:left">bonding</td>
+<td style="text-align:left">搭接</td>
+<td style="text-align:left">金属件间低阻连接，防电位积累与可变电阻噪声</td>
+</tr>
+<tr>
+<td style="text-align:left">static discharger (wick)</td>
+<td style="text-align:left">静电放电刷</td>
+<td style="text-align:left">装于操纵面后缘、翼尖、垂尾，泄放降水静电</td>
+</tr>
+<tr>
+<td style="text-align:left">TSO / STC / Form 337</td>
+<td style="text-align:left">技术标准规定 / 补充型号合格证 / 大改表格</td>
+<td style="text-align:left">设备须 TSO 批准；STC 是常见安装批准；大改填报 337</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<p><strong>无线电基础</strong></p>
+<ul><li>电波传播速度 186,000 miles/s（约 300 million m/s）。</li><li>半波天线长度公式：<code>Antenna Length (feet) = 468 / F(MHz)</code>。</li><li>VHF 通信 118–136.975 MHz 对应半波长 3.96–3.44 ft（47.5–41.2 in）。</li><li>电场分量、磁场分量与传播方向三者互相垂直，均成 90°。</li><li>地波（ground/surface wave）3 kHz–3 MHz；HF 天波 2–25 MHz；VHF 30–300 MHz、UHF 300 MHz–3 GHz、SHF 3–30 GHz。</li><li>频率分配总跨度：LF 100 kHz 至 SHF 近 10 GHz；分配权归 FCC。</li></ul>
+<p><strong>航空频段（原书频率表）</strong></p>
+<ul><li>Loran C 100 kHz；NDB 190–535 kHz；ADF 200–1600 kHz；AM 广播 550–1800 kHz。</li><li>HF 通信 2–30 MHz；marker beacon 75 MHz；FM 广播 88–108 MHz。</li><li>VOR 108–118 MHz；VHF 通信 118–137 MHz；glideslope 328–336 MHz。</li><li>DME 960–1215 MHz；应答机 1030 与 1090 MHz；GPS 1.6 GHz。</li><li>雷达高度表 4.3 GHz；Doppler 导航 8.8 GHz；气象雷达 9.375 GHz。</li></ul>
+<p><strong>通信</strong></p>
+<ul><li>VHF 通信 118.0–136.975 MHz，720 个波道，间隔 25 kHz；欧洲再分为 8.33 kHz。</li><li>中频（IF）10.8 MHz（VHF 航空通信机）。</li><li>同轴电缆特性阻抗约 50 Ω。</li></ul>
+<p><strong>VOR / ILS</strong></p>
+<ul><li>VOR 108–117.95 MHz，波道间隔 50 kHz；CDI 每格代表 2°。</li><li>VOT 测试：调 108.0 MHz，OBS 指 0° 且显示 FROM 或 180° 且显示 TO；用 RMI 时航向应指 180°；误差不得超过 ±4°；双套 VOR 比对亦为 ±4°。</li><li>Localizer 108–111.95 MHz，仅奇数频率；扇区宽 2.5°（距跑道 5 mi 处约 1,500 ft）；左 90 Hz、右 150 Hz 调制（原书该句误写为 150 MHz）。</li><li>Glideslope 329.3–335.0 MHz（UHF），下滑角约 3°；天线位于跑道头侧方约 1,000 ft。</li><li>Compass locator：外指点标处 4–7 mi，25 W，作用距离约 15 mi；中指点标处约 3,500 ft。</li><li>Marker beacon 均 75 MHz：外标 400 Hz 音频、连续划、蓝灯；中标 1300 Hz、点划、琥珀灯；内标 3000 Hz、仅点、白灯。</li><li>DME 962–1213 MHz（UHF）。</li></ul>
+<p><strong>应答机 / 防撞 / 监视</strong></p>
+<ul><li>4096 个离散识别码（八进制）；高度码 1280 个，每 100 ft 一档，覆盖 1200 ft MSL 至 126,700 ft MSL。</li><li>询问 1030 MHz，应答 1090 MHz；测试周期 24 个日历月（14 CFR 91.413 + part 43 Appendix F）。</li><li>专用码：0000 军用、7500 劫机、7600/7700 应急、1200 VFR。</li><li>TCAS I 监视范围 35–40 mi，装于 10–30 座飞机；TCAS II 用于 &gt;30 座或 &gt;15,000 kg，最新版为 Version 7。</li><li>ADS-B：1090 ES（Mode S 扩展）与 978 MHz UAT 两种数据链。</li></ul>
+<p><strong>雷达高度表 / 气象雷达</strong></p>
+<ul><li>雷达高度表载波 4.3 GHz、调频 50 MHz，主用于 2,500 ft 以下的仪表进近与低空/夜航。</li><li>机载气象雷达 SHF：5.44 GHz 或 9.375 GHz；脉冲宽约 1 μs，收发开关（duplexer）在发射后约 2,500 μs 转接收。</li><li>显示配色：强回波红、中黄、弱绿、极强或湍流用品红；云不产生回波。</li></ul>
+<p><strong>ELT</strong></p>
+<ul><li>406.025 MHz，5 W，每 50 s 发一次数字信号，持续时间不少于 24 h。</li><li>Doppler 定位精度 2–5 km；含 GPS 坐标的第二代信号可压到 100 m 内。</li><li>旧制 121.5 MHz 模拟信号 0.75 W；部分旧机同时发 243.0 MHz（军用应急频率）。</li><li>检查周期 12 个月（FAR 91.207）。</li><li>406 MHz 测试输出功率：不小于 17 dBm（50 mW）、不大于 26 dBm（400 mW）。</li><li>假负载/天线罩须把信号衰减到 −51 dBW 以下（功率通量密度 −37.4 dB(W/m²)、场强 −11.6 dB(V/m)）。</li><li>测试仪与 ELT 天线最小间距 12 m（39.4 ft）；121.5 MHz 空中测试只能在本小时整点后 5 分钟内、且不超过三次可听扫频。</li><li>认证标准 TSO C-126。</li></ul>
+<p><strong>GPS / WAAS / INS</strong></p>
+<ul><li>24 颗卫星（21 工作 + 3 备份），6 个轨道面，高 12,625 mi；任意时刻至少 4 颗在地平线 15° 以上，通常可见 5–8 颗。</li><li>L1 民用 1575.42 MHz；L2 军用 1227.60 MHz；未来 L2C 民用非安全关键、L5 供 CAT I/II/III 着陆。</li><li>控制段：5 个地面接收站 + 1 个主控站 + 3 个发射天线。</li><li>现精度水平 20 m 以内；WAAS 后 7.6 m；WAAS 系统本身可把误差降到横向与垂直 1–3 m。</li><li>WAAS 约 25 个精测地面站 + 2 个主站。</li><li>IFR 用 GPS 接收机须符合 TSO-129A。</li><li>INS 性能判据：飞行 1 h 累积误差可小于 1 mi；至少 2 个加速度计（一指北、一指东）；现代 IRS 用 3 个激光陀螺与 3 个固态加速度计。</li></ul>
+<p><strong>安装与抗干扰</strong></p>
+<ul><li>搭接电阻不大于 0.003 Ω；仅用于降低射频噪声、不载流时可放宽到 0.01 Ω。</li><li>静电放电刷安装点对机体电阻不大于 0.1 Ω。</li><li>同轴电缆每隔约 2 ft 固定一次；弯曲半径不小于电缆直径的 10 倍。</li><li>天线加强板用 Alclad 2024-T3；铆钉最小直径 1/8 in、间距约 1 in；边距最小 1½ in；天线安装孔用 No. 18 钻头。</li><li>同轴接头施工：剥外绝缘 1/4 in、剥内绝缘 1/8 in，内导体用 60-40 树脂芯焊锡搪锡。</li><li>电子基础：PN 结导通阈值约 0.7 V；共射放大器偏置示例 2.3 V、β=100 即电流放大 100 倍；SCR 触发角 30°/90° 决定输出平均电压。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<p><strong>（一）电子基础层（决定航电"能不能修"）</strong></p>
+<ul><li>模拟 vs 数字：模拟量连续、易受噪声；数字只判"有电压/无电压"（Logic 1/0），抗噪与自检能力强。</li><li>分立器件：二极管（整流、稳压用 Zener）、三极管（PNP/NPN，IE = IB + IC）、SCR（单向、触发后自锁）、Triac（双向）、UJT、FET/MOSFET/CMOS（现代集成电路基础）。</li><li>基本电路：整流（半波/全波/桥式/三相六管）、放大（共射/共集/共基）、振荡（tank circuit、Hartley、晶体压电稳频）。</li><li>逻辑门：NOT、Buffer、AND、OR、NAND、NOR、EXCLUSIVE OR、negative logic gate；NAND 与 NOR 各自可单独实现全部逻辑。</li></ul>
+<p><strong>（二）通信链</strong></p>
+<ul><li>发射机：振荡器（载波）→ 频率倍频器 → 调制器 → 功率放大器 → 天线。</li><li>接收机（超外差）：射频放大 → 与本振混频 → 中频放大 → 检波/解调 → 音频放大。</li><li>收发机（transceiver）：收发共用电路与天线，PTT 切换，属半双工。</li><li>天线三类：dipole（半波、多数水平极化、VOR 的 V 形天线每臂 1/4 波）、Marconi（1/4 波、靠蒙皮做地网、垂直极化全向、多数 VHF 通信用）、loop（强方向性、用于测向）。</li><li>传输线：同轴电缆（中心导体 + 绝缘 + 编织屏蔽 + 防水外皮），必要时加 balun 匹配。</li></ul>
+<p><strong>（三）导航链</strong></p>
+<ul><li>VOR 系统四部件：接收机、目视指示器、频率选择器（控制面板）、天线；地面为 VOR/TVOR/VORTAC 台网，构成 Victor 航路。</li><li>ILS 组成：localizer（水平）+ glideslope（垂直）+ 外/中/内 marker beacon（距离点）+ compass locator（切入用 NDB）。</li><li>ADF/NDB：环形天线 + sense 天线 → goniometer/resolver → 指示器；现代用铁氧体固定环、双环 90° 布置。</li><li>DME：机载收发机 + 显示 + 天线，与地面台问答测斜距（slant distance），部分机型可折算地面距离。</li><li>RNAV：VOR/DME 或 VORTAC 参考 + CLC 计算机生成"幻影航点"，也可基于 LORAN、GPS、INS、FMS。</li><li>监视与防撞：一次雷达（PPI 显示）→ SSR/ATCRBS（应答机 + 高度编码器）→ Mode S → TCAS I/II → ADS-B OUT/IN。</li><li>自主导航：GPS（空间段/控制段/用户段）+ WAAS 增强；INS/IRS 自备式，现代 IRS 与 GPS 组合互相校正。</li></ul>
+<p><strong>（四）显示与人机接口</strong></p>
+<ul><li>数字数据显示器是"玻璃驾驶舱"的玻璃：PFD 上半为 EFIS 式姿态仪、下半为电子 HSI，四周集成通信导航、天气、地形、进近信息；发动机、液压、燃油等参数通常在 secondary flight display 或独立显示器上。</li><li>音频面板（audio panel）与数字调谐器（digital tuner）把多台通信/导航机的选择与调频集中到一个控制界面。</li><li>本章未涉及 EICAS 的专门论述，只提到发动机与机体系统参数显示在 secondary flight display 或独立显示器上。</li></ul>
+<p><strong>（五）应急与气象</strong></p>
+<ul><li>ELT：G 力传感器 + 406 MHz 发射机 + 天线 + 驾驶舱控制面板（可预位、测试、人工触发），常带便携天线。</li><li>气象三类手段：机载气象雷达、闪电探测（如 Stormscope）、卫星/地面上传的雷达与图文天气。</li><li>雷达高度表：收发机 + 定向天线，给 AGL 高度与决断高度告警，可并入 GPWS。</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<p><strong>职责边界</strong></p>
+<ul><li>航电内部修理只由厂家或持证修理站完成；机体技师负责拆装、检查、维护、排故、天线与传输线的安装修理。</li><li>加装设备必须是 TSO 批准且适用于该机型的件；若属厂家已批准的小改，持证机体技师可施工并签署放行；不在原设备清单上的加装属大改，须填 FAA Form 337，由持 IA 者签署放行；无 STC 时走 field approval。STC 资料即批准的施工与维护依据。</li></ul>
+<p><strong>安装施工</strong></p>
+<ul><li>安装位置优先选厂家或 STC 指定区域；无资料时须选能承受设备重量与附加惯性载荷的位置。</li><li>在仪表板上开孔前必须确认该板不是主要结构（primary structure）；为减小悬臂载荷可在设备壳体/架后与附近结构件之间加支撑托架。</li><li>设备必须牢固固定，所有安装螺栓用防松装置；设备与相邻结构留足间隙，防振动、摩擦、着陆冲击损伤线缆。</li><li>不得把航电与含可燃液体的部件相邻布置；无法分开时加挡板或罩壳。</li><li>散热：高性能机用空调引气吹过设备架；非空调机用鼓风机或冲压空气；引外部空气时必须做挡水措施，水汽进入设备区会加速劣化并导致失效。</li><li>减振：用减振架/减振座，设备重量不得超过减振件承载能力；装在减振座上的电台须留出正常摆动间隙。仪表板内安装一般不需另加减振（板本身已减振），但要核算原安装点能否承受新增重量，必要时换大承载减振件或增加固定点。</li><li>减振件定期检查三项：减振材料是否老化、材料的刚度与弹性、支座整体刚性。太硬则着陆冲击防护不足，太软则一次冲击后持续振动。</li><li>减振材料多为电绝缘体，故每个用减振座安装的电子设备必须用镀锡铜编织带跨过减振座搭接到机体结构，形成接地通路；无法用软带处可用实心铝或铜搭接片。</li></ul>
+<p><strong>天线施工</strong></p>
+<ul><li>天线必须机械牢固（气动载荷大）、与收发机电气匹配、装在无干扰且收发效果最佳的位置、极化与地面台一致。</li><li>典型刚式天线步骤：模板对准机身前后中心线（fore-and-aft centerline）钻安装孔与传输线过孔 → 装加强板（Alclad 2024-T3，铆钉 1/8 in 最小、约 1 in 间距、边距 1½ in 最小）→ 装天线，螺栓压紧加强板、柱体压紧垫片；不用垫片时在柱体与蒙皮间涂锌铬酸盐腻子等密封剂。</li><li>传输线：同轴电缆，须以最小损耗传输；应答机、DME 等脉冲式设备对线长有精确要求，须按厂家安装手册选型与定长；需要时加 balun 做阻抗匹配。</li><li>同轴电缆每隔约 2 ft 固定，不与其它线束并行绑扎；弯曲半径不小于 10 倍电缆直径。</li><li>接头制作：剥外绝缘 1/4 in、散开编织层、剥内绝缘 1/8 in、装夹箍与垫圈、回折屏蔽层、内导体用 60-40 树脂芯焊锡搪锡、套接触件焊接、装接头体并紧固。</li><li>同轴接头选型可参考 AC 43.13-1B 第 11 章第 17 节图 11-37。</li></ul>
+<p><strong>抗干扰维护</strong></p>
+<ul><li>干扰源：旋转电机、开关器件、点火系统、螺旋桨控制系统、交流电源线、电压调节器。</li><li>屏蔽：用编织屏蔽层把射频噪声电流导入地，而不是辐射到空间；所有电气部件还应搭接到机体结构。</li><li>隔离：把噪声源与受害设备的输入电路分开，有时仅把天线引入线移开几英寸即可消除噪声；屏蔽与隔离都无效时在输入电路加滤波器。</li><li>搭接：清除接触区表面涂层以保证金属对金属接触，跨接线尽量短；电阻不大于 0.003 Ω，仅防射频噪声时 0.01 Ω 可接受。</li><li>静电放电刷：装于操纵面后缘、翼尖、垂尾，把降水静电泄放在离天线足够远、耦合很小的位置；用金属螺钉、铆钉或环氧固定，定期检查连接牢固性，安装点对机体电阻不大于 0.1 Ω，并按厂家说明检查其状态。</li></ul>
+<p><strong>测试与周期</strong></p>
+<ul><li>VOR：用 VOT 测试，调 108.0 MHz、CDI 居中，OBS 指 0°（FROM）或 180°（TO），RMI 指示 180°；误差超 ±4° 即不得 IFR 飞行，须修好；双套 VOR 仅共用天线者可用两台互比，差值不超过 ±4°；须做维修记录（logbook entry）。</li><li>应答机：按 14 CFR 91.413 与 part 43 Appendix F，每 24 个日历月检查测试；任何可能引入误差的安装或维修后也要按 Appendix F 复测；只有相应等级的修理站、装机厂家、连续适航大纲持有者可执行。</li><li>地面操作应答机：选码时应先把选择开关置于 OFF 或 STANDBY，避免误发；严禁误发 0000（军用）、7500（劫机）、7600/7700（应急），连误发 1200（VFR）也可能招致规避动作。</li><li>ELT：按 FAR 91.207 每 12 个月内检查安装、电池腐蚀、控制与撞击传感器动作、天线端有足够信号；BITE 可在不发信号的情况下自测；检查结果（含电池新到期日）记入维修记录并标注在 ELT 外部。406 MHz 测试另需核对发射码已在 Cospas-Sarsat 注册、驾驶舱声响与目视指示在发动机关车时可见可闻、G 开关动作正常（失效即更换）、水激活电路动作正常。</li><li>406 MHz 测试优先"直连"而非"空中辐射"，用 50 Ω 假负载或天线罩，把辐射压到 −51 dBW 以下；金属机库不保证信号不被卫星收到，须当作室外测试对待；必须空中测试时先联系 Cospas-Sarsat 与当地 ATC，用设备内置测试报文，测试仪距天线至少 12 m。</li><li>121.5 MHz 老式 ELT 无 BITE，真测试可能要发信号：拆天线接假负载，只在本小时整点后 5 分钟内、不超过三次扫频，并建议先联系塔台或 FSS。</li><li>气象雷达维护：雷达罩只能用批准的涂料，以免阻挡射频；多数雷达罩带接地条把雷击与静电引离罩体。操作禁令：不得直视发射中的天线（高能辐射伤眼与睾丸）、无吸波材料的机库内不得开机、不得朝向建筑物、加油时不得开机；只由合格人员维护操作。</li><li>安装后必须做操作检查（operational check）；常见故障根因是换件时的疏忽：电缆接头松动、接头接错、搭接不良、减振件磨损、保险丝/保险打得不规范。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（通信与导航）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> The length of a half-wave antenna in feet is found by _____ 468 by the frequency in megahertz.</p>
+<p>A) divide　　B) divided　　C) dividing　　D) division</p>
+<p><strong>2.</strong> A Marconi antenna is only one quarter wavelength long because the metal skin of the aircraft acts as a _____.</p>
+<p>A) ground plane　　B) ground plan　　C) grounding plate　　D) ground level</p>
+<p><strong>3.</strong> A VOR receiver determines the bearing from the phase _____ between the reference and variable signals.</p>
+<p>A) differ　　B) difference　　C) different　　D) differently</p>
+<p><strong>4.</strong> The transponder replies _____ 1090 MHz when it is interrogated on 1030 MHz.</p>
+<p>A) in　　B) at　　C) with　　D) on</p>
+<p><strong>5.</strong> The four-digit transponder code gives 4,096 _____ identification codes when it is set in octal.</p>
+<p>A) discreet　　B) discreetly　　C) discrete　　D) discretion</p>
+<p><strong>6.</strong> The static discharger must be bonded to the airframe with a resistance not exceeding 0.1 _____.</p>
+<p>A) ohm　　B) ohms　　C) ohmic　　D) ohmically</p>
+<p><strong>7.</strong> The 24-month transponder check must be carried _____ by an approved repair station.</p>
+<p>A) on　　B) off　　C) over　　D) out</p>
+<p><strong>8.</strong> Any installation that is not on the original equipment list is _____ a major alteration.</p>
+<p>A) consider　　B) considered　　C) considering　　D) consideration</p>
+<p><strong>9.</strong> TCAS II issues a _____ advisory that tells the pilot exactly how to avoid the traffic.</p>
+<p>A) resolution　　B) resolve　　C) resolving　　D) resolute</p>
+<p><strong>10.</strong> Shielding, isolation and bonding are the three main _____ used to control radio interference.</p>
+<p>A) technique　　B) technical　　C) techniques　　D) technically</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. C</strong> —— 介词 by 后接动名词，<code>by dividing 468 by ...</code> 意为「用 468 除以频率」。A divide 是原形，B divided 是过去式/分词，D division 是名词，都不能作介词宾语。</p>
+<p><strong>2. A</strong> —— <code>ground plane</code>（地网/接地平面）是天线术语，指金属蒙皮为 1/4 波长天线补足另一半。B ground plan 是「平面图」，C grounding plate 是「接地板」，D ground level 是「地面高度」，均为形近但非该术语。</p>
+<p><strong>3. B</strong> —— 介词 from 后需要名词，<code>phase difference</code>（相位差）是 VOR 测向的核心。A differ 是动词，C different 是形容词，D differently 是副词，均不能作介词宾语。</p>
+<p><strong>4. D</strong> —— <code>reply on a frequency</code>（在某频率上应答）用介词 on；1030/1090 MHz 是频率点。A in、B at、C with 都不能与 reply 搭配表示频率。</p>
+<p><strong>5. C</strong> —— 需要形容词修饰 codes，discrete（离散的、各自独立的）正合「4,096 个互不相同的识别码」。A discreet 形近但意为「谨慎的、考虑周到的」；B discreetly 是副词，不能修饰名词；D discretion 是名词「自行决定权」。</p>
+<p><strong>6. A</strong> —— 数值 0.1 小于 1，单位名词用单数 ohm，<code>0.1 ohm</code> 才符合英语计量表达。B ohms 用于大于 1 的复数，C ohmic 是形容词，D ohmically 是副词。</p>
+<p><strong>7. D</strong> —— <code>carry out</code> 是「执行、完成（检查/测试）」的短语动词，被动式 carried out 成立。A carry on 是继续，B carry off 是成功完成/带走，C carry over 是结转，语义均不合。</p>
+<p><strong>8. B</strong> —— <code>is _____ a major alteration</code> 是被动语态，需过去分词 considered（被视为大改）。A consider 是原形，C considering 是现在分词，D consideration 是名词，均不能与 is 构成被动。</p>
+<p><strong>9. A</strong> —— <code>resolution advisory</code>（决断咨询）是 TCAS II 的标准术语，给出具体规避指令。B resolve 是动词，C resolving 是分词，D resolute 是形容词「坚决的」，均不能构成该术语。</p>
+<p><strong>10. C</strong> —— three main 后需可数名词复数 techniques（手段），与 used to control 呼应。A technique 是单数，B technical 是形容词，D technically 是副词，均不合。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ol><li><strong>大改 vs 小改</strong>：厂家已批准（含 STC 覆盖且在原设备清单思路内）的加装按小改处理，持证机体技师即可放行；不在原设备清单上的加装按大改处理，必须填 FAA Form 337 并由持 IA 者签署放行。二者常被混为"加装就是大改"。</li><li><strong>VOR 的 CDI vs ILS 的 CDI</strong>：同一块指示器、同一套 VOR/ILS 接收机，但调在 localizer 频率时 VOR 专用电路不工作，用的是更灵敏的 localizer 电路；而且 ILS 的 CDI 灵敏度随距离变化，VOR 不这样。</li><li><strong>localizer 与 glideslope 的频段</strong>：localizer 在 VHF 108–111.95 MHz（只占奇数频率，与 VOR 频段重叠），glideslope 在 UHF 329.3–335.0 MHz；调 localizer 时下滑台频率自动配对，不需要单独调。</li><li><strong>ADF 的 loop 天线与 sense 天线</strong>：环形天线方向性强但存在 180° 双向模糊（正对来波为无信号、平行于来波最强）；sense 天线全向，二者合成后只剩一个零点，才消除"朝台还是背台"的歧义。</li><li><strong>TCAS 的 TA 与 RA</strong>：TA 只是提示附近有目标、由飞行员目视搜索；RA 是计算机算出的具体规避指令（如 DESCEND），TCAS II 才有，且飞行员必须优先执行 RA 而非 ATC 指令。TCAS I 只到 TA。</li><li><strong>INS 与 GPS</strong>：GPS 靠外部卫星信号、会受电离层与服务中断影响；INS/IRS 完全自备、不依赖地面或卫星，靠加速度计积分，飞 1 h 累积误差可小于 1 mi。二者组合时 GPS 用于初始化和误差修正，GPS 失效后 IRS 仍独立工作。</li></ol>

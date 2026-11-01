@@ -1,0 +1,259 @@
+<h1 id="ch-05-engine-starting-systems-发动机起动系统">Ch 05 · Engine Starting Systems（发动机起动系统）</h1>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>讲活塞发动机与燃气涡轮发动机靠什么把转子转到能自持燃烧的转速：起动机类型、离合与超转保护、起动时序与电源限制。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ul><li>起动机（starter）是能产生大机械能、带动发动机转动的机电装置。活塞机只需被转到较低转速即自行着火，着火后起动机脱开；涡轮机必须把发动机带到能自持燃烧（self-sustaining speed）的转速，且要继续助力越过自加速转速（self-accelerating speed）。</li><li>活塞机绝大多数用直接驱动式电动起动机（direct cranking electric starter），少数老机型仍装惯性起动机（inertia starter，分手摇、电动、手摇加电动三种）。</li><li>惯性起动机靠飞轮储存的动能工作：先用摇柄或小电机"储能"（energizing），再通过手动拉索或啮合电磁铁与曲轴啮合，能量经减速齿轮和过载释放离合器传给发动机。</li><li>涡轮机起动机现用三类：直流电动机、起动/发电机（starter/generator）、空气涡轮起动机（air turbine starter）。空气涡轮起动机由地面气源车、APU 或已运转发动机的交叉引气（cross-bleed）供气。</li><li>起动时序固定：先让起动机把压气机加速到建立足够气流，再通电点火（ignition on），然后再供油（fuel on），EGT 上升表示点火成功（light up）；到规定转速点起动机与点火自动切断。</li><li>若在自加速转速以下就撤掉起动机助力，发动机可能加速不到慢车，甚至减速；助力撤得过早还会造成 hot 或 hung 的假起动（false start）或其组合。</li><li>所有起动系统都有"起动机时限"（starter limits）：连续运转 1 分钟后至少冷却 1 分钟；第二次及以后的 1 分钟起动后要冷却 5 分钟，否则起动机过热损坏。</li><li>离合与超转保护是核心：过载释放离合器限制传递扭矩，单向（overrunning/sprag）离合器在发动机自转时脱开，涡轮壳体设转子包容环（containment ring）应对超转碎裂。</li></ul>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">starter</td>
+<td style="text-align:left">起动机</td>
+<td style="text-align:left">能产生大机械能、带动发动机转起来的机电装置</td>
+</tr>
+<tr>
+<td style="text-align:left">direct cranking electric starter</td>
+<td style="text-align:left">直接驱动式电动起动机</td>
+<td style="text-align:left">通电即直接、连续地摇转发动机，活塞机最常用</td>
+</tr>
+<tr>
+<td style="text-align:left">inertia starter</td>
+<td style="text-align:left">惯性起动机</td>
+<td style="text-align:left">靠高速旋转飞轮储存的动能摇转发动机</td>
+</tr>
+<tr>
+<td style="text-align:left">combination hand and electric inertia starter</td>
+<td style="text-align:left">手摇加电动惯性起动机</td>
+<td style="text-align:left">既可用手摇柄也可用小电机给飞轮储能</td>
+</tr>
+<tr>
+<td style="text-align:left">flywheel</td>
+<td style="text-align:left">飞轮</td>
+<td style="text-align:left">储能元件，动能储存在其旋转中</td>
+</tr>
+<tr>
+<td style="text-align:left">energizing</td>
+<td style="text-align:left">储能（励磁加速）</td>
+<td style="text-align:left">起动前把飞轮及内部可动件先转起来的过程</td>
+</tr>
+<tr>
+<td style="text-align:left">meshing solenoid</td>
+<td style="text-align:left">啮合电磁铁</td>
+<td style="text-align:left">电驱动使起动机与曲轴啮合的电磁机构</td>
+</tr>
+<tr>
+<td style="text-align:left">starter driving jaw</td>
+<td style="text-align:left">起动机驱动爪</td>
+<td style="text-align:left">起动机端带齿的爪盘，与发动机起动爪咬合</td>
+</tr>
+<tr>
+<td style="text-align:left">torque overload release clutch</td>
+<td style="text-align:left">过载释放离合器</td>
+<td style="text-align:left">扭矩超设定值时打滑，保护起动机与发动机</td>
+</tr>
+<tr>
+<td style="text-align:left">centrifugal clutch</td>
+<td style="text-align:left">离心离合器</td>
+<td style="text-align:left">组合式惯性起动机上的离合件</td>
+</tr>
+<tr>
+<td style="text-align:left">reduction gear train</td>
+<td style="text-align:left">减速齿轮系</td>
+<td style="text-align:left">把电机高转速低扭矩变为低转速高扭矩</td>
+</tr>
+<tr>
+<td style="text-align:left">planetary gear reduction</td>
+<td style="text-align:left">行星齿轮减速</td>
+<td style="text-align:left">大功率活塞机起动机齿轮段采用的减速形式</td>
+</tr>
+<tr>
+<td style="text-align:left">sun gear / planet gear / internal gear</td>
+<td style="text-align:left">太阳轮／行星轮／内齿轮</td>
+<td style="text-align:left">行星减速的三个基本件</td>
+</tr>
+<tr>
+<td style="text-align:left">planetary carrying arm</td>
+<td style="text-align:left">行星架</td>
+<td style="text-align:left">支撑行星轮并把扭矩传给起动爪</td>
+</tr>
+<tr>
+<td style="text-align:left">traveling nut</td>
+<td style="text-align:left">游动螺母（行进螺母）</td>
+<td style="text-align:left">沿螺旋花键进退，推动起动爪啮合或回位</td>
+</tr>
+<tr>
+<td style="text-align:left">jaw spring / return spring</td>
+<td style="text-align:left">爪弹簧／回位弹簧</td>
+<td style="text-align:left">保持锥形离合贴合；起动机停转后使爪回位</td>
+</tr>
+<tr>
+<td style="text-align:left">conical clutch surface</td>
+<td style="text-align:left">锥形离合面</td>
+<td style="text-align:left">游动螺母与起动爪之间的摩擦传扭面</td>
+</tr>
+<tr>
+<td style="text-align:left">overrunning clutch</td>
+<td style="text-align:left">单向（超转）离合器</td>
+<td style="text-align:left">发动机转速超过起动机时自动脱开</td>
+</tr>
+<tr>
+<td style="text-align:left">sprag clutch</td>
+<td style="text-align:left">斜撑块式单向离合器</td>
+<td style="text-align:left">空气涡轮起动机用，转子一转即自动啮合</td>
+</tr>
+<tr>
+<td style="text-align:left">starter/generator</td>
+<td style="text-align:left">起动/发电机</td>
+<td style="text-align:left">同一壳体内兼具起动机与发电机功能</td>
+</tr>
+<tr>
+<td style="text-align:left">shunt field / series field (C field)</td>
+<td style="text-align:left">并励磁场／串励磁场（C 励磁）</td>
+<td style="text-align:left">起动用串励 C 励磁，发电用并励</td>
+</tr>
+<tr>
+<td style="text-align:left">undercurrent relay</td>
+<td style="text-align:left">欠流继电器</td>
+<td style="text-align:left">起动电流降到设定值以下时切断起动</td>
+</tr>
+<tr>
+<td style="text-align:left">air turbine starter</td>
+<td style="text-align:left">空气涡轮起动机</td>
+<td style="text-align:left">用压缩空气吹涡轮经减速齿轮带转发动机</td>
+</tr>
+<tr>
+<td style="text-align:left">cross-bleed start</td>
+<td style="text-align:left">交叉引气起动</td>
+<td style="text-align:left">用已运转发动机的引气起动另一台发动机</td>
+</tr>
+<tr>
+<td style="text-align:left">APU (Auxiliary Power Unit)</td>
+<td style="text-align:left">辅助动力装置</td>
+<td style="text-align:left">可作为空气涡轮起动机的气源之一</td>
+</tr>
+<tr>
+<td style="text-align:left">air impingement starting</td>
+<td style="text-align:left">喷气冲击起动</td>
+<td style="text-align:left">压缩空气直接吹压气机或涡轮叶片使其转动</td>
+</tr>
+<tr>
+<td style="text-align:left">cartridge/pneumatic starter</td>
+<td style="text-align:left">火药筒／气源两用起动机</td>
+<td style="text-align:left">可当普通空气涡轮起动机，也可用火药筒产气</td>
+</tr>
+<tr>
+<td style="text-align:left">breech cap / breech handle</td>
+<td style="text-align:left">药筒膛盖／膛柄</td>
+<td style="text-align:left">装火药筒并锁紧、点火的结构</td>
+</tr>
+<tr>
+<td style="text-align:left">relief valve</td>
+<td style="text-align:left">安全（卸压）阀</td>
+<td style="text-align:left">气压超过预设最大值时旁通热气以维持最佳压力</td>
+</tr>
+<tr>
+<td style="text-align:left">bleed valve (pressure-regulating and shutoff valve)</td>
+<td style="text-align:left">引气阀（调压关断阀）</td>
+<td style="text-align:left">调定到起动机的空气压力并在关断时切断供气</td>
+</tr>
+<tr>
+<td style="text-align:left">start valve</td>
+<td style="text-align:left">起动阀</td>
+<td style="text-align:left">位于引气阀下游，控制进入起动机的空气流量</td>
+</tr>
+<tr>
+<td style="text-align:left">butterfly valve</td>
+<td style="text-align:left">蝶形阀</td>
+<td style="text-align:left">引气阀内的节流元件</td>
+</tr>
+<tr>
+<td style="text-align:left">servo piston / pilot valve / bellows</td>
+<td style="text-align:left">伺服活塞／先导阀／波纹管</td>
+<td style="text-align:left">调压阀的控制链：感受下游压力并反馈</td>
+</tr>
+<tr>
+<td style="text-align:left">rotor switch actuator</td>
+<td style="text-align:left">转子开关作动器</td>
+<td style="text-align:left">到切断转速时打开涡轮开关，关断起动阀</td>
+</tr>
+<tr>
+<td style="text-align:left">turbine rotor containment ring</td>
+<td style="text-align:left">涡轮转子包容环</td>
+<td style="text-align:left">转子超转碎裂时耗散碎片能量并低速排出</td>
+</tr>
+<tr>
+<td style="text-align:left">self-sustaining speed</td>
+<td style="text-align:left">自持转速</td>
+<td style="text-align:left">发动机能不靠起动机自行维持燃烧的转速</td>
+</tr>
+<tr>
+<td style="text-align:left">self-accelerating speed</td>
+<td style="text-align:left">自加速转速</td>
+<td style="text-align:left">能自行加速到慢车的转速，低于它撤助力会失败</td>
+</tr>
+<tr>
+<td style="text-align:left">light up</td>
+<td style="text-align:left">点火（着火）</td>
+<td style="text-align:left">EGT 上升即表明燃烧建立</td>
+</tr>
+<tr>
+<td style="text-align:left">hot start / hung start</td>
+<td style="text-align:left">热起动／悬挂起动</td>
+<td style="text-align:left">起动中 EGT 过高／转速挂住上不去的假起动</td>
+</tr>
+<tr>
+<td style="text-align:left">starter limits</td>
+<td style="text-align:left">起动机时限</td>
+<td style="text-align:left">允许连续摇转时间与所需冷却时间的限制</td>
+</tr>
+<tr>
+<td style="text-align:left">magnetic chip detector</td>
+<td style="text-align:left">磁性金属屑探测器</td>
+<td style="text-align:left">空气涡轮起动机滑油系统的日常检查点</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<ul><li>直接驱动式电动起动机主电缆电流：最高约 350 A 至 100 A（amps），取决于所需起动力矩。</li><li>典型起动机电机：12 V 或 24 V 串励（series-wound）电机，起动扭矩大；转速与所加电压成正比、与负载成反比。</li><li>轻中型双发飞机起动电路标称输入：24 Volts DC。</li><li>起动机时限：连续通电 1 分钟后，至少冷却 1 分钟；第二次及以后每次 1 分钟起动后，冷却 5 分钟。</li><li>起动爪行程：约 5/16 inch 全行程，在起动爪约 12° 转角内完成。</li><li>太阳轮轴伸转速比起动爪快 6 倍（其螺旋花键为左旋）。</li><li>起动机杠杆调整（Figure 5-8）：9/16" 与 1/16" clearance 两个标志尺寸。</li><li>电刷磨损到原长约 one-half（一半）时更换。</li><li>起动/发电机起动电源：24 V、1,500 peak amperes（峰值安培）。</li><li>起动/发电机内部齿轮比：approximately 435 to 1。</li><li>欠流继电器整定：起动电流降到小于 200 amps 时断开，结束起动。</li><li>起动/发电机系统排故电压判据：串励继电器线圈两端 48 V DC、起动继电器线圈两端 48 V DC、另一继电器线圈 28 V DC。</li><li>空气涡轮起动机供气压力：约 30–50 psi，一次只用一路气源；正常最低限制约 30 psi；起动前必须查管道压力。</li><li>空气涡轮起动机重量：约为能起动同一发动机的电动起动机的 1/4 至 1/2。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<ul><li>活塞机起动系统</li><li>惯性起动机：手摇／电动／手摇加电动三型；飞轮 + 可动齿轮 + 减速齿轮 + 过载释放离合器 + 起动机驱动爪（Figure 5-1、5-3）。</li><li>直接驱动式电动起动机（小型机）：电机 + 减速齿轮 + 自动啮合脱开机构（经可调过载释放离合器）；手动啮合型用仪表板拉钮经柔性操纵索带动起动机杠杆，杠杆先推动小齿轮到位、再压合起动开关。</li><li>大功率活塞机起动机：两大部件——电机组件（电枢与电机小齿轮、端盖、机壳；机壳兼作磁轭）与齿轮段（外罩带安装法兰、行星减速、太阳轮与内齿轮组件、限矩离合器、爪与锥体组件）。电机为非可逆串励带换向极电机。</li><li>扭矩传递链：电机小齿轮 → 中间副轴齿轮 → 副轴小齿轮 → 内齿轮 → 太阳轮轴 → 三个行星轮 → 行星架 → 起动爪。</li><li>离合与回位：六片钢制离合器片与交错的外花键青铜片组成离合片组，由离合器弹簧保持压力；游动螺母内螺旋花键与太阳轮轴伸花键配合，转动时把爪推出；发动机着火后爪齿斜面把起动爪压回、锥形离合面完全脱开，起动机停转后回位弹簧把爪拉回全收位置。</li><li>循环空气（overrunning）保护：发动机扭矩超过离合器设定值时内齿轮离合片打滑，行星轮空转而行星架与爪不动，避免突然啮合损伤发动机或起动机。</li><li>涡轮机起动系统</li><li>电动起动：直流电动机直接驱动（多用于 APU 和小型涡轴）；起动/发电机（并励发电机 + 附加粗串励绕组；四条励磁绕组：串励 C field、并励、补偿、换向极/换向绕组；起动时用 C、补偿、换向三组，发电时用并励、补偿、换向）。</li><li>空气涡轮起动机：轴流涡轮 + 减速齿轮系 + 离合器 + 输出轴 + 驱动联轴节；壳体分涡轮壳体（转子、转子开关作动器、喷嘴、包容环）、传动壳体（减速齿轮、离合件、驱动联轴节，兼作滑油池）、内齿圈壳体、开关壳体；安装用安装座 + 快卸卡箍（QAD）。</li><li>气路：引气阀（调压关断阀，含调节阀组件与控制组件）→ 起动阀 → 起动机 inlet。</li><li>其他方式（多为历史或特殊用途）：火药筒/气源两用起动机、空气喷冲起动、燃油-空气燃烧起动机、液压泵/马达起动。</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<ul><li>活塞机起动系统常规维修：更换电刷与电刷弹簧、清洗脏污换向器、车削烧蚀或失圆的换向器；电刷磨到约原长一半即换；电刷引线不得断、端子螺钉要紧。</li><li>换向器清洁用 double-0 砂纸或磨电刷石，沿换向器来回移动以免磨出沟槽；严禁用 emery paper 或 carborundum（可能造成短路）。云母凸出（high-mica）时，先车削再下切云母，参见 FAA-H-8083-30《AMT—General》。</li><li>检查驱动齿轮与齿圈磨损、电气接头松动与腐蚀、起动机壳体安装牢固性。</li><li>小型机起动系统排故（Figure 5-13）按"故障—可能原因—隔离步骤—排除"四栏走：不起动查主开关/主电路、起动开关及线路、杠杆是否压合开关、起动机本身；起动机转而曲轴不转查杠杆调整、单向离合器或驱动、小齿轮与曲轴齿轮损伤；起动机拖滞查电瓶低电压、开关或继电器触点烧蚀脏污、起动机缺陷；噪声过大查换向器脏污磨损、小齿轮磨损、曲轴齿轮齿磨损或断裂。</li><li>起动/发电机系统排故（Figure 5-19）：不起转先查外电源电压/电瓶、电源开关、点火开关位置、起动锁定继电器、电瓶串励继电器、起动继电器、起动机；起转但发动机不转且能听到起动机转动 → 传动轴剪断；起动后不加速到慢车查起动机端电压、点火系统（点火器、励磁器、导线）。</li><li>空气涡轮起动机日常维护：检查滑油油位（sight gauge）、查磁性屑探测器有无金属屑、查渗漏；经通气塞口加油，通气塞含球阀使油池与大气相通；磁性放油塞吸附铁屑。用小颗粒"绒毛状"金属屑属正常磨损，出现 chips、slivers 等粗颗粒说明内部有故障。</li><li>空气涡轮起动机拆装：断开电缆、松开快卸卡箍、退出时小心脱开驱动联轴节；安装时注意涡轮壳体索引位置（indexing）与水平度须符合厂家说明，否则进气道对不上、漏油或联轴节反复剪断。</li><li>空气涡轮起动机排故（Figure 5-25）覆盖：不转（无气源、切断开关电气断路、联轴节剪断、内部故障）、不到正常切断转速（气源压力低、切断开关设定不当、调压阀压力调得过低、内部故障）、不能切断（气源低、转子开关作动器设定过高、切断开关短路）、外部渗油（油位过高、通气塞/加油塞/磁性塞松动、卡箍松、联轴节剪断、安装或索引不当、后密封组件渗漏）、磁塞上有金属颗粒（大颗粒异物进入气源、安装位置不当、喷嘴叶片断裂）。</li><li>所有排故表均声明只作指南，必须查该型飞机的厂家说明与批准维修指令。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（活塞机与涡轮机起动系统）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> A direct-cranking electric starter _____ the engine through reduction gears and an automatic engaging mechanism.</p>
+<p>A) crank　　B) cranks　　C) cranking　　D) cranked</p>
+<p><strong>2.</strong> Releasing the starter too early may produce a hot or hung start, both of which are forms of a _____ start.</p>
+<p>A) false　　B) fake　　C) fault　　D) failed</p>
+<p><strong>3.</strong> An air turbine starter is driven by compressed air that is _____ from the APU or from another running engine.</p>
+<p>A) bled in　　B) bled out　　C) bled off　　D) bled down</p>
+<p><strong>4.</strong> The starter jaw is _____ into mesh with the engine jaw by a traveling nut that rides on a helical spline.</p>
+<p>A) moved　　B) moving　　C) move　　D) movement</p>
+<p><strong>5.</strong> The ignition must not be switched on _____ the compressor has accelerated enough to establish airflow.</p>
+<p>A) unless　　B) until　　C) although　　D) whereas</p>
+<p><strong>6.</strong> Because the starter draws a very large current, the cables are kept as short as possible to hold the voltage drop to a _____.</p>
+<p>A) minimal　　B) minimize　　C) minimally　　D) minimum</p>
+<p><strong>7.</strong> A starter/generator differs from a direct-cranking starter in that it remains _____ with the engine shaft and later operates as a generator.</p>
+<p>A) matched　　B) mated　　C) meshed　　D) merged</p>
+<p><strong>8.</strong> During a hung start the engine accelerates _____ slowly that the exhaust gas temperature climbs while the rpm stays almost constant.</p>
+<p>A) too　　B) very　　C) such　　D) so</p>
+<p><strong>9.</strong> The starter limits specify the maximum permissible _____ time and the cooling period that must follow it.</p>
+<p>A) cranking　　B) crank　　C) cranked　　D) cranks</p>
+<p><strong>10.</strong> At the preset cutout speed the control circuit _____ out the starter and the ignition automatically.</p>
+<p>A) drops　　B) cuts　　C) knocks　　D) breaks</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. B</strong> —— 主语 a direct-cranking electric starter 是单数，谓语用 <code>cranks</code>。A <code>crank</code> 原形（主谓不一致）、C <code>cranking</code> 非谓语、D <code>cranked</code> 过去式，都不能单独作现在时的谓语。考点：<strong>主谓一致</strong>。</p>
+<p><strong>2. A</strong> —— <code>false start</code> 是本章术语「假起动」，hot start 与 hung start 都属于它。B <code>fake</code> 是「伪造的」（口语用词）、C <code>fault</code> 是故障/过错、D <code>failed</code> 是已失败的，都不是该术语。考点：<strong>近义词辨析</strong>。</p>
+<p><strong>3. C</strong> —— <code>bleed off</code> 意为引气、放气，空气涡轮起动机的气源就是从 APU 或另一台已运转发动机引来的。A <code>bled in</code> 渗入、B <code>bled out</code> 排出、D <code>bled down</code> 泄压到零，方向都不对。考点：<strong>短语动词</strong>。</p>
+<p><strong>4. A</strong> —— 起动爪是被游动螺母沿螺旋花键「推入」啮合的受动者，需被动 <code>moved</code>。B <code>moving</code> 现在分词、C <code>move</code> 原形、D <code>movement</code> 名词，都不能与 is 构成被动谓语。考点：<strong>被动语态</strong>。</p>
+<p><strong>5. B</strong> —— <code>not ... until</code> 表示「直到…才」，必须先由起动机把压气机带到足以建立气流，再通电点火。A <code>unless</code> 除非、C <code>although</code> 虽然、D <code>whereas</code> 然而，逻辑都不通。考点：<strong>从句连词</strong>。</p>
+<p><strong>6. D</strong> —— <code>hold ... to a minimum</code> 是固定搭配「把…降到最低」，需要名词 minimum。A <code>minimal</code> 形容词、B <code>minimize</code> 动词、C <code>minimally</code> 副词，都不能作介词 to 的宾语。考点：<strong>词性判断</strong>。</p>
+<p><strong>7. C</strong> —— <code>mesh</code> 指齿轮啮合，起动/发电机与发动机轴永久啮合、起动后转作发电机。A <code>match</code> 匹配（数据、颜色）、B <code>mated</code> 配对（多指成对偶合）、D <code>merged</code> 合并，都不是齿轮啮合。考点：<strong>近义词辨析</strong>。</p>
+<p><strong>8. D</strong> —— <code>so + 副词 + that</code> 引导结果从句，故 slowly 前用 so。A <code>too</code> 需接 to 不定式（too slowly to ...）、B <code>very</code> 不能引导 that 从句、C <code>such</code> 只能修饰名词。考点：<strong>结果状语从句</strong>。</p>
+<p><strong>9. A</strong> —— <code>cranking time</code> 是摇转时间，cranking 为动名词作前置定语。B <code>crank</code> 原形、C <code>cranked</code> 过去分词、D <code>cranks</code> 第三人称，都不能修饰 time 表示该时段。考点：<strong>词性判断</strong>。</p>
+<p><strong>10. B</strong> —— <code>cut out</code> 意为切断、自动停止（起动机与点火）。A <code>drop out</code> 指继电器释放/掉出、C <code>knock out</code> 击倒、D <code>break out</code> 爆发，都不表示切断供能。考点：<strong>短语动词</strong>。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ul><li>自持转速（self-sustaining speed）vs 自加速转速（self-accelerating speed）：前者是能自行维持燃烧的转速，后者是能自行加速到慢车的转速；起动机必须助力到后者之上，低于它撤助力就会出现 hot / hung 假起动。</li><li>过载释放离合器 vs 单向（超转）离合器：前者限制传递扭矩、防突然啮合毁件（打滑）；后者只允许单向传扭、发动机自转时自动脱开（不传扭）。</li><li>直接驱动起动机 vs 起动/发电机：前者起动后必须与轴脱开，后者永久啮合、起动后转作发电机，省重量省空间、备件少。</li><li>起动/发电机里的 C field（串励）vs shunt field（并励）：C 励磁只在起动时用，并励只在发电时用；起动时串励绕组全串在电源里，发电时并励接常规调压电路。</li><li>引气阀（bleed valve）vs 起动阀（start valve）：引气阀调定并关断全部到起动机的管道压力，起动阀在其下游只控制进入起动机的流量。</li><li>本章对 hot start / hung start 只作为"撤助力过早"的后果提及，未给判据与处置；wet start（湿起动）本章未涉及。</li></ul>

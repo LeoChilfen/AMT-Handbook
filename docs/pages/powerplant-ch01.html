@@ -1,0 +1,219 @@
+<h1 id="ch-01-aircraft-engines-航空发动机">Ch 01 · Aircraft Engines（航空发动机）</h1>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>本章先讲航空发动机的共性要求与选型，再讲往复式发动机的构造、循环、点火顺序与功率效率，末段转入燃气涡轮类型。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ol><li>所有航空发动机都是热机：把燃料的热能通过工质（一般是空气）的流动变成机械能，推力来自把空气向飞机后方加速，是牛顿第三定律的应用。</li><li>往复式发动机按气缸排列分四类——直列（inline）、V 型（V-type）、星形（radial）、对置（opposed）；按冷却分液冷与气冷。小型通航机几乎全用水平对置气冷机，星形机用于老货机、战鸟、农喷机。</li><li>机体（crankcase）是发动机的基础件：承装曲轴主轴承、封闭滑油、支撑全部内外部机构、提供气缸安装面（cylinder pads）与机体安装凸耳。</li><li>曲轴把活塞的往复运动变成旋转运动，每个曲拐由曲柄销（crankpin）与两个曲柄臂（crank cheek）组成；曲轴要同时做静平衡与动平衡，靠动力减振器（dynamic damper）抑制扭振。</li><li>连杆有四种：普通式（plain）、叉片式（fork-and-blade）、主副式（master-and-articulated）、可分式（split）；星形机用主副式，副连杆关节销中心走椭圆轨迹，导致各缸活塞位置不一致，需靠关节销孔非等距或补偿式磁电机修正。</li><li>四冲程循环（Otto）需要曲轴转两圈（720°）完成进气、压缩、点火、做功、排气五个事件，每缸每两转着火一次；二冲程循环只用一个往复（曲轴一圈）完成，进排气在同一行程内完成。</li><li>发火顺序是为平衡与减振而设计的：直列 6 缸常用 1-5-3-6-2-4；对置 6 缸 1-4-5-2-3-6；单排星形先奇数缸顺序、再偶数缸顺序。</li><li>功率体系分四层：指示马力（缸内理论功率）→ 减去摩擦马力 → 制动马力（传到桨轴）→ 乘螺旋桨效率 → 推力马力；排量、压缩比、进气总管压力共同决定功率上限。</li></ol>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">brake horsepower (bhp)</td>
+<td style="text-align:left">制动马力</td>
+<td style="text-align:left">扣掉摩擦后真正传到螺旋桨轴上的可用功率</td>
+</tr>
+<tr>
+<td style="text-align:left">indicated horsepower (ihp)</td>
+<td style="text-align:left">指示马力</td>
+<td style="text-align:left">按缸内实际压力算出的、不计摩擦的理论功率</td>
+</tr>
+<tr>
+<td style="text-align:left">friction horsepower (fhp)</td>
+<td style="text-align:left">摩擦马力</td>
+<td style="text-align:left">克服活塞摩擦、泵气、附件驱动等机械损失所耗功率</td>
+</tr>
+<tr>
+<td style="text-align:left">thrust horsepower (thp)</td>
+<td style="text-align:left">推力马力</td>
+<td style="text-align:left">推力与飞行速度折算出的推进功率</td>
+</tr>
+<tr>
+<td style="text-align:left">IMEP</td>
+<td style="text-align:left">指示平均有效压力</td>
+<td style="text-align:left">整个工作循环缸内平均压力，用来算 ihp</td>
+</tr>
+<tr>
+<td style="text-align:left">BMEP</td>
+<td style="text-align:left">制动平均有效压力</td>
+<td style="text-align:left">IMEP 中真正变成轴上有效功的那部分压力</td>
+</tr>
+<tr>
+<td style="text-align:left">FMEP</td>
+<td style="text-align:left">摩擦平均有效压力</td>
+<td style="text-align:left">IMEP 中消耗于内部摩擦的那部分压力</td>
+</tr>
+<tr>
+<td style="text-align:left">compression ratio</td>
+<td style="text-align:left">压缩比</td>
+<td style="text-align:left">活塞在下止点时的缸内容积与上止点时的容积之比</td>
+</tr>
+<tr>
+<td style="text-align:left">piston displacement</td>
+<td style="text-align:left">活塞排量</td>
+<td style="text-align:left">活塞一个行程扫过的容积，多缸机再乘缸数</td>
+</tr>
+<tr>
+<td style="text-align:left">manifold pressure</td>
+<td style="text-align:left">进气总管压力</td>
+<td style="text-align:left">进气歧管内混合气的绝对压力，单位英寸汞柱（"Hg）</td>
+</tr>
+<tr>
+<td style="text-align:left">valve overlap</td>
+<td style="text-align:left">气门重叠</td>
+<td style="text-align:left">排气门尚未关闭而进气门已开启、两门同时打开的时段</td>
+</tr>
+<tr>
+<td style="text-align:left">valve lead / valve lag</td>
+<td style="text-align:left">气门提前 / 气门迟后</td>
+<td style="text-align:left">气门相对上下止点的提前开启与延迟关闭</td>
+</tr>
+<tr>
+<td style="text-align:left">cam ring</td>
+<td style="text-align:left">凸轮环</td>
+<td style="text-align:left">星形发动机上驱动全部气门的环形凸轮件，分内外两条凸轮轨道</td>
+</tr>
+<tr>
+<td style="text-align:left">camshaft</td>
+<td style="text-align:left">凸轮轴</td>
+<td style="text-align:left">直列/对置机驱动气门的轴，转速恒为曲轴的一半</td>
+</tr>
+<tr>
+<td style="text-align:left">tappet</td>
+<td style="text-align:left">挺柱</td>
+<td style="text-align:left">随凸轮轮廓升降、把运动传给推杆的随动件</td>
+</tr>
+<tr>
+<td style="text-align:left">push rod</td>
+<td style="text-align:left">推杆</td>
+<td style="text-align:left">把挺柱升程传给摇臂的空心钢管，兼作油道</td>
+</tr>
+<tr>
+<td style="text-align:left">rocker arm</td>
+<td style="text-align:left">摇臂</td>
+<td style="text-align:left">把推杆的上升运动转向并压开气门</td>
+</tr>
+<tr>
+<td style="text-align:left">hydraulic tappet (zero-lash lifter)</td>
+<td style="text-align:left">液压挺柱（零间隙挺柱）</td>
+<td style="text-align:left">靠滑油自动保持气门间隙为零，免去人工调整</td>
+</tr>
+<tr>
+<td style="text-align:left">master rod / articulated rod</td>
+<td style="text-align:left">主连杆 / 副连杆</td>
+<td style="text-align:left">星形机同一排内一根主连杆接曲柄销，其余各缸用副连杆铰接其上</td>
+</tr>
+<tr>
+<td style="text-align:left">knuckle pin</td>
+<td style="text-align:left">关节销</td>
+<td style="text-align:left">把副连杆铰接到主连杆法兰上的销</td>
+</tr>
+<tr>
+<td style="text-align:left">crankcase</td>
+<td style="text-align:left">机匣</td>
+<td style="text-align:left">发动机的基础件，承装主轴承、封闭滑油、安装气缸</td>
+</tr>
+<tr>
+<td style="text-align:left">cylinder pad</td>
+<td style="text-align:left">气缸安装面</td>
+<td style="text-align:left">机匣上精加工、用于贴合气缸法兰的平面</td>
+</tr>
+<tr>
+<td style="text-align:left">crankshaft throw</td>
+<td style="text-align:left">曲拐</td>
+<td style="text-align:left">一个曲柄销加两个曲柄臂构成的一组偏心结构</td>
+</tr>
+<tr>
+<td style="text-align:left">crankpin</td>
+<td style="text-align:left">曲柄销</td>
+<td style="text-align:left">连杆大头所装的偏心轴颈，常做成空心兼作油道</td>
+</tr>
+<tr>
+<td style="text-align:left">dynamic damper</td>
+<td style="text-align:left">动力减振器</td>
+<td style="text-align:left">装在曲柄臂上的摆式配重，抵消曲轴扭振</td>
+</tr>
+<tr>
+<td style="text-align:left">cam ground piston</td>
+<td style="text-align:left">椭圆磨削活塞</td>
+<td style="text-align:left">冷态呈椭圆、到工作温度变圆的活塞</td>
+</tr>
+<tr>
+<td style="text-align:left">full-floating piston pin</td>
+<td style="text-align:left">全浮式活塞销</td>
+<td style="text-align:left">在活塞与连杆小头衬套内都能自由转动的活塞销</td>
+</tr>
+<tr>
+<td style="text-align:left">nitriding</td>
+<td style="text-align:left">氮化</td>
+<td style="text-align:left">缸筒内壁与曲柄销表面的硬化处理</td>
+</tr>
+<tr>
+<td style="text-align:left">stellite</td>
+<td style="text-align:left">司太立合金</td>
+<td style="text-align:left">堆焊在气门锥面上的耐高温耐腐蚀耐磨合金</td>
+</tr>
+<tr>
+<td style="text-align:left">reduction gearing</td>
+<td style="text-align:left">减速齿轮</td>
+<td style="text-align:left">把发动机高转速降到螺旋桨可用转速的齿轮组</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<p><strong>功率与换算</strong></p>
+<ul><li>1 hp = 33,000 ft-lb/min = 550 ft-lb/sec；33,000 × 60 = 1,980,000 ft-lb/h；1,980,000 ÷ 5,280 = 375 mile-pounds per hour。</li><li>Thp = 推力(lb) × 飞行速度(mph) ÷ 375。例：4,000 lb 推力、500 mph → 5,333.33 thp。</li><li>起飞满功率一般只保持不到 2 分钟，随后收至爬升功率、再收至巡航功率。</li><li>选型速度带：巡航 ≤250 mph 用往复式；180–350 mph 涡桨表现好；350 mph 至 Mach 0.8–0.9 用涡扇；Mach 1 以上用纯涡喷/加力式/低涵道比涡扇。涡轮增压往复式可在 30,000 ft 以上保持额定功率。</li><li>螺旋桨效率在 400 mph 以上明显下降。</li></ul>
+<p><strong>功、马力、扭矩</strong></p>
+<ul><li>Work（W）= Force（F）× Distance（D），单位 ft-lb。</li><li>Torque = force × distance（力与力臂垂直），单位 lb-in 或 lb-ft；Work per revolution = 2π × torque；bhp = 2π × 秤上力 × 臂长 × rpm ÷ 33,000。</li><li>Prony brake 例：秤读 200 lb、臂长 3.18 ft → 扭矩 636 lb-ft；代入 6.2832 × 200 × 3.18 × 3,000 ÷ 33,000 = 363.2，取 363 bhp。</li><li>摩擦马力约为指示马力的 10–15%。</li></ul>
+<p><strong>排量与压缩比</strong></p>
+<ul><li>V = A × h；A = πr² = ¼πD²；r = D/2；总排量 = 单缸排量 × 缸数。</li><li>算例（PWA 14 缸机）：缸径 5.5 in、行程 5.5 in → r = 2.75 in，A = 3.1416 × 7.5625 = 23.7584 in²，单缸 V = 23.7584 × 5.5 = 130.6712 in³，14 缸总排量 1,829.3968 in³，取整 1,829 in³。</li><li>压缩比 = 下止点容积 : 上止点容积。例：140 in³ : 20 in³ = 7:1。</li><li>进气总管压力以 "Hg 计；压缩比 7:1、总管压力 30 "Hg 时，点火前缸压约为 210 "Hg；总管压力 60 "Hg 时约为 420 "Hg。</li><li>做功行程最大功率时的爆发力可大于 15 吨（30,000 psi），燃气温度 3,000–4,000 °F。</li></ul>
+<p><strong>指示马力与 BMEP</strong></p>
+<ul><li>Indicated hp = P·L·A·N·K ÷ 33,000（分子字母拼成 "PLANK" 便于记忆）。P 为 IMEP（psi），L 为行程（ft），A 为活塞面积（in²），N 为每分钟做功行程数，K 为缸数；四冲程机 N = rpm ÷ 2。</li><li>该算例给定：P = 1.65 lb/in²，L = 0.5 ft，缸径 5.5 in（A = 23.76 in²），N = 1,500，K = 12。</li><li>BMEP = bhp × 33,000 ÷ (L·A·N·K)。例：bhp = 1,000、行程 6 in（0.5 ft）、缸径 5.5 in（A = 23.76 in²）、N = 1,500、K = 12 → BMEP = 154.32 lb/in²。</li></ul>
+<p><strong>效率</strong></p>
+<ul><li>指示热效率 = ihp × 33,000 ÷（每分钟耗油磅数 × 燃料热值 × 778）；制动热效率同式，把 ihp 换成 bhp。</li><li>算例：85 bhp 运转 1 h、耗油 50 lb、热值 18,800 BTU/lb → 制动热效率 0.23，即 23%。</li><li>机械效率 = bhp ÷ ihp；往复式发动机的机械效率接近 90%。</li><li>容积效率 =（按温度压力修正后的进气充量体积）÷ 活塞排量。标准海平面条件：59 °F（15 °C）、14.69 lb/in²、29.92 "Hg；有真实增压（超过 30.00 "Hg）时容积效率可大于 100%。</li><li>推进效率 = thp ÷ bhp，thp 平均约为 bhp 的 80%，其余 20% 损失于摩擦与滑流。</li><li>1 BTU 相当于 778 ft-lb；1 lb 石油燃料完全燃烧约放出 20,000 BTU，相当于 15,560,000 ft-lb。</li><li>热量分配：25–30% 变为有用功率，15–20% 经缸头散热片散走（图中另有 5–10% 由滑油带走），5–10% 消耗于摩擦，40–45% 随排气排出；往复式发动机总热效率约 34%。</li></ul>
+<p><strong>配气与点火正时（书中给出的范围）</strong></p>
+<ul><li>点火时刻：上止点前 20°–35°。</li><li>进气门关闭：压缩行程下止点后 50°–75°。</li><li>排气门开启：做功行程下止点前 50°–75°（有的发动机取 50° 与 75°）。</li><li>进气门开启：排气行程上止点前 8°–55°。</li><li>图 1-37 示例：进气门在上止点前 50° 开启、下止点后 30° 关闭；排气门在下止点前 30° 开启、上止点后 25° 关闭；两气门同时打开约 75°。</li><li>气门锥面角 30° 或 45°（有的发动机进气门 30°、排气门 45°）；stellite 堆焊层约 1/16 in。</li><li>钠冷气门：钠约在 208 °F 熔化，可把气门工作温度降低 300–400 °F。</li><li>缸头散热片由根部 0.090 in 渐薄到端部 0.060 in。</li></ul>
+<p><strong>结构数值</strong></p>
+<ul><li>单排星形每排 3、5、7 或 9 缸；双排星形每排 7 或 9 缸；有一种四排、每排 7 缸共 28 缸。</li><li>V 型机两列气缸一般成 60° 夹角，多为 12 缸；型号按 V 加短横线加排量命名，如 V-1710。</li><li>18 缸双排星形机：2 根主连杆 + 16 根副连杆。</li><li>活塞最多 6 道环槽：最上 3 道装压缩环，油环装在活塞销正上方。</li><li>凸轮环有 4 或 5 个凸轮；9 缸星形缸间间隔 40°、发火间隔 80°，四凸轮间隔 90°；7 缸用四凸轮时凸轮环与曲轴同向转，9 缸时反向转。</li><li>凸轮轴转速为曲轴的一半（凸轮轴齿轮直径为曲轴齿轮的两倍）。</li></ul>
+<p><strong>发火顺序</strong></p>
+<ul><li>直列 6 缸：1-5-3-6-2-4。</li><li>对置 6 缸：1-4-5-2-3-6；对置 4 缸：某型 1-4-2-3，另一型 1-3-2-4。</li><li>单排星形 5 缸：1-3-5-2-4；7 缸：1-3-5-7-2-4-6；9 缸：1-3-5-7-9-2-4-6-8。</li><li>双排星形 14 缸：从 1–14 中任取一数，反复加 9 或减 5（取落在 1–14 内的结果）；18 缸：反复加 11 或减 7（落在 1–18 内）。</li><li>图中三种气缸编号：单排星形自后向前看顺时针编号、1 号在正上方；双排星形奇数缸在后排、偶数缸在前排。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<ul><li><strong>机匣 crankcase</strong></li><li>作用：承装曲轴主轴承与轴承座、封闭滑油、支撑内外机构、安装气缸、把发动机装到机上。</li><li>分段：前段/鼻段（nose section）、主段（power section）、附件段（accessory/rear section）；星形机还有增压器段。</li><li>细节：横向隔板（transverse webs）支撑每个主轴承；鼻段可有集油腔（nose section oil sump）；气缸安装面即 cylinder pads，多用螺柱固定气缸法兰，内缘倒角装 O 形圈封油；后段周边有安装凸耳（mounting lugs）。</li><li>材料：铸/锻铝合金，鼻段也有用镁合金的；1,000–2,500 hp 机的鼻段更大，用来容纳减速齿轮。</li><li><strong>曲轴 crankshaft</strong></li><li>三个基本部分：轴颈（journal，在主轴承中转动、表面硬化）、曲柄销（crankpin，装连杆大头、常空心兼作油道、表面氮化）、曲柄臂（crank cheek，连接两者、可带配重）。</li><li>曲拐数必须与气缸排列对应：四拐用于 4 缸对置或 4 缸直列；六拐用于 6 缸直列、12 缸 V 型、6 缸对置；星形机按排数用单拐（360°）、双拐（180°）、四拐。</li><li>材料：铬镍钼钢锻造。</li><li><strong>连杆 connecting rods</strong></li><li>普通式：用于直列与对置机，大头带盖与两半式轴瓦。</li><li>叉片式：主要用于 V 型机，叉形杆在曲柄销端分叉容纳片形杆。</li><li>主副式：星形机用；主连杆大头带法兰装关节销，副连杆（锻钢、I 形或 H 形截面、两端压入青铜衬套）铰接其上。</li><li>可分式（split-type）：配整体式曲轴时大头对开。</li><li><strong>活塞与活塞销 pistons &amp; piston pin</strong></li><li>铝合锻件机加工；内壁有散热筋把热传给滑油；分筒式（trunk）与裙式（slipper），裙式因强度与耐磨不足已不用于现代大功率机。</li><li>顶部可为平顶、凸顶、凹顶，可加工避阀坑；现代机用椭圆磨削（cam ground）活塞。</li><li>活塞销为镍钢合金管料，渗碳淬火后磨削；现代机用全浮式，两端装软铝塞防止刮伤缸壁。</li><li><strong>活塞环 piston rings</strong></li><li>压缩环：封燃气，装在最上面几道环槽，多为 2 道；截面矩形或带锥面的楔形。</li><li>油环：控制缸壁油膜厚度，装在压缩环下方、活塞销孔上方；环槽底部或环岸钻回油孔。</li><li>刮油环：装于裙部最下环槽，刃口朝上或反向装，随机型与缸位而定。</li><li>材料：优质灰铸铁；顶道压缩环可用镀铬低碳钢环（必须配钢质缸壁）。</li><li><strong>气缸 cylinders</strong></li><li>由缸头（aluminum alloy，锻或压铸，内腔半球形）与缸筒（锻钢，内壁氮化）两大件组成；装配时加热缸头、冷冻缸筒后旋合，冷却收缩形成气密结合。</li><li>缸头内装气门座、气门导管、火花塞衬套、摇臂衬套；排气门区域最热，散热片面积最大。</li><li>缸筒可镀铬修复、可珩磨出交叉网纹；有的缸筒上端"收口"（choked）以补偿热膨胀与磨损。</li><li>气冷机靠缸头与缸筒上的薄散热片直接把热传给空气；液冷机把热传给冷却液再经散热器散掉，代价是冷却液、散热器、管路重量。</li><li><strong>气门与配气机构 valves &amp; valve train</strong></li><li>气门为菌形（poppet），按头部形状分蘑菇形与郁金香形；进气门多为实心杆，排气门多用耐热钢，可充钠。</li><li>传动链：凸轮环（星形）/凸轮轴（对置、直列）→ 挺柱与滚轮 → 推杆 → 摇臂 → 气门；气门由 2–3 根螺旋弹簧关闭。</li><li>挺柱分机械式（螺钉+锁母调间隙）与液压式（零间隙，自动补偿）。</li><li>星形机单排用一个双凸轮轨道的凸轮环（一条管进气、一条管排气），双排机在动力段与增压器段之间再加一个凸轮环。</li><li><strong>减速齿轮与桨轴 reduction gearing &amp; propeller shaft</strong></li><li>三种常用形式：正齿行星式（sun gear + 固定 bell gear + 行星轮架）、锥齿行星式（更紧凑）、正齿小齿轮式（小功率机）。</li><li>桨轴三种：锥形（按 taper number 标识，低功率机与曲轴一体锻造）、花键式（按 SAE 号标识，大功率星形机用）、法兰式（现代往复式与涡桨机最常用）。</li><li><strong>轴承 bearings</strong></li><li>分滑动（plain）、滚柱（roller）、滚珠（ball）三类；滑动轴承用于曲轴、凸轮环、凸轮轴、连杆、附件传动轴，多为非铁金属（银、青铜、铝及铜锡铅合金）。</li><li>多孔 Oilite 衬套含浸滑油，用于附件段小轴；深沟球轴承承受螺旋桨推力与径向载荷；直滚柱轴承只承径向载荷。</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<ul><li>全面大修的第一步是做曲轴跳动（runout）检查，跳动超差必须更换曲轴。</li><li>静平衡检查：把曲轴架在两把刀口上，若总是转向某一位置即为静不平衡。</li><li>连杆必须装回原来的气缸、保持原来的相对位置，以维持配合与平衡。</li><li>镀铬缸筒必须配铸铁环；镀铬环只能配钢质缸壁，"绝不能在镀铬缸筒上使用镀铬环"。</li><li>缸筒磨损后可镀铬恢复到新标准尺寸；珩磨用于恢复正确尺寸并形成交叉网纹，便于磨合期就位。</li><li>缸筒氮化层只有几千分之一英寸深，修理时必须考虑这层深度。</li><li>钠冷气门绝不能切开，也不能做任何可能使其破裂的处理；钠接触空气会起火或爆炸伤人。</li><li>液压挺柱在大修时干装配（不加润滑）、检查间隙，用不同长度的推杆调整；间隙须落在规定的最小与最大之间，以中间值为宜。</li><li>机械挺柱用调整螺钉与锁紧螺母调气门间隙；液压挺柱维护量更小、润滑更好、运转更安静。</li><li>补偿式磁电机的断电器凸轮凸角数与缸数相同，且凸角间距不等，用来补偿副连杆角度造成的活塞位置差异。</li><li>气门正时与点火正时一律按发动机制造商推荐值；正时以曲轴转角度数表示，且指气门"开始开启"而不是全开位置。</li><li>TBO 由制造商推荐，随机型工况（发动机温度、高功率运行时间、维修质量）变化，铭牌上的额定值并不隐含固定的翻修间隔。</li><li>进气歧管滑接接头（slip joint）必须不漏气：轻微漏气会使混合气变稀、慢车转速偏高，漏大了根本不能慢车；大功率时小漏不易察觉，但可能引起爆震并烧坏气门与气门座。</li><li>气缸装配靠"热缸头 + 冷缸筒"的温差旋合形成气密接头，拆装时须按此原理操作。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（发动机共性要求、往复式构造与功率体系）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> Two complete revolutions of the crankshaft, or 720 degrees, are needed to _____ all five events of the four-stroke cycle.</p>
+<p>A) completion　　B) completely　　C) complete　　D) completing</p>
+<p><strong>2.</strong> Indicated horsepower is the total power developed inside the cylinders, whereas _____ horsepower is the usable power actually delivered to the propeller shaft.</p>
+<p>A) friction　　B) brake　　C) thrust　　D) indicated</p>
+<p><strong>3.</strong> Friction horsepower normally _____ for about 10 to 15 percent of the indicated horsepower.</p>
+<p>A) amounts　　B) allows　　C) applies　　D) accounts</p>
+<p><strong>4.</strong> During a complete overhaul the crankshaft _____ between two knife edges so that any static unbalance can be detected.</p>
+<p>A) is supported　　B) supports　　C) supporting　　D) has supported</p>
+<p><strong>5.</strong> The camshaft of an opposed engine is driven at exactly _____ the crankshaft speed, so each valve opens once every two revolutions.</p>
+<p>A) halve　　B) half　　C) halved　　D) halving</p>
+<p><strong>6.</strong> Each of the nine cylinders on a single-row radial engine _____ once during every two revolutions.</p>
+<p>A) fire　　B) firing　　C) are fired　　D) fires</p>
+<p><strong>7.</strong> The five events of the four-stroke cycle always occur in a fixed _____.</p>
+<p>A) sequential　　B) sequentially　　C) sequence　　D) sequenced</p>
+<p><strong>8.</strong> A scored cylinder barrel can be restored to standard size by _____ a layer of chrome on the honed surface.</p>
+<p>A) building up　　B) building in　　C) building on　　D) building over</p>
+<p><strong>9.</strong> The master rod of a radial engine carries a flange to which the articulated rods are _____ by knuckle pins.</p>
+<p>A) attach　　B) attaching　　C) attachment　　D) attached</p>
+<p><strong>10.</strong> A leaky slip joint in the intake manifold admits unmetered air, which makes the mixture _____ and raises the idle speed.</p>
+<p>A) rich　　B) lean　　C) thin　　D) weak</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. C</strong> —— 不定式符号 to 后面必须接动词原形 <code>complete</code>（要完成全部五个事件）。A <code>completion</code> 是名词、B <code>completely</code> 是副词、D <code>completing</code> 是动名词/现在分词，都不能直接跟在 to 后表示目的。考点：<strong>同词族不同词性</strong>。</p>
+<p><strong>2. B</strong> —— 句子的对比结构说明，前半句讲缸内总功率（indicated），后半句讲扣掉摩擦后真正送到桨轴的功率，即 <code>brake horsepower</code>（bhp = ihp − fhp）。A <code>friction</code> 恰恰是被减掉的那一项，C <code>thrust</code> 是推力马力（由推力与飞行速度折算），D <code>indicated</code> 与前半句重复且自相矛盾。考点：<strong>近义术语辨析</strong>。</p>
+<p><strong>3. D</strong> —— <code>account for</code> 意为「占（多少比例）」，本句主语 friction horsepower 占 ihp 的 10%–15%。A <code>amounts</code> 必须搭配 <code>to</code>（amount to 总计为），不能接 for；B <code>allows for</code> 意为「考虑到」，C <code>applies for</code> 意为「申请」，语义都不通。考点：<strong>固定搭配</strong>。</p>
+<p><strong>4. A</strong> —— 曲轴是被架在两把刀口上检测静不平衡的，主语 crankshaft 是受动者，须用被动 <code>is supported</code>。B <code>supports</code> 变成了曲轴去支撑刀口，C <code>supporting</code> 没有谓语，D <code>has supported</code> 是完成时主动。考点：<strong>被动语态</strong>。</p>
+<p><strong>5. B</strong> —— <code>half</code> 在此作限定词/名词，表示「曲轴转速的一半」，凸轮轴转速恒为曲轴之半（凸轮轴齿轮直径为曲轴齿轮两倍）。A <code>halve</code> 是动词「使减半」，C <code>halved</code>、D <code>halving</code> 是动词形式，都不能直接修饰 the crankshaft speed。考点：<strong>词性判断</strong>。</p>
+<p><strong>6. D</strong> —— <code>each of + 复数名词</code> 作主语时谓语用第三人称单数 <code>fires</code>。A <code>fire</code> 是复数形式，C <code>are fired</code> 是复数被动，B <code>firing</code> 不能单独作谓语。考点：<strong>主谓一致</strong>。</p>
+<p><strong>7. C</strong> —— 介词 in 后需要名词 <code>sequence</code>（固定的先后顺序）。A <code>sequential</code> 是形容词、B <code>sequentially</code> 是副词、D <code>sequenced</code> 是过去分词，都不能作 in a fixed 的中心词。考点：<strong>同词族不同词性</strong>。</p>
+<p><strong>8. A</strong> —— <code>build up</code> 意为「逐层堆镀、堆高」，此处指用镀铬把磨损的缸筒恢复到标准尺寸。B <code>build in</code> 嵌入结构、C <code>build on</code> 以…为基础、D <code>build over</code> 在上方建造，三个小品词搭配均与镀层无关。考点：<strong>短语动词</strong>。</p>
+<p><strong>9. D</strong> —— 副连杆是被关节销连接到主连杆法兰上的，需被动 <code>be attached</code>。A <code>attach</code> 原形、B <code>attaching</code> 现在分词、C <code>attachment</code> 名词，都不能与 are 构成被动谓语。考点：<strong>被动语态 + 词性</strong>。</p>
+<p><strong>10. B</strong> —— 进气歧管滑接接头漏气会吸入未经计量的空气，使混合气变「稀」<code>lean</code>，慢车转速偏高甚至无法慢车。A <code>rich</code> 恰好相反；C <code>thin</code>、D <code>weak</code> 虽可形容稀薄或微弱，但不是本章混合气的标准术语（本章用 lean/rich 成对表述）。考点：<strong>近义词/反义词辨析</strong>。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ul><li><strong>预点火 vs 爆震</strong>：预点火是火花塞跳火之前混合气就自行燃烧；爆震是火花正常点火后混合气不以可控速率燃烧而是爆炸式燃烧，使缸温和缸压瞬间尖峰。</li><li><strong>指示马力 vs 制动马力</strong>：ihp 是缸内燃气产生的全部功率（不含摩擦）；bhp 是扣掉摩擦马力后真正送到桨轴的功率，二者之差即 fhp。</li><li><strong>双排星形机的缸号</strong>：奇数缸全在后排、偶数缸全在前排，1 号缸是后排最上方那一个，并不是前后排交替编号。</li><li><strong>叉片式连杆 vs 主副式连杆</strong>：叉片式用于 V 型机，两根连杆共用同一个曲柄销、叉形杆夹住片形杆；主副式用于星形机，一根主连杆接曲柄销，其余各缸的副连杆铰接在主连杆法兰上。</li><li><strong>静平衡 vs 动平衡</strong>：静平衡只看曲拐、曲柄臂、配重的重量是否绕转轴均布（刀口试验可查出）；动平衡要求旋转与爆发力产生的力偶在内部自相抵消，靠动力减振器把振动压到最小。</li></ul>

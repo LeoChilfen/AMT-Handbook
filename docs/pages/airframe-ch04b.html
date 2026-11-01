@@ -1,0 +1,317 @@
+<h1 id="ch-04-下-aircraft-metal-structural-repair-金属结构修理-后半">Ch 04（下）· Aircraft Metal Structural Repair（金属结构修理·后半）</h1>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>从折弯展开计算讲起，经手工成形与特殊合金成形，讲到受力蒙皮、长桁、翼梁、隔框、前后缘的损伤分级、补片修理与放行审批。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ol><li>钣金折弯的核心是三个量的关系：setback（SB）把模线尺寸换算成平直段，弯曲余量（BA）算出圆弧段的料长，两者相加得到总展开宽度（TDW），而 TDW 必然小于各模线尺寸之和。</li><li>中性轴（neutral axis）并不在板厚正中间：弯曲区比弯曲前减薄 10–15%，中性轴约位于距内侧半径表面 0.445T 处；弯得太急，外侧纤维会直接被拉断。</li><li>K-Factor 是 setback 的系数，90° 时 K=1，此时 SB 就等于 R+T；没有 K 表时用半角正切 K=tan(弯角/2) 反算。</li><li>让位孔（relief hole）是盒形件与弯边件的生死线：孔钻在两条内弯切线的交点处，直径约取 2 倍弯曲半径，铝板薄于等于 0.064 in 时不得小于 1/8 in。</li><li>手工成形只有两个动作——拉伸（把材料拉长，用于凸面、外侧）和收缩（把材料压短，用于凹面、内侧）；成形块、V 型块、收缩块、砂袋、顶压（bumping）都是这两种动作的工具化。</li><li>结构修理三原则：保持原强度、保持原外形、重量最小。补片与搭接件的截面不得小于原构件，开口要做成圆形或椭圆，矩形开口转角半径至少 1/2 in。</li><li>补片材料通常与被修件同材种、厚一个规格（one gauge heavier）；与蒙皮齐平的插入件（filler/insert）则与原蒙皮同材同厚，靠内部加强板（doubler）承力。</li><li>修理的合法性有严格顺序：14 CFR part 43 §43.13(a) 要求按厂家手册或局方认可的方法；AC 43.13-1 只在厂家无指示时适用于非增压区、一般针对小修；属重大修理或改装时填 FAA Form 337。</li></ol>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">bend tangent line（BL）</td>
+<td style="text-align:left">弯切线</td>
+<td style="text-align:left">弯曲圆弧与平直段的分界线，展开图上两条 BL 之间就是弯曲余量区</td>
+</tr>
+<tr>
+<td style="text-align:left">neutral axis</td>
+<td style="text-align:left">中性轴</td>
+<td style="text-align:left">弯曲时既不拉伸也不压缩的那层，约在距内半径 0.445T 处</td>
+</tr>
+<tr>
+<td style="text-align:left">mold line（ML）</td>
+<td style="text-align:left">模线</td>
+<td style="text-align:left">把板件外形延伸相交得到的理论轮廓线，用于标注尺寸</td>
+</tr>
+<tr>
+<td style="text-align:left">mold line dimension（MLD）</td>
+<td style="text-align:left">模线尺寸</td>
+<td style="text-align:left">沿模线量到交点的尺寸，是画展开图的原始尺寸</td>
+</tr>
+<tr>
+<td style="text-align:left">mold point</td>
+<td style="text-align:left">模线交点</td>
+<td style="text-align:left">两个面理论外形的相交点，setback 就是从这个点退回弯切线</td>
+</tr>
+<tr>
+<td style="text-align:left">K-Factor</td>
+<td style="text-align:left">K 系数</td>
+<td style="text-align:left">setback 与（R+T）的比例系数，90° 时等于 1</td>
+</tr>
+<tr>
+<td style="text-align:left">setback（SB）</td>
+<td style="text-align:left">后退量</td>
+<td style="text-align:left">从模线交点退到弯切线的距离，SB=K×(R+T)</td>
+</tr>
+<tr>
+<td style="text-align:left">sight line</td>
+<td style="text-align:left">视线</td>
+<td style="text-align:left">闸床上把弯切线对准闸口时在平直段上划的线，距弯切线一个弯曲半径</td>
+</tr>
+<tr>
+<td style="text-align:left">flat</td>
+<td style="text-align:left">平直段</td>
+<td style="text-align:left">展开图上不参与弯曲的直线长度，flat=MLD−SB</td>
+</tr>
+<tr>
+<td style="text-align:left">bend allowance（BA）</td>
+<td style="text-align:left">弯曲余量</td>
+<td style="text-align:left">圆弧中性轴的展开长度，90° 时用 BA=2π(R+½T)/4</td>
+</tr>
+<tr>
+<td style="text-align:left">total developed width（TDW）</td>
+<td style="text-align:left">总展开宽度</td>
+<td style="text-align:left">各平直段加上各弯曲余量的总和</td>
+</tr>
+<tr>
+<td style="text-align:left">open angle</td>
+<td style="text-align:left">开角</td>
+<td style="text-align:left">两翼夹角大于 90°、折弯角小于 90° 的弯，TDW 较大</td>
+</tr>
+<tr>
+<td style="text-align:left">closed angle</td>
+<td style="text-align:left">闭角</td>
+<td style="text-align:left">两翼夹角小于 90°、折弯角大于 90° 的弯，TDW 较小</td>
+</tr>
+<tr>
+<td style="text-align:left">relief hole</td>
+<td style="text-align:left">让位孔</td>
+<td style="text-align:left">打在两条内弯切线交点处的小孔，防止弯曲时转角处撕裂</td>
+</tr>
+<tr>
+<td style="text-align:left">joggle</td>
+<td style="text-align:left">折弯错位/台阶弯</td>
+<td style="text-align:left">让板件在交会处错开一个板厚、以便与相邻构件搭接的两个反向弯</td>
+</tr>
+<tr>
+<td style="text-align:left">crimp</td>
+<td style="text-align:left">压褶</td>
+<td style="text-align:left">收缩前先在边缘压出小褶，再用成形块把褶展平以达到缩短效果</td>
+</tr>
+<tr>
+<td style="text-align:left">bumping</td>
+<td style="text-align:left">顶压成形</td>
+<td style="text-align:left">用木块、铅模或砂袋从背面把板料局部顶成曲面</td>
+</tr>
+<tr>
+<td style="text-align:left">lightening hole</td>
+<td style="text-align:left">减重孔</td>
+<td style="text-align:left">结构件上按授权开设的圆孔，孔边通常翻边补强</td>
+</tr>
+<tr>
+<td style="text-align:left">flanging</td>
+<td style="text-align:left">翻边</td>
+<td style="text-align:left">在孔或板边弯出 90° 的窄边，提高刚度并作连接面</td>
+</tr>
+<tr>
+<td style="text-align:left">clad / Alclad</td>
+<td style="text-align:left">包铝</td>
+<td style="text-align:left">在铝合金板两面轧上纯铝层，牺牲纯铝层保护芯材</td>
+</tr>
+<tr>
+<td style="text-align:left">CRES</td>
+<td style="text-align:left">不锈钢（耐蚀钢）</td>
+<td style="text-align:left">corrosion-resistant steel 的缩写，与镁、铝、镉接触会引起腐蚀</td>
+</tr>
+<tr>
+<td style="text-align:left">Inconel 625/718</td>
+<td style="text-align:left">镍铬铁高温合金</td>
+<td style="text-align:left">用于动力装置结构，可冷成形但加工硬化快</td>
+</tr>
+<tr>
+<td style="text-align:left">stressed skin</td>
+<td style="text-align:left">受力蒙皮</td>
+<td style="text-align:left">外蒙皮参与承受部分或全部主载荷的结构形式</td>
+</tr>
+<tr>
+<td style="text-align:left">doubler</td>
+<td style="text-align:left">加强板</td>
+<td style="text-align:left">贴在蒙皮内侧、跨过开口并承担载荷的补强板</td>
+</tr>
+<tr>
+<td style="text-align:left">filler（insert）</td>
+<td style="text-align:left">填片</td>
+<td style="text-align:left">补进开口内、与蒙皮同厚同材、恢复外形与承力的板件</td>
+</tr>
+<tr>
+<td style="text-align:left">lap or scab patch</td>
+<td style="text-align:left">搭接补片/外贴补片</td>
+<td style="text-align:left">贴在外表面、边缘搭接铆接的补片，气动光顺要求不高处可用</td>
+</tr>
+<tr>
+<td style="text-align:left">flush patch</td>
+<td style="text-align:left">齐平补片</td>
+<td style="text-align:left">填片与蒙皮齐平、靠内部加强板支承的补片</td>
+</tr>
+<tr>
+<td style="text-align:left">panel / panel section</td>
+<td style="text-align:left">板件/板段</td>
+<td style="text-align:left">panel 指单张蒙皮，panel section 指相邻长桁与隔框之间的一块</td>
+</tr>
+<tr>
+<td style="text-align:left">stop drill</td>
+<td style="text-align:left">止裂钻孔</td>
+<td style="text-align:left">在裂纹尖端钻小孔，把应力集中点移走以阻止裂纹延伸</td>
+</tr>
+<tr>
+<td style="text-align:left">working rivet</td>
+<td style="text-align:left">活动铆钉</td>
+<td style="text-align:left">受载时已有微量位移、但尚未松到肉眼可见的铆钉</td>
+</tr>
+<tr>
+<td style="text-align:left">fretting corrosion（smoking）</td>
+<td style="text-align:left">微动腐蚀（俗称冒烟）</td>
+<td style="text-align:left">铆钉头周围出现黑色氧化铝残渣，说明板间有相对微动</td>
+</tr>
+<tr>
+<td style="text-align:left">brinelling</td>
+<td style="text-align:left">压痕</td>
+<td style="text-align:left">小接触面积承受高载荷压出的球状凹坑</td>
+</tr>
+<tr>
+<td style="text-align:left">burnishing</td>
+<td style="text-align:left">抛光擦亮</td>
+<td style="text-align:left">硬而光的物体滑过表面把金属抹平，没有金属转移</td>
+</tr>
+<tr>
+<td style="text-align:left">burr</td>
+<td style="text-align:left">毛刺</td>
+<td style="text-align:left">剪切、锉削后残留在边缘的锋利金属</td>
+</tr>
+<tr>
+<td style="text-align:left">inclusion</td>
+<td style="text-align:left">夹杂</td>
+<td style="text-align:left">轧制或锻造时被压进金属内部的非金属杂质</td>
+</tr>
+<tr>
+<td style="text-align:left">upsetting</td>
+<td style="text-align:left">隆起/镦粗</td>
+<td style="text-align:left">超出原轮廓的局部凸起，多由挤压或撞击造成</td>
+</tr>
+<tr>
+<td style="text-align:left">stringer</td>
+<td style="text-align:left">长桁</td>
+<td style="text-align:left">纵向构件，蒙皮直接铆在其上，与蒙皮共同承力</td>
+</tr>
+<tr>
+<td style="text-align:left">former / bulkhead</td>
+<td style="text-align:left">隔框</td>
+<td style="text-align:left">横向构件，维持机身外形并承受集中载荷</td>
+</tr>
+<tr>
+<td style="text-align:left">longeron</td>
+<td style="text-align:left">纵梁</td>
+<td style="text-align:left">比长桁更重的纵向主构件</td>
+</tr>
+<tr>
+<td style="text-align:left">spar</td>
+<td style="text-align:left">翼梁</td>
+<td style="text-align:left">机翼主承力梁，由腹板（web）与缘条（cap strip）组成</td>
+</tr>
+<tr>
+<td style="text-align:left">cap strip</td>
+<td style="text-align:left">缘条</td>
+<td style="text-align:left">构件上下缘的厚挤压件，承受弯曲并作为蒙皮连接基础</td>
+</tr>
+<tr>
+<td style="text-align:left">web</td>
+<td style="text-align:left">腹板</td>
+<td style="text-align:left">构件中部的薄板，把上下缘条连成整体并承受剪流</td>
+</tr>
+<tr>
+<td style="text-align:left">rib</td>
+<td style="text-align:left">翼肋</td>
+<td style="text-align:left">翼面横向骨架件，维持翼型并把蒙皮载荷传给翼梁</td>
+</tr>
+<tr>
+<td style="text-align:left">leading edge / trailing edge</td>
+<td style="text-align:left">前缘/后缘</td>
+<td style="text-align:left">翼面前段（整流并保证气流）与最尾部（连接上下蒙皮）</td>
+</tr>
+<tr>
+<td style="text-align:left">nose rib</td>
+<td style="text-align:left">前缘肋</td>
+<td style="text-align:left">前缘内部的 U 形肋，决定前缘外形</td>
+</tr>
+<tr>
+<td style="text-align:left">jig</td>
+<td style="text-align:left">装配夹具</td>
+<td style="text-align:left">大修时保持结构形状、分散载荷的支撑夹具</td>
+</tr>
+<tr>
+<td style="text-align:left">flutter</td>
+<td style="text-align:left">颤振</td>
+<td style="text-align:left">修理后操纵面重量或平衡改变可能诱发的自激振动</td>
+</tr>
+<tr>
+<td style="text-align:left">FAA Form 337</td>
+<td style="text-align:left">重大修理与改装记录表</td>
+<td style="text-align:left">重大修理或改装必须填报的官方表格</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<h3 id="折弯计算">折弯计算</h3>
+<ul><li>弯曲区减薄：弯曲后板厚比弯曲前薄 10–15%。</li><li>中性轴位置：距弯曲内侧半径表面约 0.445T。</li><li>K 表：共 179 个数值，覆盖 0°–180°；90° 时 K=1。</li><li>无表时：K=tan(弯角/2)，其中弯角=180°−两翼夹角。</li><li>Setback：SB=K(R+T)；90° 时简化为 SB=R+T。R 为弯曲半径，T 为板厚。</li><li>平直段：Flat=MLD−SB。</li><li>总展开宽度：TDW=各 Flat 之和+（BA×弯数），且 TDW 必小于各模线尺寸之和。</li></ul>
+<h3 id="弯曲余量">弯曲余量</h3>
+<ul><li>90° 几何式：BA=2π(R+½T)/4，取 π=3.1416。例：R=0.250 in、T=0.051 in，得 BA=0.4327 in，取 7/16 in。</li><li>工程常数式：BA=(0.01743R+0.0078T)×N，N 为折弯角度。例：R=0.16 in、T=0.040 in、N=90°，得 BA=0.27 in。</li><li>非 90°：从表内取"每度值"乘折弯角度。例：每度 0.003034，折弯 60°（两翼夹角 120°），BA=0.18204 in。</li></ul>
+<h3 id="典型算例">典型算例</h3>
+<ul><li>U 形槽：板 0.040 in 2024-T3，最小弯曲半径 0.16 in（5/32 in）。SB=0.2 in；三个平直段为 0.8、1.6、0.8 in；BA=0.27 in；TDW=0.8+1.6+0.8+2×0.27=3.74 in，而模线尺寸之和为 4 in。</li><li>J 图（J-chart）：用直尺连接弯曲半径与板厚，读角度水平线交点得 X（bend deduction），TDW=ΣML−X。例 1：R=0.22 in、T=0.063 in、90°，X=0.17 in，TDW=(2+2)−0.17=3.83 in。例 2：R=0.25 in、T=0.050 in、45°，X=0.035 in，TDW=3.965 in。</li><li>45° 开弯：T=0.050 in、R=3/16 in（0.1875），K=0.41421，SB=0.098 in；BA=0.003675×45=0.165 in；TDW=2.259 in。</li><li>135° 闭弯：同板料，K=2.4142，SB=0.57 in；BA=0.003675×135=0.496 in；TDW=1.65 in。</li></ul>
+<h3 id="成形与工装">成形与工装</h3>
+<ul><li>让位孔直径：约取 2 倍弯曲半径；铝板厚度 ≤0.064 in 时不小于 1/8 in；0.072–0.128 in 时不小于 3/16 in；孔须越过内弯切线交点并向内弯切线后方延伸 1/32–1/16 in。</li><li>闸床鼻部半径垫片：0.063 in（1/16 in）逐层叠加，可得到 1/8、3/16 in；用 0.032 in 板料包 1/8 in 杆可得到 5/32 in 半径。</li><li>闸床试条：放在距两端各 3 in 处，同时试中间；弯 90° 后两条试条应重合。</li><li>成形块边缘：欠切约 5° 以补偿回弹。</li><li>顶压（bumping）：坯料每边留 1/2–1 in 余量；成形块四周比成品尺寸至少大 1 in；砂袋法余量至少 1/2 in。</li><li>Joggle：额外让位 1/16 in；allowance 经验值约 4T，挤压型材可达 12T；闸床上先弯 20°–30° 再翻面弯到位。</li><li>压褶（crimp）：钳口开度约 1/8 in，褶高约 1/4 in。</li></ul>
+<h3 id="铆钉与紧固件">铆钉与紧固件</h3>
+<ul><li>铆钉直径：板厚×3 后取大一档标准规格。例：0.040×3=0.120 in，取 1/8 in（0.125）。</li><li>铆钉数量表折减：机翼上表面与机身桁条取表值的 80%，中间隔框 60%，单搭接板缝 75%。</li><li>板件更换：修边后距构件尚有 ≥8½ 个铆钉直径材料时补片可延伸到原厂铆钉排；不足则补片跨过构件。</li><li>新铆钉排：横向铆距约 5 个铆钉直径，边距 2½ 个铆钉直径，与原有铆钉错列。</li><li>搭接补片：板厚 ≤0.032 in 用 1/8 in 铆钉，&gt;0.032 in 用 5/32 in；铆距约 1 in，错列排距 1/2 in；1/8 in 铆钉最小边距 1/4 in，5/32 in 为 5/16 in。</li><li>通用边距/铆距：非增压区最小边距 2D、铆距 4–6D；增压区蒙皮与插入件间隙通常 0.015–0.035 in。</li><li>隔框加强板：1/8 in 铆钉、间距 1 in、最小边距 0.30 in、错列排距 0.50 in。</li><li>纵梁：铆距 4–6 个铆钉直径；用螺栓时螺栓孔按轻压入配合（light drive fit）钻。</li><li>翼梁：损伤小于 1 in 用圆形加强板，更大用矩形；转角倒 0.5 in；最小边距 2D、铆距 4–6D。</li><li>铆钉头裂纹可接受判据：深度小于 1/8 杆径、宽度小于 1/16 杆径、长度限于直径不超过 1¼ 倍杆径的圆内、裂纹互不相交。</li></ul>
+<h3 id="特殊材料">特殊材料</h3>
+<ul><li>不锈钢（CRES）：钻孔用 HSS 钻头、135° 夹角，转速约为低碳钢的一半且不超过 750 rpm；剪切与冲孔约需低碳钢两倍压力。</li><li>Inconel 625/718：手钻用 135° 钴钻头；钻 No.30 孔约需 50 lbf 推力，恒定进给，手钻不需切削液。</li><li>镁：冷弯半径软料 ≥7T、硬料 ≥12T，加热后可减到 2–3T；成形前最好加热到 450 °F；冷剪上限硬轧板 0.064 in、退火板 1/8 in；热剪退火板可到 600 °F、硬轧板低于 400 °F；剪切/落料最大间隙 3–5% 板厚；上刀角 45°–60°；冲头剪切角 2°–3°、凹模间隙角 1°；修边（shaving）二次剪去约 1/32 in；厚度超过 1/2 in 只能用锯；带锯 4–6 齿/英寸、圆锯 6 齿/英寸、手锯 8 齿/英寸；机加功率约为低碳钢的 1/6。</li><li>钛：比钢强约 30% 而轻近 50%，比铝重 60% 而强度约两倍；使用温度上限 600 °F（315 °C）；Ti 6Al-4V 占全美钛用量 5% 以上，强度约纯钛 3 倍；去应力加热到 1,250 °F（677 °C）以上、1,450 °F（788 °C）以下，保温超过 30 min 且少于 10 h；单次钻孔最大 0.1563 in，0.1875 in 及以上手钻须从 0.1563 in 起按 0.0313 或 0.0625 in 递增；钻速 0.0625 in→920–1830 rpm、0.125 in→460–920 rpm、0.1875 in→230–460 rpm。</li><li>浮筒：修后灌水静置至少 24 h 查漏。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<h3 id="修理对象的层级">修理对象的层级</h3>
+<ol><li><strong>受力蒙皮（stressed skin）</strong>：外蒙皮承担部分或全部主载荷，由高强轧制铝板制成；按区域分为 highly critical、semicritical、noncritical 三类，具体限值查手册。蒙皮小损伤可在内侧贴补片；切掉损伤处必须装 filler plug 恢复气动光顺。</li><li><strong>补片体系</strong>：lap or scab patch（外贴、边缘搭接）用于气动光顺要求不高处；flush patch（齐平补片）由与蒙皮齐平的 filler 加内部 doubler 组成，doubler 从开口塞入后转到位。</li><li><strong>纵向构件</strong>：stringer（长桁，机身从头到尾、机翼从机身到翼尖、操纵面沿展向）与 longeron（纵梁，比长桁更重）。</li><li><strong>横向构件</strong>：former/bulkhead（隔框），多为板料弯成槽形加加强件，或板腹板加挤压角材；高温区用不锈钢框。</li><li><strong>翼面骨架</strong>：spar（翼梁，分腹板与缘条两类修理）、rib（翼肋，腹板加缘条）、cap strip（缘条）、web（腹板）。</li><li><strong>翼面前后段</strong>：leading edge（前缘，含缘条、前缘肋、长桁、蒙皮）与 trailing edge（后缘，多为连接肋端的金属条）。</li><li><strong>辅助结构</strong>：检查口盖（doubler 加托板螺母加受力盖板）、减重孔及其翻边、波纹/压筋蒙皮。</li></ol>
+<h3 id="修理方式的分类">修理方式的分类</h3>
+<ul><li>按损伤程度：negligible（可不动，但须防扩散并勤查）→ repairable by patching（贴补）→ repairable by insertion（插入）→ necessitating replacement（更换）。</li><li>按施工可达性：open skin（两侧可达，用标准铆钉常规修理）与 closed skin（只能单侧施工，须用特种紧固件）。</li><li>按区域：非增压区修理与增压区修理（增压区需更多铆钉、加 doubler 与 insert、全程密封胶）。</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<h3 id="损伤判定">损伤判定</h3>
+<ol><li>先弄清零件的功能：油箱与浮筒要防漏，整流罩要外形与可达性，操纵面要重量与平衡。</li><li>判断可修性看四件事：损伤类型、原材种、损伤位置、所需修理类型与可用工具设备。</li><li>检查前清除油污与漆层，用 NDI（涡流、超声等）查腐蚀、点蚀、热裂纹与应力裂纹、内部金属不连续。</li><li>检查大范围蒙皮皱褶和活动件；损伤分级的具体数值各机型不同，必须查手册。</li><li>腐蚀检查要内外都看，内部多发生在积水积盐的凹袋与角落；排水孔必须保持通畅，同时检查相邻构件。</li></ol>
+<h3 id="铆接接头的判读">铆接接头的判读</h3>
+<ul><li>看车间头与成品头，以及铆钉周围的蒙皮变形；漆层开裂、起皮提示铆钉移位或松动。</li><li>铆钉头倾斜且成组同向，提示整个接头受同一方向载荷；不成组、方向各异，多为以前安装造成。</li><li>对已知承受临界载荷但外观无变形的铆钉，可锪掉铆钉头把杆冲出检查：杆身有 joggle 且孔已错位即剪断失效，必须查明应力来源。</li><li>沉头铆钉头在锪窝或压窝内滑移（板挤压或铆钉剪断）必须更换；杆身有 joggle 属部分剪切失效，换大一号；孔被拉长也换大一号；板撕裂或铆钉间出现裂纹，说明整排铆钉受损，可能整个接头换大一号。</li><li>铆钉周围黑色残渣是氧化铝，说明板间微动（fretting corrosion，俗称 smoking），不等于铆钉松动；可用研磨垫（如 Scotch Brite™）去除后检查有无点蚀与裂纹。</li><li>行业按"一个或多个铆钉失效"设计铆距，因此单个松动铆钉未必使相邻铆钉过载开裂。</li><li>铆钉头裂纹在深度小于 1/8 杆径、宽度小于 1/16 杆径、且限于 1¼ 倍杆径圆内、互不相交时可接受。</li></ul>
+<h3 id="修理前的准备">修理前的准备</h3>
+<ol><li><strong>结构支撑</strong>：用起落架或千斤顶支撑；拆下操纵面、翼板、尾翼需用托架；机身、起落架、翼中央段大修可做 jig 分散载荷。支撑要求查维护手册。</li><li><strong>损伤去除五步</strong>：去掉变形蒙皮与结构；按原结构与飞机外形线修边；所有方角倒圆；磨平擦伤与凹坑；把范围内的旧修理并入新修理。</li><li><strong>材料选择</strong>：必须复现原强度；弱合金加厚；更强的合金也不得减薄（厚薄主导屈曲与扭转强度）；新制件按手册尺寸先放样再装；平板料制的曲形件成形前须为"0"状态，装前重新热处理。</li><li><strong>紧固件选择</strong>：铆钉一般同规格同材；孔扩大或变形须扩孔后换大一号并保持边距；内部不可达改用盲铆钉时查手册的型式、尺寸、间距与数量；铆钉排布尽量沿用原排布。</li><li><strong>腐蚀防护</strong>：装配前清除既有腐蚀并使各件彼此绝缘；接触面涂防腐材料；铆前去毛刺；不锈钢不得直接接触镁、铝、镉；钛与镁、铝、合金钢接触会电偶腐蚀，必须隔离；镁制件禁用于液体防冰、注水系统与整体油箱区。</li><li><strong>重量与平衡</strong>：补片尽量小、铆钉不多用；螺旋桨整流罩等要配平衡补片；修理后必须做操纵面平衡检查并在允许范围内，必要时在铰链线前方加配重（增减配重按厂家说明），并试飞确认无颤振。</li></ol>
+<h3 id="典型修理步骤">典型修理步骤</h3>
+<ul><li><strong>贴补裂纹/小孔</strong>：清理磨平损伤；裂纹两端各钻 3/32 in 止裂孔并修整裂纹尖端；补片可圆、方或矩形，方矩形转角半径 ≥1/4 in；边缘按 1/2 板厚倒 45° 角并在边距内下弯 5°；补片用 Alclad 2024-T3 同厚或厚一档。</li><li><strong>非增压区补片</strong>：切掉损伤成圆/椭圆/矩形，矩形转角半径 ≥0.5 in；最小边距 2D、铆距 4–6D；doubler 与蒙皮同材、厚一档；insert 与蒙皮同材同厚；铆钉尺寸型式按 SRM 与机上同类接头一致。</li><li><strong>增压区修理</strong>：①去掉受损蒙皮段；②所有转角倒 0.5 in；③做同材厚一档的 doubler，尺寸由排数、边距、铆距决定；④做同材同厚的 insert，蒙皮与 insert 间隙 0.015–0.035 in；⑤穿透 doubler、insert 与原蒙皮钻孔；⑥doubler 上涂薄层密封胶并用 Cleco 固定；⑦用与周边同型紧固件，doubler 装到蒙皮、insert 装到 doubler，所有紧固件安装前蘸密封胶。</li><li><strong>板件更换</strong>：损伤超可修限或同一区域旧修理过多则换整块板。修边后距构件尚有 ≥8½ 铆钉直径材料时，补片延伸到原厂铆钉排并在构件内侧加一排铆钉；不足 8½ 铆钉直径时补片跨过构件并在外侧加一排铆钉；损伤到板边时板边只加一排铆钉（原厂多排者除外）。先定位钻一孔用临时紧固件固定，用找孔器定位第二孔，再从背面经原孔钻其余孔。</li><li><strong>长桁</strong>：先定损伤范围并拆掉周边铆钉，用钢锯、鸡尾锯、钻或锉去除损伤；多数需 insert 与 splice angle，splice angle 在内侧还是外侧必须查 SRM；弯曲长桁的修理件须贴合原外形。贴补（patching）限于损伤不超过一条腿宽度的 2/3 且长度不超过 12 in；超过一条腿 2/3、仅一根长桁但超 12 in、或多根长桁受损，用插入法。</li><li><strong>隔框</strong>：①用 No.40 钻头止裂；②做同材厚一档的 doubler，按 1/8 in 铆钉、1 in 间距、最小边距 0.30 in、错列排距 0.50 in 定尺寸；③夹紧并钻孔；④装铆钉。无备件时用平板料自制，替代材料必须在拉、压、剪、挤压强度上等效。</li><li><strong>翼梁</strong>：①去除损伤并把所有转角倒 0.5 in；②做同材同厚 doubler，最小边距 2D、铆距 4–6D；③钻透 doubler 与原结构并用 Cleco 固定；④装铆钉。</li><li><strong>翼肋/腹板</strong>：腹板受损清掉损伤装补片，补片须保证损伤四周至少两排铆钉，含足够边距、铆距与横向铆距；补片与原构件同厚同成分；需要更大修理时用补片、搭接板或角材加插入件。加强件在孔 1/2 in 内且未损坏时，钻掉其铆钉、修后原位重铆；损坏则换新。</li><li><strong>后缘</strong>：修前彻底检查定范围、类型与做法；修后外形须与原状相同、材料成分与状态相同，并保持翼型设计特性。</li></ul>
+<h3 id="放行与审批">放行与审批</h3>
+<ol><li><strong>法规依据</strong>：14 CFR part 43 §43.13(a) 要求按现行厂家维护手册、持续适航文件或局方认可的方法施工。</li><li><strong>AC 43.13-1</strong>：全称 Acceptable Methods, Techniques, and Practices—Aircraft Inspection and Repair。只在厂家没有修理/维护指示时适用于民用飞机非增压区的检查与修理，一般针对小修。</li><li><strong>AC 数据用法</strong>：可作为重大修理申请 FAA 批准的 basis，也可作为已批准数据在 FAA Form 337 第 8 栏引用具体章节页码段落，条件是用户判定其适用于所修产品、直接适用于该修理、且不违背厂家数据。手册与 SRM 未述及的技术需厂家工程支持。</li><li><strong>FAA Form 337（Major Repair and Alteration）</strong>：用于下列部位的加强、补强、搭接与制造或制造式更换（铆接或焊接）——盒形梁；单壳或半单壳机翼或操纵面；机翼长桁或弦件；翼梁；翼梁缘条；桁架梁构件；梁的薄板腹板；船体/浮筒的龙骨与舭材；作翼面/尾翼缘条的波纹板受压件；机翼主肋与受压件；翼面/尾翼撑杆、机身纵梁；侧桁架、水平桁架或隔框构件；主座椅支撑撑杆与支架；起落架撑杆；涉及材料替换的修理；金属或胶合板受力蒙皮损伤超过任一方向 6 in 的修理；用新增接缝修蒙皮；薄板搭接；相邻三个及以上翼面/操纵面肋或肋间前缘的修理。</li><li><strong>替代记录</strong>：按局方认可手册/规范做的重大修理，持证修理站可用客户工作单（记录该修理）代替 Form 337。</li><li><strong>通用免责</strong>：书中的修理示例与插图只是典型做法，不构成修理授权；施工前须查该机型 SRM，或找厂家装过的类似修理。</li></ol>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（金属结构修理后半：折弯展开计算、让位孔与成形、补片与插入修理、长桁与翼梁修理、放行审批）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> The total developed width is always _____ than the sum of the mold line dimensions, because the bend takes a shortcut around the mold point.</p>
+<p>A) less　　B) lesser　　C) least　　D) low</p>
+<p><strong>2.</strong> The bend tangent line marks the boundary between the bend radius and the _____ section of the part.</p>
+<p>A) straighten　　B) straight　　C) straightly　　D) straightness</p>
+<p><strong>3.</strong> Relief holes are drilled at the intersection of the two inside bend tangent lines to keep the corner from _____ during bending.</p>
+<p>A) tearing　　B) being torn　　C) tear　　D) torn</p>
+<p><strong>4.</strong> A _____ patch sits flush with the skin and is backed up by a doubler inside the structure, so no step is left on the outer surface.</p>
+<p>A) lap　　B) scab　　C) butt　　D) flush</p>
+<p><strong>5.</strong> A crack is stopped by _____ a small hole at each end, which moves the stress concentration away from the crack tip.</p>
+<p>A) boring　　B) piercing　　C) punching　　D) drilling</p>
+<p><strong>6.</strong> The doubler is made from the same alloy, one gauge heavier, and is _____ flat against the inside of the skin.</p>
+<p>A) riveting　　B) rivet　　C) riveted　　D) rivets</p>
+<p><strong>7.</strong> Repairs of this kind are subject _____ the approval of the manufacturer or the local FAA office.</p>
+<p>A) for　　B) of　　C) to　　D) with</p>
+<p><strong>8.</strong> The material for the doubler is one gauge _____ than the skin it reinforces.</p>
+<p>A) heavy　　B) heavier　　C) heaviest　　D) heavily</p>
+<p><strong>9.</strong> Black residue around rivet heads is aluminium oxide produced by _____ corrosion between the sheets; it does not by itself mean that the rivet is loose.</p>
+<p>A) friction　　B) fretting　　C) fatigue　　D) filiform</p>
+<p><strong>10.</strong> The two skins are joined by a _____ flange, which lets them overlap without leaving a step.</p>
+<p>A) joggled　　B) joggle　　C) joggling　　D) joggler</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. A</strong> —— TDW 与"各模线尺寸之和"比较，用比较级 less；B) lesser 多用于 <code>to a lesser extent</code> 这类固定表达，且不能直接跟 than 表示数量更小；C) least 是最高级，本句没有三者以上的比较范围；D) low 是原级形容词，与 than 不搭配，也不能表示"更小"。</p>
+<p><strong>2. B</strong> —— 空格修饰名词 section，需要形容词或零形式的 flat 含义词，straight（平直的）符合"平直段"的意思；A) straighten 是动词"弄直"；C) straightly 是副词；D) straightness 是名词"平直度"，都不能作定语。</p>
+<p><strong>3. B</strong> —— <code>keep the corner from being torn</code> 中 from 是介词，后面接被动动名词，表示"防止转角被撕裂"；A) tearing 是主动形式，会把转角当成撕裂动作的发出者；C) tear 是动词原形，不能作介词宾语；D) torn 是过去分词，同样不能直接跟在 from 之后。</p>
+<p><strong>4. D</strong> —— 与蒙皮齐平、内侧用加强板承力的补片术语是 flush patch；A) lap patch 与 B) scab patch 都是贴在外表面、边缘搭接的外贴补片，会留下台阶；C) butt 指对接，不描述补片形式。</p>
+<p><strong>5. D</strong> —— 在裂纹尖端钻小孔止裂，英文固定说法就是 stop drilling；A) bore 指镗孔，用于把孔加工到精确尺寸；B) pierce 指冲穿；C) punch 指用冲头冲出孔，三者都不是"用钻头钻小孔"的标准说法。</p>
+<p><strong>6. C</strong> —— 句子与前面的 is made 并列，doubler 是被铆接的对象，用被动语态 is riveted；A) riveting 是主动分词；B) rivet 是名词或动词原形；D) rivets 是第三人称单数谓语，都不能与 is made 构成并列的被动结构。</p>
+<p><strong>7. C</strong> —— <code>be subject to</code> 是固定搭配，意为"须经……、受……约束"；A) for、B) of、D) with 都不能与 subject 组成这个短语，属介词误配干扰。</p>
+<p><strong>8. B</strong> —— 句中有 than，必须用比较级 heavier，且 <code>one gauge heavier</code> 是行业里的固定说法；A) heavy 是原级，与 than 冲突；C) heaviest 是最高级；D) heavily 是副词，不能修饰 gauge 表示"厚一个规格"。</p>
+<p><strong>9. B</strong> —— 铆钉头周围的黑渣是板间微动造成的 fretting corrosion（俗称 smoking）；A) friction 泛指摩擦，不指这种局部微幅相对滑动引起的腐蚀；C) fatigue 是疲劳，指循环载荷造成的损伤；D) filiform 是丝状腐蚀，多沿涂层下的细线扩展，与铆钉头周围的黑渣不是一回事。</p>
+<p><strong>10. A</strong> —— 空格修饰 flange，需要分词作定语，joggled flange（折弯错位法兰）表示让两块蒙皮错开一个板厚搭接；B) joggle 是名词或动词原形；C) joggling 是动名词，多指动作本身；D) joggler 指"做错位弯的人或工具"，都不指这种成形的法兰。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ul><li><strong>MLD 与 TDW</strong>：MLD 是沿模线量到理论交点的尺寸之和，TDW 是展开后的实际下料宽度。不要把两者当成同一个数，TDW 必小于各 MLD 之和。</li><li><strong>开弯与闭弯</strong>：开弯两翼夹角大于 90°（折弯角小于 90°），闭弯相反；同样外形尺寸下闭弯的 TDW 更小，因为弯曲包角更大。</li><li><strong>贴补（lap or scab patch）与齐平补（flush patch）</strong>：前者贴在外表面、边缘搭接铆接，气动光顺不重要处可用；后者由内部 doubler 加与蒙皮齐平的 filler 组成，外表面不留台阶。</li><li><strong>补片（patching）与插入（insertion）</strong>：补片跨过损伤、搭到未损伤结构上；插入是把损伤段整段切掉、换同材同形件，两端用搭接连接传力。插入用于面积太大或结构排列使补片妨碍对齐的场合。</li><li><strong>剪切临界与挤压临界</strong>：紧固件少于最优数量时铆钉先被剪断（shear critical），多于最优数量时孔间板先裂或孔被压变形（bearing critical）。两者都不好，过度加强还会在补片边缘加速疲劳。</li><li><strong>活动铆钉（working rivet）与松动铆钉</strong>：活动铆钉受载时有微量位移但外观尚不明显，靠铆钉头周围深色油污与漆层破坏判断；等到肉眼可见松动，往往已进入失效后期。</li><li><strong>更换材料"更强"不等于"更好"</strong>：用更强但更薄的合金替代原材，屈曲与扭转强度反而下降，因此不得减薄；替代材料必须截面与强度等效。</li></ul>

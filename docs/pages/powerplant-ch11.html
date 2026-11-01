@@ -1,0 +1,226 @@
+<h1 id="ch-11-light-sport-aircraft-engines-轻型运动飞机发动机">Ch 11 · Light-Sport Aircraft Engines（轻型运动飞机发动机）</h1>
+<blockquote>范围说明：本 txt 中本章正文到页脚 <strong>11-25</strong>（PDF 434–458）为止，其后接全书 Glossary（G-1…G-19）与 Index。页码 11-26 以后的正文不在文件内，本笔记不含。</blockquote>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>LSA 的法定界定（1,320 lb／120 knots／两人／单发等 13 条），以及为其配套的轻量发动机——Rotax 二冲程与 912/914、Jabiru、HKS 等——的结构、系统与维护要点。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ul><li><strong>机型存在的理由先于机型本身</strong>：LSA 有用载荷余量很窄，发动机"每多一磅都在削减性能"，因此这一章的动力装置全部围绕"单位功率重量最小"来设计——升功率靠设计、工作循环与冶金进步换来，尺寸与缸数还要兼顾飞行员视野、重心与阻力。</li><li><strong>LSA 是"持续满足"13 项限制的飞机</strong>：不是取证时满足一次，而是自原始取证起一直满足；重量、速度、座位数、发动机数、螺旋桨型式、起落架、座舱增压逐项规定，旋翼机与动力升力类被排除在外。</li><li><strong>人员资格是本章少见的法规条文</strong>：持 powerplant 执照者可对 LSA 发动机做维修与检查；sport pilot 只能对本人拥有/使用、持 LSA 类特殊适航证的飞机做预防性维修（14 CFR 43.3(g)）；repairman certificate（LSA）分 inspection rating 与 maintenance rating 两档，后者按机型类别要求 120／104／104／80／80 小时培训。</li><li><strong>机型谱系可分四档</strong>：轻量二冲程（Rotax 447/503 风冷、582 液冷）、四冲程对置（Rotax 912/914，914 带涡轮增压）、整体机加工的 Jabiru 2200/3300、以及"汽车机改装"路线（Aeromax 100 IFB 源于 GM Corvair、Revmaster R-2300 与 Great Plains 套件源于 VW），另有 Continental O-200、Lycoming O-233 这类传统机型下探到 LSA/实验类。</li><li><strong>二冲程与四冲程的分野落在三处</strong>：换气方式（活塞开闭气口或旋转阀 vs 独立进气/压缩/做功/排气四行程）、润滑（燃油预混 1:50＝2% 或机油喷射 vs 干槽/湿槽压力润滑）、冷却（多为风冷或液冷缸头 vs 914 的液冷缸头＋冲压风冷缸体）。</li><li><strong>化油器同步是这类双化油器发动机的命门</strong>：必须先做机械同步（0.1 mm 塞尺对 idle stop、怠速螺钉 1.5 圈、混合气螺钉退出 1½ 圈），再做气动同步（流量计/真空表），最后在全功率与慢车之间逐点比对压力表，低的一侧每次补 ½ 圈 off-idle。</li><li><strong>电气是"自带电源"的独立体系</strong>：447/503/582 与 914 都是无断电器电容放电点火＋整体式发电机，两根定子充电线圈各喂一套点火电路；914 四只外部触发线圈两两触发双点火线圈，点火顺序 1-4-2-3，第五只触发线圈只供转速表信号。</li><li><strong>维护节奏由 TBO／日历寿命与清单化检查共同约束</strong>：TBO 是"小时数或年数，先到为准"，且 100 小时检查的容差是 0 小时（不得顺延累积）；日常 21 项、航前 18 项清单，磁塞、齿轮箱摩擦力矩、封存油量都有明确数值。</li></ul>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">light-sport aircraft (LSA)</td>
+<td style="text-align:left">轻型运动飞机</td>
+<td style="text-align:left">自原始取证起持续满足 13 项限制、非旋翼/动力升力类的飞机</td>
+</tr>
+<tr>
+<td style="text-align:left">VH</td>
+<td style="text-align:left">最大平飞速度</td>
+<td style="text-align:left">最大连续功率、标准海平面条件下的校准空速上限</td>
+</tr>
+<tr>
+<td style="text-align:left">VNE</td>
+<td style="text-align:left">不可超过速度</td>
+<td style="text-align:left">滑翔机同样限 120 knots CAS</td>
+</tr>
+<tr>
+<td style="text-align:left">VS1</td>
+<td style="text-align:left">最小稳定飞行速度</td>
+<td style="text-align:left">不用增升装置、最大取证重量与最临界重心下的失速速度</td>
+</tr>
+<tr>
+<td style="text-align:left">powered parachute</td>
+<td style="text-align:left">动力降落伞</td>
+<td style="text-align:left">柔性或半刚性翼，起飞前机翼不在飞行位置</td>
+</tr>
+<tr>
+<td style="text-align:left">weight shift control aircraft</td>
+<td style="text-align:left">重心移动操纵飞机</td>
+<td style="text-align:left">飞行员移动重心使机翼相对变形来操纵，不用操纵面</td>
+</tr>
+<tr>
+<td style="text-align:left">TBO (time between overhauls)</td>
+<td style="text-align:left">翻修间隔时间</td>
+<td style="text-align:left">小时数与日历年限双限，先到为准</td>
+</tr>
+<tr>
+<td style="text-align:left">SCDI / DCDI</td>
+<td style="text-align:left">单／双电容放电点火</td>
+<td style="text-align:left">Rotax 447 为单套，503/582 为双套</td>
+</tr>
+<tr>
+<td style="text-align:left">capacitor discharge ignition</td>
+<td style="text-align:left">电容放电点火</td>
+<td style="text-align:left">电容储能经点火线圈一次侧放电，二次侧产生高压</td>
+</tr>
+<tr>
+<td style="text-align:left">breakerless</td>
+<td style="text-align:left">无断电器式</td>
+<td style="text-align:left">无机械触点，靠定子充电线圈与外部触发线圈工作</td>
+</tr>
+<tr>
+<td style="text-align:left">charging coil / trigger coil</td>
+<td style="text-align:left">充电线圈／触发线圈</td>
+<td style="text-align:left">定子上的独立绕组供能；触发线圈给出放电脉冲</td>
+</tr>
+<tr>
+<td style="text-align:left">rectifier-regulator</td>
+<td style="text-align:left">整流调压器</td>
+<td style="text-align:left">把发电机交流整成直流并稳压（447/503 为外置选装件）</td>
+</tr>
+<tr>
+<td style="text-align:left">oil injection</td>
+<td style="text-align:left">机油喷射润滑</td>
+<td style="text-align:left">机油泵按转速与油门杆位置计量，经扩散喷嘴随进气进入</td>
+</tr>
+<tr>
+<td style="text-align:left">rotary valve inlet</td>
+<td style="text-align:left">旋转阀进气</td>
+<td style="text-align:left">582 的进气控制方式，区别于 447/503 的活塞控制气口</td>
+</tr>
+<tr>
+<td style="text-align:left">piston ported</td>
+<td style="text-align:left">活塞控制气口</td>
+<td style="text-align:left">由活塞往复运动开闭扫气口与排气口</td>
+</tr>
+<tr>
+<td style="text-align:left">opposed-type engine</td>
+<td style="text-align:left">对置式发动机</td>
+<td style="text-align:left">两列气缸相对布置、共用一根曲轴</td>
+</tr>
+<tr>
+<td style="text-align:left">dry sump / wet sump</td>
+<td style="text-align:left">干槽／湿槽润滑</td>
+<td style="text-align:left">机油存于独立油箱（914）／存于机匣油底（O-200、Jabiru）</td>
+</tr>
+<tr>
+<td style="text-align:left">expansion tank / pressure cap</td>
+<td style="text-align:left">膨胀箱／压力盖</td>
+<td style="text-align:left">盖内含超压阀与回流阀，受热排出、冷却吸回</td>
+</tr>
+<tr>
+<td style="text-align:left">overflow bottle</td>
+<td style="text-align:left">溢流瓶</td>
+<td style="text-align:left">透明瓶，用于观察液位与是否失液</td>
+</tr>
+<tr>
+<td style="text-align:left">ram-air cooling</td>
+<td style="text-align:left">冲压空气冷却</td>
+<td style="text-align:left">靠飞行速度与螺旋桨气流直接冷却缸体</td>
+</tr>
+<tr>
+<td style="text-align:left">wastegate</td>
+<td style="text-align:left">放气门（废气门）</td>
+<td style="text-align:left">电子控制旁通废气量，调节涡轮转速与增压压力</td>
+</tr>
+<tr>
+<td style="text-align:left">TCU (turbo control unit)</td>
+<td style="text-align:left">涡轮控制单元</td>
+<td style="text-align:left">控制增压压力，并用红／橙指示灯指示状态</td>
+</tr>
+<tr>
+<td style="text-align:left">intercooler</td>
+<td style="text-align:left">中冷器</td>
+<td style="text-align:left">冷却涡轮压缩后的进气（HKS 700T）</td>
+</tr>
+<tr>
+<td style="text-align:left">reduction gearbox / reduction ratio</td>
+<td style="text-align:left">减速机／减速比</td>
+<td style="text-align:left">把曲轴转速降到螺旋桨转速（HKS 700T 为 2.13:1）</td>
+</tr>
+<tr>
+<td style="text-align:left">dog gear / overload (slipper) clutch</td>
+<td style="text-align:left">爪式齿轮／过载（滑动）离合器</td>
+<td style="text-align:left">齿轮箱内传递扭矩并在过载时打滑，与扭振减震共用</td>
+</tr>
+<tr>
+<td style="text-align:left">torsional vibration shock absorber</td>
+<td style="text-align:left">扭振减震器</td>
+<td style="text-align:left">吸收扭振，位于桨法兰与齿轮箱之间</td>
+</tr>
+<tr>
+<td style="text-align:left">Bowden cable</td>
+<td style="text-align:left">推拉软轴（鲍登线）</td>
+<td style="text-align:left">每个化油器两根：一根油门阀、一根阻风门</td>
+</tr>
+<tr>
+<td style="text-align:left">magnetic plug</td>
+<td style="text-align:left">磁性螺塞</td>
+<td style="text-align:left">缸 2 与齿轮箱之间的 torx 螺塞，靠吸附金属屑判断内部状态</td>
+</tr>
+<tr>
+<td style="text-align:left">blow-by</td>
+<td style="text-align:left">窜气</td>
+<td style="text-align:left">经活塞环漏入曲轴箱的燃气，也用于把余油压回油箱</td>
+</tr>
+<tr>
+<td style="text-align:left">pressure differential (leak down) test</td>
+<td style="text-align:left">压差（渗漏）测试</td>
+<td style="text-align:left">80 psi 进气测压降，判断环、缸壁、气门与缸头密封</td>
+</tr>
+<tr>
+<td style="text-align:left">plenum chamber</td>
+<td style="text-align:left">稳压箱（增压腔）</td>
+<td style="text-align:left">Jabiru 用双冲压空气导管取代传统挡板＋稳压箱</td>
+</tr>
+<tr>
+<td style="text-align:left">annual condition inspection</td>
+<td style="text-align:left">年度状态检查</td>
+<td style="text-align:left">LSA 特有的年度检查，可由持 inspection rating 者执行</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<p><strong>LSA 界定（13 条中带数值者）</strong></p>
+<ul><li>最大起飞重量：不用于水面 1,320 lb（600 kg）；用于水面 1,430 lb（650 kg）。</li><li>最大平飞速度 VH：≤ 120 knots CAS（标准大气、海平面、最大连续功率）。</li><li>滑翔机最大 VNE：≤ 120 knots CAS。</li><li>最大失速速度／最小稳定飞行速度 VS1：≤ 45 knots CAS（最大取证起飞重量、最临界重心、不用增升装置）。</li><li>最大乘员：2 人（含飞行员）；动力装置：单台往复式发动机。</li></ul>
+<p><strong>人员资格</strong></p>
+<ul><li>repairman certificate（LSA）：年满 18 岁；inspection rating 需 16 小时课程。</li><li>maintenance rating 培训小时：airplane 120 h；weight-shift control 104 h；powered parachute 104 h；lighter-than-air 80 h；glider 80 h。</li></ul>
+<p><strong>翻修间隔（图 11-1 例）</strong></p>
+<ul><li>1,000 小时或 10 年，先到为准；1,200 小时或 12 年，先到为准。</li><li>执行 SB-914-027 后，914 F／914 UL 的 TBO 由 1,000 小时提高到 1,000–1,200 小时或 12 年。</li></ul>
+<p><strong>Rotax 二冲程 / 914 系统</strong></p>
+<ul><li>燃油机油比：1:50（2%）；机油须为风冷发动机认可、50:1 混合比。</li><li>447/503 内置交流发电机：12 V 170 W，配外置整流调压器（选装）。</li><li>914 燃油压力：始终高于进气箱内可变增压压力约 0.25 bar（3.63 psi）。</li><li>914 点火顺序：1-4-2-3；第五只触发线圈供转速表。</li><li>油门位置传感器输出：0–115%（怠速到全功率线性）；108–110% 区间增压压力急升，须快速平滑通过。</li><li>全油门（红灯亮）连续不得超过 5 分钟；超过 5 分钟红灯开始闪烁。</li></ul>
+<p><strong>各机型</strong></p>
+<ul><li>HKS 700T：709 cc；减速比 2.13:1；77 hp 连续 @4,900 rpm；80 hp 起飞（3 分钟）@5,300 rpm；126 lb；TBO 500 小时。</li><li>Jabiru 2200：2,200 cc（134 cu in）；缸径 97.5 mm、行程 74 mm；压缩比 8:1；132 lb（60 kg）装机重；宽 23.46 in（596 mm）；点火正时 25° BTDC；点火顺序 1-3-2-4；85 hp @3,300 rpm；75% 功率耗油 4 US gal/hr；滑油 2.3 quarts；火花塞 NGK D9EA；发电机 20 A。</li><li>Jabiru 3300：3,300 cc（202 cu in）；缸径 97.5 mm（3.838 in）、行程 74 mm（2.913 in）；压缩比 8:1；178 lb（81 kg）；25° BTDC 固定正时；点火顺序 1-4-5-2-3-6；120 hp @3,300 rpm；75% 功率耗油 26 l/hr（6.87 US gal/hr）；湿槽 4 升；滑油 3.5 l（3.69 quarts）。</li><li>Aeromax 100：100 hp 连续 @3,200 rpm；2.7 L；压缩比 9:1；210 lb；45 A 发电机；CHT 上限 475 °F；六缸、直接驱动、逆时针。</li><li>Revmaster R-2300：82 hp 连续 @2,950 rpm；起飞 85 hp @3,350 rpm；缸径 94 mm、行程 78→84 mm；60 mm 中主轴承；55 mm 3 号止推轴承。</li><li>Great Plains（VW）：约 60–100 hp；1,600–2,276 cc；2,180–2,276 cc 用 82 mm 曲轴、E4340 锻坯、两次磁粉探伤。</li><li>Continental O-200-A/B：100 bhp @2,750 rpm；201 cu in；缸径 4.06 in、行程 3.88 in；干重 170.18 lb；带附件约 215 lb；O-200-D 带附件约 199 lb；油底壳容量最多 6 quarts。</li><li>Lycoming O-233：干重 213 lb（含燃油泵）；连续 115 hp @2,800 rpm；TBO 2,400 小时。</li></ul>
+<p><strong>维修数值</strong></p>
+<ul><li>100 小时检查容差 ±0 小时；若在 110 小时做，下次为 200 小时 ±10 小时（不是 210 小时）；若在 87 小时做，下次在 187 小时。</li><li>机械同步：塞尺 0.1 mm（0.004 in）；怠速螺钉在接触后各拧进 1.5 圈；混合气螺钉拧到底后退出 1½ 圈；油门软轴间隙 1 mm（0.04 in）；off-idle 每次 ½ 圈；怠速螺钉最多退出 1 整圈。</li><li>磁塞钢屑：累积低于 3 mm（0.125 in）可接受；螺塞扭矩 25 Nm（18.5 ft/lb）。</li><li>齿轮箱：自由转动 15° 或 30°（取决于 dog gear 齿形）；摩擦力矩 25–60 Nm（18.5–44.3 ft/lb）；公式 FT = 长度(m) × 力(N)，例 30 Nm = 0.5 m × 60 N。</li><li>放油螺塞扭矩 25 Nm（18.5 ft/lb）；换油后手转曲轴约 20 圈。</li><li>液冷发动机保养：温度探头装在 2、3 号缸头，取缸头最热点读数。</li><li>Jabiru：飞轮螺钉 24 ft/lb；气缸压缩测试油温 30–70 °C（90–160 °F）、节气门全开，低于 6 bar（90 psi）须检查；压差测试进气 80 psi、允许压降 25%，80/60 即有问题；每 50 小时检查换机油滤；加注约 2.3 升；怠速混合气螺钉标准位置为退出 1¼ 圈；火花塞间隙 0.55–0.6 mm（0.022–0.024 in）；缸头螺栓冷态 20 ft/lb，5 小时、10 小时各查一次，此后每年一次；转速表传感器间隙 0.4 mm（0.016 in），飞轮侧 tag 至少覆盖 60% 且两 tag 等距。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<ul><li><strong>Rotax 447 UL SCDI / 503 UL DCDI（二冲程、两缸直列）</strong></li><li>活塞控制气口；缸头与缸体均风冷，有风扇冷却（V 带由曲轴常驱）与自由空气冷却两版</li><li>点火：无断电器磁电机电容放电，447 单套、503 双套</li><li>供油：1–2 只活塞式化油器＋1 只气动燃油泵；503 可选用机油喷射（机油另设油箱、重力供油）</li><li>传动：桨法兰＋齿轮箱，内含减震器；排气为集气式；12 V 170 W 发电机＋外置整流调压器（选装）</li><li><strong>Rotax 582 UL DCDI（二冲程、两缸直列）</strong></li><li>旋转阀进气；缸头与缸体均液冷，内置水泵；双电路冷却（缸体、缸头→散热器）</li><li>冷却系附件：膨胀箱、带超压阀与回流阀的压力盖、透明溢流瓶、缸头放气软管、水温表</li><li>点火双套无断电器磁机 CDI；双活塞式化油器＋气动燃油泵；齿轮箱含扭振减震器；电起动或手动回绕起动</li><li><strong>Rotax 912/914（四缸四冲程水平对置）</strong></li><li>两列气缸相对、共用一根曲轴；缸头液冷、缸体以冲压空气冷却为主；功重比高、轮廓窄、振动低、与 582 同重</li><li>914 冷却：缸头闭式回路，凸轮轴驱动水泵，散热器低于发动机、膨胀箱在机上方；2、3 号缸头装温度探头</li><li>914 燃油：油箱→粗滤/水分离器→两只串联电动燃油泵→燃油压力控制→两只化油器；每泵并联单向活门经回油管回油箱，回油管不得有阻力</li><li>914 润滑：干槽强制润滑，主油泵（含压力调节）＋附加回油泵，均由凸轮轴驱动；主油泵经机油冷却器、滤清器供各润滑点，并润滑涡轮增压器滑动轴承与螺旋桨调速器；曲轴箱余油由窜气送回油箱；涡轮增压器经独立油管供油、由独立泵经回油管送回</li><li>914 点火：双套无断电器 CDI＋整体式发电机；两根定子充电线圈各供一套电路，能量存于电子模块电容；四只外部触发线圈两两触发双点火线圈；第五只触发线圈供转速表</li><li>914 增压：废气涡轮增压器，废气门由电子控制；油门位置传感器装在 2/4 号化油器上；TCU 带红色增压灯与橙色警示灯</li><li><strong>HKS 700T</strong>：四冲程两缸水平对置、涡轮增压＋中冷、每缸四气门、709 cc、电子燃油喷射、2.13:1 减速齿轮箱、126 lb</li><li><strong>Jabiru 2200/3300</strong></li><li>机加工路线：机匣半分、缸头、曲轴、起动机壳、齿轮箱盖均由实料加工，油底壳是唯一铸件</li><li>缸筒为 4140 铬钼钢棒料，活塞直接在钢缸孔内运行；曲轴 4140、轴颈精磨后磁粉探伤；凸轮轴 4140、轴颈与凸轮氮化</li><li>直接驱动螺旋桨、无减速机；可拆桨法兰便于更换前油封与加装桨轴延伸</li><li>点火：晶体管电子式，飞轮旁两只固定线圈由飞轮磁铁励磁，高压经两根高压线送两个汽车式分电器（仅转子与分火盖），每缸头两枚火花塞；固定正时、屏蔽防干扰、完全冗余且自发电</li><li>曲轴：桨端双轴承、每连杆颈间一主轴承，止推轴承在前双轴承前后，故可拉进或推进安装</li><li>缸头：实心铝坯加工；气门 7 mm 杆径、CNC 加工钢坯、感应淬火、杆身镀 Teflon 青铜-钢衬套；气门座为镍钢、冷缩装入铝缸头；液压挺柱自动补偿间隙</li><li>润滑：凸轮轴直驱内啮合齿轮泵，含汽车式旋装滤、机油冷却器与内置释压阀</li><li>冷却：标配两只 Jabiru 自研冲压空气导管，直接把螺旋桨气流导向缸头与缸筒，省掉挡板与稳压箱</li><li>其他：1.5 kW 起动机、四处橡胶减震支座、压力补偿式化油器＋油底壳上的扫掠式稳压腔（混合气预热）、不锈钢排气与消声器、曲轴后端经联轴器驱动真空泵</li><li><strong>Aeromax 100 IFB</strong>：对置六缸、风冷、直接驱动；整体式前轴承（IFB）＋轴承座支撑曲轴延伸端；45 A 永磁整体式发电机、轻量起动机、双点火单火花塞</li><li><strong>Revmaster R-2300 / Great Plains VW</strong>：VW 改装直驱；R-2300 用 RM-049 半球形燃烧室缸头、四主轴承曲轴、双 CDI 八线圈对八火花塞、双 20 A 发电机、Rev-Flo 化油器</li><li><strong>Continental O-200 / Lycoming O-233</strong>：O-200 为四缸对置风冷、顶置气门、上吸式进气与下排式排气、湿槽高压润滑、四只整体后安装点；O-233 为实验类非取证版，双 CDI、液压挺柱、轻量起动机与带整体调压器的轻量发电机</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<ul><li><strong>作业安全前提</strong>：点火关断并把点火系统接地、断开电瓶；凡需通电作业，必须固定螺旋桨并设螺旋桨安全区；只要接地线（plead）没接好，点火就是"热"的。等发动机冷到外界温度再动手，防烫伤；防止金属屑、异物、脏物进入冷却、润滑与燃油系统；按规定扭矩紧固，过紧或过松都会造成严重损坏。</li><li><strong>通则</strong>：只在无烟、远离火花与明火处作业；只用规定工具；拆装中拆下的保险件（保险丝、自锁紧固件）一律换新；自锁螺母一经松开即换；复装时更换全部密封圈、垫片、O 形圈与油封；拆时做好标记以保证原位复装，磨损痕迹不得擦除。</li><li><strong>检查间隔与记录</strong>：间隔容差为 ±0 小时，不得逾越（100 小时检查在 110 小时做，下次按 200±10 小时算；提前在 87 小时做，下次在 187 小时）；清单需复印、每页注明检查类别、逐项签名，完成后录入维修记录并在履历本确认；设备更换（化油器、燃油泵、调速器）与执行服务通告必须记入履历本。</li><li><strong>化油器同步（机械→气动）</strong>：松开两根鲍登线、脱开补偿管谐振软管使两套进气分离；拆下油门杆上的钢索固定件、脱开回位弹簧、把油门杆推回怠速止动位（应无阻力）；怠速螺钉退出止动，插入 0.1 mm 塞尺后顺时针轻拧至触片，抽出塞尺再各拧进 1.5 圈；混合气螺钉拧到底后退出 1½ 圈；挂回弹簧、检查节气门能自动全开；两化油器同法。随后把驾驶舱油门放怠速位，用钢索固定件把化油器油门杆拉到怠速止动位并锁紧，确认怠速螺钉无压力地落在止动位上。</li><li><strong>气动同步</strong>：机械同步必须先完成；用流量计/真空表使两化油器怠速流量相等。接管两法：拆进气歧管 M6×6 内六角螺塞接真空表（并堵住补偿管接口），或拆补偿管软管经推入式接头接软管至表；测试前垫轮挡、系留飞机、设螺旋桨警戒区。修正量超过 ½ 圈须重做机械同步，以免怠速止动位受力过大；怠速过高时怠速螺钉最多退出 1 整圈，仍不达标就检查怠速量孔是否污染（注意半透明胶状污物）并清洗。</li><li><strong>全功率与过渡段核对</strong>：先确认能到起飞转速；全功率时两表读数应一致，不一致则停车检查化油器行程是否到底、阻风门是否全关；收油门后两表仍应一致，偏低的一侧用 off-idle 调整（松开锁母拧进 ½ 圈、锁紧、复测），必要时重设两侧怠速螺钉（两侧同量调整）；任何较大调整后都要重新验证全部参数。</li><li><strong>软轴与联动</strong>：走向不得因发动机或机体运动而改变化油器开度（否则怠速与同步被破坏）；位置 1 接节气门、位置 2 接阻风门；软轴与杆件须活动自如不卡滞；油门软轴间隙调到 1 mm（0.04 in）；化油器及其接头用机油润滑；检查回位弹簧与挂孔磨损。<strong>警示：联动未接时节气门处于全开（化油器初始位置就是全油门），绝不可在此状态起动。</strong></li><li><strong>滑油</strong>：查油位前先手转螺旋桨数圈把机内机油泵回油箱，直到有空气回流（打开油箱盖能听到咕噜声）；油位应在油尺上下刻线之间，绝不低于下限，长途飞行加至上限；正常运行时油位居中，加得过多会从通气管溢出。换油：先热油、手转曲轴回油、拆保险丝与放油螺塞放油并按规定处理废油、每次换油同时换滤芯；不要拆油管与其它油接头，不要排放吸油管、机油冷却器与回油管（会进气）；换油与换滤要连续快速完成，防止油路与液压挺柱排空；禁止用压缩空气吹油路；复装放油螺塞按规定扭矩并打保险；油路敞开时不得转动发动机；换完手转曲轴约 20 圈把油路充满。</li><li><strong>清洗油箱（可选）</strong>：仅在严重污染时做，需给油路放气；拆卡箍、箱盖、O 形圈与油管，取出挡板与隔板，清洗后检查损伤；复装时放油螺塞配新密封圈、25 Nm 并打保险；装错内部件会造成发动机故障或损坏。</li><li><strong>磁塞</strong>：拆下缸 2 与齿轮箱之间的 torx 磁性螺塞检查铁屑，据此判断齿轮箱与发动机内部状态；钢屑量低于 3 mm（0.125 in）可容忍，明显堆积则须检查、修理或翻修；结论不明时冲洗油路、换新滤芯、试车后再查滤芯；油路被污染时更换机油冷却器并冲洗油路、追查原因；无金属屑则清洁复装，25 Nm 并打保险，随后验证各系统功能。</li><li><strong>齿轮箱</strong>：自由转动与摩擦力矩检查只对取证发动机及选装过载离合器的发动机做；无过载离合器者仍有扭振减震、但无自由转动，故不能用摩擦力矩法。做法：用锁销锁住曲轴，桨可手转 15° 或 30°（dog gear 允许的最大行程）；在桨上已知距离 L 处挂标准弹簧秤，量取拉过该行程所需力，摩擦力矩 = 力 × 距离（单位须统一，不可英制公制混用），合格范围 25–60 Nm；超差则按持续适航文件检查、修理或翻修齿轮箱；桨法兰测试不属常规维护，仅在怀疑缺陷或裂纹时做。</li><li><strong>日常检查（21 项，摘要）</strong>：确认点火关断；放燃油箱沉淀槽与水分离器积水；查化油器橡胶插座/法兰裂纹与固定；查浮子室有无水与脏物；查进气消声器与空气滤固定及状态；查散热器固定、损伤与渗漏；查溢流瓶液位与盖的固定；查冷却液软管固定、渗漏与磨蹭；查缸头、缸基、水泵处渗漏；查旋转阀齿轮润滑油油量与油盖；查油管（旋转阀齿轮润滑与机油喷射系统）固定、渗漏与磨蹭；查点火线圈/电子盒固定、点火线与全部电气接线；查起动机固定与端盖裂纹；查发动机-机体安装与裂纹；查燃油泵固定与全部油管接头（滤、手油泵、开关）；查燃油泵脉冲管；查齿轮箱放油塞与油位塞保险；查橡胶联轴节老化损伤（仅 C 型齿轮箱）；手转发动机听异响（先二次确认点火关断）；摇桨检查桨轴轴承间隙；查油门、阻风、机油泵杆软轴（端接头、外套、折弯）。</li><li><strong>航前检查（18 项，摘要）</strong>：确认点火关断；查油量；查冷却液渗漏；查机油箱油量（机油喷射机型）；查火花塞帽固定；查发动机与齿轮箱渗油；查松动/缺失螺母螺栓、齿轮箱与发动机安装；查桨叶裂纹与缺口（有损伤先修/平衡）；查桨安装固定；查油门、机油喷射泵、阻风全程活动；风冷机型转动发动机确认冷却风扇随之转动；查排气裂纹、固定、弹簧与挂钩、弹簧保险；清场后起动；单点火灾机型在怠速下开关点火开关验证；双点火机型验证两套电路；暖车时查全部发动机仪表；尽量目视检查发动机与排气有无异常振动（多为桨不平衡）；起飞滑跑确认能到全功率转速。</li><li><strong>排故</strong>：按"燃油—点火"两条主线有序查——燃油看油箱供应、接头松动、滤堵塞、浮子室污染；点火看火花塞是否跳火。发动机点火关断仍运转：多为过热，怠速约 2,000 rpm 冷却。负荷下敲缸：辛烷值过低（换高辛烷值燃油）或供油不足/混合气过稀（查供油）。</li><li><strong>超限处置</strong>：超过最大允许转速——降转速，并由飞行员把超速持续时间与程度记入履历本；超过最大缸头温度或最大排气温度——把功率降到最低必要值并做预防性着陆，同样记入履历本。</li><li><strong>封存</strong>：长期停放须防热、防直晒、防腐蚀与残渣，尤其注意燃油中酒精结合的水会加剧腐蚀；每次飞行后停车前短暂拉阻风；封堵排气口、通气管、空气滤等所有开口。停 1–4 周：在热机状态提高怠速运行，停车后向每个化油器进气口注入约 3 cm³ 防腐油，再起动以较高怠速运行 10–15 秒后停车，封堵开口。停 4 周以上至 1 年：每个化油器注约 6 cm³，拆火花塞每缸注约 6 cm³ 并手转曲轴 2–3 圈润滑上部，复装并按扭矩拧紧火花塞；排空浮子室、油箱与油管的汽油；液冷机型放冷却液防冻；润滑化油器联动；封堵所有开口；外露钢件喷机油保护。</li><li><strong>Jabiru 专项</strong>：检查前先查油、燃油、排气、进气渗漏并清洁整机与舱；飞轮螺钉 24 ft/lb；空滤取出后逆进气方向吹净，多尘环境缩短周期；压缩测试两种——压缩表法（油温 30–70 °C、节气门全开，低于 6 bar/90 psi 须查活塞、缸、气门、缸头）与压差法（80 psi 进气，压降不超过 25%，80/60 即有问题，须在上止点爆发位置、螺旋桨要固定）；窜气位置判故障：曲轴箱通气管出气=环或缸壁磨损、化油器漏=进气门密封差、排气管漏=排气门密封差、缸头处漏=缸头-缸筒密封差；压缩不良继续使用可致气门失效并殃及活塞、连杆、缸筒与缸头。</li><li><strong>Jabiru 调整</strong>：怠速用 7 mm 怠速止动螺钉对油门杆调整；混合气靠选量孔，改桨或极端环境须装 EGT 表并按限值监控，超限不得擅自改化油器设定，应先咨询厂家或代理；化油器会自动补偿高度；目视检查化油器接头老化与联动全行程、止动位正确与固定。火花塞：热机拆下看电极颜色——浅棕正常、黑绒状积炭为混合气过浓（查阻风、空滤、进气）、油污为燃烧室机油过多（查活塞环与缸壁）；不得用钢丝/黄铜刷、不得喷砂，用塑料刷在溶剂中清洗；间隙 0.55–0.6 mm，装前螺纹涂防咬合剂，冷机按规定扭矩拧紧并接回点火线。排气系统查固定、损伤、磨蹭、渗漏，螺母螺栓复紧或更换。缸头螺栓冷态 20 ft/lb，5 小时与 10 小时后各查一次，此后每年一次。转速表不准会造成"假故障"，须与校准仪表比对，传感器间隙 0.4 mm。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（轻型运动飞机发动机）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> The heavier the light-sport aircraft, the _____ useful load remains for fuel and occupants.</p>
+<p>A) fewer　　B) less　　C) little　　D) least</p>
+<p><strong>2.</strong> The Rotax 912 is an _____-type four-cylinder engine whose two cylinder banks face each other across a single crankshaft.</p>
+<p>A) opposable　　B) opposing　　C) opposite　　D) opposed</p>
+<p><strong>3.</strong> In a premix-lubricated two-stroke engine, the oil is mixed with the fuel _____ a ratio of 1:50, which is two percent.</p>
+<p>A) on　　B) by　　C) in　　D) for</p>
+<p><strong>4.</strong> The stall speed of a light-sport aircraft, measured at maximum weight with no lift-enhancing devices, is designated _____ and may not exceed 45 knots.</p>
+<p>A) VS1　　B) VH　　C) VNE　　D) VY</p>
+<p><strong>5.</strong> Capacitor discharge ignition systems of this type are _____, because they contain no mechanical contact breaker.</p>
+<p>A) breaker　　B) breakerless　　C) breaking　　D) breakable</p>
+<p><strong>6.</strong> In a _____-sump system the oil is stored in a separate tank instead of in the engine crankcase, and it must be pumped back after each run.</p>
+<p>A) wet　　B) splash　　C) mist　　D) dry</p>
+<p><strong>7.</strong> Before the propeller is turned by hand, the ignition must be switched _____ and the ignition system must be grounded.</p>
+<p>A) out　　B) down　　C) off　　D) over</p>
+<p><strong>8.</strong> Neither the Rotax 447 nor the 503 _____ a liquid-cooling system, because both of them are air-cooled.</p>
+<p>A) has　　B) have　　C) having　　D) to have</p>
+<p><strong>9.</strong> The TBO of a light-sport engine is stated in hours or in calendar years, and the engine must be overhauled when _____ limit is reached first.</p>
+<p>A) whatever　　B) whoever　　C) whenever　　D) whichever</p>
+<p><strong>10.</strong> The HKS 700T is a turbocharged engine fitted with an _____ that cools the compressed air before it reaches the cylinders.</p>
+<p>A) intercool　　B) intercooler　　C) intercooling　　D) intercooled</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. B</strong> —— <code>the + 比较级, the + 比较级</code> 结构要求第二个分句用比较级，且 useful load 是不可数名词，用 <code>less</code>。A <code>fewer</code> 只修饰可数名词复数；C <code>little</code> 是原级，破坏句型；D <code>least</code> 是最高级，不参与该结构。考点：<strong>比较级平行结构</strong>。</p>
+<p><strong>2. D</strong> —— <code>opposed-type</code>（对置式）是本章固定说法：两列气缸隔曲轴相对布置。A <code>opposable</code> 意为「（拇指）可对握的」；B <code>opposing</code> 是「相对的、反对的」，多修饰力量或意见；C <code>opposite</code> 是「相反的、对面的」，不用于机型分类。考点：<strong>同词族形容词辨析</strong>。</p>
+<p><strong>3. C</strong> —— <code>in a ratio of 1:50</code>（以 1:50 的比例）是本章混合比的固定搭配。A <code>on</code>、D <code>for</code> 不能与 ratio 搭配；B <code>by</code> 通常接 by weight / by volume 表计量方式，不接 ratio of。考点：<strong>介词固定搭配</strong>。</p>
+<p><strong>4. A</strong> —— 本章符号体系：<code>VS1</code> 是最大取证重量、最临界重心、不用增升装置下的失速速度（≤45 knots）。B <code>VH</code> 是最大平飞速度（≤120 knots）；C <code>VNE</code> 是不可超过速度（滑翔机 ≤120 knots）；D <code>VY</code> 是最佳爬升速度，本章未用。考点：<strong>符号术语辨析</strong>。</p>
+<p><strong>5. B</strong> —— 句意是「没有机械断电器」，需<strong>形容词</strong> <code>breakerless</code>（无断电器式）作表语。A <code>breaker</code> 是名词（断电器）；C <code>breaking</code> 是分词；D <code>breakable</code> 意为「易碎的」，语义完全不对。考点：<strong>-less 构词与词性</strong>。</p>
+<p><strong>6. D</strong> —— <code>dry-sump</code>（干槽）的机油存在独立油箱，由回油泵送回，本章以 Rotax 914 为例。A <code>wet</code> 恰好相反，湿槽机油存在机匣油底；B <code>splash</code> 是飞溅润滑；C <code>mist</code> 是油雾润滑，都不是本章的槽式分类。考点：<strong>近义术语辨析</strong>。</p>
+<p><strong>7. C</strong> —— <code>switch off</code>（关断）是固定短语动词；点火系统必须先关断并搭地，否则 P-lead 未接时点火是「热」的。A <code>switch out</code> 是替换、B <code>switch down</code> 是降挡、D <code>switch over</code> 是切换，都不能表示断电。考点：<strong>短语动词及小品词</strong>。</p>
+<p><strong>8. A</strong> —— <code>neither... nor...</code> 连接主语时谓语与最近的主语（the 503）一致，用<strong>第三人称单数</strong> <code>has</code>。B <code>have</code> 是复数形式；C <code>having</code> 是分词，句子没有谓语；D <code>to have</code> 是动词不定式，同样不能作谓语。考点：<strong>主谓一致（就近原则）</strong>。</p>
+<p><strong>9. D</strong> —— 从两个限期中取「先到的那一个」，需 <code>whichever</code>（无论哪一个）。A <code>whatever</code> 泛指「任何事物」，不强调从给定项中选一；B <code>whoever</code> 只指人；C <code>whenever</code> 是时间副词，不能修饰 limit。考点：<strong>-ever 复合词辨析</strong>。</p>
+<p><strong>10. B</strong> —— <code>an _____</code> 需要<strong>名词</strong>，<code>intercooler</code>（中冷器）冷却涡轮压缩后的进气，是 HKS 700T 的部件。A <code>intercool</code> 是动词；C <code>intercooling</code> 是动名词/过程；D <code>intercooled</code> 是过去分词（被中冷的），都不能指部件本身。考点：<strong>同词族词性辨析</strong>。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ul><li><strong>二冲程的"风冷"与"液冷"</strong>：447/503 是缸头与缸体都风冷（自由空气或风扇）；582 是缸头与缸体都液冷；而 914 是"缸头液冷、缸体冲压风冷"——三种组合不要混为一谈。</li><li><strong>预混润滑 vs 机油喷射</strong>：预混是把机油按 1:50 先混进油箱，化油器吸入的是混合油；机油喷射用独立机油箱，化油器只吸纯汽油，机油由泵按转速与油门杆位置计量后经扩散喷嘴进入——所以用机油喷射的机型要单独查机油箱油位。</li><li><strong>膨胀箱压力盖的两个阀</strong>：超压阀负责受热时排液到溢流瓶，回流阀负责冷却时把液体吸回回路；只把它当"散热器盖"理解就会漏掉回流功能，也解释不了"溢流瓶液位下降"是正常回流还是失液。</li><li><strong>机械同步 vs 气动同步</strong>：机械同步调的是节气门开度几何关系（塞尺、圈数、软轴间隙），气动同步调的是怠速时两缸实际进气流量（流量计/真空表）；顺序不可颠倒，气动修正超 ½ 圈必须回到机械同步重做。</li><li><strong>干槽 vs 湿槽的查油位方式</strong>：914 干槽要把机油泵回独立油箱、看油尺刻线；O-200/Jabiru 湿槽直接看油底壳油尺，且 Jabiru 明确"绝不超过上限"。</li><li><strong>原文缺项提醒</strong>：本章正文只到 11-25，未出现恒温阀（thermostat）、Rotax 912/914 的具体减速比、912 的非增压型系统描述、以及喷油（fuel injection）在 Rotax 上的应用；减速比数值全章只有 HKS 700T 的 2.13:1，不要据其它章节或常识补写。文末 Figure 11-1 的 914 表列只有 914 F 与 914 UL 两种型别，也未给 912 的 TBO。</li></ul>

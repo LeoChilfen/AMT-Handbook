@@ -1,0 +1,234 @@
+<h1 id="ch-15-ice-rain-protection-防冰与防雨">Ch 15 · Ice &amp; Rain Protection（防冰与防雨）</h1>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>讲结冰的成因与危害，以及气动（热气）、电热、化学（TKS）三类防冰、除冰带除冰、地面除冰和风挡防雨防雾的系统构成与维护。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ol><li>飞行中遇到的冰只有两种：clear ice 与 rime ice，二者混合即 mixed icing。clear ice 由大水滴（雨或积状云）形成，水滴残余液体在表面摊开再逐渐冻结成光滑冰片，坚硬、沉重、附着牢固、最难除去；rime ice 由小水滴（层状云、毛毛雨）形成，撞击后来不及摊开就冻结，裹住空气呈白色，重量轻、脆、易除，但外形不规则、表面粗糙，破坏翼型气动效率、减升增阻。</li><li>结冰的两个基本危害是翼型变形导致升力下降，以及额外重量与不均匀结冰导致飞机失衡难以操纵。危害是累积的（effects of icing are cumulative）：阻力增大、推力下降、失速速度升高、爬升率下降。带冰进近必须保持更大空速，重冰着陆距离可能达到正常的两倍。</li><li>设备分两类：anti-icing 在进入结冰条件之前就打开，目的是不让冰形成（保持表面干燥、加热到水滴撞击即蒸发、或只加热到不冻结而保持 running wet）；deicing 是冰已开始积聚后再把它除掉，典型用在机翼与安定面前缘。</li><li>防冰/除冰手段只有四条：热空气加热表面、电加热元件、胀破冰层（多为充气除冰带）、施加化学液。机翼前缘四种都用；安定面前缘用热气、电热与除冰带；空速管/静压孔等气动数据探头只用 thermal electric；螺旋桨前缘与桨毂整流罩用电热加化学。</li><li>大型运输类与公务机的机翼防冰是 thermal pneumatic anti-ice：从发动机压气机引高热 bleed air，经 ejector 送入 piccolo tube 沿前缘分配，ejector 同时吸入外界冲压空气降温并增大流量；前缘由内外两层蒙皮夹一条窄通道构成，热空气只能沿通道从翼尖下表面的排气口排出。左右两侧阀门同时动作，保证两翼加热均匀、结冰条件下气动对称。</li><li>除冰带靠"变形"破冰：充气使带鼓起，冰层开裂后被气流吹走；不工作时用真空把带子紧紧吸在结构上，这样充气时才有足够的形状变化量。所以真空回路和压力回路一样是系统的基本功能，真空丧失本身就是一条故障。</li><li>现代飞机的 WAI 由 ACIPS 计算机卡控制，带一整套抑制（inhibit）逻辑：地面、起飞模式、起飞后计时、TAT、缝翼自动收放、发动机起动、引气温度过低都会让阀门保持关闭；用 BITE 做上电自检与周期性自检。</li><li>地面除冰是法规动作：按 AC 120-60，起飞前机翼、操纵面、螺旋桨、发动机进气口等关键表面不得残留任何冻结污染物。除冰/防冰液按 Type I/II/III/IV 区分，颜色标准化，决定 holdover time（HOT）；HOT 从最后一次喷洒开始计时，到液体失效为止。</li></ol>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">clear ice</td>
+<td style="text-align:left">明冰</td>
+<td style="text-align:left">大水滴摊开后冻结成的光滑硬冰，重而牢固，最难除</td>
+</tr>
+<tr>
+<td style="text-align:left">rime ice</td>
+<td style="text-align:left">雾凇冰 / 霜冰</td>
+<td style="text-align:left">小水滴撞击即冻、裹入空气呈白色，轻、脆、易除但粗糙</td>
+</tr>
+<tr>
+<td style="text-align:left">mixed icing</td>
+<td style="text-align:left">混合结冰</td>
+<td style="text-align:left">水滴大小不一或液态水混有雪、冰粒时形成的冰</td>
+</tr>
+<tr>
+<td style="text-align:left">supercooled water droplet</td>
+<td style="text-align:left">过冷水滴</td>
+<td style="text-align:left">低于冰点仍不结冰的水滴，被飞机表面扰动即冻结</td>
+</tr>
+<tr>
+<td style="text-align:left">anti-icing</td>
+<td style="text-align:left">防冰</td>
+<td style="text-align:left">进入结冰条件前就工作，防止冰形成</td>
+</tr>
+<tr>
+<td style="text-align:left">deicing</td>
+<td style="text-align:left">除冰</td>
+<td style="text-align:left">冰已积聚后将其除去</td>
+</tr>
+<tr>
+<td style="text-align:left">running wet</td>
+<td style="text-align:left">湿流状态</td>
+<td style="text-align:left">表面只加热到不冻结，水在上面流动而不结冰</td>
+</tr>
+<tr>
+<td style="text-align:left">thermal pneumatic anti-ice</td>
+<td style="text-align:left">热气防冰</td>
+<td style="text-align:left">用引气加热前缘内表面，是大型机机翼主用方式</td>
+</tr>
+<tr>
+<td style="text-align:left">thermal electric anti-ice</td>
+<td style="text-align:left">电热防冰</td>
+<td style="text-align:left">电流通过内置导电元件发热，多用于小部件</td>
+</tr>
+<tr>
+<td style="text-align:left">chemical anti-ice</td>
+<td style="text-align:left">化学防冰</td>
+<td style="text-align:left">喷洒防冻液降低冰点，代表为 TKS weeping wing</td>
+</tr>
+<tr>
+<td style="text-align:left">wing anti-ice (WAI/TAI)</td>
+<td style="text-align:left">机翼防冰</td>
+<td style="text-align:left">从压气机引气经阀、管路加热机翼前缘的系统</td>
+</tr>
+<tr>
+<td style="text-align:left">bleed air</td>
+<td style="text-align:left">引气</td>
+<td style="text-align:left">从发动机压气机引出的高温高压空气</td>
+</tr>
+<tr>
+<td style="text-align:left">ejector</td>
+<td style="text-align:left">引射器</td>
+<td style="text-align:left">把引气喷入并吸入外界空气，降温同时增大流量</td>
+</tr>
+<tr>
+<td style="text-align:left">piccolo tube</td>
+<td style="text-align:left">多孔分配管</td>
+<td style="text-align:left">沿前缘展向布置、开孔分配热空气的管</td>
+</tr>
+<tr>
+<td style="text-align:left">airfoil and cowl ice protection system (ACIPS)</td>
+<td style="text-align:left">翼面与整流罩防冰系统</td>
+<td style="text-align:left">控制 WAI 阀与发动机防冰的计算机卡</td>
+</tr>
+<tr>
+<td style="text-align:left">torque motor</td>
+<td style="text-align:left">力矩马达</td>
+<td style="text-align:left">控制 WAI 阀开度，电流越大阀门开得越大</td>
+</tr>
+<tr>
+<td style="text-align:left">inhibit</td>
+<td style="text-align:left">抑制</td>
+<td style="text-align:left">满足特定条件时强制关闭防冰阀的逻辑</td>
+</tr>
+<tr>
+<td style="text-align:left">built-in test equipment (BITE)</td>
+<td style="text-align:left">机内自检设备</td>
+<td style="text-align:left">上电自检与周期自检，故障分状态信息与维护信息</td>
+</tr>
+<tr>
+<td style="text-align:left">TKS weeping wing</td>
+<td style="text-align:left">TKS 渗流翼</td>
+<td style="text-align:left">防冻液从多孔钛板渗出覆盖前缘的化学防冰系统</td>
+</tr>
+<tr>
+<td style="text-align:left">freezing point depressant</td>
+<td style="text-align:left">冰点抑制剂</td>
+<td style="text-align:left">与过冷水混合后降低其冰点的防冻液原理</td>
+</tr>
+<tr>
+<td style="text-align:left">deice boot</td>
+<td style="text-align:left">除冰带</td>
+<td style="text-align:left">贴在机翼/安定面前缘、可充气鼓起的橡胶带</td>
+</tr>
+<tr>
+<td style="text-align:left">distributor valve</td>
+<td style="text-align:left">分配阀</td>
+<td style="text-align:left">按顺序给各组除冰带供压并兼除霜（放气回真空）功能</td>
+</tr>
+<tr>
+<td style="text-align:left">deflate valve</td>
+<td style="text-align:left">放气阀</td>
+<td style="text-align:left">打开时把除冰带接回真空侧使其贴紧结构</td>
+</tr>
+<tr>
+<td style="text-align:left">control valve</td>
+<td style="text-align:left">控制阀</td>
+<td style="text-align:left">电磁阀，不通电时把泵的排气放到机外</td>
+</tr>
+<tr>
+<td style="text-align:left">oil separator</td>
+<td style="text-align:left">油分离器</td>
+<td style="text-align:left">无运动件，把湿式泵排气中的滑油分离回发动机</td>
+</tr>
+<tr>
+<td style="text-align:left">wet/dry-type air pump</td>
+<td style="text-align:left">湿式/干式空气泵</td>
+<td style="text-align:left">湿式靠滑油润滑需油分离器，干式靠碳片自润滑</td>
+</tr>
+<tr>
+<td style="text-align:left">vacuum regulator</td>
+<td style="text-align:left">真空调节器</td>
+<td style="text-align:left">装在吸气侧，维持陀螺仪所需吸力并带进气滤</td>
+</tr>
+<tr>
+<td style="text-align:left">manifold assembly</td>
+<td style="text-align:left">总管组件</td>
+<td style="text-align:left">汇合两台发动机气泵供气并内含单向活门防倒流</td>
+</tr>
+<tr>
+<td style="text-align:left">conductive neoprene</td>
+<td style="text-align:left">导电氯丁橡胶</td>
+<td style="text-align:left">除冰带外层，耐老化并泄放静电防止击穿</td>
+</tr>
+<tr>
+<td style="text-align:left">slip ring</td>
+<td style="text-align:left">滑环</td>
+<td style="text-align:left">装在桨毂隔板上，把电流送到旋转的桨叶除冰带</td>
+</tr>
+<tr>
+<td style="text-align:left">slinger ring</td>
+<td style="text-align:left">甩液环</td>
+<td style="text-align:left">靠离心力把防冻液甩到桨叶根部的环</td>
+</tr>
+<tr>
+<td style="text-align:left">foreign object damage (FOD)</td>
+<td style="text-align:left">外来物损伤</td>
+<td style="text-align:left">脱落冰块被打入发动机造成的损伤</td>
+</tr>
+<tr>
+<td style="text-align:left">holdover time (HOT)</td>
+<td style="text-align:left">保持时间</td>
+<td style="text-align:left">除冰/防冰液最后一次喷洒后仍能防止再结冰的时长</td>
+</tr>
+<tr>
+<td style="text-align:left">critical surfaces</td>
+<td style="text-align:left">关键表面</td>
+<td style="text-align:left">具有气动、操纵、传感、运动或测量功能、必须洁净的表面</td>
+</tr>
+<tr>
+<td style="text-align:left">hydrophobic coating</td>
+<td style="text-align:left">疏水涂层</td>
+<td style="text-align:left">风挡外表面的封孔涂层，使雨滴成珠滚落</td>
+</tr>
+<tr>
+<td style="text-align:left">pneumatic rain removal</td>
+<td style="text-align:left">气动除雨</td>
+<td style="text-align:left">用加热气流吹散雨滴并防冰的除雨方式</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<ul><li>除冰带充气时间：大多数除冰带充气 6 到 8 秒；定时器/控制单元通常取 6 秒（six seconds of inflation is common）。</li><li>涡轮螺旋桨机除冰循环：机翼除冰带充气 6 秒，随后水平安定面除冰带充气 4 秒，完成一个循环。</li><li>手动除冰：手动（DOWN 位）同时充气全部除冰带时，不得让带子保持充气超过 7 到 10 秒，否则鼓起的带子上会再结一层冰而无法除去。</li><li>GA 双发活塞机除冰系统：当系统压力达到 17 psi，放气阀上的压力开关断开除冰控制阀电磁线圈，转入放气。</li><li>除冰带充气压力典型值 15 到 20 psi（typical boot inflation air pressure is between 15 and 20 psi）。</li><li>真空（吸力）正常值 4.5 到 5.5 "Hg，按陀螺仪表的需要设定。</li><li>WAI 温度指示与警告：前缘温度约 +140 °F 时温度开关点亮开关上方工作灯；前缘温度超过约 +212 °F（外侧）或 +350 °F（内侧）时，警告面板上红色 WING OV HT 灯亮。</li><li>WAI 典型系统图上出现的整定值：常闭（NC）调压关断阀 41 psi、3.5 psi 压力开关、350 °F 超温开关、140 °F 工作开关、212 °F 超温开关。</li><li>WAI 自动模式：任一冰探测器探测到冰即开阀；冰探测器不再探测到冰后延迟 3 分钟关阀，以避免间歇结冰时频繁通断。</li><li>WAI 抑制条件（全部满足即抑制）：选 auto、选起飞模式、空中时间不足 10 分钟。</li><li>WAI 抑制条件（auto 或 on 时任一满足即抑制）：飞机在地面（已起动或周期性 BITE 测试期间除外）；TAT 高于 50 °F（10 °C）且起飞后不足 5 分钟；自动缝翼工作；气动液压泵工作；发动机起动；引气温度低于 200 °F（93 °C）。</li><li>WAI BITE 周期自检条件：飞机在地面 1 到 5 分钟之间、WAI 选择器在 auto 或 on、气动液压泵不在间歇工作、引气压力足以开阀、距上次周期自检超过 24 小时。</li><li>WAI 显示参数单位：WING MANIFOLD PRESS 与 AIR PRESS 为 PSIG，AIR FLOW 为磅/分钟（pounds per minute）。</li><li>TKS 渗流翼多孔板：钛板激光打孔，每平方英寸 800 个以上、孔径 .0025 英寸的小孔；储液量可支持 1 到 2 小时工作。</li><li>空速管电热：要在地面零下约 −50 °F、速度可能超过 500 英里/小时的高空不结冰，地面通电检查时管子极烫，应改用电流表或负载表判断。</li><li>风挡认证：层合风挡必须能承受巡航速度下 4 磅重的鸟撞。</li><li>螺旋桨电热除冰时序（某一机型）：右桨外侧元件 30 秒、右桨内侧元件 30 秒、左桨外侧元件 30 秒、左桨内侧元件 30 秒，然后循环。该机型螺旋桨电流表量程 14 到 18 A。</li><li>水/废水管路加热控制点：温度高于 60 °F（15 °C）加热器关闭，低于 45 °F（7 °C）加热器开启，由 115 V 交流地面服务汇流条供电。</li><li>除霜液（frost remover）应在飞行前 2 小时内施用。</li><li>除冰液颜色标准：纯 glycol 无色，Type-I 为橙色，Type-II 为白色/淡黄色，Type-IV 为绿色，Type-III 的颜色尚未确定。</li><li>Type IV 保持时间表（示例）：霜（frost）条件下纯液 100/0 为 18:00，稀释液为 6:00；表中的保持时间在重降水、高风速或喷气尾流、以及蒙皮温度低于 OAT 时都会缩短。</li><li>SAE Type IV 可在低于 −25 °C（−13 °F）时使用，条件是液体冰点至少比 OAT 低 7 °C（13 °F）且满足气动验收标准；否则应考虑改用 SAE Type I。</li><li>除冰带系统故障诊断可用 343 Test Kit 定位大部分故障。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<ul><li>Ice Control Systems（结冰与防冰总论）</li><li>结冰类型：clear ice、rime ice、mixed icing</li><li>危害：翼型变形减升、重量与不均匀结冰致失衡</li><li>设备分类：anti-icing（预防）／deicing（除去）</li><li>Ice Detector System：前机身一个或多个探测器 + 警告灯，部分机型自动接通 WAI</li><li>Wing &amp; Stabilizer Anti-Icing（机翼与安定面防冰）</li><li>Thermal pneumatic anti-ice</li><li>热源：压气机引气、发动机排气热交换器、燃烧加热器加热的冲压空气</li><li>WAI 系统：调压关断阀 → 管路/总管 → ejector → piccolo tube → 前缘夹层通道 → 翼尖下表面排气</li><li>前缘结构：contour-etched outer skin + inner skin 夹窄通道，leading edge diaphragm 分隔</li><li>管路件：铝合金/钛/不锈钢/模压玻璃纤维管，法兰或 V 型卡箍连接，玻纤隔热包覆，不锈钢膨胀波纹管，密封环嵌入环形槽</li><li>Leading edge slat anti-ice</li><li>WAI valve（电控气动、力矩马达）→ WAI duct（穿孔段）→ slat 内腔 → slat 下表面孔排出</li><li>伸缩式 "T" 形导管：缝翼收起、运动中、全放出都能送热风</li><li>WAI pressure sensor 提供管路压力反馈</li><li>WAI 控制：ACIPS 计算机卡（同时控制左右阀）、P5 选择器（auto/on/off）、抑制逻辑、BITE、维护页显示</li><li>Thermal electric anti-ice：探头、水/废水管路、部分涡桨进气道整流罩、风挡</li><li>Chemical anti-ice：TKS weeping wing（多孔钛板 + 储液箱 + 泵 + 分配器）、风挡、螺旋桨</li><li>Wing &amp; Stabilizer Deicing（机翼与安定面除冰）</li><li>气源：活塞机用发动机附件机匣驱动的气泵（吸气侧供陀螺、压力侧供除冰带）；涡桨/涡扇用压气机引气</li><li>气泵：wet-type（四叶片容积泵，需油分离器）／dry-type（碳片自润滑，不需油分离器）</li><li>部件链：inlet filter → 泵 → 油分离器（湿式）→ 压力调节器 → 控制阀/分配阀 → 除冰带；真空侧：除冰带 → 放气阀 → 真空调节器 → 泵吸气侧</li><li>组成件：control valve、deflate valve、distributor valve、timer/control unit、pressure &amp; vacuum regulator、relief valve、manifold assembly、check valve</li><li>组合件：combination unit（总关断阀 + 调压器 + 二级滤）；分配阀兼放气阀功能</li><li>除冰带本体：橡胶或夹布橡胶，内充气管格，外层导电氯丁橡胶，尾缘削薄，胶粘安装，柔性软管接压力/真空</li><li>Electric deice boots：电热元件粘在前缘，deice controller 内顺序定时器，成对分区通断</li><li>Propeller Deice System：电热（滑环 + 电刷 + 桨叶加热带，定时器顺序加热，可手动旁通）／化学（计量泵 + 微滤 + 甩液环）</li><li>Ground Deicing：除霜液、除冰液 Type I/II/III/IV、HOT、关键表面禁喷区、冰雪清除与除冰后检查</li><li>Rain Control Systems：windshield wiper、chemical rain repellent、pneumatic rain removal（喷气吹除/热风）、hydrophobic surface seal coating</li><li>Windshield Frost, Fog, &amp; Ice Control：electric（层合玻璃内加热元件 + 变压器 + 热敏电阻 + 控制单元，NORMAL/HIGH 两档）、pneumatic（层间热风或内表面吹风）、chemical（喷嘴喷液）</li><li>Water &amp; Waste Tank Ice Prevention：heater blanket、inline heater、heater boot、drain mast heater、恒温器 + 控制单元</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<ul><li>除冰带系统维护按机型而定，一律遵循机体或部件制造商说明；通常包含操作检查、调整、排故与检查四项。</li><li>操作检查可用发动机运转或外接气源；多数系统设有 test plug，可不启动发动机在地面检查。用外接气源时，气压不得超过该系统规定的试验压力。</li><li>开系统之前先看真空驱动的陀螺仪表：若指针开始动，说明一个或多个单向活门未关闭、气流经仪表倒流，必须先排除故障再继续测试。</li><li>开系统后检查吸力表与压力表读数：压力表随除冰带充放气而波动属正常，真空表应保持相对稳定读数（并非所有系统都装真空表）。</li><li>由机外观察员核对充气顺序是否与维修手册一致，并连续观察若干完整循环核对循环时间；充气必须迅速才有效，观察中的带子必须在下一循环充气前完全放气。</li><li>可调整项目：除冰系统操纵钢索连杆、压力释放阀、真空（吸力）释放阀。调压力释放阀时运转发动机，调阀门上的螺钉直到压力表指示规定的释放压力；调真空释放阀时由助手在看表的同时拧调整螺钉，直到达到系统规定的吸力。</li><li>常见故障与原因（图 15-33 排故表）：除冰带不充气（断路器断开、放气阀故障、电磁阀电压不对/通气孔堵塞/柱塞卡滞）；充气慢（膜片未贴合、膜片铆钉底部通气孔堵塞、密封面脏、膜片破裂、两个除冰控制阀或两级调压器故障、单向活门故障、继电器失效、带子或管路漏气、管路堵塞或断开、气泵容量不足）；系统不循环（控制阀工作不良、放气阀未全关、放气阀内球式单向活门失效、漏气、压力未达到压力开关动作值）；放气慢（漏气、放气阀压力开关失效、真空不足、放气阀故障）；无真空保持（放气阀或除冰阀故障、漏气、真空源失效、穿过增压舱的管路松动脱开）；爬升时除冰带看似鼓起（真空保持源失效、管路问题）。</li><li>日常与定期检查：每次飞行前及计划检查中查除冰带切口、撕裂、老化、穿孔与固定情况；定期检查中进一步查除冰部件与管路的裂纹。发现橡胶气候龟裂时涂一层导电胶，既封护又泄放静电，避免电弧击穿带子打到金属蒙皮。</li><li>除冰带使用五条守则：不要把加油软管拖过除冰带；保持不带汽油、滑油、油脂、脏物等有害物；不在带上放工具或靠维修设备；发现磨损或老化立即修补或重新涂覆；存放时用纸或帆布包裹。</li><li>清洁与修补：清洗通常与洗飞机同时进行，用温和皂液；油脂用 naptha 之类清洗剂再用皂液刷洗。当磨损已使表面导电性破坏时需重新涂覆，涂覆料为黑色导电氯丁胶，涂前彻底清洁并打磨粗化。冷补修补前必须先释放除冰带的安装张力，修补区清洁并打磨，用胶粘贴，全程按制造商说明。</li><li>湿式气泵安装时务必保证垫片、泵体、安装法兰上的油道对齐，否则泵得不到润滑。干式泵要防止滑油、油脂、清洗剂进入泵或空气系统。</li><li>油分离器无运动件，唯一维护是用规定溶剂冲洗内部，间隔按维修手册；有些系统加装二级分离器。</li><li>真空调节器内含吸入空气的滤芯，必须按制造商说明更换或保持清洁；进气滤芯同样要定期维护。</li><li>WAI 管路安装时确保密封环均匀贴合、被相邻接头法兰压紧；按规定压力做压力试验，给定压力下的泄漏率不得超过维修手册规定。漏气常可听出，或由隔热包覆上的孔洞暴露；难定位时用皂液。所有管路查固定、外观与变形；隔热包覆必须固定良好且不得沾有滑油、液压油等易燃液体。</li><li>WAI 故障逻辑：任一压力传感器失效时，ACIPS 卡把对应 WAI 阀置于全开或全关；任一阀门关不上（failed closed）时，计算机卡保持另一阀门也关闭。</li><li>风挡雨刷维护：更换部件或怀疑工作不良时做操作检查，检查时刷扫区域不得有异物并保持喷水润湿；调整包括刷片压力、刷扫角度与停位。</li><li>防雨剂只能在很湿的条件下使用，不得在干燥风挡上使用（浓缩防雨剂会严重妨碍视线）；万一误用，不要再开雨刷或除雨系统，否则加重涂抹；干天或小雨施用留下的残渣会造成蒙皮污渍或轻微腐蚀，应尽早用大量清水冲掉。防雨膜会随雨滴冲蚀逐渐失效，需定期重涂。</li><li>除冰后必须检查飞机适于飞行：所有外表面查残留雪冰，特别是操纵面缝隙与铰链附近；查排水口与压力感应口是否堵塞；查凸出物与通气口有无损伤；活动操纵面确认全行程自由；查起落架机构、舱门与轮舱、机轮刹车有无积雪积冰，并检查上位锁与微动开关工作。</li><li>地面除冰关键表面禁喷要求：不得直接喷到线束与电气部件（插座、接线盒）、刹车、机轮、排气与反推；不得喷入空速管、静压孔、迎角传感器/气流方向探测器的孔口；尽量减少液体进入发动机、其他进排气口与操纵面腔体；不得喷到驾驶舱与客舱窗（会使亚克力产生银纹或渗入密封）；可能被吹回风挡的前方区域起飞前必须无残留；用 Type II/III/IV 时驾驶舱窗上的所有痕迹都要清除，装雨刷的窗尤其注意；起落架与轮舱不得积存雪泥、冰或吹入的雪；人工除雪时从机翼与安定面先前缘方向推、从副翼与升降舵后缘方向推，防止雪进入辅助进气口或操纵面铰链区。</li><li>冰雪清除手法：略高于冰点的深厚湿雪最难处理，用软刷或刮水器，注意别伤到被雪盖住的天线（antenna）、通气口、失速警告装置、涡流发生器（vortex generator）；零下干雪尽量吹除，不推荐用热风（会融化后再冻）；中度或重度冰与残雪用除冰液，严禁用暴力破冰。</li><li>涡喷发动机进气口进雪结冰卡住压气机时，用手转不动就用热风通入发动机直到转动部件自由。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（防冰与防雨）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> The two forms of ice met in flight are clear ice and rime ice; a combination of the two is called _____ icing.</p>
+<p>A) mixing　　B) mixed　　C) mixer　　D) mix</p>
+<p><strong>2.</strong> Anti-icing equipment is switched on before icing conditions are entered, so that ice is prevented _____ forming on the protected surface.</p>
+<p>A) from　　B) of　　C) to　　D) against</p>
+<p><strong>3.</strong> When a surface is heated just enough to keep the water flowing instead of freezing, it is said to be _____.</p>
+<p>A) running dry　　B) run wet　　C) running wet　　D) wet running</p>
+<p><strong>4.</strong> The deice boots must be inflated _____ if the ice is to be cracked before it becomes too thick.</p>
+<p>A) rapid　　B) rapidity　　C) rapidness　　D) rapidly</p>
+<p><strong>5.</strong> The gap between the outer and inner skins forms a narrow _____ along which the hot air travels from the leading edge.</p>
+<p>A) pass　　B) passage　　C) passing　　D) passed</p>
+<p><strong>6.</strong> The vacuum regulator holds suction within the 4.5 to 5.5 inches of mercury range, which is the normal operating value _____ the gyroscopic instruments.</p>
+<p>A) for　　B) to　　C) of　　D) at</p>
+<p><strong>7.</strong> The length of time a deicing fluid keeps protecting the aircraft after its final application is called the _____.</p>
+<p>A) hold time　　B) holding time　　C) holdover time　　D) hold-back time</p>
+<p><strong>8.</strong> If any frozen contamination is found on a critical surface, the aircraft must be _____ before takeoff.</p>
+<p>A) deice　　B) deicing　　C) deicer　　D) deiced</p>
+<p><strong>9.</strong> The greater the current applied to the torque motor, the _____ the wing anti-ice valve opens.</p>
+<p>A) wide　　B) wider　　C) widest　　D) widely</p>
+<p><strong>10.</strong> In manual mode the boots must not stay inflated for more than 7 to 10 seconds, or a second layer of ice will build up on the _____ boot.</p>
+<p>A) inflated　　B) inflating　　C) inflate　　D) inflation</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. B</strong> —— 修饰 <code>icing</code> 需要形容词，<code>mixed icing</code>（混合结冰）是本章术语。A <code>mixing</code> 是动名词（表主动进行）、C <code>mixer</code> 指搅拌器/混合器、D <code>mix</code> 是动词原形，都不能作前置定语表示「混合而成的」。考点：<strong>过去分词作定语</strong>。</p>
+<p><strong>2. A</strong> —— <code>prevent ... from doing</code> 是固定搭配，被动式 <code>is prevented from forming</code> 同样保留 <code>from</code>。B <code>of</code>、C <code>to</code>、D <code>against</code> 都不能与 <code>prevent</code> 构成该结构（<code>protect from</code> 才可与 <code>prevent</code> 互换，但 <code>prevent against</code> 不合语法）。考点：<strong>动词 + 介词固定搭配</strong>。</p>
+<p><strong>3. C</strong> —— <code>running wet</code> 是本章术语，指表面只加热到不冻结、水在上面流动的状态，<code>be running wet</code> 中现在分词短语作表语。A <code>running dry</code>（干转）语义相反、B <code>run wet</code> 词序/形态不合、D <code>wet running</code> 语序不成立。考点：<strong>术语的固定形式</strong>。</p>
+<p><strong>4. D</strong> —— 修饰动词 <code>inflated</code> 必须用副词 <code>rapidly</code>。A <code>rapid</code> 是形容词、B <code>rapidity</code>、C <code>rapidness</code> 都是名词，不能作状语。考点：<strong>副词修饰动词</strong>。</p>
+<p><strong>5. B</strong> —— 空格前有 <code>a narrow</code>，需要可数名词，<code>passage</code>（通道）指蒙皮之间的夹层通道。A <code>pass</code> 作名词指通行证/山口、C <code>passing</code> 是动名词（表动作）、D <code>passed</code> 是过去分词，都不能指这条实体通道。考点：<strong>同词族名词的词义甄别</strong>。</p>
+<p><strong>6. A</strong> —— <code>the normal operating value for the gyroscopic instruments</code>（陀螺仪的正常工作值），<code>for</code> 引出适用对象。B <code>to</code> 表方向、C <code>of</code> 表所属、D <code>at</code> 表具体数值点，都不如 <code>for</code> 贴切。考点：<strong>介词的选择与语义</strong>。</p>
+<p><strong>7. C</strong> —— <code>holdover time</code>（HOT）是地面除冰的法定术语，指最后一次喷洒后液体仍能防止再结冰的时长。A <code>hold time</code>、B <code>holding time</code>、D <code>hold-back time</code> 都是形近但非标准的搭配，本章与 AC 120-60 只用 <code>holdover time</code>。考点：<strong>形近术语的精确形式</strong>。</p>
+<p><strong>8. D</strong> —— <code>must be _____</code> 是被动结构，需过去分词 <code>deiced</code>（必须被除冰）。A 是原形、B 是现在分词、C <code>deicer</code> 是名词（除冰设备/除冰液），均不能构成被动。考点：<strong>情态动词 + be + 过去分词</strong>。</p>
+<p><strong>9. B</strong> —— <code>the + 比较级 ..., the + 比较级 ...</code> 句式要求两边都用比较级，故 <code>the wider the valve opens</code>。A <code>wide</code> 是原级、C <code>widest</code> 是最高级（不用于该句式）、D <code>widely</code> 是副词，不能修饰 <code>opens</code> 表示开度。考点：<strong>the more ... the more 比较句式</strong>。</p>
+<p><strong>10. A</strong> —— 修饰 <code>boot</code> 需要表示「已鼓起的」的过去分词 <code>inflated</code>。B <code>inflating</code> 表主动进行（正在充气），此处冰是结在已经鼓起的状态上；C <code>inflate</code> 是动词原形、D <code>inflation</code> 是名词，都不能作定语。考点：<strong>现在分词与过去分词作定语的区别</strong>。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ol><li>anti-icing 与 deicing：前者是"不让冰形成"，进入结冰条件前就打开；后者是"冰已形成再除掉"。同一套硬件可以两种都用（如 TKS 以 anti-ice 为设计目的，也具备 deicing 能力）。</li><li>clear ice 与 rime ice：clear ice 大水滴、光滑、硬重、牢固、难除；rime ice 小水滴、白色、轻脆、易除但表面粗糙、对气动效率影响大。别把"重量"当成 rime ice 的主要危害。</li><li>control valve 与 distributor valve：控制阀只负责把泵的空气放进系统、不用时排到机外；分配阀把放气阀功能做在里面，按定时器顺序把各组除冰带从压力侧切到真空侧，还能把多余空气排掉。</li><li>wet-type 与 dry-type 空气泵：湿式用发动机滑油润滑、必须配油分离器，大修间隔更长；干式靠碳片自润滑、排气无油、不需油分离器，但严禁油、脂、清洗剂进入。</li><li>pneumatic deice boot 与 electric deice boot：前者靠充气变形把冰胀裂、靠真空贴回；后者靠电热元件把冰融化，由 deice controller 内顺序定时器成对分区通断以避免气动失衡，且地面不工作、可节省引气。</li><li>化学防雨剂与疏水涂层：防雨剂是由按钮/开关定量喷一次、会逐渐失效需重涂的化学液；疏水涂层是风挡外表面的封孔涂层（多数新机出厂即处理），使雨滴成珠滚落、减少对雨刷的依赖。</li><li>气动防雨与气动防冰：同一套风挡热风吹除系统既把雨滴吹散，也加热风挡防止水分冻结，但它不等于电加热防冰；老式层间热风的风挡系统不批准进入已知结冰条件，不能当防冰用。</li></ol>

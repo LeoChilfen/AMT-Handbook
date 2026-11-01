@@ -1,6 +1,6 @@
 # AMT Handbook 中文笔记总索引
 
-每章一份笔记，按 `NOTES-STYLE.md` 的 8 个小节写。点开对应文件看全文。
+每章一份笔记，按 8 个小节写；第 7 节是 **TECC 式英语完形填空**（10 题 + 答案中文解析）。点开文件看全文，或看带目录的在线站点：<https://leochilfen.github.io/AMT-Handbook/>。
 
 ## General 通用（15 份）
 

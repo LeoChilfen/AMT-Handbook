@@ -1,0 +1,244 @@
+<h1 id="ch-10-engine-maintenance-operation-发动机维护与运行">Ch 10 · Engine Maintenance &amp; Operation（发动机维护与运行）</h1>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>讲往复式与燃气涡轮发动机从进厂大修、分解检查、尺寸修配、装配试车，到外场起动运行、功率校验与故障诊断的全过程。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ol><li>大修按 TBO（time before overhaul）到期执行，整机分解后走固定流程：receiving inspection → disassembly → visual/structural/NDT/dimensional inspection → repair &amp; replacement → reassembly → testing &amp; break-in。top overhaul 只做曲轴箱以上缸组，原文直言其名称"misleading"，性质是修理而非大修。</li><li>判废的依据是厂家 table of limits：分 serviceable limits 与新品最大/最小尺寸；检查分目视、结构、尺寸三类，NDT 含磁粉、渗透、涡流、超声、X 射线。目视要在清洗前做，凹腔里残留的金属屑是故障线索。</li><li>往复式的修理重心在气缸—活塞—气门组：磨气门座与气门、研阀查漏、磨缸/珩磨、控制锥度与失圆、按 oversize 配活塞环。</li><li>装配强调清洁、按序摆放、预润滑、按手册扭矩与保险；试车（run-in）兼有活塞环磨合与轴承 burnishing 两个目的，试车中任何零件失效都要整机返修并全部重试。</li><li>外场用 MAP、rpm/扭矩、EGT、CHT、滑油与燃油压力判断功率与健康；磁电机检查、功率检查、怠速混合比检查、压差式压缩试验、冷缸检查是标准手段。</li><li>涡轮发动机分 cold section（压气机）与 hot section（燃烧室+涡轮）检查；热段最常见缺陷是裂纹，判据只能查厂家手册；涡轮叶片按 moment-weight 成对装配。</li><li>故障诊断靠仪表读数与同型机、本机历史数据对比：EPR、EGT、rpm、燃油流量、振动、滑油温度的组合能定位压气机、涡轮、附件或仪表问题。</li><li>本章未涉及 trend monitoring、EGT margin 的趋势管理、oil analysis（滑油光谱分析）与发动机存储/油封程序；防腐只讲到修后涂 preservative oil 与试车前用 CPM 处理。</li></ol>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">TBO (time before overhaul)</td>
+<td style="text-align:left">大修间隔</td>
+<td style="text-align:left">累计工作到规定小时数即须大修</td>
+</tr>
+<tr>
+<td style="text-align:left">major overhaul</td>
+<td style="text-align:left">大修</td>
+<td style="text-align:left">整机分解、检查、修换，恢复大修时限</td>
+</tr>
+<tr>
+<td style="text-align:left">top overhaul</td>
+<td style="text-align:left">上部大修（缸组修理）</td>
+<td style="text-align:left">只拆曲轴箱以上缸组，不是真正大修</td>
+</tr>
+<tr>
+<td style="text-align:left">repair</td>
+<td style="text-align:left">修理</td>
+<td style="text-align:left">排除具体故障，不等于恢复大修时限</td>
+</tr>
+<tr>
+<td style="text-align:left">serviceable limits</td>
+<td style="text-align:left">可用极限</td>
+<td style="text-align:left">手册允许继续使用的尺寸/间隙界限</td>
+</tr>
+<tr>
+<td style="text-align:left">table of limits</td>
+<td style="text-align:left">极限表</td>
+<td style="text-align:left">汇总新件尺寸与磨损极限的厂家表格</td>
+</tr>
+<tr>
+<td style="text-align:left">taper</td>
+<td style="text-align:left">锥度</td>
+<td style="text-align:left">缸筒上、下直径之差</td>
+</tr>
+<tr>
+<td style="text-align:left">out-of-roundness</td>
+<td style="text-align:left">失圆度</td>
+<td style="text-align:left">同一截面最大与最小直径之差</td>
+</tr>
+<tr>
+<td style="text-align:left">step / ridge</td>
+<td style="text-align:left">台阶 / 缸肩</td>
+<td style="text-align:left">活塞环行程顶端磨出的凸台</td>
+</tr>
+<tr>
+<td style="text-align:left">runout</td>
+<td style="text-align:left">跳动</td>
+<td style="text-align:left">旋转件被测面对基准的偏摆</td>
+</tr>
+<tr>
+<td style="text-align:left">clearance / tolerance</td>
+<td style="text-align:left">间隙 / 公差</td>
+<td style="text-align:left">配合间隙与允许的制造偏差</td>
+</tr>
+<tr>
+<td style="text-align:left">pre-lubrication</td>
+<td style="text-align:left">预润滑</td>
+<td style="text-align:left">装配前给摩擦面涂规定的滑油</td>
+</tr>
+<tr>
+<td style="text-align:left">run-in</td>
+<td style="text-align:left">磨合试车</td>
+<td style="text-align:left">新机或大修机在台架上的受控运转</td>
+</tr>
+<tr>
+<td style="text-align:left">test cell / test stand</td>
+<td style="text-align:left">试车台</td>
+<td style="text-align:left">带测功与全套仪表的地面试车设施</td>
+</tr>
+<tr>
+<td style="text-align:left">EGT</td>
+<td style="text-align:left">排气温度</td>
+<td style="text-align:left">代表涡轮前温度，寿命与推力的核心限制</td>
+</tr>
+<tr>
+<td style="text-align:left">CHT</td>
+<td style="text-align:left">缸头温度</td>
+<td style="text-align:left">往复式热状态与混合比判据</td>
+</tr>
+<tr>
+<td style="text-align:left">MAP</td>
+<td style="text-align:left">进气歧管压力</td>
+<td style="text-align:left">绝对压力（"Hg），表示功率输入</td>
+</tr>
+<tr>
+<td style="text-align:left">CAT</td>
+<td style="text-align:left">化油器进气温度</td>
+<td style="text-align:left">判断结冰与爆震风险</td>
+</tr>
+<tr>
+<td style="text-align:left">EPR</td>
+<td style="text-align:left">发动机压比</td>
+<td style="text-align:left">Pt7/Pt2，涡扇设定起飞推力的参数</td>
+</tr>
+<tr>
+<td style="text-align:left">torquemeter</td>
+<td style="text-align:left">扭矩表</td>
+<td style="text-align:left">测涡桨输出轴扭矩，折算马力</td>
+</tr>
+<tr>
+<td style="text-align:left">FADEC</td>
+<td style="text-align:left">全权限数字电子控制</td>
+<td style="text-align:left">计算机控制燃油计量与推力</td>
+</tr>
+<tr>
+<td style="text-align:left">jetcal analyzer</td>
+<td style="text-align:left">喷气发动机分析仪</td>
+<td style="text-align:left">校验 EGT、转速系统的便携测试设备</td>
+</tr>
+<tr>
+<td style="text-align:left">FOD</td>
+<td style="text-align:left">外来物损伤</td>
+<td style="text-align:left">吸入工具、石子等造成的叶片损伤</td>
+</tr>
+<tr>
+<td style="text-align:left">cold / hot section</td>
+<td style="text-align:left">冷段 / 热段</td>
+<td style="text-align:left">压气机段与燃烧室+涡轮段</td>
+</tr>
+<tr>
+<td style="text-align:left">stress rupture</td>
+<td style="text-align:left">应力断裂（蠕变裂纹）</td>
+<td style="text-align:left">涡轮叶片前/后缘的细发丝裂纹</td>
+</tr>
+<tr>
+<td style="text-align:left">moment-weight</td>
+<td style="text-align:left">力矩重量</td>
+<td style="text-align:left">叶片按重量矩配对排序装机</td>
+</tr>
+<tr>
+<td style="text-align:left">hydraulic lock</td>
+<td style="text-align:left">液锁</td>
+<td style="text-align:left">液体进入气缸，活塞不可压缩致连杆损伤</td>
+</tr>
+<tr>
+<td style="text-align:left">detonation</td>
+<td style="text-align:left">爆震</td>
+<td style="text-align:left">末端混合气自燃，压力突升</td>
+</tr>
+<tr>
+<td style="text-align:left">pre-ignition</td>
+<td style="text-align:left">早燃</td>
+<td style="text-align:left">火花之前由热点提前点燃</td>
+</tr>
+<tr>
+<td style="text-align:left">backfiring / afterfiring</td>
+<td style="text-align:left">回火 / 排气回火</td>
+<td style="text-align:left">进气道内 / 排气系统内燃烧</td>
+</tr>
+<tr>
+<td style="text-align:left">differential compression test</td>
+<td style="text-align:left">压差式压缩试验</td>
+<td style="text-align:left">定压供气经固定节流孔，读缸内压力判漏</td>
+</tr>
+<tr>
+<td style="text-align:left">cold cylinder check</td>
+<td style="text-align:left">冷缸检查</td>
+<td style="text-align:left">停车后逐缸测温，找不工作的缸</td>
+</tr>
+<tr>
+<td style="text-align:left">hot start / hung start</td>
+<td style="text-align:left">热起动 / 悬挂起动</td>
+<td style="text-align:left">EGT 超限的起动 / 点火后不增速到慢车</td>
+</tr>
+<tr>
+<td style="text-align:left">trim</td>
+<td style="text-align:left">调准</td>
+<td style="text-align:left">用 EPR 或扭矩把发动机调到规定推力</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<p><strong>大修与尺寸</strong></p>
+<ul><li>TBO 按小时计。例：总寿命 2,000 h、已运行 500 h，则 TBO = 1,500 h。</li><li>气缸头 stud 长度公差 ±1/32 inch（0.03125 inch）。</li><li>气阀面与阀杆同轴度须在 0.0015 inch 内；气阀座对导管的 runout 不得超过 0.002 inch。</li><li>磨座油石转速约 8,000–10,000 rpm，压力不超过磨枪自重；磨气阀时阀面距卡盘约 2 inches。</li><li>气阀 interference fit 角比标准角小 0.5° 或 1.5°，只磨阀不磨座，须厂家批准。</li><li>研合接触带应为阀面宽度的 one-third to two-thirds，且位于阀面中部。</li><li>气阀 margin 过薄称 feather edge，是 pre-ignition 与再次大修的诱因。</li><li>各活塞重量差须在 1/4 ounce 内，新活塞与被换件同重。</li><li>缸筒标准 oversize：0.010、0.015、0.020、0.030 inch。例：标准缸径 3.875 inches，磨 0.015 oversize 后为 3.890 inch；磨削公差常取 ±0.0005 inch。</li><li>珩磨余量通常 0.001 inch（先磨到 3.889，再珩到 3.890）。</li><li>缸壁粗糙度：多数机型 15–20 micro-inch RMS，低功率机 20–30，个别要 4–6 的 superfinish。</li><li>镁件 dichromate 处理：至少 45 分钟，3/4 pound 重铬酸钠对 1 gallon 水，180–200 °F。</li><li>涂装可空气干燥，或 82 °C（180 °F）烘 1/2 小时。</li><li>试车前防腐蚀：CPM 与滑油混合液维持 105–121 °C。</li></ul>
+<p><strong>往复式运行与检查</strong></p>
+<ul><li>暖机最佳 1,000–1,600 rpm；起动后 30 秒内应指示滑油压力，1 分钟内未达正常即停车。</li><li>磁电机安全性检查约 1,000 rpm；单磁电机运转扭矩损失不得大于 10%，单点火系统运转 1 分钟不算过长。</li><li>功率检查：同型机、同桨、同气压温度下，同转速所需 MAP 相差不超过 1 "Hg。</li><li>怠速混合比：idle cutoff 后转速上升 10–20 rpm 为合适，厂家上限常为 20 rpm。</li><li>进气压力表：green arc 35–44 "Hg，red line 49 "Hg。</li><li>滑油压力：red line 25 psi 为飞行最小，green 60–85 psi，red line 100 psi 为最大。</li><li>滑油温度：25 °F 至低于 245 °F 为连续运转 desired 区间，red mark 245 °F 为最大。</li><li>燃油压力（示例表 0–10）：red line 2 psi 最小，green 2–9 psi，red line 9 psi 最大；喷射系统最低约 10 psi、最高一般 25 psi。</li><li>CAT：yellow arc −10 °C 至 +15 °C，green +15 °C 至 +40 °C，red line 40 °C。</li><li>CHT：blue arc 下端 100 °C 为最经济运转最低温度，上端 230 °C 须转 auto-rich；green arc 上端 248 °C 为最大连续功率（超过限时通常 5–15 分钟）；red line 260 °C。</li><li>压差式压缩试验：气源 100–150 psi，调压至 80 psi，开阀后缸内维持 15–20 psi。</li><li>冷缸检查在 1,200–1,600 rpm 下稳定 CHT。</li><li>气门重叠示例：MAP 35 "Hg、排气背压 29 "Hg，压差 6 "Hg（3 psi）；MAP 20 "Hg 时反向压差 9 "Hg（4.5 psi）。open stack 机怠速混合比须加富 20–30%。</li><li>正常燃烧火焰传播速度约 100 feet/second。</li></ul>
+<p><strong>涡轮</strong></p>
+<ul><li>离心压气机 critical band 为距外缘 1 1/2–2 1/2 inches。</li><li>一级涡轮叶片 stress rupture 裂纹可见长度可自 one-sixteenth inch 起。</li><li>叶尖卷曲可接受区：前缘尖部 1/2 inch 见方内；后缘修整须保留至少 one-third 焊缝。</li><li>涡轮叶片常为 54 片成套、两片同码成对；最重对编号 1 与 28，次重 2 与 29，依次类推；换一片须换其直径相对位置那片。</li><li>涡桨仅 10–15% 推力来自喷流，故不用 EPR，用 torquemeter。</li><li>起动约 10 秒（各型不同）未点着即须断油。</li><li>高功率长时间运转后，停车前应怠速冷却 5 分钟；油位检查须在停车后 30 分钟内完成。</li><li>jetcal：加热探头 500–700 °C 做连续性检查；探头不得超过 900 °C（1,652 °F）；转速检查精度 ±0.1%；绝缘检查可读 0–550,000 Ω。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<ul><li>大修流程（原文十步）</li><li>receiving inspection（接收检查）→ disassembly（分解）→ visual inspection → cleaning → structural inspection → NDT inspection → dimensional inspection → repair and replacement → reassembly → testing and break-in</li><li>往复式发动机</li><li>曲轴箱、曲轴（含空心曲柄销内的 sludge chamber）、连杆、活塞与环、气缸筒与缸头</li><li>气门组：气门、气门座、气门导管、气门弹簧、摇臂与摇臂轴、推杆与挺柱（液压挺柱自动保持间隙）</li><li>附件与系统：化油器/燃油喷射、点火（磁电机、火花塞、高压线）、滑油、进气与排气</li><li>燃气涡轮发动机</li><li>cold section：进气道、压气机（轴流式或离心式，离心式有 inducer）、静子/导流叶片、进气滤网</li><li>hot section：燃烧室（火焰筒、baffle、swirl vanes、interconnector、点火器）、燃油喷嘴、涡轮导向叶片（nozzle guide vanes）、涡轮盘与叶片、叶冠</li><li>排气段：排气锥、排气喷嘴、尾锥</li><li>附件与传动：附件齿轮箱、燃油控制器、滑油泵与回油泵、起动系统</li><li>试车台</li><li>测功装置（test club 或试验螺旋桨）、十项仪表：CAT、燃油压力、燃油流量、进气压力、滑油温度、滑油压力、转速、EGT、CHT、扭矩</li><li>监控仪表</li><li>往复式：MAP、rpm、CHT、EGT、滑油/燃油压力与温度、扭矩</li><li>涡轮：EPR（Pt7/Pt2）、N1/N2 百分比转速、EGT/TIT/TGT/ITT/TOT、燃油流量（lb/hr）、扭矩（涡桨）</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<p><strong>接收与分解</strong></p>
+<ul><li>接收检查：登记附件型号/序号、核对记录与手册、查 log books 历史与 SB/AD/TC 符合性；装台架后清洗外部。</li><li>分解：零件按序摆放、小件入容器；放油并过滤查金属屑；保险丝与开口销一次性使用；松动 stud/fitting 挂牌；尽量用套筒与梅花扳手及专用工具。</li></ul>
+<p><strong>检查与判废</strong></p>
+<ul><li>先目视后清洗；NDT 按材料与部位选磁粉（仅铁磁）、渗透、涡流、超声、X 射线。</li><li>齿轮齿面深麻点即可判废；轴承滚道 brinelling、剥落、划伤超标即换。</li><li>高应力区（活塞销内表面、曲轴轴颈圆角、推力轴承滚道）腐蚀麻点用 crocus cloth 抛不掉即判废。</li><li>缸头内外裂纹用强光加放大镜/显微镜查；散热片片根裂纹判废缸，片缘裂纹可修整。</li><li>曲轴在 V-blocks 上测 runout，超 table of limits 不得再用；弯曲曲轴禁止校直（破坏氮化层）。</li><li>连杆弯、扭即拒；连杆轴承面一旦 galling，整套连杆报废。</li></ul>
+<p><strong>清洗与防腐</strong></p>
+<ul><li>去软碳用 degreasing，硬碳用 decarbonizing、刷刮或喷砂（sand、rice、baked wheat、plastic pellets、glass beads、crushed walnut shells）。</li><li>铝、镁件不得用含水碱性清洗液久浸，须沸腾清水漂洗后立即涂滑油；油道堵橡胶塞、机加工面遮蔽（喷燃烧室时气阀座可例外）。</li><li>镁件按 dichromate 工艺处理后再底漆加瓷漆。</li></ul>
+<p><strong>尺寸与修配</strong></p>
+<ul><li>缸筒测五项：最大 taper、最大 out-of-roundness、bore diameter、step、活塞裙与缸壁配合；至少两处、相隔 90°。</li><li>超差缸筒磨至下一级 oversize；有氮化层或厂家不允许者不得磨；磨后必要时珩磨，deglazing 拉 cross-hatch 以利磨合。</li><li>气门座每次大修一般重磨；换导管或座后须与导管同心；钢座用油石磨，青铜座优先用 cutter/reamer。</li><li>气门按 30° 或 45° 磨面，磨后查 margin 与尖端 45° 倒角；研阀后用煤油/溶剂查漏。</li><li>螺纹可用 die/tap 修，管螺纹不得加深；stud 弯/断/伤/松必换，攻大后配 oversize stud。</li></ul>
+<p><strong>装配</strong></p>
+<ul><li>所有件清洗分类、按装配顺序摆放，最好同一工位由同一组人完成；查 parts catalog 核对硬件。</li><li>按手册预润滑、用规定扭矩与保险；活塞环口错开、环入正确环槽；装缸用 ring compressor，活塞置 TDC 平直套入，不得摇摆。</li><li>一只缸盖螺柱松动或折断，该缸全部 cap-screws 报废更换。</li><li>推杆原位装回、不得调头，球端须落座挺柱；摇臂盒盖装前润滑并查平面度。</li></ul>
+<p><strong>试车与校验</strong></p>
+<ul><li>台架试车：先低速完成轴承 burnishing，再高速段完成活塞环 run-in；同时评估性能。</li><li>试车中任何零件失效 → 整机返修并全部重试；接近最终 run-in 时用 CPM 作润滑剂，并对进气道、燃烧室做 aspiration 防腐处理。</li><li>外场：磁电机安全性检查、ground check（单磁电机扭矩损失 ≤10%）、power check（同转速 MAP 差 ≤1 "Hg）、怠速混合比检查、压缩试验、冷缸检查。</li><li>涡轮：起飞推力用 EPR 或 Pt7 按起飞推力设定曲线查取，飞机须静止、工况稳定；涡桨用 torquemeter 压力折算。</li><li>EGT 系统用 jetcal 类分析仪做连续性、功能性、指示器、电阻与绝缘检查；高电阻会使 EGT 指示偏低，发动机实际超温而仪表看不出来。</li></ul>
+<p><strong>涡轮冷/热段</strong></p>
+<ul><li>压气机叶片小损伤按厂家限值手工修整（与叶长平行、油石/锉/砂布），修后磁粉或荧光渗透复查，不容许任何裂纹。</li><li>离心压气机 inducer 前缘裂纹即拒；critical band 内 nicks/dents 可修，深度不得超手册。</li><li>燃烧室/火焰筒：裂纹、nicks、dents 通常拒收；独立 baffle 裂纹、径向相对的双裂纹等在限内可接受；严重鼓包致火焰筒缩短或倾斜即拒收。</li><li>涡轮盘裂纹通常不容许，即换涡轮转子；涡轮叶片查 stress rupture 裂纹与前缘变形，怀疑超温时查叶片伸长、盘硬度与伸长。</li><li>涡轮叶片按 moment-weight 成对装配；间隙（叶尖至叶冠、轮盘至排气锥）用厂家专用工具测量。</li><li>尾锥 hot spot 是燃油喷嘴或燃烧室故障的可靠征兆。</li></ul>
+<p><strong>故障诊断（原文表格，仅定性）</strong></p>
+<ul><li>往复式：起动失败、怠速不良、功率不足或不均、运转粗暴、油压低、油温高、滑油消耗过大，按 probable cause 与 remedy 逐项排查（油滤/喷嘴脏、点火线、火花塞、燃油等级、气门间隙、进气漏气、轴承磨损、活塞环装反等）。</li><li>涡轮：EPR 指示偏差、EGT 偏高/偏低、rpm 与燃油流量不匹配、全转速范围振动、高转速振动、巡航/慢车振动、滑油温度高、滑油消耗大、外漏、起动悬挂等，按探头/管路泄漏、压气机或涡轮损伤、附件、轴承、放气活门、燃油控制器等方向排查。原文表格排版有错位，只作定性参考。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（发动机维护与运行）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> A cylinder whose taper exceeds the serviceable limit must be ground to the next _____.</p>
+<p>A) oversize　　B) oversized　　C) oversizing　　D) oversizes</p>
+<p><strong>2.</strong> The difference between the largest and smallest diameters measured at the same cross-section of a cylinder is called _____.</p>
+<p>A) taper　　B) clearance　　C) out-of-roundness　　D) runout</p>
+<p><strong>3.</strong> The engine was reassembled strictly _____ the manufacturer's overhaul manual.</p>
+<p>A) in accordance with　　B) in accordance to　　C) according with　　D) in according to</p>
+<p><strong>4.</strong> Polishing a bearing surface smooth without transferring metal from one part to another is called _____.</p>
+<p>A) brinelling　　B) galling　　C) scoring　　D) burnishing</p>
+<p><strong>5.</strong> In a top overhaul, only the cylinder assemblies above the crankcase _____.</p>
+<p>A) is removed　　B) are removed　　C) removes　　D) removing</p>
+<p><strong>6.</strong> A bearing must be rejected if its race shows _____ beyond the limits, because the rollers have left permanent depressions.</p>
+<p>A) brinell　　B) brinelled　　C) brinelling　　D) brinells</p>
+<p><strong>7.</strong> The initial run-in of a newly overhauled engine is carried _____ in a test cell under controlled conditions.</p>
+<p>A) on　　B) off　　C) up　　D) out</p>
+<p><strong>8.</strong> A start in which the engine lights but fails to accelerate to idle speed is called a _____ start.</p>
+<p>A) hot　　B) hung　　C) hard　　D) false</p>
+<p><strong>9.</strong> Exhaust gas temperature is the parameter _____ limits the life of the turbine section.</p>
+<p>A) who　　B) what　　C) whose　　D) which</p>
+<p><strong>10.</strong> After the overhaul, the internal parts are coated with a _____ oil to protect them until the engine is run again.</p>
+<p>A) preserve　　B) preservative　　C) preservation　　D) preserved</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. A</strong> —— <code>the next _____</code> 需要<strong>名词</strong>，<code>oversize</code> 是本章的尺寸级别术语（加大一级，如 0.010、0.015、0.020、0.030 inch），磨到「下一级 oversize」正是超差缸筒的处理。B <code>oversized</code> 是形容词，表示「过大的」，语义不同；C <code>oversizing</code> 是动名词；D <code>oversizes</code> 复数形式与该结构不符。考点：<strong>同词族词性辨析</strong>。</p>
+<p><strong>2. C</strong> —— 同一截面最大与最小直径之差是<strong>失圆度</strong> <code>out-of-roundness</code>，本章明确区分它与 taper、runout。A <code>taper</code> 是缸筒上、下直径之差（沿轴线）；B <code>clearance</code> 是配合间隙；D <code>runout</code> 是旋转件对基准的偏摆，测量对象是曲轴等回转件。考点：<strong>近义术语辨析</strong>。</p>
+<p><strong>3. A</strong> —— <code>in accordance with</code>（按照、依据）是固定介词搭配，本章反复强调按手册扭矩与程序施工。B <code>in accordance to</code> 是错误搭配（accordance 只能与 with 连用）；C <code>according with</code> 偷换了 according to；D <code>in according to</code> 结构不存在。考点：<strong>固定搭配</strong>。</p>
+<p><strong>4. D</strong> —— <code>burnishing</code> 是抛光、不转移金属，本章把它与 brinelling、galling 列为易混三兄弟。A <code>brinelling</code> 是滚道上的压痕（高静载或拆装受力造成）；B <code>galling</code> 是金属转移、粘着磨损；C <code>scoring</code> 是划伤。三者都涉及表面损伤，唯独 burnishing 是良性抛光。考点：<strong>近义词辨析</strong>。</p>
+<p><strong>5. B</strong> —— <code>only the cylinder assemblies</code> 是复数主语，且缸组是被拆下的对象，需<strong>被动语态 + 复数</strong> <code>are removed</code>。A <code>is removed</code> 单复数不一致；C <code>removes</code> 是主动第三人称单数；D <code>removing</code> 是分词，句子没有谓语。考点：<strong>被动语态与主谓一致</strong>。</p>
+<p><strong>6. C</strong> —— <code>shows _____</code> 需要<strong>名词</strong>，<code>brinelling</code> 指滚道上的压痕缺陷。A <code>brinell</code> 是动词原形、B <code>brinelled</code> 是过去分词、D <code>brinells</code> 是第三人称单数，都不能作 shows 的宾语。考点：<strong>名词化形式</strong>。</p>
+<p><strong>7. D</strong> —— <code>carry out</code>（执行、进行）是固定短语动词，磨合试车在试车台上「进行」用 carry out。A <code>carry on</code> 是继续；B <code>carry off</code> 是成功完成/带走；C <code>carry up</code> 不是该义项。考点：<strong>短语动词及小品词</strong>。</p>
+<p><strong>8. B</strong> —— <code>hung start</code> 是已点火但转速上不去、停在慢车以下的悬挂起动。A <code>hot start</code> 是起动中 EGT 超限（温度问题，不是转速问题）；C <code>hard start</code> 泛指起动困难；D <code>false start</code> 是未真正点火的假起动。考点：<strong>术语辨析</strong>。</p>
+<p><strong>9. D</strong> —— 先行词 <code>the parameter</code> 指物，从句 <code>_____ limits the life</code> 缺主语，需<strong>关系代词 which</strong>。A <code>who</code> 只指人；B <code>what</code> 不能引导定语从句；C <code>whose</code> 后须接名词表所属。考点：<strong>关系代词</strong>。</p>
+<p><strong>10. B</strong> —— <code>a _____ oil</code> 需要<strong>形容词</strong>修饰，<code>preservative oil</code>（防腐油）是本章封存用油的固定说法。A <code>preserve</code> 是动词、C <code>preservation</code> 是名词、D <code>preserved</code> 是过去分词（表示已被防腐处理的），三者都不能作定语修饰 oil。考点：<strong>词性辨析</strong>。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ul><li><strong>overhaul 与 repair</strong>：overhaul 是到时整机翻修、恢复大修时限；repair 是针对具体缺陷修复，top overhaul 名为 overhaul 实为 repair。</li><li><strong>brinelling / burnishing / galling</strong>：brinelling 是滚道上的压痕（高静载或拆装受力）；burnishing 是抛光、不转移金属；galling 是金属转移、粘着磨损。</li><li><strong>taper / out-of-roundness / runout</strong>：taper 是缸筒上下直径差；out-of-roundness 是同一截面不圆；runout 是旋转件对基准的偏摆。</li><li><strong>detonation 与 pre-ignition</strong>：detonation 是火花点燃后末端混合气自燃、压力突升；pre-ignition 是热点在定时火花之前点火。两者都可烧活塞，但起因不同。</li><li><strong>backfiring 与 afterfiring</strong>：backfiring 发生在进气系统（混合气过贫）；afterfiring 发生在排气系统（混合气过富或有死缸）。</li><li><strong>EGT 不是绝对涡轮进口温度</strong>：各型测温点不同（EGT/TIT/TGT/ITT/TOT），读数只相对于一级涡轮进口导叶前的燃气温度，用于同机比较与限制监控。</li></ul>

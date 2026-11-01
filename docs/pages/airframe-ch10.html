@@ -1,0 +1,217 @@
+<h1 id="ch-10-aircraft-systems-飞机各系统">Ch 10 · Aircraft Systems（飞机各系统）</h1>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>本章讲飞机仪表系统：传感与显示、压力与皮托静压、陀螺与电子显示、发动机仪表、自动飞行及维护校验。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ol><li>仪表系统由传感（sensing）与显示（display）两部分组成。直读式（direct-sensing）把敏感元件和表盘装在同一壳体；遥感式（remote-sensing）把传感器放在机体或发动机最合适的位置，只把电信号送驾驶舱。数字数据总线（digital data bus）让多块仪表共享信息，减少管路、接头和重量。</li><li>压力测量有 Bourdon tube、diaphragm/bellows、solid-state 三类基本机构。压力口径分 absolute、gauge、differential 三种：高度表、升降速度表、进气压力表用绝对压力；空速表和 EPR 表比较两个压力，属压差表。</li><li>皮托-静压系统同时供 altimeter、airspeed indicator、vertical speed indicator，空速表另接冲压。皮托管开口朝前，内有防潮挡板、下方有排水孔，并装电加热；静压孔可另设主/备源，增压机必须用外部静压源。</li><li>高度表用柯尔斯曼窗（Kollsman window）拨正基准气压：18,000 ft 以下用当地/最近气象站气压，18,000 ft 及以上美国空域统一 29.92 inHg。常见误差有刻度误差、位置/安装误差、静压泄漏和迟滞（hysteresis）。</li><li>陀螺仪表靠定轴性（rigidity in space）和进动（precession）工作：姿态仪、航向仪用定轴性，转弯侧滑仪用进动。驱动方式有真空、压力、电动；现代还有环形激光陀螺（RLG）、MEMS 陀螺和 AHRS。</li><li>发动机仪表中滑油压力表最重要；进气压力、EPR、转速、CHT/EGT/TIT、TAT、燃油压力/流量分别反映功率、热负荷和发动机状态，涡轮机转速常按百分比标定。</li><li>电子座舱用 ADC 集中处理大气数据，EFIS/EADI/EHSI 显示飞行信息，ECAM/EICAS 监控系统和发动机，FMS 与 AFCS 管理航路和自动飞行，BITE 帮维护定位故障。</li><li>本章原文只讲仪表与自动飞行；液压、气动、起落架、刹车、燃油、防冰各系统的本体组成与工作方式未在本章展开，它们只作为被指示、被监控的参数出现。</li></ol>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">pitot-static system</td>
+<td style="text-align:left">皮托-静压系统</td>
+<td style="text-align:left">用冲压和静压驱动高度表、空速表、升降速度表。</td>
+</tr>
+<tr>
+<td style="text-align:left">air data computer (ADC)</td>
+<td style="text-align:left">大气数据计算机</td>
+<td style="text-align:left">汇集压力/温度信号，补偿后向仪表和各系统输出数据。</td>
+</tr>
+<tr>
+<td style="text-align:left">altimeter</td>
+<td style="text-align:left">高度表</td>
+<td style="text-align:left">用真空膜盒感受静压，经柯尔斯曼窗拨正后指示高度。</td>
+</tr>
+<tr>
+<td style="text-align:left">vertical speed indicator (VSI)</td>
+<td style="text-align:left">升降速度表</td>
+<td style="text-align:left">压差式，经校准孔限流，指示爬升或下降率。</td>
+</tr>
+<tr>
+<td style="text-align:left">IAS / CAS / TAS</td>
+<td style="text-align:left">指示空速/校正空速/真空速</td>
+<td style="text-align:left">空速的三种口径，依次修正皮托-静压位置误差、刻度非线性和温度/压力。</td>
+</tr>
+<tr>
+<td style="text-align:left">Machmeter</td>
+<td style="text-align:left">马赫数表</td>
+<td style="text-align:left">由冲压、静压和高度膜盒共同驱动，指示马赫数。</td>
+</tr>
+<tr>
+<td style="text-align:left">Bourdon tube</td>
+<td style="text-align:left">布尔登管</td>
+<td style="text-align:left">卷曲扁管受压伸直，经齿轮连杆带指针，测较高压力。</td>
+</tr>
+<tr>
+<td style="text-align:left">aneroid</td>
+<td style="text-align:left">真空膜盒</td>
+<td style="text-align:left">抽真空密封的薄壁膜盒，感受绝对压力，用于高度表等。</td>
+</tr>
+<tr>
+<td style="text-align:left">bellows</td>
+<td style="text-align:left">波纹管</td>
+<td style="text-align:left">多节膜盒串联，行程大，适合压差和低压力测量。</td>
+</tr>
+<tr>
+<td style="text-align:left">synchro（autosyn / magnesyn）</td>
+<td style="text-align:left">同步器（自动同步机/磁同步器）</td>
+<td style="text-align:left">远距传输转角；autosyn 转子为电磁铁，magnesyn 转子为永久磁铁。</td>
+</tr>
+<tr>
+<td style="text-align:left">tachometer</td>
+<td style="text-align:left">转速表</td>
+<td style="text-align:left">测曲轴或压气机转速；涡轮机常按百分比标定。</td>
+</tr>
+<tr>
+<td style="text-align:left">CHT</td>
+<td style="text-align:left">缸头温度</td>
+<td style="text-align:left">热电偶测最热气缸的缸头温度。</td>
+</tr>
+<tr>
+<td style="text-align:left">EGT</td>
+<td style="text-align:left">排气温度</td>
+<td style="text-align:left">涡轮排气热电偶，用于判断涡轮工作和超温。</td>
+</tr>
+<tr>
+<td style="text-align:left">TIT</td>
+<td style="text-align:left">涡轮进口温度</td>
+<td style="text-align:left">涡轮入口燃气温度，部分发动机用它代替 EGT。</td>
+</tr>
+<tr>
+<td style="text-align:left">EPR</td>
+<td style="text-align:left">发动机压力比</td>
+<td style="text-align:left">排气总压与进气总压之比，用来表征推力。</td>
+</tr>
+<tr>
+<td style="text-align:left">TAT</td>
+<td style="text-align:left">总温</td>
+<td style="text-align:left">静温加冲压升温（ram rise），供发动机和飞机系统使用。</td>
+</tr>
+<tr>
+<td style="text-align:left">attitude indicator</td>
+<td style="text-align:left">姿态仪</td>
+<td style="text-align:left">陀螺在水平面旋转，显示俯仰和滚转。</td>
+</tr>
+<tr>
+<td style="text-align:left">heading indicator (DG)</td>
+<td style="text-align:left">航向仪/方向陀螺</td>
+<td style="text-align:left">陀螺在垂直面旋转，显示稳定航向，需定期对磁罗盘。</td>
+</tr>
+<tr>
+<td style="text-align:left">turn coordinator</td>
+<td style="text-align:left">转弯协调器</td>
+<td style="text-align:left">转子前倾 30°，同时感受滚转和偏航。</td>
+</tr>
+<tr>
+<td style="text-align:left">flux gate / flux valve</td>
+<td style="text-align:left">磁通门/磁阀</td>
+<td style="text-align:left">感应地磁，为陀螺航向系统提供磁北基准。</td>
+</tr>
+<tr>
+<td style="text-align:left">RMI</td>
+<td style="text-align:left">无线电磁指示器</td>
+<td style="text-align:left">在航向盘上加 VOR 和 ADF 两根方位针。</td>
+</tr>
+<tr>
+<td style="text-align:left">AHRS</td>
+<td style="text-align:left">姿态航向基准系统</td>
+<td style="text-align:left">综合 MEMS、GPS、磁强计、加速度计和大气数据。</td>
+</tr>
+<tr>
+<td style="text-align:left">RLG</td>
+<td style="text-align:left">环形激光陀螺</td>
+<td style="text-align:left">利用 Sagnac 效应测角速度，无运动件。</td>
+</tr>
+<tr>
+<td style="text-align:left">MEMS</td>
+<td style="text-align:left">微机电系统</td>
+<td style="text-align:left">用振动微结构代替高速转子，体积小、可靠性高。</td>
+</tr>
+<tr>
+<td style="text-align:left">EFIS</td>
+<td style="text-align:left">电子飞行仪表系统</td>
+<td style="text-align:left">用符号发生器驱动 EADI/EHSI 平板显示。</td>
+</tr>
+<tr>
+<td style="text-align:left">EADI / EHSI</td>
+<td style="text-align:left">电子姿态指示器/电子水平状态指示器</td>
+<td style="text-align:left">前者显示姿态和飞行指引，后者显示导航图。</td>
+</tr>
+<tr>
+<td style="text-align:left">ECAM / EICAS</td>
+<td style="text-align:left">电子集中飞机监控/发动机指示与机组警告系统</td>
+<td style="text-align:left">双屏监控系统状态、发动机参数和告警。</td>
+</tr>
+<tr>
+<td style="text-align:left">FMS</td>
+<td style="text-align:left">飞行管理系统</td>
+<td style="text-align:left">由 FMC 和 CDU 组成，统一管理航路、推力和燃油。</td>
+</tr>
+<tr>
+<td style="text-align:left">AFCS</td>
+<td style="text-align:left">自动飞行控制系统</td>
+<td style="text-align:left">把自动驾驶、飞行指引、自动油门等集成为一套系统。</td>
+</tr>
+<tr>
+<td style="text-align:left">BITE</td>
+<td style="text-align:left">机内自检设备</td>
+<td style="text-align:left">系统自监控并记录/定位故障，供维护读取。</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<ul><li>标准压力 29.92 inHg = 1,013.2 hPa = 14.7 psi；标准日海平面温度 15 °C。</li><li>18,000 ft 以上统一用 29.92 inHg 作高度表基准；以下拨最近气象站/机场的气压。</li><li>高度—压力（图 10-30）：海平面 14.69 psi；10,000 ft 10.10 psi；20,000 ft 6.75 psi；30,000 ft 4.36 psi；40,000 ft 2.72 psi；50,000 ft 1.68 psi。</li><li>表压示例：海平面轮胎 32 psi 表压，外界 14.7 psi，绝对压力约 46.7 psi；在 10,000 ft 外界约 10 psi，同样 32 psi 表压对应绝对压力 42 psi。</li><li>高度表指针：长针转 1 圈为 1,000 ft（每小格 100 ft）；第二长针转 1 圈为 10,000 ft；最短针每数字为 10,000 ft。10,000 ft 以下表盘有斜线阴影区。</li><li>静压系统泄漏测试：抽到高度表指示 1,000 ft，封堵观察 1 min，掉高不得超过 100 ft。</li><li>音速（kt / 外界温度 °F）：海平面 661/59；10,000 ft 638/23；20,000 ft 614/−12；30,000 ft 589/−48；36,000 ft 574/−69；40,000–50,000 ft 574/−70。</li><li>临界马赫数示例：Mcrit 0.8 Mach。</li><li>普通 VSI 滞后 6–9 s；刻度常以 100 ft/min 为单位。</li><li>电阻式温度表量程 −70 °C 至 150 °C；EGT 表刻度 0–1,200 °C。</li><li>总温（TAT）在 Mach 0.2 以下可用简单电阻式或双金属式温度表测量。</li><li>真空系统工作真空 3.5–4.5 inHg；转弯侧滑仪约 2 inHg；姿态/航向仪表示例要求 5 inHg、最低 4.6 inHg。</li><li>真空泵容量约 10 inHg（1,000 rpm 以上）。</li><li>venturi：2 inHg 真空度供转弯侧滑仪，8 inHg 供姿态/航向仪表；约 100 mph 标准海平面达到设计真空。</li><li>电动姿态陀螺：115 V、400 Hz，约 21,000 rpm；磁铁扶正套筒 44–48 rpm。</li><li>转弯协调器陀螺前倾 30°；标准转弯 3°/s，360° 用 2 min；4 min 转弯为 1.5°/s。</li><li>磁罗盘刻度每 5° 一格；偏差最大 10°；校罗盘每 30° 记录一个点。</li><li>转速表轻敲前后读数差不应超过 15 rpm（以厂家公差为准）。</li><li>IFR 飞机高度表、皮托静压系统、自动气压高度报告系统每 24 个月测试一次（14 CFR 91.411）；高度表按 14 CFR part 43 Appendix E 测试。</li><li>同步器常用 26 V、400 Hz 交流电源。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<p><strong>仪表基本链条</strong></p>
+<ul><li>传感元件（sensing element）感受压力、温度、加速度、转角等物理量。</li><li>发送器（transmitter）把物理量变成电信号、气压信号或机械转角。</li><li>指示器（indicator）在驾驶舱显示；直读式没有独立发送器，遥感式才有。</li><li>信号传递可用电线、气动管路或数字数据总线；总线让多仪表共享同一数据源。</li></ul>
+<p><strong>压力敏感元件</strong></p>
+<ul><li>Bourdon tube：扁平卷管，开口端固定、密封端自由；压力使卷管伸直，经齿轮连杆带指针。用于滑油压力、液压压力、氧气瓶压力、除冰带压力表，也可改标温度刻度测油温。</li><li>diaphragm：薄金属膜片，适合低压力；抽真空密封后称 aneroid，用于高度表、升降速度表、进气压力表。</li><li>bellows：多个膜盒串联，行程大，适合压差和低压力测量。</li><li>solid-state：压电晶体、压阻或半导体芯片，输出电信号或电阻变化，供 ADC/计算机使用。</li><li>pressure switch：膜片加微动开关，达到设定压力时开/闭电路，例如低滑油压力警告。</li></ul>
+<p><strong>飞行仪表</strong></p>
+<ul><li>皮托-静压系统：皮托管（冲压）+ 静压孔 + 管路；供高度表、空速表、升降速度表。皮托管有防潮挡板、排水孔和电加热；静压孔可设主/备源，增压机用外部静压源。</li><li>高度表：真空膜盒感受静压，经柯尔斯曼窗输入基准气压；长针 1,000 ft/圈，第二长针 10,000 ft/圈。</li><li>升降速度表：膜片内外压差经校准孔限流；普通型有 6–9 s 滞后，IVSI 用活塞/弹簧加速响应。</li><li>空速表：冲压进膜片、静压进表壳，指示 IAS；CAS 修正皮托-静压位置误差和刻度非线性，TAS 再修正温度/压力。</li><li>马赫数表：在冲压/静压膜片之外增加高度传感膜盒，补偿音速随高度的变化。</li><li>姿态仪：陀螺在水平面旋转，靠定轴性保持地平面；真空型用四个排气口和 pendulous vanes 扶正。</li><li>航向仪（DG）：陀螺在垂直面旋转，经齿轮带动刻度卡；飞行中定期对磁罗盘重调。</li><li>转弯协调器：转子前倾 30°，同时感滚转和偏航。</li><li>转弯侧滑仪：转弯指针由陀螺驱动，球是独立 inclinometer，只受重力和离心力。</li><li>磁罗盘：永久磁铁浮子 + 充液壳体 + 刻度卡，每 5° 一格；有 deviation、variation 和 dip error。</li><li>陀螺航向系统：flux gate/flux valve 感地磁，经放大器、autosyn 发射器和方向陀螺，把航向送到指示器；RMI 再加 VOR/ADF 两根针。</li><li>固态航向：solid-state magnetometer 无运动件，可直接与数字系统集成。</li></ul>
+<p><strong>陀螺动力系统</strong></p>
+<ul><li>真空源：engine-driven vane pump 或 venturi；泵分湿泵（接滑油润滑/密封）和干泵（自润滑）。</li><li>典型部件：air-oil separator、vacuum regulator/suction relief valve、gate check valve、pressure relief valve、selector valve、restrictor valve、master air filter、suction gauge。</li><li>压力陀螺系统：部件与真空系统相同，但用 pressure regulator 代替 suction relief valve，泵进出口都要过滤。</li><li>电动陀螺：电机转子即陀螺转子，可由电池短时供电；有 failure flag 指示无电或转速不足。</li></ul>
+<p><strong>发动机仪表</strong></p>
+<ul><li>滑油压力/温度、燃油压力/流量/油量、进气压力、EPR、转速、CHT/EGT/TIT、TAT、扭矩、N1/N2、化油器温度。</li><li>热电偶测 CHT/EGT/TIT；电阻式温度表测滑油、外界空气、化油器空气等低中温。</li><li>涡轮转速表用 tachometer probe，无运动件，输出与转速成正比的电压。</li><li>双发/直升机转速表可同时显示两台发动机或发动机与旋翼转速，并可比较离合器打滑。</li></ul>
+<p><strong>电子与自动飞行</strong></p>
+<ul><li>ADC/DADC：汇总压力、温度传感器，做数字补偿，向伺服表、增压系统、飞控等输出。</li><li>EFIS：symbol generator 驱动 EADI/EHSI；EADI 显示姿态、指引、进近和侧滑，EHSI 显示 PLAN/MAP/VOR/ILS。</li><li>ECAM：双显示器、两台 flight warning computer；有 flight phase、advisory、failure related、manual 四种模式。</li><li>EICAS：始终显示发动机和机体参数，上屏 primary engine（EPR、N1、EGT），下屏 secondary engine 和系统状态。</li><li>FMS：FMC + CDU，经数据总线连接 ADC、AFCS、IRS、TCAS、无线电导航等。</li><li>自动驾驶/AFCS：sensing elements、computing element、output servos、command elements，再加 feedback/follow-up 构成闭环。</li><li>告警：annunciator panel 绿/黄/红三色，master caution 集中提醒；另有音响告警和时钟。</li></ul>
+<p><strong>安装</strong></p>
+<ul><li>仪表板多为铝板、深色无光；用 shock mount 吸低频大幅振动，重量决定 mount 的数量和型号。</li><li>仪表板与机体用 bonding strap 保证电连续。</li><li>flanged 表从板后装入、前面上螺钉；flangeless 表用夹箍固定在板后，从前面滑入。</li><li>量程标记按 TCDS 由原厂标：红=危险界限，绿=正常，黄=注意，蓝/白用于空速特定条件。</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<ul><li><strong>A&amp;P 的界限</strong>：A&amp;P 可做仪表/LRU 的拆装、检查、排故和功能试验，但不能做仪表内部维修；内部维修须由制造厂或有专用设备的 repair station 完成。</li><li><strong>法规</strong>：14 CFR 91.411 要求 IFR 飞机的高度表、皮托静压系统、自动气压高度报告系统每 24 个月测试；高度表测试只能由制造厂或认证维修站按 14 CFR part 43 Appendix E 做。</li><li><strong>皮托-静压系统</strong>：低点有 drain 可排水；无 drain 时用干燥压缩空气/氮气从仪表端向皮托/静压口吹，吹前断开所有仪表，吹后必须做泄漏检查。装拆任何部件后或怀疑故障时也要测漏。</li><li><strong>泄漏测试</strong>：静压口接测试器，抽到高度表指示 1,000 ft，封住观察 1 min，掉高不得超过 100 ft；漏点多在接头。测试后恢复飞行构型，确认堵头、胶带全部拆除。</li><li><strong>转速表</strong>：检查玻璃松动、刻度缺口、指针松动；轻敲前后读数差不应超过 15 rpm。电转速表怠速摆针/偏低多为同步电机未同步，增速后应同步；机械软轴抖动要检查固定、弯曲半径和间隙。</li><li><strong>磁罗盘</strong>：检查各 cardinal 航向读数、活动件灵活性、罗盘碗是否碰壳体、液体有无气泡/变色、刻度与照明。偏差用校罗盘和补偿磁铁修正，结果记入 compass correction card。</li><li><strong>校罗盘（compass swing）</strong>：飞机保持水平（后三点用非磁性材料垫高尾轮），清空杂物，正常设备开机，发动机运转；先 N-S 对北调 N-S 螺钉到 0°，E-W 对东调 E-W 螺钉到 90°，再对南、对西各消除一半偏差；每 30° 记录；偏差不得超过 10°，超 10° 且无其他原因应更换罗盘。</li><li><strong>真空系统排故</strong>：无真空/真空不足、真空过大、地平仪不响应、转弯侧滑仪不响应、指针振动；逐项隔离真空表、relief valve、管路、泵、滤清器、仪表本身。</li><li><strong>自动驾驶</strong>：脱开后操纵应平滑，servo 阻力不得影响操纵，联动机构对齐、钢索张力正常；新装、换件或怀疑故障时做功能检查。接通前等陀螺起转、放大器预热；按机型检查转弯、俯仰、配平、人力超越和应急断开。</li><li><strong>LCD</strong>：防反光涂层会被皮肤油脂和含氨清洁剂破坏，用干净无绒布和厂家认可的清洁剂。</li><li><strong>其他</strong>：仪表怕摔，密封壳体有裂纹即不适用；端口不得吹气，安装前堵住；陀螺仪表安装前保持 caged；更换件额定功率应与原件一致，新增不同额定件要做 ground load check。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（飞机仪表系统）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> The gyro horizon is _____ by suction from the engine-driven vacuum pump.</p>
+<p>A) driving　　B) driven　　C) drive　　D) drives</p>
+<p><strong>2.</strong> Rigidity in space and precession are the two _____ on which every gyro instrument depends.</p>
+<p>A) principal　　B) principled　　C) principles　　D) principally</p>
+<p><strong>3.</strong> Absolute pressure is measured from a perfect _____.</p>
+<p>A) vacuity　　B) vacuous　　C) vacuumed　　D) vacuum</p>
+<p><strong>4.</strong> _____ 18,000 feet and above, all aircraft in the United States use 29.92 inHg as the altimeter setting.</p>
+<p>A) At　　B) On　　C) In　　D) By</p>
+<p><strong>5.</strong> The static system must be leak-checked _____ a component has been replaced.</p>
+<p>A) whatever　　B) whenever　　C) whoever　　D) wherever</p>
+<p><strong>6.</strong> A Bourdon tube converts pressure into _____ motion of the pointer.</p>
+<p>A) mechanic　　B) mechanics　　C) mechanical　　D) mechanically</p>
+<p><strong>7.</strong> The pitot tube is _____ so that ice cannot block the impact pressure.</p>
+<p>A) heated　　B) heat　　C) heating　　D) heaters</p>
+<p><strong>8.</strong> The static ports are flush with the skin so that they sense the _____ pressure of the undisturbed air.</p>
+<p>A) static　　B) stationary　　C) stabilized　　D) steadied</p>
+<p><strong>9.</strong> The instrument panel is mounted on shock mounts that _____ out low-frequency vibration.</p>
+<p>A) damping　　B) damp　　C) damper　　D) damped</p>
+<p><strong>10.</strong> A calibrated orifice acts as a _____ on the rate at which pressure equalizes inside the VSI.</p>
+<p>A) restrict　　B) restrictive　　C) restriction　　D) restricted</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. B</strong> —— <code>is _____ by</code> 是被动语态，需过去分词 driven（由真空泵抽吸驱动）。A driving 是现在分词，C drive 是原形，D drives 是第三人称单数，都不能与 is 构成被动。</p>
+<p><strong>2. C</strong> —— 数词 two 后需要可数名词复数，principles（原理）与定语从句 on which ... depends 呼应。A principal 是形容词/名词「校长」，B principled 是形容词，D principally 是副词，均不能作 two 的中心词。</p>
+<p><strong>3. D</strong> —— <code>a perfect vacuum</code>（完全真空）是绝对压力的零点，vacuum 作名词。A vacuity 指空虚/空洞，B vacuous 是形容词，C vacuumed 是过去式，均不合。</p>
+<p><strong>4. A</strong> —— <code>at 18,000 feet and above</code> 是高度的固定介词搭配，at 用于具体高度点。B on、C in、D by 都不能与具体英尺高度连用表示「在……高度」。</p>
+<p><strong>5. B</strong> —— 从句表示「每当某部件被更换时」，需连词 whenever 引导时间状语从句。A whatever、C whoever、D wherever 分别是「无论什么/谁/哪里」，逻辑与语法都不合。</p>
+<p><strong>6. C</strong> —— motion 是名词，需形容词 mechanical 修饰，<code>mechanical motion</code>（机械运动）。A mechanic 是名词「机械员」，B mechanics 是名词「力学」，D mechanically 是副词。</p>
+<p><strong>7. A</strong> —— <code>is _____</code> 是被动语态，需过去分词 heated（被加温）。B heat 是原形，C heating 是现在分词，D heaters 是名词复数，都不能与 is 构成被动。</p>
+<p><strong>8. A</strong> —— <code>static pressure</code>（静压）是皮托-静压系统的标准术语，与 undisturbed air 对应。B stationary 是「静止不动的」（指物体），C stabilized 是「被稳定的」，D steadied 是「被扶稳的」，均非该术语。</p>
+<p><strong>9. B</strong> —— 定语从句主语 that 指 shock mounts（复数），谓语需用原形 damp（减振），<code>damp out</code> 意为「减掉振动」。A damping 是分词，C damper 是名词，D damped 是过去式，均不能作谓语。</p>
+<p><strong>10. C</strong> —— <code>act as a _____</code> 需要可数名词单数，restriction（限制）符合节流孔限制压力平衡速率的语义。A restrict 是动词，B restrictive 是形容词，D restricted 是过去分词/形容词，均不能作 as 的宾语。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ul><li><strong>absolute pressure / gauge pressure / differential pressure</strong>：绝对压力以完全真空为零；表压以当时大气压为零；压差是两个压力之差。高度表用绝对压力，轮胎压力表读表压，空速表读压差。</li><li><strong>IAS / CAS / TAS</strong>：IAS 是空速表直接读数；CAS 修正皮托-静压位置误差和刻度非线性；TAS 再修正温度和压力，是飞机相对空气的真实速度。</li><li><strong>attitude indicator / heading indicator / turn coordinator</strong>：姿态仪陀螺在水平面转，显示俯仰/滚转；航向仪陀螺在垂直面转，显示航向；转弯协调器转子前倾 30°，显示滚转和偏航速率。</li><li><strong>deviation / variation</strong>：deviation 来自飞机自身磁场，用补偿磁铁修正；variation 来自磁北与地理北的差异，按航图加/减，不能用罗盘螺钉修正。</li><li><strong>ECAM / EICAS</strong>：ECAM 以系统监控和检查单为主，EICAS 始终显示发动机参数并以发动机指示为主；两者都兼有告警功能。</li></ul>

@@ -1,0 +1,228 @@
+<h1 id="ch-05-aircraft-welding-飞机焊接">Ch 05 · Aircraft Welding（飞机焊接）</h1>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>讲飞机维修里能用的几种焊接——气焊、电弧焊（SMAW/GMAW/TIG/PAW）、电阻焊，加上钎焊与软钎焊——的设备、火焰调整、材料适用性、接头形式与钢/铝/镁/钛的修理工艺。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ol><li>焊接按三大类分：gas（气焊）、electric arc（电弧焊）、electric resistance（电阻焊），每一类下面还有若干变种；本章另附 brazing 与 soldering。</li><li>氧乙炔（oxy-acetylene）火焰温度约 6,300 °F，氢气代乙炔焊铝时降到约 4,800 °F；20 世纪 50 年代中期以前，3/16 英寸以下的航空材料生产主要靠气焊，之后被电焊取代，原因是经济性而非工程性。</li><li>四种常用电弧焊的分工要记牢：SMAW（"stick"，焊条带药皮）设备最简单；GMAW/MIG 用连续送进的裸焊丝，适合大批量生产、不适合修理（不做破坏性试验难以判定质量）；GTAW/TIG 用不熔化的钨极，是本章明确的"飞机维护与修理首选"，尤其不锈钢、镁和厚铝；PAW 用铜喷嘴压缩电弧，质量高但设备贵，基本限于制造厂。</li><li>气焊火焰只有三种基本形态——neutral（中性，约 5,850 °F）、carburizing/reducing（碳化，约 5,700 °F）、oxidizing（氧化，约 6,300 °F）；中性焰是设置其它两种焰的基准，多数钢件用它。</li><li>焊接方向两种：forehand（火焰指向焊接前进方向，焊丝在熔池前方，薄壁管与薄板最常用）与 backhand（火焰反指已完成的焊缝，焊丝加在火焰与焊缝之间，用于厚板，航空维修极少用）。</li><li>焊接质量靠外观和工艺纪律判定：本章强调"干净平滑的焊缝不代表内部没问题，但粗糙、不均、有麻点的焊缝内部几乎总是坏的"；焊缝不许锉光修饰，也不许用焊锡、钎料或任何填料去填。</li><li>4130 铬钼钢是本篇的核心材料：厚度超过 3/16 英寸必须预热 300–400 °F，焊后必须做去应力回火（post-weld heat treatment），否则出现未回火马氏体（untempered martensite）导致脆裂；TIG 焊 0.093 英寸以上的 4130 同样不能省掉焊后热处理。</li><li>气焊铝、镁都离不开腐蚀性熔剂（flux），焊后必须用热水加不锈钢刷彻底清除；残余熔剂可用中性焰烘一下——出现黄橙色辉光就是没清干净。</li></ol>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">oxy-acetylene welding</td>
+<td style="text-align:left">氧乙炔焊</td>
+<td style="text-align:left">乙炔与纯氧在焊炬内混合燃烧加热熔化母材的气焊</td>
+</tr>
+<tr>
+<td style="text-align:left">neutral flame</td>
+<td style="text-align:left">中性焰</td>
+<td style="text-align:left">乙炔与氧按比例配出的火焰，不改变母材成分，多数焊接用它</td>
+</tr>
+<tr>
+<td style="text-align:left">carburizing (reducing) flame</td>
+<td style="text-align:left">碳化（还原）焰</td>
+<td style="text-align:left">乙炔过量、带绿色羽状焰心的火焰，用于高碳钢、硬面堆焊和铝、镍、Monel</td>
+</tr>
+<tr>
+<td style="text-align:left">oxidizing flame</td>
+<td style="text-align:left">氧化焰</td>
+<td style="text-align:left">氧过量（约 2:1）的火焰，内锥短而尖、带紫色，用于黄铜青铜熔焊与钢件铜焊</td>
+</tr>
+<tr>
+<td style="text-align:left">backfire</td>
+<td style="text-align:left">回火（瞬时回燃）</td>
+<td style="text-align:left">气体在焊嘴处瞬时反向流动、火焰熄灭，通常不危险</td>
+</tr>
+<tr>
+<td style="text-align:left">flashback</td>
+<td style="text-align:left">回闪</td>
+<td style="text-align:left">气体在焊炬内部燃烧，伴尖啸声，不立即断气会烧穿软管和减压器</td>
+</tr>
+<tr>
+<td style="text-align:left">flashback arrestor</td>
+<td style="text-align:left">回闪制止器</td>
+<td style="text-align:left">装在软管上阻止高压火焰或混合气倒灌进气瓶的装置，内含单向阀</td>
+</tr>
+<tr>
+<td style="text-align:left">equal pressure torch</td>
+<td style="text-align:left">等压式焊炬</td>
+<td style="text-align:left">最常用的氧乙炔焊炬，乙炔压力 1–15 psi，回闪倾向小</td>
+</tr>
+<tr>
+<td style="text-align:left">injector torch</td>
+<td style="text-align:left">引射式焊炬</td>
+<td style="text-align:left">靠高压氧的文丘里效应吸入低压燃料气（0–2 psi），更易回闪</td>
+</tr>
+<tr>
+<td style="text-align:left">torch tip</td>
+<td style="text-align:left">焊嘴／割嘴</td>
+<td style="text-align:left">决定最终气体流量；孔径大小（不是温度）决定传给工件的热量</td>
+</tr>
+<tr>
+<td style="text-align:left">filler rod</td>
+<td style="text-align:left">焊丝／填充棒</td>
+<td style="text-align:left">补充焊缝金属并赋予强度、延性、耐蚀性，标准长度 36 英寸</td>
+</tr>
+<tr>
+<td style="text-align:left">SMAW (stick)</td>
+<td style="text-align:left">焊条电弧焊</td>
+<td style="text-align:left">药皮焊条熔化放出惰性气体并形成渣壳保护熔池</td>
+</tr>
+<tr>
+<td style="text-align:left">GMAW / MIG</td>
+<td style="text-align:left">熔化极惰性气体保护焊</td>
+<td style="text-align:left">裸焊丝连续送进，外部惰性气体保护，适合大批量生产</td>
+</tr>
+<tr>
+<td style="text-align:left">GTAW / TIG</td>
+<td style="text-align:left">钨极惰性气体保护焊</td>
+<td style="text-align:left">钨极不熔化、只作电弧通路，焊丝手工添加，维修首选</td>
+</tr>
+<tr>
+<td style="text-align:left">PAW</td>
+<td style="text-align:left">等离子弧焊</td>
+<td style="text-align:left">钨极装在细孔铜喷嘴内，压缩电弧获得高能量密度</td>
+</tr>
+<tr>
+<td style="text-align:left">keyhole technique</td>
+<td style="text-align:left">小孔法</td>
+<td style="text-align:left">等离子弧完全穿透工件、熔池在孔后凝固的单道全熔透焊法</td>
+</tr>
+<tr>
+<td style="text-align:left">resistance spot welding</td>
+<td style="text-align:left">电阻点焊</td>
+<td style="text-align:left">两铜电极加压通电，靠母材电阻发热熔合并保压凝固</td>
+</tr>
+<tr>
+<td style="text-align:left">seam welding</td>
+<td style="text-align:left">缝焊</td>
+<td style="text-align:left">用两个铜滚轮代替棒状电极，脉冲重叠形成连续焊缝，用于油箱</td>
+</tr>
+<tr>
+<td style="text-align:left">brazing</td>
+<td style="text-align:left">钎焊（硬钎焊）</td>
+<td style="text-align:left">填料熔点高于 800 °F 但低于母材，母材不熔化，靠毛细作用结合</td>
+</tr>
+<tr>
+<td style="text-align:left">soldering</td>
+<td style="text-align:left">软钎焊</td>
+<td style="text-align:left">填料熔点低于 800 °F，靠毛细作用吸入紧密配合的接头</td>
+</tr>
+<tr>
+<td style="text-align:left">silver soldering</td>
+<td style="text-align:left">银钎焊</td>
+<td style="text-align:left">用银基填料，强度高于其它钎焊，用于高压氧管等</td>
+</tr>
+<tr>
+<td style="text-align:left">flux</td>
+<td style="text-align:left">熔剂</td>
+<td style="text-align:left">破坏并浮起氧化物、保证填料润湿母材；多为硼砂加硼酸</td>
+</tr>
+<tr>
+<td style="text-align:left">forehand welding</td>
+<td style="text-align:left">正手焊（左焊法）</td>
+<td style="text-align:left">火焰指向焊接前进方向，焊丝在焊嘴前方，薄件常用</td>
+</tr>
+<tr>
+<td style="text-align:left">backhand welding</td>
+<td style="text-align:left">反手焊（右焊法）</td>
+<td style="text-align:left">火焰反指已完焊缝，焊丝加在火焰与焊缝之间，热量集中，厚板用</td>
+</tr>
+<tr>
+<td style="text-align:left">untempered martensite</td>
+<td style="text-align:left">未回火马氏体</td>
+<td style="text-align:left">快冷形成的玻璃状组织，取代韧性组织，使钢易在熔合线附近开裂</td>
+</tr>
+<tr>
+<td style="text-align:left">post-weld heat treatment</td>
+<td style="text-align:left">焊后热处理</td>
+<td style="text-align:left">焊后整体或局部加热保温，消除应力、避免脆性，不等于"重新熔化"</td>
+</tr>
+<tr>
+<td style="text-align:left">chill bar</td>
+<td style="text-align:left">激冷条（铜垫）</td>
+<td style="text-align:left">贴在焊缝两侧吸走热量，防止薄板翘曲变形</td>
+</tr>
+<tr>
+<td style="text-align:left">back purge</td>
+<td style="text-align:left">背面充氩</td>
+<td style="text-align:left">用独立保护气把焊缝背面空气排走，防止根部氧化</td>
+</tr>
+<tr>
+<td style="text-align:left">rosette weld</td>
+<td style="text-align:left">塞焊（玫瑰花焊）</td>
+<td style="text-align:left">在外套管上钻孔后沿孔周焊到内管，孔径约为原管直径的 1/4</td>
+</tr>
+<tr>
+<td style="text-align:left">HAZ (heat-affected zone)</td>
+<td style="text-align:left">热影响区</td>
+<td style="text-align:left">未被熔化但受热改变组织的区域，钛焊必须保护到降温</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<ul><li>氧乙炔火焰温度：约 <strong>6,300 °F</strong>；以氢代乙炔焊铝：约 <strong>4,800 °F</strong>。</li><li>中性焰：约 <strong>5,850 °F</strong>（内焰锥尖端处）；碳化焰：约 <strong>5,700 °F</strong>；氧化焰：约 <strong>6,300 °F</strong>，需约 <strong>2 份氧 : 1 份乙炔</strong>；氧化焰内锥缩到原长约 <strong>1/10</strong>。</li><li>碳化焰羽状焰心长度：一般为内锥长度的 <strong>2 倍</strong>；焊不锈钢时只留约 <strong>1/16 英寸</strong>的乙炔羽。</li><li>气焊应用史：3/16 英寸以下航空材料的主要生产方法，直到 <strong>20 世纪 50 年代中期</strong>。</li><li>SMAW 电弧温度：超过 <strong>10,000 °F</strong>；引弧后焊条提起约 <strong>1/4 英寸</strong>形成气隙。</li><li>TIG 熔化母材温度：超过 <strong>5,400 °F</strong>。</li><li>PAW：<strong>1964 年</strong>开发；薄件适用范围从箔材到 <strong>1/8 英寸</strong>；大于 1/8 英寸用 keyhole 法配自动化设备。</li><li>等离子切割：可切黄铜与铜超过 <strong>2 英寸</strong>厚。</li><li>乙炔：纯乙炔在 <strong>29.4 psi</strong> 的轻微冲击下即爆炸；焊炬/割炬的乙炔表<strong>绝不允许超过 15 psi</strong>。</li><li>乙炔最大连续抽出量 = 气瓶额定容量的 <strong>1/7</strong>；例：330 ft³ 气瓶 → 最大 <strong>47 ft³/h</strong>（330 ÷ 7）。</li><li>乙炔瓶横放过：使用前必须直立放置<strong>至少两倍</strong>于横放时间的时长。</li><li>气瓶存量：推荐不用到低于 <strong>20 psi</strong>，防止另一瓶气体倒流。</li><li>焊炬软管：内径 <strong>1/4–1/2 英寸</strong>，最大工作压力 <strong>200 psi</strong>，符合 <strong>IP-90</strong>（Rubber Manufacturers Association 与 Compressed Gas Association）；<strong>Grade-R</strong> 只用于乙炔，<strong>T-grade</strong> 用于丙烷、MAPP 及其它燃料气。</li><li>检漏压力：氧 <strong>10 psi</strong>、乙炔 <strong>5 psi</strong>，退回调节螺钉后工作压力应保持稳定；用肥皂水找漏，绝不可用火焰。</li><li>割炬：母材先预热到亮红色 <strong>1,400–1,600 °F</strong>（kindling temperature）。</li><li>焊炬倾角：与垂线成 <strong>30°–60°</strong>；焰心白色锥距工件表面约 <strong>1/8 英寸</strong>。</li><li>填充量：焊缝余高（fillet）约为母材厚度的 <strong>1/4</strong>。</li><li>铬钼钢（4130）厚度 &gt; <strong>3/16 英寸</strong>：焊前预热 <strong>300–400 °F</strong>。</li><li>4130 用 TIG 焊：适用于 <strong>0.120 英寸</strong>以下；<strong>0.093 英寸</strong>以上建议 TIG + 焊后热处理；壁厚 &lt; 0.120 英寸可不预热，但焊后回火仍推荐。</li><li>4130 焊后去应力：中性焰均匀加热到 <strong>1,100–1,200 °F</strong>，按每英寸厚度保温约 <strong>45 分钟</strong>（一般管件只需 1–2 分钟），目视为暗红色（dull red）。</li><li>气焊铝：通常限于 <strong>0.031–0.125 英寸</strong>厚度；焊嘴比同厚度钢件<strong>大一号</strong>；经验公式 <strong>焊嘴孔径 = 3/4 母材厚度</strong>。</li><li>铝熔剂配比：<strong>1 份粉末 : 2 份清洁的泉水或矿泉水</strong>（不可用蒸馏水）。</li><li>铝件定位焊（tack）间距：<strong>1–1½ 英寸</strong>；定位焊内锥长度约为母材厚度的 <strong>3–4 倍</strong>（例：0.063 英寸铝板 → 3/16–1/4 英寸内锥）。</li><li>铝焊后清洗：热水 <strong>180 °F</strong> + 不锈钢刷，随后大量清水冲洗；蚀洗后 <strong>不超过 20 分钟</strong>内底漆并封闭。</li><li>铝钎焊：温度高于 <strong>875 °F</strong>、低于母材熔点；用 <strong>1–2X</strong> 还原焰，以外焰加热。</li><li>铝软钎焊：低于 <strong>875 °F</strong>；焊嘴比焊接时小 1–2 号。</li><li>钎焊（brazing）定义界限：填料熔点 <strong>高于 800 °F</strong>；软钎焊（soldering）<strong>低于 800 °F</strong>。</li><li>软钎料熔点范围：<strong>293–592 °F</strong>；<strong>50/50</strong> 锡铅（half-and-half）熔点约 <strong>360 °F</strong>。</li><li>钎焊熔剂残留清洗：热水 <strong>120 °F 或更热</strong> + 钢丝刷；熔剂过热变绿或变黑时用厂家推荐的弱酸液清除。</li><li>银钎焊：内锥尖端距工件约 <strong>1/2 英寸</strong>；推荐接头为 lap、flanged、edge 三种。</li><li>钛 TIG：钨极距工件表面 <strong>1/16–1/8 英寸</strong>；热影响区与根部必须保护到温度降到 <strong>800 °F</strong> 以下；用 <strong>3/4 英寸</strong>陶瓷杯 + gas lens。</li><li>镁 TIG：弧长保持约 <strong>5/16 英寸</strong>；中断后从上一段末端 <strong>1/2 英寸</strong>处续焊。</li><li>SMAW 立焊：同等焊条直径下电流小于平焊，且向上焊的电流要略高于向下焊；向上焊时焊条与垂线成 <strong>90°</strong>，向下焊时手在电弧下方、焊条上翘约 <strong>15°</strong>。</li><li>SMAW 仰焊：必须始终保持短弧；平焊前进角 <strong>20°–25°</strong>，电弧长 <strong>1/16–1/8 英寸</strong>，断弧弧坑约 <strong>1/16 英寸</strong>。</li><li>SMAW 平焊角焊缝（tee/lap）：焊条与板面成 <strong>45°</strong>，再沿焊接方向倾 <strong>15°</strong>；搭接接头焊条与垂线约 <strong>30°</strong>、沿焊接方向倾 <strong>15°</strong>。</li><li>SMAW 良好焊道：飞溅极少、断弧后弧坑约 <strong>1/16 英寸</strong>、余高略凸无咬边、熔深约 <strong>1/16 英寸</strong>。</li><li>板厚 <strong>1/8–1/4 英寸</strong>可单道焊；超过 <strong>1/4 英寸</strong>必须开坡口多道焊；<strong>3/4 英寸</strong>以上开双 V 坡口。</li><li>立焊位置定义：任何与水平面倾斜 <strong>超过 45°</strong> 的焊接面。</li><li>长焊缝收缩：长度超过 <strong>10 或 12 英寸</strong>的直缝会随焊接把两端拉拢，需预留递增间隙。</li><li>薄板变形：<strong>1/8 英寸及更薄</strong>的薄板易翘曲，用铜激冷条（chill bar）；<strong>1/16 英寸以下</strong>可翻边 + 间隔定位焊。</li><li>管接头坡口间隙：tee 接头留约等于板厚的间隙以利全熔透。</li><li>补片（cluster 处凹坑）：补片材料与厚度取受损管中最厚者；补片指状伸出管外<strong>至少 1½ 倍</strong>该管直径；补片与接头轮廓间隙<strong>不超过 1/16 英寸</strong>。</li><li>开裂止裂孔：用 <strong>No. 40</strong> 钻头在裂纹两端止裂。</li><li>分裂套管（split sleeve）：两端 <strong>30°</strong> 斜切；套管距裂纹或凹坑边缘<strong>不小于 1½ 倍</strong>受损管直径。</li><li>内套管拼接：两端各留 <strong>1/8 英寸</strong>焊接间隙；内套管端距斜切口最近端<strong>至少 1½ 倍</strong>管径；用 rosette weld 定位。</li><li>外套管拼接：原管两端 <strong>90°</strong> 切；替换管顶住原管残端公差 <strong>±1/64 英寸</strong>；套管与原件径向间隙<strong>不超过 1/16 英寸</strong>；套管端距切口<strong>至少 1½ 倍</strong>管径。</li><li>整流管（streamline tubing）修理：圆插入管与原件同材料但<strong>厚一个规格（one gauge thicker）</strong>；圆管内径/外形按图表 A、B、C 取值。</li><li>Rosette weld 孔径：约为原管直径的 <strong>1/4</strong>。</li><li>电阻焊控制参数：电流、压力、通电保持时间（dwell time），须与材料种类和厚度匹配。</li><li>护目镜标准：ANSI <strong>Z87-1989</strong> 特殊用途镜片；矩形护目镜标准镜片 <strong>2 英寸 × 4.25 英寸</strong>。</li><li>线膨胀系数定义：1 英寸长的金属温度升高 <strong>1 °F</strong> 时的伸长量（英寸）；伸长量 = 线膨胀系数 × 温升 × 长度（英寸）。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<h3 id="气焊设备组成-oxy-acetylene-outfit">气焊设备组成（oxy-acetylene outfit）</h3>
+<ul><li>两个气瓶：oxygen 与 acetylene。</li><li>两套减压器 + 气瓶压力表（乙炔左旋螺纹带沟槽，氧右旋无沟槽）。</li><li>两条软管：<strong>红色=乙炔（左旋）</strong>，<strong>绿色=氧（右旋）</strong>。</li><li>焊炬：内部混合头（internal mixing head）、可换焊嘴、软管接头。</li><li>护目镜、火石点火器（flint striker）、乙炔瓶阀专用扳手、合适等级的灭火器。</li><li>安全附件：check valve（单向阀）与 flashback arrestor（回闪制止器），装在减压器与软管之间。</li></ul>
+<h3 id="焊炬与焊嘴">焊炬与焊嘴</h3>
+<ul><li>equal pressure torch：有混合室，乙炔 1–15 psi，火焰易调、回闪少；小型款（Smith Airline™、Meco Midget™）可焊 0.250 英寸钢。</li><li>injector torch：燃料气 0–2 psi，靠高压氧的文丘里效应吸入燃料，多配丙烷/丙烯，更易回闪。</li><li>cutting torch：在焊炬手柄上加切割附件，多一个切割氧阀与切割杆。</li><li>焊嘴：welding tip 单孔，cutting tip 中心一大孔（切割氧）+ 周围若干小孔（预热火焰）；号码越大孔径越大。</li></ul>
+<h3 id="火焰三种">火焰三种</h3>
+<ul><li>neutral：内锥明亮、外焰包住，熔池安静清亮，钢件不烧不溅。</li><li>carburizing/reducing：乙炔过量，白心 + 绿羽，能还原氧化铁中的氧。</li><li>oxidizing：氧过量，外焰短、内锥小而尖、尖端发紫，伴嘶声。</li></ul>
+<h3 id="电弧焊四类">电弧焊四类</h3>
+<ul><li>SMAW：焊条（金属芯 + 药皮）夹在电极夹上，经大电流电缆接低压电源（AC 或 DC）；药皮熔化成惰性气体保护 + 渣壳覆盖。</li><li>GMAW/MIG：裸焊丝由送丝机构经焊炬送出，惰性气体（氩、氦、CO₂）从喷嘴包围；典型用低压大电流 DC；设备含气源、电源、送丝机构、流量计、控制冷却水的开关。</li><li>GTAW/TIG：钨极（thoriated、zirconiated、纯钨）+ 惰性气（氩或氦），填充丝手工送入；电源可为 DC 正极性、DC 反极性或 AC，另有脚踏或焊炬上的电流调节。</li><li>PAW：钨极置于细孔铜喷嘴内，先在电极与喷嘴间引 pilot arc，再转移到工件；等离子气一般用氩，另加氩/氦或氩/氮作次级保护气。</li></ul>
+<h3 id="电阻焊">电阻焊</h3>
+<ul><li>spot welding：两铜电极夹住板材，加压通电，母材电阻远大于铜电极而生热熔化，断电后继续保压至凝固。</li><li>seam welding：两个铜滚轮代替棒状电极，脉冲重叠成连续焊缝，用于油箱等要求连续密封的件。</li></ul>
+<h3 id="接头形式-oxy-acetylene">接头形式（oxy-acetylene）</h3>
+<ul><li>butt joint：plain（1/16–1/8 英寸，需焊丝）、flanged（1/16 英寸以下薄板，翻边高度等于板厚，通常不加焊丝）、bevel/V 形（厚于 1/8 英寸）。</li><li>tee joint：一件的端部焊到另一件表面，管簇结构最常见；厚件需单/双面开坡口。</li><li>edge joint：两板边缘向上弯、并列后沿外缘焊接，不承受主要载荷。</li><li>corner joint：两件边缘合成箱形角，A 型不加焊丝，B 型加焊丝以增加圆角与强度，C 型在内侧再加一道焊道加强。</li><li>lap joint：氧乙炔焊在飞机结构上很少用（点焊常用）；single lap 抗弯差，double lap 强度高但焊接量翻倍。</li></ul>
+<h3 id="管结构修理形式">管结构修理形式</h3>
+<ul><li>cluster 处凹坑：成型钢补片（patch plate）覆盖凹坑区与相邻管。</li><li>cluster 之间凹坑/裂纹：分裂套管（split sleeve）外包加强。</li><li>局部换管：内套筒（inside sleeve）+ rosette welds；或外套筒（outer split sleeve，可 fish-mouth 或 30° 斜切）。</li><li>整流管（streamline）起落架：圆插入管（厚一个规格）或同型整流管开尾缘插入（split insert）。</li><li>发动机架：大直径管套在原件残端外，fish-mouth + rosette 焊，或 30° scarf 焊。</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<h3 id="焊前准备-本章反复强调的共性要求">焊前准备（本章反复强调的共性要求）</h3>
+<ul><li>母材、焊丝都必须除油除脂：铝用变性异丙醇（denatured isopropyl alcohol），配不锈钢刷在焊前刚刷掉看不见的氧化膜；钛可用洗涤剂与非氯化溶剂。</li><li>接头贴合（fit-up）要做到最好，避免大间隙；填充金属须与母材相容，直径不得大于被焊件。</li><li>焊前按厚度选焊嘴、按焊嘴定工作压力；不准用过长、有多个接头或内径过小的软管（会造成供气不足→焊嘴过热→回闪）。</li><li>气瓶直立存放运输并固定；气瓶保护钢帽在投用前不拆。</li></ul>
+<h3 id="焊缝外观判据-characteristics-of-a-good-weld">焊缝外观判据（"Characteristics of a Good Weld"）</h3>
+<ol><li>焊缝平滑、焊波间距均匀、厚度一致；</li><li>略呈凸面，接头处有额外厚度；</li><li>向母材平滑过渡（taper off）；</li><li>焊缝附近母材上没有氧化物；</li><li>无 blowholes、porosity、突出金属球；</li><li>母材无烧伤、麻点、裂纹、变形。</li></ol>
+<h3 id="常见缺陷与成因-本章给出的清单">常见缺陷与成因（本章给出的清单）</h3>
+<ul><li>强度不足多因：熔深不够（insufficient penetration）、焊趾处母材被咬边（undercutting）、熔合不良（poor fusion）、焊缝内夹氧化物/夹渣/气孔、焊缝金属搭在母材上（overlap）、余高过多或过少、过热。</li><li>铝合金气焊的典型难点：加热时几乎没有征兆就突然熔塌成洞，需靠练习掌握目视判断手感。</li><li>钎焊过热使填料沸腾 → 接头多孔且脆；铝钎焊过热则熔剂变棕或变灰，必须重新清洗并重新涂熔剂。</li><li>钛焊缝颜色即质量判据：<strong>亮银=保护良好</strong>；<strong>麦秆色=轻微污染，一般不影响力学性能</strong>；<strong>深蓝膜或白色粉状氧化物=吹扫严重不足，必须整段除掉重焊</strong>。</li><li>不锈钢气焊乙炔过量会增碳，丧失耐蚀性；氧化焰会造成氧化物夹杂与裂纹（fissures）。</li></ul>
+<h3 id="修理纪律">修理纪律</h3>
+<ul><li>补焊（reweld）前必须把旧焊缝金属全部去掉；重复加热会使母材失强、变脆（这与"焊后热处理"不同——后者温度不足以伤害母材）。</li><li>焊缝不许锉平修饰（filing 会削弱焊缝），不许用焊锡、钎料或任何填料填补。</li><li>裂纹按 butt joint 处理：先止裂钻孔，再用焊丝按平对接焊补；但多数情况下单靠焊接不构成完整修理，仍需补强。</li><li>起落架：A、B、C 型轴组件可焊修；<strong>D 型一般不可修</strong>（下轴颈为高强热处理的镍合金钢、上 oleo 段经热处理并精加工，焊接会变形）；<strong>E 型弹簧钢叶片不可焊，必须更换</strong>。</li><li>发动机架：所有焊缝必须由有经验的焊工完成；裂纹焊缝必须磨掉重焊，只用高品质匹配焊丝；必须保持结构对位（上专用夹具，或先装到发动机/机体上再焊）；若厂家出厂做过去应力，焊修后必须再次去应力；发动机架环大面积损伤，除非修理方法经 <strong>FAA Engineering、DAR（Designated Engineering Representative）</strong> 批准，或按 FAA 批准的说明施工，否则不得修理。</li><li>可接受的修理方法与实践参照 <strong>FAA Advisory Circular AC 43.13-1</strong>《Acceptable Methods, Techniques, and Practices—Aircraft Inspection and Repair》；原本经过热处理的组件，焊修后必须重新热处理。</li><li>不锈钢：只有<strong>非结构件</strong>（排气管集合器、堆叠管、歧管）可焊；结构用不锈钢是冷作/冷轧态，受热就失强。</li></ul>
+<h3 id="变形与收缩控制">变形与收缩控制</h3>
+<ul><li>铜激冷条（chill bar）吸热、夹具（fixture/jig）导热、沿缝间隔定位焊，都是控制膨胀的方法。</li><li>长于 10–12 英寸的直缝：把间隙从一端正确值递增到另一端，从间隙正确的一端起焊。</li><li>管结构与铸件焊前预热可显著降低内应力。</li><li>不锈钢与镁合金线膨胀系数大，须用跳焊（skip welding）、退焊（back-step welding）、夹具，定位焊数量加倍。</li></ul>
+<h3 id="收工与安全">收工与安全</h3>
+<ul><li>熄火顺序：先关焊炬乙炔阀，再关氧阀（割炬另关切割氧阀）。</li><li>约 30 分钟内不再使用，就关闭两只气瓶阀并把软管余压放掉，减压器调节螺钉逆时针退松。</li><li>点火只用火石点火器，绝不用明火或火柴（积聚燃气会包住手部）。</li><li>严格禁止用火焰检漏；气焊护目镜不可用于电弧焊。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（飞机焊接：三类焊接与设备、三种火焰、回火与回闪、4130 钢与焊后热处理、熔剂与保护气、修理纪律）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> The torch is adjusted until the flame is in the correct _____ , with a bright inner cone and a shorter outer envelope.</p>
+<p>A) proportional　　B) proportion　　C) proportionally　　D) proportionate</p>
+<p><strong>2.</strong> A _____ is gas burning back inside the torch itself, accompanied by a sharp hiss; the fuel must be shut off immediately.</p>
+<p>A) backfire　　B) flashback　　C) blowback　　D) feedback</p>
+<p><strong>3.</strong> Chrome-molybdenum steel thicker than 3/16 inch must be preheated _____ 300 to 400 °F before any welding starts.</p>
+<p>A) at　　B) on　　C) to　　D) in</p>
+<p><strong>4.</strong> For a sound weld the molten pool must _____ from the air until it has completely solidified.</p>
+<p>A) protect　　B) be protected　　C) be protecting　　D) have protected</p>
+<p><strong>5.</strong> Only after the old weld metal has been removed completely _____ the joint be rewelded.</p>
+<p>A) can　　B) the welder can　　C) could　　D) that</p>
+<p><strong>6.</strong> The filler metal must be _____ with the base metal, and its diameter must not be larger than the parts being welded.</p>
+<p>A) comparative　　B) comparable　　C) compatible　　D) compact</p>
+<p><strong>7.</strong> Flux is used to dissolve and float away the oxides so that the filler metal can _____ the base metal.</p>
+<p>A) whet　　B) wet　　C) welt　　D) wait</p>
+<p><strong>8.</strong> When welding stops for about 30 minutes, the cylinder valves should be _____ and the hoses bled.</p>
+<p>A) shut down　　B) shut up　　C) shut in　　D) shut off</p>
+<p><strong>9.</strong> Unlike SMAW, in which the electrode itself melts into the weld, GTAW uses a _____ tungsten electrode and the filler is added by hand.</p>
+<p>A) consumptive　　B) consumed　　C) nonconsumable　　D) consuming</p>
+<p><strong>10.</strong> Welds must never be filled with solder or brazing alloy, nor _____ smoothed with a file to improve their appearance.</p>
+<p>A) be　　B) being　　C) are　　D) is</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. B</strong> —— in the correct 后面需要名词，<code>in the correct proportion</code>（比例正确）是本章描述火焰调整的说法；A) proportional、D) proportionate 是形容词，不能作 in 的宾语；C) proportionally 是副词，也不能跟在形容词 correct 之后。</p>
+<p><strong>2. B</strong> —— flashback 指气体在焊炬内部燃烧，伴随尖啸声，必须立即切断气源；A) backfire 是在焊嘴处瞬时回燃、火焰熄灭，通常只需重新点火，危险程度完全不同；C) blowback 与 D) feedback 都不是气焊术语，属形近干扰。</p>
+<p><strong>3. C</strong> —— <code>preheat something to a temperature</code> 是固定搭配，介词用 to；A) at 表示"在某温度点"而不是"加热到某温度"；B) on 与 D) in 都不能与 preheat 组成该含义的短语。</p>
+<p><strong>4. B</strong> —— 熔池是被保护的对象，情态动词 must 后接被动语态 <code>be protected</code>；A) protect 是主动语态，主语会变成施动者；C) be protecting 是进行体主动；D) have protected 是完成体主动。</p>
+<p><strong>5. A</strong> —— <code>Only after ...</code> 位于句首时主句要部分倒装，把情态动词 can 提到主语之前；B) the welder can 是正常语序，倒装缺失；C) could 与后文 be rewelded 时态不搭，且本句陈述规则应用 can；D) that 是连词，不能充当情态动词。</p>
+<p><strong>6. C</strong> —— compatible with 意为"与……相容"，指焊丝与母材冶金上匹配；A) comparative 意为"比较的"；B) comparable 意为"可比的"；D) compact 意为"紧凑的"，三者与 compatible 形近，都不表示"相容"。</p>
+<p><strong>7. B</strong> —— wet 在这里作动词，意为"润湿"，指熔化的钎料或焊料在母材表面铺展；A) whet 意为"磨（刀）、刺激"，是形近干扰；C) welt 意为"鞭痕、贴边"；D) wait 意为"等待"，均与润湿无关。</p>
+<p><strong>8. D</strong> —— <code>shut off</code> 意为"关闭（阀门、气源）"，与后文"放掉软管余压"配套；A) shut down 多指关闭设备或工厂；B) shut up 意为"闭嘴"；C) shut in 意为"把……关在里面"，都不用于关闭气瓶阀。</p>
+<p><strong>9. C</strong> —— GTAW 的钨极不熔化、只作电弧通路，术语是 nonconsumable electrode；A) consumptive 意为"消耗性的、患痨病的"，语体与含义都不对；B) consumed 是过去分词，意为"被消耗掉的"；D) consuming 是现在分词，指"消耗（别的）东西的"，都不能准确表达"电极本身不熔化"。</p>
+<p><strong>10. A</strong> —— nor 后面要与前面的 <code>must never be filled</code> 保持并列，共享情态动词 must，故用 <code>nor be smoothed</code>；B) being 是分词，破坏并列；C) are 与 D) is 是限定动词，与 must never be 的结构重复，会造成谓语冲突。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ul><li><strong>backfire vs flashback</strong>：前者是焊嘴处的瞬时回燃，火焰熄灭、通常只需重新点火；后者是气体在焊炬内部持续燃烧，必须立刻关闭气瓶阀并查明原因。</li><li><strong>brazing vs soldering</strong>：分界就是填料熔点 800 °F——高于 800 °F 而低于母材熔点为 brazing（母材不熔化，靠毛细作用与晶间渗透结合）；低于 800 °F 为 soldering。</li><li><strong>SMAW/GMAW 的消耗电极 vs GTAW 的不消耗电极</strong>：前两者电极本身熔化成填充金属（SMAW 靠药皮产气造渣，GMAW 靠外部惰性气）；TIG 的钨极不熔化、只通电弧，填充丝另手送入。</li><li><strong>single-stage vs two-stage regulator</strong>：功能相同，但双级在气瓶压力下降时出口压力更稳定，识别特征是调节旋钮下方多一个较大的第二压力腔。</li><li><strong>焊后热处理 vs 补焊时的重复加热</strong>：前者温度受控（4130 为 1,100–1,200 °F），目的是去应力且不伤害母材；后者（把旧焊缝重新熔化）会使母材失强变脆，所以补焊必须先清除旧焊缝金属。</li><li><strong>气焊铝的"大一号焊嘴" vs 不锈钢的"小一至两号焊嘴"</strong>：铝件选嘴比同厚度钢件大一号（经验值：焊嘴孔径 = 3/4 板厚）；不锈钢为避免过热丧失耐蚀性，选比同厚度低碳钢小一至两号。</li></ul>

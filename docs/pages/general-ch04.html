@@ -1,0 +1,259 @@
+<h1 id="ch-04-aircraft-drawings-飞机图纸">Ch 04 · Aircraft Drawings（飞机图纸）</h1>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>图纸是制图者的语言：本章从图纸分类、标题栏与编号、投影与图示方法、线型符号，讲到读图、徒手草图和图表/缩微资料的使用。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ol><li>口头与文字描述容易因一个逗号或一个错词改变原意，所以航空业用图纸表达物的构造与装配；图纸靠 lines、notes、abbreviations、symbols 传递信息，维修人员必须读懂这些要素。</li><li>图纸分三大类：detail drawing（单个零件）、assembly drawing（两个以上零件的相互关系）、installation drawing（零件或组件在机上最终安装位置与定位尺寸）。</li><li>每张图必须有 title block 做身份识别，固定给出图号、零件/组件名称、比例、日期、公司名，以及制图人、校对人和批准人姓名。</li><li>尺寸的公差判读有明确规则：+ 为最大允许偏差、− 为最小允许偏差，两者之和即 tolerance；未标注公差的尺寸适用标题栏中的 print tolerance。</li><li>图示方法分四路：orthographic projection（正投影，最多六视图）、pictorial drawing（透视图/轴测图/斜视图/分解图）、diagram（安装图/原理图/方框图/线路图）、flowchart（排故流程图/逻辑流程图）。</li><li>线型是图纸的语法：不同线宽（thin/medium/thick）与不同虚实组合各自固定表达中心线、隐藏边、假想位置、剖切面、引出标注等，混用则图纸失去意义。</li><li>读图必须按序：先读图号与品名，核对型号、最新更改字母和上一级装配，再逐视图对照读形状，最后读尺寸、公差、general notes 与材料栏。</li><li>除图纸外，nomogram、图表、缩微胶卷/缩微平片与数码照片都是维修现场获取技术数据的辅助手段，其中 nomogram 由三组数据构成，知其二可得其三。</li></ol>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">detail drawing</td>
+<td style="text-align:left">零件图</td>
+<td style="text-align:left">描述单个零件的尺寸、形状、材料与制造方法</td>
+</tr>
+<tr>
+<td style="text-align:left">assembly drawing</td>
+<td style="text-align:left">装配图</td>
+<td style="text-align:left">描述两个及以上零件组成的物体，重点表达零件间相互关系</td>
+</tr>
+<tr>
+<td style="text-align:left">installation drawing</td>
+<td style="text-align:left">安装图</td>
+<td style="text-align:left">给出零件或组件在机上最终安装位置所需的定位尺寸与参考尺寸</td>
+</tr>
+<tr>
+<td style="text-align:left">sectional view</td>
+<td style="text-align:left">剖视图</td>
+<td style="text-align:left">切去部分物体以显示剖切面处形状与构造</td>
+</tr>
+<tr>
+<td style="text-align:left">full section</td>
+<td style="text-align:left">全剖</td>
+<td style="text-align:left">整个物体被剖开，用于外部视图看不清内部构造时</td>
+</tr>
+<tr>
+<td style="text-align:left">half section</td>
+<td style="text-align:left">半剖</td>
+<td style="text-align:left">剖切面只切到物体一半，另一半保留外形，用于对称件</td>
+</tr>
+<tr>
+<td style="text-align:left">revolved section</td>
+<td style="text-align:left">旋转剖视</td>
+<td style="text-align:left">直接画在外视图上的横截面形状（如轮辐）</td>
+</tr>
+<tr>
+<td style="text-align:left">removed section</td>
+<td style="text-align:left">移出剖视</td>
+<td style="text-align:left">画法同旋转剖视，但移到视图一侧，可放大比例</td>
+</tr>
+<tr>
+<td style="text-align:left">title block</td>
+<td style="text-align:left">标题栏</td>
+<td style="text-align:left">图纸的身份区，通常位于右下角</td>
+</tr>
+<tr>
+<td style="text-align:left">dash number</td>
+<td style="text-align:left">尾号（短划号）</td>
+<td style="text-align:left">同一图号下区分不同零件，如 40267-1 与 40267-2</td>
+</tr>
+<tr>
+<td style="text-align:left">universal numbering system</td>
+<td style="text-align:left">通用编号系统</td>
+<td style="text-align:left">用首位数字或字母表示图纸标准幅面</td>
+</tr>
+<tr>
+<td style="text-align:left">bill of material</td>
+<td style="text-align:left">材料清单</td>
+<td style="text-align:left">列出零件号、名称、材料、数量与来源</td>
+</tr>
+<tr>
+<td style="text-align:left">revision block</td>
+<td style="text-align:left">更改栏</td>
+<td style="text-align:left">记录更改符号、日期、更改性质、更改依据与制图人</td>
+</tr>
+<tr>
+<td style="text-align:left">zone number</td>
+<td style="text-align:left">分区号</td>
+<td style="text-align:left">类似地图边框的坐标，用于在大图上定位</td>
+</tr>
+<tr>
+<td style="text-align:left">fuselage station (FS)</td>
+<td style="text-align:left">机身站位</td>
+<td style="text-align:left">以 datum 为基准量出的纵向位置</td>
+</tr>
+<tr>
+<td style="text-align:left">buttock line (BL) / butt station</td>
+<td style="text-align:left">站位线（左右位置）</td>
+<td style="text-align:left">以机身纵轴为基准量出的左右位置</td>
+</tr>
+<tr>
+<td style="text-align:left">waterline (WL)</td>
+<td style="text-align:left">水线</td>
+<td style="text-align:left">机上垂直方向位置的基准</td>
+</tr>
+<tr>
+<td style="text-align:left">allowance</td>
+<td style="text-align:left">留量（偏差）</td>
+<td style="text-align:left">标注中 + 与 − 给出的允许变动量</td>
+</tr>
+<tr>
+<td style="text-align:left">tolerance</td>
+<td style="text-align:left">公差</td>
+<td style="text-align:left">正负允许偏差之和</td>
+</tr>
+<tr>
+<td style="text-align:left">finish mark</td>
+<td style="text-align:left">加工符号</td>
+<td style="text-align:left">标明必须机加工的表面，不含涂漆、镀铬等覆盖层</td>
+</tr>
+<tr>
+<td style="text-align:left">orthographic projection</td>
+<td style="text-align:left">正投影</td>
+<td style="text-align:left">用多个视图表达物体真实尺寸与形状</td>
+</tr>
+<tr>
+<td style="text-align:left">detail view</td>
+<td style="text-align:left">局部放大图</td>
+<td style="text-align:left">只画物体的一部分，比例大于主视图</td>
+</tr>
+<tr>
+<td style="text-align:left">pictorial drawing</td>
+<td style="text-align:left">立体图（轴测示意图）</td>
+<td style="text-align:left">像照片一样表现物体外观，用于 AMM/SRM/IPC</td>
+</tr>
+<tr>
+<td style="text-align:left">perspective drawing</td>
+<td style="text-align:left">透视图</td>
+<td style="text-align:left">最接近照片观感，但线条不平行、尺寸不真实</td>
+</tr>
+<tr>
+<td style="text-align:left">isometric drawing</td>
+<td style="text-align:left">等轴测图</td>
+<td style="text-align:left">三视图合一，线条平行且可按投影尺寸标注</td>
+</tr>
+<tr>
+<td style="text-align:left">oblique drawing</td>
+<td style="text-align:left">斜二测图</td>
+<td style="text-align:left">与等轴测类似，但三个轴中有两个始终成直角</td>
+</tr>
+<tr>
+<td style="text-align:left">exploded view</td>
+<td style="text-align:left">分解图</td>
+<td style="text-align:left">画出装配体中各零件及其装配前的相对位置</td>
+</tr>
+<tr>
+<td style="text-align:left">schematic diagram</td>
+<td style="text-align:left">原理图（系统图）</td>
+<td style="text-align:left">不标位置与真实尺寸，只表达系统内相互连接与工作原理</td>
+</tr>
+<tr>
+<td style="text-align:left">block diagram</td>
+<td style="text-align:left">方框图</td>
+<td style="text-align:left">用矩形块与连线表示部件间的简化关系</td>
+</tr>
+<tr>
+<td style="text-align:left">wiring diagram</td>
+<td style="text-align:left">线路图</td>
+<td style="text-align:left">表示全机电气线路与电路，按编码识别</td>
+</tr>
+<tr>
+<td style="text-align:left">flowchart</td>
+<td style="text-align:left">流程图</td>
+<td style="text-align:left">表达事件顺序或流程，分排故流程图与逻辑流程图</td>
+</tr>
+<tr>
+<td style="text-align:left">centerline</td>
+<td style="text-align:left">中心线</td>
+<td style="text-align:left">长短划交替，指示物体或其局部的中心</td>
+</tr>
+<tr>
+<td style="text-align:left">hidden line</td>
+<td style="text-align:left">虚线（隐藏线）</td>
+<td style="text-align:left">等距短划，表示不可见棱边或轮廓</td>
+</tr>
+<tr>
+<td style="text-align:left">phantom line</td>
+<td style="text-align:left">假想线</td>
+<td style="text-align:left">一长两短等距划，表示运动后的位置或缺失件位置</td>
+</tr>
+<tr>
+<td style="text-align:left">break line</td>
+<td style="text-align:left">断裂线</td>
+<td style="text-align:left">表示物体一部分未画出，短线徒手画、长线用带锯齿的直尺线</td>
+</tr>
+<tr>
+<td style="text-align:left">leader line</td>
+<td style="text-align:left">引出线</td>
+<td style="text-align:left">带单个箭头的实线，把注记引向所指部位</td>
+</tr>
+<tr>
+<td style="text-align:left">cutting plane line</td>
+<td style="text-align:left">剖切面线</td>
+<td style="text-align:left">标明剖视图的剖切位置</td>
+</tr>
+<tr>
+<td style="text-align:left">stitch line</td>
+<td style="text-align:left">缝线</td>
+<td style="text-align:left">一串极短划，长度约为虚线的一半，表示缝纫线</td>
+</tr>
+<tr>
+<td style="text-align:left">nomogram</td>
+<td style="text-align:left">诺模图（列线图）</td>
+<td style="text-align:left">含三组数据的图表，知其二可求第三</td>
+</tr>
+<tr>
+<td style="text-align:left">microfiche</td>
+<td style="text-align:left">缩微平片</td>
+<td style="text-align:left">以网格排布多页的卡片式缩微载体</td>
+</tr>
+<tr>
+<td style="text-align:left">CAD / CADD / CAM / CAE</td>
+<td style="text-align:left">计算机辅助设计/制图/制造/工程</td>
+<td style="text-align:left">计算机参与零件或产品的设计、制图、制造与工程分析</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<ul><li>大幅面打印机：可打印高度达 <strong>42 in</strong>、宽度达 <strong>600 in</strong> 的图纸，使用连续卷纸。</li><li>通用编号系统图号为 <strong>6 位或 7 位</strong>，首位只能是 <strong>1、2、4、5</strong>，表示图纸幅面：</li><li><strong>1</strong> = 8½" × 11"；<strong>2</strong> = 11" × 17"；<strong>4</strong> = 17" × 22"；<strong>5</strong> = 宽 17–36 in 的连续卷。</li><li>字母幅面（日益常用，A 至 E 最常见）：<strong>A</strong> 8½"×11"、<strong>B</strong> 11"×17"、<strong>C</strong> 17"×22"、<strong>D</strong> 22"×34"、<strong>E</strong> 34"×44"；另有 <strong>D1</strong> 24"×36"、<strong>E1</strong> 30"×42"，更大格式一般限于公司内部使用。</li><li>站位示例：<strong>Fuselage station 185</strong> 表示距飞机 datum <strong>185 in</strong> 的位置；datum 通常取机头或零站位，也有厂家取 firewall 或其他点。</li><li>公差计算（书中原例）：</li><li>标注 <code>0.225 + 0.0025 − 0.0005</code> → 公差 = 0.0025 + 0.0005 = <strong>0.0030</strong></li><li>标注 <code>0.225 ± 0.0025</code> → 公差 = <strong>0.0050</strong></li><li>许多图纸在标题栏给出全图适用的标准公差：<strong>−0.010</strong> 或 <strong>−1⁄32</strong>。</li><li>比例：可 1:1 原大绘制；电子绘图可缩放，<strong>尺寸一律以图上标注为准</strong>，不以比例量取。</li><li>print tolerance（通常位于标题栏）用于非关键尺寸；某尺寸未标公差时即适用它。示例：2 in ±0.01 的尺寸可写成上下两行 <strong>2.01 / 1.99</strong>。</li><li>图 4-26 孔标注示例：<strong>³⁄16 drill</strong> 3 孔等距；<strong>¼ drill、⁷⁄16 c'bore、⅛ deep</strong>；<strong>80° c'sk to ⁵⁄16 DIA</strong>；<strong>0.3125 drill、0.3217 ream</strong>。</li><li>缩微胶卷规格：<strong>16 mm</strong> 与 <strong>35 mm</strong>；35 mm 因画幅大，图纸复制质量更好。</li><li>图 4-32 诺模图：航空燃油在 <strong>15 °C（59 °F）</strong> 的平均比重示例值 <strong>0.703 / 0.785 / 0.812</strong>；修正系数为 Jet B（JP-4）<strong>×0.99</strong>、Av Gas 100/130 <strong>×0.98</strong>（燃油量表按 Jet A / Jet A1 标定）。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<ul><li><strong>图纸按用途分类</strong></li><li>detail drawing：单件；小零件可将数张零件图画在同一张图纸上</li><li>assembly drawing：两件以上，表达相互关系，通常附各零件图</li><li>installation drawing：最终装机位置、定位尺寸、参考尺寸</li><li><strong>剖视表达</strong></li><li>full section / half section / revolved section / removed section</li><li><strong>图纸信息区（Other Drawing Data）</strong></li><li>title block：图号、品名、比例、日期、公司名、制图人/校对人/批准人</li><li>drawing number：位于标题栏内部的 number block；另在图框上边、右上角、背面两端重复，便于折叠或卷起后识别</li><li>reference numbers：指向其他图纸的图号</li><li>dash numbers：区分同一图号下的不同零件；也用于区分左右件</li><li>revision block：更改符号、日期、更改性质、更改依据、更改人</li><li>notes：安装/施工方法、可选方案、可用改装</li><li>zone numbers：大图定位</li><li>bill of material：零件号、名称、材料、数量、来源</li><li>scale、application（适用机型/安装）</li><li><strong>图示方法体系</strong></li><li>orthographic projection：front / top / bottom / rear / right side / left side 共六视图；常用一、二、三视图</li><li>pictorial drawing：perspective、isometric、oblique、exploded view</li><li>diagram：installation、schematic、block、wiring</li><li>flowchart：troubleshooting、logic</li><li><strong>制图要素</strong></li><li>线型：centerline、dimension、extension、sectioning、phantom、break、leader、hidden、outline/visible、stitch、cutting plane、viewing plane</li><li>符号：material symbols（剖面线符号）、shape symbols（形状符号）、electrical symbols（电气符号）</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<ul><li><strong>图纸保管</strong>：图纸昂贵且有价值；慢慢展开防撕裂，折痕要抚平而不是反向折；不得摊在地上或以工具为垫；手应无油污；用完按原有折痕折回归档。</li><li><strong>更改权限</strong>：任何人不得在图纸上随意注记或涂写；只有授权人员可做注记或更改，且<strong>必须签名并注明日期</strong>。</li><li><strong>读图固定顺序</strong>：读图号与品名 → 核对受影响型号、最新更改字母、上一级装配 → 判断图是否正确 → 浏览全部视图取得整体形状 → 选定一个视图细读，并与相邻视图来回对照 → 判读尺寸与公差 → 读 general notes、材料栏、更改记录与视图附近的特别说明。</li><li><strong>单视图不能读图</strong>：一个视图上的圆既可能是孔也可能是凸台，必须借另一视图判定；给三视图时三视图都要看。</li><li><strong>公差判读</strong>：+ 值为最大允许、− 值为最小允许；正偏差用于要滑动或转动的配合，负偏差用于压入配合（force fit）；配合公差宜符合 American Standard for Tolerances, Allowances, and Gauges for Metal Fits，装配图上可标出配合等级。</li><li><strong>孔的标注惯例</strong>：孔距按中心到中心标注；数个不同孔径时用引出线标各孔径并注加工方法；三个等径均布孔要明确写出；精密件用小数标注；沉孔（counterbored）给直径与深度，锥沉孔（countersunk）给锥角与直径。</li><li><strong>尺寸标注惯例</strong>：所有尺寸与文字自左向右可读；角度值写在弧内；圆件尺寸用直径并加 <strong>D</strong> 或 <strong>DIA</strong>；圆弧用半径并加 <strong>R</strong>；平行尺寸中最长者离轮廓最远、最短者最近；无英寸符号者即为英寸，采用公制的新机图纸以 <strong>mm</strong> 为单位。</li><li><strong>加工符号</strong>：finish marks 只表示需要机加工的表面，不要与油漆、搪瓷、镀铬等覆盖层混淆；加工时要遵守规定的极限与公差。</li><li><strong>徒手草图步骤</strong>：确定必要视图 → 用轻的 construction lines 打底 → 补细节 → 加深轮廓 → 画尺寸界线与尺寸线 → 补注记、尺寸、标题、日期，必要时签名。</li><li><strong>数码照片取证</strong>：拍摄损伤时在损伤旁放置比例尺或硬币等已知尺寸物，并在邮件正文写明损伤的确切位置（引用 fuselage station、wing station 等站位）。</li><li><strong>量具与仪器保养</strong>：T 尺、三角板、比例尺不得磕碰刃口；绘图板只作绘图用；圆规、分规、鸭嘴笔要保持形状与锋利；分规尖插入软橡胶保存；墨线笔用后必须洗净晾干再收存。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（飞机图纸）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> A drawing that describes a single part, its dimensions, shape, material and method of manufacture is known as a _____ drawing.</p>
+<p>A) detail　　B) assembly　　C) installation　　D) pictorial</p>
+<p><strong>2.</strong> The plus and minus values printed beside a dimension are allowances, and the sum of the two is the _____.</p>
+<p>A) tolerant　　B) tolerance　　C) tolerantly　　D) tolerate</p>
+<p><strong>3.</strong> Dimensions must never be scaled off the drawing, because every dimension _____ on the sheet itself.</p>
+<p>A) are given　　B) giving　　C) is given　　D) gives</p>
+<p><strong>4.</strong> The title block is normally located _____ the lower right corner of the sheet.</p>
+<p>A) in　　B) on　　C) at　　D) to</p>
+<p><strong>5.</strong> An _____ projection shows the object in up to six views so that its true shape and size can be read.</p>
+<p>A) orthograph　　B) orthographically　　C) orthography　　D) orthographic</p>
+<p><strong>6.</strong> A _____ diagram shows how the components of a system are interconnected and how the system works, but gives neither their location on the aircraft nor their true dimensions.</p>
+<p>A) isometric　　B) exploded　　C) schematic　　D) pictorial</p>
+<p><strong>7.</strong> A phantom line consists of one long dash and two short dashes, _____ a hidden line is made of evenly spaced short dashes.</p>
+<p>A) whereas　　B) whereby　　C) whereupon　　D) wherein</p>
+<p><strong>8.</strong> Only authorized personnel may change a drawing, and the revision block must show the symbol, the date, the nature of the change and the person who _____ it.</p>
+<p>A) took　　B) made　　C) did　　D) put</p>
+<p><strong>9.</strong> Fuselage stations are measured from a _____ point, which is usually the nose or the zero station.</p>
+<p>A) datum　　B) data　　C) dated　　D) datums</p>
+<p><strong>10.</strong> No one may write on a drawing at will; every authorized note or change must be _____ and dated.</p>
+<p>A) signing　　B) signature　　C) sign　　D) signed</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. A</strong> —— 描述单个零件的图是 <code>detail drawing</code>（零件图）。B <code>assembly drawing</code> 表达两个以上零件的相互关系、C <code>installation drawing</code> 给装机位置与定位尺寸、D <code>pictorial drawing</code> 是立体示意图——三者都不是「单件尺寸与制造方法」。考点：<strong>同类图纸术语辨析</strong>。</p>
+<p><strong>2. B</strong> —— 需要一个<strong>名词</strong>作表语，<code>tolerance</code>（公差 = 两偏差之和）。A <code>tolerant</code> 是形容词、C <code>tolerantly</code> 是副词、D <code>tolerate</code> 是动词，都不能作 is 的表语中心词。考点：<strong>同词族名词形式</strong>。</p>
+<p><strong>3. C</strong> —— 主语 <code>every dimension</code> 为单数，谓语用 <code>is given</code>（被动：尺寸是被给出的）。A <code>are given</code> 数不一致、B <code>giving</code> 是非谓语、D <code>gives</code> 是主动且不能构成被动意义。考点：<strong>主谓一致 + 被动语态</strong>。</p>
+<p><strong>4. A</strong> —— 表示在某个角/区域之内用 <code>in the ... corner</code>。B <code>on</code> 用于面的表面、C <code>at</code> 多指某一点（at the corner of A and B streets）、D <code>to</code> 表方向，均不合此处「图纸右下角之内」的意思。考点：<strong>方位介词搭配</strong>。</p>
+<p><strong>5. D</strong> —— 需要<strong>形容词</strong>修饰 projection，<code>orthographic projection</code>（正投影）是固定术语。A <code>orthograph</code> 是生造/名词、B <code>orthographically</code> 是副词、C <code>orthography</code> 是名词「正字法」，都不能修饰 projection。考点：<strong>-ic 形容词与同词族变体</strong>。</p>
+<p><strong>6. C</strong> —— 只表达系统内相互连接与工作原理、不给位置与真实尺寸的是 <code>schematic diagram</code>（原理图）。A <code>isometric</code> 是等轴测图、B <code>exploded</code> 是分解图、D <code>pictorial</code> 是立体图，三者都要画形状。考点：<strong>diagram 家族词义辨析</strong>。</p>
+<p><strong>7. A</strong> —— 前后两句是两种线型的<strong>对比</strong>，用 <code>whereas</code>（而）。B <code>whereby</code> 表方式「凭借」、C <code>whereupon</code> 表「于是」、D <code>wherein</code> 表「在其中」，都不表对比。考点：<strong>对比连词与关系副词</strong>。</p>
+<p><strong>8. B</strong> —— <code>make a change</code>（做更改）是固定动宾搭配，定语从句用 <code>who made it</code> 指 who made the change。A <code>took</code>、C <code>did</code>、D <code>put</code> 与 change 搭配时意义不对（take a change、do a change、put a change 均非「作出更改」的标准说法）。考点：<strong>动宾固定搭配</strong>。</p>
+<p><strong>9. A</strong> —— 基准点是 <code>datum</code>（单数），<code>datum point</code> 为固定说法。B <code>data</code> 是复数形式、C <code>dated</code> 是分词/形容词、D <code>datums</code> 虽为合法复数但此处修饰单数基准点、与 a 冲突。考点：<strong>datum/data 单复数与形近词</strong>。</p>
+<p><strong>10. D</strong> —— <code>must be _____ and dated</code> 要求与 dated 并列的<strong>过去分词</strong>构成被动，故 <code>signed</code>（须签名并注明日期）。A <code>signing</code> 是现在分词、B <code>signature</code> 是名词、C <code>sign</code> 是原形，都不能与 dated 并列。考点：<strong>并列被动结构</strong>。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ul><li><strong>allowance 与 tolerance</strong>：allowance 是标注中 +、− 各自给出的允许偏差；tolerance 是两者之和（总允许变动量）。</li><li><strong>detail drawing 与 detail view</strong>：前者是一整张关于单个零件的图；后者是某张图上把主视图局部放大画出的视图，主视图上用粗线圆出该部位。</li><li><strong>revolved section 与 removed section</strong>：画法相同，区别在于位置与比例——旋转剖视直接画在外视图上，移出剖视移到视图一侧且常放大比例。</li><li><strong>installation diagram 与 schematic diagram</strong>：安装图给出部件在机上的位置与识别；原理图不给位置与真实尺寸，只表达系统内相互连接与工作原理。</li><li><strong>left-hand / right-hand 零件标注</strong>：图上永远画左件，右件在标题栏中另行调用，标题栏上方注明如 <code>470204-1LH shown; 470204-2RH opposite</code>；有的图纸用奇数表示左件、偶数表示右件。</li><li><strong>hidden line 与 phantom line</strong>：虚线（短划等距）表示不可见的棱边与轮廓；假想线（一长两短）表示零件运动后的位置或缺失件的相对位置。</li></ul>

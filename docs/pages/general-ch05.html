@@ -1,0 +1,469 @@
+<h1 id="ch-05-physics-for-aviation-航空物理">Ch 05 · Physics for Aviation（航空物理）</h1>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>把物质、能量、力与运动、热、气体、流体、声、大气和空气动力学串成一条线，用公式和具体数字解释飞机与直升机为什么能飞、系统和部件承受什么。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ul><li>质量（mass）是物质多少的量度，走到宇宙任何地方都不变；重量（weight）是重力对质量的拉力，<code>Weight = Mass × Gravity</code>。地球上重力加速度取 32.2 fps/s，故 1 slug 质量重 32.2 lb。</li><li>比重（specific gravity）是无量纲比值，比的是"同体积物质重量 / 同体积水重量"；水在 4 °C 时密度 62.4 lb/ft³（1 g/cm³），是液体和固体的比较基准，气体则用空气（有时用氢）。</li><li>功（work）必须是"力 × 沿力方向移动的距离"，只推不动不算做功；功率（power）在功上加时间；扭矩（torque）是"力沿一段距离作用"，不需要物体移动，所以功的单位是 in-lb、扭矩写作 lb-in。</li><li>六种简单机械（杠杆、滑轮、轮轴、斜面、螺旋、齿轮）归根到底只有杠杆和斜面两条原理；机械只能放大"力"或"速度"其中之一，不能同时放大，因为输出功不可能大于输入功。</li><li>应力（stress）有拉伸、压缩、扭转、弯曲、剪切五种形式；扭转本身就是拉伸与压缩的组合（两者成 90°），弯曲则是同一构件一侧受压、另一侧受拉。</li><li>气体的三条基本定律——Boyle（等温）、Charles（等压/等容）、Dalton（分压）——合起来就是通用气体定律，其中温度和压力必须用绝对值和绝对压力。</li><li>伯努利原理（流速增大、静压降低，且不增不减能量）同时解释了文丘里管、化油器、机翼升力和亚声速进气道形状；机翼升力也可以用牛顿第三定律（气流下洗的反作用）描述，两者是同一件事的两种说法。</li><li>大气随高度分层（troposphere / stratosphere / ionosphere / exosphere），压力比温度下降得更快，所以密度随高度下降；湿度使空气变稀、功率下降，雾则因水粒汽化吸热反而抑制爆震。</li></ul>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">matter</td>
+<td style="text-align:left">物质</td>
+<td style="text-align:left">占据空间、有质量、可被感官感知的东西，既不能创生也不能消灭</td>
+</tr>
+<tr>
+<td style="text-align:left">mass</td>
+<td style="text-align:left">质量</td>
+<td style="text-align:left">物体内分子/原子（质子、中子、电子）数量的量度，不随位置和状态改变</td>
+</tr>
+<tr>
+<td style="text-align:left">weight</td>
+<td style="text-align:left">重量</td>
+<td style="text-align:left">重力对质量的拉力，随所在地重力而变化</td>
+</tr>
+<tr>
+<td style="text-align:left">slug</td>
+<td style="text-align:left">斯勒格</td>
+<td style="text-align:left">英制质量单位，受 1 lb 力时产生 1 ft/s² 加速度的质量</td>
+</tr>
+<tr>
+<td style="text-align:left">density</td>
+<td style="text-align:left">密度</td>
+<td style="text-align:left">单位体积的重量，英制 lb/ft³、公制 g/cm³</td>
+</tr>
+<tr>
+<td style="text-align:left">specific gravity</td>
+<td style="text-align:left">比重</td>
+<td style="text-align:left">物质重量与同体积水重量之比，纯数字无单位</td>
+</tr>
+<tr>
+<td style="text-align:left">hydrometer</td>
+<td style="text-align:left">比重计</td>
+<td style="text-align:left">用带刻度浮标测液体比重，纯水中读 1000</td>
+</tr>
+<tr>
+<td style="text-align:left">potential energy</td>
+<td style="text-align:left">势能</td>
+<td style="text-align:left">静止或储存的能量，含位置能、弹性变形能、化学能</td>
+</tr>
+<tr>
+<td style="text-align:left">kinetic energy</td>
+<td style="text-align:left">动能</td>
+<td style="text-align:left">运动物体具有的能量，与速度平方成正比</td>
+</tr>
+<tr>
+<td style="text-align:left">force</td>
+<td style="text-align:left">力</td>
+<td style="text-align:left">推动或拉动的强度，英制 lb、公制 N</td>
+</tr>
+<tr>
+<td style="text-align:left">work</td>
+<td style="text-align:left">功</td>
+<td style="text-align:left">力克服阻力并移动一段可测距离，单位 ft-lb / in-lb</td>
+</tr>
+<tr>
+<td style="text-align:left">power</td>
+<td style="text-align:left">功率</td>
+<td style="text-align:left">单位时间内做的功，单位 ft-lb/min 或 ft-lb/s</td>
+</tr>
+<tr>
+<td style="text-align:left">horsepower</td>
+<td style="text-align:left">马力</td>
+<td style="text-align:left">1 hp = 550 ft-lb/s = 33,000 ft-lb/min</td>
+</tr>
+<tr>
+<td style="text-align:left">torque</td>
+<td style="text-align:left">扭矩</td>
+<td style="text-align:left">力沿一段力臂作用产生的扭转趋势，单位 lb-in / lb-ft</td>
+</tr>
+<tr>
+<td style="text-align:left">mechanical advantage</td>
+<td style="text-align:left">机械优势</td>
+<td style="text-align:left">输出力 ÷ 输入力，或输出距离 ÷ 输入距离</td>
+</tr>
+<tr>
+<td style="text-align:left">fulcrum</td>
+<td style="text-align:left">支点</td>
+<td style="text-align:left">杠杆的转动点，代号 F</td>
+</tr>
+<tr>
+<td style="text-align:left">block and tackle</td>
+<td style="text-align:left">滑车组</td>
+<td style="text-align:left">固定滑轮与动滑轮组合，支承绳数决定机械优势</td>
+</tr>
+<tr>
+<td style="text-align:left">sheave</td>
+<td style="text-align:left">滑轮（绳轮）</td>
+<td style="text-align:left">装绳的带槽轮盘，支承它的框架叫 block</td>
+</tr>
+<tr>
+<td style="text-align:left">worm gear</td>
+<td style="text-align:left">蜗轮蜗杆</td>
+<td style="text-align:left">蜗杆转一圈只推动蜗轮一齿，机械优势等于蜗轮齿数</td>
+</tr>
+<tr>
+<td style="text-align:left">planetary gear</td>
+<td style="text-align:left">行星齿轮</td>
+<td style="text-align:left">太阳轮驱动行星轮再驱动齿圈，用于螺旋桨减速箱</td>
+</tr>
+<tr>
+<td style="text-align:left">inclined plane</td>
+<td style="text-align:left">斜面</td>
+<td style="text-align:left">用小力长距离升降重物，斜面长为力臂、高为阻力臂</td>
+</tr>
+<tr>
+<td style="text-align:left">stress</td>
+<td style="text-align:left">应力</td>
+<td style="text-align:left">外力作用下物体内部产生的反作用，单位 psi</td>
+</tr>
+<tr>
+<td style="text-align:left">strain</td>
+<td style="text-align:left">应变</td>
+<td style="text-align:left">应力足够大时物体产生的形变，弹性体卸载后可恢复</td>
+</tr>
+<tr>
+<td style="text-align:left">tension / compression</td>
+<td style="text-align:left">拉伸 / 压缩</td>
+<td style="text-align:left">试图拉断 / 试图压碎物体的应力</td>
+</tr>
+<tr>
+<td style="text-align:left">torsion</td>
+<td style="text-align:left">扭转</td>
+<td style="text-align:left">轴被扭矩扭转时的应力，由拉伸与压缩组合而成</td>
+</tr>
+<tr>
+<td style="text-align:left">bending</td>
+<td style="text-align:left">弯曲</td>
+<td style="text-align:left">一侧受拉、一侧受压的应力状态</td>
+</tr>
+<tr>
+<td style="text-align:left">shear</td>
+<td style="text-align:left">剪切</td>
+<td style="text-align:left">试图把物体剪断的应力，如受剪的 clevis bolt</td>
+</tr>
+<tr>
+<td style="text-align:left">velocity</td>
+<td style="text-align:left">速度（矢量）</td>
+<td style="text-align:left">既有大小又有方向的运动速率</td>
+</tr>
+<tr>
+<td style="text-align:left">acceleration</td>
+<td style="text-align:left">加速度</td>
+<td style="text-align:left">速度的变化率，重力加速度 32.2 fps/s</td>
+</tr>
+<tr>
+<td style="text-align:left">inertia</td>
+<td style="text-align:left">惯性</td>
+<td style="text-align:left">物体保持原有运动状态的性质（牛顿第一定律）</td>
+</tr>
+<tr>
+<td style="text-align:left">momentum</td>
+<td style="text-align:left">动量</td>
+<td style="text-align:left">运动物体保持运动的趋势，大质量低速也难停</td>
+</tr>
+<tr>
+<td style="text-align:left">centripetal force</td>
+<td style="text-align:left">向心力</td>
+<td style="text-align:left">维持圆周运动指向圆心的拉力，与质量成正比、与半径成反比</td>
+</tr>
+<tr>
+<td style="text-align:left">centrifugal force</td>
+<td style="text-align:left">离心力</td>
+<td style="text-align:left">与向心力等值反向的力（牛顿第三定律）</td>
+</tr>
+<tr>
+<td style="text-align:left">BTU</td>
+<td style="text-align:left">英热单位</td>
+<td style="text-align:left">使 1 lb 水升温 1 °F 所需热量；1 BTU = 778 ft-lb</td>
+</tr>
+<tr>
+<td style="text-align:left">calorie</td>
+<td style="text-align:left">卡</td>
+<td style="text-align:left">使 1 g 水升温 1 °C 所需热量，1 Calorie = 1,000 calorie</td>
+</tr>
+<tr>
+<td style="text-align:left">thermal efficiency</td>
+<td style="text-align:left">热效率</td>
+<td style="text-align:left">实际输出马力 ÷ 燃料潜在马力</td>
+</tr>
+<tr>
+<td style="text-align:left">conduction</td>
+<td style="text-align:left">传导</td>
+<td style="text-align:left">靠物体直接接触传递热量，金属优于液体、液体优于气体</td>
+</tr>
+<tr>
+<td style="text-align:left">convection</td>
+<td style="text-align:left">对流</td>
+<td style="text-align:left">靠受热流体（气或液）流动传递热量</td>
+</tr>
+<tr>
+<td style="text-align:left">radiation</td>
+<td style="text-align:left">辐射</td>
+<td style="text-align:left">以电磁波形式传热，光速传播、走直线、可穿真空</td>
+</tr>
+<tr>
+<td style="text-align:left">specific heat</td>
+<td style="text-align:left">比热</td>
+<td style="text-align:left">与水的比热容之比，无单位</td>
+</tr>
+<tr>
+<td style="text-align:left">coefficient of linear expansion</td>
+<td style="text-align:left">线膨胀系数</td>
+<td style="text-align:left">单位长度每升温 1 °C 的伸长量</td>
+</tr>
+<tr>
+<td style="text-align:left">gauge pressure</td>
+<td style="text-align:left">表压（psig）</td>
+<td style="text-align:left">高于环境压力的读数，无压力时表指零</td>
+</tr>
+<tr>
+<td style="text-align:left">absolute pressure</td>
+<td style="text-align:left">绝对压力（psia）</td>
+<td style="text-align:left">表压加大气压</td>
+</tr>
+<tr>
+<td style="text-align:left">differential pressure</td>
+<td style="text-align:left">压差（psid）</td>
+<td style="text-align:left">系统两点压力之差，如油滤前后、机内外</td>
+</tr>
+<tr>
+<td style="text-align:left">partial pressure</td>
+<td style="text-align:left">分压</td>
+<td style="text-align:left">混合气体中某一成分在总容积内单独产生的压力</td>
+</tr>
+<tr>
+<td style="text-align:left">buoyant force</td>
+<td style="text-align:left">浮力</td>
+<td style="text-align:left">流体对浸入物体的向上托力，等于排开流体的重量</td>
+</tr>
+<tr>
+<td style="text-align:left">static / ram / total pressure</td>
+<td style="text-align:left">静压 / 冲压 / 总压</td>
+<td style="text-align:left">液柱高度产生的压力 / 速度转换成的压力 / 两者之和</td>
+</tr>
+<tr>
+<td style="text-align:left">venturi</td>
+<td style="text-align:left">文丘里管</td>
+<td style="text-align:left">截面先收缩后扩张的管道，用于演示伯努利原理</td>
+</tr>
+<tr>
+<td style="text-align:left">Mach number</td>
+<td style="text-align:left">马赫数</td>
+<td style="text-align:left">飞行速度与声速之比</td>
+</tr>
+<tr>
+<td style="text-align:left">decibel</td>
+<td style="text-align:left">分贝</td>
+<td style="text-align:left">声强单位，1 dB 是人耳能辨别的最小变化</td>
+</tr>
+<tr>
+<td style="text-align:left">Doppler effect</td>
+<td style="text-align:left">多普勒效应</td>
+<td style="text-align:left">声源运动使接近时频率升高、远离时频率降低</td>
+</tr>
+<tr>
+<td style="text-align:left">resonance</td>
+<td style="text-align:left">共振</td>
+<td style="text-align:left">两物体固有频率相同，能量互相传递引起振动</td>
+</tr>
+<tr>
+<td style="text-align:left">tropopause</td>
+<td style="text-align:left">对流层顶</td>
+<td style="text-align:left">温度随高度下降突然停止的那个点</td>
+</tr>
+<tr>
+<td style="text-align:left">density altitude</td>
+<td style="text-align:left">密度高度（Hd）</td>
+<td style="text-align:left">用温度修正压力高度后得到的计算高度</td>
+</tr>
+<tr>
+<td style="text-align:left">dew point</td>
+<td style="text-align:left">露点</td>
+<td style="text-align:left">恒压下湿空气冷却到开始饱和的温度</td>
+</tr>
+<tr>
+<td style="text-align:left">camber</td>
+<td style="text-align:left">弯度</td>
+<td style="text-align:left">翼型上、下表面的曲率，上表面通常更大</td>
+</tr>
+<tr>
+<td style="text-align:left">chord line</td>
+<td style="text-align:left">弦线</td>
+<td style="text-align:left">从翼前缘到后缘的假想直线</td>
+</tr>
+<tr>
+<td style="text-align:left">angle of incidence</td>
+<td style="text-align:left">安装角</td>
+<td style="text-align:left">弦线与飞机纵轴水平面之间的夹角</td>
+</tr>
+<tr>
+<td style="text-align:left">angle of attack</td>
+<td style="text-align:left">迎角</td>
+<td style="text-align:left">弦线与相对风之间的夹角，过大则失速</td>
+</tr>
+<tr>
+<td style="text-align:left">relative wind</td>
+<td style="text-align:left">相对风</td>
+<td style="text-align:left">与飞行轨迹平行但方向相反的气流</td>
+</tr>
+<tr>
+<td style="text-align:left">washout</td>
+<td style="text-align:left">翼根大翼尖小扭转</td>
+<td style="text-align:left">翼根安装角大于翼尖，使内侧先失速保住副翼</td>
+</tr>
+<tr>
+<td style="text-align:left">boundary layer</td>
+<td style="text-align:left">附面层</td>
+<td style="text-align:left">紧贴翼面的薄气层，由 laminar 变为 turbulent</td>
+</tr>
+<tr>
+<td style="text-align:left">transition point</td>
+<td style="text-align:left">转捩点</td>
+<td style="text-align:left">附面层由层流变湍流的位置</td>
+</tr>
+<tr>
+<td style="text-align:left">dihedral</td>
+<td style="text-align:left">上反角</td>
+<td style="text-align:left">机翼相对水平面上翘的角度，提供横向稳定性</td>
+</tr>
+<tr>
+<td style="text-align:left">Dutch roll</td>
+<td style="text-align:left">荷兰滚</td>
+<td style="text-align:left">绕纵轴与竖轴同时小幅振荡，客机用 yaw damper 抵消</td>
+</tr>
+<tr>
+<td style="text-align:left">stabilator</td>
+<td style="text-align:left">全动平尾</td>
+<td style="text-align:left">整块可动的水平安定面，如 Piper Cherokee</td>
+</tr>
+<tr>
+<td style="text-align:left">ruddervator</td>
+<td style="text-align:left">方向升降舵</td>
+<td style="text-align:left">V 尾上兼作升降舵与方向舵的可动面</td>
+</tr>
+<tr>
+<td style="text-align:left">servo tab</td>
+<td style="text-align:left">伺服调整片</td>
+<td style="text-align:left">液压失效时成为唯一使主操纵面偏转的力</td>
+</tr>
+<tr>
+<td style="text-align:left">anti-servo tab</td>
+<td style="text-align:left">反伺服调整片</td>
+<td style="text-align:left">与全动平尾同向偏转，制造操纵感、防过量操纵</td>
+</tr>
+<tr>
+<td style="text-align:left">Fowler flap</td>
+<td style="text-align:left">富勒襟翼</td>
+<td style="text-align:left">沿滑轨后退并下偏，既增弯度又增机翼面积，效率最高</td>
+</tr>
+<tr>
+<td style="text-align:left">critical Mach number</td>
+<td style="text-align:left">临界马赫数</td>
+<td style="text-align:left">翼面某处气流首次达到 Mach 1 时的飞行马赫数</td>
+</tr>
+<tr>
+<td style="text-align:left">normal shock wave</td>
+<td style="text-align:left">正激波</td>
+<td style="text-align:left">垂直于气流、波后为亚声速的激波</td>
+</tr>
+<tr>
+<td style="text-align:left">oblique shock wave</td>
+<td style="text-align:left">斜激波</td>
+<td style="text-align:left">附着在尖锐前后缘上的激波，波后仍为超声速</td>
+</tr>
+<tr>
+<td style="text-align:left">expansion wave</td>
+<td style="text-align:left">膨胀波</td>
+<td style="text-align:left">气流转向外扩时产生，波后速度升、压力密度降，不是激波</td>
+</tr>
+<tr>
+<td style="text-align:left">autorotation</td>
+<td style="text-align:left">自转</td>
+<td style="text-align:left">发动机失效后靠相对风驱动旋翼下滑</td>
+</tr>
+<tr>
+<td style="text-align:left">fenestron</td>
+<td style="text-align:left">涵道尾桨</td>
+<td style="text-align:left">装在垂尾涵道内的风扇式尾桨，地面更安全、阻力更小</td>
+</tr>
+<tr>
+<td style="text-align:left">NOTAR</td>
+<td style="text-align:left">无尾桨系统</td>
+<td style="text-align:left">用尾梁侧缝气流（Coanda 效应）加可转喷口反扭矩</td>
+</tr>
+<tr>
+<td style="text-align:left">dissymmetry of lift</td>
+<td style="text-align:left">升力不对称</td>
+<td style="text-align:left">前行桨叶与后退桨叶速度不同造成升力不等</td>
+</tr>
+<tr>
+<td style="text-align:left">billow shift</td>
+<td style="text-align:left">鼓胀位移</td>
+<td style="text-align:left">柔性翼三角翼靠蒙皮鼓胀改变迎角实现转弯</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<p>质量、重量、密度与比重</p>
+<ul><li><code>Mass = Weight ÷ Acceleration due to gravity</code>；<code>Weight = Mass × Gravity</code>；地球 g = 32.2 fps/s（ft/s²），1 slug = 32.2 lb。</li><li>密度 = 重量 ÷ 体积；水在 4 °C 为 62.4 lb/ft³ = 1 g/cm³；气体密度标准条件为 0 °C、76 cm Hg。</li><li>比重 = 物质重量 ÷ 同体积水重量（书中公式排版错位，按定义表述）；比重 0.8 的液压油 1 ft³ 重 62.4 × 0.8 = 49.92 lb。</li><li>比重计读数：纯水 1000；放电瓶 1150（=1.150）；充电瓶 1275–1310（=1.275–1.310）。</li><li>比重表：汽油 0.72；JP-4 0.785；乙醇 0.789；JP-5 0.82；煤油 0.82；润滑油 0.89；合成油 0.928；水 1.000；硫酸 1.84；汞 13.6；冰 0.917；铝 2.7；钛 4.4；锌 7.1；铁 7.9；黄铜 8.4；铜 8.9；铅 11.4；金 19.3；铂 21.5；氢 0.0695；氦 0.138；乙炔 0.898；氮 0.967；空气 1.000；氧 1.105；二氧化碳 1.528。</li></ul>
+<p>能量、功、功率、扭矩</p>
+<ul><li><code>Potential Energy = Weight × Height</code>；波音 747 重 450,000 lb 顶升 4 ft → PE = 1,800,000 ft-lb。</li><li>1 lb 航空汽油含 18,900 BTU；1 BTU = 778 ft-lb；故 1 lb 汽油可做功 14,704,200 ft-lb。</li><li><code>Kinetic Energy = ½ Mass × Velocity²</code>；A380 重 600,000 lb、200 fps → KE = 372,670,000 ft-lb。</li><li>1 lb 力 = 4.448 N；1 m = 3.28 ft；1 joule = 0.74 ft-lb；GE90-115（777-300 动力）推力 115,000 lb。</li><li><code>Work = Force × Distance</code>；A-320 重 150,000 lb 顶升 4 ft → 600,000 ft-lb；737-800 用 5,000 lb 推力推 80 ft → 400,000 ft-lb（水平移动的力不等于机重）。</li><li>摩擦做功例子：900 lb 载荷拉 200 ft，实际只克服 90 lb 滚动摩擦 → 18,000 ft-lb。</li><li>起动摩擦 <code>F = kF'</code>；滑动/滚动摩擦 <code>F = mN</code>；滑动系数 0.3 时，10 lb 需 3 lb、40 lb 需 12 lb。</li><li>橡胶轮胎在混凝土/碎石路上的 m ≈ 0.02，滚子轴承 m = 0.001–0.003；79,600 lb 飞机牵引力 = 0.02 × 79,600 = 1,592 lb。</li><li><code>Power = Force × distance ÷ time</code>；1 hp = 550 ft-lb/s = 33,000 ft-lb/min = 375 mi-lb/hr = 746 W。</li><li>起吊 GE-90（19,000 lb，4 ft / 2 min）= 38,000 ft-lb/min → 1.15 hp。</li><li><code>Torque = Force × distance</code>；10 lb × 10 in = 100 lb-in；活塞受力 500 lb、曲轴偏移 4 in → 2,000 lb-in = 166.7 lb-ft。</li><li><code>Torque = Horsepower × 5,252 ÷ rpm</code>；Cessna 172R 的 Lycoming IO-360 在 2,700 rpm 输出 180 hp → 350 lb-ft。</li></ul>
+<p>简单机械</p>
+<ul><li><code>Mechanical Advantage = Force Out ÷ Force In</code>，或 <code>= Distance Out ÷ Distance In</code>。</li><li>三类杠杆通用：<code>Effort (E) × Effort Arm (L) = Resistance (R) × Resistance Arm (l)</code>。</li><li>一级杠杆：500 lb 距支点 12 in、力臂 60 in → E = 100 lb，MA = 5:1；力端下移 10 in 重物只升 2 in。</li><li>二级杠杆（手推车）：手柄距轮心 60 in、重物距 18 in、载 300 lb → E = 90 lb，MA = 3.33:1。</li><li>单定滑轮 MA = 1（只改变方向）；单动滑轮 MA = 2（拉绳 4 ft 重物升 2 ft，100 lb 只需 50 lb）。</li><li>滑车组 4 个滑轮（2 定 2 动）→ 4 根承重绳，MA = 4；200 lb 只需 50 lb。</li><li>正齿轮：上轮 φ9 in / 45 齿，下轮 φ12 in / 60 齿；力 MA = 9 ÷ 12 = 0.75（实际是劣势），转速 MA = 12 ÷ 9 = 1.33。</li><li>蜗轮蜗杆：蜗轮 25 齿 → MA = 25，输出力放大 25 倍。</li><li>行星齿轮减速：齿圈 82 齿 ÷ 太阳轮 28 齿 = 2.93，即发动机转速是螺旋桨的 2.93 倍（行星轮各 22 齿）。</li><li>斜面：Mooney M20 重 1,600 lb，坡高 6 in（阻力臂）、坡长 24 in（力臂）→ E = 400 lb；凿子长 8 in、宽 ½ in → MA = 16；螺纹越细（每英寸牙数越多）机械优势越大。</li></ul>
+<p>应力、运动、热</p>
+<ul><li><code>Acceleration (A) = (Vf − Vi) ÷ t</code>；F-15 由 400 mph 在 20 s 内加速到 1,200 mph → 40 mph/s = 58.7 fps/s，除以 32.2 得 1.82 G。</li><li>速度换算：书中给出 1 mph 与 1.467 fps 的关系（一处写"mph 转 fps 除以 1.467"，算例中写"乘以 1.467"得 58.7 fps/s）。</li><li>推力：<code>Force = W (Vf − Vi) ÷ G(t)</code>；150 lb/s 空气由 100 fps 加速到 1,200 fps → 5,124 lb 推力。</li><li>螺旋桨向后推 500 lb 空气，空气向前推桨 500 lb（作用力与反作用力）。</li><li><code>Centripetal Force = Mass (Velocity²) ÷ Radius</code>；10 lb 重物在 3 ft 半径、500 fps → 25,880 lb，相当于 2,588 G。</li><li>1 calorie = 1 g 水升 1 °C；1 BTU = 1 lb 水升 1 °F；1 BTU = 778 ft-lb。</li><li>热效率 = 输出 hp ÷ 燃料潜在 hp；0.5 lb/(hp·h)、200 hp → 100 lb/h = 1.67 lb/min，潜在 744 hp，效率 200 ÷ 744 = 26.88%，70% 以上以摩擦和热的形式浪费。</li><li>导热率相对值（银 = 1.00）：铅 0.08、铁 0.18、镍 0.22、镁 0.37、铝 0.57、铜 0.94；银最好、铅最差。</li><li>比热：铅 0.031、汞 0.033、黄铜 0.094、铜 0.095、铁或钢 0.113、玻璃 0.195、酒精 0.547、铝 0.712、水 1.000。</li><li>温标换算：<code>°F = 1.8 × °C + 32</code>；<code>°C = (°F − 32) × 5/9</code>；<code>K = °C + 273</code>；<code>R = °F + 460</code>；绝对零度 = −273 °C = −460 °F；72 °F = 532 °R，−40 °F = 420 °R。</li><li><code>Expansion = coefficient × length × rise in temperature</code>；钢 11 × 10⁻⁶、9 ft、升温 34 °C → 0.003366 ft，杆长 9.003366 ft（约增长 4/100 in）。</li><li>线膨胀系数（×10⁻⁶/°C）：铝 25、黄铜/青铜 19、砖 9、铜 17、平板玻璃 9、Pyrex 3、冰 51、铁或钢 11、铅 29、石英 0.4、银 19。</li></ul>
+<p>压力、气体、流体</p>
+<ul><li>压力 = 力 ÷ 面积；100 lb 压在 10 in² 上 = 10 psi。</li><li>标准大气压 = 14.7 psi = 29.92 "Hg = 760 mm Hg = 1013.2 millibars；1 psi = 2.04 "Hg = 51.7 mm Hg = 68.9 millibars。</li><li>psia = psig + 大气压；活塞发动机进气压力表量程 10 "Hg 至 35 "Hg；10,000 ft 标准压力 20.58 "Hg = 10.10 psi。</li><li><code>V1P1 = V2P2</code>（Boyle）；10 ft³、500 psia 压到 7 ft³ → 714.29 psia。</li><li><code>V1T2 = V2T1</code> 与 <code>P1T2 = P2T1</code>（Charles）；15 ft³ 氧气 70 °F、750 psig 晒到 140 °F：530 °R / 600 °R、764.7 psia → 865.7 psia = 851 psig。</li><li>通用气体定律 <code>P1 (V1) (T2) = P2 (V2) (T1)</code>；氩气 20 ft³、60 °F、1,000 psig 压到 15 ft³、90 °F：520 °R / 550 °R、1,014.7 psia → 1,431 psia = 1,416.3 psig。</li><li><code>Buoyant Force = Volume × Density of Fluid Displaced</code>；10 ft³、700 lb 物体入水 → 浮力 10 × 62.4 = 624 lb，下沉，水中称重 76 lb。</li><li>14 CFR part 23：浮筒体积须比支撑飞机所需最小体积大 80%；Twin Otter 12,500 lb → 12,500 ÷ 62.4 = 200.3 ft³，×80% = 160.2 ft³，合计 360.5 ft³。</li><li>飞艇 230,000 ft³ × 0.07651 lb/ft³ = 17,597 lb 浮力。</li><li>液柱压力：水柱高 231 in（1 in² × 231 in = 231 in³ = 1 gal，重 8.34 lb）→ 底部 8.34 psi；半高 4.17 psi。</li><li>Pascal 定律（1653 年）：<code>Force = Pressure × Area</code>；<code>Pressure = Force ÷ Area</code>；<code>Area = Force ÷ Pressure</code>。</li><li>5 lb 作用在 ½ in² 活塞 = 10 psi；同一压力作用 5 in² 活塞 → 50 lb，MA = 10。</li><li>排量守恒：<code>Input Piston Area (Distance) = Output Piston Area (Distance)</code>；2 in² 活塞下移 10 in 排开 20 in³。</li><li>例：输入 ¼ in²、输出 15 in²、输入力 50 lb、行程 30 in → 压力 200 psi、输出力 3,000 lb、MA = 60、输出行程 ½ in。</li><li>声速：0 °C 空气中 1,087 fps，每升 1 °C 加 2 fps（每升 1 °F 加 1.1 fps）；59 °F 时 761 mph；铝 20 °C 为 16,700 fps，铅 20 °C 仅 4,030 fps。</li><li>Mach 1.2 @ 761 mph → 913 mph；Mach 0.60 / 0.82（临界）/ 0.85 / 0.88 / 0.95 / 1.05 对应机翼气流图六个阶段。</li><li>声强：1 dB 为可辨最小变化；耳语 20 dB、风钻 80 dB、喷气客机起飞 150 ft 处 90 dB、110 dB 听起来是它的两倍响。</li><li>大气：约 7 miles 以下持续变冷，−55 °C（218 K）保持到约 20 miles，55 miles 升到 77 °C（350 K），250–400 miles 达 2,270 °C（2,543 K）；外逸层约 2,500 K。</li><li>对流层：中纬度约 35,000 ft，极地 28,000 ft，赤道约 54,000 ft，含约 3/4 的大气重量；平流层到平均 60 miles；电离层 50–300/600 miles；外逸层自 600 miles 起。</li><li>12–30 miles 为臭氧层；6 miles 以上空气稀薄无法呼吸，12 miles 以上氧不足以支持燃烧。</li><li>标准大气（约 40° 纬度平均）：P0 = 29.92 "Hg、T0 = 15 °C / 59 °F、G0 = 32.174 fps/s，与美国 U.S. Standard Atmosphere 及 ICAO 标准大气一致。</li><li>升力算例：5 ft × 15 ft = 75 ft² = 10,800 in²，上下静压差 0.1 psi → 1,080 lb 升力。</li><li>亚声速/跨声速/超声速：亚声速约到 Mach 0.8；跨声速 Mach 0.80–1.20；超声速 Mach 1.20–5.0；超过 Mach 5 为高超声速。</li><li>气动中心：亚声速约在弦长 25% 处，超声速后移到 50% 弦长处。</li><li>气动加热：SR-71 以 Mach 3.5 巡航，蒙皮 450 °F 至 1,000 °F 以上，用钛合金；Concorde 原设计 Mach 2.2，因结构问题降为 Mach 2.0。</li><li>直升机地面效应高度约为旋翼直径的 1/2（40 ft 直径 → 约 20 ft）；前进速度 5–10 mph 时效应减弱。</li><li>升力不对称：桨尖 400 mph、前飞 100 mph → 前行桨叶 500 mph、后退桨叶 300 mph；约 25% 旋翼失速即失去操纵。</li><li>动力伞：起飞速度约 28–30 mph，飞行速度约 30 mph，松油门下降率约 5–10 fps。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<p>物质与能量的基本框架</p>
+<ul><li>物质特性：质量、重量、引力（万有引力）、多孔性（porosity）、不可入性（impenetrability）。</li><li>能量两分：势能（位置能、弹性变形能、化学能）与动能；两者单位都是 ft-lb / in-lb。</li><li>力学链条：力 → 功（力 × 距离）→ 功率（功 ÷ 时间）→ 扭矩（力 × 力臂）；发动机先产生扭矩，才能产生功和功率。</li></ul>
+<p>简单机械谱系</p>
+<ul><li>六种：lever、pulley、wheel and axle、inclined plane、screw、gear。</li><li>两条基本原理：lever（含滑轮、轮轴、齿轮）与 inclined plane（含楔、螺旋）。</li><li>杠杆三部分：支点 F、作用力 E、阻力 R；力臂 L、阻力臂 l。</li><li>一级：支点在中间（跷跷板、撬棍、剪、钳；飞机重心/升力中心平衡）。</li><li>二级：支点在一端、力在另一端、阻力居中（手推车）。</li><li>三级：力作用在支点与阻力之间（可收放主起落架，液压作动筒在中间）。</li><li>滑轮：单定（改向）、单动（力减半）、滑车组（承重绳数 = 机械优势）。</li><li>齿轮：直齿（第一类杠杆）、锥齿（改变旋转平面）、蜗轮蜗杆（高减速比）、行星（螺旋桨减速箱）。</li><li>斜面族：斜面、螺栓（周长 = 力臂，螺距 = 阻力臂）、楔/凿子。</li></ul>
+<p>应力与应变五种形式</p>
+<ul><li>tension（拉伸）、compression（压缩）、torsion（扭转 = 拉伸 + 压缩，互成 90°）、bending（弯曲）、shear（剪切）。</li><li>典型构件：滑车组吊绳受拉；铆钉受压缩；涡扇发动机涡轮轴受扭转；机翼受弯曲（空中上表面受压、下表面受拉；地面相反）；clevis bolt 受剪切。</li></ul>
+<p>热与流体</p>
+<ul><li>热源：机械能、电能、化学能、辐射能、核能，最终都可追溯到太阳。</li><li>传热三方式：conduction（接触）、convection（流体流动，如 Continental IO-520 六缸气冷发动机靠螺旋桨强制通风）、radiation（电磁波，光速、直线、穿真空）。</li><li>气体定律家族：Boyle（等温）、Charles（等压/等容）、General Gas Law（两者合并）、Dalton（混合气体分压相加）。</li><li>流体静力学：静压（液柱高度）、冲压（速度转换）、总压（两者之和，用于燃气涡轮进气道信号）；Pascal 定律与液压增力/排量守恒。</li><li>伯努利应用：文丘里管（收缩段增速降压）、浮子式化油器、亚声速进气道（扩张形）、机翼升力。</li></ul>
+<p>大气分层</p>
+<ul><li>troposphere（对流层）→ tropopause（对流层顶）→ stratosphere（平流层，上部又称 chemosphere / ozonosphere）→ ionosphere（电离层）→ exosphere（外逸层，亦称 mesosphere）。</li><li>大气成分随高度几乎不变，但密度迅速下降；湿度以绝对湿度、相对湿度、露点、蒸气压描述。</li></ul>
+<p>飞机与直升机</p>
+<ul><li>四个力：lift、weight、thrust、drag，全部以磅计；加速/减速/等速、爬升/下降/平飞各对应一组力的大小关系。</li><li>机翼几何：camber、chord line、angle of incidence、angle of attack、aspect ratio、planform（矩形、椭圆、锥形、后掠、三角）、washout。</li><li>附面层：laminar → transition point → turbulent → 分离（失速）；控制手段有光滑翼面、前缘缝翼槽、翼面吸气孔、涡流发生器。</li><li>三轴：longitudinal（滚转，副翼/扰流板）、lateral（俯仰，升降舵/全动平尾/V 尾方向升降舵）、vertical（偏航，方向舵）；三轴交于重心。</li><li>稳定性：静稳定性（正/负/中立）、动稳定性（振荡收敛/发散/等幅）、纵向（重心在升力中心之前）、横向（上反角）、方向（垂尾像风向标）；Dutch roll 由 yaw damper 抑制。</li><li>调整片：trim tab、anti-servo tab、balance tab、servo tab（Boeing 727 用作液压备份）。</li><li>增升装置：flaps（plain、split、slotted、Fowler）、leading edge slots、leading edge slats。</li><li>高速：normal shock、oblique shock、expansion wave；double wedge 与 biconvex 两种超声速翼型。</li><li>直升机部件：cabin、landing gear、tail boom、power plant、transmission、main rotor、tail rotor。</li><li>旋翼系统：fully articulated（flap hinge 上下、drag/lag hinge 前后、pitch change 轴承）、semi-rigid（两叶、teetering，如 Bell Jet Ranger）、rigid（无铰、桨叶柔性强，如 Eurocopter 135）。</li><li>反扭矩：tail rotor、fenestron（涵道风扇）、NOTAR（Coanda 效应 + 可转喷口）、双旋翼相互抵消（Chinook）。</li><li>操纵：collective（同时改变所有桨叶角，握把即油门）、cyclic（前后左右倾斜桨盘）、anti-torque pedals。</li><li>柔性翼飞机：weight-shift control（trike，三角翼 + king post + reflex cables + battens + billow shift）、powered parachute（冲压充气翼、尼龙或 Kevlar 吊索、脚蹬转弯）。</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<ul><li>电瓶电解液比重是判断充放电状态的实用手段：用比重计读 1150 表示已放电，1275–1310 表示已充电；读数须在浮标浮起、不触底的前提下读取液面处刻度。</li><li>比重/密度测量必须注意温度：测液体和固体密度以 4 °C 为基准；气体密度以 0 °C、76 cm Hg 为标准条件，因为气体密度与所施压力成正比。</li><li>温度变化不改变重量但改变体积，从而改变单位体积重量——这是热胀冷缩影响燃油、液压油计量与结构配合的根本原因。</li><li>热膨胀在结构中受约束时会产生巨大内力，设计机身、动力装置时必须留出膨胀余量（书中以钢轨、钢杆为例）。</li><li>润滑与摩擦：滚子轴承的摩擦系数仅 0.001–0.003，滚动摩擦远小于滑动摩擦，起动静摩擦又大于滑动摩擦——这解释了为什么牵引飞机、起动传动机构所需的力与运动后不同。</li><li>压差（psid）是状态监控的常用手段：涡扇发动机油滤进出口压差增大说明滤芯开始堵塞，会点亮驾驶舱警示灯；Boeing 737 增压系统压差表监视机内外压差，压差过大会使结构超载。</li><li>表压/绝对压的选用有讲究：滑油、燃油、液压系统用 psig（不工作时指零才对操作者有意义），活塞发动机进气压力必须用 psia，因为增压前后可能低于或高于大气压。</li><li>大气数据直接决定性能：湿度使空气密度下降，湿热地区通常要降低起飞全重，并可能需要提高进气压力以恢复功率；雾天因水粒汽化吸热降低缸内温度，反而不易爆震，增压发动机可利用更高进气压力。</li><li>试车台用应变片（strain gage）测量推力：发动机推力拉伸应变片，形变量被换算成推力读数；指针式扭力扳手（deflecting beam）同样靠梁的挠度指示扭矩。</li><li>机翼表面清洁与光滑是附面层控制的第一手段：冰、污物、甚至前缘撞死的昆虫都会使附面层提前转捩、增厚并分离，推迟失速的余地随之减少。</li><li>前缘缝翼槽常布置在副翼之前，使机翼内侧先失速而副翼仍有效；涡流发生器用于高亚声速飞机，把高能气流引入附面层防止激波后分离。</li><li>直升机旋翼桨叶在升力变化时靠挥舞铰（或桨叶柔性）自动上下挥舞，使升力均衡；一旦前行/后退桨叶问题导致约 25% 旋翼失速，操纵即丧失，高前飞速度、大重量、湍流、高密度高度、急转弯都是诱因。</li><li>尾桨对地面人员致命，且前飞时消耗功率、产生阻力；涵道尾桨（fenestron）因有护罩而更安全、阻力更小。</li><li>尾桨/旋翼振动与共振：部分活塞发动机飞机把某些转速列为禁飞区并挂牌（placard），因为该转速下螺旋桨金属固有频率与桨尖速度引起的振动频率一致，应力可能使螺旋桨解体。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（航空物理）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> Mass is the quantity of matter in a body, while _____ is the force with which gravity pulls on that mass.</p>
+<p>A) weigh　　B) weighed　　C) weight　　D) weighting</p>
+<p><strong>2.</strong> A body that weighs 32.2 lb at the surface of the earth has a mass of one _____.</p>
+<p>A) newton　　B) kilogram　　C) pound　　D) slug</p>
+<p><strong>3.</strong> Because of its _____, a body at rest tends to remain at rest until an outside force acts on it.</p>
+<p>A) inert　　B) inertia　　C) inertial　　D) inertly</p>
+<p><strong>4.</strong> Work is done only when a force moves an object through a measurable distance _____ the direction of the force.</p>
+<p>A) in　　B) on　　C) at　　D) to</p>
+<p><strong>5.</strong> In a turbofan engine the turbine shaft is subjected _____ torsion, which is really tension and compression acting at 90 degrees to each other.</p>
+<p>A) with　　B) for　　C) to　　D) by</p>
+<p><strong>6.</strong> One horsepower is the rate of doing work equal to 550 ft-lb per _____, or 33,000 ft-lb per minute.</p>
+<p>A) second　　B) seconds　　C) secondly　　D) second's</p>
+<p><strong>7.</strong> A pressure gauge that reads zero when the system is at rest indicates _____ pressure, not absolute pressure.</p>
+<p>A) absolute　　B) differential　　C) total　　D) gauge</p>
+<p><strong>8.</strong> Density altitude _____ obtained by correcting the pressure altitude for nonstandard temperature.</p>
+<p>A) are　　B) is　　C) be　　D) being</p>
+<p><strong>9.</strong> The critical Mach number is the flight Mach number at _____ some point on the wing first reaches Mach 1.</p>
+<p>A) which　　B) that　　C) where　　D) when</p>
+<p><strong>10.</strong> The angle between the chord line and the relative wind is called the angle of _____, and this angle rather than airspeed decides when the wing stalls.</p>
+<p>A) incidence　　B) camber　　C) attack　　D) dihedral</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. C</strong> —— 从句主语位置需要<strong>名词</strong>，<code>weight</code>（重量）与前面的 mass 对照。A <code>weigh</code> 是动词（称重/重达）、B <code>weighed</code> 是过去式/分词、D <code>weighting</code> 是动名词且意为「加权」，都不能作主语中心词。考点：<strong>同词族名词形式</strong>。</p>
+<p><strong>2. D</strong> —— 英制质量单位是 <code>slug</code>（受 1 lb 力产生 1 ft/s² 加速度，重 32.2 lb）。A <code>newton</code>、B <code>kilogram</code> 是米制单位、C <code>pound</code> 是力的单位（此处 32.2 lb 已经是重量），都不能表示该质量。考点：<strong>质量单位术语与混淆</strong>。</p>
+<p><strong>3. B</strong> —— <code>its</code> 是形容词性物主代词，后面必须接<strong>名词</strong>，故 <code>inertia</code>（惯性）。A <code>inert</code> 是形容词「惰性的」、C <code>inertial</code> 是形容词（inertial navigation 才用它）、D <code>inertly</code> 是副词，都不能被 its 修饰。考点：<strong>物主代词后接名词</strong>。</p>
+<p><strong>4. A</strong> —— <code>in the direction of</code>（沿……方向）是固定介词短语。B <code>on</code>、C <code>at</code>、D <code>to</code> 都不与 direction 搭配表示方向，误用 on 会读成「在方向上」。考点：<strong>方位介词短语搭配</strong>。</p>
+<p><strong>5. C</strong> —— <code>be subjected to</code>（承受、受到）是固定搭配，此处指涡轮轴承受扭转。A <code>with</code>、B <code>for</code>、D <code>by</code> 都不构成 subjected 的固定搭配，用 by 会把「受扭转」误写成施动者。考点：<strong>be subjected to 固定搭配</strong>。</p>
+<p><strong>6. A</strong> —— <code>per</code> 后接<strong>单数</strong>名词，故 <code>per second</code>。B <code>seconds</code> 复数不合 per 的用法、C <code>secondly</code> 是副词「其次」、D 所有格形式不能作 per 的宾语。考点：<strong>per + 单数名词</strong>。</p>
+<p><strong>7. D</strong> —— 系统静止时表针指零，说明该表以环境压力为零点，即 <code>gauge pressure</code>（表压）。A <code>absolute</code> 指含大气压的绝对压力（静止时应读 14.7 psi）、B <code>differential</code> 是两点压差、C <code>total</code> 是总压，都与「指零」矛盾。考点：<strong>表压/绝对压/压差词义辨析</strong>。</p>
+<p><strong>8. B</strong> —— 主语 <code>Density altitude</code> 是不可数单数概念，谓语用 <code>is obtained</code>（被动：是被算出来的）。A <code>are</code> 数不一致、C <code>be</code> 缺限定、D <code>being</code> 是非谓语。考点：<strong>主谓一致 + 被动语态</strong>。</p>
+<p><strong>9. A</strong> —— <code>at _____</code> 是「介词 + 关系代词」引导定语从句，先行词是表示数值的 Mach number，须用 <code>which</code>。B <code>that</code> 不能紧跟介词、C <code>where</code> 是关系副词不能作介词宾语、D <code>when</code> 指时间。考点：<strong>介词 + 关系代词</strong>。</p>
+<p><strong>10. C</strong> —— 弦线与相对风之间的夹角是 <code>angle of attack</code>（迎角），失速由它决定。A <code>incidence</code> 是弦线与飞机纵轴的夹角（安装角）、B <code>camber</code> 是翼型弯度、D <code>dihedral</code> 是上反角，都不是与相对风的夹角。考点：<strong>机翼几何术语辨析</strong>。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ul><li>质量 vs 重量：质量只随增减原子而变，重量随重力变；宇航员看似失重，实际是自由落体状态，重力并未消失。</li><li>表压 vs 绝对压：psig 以环境压力为零点，不工作时应指零；psia 含大气压，不工作时指 14.7 psi。选错表会导致"停机还有压力"的误判。</li><li>静压 vs 冲压 vs 总压：静压由液柱高度或流体本身产生；冲压是速度被转换成的压力；总压 = 静压 + 冲压，燃气涡轮进气道测量的就是总压。</li><li>功 vs 扭矩：公式同为"力 × 距离"，但功的距离是物体移动的距离（in-lb），扭矩的距离是力臂长度（lb-in），且扭矩存在不要求物体转动。</li><li>静稳定性 vs 动稳定性：静稳定性看扰动移除后的初始趋势（回中/继续偏离/停在原位）；动稳定性看回到平衡过程中的振荡是否收敛。静稳定性为正的飞机，动稳定性仍可能是正、中、负。</li><li>正激波 vs 膨胀波：正激波后速度降为亚声速、压力密度升高；膨胀波后速度升高、压力密度降低，且膨胀波不是激波。</li><li>失速 vs 失速警告速度：失速由迎角过大、附面层分离造成，与空速无必然对应；同样的空速下大迎角才会失速。</li></ul>

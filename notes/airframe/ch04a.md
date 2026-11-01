@@ -172,18 +172,71 @@
 - NACA 双面齐平铆接法：把铆钉杆镦进 82° 锪窝，主要用于油箱区，可按需修平镦头，但须参照厂家说明。
 - 铆钉孔准备：孔过小会刮掉铆钉保护层，孔过大会使铆钉填不满孔、接头达不到全强度并可能在此处结构失效。
 
-## 7. 高频考点（TECC / 口试风格）
+## 7. 高频考点 · TECC 完形填空
 
-1. 问：为什么修理接头不能做得比原件更强？答：过强会在别处形成 stress riser，把应力集中转移到原结构上，诱发裂纹。
-2. 问：计算拉伸应力用毛面积还是净面积？答：评定材料抗拉强度用 gross area，实际计算用 net area，即毛面积减去孔等去除部分。
-3. 问：凸头与埋头铆钉的最小间距各是多少？答：凸头不小于 3.5D，埋头不小于 4D。
-4. 问：边距的规定范围？答：2D–4D，推荐约 2.5D；凸头最小 2D，埋头最小 2.5D。
-5. 问：0.040 in 厚蒙皮该选多大铆钉？答：板厚 × 3 = 0.120 in，取大一档，选 1/8 in（0.125 in）。
-6. 问：铆钉孔应比铆钉杆大多少？答：取能轻松插入的最小尺寸，约比杆径最大公差大 0.003 in。
-7. 问：拆凸头铆钉的正确顺序？答：锉平制造头→打中心冲眼→用比杆径小一号的钻头钻到钉头深度→冲子掰断钉头→冲出钉杆。
-8. 问：单剪和双剪怎么区分？答：铆钉连接两块板为单剪，连接三块板为双剪。
-9. 问：盲铆钉在哪些部位禁止使用？答：液体密封区、进气吸入区、操纵面与操纵系统、机翼与起落架对接接头、浮筒水线以下及其他重载部位。
-10. 问：增压蒙皮锪窝深度有何新要求？答：不超过外层板厚 2/3，或保证不小于 0.020 in 的铆钉杆埋深，取两者中较大者；板太薄则改为压窝。
+> 10 道题，全部取材本章（金属结构修理基础：应力与应力集中、钣金成形、铆钉与特种紧固件、间距与边距、拆装与禁用部位）。每题一个空、四个选项，只有一个最合适——干扰项按**形近词、同词族变体、近义词**设置。答案与解析在末尾。
+
+**1.** A repair should restore the original strength but never exceed it, because an over-strong splice merely creates a _____ where cracks will begin.
+
+A) stress riser　　B) stress rise　　C) stressed riser　　D) stress raising
+
+**2.** Tensile strength is rated on the gross area, but the stress must be calculated on the _____ area, which allows for the metal removed by holes.
+
+A) gross　　B) net　　C) neat　　D) narrow
+
+**3.** A rivet is mainly loaded in shear, and for that reason it must not _____ where the joint is in tension.
+
+A) use　　B) be using　　C) be used　　D) have used
+
+**4.** The minimum edge distance is 2D and the maximum 4D, with 2.5D _____ the recommended value.
+
+A) being　　B) to be　　C) is　　D) been
+
+**5.** The distance from the centre of a rivet hole to the edge of the sheet is known as the edge _____.
+
+A) distant　　B) distantly　　C) distance　　D) distanced
+
+**6.** An over-strong repair does not add safety; it simply _____ the stress elsewhere in the structure.
+
+A) sets off　　B) sets in　　C) sets out　　D) sets up
+
+**7.** Dimpling presses a conical recess into the sheet without removing any metal, whereas countersinking _____ material around the hole.
+
+A) cuts away　　B) cuts in　　C) cuts off　　D) cuts up
+
+**8.** While the holes are being drilled, the sheets are held together by _____ reusable Cleco fastener.
+
+A) an　　B) the　　C) some　　D) a
+
+**9.** Aluminium alloy sheet is supplied in tempers that decide whether it can be _____ formed at room temperature.
+
+A) cold　　B) coldly　　C) coldness　　D) colder
+
+**10.** Rivets smaller than 3/32 inch must never be used in _____ members.
+
+A) structure　　B) structural　　C) structurally　　D) structured
+
+### 答案与解析
+
+**1. A** —— stress riser（应力上升源）是本章的固定术语，指截面突变或表面损伤处局部应力骤升的部位；B) stress rise 不是行业术语；C) stressed riser 把被修饰关系弄反，riser 本身并不"受应力"；D) stress raising 是动名词短语，不能充当"一个某物"的可数名词中心语。
+
+**2. B** —— 与前文 gross area 相对的是 net area（净面积），即毛面积扣除铆钉孔后用于计算应力的有效截面；A) gross 正是被对比的那一项，逻辑相反；C) neat 意为"整洁的"，与 net 形近但无关；D) narrow 意为"狭窄的"，也不表示扣除孔洞后的截面。
+
+**3. C** —— 铆钉是"被使用"的对象，情态动词 must not 后接被动语态 `be used`；A) use 是主动语态，主语会变成使用者；B) be using 是进行体主动；D) have used 是完成体主动，都不能表达"不得被使用"。
+
+**4. A** —— `with 2.5D being the recommended value` 是 with 引导的独立主格结构，2.5D 与 be 之间没有谓语关系，须用现在分词 being；B) to be 表将来或目的，与这里的补充说明不符；C) is 是谓语形式，会造成两个谓语并列而无连词；D) been 是过去分词，不能单独引导该结构。
+
+**5. C** —— 空格是表语中心词，需要名词 distance（距离）；A) distant 是形容词，B) distantly 是副词，D) distanced 是分词/形容词，三者都不能直接作"the edge ___"的中心名词。术语全称为 edge distance 或 edge margin。
+
+**6. D** —— `set up` 在此意为"造成、形成（应力）"，符合"过强的修理反而在别处造出应力"的意思；A) set off 意为"出发、引爆"；B) set in 意为"（坏天气、不利情况）开始"；C) set out 意为"出发、陈述"，都不能表示造成应力。
+
+**7. A** —— `cut away` 意为"切除、削去"，准确描述锪窝把孔周材料削掉；B) cut in 意为"插嘴、插队"；C) cut off 意为"切断、隔离"；D) cut up 意为"切碎、使伤心"，三者都不能表示按锥面去除孔周材料。
+
+**8. D** —— Cleco 以辅音音素 /k/ 开头，不定冠词用 a；A) an 只用于元音音素前；B) the 表特指，而本句泛指"一种可重复使用的临时紧固件"；C) some 用于复数或不可数名词，与单数可数的 fastener 不搭配。
+
+**9. A** —— 这里需要副词或零形式修饰过去分词 formed，构成 `cold formed`（冷成形的）这一复合表达，cold 在此作方式状语；B) coldly 意为"冷淡地"，语义完全走偏；C) coldness 是名词，不能修饰分词；D) colder 是比较级，本句没有比较对象。
+
+**10. B** —— 修饰名词 members 需要形容词 structural（结构的），`structural members` 即结构件；A) structure 是名词，不能作定语（除非构成名词复合词，但这里不符合）；C) structurally 是副词；D) structured 意为"有组织的、结构化的"，不表示"承力结构件"。
 
 ## 8. 易混点
 

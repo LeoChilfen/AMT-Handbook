@@ -192,18 +192,71 @@
 5. **替代记录**：按局方认可手册/规范做的重大修理，持证修理站可用客户工作单（记录该修理）代替 Form 337。
 6. **通用免责**：书中的修理示例与插图只是典型做法，不构成修理授权；施工前须查该机型 SRM，或找厂家装过的类似修理。
 
-## 7. 高频考点（TECC / 口试风格）
+## 7. 高频考点 · TECC 完形填空
 
-1. **Setback 怎么算？90° 时为什么等于 R+T？**——SB=K(R+T)，K 取 90° 的 1，故 SB=R+T。
-2. **为什么弯曲区会变薄？**——外侧纤维受拉、内侧受压，材料在弯曲区被拉薄，减薄量为原厚度的 10–15%。
-3. **TDW 与各模线尺寸之和的关系？**——TDW 总是更小，因为弯曲把材料"抄近路"绕过了模线交点。
-4. **让位孔打在哪、打多大？**——两条内弯切线交点，直径约 2 倍弯曲半径，铝板薄于等于 0.064 in 时不小于 1/8 in，并越过交点向内弯切线后方延伸 1/32–1/16 in。
-5. **闸床调整的三个步骤？**——调弯曲半径（换半径杆或加鼻部垫片）、调夹紧压力（试条不得发软，两端各 3 in 与中间都要试）、调鼻部间隙（取成品角度时弯曲叶与鼻部半径件之间恰好一个板厚）。
-6. **铆钉直径怎么选？**——取相邻平行的原厂铆钉排，或板厚×3 后取大一档；例 0.040 in 板取 1/8 in。
-7. **补片什么时候放外侧？**——补片要放在受压或受弯的一侧，通常即外侧；放不进去时改用厚一个规格的材料。
-8. **松动铆钉周围的黑色痕迹是什么？**——氧化铝残渣，来自板间微动（fretting corrosion），不等于铆钉松动。
-9. **切掉蒙皮损伤处后为什么还要装 filler？**——恢复气动光顺，同时 filler 与 doubler 共同承担开口处的载荷。
-10. **重大修理的审批路径？**——厂家手册/SRM 优先；无指示时引用 AC 43.13-1 并确认适用条件；属 Form 337 清单范围的填报 Form 337，持证修理站可用客户工作单替代。
+> 10 道题，全部取材本章（金属结构修理后半：折弯展开计算、让位孔与成形、补片与插入修理、长桁与翼梁修理、放行审批）。每题一个空、四个选项，只有一个最合适——干扰项按**形近词、同词族变体、近义词**设置。答案与解析在末尾。
+
+**1.** The total developed width is always _____ than the sum of the mold line dimensions, because the bend takes a shortcut around the mold point.
+
+A) less　　B) lesser　　C) least　　D) low
+
+**2.** The bend tangent line marks the boundary between the bend radius and the _____ section of the part.
+
+A) straighten　　B) straight　　C) straightly　　D) straightness
+
+**3.** Relief holes are drilled at the intersection of the two inside bend tangent lines to keep the corner from _____ during bending.
+
+A) tearing　　B) being torn　　C) tear　　D) torn
+
+**4.** A _____ patch sits flush with the skin and is backed up by a doubler inside the structure, so no step is left on the outer surface.
+
+A) lap　　B) scab　　C) butt　　D) flush
+
+**5.** A crack is stopped by _____ a small hole at each end, which moves the stress concentration away from the crack tip.
+
+A) boring　　B) piercing　　C) punching　　D) drilling
+
+**6.** The doubler is made from the same alloy, one gauge heavier, and is _____ flat against the inside of the skin.
+
+A) riveting　　B) rivet　　C) riveted　　D) rivets
+
+**7.** Repairs of this kind are subject _____ the approval of the manufacturer or the local FAA office.
+
+A) for　　B) of　　C) to　　D) with
+
+**8.** The material for the doubler is one gauge _____ than the skin it reinforces.
+
+A) heavy　　B) heavier　　C) heaviest　　D) heavily
+
+**9.** Black residue around rivet heads is aluminium oxide produced by _____ corrosion between the sheets; it does not by itself mean that the rivet is loose.
+
+A) friction　　B) fretting　　C) fatigue　　D) filiform
+
+**10.** The two skins are joined by a _____ flange, which lets them overlap without leaving a step.
+
+A) joggled　　B) joggle　　C) joggling　　D) joggler
+
+### 答案与解析
+
+**1. A** —— TDW 与"各模线尺寸之和"比较，用比较级 less；B) lesser 多用于 `to a lesser extent` 这类固定表达，且不能直接跟 than 表示数量更小；C) least 是最高级，本句没有三者以上的比较范围；D) low 是原级形容词，与 than 不搭配，也不能表示"更小"。
+
+**2. B** —— 空格修饰名词 section，需要形容词或零形式的 flat 含义词，straight（平直的）符合"平直段"的意思；A) straighten 是动词"弄直"；C) straightly 是副词；D) straightness 是名词"平直度"，都不能作定语。
+
+**3. B** —— `keep the corner from being torn` 中 from 是介词，后面接被动动名词，表示"防止转角被撕裂"；A) tearing 是主动形式，会把转角当成撕裂动作的发出者；C) tear 是动词原形，不能作介词宾语；D) torn 是过去分词，同样不能直接跟在 from 之后。
+
+**4. D** —— 与蒙皮齐平、内侧用加强板承力的补片术语是 flush patch；A) lap patch 与 B) scab patch 都是贴在外表面、边缘搭接的外贴补片，会留下台阶；C) butt 指对接，不描述补片形式。
+
+**5. D** —— 在裂纹尖端钻小孔止裂，英文固定说法就是 stop drilling；A) bore 指镗孔，用于把孔加工到精确尺寸；B) pierce 指冲穿；C) punch 指用冲头冲出孔，三者都不是"用钻头钻小孔"的标准说法。
+
+**6. C** —— 句子与前面的 is made 并列，doubler 是被铆接的对象，用被动语态 is riveted；A) riveting 是主动分词；B) rivet 是名词或动词原形；D) rivets 是第三人称单数谓语，都不能与 is made 构成并列的被动结构。
+
+**7. C** —— `be subject to` 是固定搭配，意为"须经……、受……约束"；A) for、B) of、D) with 都不能与 subject 组成这个短语，属介词误配干扰。
+
+**8. B** —— 句中有 than，必须用比较级 heavier，且 `one gauge heavier` 是行业里的固定说法；A) heavy 是原级，与 than 冲突；C) heaviest 是最高级；D) heavily 是副词，不能修饰 gauge 表示"厚一个规格"。
+
+**9. B** —— 铆钉头周围的黑渣是板间微动造成的 fretting corrosion（俗称 smoking）；A) friction 泛指摩擦，不指这种局部微幅相对滑动引起的腐蚀；C) fatigue 是疲劳，指循环载荷造成的损伤；D) filiform 是丝状腐蚀，多沿涂层下的细线扩展，与铆钉头周围的黑渣不是一回事。
+
+**10. A** —— 空格修饰 flange，需要分词作定语，joggled flange（折弯错位法兰）表示让两块蒙皮错开一个板厚搭接；B) joggle 是名词或动词原形；C) joggling 是动名词，多指动作本身；D) joggler 指"做错位弯的人或工具"，都不指这种成形的法兰。
 
 ## 8. 易混点
 

@@ -1,0 +1,254 @@
+<h1 id="ch-06-aircraft-weight-balance-飞机重量与平衡">Ch 06 · Aircraft Weight &amp; Balance（飞机重量与平衡）</h1>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>本章讲重量与平衡的完整链条：用秤称出空重与 EWCG，再用 datum–arm–moment 体系算出装载后的重心，最后用重心包线判断是否超限。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ul><li>重量与平衡体系由三个同等重要的要素组成：称重（weighing）、维护重量与平衡记录、正确装载。三者缺一，前面做的数据都白费。</li><li>制造厂在飞机出厂前必须提供重量与平衡报告，报告给出空重和重心（CG）位置，并附设备清单，列出计入审定空重的必装件和选装件的重量与力臂。</li><li>小 GA 飞机没有法定的周期性复称要求，但每次年度检查（annual）时机械员必须确认记录中的重量与平衡数据仍然正确；报告丢失则必须重新称重。大修、重大改装或加装设备（如电台、GPS）之后必须建立新的报告。</li><li>飞机总体上是会变重的：不除旧漆就喷新漆、难以清洁处积存的脏污油脂，以及加改装时被漏算的电线、紧固件。所以即使 FAA 不要求，定期上秤核实空重与 EWCG 仍是好做法。</li><li>所有平衡计算都建立在三个量上：datum（基准面，假想的垂直面）、arm（基准面到某点的水平距离，单位英寸，带正负号）、moment（重量 × 力臂，单位 in-lb）。CG 就是总力矩除以总重量。</li><li>空重和 EWCG 本身说明不了问题，真正的意义在于它们决定了装载后的重量与重心；对装载后重量与平衡负责的是机长（pilot-in-command），由他最终判断飞机是否可以安全飞行。</li><li>每次修理或改装改变重量与平衡后，A&amp;P 机械员或修理人员必须证明「没有任何合法装载方式能把 CG 推出限制」，这个证明就是不利装载检查（adverse-loading check）。</li><li>判读限值的两条路子：一是按 TCDS 给出的 CG 范围和各点之间的直线变化插值；二是用装载图表（loading graph）读出力矩，再与 CG 包线图比对，交点落在包线内即合法。</li></ul>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">datum</td>
+<td style="text-align:left">基准面</td>
+<td style="text-align:left">假想的垂直平面，飞机处于平飞姿态时所有水平测量的起点，与纵轴成 90°</td>
+</tr>
+<tr>
+<td style="text-align:left">arm / moment arm</td>
+<td style="text-align:left">力臂</td>
+<td style="text-align:left">基准面到某点（或某物品自身 CG）的水平距离，单位英寸，带 +/−</td>
+</tr>
+<tr>
+<td style="text-align:left">moment</td>
+<td style="text-align:left">力矩</td>
+<td style="text-align:left">重量（力）乘力臂，单位 in-lb，正负由重量与力臂的符号相乘决定</td>
+</tr>
+<tr>
+<td style="text-align:left">center of gravity (CG)</td>
+<td style="text-align:left">重心</td>
+<td style="text-align:left">全部重量集中并取得平衡的那一点，机头重与机尾重力矩相等</td>
+</tr>
+<tr>
+<td style="text-align:left">empty weight</td>
+<td style="text-align:left">空重</td>
+<td style="text-align:left">含机体、动力装置、必装与选装设备、固定配重、液压油、残留燃油滑油</td>
+</tr>
+<tr>
+<td style="text-align:left">basic / licensed / standard empty weight</td>
+<td style="text-align:left">基本 / 许可 / 标准空重</td>
+<td style="text-align:left">三种口径：计入滑油满容量（最常用）、只计残留滑油（多为 1978 年前）、制造厂标准值不含选装</td>
+</tr>
+<tr>
+<td style="text-align:left">empty weight center of gravity (EWCG)</td>
+<td style="text-align:left">空重重心</td>
+<td style="text-align:left">飞机在空重状态下的平衡点，一切装载计算和不利装载检查的起点</td>
+</tr>
+<tr>
+<td style="text-align:left">useful load</td>
+<td style="text-align:left">有效载重</td>
+<td style="text-align:left">最大允许全重减空重；含燃油、其他液体、乘员、行李、机组</td>
+</tr>
+<tr>
+<td style="text-align:left">payload</td>
+<td style="text-align:left">业载</td>
+<td style="text-align:left">与有效载重类似，但不含燃油</td>
+</tr>
+<tr>
+<td style="text-align:left">maximum ramp weight</td>
+<td style="text-align:left">最大停机坪重量</td>
+<td style="text-align:left">飞机在地面停放/滑行时允许的最重重量，又称最大滑行重量</td>
+</tr>
+<tr>
+<td style="text-align:left">maximum takeoff weight</td>
+<td style="text-align:left">最大起飞重量</td>
+<td style="text-align:left">开始起飞滑跑时的最重重量，与最大停机坪重量之差即起飞前耗掉的燃油</td>
+</tr>
+<tr>
+<td style="text-align:left">maximum landing weight</td>
+<td style="text-align:left">最大着陆重量</td>
+<td style="text-align:left">着陆时的最重重量，大型宽体机可比最大起飞重量小 100,000 lb 甚至更多</td>
+</tr>
+<tr>
+<td style="text-align:left">maximum zero fuel weight</td>
+<td style="text-align:left">最大零燃油重量</td>
+<td style="text-align:left">油箱内无可用燃油时的最重重量，超出部分只能以燃油形式加载</td>
+</tr>
+<tr>
+<td style="text-align:left">minimum fuel</td>
+<td style="text-align:left">最小燃油量</td>
+<td style="text-align:left">不利装载检查中被迫保留的油量，按巡航功率 30 分钟计</td>
+</tr>
+<tr>
+<td style="text-align:left">METO hp</td>
+<td style="text-align:left">最大除起飞外功率马力</td>
+<td style="text-align:left">maximum except takeoff horsepower，用于换算最小燃油</td>
+</tr>
+<tr>
+<td style="text-align:left">tare weight</td>
+<td style="text-align:left">皮重</td>
+<td style="text-align:left">称重时一并压在秤上的辅助物件（千斤顶、轮挡、地面锁）的重量，须从读数中减去</td>
+</tr>
+<tr>
+<td style="text-align:left">adverse-loading check</td>
+<td style="text-align:left">不利装载检查</td>
+<td style="text-align:left">故意按最不利方式装载，验证 CG 无法被推出限制的验算</td>
+</tr>
+<tr>
+<td style="text-align:left">CG range</td>
+<td style="text-align:left">重心范围</td>
+<td style="text-align:left">飞机必须在此范围内取得平衡，以从前限到最后限的力臂区间表示</td>
+</tr>
+<tr>
+<td style="text-align:left">CG envelope</td>
+<td style="text-align:left">重心包线</td>
+<td style="text-align:left">把前限、后限随重量变化的直线段画在图上围成的区域</td>
+</tr>
+<tr>
+<td style="text-align:left">equipment list</td>
+<td style="text-align:left">设备清单</td>
+<td style="text-align:left">逐项列出设备重量与力臂的清单，TCDS 体系中为独立文件</td>
+</tr>
+<tr>
+<td style="text-align:left">Aircraft Specifications</td>
+<td style="text-align:left">飞机规范</td>
+<td style="text-align:left">1958 年前由 CAA 颁发，含重量与平衡数据，通常内含设备清单</td>
+</tr>
+<tr>
+<td style="text-align:left">TCDS</td>
+<td style="text-align:left">型号合格证数据表</td>
+<td style="text-align:left">Type Certificate Data Sheet，1958 年后由 FAA 颁发，重量与平衡数据出处</td>
+</tr>
+<tr>
+<td style="text-align:left">load cell</td>
+<td style="text-align:left">载荷传感器</td>
+<td style="text-align:left">感受所加载荷并输出电信号的称重元件，装于台秤或千斤顶顶面</td>
+</tr>
+<tr>
+<td style="text-align:left">plumb bob</td>
+<td style="text-align:left">铅锤</td>
+<td style="text-align:left">带尖端的金属柱/锥体，用线悬挂，用于取垂直投影点和调平</td>
+</tr>
+<tr>
+<td style="text-align:left">spirit level</td>
+<td style="text-align:left">气泡水平仪</td>
+<td style="text-align:left">管内液体中的气泡居中于两条黑线之间即表示水平</td>
+</tr>
+<tr>
+<td style="text-align:left">hydrometer</td>
+<td style="text-align:left">液体比重计</td>
+<td style="text-align:left">带刻度的密封玻管，按浮起深度直接读出燃油的 lb/gal</td>
+</tr>
+<tr>
+<td style="text-align:left">butt line</td>
+<td style="text-align:left">机身中线（站位）</td>
+<td style="text-align:left">从头到尾贯穿机身中部的线，直升机横向力臂由此量起</td>
+</tr>
+<tr>
+<td style="text-align:left">MAC / LEMAC</td>
+<td style="text-align:left">平均气动弦 / 其前缘</td>
+<td style="text-align:left">mean aerodynamic chord 及 leading edge of MAC，大型机以此把 CG 换算成 %MAC</td>
+</tr>
+<tr>
+<td style="text-align:left">ballast</td>
+<td style="text-align:left">配重</td>
+<td style="text-align:left">为把 CG 调回限制内而加装的重量，分临时配重与永久配重</td>
+</tr>
+<tr>
+<td style="text-align:left">weight-shift control aircraft</td>
+<td style="text-align:left">重量转移操纵飞机</td>
+<td style="text-align:left">俗称 trike，靠移动悬挂重心操纵，无 TCDS</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<p><strong>标准重量（未给出实测值时的通用取值）</strong></p>
+<ul><li>Avgas：6 lb/gal；涡轮燃油（turbine fuel）：6.7 lb/gal；滑油：7.5 lb/gal；水：8.35 lb/gal；机组与乘客：每人 170 lb。</li></ul>
+<p><strong>比重计与温度</strong></p>
+<ul><li>佛罗里达夏季用比重计实测 Avgas 常在 5.85–5.9 lb/gal；按 100 gal 计算，用实测值还是标准 6.0 lb/gal，差 10–15 lb。</li></ul>
+<p><strong>重心基本公式</strong></p>
+<ul><li>CG = 总力矩 ÷ 总重量；力臂列不求和，该列底部填的就是 CG。</li><li>书中算例（datum 在板一端）：总重 495 lb、总力矩 52,900 in-lb，CG = 106.9"（106.87 取到十分位）。</li><li>同一组重量、datum 改到板中点：总力矩 3,400 in-lb、总重 495 lb，CG = 6.9"（6.87），即中点右侧 6.9"，与上例物理位置相同。</li><li>验算：CG 左右两侧力矩分别为 10,651.85 in-lb 与 10,651.25 in-lb（约 10,651），相等即证明 CG 算对。</li></ul>
+<p><strong>最小燃油（minimum fuel）</strong></p>
+<ul><li>定义为巡航功率下 30 分钟所需油量；对重量平衡而言，不超过额定最大连续功率半小时的油量。</li><li>每 METO hp 对应 1/12 gal；Avgas 6 lb/gal 时，最小燃油磅数 = METO hp ÷ 2。</li><li>例：METO 200 hp → 16.65 gal 或 99.99 lb；简化算法 200 ÷ 2 = 100 lb。</li><li>依据：活塞发动机巡航约每 hp 每小时烧 1 lb 燃油，30 分钟即 1/2 lb，故除以 2。</li><li>涡轮发动机飞机的最小燃油不以马力为基准，须由制造厂提供数据。</li></ul>
+<p><strong>EWCG 四个公式</strong>（F = 前轮秤读数，R = 尾轮秤读数，L = 主轮与前/尾轮称重点间距，W = 总重，D = 主轮称重点到 datum 的距离）</p>
+<ol><li>前三点式，datum 在主轮之前：CG = D − (F × L) ÷ W</li><li>前三点式，datum 在主轮之后：CG = −(D + (F × L) ÷ W)</li><li>后三点式，datum 在主轮之前：CG = D + (R × L) ÷ W</li><li>后三点式，datum 在主轮之后：CG = −D + (R × L) ÷ W</li></ol>
+<ul><li>公式 1 算例：D = 128"、F = 340 lb、L = 78"、W = 2,006 lb → CG = 128 − (340 × 78 ÷ 2,006) = 114.8"，即在主轮称重点前 13.2"。</li><li>公式 2 算例（同一架飞机，datum 移到机翼后缘与机身交线）：D = 75" → CG = −(75 + 340 × 78 ÷ 2,006) = −88.2"，即 datum 前 88.2"，仍在主轮前 13.2"。</li><li>公式 3 算例：D = 7.5"、R = 67 lb、L = 222"、W = 1,218 lb → CG = 7.5 + (67 × 222 ÷ 1,218) = 19.7"。</li><li>公式 4 算例：D = −80" → CG = −80 + (67 × 222 ÷ 1,218) = −67.8"，即主轮称重点后 12.2"。</li><li>结论：只要所有测量都从同一位置量起，datum 选在哪里都不影响 CG 的物理位置。</li></ul>
+<p><strong>整机称重算例（前三点式，三点台秤）</strong></p>
+<ul><li>给定：datum 在机翼前缘；轮距（wheelbase）100"；燃油容量 30 gal Avgas 于 +95"；不可用燃油 6 lb 于 +98"；滑油 8 qt 于 −38"；NOTE 1 写明空重含不可用燃油与满滑油，故称重时油量油面都要满。</li><li>读数：左主轮 650 lb、右主轮 640 lb、前轮 225 lb；皮重：左主 5 lb、右主 5 lb、前轮 2.5 lb（共 12.5 lb）；比重计 5.9 lb/gal。</li><li>主轮中心线在 datum 后 70"，其力臂 +70"；前轮力臂 = 100 − 70 = −30"。</li><li>净重小计 1,502.5 lb；减去整箱可用燃油 177 lb（30 gal × 5.9）、把不可用燃油 6 lb 加回，得空重 1,331.5 lb，总力矩 66,698 in-lb，CG = +50.1"（datum 后 50.1"），必在主轮之前。</li></ul>
+<p><strong>TCDS 与包线（Piper Seneca PA-34-200 系列，起落架放下）</strong></p>
+<ul><li>CG 范围：2,780 lb 时 (+80.7) 至 (+94.6)；3,400 lb 时 (+82.0) 至 (+94.6)；4,000 lb 时 (+86.4) 至 (+94.6)。各点之间为直线变化；序号 34-7250215 至 34-7450220 在 4,200 lb 时为 (+87.9) 至 (+94.6)。</li><li>收放起落架造成的力矩变化：−32 in-lb；若飞机重 3,500 lb，CG 前移 32 ÷ 3,500 = 0.009"。</li><li>重量增加时后限不动、前限后移，故重心范围变小。</li><li>datum：机翼前缘之前 78.4"（自内侧油箱内缘量起）；调平方法：左侧机身窗口下方两颗螺钉。</li><li>最大重量：后期序号 4,200 lb 起飞 / 4,000 lb 着陆；空重重心范围（Empty Weight CG Range）：None。</li><li>座位 7 个（2 个在 +85.5、3 个在 +118.1、2 个在 +155.7）；行李 200 lb（100 lb 在 +22.5、100 lb 在 +178.7）。</li><li>燃油 98 gal（93 gal 可用）于 (+93.6)；滑油每台 8 qt（5 或 6 qt 可用）；最大使用高度 25,000 ft。</li><li>NOTE 1：不可用燃油 30.0 lb 于 (+103.0)（Seneca V 为 36.0 lb）；滑油 PA-34-200 为 6.2 lb 于 (+39.6)，200T/220T 为 12.0 lb 于 (+43.7)。</li><li>典型报告示例：标准空重 1,876 lb（力臂 36.1）＋选装 1.2 lb（13.9）＋特殊安装 6.2 lb（41.5）＋不可用燃油 30.0 lb（46.0）＝基本空重 1,913.4 lb，力矩 69,452.6 in-lb。</li></ul>
+<p><strong>装载算例（Seneca，S/N 34-7250816）</strong></p>
+<ul><li>空重 2,650 lb，EWCG +86.8"；飞行员 180 lb @ +85.5，乘客 160/210/190 lb @ +118.1，乘客 205 lb @ +155.7，行李 50 lb @ +22.5，行李 100 lb @ +178.7，燃油 80 gal @ +93.6。</li><li>结果：总重 4,225 lb，总力矩 407,387.50 in-lb，CG = +96.42"。</li><li>判读：最大起飞重量 4,200 lb、后限 +94.6" → 超重 25 lb、CG 靠后 1.82"；减少 25 lb 行李、把 100 lb 行李移到前舱、调换乘客座位后，重 4,200 lb、CG +92.01"，重心前移 4.42"，可以飞。</li></ul>
+<p><strong>不利装载检查算例（轻型机）</strong></p>
+<ul><li>数据：空重 1,850 lb、EWCG +92.45、CG 限制 +89" 至 +99"、最大重量 3,200 lb、燃油 45 gal @ +95"（44 可用）与 40 gal @ +102"（39 可用）、前座 82"–88" 可调、后座 2 个 @105"、2 个 @125"、行李 100 lb @140"；图中标注 375 hp，按 METO hp ÷ 2 得最小燃油 187.5 lb。</li><li>前极限检查：空重 + 飞行员 170 @82 + 乘客 170 @82 + 行李 75 lb @60 + 最小燃油 187.5 lb @95 → 总重 2,452.5 lb、力矩 221,225 in-lb、CG +90.20"，在限内。</li><li>后极限检查：空重 + 飞行员 170 @88 + 2×170 @105 + 2×170 @125 + 行李 100 @140 + 燃油 234 lb @102 → 总重 3,034 lb、力矩 302,060.5 in-lb、CG +99.60"，超出后限 0.6"。</li></ul>
+<p><strong>加改装与配重公式</strong></p>
+<ul><li>改装算例：空重 2,350 lb、EWCG +24.7"；加装电台 5.8 lb @−28、GPS 7.3 lb @−26、ELT 2.8 lb @+105；拆除频闪灯 1.4 lb @+75、ADF 3 lb @−28、座椅 34 lb @+60 → 总重 2,327.5 lb、力矩 55,925.8 in-lb、CG 24.03"；即减重 22.5 lb、重心前移 0.67"。</li><li>临时配重公式：所需配重 = （总重 × 需移动 CG 的距离）÷（配重位置到目标 CG 的距离）。</li><li>上例代入：3,034 lb × 0.6" ÷ 39" = 46.68 lb（配重放在力臂 +60" 的行李舱，后限 99" 与 60" 之差即 39"），一律向上取整到整磅 → 用 47 lb；加装后总重 3,081 lb、力矩 304,880.5 in-lb、CG +98.96"，落回 99" 后限之内。</li><li>永久配重公式：配重 = （飞机空重 × 超出限制的距离）÷（配重位置到目标 CG 的距离）。</li><li>上例代入：1,876 lb × 0.8" ÷ (228 − 33) = 1,500.8 ÷ 195 = 7.7 lb，固定在机身站位 228 的隔框上，EWCG 回到前限 +33。</li></ul>
+<p><strong>%MAC 换算</strong></p>
+<ul><li>Percent of MAC = (CG − LEMAC) ÷ MAC × 100。</li><li>例：MAC = 180"、LEMAC = 900"、CG = 945" → (945 − 900) ÷ 180 × 100 = 25%。</li><li>反算：CG in inches = % MAC ÷ 100 × MAC + LEMAC；32.5% → 32.5 ÷ 100 × 180 + 900 = 958.5"。</li></ul>
+<p><strong>直升机算例（Bell JetRanger）</strong></p>
+<ul><li>数据：datum 在前千斤顶点中心线之前 55.16"；空重含不可用燃油与不可用滑油；电子秤已带千斤顶归零，故无皮重。</li><li>左前 650 lb（纵向 +55.16、横向 −25）、右前 625 lb（+55.16、+25）、后 710 lb（+204.92、0.0）。</li><li>结果：空重 1,985 lb，纵向 CG +108.73"（总力矩 215,822.2 in-lb），横向 CG −0.31"（横向合力矩 −625 in-lb）。</li><li>纵向 CG 限制：2,100 与 2,350 lb 时 +106 至 +114.2；2,600 lb 时 +106 至 +113.4；2,900 lb 时 +106 至 +112.4；3,000 lb 时 +106 至 +112.1；3,200 lb 时 +106 至 +111.4。横向限制：纵向 CG 为 +106.0 时左 2.3" 至右 3.0"，纵向 +108 至 +114.2 时左 3.0" 至右 4.0"。</li></ul>
+<p><strong>装载图表算例</strong></p>
+<ul><li>机型数据：4 座、可用燃油 38 gal Avgas、滑油 8 qt（已含于空重）、行李 120 lb、空重 1,400 lb、EWCG 38.5"、空重力矩 53,900 in-lb。</li><li>装载：飞行员 180、前座乘客 140、后座乘客 210、行李 100、燃油 228 lb；力矩分别为 6,000、4,500、15,000、9,200、10,800 in-lb。</li><li>合计 2,258 lb / 99,400 in-lb，落入 Normal Category 包线内。</li></ul>
+<p><strong>法规周期</strong></p>
+<ul><li>每 3 年必须称重并算 CG 的飞机：14 CFR part 135 第 135.185(a) 条下的空中出租与包机双发飞机；14 CFR part 125 第 125.91(b) 条下 20 座以上或最大业载 6,000 lb 以上的飞机。</li><li>制造厂可只称同一型号产量的 10%–20% 并取平均值。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<p><strong>重量与平衡体系的三个要素</strong></p>
+<ul><li>称重（weighing）：把飞机放上秤，取得空重与 EWCG。</li><li>维护记录：重量与平衡报告、设备清单、TCDS/Aircraft Specifications 的持续更新。</li><li>正确装载：把燃油、乘员、货物按算得的方式装上飞机。</li></ul>
+<p><strong>数据链条</strong></p>
+<ul><li>datum（制造厂定的假想垂直面）→ arm（datum 到某点或某物自身 CG 的水平英寸数）→ moment（重量 × 力臂）→ 总力矩 ÷ 总重 = CG → 与 CG 范围/包线比对。</li><li>datum 常见位置：机头、机翼前缘、直升机旋翼桅杆、或某已知点前方指定距离。datum 放在最前端则全部力臂为正。</li></ul>
+<p><strong>重量名词的层级</strong></p>
+<ul><li>最大重量（maximum weight）→ 分为最大停机坪、最大起飞、最大着陆、最大零燃油重量；同一机型按类别（normal / utility）还可能有不同的最大全重。</li><li>空重（empty weight）→ 分 basic / licensed / standard 三种口径。</li><li>最大允许全重 − 空重 = 有效载重（useful load）；有效载重再扣燃油 = 业载（payload）。</li></ul>
+<p><strong>称重设备</strong></p>
+<ul><li>平台秤（platform scale）：整个机轮停在平台上，内置电子 load cell 与 strain gauge，有线或无线送显示单元；只能靠放轮胎和减振支柱的气来调平。</li><li>千斤顶顶置测力计（top of jack load cell）：每个顶起点一个传感器，顶面凹形与顶起垫吻合，靠千斤顶高度调平，运输轻便、需配相应千斤顶。</li><li>辅助测量件：铅锤（取垂直投影）、气泡水平仪（判断平飞姿态）、卷尺与粉线（量 datum 到称重点的距离）、液体比重计（测燃油 lb/gal）。</li></ul>
+<p><strong>记录与图形资料</strong></p>
+<ul><li>重量与平衡报告（weight and balance report）：记录称重结果、空重、EWCG、最大重量、有效载重，须随机携带，无强制格式。</li><li>设备清单：TCDS 体系下为独立文件，编号前两位对应 ATA iSpec 2200 的章节（如 11 标牌、21 空调、77 发动机指示）；后缀 −R 必装、−S 标准、−O 替代必装/标准的选装、−A 追加的选装。</li><li>POH/AFM：含该机专属设备清单、CG 力矩包线与装载图表。</li><li>装载图表（loading graph）：纵轴取重量，横轴读 index number（力矩/1,000）；CG 包线图纵轴为装载重量、横轴为装载力矩/1,000，交点即 CG。</li></ul>
+<p><strong>特殊机型</strong></p>
+<ul><li>直升机：同时有纵向与横向 CG 范围，横向力臂自 butt line 量起（面向前方时右侧为正、左侧为负）；范围常小于 3"，多位于旋翼桅杆前后或双旋翼之间。</li><li>重量转移操纵飞机（weight-shift control aircraft / trike）与动力伞（powered parachute）：无 TCDS、无 FAA 强制报告，靠可调的翼接头位置补偿乘员重量差。</li><li>大型飞机：起落架轴或支柱内装电子测力计（Boeing 747-400/777/787、MD-11、A330/A340/A380），Boeing 777 用两套独立系统送 FMS，两者一致方可据此放行。</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<p><strong>称重前的准备</strong></p>
+<ul><li>在机库内称，避免风吹造成读数跳动；飞机内外清洁，特别注意舱底（bilge）不得积水积杂物，外部去泥去污。</li><li>备齐：秤、起重设备、千斤顶、调平设备；垫块/轮挡/沙袋；直尺、水平仪、铅锤、粉线、卷尺；适用的 Aircraft Specifications 与重量平衡计算表格。</li><li>逐项检查审定空重里包含的每一件设备都已装在规定位置；装回所有在维修中拆下的检查口盖、油箱盖、接线盒盖、整流罩、舱门、应急出口；舱门、窗、滑动座舱盖置于正常飞行位置；清掉非经常携带的物品，行李舱必须清空，并去掉多余的泥土、油污、油脂和水分。</li><li>轮子压在秤上时松开刹车，避免侧向载荷造成错误读数；所有飞机都要用调平点/调平耳调平，纵向调平尤其不能含糊（这点怎么强调都不为过）；轻型固定翼的横向调平不如重型机关键，但仍应尽力调平；直升机称重时必须纵向、横向都调平。</li></ul>
+<p><strong>燃油状态（三选一，绝不允许半箱）</strong></p>
+<ol><li>完全排空油箱与油路：按 TCDS 数据把不可用燃油的重量、力臂、力矩算回去。</li><li>按制造厂规定放油；无规定则放到油量表读空且不再流出为止，残余不可用燃油按 TCDS 计。</li><li>油箱完全加满：用比重计测 lb/gal、按 TCDS 查容量，把可用燃油整体减掉。用千斤顶测力计称重时，须查测力计说明书与飞机维修手册，确认满油顶起是否允许（可能给结构附加应力）。</li></ol>
+<p><strong>滑油与其他液体</strong></p>
+<ul><li>CAR part 3 审定的老飞机，空重不含发动机滑油：称前放净，或按 7.5 lb/gal 算出油重后从读数中减去；放不掉的残留滑油属空重，其量与力臂见 TCDS 的 NOTE 1。</li><li>1978 年后按 14 CFR part 23/25 审定的飞机，满滑油通常已含在空重内，称前要检查油面并补满。</li><li>液压油及其他正常工作所需油液储罐应加满；饮用水、厕所预充水、喷入发动机的水不计入空重。</li><li>扰流板、缝翼、襟翼、直升机旋翼系统的位置按制造厂规定摆放。</li></ul>
+<p><strong>顶起与调平</strong></p>
+<ul><li>弹簧钢起落架在轮处顶起时会向内滑，要防止千斤顶倾覆；制造厂要求时先装应力板/应力加强板；两个机翼千斤顶必须同步上升；上升过程中把保险环拧到贴住千斤顶柱塞。</li><li>安全四条：按需装应力板；机内有人时不得有任何动作；千斤顶必须正对顶起垫；全部千斤顶同步上升并加保险（螺环、插销或摩擦锁）。</li><li>调平依据 TCDS：可要求从指定点放铅锤、或用水平仪跨两颗调平螺钉、或把水平仪放在上门槛；用测力计称重时靠千斤顶调平，用机轮称重时通常调前轮减振支柱气压。</li></ul>
+<p><strong>称重点与力臂</strong></p>
+<ul><li>机轮在秤上时，重量经轮轴中心传递；在千斤顶上时经顶起垫中心传递；直升机滑橇直接压秤时无法确定传力中心，须在滑橇与秤之间垫一根管子，以管子中心为传力点。</li><li>力臂未知时，从各称重点和 datum 分别吊铅锤、在地面划粉线，量垂距。</li></ul>
+<p><strong>计算与记录</strong></p>
+<ul><li>称空重与 EWCG 用六列称重表（逐项列秤读数，扣皮重得净重，再乘力臂得到力矩并求和，最后总力矩 ÷ 总重）；纯纸面的改装计算改用四列，且不涉及皮重、燃油与滑油。</li><li>加改装件的重量带 +/− 号表示装上或拆下，力矩符号由重量与力臂符号相乘；拆除件若力臂为负，其力矩反为正。</li><li>每次修理或改装改变重量平衡后，必须在重量平衡修订页上记录不利装载检查的结果。</li><li>每次年度检查或 100 小时检查时，由执行检查的机械员或修理人员负责确认飞机符合 TCDS 中的相关规格；重量平衡报告必须保持现行、准确并随机携带。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（飞机重量与平衡）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> The _____ is an imaginary vertical plane from which all horizontal measurements are taken when the aircraft is in its level flight attitude.</p>
+<p>A) data　　B) date　　C) datum　　D) datums</p>
+<p><strong>2.</strong> The horizontal distance from the datum to a point, measured in inches and carrying a plus or minus sign, is called the _____.</p>
+<p>A) moment　　B) tare　　C) MAC　　D) arm</p>
+<p><strong>3.</strong> Tare weight must _____ from the scale readings before the net weight of the aircraft is recorded.</p>
+<p>A) subtract　　B) be subtracted　　C) subtracting　　D) be subtracting</p>
+<p><strong>4.</strong> After the aircraft is weighed and reloaded, the pilot-in-command is responsible _____ deciding whether it can be flown safely.</p>
+<p>A) for　　B) of　　C) to　　D) with</p>
+<p><strong>5.</strong> Useful load is found by subtracting the empty weight _____ the maximum allowable gross weight.</p>
+<p>A) off　　B) of　　C) from　　D) out</p>
+<p><strong>6.</strong> A(n) _____-loading check must show that no legal combination of loads can push the CG forward of its forward limit or aft of its aft limit.</p>
+<p>A) adversely　　B) adversity　　C) adversed　　D) adverse</p>
+<p><strong>7.</strong> A permanent _____ is painted red, marked "Do Not Remove", and rigidly attached to the aircraft structure.</p>
+<p>A) ballast　　B) ballasted　　C) ballasting　　D) ballasts</p>
+<p><strong>8.</strong> Useful load includes the fuel, whereas the _____ is similar to useful load but does not include fuel.</p>
+<p>A) empty weight　　B) payload　　C) ramp weight　　D) zero fuel weight</p>
+<p><strong>9.</strong> Percent of MAC _____ calculated by dividing the distance from the LEMAC to the CG by the length of the MAC and multiplying by 100.</p>
+<p>A) are　　B) be　　C) is　　D) being</p>
+<p><strong>10.</strong> The weight of jacks, chocks and ground locks that rest on the scales along with the aircraft is called _____ weight.</p>
+<p>A) tare　　B) empty　　C) zero fuel　　D) basic</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. C</strong> —— 单数主语用 <code>datum</code>（基准面），是本章核心术语。A <code>data</code> 是复数形式（数据）、B <code>date</code> 是形近的「日期」、D <code>datums</code> 虽为合法复数但与 a/The + 单数谓语 is 不匹配。考点：<strong>datum/data 单复数与形近词</strong>。</p>
+<p><strong>2. D</strong> —— 「基准面到某点的水平英寸数」正是 <code>arm</code>（力臂）。A <code>moment</code> 是重量乘力臂的结果（in-lb）、B <code>tare</code> 是称重时附加物件的皮重、C <code>MAC</code> 是平均气动弦长，都不是这段距离本身。考点：<strong>重量平衡三要素术语辨析</strong>。</p>
+<p><strong>3. B</strong> —— <code>must be subtracted</code> 构成被动：皮重是「被减掉」的。A <code>subtract</code> 原形不能跟在 must 后表被动、C <code>subtracting</code> 非谓语、D <code>be subtracting</code> 是进行体被动，与「一次性扣除读数」不符。考点：<strong>情态动词后的被动语态</strong>。</p>
+<p><strong>4. A</strong> —— <code>be responsible for</code>（对……负责）是固定搭配。B <code>of</code>、C <code>to</code>、D <code>with</code> 都不与 responsible 构成此义；responsible to 意为「向某人负责/受其管辖」，与此处「对装载决定负责」不同。考点：<strong>形容词固定介词搭配</strong>。</p>
+<p><strong>5. C</strong> —— <code>subtract A from B</code>（从 B 中减去 A）是固定结构。A <code>off</code>、B <code>of</code>、D <code>out</code> 都不能与 subtract 搭配表示减法对象。考点：<strong>subtract ... from 固定搭配</strong>。</p>
+<p><strong>6. D</strong> —— 修饰名词短语 loading check 需要<strong>形容词</strong>，<code>adverse-loading check</code>（不利装载检查）是本章固定术语。A <code>adversely</code> 是副词、B <code>adversity</code> 是名词「逆境」、C 为生造的分词形式，都不能修饰 loading。考点：<strong>同词族形容词形式</strong>。</p>
+<p><strong>7. A</strong> —— <code>A permanent _____</code> 需要<strong>单数名词</strong>，<code>ballast</code>（配重）不可数/单数同形。B <code>ballasted</code> 是过去分词、C <code>ballasting</code> 是动名词、D <code>ballasts</code> 与前面的 A 冲突。考点：<strong>名词形式与单复数</strong>。</p>
+<p><strong>8. B</strong> —— 「与有效载重类似但不含燃油」的是 <code>payload</code>（业载）。A <code>empty weight</code> 根本不含燃油与乘员、C <code>ramp weight</code> 是地面停放的最大重量、D <code>zero fuel weight</code> 是零燃油状态的最大重量，三者都不是「不含燃油的有效载重」。考点：<strong>重量名词层级辨析</strong>。</p>
+<p><strong>9. C</strong> —— 主语 <code>Percent of MAC</code> 作整体概念视为单数，谓语用 <code>is calculated</code>（被动）。A <code>are</code> 数不一致、B <code>be</code> 缺限定、D <code>being</code> 是非谓语，不能独立作谓语。考点：<strong>主谓一致 + 被动语态</strong>。</p>
+<p><strong>10. A</strong> —— 压在秤上、必须从读数中减去的是 <code>tare weight</code>（皮重）。B <code>empty weight</code> 是空重、C <code>zero fuel weight</code>、D <code>basic</code> 都是重量口径，与「称重时的附加物件」无关。考点：<strong>称重术语词义辨析</strong>。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ul><li><strong>空重的三种口径</strong>：basic empty weight 含满滑油系统容量（维修中最常用）；licensed empty weight 只含残留滑油，多为 1978 年前审定机；standard empty weight 是制造厂给的、不含选装设备的口径。混淆会导致少算或多算几十磅滑油。</li><li><strong>useful load 与 payload</strong>：useful load = 最大允许全重 − 空重，含燃油；payload 与它类似但不含燃油。把 payload 当 useful load 去核算装载会低估可用重量。</li><li><strong>EWCG range 与 operating CG range（运行重心范围）</strong>：前者是空重状态下的重心范围（飞机少见、直升机常见，TCDS 常写 None），落在其内则任何合法装载都不会超限、不必做不利装载检查；后者是装载待飞状态的限值，会随重量和类别变化。TCDS 写 None 时必须做不利装载检查：前检查把前限之前的载荷装满、之后留空，但后方的油箱不能空，只能记最小燃油；后检查把后限之后的载荷装满、之前留空，唯独飞行员座位不能空，若油箱在前方则记最小燃油。</li><li><strong>datum 位置与 CG 数值</strong>：datum 改位置不改变 CG 的物理位置，只改变它的英寸读数和正负号；书中同一架飞机算出 114.8" 与 −88.2"，相对主轮都是前 13.2"。</li><li><strong>临时配重与永久配重</strong>：临时配重是铅块、沙袋、铅砂，标注「Ballast XX Pounds–Removal Requires Weight and Balance Check」，称重前必须全部取下；永久配重是涂红漆、标「Permanent Ballast–Do Not Remove」并刚性固定的铅块，会增大空重、减小有效载重。</li></ul>

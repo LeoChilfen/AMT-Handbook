@@ -1,0 +1,282 @@
+<h1 id="ch-01-aircraft-structures-飞机结构">Ch 01 · Aircraft Structures（飞机结构）</h1>
+<h2 id="1-一句话">1. 一句话</h2>
+<p>本章讲机体结构：从木布桁架到复合材料的演变，五种应力，机身/机翼/尾翼/操纵面/起落架的结构形式与受力路径，以及站位、分区编号和直升机旋翼系统。</p>
+<h2 id="2-本章要点">2. 本章要点</h2>
+<ul><li>结构发展主线是"更轻更强"：木/布桁架 → 金属桁架与金属蒙皮 → 硬壳/半硬壳 → 应力蒙皮 → 蜂窝夹层与先进复合材料。关键节点：Cayley 1853 年载人三翼滑翔机；Wright Flyer 1903 年木桁架 + 布蒙皮双层翼；Bleriot 1909 年单翼（机身用 Pratt truss 框架）；Junkers J-1 1910 年金属桁架 + 金属蒙皮并取消外部张线；二战中 De Havilland Mosquito 用 balsa 木夹层，是首架"复合材料结构"飞机；战后涡轮发动机带来增压与金属疲劳问题；1960 年代起蜂窝夹层普及；1970 年代至今先进复合材料占比常超 50%，个别接近 100%（VLJ，如 Cessna Citation Mustang）。</li><li>五种应力是 tension、compression、torsion、shear、bending；bending 本质是压缩与拉伸的组合（弯曲内侧受压、外侧受拉）。结构件在多数情况下被设计成承受端载荷（拉或压）而不是侧载荷（弯曲）。</li><li>机身分 truss 与 monocoque 两大类；monocoque 又分 monocoque、semimonocoque、reinforced shell 三类，现代飞机绝大多数是 semimonocoque。纯硬壳式的最大难题是"既要够强又要够轻"；半硬壳式加入 longeron 与 stringer，把载荷分散到多个构件和蒙皮上，没有单一构件是失效关键，能承受相当损伤而不解体。</li><li>机翼内部构件方向固定：spar 与 stringer 沿展向（spanwise），rib 与 former/bulkhead 沿弦向（chordwise）。载荷路径是 skin → rib → spar，spar 是机翼最主要的受力件，其他构件受的应力最终大部分交给 spar。</li><li>机翼三种基本构造是 monospar、multispar、box beam；箱形梁常用于运输类飞机，结构密封后可在翼内直接储油，即 wet wing（另一种做法是内置 bladder 或油箱）。蒙皮参与承力的设计叫 stressed-skin，蜂窝夹层板是常见的轻质高强方案。</li><li>尾翼（empennage）= tail cone + 固定安定面 + 可动操纵面；安定面结构与机翼相同（spar/rib/stringer/skin），飞行气动载荷产生的 bending、torsion、shear 逐件传递，最终由 spar 把过载传给机身。主操纵面 aileron 绕纵轴滚转、elevator 绕横轴俯仰、rudder 绕立轴偏航；辅助操纵面包括 flap、slat、spoiler、speed brake 与五类 tab（trim/balance/servo/anti-servo/spring）。</li><li>起落架有 fixed 与 retractable 之分（收起可减小 parasite drag），构型有 tail wheel（conventional）与 tricycle；tricycle 把重心放在主轮之前且始终保持在两主轮之间，几乎消除了 ground loop。直升机常用 skid，水上机用 float/pontoon，雪地用 ski。</li><li>定位靠站位与分区：FS（又称 BS）、BL、WL、AS、KS、NC 等，运输类飞机另用 zone/subzone（100 机身下半 … 800 门）。维修依据是厂家文件 + 14 CFR，厂家说明优先于 AC 43.13-2 与 AC 43.13-1。</li></ul>
+<h2 id="3-术语对照-英文-中文-一句话解释">3. 术语对照（英文 | 中文 | 一句话解释）</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">一句话解释</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">tension</td>
+<td style="text-align:left">拉伸（拉应力）</td>
+<td style="text-align:left">抵抗把材料拉开的力的应力，强度以 psi 计</td>
+</tr>
+<tr>
+<td style="text-align:left">compression</td>
+<td style="text-align:left">压缩（压应力）</td>
+<td style="text-align:left">抵抗挤压、使构件缩短的应力</td>
+</tr>
+<tr>
+<td style="text-align:left">torsion</td>
+<td style="text-align:left">扭转</td>
+<td style="text-align:left">产生扭转变形的应力；材料的 torsion strength 即其抗扭（抗扭矩）能力</td>
+</tr>
+<tr>
+<td style="text-align:left">shear</td>
+<td style="text-align:left">剪切</td>
+<td style="text-align:left">抵抗一层材料相对相邻层滑移的应力；铆钉、螺栓、螺钉常受此力</td>
+</tr>
+<tr>
+<td style="text-align:left">bending</td>
+<td style="text-align:left">弯曲</td>
+<td style="text-align:left">压缩与拉伸的组合应力：弯曲内侧受压、外侧受拉</td>
+</tr>
+<tr>
+<td style="text-align:left">stress / strain</td>
+<td style="text-align:left">应力 / 应变</td>
+<td style="text-align:left">应力是材料内部抵抗变形的反力；应变是变形程度。二者常被混用，但不是一回事</td>
+</tr>
+<tr>
+<td style="text-align:left">airframe</td>
+<td style="text-align:left">机体</td>
+<td style="text-align:left">机身、尾撑、短舱、整流罩、整流片、翼面、起落架及其附件的总称</td>
+</tr>
+<tr>
+<td style="text-align:left">truss</td>
+<td style="text-align:left">桁架</td>
+<td style="text-align:left">由梁、支柱、杆件组成的刚性框架，靠拉压抵抗变形</td>
+</tr>
+<tr>
+<td style="text-align:left">monocoque</td>
+<td style="text-align:left">硬壳式（单壳式）</td>
+<td style="text-align:left">主要靠蒙皮承力的机身构造</td>
+</tr>
+<tr>
+<td style="text-align:left">semimonocoque</td>
+<td style="text-align:left">半硬壳式</td>
+<td style="text-align:left">隔框、长桁、桁条与蒙皮共同承力，现代飞机最常用</td>
+</tr>
+<tr>
+<td style="text-align:left">reinforced shell</td>
+<td style="text-align:left">加强壳式</td>
+<td style="text-align:left">蒙皮由一整套完整构架加强的构造</td>
+</tr>
+<tr>
+<td style="text-align:left">longeron</td>
+<td style="text-align:left">长桁（纵梁）</td>
+<td style="text-align:left">纵向主构件，跨过多个隔框，承担主要弯曲载荷</td>
+</tr>
+<tr>
+<td style="text-align:left">stringer</td>
+<td style="text-align:left">桁条</td>
+<td style="text-align:left">数量多、重量轻的纵向件，主要给外形并作蒙皮固定面</td>
+</tr>
+<tr>
+<td style="text-align:left">bulkhead</td>
+<td style="text-align:left">隔框（承力框）</td>
+<td style="text-align:left">横向承力构件，承受集中载荷与各接头传来的载荷</td>
+</tr>
+<tr>
+<td style="text-align:left">former / frame</td>
+<td style="text-align:left">成形框 / 框架</td>
+<td style="text-align:left">给机身定形的横向构件，与 ring、bulkhead 常被厂家混称</td>
+</tr>
+<tr>
+<td style="text-align:left">spar</td>
+<td style="text-align:left">翼梁</td>
+<td style="text-align:left">机翼最主要的受力构件，承受分布载荷与集中重量</td>
+</tr>
+<tr>
+<td style="text-align:left">spar cap / spar web</td>
+<td style="text-align:left">翼梁缘条 / 翼梁腹板</td>
+<td style="text-align:left">缘条承受弯曲载荷并作蒙皮固定基础；腹板构成梁的主要高度</td>
+</tr>
+<tr>
+<td style="text-align:left">rib</td>
+<td style="text-align:left">翼肋</td>
+<td style="text-align:left">横向构件，赋予翼型弯度并把蒙皮、桁条载荷传给翼梁</td>
+</tr>
+<tr>
+<td style="text-align:left">stressed skin</td>
+<td style="text-align:left">应力蒙皮</td>
+<td style="text-align:left">蒙皮参与承担飞行与地面载荷的设计</td>
+</tr>
+<tr>
+<td style="text-align:left">wet wing</td>
+<td style="text-align:left">湿翼（整体油箱翼）</td>
+<td style="text-align:left">翼结构接缝用耐油密封胶密封，燃油直接存在结构内</td>
+</tr>
+<tr>
+<td style="text-align:left">nacelle</td>
+<td style="text-align:left">发动机短舱</td>
+<td style="text-align:left">容纳发动机及附件的流线型舱体，俗称 pod</td>
+</tr>
+<tr>
+<td style="text-align:left">cowling</td>
+<td style="text-align:left">整流罩</td>
+<td style="text-align:left">短舱外可拆卸盖板，cowl flap 可动以调节发动机温度</td>
+</tr>
+<tr>
+<td style="text-align:left">firewall</td>
+<td style="text-align:left">防火墙</td>
+<td style="text-align:left">不锈钢或钛制隔板，把火限制在发动机舱内</td>
+</tr>
+<tr>
+<td style="text-align:left">empennage</td>
+<td style="text-align:left">尾翼（尾部）</td>
+<td style="text-align:left">tail cone + 固定安定面 + 可动操纵面</td>
+</tr>
+<tr>
+<td style="text-align:left">stabilizer</td>
+<td style="text-align:left">安定面</td>
+<td style="text-align:left">固定的水平/垂直安定面，结构同机翼</td>
+</tr>
+<tr>
+<td style="text-align:left">aileron</td>
+<td style="text-align:left">副翼</td>
+<td style="text-align:left">主操纵面，绕纵轴使飞机滚转</td>
+</tr>
+<tr>
+<td style="text-align:left">elevator</td>
+<td style="text-align:left">升降舵</td>
+<td style="text-align:left">主操纵面，铰接于水平安定面后缘，控制俯仰</td>
+</tr>
+<tr>
+<td style="text-align:left">rudder</td>
+<td style="text-align:left">方向舵</td>
+<td style="text-align:left">主操纵面，铰接于垂直安定面后缘，控制偏航</td>
+</tr>
+<tr>
+<td style="text-align:left">flap</td>
+<td style="text-align:left">襟翼</td>
+<td style="text-align:left">增加机翼弯度（Fowler 还增加面积）以提高升力、降低着陆速度</td>
+</tr>
+<tr>
+<td style="text-align:left">spoiler</td>
+<td style="text-align:left">扰流板</td>
+<td style="text-align:left">翼上表面抬起破坏层流、减小升力，可辅助副翼或作减速板</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-关键数字与公式">4. 关键数字与公式</h2>
+<ul><li>抗拉强度 tensile strength：单位 psi，= 拉断该材料所需载荷（lb）÷ 横截面积（in²）。compression 强度同样以 psi 计。shear 强度通常等于或小于其抗拉/抗压强度。</li><li>一般机翼有两根梁：一根靠前缘，另一根约在后缘方向的 <strong>三分之二</strong> 处。</li><li>木质翼梁常以 spruce（云杉）制作，按截面分四种：solid、box-shaped、partly hollow、I-beam。</li><li>可拆卸金属翼尖示例：wing tip cap 用沉头螺钉固定在翼尖上，并以 <strong>4 点、直径 ¼ in 的螺栓</strong>（上 2 下 2）固定到翼梁之间的结构上。</li><li>襟翼放下角通常最大 <strong>45–50°</strong>。</li><li>机身分段制造：小型飞机一般 <strong>2–3 段</strong>，大型飞机装配前可达 <strong>6 段或更多</strong>。</li><li>现代机体先进复合材料占比常 <strong>超过 50%</strong>，个别机型接近 <strong>100%</strong>。</li><li>直升机涡轴发动机转速范围 <strong>20,000–51,600 rpm</strong>；约 <strong>75% 的进气量</strong>用于冷却发动机。</li><li>旋翼叶尖速度约 <strong>300 knots</strong> 的直升机前飞 <strong>100 knots</strong> 时，前行桨叶相对风速 <strong>400 knots</strong>、后行桨叶仅 <strong>200 knots</strong>（造成 dissymmetry of lift）。</li><li>悬停时 Coanda 效应提供约 <strong>三分之二</strong>维持方向操纵所需的力，其余由可控转动喷口的推力提供（NOTAR 系统）。</li><li>直升机主旋翼一般 <strong>2–7 片</strong>。</li><li>站位以英寸计：机头为 zero station，蓝图写 "fuselage frame station 137" 即该框位于机头之后 137 in。</li><li><strong>FS / Fus. Sta.</strong>（部分厂家称 <strong>BS</strong>, body station）：自 reference datum 起算的英寸数；datum 是机头处或附近的假想垂直平面，距离沿贯穿机头到尾锥中心的中心线平行量取。</li><li><strong>BL</strong>（buttock line / butt line）：沿机身中心线的垂直基准面，由此向左右量取。</li><li><strong>WL</strong>（water line）：自水平基准面（通常取地面、客舱地板等易引用位置）垂直向上量的高度，单位 in。</li><li><strong>AS</strong>（aileron station）：自副翼内端向外、平行于副翼内端，垂直于机翼后梁量取。</li><li><strong>KS</strong>（flap station）：垂直于机翼后梁，平行于襟翼内端并向外量取。</li><li><strong>NC / Nac. Sta.</strong>（nacelle station）：自机翼前梁向前或向后量取，垂直于指定的 water line。</li><li>另有 <strong>HSS</strong>（水平安定面站位）、<strong>VSS</strong>（垂直安定面站位）、<strong>PPS</strong>（动力装置站位）。</li><li>运输类飞机分区编号（zone / subzone）：</li></ul>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">分区</th>
+<th style="text-align:left">部位</th>
+<th style="text-align:left">分区</th>
+<th style="text-align:left">部位</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">100</td>
+<td style="text-align:left">机身下半（lower half of fuselage）</td>
+<td style="text-align:left">500</td>
+<td style="text-align:left">左机翼（left wing）</td>
+</tr>
+<tr>
+<td style="text-align:left">200</td>
+<td style="text-align:left">机身上半（upper half of fuselage）</td>
+<td style="text-align:left">600</td>
+<td style="text-align:left">右机翼（right wing）</td>
+</tr>
+<tr>
+<td style="text-align:left">300</td>
+<td style="text-align:left">尾翼（empennage）</td>
+<td style="text-align:left">700</td>
+<td style="text-align:left">起落架及起落架舱门</td>
+</tr>
+<tr>
+<td style="text-align:left">400</td>
+<td style="text-align:left">发动机短舱（engine nacelles）</td>
+<td style="text-align:left">800</td>
+<td style="text-align:left">门（doors）</td>
+</tr>
+</tbody></table></div>
+<p>每个大区再细分为顺序编号的 subzone（如图中的 111/112/121/122…、311/312/321…、811/821/822/823/824/825），编号数字本身被预留并索引，用来表示构件的位置和所属系统。</p>
+<ul><li>维修依据文件编号：<strong>Title 14 of the Code of Federal Regulations（14 CFR）</strong>；<strong>AC 43.13-2</strong>《Acceptable Methods, Techniques, and Practices — Aircraft Alterations》；<strong>AC 43.13-1</strong>《Acceptable Methods, Techniques, and Practices — Aircraft Inspection and Repair》。</li></ul>
+<h2 id="5-结构-系统-部件">5. 结构 / 系统 / 部件</h2>
+<p>固定翼机体由 <strong>五个主要部分</strong> 组成：fuselage、wings、stabilizers、flight control surfaces、landing gear（此外本章范围还包括 booms、nacelles、cowlings、fairings 等附件与操纵装置）。直升机机体由 fuselage、主旋翼及相关 gearbox、尾桨（单主旋翼机型）、landing gear 组成。注意：直升机的旋翼算机体的一部分（它其实是旋转的机翼）；而飞机的螺旋桨和发动机的旋转翼面不算机体。</p>
+<ul><li><strong>机身 fuselage</strong></li><li><strong>truss 桁架式</strong>：由梁、支柱、杆件组成的刚性框架。通常用钢管焊接，使每根杆件都能同时承受拉与压；轻小型机可用铝合金铆接或螺栓连接成整体，用实心杆或管做交叉支撑；一般外覆蒙布。Warren truss 以斜杆为主。</li><li><strong>monocoque 硬壳式</strong>：靠蒙皮/蒙布本身承担主要载荷。用 former、frame assembly、bulkhead 定形，最重的构件按间隔布置在承受集中载荷处以及机翼、动力装置、安定面接头处；因无其他支撑件，蒙皮必须承担主要应力并保持机身刚性，所以最大难题是"强度与重量兼顾"。分三类：</li></ul>
+<ol><li>monocoque</li><li>semimonocoque</li><li>reinforced shell（蒙皮由完整构架加强）</li></ol>
+<p>同一机身的不同部位可以分属不同类别，但现代飞机绝大多数属 semimonocoque。</p>
+<ul><li><strong>semimonocoque 半硬壳式</strong>：在 monocoque 的 frame assembly、bulkhead、former 之外，增加纵向的 <strong>longeron</strong>（通常跨过几个隔框，帮助蒙皮承受主要弯曲载荷，多为铝合金单件或组合件），再由数量更多、更轻的 <strong>stringer</strong> 补充（多为单件铝合金挤压型材或成形铝板，本身有一些刚性，但主要用于定形和固定蒙皮）。longeron 与 stringer 共同防止拉压使机身弯曲。两者之间还可加竖向或斜向的 web member。材料多为铝镁合金，高温区用钢或钛；用 gusset（连接支架，增加强度）、铆钉、螺栓、螺钉乃至 friction stir welding 连接。蒙皮厚度随该处载荷与应力变化。总结：强的 longeron 固定 bulkhead 与 former，后者再固定 stringer、支撑件、web member，全部连到蒙皮上。优点：便于做成流线型、刚性好、载荷分散、无单件失效即致命、应力蒙皮结构可承受相当损伤仍保持完整。</li><li><strong>增压 pressurization</strong>：起飞后向客舱充压并维持内外压差，使高空不必用特殊设备即可正常呼吸与走动。压差本身加上每次起落的"增压—卸压"循环造成金属疲劳；几乎所有增压飞机都采用半硬壳式结构。</li><li><strong>机翼 wings</strong></li><li>外形与安装：前后缘可直可曲、可收尖；翼尖可方形、圆形或尖形；可装在机身顶部、中部或底部；相对机身水平面可有上反或下反，这个角度即 <strong>dihedral</strong>，影响横侧稳定性。机翼按坐在驾驶舱内的人所见的左右来分左右。</li><li>支撑方式：<strong>full cantilever</strong>（无外部支撑，靠内部构件加蒙皮支承）与 <strong>semicantilever</strong>（用外部 strut 或 wire 支承，承受气动与着陆载荷）。支撑钢索与支柱一般为钢制；当支柱在离机身很远处与机翼相连时，加短而近垂直的 <strong>jury strut</strong>，抑制气流引起的支柱抖动与摆动。</li><li>内部布置：<strong>spanwise</strong>（展向）为 spar 与 stringer；<strong>chordwise</strong>（弦向，前缘到后缘）为 rib 与 former/bulkhead。蒙皮承担部分飞行载荷并把应力传给 rib，rib 再传给 spar。</li><li>三种基本构造：<strong>monospar</strong>（单根主纵向件，肋/隔框给出翼型；严格单梁少见，常在近后缘加 false spar 或轻腹板支承操纵面）、<strong>multispar</strong>（多于一根主纵向件）、<strong>box beam</strong>（两根主纵向件 + 连接隔框，隔框与光滑外蒙皮之间可放波纹板以更好承受拉压；运输类飞机常用）。</li><li><strong>翼梁 spar</strong>：相当于机身的 longeron，平行于飞机横轴，从机身伸向翼尖，一般通过 wing fitting、简单梁或桁架与机身连接。可用金属、木材或复合材料。I 梁由上下 <strong>cap</strong> 与竖直 <strong>web</strong> 组成，可整体挤压，也可由多个挤压件或成形角材组合；cap 提供蒙皮固定基础，与 web 一起承受机翼弯曲载荷。腹板可以是平板、桁架、带竖向加强立柱的板、开减轻孔（flanged hole）的板，或正弦波形腹板。<strong>fail-safe</strong> 梁由两段拼接而成（上段为缘条铆接在上腹板，下段为下缘条与腹板的单件挤压件），任一段断裂另一段仍能承力。</li><li><strong>false spar 假梁</strong>：形状像梁但不贯穿全展长的纵向件，常作副翼等操纵面的铰链安装点。</li><li><strong>翼肋 rib</strong>：与 spar、stringer 一起组成机翼骨架，一般从前缘延伸到后梁或后缘，给出翼型弯度并把蒙皮与桁条的载荷传给翼梁；副翼、升降舵、方向舵、安定面也用同样的肋。木肋常用云杉，三种最常见形式为 plywood web、lightened plywood web、truss——桁架式最有效率（强且轻）但制造最复杂。肋四周有 <strong>rib cap / cap strip</strong>（材料与肋相同），起加强作用并作为蒙皮连接面；用 gusset 加强，continuous gusset 可加强整个肋而几乎不增重，还能抗钉入、减少屈曲。专用名称：前梁之前、只用于成形与加强前缘的 <strong>nose rib / false rib</strong>；不贯穿全弦长的 <strong>false rib</strong>；翼根连接机身处的 <strong>wing butt rib</strong>，若设计用来承受使两梁相互靠拢的压缩载荷，又称 <strong>bulkhead rib</strong> 或 <strong>compression rib</strong>。</li><li>肋横向较弱，某些机翼用织带在肋上下缠绑以防侧向弯曲；两梁之间用交叉的 <strong>drag wire</strong>（抗向后的力）与 <strong>anti-drag wire</strong>（抗向前的力）构成桁架，也叫 tie rod。</li><li>翼根与翼尖：翼梁内端有 <strong>wing attach fitting</strong>，外面用 <strong>fairing</strong> 整流并遮住接头，fairing 可拆以接近接头。翼尖常为可拆卸件（因地面操作和滑行时易损伤），例如铝合金翼尖、盖板用沉头螺钉固定、4 点 ¼ in 螺栓固定到梁间结构。大型机前缘由发动机引热空气从翼根流向翼尖防冰，翼尖上表面的 louver 把暖空气排出；翼尖航行灯位于翼尖中心，从驾驶舱看不见，部分机型用 Lucite 导光棒把光引到前缘作指示。</li><li>蒙皮：<strong>stressed-skin</strong> 设计中蒙皮与梁、肋共同承担飞行与地面载荷；<strong>wet wing</strong> 把接缝用耐油密封胶密封后直接储油，也可内置 bladder 或油箱；箱形梁段密封后同样可储油。蒙皮材料可为蒙布、木、铝；chemically milled 铝蒙皮可做出变厚度；<strong>honeycomb</strong> 夹层板轻而强，用于地板、隔框、操纵面、机翼蒙皮，芯材有等厚（constant thickness）与锥形（tapered，常用于操纵面与机翼后缘）两种，材料组合包括铝芯铝蒙皮、Arimid® 纤维芯 + 酚醛外蒙皮、玻璃纤维、塑料、Nomex®、Kevlar®、碳纤维等。</li><li>翼上其他装置：<strong>winglet</strong>（翼尖竖起的小翼，减小翼尖涡阻力）、<strong>vortex generator</strong>（小翼型片，成排装在翼上表面等，涡流向下搅动以维持边界层）、<strong>stall fence</strong>（翼上表面弦向隔板，阻挡展向流动，扫掠翼常见）、<strong>gap seal</strong>（填在固定后缘与可动面之间的缝隙，防止高压下翼面气流扰乱上翼面流动）。</li><li><strong>短舱 nacelle（pod）</strong></li><li>作用与位置：流线型外壳，主要用来容纳发动机及附件，迎风面为圆形或椭圆形以减小阻力。单发机在机身前端；多发机做在机翼内或装在机身尾部；偶尔有布置在客舱之后、与机身同轴线的短舱。部分短舱还收纳收起的起落架，该处即 <strong>wheel well</strong>（不设在短舱时可在机翼和/或机身内）。</li><li>组成：发动机与附件、<strong>engine mount</strong>（轻机用铬钼钢管，大机用锻造铬镍钼组件）、结构件、<strong>firewall</strong>（不锈钢或钛隔板，把火限制在短舱内）、蒙皮与 <strong>cowling</strong>。</li><li>构架：纵向的 longeron、stringer 与横向的 ring、former、bulkhead 组合。</li><li>蒙皮/整流罩：多为铝板或镁合金，高温区（排气口附近）用不锈钢或钛；一般用铆钉固定。<strong>cowl flap</strong> 是可动件，开合以调节发动机温度。整流罩形式很多：轻机水平对置发动机的常规罩（螺钉和/或快卸扣固定）；大型星型/对置机的 "orange peel" 罩（开度大、便于接近），前防火墙上用兼作铰链的支座安装，下罩支座用快卸销固定在铰链支架上，侧板与顶板用撑杆撑开，下板用弹簧加钢索保持在打开位，所有盖板关闭时由过中心钢制锁扣锁定并由弹簧保险扣防松；喷气短舱另有 <strong>nose cowl</strong> 把空气导入发动机。</li><li><strong>尾翼 empennage</strong></li><li>组成：<strong>tail cone</strong>（封闭并整流机身尾端，结构与机身相似但更轻，因受力较小）+ 固定安定面 + 可动操纵面。固定面是 horizontal stabilizer 与 vertical stabilizer；可动面通常是垂直安定面后缘的 <strong>rudder</strong> 与水平安定面后缘的 <strong>elevator</strong>。</li><li>受力：安定面结构与机翼相同（spar、rib、stringer、skin），飞行中气动载荷造成的 bending、torsion、shear 从一个构件传到另一个构件，每个构件吸收一部分并把余下传给其他构件，最终由 spar 把过载传给机身。</li><li><strong>飞行操纵面 flight control surfaces</strong></li><li>分类：主（primary/main）与辅助（secondary/auxiliary）两类；方向操纵绕 lateral（横轴）、longitudinal（纵轴）、vertical（立轴）三轴进行。</li><li>主操纵面与三轴对应：<strong>aileron → roll → 纵轴 → lateral stability</strong>；<strong>elevator/stabilator → pitch → 横轴 → longitudinal stability</strong>；<strong>rudder → yaw → 立轴 → directional stability</strong>。</li><li>构造：轻机多为铝合金结构——围绕单根梁或 <strong>torque tube</strong> 装肋、覆蒙皮；肋常由铝板冲压并开减轻孔，蒙皮铆接。也大量使用复合材料（重型、高性能机、滑翔机、自制机、轻型运动飞机）。蒙布飞机的操纵面常也蒙布。</li><li>平衡：主操纵面必须按厂家说明做平衡，使该装置的重心位于铰链点处或其前方，否则会振动或颤振（flutter），平衡不当可导致灾难性失效。副翼铰链点位于重心稍后一点是防颤振的常见设计。</li><li>传动方式：钢索与滑轮、推拉管、液压、电动或 fly-by-wire 及其组合。大型机与部分高性能机另有一组 <strong>内侧副翼</strong>；低速时副翼可由 flap、spoiler 辅助，高速时只用内侧副翼偏转，其余操纵面锁定或不动。</li><li>副翼 aileron：位于两翼外侧后缘，计入机翼面积；一侧下偏增大弯度与升力，另一侧上偏减小升力，形成滚转。由驾驶杆左右移动或驾驶盘转动控制。</li><li>升降舵 elevator：铰接于水平安定面后缘，通常横跨其大部分或全部宽度；推杆低头、拉杆抬头。轻机用钢索滑轮或推拉管，高性能与大型机多用液压，fly-by-wire 机型用电动加液压。</li><li>方向舵 rudder：多为一具，铰接于垂直安定面后缘；右脚踏前则舵右偏、机头右转，左脚同时后移。许多机型把前轮或尾轮转向并入方向舵操纵，便于低速滑行时用脚舵转向。部分大型机有 <strong>split rudder</strong>（上下两片方向舵）：低速时两片同向偏转，高速时其中一片失效，单片已足够。</li><li>双用途操纵面：<strong>elevon</strong>（副翼 + 升降舵）、<strong>stabilator</strong>（可整体转动的水平尾翼，兼具水平安定面与升降舵功能）、<strong>ruddervator</strong>（V 尾上兼具方向舵与升降舵）、<strong>flaperon</strong>（兼作襟翼的副翼）。</li><li>辅助操纵面：</li><li><strong>flap 襟翼</strong>：多在机翼后缘内侧靠机身，前缘襟翼也常见（自内侧前缘向前下方伸出）。放下以增大弯度、提高升力与低速操纵性，缩短起飞滑跑与着陆距离；放下角度通常最大 45–50°。型式有 <strong>plain</strong>（收上时即构成机翼后缘）、<strong>split</strong>（收藏于后缘下方、只有下翼面气流改变）、<strong>Fowler</strong>（放下时同时后滑增大机翼面积，靠蜗杆与滑轨驱动）、<strong>triple-slotted</strong>（fore/mid/aft 三段，各段后滑并留缝，用下翼面气流增强上翼面层流）；前缘襟翼可用机加工镁或铝、复合材料，收上时缩回前缘内，与前缘襟翼同类的还有平中段的 <strong>Krueger flap</strong>。</li><li><strong>slat 缝翼</strong>：前缘装置，可用驾驶舱独立开关单独操作；完全放出时其后续与前缘之间留缝，提高维持层流的迎角，降低失速速度。</li><li><strong>slot</strong>：位于副翼之前的机翼外前缘，在大迎角时把气流引到上翼面。</li><li><strong>spoiler 扰流板</strong>：装在翼上表面，平时与蒙皮齐平，放出时升入气流破坏层流从而减小升力。低速时与副翼联动（副翼上偏的一侧扰流板同时升起以加强减升），速度增大后副翼更有效，联动脱开。两侧全部放出即作 <strong>speed brake</strong>（减升增阻快速减速）；另有专为增阻设计的 speed brake 面板，低速时不与副翼差动；这些面常在发动机反推启动时自动在地面放出。</li><li><strong>tab 调整片</strong>（按 Figure 1-69，五种，方向均指相对操纵面的偏转方向）：</li></ul>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">类型</th>
+<th style="text-align:left">方向</th>
+<th style="text-align:left">作动方式</th>
+<th style="text-align:left">作用</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">trim 配平片</td>
+<td style="text-align:left">反向</td>
+<td style="text-align:left">飞行员在驾驶舱设定</td>
+<td style="text-align:left">使飞机静态配平，可"放手"保持飞行状态（升降舵片维持速度、方向舵片保持航向、副翼片保持机翼水平）</td>
+</tr>
+<tr>
+<td style="text-align:left">balance 平衡片</td>
+<td style="text-align:left">反向</td>
+<td style="text-align:left">与操纵面联动（独立连杆），随操纵面自动偏转</td>
+<td style="text-align:left">帮助飞行员克服移动操纵面所需的力；若可在驾驶舱调整也可兼作配平</td>
+</tr>
+<tr>
+<td style="text-align:left">servo 伺服片</td>
+<td style="text-align:left">反向</td>
+<td style="text-align:left">直接连到操纵输入装置，可作主操纵或后备操纵</td>
+<td style="text-align:left">用气动力去"带动"需要很大力量才能移动的操纵面（液压失效时的后备手段）</td>
+</tr>
+<tr>
+<td style="text-align:left">anti-balance / anti-servo 反平衡/反伺服片</td>
+<td style="text-align:left">同向</td>
+<td style="text-align:left">直接连到操纵输入装置</td>
+<td style="text-align:left">增加改变操纵位置所需的力，使操纵变迟钝（常用于全动平尾）</td>
+</tr>
+<tr>
+<td style="text-align:left">spring 弹簧片</td>
+<td style="text-align:left">反向</td>
+<td style="text-align:left">串在通往伺服片的直接连杆中</td>
+<td style="text-align:left">高速时操纵力过大则弹簧介入助力；低速时不作动</td>
+</tr>
+</tbody></table></div>
+<p>另有一种最简单的地面可调配平片：装在方向舵等操纵面后缘的小金属板，在地面略微弯曲即可，正确弯度量只有调整后试飞才能确定，且通常很小的弯度就够。</p>
+<ul><li><strong>aileron balance panel 副翼平衡板</strong>：位于副翼与机翼铰接的连杆机构中，从外面看不见；由铝蒙皮框架或铝蜂窝制成。机翼上紧靠副翼前缘之前的那段后缘被密封，使气流只能受控地进出平衡板所在的铰链区，副翼偏离中立位时平衡板两侧产生压差帮助偏转，使操纵阻力大致恒定。</li><li><strong>antiservo tab</strong>：与主操纵面同向偏转，借气动力增大操纵所需力量，用于过于灵敏的操纵面（尤其全动平尾）。</li><li><strong>起落架 landing gear</strong></li><li>作用：着陆与地面停放时支撑飞机。低速简单飞机多为固定式；更快的飞机用可收放式，收起后不再暴露在气流中，因为放下时产生的 <strong>parasite drag</strong>（空气摩擦阻力）随速度增大而显著增加。很轻很慢的飞机上，可收放起落架的额外重量比固定起落架的阻力更不划算，此时用轻质整流片与 <strong>wheel pant</strong> 减小阻力。</li><li>要求与材料：必须能承受满载着陆的冲击，同时尽量轻；材料包括钢、铝、镁。机轮与轮胎为航空专用；主轮组件通常带刹车；多数起落架有吸震或分散冲击的装置。</li><li>无轮形式：直升机用固定 skid（机动性好、着陆速度低、维护简单）；自由气球用地板上的木制 skid；水上用 pontoon/float；雪冰上用 ski。</li><li><strong>tail wheel（conventional）构型</strong>：两个主轮承担大部分重量，机身尾端另有一个小轮，常通过连到脚舵的钢索转向；也有完全不用尾轮、只在后机身下装钢制滑板的。小尾轮/滑板让机身呈抬头姿态，为二战前流行的大直径螺旋桨提供离地间隙，并在非铺装道面减少螺旋桨与碎石的接触；代价是地面滑行时挡住正前方视线，须把头探出座舱侧窗，直到速度足够使升降舵把尾轮抬起。<strong>ground loop</strong>：两主轮位于重心之前、尾轮在重心之后，重心应略微位于主轮之后并横向处于两主轮之间；着陆中一旦偏转、尾轮甩到侧面足够远，重心被拉出两主轮之间，尾部就绕主轮自由旋转，形成打转。优点是比 tricycle 轻（无需粗壮的全减震前轮），在非铺装道面表现好，仍用于特技机、农用喷洒机和野跑道飞机。</li><li><strong>tricycle 构型</strong>：目前最普遍。除主轮外，机身前部有减震的前轮，因此重心在主轮之前，机尾离地、正前方视野好；因重心跟随可转向的前轮并保持在两主轮之间，几乎不会 ground loop。小型机可用脚舵操纵前轮转向，大型机常在驾驶舱侧方设前轮转弯手轮；最大的飞机可以是单支柱双前轮加多支柱多轮主起落架，但基本构型仍是 tricycle。（起落架详见第 13 章。）</li><li><strong>直升机结构与系统 helicopter</strong></li><li><strong>airframe</strong>：可用金属、木质或复合材料或二者组合。复合材料件由多层浸树脂纤维胶合而成光滑板件；管件与钣金件通常用铝，高应力或高温区有时用不锈钢或钛。</li><li><strong>fuselage</strong>：与固定翼一样，机身与尾撑常为桁架式或半硬壳式应力蒙皮结构，常用钢与铝管、成形铝板和铝蒙皮；现代设计越来越多用先进复合材料。firewall 与 engine deck 通常为不锈钢。风挡多为大型成形聚碳酸酯、玻璃或有机玻璃（直升机飞行方向多，视界要求高）。</li><li><strong>landing gear / skid</strong>：可以只是管状金属 skid；很多直升机有轮式起落架，部分可收放。</li><li><strong>powerplant</strong>：往复式（活塞）发动机多用于较小直升机（训练机常用，结构简单、运行便宜）；涡轮发动机功率大、体积小，但运行更贵。涡轴与涡喷的主要区别是：膨胀气体的大部分能量用于驱动涡轮而不是靠喷气产生推力；因气流不是直线穿过、也不用于推进，冷却效果有限，约 75% 进气用于冷却。组成：compressor、combustion chamber、turbine、accessory gearbox。进气过滤用 centrifugal swirl tube（把杂物甩出并排到机外）或 <strong>engine barrier filter（EBF）</strong>（纸质滤芯、外框带网罩、通常涂油），显著减少 FOD 吸入。排气温度各厂家称谓不同：<strong>ITT</strong>、<strong>EGT</strong>、<strong>TOT</strong>（本章统一用 TOT）。</li><li><strong>transmission</strong>：把发动机功率传给主旋翼、尾桨及其他附件，主要部件为主旋翼传动箱、尾桨驱动系统、离合器、<strong>freewheeling unit（autorotative clutch，自转离合器）</strong>；自转时它让主旋翼传动箱仍能驱动尾桨传动轴。传动系统自带滑油润滑冷却，用 <strong>sight gauge</strong> 检查油位；部分传动箱在 sump 内装 <strong>chip detector</strong>，接到驾驶舱警告灯，现代机型的探测器有 "burn off" 能力可自行排除，排不掉则按该型应急程序处理。</li><li><strong>main rotor system</strong>：由 <strong>mast</strong>（由传动箱驱动、有时也被其支承的圆柱形金属轴）、<strong>hub</strong>（轴顶安装桨叶处）、blades 组成。按桨叶与桨毂的连接及相对运动方式分三类：</li><li><strong>rigid</strong>：桨叶刚性固定在桨毂上，不能前后滑动（drag）也不能上下挥动（flap），这些力由桨叶的弹性吸收；桨距可通过 <strong>feathering hinge</strong> 绕展向轴改变。（例：四叶无铰式刚性旋翼，桨毂为整体锻造钛。）</li><li><strong>semirigid</strong>：桨叶接头处用 <strong>teetering hinge</strong>（跷跷板铰），阻止前后滑动但允许上下挥动，一叶上挥另一叶下压；挥动由 <strong>dissymmetry of lift</strong>（升力不对称）造成——前行桨叶相对风速大、升力大而上挥，转到后行侧时额外升力消失而下压。另有 coning hinge。（例：Robinson R22。）</li><li><strong>fully articulated</strong>：有允许前后与上下运动的铰：竖直的 <strong>drag hinge</strong> 允许 lead-lag/drag/hunting（响应转速变化时的 Coriolis 效应；起转时桨叶滞后，转速下降时超前，转速波动导致"hunting"），水平铰允许 flapping，feathering hinge 改变桨距；不同设计还装 damper 与限位件减震、限制行程。</li><li>现代趋势：<strong>elastomeric bearing</strong>（聚合物轴承，可变形并复原，吸收钢轴承会传递的振动，且不需定期润滑）；<strong>flexture</strong>（用先进复合材料做的桨毂/桨毂件，靠挠曲承担 hunting 与升力不对称的力，可省掉许多铰与轴承，结构更简单、维护更少）。</li><li><strong>antitorque system</strong>：主旋翼一般 2–7 片、多为复合材料；大旋转质量产生扭矩，随发动机功率增大而增大，试图把机身往反方向带。<strong>tail boom + tail rotor（antitorque rotor）</strong> 抵消该扭矩，由脚舵控制，改变尾桨桨距即可改变反扭矩大小，并可让飞机绕立轴转动以控制机头朝向。<strong>fin/pylon</strong> 常用来支撑尾桨（有的尾桨装在尾撑的尾锥上），尾锥或 pylon 上还常做水平 <strong>stabilizer</strong>。<strong>Fenestron®</strong> 是装在垂直 pylon 内的多叶涵道风扇，作用与普通尾桨相同，地面安全性更好。<strong>NOTAR®</strong>（no tail rotor）尾撑上看不到旋翼：发动机驱动的可调风扇装在尾撑内部，转速随主旋翼变化；空气从尾撑右侧两条长缝排出，引射主旋翼下洗气流贴住尾撑右侧形成层流与低压（Coanda 效应），产生抗扭力；其余空气经尾撑送到左后侧排气口排出，向左喷气产生向右的反作用力，正是抵消主旋翼扭矩所需方向。</li><li><strong>controls</strong>：<strong>collective</strong>（左手，上提/下放同时同量改变所有桨叶迎角，增大/减小升力使飞机升降，油门在集体杆手柄末端）、<strong>cyclic</strong>（两腿之间的驾驶杆，可任意方向移动以倾斜旋翼旋转平面，飞机朝杆移动方向飞）、<strong>foot pedals</strong>（控制尾桨桨距以平衡主旋翼扭矩）。</li><li><strong>检查通道 access &amp; inspection panels</strong>：附件与其他设备的快捷接近靠大量检修门、检查盖板、起落架舱等开口。小盖板可铰接或可拆，用于检查与勤务；大盖板与门可让部件拆装并允许人员进入。机翼下表面常有几十个小盖板，用于监视操纵钢索部件、给接头加润滑脂，下表面还可能有排水口与顶起点；上表面盖板较少，因为光滑表面有利于层流。大型机翼上表面有时标出 <strong>walkway</strong> 供机务与检查人员通行。wheel well 与专用 component bay 把大量附件集中布置便于接近。盖板与门都有编号：大型机盖板号通常含 zone 与 subzone 信息，左右位置用 L/R 标识，或一侧奇数、另一侧偶数；具体规则由厂家维修手册说明。</li></ul>
+<h2 id="6-检查与维修要点">6. 检查与维修要点</h2>
+<ul><li>维修必须由持证技师按厂家说明并在 14 CFR 下按时完成；任何维修行为都不得掉以轻心或即兴处置，否则后果可能致命，技师可能失去执照并面临刑事指控。</li><li>文件依据：厂家负责编写维修程序文件。小飞机可能只需要少数几本手册，如 <strong>aircraft maintenance manual</strong>（含最常用的维修信息）；<strong>TCDS（Type Certificate Data Sheet）</strong> 也含关键信息。复杂/大型机另有 structural repair manual、overhaul manual、wiring diagram manual、component manual 等。"manual" 一词包括电子版与印刷版。</li><li>标准施工方法可用 <strong>AC 43.13-2</strong>（航空器改装）与 <strong>AC 43.13-1</strong>（航空器检查与修理）；厂家文件未涉及时才用，且 <strong>厂家说明优先于 AC 43.13</strong>。这两份 AC 不针对具体机型，覆盖所有飞机通用做法。</li><li>必须使用厂家维修文件指定的工具与夹具。历史上未使用正确工具曾损伤关键部件，随后失效并造成坠机与人员伤亡；技师对"用对资料、用对程序、用对工具"负责。</li><li>所有维修行为必须由实施者记入飞机或部件的 <strong>logbook</strong>：轻机可只有一本，某些飞机发动机、螺旋桨各有独立记录本；大型机的维修文件量大，常见电子放行与电子记录。记录的正确性不可轻视。</li><li>技师虽不做应力分析（那是设计的职责），但必须理解应力，以免通过不当修理改变原设计。</li><li>应力认知直接影响施工判断：结构件多按承受拉/压（端载荷）设计而非弯曲（侧载荷）；bending 使弯曲内侧受压、外侧受拉；铆钉、螺栓、螺钉常处于剪切状态。</li><li>蒙皮是承力件：半硬壳式的金属蒙皮或蒙布承担一部分载荷，蒙皮厚度随该处载荷与应力变化；应力蒙皮结构能承受相当损伤仍保持完整，但不能因此把蒙皮当成纯外形件对待。</li><li>增压机身：除承受内外压差外，每次飞行的增压—卸压循环造成金属疲劳，因此增压结构要接受广泛的定期检查，确保损伤被发现并修复；某处结构反复出现薄弱或失效时，该段机身可能需要改装或重新设计。（历史上的应对措施还包括把窗和门的开口做成圆角，避免裂纹萌生的薄弱区。）</li><li>操纵面：必须按厂家说明做平衡检查，确认重心在铰链点处或其前方；副翼铰链点位于重心稍后以防颤振。平衡不当可能导致灾难性失效。</li><li>检查通道与标识：按盖板编号（含 zone/subzone、L/R 或奇偶）定位；查阅厂家 <strong>servicing diagram</strong>（维修手册中给出设备布置与检修门位置）。接近某区域前先确认编号系统，各厂家并不统一。</li><li>materials 警觉性：复合材料与材料混用日益普遍，检查时要留意翼梁、蒙皮可能不是铝——如 sine wave 腹板梁可为铝或复合材料，蜂窝板芯材与面板组合多样。</li><li>直升机：传动箱油位用 sight gauge 检查；chip detector 报警后若 burn off 未能自行排除，按该型应急程序处理。主旋翼桨叶多为复合材料，桨毂可能用弹性轴承或 flexture，维护要点与传统钢轴承系统不同（后者需定期润滑）。</li><li>起落架：主轮组件通常带刹车；无轮形式（skid、float、ski）与两栖型的收放和附加件（如水浮筒上的可收放轮、机身尾部加装的 dorsal fin）也属检查范围。</li></ul>
+<h2 id="7-高频考点-tecc-完形填空">7. 高频考点 · TECC 完形填空</h2>
+<blockquote>10 道题，全部取材本章（飞机结构：五种应力、机身构造、机翼与尾翼、操纵面、起落架、站位分区与直升机旋翼）。每题一个空、四个选项，只有一个最合适——干扰项按<strong>形近词、同词族变体、近义词</strong>设置。答案与解析在末尾。</blockquote>
+<p><strong>1.</strong> A bending load puts the inner surface of the member in _____, while the outer surface is being stretched.</p>
+<p>A) compress　　B) compression　　C) compressive　　D) compressed</p>
+<p><strong>2.</strong> Rivets and bolts are loaded mainly in _____ when the joined plates tend to slide past each other.</p>
+<p>A) shear　　B) share　　C) sheer　　D) shorn</p>
+<p><strong>3.</strong> The empennage _____ of the tail cone, the fixed stabilizers and the movable control surfaces.</p>
+<p>A) composes　　B) comprises　　C) consists　　D) constitutes</p>
+<p><strong>4.</strong> A semimonocoque fuselage spreads its loads over many members, so it can absorb considerable damage without _____ apart.</p>
+<p>A) come　　B) came　　C) comes　　D) coming</p>
+<p><strong>5.</strong> In a stressed-skin design a large part of the flight load _____ by the skin itself.</p>
+<p>A) is carried　　B) carries　　C) is carrying　　D) has carried</p>
+<p><strong>6.</strong> The wing skin transfers part of the load to the ribs, and the ribs in turn pass it _____ to the spar.</p>
+<p>A) by　　B) off　　C) out　　D) on</p>
+<p><strong>7.</strong> In tricycle gear the centre of gravity stays _____ the two main wheels, which is why a ground loop is almost impossible.</p>
+<p>A) among　　B) between　　C) within　　D) inside</p>
+<p><strong>8.</strong> The stabilizers are built like the wings—spars, ribs, stringers and skin—with every member _____ its share of the load.</p>
+<p>A) take　　B) takes　　C) taken　　D) taking</p>
+<p><strong>9.</strong> Advanced composites now _____ more than 50 percent of the airframe on many modern aircraft.</p>
+<p>A) account to　　B) account on　　C) account for　　D) account with</p>
+<p><strong>10.</strong> Water lines are measured vertically upward from a horizontal reference plane, whereas buttock lines give a _____ measurement from the centre line.</p>
+<p>A) lateral　　B) laterally　　C) latitude　　D) later</p>
+<h3 id="答案与解析">答案与解析</h3>
+<p><strong>1. B</strong> —— 介词 in 后必须接名词，<code>in compression</code>（处于受压状态）是固定表达；A) compress 是动词原形，不能作介词宾语；C) compressive 是形容词，只在 <code>compressive stress</code> 这类定语位置成立，不能单独作 in 的宾语；D) compressed 指"已被压缩的"，是分词形容词，不表示"处于某种应力状态"。</p>
+<p><strong>2. A</strong> —— 从句描述两层板"相互滑移"，正是 shear（剪切）的定义；B) share 形近但意为"分享"，属形近干扰；C) sheer 意为"纯粹的、陡峭的"；D) shorn 虽是 shear 的过去分词，但作形容词意为"被剪掉的"，都不能表示"受剪切载荷"。</p>
+<p><strong>3. C</strong> —— <code>consist of</code> 是固定搭配，主语是整体、of 后接组成部件，本句主宾关系完全对应；A) compose 要用被动式 <code>be composed of</code>；B) comprise 后面直接接宾语，不加 of；D) constitute 意为"构成"，须由部件作主语、整体作宾语，语序与本句相反。</p>
+<p><strong>4. B</strong> —— without 是介词，后面必须接动名词 coming，构成 <code>without coming apart</code>（不至于解体）；A) come 是动词原形、C) comes 是第三人称单数，都不能作介词宾语；B) came 是过去式，同样不合语法。</p>
+<p><strong>5. A</strong> —— 主语 load 与 carry 之间是被动关系（载荷"被"蒙皮承担），且陈述一般事实用一般现在时，故为 <code>is carried</code>；B) carries 是主动语态，会把主语误当成施动者；C) is carrying 是进行体主动；D) has carried 是完成体主动，均不能表达被动含义。</p>
+<p><strong>6. D</strong> —— <code>pass on to</code> 意为"继续向下传递"，准确描述蒙皮→肋→梁的载荷接力；A) pass by 是"从旁经过"；B) pass off 是"冒充、搪塞"；C) pass out 是"昏倒、分发"，三个短语动词都无法表示载荷的逐级传递。</p>
+<p><strong>7. B</strong> —— 重心保持在"两个"主轮之间，用 between；A) among 用于三者或三者以上；C) within 表示在某范围或区域内部，通常接单数范围名词；D) inside 指在物体内部，不用于"位于两个彼此分开的物体之间"。</p>
+<p><strong>8. D</strong> —— <code>with every member taking its share</code> 是 with 引导的独立主格结构，member 与 take 为主动关系，须用现在分词；A) take 是谓语动词原形，B) takes 是谓语第三人称单数形式，都会造成从句缺少连接词；C) taken 是过去分词，表被动，与"构件主动承担载荷"矛盾。</p>
+<p><strong>9. C</strong> —— <code>account for</code> 意为"占（某比例）"，是固定搭配；A) account to 不是英语固定词组，易与 answer to 混淆；B) account on 与 D) account with 都不存在这一搭配，属介词误配干扰。</p>
+<p><strong>10. A</strong> —— 空格修饰名词 measurement，需要形容词 lateral（横向的）；B) laterally 是副词，不能修饰名词；C) latitude 是名词，意为"纬度、自由度"；D) later 意为"更晚的"，与这里"横向量取"的意思无关。</p>
+<h2 id="8-易混点">8. 易混点</h2>
+<ul><li><strong>stress vs strain</strong>：stress 是外力引起的材料内部抵抗变形的反力（psi）；strain 是材料实际变形的程度。二者相关但不是一回事，日常常被混用。</li><li><strong>monocoque vs semimonocoque</strong>：纯硬壳式只有 former/frame/bulkhead 定形，全靠蒙皮承力，强度与重量难以兼顾；半硬壳式增加了 longeron 与 stringer（以及 web member），载荷分散、无单件失效即致命，能承受相当损伤。reinforced shell 则是蒙皮由完整构架加强，与二者并列但也不等同。</li><li><strong>trim tab vs balance tab vs servo tab</strong>：trim 由飞行员在驾驶舱设定，作用是让飞机"放手"保持飞行状态；balance 与操纵面联动、随操纵自动反向偏转，只减小所需操纵力；servo 直接连到操纵输入，本身就是（或后备的）操纵手段，用气动力去带动主操纵面。anti-servo 则相反——与操纵面同向，故意增加操纵力。</li><li><strong>tail wheel（conventional）vs tricycle</strong>：差别在重心相对主轮的位置。tail wheel 重心在主轮之后、尾轮在重心之后，易 ground loop、正前方视野差，但更轻、适合非铺装道面；tricycle 重心在主轮之前、有减震前轮，视野好、几乎不 ground loop，是目前最普遍构型。</li><li><strong>spoiler 差动 vs speed brake</strong>：低速时扰流板随副翼差动（上偏副翼那一侧升起）辅助滚转，速度增大后联动脱开；两侧扰流板全部放出则当减速板用（减升增阻）。专用 speed brake 面板只在需要增阻时使用，低速时不与副翼差动。</li></ul>
