@@ -67,8 +67,9 @@
     data.forEach(function(g){
       html += '<section class="idx-book"><h2>' + g.en + ' · ' + g.zh + '（' + g.count + ' 份）</h2>';
       g.chapters.forEach(function(c){
-        html += '<div class="idx-item"><a href="#/' + c.slug + '">Ch ' + c.num + '</a>' +
-          '<span>' + esc(c.summary || c.titleZh || c.titleEn) + '</span></div>';
+        html += '<div class="idx-item"><a href="#/' + c.slug + '">' +
+          '<span class="idx-num">Ch ' + c.num + '</span>' + esc(c.titleEn || ("Ch " + c.num)) + '</a>' +
+          '<span>' + esc(c.summary || c.titleZh || "") + '</span></div>';
       });
       html += '</section>';
     });

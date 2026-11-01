@@ -296,9 +296,11 @@ def main():
     index_md = read(os.path.join(root, "INDEX.md")) if os.path.exists(os.path.join(root, "INDEX.md")) else ""
     summaries = {}
     for line in index_md.splitlines():
-        m = re.match(r"^\|\s*\[([a-z]+/ch[0-9]+[ab]?)\.md\]\([^)]+\)\s*\|\s*(.+?)\s*\|\s*$", line.strip())
-        if m:
-            summaries[m.group(1)] = m.group(2)
+        m = re.search(r"\]\(notes/([a-z]+/ch[0-9]+[ab]?)\.md\)", line)
+        if not m or not line.strip().startswith("|"):
+            continue
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        summaries[m.group(1)] = cells[-1] if cells else ""
     for item in manifest:
         item["summary"] = summaries.get("%s/ch%s" % (item["book"], item["num"]), "")
 
@@ -397,7 +399,7 @@ body{
 .nav-group h3{margin:0 0 6px;padding:0 6px;font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;color:#6b7280}
 .nav-link{display:block;padding:6px 8px;border-radius:7px;text-decoration:none;color:#2b3138;font-size:13.5px;line-height:1.4}
 .nav-link .row{display:flex;align-items:baseline;gap:2px;min-width:0}
-.nav-link .ttl{flex:1 1 auto;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.nav-link .ttl{flex:1 1 auto;min-width:0;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;line-height:1.32}
 .nav-link .num{flex:0 0 32px;color:#9aa0a6;font-variant-numeric:tabular-nums}
 .nav-link:hover{background:#f1f1ef}
 .nav-link.active{background:#1f2328;color:#fff}
@@ -440,9 +442,10 @@ body{
 .card .d{font-size:13px;color:#6b7280}
 .idx-book{margin:34px 0}
 .idx-book h2{margin-top:30px}
-.idx-item{display:flex;gap:12px;padding:9px 0;border-bottom:1px solid #f0f0ee;align-items:baseline}
-.idx-item a{font-weight:600;white-space:nowrap;text-decoration:none;color:#0b63c5}
-.idx-item span{color:#4b5563;font-size:14px}
+.idx-item{display:block;padding:10px 0;border-bottom:1px solid #f0f0ee}
+.idx-item a{font-weight:600;text-decoration:none;color:#0b63c5}
+.idx-item a .idx-num{color:#9aa0a6;font-weight:500;margin-right:8px;font-variant-numeric:tabular-nums}
+.idx-item > span{display:block;color:#4b5563;font-size:14px;margin-top:3px;line-height:1.6}
 .loading{color:#8a8f98;padding:40px 0}
 .foot{max-width:1400px;margin:0 auto;padding:18px 40px 40px;color:#8a8f98;font-size:12.5px;display:flex;gap:8px;flex-wrap:wrap}
 .foot a{color:#6b7280}
@@ -526,8 +529,9 @@ JS = r"""(function(){
     data.forEach(function(g){
       html += '<section class="idx-book"><h2>' + g.en + ' · ' + g.zh + '（' + g.count + ' 份）</h2>';
       g.chapters.forEach(function(c){
-        html += '<div class="idx-item"><a href="#/' + c.slug + '">Ch ' + c.num + '</a>' +
-          '<span>' + esc(c.summary || c.titleZh || c.titleEn) + '</span></div>';
+        html += '<div class="idx-item"><a href="#/' + c.slug + '">' +
+          '<span class="idx-num">Ch ' + c.num + '</span>' + esc(c.titleEn || ("Ch " + c.num)) + '</a>' +
+          '<span>' + esc(c.summary || c.titleZh || "") + '</span></div>';
       });
       html += '</section>';
     });
