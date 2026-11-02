@@ -1,5 +1,8 @@
 (function(){
   var data = window.AMT_DATA || [];
+  var cardsData = window.AMT_CARDS || [];
+  var cardsByChapter = {};
+  cardsData.forEach(function(s){ cardsByChapter[s.chapter] = s; });
   var bySlug = {};
   var order = [];
   data.forEach(function(g){ g.chapters.forEach(function(c){ c.group = g; bySlug[c.slug] = c; order.push(c); }); });
@@ -14,6 +17,11 @@
 
   function buildNav(){
     var html = '';
+    if (cardsData.length){
+      html += '<div class="nav-group"><h3>学习卡片 · Study cards</h3>' +
+        '<a class="nav-link" href="#/cards" data-slug="__cards__">' +
+        '<span class="row"><span class="num">★</span><span class="ttl">全部学习卡片</span></span></a></div>';
+    }
     data.forEach(function(g){
       html += '<div class="nav-group" data-group="' + g.slug + '"><h3>' + g.en + ' · ' + g.zh + '</h3>';
       g.chapters.forEach(function(c){
@@ -115,12 +123,81 @@
     });
   }
 
+  function renderCardsIndex(){
+    var total = 0;
+    cardsData.forEach(function(s){ total += s.count; });
+    var html = '<div class="hero"><h1>学习卡片</h1>' +
+      '<p class="lead">按「节」拆分的学习卡片：每张包含 <b>手册原文</b>、<b>专业翻译</b>、<b>专业词汇解析</b> 与 <b>语法解析</b>。' +
+      (total ? '当前共 ' + total + ' 张，覆盖 ' + cardsData.length + ' 章。' : '') + '</p></div>';
+    var curBook = '';
+    cardsData.forEach(function(s){
+      if (s.book !== curBook){
+        curBook = s.book;
+        html += '<h2 class="idx-book">' + esc(s.bookEn) + ' · ' + esc(s.bookZh) + '</h2>';
+      }
+      html += '<div class="idx-item">' +
+        '<a class="idx-num" href="#/cards/' + s.chapter + '">Ch ' + pad2(s.num) + '</a>' +
+        '<div class="idx-main"><a class="idx-title" href="#/cards/' + s.chapter + '">' + esc(s.titleEn) + '</a>' +
+        '<div class="idx-sum">' + s.count + ' 张卡片</div></div></div>';
+    });
+    content.innerHTML = html;
+    markActive('__cards__');
+    setTitle('学习卡片');
+    window.scrollTo(0, 0);
+  }
+
+  function renderCardSet(chapterSlug){
+    var s = cardsByChapter[chapterSlug];
+    if (!s){ content.innerHTML = '<div class="loading">没有找到这组卡片。<a href="#/cards">返回卡片目录</a></div>'; return; }
+    var html = '<div class="crumb"><a href="#/cards">学习卡片</a> / ' + esc(s.bookEn) + ' · ' + esc(s.bookZh) + '</div>' +
+      '<h1>Ch ' + pad2(s.num) + ' · ' + esc(s.titleEn) + '</h1>' +
+      '<p class="lead">共 ' + s.count + ' 张卡片，按节顺序排列。</p><ol class="card-list">' +
+      s.cards.map(function(c){
+        return '<li><a href="#/card/' + c.slug + '">' + esc(c.title) + '</a></li>';
+      }).join('') + '</ol>';
+    content.innerHTML = html;
+    markActive(chapterSlug);
+    setTitle('学习卡片 · Ch ' + s.num);
+    window.scrollTo(0, 0);
+  }
+
+  function renderCard(slug){
+    var set = null, idx = -1;
+    cardsData.forEach(function(s){
+      s.cards.forEach(function(c, i){ if (c.slug === slug){ set = s; idx = i; } });
+    });
+    if (!set){ content.innerHTML = '<div class="loading">没有找到这张卡片。<a href="#/cards">返回卡片目录</a></div>'; return; }
+    var prev = idx > 0 ? set.cards[idx - 1] : null;
+    var next = idx < set.cards.length - 1 ? set.cards[idx + 1] : null;
+    fetch('cards/' + slug + '.html').then(function(r){
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.text();
+    }).then(function(html){
+      var crumb = '<div class="crumb"><a href="#/cards">学习卡片</a> / <a href="#/cards/' + set.chapter + '">' +
+        esc(set.bookEn) + ' Ch ' + pad2(set.num) + '</a> / 第 ' + (idx + 1) + ' 节</div>';
+      var pager = '<div class="pager">' +
+        '<div class="grow">' + (prev ? '<a href="#/card/' + prev.slug + '">← ' + esc(prev.title) + '</a>' : '') + '</div>' +
+        '<div class="grow" style="text-align:right">' + (next ? '<a href="#/card/' + next.slug + '">' + esc(next.title) + ' →</a>' : '') + '</div>' +
+        '</div>';
+      content.innerHTML = crumb + html + pager;
+      markActive(set.chapter);
+      setTitle((set.cards[idx] ? set.cards[idx].title : '') + ' · 学习卡片');
+      window.scrollTo(0, 0);
+    }).catch(function(err){
+      content.innerHTML = '<div class="loading">卡片加载失败（' + err.message + '）。</div>';
+    });
+  }
+
   function route(){
     var h = location.hash.replace(/^#\/?/, '');
     var parts = h.split('/');
     var slug = parts[0];
     if (!slug){ renderHome(); }
     else if (slug === 'index'){ renderIndex(); }
+    else if (slug === 'cards'){
+      if (parts[1]){ renderCardSet(parts[1]); } else { renderCardsIndex(); }
+    }
+    else if (slug === 'card' && parts[1]){ renderCard(parts[1]); }
     else {
       var anchor = parts[1] ? decodeURIComponent(parts[1]) : '';
       renderChapter(slug, anchor);

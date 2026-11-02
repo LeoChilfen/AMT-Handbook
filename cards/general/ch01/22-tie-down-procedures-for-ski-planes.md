@@ -1,0 +1,75 @@
+# Tie-Down Procedures for Ski Planes
+
+> 通用 Ch 01 · Tie-Down Procedures for Ski Planes · 原文 PDF 第 31 页
+
+## 1. 原文
+
+Ski planes are tied down, if the securing means are available, in the same manner as land planes. Ski-equipped airplanes can be secured on ice or in snow by using a device called a dead-man. A dead-man is any item at hand, such as a piece of pipe, log, and so forth, that a rope is attached to and buried in a snow or ice trench. Using caution to keep the free end of the rope dry and unfrozen, snow is packed in the trench.
+
+If available, pour water into the trench; when it is frozen, tie down the aircraft with the free end of the rope.
+
+tied to a dock can cause damage.
+
+When warning of an impending storm is received and it is not possible to fly the aircraft out of the storm area, some compartments of the seaplane can be flooded, partially sinking the aircraft. Tie down the aircraft securely to anchors.
+
+Seaplanes tied down on land have been saved from high-wind damage by filling the floats with water in addition to tying the aircraft down in the usual manner. During heavy weather, if possible, remove the seaplane from the water and tie down in the same manner as a land plane. If this is not possible, the seaplane could be anchored in a sheltered area away from the wind and waves.
+
+Tying a Bowline KnotA Tying a Square KnotB Over This one must be under Up through and around back Back down through Under Under Over Aft fuselage tiedown ring Underside of wing tiedown loop Main gear wheel tiedown loop Nose landing gear tiedown loop length of time the aircraft is expected to remain on the ground, and location and characteristics of the aircraft. Wheel chocks, control locks, rope tie-downs, mooring covers, tip socks, tie- down assemblies, parking brakes, and rotor brakes are used Operators of ski-equipped aircraft sometimes pack soft snow around the skis, pour water on the snow, and permit the skis to freeze to the ice. This, in addition to the usual tie-down procedures, aids in preventing damage from windstorms.
+
+Caution must be used when moving an aircraft that has been secured in this manner to ensure that a ski is not still frozen to the ground. Otherwise, damage to the aircraft or skis can occur.
+
+## 2. 中文翻译
+
+滑橇式飞机如有可用的固定器材，则按与陆基飞机相同的方式系留。装有滑橇的航空器可以在冰面或雪地上用一件称为「埋锚（dead-man）」的装置固定。埋锚就是手边可用的任何物件——如一截管子、一段圆木等等——把绳索拴在其上，再埋入雪沟或冰沟。操作时要注意保持绳索的自由端干燥、不结冰，随后在沟里把雪填实压紧。
+
+如有水可用，就往沟里浇水；待水冻结后，用绳索的自由端把航空器系留。
+
+……系在码头上可能造成损坏。（原文此处为版面断行残留的句子片段）
+
+当收到风暴即将来临的警报，而又无法把航空器飞离风暴影响区域时，可将水上飞机的某些舱室灌水，使航空器部分下沉；然后把航空器牢靠地系留在锚点上。
+
+在陆上系留的水上飞机，除了按常规方式系留之外，再向浮筒内灌水，曾因此免受大风破坏。恶劣天气期间，如有可能，应把水上飞机提上岸，按陆基飞机的方式系留。若做不到这一点，可将水上飞机锚泊在避风、避开风浪的区域。
+
+（此处原文夹有大段插图残留：Tying a Bowline Knot／Tying a Square Knot 等图注与零件指向文字，按例不予翻译。）航空器预期在地面停留的时间，以及航空器的位置与特性。轮挡、操纵面锁定装置、绳索系留、系泊罩、翼尖护套、系留组件、停放刹车与旋翼刹车都会被用到。装备滑橇的航空器操作者有时会在滑橇周围堆压软雪、往雪上浇水，让滑橇冻结在冰面上；这种做法在常规系留程序之外，还有助于防止风暴造成的损坏。
+
+以这种方式固定过的航空器，在移动时必须小心，要确认某个滑橇没有仍然冻在地面上；否则可能造成航空器或滑橇损坏。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| tie down | v. phr. | 系留 | 用绳索、地锚把航空器固定在地面或冰面上，本节指滑橇式飞机的系留 |
+| dead-man | n. | 埋锚、死锚 | 埋在雪沟或冰沟里的临时锚点，绳索拴在其上以承受拉力 |
+| securing means | n. phr. | 固定器材、系留手段 | 首句 if the securing means are available，指现场是否有可用的锚点与绳索 |
+| trench | n. | 沟槽 | 在雪地或冰面上挖出、用来埋锚并填雪浇水的沟 |
+| free end | n. phr. | 绳索的自由端 | 从埋锚引出、最终用来拴住航空器的那一端，须保持干燥不结冰 |
+| float | n. | 浮筒 | 水上飞机的水上起降部件，本节提到向浮筒内灌水以增重抗风 |
+| mooring cover | n. | 系泊罩 | 盖住座舱、发动机等开口的防风罩，属系留配套器材 |
+| control lock | n. | 操纵面锁定装置 | 锁住副翼、升降舵，防止被风摆动而损坏 |
+| windstorm | n. | 风暴、风灾 | 本节反复强调以埋锚与冻橇来防止其造成的损坏 |
+
+## 4. 语法解析
+
+### ① 定语从句：that a rope is attached to and buried in…
+
+**原句**：A dead-man is any item at hand, such as a piece of pipe, log, and so forth, that a rope is attached to and buried in a snow or ice trench.
+
+**拆解**：主句 A dead-man is any item at hand 是「主 + 系 + 表」结构；such as a piece of pipe, log, and so forth 是举例插入语；that 引导定语从句修饰 item，从句内两个谓语并列——attached to 中的 that 作介词 to 的宾语，buried 前面的 that 又作被动谓语 is buried 的主语。
+
+**要点**：关系代词同时充当两个角色的写法在手册里很常见，阅读时先把 that 看作「那个东西」，再分别填回两个动词。译成中文时把长定语拆成「把绳索拴在其上、再埋入雪沟或冰沟的物件」。注意介词 to 必须留在句末，不能写成 to that；同类还有 the device that the rope is tied to。
+
+### ② 悬垂分词：Using caution to keep the free end dry
+
+**原句**：Using caution to keep the free end of the rope dry and unfrozen, snow is packed in the trench.
+
+**拆解**：Using caution… 是现在分词短语作方式状语，其逻辑主语应是人（操作者）；但主句是被动语态 snow is packed，主语变成了 snow。分词的逻辑主语与主句主语不一致，这叫悬垂分词（dangling participle）。to keep … dry and unfrozen 是不定式表目的，keep + 宾语 + 形容词 构成复合宾语。
+
+**要点**：这是原文的真实写法，属于技术文件中常见的松散结构；正式写作宜让逻辑主语回到人身上：Pack the snow in the trench, using caution to keep the free end dry。阅读时不要被 snow 这个主语误导，以为「雪在小心」。
+
+### ③ 省略式条件从句 + 分号连接的祈使句
+
+**原句**：If available, pour water into the trench; when it is frozen, tie down the aircraft with the free end of the rope.
+
+**拆解**：If available 是 If water is available 的省略（主语与 be 一起省去）；主句为祈使句 pour water into the trench；分号后 when it is frozen 是时间状语从句（it 指刚浇进去的水），主句又是祈使句 tie down the aircraft with the free end of the rope，with 短语表工具。
+
+**要点**：手册里的条件句常省略与主句相同的主语和 be：if available / if necessary / when possible / if required。两个祈使句用分号连接，表示「先……，再……」的先后关系，中文译成「如有……就……；待……后，再……」最贴合操作顺序。

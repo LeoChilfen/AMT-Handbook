@@ -1,0 +1,75 @@
+# Hand Cranking Engines
+
+> 通用 Ch 01 · Hand Cranking Engines · 原文 PDF 第 35 页
+
+## 1. 原文
+
+If the aircraft has no self-starter, start the engine by turning the propeller by hand (hand propping the propeller). The person who is turning the propeller calls: “Fuel on, switch off, throttle closed, brakes on.” The person operating the engine checks these items and repeats the phrase. The switch and throttle must not be touched again until the person swinging the prop calls “contact.” The operator repeats “contact” and then turns on the switch. Never turn on the switch and then call “contact.” A few simple precautions help to avoid accidents when hand propping the engine. While touching a propeller, always assume that the ignition is on. The switches that control the magnetos operate on the principle of short-circuiting the current to turn the ignition off. If the switch is faulty, it can be in the “off” position and still permit current to flow in the magneto primary circuit. This condition could allow the engine to start when the switch is off.
+
+Be sure the ground is firm. Slippery grass, mud, grease, or loose gravel can lead to a fall into or under the propeller. Never allow any portion of your body to get in the way of the propeller. This applies even when the engine is not being cranked.
+
+Stand close enough to the propeller to be able to step away as it is pulled down. Stepping away after cranking is a safeguard in case the brakes fail. Do not stand in a position that requires leaning toward the propeller to reach it. This throws the body off balance and could cause a fall into the blades when the engine starts.
+
+In swinging the prop, always move the blade downward by pushing with the palms of the hands. Do not grip the blade with the fingers curled over the edge, since “kickback” may break them or draw your body in the blade path. Excessive throttle opening after the engine has fired is the principal cause of backfiring during starting. Gradual opening of the throttle, while the engine is cold, reduces the potential for backfiring. Slow, smooth movement of the throttle assures correct engine operation.
+
+Avoid over priming the engine before it is turned over by the starter. This can result in fires, scored or scuffed cylinders and pistons, or engine failures due to hydraulic lock. If the engine is inadvertently flooded or over primed, turn the ignition switch off and move the throttle to the “full open” position. To rid the engine of the excess fuel, turn it over by hand or by the starter. If excessive force is needed to turn over the engine, stop immediately. Do not force rotation of the engine. If in doubt, remove the lower cylinder spark plugs.
+
+Immediately after the engine starts, check the oil pressure indicator. If oil pressure does not show within 30 seconds, stop the engine and determine the trouble. If oil pressure is indicated, adjust the throttle to the aircraft manufacturer’s specified rpm for engine warm up. Warm up rpm is usually between 1,000 to 1,300 rpm.
+
+Most aircraft reciprocating engines are air cooled and depend on the forward speed of the aircraft to maintain proper cooling. Therefore, particular care is necessary when operating these engines on the ground. During all ground running, operate the engine with the propeller in full low pitch and headed into the wind with the cowling installed to provide the best degree of engine cooling. Closely monitor the engine instruments at all times. Do not close the cowl flaps for engine warm-up, they need to be in the open position while operating on the ground. When warming up the engine, ensure that personnel, ground equipment that may be damaged, or other aircraft are not in the propeller wash.
+
+## 2. 中文翻译
+
+若航空器没有自带起动机，就用手转动螺旋桨来起动发动机（即手扳螺旋桨）。转桨的人喊：「燃油开、电门关、油门收、刹车刹住。」操纵发动机的人核对这几项，并复诵一遍。在扳桨者喊「接触（contact）」之前，不得再去碰电门和油门。操纵者复诵「接触」，然后合上电门。绝不允许先合电门再喊「接触」。手扳螺旋桨起动时，几条简单的预防措施有助于避免事故：只要手接触螺旋桨，就要始终假定点火是接通的。控制磁电机的电门是靠短路电流来关断点火的原理工作的；若电门有故障，它可能处于「关」位却仍让电流在磁电机初级电路中流动，这种情况可能使发动机在电门关闭的状态下起动。
+
+要确认地面坚实。湿滑的草地、泥地、油污或松散的砾石都可能使人跌倒在螺旋桨上或螺旋桨下方。绝不要让身体的任何部位进入螺旋桨的转动范围，即使发动机没有在盘转时也是如此。
+
+站得离螺旋桨足够近，以便在向下拉桨时能顺势退开。盘转后退开是一道保险，以防刹车失效。不要站在需要向螺旋桨探身才能碰到桨叶的位置：这会使身体失去平衡，发动机起动时可能使人跌进桨叶。
+
+扳桨时，应始终用手掌向下推桨叶。不要用手指勾住桨叶边缘去抓握，因为「反弹（kickback）」可能折断手指，或把身体带进桨叶的运动路径。发动机着火之后油门开度过大，是起动过程中回火的主要原因。发动机冷态时缓慢开大油门，可降低回火的可能性；油门缓慢、平顺地移动，可保证发动机工作正常。
+
+在起动机盘转发动机之前，应避免注油过量。注油过量可能引起起火、气缸与活塞拉伤或擦伤，或因液锁导致发动机失效。若发动机不慎被淹或注油过量，应关断电门，把油门移到「全开」位；为排掉多余燃油，用手或起动机把发动机盘转几圈。若盘转需要过大的力，应立即停止，不得强行转动发动机；如有疑问，拆下下方气缸的火花塞。
+
+发动机起动后，应立即检查滑油压力指示。若 30 秒内不显示滑油压力，应停车并查明故障。若显示有滑油压力，则按航空器制造厂规定的转速调整油门进行暖机；暖机转速通常在 1,000 至 1,300 rpm 之间。
+
+大多数航空器往复式发动机是气冷式的，依靠航空器前进速度维持适当冷却。因此，在地面操作这类发动机时必须特别小心。所有地面试车都应让螺旋桨处于全低距、机头迎风，并装好整流罩，以获得最佳的发动机冷却效果。要始终密切监控发动机仪表。暖机时不得关闭整流罩鱼鳞板，在地面运行时鱼鳞板须处于打开位。暖机时要确认人员、可能被吹坏的地面设备或其他航空器不在螺旋桨尾流之中。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| hand propping | n. phr. | 手扳螺旋桨起动 | 无起动机时由人转动螺旋桨起动发动机的作业 |
+| self-starter | n. | 自带起动机 | 航空器是否装有它，决定是否需要手扳起动 |
+| magneto | n. | 磁电机 | 提供点火高压的装置，由电门控制其初级电路通断 |
+| short-circuit | v. | 短路 | 关断电门的原理：把电流短路掉以切断点火 |
+| kickback | n. | 反弹、反冲 | 点火过早使螺旋桨反向弹回，可能折断勾住桨叶的手指 |
+| backfire | n. | 回火 | 起动时油门开度过大是回火的主因 |
+| over priming | n. phr. | 注油过量 | 可引起起火、气缸活塞擦伤或液锁 |
+| cowl flap | n. | 整流罩鱼鳞板 | 地面暖机时必须保持打开位，以利冷却 |
+| propeller wash | n. phr. | 螺旋桨尾流 | 暖机时须确认人员、地面设备、其他航空器不在其中 |
+
+## 4. 语法解析
+
+### ① 定语从句 + 动名词作介词宾语 + 不定式表目的
+
+**原句**：The switches that control the magnetos operate on the principle of short-circuiting the current to turn the ignition off.
+
+**拆解**：主语 The switches 带定语从句 that control the magnetos；谓语 operate on the principle of…（operate on 后接原理、原则）；of 的宾语是动名词短语 short-circuiting the current；to turn the ignition off 是不定式表目的，其中 turn off 的宾语 the ignition 插在动词与副词之间。
+
+**要点**：operate on the principle of + 动名词 意为「按……的原理工作」。介词 of 后面必须用动名词，写成 to short-circuit 就错了。short-circuit 兼作名词（短路）与动词（使短路），此处是动词。注意 turn off 这类「动词 + 副词」短语，代词宾语须夹在中间（turn it off），名词宾语可前可后。
+
+### ② while + 动名词作时间状语
+
+**原句**：While touching a propeller, always assume that the ignition is on.
+
+**拆解**：While touching a propeller 是「while + 动名词」构成的时间状语，逻辑主语与主句祈使句隐含的 you 一致；主句为祈使句，assume 后接 that 引导的宾语从句 the ignition is on。
+
+**要点**：while + 动名词相当于 while you are touching，比从句简洁，是手册高频结构（while starting / while taxiing / while servicing）。要害是逻辑主语必须与主句一致，否则就成了悬垂分词。assume 在此是「假定、就当它是」，不是「承担」；always assume that… 是教员的口气，译作「始终假定……」。
+
+### ③ 否定祈使句 + with 复合结构 + since 原因从句
+
+**原句**：Do not grip the blade with the fingers curled over the edge, since “kickback” may break them or draw your body in the blade path.
+
+**拆解**：Do not + 动词原形 构成否定祈使句；with the fingers curled over the edge 是「with + 名词 + 过去分词」的独立主格结构，描写抓握姿势；since 引导原因状语从句，从句内 may break them 与 (may) draw your body in the blade path 两个谓语并列，them 指手指。
+
+**要点**：with 复合结构是技术英语描写姿态与状态的高频手段（with the cowling installed / with the brakes set），翻译时另起短句「手指勾在桨叶边缘……」。since 在此表原因（因为），不是「自从」；区分靠语境——后面接句子且表因果即原因从句。draw 在此是「把……带向」，不是「画」。
