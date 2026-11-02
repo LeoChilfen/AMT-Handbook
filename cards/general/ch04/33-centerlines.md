@@ -10,12 +10,45 @@ Output Relay AC Input AC Input AC Input Phase A Phase B Phase C Voltage Selector
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段对应翻译，术语按行业惯例（如 tie-down 系留、fireguard 消防警戒员） -->
+中心线由长划与短划交替组成。它们表示物体或物体某一部分的中心。凡中心线相交处，短划应……（此处为图内标注，略）
+
+……对称相交。对于非常小的圆，中心线可以不画断开。
 
 ## 3. 专业词汇
 
-<!-- TODO: 表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 条 -->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| centerline | n. | 中心线 | 由长短划相间构成，表示物体或其部位的中心 |
+| alternate | adj. | 交替的、相间的 | alternate long and short dashes 长划短划相间 |
+| dash | n. | 划线、短划 | 线段中的一段，long dash 长划、short dash 短划 |
+| intersect | v. | 相交、交叉 | the short dashes intersect symmetrically |
+| symmetrically | adv. | 对称地 | 交点两侧的短划等长、位置对称 |
+| unbroken | adj. | 不间断的、连续的 | 小圆处中心线画成一条连续线穿过 |
+| cross | v. | 相交、交叉 | Where centerlines cross，两中心线的交点处 |
+| be made up of | phr. v. | 由……构成 | Centerlines are made up of … |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，每条写「原句 / 拆解 / 要点」 -->
+### ① Centerlines are made up of alternate long and short dashes（被动 + be made up of）
+
+**原句**：Centerlines are made up of alternate long and short dashes.
+
+**拆解**：主语 Centerlines，谓语 are made up of（被动形式，实为「由……构成」的固定搭配）；alternate 作形容词修饰 dashes，long and short 进一步并列修饰。
+
+**要点**：be made up of = 由……组成，与 consist of 同义但 consist of 不能用被动。alternate 作形容词读重音在前（/ˈɔːltənət/），作动词「交替」读重音在后（/ˈɔːltəneɪt/），图纸文本中几乎都是形容词用法。
+
+### ② Where centerlines cross, the short dashes intersect symmetrically（where 引导的地点状语从句）
+
+**原句**：Where centerlines cross, the short dashes intersect
+
+**拆解**：Where 引导地点状语从句，意为「在……的地方」，前面没有先行词；主句 the short dashes intersect，intersect 为不及物动词。原文此句被图内标注截断，句末的 symmetrically 出现在图注之后，合起来译为「中心线相交处，短划应对称相交」。
+
+**要点**：where 引导状语从句时译「凡……之处」，引导定语从句时前面必有表示地点的先行词（如 the point where …），两者靠有无先行词区分。intersect 在此不及物，不能写成 intersect each other 之外的及物用法。
+
+### ③ the centerlines may be shown unbroken（情态被动 + 形容词作主语补足语）
+
+**原句**：In the case of very small circles, the centerlines may be shown unbroken.
+
+**拆解**：In the case of very small circles 是条件／范围状语；谓语 may be shown 为情态被动；unbroken 是形容词，作主语补足语，说明中心线被画成的状态。
+
+**要点**：主动式 show sth unbroken 变为被动后，形容词 unbroken 留在原处作主补，类似的还有 is shown open、are kept clean。in the case of = 对于、在……情况下，与 in case of（以防）意思不同，不要混用。

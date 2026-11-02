@@ -42,12 +42,77 @@ CAST IRON STEEL BRASS, BRONZE, AND COPPER WOOD—ACROSS GRAIN CORK, FELT, FABRIC
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段对应翻译，术语按行业惯例（如 tie-down 系留、fireguard 消防警戒员） -->
+航空器维修技师不必非要在绘图上有所造诣，但必须对要传达给他们的信息具备实用的知识。
+
+他们最常遇到的，是新航空器及其部件制造与装配用的图纸、改装时用的图纸，以及进行修理时用的图纸。
+
+读一张图纸不可能一蹴而就，正如整整一页印刷文字无法一眼读完一样；两者都必须一行一行地读。要有效地读图，就应遵循一套系统化的步骤。
+
+打开图纸后，先读图号（drawing number）和物品说明（description of the article）；接着核对所涉及的机型、最新的更改字母（change letter）以及所引用的上一级装配（next assembly）。确认这张图纸确为所需的那一张之后，再去看插图。
+
+读多视图（multiview）图纸时，先浏览全部视图，对物体的形状形成总体印象；然后选取一个视图作更仔细的研究。通过在相邻视图之间反复对照，就能确定每一条线代表什么。
+
+视图上的每一条线都表示某一表面方向的变化，但要确定这变化究竟是什么，必须查阅另一个视图。例如，一个视图上的圆既可能表示孔，也可能表示凸起的凸台（boss），如图 4-30 中该物体的俯视图所示。看俯视图，我们见到两个圆。然而，还必须查阅另一个视图，
+
+（此处为图内标注，略）
+
+才能确定每个圆各代表什么。
+
+看一眼另一个视图便知：较小的圆表示孔，较大的圆表示凸起的凸台。同理，要确定孔与凸台的形状，又必须查阅俯视图。
+
+从这个例子可以看出：当给出的视图不止一个时，只看一个视图是读不懂图纸的。
+
+两个视图并不总能描述一个物体；给出三个视图时，必须三个都查阅，才能确保形状已被正确读解。
+
+确定物体的形状之后，再确定它的尺寸。
+
+图纸给出尺寸与公差信息，是为了满足某些设计要求。尺寸用数字表示，可带英寸符号，也可不带；若不带英寸符号，则该尺寸以英寸计。通常既给出各零件的尺寸，也给出一个表示零件最大长度的总尺寸（overall dimension）。如果总尺寸
+
+（此处为图内标注，略）缺失，可由各零件的尺寸相加求得。如今用于新航空器与部件制造的许多图纸已采用米制，这类图纸的单位是毫米（mm）。
+
+图纸尺寸可以用小数标注，也可以用分数标注，公差尤其如此。许多图纸不用正负号表示公差，而是直接给出上下两个极限的完整尺寸。例如，某尺寸为 2 英寸、正负公差为 0.01，则图纸把两个极限尺寸写作：
+
+2.01　1.99　图纸公差（print tolerance，通常列在标题栏内）是一种通用公差，适用于尺寸非关键（noncritical）的零件。凡尺寸线上未标注公差之处，即适用图纸公差。
+
+读图的最后一步，是读一般说明（general notes）和材料栏（material block）的内容，查明图纸中纳入了哪些更改，并阅读
+
+（此处为图内标注，略）视图与剖视附近专门给出的特殊信息。
 
 ## 3. 专业词汇
 
-<!-- TODO: 表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 条 -->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| working knowledge | n. phr. | 实用的、够用的知识 | must have a working knowledge of the information，指懂到能用于实际工作的程度，不要求会画图 |
+| multiview drawing | n. | 多视图图样、多面正投影图 | 本节讲的正是如何对照多个视图读图 |
+| boss | n. | 凸台、凸起 | protruding boss，俯视图上较大的那个圆，最容易与孔混淆 |
+| overall dimension | n. | 总尺寸、外形尺寸 | 给出零件最大长度的尺寸；缺失时可由各分尺寸相加得出 |
+| tolerance | n. | 公差 | 尺寸允许的偏差，可用正负号表示，也可直接给出上下两个极限尺寸 |
+| print tolerance | n. | 图纸公差、图样通用公差 | 标题栏内的通用公差，尺寸线上未注公差时即适用 |
+| change letter | n. | 更改字母、版次标记 | 打开图纸后要核对的最新增改标识 |
+| noncritical | adj. | 非关键的 | 尺寸不重要、可直接套用图纸公差的部位 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，每条写「原句 / 拆解 / 要点」 -->
+### ① cannot … any more than …（否定比较结构）
+
+**原句**：A drawing cannot be read all at once any more than a whole page of print can be read at a glance.
+
+**拆解**：主句 A drawing cannot be read all at once 为否定被动；any more than 引出比较从句 a whole page of print can be read at a glance，该从句本身也用否定意义（cannot 的否定延伸到从句）。整体含义是「图纸不能一次读完，正如整页文字不能一眼看完」。
+
+**要点**：not … any more than 是「两者同样不……」的等比否定，不是「比……更」。翻译时不能按字面译成「比整页文字更读不完」。从句谓语与主句保持一致的语气（can），且从句不再重复否定词。
+
+### ② Having determined …, proceed to …（现在分词完成式作状语 + 祈使句）
+
+**原句**：Having determined that the drawing is the correct one, proceed to read the illustration(s).
+
+**拆解**：Having determined 为现在分词完成式，作时间状语，表示「在已经确定……之后」；that 从句作 determined 的宾语；主句为祈使句，省略主语 you，谓语 proceed to read。
+
+**要点**：分词的完成式强调该动作先于主句动作发生，技术手册常用它把「先核对、后读图」的先后次序压缩进一句话。若改用 After you determine… 意思相同但句子变长。注意 proceed to 后接动词原形，proceed with 后接名词。
+
+### ③ By referring …, it is possible to determine …（by + 动名词表手段 + it 形式主语）
+
+**原句**：By referring back and forth to the adjacent view, it is possible to determine what each line represents.
+
+**拆解**：By referring back and forth to the adjacent view 是「介词 by + 动名词」构成的方式状语，说明靠什么手段；it 是形式主语，真正的主语是 to determine what each line represents；what 从句作 determine 的宾语。
+
+**要点**：说明「靠某种做法就能……」时，手册惯用 By + -ing, it is possible to …，比 you can … 更客观。refer to 在此是「查阅、参照」，back and forth 表示「来回地」。注意 by 后必须用动名词，写成 by refer 是常见错误。

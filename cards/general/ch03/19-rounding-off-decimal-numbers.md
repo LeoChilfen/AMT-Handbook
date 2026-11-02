@@ -22,12 +22,65 @@ The digit in the thousandths column is an 8. The digit to the right of the 8 is 
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段对应翻译，术语按行业惯例（如 tie-down 系留、fireguard 消防警戒员） -->
+有时需要把小数四舍五入到某个便于使用的值。例如，某测量值经计算为 29.4948 英寸。要使用这一测量值，可以采用“四舍五入”的做法。所谓“四舍五入”，就是保留某一位数以内的数字、舍去其余数字。所需的准确程度决定保留几位数字。若紧邻保留位右侧的那位数字为 5 或更大，就向前进 1；若小于 5，则保留位不变。
+
+例：某作动筒轴的直径为 2.1938 英寸。
+
+四舍五入到最接近的十分位。
+
+十分位上的数字是 1，1 右边的数字是 9。因为 9 大于或等于 5，把 1“进”为 2。因此，2.1938 四舍五入到最接近的十分位为 2.2。
+
+例：某轴承的外径为 3.1648 厘米。四舍五入到最接近的百分位。
+
+百分位上的数字是 6，6 右边的数字是 4。因为 4 小于 5，不进位。因此，3.1648 精确到百分位为 3.16。
+
+例：某衬套的长度为 3.7487 英尺。四舍五入到最接近的千分位。
+
+千分位上的数字是 8，8 右边的数字是 7。因为 7 大于或等于 5，把 8“进”为 9。因此，3.7487 精确到千分位为 3.749。
 
 ## 3. 专业词汇
 
-<!-- TODO: 表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 条 -->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| round off | phr. v. | 四舍五入 | 本节把小数截取到便于使用的位数 |
+| retained digit | n. phr. | 保留位 | 四舍五入后仍然保留的那一位数字 |
+| tenths column | n. phr. | 十分位 | 小数点后第一位，例中为 1 |
+| hundredths column | n. phr. | 百分位 | 小数点后第二位，例中为 6 |
+| thousandths column | n. phr. | 千分位 | 小数点后第三位，例中为 8 |
+| actuator shaft | n. phr. | 作动筒轴 | 例中直径 2.1938 英寸的轴件 |
+| outside diameter | n. phr. | 外径 | 轴承外圈的直径，例中 3.1648 厘米 |
+| bushing | n. | 衬套 | 例中长 3.7487 英尺的筒状衬套 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，每条写「原句 / 拆解 / 要点」 -->
+### ① it is necessary to round off … to some value that is practical to use（形式主语 + 定语从句）
+
+**原句**：Occasionally, it is necessary to round off a decimal number to some value that is practical to use.
+
+**拆解**：Occasionally 为时间副词作状语；it 是形式主语，真正主语是 to round off a decimal number to some value；that is practical to use 是定语从句修饰 some value，从句中 be + 形容词 + 不定式表“用来……是可行的”。
+
+**要点**：round off A to B 意为“把 A 四舍五入到 B”，介词用 to。be practical to use 是“形容词 + 不定式”结构，主语就是该形容词所描述的对象（value），不能说 value that is practical to using。it is necessary to do 是技术文本的高频句型，可换成 we must do，但前者更客观。
+
+### ② it is “rounded off” by keeping the digits for a certain number of places（by + 动名词表手段）
+
+**原句**：A decimal is “rounded off” by keeping the digits for a certain number of places and discarding the rest.
+
+**拆解**：主语 A decimal；谓语 is rounded off 为被动；by keeping ... and discarding ... 是 by + 动名词，说明手段；for a certain number of places 修饰 keeping，the rest 指其余各位。
+
+**要点**：by + 动名词回答 how（靠什么办法），与 through、with 相比最中性。keep 与 discard 是一对反义动词，本节用它们概括“留”和“舍”。the rest 表“其余部分”，后不接 of 时泛指，若接明确对象则写 the rest of them。
+
+### ③ The degree of accuracy desired determines …（过去分词后置定语 + 不定式被动定语）
+
+**原句**：The degree of accuracy desired determines the number of digits to be retained.
+
+**拆解**：主语 The degree of accuracy，过去分词 desired 后置修饰，等于 the degree of accuracy which is desired；谓语 determines（单数，与 degree 一致）；宾语 the number of digits，后接不定式被动 to be retained 作定语。
+
+**要点**：desired 单个分词后置是为了强调并避免与 accuracy 前的位置冲突，译作“所需要的”。to be retained 是“待保留的”，不定式被动表将来或应然；换成 to retain 则变成“去保留”，主语关系说不通。determines 用单数，因为中心词是 degree 而非 accuracy。
+
+### ④ Since 9 is greater than or equal to 5, “round up” the 1 to a 2（原因从句 + 比较结构 + round up）
+
+**原句**：Since 9 is greater than or equal to 5, “round up” the 1 to a 2.
+
+**拆解**：Since 引导原因状语从句（“既然、因为”）；从句谓语 is greater than or equal to 为比较级 + 等值结构并列；主句是祈使句，round up 加引号表示术语用法，the 1 to a 2 指“把 1 进到 2”。
+
+**要点**：greater than or equal to 是“大于或等于”（记作 ≥）的读法，等值部分必须补出 equal to，不能只说 greater or equal。round up 意为“向上进位”，反义为 round down；后接 to 指出目标数位或目标值。since 表原因时与 because 近义，但更偏“既然”的推断语气。

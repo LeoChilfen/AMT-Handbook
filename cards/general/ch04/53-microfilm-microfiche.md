@@ -10,12 +10,45 @@ Most modern aircraft manufacturers have replaced microfilm and microfiche with d
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段对应翻译，术语按行业惯例（如 tie-down 系留、fireguard 消防警戒员） -->
+把图纸、零件目录以及维修与大修手册记录在缩微胶卷上的做法，过去曾得到广泛采用。缩微胶卷有常规的 16 mm 和 35 mm 两种规格。由于 35 mm 胶片尺寸更大，其图纸复制效果更好。缩微平片是一张卡片，页面以网格形式排布其上。缩微胶卷和缩微平片都需要使用专门设备来阅读和打印其中的信息。
+
+多数现代航空器制造商已用光盘（CD）、数字多功能光盘（DVD）及其他数据存储设备等数字存储方式，取代了缩微胶卷和缩微平片。大量老旧航空器的使用与修理信息已转存到数字存储设备中。不过，仍可能要用老办法查阅信息。设备齐全的车间应既备有旧的缩微胶卷、缩微平片设备，也备有新的计算机设备。
 
 ## 3. 专业词汇
 
-<!-- TODO: 表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 条 -->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| microfilm | n. | 缩微胶卷 | 16 mm 或 35 mm 胶片，曾用于记录图纸与手册 |
+| microfiche | n. | 缩微平片 | 卡片式缩微载体，页面按网格排在片上 |
+| parts catalog | n. | 零件目录 | 与图纸、维修手册一同被缩微化的资料 |
+| overhaul manual | n. | 大修手册 | maintenance and overhaul manuals，维修与大修手册 |
+| reproduction | n. | 复制效果、复制件 | a better reproduction of drawings，指放大还原后的清晰度 |
+| grid format | n. phr. | 网格形式 | pages laid out in a grid format，平片上的页面排布方式 |
+| digital storage | n. | 数字存储 | 用 CD、DVD 等替代缩微胶卷的存储方式 |
+| well-equipped | adj. | 设备齐全的 | A well-equipped shop，新旧两种设备都要备 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，每条写「原句 / 拆解 / 要点」 -->
+### ① The practice of recording … was utilized …（动名词短语作介词宾语 + 被动）
+
+**原句**：The practice of recording drawings, parts catalogs, and maintenance and overhaul manuals on microfilms was utilized extensively in the past.
+
+**拆解**：主语中心词是 The practice，of recording … on microfilms 是介词短语作后置定语，其中 recording 为动名词，后接三个并列宾语；谓语 was utilized 为一般过去时被动，extensively 与 in the past 作状语。
+
+**要点**：把动作名词化（the practice of recording …）可使主语承载大量信息，是技术写作的常见压缩手段。动名词后接宾语用 recording drawings，不能写 record，因为 of 是介词。注意 in the past 与过去时 was utilized 搭配，说明这是已往的做法。
+
+### ② Since 35 mm film is larger, it provides a better reproduction of drawings（since 引导原因状语从句）
+
+**原句**：Since 35 mm film is larger, it provides a better reproduction of drawings.
+
+**拆解**：Since 引导原因状语从句（「由于」），主句 it provides a better reproduction of drawings 用一般现在时陈述普遍事实；it 指 35 mm film。
+
+**要点**：since 兼有「自从」和「由于」两义，此处后接完整句子且无时间点，只能是原因。表原因时 since 比 because 语气轻，多用于已知理由。注意 larger 是 large 的比较级，指胶片幅面更大，不是「更长」。
+
+### ③ should have available, both … as well as …（have + 宾语 + 补语的前置结构）
+
+**原句**：A well-equipped shop should have available, both the old microfilm and microfiche equipment, as well as new computer equipment.
+
+**拆解**：谓语是 should have，宾语为 both the old microfilm and microfiche equipment, as well as new computer equipment；形容词 available 作宾语补足语，因宾语过长而被提到宾语之前，形成 have available, both … 的语序。
+
+**要点**：正常语序是 have + 宾语 + available，宾语一长就后置补语，避免「悬空」。both … as well as … 是「既……又……」的并列，等于 both … and …，此处 both 只辖第一组并列项。译成汉语时把 available 还原为「备有、齐备」。

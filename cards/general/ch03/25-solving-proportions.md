@@ -36,12 +36,71 @@ N 80 = 15100 To solve for N: N × 100 = 80 × 15 N × 100 = 1,200 N = 1,200 ÷ 1
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段对应翻译，术语按行业惯例（如 tie-down 系留、fireguard 消防警戒员） -->
+解比例式时，通常已知三个量，第四个量未知。要求出未知量，先把沿对角线相对的两个数相乘，再除以第三个数。
+
+例：求下列比例式中的 X。
+
+`65 80 = X100` 先乘 65 × 100：`65 × 100 = 6500` 再除以 80：`6500 ÷ 80 = 81.25` 因此，X = 81.25。
+
+例：一架飞机飞行 300 英里用掉 24 加仑汽油。飞行 750 英里需要多少加仑汽油？
+
+此处的比是「英里对加仑」；因此，比例式列为：
+
+`Miles Gallons 300 24 = 750 G`（原文比例式按分式上下两行排版，转写后连排。）
+
+（原文此处为一整页 1/64 英寸的分数—小数—毫米换算表，PDF 转写后仅余若干列数字序列，无数值对应关系，此处从略。）
+
+……（用分子除以）分母，再把所得小数乘以 100 换算成百分数，如前所述。（本段起首被版面截断，按残缺原样译出。）
+
+例：把分数 5⁄8 表示为百分数。
+
+`5 8 = 5 ÷ 8 = 0.625 = 62.5%` 这是最常见的百分数计算类型。
+
+解百分数问题有两种方法：用代数，或用比例。下面分别演示如何求某数的一个百分数。
+
+例：一批 80 只翼尖灯中，有 15% 是次品。次品灯有多少只？
+
+80 只灯的 15% = N（次品灯数量）
+
+`0.15 × 80 = N` `12 = N` 因此，这批货中有 12 只次品灯。
+
+`N 80 = 15100` 求 N：`N × 100 = 80 × 15` `N × 100 = 1,200` `N = 1,200 ÷ 100` `N = 12` 或 `N = (80 × 15) ÷ 100` `N = 12`
 
 ## 3. 专业词汇
 
-<!-- TODO: 表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 条 -->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| proportion | n. | 比例式 | 两个比相等所成的等式，解题时已知三项求第四项 |
+| diagonal | n. | 对角线 | multiply along the diagonal 指把分式对角位置的两个数相乘 |
+| unknown | n. | 未知量 | 比例式中待求的那一项，本例中为 X 或 G |
+| set up | v. phr. | 列出、设定（式子） | the proportion is set up as 指按比例关系把式子摆出来 |
+| gallon | n. | 加仑 | 燃油量单位，本例 300 英里耗 24 加仑 |
+| wingtip light | n. phr. | 翼尖灯 | 装在翼尖的航行灯，本例一批 80 只 |
+| defective | adj. | 有缺陷的、次品的 | 15% of the lights were defective 指抽检发现次品 |
+| shipment | n. | 一批到货、装运的货物 | 指那 80 只翼尖灯这一批货 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，每条写「原句 / 拆解 / 要点」 -->
+### ① when + 动名词作状语：when solving a proportion
+
+**原句**：Normally when solving a proportion, three quantities are known, and the fourth is unknown.
+
+**拆解**：when solving a proportion 是「连词 + 动名词」构成的时间状语，逻辑主语为泛指的人（when we solve…）；主句由 and 连接两个并列分句：three quantities are known 与 the fourth is unknown，均为「主语 + be + 形容词/过去分词」。
+
+**要点**：技术文本描述通用操作时常用 when + -ing 而不写出主语，既简洁又避免反复出现 you。这里 solving 的逻辑主语是解题者，不是 three quantities，所以不能用过去分词 when solved（那就成了「比例式被解的时候」）。known/unknown 是一对固定说法，中文对应「已知／未知」。
+
+### ② 目的不定式 + 两个并列祈使谓语：To solve for the unknown, multiply … and then divide …
+
+**原句**：To solve for the unknown, multiply the two numbers along the diagonal and then divide by the third number.
+
+**拆解**：To solve for the unknown 是目的状语，置于句首；主句为祈使句，两个并列谓语 multiply … 与 divide …，由 and then 连接，then 标明先后顺序；along the diagonal 是方式状语，by the third number 与 divide 搭配。
+
+**要点**：手册的解题步骤用「目的不定式 + 祈使句」写，动作按执行顺序排列，and then 明确先后。注意 multiply A by B 与 divide A by B 都表示「用 B 乘／除 A」，而本节说的是先乘对角两数、再除以第三数，中文要按算式顺序写清楚，别把「除以」的对象弄错。
+
+### ③ be set up as + therefore：式子的摆法与因果衔接
+
+**原句**：The ratio here is: “miles to gallons;” therefore, the proportion is set up as:
+
+**拆解**：The ratio here is 后接冒号与引号内的 “miles to gallons”，点明比的对应关系；therefore 是连接副词，前用分号、后用逗号，引出由该比得到的结论；the proportion is set up as 为被动语态，as 后接冒号引出的具体式子。
+
+**要点**：therefore 是副词而非连词，不能像 so 那样只用逗号连接两个句子，标准写法是「; therefore, 」或「. Therefore, 」。set up 在此是「列出（式子）」而非「建立、安装」，注意与 set up the equipment 区分。写译文时「英里对加仑」的对应顺序必须与被除数、除数一致，否则式子会倒过来。

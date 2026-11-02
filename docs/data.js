@@ -2698,13 +2698,306 @@ window.AMT_CARDS = [
   ]
  },
  {
+  "chapter": "general-ch03",
+  "book": "general",
+  "bookEn": "General",
+  "bookZh": "通用",
+  "num": "03",
+  "titleEn": "Mathematics in Aviation Maintenance",
+  "count": 47,
+  "cards": [
+   {
+    "slug": "general-ch03-01",
+    "seq": "01",
+    "title": "Introduction",
+    "file": "01-introduction.md"
+   },
+   {
+    "slug": "general-ch03-02",
+    "seq": "02",
+    "title": "Addition of Whole Numbers",
+    "file": "02-addition-of-whole-numbers.md"
+   },
+   {
+    "slug": "general-ch03-03",
+    "seq": "03",
+    "title": "Subtraction of Whole Numbers",
+    "file": "03-subtraction-of-whole-numbers.md"
+   },
+   {
+    "slug": "general-ch03-04",
+    "seq": "04",
+    "title": "Division of Whole Numbers",
+    "file": "04-division-of-whole-numbers.md"
+   },
+   {
+    "slug": "general-ch03-05",
+    "seq": "05",
+    "title": "Fractions",
+    "file": "05-fractions.md"
+   },
+   {
+    "slug": "general-ch03-06",
+    "seq": "06",
+    "title": "Finding the Least Common Denominator",
+    "file": "06-finding-the-least-common-denominator.md"
+   },
+   {
+    "slug": "general-ch03-07",
+    "seq": "07",
+    "title": "Addition of Fractions",
+    "file": "07-addition-of-fractions.md"
+   },
+   {
+    "slug": "general-ch03-08",
+    "seq": "08",
+    "title": "Subtraction of Fractions",
+    "file": "08-subtraction-of-fractions.md"
+   },
+   {
+    "slug": "general-ch03-09",
+    "seq": "09",
+    "title": "Multiplication of Fractions",
+    "file": "09-multiplication-of-fractions.md"
+   },
+   {
+    "slug": "general-ch03-10",
+    "seq": "10",
+    "title": "Division of Fractions",
+    "file": "10-division-of-fractions.md"
+   },
+   {
+    "slug": "general-ch03-11",
+    "seq": "11",
+    "title": "Reducing Fractions",
+    "file": "11-reducing-fractions.md"
+   },
+   {
+    "slug": "general-ch03-12",
+    "seq": "12",
+    "title": "Addition of Mixed Numbers",
+    "file": "12-addition-of-mixed-numbers.md"
+   },
+   {
+    "slug": "general-ch03-13",
+    "seq": "13",
+    "title": "Subtraction of Mixed Numbers",
+    "file": "13-subtraction-of-mixed-numbers.md"
+   },
+   {
+    "slug": "general-ch03-14",
+    "seq": "14",
+    "title": "Origin and Definition",
+    "file": "14-origin-and-definition.md"
+   },
+   {
+    "slug": "general-ch03-15",
+    "seq": "15",
+    "title": "Addition of Decimal Numbers",
+    "file": "15-addition-of-decimal-numbers.md"
+   },
+   {
+    "slug": "general-ch03-16",
+    "seq": "16",
+    "title": "Subtraction of Decimal Numbers",
+    "file": "16-subtraction-of-decimal-numbers.md"
+   },
+   {
+    "slug": "general-ch03-17",
+    "seq": "17",
+    "title": "Multiplication of Decimal Numbers",
+    "file": "17-multiplication-of-decimal-numbers.md"
+   },
+   {
+    "slug": "general-ch03-18",
+    "seq": "18",
+    "title": "Division of Decimal Numbers",
+    "file": "18-division-of-decimal-numbers.md"
+   },
+   {
+    "slug": "general-ch03-19",
+    "seq": "19",
+    "title": "Rounding Off Decimal Numbers",
+    "file": "19-rounding-off-decimal-numbers.md"
+   },
+   {
+    "slug": "general-ch03-20",
+    "seq": "20",
+    "title": "Converting Decimal Numbers to Fractions",
+    "file": "20-converting-decimal-numbers-to-fractions.md"
+   },
+   {
+    "slug": "general-ch03-21",
+    "seq": "21",
+    "title": "Converting Fractions to Decimals",
+    "file": "21-converting-fractions-to-decimals.md"
+   },
+   {
+    "slug": "general-ch03-22",
+    "seq": "22",
+    "title": "Ratio",
+    "file": "22-ratio.md"
+   },
+   {
+    "slug": "general-ch03-23",
+    "seq": "23",
+    "title": "Aviation Applications",
+    "file": "23-aviation-applications.md"
+   },
+   {
+    "slug": "general-ch03-24",
+    "seq": "24",
+    "title": "Extremes and Means",
+    "file": "24-extremes-and-means.md"
+   },
+   {
+    "slug": "general-ch03-25",
+    "seq": "25",
+    "title": "Solving Proportions",
+    "file": "25-solving-proportions.md"
+   },
+   {
+    "slug": "general-ch03-26",
+    "seq": "26",
+    "title": "Finding What Percentage One Number is of Another",
+    "file": "26-finding-what-percentage-one-number-is-of-another.md"
+   },
+   {
+    "slug": "general-ch03-27",
+    "seq": "27",
+    "title": "Expressing a Decimal Number as a Percentage",
+    "file": "27-expressing-a-decimal-number-as-a-percentage.md"
+   },
+   {
+    "slug": "general-ch03-28",
+    "seq": "28",
+    "title": "Expressing a Percentage as a Decimal Number",
+    "file": "28-expressing-a-percentage-as-a-decimal-number.md"
+   },
+   {
+    "slug": "general-ch03-29",
+    "seq": "29",
+    "title": "Expressing a Fraction as a Percentage",
+    "file": "29-expressing-a-fraction-as-a-percentage.md"
+   },
+   {
+    "slug": "general-ch03-30",
+    "seq": "30",
+    "title": "Finding a Number When a Percentage of it is Known",
+    "file": "30-finding-a-number-when-a-percentage-of-it-is-known.md"
+   },
+   {
+    "slug": "general-ch03-31",
+    "seq": "31",
+    "title": "Addition of Positive & Negative Numbers",
+    "file": "31-addition-of-positive-negative-numbers.md"
+   },
+   {
+    "slug": "general-ch03-32",
+    "seq": "32",
+    "title": "Subtraction of Positive & Negative Numbers",
+    "file": "32-subtraction-of-positive-negative-numbers.md"
+   },
+   {
+    "slug": "general-ch03-33",
+    "seq": "33",
+    "title": "Multiplication of Positive & Negative Numbers",
+    "file": "33-multiplication-of-positive-negative-numbers.md"
+   },
+   {
+    "slug": "general-ch03-34",
+    "seq": "34",
+    "title": "Powers",
+    "file": "34-powers.md"
+   },
+   {
+    "slug": "general-ch03-35",
+    "seq": "35",
+    "title": "Squared",
+    "file": "35-squared.md"
+   },
+   {
+    "slug": "general-ch03-36",
+    "seq": "36",
+    "title": "Cubed",
+    "file": "36-cubed.md"
+   },
+   {
+    "slug": "general-ch03-37",
+    "seq": "37",
+    "title": "Power of Zero",
+    "file": "37-power-of-zero.md"
+   },
+   {
+    "slug": "general-ch03-38",
+    "seq": "38",
+    "title": "Law of Exponents",
+    "file": "38-law-of-exponents.md"
+   },
+   {
+    "slug": "general-ch03-39",
+    "seq": "39",
+    "title": "Powers of Ten",
+    "file": "39-powers-of-ten.md"
+   },
+   {
+    "slug": "general-ch03-40",
+    "seq": "40",
+    "title": "Square Roots",
+    "file": "40-square-roots.md"
+   },
+   {
+    "slug": "general-ch03-51",
+    "seq": "51",
+    "title": "Solving for a Variable",
+    "file": "51-solving-for-a-variable.md"
+   },
+   {
+    "slug": "general-ch03-52",
+    "seq": "52",
+    "title": "Use of Parentheses",
+    "file": "52-use-of-parentheses.md"
+   },
+   {
+    "slug": "general-ch03-53",
+    "seq": "53",
+    "title": "Order of Operation",
+    "file": "53-order-of-operation.md"
+   },
+   {
+    "slug": "general-ch03-54",
+    "seq": "54",
+    "title": "Computing Area of Two-Dimensional Solids",
+    "file": "54-computing-area-of-two-dimensional-solids.md"
+   },
+   {
+    "slug": "general-ch03-55",
+    "seq": "55",
+    "title": "Rectangle",
+    "file": "55-rectangle.md"
+   },
+   {
+    "slug": "general-ch03-56",
+    "seq": "56",
+    "title": "Square",
+    "file": "56-square.md"
+   },
+   {
+    "slug": "general-ch03-57",
+    "seq": "57",
+    "title": "Triangle",
+    "file": "57-triangle.md"
+   }
+  ]
+ },
+ {
   "chapter": "general-ch04",
   "book": "general",
   "bookEn": "General",
   "bookZh": "通用",
   "num": "04",
   "titleEn": "Aircraft Drawings",
-  "count": 11,
+  "count": 54,
   "cards": [
    {
     "slug": "general-ch04-01",
@@ -2771,6 +3064,264 @@ window.AMT_CARDS = [
     "seq": "11",
     "title": "Half Section",
     "file": "11-half-section.md"
+   },
+   {
+    "slug": "general-ch04-12",
+    "seq": "12",
+    "title": "Removed Section",
+    "file": "12-removed-section.md"
+   },
+   {
+    "slug": "general-ch04-13",
+    "seq": "13",
+    "title": "Title Blocks",
+    "file": "13-title-blocks.md"
+   },
+   {
+    "slug": "general-ch04-14",
+    "seq": "14",
+    "title": "Drawing or Print Numbers",
+    "file": "14-drawing-or-print-numbers.md"
+   },
+   {
+    "slug": "general-ch04-15",
+    "seq": "15",
+    "title": "Reference and Dash Numbers",
+    "file": "15-reference-and-dash-numbers.md"
+   },
+   {
+    "slug": "general-ch04-16",
+    "seq": "16",
+    "title": "Universal Numbering System",
+    "file": "16-universal-numbering-system.md"
+   },
+   {
+    "slug": "general-ch04-17",
+    "seq": "17",
+    "title": "Drawing Standards",
+    "file": "17-drawing-standards.md"
+   },
+   {
+    "slug": "general-ch04-18",
+    "seq": "18",
+    "title": "Bill of Material",
+    "file": "18-bill-of-material.md"
+   },
+   {
+    "slug": "general-ch04-19",
+    "seq": "19",
+    "title": "Revision Block",
+    "file": "19-revision-block.md"
+   },
+   {
+    "slug": "general-ch04-20",
+    "seq": "20",
+    "title": "Notes",
+    "file": "20-notes.md"
+   },
+   {
+    "slug": "general-ch04-21",
+    "seq": "21",
+    "title": "Zone Numbers",
+    "file": "21-zone-numbers.md"
+   },
+   {
+    "slug": "general-ch04-22",
+    "seq": "22",
+    "title": "Station Numbers & Location Identification on Aircraft",
+    "file": "22-station-numbers-location-identification-on-aircraft.md"
+   },
+   {
+    "slug": "general-ch04-23",
+    "seq": "23",
+    "title": "Allowances & Tolerances",
+    "file": "23-allowances-tolerances.md"
+   },
+   {
+    "slug": "general-ch04-24",
+    "seq": "24",
+    "title": "Finish Marks",
+    "file": "24-finish-marks.md"
+   },
+   {
+    "slug": "general-ch04-25",
+    "seq": "25",
+    "title": "Scale",
+    "file": "25-scale.md"
+   },
+   {
+    "slug": "general-ch04-26",
+    "seq": "26",
+    "title": "Application",
+    "file": "26-application.md"
+   },
+   {
+    "slug": "general-ch04-27",
+    "seq": "27",
+    "title": "Applied Geometry",
+    "file": "27-applied-geometry.md"
+   },
+   {
+    "slug": "general-ch04-28",
+    "seq": "28",
+    "title": "Orthographic Projection Drawings",
+    "file": "28-orthographic-projection-drawings.md"
+   },
+   {
+    "slug": "general-ch04-29",
+    "seq": "29",
+    "title": "Pictorial Drawings",
+    "file": "29-pictorial-drawings.md"
+   },
+   {
+    "slug": "general-ch04-30",
+    "seq": "30",
+    "title": "Diagrams",
+    "file": "30-diagrams.md"
+   },
+   {
+    "slug": "general-ch04-31",
+    "seq": "31",
+    "title": "Flowcharts",
+    "file": "31-flowcharts.md"
+   },
+   {
+    "slug": "general-ch04-32",
+    "seq": "32",
+    "title": "Lines and Their Meanings",
+    "file": "32-lines-and-their-meanings.md"
+   },
+   {
+    "slug": "general-ch04-33",
+    "seq": "33",
+    "title": "Centerlines",
+    "file": "33-centerlines.md"
+   },
+   {
+    "slug": "general-ch04-34",
+    "seq": "34",
+    "title": "Dimension Lines",
+    "file": "34-dimension-lines.md"
+   },
+   {
+    "slug": "general-ch04-35",
+    "seq": "35",
+    "title": "Extension Lines",
+    "file": "35-extension-lines.md"
+   },
+   {
+    "slug": "general-ch04-36",
+    "seq": "36",
+    "title": "Phantom Lines",
+    "file": "36-phantom-lines.md"
+   },
+   {
+    "slug": "general-ch04-37",
+    "seq": "37",
+    "title": "Break Lines",
+    "file": "37-break-lines.md"
+   },
+   {
+    "slug": "general-ch04-38",
+    "seq": "38",
+    "title": "Outline or Visible Lines",
+    "file": "38-outline-or-visible-lines.md"
+   },
+   {
+    "slug": "general-ch04-39",
+    "seq": "39",
+    "title": "Stitch Lines",
+    "file": "39-stitch-lines.md"
+   },
+   {
+    "slug": "general-ch04-40",
+    "seq": "40",
+    "title": "Cutting Plane and Viewing Plane Lines",
+    "file": "40-cutting-plane-and-viewing-plane-lines.md"
+   },
+   {
+    "slug": "general-ch04-41",
+    "seq": "41",
+    "title": "Drawing Symbols",
+    "file": "41-drawing-symbols.md"
+   },
+   {
+    "slug": "general-ch04-42",
+    "seq": "42",
+    "title": "Material Symbols",
+    "file": "42-material-symbols.md"
+   },
+   {
+    "slug": "general-ch04-43",
+    "seq": "43",
+    "title": "Shape Symbols",
+    "file": "43-shape-symbols.md"
+   },
+   {
+    "slug": "general-ch04-44",
+    "seq": "44",
+    "title": "Electrical Symbols",
+    "file": "44-electrical-symbols.md"
+   },
+   {
+    "slug": "general-ch04-45",
+    "seq": "45",
+    "title": "Reading and Interpreting Drawings",
+    "file": "45-reading-and-interpreting-drawings.md"
+   },
+   {
+    "slug": "general-ch04-46",
+    "seq": "46",
+    "title": "Drawing Sketches",
+    "file": "46-drawing-sketches.md"
+   },
+   {
+    "slug": "general-ch04-47",
+    "seq": "47",
+    "title": "Sketching Techniques",
+    "file": "47-sketching-techniques.md"
+   },
+   {
+    "slug": "general-ch04-48",
+    "seq": "48",
+    "title": "Basic Shapes",
+    "file": "48-basic-shapes.md"
+   },
+   {
+    "slug": "general-ch04-49",
+    "seq": "49",
+    "title": "Repair Sketches",
+    "file": "49-repair-sketches.md"
+   },
+   {
+    "slug": "general-ch04-50",
+    "seq": "50",
+    "title": "Care of Drafting Instruments",
+    "file": "50-care-of-drafting-instruments.md"
+   },
+   {
+    "slug": "general-ch04-51",
+    "seq": "51",
+    "title": "Graphs & Charts",
+    "file": "51-graphs-charts.md"
+   },
+   {
+    "slug": "general-ch04-52",
+    "seq": "52",
+    "title": "Nomograms",
+    "file": "52-nomograms.md"
+   },
+   {
+    "slug": "general-ch04-53",
+    "seq": "53",
+    "title": "Microfilm & Microfiche",
+    "file": "53-microfilm-microfiche.md"
+   },
+   {
+    "slug": "general-ch04-54",
+    "seq": "54",
+    "title": "Digital Images",
+    "file": "54-digital-images.md"
    }
   ]
  }
