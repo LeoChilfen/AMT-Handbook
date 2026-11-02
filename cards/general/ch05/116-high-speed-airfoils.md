@@ -34,12 +34,69 @@ These two wing designs are shown in Figure 5-80.
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段对应翻译，术语按行业惯例（如 tie-down 系留、fireguard 消防警戒员） -->
+跨声速飞行是飞机最难飞的飞行状态，因为机翼的一部分处于亚声速气流中，另一部分处于超声速气流中。对亚声速翼型而言，空气动力中心（即支撑点）大约位于机翼前缘向后 25% 处。在超声速飞行中，空气动力中心后移到机翼弦长的 50% 处，使飞机的操纵性和稳定性发生一些显著变化。
+
+如果一架为亚声速飞行（比如马赫数 0.80）设计的飞机飞得过快而进入跨声速飞行，机翼上方的气流就会发生一些明显变化。图 5-79 用六个视图示出同一机翼，各视图的马赫数依次升高。
+
+六个视图所对应的情况如下：
+
+A. 马赫数相当低，整个机翼都处于亚声速气流中。
+
+B. 速度已达到临界马赫数，机翼上表面的气流速度达到马赫数 1。
+
+C. 速度已超过临界马赫数，机翼上表面形成一道正激波，激波后方开始出现部分气流分离。
+
+D. 速度继续增大并超过临界马赫数，正激波已后移到足够靠后的位置，出现严重的气流分离。此时机翼下表面也开始形成正激波。在正激波
+
+（此处为图内文字，略）
+
+之后，气流速度为亚声速，静压已升高。
+
+E. 速度增大到机翼上下表面的两道激波都移到机翼后部并附着在后缘上。
+
+仍有部分气流分离在发生。
+
+F. 翼型的前进速度大于马赫数 1，在机翼前缘之前不远处形成了一道新的激波。如果机翼是尖前缘，激波就会附着在尖缘上。
+
+图 5-79 所示的翼型并未针对超声速气流做过恰当设计。如果机翼采用双楔形或双凸形设计，F 视图中机翼前缘前方的头波就会附着在前缘上。
+
+这两种机翼设计如图 5-80 所示。
 
 ## 3. 专业词汇
 
-<!-- TODO: 表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 条 -->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| aerodynamic center | n. phr. | 空气动力中心 | 亚声速时在前缘后 25%，超声速时后移到 50% 弦长处 |
+| chord | n. | 弦长 | 翼型前后缘的连线长度，超声速时空气动力中心以它计位置 |
+| transonic flight | n. phr. | 跨声速飞行 | 机翼上亚、超声速气流并存的飞行状态，本节称最难飞的区间 |
+| critical Mach number | n. phr. | 临界马赫数 | 上表面气流首次达到马赫数 1 的速度，B 视图的状态 |
+| bow wave | n. phr. | 头波 | 超声速时竖在机翼前方的激波，F 视图所示 |
+| double wedge | n. phr. | 双楔形 | 前缘尖锐的超声速翼型，头波可附着在尖缘上 |
+| biconvex | adj. | 双凸形 | 上下表面均为凸弧的薄翼型，同属超声速用翼型 |
+| airflow separation | n. phr. | 气流分离 | 激波后气流脱离翼面，C、D、E 视图逐步加剧 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，每条写「原句 / 拆解 / 要点」 -->
+### ① 同位语 or the point of support
+
+**原句**：For a subsonic airfoil, the aerodynamic center, or the point of support, is approximately 25 percent of the way back from the wing leading edge.
+
+**拆解**：For a subsonic airfoil 是范围状语（对……而言）；主语 the aerodynamic center 后接 or the point of support 作同位语；谓语 is；表语 approximately 25 percent of the way back from the wing leading edge。
+
+**要点**：or 引出的同位语是对前面术语换一种说法，让读者用更直白的词理解专业名词，翻译时可加「即」。25 percent of the way back from… 是手册常用的位置表达，意为「从前缘往后 25% 处」，不能直译成「往回的路的 25%」。
+
+### ② 过去分词短语作定语 + if 条件从句 + take place
+
+**原句**：If an airplane designed to fly subsonic, perhaps at a Mach number of 0.80, flies too fast and enters transonic flight, some noticeable changes will take place with respect to the airflow over the wing.
+
+**拆解**：If 引导条件从句，主语 an airplane 后接过去分词短语 designed to fly subsonic 作定语，其间插入 perhaps at a Mach number of 0.80 补充说明；从句谓语是并列的 flies too fast and enters transonic flight；主句 some noticeable changes will take place with respect to the airflow over the wing，with respect to 意为「在……方面」。
+
+**要点**：designed to… 是压缩了的定语从句（= that is designed to…）。三个动词 flies / enters / will take place 分属条件和主句，注意时态：条件从句用一般现在时，主句用将来时。take place 是不及物短语，不能用于被动。
+
+### ③ far enough … that 结果状语从句 + 现在完成时
+
+**原句**：The velocity has continued to increase beyond the critical Mach number, and the normal shock wave has moved far enough aft that serious airflow separation is occurring.
+
+**拆解**：两个并列分句都用现在完成时 has continued / has moved，强调到当前这一视图为止的累积变化；第二分句中 far enough aft 是「足够靠后」，其后 that serious airflow separation is occurring 是 enough … that … 引导的结果状语从句。
+
+**要点**：enough 修饰形容词或副词时必须后置（far enough 对，enough far 错），结果从句用 that 引导。此处 that 从句用现在进行时，描述激波走到该位置时正在发生的状态，与前面的完成时形成「先到、后正在发生」的时间层次。

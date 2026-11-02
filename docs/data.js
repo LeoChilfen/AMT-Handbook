@@ -3530,7 +3530,7 @@ window.AMT_CARDS = [
   "bookZh": "通用",
   "num": "05",
   "titleEn": "Physics for Aviation",
-  "count": 60,
+  "count": 123,
   "cards": [
    {
     "slug": "general-ch05-01",
@@ -3593,16 +3593,160 @@ window.AMT_CARDS = [
     "file": "10-force.md"
    },
    {
+    "slug": "general-ch05-100",
+    "seq": "100",
+    "title": "Static Stability",
+    "file": "100-static-stability.md"
+   },
+   {
+    "slug": "general-ch05-101",
+    "seq": "101",
+    "title": "Dynamic Stability",
+    "file": "101-dynamic-stability.md"
+   },
+   {
+    "slug": "general-ch05-102",
+    "seq": "102",
+    "title": "Longitudinal Stability",
+    "file": "102-longitudinal-stability.md"
+   },
+   {
+    "slug": "general-ch05-103",
+    "seq": "103",
+    "title": "Lateral Stability",
+    "file": "103-lateral-stability.md"
+   },
+   {
+    "slug": "general-ch05-104",
+    "seq": "104",
+    "title": "Directional Stability",
+    "file": "104-directional-stability.md"
+   },
+   {
+    "slug": "general-ch05-105",
+    "seq": "105",
+    "title": "Dutch Roll",
+    "file": "105-dutch-roll.md"
+   },
+   {
+    "slug": "general-ch05-106",
+    "seq": "106",
+    "title": "Flight Control Surfaces",
+    "file": "106-flight-control-surfaces.md"
+   },
+   {
+    "slug": "general-ch05-107",
+    "seq": "107",
+    "title": "Flight Controls & the Lateral Axis",
+    "file": "107-flight-controls-the-lateral-axis.md"
+   },
+   {
+    "slug": "general-ch05-108",
+    "seq": "108",
+    "title": "Flight Controls and the Longitudinal Axis",
+    "file": "108-flight-controls-and-the-longitudinal-axis.md"
+   },
+   {
+    "slug": "general-ch05-109",
+    "seq": "109",
+    "title": "Flight Controls and the Vertical Axis",
+    "file": "109-flight-controls-and-the-vertical-axis.md"
+   },
+   {
     "slug": "general-ch05-11",
     "seq": "11",
     "title": "Work",
     "file": "11-work.md"
    },
    {
+    "slug": "general-ch05-110",
+    "seq": "110",
+    "title": "Tabs",
+    "file": "110-tabs.md"
+   },
+   {
+    "slug": "general-ch05-111",
+    "seq": "111",
+    "title": "Supplemental Lift-Modifying Devices",
+    "file": "111-supplemental-lift-modifying-devices.md"
+   },
+   {
+    "slug": "general-ch05-112",
+    "seq": "112",
+    "title": "Compressibility Effects",
+    "file": "112-compressibility-effects.md"
+   },
+   {
+    "slug": "general-ch05-113",
+    "seq": "113",
+    "title": "The Speed of Sound",
+    "file": "113-the-speed-of-sound.md"
+   },
+   {
+    "slug": "general-ch05-114",
+    "seq": "114",
+    "title": "Subsonic, Transonic, and Supersonic Flight",
+    "file": "114-subsonic-transonic-and-supersonic-flight.md"
+   },
+   {
+    "slug": "general-ch05-115",
+    "seq": "115",
+    "title": "Shock Waves",
+    "file": "115-shock-waves.md"
+   },
+   {
+    "slug": "general-ch05-116",
+    "seq": "116",
+    "title": "High-Speed Airfoils",
+    "file": "116-high-speed-airfoils.md"
+   },
+   {
+    "slug": "general-ch05-117",
+    "seq": "117",
+    "title": "Aerodynamic Heating",
+    "file": "117-aerodynamic-heating.md"
+   },
+   {
+    "slug": "general-ch05-118",
+    "seq": "118",
+    "title": "Helicopter Aerodynamics",
+    "file": "118-helicopter-aerodynamics.md"
+   },
+   {
+    "slug": "general-ch05-119",
+    "seq": "119",
+    "title": "Helicopter Structures and Airfoils",
+    "file": "119-helicopter-structures-and-airfoils.md"
+   },
+   {
     "slug": "general-ch05-12",
     "seq": "12",
     "title": "Friction & Work",
     "file": "12-friction-work.md"
+   },
+   {
+    "slug": "general-ch05-120",
+    "seq": "120",
+    "title": "Helicopter Axes of Flight",
+    "file": "120-helicopter-axes-of-flight.md"
+   },
+   {
+    "slug": "general-ch05-121",
+    "seq": "121",
+    "title": "Helicopters in Flight",
+    "file": "121-helicopters-in-flight.md"
+   },
+   {
+    "slug": "general-ch05-122",
+    "seq": "122",
+    "title": "Weight-Shift Control, Flexible Wing Aircraft Aerodynamics",
+    "file": "122-weight-shift-control-flexible-wing-aircraft-aerodynamics.md"
+   },
+   {
+    "slug": "general-ch05-123",
+    "seq": "123",
+    "title": "Powered Parachute Aerodynamics",
+    "file": "123-powered-parachute-aerodynamics.md"
    },
    {
     "slug": "general-ch05-13",
@@ -3891,6 +4035,240 @@ window.AMT_CARDS = [
     "seq": "60",
     "title": "Charles’ Law",
     "file": "60-charles-law.md"
+   },
+   {
+    "slug": "general-ch05-61",
+    "seq": "61",
+    "title": "General Gas Law",
+    "file": "61-general-gas-law.md"
+   },
+   {
+    "slug": "general-ch05-62",
+    "seq": "62",
+    "title": "Dalton’s Law",
+    "file": "62-dalton-s-law.md"
+   },
+   {
+    "slug": "general-ch05-63",
+    "seq": "63",
+    "title": "Fluid Mechanics",
+    "file": "63-fluid-mechanics.md"
+   },
+   {
+    "slug": "general-ch05-64",
+    "seq": "64",
+    "title": "Buoyancy",
+    "file": "64-buoyancy.md"
+   },
+   {
+    "slug": "general-ch05-65",
+    "seq": "65",
+    "title": "Fluid Pressure",
+    "file": "65-fluid-pressure.md"
+   },
+   {
+    "slug": "general-ch05-66",
+    "seq": "66",
+    "title": "Pascal’s Law",
+    "file": "66-pascal-s-law.md"
+   },
+   {
+    "slug": "general-ch05-67",
+    "seq": "67",
+    "title": "Bernoulli’s Principle",
+    "file": "67-bernoulli-s-principle.md"
+   },
+   {
+    "slug": "general-ch05-68",
+    "seq": "68",
+    "title": "Sound",
+    "file": "68-sound.md"
+   },
+   {
+    "slug": "general-ch05-69",
+    "seq": "69",
+    "title": "Wave Motion",
+    "file": "69-wave-motion.md"
+   },
+   {
+    "slug": "general-ch05-70",
+    "seq": "70",
+    "title": "Speed of Sound",
+    "file": "70-speed-of-sound.md"
+   },
+   {
+    "slug": "general-ch05-71",
+    "seq": "71",
+    "title": "Mach Number",
+    "file": "71-mach-number.md"
+   },
+   {
+    "slug": "general-ch05-72",
+    "seq": "72",
+    "title": "Frequency of Sound",
+    "file": "72-frequency-of-sound.md"
+   },
+   {
+    "slug": "general-ch05-73",
+    "seq": "73",
+    "title": "Loudness",
+    "file": "73-loudness.md"
+   },
+   {
+    "slug": "general-ch05-74",
+    "seq": "74",
+    "title": "Measurement of Sound Intensity",
+    "file": "74-measurement-of-sound-intensity.md"
+   },
+   {
+    "slug": "general-ch05-75",
+    "seq": "75",
+    "title": "Doppler Effect",
+    "file": "75-doppler-effect.md"
+   },
+   {
+    "slug": "general-ch05-76",
+    "seq": "76",
+    "title": "Resonance",
+    "file": "76-resonance.md"
+   },
+   {
+    "slug": "general-ch05-77",
+    "seq": "77",
+    "title": "The Atmosphere",
+    "file": "77-the-atmosphere.md"
+   },
+   {
+    "slug": "general-ch05-78",
+    "seq": "78",
+    "title": "Composition of the Atmosphere",
+    "file": "78-composition-of-the-atmosphere.md"
+   },
+   {
+    "slug": "general-ch05-79",
+    "seq": "79",
+    "title": "Atmospheric Pressure",
+    "file": "79-atmospheric-pressure.md"
+   },
+   {
+    "slug": "general-ch05-80",
+    "seq": "80",
+    "title": "Atmospheric Density",
+    "file": "80-atmospheric-density.md"
+   },
+   {
+    "slug": "general-ch05-81",
+    "seq": "81",
+    "title": "Water Content of the Atmosphere",
+    "file": "81-water-content-of-the-atmosphere.md"
+   },
+   {
+    "slug": "general-ch05-82",
+    "seq": "82",
+    "title": "Absolute Humidity",
+    "file": "82-absolute-humidity.md"
+   },
+   {
+    "slug": "general-ch05-83",
+    "seq": "83",
+    "title": "Relative Humidity",
+    "file": "83-relative-humidity.md"
+   },
+   {
+    "slug": "general-ch05-84",
+    "seq": "84",
+    "title": "Dew Point",
+    "file": "84-dew-point.md"
+   },
+   {
+    "slug": "general-ch05-85",
+    "seq": "85",
+    "title": "Vapor Pressure",
+    "file": "85-vapor-pressure.md"
+   },
+   {
+    "slug": "general-ch05-86",
+    "seq": "86",
+    "title": "Standard Atmosphere",
+    "file": "86-standard-atmosphere.md"
+   },
+   {
+    "slug": "general-ch05-87",
+    "seq": "87",
+    "title": "Aircraft Theory of Flight",
+    "file": "87-aircraft-theory-of-flight.md"
+   },
+   {
+    "slug": "general-ch05-88",
+    "seq": "88",
+    "title": "Four Forces of Flight",
+    "file": "88-four-forces-of-flight.md"
+   },
+   {
+    "slug": "general-ch05-89",
+    "seq": "89",
+    "title": "Bernoulli’s Principle and Subsonic Flow",
+    "file": "89-bernoulli-s-principle-and-subsonic-flow.md"
+   },
+   {
+    "slug": "general-ch05-90",
+    "seq": "90",
+    "title": "Lift and Newton’s Third Law",
+    "file": "90-lift-and-newton-s-third-law.md"
+   },
+   {
+    "slug": "general-ch05-91",
+    "seq": "91",
+    "title": "Airfoils",
+    "file": "91-airfoils.md"
+   },
+   {
+    "slug": "general-ch05-92",
+    "seq": "92",
+    "title": "Camber",
+    "file": "92-camber.md"
+   },
+   {
+    "slug": "general-ch05-93",
+    "seq": "93",
+    "title": "Chord Line",
+    "file": "93-chord-line.md"
+   },
+   {
+    "slug": "general-ch05-94",
+    "seq": "94",
+    "title": "Angle of Attack",
+    "file": "94-angle-of-attack.md"
+   },
+   {
+    "slug": "general-ch05-95",
+    "seq": "95",
+    "title": "Boundary Layer Airflow",
+    "file": "95-boundary-layer-airflow.md"
+   },
+   {
+    "slug": "general-ch05-96",
+    "seq": "96",
+    "title": "Boundary Layer Control",
+    "file": "96-boundary-layer-control.md"
+   },
+   {
+    "slug": "general-ch05-97",
+    "seq": "97",
+    "title": "Wingtip Vortices",
+    "file": "97-wingtip-vortices.md"
+   },
+   {
+    "slug": "general-ch05-98",
+    "seq": "98",
+    "title": "Axes of an Aircraft",
+    "file": "98-axes-of-an-aircraft.md"
+   },
+   {
+    "slug": "general-ch05-99",
+    "seq": "99",
+    "title": "Aircraft Stability",
+    "file": "99-aircraft-stability.md"
    }
   ]
  }

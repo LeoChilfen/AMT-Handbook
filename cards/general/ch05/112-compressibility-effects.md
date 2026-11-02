@@ -8,12 +8,42 @@ When air is flowing at subsonic speed, it acts like an incompressible fluid. As 
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段对应翻译，术语按行业惯例（如 tie-down 系留、fireguard 消防警戒员） -->
+当空气以亚声速流动时，其表现如同不可压缩流体。正如本章前面所讨论的，亚声速空气流过渐扩形通道时速度下降、静压升高，但空气的密度不变；流过渐缩形通道时，亚声速空气加速、静压下降。而超声速空气流过渐缩形通道时，速度下降，压力和密度都升高。在超声速流动中，空气的表现如同可压缩流体。由于空气在超声速流动时行为不同，作超声速飞行的飞机必须采用形状不同的机翼。
 
 ## 3. 专业词汇
 
-<!-- TODO: 表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 条 -->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| incompressible fluid | n. phr. | 不可压缩流体 | 亚声速空气的近似模型，密度视为不随压力变化 |
+| compressible fluid | n. phr. | 可压缩流体 | 超声速空气的模型，密度随压力和速度变化 |
+| diverging passage | n. phr. | 渐扩形通道 | 流通面积沿流向扩大的管道，亚声速时减速增压 |
+| converging passage | n. phr. | 渐缩形通道 | 流通面积沿流向收缩的管道，超声速时反而减速增压 |
+| static pressure | n. phr. | 静压 | 气流本身的压力，与动压相对，本节描述其随通道形状的升降 |
+| density | n. | 密度 | 亚声速时不变、超声速时随压力升高的关键区别点 |
+| supersonic | adj. | 超声速的 | 流速大于声速的流动或飞行状态 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，每条写「原句 / 拆解 / 要点」 -->
+### ① When 时间状语从句 + 现在进行时表状态
+
+**原句**：When air is flowing at subsonic speed, it acts like an incompressible fluid.
+
+**拆解**：When air is flowing at subsonic speed 是时间状语从句，用现在进行时表示一种持续的状态；主句 it acts like an incompressible fluid，act like 意为「表现得像」，后接名词。
+
+**要点**：科技英语讲流体特性时常用进行时描述「在……流动过程中」的持续状态，并不强调动作正在发生。act like / behave like 是描述流体行为的固定搭配，译作「表现为、其行为如同」；写成 acts as 也可，但 as 后一般接身份、角色。
+
+### ② As discussed earlier in this chapter（as + 过去分词作状语）
+
+**原句**：As discussed earlier in this chapter, when air at subsonic speed flows through a diverging shaped passage, the velocity decreases and the static pressure rises, but the density of the air does not change.
+
+**拆解**：As discussed earlier in this chapter 是 as + 过去分词短语作状语，表示「正如前面所讨论的」，其逻辑主语是后面整个主句；when air at subsonic speed flows through a diverging shaped passage 是时间状语从句；主句由 the velocity decreases and the static pressure rises 与 but the density of the air does not change 两个并列分句构成。
+
+**要点**：as discussed / as stated / as shown 是技术文献回指前文的固定套语，as 后省掉了 it is。注意三个谓语分属不同主语（velocity、pressure、density），用 but 而不是 and，因为密度「不变」与前两者「变化」相反。
+
+### ③ 省略的状语从句 when flowing + because 原因从句
+
+**原句**：Because air behaves differently when flowing at supersonic velocity, airplanes that fly supersonic must have wings with a different shape.
+
+**拆解**：Because 引导原因状语从句；从句内 when flowing at supersonic velocity 是 when it flows… 的省略形式，只保留 -ing；主句主语 airplanes 后接 that fly supersonic 定语从句，谓语 must have。
+
+**要点**：when + -ing 相当于 when it flows…，省略的主语 air 与前文一致，读者要能回指；不能写成 when flow。airplanes that fly supersonic 中 supersonic 是副词性用法，等于 fly at supersonic speed，不要误当作形容词修饰 airplanes。

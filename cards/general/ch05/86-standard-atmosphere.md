@@ -12,12 +12,46 @@ Pressure at 0 altitude (P0) = 29.92 "Hg Temperature at 0 altitude (T0) = 15 °C 
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段对应翻译，术语按行业惯例（如 tie-down 系留、fireguard 消防警戒员） -->
+如果要以试飞或风洞试验来计算航空器的性能，就必须先确定某种标准的基准条件，以便把结果与同类试验的结果作比较。大气中的条件不断变化，一般不可能在两天、甚至连续两次飞行中获得完全相同的一组条件。为此，必须采用一组标准作为参照基准。目前美国使用的一组标准条件称为美国标准大气。
+
+标准大气近似表示 40° 纬度处存在的平均条件，并基于以下假设确定。标准海平面条件为：
+
+0 高度处的压力（P0）= 29.92 "Hg；0 高度处的温度（T0）= 15 °C 或 59 °F；0 高度处的重力加速度（G0）= 32.174 fps/s。美国标准大气在其共有的高度范围内与国际民用航空组织（ICAO）标准大气一致。ICAO 标准大气已被世界上大多数主要国家采纳为标准。
 
 ## 3. 专业词汇
 
-<!-- TODO: 表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 条 -->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| standard atmosphere | n. phr. | 标准大气 | 人为规定的一组基准温压条件，用于性能换算与比较 |
+| reference condition | n. phr. | 基准条件 | 比较性能数据时的共同起点 |
+| flight test | n. phr. | 试飞 | 用实机飞行获取性能数据的方法 |
+| wind tunnel test | n. phr. | 风洞试验 | 与试飞并列的性能数据来源 |
+| sea level condition | n. phr. | 海平面条件 | 标准大气的起点：29.92 "Hg、15 °C、32.174 fps/s |
+| latitude | n. | 纬度 | 标准大气取 40° 纬度的平均条件作代表 |
+| ICAO | abbr. | 国际民用航空组织 | 其标准大气与美国标准大气在共有高度范围内一致 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，每条写「原句 / 拆解 / 要点」 -->
+### ① If 条件从句 + must be determined（被动）+ in order to
+
+**原句**：If the performance of an aircraft is computed, either through flight tests or wind tunnel tests, some standard reference condition must be determined first in order to compare results with those of similar tests.
+
+**拆解**：If 引导条件状语从句，从句谓语 is computed 为被动；either through flight tests or wind tunnel tests 是插入的方式状语，说明计算所依据的手段；主句 some standard reference condition must be determined first（情态被动）；in order to compare results with those of similar tests 为目的状语，those 替代 results。
+
+**要点**：手册在讲「必须先做什么」时几乎都用 must be + 过去分词，把执行者隐去。those of similar tests 中的 those 是避免重复 results 的代词，只能替代复数名词（单数用 that）。either … or … 插在两个逗号之间时是补充说明，读句时可先跳过，抓住 If … must be determined 的主干。
+
+### ② it 作形式主语 + 真正主语后置
+
+**原句**：The conditions in the atmosphere vary continuously, and it is generally not possible to obtain exactly the same set of conditions on two different days or even on two successive flights.
+
+**拆解**：and 连接两个并列分句；第一分句主语 The conditions in the atmosphere，谓语 vary；第二分句中 it 是形式主语，真正的主语是后面的不定式短语 to obtain exactly the same set of conditions …，is not possible 是谓语部分。
+
+**要点**：it is possible / impossible / necessary / difficult to do sth 是技术文本的高频句型，it 本身无实义，不能译成「它」。翻译时把不定式提前：「一般不可能获得完全相同的一组条件」。注意 not possible 与 impossible 语气不同，原文用 not possible 留有余地。
+
+### ③ 现在完成时被动 + adopt … as …
+
+**原句**：The ICAO Standard Atmosphere has been adopted as standard by most of the principal nations of the world.
+
+**拆解**：主语 The ICAO Standard Atmosphere；谓语 has been adopted 为现在完成时被动，强调「至今已被采纳」的结果；as standard 是主语补足语（adopt A as B 的被动形式）；by most of the principal nations of the world 引出施动者。
+
+**要点**：adopt … as … 意为「采纳……作为……」，被动时 as 短语保留在动词后。现在完成时被动 has been adopted 表示状态延续到现在，比一般过去时 was adopted 更强调现行有效性；描述现行规章、标准时常用这一时态。
