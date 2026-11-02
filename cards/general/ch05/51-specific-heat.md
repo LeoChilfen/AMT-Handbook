@@ -18,12 +18,53 @@ The specific heat values of some common materials are listed in Figure 5-30.
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段对应翻译，术语按行业惯例（如 tie-down 系留、fireguard 消防警戒员） -->
+物质之间一个重要的差别在于：要使一定质量的物质产生相同的温度变化，所需的热量各不相同。
+
+每种物质都需要一定的热量才能使其单位质量升温 1 °C，这个热量称为该物质的比热容。某物质的比热，是该物质的比热容与水的比热容之比。
+
+比热用一个数值表示；由于它是一个比值，所以没有单位，英制与公制都适用。
+
+幸运的是，水的比热容很高。
+
+地球上较大的水体使地表及地表附近的空气和固体物质保持恒定的温度。要改变大湖或大河的温度，需要极大的热量。因此，当气温降到这类水体的温度以下时，它们就放出大量的热。这一过程使地球表面的气温不致迅速变化。
+
+一些常见材料的比热值列于图 5-30。
 
 ## 3. 专业词汇
 
-<!-- TODO: 表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 条 -->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| specific heat capacity | n. phr. | 比热容 | 使单位质量物质升温 1 °C 所需的热量，与「比热」是两个不同的量 |
+| specific heat | n. phr. | 比热 | 某物质比热容与水的比热容之比，无量纲 |
+| ratio | n. | 比值 | 比热是比值，因此没有单位，英制与公制通用 |
+| given mass | n. phr. | 给定质量、一定质量 | 比较「升温相同、需热不同」时的前提条件 |
+| give off | phr. v. | 放出、散发 | 水温高于气温时向四周放出大量热量 |
+| bodies of water | n. phr. | 水体 | 指湖泊、河流等大水体，起稳定地表气温的作用 |
+| constant temperature | n. phr. | 恒定温度 | 大水体使地表及近地面空气维持的温度状态 |
+| metric system | n. | 公制、米制 | 与 English system（英制）相对，比热对两者通用 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，每条写「原句 / 拆解 / 要点」 -->
+### ① in which 引导的定语从句
+
+**原句**：One important way in which substances differ is in the requirement of different quantities of heat to produce the same temperature change in a given mass of the substance.
+
+**拆解**：主语 One important way，被 in which substances differ（= in this way substances differ）这一定语从句修饰；系动词 is；表语为介词短语 in the requirement of different quantities of heat；不定式 to produce the same temperature change 作后置定语说明 requirement；in a given mass of the substance 是范围状语。
+
+**要点**：way 后接定语从句时关系词可用 in which、that，或干脆省略，唯独不能用 how（the way how … 是典型错误）。全句骨架是 A way … is in the requirement …，即「差别存在于需求上」；先对齐 be 前后的成分，再回头处理 which 从句，句子就不会读散。
+
+### ② 定语从句中插入 because 从句，主句谓语并列
+
+**原句**：Specific heat is expressed as a number which, because it is a ratio, has no units and applies to both the English and the metric systems.
+
+**拆解**：主句 Specific heat is expressed as a number（被动）；which 引导定语从句修饰 a number，从句主语是 which，because it is a ratio 是插入的原因状语从句，从句谓语为并列的 has no units 和 applies to …。
+
+**要点**：关系代词 which 与它的谓语 has 之间插了一整个 because 从句，读的时候容易找不到谓语；把插入部分括起来，句子就是 which has no units and applies to …。be expressed as 是「表示为、用……表示」的固定搭配，不要按字面译成「被表达为」。
+
+### ③ keep … from doing（阻止某事发生）
+
+**原句**：This process keeps the atmospheric temperature at the surface of the earth from changing rapidly.
+
+**拆解**：主语 This process；谓语 keeps；宾语 the atmospheric temperature；at the surface of the earth 是修饰 temperature 的介词短语；from changing rapidly 是介词短语作宾语补足语，说明「使之不……」。
+
+**要点**：keep + 宾语 + from + 动名词 = 使……不……；from 不能省，省掉后 keep doing 变成「一直做」，语义完全相反。同类还有 prevent / stop … from doing；而 protect … from 是「保护……免受」，三者常被混用。

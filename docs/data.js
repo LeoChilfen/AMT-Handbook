@@ -2704,7 +2704,7 @@ window.AMT_CARDS = [
   "bookZh": "通用",
   "num": "03",
   "titleEn": "Mathematics in Aviation Maintenance",
-  "count": 47,
+  "count": 80,
   "cards": [
    {
     "slug": "general-ch03-01",
@@ -2947,6 +2947,66 @@ window.AMT_CARDS = [
     "file": "40-square-roots.md"
    },
    {
+    "slug": "general-ch03-41",
+    "seq": "41",
+    "title": "Cube Roots",
+    "file": "41-cube-roots.md"
+   },
+   {
+    "slug": "general-ch03-42",
+    "seq": "42",
+    "title": "Fractional Powers",
+    "file": "42-fractional-powers.md"
+   },
+   {
+    "slug": "general-ch03-43",
+    "seq": "43",
+    "title": "Functions of Numbers Chart",
+    "file": "43-functions-of-numbers-chart.md"
+   },
+   {
+    "slug": "general-ch03-44",
+    "seq": "44",
+    "title": "Scientific Notation",
+    "file": "44-scientific-notation.md"
+   },
+   {
+    "slug": "general-ch03-45",
+    "seq": "45",
+    "title": "Converting Numbers from Standard Notation to Scientific Notation",
+    "file": "45-converting-numbers-from-standard-notation-to-scientific-notation.md"
+   },
+   {
+    "slug": "general-ch03-46",
+    "seq": "46",
+    "title": "Converting Numbers from Scientific Notation to Standard Notation",
+    "file": "46-converting-numbers-from-scientific-notation-to-standard-notation.md"
+   },
+   {
+    "slug": "general-ch03-47",
+    "seq": "47",
+    "title": "Addition, Subtraction, Multiplication, and Division of Scientific Numbers",
+    "file": "47-addition-subtraction-multiplication-and-division-of-scientific-numbers.md"
+   },
+   {
+    "slug": "general-ch03-48",
+    "seq": "48",
+    "title": "Algebra",
+    "file": "48-algebra.md"
+   },
+   {
+    "slug": "general-ch03-49",
+    "seq": "49",
+    "title": "Equations",
+    "file": "49-equations.md"
+   },
+   {
+    "slug": "general-ch03-50",
+    "seq": "50",
+    "title": "Algebraic Rules",
+    "file": "50-algebraic-rules.md"
+   },
+   {
     "slug": "general-ch03-51",
     "seq": "51",
     "title": "Solving for a Variable",
@@ -2987,6 +3047,144 @@ window.AMT_CARDS = [
     "seq": "57",
     "title": "Triangle",
     "file": "57-triangle.md"
+   },
+   {
+    "slug": "general-ch03-58",
+    "seq": "58",
+    "title": "Parallelogram",
+    "file": "58-parallelogram.md"
+   },
+   {
+    "slug": "general-ch03-59",
+    "seq": "59",
+    "title": "Ellipse",
+    "file": "59-ellipse.md"
+   },
+   {
+    "slug": "general-ch03-60",
+    "seq": "60",
+    "title": "Units of Area",
+    "file": "60-units-of-area.md"
+   },
+   {
+    "slug": "general-ch03-61",
+    "seq": "61",
+    "title": "Computing Volume of Three-Dimensional Solids",
+    "file": "61-computing-volume-of-three-dimensional-solids.md"
+   },
+   {
+    "slug": "general-ch03-62",
+    "seq": "62",
+    "title": "Rectangular Solid",
+    "file": "62-rectangular-solid.md"
+   },
+   {
+    "slug": "general-ch03-63",
+    "seq": "63",
+    "title": "Cube",
+    "file": "63-cube.md"
+   },
+   {
+    "slug": "general-ch03-64",
+    "seq": "64",
+    "title": "Cylinder",
+    "file": "64-cylinder.md"
+   },
+   {
+    "slug": "general-ch03-65",
+    "seq": "65",
+    "title": "Sphere",
+    "file": "65-sphere.md"
+   },
+   {
+    "slug": "general-ch03-66",
+    "seq": "66",
+    "title": "Cone",
+    "file": "66-cone.md"
+   },
+   {
+    "slug": "general-ch03-67",
+    "seq": "67",
+    "title": "Units of Volume",
+    "file": "67-units-of-volume.md"
+   },
+   {
+    "slug": "general-ch03-68",
+    "seq": "68",
+    "title": "Computing Surface Area of Three-Dimensional Solids",
+    "file": "68-computing-surface-area-of-three-dimensional-solids.md"
+   },
+   {
+    "slug": "general-ch03-69",
+    "seq": "69",
+    "title": "Cube",
+    "file": "69-cube.md"
+   },
+   {
+    "slug": "general-ch03-70",
+    "seq": "70",
+    "title": "Cone",
+    "file": "70-cone.md"
+   },
+   {
+    "slug": "general-ch03-71",
+    "seq": "71",
+    "title": "Right Triangle, Sides, and Angles",
+    "file": "71-right-triangle-sides-and-angles.md"
+   },
+   {
+    "slug": "general-ch03-72",
+    "seq": "72",
+    "title": "Sine, Cosine, and Tangent",
+    "file": "72-sine-cosine-and-tangent.md"
+   },
+   {
+    "slug": "general-ch03-73",
+    "seq": "73",
+    "title": "Calculator Method:",
+    "file": "73-calculator-method.md"
+   },
+   {
+    "slug": "general-ch03-74",
+    "seq": "74",
+    "title": "Pythagorean Theorem",
+    "file": "74-pythagorean-theorem.md"
+   },
+   {
+    "slug": "general-ch03-75",
+    "seq": "75",
+    "title": "Conventional (U.S. or English) System",
+    "file": "75-conventional-u-s-or-english-system.md"
+   },
+   {
+    "slug": "general-ch03-76",
+    "seq": "76",
+    "title": "Metric System",
+    "file": "76-metric-system.md"
+   },
+   {
+    "slug": "general-ch03-77",
+    "seq": "77",
+    "title": "Measurement Systems & Conversions",
+    "file": "77-measurement-systems-conversions.md"
+   },
+   {
+    "slug": "general-ch03-78",
+    "seq": "78",
+    "title": "The Binary Number System",
+    "file": "78-the-binary-number-system.md"
+   },
+   {
+    "slug": "general-ch03-79",
+    "seq": "79",
+    "title": "Converting Binary Numbers to Decimal Numbers",
+    "file": "79-converting-binary-numbers-to-decimal-numbers.md"
+   },
+   {
+    "slug": "general-ch03-80",
+    "seq": "80",
+    "title": "Converting Decimal Numbers to Binary Numbers",
+    "file": "80-converting-decimal-numbers-to-binary-numbers.md"
    }
   ]
  },
@@ -3322,6 +3520,377 @@ window.AMT_CARDS = [
     "seq": "54",
     "title": "Digital Images",
     "file": "54-digital-images.md"
+   }
+  ]
+ },
+ {
+  "chapter": "general-ch05",
+  "book": "general",
+  "bookEn": "General",
+  "bookZh": "通用",
+  "num": "05",
+  "titleEn": "Physics for Aviation",
+  "count": 60,
+  "cards": [
+   {
+    "slug": "general-ch05-01",
+    "seq": "01",
+    "title": "Physics for Aviation",
+    "file": "01-physics-for-aviation.md"
+   },
+   {
+    "slug": "general-ch05-02",
+    "seq": "02",
+    "title": "Matter",
+    "file": "02-matter.md"
+   },
+   {
+    "slug": "general-ch05-03",
+    "seq": "03",
+    "title": "Mass & Weight",
+    "file": "03-mass-weight.md"
+   },
+   {
+    "slug": "general-ch05-04",
+    "seq": "04",
+    "title": "Attraction",
+    "file": "04-attraction.md"
+   },
+   {
+    "slug": "general-ch05-05",
+    "seq": "05",
+    "title": "Density",
+    "file": "05-density.md"
+   },
+   {
+    "slug": "general-ch05-06",
+    "seq": "06",
+    "title": "Specific Gravity",
+    "file": "06-specific-gravity.md"
+   },
+   {
+    "slug": "general-ch05-07",
+    "seq": "07",
+    "title": "Energy",
+    "file": "07-energy.md"
+   },
+   {
+    "slug": "general-ch05-08",
+    "seq": "08",
+    "title": "Potential Energy",
+    "file": "08-potential-energy.md"
+   },
+   {
+    "slug": "general-ch05-09",
+    "seq": "09",
+    "title": "Kinetic Energy",
+    "file": "09-kinetic-energy.md"
+   },
+   {
+    "slug": "general-ch05-10",
+    "seq": "10",
+    "title": "Force",
+    "file": "10-force.md"
+   },
+   {
+    "slug": "general-ch05-11",
+    "seq": "11",
+    "title": "Work",
+    "file": "11-work.md"
+   },
+   {
+    "slug": "general-ch05-12",
+    "seq": "12",
+    "title": "Friction & Work",
+    "file": "12-friction-work.md"
+   },
+   {
+    "slug": "general-ch05-13",
+    "seq": "13",
+    "title": "Static Friction",
+    "file": "13-static-friction.md"
+   },
+   {
+    "slug": "general-ch05-14",
+    "seq": "14",
+    "title": "Sliding Friction",
+    "file": "14-sliding-friction.md"
+   },
+   {
+    "slug": "general-ch05-15",
+    "seq": "15",
+    "title": "Rolling Friction",
+    "file": "15-rolling-friction.md"
+   },
+   {
+    "slug": "general-ch05-16",
+    "seq": "16",
+    "title": "Power",
+    "file": "16-power.md"
+   },
+   {
+    "slug": "general-ch05-17",
+    "seq": "17",
+    "title": "Torque",
+    "file": "17-torque.md"
+   },
+   {
+    "slug": "general-ch05-18",
+    "seq": "18",
+    "title": "Simple Machines",
+    "file": "18-simple-machines.md"
+   },
+   {
+    "slug": "general-ch05-19",
+    "seq": "19",
+    "title": "Mechanical Advantage of Machines",
+    "file": "19-mechanical-advantage-of-machines.md"
+   },
+   {
+    "slug": "general-ch05-20",
+    "seq": "20",
+    "title": "The Lever",
+    "file": "20-the-lever.md"
+   },
+   {
+    "slug": "general-ch05-21",
+    "seq": "21",
+    "title": "First Class Lever",
+    "file": "21-first-class-lever.md"
+   },
+   {
+    "slug": "general-ch05-22",
+    "seq": "22",
+    "title": "The Pulley",
+    "file": "22-the-pulley.md"
+   },
+   {
+    "slug": "general-ch05-23",
+    "seq": "23",
+    "title": "Single Fixed Pulley",
+    "file": "23-single-fixed-pulley.md"
+   },
+   {
+    "slug": "general-ch05-24",
+    "seq": "24",
+    "title": "Single Movable Pulley",
+    "file": "24-single-movable-pulley.md"
+   },
+   {
+    "slug": "general-ch05-25",
+    "seq": "25",
+    "title": "Second Class Lever",
+    "file": "25-second-class-lever.md"
+   },
+   {
+    "slug": "general-ch05-26",
+    "seq": "26",
+    "title": "Third Class Lever",
+    "file": "26-third-class-lever.md"
+   },
+   {
+    "slug": "general-ch05-27",
+    "seq": "27",
+    "title": "Block and Tackle",
+    "file": "27-block-and-tackle.md"
+   },
+   {
+    "slug": "general-ch05-28",
+    "seq": "28",
+    "title": "The Gear",
+    "file": "28-the-gear.md"
+   },
+   {
+    "slug": "general-ch05-29",
+    "seq": "29",
+    "title": "Inclined Plane",
+    "file": "29-inclined-plane.md"
+   },
+   {
+    "slug": "general-ch05-30",
+    "seq": "30",
+    "title": "Stress",
+    "file": "30-stress.md"
+   },
+   {
+    "slug": "general-ch05-31",
+    "seq": "31",
+    "title": "Tension",
+    "file": "31-tension.md"
+   },
+   {
+    "slug": "general-ch05-32",
+    "seq": "32",
+    "title": "Compression",
+    "file": "32-compression.md"
+   },
+   {
+    "slug": "general-ch05-33",
+    "seq": "33",
+    "title": "Torsion",
+    "file": "33-torsion.md"
+   },
+   {
+    "slug": "general-ch05-34",
+    "seq": "34",
+    "title": "Bending",
+    "file": "34-bending.md"
+   },
+   {
+    "slug": "general-ch05-35",
+    "seq": "35",
+    "title": "Shear",
+    "file": "35-shear.md"
+   },
+   {
+    "slug": "general-ch05-36",
+    "seq": "36",
+    "title": "Strain",
+    "file": "36-strain.md"
+   },
+   {
+    "slug": "general-ch05-37",
+    "seq": "37",
+    "title": "Motion",
+    "file": "37-motion.md"
+   },
+   {
+    "slug": "general-ch05-38",
+    "seq": "38",
+    "title": "Uniform Motion",
+    "file": "38-uniform-motion.md"
+   },
+   {
+    "slug": "general-ch05-39",
+    "seq": "39",
+    "title": "Speed and Velocity",
+    "file": "39-speed-and-velocity.md"
+   },
+   {
+    "slug": "general-ch05-40",
+    "seq": "40",
+    "title": "Acceleration",
+    "file": "40-acceleration.md"
+   },
+   {
+    "slug": "general-ch05-41",
+    "seq": "41",
+    "title": "First Law",
+    "file": "41-first-law.md"
+   },
+   {
+    "slug": "general-ch05-42",
+    "seq": "42",
+    "title": "Second Law",
+    "file": "42-second-law.md"
+   },
+   {
+    "slug": "general-ch05-43",
+    "seq": "43",
+    "title": "Third Law",
+    "file": "43-third-law.md"
+   },
+   {
+    "slug": "general-ch05-44",
+    "seq": "44",
+    "title": "Circular Motion",
+    "file": "44-circular-motion.md"
+   },
+   {
+    "slug": "general-ch05-45",
+    "seq": "45",
+    "title": "Heat",
+    "file": "45-heat.md"
+   },
+   {
+    "slug": "general-ch05-46",
+    "seq": "46",
+    "title": "Heat Energy Units",
+    "file": "46-heat-energy-units.md"
+   },
+   {
+    "slug": "general-ch05-47",
+    "seq": "47",
+    "title": "Heat Energy and Thermal Efficiency",
+    "file": "47-heat-energy-and-thermal-efficiency.md"
+   },
+   {
+    "slug": "general-ch05-48",
+    "seq": "48",
+    "title": "Conduction",
+    "file": "48-conduction.md"
+   },
+   {
+    "slug": "general-ch05-49",
+    "seq": "49",
+    "title": "Convection",
+    "file": "49-convection.md"
+   },
+   {
+    "slug": "general-ch05-50",
+    "seq": "50",
+    "title": "Radiation",
+    "file": "50-radiation.md"
+   },
+   {
+    "slug": "general-ch05-51",
+    "seq": "51",
+    "title": "Specific Heat",
+    "file": "51-specific-heat.md"
+   },
+   {
+    "slug": "general-ch05-52",
+    "seq": "52",
+    "title": "Temperature",
+    "file": "52-temperature.md"
+   },
+   {
+    "slug": "general-ch05-53",
+    "seq": "53",
+    "title": "Thermal Expansion/Contraction",
+    "file": "53-thermal-expansion-contraction.md"
+   },
+   {
+    "slug": "general-ch05-54",
+    "seq": "54",
+    "title": "Pressure",
+    "file": "54-pressure.md"
+   },
+   {
+    "slug": "general-ch05-55",
+    "seq": "55",
+    "title": "Gauge Pressure",
+    "file": "55-gauge-pressure.md"
+   },
+   {
+    "slug": "general-ch05-56",
+    "seq": "56",
+    "title": "Absolute Pressure",
+    "file": "56-absolute-pressure.md"
+   },
+   {
+    "slug": "general-ch05-57",
+    "seq": "57",
+    "title": "Differential Pressure",
+    "file": "57-differential-pressure.md"
+   },
+   {
+    "slug": "general-ch05-58",
+    "seq": "58",
+    "title": "Gas Laws",
+    "file": "58-gas-laws.md"
+   },
+   {
+    "slug": "general-ch05-59",
+    "seq": "59",
+    "title": "Boyle’s Law",
+    "file": "59-boyle-s-law.md"
+   },
+   {
+    "slug": "general-ch05-60",
+    "seq": "60",
+    "title": "Charles’ Law",
+    "file": "60-charles-law.md"
    }
   ]
  }

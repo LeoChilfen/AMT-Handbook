@@ -18,12 +18,53 @@ Weight = Mass × Gravity
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段对应翻译，术语按行业惯例（如 tie-down 系留、fireguard 消防警戒员） -->
+质量（mass）是衡量一个物体中物质多少的量度。换句话说，就是该物体中有多少个分子、多少个原子，或者更具体地说，该物体中有多少个质子、中子和电子。无论把物体带到宇宙中的什么地方，也无论其状态如何变化，物体的质量都不会改变。改变物体质量的唯一办法是增加或减少原子。用数学方式，质量可表述如下：
+
+Mass = Weight ÷ Acceleration due to gravity 地球上的重力加速度为 32.2 英尺每二次方秒（32.2 fps/s）。在地球上重 32.2 磅（lb）的物体，其质量被认为是 1 slug（斯勒格）。
+
+slug（斯勒格）是一种质量单位：当施加 1 磅的力时，它将产生 1 ft./s2 的加速度。换句话说，在标准大气条件下（即重力等于 32.2 fps/s），一 slug 的质量等于 32.2 lb。
+
+重量（weight）是衡量重力作用于物体质量所产生的拉力的量度。物体的质量越大，在地球重力作用下就越重。物体失去重量的唯一途径是重力消失，因为物体的质量不可能消失。当我们观看航天飞机上的航天员时，似乎他们是失重的。尽管航天飞机远离地球表面，重力并未完全消失，航天员也并非失重。航天员与航天飞机实际上处于自由落体状态，因此相对于航天飞机，航天员看起来是失重的。
+
+用数学方式，重量可表述如下：
+
+Weight = Mass × Gravity
 
 ## 3. 专业词汇
 
-<!-- TODO: 表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 条 -->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| mass | n. | 质量 | 物体中物质多少的量度，不随位置或状态改变 |
+| weight | n. | 重量 | 重力对物体质量的拉力，随所在重力场改变 |
+| slug | n. | 斯勒格（英制质量单位） | 受 1 lb 力产生 1 ft/s2 加速度的质量，在地球上重 32.2 lb |
+| acceleration due to gravity | n. phr. | 重力加速度 | 地表取 32.2 fps/s，是质量与重量互换的常数 |
+| proton / neutron / electron | n. | 质子／中子／电子 | 比原子更细一层的粒子，用来界定物质多少 |
+| take away | phr. | 拿走、去掉 | 与 add 并列，是改变物体质量的唯一手段 |
+| weightless | adj. | 失重的 | 只有重力消失才真正失重，航天员只是处于自由落体 |
+| free fall | n. phr. | 自由落体 | 航天飞机与航天员的真实状态，解释「看似失重」 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，每条写「原句 / 拆解 / 要点」 -->
+### ① the more … the more … 比较结构
+
+**原句**：The more mass an object has, the more it will weigh under the earth’s force of gravity.
+
+**拆解**：两个 the + 比较级分句并列：前一分句 The more mass an object has（宾语 mass 前置），后一分句 the more it will weigh（程度状语前置），后者是主句。
+
+**要点**：此句型表示「越……就越……」，两边都要用 the + 比较级，不能写成 more mass…more it weighs。前一分句把宾语提到 the more 之后，语序是 the more + 名词 + 主语 + 谓语，属于固定倒装。weight 在此作动词「重达」，与名词 weight 同形。
+
+### ② which is that …：定语从句套表语从句
+
+**原句**：In other words, under standard atmospheric condition, which is that gravity is equal to 32.2 fps/s, a mass of one slug would be equal to 32.2 lb.
+
+**拆解**：主句 a mass of one slug would be equal to 32.2 lb；under standard atmospheric condition 是条件状语；which 引导非限制性定语从句修饰 condition，从句内 is 后接 that 引导的表语从句。
+
+**要点**：which is that… 这种「定语从句 + 表语从句」是定义术语的常用嵌套，that 只起引导作用、不作成分，不能换成 which。standard atmospheric condition 是「标准大气条件」的固定说法；would be equal to 用虚拟语气，表示「在那种条件下就相当于」。
+
+### ③ it is not possible for … to do（形式主语 + for 结构）
+
+**原句**：The only way for an object to be weightless is for gravity to go away, because it is not possible for the mass of an object to disappear.
+
+**拆解**：主句主语 The only way，后接 for an object to be weightless 作定语；表语是 for gravity to go away（for + 名词 + 不定式）；because 从句用 it 作形式主语，真正主语是 for the mass of an object to disappear。
+
+**要点**：for + 名词 + 不定式可作主语、表语、定语，逻辑主语由 for 引出。it is not possible for… to… 比直接说 the mass cannot disappear 更强调「不可能」。注意 possible 后接 to do，而 possibility 后接 of doing。

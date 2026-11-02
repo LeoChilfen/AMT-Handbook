@@ -14,12 +14,49 @@ The procedure for finding density applies to all substances; however, it is nece
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段对应翻译，术语按行业惯例（如 tie-down 系留、fireguard 消防警戒员） -->
+物质的密度（density）是其单位体积的重量。
+
+英制测量中所选用的单位体积是 1 立方英尺（ft3）。公制中则是 1 立方厘米（cm3）。因此，密度用磅每立方英尺（lb/ft3）或克每立方厘米（g/cm3）表示。
+
+要求出某物质的密度，必须已知其重量和体积。然后用体积去除重量，即得单位体积的重量。例如，充满某一容器的液体重 1,497.6 lb。该容器长 4 ft、宽 3 ft、深 2 ft，其体积为 24 ft3（4 ft. × 3 ft. × 2 ft.）。若 24 ft3 的液体重 1,497.6 lb，则 1 ft3 重 1,497.6 ÷ 24，即 62.4 lb。因此，该液体的密度为 62.4 lb/ft3。这就是水在 4 °C（摄氏）时的密度，通常用作比较其他物质密度的标准。在公制中，水的密度为 1 g/cm3。测量液体和固体的密度时采用 4 °C 这一标准温度。温度变化不会改变物质的重量，但会因膨胀或收缩而改变物质的体积，从而改变其单位体积的重量。
+
+求密度的方法适用于所有物质；但在求气体的密度时，必须考虑压力。测量气体密度时，压力比在其他物质中更为关键。气体的密度与施加于其上的压力成正比增加。测量气体密度的标准条件已确定为：温度 0 °C、压力 76 cm 汞柱（Hg），即海平面处大气的平均压力。所有气体的密度均按此条件计算。
 
 ## 3. 专业词汇
 
-<!-- TODO: 表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 条 -->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| density | n. | 密度 | 单位体积的重量，英制用 lb/ft3、公制用 g/cm3 |
+| unit volume | n. phr. | 单位体积 | 英制取 1 ft3、公制取 1 cm3，作为密度的基准量 |
+| English system | n. phr. | 英制 | 以英尺、磅为基本单位的计量体系 |
+| metric system | n. phr. | 公制 | 以厘米、克为基本单位的计量体系 |
+| expansion | n. | 膨胀 | 温度升高使体积变大，从而降低单位体积的重量 |
+| contraction | n. | 收缩 | 温度降低使体积变小，与 expansion 相对 |
+| in direct proportion to | phr. | 与……成正比 | 气体密度随所施压力等比例增大 |
+| mercury (Hg) | n. | 汞、水银 | 76 cm 汞柱即海平面平均大气压，是测气体密度的标准压力 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，每条写「原句 / 拆解 / 要点」 -->
+### ① 情态动词被动：must be known
+
+**原句**：To find the density of a substance, its weight and volume must be known.
+
+**拆解**：To find the density of a substance 是目的状语；主句主语 its weight and volume，谓语 must be known（情态动词 + be + 过去分词）。
+
+**要点**：技术文本说明「必须知道什么」时用被动，把「谁知道」隐去；must be known 不能写成 must know。同类还有 must be measured（必须测量）、should be recorded（应记录）。主语虽是并列两项，must be 的形式不随主语变化，这也是情态被动的便利之处。
+
+### ② if 条件句 + or 引出同位解释
+
+**原句**：If 24 ft3 of liquid weighs 1,497.6 lb, then 1 ft3 weighs 1,497.6 ÷ 24, or 62.4 lb.
+
+**拆解**：If 引导真实条件从句，主句用一般现在时 weighs；or 62.4 lb 是对前面 1,497.6 ÷ 24 的同位解释，意为「也就是 62.4 lb」。
+
+**要点**：科技英语里 or 常不表选择而表「即、也就是」，前面用逗号隔开，把算式与结果并列。真实条件句遵循「主将从现」，此处主句陈述客观事实，故用现在时。注意 lb 是单复数同形的单位缩写。
+
+### ③ thus + 现在分词作结果状语
+
+**原句**：Changes in temperature will not change the weight of a substance, but will change the volume of the substance by expansion or contraction, thus changing its weight per unit volume.
+
+**拆解**：主语 Changes in temperature，两个并列谓语 will not change … but will change …；by expansion or contraction 是方式状语；thus changing its weight per unit volume 是现在分词短语作结果状语。
+
+**要点**：thus / thereby + -ing 表示「从而……」，是技术文本描述因果链的常用收尾。分词短语的逻辑主语必须与主句主语一致（此处指温度变化），否则要改用从句。注意 weight 与 volume 在此都作不可数名词，不加 -s。

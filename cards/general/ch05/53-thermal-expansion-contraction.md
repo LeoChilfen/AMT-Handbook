@@ -20,12 +20,55 @@ The increase in the length of the rod is relatively small, but if the rod were p
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段对应翻译，术语按行业惯例（如 tie-down 系留、fireguard 消防警戒员） -->
+固体、液体和气体受热时都会发生热膨胀。除少数例外，固体受热膨胀、冷却收缩。与液体、气体的膨胀相比，固体受热时的膨胀非常微小，因为固体的分子彼此靠得近得多，相互之间的吸引力也强得多。流体的膨胀将在玻意耳定律的学习中讨论。固体的热膨胀与航空金属及材料关系密切，因此必须较为详细地加以说明。
+
+必须通过实验测定每一种物质的准确膨胀率，因为有些物质比另一些膨胀得多。任何物质的单位长度在温度每升高一度时的伸长量，称为该物质的线膨胀系数。各种材料的线膨胀系数见图 5-32。
+
+要估算任何物体（例如钢轨）的膨胀量，必须知道关于它的三件事：它的长度、它所受的温度升高值，以及它的膨胀系数。这一关系用下列方程表示：
+
+膨胀量 = (膨胀系数) × (长度) × (温度升高值)
+
+若一根钢杆在 21 °C 时长度恰为 9 ft，那么它在 55 °C 时的长度是多少？钢的膨胀系数为 11 × 10−6。
+
+膨胀量 = (1 1 × 10−6) × (9 feet) × 34°　膨胀量 = 0.003366 feet　把这一数值加到杆的原始长度上，杆长即为 9.003366 ft。其长度只增加了 4⁄100 in。
+
+杆长的增加量相对很小，但若把该杆装在无法自由膨胀的位置上，热膨胀就会产生极大的力。因此，在设计机体结构、动力装置或相关设备时，必须把热膨胀考虑在内。
 
 ## 3. 专业词汇
 
-<!-- TODO: 表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 条 -->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| thermal expansion | n. phr. | 热膨胀 | 固体、液体、气体受热时尺寸或体积增大的现象 |
+| contract | v. | 收缩 | 与 expand 相对，固体冷却时的表现 |
+| coefficient of linear expansion | n. phr. | 线膨胀系数 | 单位长度温度每升高一度的伸长量，本节计算的核心参数 |
+| rise in temperature | n. phr. | 温度升高值 | 估算膨胀量三要素之一（本例为 34°） |
+| subjected to | phr. | 承受、处于……作用之下 | the rise in temperature to which it is subjected：它所承受的温升 |
+| airframe | n. | 机体结构 | 设计时必须考虑热膨胀的对象之一 |
+| power plant | n. phr. | 动力装置 | 与机体结构、相关设备并列的设计考虑对象 |
+| tremendous force | n. phr. | 极大的力 | 杆件被约束、不能自由膨胀时产生的力 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，每条写「原句 / 拆解 / 要点」 -->
+### ① 形式主语 It + 不定式，副词插在动词与长宾语之间
+
+**原句**：It is necessary to measure experimentally the exact rate of expansion of each one because some substances expand more than others.
+
+**拆解**：It 是形式主语，真正的主语是 to measure experimentally the exact rate of expansion of each one；experimentally 是方式副词，插在 measure 与其宾语之间，因为宾语 the exact rate of expansion of each one 太长；because some substances expand more than others 是原因状语从句，more than others 为比较结构。
+
+**要点**：宾语过长时，副词常紧贴动词、放在宾语之前（measure experimentally the rate），而不是丢到句末，这与中文「用实验测定……的准确膨胀率」的语序正好一致。each one 指前文列举的每一种物质，不是「每一个实验」。
+
+### ② 与现在事实相反的虚拟条件句 + where 定语从句
+
+**原句**：The increase in the length of the rod is relatively small, but if the rod were placed where it could not expand freely, there would be a tremendous force exerted due to thermal expansion.
+
+**拆解**：if 从句用 were placed（虚拟语气 + 被动）；where it could not expand freely 是 where 引导的定语从句（先行词 the place 被省略）；主句 there would be a tremendous force exerted 中，exerted 是过去分词作 force 的后置定语，due to thermal expansion 说明原因。
+
+**要点**：be 动词虚拟式在正式文本中所有人称都用 were（if the rod were，不用 was）。where 前省略 the place 是定语从句常见省略；there be + 名词 + 过去分词（there would be a force exerted）把「被施加的力」压缩得很紧凑。due to 是「由于」，严格说修饰名词，此处说明 force 的来源。
+
+### ③ must be taken into consideration（固定短语的被动式）
+
+**原句**：Thus, thermal expansion must be taken into consideration when designing airframes, power plants, or related equipment.
+
+**拆解**：Thus 为连接副词；主语 thermal expansion；谓语 must be taken into consideration，是 take … into consideration 的被动式；when designing … 是「连词 + 现在分词」作时间状语，相当于 when one designs …。
+
+**要点**：take A into consideration / account 变被动时，宾语 A 提到主语位置，短语其余部分原样保留：A must be taken into consideration。同理还有 A must be taken into account、A should be given consideration。when + 分词要求分词的逻辑主语与主句主语一致，此处隐含动作的执行者是「设计者」。

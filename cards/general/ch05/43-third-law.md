@@ -14,12 +14,49 @@ When an aircraft propeller pushes a stream of air backward with a force of 500 l
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段对应翻译，术语按行业惯例（如 tie-down 系留、fireguard 消防警戒员） -->
+牛顿第三运动定律常被称为作用与反作用定律。该定律指出：每一个作用都有一个大小相等、方向相反的反作用。这意味着，如果对物体施加一个力，物体就会给出一个阻力，该阻力与所施加的力大小完全相等、方向相反。
+
+这条定律如何适用于静止的物体，很容易看出来。实际应用中，人站在地板上时，地板对他的双脚施加一个力，大小恰好等于他的体重。当力作用于运动中的物体时，这条定律同样适用。
+
+力总是成对出现。「作用力」一词指的是一个物体对第二个物体施加的力；而反作用力指的是第二个物体对第一个物体施加的力。
+
+当航空器螺旋桨以 500 lb 的力把气流向后推时，空气也以 500 lb 的力把桨叶向前推。这个向前的力使航空器向前运动。涡扇发动机对进入进气道的气流施加一个力，使气流加速并从风扇涵道和尾喷管排出。空气向后加速即为作用，而发动机内部使之发生的力即为反作用，也称为推力。
 
 ## 3. 专业词汇
 
-<!-- TODO: 表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 条 -->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| law of action and reaction | n. phr. | 作用与反作用定律 | 牛顿第三定律的别名 |
+| resistive force | n. phr. | 阻力、抵抗的力 | 物体对被施加的力所给出的反作用，大小相等、方向相反 |
+| acting force | n. phr. | 作用力 | 一个物体施加到第二个物体上的力 |
+| reacting force | n. phr. | 反作用力 | 第二个物体施加回第一个物体上的力 |
+| propeller | n. | 螺旋桨 | 本节以桨叶与气流各受 500 lb 的相互作用为例 |
+| turbofan | n. | 涡扇发动机 | 进入进气道的空气经风扇涵道与尾喷管加速排出 |
+| inlet duct | n. phr. | 进气道 | 空气进入发动机的通道 |
+| tailpipe | n. | 尾喷管 | 与风扇涵道并列的排气出口 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，每条写「原句 / 拆解 / 要点」 -->
+### ① there be 存在句：for every action there is an equal and opposite reaction
+
+**原句**：It states that for every action there is an equal and opposite reaction.
+
+**拆解**：It 指上句的 Newton’s third law of motion；states that 引导宾语从句；从句是 there be 存在句，状语 for every action 提到句首，真正的主语是 an equal and opposite reaction。
+
+**要点**：there be 表「存在」，不能写成 there have。谓语 be 与后面的主语一致，此处主语为单数，用 is。for every action 提前是为了与前半句呼应，正常语序是 there is an equal and opposite reaction for every action。equal and opposite 是固定搭配，译作「大小相等、方向相反」，不要译成「相等且相反的」。
+
+### ② 省略关系代词的定语从句：the force one body exerts on a second body
+
+**原句**：The term “acting force” means the force one body exerts on a second body, and reacting force means the force the second body exerts on the first.
+
+**拆解**：两个并列分句都以 means 作谓语。the force 后面直接跟 one body exerts on a second body，这是省略了关系代词 that/which 的定语从句（＝the force that one body exerts on a second body）；后一分句结构相同，the force the second body exerts on the first 中 the first 是 the first body 的省略。
+
+**要点**：关系代词在定语从句中作宾语时可以省略，这也是机务英文里长名词短语最常见的来源。阅读时先找从句里的主谓（one body exerts），再看它修饰前面的 the force。the first / the second 后省略 body，是避免重复的省略法；exert … on … 是「把……施加于……」的固定搭配。
+
+### ③ 现在分词短语作结果状语：causing it to accelerate
+
+**原句**：A turbofan engine exerts a force on the air entering the inlet duct, causing it to accelerate out the fan duct and the tailpipe.
+
+**拆解**：主干 A turbofan engine exerts a force on the air；entering the inlet duct 是现在分词短语作后置定语修饰 the air；逗号后 causing it to accelerate … 是现在分词短语作结果状语，it 指 the air。
+
+**要点**：逗号 + causing 表示前面动作自然导致的结果，译作「从而使……」。cause sb/sth to do 是「使……做」，to 不能省。accelerate out the fan duct 中 out 用作介词，表示「经……向外排出」，这类紧凑写法在手册里很常见，翻译时补出「从……排出」更顺。

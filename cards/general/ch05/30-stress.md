@@ -10,12 +10,45 @@ External force acting on an object causes the stress to manifest itself in one o
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段对应翻译，术语按行业惯例（如 tie-down 系留、fireguard 消防警戒员） -->
+只要机械处于运转状态——不论是杠杆、螺钉这样的简单机械，还是航空器活塞发动机、液压驱动起落架这类更复杂的机械——其零件与部件都会承受一种称为应力的作用。只要对物体施加外力，例如重物压在杠杆的一端，物体内部就会产生一种被称为应力的反作用。应力通常以每平方英尺磅数或每平方英寸磅数（psi）计量。
+
+作用在物体上的外力，使应力以五种形式之一、或这五种形式的组合表现出来。这五种形式是拉伸、压缩、扭转、弯曲和剪切。
 
 ## 3. 专业词汇
 
-<!-- TODO: 表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 条 -->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| stress | n. | 应力 | 本节主题：外力作用下物体内部产生的反作用，单位 psi |
+| external force | n. phr. | 外力 | 如压在杠杆一端的重物，是应力产生的原因 |
+| reaction | n. | 反作用（内应力） | 外力作用后物体内部产生的反作用，即所谓应力 |
+| tension | n. | 拉伸 | 五种应力形式之一，材料受拉 |
+| compression | n. | 压缩 | 五种应力形式之一，材料受压 |
+| torsion | n. | 扭转 | 五种应力形式之一，绕轴扭转 |
+| bending | n. | 弯曲 | 五种应力形式之一，轴线受弯 |
+| shear | n. | 剪切 | 五种应力形式之一，相邻截面错动 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，每条写「原句 / 拆解 / 要点」 -->
+### ① 让步倒装 be it A or B
+
+**原句**：Whenever a machine is in operation, be it a simple machine like a lever or a screw, or a more complex machine like an aircraft piston engine or a hydraulically operated landing gear, the parts and pieces of that machine will experience something called stress.
+
+**拆解**：Whenever 引导时间状语从句；be it a simple machine … or a more complex machine … 是让步状语，为省略 whether 的倒装（= whether it is A or B）；主句 the parts and pieces of that machine will experience something called stress，其中 called stress 为过去分词短语后置定语。
+
+**要点**：be it A or B 是书面语「不论是 A 还是 B」的固定倒装，把 be 提到主语前，不用 whether。汉语宜用破折号容纳这一长插入语。something called stress 比 a thing which is called stress 简洁，是技术文常见的压缩写法。
+
+### ② which 定语从句的先行词判断
+
+**原句**：Whenever an external force is applied to an object, like a weight pushing on the end of a lever, a reaction will occur inside the object which is known as stress.
+
+**拆解**：Whenever 引导时间状语从句，其中 an external force is applied to an object 为被动；like a weight pushing on the end of a lever 为插入举例（like + 名词 + 现在分词）；主句 a reaction will occur inside the object；which is known as stress 为非限制性定语从句。
+
+**要点**：从句紧挨 the object，但先行词是 a reaction——否则句意变成「被称为应力的物体」。两词同为单数，只能靠语义判断，这是定语从句最易错的地方。be known as 意为「被称为」，as 后接名词，不能换成 like。
+
+### ③ cause + 宾语 + 不定式 + 反身代词
+
+**原句**：External force acting on an object causes the stress to manifest itself in one of five forms, or combination of those five.
+
+**拆解**：主语 External force，其后 acting on an object 为现在分词短语作后置定语；谓语 causes + 宾语 the stress + 不定式 to manifest（宾语补足语）；manifest itself 中 itself 为反身代词，指 stress 自身；in one of five forms, or combination of those five 为介词短语作范围状语。
+
+**要点**：cause sb/sth to do 必须带 to，与 make sb do 不同，不可混用。manifest itself in… 是「以……形式表现出来」的固定搭配，反身代词不能省。or combination of those five 中 or 引出并列的另一种情形，译「或这五种形式的组合」。

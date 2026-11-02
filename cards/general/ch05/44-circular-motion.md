@@ -22,12 +22,57 @@ Centrifugal force Centripetal force B A WT “C” Centripetal Force = Mass (Vel
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段对应翻译，术语按行业惯例（如 tie-down 系留、fireguard 消防警戒员） -->
+圆周运动是物体沿半径恒定的曲线路径所做的运动。例如，把绳子的一端系在物体上、另一端握在手里，就可以使该物体做圆周摆动。由于绳子施加的拉力，物体不断偏离直线（线性）路径，如图 5-26 所示。当重物位于 A 点时，由于惯性，它想继续沿直线运动而到达 B 点。由于绳子施加的力，它被迫沿圆周路径运动而到达 C 点。
+
+绳子对物体施加向心力，而物体对绳子施加大小相等、方向相反的力，这符合牛顿第三运动定律。与向心力大小相等但方向相反的力，称为离心力。
+
+向心力总是与做圆周运动物体的质量成正比。因此，若图 5-26 中物体的质量加倍，则在物体速度保持恒定的前提下，绳子的拉力也必须加倍，才能让物体维持圆周路径。
+
+向心力与物体运动所在圆的半径成反比。若把图 5-26 中的绳子缩短而速度保持不变，则由于半径减小，绳子的拉力必须增大，绳子必须更快地把物体拉离其直线路径。按同样的推理，若使物体在轨道上摆得更快，绳子的拉力也必须增大。因此，向心力与物体速度的平方成正比。向心力的公式为：
+
+Centripetal Force = Mass (Velocity2) ÷ Radius 上式中的质量通常要换算成重量除以重力加速度，速度的单位为英尺每秒，半径的单位为英尺。（原文 Velocity2 即 Velocity² 的 OCR 压平写法。）
+
+例题：若一个 10 lb 的重物以 500 fps 的速度在半径 3 ft 的圆周路径上运动，其向心力为多少？
+
+（此处为图内文字，略：图中标注有离心力、向心力、A 点、B 点、C 点与 WT 等字样）Centripetal Force = Mass (Velocity2) ÷ Radius；Centripetal Force = 10 (5002) ÷ 32.2 (3)。（两式在原书中均为上下排列的分式，OCR 压平成一行；第二式实为 10 × 500² ÷ (32.2 × 3)。）
+
+= 25,880 lb 在例题所描述的条件下，该物体表现得比它实际重量重 2,588 倍。也可以说，该物体正承受 2,588 个 G，也就是 2,588 倍重力。大型涡扇发动机的风扇叶片在发动机以最大转速运转时，出于同样的原因要承受数千个 G。
 
 ## 3. 专业词汇
 
-<!-- TODO: 表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 条 -->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| circular motion | n. phr. | 圆周运动 | 沿半径恒定的曲线路径的运动；本节以绳系重物旋转为例 |
+| centripetal force | n. phr. | 向心力 | 绳子把物体拉向圆心、使其不断偏离直线的力 |
+| centrifugal force | n. phr. | 离心力 | 与向心力大小相等、方向相反的反作用力 |
+| radius | n. | 半径 | 圆周路径的半径，向心力与之成反比 |
+| deflect | v. | 使偏转、使偏离 | be deflected from a straight path 被拉离直线路径 |
+| inertia | n. | 惯性 | 重物在 A 点仍想沿直线走到 B 点的原因 |
+| Gs | n. | 重力倍数（G 值） | 2,588 Gs 即承受 2,588 倍重力；涡扇叶片可达数千 G |
+| rpm | abbr. | 每分钟转数 | maximum rpm 最大转速，此时风扇叶片承受极大 G 值 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，每条写「原句 / 拆解 / 要点」 -->
+### ① 被动语态 + 过去分词后置定语：is constantly deflected … by the pull exerted on the string
+
+**原句**：The object is constantly deflected from a straight (linear) path by the pull exerted on the string, as shown in Figure 5-26.
+
+**拆解**：主语 The object；谓语 is constantly deflected（一般现在时被动）；from a straight (linear) path 是状语；by the pull 引出动作的发出者；exerted on the string 是过去分词短语作后置定语修饰 the pull；as shown in Figure 5-26 是 as + 过去分词构成的非限制性成分。
+
+**要点**：exert a pull on sth（对……施加拉力）是固定搭配，变成被动后只剩过去分词 exerted 作定语。as shown in 是手册标注图号的固定说法，等于 as is shown in；图号保留原样，译文写「如图 5-26 所示」，不要另造图注。deflect 是及物动词，必须有宾语或用于被动。
+
+### ② provided (that) 引导条件状语从句
+
+**原句**：Thus, if the mass of the object in Figure 5-26 is doubled, the pull on the string must be doubled to keep the object in its circular path, provided the speed of the object remains constant.
+
+**拆解**：if 从句在前提出假设；主句 the pull on the string must be doubled；to keep the object in its circular path 是目的状语；provided the speed of the object remains constant 是后置条件状语从句，provided 相当于 if / on condition that。
+
+**要点**：provided (that) / providing (that) 是书面条件连词，比 if 更强调「前提是」。条件从句用一般现在时表将来，不用 will remain。must be doubled 是被动，double 在此为及物动词「使……加倍」；同一动词的两种用法（is doubled / must be doubled）在本句并列出现，注意区分主被动。
+
+### ③ 介词 + which 引导的定语从句：the circle in which an object travels
+
+**原句**：Centripetal force is inversely proportional to the radius of the circle in which an object travels.
+
+**拆解**：主语 Centripetal force；谓语 is inversely proportional to；宾语 the radius of the circle；in which an object travels 是「介词 + which」引导的定语从句修饰 the circle，which 指 circle，in which ＝ in the circle。
+
+**要点**：介词提前的定语从句在技术文本里很常见，等于 the circle which an object travels in，但介词提前更正式。directly / inversely proportional to 是「与……成正比／反比」的固定说法，proportional 后必须接 to，不能接 with。inversely 是由 inverse 加 -ly 构成的副词，修饰 proportional，不能用来修饰动词。

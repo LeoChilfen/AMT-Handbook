@@ -20,12 +20,55 @@ Example: Convert 0.000000457 from standard notation to scientific notation. To c
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段对应翻译，术语按行业惯例（如 tie-down 系留、fireguard 消防警戒员） -->
+例：按以下步骤把 1,244,000,000,000 转换为科学记数法。首先要注意，小数点位于最后一个零的右侧。（虽然通常不写出来，但可以认为它就在那里。）
+
+（此处为「数字函数表」（Functions of Numbers）数据表的残留：N = 1 至 50 各行的 Number、Square、Cube、Square Root、Cube Root、Circumference、Area 列值，属图表内容，略。）
+
+（图表列标题残留，按原序照录。）直径为 N 的圆的周长；直径为 N 的圆的面积；N 的平方根（√N）。
+
+（该表 N = 51 至 100 各行的同一组列值，属图表内容，略。）
+
+（图表列标题残留，按原序照录。）直径为 N 的圆的周长；直径为 N 的圆的面积；N 的平方根（√N）。
+
+1,244,000,000,000 = 1,244,000,000,000.0　要转换为科学记数法的格式，必须把小数点移到第一位与第二位数字之间。在本例中，这个位置在 1 与 2 之间。由于小数点必须向左移动 12 位才能到达该位置，所以 10 的幂为 12。记住，大数总是带正指数。因此，写成科学记数法时，1,244,000,000,000 = 1.244 × 1012。
+
+例：把 0.000000457 由标准记数法转换为科学记数法。要转换为科学记数法的格式，必须把小数点移到第一个与第二个数字之间，在本例中即 4 与 5 之间。由于小数点必须向右移动 7 位才能到达该位置，所以 10 的幂为 −7。记住，小数（小于 1 的数）带负指数。因此，写成科学记数法时，0.000000457 = 4.57 × 10-7。
 
 ## 3. 专业词汇
 
-<!-- TODO: 表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 条 -->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| standard notation | n. phr. | 标准记数法 | 与科学记数法相对的普通写法，如 1,244,000,000,000 |
+| scientific notation | n. phr. | 科学记数法 | 本节转换的目标格式 a × 10ⁿ |
+| decimal point | n. phr. | 小数点 | 需要移到前两位数字之间的对象 |
+| exponent | n. | 指数 | 幂上的数，大数为正、小数为负 |
+| power of 10 | n. phr. | 10 的幂 | 如 1012、10-7 |
+| positive/negative exponent | n. phr. | 正指数／负指数 | 大数用正指数，小于 1 的小数用负指数 |
+| digit | n. | 数字（位） | first and second digits 指前两位数字 |
+| place | n. | 位 | move 12 places 指移动 12 位 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，每条写「原句 / 拆解 / 要点」 -->
+### ① 不定式作目的状语 + 情态动词被动
+
+**原句**：To change to the format of scientific notation, the decimal point must be moved to the position between the first and second digits.
+
+**拆解**：To change to the format … 是不定式短语作目的状语；主句主语 the decimal point，谓语 must be moved 为「情态动词 + be + 过去分词」；to the position between … 是介词短语作地点状语，其中 between the first and second digits 作后置定语。
+
+**要点**：手册讲操作时大量用 must be + 过去分词，把执行者省略，译成中文用「必须把……」。between the first and second digits 中两个序数词共用一个 the、共用一个复数名词，等于 the first digit and the second digit。
+
+### ② since 引导的原因状语从句
+
+**原句**：Since the decimal point must be moved 12 places to the left to get there, the power of 10 is 12.
+
+**拆解**：Since 引导原因状语从句（由于……），从句中 must be moved 为情态被动，12 places 是距离状语，to the left 表方向，to get there 是目的状语；主句 the power of 10 is 12。
+
+**要点**：since 表原因时语气比 because 弱，常译「既然、由于」，多置于句首；它还可表时间「自从」，靠从句时态区分。12 places 中的 places 是「位数」，不是「地方」。
+
+### ③ 祈使句 + that 宾语从句
+
+**原句**：Remember that large numbers always have a positive exponent.
+
+**拆解**：Remember 为祈使句谓语（无主语），that 引导宾语从句；从句主语 large numbers，谓语 have，宾语 a positive exponent，always 位于实义动词之前。
+
+**要点**：技术文本用 Remember that … / Note that … 提醒读者，语气比 must 缓和；宾语从句必须用陈述语序（have a positive exponent），不能写成 do large numbers have。翻译时常处理成「记住，……」。
