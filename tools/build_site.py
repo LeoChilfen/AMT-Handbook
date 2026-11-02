@@ -1,4 +1,4 @@
-﻿"""Build the AMT-Handbook static site into docs/.
+"""Build the AMT-Handbook static site into docs/.
 
 No third-party dependencies: a small markdown renderer tailored to the note
 format (headings, tables, lists, blockquotes, fenced code, bold/italic/inline
@@ -352,6 +352,9 @@ def main():
                 cards = []
                 for fname in files:
                     text = read(os.path.join(src_dir, fname))
+                    # 未填完的卡片（还有 TODO 占位）先不上站
+                    if "TODO" in text:
+                        continue
                     first = ""
                     for line in text.splitlines():
                         if line.startswith("# "):

@@ -1,0 +1,54 @@
+# 14 CFR Part 39—Airworthiness Directives
+
+> 通用 Ch 02 · 14 CFR Part 39—Airworthiness Directives · 原文 PDF 第 58 页
+
+## 1. 原文
+
+In spite of all the emphasis on proper design and certification testing, sometimes the actual day-to-day use of the aircraft causes unanticipated wear or failure to occur. When that happens, if the FAA determines that the wear or failure represents an unsafe condition and that the condition is likely to exist in other products of the same type of design, it issues an AD. Actual AD notes are not included in 14 CFR part 39, but rather are printed in the Federal Register and are linked to this part as amendments to 14 CFR part 39, section 39.13.
+
+AD notes are legally enforceable rules that apply to aircraft, aircraft engines, propellers, and appliances.
+
+## 2. 中文翻译
+
+尽管对正确的设计与取证试验给予了充分重视，有时航空器日常的实际使用仍会引起未曾预料到的磨损或失效。一旦出现这种情况，如果 FAA 认定该磨损或失效构成不安全状况，并且认定该状况很可能同样存在于相同设计型的其他产品上，它就发布一份 AD。AD 的正文并不编入 14 CFR part 39，而是刊登在《联邦公报》上，并作为对 14 CFR part 39 第 39.13 节的修正案与本部分关联。
+
+AD 是适用于航空器、航空器发动机、螺旋桨和机载设备、具有法律强制执行力的规则。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| in spite of | phr. | 尽管 | 引导让步短语，强调「设计取证再严也挡不住使用中的问题」 |
+| day-to-day use | n. phr. | 日常使用 | 与设计、取证试验相对的实际运行环节 |
+| wear or failure | n. phr. | 磨损或失效 | AD 针对的两种典型劣化形式 |
+| unsafe condition | n. phr. | 不安全状况 | FAA 发布 AD 的法定前提 |
+| AD note | n. phr. | AD 正文／AD 通告 | 实际条文不在 part 39 里，而是登在《联邦公报》 |
+| amendment | n. | 修正案 | AD 以修正 §39.13 的形式与 part 39 挂钩 |
+| legally enforceable | adj. phr. | 具有法律强制执行力的 | 说明 AD 不是建议，而是可依法追究的规则 |
+| appliance | n. | 机载设备 | 与航空器、发动机、螺旋桨并列的第四类适用对象 |
+
+## 4. 语法解析
+
+### ① In spite of all the emphasis …, the actual day-to-day use … causes unanticipated wear or failure to occur（让步短语 + cause sth. to do）
+
+**原句**：In spite of all the emphasis on proper design and certification testing, sometimes the actual day-to-day use of the aircraft causes unanticipated wear or failure to occur.
+
+**拆解**：In spite of … 是让步介词短语，后接名词性成分（不能接从句）；主句主语 the actual day-to-day use of the aircraft，谓语 causes，宾语 unanticipated wear or failure，to occur 作宾语补足语。
+
+**要点**：in spite of + 名词／动名词，与 although + 从句可互换，但前者不能带主谓结构，写成 in spite of the design is good 是典型错误。cause sth. to do 是「导致某物发生某事」的固定结构，不能说 cause sth. occur（缺 to）。
+
+### ② if the FAA determines that … and that …, it issues an AD（条件从句 + 两个并列宾语从句）
+
+**原句**：When that happens, if the FAA determines that the wear or failure represents an unsafe condition and that the condition is likely to exist in other products of the same type of design, it issues an AD.
+
+**拆解**：When that happens 为时间状语从句；if … 为条件状语从句，其中 determines 后接两个由 that 引导的并列宾语从句（that … and that …）；主句 it issues an AD，it 指前文的 the FAA。
+
+**要点**：并列两个宾语从句时，第二个 that 必须保留，否则读者会把 and 后面读成与 determines 并列的谓语。determine that … 是规章里「认定」的标准说法，等于 find／conclude；be likely to exist 表「很可能存在」，是发布 AD 的第二个条件。
+
+### ③ are not included …, but rather are printed … and are linked …（not … but rather 并列否定 + 三被动连用）
+
+**原句**：Actual AD notes are not included in 14 CFR part 39, but rather are printed in the Federal Register and are linked to this part as amendments to 14 CFR part 39, section 39.13.
+
+**拆解**：三个并列谓语均为被动：are not included／are printed／are linked，共用主语 Actual AD notes；not … but rather … 构成「不是……而是……」的并列否定；as amendments to … 作方式状语，说明「以修正案的形式」关联。
+
+**要点**：not … but rather 里的 rather 起强调作用，不能省成 but only。三个被动连用说明这份文本「被收录、被刊登、被关联」，译者不必硬补施动者；link sth. to sth. as … 译作「作为……与……关联」。

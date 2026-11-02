@@ -1,0 +1,78 @@
+# Category Airplanes
+
+> 通用 Ch 02 · Category Airplanes · 原文 PDF 第 55 页
+
+## 1. 原文
+
+The standards in 14 CFR part 25 apply to large aircraft with a maximum certificated takeoff weight of more than 12,500 pounds. This segment of aviation is usually referred to as “commercial aviation” and includes most of the aircraft seen at a large passenger airport, except for the commuter aircraft included in 14 CFR part 23. However, the ability to carry passengers is not a requirement for aircraft certified to 14 CFR part 25. Many of these aircraft are also used to transport cargo. This chapter is subdivided into similar design subpart categories and the same sequence as the requirements specified in 14 CFR part 23.
+
+14 CFR Part 27—Airworthiness Standards: Normal Category Rotorcraft This regulation deals with the small rotor wing aircraft and is consistent with 14 CFR part 23 with limiting the passenger seating to nine or less. However, the maximum certificated weight is limited to 7,000 pounds. It contains similar design subparts identified in 14 CFR part 23 that provide the details for designing the aircraft.
+
+14 CFR Part 29—Airworthiness Standards: Transport Category Rotorcraft This section specifies those standards applicable to helicopters with a maximum certified weight greater than 7,000 pounds.
+
+However, it also includes additional parameters based upon seating capacity and an additional weight limit. Those parameters are passenger seating, (nine or less, ten or more)
+
+and whether the helicopter is over or under a maximum weight of 20,000 pounds. The design subparts of part 29 are similar to those in 14 CFR parts 23, 25, and 27.
+
+13 23 25 27 29 31 33 34 35 36 39 21 Certification Procedures for Products and Parts 91 General Operating and Flight Rules 14 CFR §91.319 14 CFR §91.409 Fuel Venting and Exhaust Emission Requirements for Turbine Engine Powered Airplanes Noise Standards:
+
+Aircraft Type and Airworthiness Certification Airworthiness Standards:
+
+Normal, Utility, Acrobatic, and Commuter Category Airplanes Investigative and Enforcement Procedures Airworthiness Standards:
+
+## 2. 中文翻译
+
+14 CFR part 25 中的标准适用于最大审定起飞重量超过 12,500 磅的大型航空器。这一部分航空通常被称为「商业航空」，包括在大型旅客机场能见到的大多数航空器，但不包括 14 CFR part 23 所涵盖的通勤类飞机。不过，能够载运旅客并不是按 14 CFR part 25 取得合格证的必备条件，这类航空器中有许多也用于运输货物。本章按照与 14 CFR part 23 相同的一系列设计子部分类别、相同的顺序划分。
+
+14 CFR part 27——《适航标准：正常类旋翼航空器》。本部法规针对小型旋翼航空器，与 14 CFR part 23 一样把旅客座位数限制在 9 个及以下。但其最大审定重量限制为 7,000 磅。它设有在 14 CFR part 23 中已确定的那一类设计子部分，为航空器的设计提供详细要求。
+
+14 CFR part 29——《适航标准：运输类旋翼航空器》。本节规定了适用于最大审定重量大于 7,000 磅的直升机的那些标准。
+
+不过，它还纳入了以座位数和另一重量限值为依据的附加参数。这些参数是旅客座位数（9 个及以下、10 个及以上），
+
+以及直升机是在 20,000 磅最大重量之上还是之下。part 29 的设计子部分与 14 CFR parts 23、25、27 中的子部分相似。
+
+原文此处为图 2-5 中 14 CFR 部别编号的图表残留：只剩「13 23 25 27 29 31 33 34 35 36 39 21」这样的编号串，以及「Certification Procedures for Products and Parts」「General Operating and Flight Rules」「14 CFR §91.319」「14 CFR §91.409」「Fuel Venting and Exhaust Emission Requirements for Turbine Engine Powered Airplanes」「Noise Standards:」等标题断片。
+
+续接的断片为「Aircraft Type and Airworthiness Certification」与「Airworthiness Standards:」。
+
+再续的断片为「Normal, Utility, Acrobatic, and Commuter Category Airplanes」「Investigative and Enforcement Procedures」与「Airworthiness Standards:」；此处只保存断片，不另作图注。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| commercial aviation | n. phr. | 商业航空 | 本节指按 part 25 审定的大型运输类飞机所构成的领域 |
+| commuter aircraft | n. phr. | 通勤类飞机 | part 23 中载客/重量上限更高的一类，不属 part 25 |
+| certificated takeoff weight | n. phr. | 审定起飞重量 | part 25 的门槛为超过 12,500 磅 |
+| rotorcraft / rotor wing aircraft | n. | 旋翼航空器 | part 27 与 part 29 的规范对象 |
+| maximum certificated weight | n. phr. | 最大审定重量 | part 27 限 7,000 磅，part 29 指超过 7,000 磅 |
+| parameter | n. | 参数 | part 29 另按座位数与重量参数划分适用性 |
+| design subpart | n. phr. | 设计子部分 | part 25 与 part 23 的子部分类别和顺序相同 |
+| applicable to | adj. phr. | 适用于 | specifies those standards applicable to helicopters |
+
+## 4. 语法解析
+
+### ① is usually referred to as … and includes …, except for …（并列谓语 + 过去分词后置定语）
+
+**原句**：This segment of aviation is usually referred to as “commercial aviation” and includes most of the aircraft seen at a large passenger airport, except for the commuter aircraft included in 14 CFR part 23.
+
+**拆解**：两个并列谓语 is referred to as 与 includes；seen at a large passenger airport 与 included in 14 CFR part 23 都是过去分词短语作后置定语，分别修饰 the aircraft 与 the commuter aircraft；except for 引出排除项。
+
+**要点**：过去分词后置定语相当于 which are seen / which are included，翻译时前移成「在大型旅客机场见到的」「纳入 part 23 的」。except for 位于句末时，中文习惯把它提前成「……除外」，否则读者会误读为只排除定语部分。
+
+### ② the ability to carry passengers is not a requirement for aircraft certified to 14 CFR part 25（不定式作定语 + 过去分词作定语 + 介词 to）
+
+**原句**：However, the ability to carry passengers is not a requirement for aircraft certified to 14 CFR part 25.
+
+**拆解**：主语 the ability to carry passengers，其中不定式 to carry passengers 作后置定语；谓语 is not a requirement；for aircraft certified to … 中的 for 表「对于」，certified to 是过去分词短语修饰 aircraft。
+
+**要点**：a requirement for sth 译「对……的一项要求」。certified to a part / standard 是行业固定说法「按某部法规／某标准取得合格证」，介词用 to，不用 by 或 with。ability to do 用不定式，不用 ability of doing。
+
+### ③ It contains similar design subparts identified … that provide …（过去分词与定语从句叠加修饰）
+
+**原句**：It contains similar design subparts identified in 14 CFR part 23 that provide the details for designing the aircraft.
+
+**拆解**：宾语 similar design subparts 后接两个后置修饰成分：过去分词短语 identified in 14 CFR part 23，以及 that 引导的定语从句 that provide the details for designing the aircraft。
+
+**要点**：两个修饰语都指向 subparts，翻译时可合并为「设有 part 23 中已确定、为航空器设计提供详细要求的那些设计子部分」。注意不要因为中间隔了 identified 短语，就把 that 从句误判为修饰 part 23。for designing 中的 for 表用途，后接动名词。

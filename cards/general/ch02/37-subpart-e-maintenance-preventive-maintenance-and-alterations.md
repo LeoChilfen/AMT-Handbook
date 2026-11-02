@@ -1,0 +1,187 @@
+# Subpart E—Maintenance, Preventive Maintenance, and Alterations
+
+> 通用 Ch 02 · Subpart E—Maintenance, Preventive Maintenance, and Alterations · 原文 PDF 第 71 页
+
+## 1. 原文
+
+Section 91.401—Applicability Although this subpart describes in general the rules regarding maintenance, preventive maintenance, and alteration, certain sections do not apply if the aircraft is operated in accordance with 14 CFR part 121, 125, 129, or 135.
+
+Section 91.403—General The owner/operator holds the primary responsibility for maintaining the aircraft in airworthy condition. This includes compliance with all applicable ADs and is the reason that the FAA sends new AD notes to the registered owners of the affected aircraft. All maintenance performed must be accomplished in accordance with 14 CFR part 43.
+
+Compliance with the appropriate manufacturer maintenance manuals and ICA is also required. Mandatory replacement times, inspection intervals, and related procedures as outlined in the FAA-approved operations specifications must also be complied with.
+
+Section 91.405—Maintenance Required The owner/operator is required to have the appropriate inspections made, and to have discrepancies repaired in accordance with part 43. They are also required to ensure that the appropriate entries have been made in the maintenance records. Any inoperative instruments or equipment must be properly placarded as inoperative.
+
+Section 91.407—Operation after maintenance, preventive maintenance, or alteration Whenever the aircraft has undergone maintenance, preventive maintenance, rebuilding or alteration, it must have been approved for RTS and a proper entry made in the maintenance records. If the maintenance that was done could have appreciably changed the flight characteristics, an appropriately rated pilot must perform an operational flight check of the aircraft and must make an entry of the flight in the maintenance records. If ground testing and inspection can show conclusively that the maintenance has not adversely affected the flight characteristics, no flight test is required.
+
+Section 91.409—Inspections This paragraph identifies various types of inspection applicable to the civilian aircraft fleet. Paragraph (a) defines the requirement for an annual inspection. However, there are certain exceptions to this regulation:
+
+1. An aircraft that carries a special flight permit, a current experimental certificate, or a light-sport or provisional airworthiness certificate; 2. An aircraft inspected in accordance with an approved aircraft inspection program under part 125 or 135 of this chapter and so identified by the registration number in the operations specifications of the certificate holder having the approved inspection program; 3. An aircraft subject to the requirements of paragraph (d) or (e) of this section; or 4. Turbine-powered rotorcraft when the operator elects to inspect that rotorcraft in accordance with paragraph (e) of this section.
+
+Annual inspections are usually the inspection method associated with small “general aviation” aircraft. If this same aircraft is used for hire (including flight instruction for hire), then the aircraft must also be inspected every 100 hours of time in service. This requirement for a 100-hour inspection to be conducted on an aircraft may be exceeded by as much as 10 hours if the aircraft is en route to reach a facility that will be conducting the inspection. Any time accrued between 100 and 110 hours is subtracted from the hours remaining before the next 100-hour inspection.
+
+Since aircraft used for hire only generate revenue when they are flying, any time that the aircraft is “down for inspection” can result in a loss of income for the owner/operator.
+
+Therefore, the FAA has made provision to minimize the impact of the 100-hour and annual inspection requirement.
+
+The owner/operator may petition the local FSDO for approval of a progressive inspection program. This program breaks the complete inspection of the aircraft into smaller, less time-consuming steps. (Refer to 14 CFR part 43, Appendix D.) This inspection may be either performed or supervised by a technician holding an IA. The program must ensure at all times that the aircraft is airworthy. The owner/operator must submit an inspection schedule with their application
+
+to the FAA. This schedule must identify the time intervals (hours or days) when routine and detailed inspections are to be accomplished. (Refer to 14 CFR part 43, section 43.15.)
+
+Just as with the 100-hour inspection, a 10-hour maximum extension of a specified inspection interval is allowed if the aircraft is en route. A change in the inspection interval is also allowed for changes in service experience. If the progressive inspection is discontinued, the aircraft is again subject to the traditional annual and 100-hour inspections.
+
+Other inspection programs that may be applicable to other aircraft are a continuous airworthiness inspection program and an approved aircraft inspection program (AAIP).
+
+The former program is applicable to either a part 121 or 135 carrier, but the latter program is limited to part 135 operators only. Finally, the owner/operator may use either a current inspection program recommended by the aircraft manufacturer or one established by the owner/operator and approved by the local FSDO. Any subsequent changes to that program must also be approved by the local FSDO.
+
+There may be an instance when the operator of an aircraft wishes to change from one type of inspection program to another. In that case, the time in service, calendar times, or cycles of operation from the current program must be carried over to the subsequent program.
+
+Section 91.411—Altimeter System and Altitude Reporting Equipment Tests and Inspections Commonly referred to as “the 411 test,” this section specifies the requirements for testing the static pressure system, each altimeter instrument, and each automatic pressure altitude reporting system every 24 calendar months. The static system must also be tested any time it has been “opened and closed,” except for the normal use of the system drain and alternate static system pressure valves. If the automatic pressure altitude reporting system of the air traffic control (ATC)
+
+transponder is either installed or subjected to maintenance actions, the system must also be tested per Appendix E of 14 CFR part 43.
+
+Due to the inherent design and accuracy of this system, only the aircraft manufacturer, a properly-rated repair station, or a certificated airframe mechanic may perform these tests. The airframe technician may only perform the inspection and test of the static pressure system. Calibration and maintenance of related instruments is specifically prohibited to the technician by the language of 14 CFR part 65, section 65.81 and specifically allowed in 14 CFR part 145, section 145.59 for repair stations holding an instrument rating.
+
+TSO’d items are considered to be “tested and inspected” as of the date they were manufactured. The maximum altitude that the system was tested is the maximum altitude that the aircraft can be flown instrument flight rules (IFR) in controlled airspace.
+
+Section 91.413—ATC Transponder Tests and Inspections This “413 test” is the other test required every 24 months.
+
+Whenever the ATC transponder is installed or has undergone maintenance, the complete system must be tested and inspected in accordance with Appendix E of 14 CFR part 43. The transponder itself must be tested and inspected in accordance with Appendix F of 14 CFR part 43. As with the 411 test, only certain persons are authorized to conduct the tests. They are the manufacturer of the aircraft, a properly certificated repair station, or the holder of a continuous airworthiness maintenance program under 14 CFR part 121 or 135.
+
+Section 91.415—Changes to Aircraft Inspection Programs If the FAA determines that the inspection program established and approved under either 14 CFR part 91, section 91.409 or 91.1109 must be revised to ensure continued safety and adequacy of the program, the owner/operator must make the necessary changes as identified by the Administrator.
+
+If the owner/operator desires to contest this request, they must petition the FAA to reconsider their request to change the program within 30 days of receiving the change request from the FAA.
+
+Section 91.417—Maintenance Records The understanding and implementation of this section is fundamental to the aircraft industry, in general, and the aircraft owner/operator, in specific. A professional maintenance technician must be knowledgeable of this section and be able to help the owner/operator understand it.
+
+[Figure 2-10] This section identifies four types of records— two are quite specific (paragraphs a and d) and two are more general: (a)(1) and (a)(2). Paragraph (a) refers to the 411 and 413 testing that requires testing every 24 months. Therefore, records must be kept for that length of time. Paragraph (d)
+
+refers to the installation of fuel tanks in the cabin or cargo area. The FAA Form 337 authorizing this installation must be kept on board the aircraft all the time.
+
+Note: Other than this paragraph, there is no requirement that the maintenance records of the aircraft be carried on the aircraft. In fact, there are very logical reasons to not do so in most cases. The two biggest concerns are damaged or lost records. It is much safer to retain the logs in a filing system in the office. It is also a very wise idea to have the logbook copied or scanned and retained at a separate location should a catastrophic event (fire, flood, tornado, hurricane, and so forth) occur at the site the original records are retained.
+
+Subparagraph (a)(1) then lists those records that are later
+
+defined in (b)(1) as being retained for 1 year or until the work is repeated or superseded. Subparagraph (a)(2) specifies the records that are permanent records and are identified in subparagraph (b)(2) as those that must be transferred with the aircraft. Refer to the chart for further clarification.
+
+Paragraph (c) requires that all of the maintenance records mandated by this section be made available upon request to the Administrator or any authorized representative of the NTSB. Furthermore, the owner/operator must provide the Form 337 required to be aboard the aircraft whenever additional fuel tanks are installed in either the passenger compartment or the baggage compartment, per paragraph (d), to any law enforcement officer upon request.
+
+Section 91.419—Transfer of Maintenance Records When an aircraft is sold, it is logical that the records are transferred with it. They may be either in plain language or coded. The purchaser may elect to permit the seller to retain the actual records; however, if that occurs the purchaser (now the current owner/operator) must still make these records available to either the FAA or the NTSB upon request.
+
+Section 91.421—Rebuilt Engine Maintenance Records This section presents the term “zero time.” Although not truly given as a definition, the wording of the regulation is very clear that an aircraft engine, when rebuilt by the engine manufacturer or an agency approved by the manufacturer, may be given a new maintenance record showing no previous operating history. This new record must include a signed statement with the date it was rebuilt, any changes incorporated by compliance with AD notes, and compliance with any of the manufacturer’s SB.
+
+## 2. 中文翻译
+
+第 91.401 条——适用范围 尽管本分部概括性地描述了有关维修、预防性维修和改装的规则，但如果航空器是按 14 CFR 第 121、125、129 或 135 部运行的，则其中某些条款不适用。
+
+第 91.403 条——总则 所有人/运营人对保持航空器处于适航状态负有首要责任。这包括遵守所有适用的适航指令（AD），也正因如此，FAA 会把新的 AD 通告寄给受影响航空器的登记所有人。所实施的一切维修，都必须按照 14 CFR 第 43 部完成。
+
+此外还要求遵守相应的制造厂维修手册和持续适航文件（ICA）。FAA 批准的操作规范中所规定的强制更换时限、检查间隔及相关程序，也必须予以遵守。
+
+第 91.405 条——要求的维修 所有人/运营人必须安排实施相应的检查，并按照第 43 部修复所发现的缺陷。他们还须确保已在维修记录中作出相应的记录。任何不工作的仪表或设备，都必须按规定挂上「不工作」标牌。
+
+第 91.407 条——维修、预防性维修或改装后的运行 航空器凡经过维修、预防性维修、翻修或改装，都必须已获准恢复使用（RTS），并在维修记录中作出妥善记录。如果所进行的维修可能明显改变飞行特性，则必须由具备相应等级的驾驶员对航空器实施运行飞行检查，并须在维修记录中记录该次飞行。如果地面测试和检查能够确凿地表明，维修并未对飞行特性产生不利影响，则无需进行试飞。
+
+第 91.409 条——检查 本条列出了适用于民用航空器机队的各类检查。(a) 段规定了年度检查的要求。不过，该规定有若干例外：
+
+1. 持有特种飞行许可、现行实验类适航证，或轻型运动类、临时适航证的航空器；2. 按本章第 125 或 135 部经批准的航空器检查大纲实施检查，并已在持有该经批准检查大纲的证书持有人的操作规范中以登记编号标明者；3. 受本条 (d) 或 (e) 段要求约束的航空器；或 4. 运营人选择按本条 (e) 段对该旋翼机实施检查的涡轮动力旋翼机。
+
+年度检查通常是与小型「通用航空」航空器相对应的检查方式。如果同一架航空器用于取酬（包括取酬的飞行教学），则该航空器还必须每 100 小时使用时间接受一次检查。如果航空器正在飞往将实施检查的设施的途中，这项 100 小时检查的要求最多可以超出 10 小时。在 100 至 110 小时之间累计的时间，要从下一次 100 小时检查前剩余的小时数中扣除。
+
+由于用于取酬的航空器只有在其飞行时才产生收入，航空器任何「因检查而停场」的时间都可能给所有人/运营人造成收入损失。
+
+因此，FAA 已作出相应安排，以尽量减小 100 小时检查和年度检查要求带来的影响。
+
+所有人/运营人可以向当地 FSDO 申请批准一项渐进式检查大纲。该大纲把航空器的完整检查拆分为若干个更小、耗时更短的步骤。（参见 14 CFR 第 43 部附录 D。）该检查可以由持有检查授权（IA）的技师实施或监督实施。该大纲必须始终确保航空器处于适航状态。所有人/运营人必须在提出申请时一并提交一份检查进度表
+
+报 FAA。该进度表必须确定实施例行检查和详细检查的时间间隔（以小时或天数表示）。（参见 14 CFR 第 43 部 § 43.15。）
+
+与 100 小时检查一样，如果航空器在飞行途中，允许将规定的检查间隔最多延长 10 小时。如使用经验发生变化，也允许变更检查间隔。如果渐进式检查被中止，该航空器将重新适用传统的年度检查和 100 小时检查。
+
+可能适用于其他航空器的其他检查大纲，还有持续适航检查大纲和经批准的航空器检查大纲（AAIP）。
+
+前者适用于第 121 部或第 135 部的承运人，而后者仅限第 135 部的运营人使用。最后，所有人/运营人既可以采用航空器制造厂推荐的现行检查大纲，也可以采用由所有人/运营人制定并经当地 FSDO 批准的大纲。该大纲此后的任何变更，也必须经当地 FSDO 批准。
+
+可能出现航空器运营人希望从一种检查大纲转换为另一种检查大纲的情形。在这种情况下，现行大纲下的使用时间、日历时间或运行循环数必须结转到后续大纲。
+
+第 91.411 条——高度表系统与高度报告设备的测试和检查 本节通常被称为「411 测试」，它规定了每 24 个日历月对静压系统、每个高度表以及每套自动气压高度报告系统进行测试的要求。静压系统凡经过「打开并关闭」，也必须重新测试，但正常使用系统排水阀和备用静压系统压力阀的情况除外。如果空中交通管制（ATC）
+
+应答机的自动气压高度报告系统被安装或经过维修，则该系统还必须按 14 CFR 第 43 部附录 E 进行测试。
+
+由于该系统本身的设计与精度要求，只有航空器制造厂、具备相应等级的维修站或持证的机体维修人员，才可以实施这些测试。机体维修技师只能对静压系统实施检查和测试。按 14 CFR 第 65 部 § 65.81 的表述，相关仪表的校准与维修被明确禁止由该技师进行；而 14 CFR 第 145 部 § 145.59 则明确允许持有仪表等级的维修站从事该项工作。
+
+经技术标准规定（TSO）批准的项目，自其制造之日起即被视为已「测试并检查」合格。系统受试的最大高度，就是该航空器在管制空域内按仪表飞行规则（IFR）运行所能飞到的最大高度。
+
+第 91.413 条——ATC 应答机测试与检查 这项「413 测试」是每 24 个月必须进行的另一项测试。
+
+ATC 应答机凡被安装或经过维修，整套系统必须按 14 CFR 第 43 部附录 E 进行测试和检查。应答机本身必须按 14 CFR 第 43 部附录 F 进行测试和检查。与 411 测试一样，只有特定人员被授权实施这些测试，即航空器的制造厂、具备相应证书的维修站，或 14 CFR 第 121 或 135 部下持续适航维修大纲的持有人。
+
+第 91.415 条——航空器检查大纲的变更 如果 FAA 认定，为确保大纲的持续安全性和充分性，必须对依据 14 CFR 第 91 部 § 91.409 或 § 91.1109 制定并批准的检查大纲进行修订，则所有人/运营人必须按局长的要求作出必要的变更。
+
+如果所有人/运营人希望对此项要求提出异议，则必须在收到 FAA 变更要求后的 30 天内，向 FAA 申请重新考虑其变更该大纲的要求。
+
+第 91.417 条——维修记录 对本条的理解与执行，对整个航空业具有根本意义，具体到航空器所有人/运营人也是如此。一名专业的维修技师必须通晓本条，并能够帮助所有人/运营人理解本条。
+
+本节确定了四类记录——其中两类相当具体（(a) 段和 (d) 段），另两类较为笼统，即 (a)(1) 和 (a)(2)。(a) 段涉及 411 和 413 测试，这两项测试要求每 24 个月进行一次。因此，相关记录必须保存同样长的期限。(d) 段
+
+则涉及在客舱或货舱区域加装燃油箱。批准该项安装的 FAA 表格 337 必须始终存放在航空器上。
+
+注：除此段所述情况外，并没有要求把航空器的维修记录随航空器携带。事实上，多数情况下不这样做有很合理的理由，最大的两项顾虑是记录被损坏或丢失。把记录本保存在办公室的存档系统中要安全得多。此外，把记录本复印或扫描后另存于其他地点，也是非常明智的做法，以防存放原始记录的场所发生灾难性事件（火灾、洪水、龙卷风、飓风等）。
+
+(a)(1) 项列出了那些随后
+
+在 (b)(1) 项中被规定为保存 1 年、或保存至该项工作被重做或被取代为止的记录。(a)(2) 项则规定了属于永久记录的记录，并在 (b)(2) 项中被确定为必须随航空器一同移交的记录。详见所附图表以获得进一步说明。
+
+(c) 段要求，本条所规定的全部维修记录，均须在局长或国家运输安全委员会（NTSB）任何授权代表提出要求时提供。此外，按 (d) 段规定，凡在客舱或行李舱内加装附加燃油箱时要求随机携带的表格 337，所有人/运营人也必须在任何执法人员提出要求时予以提供。
+
+第 91.419 条——维修记录的移交 航空器出售时，记录随之一并移交是理所当然的。记录可以是普通文字形式，也可以是编码形式。买方可以选择允许卖方保留记录原件；但若如此，买方（此时已是现任所有人/运营人）仍必须在 FAA 或 NTSB 提出要求时提供这些记录。
+
+第 91.421 条——翻修发动机的维修记录 本节提出了「零小时」这一术语。尽管法规并未真正给出定义，但其措辞非常明确：航空器发动机在由发动机制造厂或该制造厂批准的机构翻修后，可以获得一份新的维修记录，表明其没有以往的使用历史。这份新记录必须包括一份签署的声明，载明翻修日期、因执行 AD 通告而并入的任何更改，以及对制造厂任何服务通告（SB）的执行情况。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| airworthy condition | n. phr. | 适航状态 | 第 91.403 条要求所有人/运营人负首要责任维持的状态 |
+| AD (airworthiness directive) | abbr. | 适航指令 | 强制执行、由 FAA 直接寄给登记所有人的局方文件 |
+| discrepancy | n. | 缺陷、不符项 | have discrepancies repaired 指按第 43 部修复检查发现的问题 |
+| progressive inspection program | n. phr. | 渐进式检查大纲 | 把完整检查拆成若干短步骤，须经 FSDO 批准 |
+| time in service | n. phr. | 使用时间 | 100 小时检查按使用时间计，途中最多可超 10 小时 |
+| continuous airworthiness inspection program | n. phr. | 持续适航检查大纲 | 适用于第 121 或第 135 部承运人的检查大纲 |
+| AAIP | abbr. | 经批准的航空器检查大纲 | 仅限第 135 部运营人采用的检查大纲 |
+| zero time | n. phr. | 零小时 | 翻修后发动机获得表明无以往使用历史的新记录 |
+
+## 4. 语法解析
+
+### ① 被动语态 + as 补语
+
+**原句**
+Any inoperative instruments or equipment must be properly placarded as inoperative.
+
+**拆解**
+主语 Any inoperative instruments or equipment 为 any + 形容词 + 并列名词；谓语 must be properly placarded，as inoperative 为补语，说明挂牌所标明的内容。
+
+**要点**
+placard as 是固定搭配「挂牌标明为……」；主语用 any 表「凡……者」，译文可加「一律」；inoperative 在定语与补语中各出现一次，前译「不工作的」、后译「处于不工作状态」。
+
+### ② Whenever 从句 + must have been approved
+
+**原句**
+Whenever the aircraft has undergone maintenance, preventive maintenance, rebuilding or alteration, it must have been approved for RTS and a proper entry made in the maintenance records.
+
+**拆解**
+Whenever 引导时间/条件从句，用现在完成时 has undergone 强调「凡已发生」；主句 it must have been approved for RTS 为被动完成，并列部分 a proper entry made 承前省略 must have been。
+
+**要点**
+must have been approved 中 have been 是被动完成，不表推测「一定已经」，勿误读为对过去的猜测；a proper entry made 省略了 must have been，译文须补出「并作好」；RTS 是 return to service 的缩写，译「恢复使用、批准放行」。
+
+### ③ Due to + only A, B, or C may
+
+**原句**
+Due to the inherent design and accuracy of this system, only the aircraft manufacturer, a properly-rated repair station, or a certificated airframe mechanic may perform these tests.
+
+**拆解**
+Due to + 名词短语作原因状语；主句中 only 限定后面三项并列主语 the aircraft manufacturer, a properly-rated repair station, or a certificated airframe mechanic，谓语 may perform，宾语 these tests。
+
+**要点**
+Due to 是复合介词，后接名词而非句子，译「由于」；only 管三项整体，译「只有……之一方可」，不可只修饰第一项；properly-rated 与 certificated 分别修饰维修站与机体技师，不要互换。

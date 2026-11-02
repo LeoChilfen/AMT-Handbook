@@ -1,0 +1,58 @@
+# Purpose & Function of Aircraft Drawings
+
+> 通用 Ch 04 · Purpose & Function of Aircraft Drawings · 原文 PDF 第 125 页
+
+## 1. 原文
+
+Drawings and prints are the link between the engineers who design an aircraft and the workers who build, maintain, and repair it. A print may be a copy of a working drawing for an aircraft part or group of parts, or for a design of a system or group of systems. They are made by placing a tracing of the drawing over a sheet of chemically-treated paper and exposing it to a strong light for a short period of time. When the exposed paper is developed, it turns blue where the light has penetrated the transparent tracing. The inked lines of the tracing, having blocked out the light, show as white lines on a blue background. With other types of sensitized paper, prints may have a white background with colored lines or a colored background with white lines.
+
+Drawings created using computers may be viewed on the computer monitor or printed out in “hard copy” by use of an
+
+ink jet or laser printer. Larger drawings may be printed by use of a plotter or large format printer. Large printers can print drawings up to 42 inches high with widths up to 600 inches by use of continuous roll paper. [Figure 4-2]
+
+## 2. 中文翻译
+
+图纸与图纸副本是设计航空器的工程师同制造、维护和修理航空器的工作人员之间的纽带。图纸副本可以是某个航空器零件或零件组的工作图的复制件，也可以是某个系统或系统组的设计图的复制件。其制作方法是：把一张描图覆在经化学处理的纸上，用强光短时曝光。曝光后的纸经显影，凡光线透过透明描图膜之处即变为蓝色。描图膜上的墨线挡住了光线，于是在蓝底上呈现为白线。使用其他类型的感光纸时，图纸副本也可能是白底彩线，或彩底白线。
+
+使用计算机创建的图纸既可在计算机显示器上查看，也可借助喷墨或激光打印机打印成「硬拷贝」。
+
+较大的图纸可用绘图机或大幅面打印机打印。使用连续卷纸时，大型打印机可打印高达 42 英寸、宽达 600 英寸的图纸。[图 4-2]
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| print | n. | 图纸副本、晒印图 | 由工作图复制或打印而来、供现场使用的图纸，本节与 drawing 并用 |
+| working drawing | n. | 工作图 | 用于制造与装配的正式生产图，print 常是其复制件 |
+| tracing | n. | 描图、描图膜 | 覆在感光纸上、墨线挡光的那层透明膜 |
+| sensitized paper | n. | 感光纸 | 经化学处理、曝光显影后成图的纸 |
+| develop | v. | 显影 | 曝光后使潜像显现的处理工序 |
+| hard copy | n. | 硬拷贝、纸质件 | 相对屏幕查看而言的打印输出 |
+| plotter | n. | 绘图机 | 打印大幅面图纸的设备，与大幅面打印机并列 |
+| large format printer | n. | 大幅面打印机 | 用连续卷纸打印超长超宽图纸的打印机 |
+
+## 4. 语法解析
+
+### ① are made by placing … and exposing …（被动 + by + 并列动名词）
+
+**原句**：They are made by placing a tracing of the drawing over a sheet of chemically-treated paper and exposing it to a strong light for a short period of time.
+
+**拆解**：主语 They 指前文的 prints；谓语 are made 为一般现在时被动；by 后接两个并列动名词 placing … 与 exposing …，共用一个 by；over a sheet of … 表位置，to a strong light 是 expose 的固定搭配，for a short period of time 表时长。
+
+**要点**：by + 动名词说明「通过何种工艺」，并列时第二个动名词前不再重复 by。expose sth to sth（使……暴露于……）中的 to 是介词，与 expose … for 区分。chemically-treated 是「副词 + 过去分词」构成的复合形容词。
+
+### ② having blocked out the light（现在分词完成式作原因状语）
+
+**原句**：The inked lines of the tracing, having blocked out the light, show as white lines on a blue background.
+
+**拆解**：主干是 The inked lines … show as white lines；having blocked out the light 是现在分词完成式短语，插在主语与谓语之间作原因状语，表示该动作先于 show 发生。
+
+**要点**：分词完成式 having done 强调「先发生」，此处相当于 because they have blocked out the light。show as 意为「呈现为」，不是「展示」。分词与主语是主动关系，故用 -ing 而非 -ed。
+
+### ③ Drawings created using computers may be viewed …（过去分词短语作后置定语）
+
+**原句**：Drawings created using computers may be viewed on the computer monitor or printed out in “hard copy” by use of an ink jet or laser printer.
+
+**拆解**：主语 Drawings 后接 created using computers 过去分词短语作后置定语，其中 using computers 又是修饰 created 的方式状语；谓语是 may be viewed 与 (may be) printed out 两个并列被动结构。
+
+**要点**：单个分词短语作定语必须后置，译成汉语时移到名词前（「使用计算机创建的图纸」）。第二个谓语承前省略 may be，只留 printed out，这是并列结构常见的省略，读长句时须能补回。

@@ -2271,5 +2271,507 @@ window.AMT_CARDS = [
     "file": "50-defueling.md"
    }
   ]
+ },
+ {
+  "chapter": "general-ch02",
+  "book": "general",
+  "bookEn": "General",
+  "bookZh": "通用",
+  "num": "02",
+  "titleEn": "Regulations, Maintenance Forms, Records, & Publications",
+  "count": 69,
+  "cards": [
+   {
+    "slug": "general-ch02-01",
+    "seq": "01",
+    "title": "Overview — Title 14 of the Code of Federal Regulations (14 CFR)",
+    "file": "01-overview-title-14-of-the-code-of-federal-regulations-14-cfr.md"
+   },
+   {
+    "slug": "general-ch02-02",
+    "seq": "02",
+    "title": "Categories",
+    "file": "02-categories.md"
+   },
+   {
+    "slug": "general-ch02-03",
+    "seq": "03",
+    "title": "Title 14 CFR Part 3—General Requirements",
+    "file": "03-title-14-cfr-part-3-general-requirements.md"
+   },
+   {
+    "slug": "general-ch02-04",
+    "seq": "04",
+    "title": "maintenance, rebuilding, and alterations",
+    "file": "04-maintenance-rebuilding-and-alterations.md"
+   },
+   {
+    "slug": "general-ch02-05",
+    "seq": "05",
+    "title": "14 CFR Part 1—Definitions and Abbreviations",
+    "file": "05-14-cfr-part-1-definitions-and-abbreviations.md"
+   },
+   {
+    "slug": "general-ch02-06",
+    "seq": "06",
+    "title": "14 CFR Part 21—Certification Procedures for Products and Articles",
+    "file": "06-14-cfr-part-21-certification-procedures-for-products-and-articles.md"
+   },
+   {
+    "slug": "general-ch02-07",
+    "seq": "07",
+    "title": "Supplemental Operations",
+    "file": "07-supplemental-operations.md"
+   },
+   {
+    "slug": "general-ch02-08",
+    "seq": "08",
+    "title": "Category Airplanes",
+    "file": "08-category-airplanes.md"
+   },
+   {
+    "slug": "general-ch02-09",
+    "seq": "09",
+    "title": "14 CFR Part 29—Airworthiness Standards: Transport Category Rotorcraft",
+    "file": "09-14-cfr-part-29-airworthiness-standards-transport-category-rotorcraft.md"
+   },
+   {
+    "slug": "general-ch02-10",
+    "seq": "10",
+    "title": "14 CFR Part 33—Airworthiness Standards: Aircraft Engines",
+    "file": "10-14-cfr-part-33-airworthiness-standards-aircraft-engines.md"
+   },
+   {
+    "slug": "general-ch02-11",
+    "seq": "11",
+    "title": "14 CFR Part 35—Airworthiness Standards: Propellers",
+    "file": "11-14-cfr-part-35-airworthiness-standards-propellers.md"
+   },
+   {
+    "slug": "general-ch02-12",
+    "seq": "12",
+    "title": "14 CFR Part 39—Airworthiness Directives",
+    "file": "12-14-cfr-part-39-airworthiness-directives.md"
+   },
+   {
+    "slug": "general-ch02-13",
+    "seq": "13",
+    "title": "14 CFR Part 43—Maintenance, Preventive Maintenance, Rebuilding, and Alteration",
+    "file": "13-14-cfr-part-43-maintenance-preventive-maintenance-rebuilding-and-alteration.md"
+   },
+   {
+    "slug": "general-ch02-14",
+    "seq": "14",
+    "title": "14 CFR Part 45—Identification and Registration Marking",
+    "file": "14-14-cfr-part-45-identification-and-registration-marking.md"
+   },
+   {
+    "slug": "general-ch02-15",
+    "seq": "15",
+    "title": "14 CFR Part 119—Certification: Air Carriers and Commercial Operators",
+    "file": "15-14-cfr-part-119-certification-air-carriers-and-commercial-operators.md"
+   },
+   {
+    "slug": "general-ch02-16",
+    "seq": "16",
+    "title": "14 CFR Part 65—Certification: Airmen Other Than Flight Crewmembers",
+    "file": "16-14-cfr-part-65-certification-airmen-other-than-flight-crewmembers.md"
+   },
+   {
+    "slug": "general-ch02-17",
+    "seq": "17",
+    "title": "14 CFR Part 91—General Operating and Flight Rules",
+    "file": "17-14-cfr-part-91-general-operating-and-flight-rules.md"
+   },
+   {
+    "slug": "general-ch02-18",
+    "seq": "18",
+    "title": "Operations and Rules Governing Persons on Board Such Aircraft",
+    "file": "18-operations-and-rules-governing-persons-on-board-such-aircraft.md"
+   },
+   {
+    "slug": "general-ch02-19",
+    "seq": "19",
+    "title": "14 CFR Part 145—Repair Stations",
+    "file": "19-14-cfr-part-145-repair-stations.md"
+   },
+   {
+    "slug": "general-ch02-20",
+    "seq": "20",
+    "title": "14 CFR Part 147—Aviation Maintenance Technician Schools",
+    "file": "20-14-cfr-part-147-aviation-maintenance-technician-schools.md"
+   },
+   {
+    "slug": "general-ch02-21",
+    "seq": "21",
+    "title": "14 CFR Part 183—Representatives of the Administrator",
+    "file": "21-14-cfr-part-183-representatives-of-the-administrator.md"
+   },
+   {
+    "slug": "general-ch02-22",
+    "seq": "22",
+    "title": "Section 43.1—Applicability",
+    "file": "22-section-43-1-applicability.md"
+   },
+   {
+    "slug": "general-ch02-23",
+    "seq": "23",
+    "title": "Section 43.2—Records of Overhaul and Rebuilding",
+    "file": "23-section-43-2-records-of-overhaul-and-rebuilding.md"
+   },
+   {
+    "slug": "general-ch02-24",
+    "seq": "24",
+    "title": "maintenance, preventive maintenance, rebuilding, or alteration",
+    "file": "24-maintenance-preventive-maintenance-rebuilding-or-alteration.md"
+   },
+   {
+    "slug": "general-ch02-25",
+    "seq": "25",
+    "title": "Section 43.10—Disposition of Life-Limited Aircraft Parts",
+    "file": "25-section-43-10-disposition-of-life-limited-aircraft-parts.md"
+   },
+   {
+    "slug": "general-ch02-26",
+    "seq": "26",
+    "title": "Section 43.12—Maintenance Records: Falsification, Reproduction, or Alteration",
+    "file": "26-section-43-12-maintenance-records-falsification-reproduction-or-alteration.md"
+   },
+   {
+    "slug": "general-ch02-27",
+    "seq": "27",
+    "title": "Section 43.13—Performance Rules (General)",
+    "file": "27-section-43-13-performance-rules-general.md"
+   },
+   {
+    "slug": "general-ch02-28",
+    "seq": "28",
+    "title": "Section 43.15—Additional Performance Rules for Inspections",
+    "file": "28-section-43-15-additional-performance-rules-for-inspections.md"
+   },
+   {
+    "slug": "general-ch02-29",
+    "seq": "29",
+    "title": "Section 43.16—Airworthiness Limitations",
+    "file": "29-section-43-16-airworthiness-limitations.md"
+   },
+   {
+    "slug": "general-ch02-30",
+    "seq": "30",
+    "title": "on U.S. aeronautical products by certain Canadian persons",
+    "file": "30-on-u-s-aeronautical-products-by-certain-canadian-persons.md"
+   },
+   {
+    "slug": "general-ch02-31",
+    "seq": "31",
+    "title": "Appendix A—Major Alterations, Major Repairs, and Preventive Maintenance",
+    "file": "31-appendix-a-major-alterations-major-repairs-and-preventive-maintenance.md"
+   },
+   {
+    "slug": "general-ch02-32",
+    "seq": "32",
+    "title": "Appendix B—Recording of Major Repairs and Major Alterations",
+    "file": "32-appendix-b-recording-of-major-repairs-and-major-alterations.md"
+   },
+   {
+    "slug": "general-ch02-33",
+    "seq": "33",
+    "title": "Appendix C—(Reserved)",
+    "file": "33-appendix-c-reserved.md"
+   },
+   {
+    "slug": "general-ch02-34",
+    "seq": "34",
+    "title": "Appendix E—Altimeter System Test and Inspection",
+    "file": "34-appendix-e-altimeter-system-test-and-inspection.md"
+   },
+   {
+    "slug": "general-ch02-35",
+    "seq": "35",
+    "title": "Inspections",
+    "file": "35-inspections.md"
+   },
+   {
+    "slug": "general-ch02-36",
+    "seq": "36",
+    "title": "Subpart A—General",
+    "file": "36-subpart-a-general.md"
+   },
+   {
+    "slug": "general-ch02-37",
+    "seq": "37",
+    "title": "Subpart E—Maintenance, Preventive Maintenance, and Alterations",
+    "file": "37-subpart-e-maintenance-preventive-maintenance-and-alterations.md"
+   },
+   {
+    "slug": "general-ch02-38",
+    "seq": "38",
+    "title": "Civil Air Regulations (CAR)",
+    "file": "38-civil-air-regulations-car.md"
+   },
+   {
+    "slug": "general-ch02-39",
+    "seq": "39",
+    "title": "CAR 4a—Airplane Airworthiness",
+    "file": "39-car-4a-airplane-airworthiness.md"
+   },
+   {
+    "slug": "general-ch02-40",
+    "seq": "40",
+    "title": "Suspected Unapproved Parts (SUP)",
+    "file": "40-suspected-unapproved-parts-sup.md"
+   },
+   {
+    "slug": "general-ch02-41",
+    "seq": "41",
+    "title": "Advisory Circulars (AC)",
+    "file": "41-advisory-circulars-ac.md"
+   },
+   {
+    "slug": "general-ch02-42",
+    "seq": "42",
+    "title": "The AC Numbering System",
+    "file": "42-the-ac-numbering-system.md"
+   },
+   {
+    "slug": "general-ch02-43",
+    "seq": "43",
+    "title": "Types of Airworthiness Directives (AD)",
+    "file": "43-types-of-airworthiness-directives-ad.md"
+   },
+   {
+    "slug": "general-ch02-44",
+    "seq": "44",
+    "title": "AD Content",
+    "file": "44-ad-content.md"
+   },
+   {
+    "slug": "general-ch02-45",
+    "seq": "45",
+    "title": "AD Number",
+    "file": "45-ad-number.md"
+   },
+   {
+    "slug": "general-ch02-46",
+    "seq": "46",
+    "title": "Applicability and Compliance",
+    "file": "46-applicability-and-compliance.md"
+   },
+   {
+    "slug": "general-ch02-47",
+    "seq": "47",
+    "title": "Alternative Method of Compliance",
+    "file": "47-alternative-method-of-compliance.md"
+   },
+   {
+    "slug": "general-ch02-48",
+    "seq": "48",
+    "title": "Special Airworthiness Information Bulletin (SAIB)",
+    "file": "48-special-airworthiness-information-bulletin-saib.md"
+   },
+   {
+    "slug": "general-ch02-49",
+    "seq": "49",
+    "title": "Aircraft Specifications",
+    "file": "49-aircraft-specifications.md"
+   },
+   {
+    "slug": "general-ch02-50",
+    "seq": "50",
+    "title": "Supplemental Type Certificates (STC)",
+    "file": "50-supplemental-type-certificates-stc.md"
+   },
+   {
+    "slug": "general-ch02-51",
+    "seq": "51",
+    "title": "Type Certificate Data Sheets (TCDS)",
+    "file": "51-type-certificate-data-sheets-tcds.md"
+   },
+   {
+    "slug": "general-ch02-52",
+    "seq": "52",
+    "title": "FAA Handbooks & Manuals",
+    "file": "52-faa-handbooks-manuals.md"
+   },
+   {
+    "slug": "general-ch02-53",
+    "seq": "53",
+    "title": "Air Transport Association ATA iSpec 2200",
+    "file": "53-air-transport-association-ata-ispec-2200.md"
+   },
+   {
+    "slug": "general-ch02-54",
+    "seq": "54",
+    "title": "Manufacturers’ Published Data",
+    "file": "54-manufacturers-published-data.md"
+   },
+   {
+    "slug": "general-ch02-55",
+    "seq": "55",
+    "title": "Service Bulletins (SB)",
+    "file": "55-service-bulletins-sb.md"
+   },
+   {
+    "slug": "general-ch02-56",
+    "seq": "56",
+    "title": "Structural Repair Manual (SRM)",
+    "file": "56-structural-repair-manual-srm.md"
+   },
+   {
+    "slug": "general-ch02-57",
+    "seq": "57",
+    "title": "Airworthiness Certificates",
+    "file": "57-airworthiness-certificates.md"
+   },
+   {
+    "slug": "general-ch02-58",
+    "seq": "58",
+    "title": "Airworthiness Limitations",
+    "file": "58-airworthiness-limitations.md"
+   },
+   {
+    "slug": "general-ch02-59",
+    "seq": "59",
+    "title": "Aircraft Registration",
+    "file": "59-aircraft-registration.md"
+   },
+   {
+    "slug": "general-ch02-60",
+    "seq": "60",
+    "title": "Radio Station License",
+    "file": "60-radio-station-license.md"
+   },
+   {
+    "slug": "general-ch02-61",
+    "seq": "61",
+    "title": "FAA Form 337—Major Repair and Alteration",
+    "file": "61-faa-form-337-major-repair-and-alteration.md"
+   },
+   {
+    "slug": "general-ch02-62",
+    "seq": "62",
+    "title": "Making Maintenance Record Entries",
+    "file": "62-making-maintenance-record-entries.md"
+   },
+   {
+    "slug": "general-ch02-63",
+    "seq": "63",
+    "title": "Temporary Records—14 CFR Part 91 Section 91.417(a)(1) and (b)(1)",
+    "file": "63-temporary-records-14-cfr-part-91-section-91-417-a-1-and-b-1.md"
+   },
+   {
+    "slug": "general-ch02-64",
+    "seq": "64",
+    "title": "Permanent Records—14 CFR Part 91, Section 91.417(a)(2) and (b)(2)",
+    "file": "64-permanent-records-14-cfr-part-91-section-91-417-a-2-and-b-2.md"
+   },
+   {
+    "slug": "general-ch02-65",
+    "seq": "65",
+    "title": "Electronic Records",
+    "file": "65-electronic-records.md"
+   },
+   {
+    "slug": "general-ch02-66",
+    "seq": "66",
+    "title": "Maintenance",
+    "file": "66-maintenance.md"
+   },
+   {
+    "slug": "general-ch02-67",
+    "seq": "67",
+    "title": "Aircraft Maintenance Manual (AMM)",
+    "file": "67-aircraft-maintenance-manual-amm.md"
+   },
+   {
+    "slug": "general-ch02-68",
+    "seq": "68",
+    "title": "Line Maintenance, Repairs, & Alterations",
+    "file": "68-line-maintenance-repairs-alterations.md"
+   },
+   {
+    "slug": "general-ch02-69",
+    "seq": "69",
+    "title": "Major Repairs & Alterations",
+    "file": "69-major-repairs-alterations.md"
+   }
+  ]
+ },
+ {
+  "chapter": "general-ch04",
+  "book": "general",
+  "bookEn": "General",
+  "bookZh": "通用",
+  "num": "04",
+  "titleEn": "Aircraft Drawings",
+  "count": 11,
+  "cards": [
+   {
+    "slug": "general-ch04-01",
+    "seq": "01",
+    "title": "Introduction",
+    "file": "01-introduction.md"
+   },
+   {
+    "slug": "general-ch04-02",
+    "seq": "02",
+    "title": "Computer Graphics",
+    "file": "02-computer-graphics.md"
+   },
+   {
+    "slug": "general-ch04-03",
+    "seq": "03",
+    "title": "Purpose & Function of Aircraft Drawings",
+    "file": "03-purpose-function-of-aircraft-drawings.md"
+   },
+   {
+    "slug": "general-ch04-04",
+    "seq": "04",
+    "title": "Care & Use of Drawings",
+    "file": "04-care-use-of-drawings.md"
+   },
+   {
+    "slug": "general-ch04-05",
+    "seq": "05",
+    "title": "Types of Drawings",
+    "file": "05-types-of-drawings.md"
+   },
+   {
+    "slug": "general-ch04-06",
+    "seq": "06",
+    "title": "Detail Drawing",
+    "file": "06-detail-drawing.md"
+   },
+   {
+    "slug": "general-ch04-07",
+    "seq": "07",
+    "title": "Assembly Drawing",
+    "file": "07-assembly-drawing.md"
+   },
+   {
+    "slug": "general-ch04-08",
+    "seq": "08",
+    "title": "Installation Drawing",
+    "file": "08-installation-drawing.md"
+   },
+   {
+    "slug": "general-ch04-09",
+    "seq": "09",
+    "title": "Sectional View Drawings",
+    "file": "09-sectional-view-drawings.md"
+   },
+   {
+    "slug": "general-ch04-10",
+    "seq": "10",
+    "title": "Full Section",
+    "file": "10-full-section.md"
+   },
+   {
+    "slug": "general-ch04-11",
+    "seq": "11",
+    "title": "Half Section",
+    "file": "11-half-section.md"
+   }
+  ]
  }
 ];

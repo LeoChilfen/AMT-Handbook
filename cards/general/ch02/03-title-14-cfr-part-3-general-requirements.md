@@ -1,0 +1,74 @@
+# Title 14 CFR Part 3—General Requirements
+
+> 通用 Ch 02 · Title 14 CFR Part 3—General Requirements · 原文 PDF 第 51 页
+
+## 1. 原文
+
+Definitions. The following terms have the stated meanings when used in 14 CFR part 3, section 3.5, Statements about products, parts, appliances and materials.
+
+• Airworthy means the aircraft conforms to its type design and is in a condition for safe operation.
+
+• Product means an aircraft, aircraft engine, or aircraft propeller.
+
+• Record means any writing, drawing, map, recording, tape, film, photograph or other documentary material by which information is preserved or conveyed in any format, including, but not limited to, paper, microfilm, identification plates, stamped marks, bar codes or electronic format, and can either be separate from, attached to or inscribed on any product, part, appliance or material.
+
+Airworthiness can be divided into two areas: original airworthiness as depicted in Figure 2-5, and recurrent airworthiness as depicted in Figure 2-6. There are three primary regulations that govern the airworthiness of an aircraft:
+
+Comment: Civil Aeronautics Manual (CAMs) contain both regulations and advisory material in the same document.
+
+HISTORICAL BACKGROUND OF 14 CFR PARTS 23, 25, 27, AND 29 Event Regulating Agency Rules and Regulations CAR 3 CAR 4b CAR 4b Large A/C CAR 4T Transport CAR 4b CAR 3 CAR 4a-T SR 422 Jets SR 422A SR 422B PART 25 PART 29 PART 27 PART 23 Civil Air Regulation CAR Part 04 Bulletin 7 Bulletin 7-A CAR 04 <12,500 lb CAR 4a Small A/C CAR 4a-T >12,500 lb CAR Part 6 Rotorcraft Part 7 Transport Rotorcraft >6,000 lb 1956 Part 6 Normal Rotorcraft 1956 Department of Commerce Aeronautics Branch 1926 Air Commerce Act Bureau of Air Commerce Civil Aeronautics Administration Federal Aviation Agency Federal Aviation Administration 1934 Consolidation of Functions 1935 Cutting Air Crash 1938 Civil Aeronautics Act 1946 First Helicopter Certificated 1958 Federal Aviation Act 1965 Codification of CARs to FARs 1966 Agency becomes Administration under DOT 1. 14 CFR part 21—Certification Procedures for Products and Parts 2. 14 CFR part 43—Maintenance, Preventive Maintenance,
+
+## 2. 中文翻译
+
+定义。下列术语在 14 CFR part 3 第 3.5 节「关于产品、部件、机载设备与材料的说明」中使用时，具有下述含义。
+
+• Airworthy（适航）指航空器符合其型号设计，并且处于安全运行的状态。
+
+• Product（产品）指航空器、航空器发动机或航空器螺旋桨。
+
+• Record（记录）指任何书写件、图纸、地图、录音、磁带、胶片、照片或其他文献材料形式的载体，通过该载体可以以任何格式保存或传递信息，其格式包括但不限于纸质、缩微胶片、识别铭牌、冲压标记、条形码或电子格式；该载体可以与任何产品、部件、机载设备或材料分离、附着于其上或刻写于其上。
+
+适航性可以分为两个方面：图 2-5 所示的初始适航（original airworthiness），以及图 2-6 所示的持续适航（recurrent airworthiness）。有三部主要法规管辖航空器的适航性：
+
+评注：《民用航空手册》（CAMs）把法规与咨询性材料收录在同一份文件之中。
+
+本段为「14 CFR parts 23、25、27、29 的历史沿革」图表（HISTORICAL BACKGROUND OF 14 CFR PARTS 23, 25, 27, AND 29）的版式残留，主体是 1926 年《商业航空法》以来各阶段主管机构与规章编号的对照关系，此处从略。段末可辨识的内容是三主要法规清单的前两项：1. 14 CFR part 21——《产品与零部件的合格审定程序》；2. 14 CFR part 43——《维修、预防性维修、……》（原文在此处被截断）。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| airworthy | adj. | 适航的 | part 3 给出的法定定义：符合型号设计且处于安全运行状态 |
+| type design | n. phr. | 型号设计 | 定义适航的两个条件之一（conforms to its type design） |
+| product | n. | 产品 | 法定含义仅限航空器、发动机、螺旋桨三者 |
+| appliance | n. | 机载设备 | 与产品、部件、材料并列，如机载电子设备、仪表 |
+| record | n. | 记录 | 定义极宽，含纸质、缩微胶片、铭牌、条形码、电子格式 |
+| inscribe | v. | 刻写、铭刻 | inscribed on any product 指信息直接刻写在产品上 |
+| original airworthiness | n. phr. | 初始适航 | 设计与制造阶段的适航，对应图 2-5 |
+| recurrent airworthiness | n. phr. | 持续适航 | 使用与维修阶段的适航，对应图 2-6 |
+
+## 4. 语法解析
+
+### ① when used in …（连词 + 过去分词构成的省略状语从句）
+
+**原句**：The following terms have the stated meanings when used in 14 CFR part 3, section 3.5, Statements about products, parts, appliances and materials.
+
+**拆解**：主句为 The following terms have the stated meanings；when used in … 是「when + 过去分词」的省略式状语从句，相当于 when they are used in …；句末 Statements about products, parts, appliances and materials 是 section 3.5 的同位语（该节标题）。
+
+**要点**：when / while / if / unless + 过去分词是法规与手册的高频省略结构，条件是省略部分的主语与主句主语一致且含 be 动词。翻译时补出「当……使用时」。注意 stated meanings 是「所述含义」，不是「陈述过的含义」。
+
+### ② Airworthy means …（mean 后接省略 that 的宾语从句）
+
+**原句**：Airworthy means the aircraft conforms to its type design and is in a condition for safe operation.
+
+**拆解**：means 后是省略连接词 that 的宾语从句；从句内 the aircraft 为共同主语，两个并列谓语 conforms to its type design 与 is in a condition for safe operation。
+
+**要点**：conform to 是「符合（标准、规范、型号设计）」的固定搭配，不用 conform with（英式偶见，美式手册以 to 为主）。be in a condition for safe operation 是法条原话，译「处于安全运行状态」，不要译成「处于安全操作的条件」。
+
+### ③ by which information is preserved … including, but not limited to …（「介词 + which」定语从句 + 插入补充）
+
+**原句**：Record means any writing, drawing, map, recording, tape, film, photograph or other documentary material by which information is preserved or conveyed in any format, including, but not limited to, paper, microfilm, identification plates, stamped marks, bar codes or electronic format, and can either be separate from, attached to or inscribed on any product, part, appliance or material.
+
+**拆解**：by which 引导定语从句修饰 documentary material（by which = 通过该载体）；including, but not limited to, … 是插入的补充列举；句末 and can either be separate from, attached to or inscribed on … 与前面的 material 共用同一逻辑主语，构成第三个并列谓语。
+
+**要点**：including but not limited to 是法规列举的兜底套语，固定译「包括但不限于」。either … or … 在此是「既可以……也可以……」的多选并列，与 neither … nor …（两者都不）方向相反，不要混用。整句三个并列谓语被两个插入成分隔开，读句时先复位主谓宾骨架。

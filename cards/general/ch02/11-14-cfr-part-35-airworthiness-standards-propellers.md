@@ -1,0 +1,54 @@
+# 14 CFR Part 35—Airworthiness Standards: Propellers
+
+> 通用 Ch 02 · 14 CFR Part 35—Airworthiness Standards: Propellers · 原文 PDF 第 58 页
+
+## 1. 原文
+
+Just as each engine used on an aircraft must have a TC, the propeller must also be type certificated. This part is arranged the same way that 14 CFR part 33 is, in that subpart B specifies design and construction while subpart C covers tests and inspections.
+
+Since regulations change over the years, not every aircraft presently flying meets the current design regulations as printed this year. When regulations are revised, they are printed in the Federal Register and released with an amendment number that ties them to the regulation being revised. Aircraft are required to meet only the specifications in force at the time the aircraft is built. Note: The preceding statement does not apply to the mandatory requirements imposed by Airworthiness Directives (AD), as these usually have a compliance date included in the AD note.
+
+## 2. 中文翻译
+
+正如装在一架航空器上的每台发动机都必须持有型号合格证（TC），螺旋桨也必须经过型号合格审定。本部分（part 35）的编排方式与 14 CFR part 33 相同：subpart B 规定设计与构造，而 subpart C 涵盖试验与检查。
+
+由于规章历年多有修改，并非每一架目前在飞的航空器都满足今年印行的现行设计规章。规章经修订后，会在《联邦公报》（Federal Register）上印行，并附一个修正案号，把该修正案与被修订的那条规章关联起来。航空器只须满足其制造当时有效的那批技术规范。注：上述说法不适用于适航指令（AD）所施加的强制性要求，因为 AD 通常在自己正文里给出符合性日期。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| TC (type certificate) | abbr. | 型号合格证 | 发动机必须有，螺旋桨同样必须有；本节用它引出螺旋桨也要取证 |
+| type certificated | adj. | 取得型号合格证的 | 螺旋桨须经型号合格审定，与发动机同等待遇 |
+| subpart | n. | 分部 | part 35 下再分 B、C 两个分部，B 管设计构造、C 管试验检查 |
+| Federal Register | n. | 《联邦公报》 | 规章修订案的正式刊登载体，AD 正文也登在这里 |
+| amendment number | n. phr. | 修正案号 | 标明修订版本，把修订内容与被修订条文对应起来 |
+| in force | phr. | 现行的、生效的 | in force at the time the aircraft is built 即「制造时有效的」 |
+| Airworthiness Directive (AD) | n. | 适航指令 | 强制性要求，不受「按制造时规范合规」这一原则限制 |
+| compliance date | n. phr. | 符合性日期 | AD 正文中给出的完成期限 |
+
+## 4. 语法解析
+
+### ① Just as each engine … must have a TC（just as 引导类比状语从句）
+
+**原句**：Just as each engine used on an aircraft must have a TC, the propeller must also be type certificated.
+
+**拆解**：Just as 引导方式／类比状语从句，意为「正如」；从句主语 each engine，后接过去分词短语 used on an aircraft 作后置定语；主句为 the propeller must also be type certificated，两个 must 表强制要求。
+
+**要点**：手册常用 just as 把新规定挂到读者已经熟悉的规定上，主句再用 also 呼应，译作「正如……一样，……也……」。注意 must have a TC（持有这份文件）与 must be type certificated（通过这个审定）是同一要求的两种说法，本句刻意换用，避免重复。
+
+### ② in that subpart B specifies design and construction（in that 引导说明原因的从句）
+
+**原句**：This part is arranged the same way that 14 CFR part 33 is, in that subpart B specifies design and construction while subpart C covers tests and inspections.
+
+**拆解**：主句 This part is arranged the same way that 14 CFR part 33 is 中，the same way 后接 that 引导的定语从句（相当于 in which）；in that … 引导说明理由的状语从句，意为「在于、因为」；while 连接两个并列分句表对比。
+
+**要点**：in that 是书面语连词，等于 because，用来说明前面结论的依据，不能换成 in which。while 此处表对比（「而」），不是「当……时」。the same way that … 后的从句常省略介词，读时可以补成 in the same way in which。
+
+### ③ Aircraft are required to meet only the specifications in force …（被动 + only 的限定范围）
+
+**原句**：Aircraft are required to meet only the specifications in force at the time the aircraft is built.
+
+**拆解**：主句被动 are required to meet …；宾语 the specifications 带后置定语 in force（现行的）；only 限定 specifications，表示「只须」；at the time the aircraft is built 是时间状语从句，time 后省略了 when／that。
+
+**要点**：规章文本里 only 的位置决定它管到哪——这里 only 管宾语，意思是「只须满足制造时的规范，不必满足后来的」，改动 only 的位置就会改变整条规则的适用范围。in force 是形容词短语后置定语，等于 which are in force。
