@@ -4,7 +4,7 @@
 
 ## 1. 原文
 
-**Hearing Protection**
+### Hearing Protection
 
 The flight line is a place of dangerous activity. Technicians who perform maintenance on the flight line must constantly be aware of what is going on around them. The noise on a flight line comes from many places. Aircraft are only one source of noise. There are auxiliary power units (APUs), fuel trucks, baggage handling equipment, and so forth. Each has its own frequency of sound. Combined all together, the noise on the ramp or flight line can cause hearing loss.
 
@@ -12,17 +12,17 @@ There are many types of hearing protection available. Hearing protection can be 
 
 Hearing protection is essential when working with pneumatic drills, rivet guns, or other loud tools. Even short duration exposure to these sounds can cause hearing loss because of their high frequency. Continued exposure will cause hearing loss.
 
-**Foreign Object Damage (FOD)**
+### Foreign Object Damage (FOD)
 
 Foreign object damage (FOD) is any damage to aircraft, personnel, or equipment caused by any loose object. These loose objects can be anything, such as broken runway concrete, shop towels, safety wire, etc. To control FOD, keep ramp and operation areas clean, have a tool control program, and provide convenient receptacles for used hardware, shop towels, and other consumables.
 
 Never leave tools or other items around the intake of a turbine engine. The modern gas turbine engine creates a low-pressure area in front of the engine that causes any loose object to be drawn into the engine. The exhaust of these engines can propel loose objects great distances with enough force to damage anything that is hit. The importance of a FOD program cannot be overstressed when a technician considers the cost of engines, components, or a human life.
 
-**Safety Around Airplanes**
+### Safety Around Airplanes
 
 As with the previously mentioned items, it is important to be aware of propellers. Technicians cannot assume the pilot of a taxiing aircraft can see them and must stay within the pilot’s view while on the ramp area. Turbine engine intakes and exhaust can also be very hazardous areas. Smoking or open flames are not permitted anywhere near an aircraft in operation. Be aware of aircraft fluids that can be detrimental to skin. When operating support equipment around aircraft, be sure to allow space between it and the aircraft, and secure it so it cannot roll into the aircraft. All items in the area of operating aircraft must be stowed properly.
 
-**Safety Around Helicopters**
+### Safety Around Helicopters
 
 Every type of helicopter has different features. These differences must be learned to avoid damaging the helicopter or injuring the technician. When approaching a helicopter while the blades are turning, adhere to the following guidelines to ensure safety.
 
@@ -46,7 +46,7 @@ The key to fire safety is knowledge of what causes a fire, how to prevent it, an
 
 ## 2. 中文翻译
 
-**听力保护**
+### 听力保护
 
 停机坪是危险作业集中的场所。在停机坪上执行维修的技术人员必须时刻清楚周围正在发生什么。停机坪上的噪声来源很多。飞机只是其中一个噪声源。还有辅助动力装置（APU）、加油车、行李装卸设备等等。每种设备都有各自的声频率。这些声音叠加在一起，停机坪或外场上的噪声足以造成听力损伤。
 
@@ -54,17 +54,17 @@ The key to fire safety is knowledge of what causes a fire, how to prevent it, an
 
 使用气动钻、铆枪或其他高噪声工具时，听力保护必不可少。这类声音频率高，即使短时间暴露也可能造成听力损伤。持续暴露则必然导致听力损伤。
 
-**外来物损伤（FOD）**
+### 外来物损伤（FOD）
 
 外来物损伤（FOD）指任何松散物体对飞机、人员或设备造成的损伤。这些松散物体可以是任何东西，例如破损的跑道混凝土碎块、抹布、保险丝等。要控制 FOD，就应保持停机坪和作业区清洁，建立工具管控制度，并在方便的位置设置回收容器，用于存放用过的紧固件、抹布及其他消耗品。
 
 绝不要把工具或其他物品遗留在涡轮发动机进气口附近。现代燃气涡轮发动机在发动机前方形成低压区，会把任何松散物体吸入发动机。这类发动机的排气则能把松散物体吹出很远，其力量足以击伤被击中的任何东西。当技术人员想到发动机、部件乃至一条人命的代价时，FOD 计划的重要性再怎么强调都不为过。
 
-**飞机周围的安全**
+### 飞机周围的安全
 
 与前面提到的各项一样，必须留意螺旋桨。技术人员不能想当然地认为滑行中飞机的飞行员能看见自己，在停机坪区域必须始终处在飞行员的视野之内。涡轮发动机的进气道和排气口同样是十分危险的区域。在运行中的飞机附近任何地方都禁止吸烟或使用明火。要留意可能伤害皮肤的飞机液体。在飞机周围操作地面保障设备时，务必与飞机保持间距，并将其固定好，防止其自行滑动撞上飞机。运行中飞机所在区域内的所有物品都必须妥善存放。
 
-**直升机周围的安全**
+### 直升机周围的安全
 
 每一种直升机都有不同的结构特点。必须了解这些差异，以免损坏直升机或伤及技术人员。旋翼仍在转动时接近直升机，应遵守以下准则以确保安全。
 

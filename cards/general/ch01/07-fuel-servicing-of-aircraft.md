@@ -4,23 +4,23 @@
 
 ## 1. 原文
 
-**Types of Fuel and Identification**
+### Types of Fuel and Identification
 
 Two types of aviation fuel in general use are aviation gasoline, also known as A VGAS, and turbine fuel, also known as JET A fuel.
 
-Aviation gasoline (A VGAS) is used in reciprocating engine aircraft. Currently, there are three grades of fuel in general use: 80/87, 100/130, and 100LL (low lead). A fourth grade, 115/145, is in limited use in the large reciprocating-engine aircraft. The two numbers indicate the lean mixture and rich mixture octane rating numbers of the specific fuel. In other words, with 80/87 A VGAS, the 80 is the lean mixture rating and 87 is the rich mixture rating number. To avoid confusing the types of A VGAS, it is generally identified as grade 80, 100, 100LL, or 115. A VGAS can also be identified by a color code. The color of the fuel needs to match the color band on piping and fueling equipment. [Figure 1-31]
+Aviation gasoline (A VGAS) is used in reciprocating engine aircraft. Currently, there are three grades of fuel in general use: 80/87, 100/130, and 100LL (low lead). A fourth grade, 115/145, is in limited use in the large reciprocating-engine aircraft. The two numbers indicate the lean mixture and rich mixture octane rating numbers of the specific fuel. In other words, with 80/87 A VGAS, the 80 is the lean mixture rating and 87 is the rich mixture rating number. To avoid confusing the types of A VGAS, it is generally identified as grade 80, 100, 100LL, or 115. A VGAS can also be identified by a color code. The color of the fuel needs to match the color band on piping and fueling equipment.
 
 Turbine fuel/jet fuel is used to power turbojet and turbo- shaft engines. Three types of turbine fuel generally used in civilian aviation are JET A and JET A-1, made from kerosene, and JET B, a blend of kerosene and A VGAS. While jet fuel is identified by the color black on piping and fueling equipment, the actual color of jet fuel can be clear or straw colored.
 
 Before mixing A VGAS and turbine fuel, refer to the Type Certificate Data Sheet for the respective powerplant. Adding jet fuel to A VGAS causes a decrease in the power developed by the engine and could cause damage to the engine (through detonation) and loss of life. Adding A VGAS to jet fuel can cause lead deposits in the turbine engine and can lead to reduced service life.
 
-**Contamination Control**
+### Contamination Control
 
 Contamination is anything in the fuel that is not supposed to be there. The types of contamination found in aviation fuel include water, solids, and microbial growths. The control of contamination in aviation fuel is extremely important, since contamination can lead to engine failure or stoppage and the loss of life. The best method of controlling contamination is to prevent its introduction into the fuel system. Some forms of contamination can still occur inside the fuel system. However, the filter, separators, and screens remove most of the contamination.
 
 Water in aviation fuels generally take two forms: dissolved (vapor) and free water. The dissolved water is not a major problem until, as the temperature lowers, it becomes free water. This then poses a problem if ice crystals form, clogging filters and other small orifices.
 
-Color Grade Red 80 Green 100 Blue 100LL Purple 115 Free water can appear as water slugs or entrained water. Water slugs are concentrations of water. This is the water that is drained after fueling an aircraft. Entrained water is suspended water droplets. These droplets may not be visible to the eye but give the fuel a cloudy look. The entrained water settles out in time.
+Free water can appear as water slugs or entrained water. Water slugs are concentrations of water. This is the water that is drained after fueling an aircraft. Entrained water is suspended water droplets. These droplets may not be visible to the eye but give the fuel a cloudy look. The entrained water settles out in time.
 
 Solid contaminants are insoluble in fuel. The more common types are rust, dirt, sand, gasket material, lint, and fragments of shop towels. The close tolerances of fuel controls and other fuel-related mechanisms can be damaged or blocked by particles as small as 1⁄20 the diameter of a human hair.
 
@@ -40,9 +40,9 @@ Static electricity is a byproduct of one substance rubbing against another. Fuel
 
 Breathing the vapors from fuel can be harmful and must be limited. Any fuel spilled on the clothing or skin must be removed as soon as possible.
 
-**Fueling Procedures**
+### Fueling Procedures
 
-The proper fueling of an aircraft is the responsibility of the owner/operator. This does not, however, relieve the person doing the fueling of the responsibility to use the correct type of fuel and safe fueling procedures. There are two basic procedures when fueling an aircraft. Smaller aircraft are fueled by the over-the-wing method. This method uses the fuel hose to fill through fueling ports on the top of the wing. The method used for larger aircraft is the single point fueling system. This type of fueling system uses receptacles in the bottom leading edge of the wing to fill all the tanks. This decreases the time it takes to refuel the aircraft, limits contamination, and reduces the chance of static electricity igniting the fuel. Most pressure fueling systems consist of a pressure fueling hose and a panel of controls and gauges that permit one person to fuel or defuel any or all fuel tanks of an aircraft. Each tank can be filled to a predetermined level. These procedures are illustrated in Figures 1-32 and 1-33.
+The proper fueling of an aircraft is the responsibility of the owner/operator. This does not, however, relieve the person doing the fueling of the responsibility to use the correct type of fuel and safe fueling procedures. There are two basic procedures when fueling an aircraft. Smaller aircraft are fueled by the over-the-wing method. This method uses the fuel hose to fill through fueling ports on the top of the wing. The method used for larger aircraft is the single point fueling system. This type of fueling system uses receptacles in the bottom leading edge of the wing to fill all the tanks. This decreases the time it takes to refuel the aircraft, limits contamination, and reduces the chance of static electricity igniting the fuel. Most pressure fueling systems consist of a pressure fueling hose and a panel of controls and gauges that permit one person to fuel or defuel any or all fuel tanks of an aircraft. Each tank can be filled to a predetermined level.
 
 Prior to fueling, the person fueling must check the following:
 
@@ -56,7 +56,7 @@ Prior to fueling, the person fueling must check the following:
 
 6. Wear eye protection. Although generally not as critical as eye protection, other forms of protection, such as rubber gloves and aprons, can also protect the skin from the effects of spilled or splashed fuel.
 
-Ground wire 7. Do not fuel aircraft if there is danger of other aircraft in the vicinity blowing dirt in the direction of the aircraft being fueled. Blown dirt, dust, or other contaminants can enter an open fuel tank, contaminating the entire contents of the tank. 8. Do not fuel an aircraft when there is lightning within 5 miles.
+7. Do not fuel aircraft if there is danger of other aircraft in the vicinity blowing dirt in the direction of the aircraft being fueled. Blown dirt, dust, or other contaminants can enter an open fuel tank, contaminating the entire contents of the tank. 8. Do not fuel an aircraft when there is lightning within 5 miles.
 
 9. Do not fuel an aircraft within 500 feet of operating ground radar.
 
@@ -96,23 +96,23 @@ General precautions when defueling are:
 
 ## 2. 中文翻译
 
-**燃油的类型与识别**
+### 燃油的类型与识别
 
 通用航空燃料主要有两类：航空汽油（AVGAS）和涡轮燃料（也称 JET A 燃油）。
 
-航空汽油（AVGAS）用于活塞发动机飞机。目前通用的有三个牌号：80/87、100/130 和 100LL（低铅）。第四个牌号 115/145 在大型活塞发动机飞机上少量使用。两个数字分别表示该燃油的贫混合比和富混合比辛烷值。换言之，对 80/87 AVGAS，80 是贫混合比辛烷值，87 是富混合比辛烷值。为避免混淆各型 AVGAS，通常以牌号 80、100、100LL 或 115 来标识。AVGAS 也可用色标识别。燃油颜色必须与管路和加油设备上的色带一致。[图 1-31]
+航空汽油（AVGAS）用于活塞发动机飞机。目前通用的有三个牌号：80/87、100/130 和 100LL（低铅）。第四个牌号 115/145 在大型活塞发动机飞机上少量使用。两个数字分别表示该燃油的贫混合比和富混合比辛烷值。换言之，对 80/87 AVGAS，80 是贫混合比辛烷值，87 是富混合比辛烷值。为避免混淆各型 AVGAS，通常以牌号 80、100、100LL 或 115 来标识。AVGAS 也可用色标识别。燃油颜色必须与管路和加油设备上的色带一致。
 
 涡轮燃料/喷气燃料用于驱动涡轮喷气和涡轴发动机。民用航空常用的三种涡轮燃料中，JET A 和 JET A-1 由煤油制成，JET B 则是煤油与 AVGAS 的混合体。喷气燃料在管路和加油设备上以黑色标识，而喷气燃料本身可为无色或草黄色。
 
 在混合 AVGAS 与涡轮燃料之前，应查阅相应动力装置的型号合格证数据表（TCDS）。向 AVGAS 中加入喷气燃料会降低发动机的输出功率，并可能因爆震损坏发动机、造成人员死亡。向喷气燃料中加入 AVGAS 会在涡轮发动机内形成铅沉积，导致使用寿命缩短。
 
-**污染控制**
+### 污染控制
 
 污染是指燃油中本不该存在的任何物质。航空燃油中发现的污染类型包括水、固体物和微生物生长物。航空燃油的污染控制极为重要，因为污染会导致发动机失效或停车，乃至人员死亡。控制污染最好的办法是防止其进入燃油系统。燃油系统内部仍可能出现某些形式的污染，但滤芯、分离器和滤网能去除大部分污染。
 
 航空燃油中的水一般有两种形态：溶解水（蒸气态）和游离水。溶解水在温度降低转变为游离水之前并不构成大问题。此时若形成冰晶，堵塞滤芯及其他细小孔口，才会成为问题。
 
-色标与牌号（原文此处为表格残片，行文与下句连排）：红色—80、绿色—100、蓝色—100LL、紫色—115。游离水可呈水塞或夹带水形态。水塞是水的聚集。这是给飞机加油后放出的水。夹带水是悬浮的水滴。这些水滴可能肉眼不可见，但会使燃油呈现浑浊。夹带水会随时间沉降析出。
+游离水可呈水塞或夹带水形态。水塞是水的聚集。这是给飞机加油后放出的水。夹带水是悬浮的水滴。这些水滴可能肉眼不可见，但会使燃油呈现浑浊。夹带水会随时间沉降析出。
 
 固体污染物不溶于燃油。较常见的类型有铁锈、污垢、砂粒、垫片材料、棉绒和擦布碎屑。燃油控制器及其他燃油相关机构的配合公差很紧，小到人发直径 1/20 的颗粒就能使其损坏或堵塞。
 
@@ -132,9 +132,9 @@ General precautions when defueling are:
 
 吸入燃油蒸气有害健康，必须加以限制。溅到衣服或皮肤上的燃油必须尽快清除。
 
-**加油程序**
+### 加油程序
 
-正确地为飞机加油是机主/运营人的责任。但这并不免除实际加油人员使用正确油料和安全加油程序的责任。为飞机加油有两种基本方式。小型飞机采用翼上加油法。该方法用油软管通过机翼顶部的加油口加注。较大飞机采用单点加油系统。此类加油系统利用机翼下前缘的受油插座为所有油箱加注。这可缩短加油所需时间、限制污染，并降低静电引燃燃油的可能性。大多数压力加油系统由一根压力加油软管和一块控制与仪表板组成，可使一人为飞机的任一或全部油箱加油或抽油。每个油箱都可加到预定油量。这些程序见图 1-32 和图 1-33。
+正确地为飞机加油是机主/运营人的责任。但这并不免除实际加油人员使用正确油料和安全加油程序的责任。为飞机加油有两种基本方式。小型飞机采用翼上加油法。该方法用油软管通过机翼顶部的加油口加注。较大飞机采用单点加油系统。此类加油系统利用机翼下前缘的受油插座为所有油箱加注。这可缩短加油所需时间、限制污染，并降低静电引燃燃油的可能性。大多数压力加油系统由一根压力加油软管和一块控制与仪表板组成，可使一人为飞机的任一或全部油箱加油或抽油。每个油箱都可加到预定油量。
 
 加油前，加油人员必须检查以下各项：
 
@@ -148,7 +148,7 @@ General precautions when defueling are:
 
 6. 佩戴护目镜。其他防护用品（如橡胶手套和围裙）通常虽不如护目镜关键，但也能保护皮肤免受溢出或溅出燃油的影响。
 
-（图示标注：Ground wire，接地线）7. 如果附近其他飞机有可能把尘土吹向正在加油的飞机，不得为该机加油。被吹起的尘土、灰尘或其他污染物会进入敞开的油箱，污染整箱燃油。8. 5 英里范围内有闪电时，不得为飞机加油。
+7. 如果附近其他飞机有可能把尘土吹向正在加油的飞机，不得为该机加油。被吹起的尘土、灰尘或其他污染物会进入敞开的油箱，污染整箱燃油。8. 5 英里范围内有闪电时，不得为飞机加油。
 
 9. 不得在距正在工作的地面雷达 500 英尺以内为飞机加油。
 

@@ -8,9 +8,9 @@ Keeping the shop, hangars, and flight line clean is essential to safety and effi
 
 Safety is everyone’s business. However, technicians and supervisors must watch for their own safety and for the safety of others working around them. Communication is key to ensuring everyone’s safety. If other personnel are conducting their actions in an unsafe manner, communicate with them, reminding them of their safety and that of others around them.
 
-**Electrical Safety**
+### Electrical Safety
 
-**Physiological Safety**
+#### Physiological Safety
 
 Working with electrical equipment poses certain physiological safety hazards. When electricity is applied to the human body, it can create severe burns in the area of entrance and at the point of exit from the body. In addition, the nervous system is affected and can be damaged or destroyed. To safely deal with electricity, the technician must have a working knowledge of the principles of electricity and a healthy respect for its capability to do both work and damage.
 
@@ -20,13 +20,13 @@ Two factors that affect safety when dealing with electricity are fear and overco
 
 Lack of respect is often due to lack of knowledge. Personnel who attempt to work with electrical equipment and have no knowledge of the principles of electricity lack the skills to deal with electrical equipment safely. Overconfidence leads to risk taking. The technician who does not respect the capabilities of electricity will, sooner or later, become a victim of electricity’s power.
 
-**Fire Safety**
+#### Fire Safety
 
 Anytime current flows, whether during generation or transmission, a by-product is heat. The greater the current flow, the greater the amount of heat created. When this heat becomes too great, protective coatings on wiring and other electrical devices can melt, causing shorting. That in turn leads to more current flow and greater heat. This heat can become so great that metals can melt, liquids vaporize, and flammable substances ignite.
 
 An important factor in preventing electrical fires is to keep the area around electrical work or electrical equipment clean, uncluttered, and free of all unnecessary flammable substances. Ensure that all power cords, wires, and lines are free of kinks and bends that can damage the wire. Never place wires or cords where they may be walked on or run over by other equipment. When several wires inside a power cord are broken, the current passing through the remaining wires increases. This generates more heat than the insulation coatings on the wire are designed to withstand and can lead to a fire. Closely monitor the condition of electrical equipment. Repair or replace damaged equipment before further use.
 
-**Safety Around Compressed Gases**
+### Safety Around Compressed Gases
 
 Compressed air, like electricity, is an excellent tool when it is under control. The following “dos and don’ts” apply when working with or around compressed gases:
 
@@ -54,7 +54,7 @@ Pressure can force debris into the flesh leading to infection.
 
 When inflating tires on any type of aircraft wheels, always use tire cage guards. Extreme caution is required to avoid over inflation of high-pressure tires because of possible personal injury. Use pressure regulators on high-pressure air bottles to eliminate the possibility of over inflation of tires. Tire cages are not required when adjusting pressure in tires installed on an aircraft.
 
-**Safety Around Hazardous Materials**
+### Safety Around Hazardous Materials
 
 Material safety diamonds are important with regard to shop safety. These diamond-shaped labels are a simple and quick way to determine the risk of hazardous material within the associated container and, if used properly with the tags, indicate what personal safety equipment to use.
 
@@ -62,7 +62,7 @@ The most observable portion of the Safety Data Sheets (SDSs) (formerly known as 
 
 The SDS is a more detailed version of the chemical safety issues. These forms have the detailed breakdown of the chemicals, including formulas and action to take if personnel come in contact with the chemicals. All sheets have the same information requirements; however, the exact location of the information on the sheet may vary depending on the SDS manufacturer. These forms are necessary for a safe shop that meets all the requirements of the governing safety body, the U.S. Department of Labor Occupational Safety and Health Administration (OSHA).
 
-**Safety Around Machine Tools**
+### Safety Around Machine Tools
 
 Hazards in a shop increase when the operation of lathes, drill presses, grinders, and other types of machines are used. Each machine has its own set of safety practices. The following discussions are necessary to avoid injury.
 
@@ -152,9 +152,9 @@ Welding on an aircraft should be performed outside, if possible. If welding in t
 
 安全是每个人的事。然而，技术人员和主管都必须关注自身的安全，也要关注在其周围工作的其他人的安全。沟通是保障所有人安全的关键。如果其他人员作业方式不安全，要同他们沟通，提醒他们注意自身以及周围人员的安全。
 
-**电气安全**
+### 电气安全
 
-**生理安全**
+#### 生理安全
 
 使用电气设备会带来某些生理方面的安全隐患。电流作用于人体时，会在电流进入人体的部位和离开人体的部位造成严重烧伤。此外，神经系统也会受到影响，可能受损甚至被破坏。要安全地应对电，技术人员必须具备实用的电学原理知识，并对电既能做功又能造成伤害的能力怀有恰当的敬畏。
 
@@ -164,13 +164,13 @@ Welding on an aircraft should be performed outside, if possible. If welding in t
 
 缺乏敬畏往往源于缺乏知识。试图操作电气设备却不懂电学原理的人员，不具备安全处置电气设备的技能。过度自信会导致冒险。不敬畏电的能力的技术人员，迟早会成为电的威力的牺牲品。
 
-**火灾安全**
+#### 火灾安全
 
 只要有电流流动，无论是在发电还是在输电过程中，都会伴生热量。电流越大，产生的热量越多。当热量过大时，导线和其他电气装置上的保护涂层会熔化，造成短路。这又会导致更大的电流和更多的热量。热量可能大到使金属熔化、液体汽化、可燃物质被引燃。
 
 防止电气火灾的一个重要因素，是保持电气作业或电气设备周围区域清洁、整齐，不存放任何不必要的可燃物质。要确保所有电源线、导线和线路没有可能损伤导线的扭结和弯折。绝不要把电线或电缆放在会被踩踏或被其他设备碾压的位置。当一根电源线内的多根导线断裂时，通过其余导线的电流会增大。这产生的热量超过导线绝缘涂层所能承受的限度，可能导致火灾。要密切监控电气设备的状况。损坏的设备在再次使用前必须修复或更换。
 
-**压缩气体周围的安全**
+### 压缩气体周围的安全
 
 压缩空气和电一样，在受控状态下是极好的工具。在操作或靠近压缩气体作业时，应遵守以下“注意事项”：
 
@@ -198,7 +198,7 @@ Welding on an aircraft should be performed outside, if possible. If welding in t
 
 给任何类型飞机机轮上的轮胎充气时，务必使用轮胎防护笼。由于存在人身伤害的可能，必须极其谨慎，避免给高压轮胎过量充气。在高压气瓶上使用减压器，以消除轮胎过量充气的可能。为已装在飞机上的轮胎调整气压时，不需要使用轮胎防护笼。
 
-**危险材料周围的安全**
+### 危险材料周围的安全
 
 材料安全菱形标志对车间安全十分重要。这种菱形标签是判断相应容器内危险材料风险的简便快捷方法；若与标牌配合正确使用，还可指出应使用何种个人防护装备。
 
@@ -206,7 +206,7 @@ Welding on an aircraft should be performed outside, if possible. If welding in t
 
 SDS 是化学品安全问题的更为详细的版本。这些表格载有化学品的详细分类信息，包括分子式，以及人员接触化学品时应采取的措施。所有表格的信息要求都相同；但信息在表格上的确切位置可能因 SDS 的编制厂商而异。要建成符合主管安全机构——美国劳工部职业安全与健康管理局（OSHA）——全部要求的、安全的车间，这些表格是必需的。
 
-**机床周围的安全**
+### 机床周围的安全
 
 使用车床、钻床、砂轮机等各类机床作业时，车间里的危险会增加。每种机床都有各自的一套安全操作规范。以下讨论是避免伤害所必需的。
 
