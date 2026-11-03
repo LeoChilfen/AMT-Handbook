@@ -49,7 +49,8 @@ Compressed air, like electricity, is an excellent tool when it is under control.
 • Straighten, coil, and properly store air hoses when not in use.
 
 • Many accidents involving compressed gases occur during aircraft tire mounting. To prevent possible personal injury, use tire dollies and other appropriate devices to mount or remove heavy aircraft tires.
-  When inflating tires on any type of aircraft wheels, always use tire cage guards. Extreme caution is required to avoid over inflation of high-pressure tires because of possible personal injury. Use pressure regulators on high-pressure air bottles to eliminate the possibility of over inflation of tires. Tire cages are not required when adjusting pressure in tires installed on an aircraft.
+
+When inflating tires on any type of aircraft wheels, always use tire cage guards. Extreme caution is required to avoid over inflation of high-pressure tires because of possible personal injury. Use pressure regulators on high-pressure air bottles to eliminate the possibility of over inflation of tires. Tire cages are not required when adjusting pressure in tires installed on an aircraft.
 
 ### Safety Around Hazardous Materials
 
