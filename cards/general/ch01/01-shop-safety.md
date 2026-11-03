@@ -28,7 +28,7 @@ An important factor in preventing electrical fires is to keep the area around el
 
 **Safety Around Compressed Gases**
 
-Compressed air, like electricity, is an excellent tool when it is under control. A typical nitrogen bottle set is shown in Figure 1-1. The following “dos and don’ts” apply when working with or around compressed gases:
+Compressed air, like electricity, is an excellent tool when it is under control. The following “dos and don’ts” apply when working with or around compressed gases:
 
 • Inspect air hoses frequently for breaks and worn spots.
 
@@ -58,7 +58,7 @@ When inflating tires on any type of aircraft wheels, always use tire cage guards
 
 Material safety diamonds are important with regard to shop safety. These diamond-shaped labels are a simple and quick way to determine the risk of hazardous material within the associated container and, if used properly with the tags, indicate what personal safety equipment to use.
 
-The most observable portion of the Safety Data Sheets (SDSs) (formerly known as Material Safety Data Sheet (MSDS)) label is the risk diamond. It is a four-color segmented diamond that represents flammability (red), reactivity (yellow), health (blue), and special hazard (white). In the flammability, reactivity, and health blocks, there is a number from 0 to 4. Zero represents little or no hazard to the user, while 4 means that the material is very hazardous. The special hazard segment contains a word or abbreviation to represent the specific hazard. Some examples are RAD for radiation, ALK for alkali materials, Acid for acidic materials, and CARC for carcinogenic materials. The letter W with a line through it stands for high reactivity to water. [Figure 1-2]
+The most observable portion of the Safety Data Sheets (SDSs) (formerly known as Material Safety Data Sheet (MSDS)) label is the risk diamond. It is a four-color segmented diamond that represents flammability (red), reactivity (yellow), health (blue), and special hazard (white). In the flammability, reactivity, and health blocks, there is a number from 0 to 4. Zero represents little or no hazard to the user, while 4 means that the material is very hazardous. The special hazard segment contains a word or abbreviation to represent the specific hazard. Some examples are RAD for radiation, ALK for alkali materials, Acid for acidic materials, and CARC for carcinogenic materials. The letter W with a line through it stands for high reactivity to water.
 
 The SDS is a more detailed version of the chemical safety issues. These forms have the detailed breakdown of the chemicals, including formulas and action to take if personnel come in contact with the chemicals. All sheets have the same information requirements; however, the exact location of the information on the sheet may vary depending on the SDS manufacturer. These forms are necessary for a safe shop that meets all the requirements of the governing safety body, the U.S. Department of Labor Occupational Safety and Health Administration (OSHA).
 
@@ -158,9 +158,13 @@ Welding on an aircraft should be performed outside, if possible. If welding in t
 
 使用电气设备会带来某些生理方面的安全隐患。电流作用于人体时，会在电流进入人体的部位和离开人体的部位造成严重烧伤。此外，神经系统也会受到影响，可能受损甚至被破坏。要安全地应对电，技术人员必须具备实用的电学原理知识，并对电既能做功又能造成伤害的能力怀有恰当的敬畏。
 
-穿戴或使用适当的防护装备，既能给人心理上的保障，又能同时从物理上保护使用者。使用橡胶手套、护目镜、橡胶垫或接地安全垫以及其他防护装备，有助于提高在电气设备上作业或与之打交道的技术人员的整体安全性。应对电时影响安全的两个因素是恐惧和过度自信。这两个因素是涉电事故的主要原因。对电气设备保持一定程度的敬畏是有益的，保持一定程度的自信也是必要的，但两者的极端都可能致命。
+穿戴或使用适当的防护装备，既能给人心理上的保障，又能同时从物理上保护使用者。使用橡胶手套、护目镜、橡胶垫或接地安全垫以及其他防护装备，有助于提高在电气设备上作业或与之打交道的技术人员的整体安全性。
+
+应对电时影响安全的两个因素是恐惧和过度自信。这两个因素是涉电事故的主要原因。对电气设备保持一定程度的敬畏是有益的，保持一定程度的自信也是必要的，但两者的极端都可能致命。
 
 缺乏敬畏往往源于缺乏知识。试图操作电气设备却不懂电学原理的人员，不具备安全处置电气设备的技能。过度自信会导致冒险。不敬畏电的能力的技术人员，迟早会成为电的威力的牺牲品。
+
+**火灾安全**
 
 只要有电流流动，无论是在发电还是在输电过程中，都会伴生热量。电流越大，产生的热量越多。当热量过大时，导线和其他电气装置上的保护涂层会熔化，造成短路。这又会导致更大的电流和更多的热量。热量可能大到使金属熔化、液体汽化、可燃物质被引燃。
 
@@ -168,7 +172,7 @@ Welding on an aircraft should be performed outside, if possible. If welding in t
 
 **压缩气体周围的安全**
 
-压缩空气和电一样，在受控状态下是极好的工具。图 1-1 所示为典型的氮气瓶组。在操作或靠近压缩气体作业时，应遵守以下“注意事项”：
+压缩空气和电一样，在受控状态下是极好的工具。在操作或靠近压缩气体作业时，应遵守以下“注意事项”：
 
 • 经常检查空气软管有无破损和磨损处。
 
@@ -196,13 +200,17 @@ Welding on an aircraft should be performed outside, if possible. If welding in t
 
 **危险材料周围的安全**
 
-材料安全菱形标志对车间安全十分重要。这种菱形标签是判断相应容器内危险材料风险的简便快捷方法；若与标牌配合正确使用，还可指出应使用何种个人防护装备。安全数据表（SDSs）（旧称材料安全数据表（MSDS））标签上最显眼的部分就是风险菱形。它是一个分四色分段的菱形，分别表示可燃性（红）、反应性（黄）、健康危害（蓝）和特殊危害（白）。在可燃性、反应性和健康危害三个区块内，标有 0 到 4 的数字。0 表示对使用者危害很小或没有危害，4 则表示该材料极其危险。特殊危害区块内含一个词或缩写，表示特定的危害。例如 RAD 表示放射性，ALK 表示碱性材料，Acid 表示酸性材料，CARC 表示致癌材料。字母 W 加一条斜线表示对水的反应性高。[图 1-2]
+材料安全菱形标志对车间安全十分重要。这种菱形标签是判断相应容器内危险材料风险的简便快捷方法；若与标牌配合正确使用，还可指出应使用何种个人防护装备。
+
+安全数据表（SDSs）（旧称材料安全数据表（MSDS））标签上最显眼的部分就是风险菱形。它是一个分四色分段的菱形，分别表示可燃性（红）、反应性（黄）、健康危害（蓝）和特殊危害（白）。在可燃性、反应性和健康危害三个区块内，标有 0 到 4 的数字。0 表示对使用者危害很小或没有危害，4 则表示该材料极其危险。特殊危害区块内含一个词或缩写，表示特定的危害。例如 RAD 表示放射性，ALK 表示碱性材料，Acid 表示酸性材料，CARC 表示致癌材料。字母 W 加一条斜线表示对水的反应性高。
 
 SDS 是化学品安全问题的更为详细的版本。这些表格载有化学品的详细分类信息，包括分子式，以及人员接触化学品时应采取的措施。所有表格的信息要求都相同；但信息在表格上的确切位置可能因 SDS 的编制厂商而异。要建成符合主管安全机构——美国劳工部职业安全与健康管理局（OSHA）——全部要求的、安全的车间，这些表格是必需的。
 
 **机床周围的安全**
 
-使用车床、钻床、砂轮机等各类机床作业时，车间里的危险会增加。每种机床都有各自的一套安全操作规范。以下讨论是避免伤害所必需的。钻床可用于钻孔和铰孔，也可进行端面加工、铣削及其他类似作业。以下预防措施可降低受伤的可能：
+使用车床、钻床、砂轮机等各类机床作业时，车间里的危险会增加。每种机床都有各自的一套安全操作规范。以下讨论是避免伤害所必需的。
+
+钻床可用于钻孔和铰孔，也可进行端面加工、铣削及其他类似作业。以下预防措施可降低受伤的可能：
 
 • 佩戴护目镜。
 
@@ -216,7 +224,7 @@ SDS 是化学品安全问题的更为详细的版本。这些表格载有化学�
 
 • 完工后清理作业区域。
 
-车床用于车削圆柱形工件。这种加工可在圆柱的外圆上进行，也可在其内孔上进行。工件装夹在卡盘中以获得旋转运动，成形则通过与安装牢固的刀具接触而完成（原文此处混入“4 W 32”字符残片，疑为图示标记，略）。以下预防措施可降低受伤的可能：
+车床用于车削圆柱形工件。这种加工可在圆柱的外圆上进行，也可在其内孔上进行。工件装夹在卡盘中以获得旋转运动，成形则通过与安装牢固的刀具接触而完成。以下预防措施可降低受伤的可能：
 
 • 佩戴护目镜。
 
