@@ -32,7 +32,9 @@ Portable hydraulic test stands are manufactured in many sizes and cost ranges. S
 
 • Refill the aircraft hydraulic system with clean fluid.
 
-• Check the aircraft hydraulic systems for operation and leaks. This type of portable hydraulic test unit is usually an electrically-powered unit. It uses a hydraulic system capable of delivering a variable volume of fluid from zero to approximately 24 gallons per minute at variable pressures up to 3,000 psi. Operating at pressures of 3,000 psi or more, extreme caution must be used when operating hydraulic power units. At 3,000 psi, a small stream from a leak can cut like a sharp knife. Therefore, inspect lines used with the system for cuts, frays, or any other damage, and keep them free of kinks and twists. When not in use, hydraulic power unit lines are to be stored (preferably wound on a reel) and kept clean, dry, and free of contaminants.
+• Check the aircraft hydraulic systems for operation and leaks.
+
+This type of portable hydraulic test unit is usually an electrically-powered unit. It uses a hydraulic system capable of delivering a variable volume of fluid from zero to approximately 24 gallons per minute at variable pressures up to 3,000 psi. Operating at pressures of 3,000 psi or more, extreme caution must be used when operating hydraulic power units. At 3,000 psi, a small stream from a leak can cut like a sharp knife. Therefore, inspect lines used with the system for cuts, frays, or any other damage, and keep them free of kinks and twists. When not in use, hydraulic power unit lines are to be stored (preferably wound on a reel) and kept clean, dry, and free of contaminants.
 
 #### Ground Support Air Units
 
