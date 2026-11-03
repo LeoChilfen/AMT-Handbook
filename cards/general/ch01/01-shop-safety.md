@@ -49,8 +49,7 @@ Compressed air, like electricity, is an excellent tool when it is under control.
 • Straighten, coil, and properly store air hoses when not in use.
 
 • Many accidents involving compressed gases occur during aircraft tire mounting. To prevent possible personal injury, use tire dollies and other appropriate devices to mount or remove heavy aircraft tires.
-
-When inflating tires on any type of aircraft wheels, always use tire cage guards. Extreme caution is required to avoid over inflation of high-pressure tires because of possible personal injury. Use pressure regulators on high-pressure air bottles to eliminate the possibility of over inflation of tires. Tire cages are not required when adjusting pressure in tires installed on an aircraft.
+  When inflating tires on any type of aircraft wheels, always use tire cage guards. Extreme caution is required to avoid over inflation of high-pressure tires because of possible personal injury. Use pressure regulators on high-pressure air bottles to eliminate the possibility of over inflation of tires. Tire cages are not required when adjusting pressure in tires installed on an aircraft.
 
 ### Safety Around Hazardous Materials
 
@@ -117,8 +116,7 @@ Grinders are used to sharpen tools, dress metal, and perform other operations in
 • Do not force grinding wheels onto the spindle. They fit snugly but do not require force to install them. Placing side pressure on a wheel could cause it to explode.
 
 • Check the wheel flanges and compression washer.
-
-They should be one-third the diameter of the wheel.
+  They should be one-third the diameter of the wheel.
 
 • Do not stand in the arc of the grinding wheel while operating in case the wheel explodes.
 
@@ -191,8 +189,7 @@ Welding on an aircraft should be performed outside, if possible. If welding in t
 • 不使用时，应将空气软管理顺、盘好并妥善存放。
 
 • 许多涉及压缩气体的事故发生在安装飞机轮胎的过程中。为防止可能的人身伤害，应使用轮胎小车及其他合适的器具来安装或拆卸沉重的飞机轮胎。
-
-给任何类型飞机机轮上的轮胎充气时，务必使用轮胎防护笼。由于存在人身伤害的可能，必须极其谨慎，避免给高压轮胎过量充气。在高压气瓶上使用减压器，以消除轮胎过量充气的可能。为已装在飞机上的轮胎调整气压时，不需要使用轮胎防护笼。
+  给任何类型飞机机轮上的轮胎充气时，务必使用轮胎防护笼。由于存在人身伤害的可能，必须极其谨慎，避免给高压轮胎过量充气。在高压气瓶上使用减压器，以消除轮胎过量充气的可能。为已装在飞机上的轮胎调整气压时，不需要使用轮胎防护笼。
 
 ### 危险材料周围的安全
 
@@ -259,8 +256,7 @@ SDS 是化学品安全问题的更为详细的版本。这些表格载有化学�
 • 不要强行把砂轮压装到主轴上。砂轮安装时贴合紧密，但不需要用力。对砂轮施加侧向压力可能使其爆裂。
 
 • 检查砂轮法兰盘和压紧垫圈。
-
-它们应为砂轮直径的三分之一。
+  它们应为砂轮直径的三分之一。
 
 • 操作时不要站在砂轮的回转弧线范围内，以防砂轮爆裂。
 

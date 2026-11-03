@@ -33,8 +33,7 @@ Every type of helicopter has different features. These differences must be learn
 • Never approach a helicopter carrying anything with a vertical height that the blades could hit. This could cause blade damage and injury to the individual.
 
 • Never approach a single-rotor helicopter from the rear.
-
-The tail rotor is invisible when operating.
+  The tail rotor is invisible when operating.
 
 • Never go from one side of the helicopter to the other by going around the tail. Always go around the nose of the helicopter.
 
@@ -77,8 +76,7 @@ The key to fire safety is knowledge of what causes a fire, how to prevent it, an
 • 绝不要携带竖直高度可能被桨叶击中的物品接近直升机。这可能造成桨叶损坏并伤及人员。
 
 • 绝不要从后方接近单旋翼直升机。
-
-尾桨在运转时是看不见的。
+  尾桨在运转时是看不见的。
 
 • 绝不要绕机尾从直升机一侧走到另一侧。始终从机头方向绕行。
 
