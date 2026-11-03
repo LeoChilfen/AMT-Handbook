@@ -1968,7 +1968,7 @@ window.AMT_CARDS = [
   "bookZh": "通用",
   "num": "01",
   "titleEn": "Safety, Ground Operations, & Servicing",
-  "count": 10,
+  "count": 7,
   "cards": [
    {
     "slug": "general-ch01-01",
@@ -1979,56 +1979,38 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch01-02",
     "seq": "02",
-    "title": "Safety Around Compressed Gases",
-    "file": "02-safety-around-compressed-gases.md"
+    "title": "Flight Line Safety",
+    "file": "02-flight-line-safety.md"
    },
    {
     "slug": "general-ch01-03",
     "seq": "03",
-    "title": "Safety Around Hazardous Materials",
-    "file": "03-safety-around-hazardous-materials.md"
+    "title": "Fire Protection",
+    "file": "03-fire-protection.md"
    },
    {
     "slug": "general-ch01-04",
     "seq": "04",
-    "title": "Safety Around Machine Tools",
-    "file": "04-safety-around-machine-tools.md"
+    "title": "Tie-Down Procedures",
+    "file": "04-tie-down-procedures.md"
    },
    {
     "slug": "general-ch01-05",
     "seq": "05",
-    "title": "Flight Line Safety",
-    "file": "05-flight-line-safety.md"
+    "title": "Ground Movement of Aircraft",
+    "file": "05-ground-movement-of-aircraft.md"
    },
    {
     "slug": "general-ch01-06",
     "seq": "06",
-    "title": "Fire Protection",
-    "file": "06-fire-protection.md"
+    "title": "Servicing Aircraft",
+    "file": "06-servicing-aircraft.md"
    },
    {
     "slug": "general-ch01-07",
     "seq": "07",
-    "title": "Tie-Down Procedures",
-    "file": "07-tie-down-procedures.md"
-   },
-   {
-    "slug": "general-ch01-08",
-    "seq": "08",
-    "title": "Ground Movement of Aircraft",
-    "file": "08-ground-movement-of-aircraft.md"
-   },
-   {
-    "slug": "general-ch01-09",
-    "seq": "09",
-    "title": "Servicing Aircraft",
-    "file": "09-servicing-aircraft.md"
-   },
-   {
-    "slug": "general-ch01-10",
-    "seq": "10",
     "title": "Fuel Servicing of Aircraft",
-    "file": "10-fuel-servicing-of-aircraft.md"
+    "file": "07-fuel-servicing-of-aircraft.md"
    }
   ]
  }
