@@ -14,9 +14,13 @@ Safety is everyone’s business. However, technicians and supervisors must watch
 
 Working with electrical equipment poses certain physiological safety hazards. When electricity is applied to the human body, it can create severe burns in the area of entrance and at the point of exit from the body. In addition, the nervous system is affected and can be damaged or destroyed. To safely deal with electricity, the technician must have a working knowledge of the principles of electricity and a healthy respect for its capability to do both work and damage.
 
-Wearing or use of proper safety equipment can provide a psychological assurance and physically protect the user at the same time. The use of rubber gloves, safety glasses, rubber or grounded safety mats, and other safety equipment contributes to the overall safety of the technician working on or with electrical equipment. Two factors that affect safety when dealing with electricity are fear and overconfidence. These two factors are major causes of accidents involving electricity. While a certain amount of respect for electrical equipment is healthy and a certain level of confidence is necessary, extremes of either can be deadly.
+Wearing or use of proper safety equipment can provide a psychological assurance and physically protect the user at the same time. The use of rubber gloves, safety glasses, rubber or grounded safety mats, and other safety equipment contributes to the overall safety of the technician working on or with electrical equipment.
+
+Two factors that affect safety when dealing with electricity are fear and overconfidence. These two factors are major causes of accidents involving electricity. While a certain amount of respect for electrical equipment is healthy and a certain level of confidence is necessary, extremes of either can be deadly.
 
 Lack of respect is often due to lack of knowledge. Personnel who attempt to work with electrical equipment and have no knowledge of the principles of electricity lack the skills to deal with electrical equipment safely. Overconfidence leads to risk taking. The technician who does not respect the capabilities of electricity will, sooner or later, become a victim of electricity’s power.
+
+**Fire Safety**
 
 Anytime current flows, whether during generation or transmission, a by-product is heat. The greater the current flow, the greater the amount of heat created. When this heat becomes too great, protective coatings on wiring and other electrical devices can melt, causing shorting. That in turn leads to more current flow and greater heat. This heat can become so great that metals can melt, liquids vaporize, and flammable substances ignite.
 
@@ -52,13 +56,17 @@ When inflating tires on any type of aircraft wheels, always use tire cage guards
 
 **Safety Around Hazardous Materials**
 
-Material safety diamonds are important with regard to shop safety. These diamond-shaped labels are a simple and quick way to determine the risk of hazardous material within the associated container and, if used properly with the tags, indicate what personal safety equipment to use. The most observable portion of the Safety Data Sheets (SDSs) (formerly known as Material Safety Data Sheet (MSDS)) label is the risk diamond. It is a four-color segmented diamond that represents flammability (red), reactivity (yellow), health (blue), and special hazard (white). In the flammability, reactivity, and health blocks, there is a number from 0 to 4. Zero represents little or no hazard to the user, while 4 means that the material is very hazardous. The special hazard segment contains a word or abbreviation to represent the specific hazard. Some examples are RAD for radiation, ALK for alkali materials, Acid for acidic materials, and CARC for carcinogenic materials. The letter W with a line through it stands for high reactivity to water. [Figure 1-2]
+Material safety diamonds are important with regard to shop safety. These diamond-shaped labels are a simple and quick way to determine the risk of hazardous material within the associated container and, if used properly with the tags, indicate what personal safety equipment to use.
+
+The most observable portion of the Safety Data Sheets (SDSs) (formerly known as Material Safety Data Sheet (MSDS)) label is the risk diamond. It is a four-color segmented diamond that represents flammability (red), reactivity (yellow), health (blue), and special hazard (white). In the flammability, reactivity, and health blocks, there is a number from 0 to 4. Zero represents little or no hazard to the user, while 4 means that the material is very hazardous. The special hazard segment contains a word or abbreviation to represent the specific hazard. Some examples are RAD for radiation, ALK for alkali materials, Acid for acidic materials, and CARC for carcinogenic materials. The letter W with a line through it stands for high reactivity to water. [Figure 1-2]
 
 The SDS is a more detailed version of the chemical safety issues. These forms have the detailed breakdown of the chemicals, including formulas and action to take if personnel come in contact with the chemicals. All sheets have the same information requirements; however, the exact location of the information on the sheet may vary depending on the SDS manufacturer. These forms are necessary for a safe shop that meets all the requirements of the governing safety body, the U.S. Department of Labor Occupational Safety and Health Administration (OSHA).
 
 **Safety Around Machine Tools**
 
-Hazards in a shop increase when the operation of lathes, drill presses, grinders, and other types of machines are used. Each machine has its own set of safety practices. The following discussions are necessary to avoid injury. The drill press can be used to bore and ream holes, to do facing, milling, and other similar types of operations. The following precautions can reduce the chance of injury:
+Hazards in a shop increase when the operation of lathes, drill presses, grinders, and other types of machines are used. Each machine has its own set of safety practices. The following discussions are necessary to avoid injury.
+
+The drill press can be used to bore and ream holes, to do facing, milling, and other similar types of operations. The following precautions can reduce the chance of injury:
 
 • Wear eye protection.
 
@@ -72,7 +80,7 @@ Hazards in a shop increase when the operation of lathes, drill presses, grinders
 
 • Clean the area when finished.
 
-Lathes are used in turning work of a cylindrical nature. This work may be performed on the inside or outside of the cylinder. The work is secured in the chuck to provide the rotary motion, and the forming is done by contact with a 4 W 32 securely mounted tool. The following precautions can reduce the chance of injury:
+Lathes are used in turning work of a cylindrical nature. This work may be performed on the inside or outside of the cylinder. The work is secured in the chuck to provide the rotary motion, and the forming is done by contact with a securely mounted tool. The following precautions can reduce the chance of injury:
 
 • Wear eye protection.
 
