@@ -1,0 +1,256 @@
+# Simple Machines
+
+> 通用 Ch 05 · Simple Machines · 原文 PDF 第 157 页
+
+## 1. 原文
+
+A machine is any device with which work may be accomplished. For example, machines can be used for any of the following purposes, or combinations of these 5 purposes:
+
+1. Machines are used to transform energy, as in the case of a generator transforming mechanical energy into electrical energy. 2. Machines are used to transfer energy from one place to another, as in the examples of the connecting rods, crankshaft, and reduction gears transferring energy from an aircraft’s engine to its propeller.
+
+3. Machines are used to multiply force; for example, a system of pulleys may be used to lift a heavy load. The pulley system enables the load to be raised by exerting a force that is smaller than the weight of the load.
+
+4. Machines can be used to multiply speed. A good example is the bicycle, by which speed can be gained by exerting a greater force.
+
+5. Machines can be used to change the direction of a force. An example of this use is the flag hoist. A downward force on one side of the rope exerts an upward force on the other side, raising the flag toward the top of the pole.
+
+There are only six simple machines. They are the lever, the pulley, the wheel and axle, the inclined plane, the screw, and the gear. Physicists, however, recognize only two basic principles in machines: the lever and the inclined plane.
+
+(block and tackle), the wheel and axle, and gears operate on the machine principle of the lever. The wedge and the screw use the principle of the inclined plane.
+
+An understanding of the principles of simple machines provides a necessary foundation for the study of compound machines, which are combinations of two or more simple machines.
+
+### Mechanical Advantage of Machines
+
+As identified in statements 3 and 4 under simple machines, a machine can be used to multiply force or to multiply speed. It cannot, however, multiply force and speed at the same time. In order to gain one force, it must lose the other force. To do otherwise would mean the machine has more power going Force of 500 lb Torque = F x d Torque = 500 x 4 Torque = 2,000 lb-in Torque = 166.7 lb-ft Piston Connecting rod Crankshaft 4"
+
+out than coming in, and that is not possible.
+
+In reference to machines, mechanical advantage is a comparison of the output force to the input force, or the output distance to the input distance. If there is a mechanical advantage in terms of force, there will be a fractional disadvantage in terms of distance. The following formulas can be used to calculate mechanical advantage.
+
+Mechanical Advantage = Force Out ÷ Force In or Mechanical Advantage = Distance Out ÷ Distance In
+
+The simplest machine, and perhaps the most familiar one, is the lever. A seesaw is a familiar example of a lever, with two people sitting on either end of a board and a pivoting point in the middle. There are three basic parts in all levers. They are the fulcrum “F,” a force or effort “E,” and a resistance “R.” Shown are the pivot point “F” (fulcrum), the effort “E” which is applied at a distance “L” from the fulcrum, and a resistance “R” which acts at a distance “l” from the fulcrum. Distances “L” and “l” are the lever arms.
+
+The concept of torque was discussed earlier in this chapter, and torque is very much involved in the operation of a lever. When a person sits on one end of a seesaw, that person applies a downward force in pounds which acts along the distance to the center of the seesaw. This combination of force and distance creates torque, which tries to cause rotation.
+
+#### First Class Lever
+
+In the first class lever, the fulcrum is located between the effort and the resistance. As mentioned earlier, the seesaw is a good example of a lever, and it happens to be a first class lever. The amount of weight and the distance from the fulcrum can be varied to suit the need. Increasing the distance from the applied effort to the fulcrum, compared to the distance from the fulcrum to the weight being moved, increases the advantage provided by the lever. Crowbars, shears, and pliers are common examples of this class of lever. The proper balance of an airplane is also a good example, with the center of lift on the wing being the pivot point, or fulcrum, and the weight fore and aft of this point being the effort and the resistance.
+
+When calculating how much effort is required to lift a specific weight, or how much weight can be lifted by a specific effort, the following formula can be used. Effort (E) × Effort Arm (L) = Resistance (R) × Resistance Arm (l)
+
+What this formula really shows is the input torque (effort × effort arm) equals the output torque (resistance × resistance arm). This formula and concept apply to all three classes of levers and to all simple machines in general.
+
+Example: A first class lever is to be used to lift a 500-lb weight. The distance from the weight to the fulcrum is 12 inches and from the fulcrum to the applied effort is 60 inches. How much force is required to lift the weight?
+
+Effort (E) × Effort Arm (L) = Resistance (R) × Resistance Arm (l)
+
+E × 60 in = 500 lb × 12 in E = 500 lb × 12 in ÷ 60 in E = 100 lb The mechanical advantage of the lever in this example would be:
+
+Mechanical Advantage = Force Out ÷ Force In = 500 lb ÷ 100 lb = 5, or 5 to 1 An interesting thing to note with this example lever is if the applied effort moved down 10 inches, the weight on the other end would only move up 2 inches. The weight being lifted would only move one-fifth as far. The reason for this is the Resistance “R” Effort “E”
+
+class levers. The fulcrum is at one end of the lever and the weight or resistance to be overcome is at the other end, with the effort applied at some point between. Third class levers are easily recognized because the effort is applied between the fulcrum and the resistance. The retractable main landing gear on an airplane is a good example of a third class lever. The top of the landing gear, where it attaches to the airplane, is the pivot point. The wheel and brake assembly at the bottom of the landing gear is the resistance. The hydraulic actuator that makes the gear retract is attached somewhere in the middle, and that is the applied effort.
+
+The Pulley Pulleys are simple machines in the form of a wheel mounted on a fixed axis and supported by a frame. The wheel, or disk, is normally grooved to accommodate a rope. The wheel is sometimes referred to as a “sheave,” or sometimes “sheaf.” The frame that supports the wheel is called a block. A block and tackle consists of a pair of blocks. Each block contains one or more pulleys and a rope connecting the pulley(s) of each block.
+
+#### Single Fixed Pulley
+
+A single fixed pulley is really a first class lever with equal arms. The arm from point “R” to point “F” is equal to the arm from point “F” to point “E,” with both distances being equal to the radius of the pulley. When a first class lever has equal arms, the mechanical advantage is 1. Thus, the force of the pull on the rope must be equal to the weight of the object being lifted. The only advantage of a single fixed pulley is to change the direction of the force, or pull on the rope.
+
+#### Single Movable Pulley
+
+A single pulley can be used to magnify the force exerted. The pulley is movable, and both ropes extending up from the pulley are sharing in the support of the weight. This single, movable pulley will act like a second class lever. The effort arm (EF) being the diameter of this pulley and the resistance arm (FR) being the radius of this pulley. This type of pulley would have a mechanical advantage of two because the diameter of the pulley is double the radius of the pulley. In use, if someone pulled in 4 ft of the effort rope, the weight would only rise off the floor 2 ft. If the weight was 100 lb, the effort concept of work. If it allows you to lift 5 times more weight, you will only move it 1⁄5 as far as you move the effort, because a lever cannot have more work output than input.
+
+#### Second Class Lever
+
+The second class lever has the fulcrum at one end and the effort is applied at the other end. The resistance is somewhere between these points. A wheelbarrow is a good example of a second class lever, with the wheel at one end being the fulcrum, the handles at the opposite end being the applied effort, and the bucket in the middle being where the weight or resistance is placed.
+
+Both first and second class levers are commonly used to help in overcoming big resistances with a relatively small effort. The first class lever, however, is more versatile. Depending on how close or how far away the weight is placed from the fulcrum, the first class lever can be made to gain force or gain distance, but not both at the same time. The second class lever can only be made to gain force.
+
+Example: The distance from the center of the wheel to the handles on a wheelbarrow is 60 inches. The weight in the bucket is 18 inches from the center of the wheel. If 300 lb is placed in the bucket, how much force must be applied at the handles to lift the wheelbarrow?
+
+Effort (E) × Effort Arm (L) = Resistance (R) × Resistance Arm (l)
+
+E × 60 inches = 300 lb × 18 in E = 300 lb × 18 in ÷ 60 in E = 90 lb The mechanical advantage of the lever in this example would be:
+
+Mechanical Advantage = Force Out ÷ Force In = 300 lb ÷ 90 lb = 3.33, or 3.33 to 1
+
+#### Third Class Lever
+
+There are occasions when it is desirable to speed up the movement of the resistance even though a large amount of effort must be used. Levers that help accomplish this are third Resistance “R”
+
+Weight R EF Effort “E”
+
+is an increase in force, and ultimately torque. Bevel gears are used to change the plane of rotation, so that a shaft turning horizontally can make a vertical shaft rotate. The size of the gears and their number of teeth determine the mechanical advantage, and whether force is being increased or rpm is being increased. If each gear has the same number of teeth, there would be no change in force or rpm.
+
+The worm gear has an extremely high mechanical advantage. The input force goes into the spiral worm gear, which drives the spur gear. One complete revolution of the worm gear only makes the spur gear move an amount equal to one tooth. The mechanical advantage is equal to the number of teeth on the spur gear, which in this case there are 25. This is a force gaining machine, to the tune of 25 times more output force.
+
+The planetary sun gear system is typical of what would be found in a propeller reduction gearbox. The power output shaft of the engine would drive the sun gear in the middle, applied would only need to be 50 lb. With this type of pulley, the effort will always be one-half of the weight being lifted.
+
+#### Block and Tackle
+
+A block and tackle is made up of multiple pulleys, some of them fixed and some movable. The block and tackle is made up of four pulleys, the top two being fixed and the bottom two being movable. Viewing from right to left, notice there are four ropes supporting the weight and a fifth rope where the effort is applied. The number of weight supporting ropes determines the mechanical advantage of a block and tackle, so in this case the mechanical advantage is four. If the weight was 200 lb, it would require a 50 lb effort to lift it.
+
+Two gears with teeth on their outer edges act like a first class lever when one gear drives the other. The gear with the input force is called the drive gear, and the other is called the driven gear. The effort arm is the diameter of the driven gear, and the resistance arm is the diameter of the drive gear. Notice that the two gears turn in opposite directions: the bottom one clockwise and the top one counterclockwise. The gear on top is 9 inches in diameter and has 45 teeth, and the gear on the bottom is 12 inches in diameter and has 60 teeth. Imagine that the blue gear is driving the yellow one, which makes the blue the drive and the yellow the driven. The mechanical advantage in terms of force would be the effort arm divided by the resistance arm, or 9 ÷ 12, which is 0.75. This would actually be called a fractional disadvantage, because there would be less force out than force in. The mechanical advantage in terms of distance, in rpm in this case, would be 12 ÷ 9, or 1.33. This analysis tells us that when a large gear drives a small one, the small one turns faster and has less available force. In order to be a force gaining machine, the small gear needs to turn the large one. When the terminology reduction gearbox is used, such as a propeller reduction gearbox, it means that there is more rpm going in than is coming out. The end result Weight R E F Effort Weight Support ropes Effort which rotates the planetary gears and ultimately the ring gear. In this example, the sun gear has 28 teeth, each planet gear has 22 teeth, and the ring gear has 82 teeth. To figure how much gear reduction is taking place, the number of teeth on the ring gear is divided by the number of teeth on the sun gear. In this case, the gear reduction is 2.93, meaning the engine has an rpm 2.93 times greater than the propeller.
+
+The inclined plane is a simple machine that facilitates the raising or lowering of heavy objects by application of a small force over a relatively long distance. Some familiar examples of the inclined plane are mountain highways and a loading ramp on the back of a moving truck. When weighing a small airplane, like a Cessna 172, an inclined plane, or ramp, can be used to get the airplane on the scales by pushing it, rather than jacking it. The airplane was pushed up the ramps to get it on the scales.
+
+With an inclined plane, the length of the incline is the effort arm and the vertical height of the incline is the resistance arm. If the length of the incline is five times greater than the height, there will be a force advantage, or mechanical advantage, of five. The Mooney M20 weighed 1,600 lb on the day of the weighting. The ramp it is sitting on is 6 inches tall, which is the resistance arm, and the length of the ramp is 24 inches, which is the effort arm. To calculate the force needed to push the airplane up the ramps, use the same formula introduced earlier when levers were discussed, as follows:
+
+Effort (E) × Effort Arm (L) = Resistance (R) × Resistance Arm (l)
+
+E × 24 in = 1,600 lb × 6 in E = 1,600 l-b × 6 in ÷ 24 in E = 400 lb Bolts, screws, and wedges are also examples of devices that operate on the principle of the inclined plane. A bolt, for example, has a spiral thread that runs around its circumference. As the thread winds around the bolt’s circumference, it moves a vertical distance equal to the space between the threads. The circumference of the bolt is the effort arm and the distance between the threads is the resistance arm. Based on this analysis, a fine threaded bolt, which has more threads per inch, has a greater mechanical advantage than a coarse threaded bolt.
+
+A chisel is a good example of a wedge. A chisel might be 8 inches long and only 1⁄2 inch wide, with a sharp tip and tapered sides. The 8-inch length is the effort arm and the 1⁄2- inch width is the resistance arm. This chisel would provide a force advantage, or mechanical advantage, of 16.
+
+## 2. 中文翻译
+
+机器是任何可以用来做功的装置。例如，机器可用于以下任一用途，或这 5 种用途的组合：
+
+1. 机器用于转换能量，例如发电机把机械能转换为电能。2. 机器用于把能量从一处传递到另一处，例如连杆、曲轴和减速齿轮把能量从飞机发动机传到螺旋桨。
+
+3. 机器用于倍增力；例如，滑轮系统可用于吊起重载。滑轮系统使人能用小于载荷重量的力把载荷提起。
+
+4. 机器可用于倍增速度。自行车就是一个好例子，靠施加更大的力便可获得更高的速度。
+
+5. 机器可用于改变力的方向。升旗装置就是这种用途的一例。绳子一侧向下的力在另一侧产生向上的力，把旗子升向旗杆顶端。
+
+简单机器只有六种，即杠杆、滑轮、轮轴、斜面、螺旋和齿轮。不过物理学家只承认机器中的两条基本原理：杠杆和斜面。
+
+（滑轮组）、轮轴和齿轮按杠杆的机器原理工作。楔和螺旋则利用斜面的原理。
+
+理解简单机器的原理，是研究复合机器（由两种或多种简单机器组合而成）的必要基础。
+
+### 机器的机械效益
+
+正如简单机器部分第 3 条和第 4 条所指出的，机器可用来倍增力，也可用来倍增速度。但它不能同时倍增力和速度。要得到其中一个的增益，就必须失去另一个。否则就意味着机器输出的功率大于输入的功率，（此处夹有一组标注文字，略）
+
+而那是做不到的。
+
+就机器而言，机械效益是输出力与输入力之比，或输出距离与输入距离之比。如果在力上有机械效益，那么在距离上就会有分数劣势。以下公式可用来计算机械效益。
+
+机械效益 = 输出力 ÷ 输入力 或 机械效益 = 输出距离 ÷ 输入距离
+
+最简单的机器，也许还是最熟悉的机器，就是杠杆。跷跷板是杠杆的一个常见例子：两个人坐在一块板的两端，中间有一个支点。所有杠杆都有三个基本部分：支点“F”、力或施力“E”和阻力“R”。这里示出支点“F”（支点）、距支点距离“L”处施加的施力“E”，以及距支点距离“l”处作用的阻力“R”。距离“L”和“l”就是力臂。
+
+本章前面已讨论过扭矩的概念，而扭矩在杠杆的工作中关系重大。当人坐在跷跷板一端时，就施加了一个以磅计的向下力，它沿到跷跷板中心的距离作用。力与距离的这种组合产生扭矩，试图引起转动。
+
+#### 第一类杠杆
+
+在第一类杠杆中，支点位于施力点和阻力点之间。如前所述，跷跷板是杠杆的一个好例子，而它恰好是第一类杠杆。重量的大小和到支点的距离可按需要调整。相对于支点到被移动重物的距离，增大施力点到支点的距离，就能增大杠杆所提供的效益。撬棍、剪刀和钳子是这一类杠杆的常见例子。飞机的正确平衡也是一个好例子：机翼上的升力中心是支点（支点），该点前后的重量分别是施力和阻力。
+
+计算举起某一特定重量需要多大的力，或某一特定的力能举起多大的重量时，可用以下公式。施力（E）× 施力臂（L）= 阻力（R）× 阻力臂（l）
+
+这个公式真正表明的是，输入扭矩（施力 × 施力臂）等于输出扭矩（阻力 × 阻力臂）。这个公式和这一概念适用于全部三类杠杆，也普遍适用于所有简单机器。
+
+例：用一根第一类杠杆举起一个 500 lb 的重物。重物到支点的距离为 12 英寸，支点到施力点的距离为 60 英寸。需要多大的力才能举起该重物？
+
+施力（E）× 施力臂（L）= 阻力（R）× 阻力臂（l）
+
+E × 60 in = 500 lb × 12 in E = 500 lb × 12 in ÷ 60 in E = 100 lb 本例中杠杆的机械效益为：
+
+机械效益 = 输出力 ÷ 输入力 = 500 lb ÷ 100 lb = 5，即 5 比 1 关于本例中的杠杆，有一点很有趣：如果施力点向下移动 10 英寸，另一端的重物只会上升 2 英寸。被举起的重物只移动了五分之一的距离。原因就在于此，（此处夹有一组标注文字，略）
+
+第三类杠杆。支点位于杠杆的一端，被克服的重量或阻力位于另一端，施力作用在两者之间的某处。第三类杠杆很容易辨认，因为施力点在支点与阻力之间。飞机上可收放的主起落架就是第三类杠杆的好例子。起落架顶部与飞机的连接处是支点；起落架底部的机轮和刹车组件是阻力；使起落架收放的液压作动筒连接在中部某处，这就是所施加的力。
+
+滑轮 滑轮是简单机器的一种，外形是一个装在固定轴上、由框架支撑的轮子。这个轮子（或圆盘）通常开有沟槽以容纳绳索。这个轮子有时称为“滑轮”（sheave），有时写作“sheaf”。支撑轮子的框架称为滑轮架。滑轮组由一对滑轮架组成。每个滑轮架内有一个或多个滑轮，以及一根连接两架滑轮的绳索。
+
+#### 单定滑轮
+
+单定滑轮实际上就是臂长相等的第一类杠杆。从“R”点到“F”点的臂等于从“F”点到“E”点的臂，两者都等于滑轮的半径。当第一类杠杆的两臂相等时，机械效益为 1。因此，绳上拉力的大小必须等于被吊起物体的重量。单定滑轮的唯一优点是改变力的方向，即改变绳上拉力的方向。
+
+#### 单动滑轮
+
+单个滑轮可用来放大所施加的力。滑轮是可动的，从滑轮向上伸出的两根绳子共同承担支撑重量。这个单动滑轮的作用如同第二类杠杆：施力臂（EF）是该滑轮的直径，阻力臂（FR）是该滑轮的半径。这类滑轮的机械效益为 2，因为滑轮的直径是其半径的两倍。使用时，如果拉进 4 ft 的施力绳，重物只会离地上升 2 ft。如果重物为 100 lb，所需的力就……（此处夹有错位的文字，排在本卡靠后）……功的概念。如果它能让你举起 5 倍重的物体，你就只能把它移动你所移动施力距离的 1/5，因为杠杆的功输出不可能大于输入。
+
+#### 第二类杠杆
+
+第二类杠杆的支点在一端，施力施加在另一端，阻力位于这两点之间。手推车是第二类杠杆的好例子：一端的轮子是支点，另一端的手柄是所施加的力，中间的斗是放置重量或阻力之处。
+
+第一类和第二类杠杆都常用于以相对较小的力克服很大的阻力。不过第一类杠杆用途更广。根据重物离支点的远近，第一类杠杆可以做成增力的，也可以做成增距的，但不能同时两者兼顾。第二类杠杆只能做成增力的。
+
+例：手推车车轮中心到手柄的距离为 60 英寸。斗中重物距车轮中心 18 英寸。如果在斗中装 300 lb，则提起手推车时须在手柄上施加多大的力？
+
+施力（E）× 施力臂（L）= 阻力（R）× 阻力臂（l）
+
+E × 60 inches = 300 lb × 18 in E = 300 lb × 18 in ÷ 60 in E = 90 lb 本例中杠杆的机械效益为：
+
+机械效益 = 输出力 ÷ 输入力 = 300 lb ÷ 90 lb = 3.33，即 3.33 比 1
+
+#### 第三类杠杆
+
+有时即使必须使用很大的力，也希望加快阻力的运动。有助于实现这一点的杠杆就是第三类杠杆。（此处夹有一组标注文字，略）
+
+重量 R EF 施力“E”
+
+这实际上是力的增加，并最终体现为扭矩的增加。锥齿轮用于改变旋转平面，使水平转动的轴能带动竖直的轴旋转。齿轮的大小和齿数决定机械效益，也决定是力在增大还是转速在增大。如果每个齿轮的齿数相同，则力或转速都不会改变。
+
+蜗轮蜗杆具有极高的机械效益。输入的力进入螺旋形的蜗杆，蜗杆驱动直齿轮。蜗杆每转一整圈，直齿轮只移动相当于一个齿的距离。机械效益等于直齿轮的齿数，此例中为 25。这是一种增力机器，输出力可增大到 25 倍。
+
+行星太阳齿轮系统是螺旋桨减速齿轮箱中的典型结构。发动机的动力输出轴驱动位于中间的太阳轮，……（此处夹有前一段滑轮内容的错位文字）……用这种滑轮时，作用力总是被吊起重量的一半。
+
+#### 滑轮组
+
+滑轮组由多个滑轮组成，有些固定、有些可动。滑轮组由四个滑轮组成，上面两个固定，下面两个可动。从右向左看，可以注意到有四根绳子支承重量，第五根绳子用于施加力。支承重量的绳数决定滑轮组的机械效益，所以此例中机械效益为 4。如果重量为 200 lb，则提起它需要 50 lb 的力。
+
+两个外缘带齿的齿轮，当一个齿轮驱动另一个时，其作用如同第一类杠杆。带输入力的齿轮称为主动齿轮，另一个称为从动齿轮。施力臂是从动齿轮的直径，阻力臂是主动齿轮的直径。注意两齿轮反向旋转：下方的顺时针，上方的逆时针。上方齿轮直径 9 英寸、45 齿，下方齿轮直径 12 英寸、60 齿。设想蓝色齿轮驱动黄色齿轮，则蓝色为主动轮、黄色为从动轮。以力计的机械效益为施力臂除以阻力臂，即 9 ÷ 12 = 0.75。这实际上应称为分数劣势，因为输出的力小于输入的力。以距离（此处即转速）计的机械效益则为 12 ÷ 9 = 1.33。这一分析告诉我们：大齿轮驱动小齿轮时，小齿轮转得更快、可用力更小。要成为增力机器，小齿轮必须驱动大齿轮。当使用“减速齿轮箱”这一说法时（如螺旋桨减速齿轮箱），意思是输入的转速大于输出的转速。最终结果，是……（此处夹有一组标注文字，略）……带动行星齿轮旋转，并最终带动齿圈旋转。在此例中，太阳轮 28 齿，每个行星齿轮 22 齿，齿圈 82 齿。要计算减速比，用齿圈的齿数除以太阳轮的齿数。此处减速比为 2.93，意味着发动机转速是螺旋桨转速的 2.93 倍。
+
+斜面是一种简单机器，它能用较小的力在相对较长的距离上把重物升起或放下。斜面的常见例子有山区公路和搬家卡车后部的装卸斜板。给塞斯纳 172 这类小型飞机称重时，可以用斜面（或斜板）把飞机推上秤台，而不必用千斤顶顶升。飞机是被推上斜板才到了秤上的。
+
+使用斜面时，斜面的长度是施力臂，斜面的垂直高度是阻力臂。如果斜面的长度是高度的五倍，就有五倍的力效益，即机械效益为 5。这架穆尼 M20 在称重当天重 1,600 lb。它停的斜板高 6 英寸，即阻力臂；斜板长 24 英寸，即施力臂。要计算把飞机推上斜板所需的力，使用前面讨论杠杆时介绍的同一公式，如下：
+
+施力（E）× 施力臂（L）= 阻力（R）× 阻力臂（l）
+
+E × 24 in = 1,600 lb × 6 in E = 1,600 l-b × 6 in ÷ 24 in E = 400 lb 螺栓、螺钉和楔也是按斜面原理工作的装置的例子。以螺栓为例，它有一条绕其周缘的螺旋螺纹。螺纹绕螺栓周缘盘绕时，每转一圈就前进相当于两螺纹之间距离的垂直距离。螺栓的周缘是施力臂，螺纹之间的距离是阻力臂。据此分析，每英寸齿数更多的细牙螺栓比粗牙螺栓具有更大的机械效益。
+
+凿子是楔的好例子。一把凿子可能长 8 英寸、宽仅 1/2 英寸，端部锋利、两侧收窄。8 英寸的长度是施力臂，1/2 英寸的宽度是阻力臂。这把凿子能提供 16 倍的力效益，即机械效益为 16。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| machine | n. | 机器 | 任何可用来做功的装置，用途为转换能量、传递能量、增力、增速、改向 |
+| simple machine | n. | 简单机器 | 杠杆、滑轮、轮轴、斜面、螺旋、齿轮共六种 |
+| mechanical advantage | n. | 机械效益 | 输出力与输入力之比，或输出距离与输入距离之比 |
+| lever | n. | 杠杆 | 最简单的机器，含支点 F、施力 E、阻力 R 三个基本部分 |
+| fulcrum | n. | 支点 | 杠杆绕其转动的点，记作 F |
+| effort arm | n. | 施力臂 | 施力点到支点的距离 L，杠杆计算中的输入扭矩一侧 |
+| resistance arm | n. | 阻力臂 | 阻力点到支点的距离 l，杠杆计算中的输出扭矩一侧 |
+| pulley | n. | 滑轮 | 装在固定轴上带沟槽的轮子，单定滑轮只能改变力的方向 |
+| block and tackle | n. | 滑轮组 | 多个定滑轮与动滑轮的组合，支承重量的绳数即机械效益 |
+| inclined plane | n. | 斜面 | 用较小的力在较长距离上升降重物，斜面长为施力臂 |
+| worm gear | n. | 蜗轮蜗杆 | 机械效益极高，数值等于直齿轮齿数，此例为 25 |
+| gear | n. | 齿轮 | 外缘带齿，一个驱动另一个时如同第一类杠杆，可增力或增转速 |
+
+## 4. 语法解析
+
+### ① 介词 + which 引导的定语从句
+**原句**：A machine is any device with which work may be accomplished.
+**拆解**：主句为 A machine is any device，any device 为表语；with which work may be accomplished 为「介词 + which」引导的定语从句修饰 device，其中 work 是从句主语，may be accomplished 为情态动词 + 被动语态，with 提到关系词前。
+**要点**：介词 + which 相当于 with the device，比 that 从句更正式、更凝练，常见于定义句式。若把 with 留在句末（which work may be accomplished with）口语化但也可接受；先行词是物时用 which，不能用 who。
+
+### ② 动名词作主语 + 过去分词后置定语
+**原句**：Increasing the distance from the applied effort to the fulcrum, compared to the distance from the fulcrum to the weight being moved, increases the advantage provided by the lever.
+**拆解**：主语是动名词短语 Increasing the distance…，谓语 increases 为第三人称单数；compared to… 为过去分词短语作插入的状语，表比较；the weight being moved 中 being moved 为现在分词被动式作后置定语；the advantage provided by the lever 中 provided 为过去分词短语作后置定语。
+**要点**：动名词短语作主语时谓语用单数，即使短语里含复数名词。compared to 是「与……相比」的固定说法，逻辑主语须与主句一致。being moved 与 provided 都是后置定语，但前者表被动进行、后者表被动完成，翻译时都可处理成「所……的」。
+
+### ③ 独立主格结构（being 复合结构）
+**原句**：The effort arm (EF) being the diameter of this pulley and the resistance arm (FR) being the radius of this pulley.
+**拆解**：两个并列的「名词 + being + 名词」结构，The effort arm (EF) 与 the resistance arm (FR) 是各自逻辑主语，being 是逻辑谓语（系动词 be 的现在分词），整句没有限定动词，因此是独立主格而非完整句子。
+**要点**：独立主格常用 being 表「是、为」，相当于省略了 when/while 的状语从句，多用于技术说明中对图形、结构的解说。技术英语里这种无谓语的片段很常见，翻译时补出「是」即可，不必强行加主语谓语。
+
+### ④ comparison of A to B 的比较搭配
+**原句**：In reference to machines, mechanical advantage is a comparison of the output force to the input force, or the output distance to the input distance.
+**拆解**：介词短语 In reference to machines 作状语；主语 mechanical advantage，系动词 is，表语 a comparison；of the output force to the input force 中 of 引出被比较项、to 引出比较基准；or 后省略了 a comparison of，只留 the output distance to the input distance。
+**要点**：comparison of A to B 与 comparison of A with B 都可表「A 与 B 的比较」，to 更强调把 A 比作基准。or 后的省略结构在技术文中很常见，翻译时把省略部分补全更清楚。
+
+### ⑤ 条件从句用一般现在时、主句用 would
+**原句**：If each gear has the same number of teeth, there would be no change in force or rpm.
+**拆解**：If 引导的条件从句用一般现在时 has，主句 there would be no change in force or rpm 用 would + 动词原形，there be 句型表存在；in force or rpm 为两个并列的介词宾语。
+**要点**：真实条件句通常主句用 will，此处用 would 表示对假设情形的推断，语气更委婉、结论更「理论上如此」。注意从句中不用 will；force or rpm 前省略了冠词，or 连接的两个名词共用 no 的否定。
+
+### ⑥ 分词状语 + 名词性从句 + 并列否定
+**原句**：Depending on how close or how far away the weight is placed from the fulcrum, the first class lever can be made to gain force or gain distance, but not both at the same time.
+**拆解**：Depending on… 为现在分词短语作状语；on 后接 how close or how far away 引导的宾语从句，从句主语 the weight，谓语 is placed；主句 the first class lever can be made to gain force or gain distance 为被动 + 不定式；but not both at the same time 为并列的否定补充。
+**要点**：depend on 后接从句时介词 on 不能省；how close or how far away 是并列的两个疑问词短语共用一个从句。be made to do 中 to 不能省（与主动 make sb do 不同）。but not both 是「但不能两者兼得」的固定压缩说法。

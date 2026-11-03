@@ -1,0 +1,172 @@
+# Computing Area of Two-Dimensional Solids
+
+> 通用 Ch 03 · Computing Area of Two-Dimensional Solids · 原文 PDF 第 114 页
+
+## 1. 原文
+
+Area is a measurement of the amount of surface of an object. Area is usually expressed in such units as square inches or square centimeters for small surfaces or in square feet or square meters for larger surfaces.
+
+The formulas for computing the area of two-dimensional solids are summarized below.
+
+A rectangle is a four-sided figure with opposite sides of equal length and parallel to each other. All of the angles are right angles. A right angle is a 90° angle. The rectangle is a very familiar shape in mechanics. The formula for the area of a rectangle is: area = length × width = l × w Example: An aircraft floor panel is in the form of a rectangle having a length of 24 inches and a width of 12 inches. What is the area of the panel expressed in square inches? First, determine the known values and substitute them in the formula.
+
+a = l × w = 24 inches × 12 inches = 288 square inches
+
+A square is a four-sided figure with all sides of equal length and opposite sides are parallel to each other. All angles are right angles. A right angle is a 90° angle. The formula for the area of a square is:
+
+area = length × width = l × w Since the length and the width of a square are the same value, the formula for the area of a square can also be written as:
+
+area = side × side = s2 Example: What is the area of a square access plate whose side measures 25 inches? First, determine the known value and substitute it in the formula.
+
+a = l × w = 25 inches × 25 inches = 625 square inches
+
+A triangle is a three-sided figure. The sum of the three angles in a triangle is always equal to 180°. Triangles are often classified by their sides. An equilateral triangle has 3 sides of equal length. An isosceles triangle has 2 sides of equal length. A scalene triangle has three sides of differing lengths. Triangles can also be classified by their angles. An acute triangle has all three angles less than 90°. A right triangle has one right angle (a 90° angle). An obtuse triangle has one angle greater than 90°.
+
+The formula for the area of a triangle is area = 1⁄2 × (base × height) = 1⁄2 × (b × h)
+
+Example: Find the area of the obtuse triangle. First, substitute the known values in the area formula.
+
+a = 1⁄2 × (b × h) = 1⁄2 × (2'6" × 3'2")
+
+Next, convert all dimensions to inches: 2'6" = (2 × 12") + 6" = (24 + 6) = 30 inches 3'2" = (3 × 12") + 2" = (36 + 2) = 38 inches Now, solve the formula for the unknown value: a = 1⁄2 × (30 inches × 38 inches) = 570 square inches
+
+A parallelogram is a four-sided figure with two pairs of parallel sides. Parallelograms do not necessarily have four right angles. The formula for the area of a parallelogram is:
+
+area = length × height = l × h
+
+A trapezoid is a four-sided figure with one pair of parallel sides. The formula for the area of a trapezoid is:
+
+area = 1⁄2 (base1 + base2) × height w = 12 l = 24 s = 25 Object Area Formula Rectangle Square Parallelogram Trapezoid
+
+Triangle a = l × w a = l × w or a = s2 a = l × h a = ½ (b1 + b2) × h a = π × r2 a = π × a × b a = s × c a = ½ (l × h) or a = ½ (b × h) or a = (b × h) ÷ 2 length × width length × width or side × side length × height ½ (base1 + base2) × height π × radius2 π × semi-axis A × semi-axis B span × mean chord ½ × (length × height) or ½ × (base × height) or (base × height) ÷ 2 Example: What is the area of a trapezoid whose bases are 14 inches and 10 inches, and whose height (or altitude) is 6 inches? First, substitute the known values in the formula.
+
+a = 1⁄2 (b1 + b2) × h = 1⁄2 (14 inches + 10 inches) × 6 inches a = 1⁄2 (24 inches) × 6 inches = 12 inches × 6 inches = 72 square inches Circle A circle is a closed, curved, plane figure. Every point on the circle is an equal distance from the center of the circle. The diameter is the distance across the circle (through the center). The radius is the distance from the center to the edge of the circle. The diameter is always twice the length of the radius. The circumference, or distance around, a circle is equal to the diameter times π.
+
+circumference = c = d π The formula for the area of a circle is:
+
+area = π × radius2 = π × r2 Example: The bore, which is “inside diameter,” of a certain aircraft engine cylinder is 5 inches. Find the area of the cross section of the cylinder. First, substitute the known values in the formula:
+
+a = π × r2 The diameter is 5 inches, so the radius is 2.5 inches. (diameter = radius × 2)
+
+a = 3.1416 × (2.5 inches) 2 = 3.1416 × 6.25 square inches = 19.635 square inches Ellipse An ellipse is a closed, curved, plane figure and is commonly called an oval. In a radial engine, the articulating rods connect to the hub by pins, which travel in the pattern of an ellipse (i.e., an elliptical or orbital path).
+
+Base = 3 ft 2 in Height = 2 ft 6 in b1 = 14"
+
+Length Height EquilateralIsosceles Triangles Based on Sides Triangles Based on Angles Scalene Acute Right Obtuse Length of all sides are different Length of two sides are equal Length of all sides are equal Each angle is < 90° One angle is = 90° One angle is > 90° Wing Area To describe the shape of a wing, several terms are required. To calculate wing area, it is necessary to know the meaning of the terms “span” and “chord.” The wingspan, S, is the length of the wing from wingtip to wingtip. The chord is the average width of the wing from leading edge to trailing edge. If the wing is a tapered wing, the average width, known as the mean chord (C), must be known to find the area. The formula for calculating wing area is:
+
+area of a wing = span × mean chord Example: Find the area of a tapered wing whose span is 50 feet and whose mean chord is 6'8". First, substitute the known values in the formula.
+
+a = s × c = 50 feet × 6 feet 8 inches (Note: 8 inches = 8⁄12 feet = 0.67 feet) = 50 feet × 6.67 feet = 333.5 square feet
+
+A square foot measures 1 foot by 1 foot. It also measures 12 inches by 12 inches. Therefore, one square foot also equals 144 square inches (that is, 12 × 12 = 144). To convert square feet to square inches, multiply by 144. To convert square inches to square feet, divide by 144.
+
+A square yard measures 1 yard by 1 yard. It also measures 3 feet by 3 feet. Therefore, one square yard also equals 9 square feet (that is, 3 × 3 = 9). To convert square yards to square feet, multiply by 9. To convert square feet to square yards, divide by 9.
+
+## 2. 中文翻译
+
+面积是对物体表面多少的量度。小面积通常用平方英寸、平方厘米这类单位表示，较大的表面则用平方英尺或平方米表示。
+
+二维形体的面积计算公式汇总如下。
+
+矩形是四边图形，对边等长且互相平行。所有角都是直角。直角是 90° 的角。矩形是力学中很常见的一种形状。矩形的面积公式为：area = length × width = l × w。例：某飞机的地板件呈矩形，长 24 英寸、宽 12 英寸。这块地板的面积是多少平方英寸？先确定已知值，再代入公式。
+
+a = l × w = 24 英寸 × 12 英寸 = 288 平方英寸
+
+正方形是四边图形，各边等长且对边互相平行。所有角都是直角。直角是 90° 的角。正方形的面积公式为：
+
+area = length × width = l × w 由于正方形的长与宽数值相同，正方形的面积公式也可以写成：
+
+area = side × side = s2（原文 s2 中的 2 为上标，即 s 的平方）例：一块正方形检修盖板的边长为 25 英寸，其面积是多少？先确定已知值，再代入公式。
+
+a = l × w = 25 英寸 × 25 英寸 = 625 平方英寸
+
+三角形是三边图形。三角形三个角之和总是等于 180°。三角形常按边分类：等边三角形三条边等长；等腰三角形两条边等长；不等边三角形三条边长度各不相同。三角形也可以按角分类：锐角三角形的三个角都小于 90°；直角三角形有一个直角（90° 的角）；钝角三角形有一个角大于 90°。
+
+三角形的面积公式为 area = 1⁄2 × (base × height) = 1⁄2 × (b × h)
+
+例：求这个钝角三角形的面积。先把已知值代入面积公式。
+
+a = 1⁄2 × (b × h) = 1⁄2 × (2'6" × 3'2")
+
+接着把所有尺寸换算成英寸：2'6" = (2 × 12") + 6" = (24 + 6) = 30 英寸；3'2" = (3 × 12") + 2" = (36 + 2) = 38 英寸。现在按公式求未知值：a = 1⁄2 × (30 英寸 × 38 英寸) = 570 平方英寸
+
+平行四边形是四边图形，有两对平行边。平行四边形不一定有四个直角。平行四边形的面积公式为：
+
+area = length × height = l × h
+
+梯形是四边图形，有一对平行边。梯形的面积公式为：
+
+area = 1⁄2 (base1 + base2) × height。另附 w = 12、l = 24、s = 25 等尺寸标注，以及面积公式表的栏目名称（Object、Area、Formula 与 Rectangle、Square、Parallelogram、Trapezoid）；原文此处排版破碎，无完整句子。
+
+（原文此处为面积公式总表的碎片：a = l × w、a = l × w or a = s2、a = l × h、a = ½ (b1 + b2) × h、a = π × r2、a = π × a × b、a = s × c 等公式与 length × width、½ (base1 + base2) × height、π × radius2、span × mean chord 等文字表述并列，表头与数值散落，原文无完整句子。）例：某梯形两底分别为 14 英寸和 10 英寸、高（或高线）为 6 英寸，其面积是多少？先把已知值代入公式。
+
+a = 1⁄2 (b1 + b2) × h = 1⁄2 (14 英寸 + 10 英寸) × 6 英寸 a = 1⁄2 (24 英寸) × 6 英寸 = 12 英寸 × 6 英寸 = 72 平方英寸 圆　圆是封闭的曲边平面图形，圆上每一点到圆心的距离都相等。直径是穿过圆心的两点间的距离。半径是圆心到圆周的距离。直径总是半径的两倍。圆的周长（即绕圆一周的距离）等于直径乘 π。
+
+circumference = c = d π 圆的面积公式为：
+
+area = π × radius2 = π × r2 例：某航空发动机气缸的缸径（即“内径”）为 5 英寸。求该气缸横截面的面积。先把已知值代入公式：
+
+a = π × r2 直径为 5 英寸，所以半径为 2.5 英寸。（直径 = 半径 × 2）
+
+a = 3.1416 × (2.5 英寸) 2 = 3.1416 × 6.25 平方英寸 = 19.635 平方英寸 椭圆　椭圆是封闭的曲边平面图形，通常称为卵形。在星形发动机中，连杆通过销连接到中心毂上，这些销的运动轨迹就是椭圆的形状（即椭圆路径或环绕路径）。
+
+（原文此处为形体尺寸标注：底边 = 3 英尺 2 英寸、高 = 2 英尺 6 英寸、b1 = 14 英寸，原文无正文。）
+
+（原文此处为三角形分类表的碎片：按边分为等边、等腰、不等边，按角分为锐角、直角、钝角，并混有 Length、Height 等标注，原文无完整句子。）机翼面积　要描述机翼的形状，需要用到几个术语。计算机翼面积，必须知道“翼展”（span）与“弦长”（chord）这两个术语的含义。翼展 S 是机翼从一侧翼尖到另一侧翼尖的长度。弦长是机翼从前缘到后缘的平均宽度。如果机翼是锥形翼，要算面积还必须知道称为平均弦长（C）的平均宽度。机翼面积的计算公式为：
+
+area of a wing = span × mean chord 例：某锥形翼的翼展为 50 英尺、平均弦长为 6'8"，求其面积。先把已知值代入公式。
+
+a = s × c = 50 英尺 × 6 英尺 8 英寸（注：8 英寸 = 8⁄12 英尺 = 0.67 英尺）= 50 英尺 × 6.67 英尺 = 333.5 平方英尺
+
+1 平方英尺是 1 英尺 × 1 英尺。它也等于 12 英寸 × 12 英寸。因此，1 平方英尺也等于 144 平方英寸（即 12 × 12 = 144）。要把平方英尺换算成平方英寸，乘以 144；要把平方英寸换算成平方英尺，除以 144。
+
+1 平方码是 1 码 × 1 码，也等于 3 英尺 × 3 英尺。因此，1 平方码也等于 9 平方英尺（即 3 × 3 = 9）。要把平方码换算成平方英尺，乘以 9；要把平方英尺换算成平方码，除以 9。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| area | n. | 面积 | 本节主题，用平方英寸、平方英尺等单位计量表面大小 |
+| rectangle | n. | 矩形 | 对边等长且平行的四边图形，面积 = l × w |
+| square | n. | 正方形 | 各边等长的矩形，面积也可写作 s2 |
+| triangle | n. | 三角形 | 三边图形，内角和 180°，面积 = 1⁄2 (b × h) |
+| parallelogram | n. | 平行四边形 | 两对平行边的四边图形，面积 = l × h |
+| trapezoid | n. | 梯形 | 一对平行边的四边图形，面积 = 1⁄2 (b1 + b2) × h |
+| circumference | n. | 周长 | 本条按原文语境指圆周长，c = d π |
+| radius | n. | 半径 | 圆心到圆周的距离，为直径的一半，例中 2.5 英寸 |
+| diameter | n. | 直径 | 穿过圆心的距离，缸径即气缸内径 |
+| ellipse | n. | 椭圆 | 封闭曲边平面图形，俗称卵形，连杆销的运动轨迹 |
+| span | n. | 翼展 | 机翼一侧翼尖到另一侧翼尖的长度，记作 S |
+| mean chord | n.phr. | 平均弦长 | 锥形翼前缘到后缘的平均宽度，记作 C，面积 = s × c |
+
+## 4. 语法解析
+
+### ① with 复合结构作后置定语
+**原句**：A rectangle is a four-sided figure with opposite sides of equal length and parallel to each other.
+**拆解**：主语 A rectangle，系动词 is，表语 a four-sided figure；with opposite sides of equal length and parallel to each other 是 with 复合结构，作 figure 的后置定语，其中 opposite sides 为 with 的宾语，of equal length 与 parallel to each other 并列作宾语的补足说明。
+**要点**：with 复合结构既能作状语也能作定语，判断依据是位置：紧贴名词后即修饰该名词；of equal length 用“of + 名词”表示性质，不能写成 of equal long。
+
+### ② since 原因状语从句 + 被动语态
+**原句**：Since the length and the width of a square are the same value, the formula for the area of a square can also be written as:
+**拆解**：Since 引导原因状语从句，从句主语 the length and the width of a square，系动词 are，表语 the same value；主句主语 the formula for the area of a square，谓语 can be written（含情态动词的被动），as 后接改写后的形式。
+**要点**：since 引导原因时主句可用情态动词 can 表示“也可以”；be written as 后常直接跟公式，说明“可写成……”，as 不可省略。
+
+### ③ have + 宾语 + 形容词短语作宾补
+**原句**：An acute triangle has all three angles less than 90°.
+**拆解**：主语 An acute triangle，谓语 has，宾语 all three angles，less than 90° 为形容词比较级短语作宾语补足语，补充说明 angles 的大小。
+**要点**：have 表“具有”时常用“have + 宾语 + 形容词/分词”结构，如 has its door open；less than 表示“小于”，与 greater than 相对，度数符号直接跟在数字后。
+
+### ④ 不定式作目的状语 + it 形式主语
+**原句**：To calculate wing area, it is necessary to know the meaning of the terms “span” and “chord.”
+**拆解**：To calculate wing area 为目的不定式，置于句首；主句 it is necessary to know … 中 it 为形式主语，真正主语是 to know the meaning of the terms；of the terms 修饰 meaning。
+**要点**：目的不定式放句首时用逗号与主句隔开；it is necessary to do 是固定句式，不能写成 it is necessary that to do；术语用引号标出，翻译时保留引号。
+
+### ⑤ 过去分词短语 known as 作插入定语
+**原句**：If the wing is a tapered wing, the average width, known as the mean chord (C), must be known to find the area.
+**拆解**：If 引导条件状语从句；主句主语 the average width 后接 known as the mean chord (C) 这一过去分词短语作非限制性定语（相当于 which is known as …）；谓语 must be known 为被动；to find the area 为目的不定式。
+**要点**：known as 意为“被称为”，用过去分词是因为与所修饰名词是被动关系；句中出现两个 know（known as 与 must be known），前者指“称作”，后者指“知道”，翻译时要分开处理。
+
+### ⑥ 倍数表达 twice the length of
+**原句**：The diameter is always twice the length of the radius.
+**拆解**：主语 The diameter，系动词 is，表语 twice the length of the radius；twice 为倍数词，直接修饰“the + 名词 + of”结构。
+**要点**：倍数表达为“倍数词 + the + 度量名词 + of”，如 twice the length of、three times the area of；不能写成 twice of the length，也不必加 as … as。

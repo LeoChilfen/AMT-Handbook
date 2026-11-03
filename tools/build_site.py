@@ -375,6 +375,11 @@ def main():
                 if not cards:
                     continue
                 chapter = next((it for it in manifest if it["slug"] == chapter_slug), None)
+                if chapter is None:
+                    # split chapters (ch12a / ch12b) live in one card folder
+                    chapter = next((it for it in manifest
+                                    if it["slug"].startswith(chapter_slug + "a")
+                                    or it["slug"].startswith(chapter_slug + "b")), None)
                 card_sets.append({
                     "chapter": chapter_slug,
                     "book": book_slug,

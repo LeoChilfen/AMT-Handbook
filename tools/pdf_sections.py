@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """Split a chapter of the PDF into sections using the PDF outline (bookmarks).
 
 Usage:
@@ -13,29 +13,47 @@ PAGE_NUM = re.compile(r"^\s*\d+-\d+\s*$")
 FIGCAP = re.compile(r"^Figure\s+\d+-\d+\.", re.I)
 
 
+def _norm_text(s):
+    """lowercase, map every non [a-z0-9] run to a single space (both sides)."""
+    return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
+
+
 def norm_map(raw):
-    """lowercase + collapse whitespace, keeping a map back to raw indices."""
+    """normalised text + map back to raw indices.
+
+    Punctuation is folded to spaces exactly like _norm_text() so that bookmark
+    titles containing em dashes / semicolons still match the page text.
+    """
     out = []
     idx = []
     prev_space = True
     for i, ch in enumerate(raw):
-        if ch in " \t\r\n":
+        low = ch.lower()
+        if low.isalnum() and low.isascii():
+            out.append(low)
+            idx.append(i)
+            prev_space = False
+        else:
             if prev_space:
                 continue
             out.append(" ")
             idx.append(i)
             prev_space = True
-        else:
-            out.append(ch.lower())
-            idx.append(i)
-            prev_space = False
     return "".join(out), idx
 
 
-def find_title(norm, title, start):
-    nt = re.sub(r"\s+", " ", title.strip().lower())
-    nt = re.sub(r"[^a-z0-9 &/(),.'\-:]", " ", nt)
-    nt = re.sub(r"\s+", " ", nt).strip()
+def find_title(raw, norm, idx, title, start):
+    """Find a bookmark title in the normalised text, preferring a line start.
+
+    Two wrinkles of this PDF:
+    * the chapter heading line itself often contains words that are also
+      section titles (e.g. "…, Maintenance Forms, Records, & Publications"), so
+      a plain substring hit must be rejected — real headings start a line;
+    * the reader re-ordered pages by hand, so bookmark order and page order do
+      not always agree. Therefore: first look at/after `start`, and only if that
+      fails fall back to the first line-start hit anywhere (out-of-order page).
+    """
+    nt = _norm_text(title)
     if not nt:
         return None
     candidates = [nt]
@@ -45,9 +63,21 @@ def find_title(norm, title, start):
     if len(words) > 3:
         candidates.append(" ".join(words[-3:]))
     for c in candidates:
-        p = norm.find(c, start)
-        if p != -1:
-            return p, p + len(c)
+        first_any = None
+        pos = 0
+        while True:
+            p = norm.find(c, pos)
+            if p == -1:
+                break
+            rp = idx[p]
+            if rp == 0 or raw[rp - 1] == "\n":
+                if first_any is None:
+                    first_any = (p, p + len(c))
+                if p >= start:
+                    return p, p + len(c)
+            pos = p + 1
+        if first_any is not None:
+            return first_any
     return None
 
 
@@ -113,22 +143,24 @@ def main():
             pages[r["page"]] = r["text"]
 
     # chapter boundaries from depth-0 entries that look like "N. Title"
-    chapters = []
-    for x in rows:
-        if x["depth"] == 0 and re.match(r"^\d+\.\s", x["title"]):
-            chapters.append(x)
+    # chapter boundaries: a numbered depth-0 entry starts a chapter, but the
+    # chapter ends at the *next* depth-0 entry of any kind (Glossary / Index are
+    # not numbered — without this the last chapter swallows them).
+    top = [x for x in rows if x["depth"] == 0]
+    numbered = [x for x in top if re.match(r"^\d+\.\s", x["title"])]
     cur = None
     nxt = None
-    for i, c in enumerate(chapters):
+    for i, c in enumerate(numbered):
         if c["title"].startswith(a.chapter + "."):
             cur = c
-            nxt = chapters[i + 1] if i + 1 < len(chapters) else None
+            j = top.index(c)
+            nxt = top[j + 1] if j + 1 < len(top) else None
             break
     if not cur:
         sys.exit("chapter not found")
 
     p0 = cur["page"]
-    p1 = (nxt["page"] if nxt else max(pages) + 1)
+    p1 = (nxt["page"] if nxt and nxt["page"] > p0 else max(pages) + 1)
     last = max(pages)
     p1 = min(p1, last + 1)
 
@@ -154,7 +186,7 @@ def main():
     found = []
     cursor = 0
     for h in heads:
-        r = find_title(norm, h["title"], cursor)
+        r = find_title(raw, norm, idx, h["title"], cursor)
         if not r:
             found.append({"title": h["title"], "page": h["page"], "depth": h["depth"],
                           "start": None, "end": None})
@@ -165,27 +197,40 @@ def main():
         cursor = e
 
     miss = [h["title"] for h in found if h["start"] is None]
-    # which located headings become their own card?
-    kept = [i for i, h in enumerate(found)
-            if h["start"] is not None and (not a.level or h["depth"] == a.level)]
+
+    # Document order, not bookmark order: the pages were re-ordered by hand, and
+    # a section body may only ever run from its own heading to the *nearest*
+    # following heading in the text. Sorting also removes overlaps that the
+    # out-of-order fallback in find_title() can introduce.
+    located = [h for h in found if h["start"] is not None]
+    located.sort(key=lambda h: (h["start"], h["end"]))
+
+    # drop duplicate hits (same start) — keep the first, but never two headings
+    # starting at the same offset
+    dedup = []
+    for h in located:
+        if dedup and h["start"] <= dedup[-1]["end"]:
+            continue
+        dedup.append(h)
+    located = dedup
+
+    # which located headings get their own card?
+    kept = [h for h in located if not a.level or h["depth"] == a.level]
 
     out = []
     seq = 0
-    for pos, i in enumerate(kept):
-        h = found[i]
-        nxt_i = kept[pos + 1] if pos + 1 < len(kept) else None
-        body_end = found[nxt_i]["start"] if nxt_i is not None else len(raw)
-        # deeper headings inside this section -> bold separators
-        subs = [found[j] for j in range(i + 1, nxt_i if nxt_i is not None else len(found))
-                if found[j]["start"] is not None and h["end"] <= found[j]["start"] < body_end]
+    for pos, h in enumerate(kept):
+        body_end = kept[pos + 1]["start"] if pos + 1 < len(kept) else len(raw)
+        subs = [s for s in located
+                if h["end"] <= s["start"] < body_end and s is not h]
         paras = []
         cur = h["end"]
         for s in subs:
             if s["start"] < cur:
                 continue
             paras += clean_body(raw[cur:s["start"]])
-            paras.append("**%s**" % s["title"].strip())
-            cur = s["end"]
+            paras.append("#" * min(s["depth"] + 1, 6) + " " + s["title"].strip())
+            cur = max(cur, s["end"])
         paras += clean_body(raw[cur:body_end])
         total = sum(len(p) for p in paras)
         if total < a.min_chars:

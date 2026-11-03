@@ -1,0 +1,212 @@
+# Force, Work, Power, & Torque
+
+> 通用 Ch 05 · Force, Work, Power, & Torque · 原文 PDF 第 154 页
+
+## 1. 原文
+
+Before the concept of work, power, or torque can be discussed, we need to understand what force means. According to the dictionary, force is the intensity of an impetus, or the intensity of an input. For example, if we apply a force to an object, the tendency will be for the object to move. Another way to look at it is that for work, power, or torque to exist, there must be a force that initiates the process.
+
+The unit for force in the English system of measurement is pounds, and in the metric system it is newtons. One pound of force is equal to 4.448 newtons. When we calculate the thrust of a turbine engine, we use the formula “Force = Mass × Acceleration,” and the thrust of the engine is expressed in pounds. The GE90-115 turbofan engine (power plant for the Boeing 777-300), for example, has 115,000 pounds of thrust.
+
+The study of machines, both simple and complex, can be seen as a study of the energy of mechanical work. This is true because all machines transfer input energy, or the work done on the machine, to output energy, or the work done by the machine.
+
+Work, in the mechanical sense of the term, is done when a resistance is overcome by force acting through a measurable distance. Two factors are involved: (1) force and (2) movement through a distance. As an example, suppose a small aircraft is stuck in the snow. Two men push against it for a period of time, but the aircraft does not move. According to the technical definition, no work had been done when the men were pushing against the aircraft. By definition, work is accomplished only when an object is displaced some distance against a resistive force. To calculate work, the following formula is used:
+
+Work = Force (F) × distance (d)
+
+In the English system, the force will be identified in pounds and the distance either in feet or inches, so the units will be foot-pounds or inch-pounds. Notice these are the same units that were used for potential and kinetic energy. In the metric system, the force is identified in newtons (N) and the distance in meters, with the resultant units being joules. One pound of force is equal to 4.448 N and one meter is equal to 3.28 feet. One joule is equal to 0.74 ft-lb.
+
+Example: How much work is accomplished by jacking a 150,000-lb Airbus A-320 airplane a vertical height of 4 ft? Work = Force × Distance = 150,000 lb × 4 ft = 600,000 ft-lb Example: How much work is accomplished when a tow tractor is hooked up to a tow bar and a Boeing 737-800 airplane weighing 130,000 lb is pushed 80 ft. into the hangar? The force on the tow bar is 5,000 lb. Work = Force × Distance = 5,000 lb × 80 ft = 400,000 ft-lb In this last example, notice the force does not equal the weight of the airplane. This is because the airplane is being moved horizontally and not lifted vertically. In almost all cases, it takes less work to move something horizontally than it does to lift it vertically. Most people can push their car a short distance if it runs out of gas, but they cannot get under their car and lift it off the ground.
+
+In calculating work done, the actual resistance overcome is measured. This is not necessarily the weight of the object being moved. A 900-lb load is being pulled a distance of 200 ft. This does not mean that the work done (force × distance) is 180,000 ft-lb (900 lb × 200 ft). This is because the person pulling the load is not working against the total weight of the load, but rather against the rolling friction of the cart, which may be no more than 90 lb.
+
+Friction is an important aspect of work. Without friction, it would be impossible to walk. One would have to shove oneself from place to place, and would have to bump against some obstacle to stop at a destination. Yet friction is a liability as well as an asset, and requires consideration when dealing with any moving mechanism.
+
+In experiments relating to friction, measurement of the applied forces reveals that there are three kinds of friction. One force is required to start a body moving, while another is required to keep the body moving at constant speed. Also, after a body is in motion, a definitely larger force is required to keep it sliding than to keep it rolling.
+
+Thus, the three kinds of friction may be classified as: (1) starting or static friction, (2) sliding friction, and (3) rolling friction.
+
+#### Static Friction
+
+When an attempt is made to slide a heavy object along a surface, the object must first be broken loose or started. Once in motion, it slides more easily. The “breaking loose” force is, of course, proportional to the weight of the body. The force necessary to start the body moving slowly is designated “F,” and “F'” is the normal force pressing the body against the surface which is usually its weight. Since the nature of the surfaces rubbing against each other is important, they must be considered. The nature of the surfaces is indicated by the coefficient of starting friction which is designated by the letter “k.” This coefficient can be established for various materials and is often published in tabular form. Thus, when the load (weight of the object) is known, starting friction can be calculated by using the following formula:
+
+For example, if the coefficient of sliding friction of a smooth iron block on a smooth, horizontal surface is 0.3, the force required to start a 10 lb block would be 3 lb; a 40-lb block, 12 lb.
+
+Starting friction for objects equipped with wheels and roller bearings is much smaller than that for sliding objects. For example, a locomotive would have difficulty getting a long train of cars in motion all at one time. Therefore, the couples between the cars are purposely made to have a few inches of play. When starting the train, the engineer backs the engine until all the cars are pushed together. Then, with a quick start forward the first car is set in motion. This technique is employed to overcome the static friction of each wheel as well as the inertia of each car. It would be impossible for the engine to start all of the cars at the same instant, for static friction, which is the resistance of being set in motion, would be greater than the force exerted by the engine. However, once the cars are in motion, the static friction is greatly reduced and a smaller force is required to keep the train in motion than was required to start it.
+
+#### Sliding Friction
+
+Sliding friction is the resistance to motion offered by an object sliding over a surface. It pertains to friction produced after the object has been set in motion, and is always less than starting friction. The amount of sliding resistance is dependent on the nature of the surface of the object, the surface over which it slides, and the normal force between the object and the surface. This resistive force may be computed by using the following formula:
+
+F = mN In the formula above, “F” is the resistive force due to friction expressed in pounds; “N” is the force exerted on or by the object perpendicular (normal) to the surface over which it slides; and “m” (mu) is the coefficient of sliding friction. On a horizontal surface, N is equal to the weight of the object in pounds. The area of the sliding object exposed to the sliding surface has no effect on the results. A block of wood, for Gravity 200 ft Force 90 lb Resistance Work = force x distance = 90 lb x 200 ft = 18,000 ft-lb example, will not slide any easier on one of the broad sides than it will on a narrow side, assuming all sides have the same smoothness. Therefore, area does not enter into the equation above.
+
+#### Rolling Friction
+
+Resistance to motion is greatly reduced if an object is mounted on wheels or rollers. The force of friction for objects mounted on wheels or rollers is called rolling friction. This force may be computed by the same equation used in computing sliding friction, but the values of “m” will be much smaller. For example, the value of “m” for rubber tires on concrete or macadam is about 0.02. The value of “m” for roller bearings is very small, usually ranging from 0.001 to 0.003 and is often disregarded.
+
+Example: An aircraft with a gross weight of 79,600 lb is towed over a concrete ramp. What force must be exerted by the towing vehicle to keep the airplane rolling after once set in motion?
+
+F = mN = 0.02 mu × 79,600 lb = 1,592 lb
+
+The concept of power involves the previously discussed topic of work, which was a force being applied over a measured distance, but adds one more consideration—time. In other words, how long it takes to accomplish the work. If someone asked the average person if they could lift one million pounds 5 feet off the ground, the answer most assuredly would be no. This person would probably assume that they are to lift it all at once. What if they are given 365 days to lift it, and could lift small amounts of weight at a time? The work involved would be the same, regardless of how long it took to lift the weight, but the power required is different. If the weight is to be lifted in a shorter period of time, it will take more power. The formula for power is as follows: Power = Force × distance ÷ time The units for power will be foot-pounds per minute, foot- pounds per second, inch-pounds per minute or second, and possibly mile-pounds per hour. The units depend on how distance and time are measured.
+
+Many years ago, there was a desire to compare the power of the newly evolving steam engine to that of horses. People wanted to know how many horses the steam engine was equivalent to. The value we know currently as one horsepower (hp) was developed, and it is equal to 550 foot- pounds per second (ft-lb/s) because of this. It was found that the average horse could lift a weight of 550 lb, one foot off the ground, in one second. The values we use today, in order to convert power to horsepower, are as follows:
+
+1 hp = 550 ft-lb/s 1 hp = 33,000 ft-lb/min.
+
+1 hp = 375 mile pounds per hour (mi-lb/hr.)
+
+1 hp = 746 watts (electricity conversion)
+
+To convert power to horsepower, divide the power by the appropriate conversion based on the units being used.
+
+Example: What power would be needed, and also horsepower, to raise the GE-90 turbofan engine into position to install it on a Boeing 777-300 airplane? The engine weighs 19,000 lb, and it must be lifted 4 ft in 2 minutes.
+
+Power = Force × distance ÷ time = 19,000 lb × 4 ft ÷ 2 min.
+
+Hp = 38,000 ft-lb/min. ÷ 33,000 ft-lb/min.
+
+Hp = 1.15 The hoist that will be used to raise this engine into position will need to be powered by an electric motor because the average person will not be able to generate 1.15 hp in their arms for the necessary 2 minutes.
+
+Torque is a very interesting concept and occurrence, and it is definitely something that needs to be discussed in conjunction with work and power. Whereas work is described as force acting through a distance, torque is described as force acting along a distance. Torque is something that creates twisting and tries to make something rotate. If we push on an object with a force of 10 lb and it moves 10 inches in a straight line, we have done 100 in-lb of work. By comparison, if we have a wrench 10 inches long that is on a bolt, and we push down on it with a force of 10 lb, a torque of 100 lb-in is applied to the bolt. If the bolt was already tight and did not move as we pushed down on the wrench, the torque of 100 lb-in would still exist. The formula for torque is: Torque = Force × distance Even though this formula looks the same as the other formula for calculating work, recognize that the distance value in this formula is not the linear distance an object moves, but rather the distance along which the force is applied.
+
+Notice that with torque nothing had to move, because the force is being applied along a distance and not through a distance. Notice also that although the units of work and torque appear to be the same, they are not. The units of work were inch-pounds and the units of torque were pound-inches, and that is what differentiates the two.
+
+Torque is very important when thinking about how engines work, both piston engines and gas turbine engines. Both types of engines create torque in advance of being able to create work or power. With a piston engine, a force in pounds pushes down on the top of the piston and tries to make it move. The piston is attached to the connecting rod, which is attached to the crankshaft at an offset. That offset would be like the length of the wrench discussed earlier, and the force acting along that length is what creates torque.
+
+For the cylinder, there is a force of 500 lb pushing down on the top of the piston. The connecting rod attaches to the crankshaft at an offset distance of 4 in. The product of the force and the offset distance is the torque, in this case 2,000 lb-in.
+
+In a turbine engine, the turbine blades at the back of the engine extract energy from the high velocity exhaust gases. The energy extracted becomes a force in pounds pushing on the turbine blades, which happen to be a certain number of inches from the center of the shaft they are trying to make rotate. The number of inches from the turbine blades to the center of the shaft would be like the length of the wrench discussed earlier.
+
+Mathematically, there is a relationship between the horsepower of an engine and the torque of an engine. The formula that shows this relationship is as follows:
+
+Torque = Horsepower × 5,252 ÷ rpm Example: A Cessna 172R has a Lycoming IO-360 engine that creates 180 horsepower at 2,700 rpm. How many pound-feet of torque is the engine producing? Torque = 180 × 5,252 ÷ 2,700 = 350 lb-ft.
+
+## 2. 中文翻译
+
+在讨论功、功率或扭矩的概念之前，我们需要先理解力是什么意思。按词典的定义，力是推动的强度，或者说输入的强度。例如，如果我们对物体施加一个力，物体就会有运动的趋势。换一种看法：功、功率或扭矩要存在，就必须有一个引发这一过程的力。
+
+英制计量中力的单位是磅，公制中是牛顿。1 磅力等于 4.448 牛顿。计算涡轮发动机的推力时，我们用“力 = 质量 × 加速度”这一公式，发动机推力以磅表示。例如，GE90-115 涡扇发动机（波音 777-300 的动力装置）的推力为 115,000 磅。
+
+对机器（无论简单还是复杂）的研究，可以看作是对机械功所涉能量的研究。这是因为所有机器都把输入能量（即对机器所做的功）转换为输出能量（即机器所做的功）。
+
+就力学意义而言，当力通过一段可测量的距离克服阻力时，就做了功。这涉及两个因素：（1）力，（2）通过一段距离的运动。举例来说，假设一架小型飞机陷在雪里。两个人推了一段时间，但飞机没有移动。按技术定义，两人推飞机时并没有做功。按定义，只有当物体在阻力作用下被移动了一段距离时，才算做了功。计算功时使用以下公式：
+
+功 = 力（F）× 距离（d）
+
+在英制中，力用磅表示，距离用英尺或英寸表示，因此单位是英尺-磅或英寸-磅。注意，这些也正是势能和动能所用的单位。在公制中，力用牛顿（N）表示，距离用米表示，所得单位为焦耳。1 磅力等于 4.448 N，1 米等于 3.28 英尺。1 焦耳等于 0.74 ft-lb。
+
+例：用千斤顶把一架重 150,000 lb 的空客 A-320 飞机垂直顶升 4 ft，做了多少功？功 = 力 × 距离 = 150,000 lb × 4 ft = 600,000 ft-lb。例：当牵引车挂上牵引杆，把一架重 130,000 lb 的波音 737-800 飞机推进机库 80 ft 时，做了多少功？牵引杆上的力为 5,000 lb。功 = 力 × 距离 = 5,000 lb × 80 ft = 400,000 ft-lb。在最后一个例子中要注意，这个力并不等于飞机的重量。这是因为飞机是水平移动，而不是垂直提升。几乎在所有情况下，水平移动物体都比垂直提升它所做的功少。多数人在汽车没油时能把它推出一段距离，却无法钻到车下把车抬离地面。
+
+计算所做的功时，量度的是实际被克服的阻力。这不一定是被移动物体的重量。用 900 lb 的力把载荷拉动 200 ft，并不意味着所做的功（力 × 距离）是 180,000 ft-lb（900 lb × 200 ft）。这是因为拉载荷的人并非在克服载荷的全部重量做功，而是在克服小车的滚动摩擦做功，后者可能不超过 90 lb。
+
+摩擦是功的一个重要方面。没有摩擦，人就不可能行走。人只能把自己从一个地方推到另一个地方，并且要撞上某个障碍物才能停在目的地。然而摩擦既是资产也是负担，在处理任何运动机构时都需要加以考虑。
+
+在与摩擦有关的实验中，对施加力的测量表明摩擦有三种。使物体开始运动需要一种力，而使物体保持匀速运动需要另一种力。此外，物体运动起来之后，维持其滑动所需的力明显大于维持其滚动所需的力。
+
+因此，三种摩擦可分类为：（1）起动摩擦或静摩擦，（2）滑动摩擦，（3）滚动摩擦。
+
+#### 静摩擦
+
+当试图让一个重物沿表面滑动时，必须先使它松动或起动。一旦运动起来，它滑动起来就比较容易。使物体松动的力当然与物体的重量成正比。使物体缓慢开始运动所需的力记为“F”，而把物体压向表面的法向力记为“F'”，后者通常就是物体的重量。由于相互摩擦的两个表面的性质很重要，必须加以考虑。表面的性质用起动摩擦系数表示，该系数用字母“k”表示。这一系数可针对各种材料测定，并常以表格形式公布。因此，当载荷（物体重量）已知时，可用以下公式计算起动摩擦：
+
+例如，若光滑铁块在光滑水平面上的滑动摩擦系数为 0.3，则使 10 lb 的铁块起动需 3 lb 的力；40 lb 的铁块需 12 lb。
+
+装有车轮和滚柱轴承的物体，其起动摩擦比滑动摩擦小得多。例如，机车要一次让整列火车全部起动会很困难。因此，车厢之间的车钩故意留有几英寸的游隙。起动列车时，司机先把机车后退，使所有车厢被推拢在一起，然后快速向前起动，让第一节车厢先动起来。这一技巧用来克服每个车轮的静摩擦以及每节车厢的惯性。机车不可能在同一瞬间让所有车厢都起动，因为静摩擦（即被起动时的阻力）会大于机车所施加的力。然而一旦车厢运动起来，静摩擦就大大减小，维持列车运动所需的力比起动时小。
+
+#### 滑动摩擦
+
+滑动摩擦是物体在表面上滑动时所受到的阻力。它指物体被起动之后产生的摩擦，且总是小于起动摩擦。滑动阻力的大小取决于物体表面的性质、它所滑过的表面，以及物体与该表面之间的法向力。这一阻力可用以下公式计算：
+
+F = mN 上式中，“F”是摩擦产生的阻力，以磅表示；“N”是物体施加于所滑过表面的力（或该表面对物体施加的力），方向垂直于表面；“m”（mu）是滑动摩擦系数。在水平面上，N 等于物体的重量（磅）。滑动物体与滑动表面接触的面积对结果没有影响。例如，一块木头在一个宽面上滑动并不会比在窄面上更容易，前提是各面光滑程度相同。因此，面积不进入上述公式。原文此处夹有一处受力示意图的标注文字。
+
+#### 滚动摩擦
+
+如果物体装在车轮或滚轮上，运动阻力会大大减小。装在车轮或滚轮上的物体所受的摩擦力称为滚动摩擦。这一力可用计算滑动摩擦的同一公式计算，但“m”的值要小得多。例如，橡胶轮胎在混凝土或碎石路面上的“m”值约为 0.02。滚柱轴承的“m”值非常小，通常在 0.001 到 0.003 之间，常常可以忽略不计。
+
+例：一架总重 79,600 lb 的飞机在混凝土停机坪上被牵引。一旦起动后，牵引车必须施加多大的力才能使飞机保持滚动？
+
+F = mN = 0.02（mu）× 79,600 lb = 1,592 lb
+
+功率的概念涉及前面讨论过的功，即在一段量测距离上施加的力，但还要多考虑一个因素——时间。换言之，就是完成这些功需要多长时间。如果有人问普通人，能否把一百万磅的重物抬离地面 5 英尺，答案多半是“不能”。这个人大概会以为要一次把它抬起来。如果给他 365 天时间、允许一次只抬一点重量呢？无论花多长时间抬起重物，所做的功都相同，但所需的功率不同。如果要在更短的时间内抬起该重物，就需要更大的功率。功率的公式如下：功率 = 力 × 距离 ÷ 时间 功率的单位有英尺-磅每分钟、英尺-磅每秒、英寸-磅每分或每秒，也可能有英里-磅每小时。单位取决于距离和时间如何计量。
+
+许多年前，人们希望把当时新出现的蒸汽机的功率与马的功率作比较，想知道一台蒸汽机相当于多少匹马。由此定出了今天所称的 1 马力（hp），它等于 550 英尺-磅每秒（ft-lb/s）。研究发现，一匹普通的马能在 1 秒钟内把 550 lb 的重物抬高 1 英尺。如今用于把功率换算为马力的数值如下：
+
+1 hp = 550 ft-lb/s 1 hp = 33,000 ft-lb/min。
+
+1 hp = 375 英里-磅每小时（mi-lb/hr.）
+
+1 hp = 746 瓦（电功率换算）
+
+要把功率换算为马力，就用功率除以与所用单位相对应的换算值。
+
+例：要把 GE-90 涡扇发动机吊起就位、装到波音 777-300 飞机上，需要多大功率、多少马力？该发动机重 19,000 lb，必须在 2 分钟内吊起 4 ft。
+
+功率 = 力 × 距离 ÷ 时间 = 19,000 lb × 4 ft ÷ 2 min。
+
+Hp = 38,000 ft-lb/min ÷ 33,000 ft-lb/min。
+
+Hp = 1.15 用来把发动机吊起就位的起重设备必须由电动机驱动，因为普通人的双臂无法在所需的 2 分钟内持续输出 1.15 hp。
+
+扭矩是一个很有趣的概念和现象，确实需要与功和功率一起讨论。功被描述为力通过一段距离作用，而扭矩被描述为力沿一段距离作用。扭矩是产生扭转、试图使物体旋转的东西。如果我们用 10 lb 的力推一个物体，使它沿直线移动 10 英寸，我们就做了 100 in-lb 的功。相比之下，如果有一个 10 英寸长的扳手卡在螺栓上，我们用 10 lb 的力向下压，就对螺栓施加了 100 lb-in 的扭矩。如果螺栓本来就很紧，在我们下压扳手时并没有移动，那么 100 lb-in 的扭矩依然存在。扭矩的公式是：扭矩 = 力 × 距离 尽管这个公式看起来与计算功的另一个公式相同，但要认识到，本公式中的距离值不是物体移动的直线距离，而是力所沿作用的距离。
+
+注意，就扭矩而言，什么也不必移动，因为力是沿一段距离作用，而不是通过一段距离作用。还要注意，虽然功和扭矩的单位看起来相同，其实并不相同。功的单位是英寸-磅，扭矩的单位是磅-英寸，这正是两者的区别。
+
+思考发动机（无论是活塞式还是燃气涡轮式）如何工作时，扭矩非常重要。两类发动机都是先产生扭矩，然后才能产生功或功率。在活塞发动机中，以磅计的力向下压在活塞顶部，试图使它移动。活塞连接在连杆上，连杆又以一定的偏移量连接在曲轴上。这个偏移量就相当于前面讨论过的扳手长度，而沿这一长度作用的力就产生了扭矩。
+
+对于该气缸，有 500 lb 的力向下压在活塞顶部。连杆以 4 in 的偏移距离连接到曲轴。力与偏移距离的乘积就是扭矩，此处为 2,000 lb-in。
+
+在涡轮发动机中，发动机后部的涡轮叶片从高速排出的燃气中提取能量。提取的能量变成以磅计的力，作用在涡轮叶片上；叶片距它所要带动的轴心有一定英寸数。涡轮叶片到轴心的英寸数，就相当于前面讨论过的扳手长度。
+
+在数学上，发动机马力与发动机扭矩之间存在关系。表示这一关系的公式如下：
+
+扭矩 = 马力 × 5,252 ÷ 转速 例：一架塞斯纳 172R 装有莱康明 IO-360 发动机，在 2,700 rpm 时产生 180 马力。该发动机产生多少磅-英尺的扭矩？扭矩 = 180 × 5,252 ÷ 2,700 = 350 lb-ft。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| force | n. | 力 | 引发运动、功、功率或扭矩的输入强度，英制以磅计 |
+| newton | n. | 牛顿 | 公制力的单位，1 磅力等于 4.448 N |
+| thrust | n. | 推力 | 涡扇发动机产生的力，GE90-115 的推力为 115,000 磅 |
+| work | n. | 功 | 力通过可量测距离克服阻力，单位 ft-lb 或 in-lb |
+| joule | n. | 焦耳 | 公制功的单位，1 焦耳等于 0.74 ft-lb |
+| friction | n. | 摩擦 | 物体相对运动时的阻力，本节分为静摩擦、滑动摩擦、滚动摩擦 |
+| static friction | n. | 静摩擦 | 使静止物体起动所需克服的摩擦，用起动摩擦系数 k 计算 |
+| sliding friction | n. | 滑动摩擦 | 物体起动后滑动所受的阻力，恒小于起动摩擦 |
+| rolling friction | n. | 滚动摩擦 | 装车轮或滚轮的物体所受阻力，系数 m 约 0.02 甚至更小 |
+| power | n. | 功率 | 做功的时间速率，公式为力 × 距离 ÷ 时间 |
+| horsepower (hp) | n. | 马力 | 功率单位，1 hp = 550 ft-lb/s = 33,000 ft-lb/min |
+| torque | n. | 扭矩 | 力沿一段距离作用产生的扭转，单位为 lb-in 或 lb-ft |
+
+## 4. 语法解析
+
+### ① 被动语态 + 时间状语从句 + 分词短语
+**原句**：Work, in the mechanical sense of the term, is done when a resistance is overcome by force acting through a measurable distance.
+**拆解**：主语 Work 后接插入语 in the mechanical sense of the term；谓语 is done 为被动；when 引导时间状语从句，从句主语 a resistance，谓语 is overcome，by force 为施动者；acting through a measurable distance 为现在分词短语作后置定语修饰 force。
+**要点**：is done 与 is overcome 两个被动叠用，把「谁做功、谁克服阻力」都隐去，突出过程本身；插入语用两个逗号夹住，翻译时可提到句首作「就力学意义而言」。act through 是「通过……作用」，与后文 act along 形成对照，注意介词搭配。
+
+### ② whereas 引导的对比句
+**原句**：Whereas work is described as force acting through a distance, torque is described as force acting along a distance.
+**拆解**：Whereas 引导对比分句，work is described as force（acting through a distance 为现在分词后置定语）；主句 torque is described as force（acting along a distance 亦为后置定语）。两句结构完全平行，只差 through 与 along 两个介词。
+**要点**：whereas 表「而、然而」，用于正式地对照两件事，不能与 although 混用（后者表让步）。be described as 后接名词，不接 to do；本句的对比落点在介词：through 表穿过一段距离，along 表沿一段距离，这是功与扭矩的分水岭。
+
+### ③ 与现在事实相反的虚拟条件句
+**原句**：If someone asked the average person if they could lift one million pounds 5 feet off the ground, the answer most assuredly would be no.
+**拆解**：If 从句用一般过去时 asked，表示与现在事实相反；从句中又套一个 if 引导的宾语从句 if they could lift…，could 为过去式情态动词；主句 the answer would be no 用 would + 动词原形。
+**要点**：这是虚拟语气第二类（与现在事实相反）的标准形式：if + 过去式，主句 would + 原形。句中出现两个 if，第一个是条件，第二个是 ask 的宾语从句，翻译时要分清层次，可译成「如果问……能否……」。注意 be 动词在虚拟从句中通常用 were。
+
+### ④ without 引出的含蓄虚拟条件
+**原句**：Without friction, it would be impossible to walk.
+**拆解**：Without friction 为介词短语，相当于 if there were no friction，是含蓄条件；主句 it would be impossible to walk 中 it 为形式主语，真正的主语是 to walk。
+**要点**：without、but for、otherwise 等词可代替 if 从句表达虚拟条件，主句仍用 would/could + 原形。it 作形式主语的句子，翻译时把后面的不定式提前，译成「行走将是不可能的」。这类结构在技术说明中常用来强调某条件的必要性。
+
+### ⑤ for 引导原因 + 非限制性定语从句 + 比较级
+**原句**：It would be impossible for the engine to start all of the cars at the same instant, for static friction, which is the resistance of being set in motion, would be greater than the force exerted by the engine.
+**拆解**：主句 It would be impossible for the engine to start all of the cars at the same instant，it 为形式主语，for the engine 引出不定式的逻辑主语；for static friction… would be greater than… 为 for 引导的原因分句；which is the resistance of being set in motion 为非限制性定语从句修饰 static friction；exerted by the engine 为过去分词短语作后置定语修饰 the force。
+**要点**：for 作并列连词表原因时语气正式，前面必须有逗号，不能与表目的的 for 混淆；being set in motion 是动名词被动式，作介词 of 的宾语。比较级 greater than 后接的是名词短语 the force exerted by the engine，比较对象要对等。
+
+### ⑥ 宾语从句 + 现在进行时被动 + 介词对比
+**原句**：Notice that with torque nothing had to move, because the force is being applied along a distance and not through a distance.
+**拆解**：祈使句 Notice 后接 that 引导的宾语从句；从句主语 nothing，谓语 had to move；because 引导原因状语从句，其中 the force is being applied 为现在进行时的被动语态，along a distance 与 not through a distance 为并列的介词短语。
+**要点**：is being applied 强调「正在被施加」，与一般现在时被动 is applied 的区别在于是否强调进行过程；had to move 的 had to 表「必须」，不是过去完成时。along 与 through 的对比呼应前文功与扭矩的定义，是理解本句的关键。

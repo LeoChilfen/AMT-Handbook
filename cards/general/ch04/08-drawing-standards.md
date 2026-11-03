@@ -1,0 +1,48 @@
+# Drawing Standards
+
+> 通用 Ch 04 · Drawing Standards · 原文 PDF 第 131 页
+
+## 1. 原文
+
+Drawing standards cover such items as paper sizes, notes, numbering systems, geometric dimensions and tolerances, abbreviations, welding symbols, roughness symbols, and electrical symbols. These standards cover metric and inch measurements, as well as computer-drafting standards. Different standards for drawings are used in industry and some of the more common ones are published by the International Organization for Standardization (ISO) and the American National Standards Institute (ANSI).
+
+## 2. 中文翻译
+
+图纸标准涵盖图纸幅面、注释、编号体系、几何尺寸与公差、缩写、焊接符号、表面粗糙度符号和电气符号等项目。这些标准涵盖米制与英制计量，也涵盖计算机绘图标准。工业界使用的图纸标准各不相同，其中较为常见的由国际标准化组织（ISO）和美国国家标准学会（ANSI）发布。
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| drawing standard | n.phr. | 图纸标准 | 规定幅面、注释、符号、公差等的制图规范 |
+| paper size | n.phr. | 图纸幅面 | 标准中规定的纸张尺寸规格 |
+| numbering system | n.phr. | 编号体系 | 图纸与零件的编号规则 |
+| geometric dimension and tolerance | n.phr. | 几何尺寸与公差 | 规定形状、位置允许偏差的制图规则 |
+| abbreviation | n. | 缩写 | 标准中统一规定的简写形式 |
+| welding symbol | n.phr. | 焊接符号 | 标注焊缝形式与尺寸的专用符号 |
+| roughness symbol | n.phr. | 表面粗糙度符号 | 标注加工表面粗糙程度的符号 |
+| electrical symbol | n.phr. | 电气符号 | 表示电路元件与连接的符号 |
+| metric measurement | n.phr. | 米制计量 | 以毫米等米制单位标注尺寸 |
+| inch measurement | n.phr. | 英制计量 | 以英寸标注尺寸，与米制并行使用 |
+| computer-drafting standard | n.phr. | 计算机绘图标准 | 针对计算机出图的规范要求 |
+| ISO | 专有名词 | 国际标准化组织 | 发布通用图纸标准的国际机构，本节与 ANSI 并列 |
+## 4. 语法解析
+
+### ① such as 举例 + 长并列宾语
+**原句**：Drawing standards cover such items as paper sizes, notes, numbering systems, geometric dimensions and tolerances, abbreviations, welding symbols, roughness symbols, and electrical symbols.
+**拆解**：主语 Drawing standards；谓语 cover；宾语为 such items as… 结构，as 后并列八个名词短语，最后一项前用逗号加 and。
+**要点**：such items as 与 such…as 同义，as 后接名词而非句子；多项并列只在最后一项前加 and，译文按中文习惯用顿号。
+
+### ② as well as 的补充性并列
+**原句**：These standards cover metric and inch measurements, as well as computer-drafting standards.
+**拆解**：主语 These standards；谓语 cover；宾语为 metric and inch measurements，as well as 引出补充宾语 computer-drafting standards；谓语形式由前面的宾语决定。
+**要点**：as well as 连接的成分不影响主谓一致，谓语与 as well as 之前的成分一致；它比 and 更强调“除此之外还有”。
+
+### ③ 被动语态省略施动者
+**原句**：Different standards for drawings are used in industry
+**拆解**：主语 Different standards for drawings（for drawings 为后置定语）；谓语 are used 为一般现在时被动；in industry 为范围状语，施动者 by 短语被省略。
+**要点**：手册与技术说明常用被动省略 by 短语，因为施动者是“业界”这类不言自明的群体；一般现在时被动表“通行做法”，不指某一次使用。
+
+### ④ ones 代词替代 + 被动 + 机构全称作介词宾语
+**原句**：some of the more common ones are published by the International Organization for Standardization (ISO) and the American National Standards Institute (ANSI)
+**拆解**：主语 some of the more common ones（ones 替代前文的 standards）；谓语 are published 为被动；by 引出两个并列的机构全称作施动者，全称后括注缩写。
+**要点**：one/ones 替代前文可数名词，前面可带 the + 比较级修饰（the more common ones）；机构名首次出现按“全称（缩写）”书写，后文即可只用缩写。

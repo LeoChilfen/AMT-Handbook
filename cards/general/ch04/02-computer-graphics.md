@@ -1,0 +1,82 @@
+# Computer Graphics
+
+> 通用 Ch 04 · Computer Graphics · 原文 PDF 第 125 页
+
+## 1. 原文
+
+From the early days of aviation, development of aircraft, aircraft engines, and other components relied heavily on aircraft drawings. For most of the 20 th century, drawings were created on a drawing “board” with pen or pencil and paper. With the introduction and advancement of computers in the later decades of the 20 th century, the way drawings are created changed dramatically. Computers were used not only to create drawings, but they were being used to show items in “virtual reality,” from any possible viewing angle. Further development of computer software programs allowed for assembling of separately created parts to check for proper fit and possible interferences. Additionally, with nearly instantaneous information sharing capability through computer networking and the Internet, it became much easier for designers to share their work with other designers and manufacturers virtually anytime, anywhere in the world. Using new computer-controlled manufacturing techniques, it became possible to design a part and have it precisely manufactured without ever having shown it on paper. New terms and acronyms became commonplace. The more common of these terms are:
+
+• Computer Graphics—drawing with the use of a computer
+
+• Computer Aided Design (CAD)—where a computer is used in the design of a part or product
+
+• Computer Aided Design Drafting (CADD)—where a computer is used in the design and drafting process
+
+• Computer Aided Manufacturing (CAM)—where a computer is used in the manufacturing of a part or product
+
+• Computer Aided Engineering (CAE)—where a computer is used in the engineering of a part or product As computer hardware and software continue to evolve, a greater amount of CAE is completed in less time, at lower cost. In addition to product design, some of the other uses of CAE are product analysis, assembly, simulations, and maintenance information.
+
+CATIA, ProEngineer, Solid Works, and Unigraphics are some of the more popular CAD software packages used for aircraft design and manufacturing. Most airframe manufacturers use CATIA software to design their aircraft. The complete aircraft is designed and assembled in the software package before it is manufactured. Drawings of all parts of the aircraft are available and can be accessed using the computer software. Drawings are no longer limited to 1, 2, or 3 views. Drawings from every angle can easily be accessed by using the computer model of the part or product. Technicians can access drawings and aircraft manuals on laptops or even mobile devices when performing maintenance on the shop floor.
+
+## 2. 中文翻译
+
+从航空业的早期起，飞机、航空发动机及其他部件的研制就在很大程度上依赖飞机图纸。20 世纪的大部分时间里，图纸是用钢笔或铅笔在绘图“板”上画在纸上的。随着 20 世纪后几十年计算机的引入和进步，图纸的绘制方式发生了巨大变化。计算机不仅被用来绘制图纸，还被用来以“虚拟现实”的方式从任何可能的视角展示物体。计算机软件程序的进一步发展，使分别创建的零件可以装配起来，以检查配合是否合适、有无干涉。此外，借助计算机网络和互联网近乎即时的信息共享能力，设计人员在世界任何地方、几乎任何时间与其他设计人员和制造厂商共享工作成果都变得容易得多。使用新的计算机控制制造技术，已经可以设计出一个零件并把它精确制造出来，而无需先在纸上画出。新的术语和缩略语变得司空见惯。其中较为常见的术语有：
+
+• 计算机图形（Computer Graphics）——借助计算机绘图
+
+• 计算机辅助设计（CAD）——用计算机进行零件或产品的设计
+
+• 计算机辅助设计与绘图（CADD）——用计算机进行设计和绘图的过程
+
+• 计算机辅助制造（CAM）——用计算机进行零件或产品的制造
+
+• 计算机辅助工程（CAE）——用计算机进行零件或产品的工程工作。随着计算机硬件和软件不断发展，越来越多的 CAE 工作能在更短的时间内、以更低的成本完成。除产品设计外，CAE 的其他一些用途还有产品分析、装配、仿真和维修信息。
+
+CATIA、ProEngineer、Solid Works 和 Unigraphics 是用于飞机设计与制造的几种较流行的 CAD 软件包。大多数机体制造商使用 CATIA 软件设计其飞机。整架飞机在制造之前先在软件包中完成设计和装配。飞机所有零件的图纸都可以获得，并可用计算机软件调阅。图纸不再局限于 1 个、2 个或 3 个视图。使用零件或产品的计算机模型，可以方便地调阅各个角度的视图。技术人员在车间现场从事维修时，可以在笔记本电脑甚至移动设备上调阅图纸和飞机手册。
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| computer graphics | n. | 计算机图形（学） | 用计算机绘图，本节列举的新术语中的第一条 |
+| computer aided design (CAD) | n.phr. | 计算机辅助设计 | 用计算机设计零件或产品，如 CATIA、Solid Works 等软件包 |
+| computer aided design drafting (CADD) | n.phr. | 计算机辅助设计与绘图 | 把设计与绘图两个过程都交给计算机完成 |
+| computer aided manufacturing (CAM) | n.phr. | 计算机辅助制造 | 用计算机控制零件或产品的制造 |
+| computer aided engineering (CAE) | n.phr. | 计算机辅助工程 | 含产品分析、装配、仿真与维修信息等工作 |
+| virtual reality | n.phr. | 虚拟现实 | 计算机把物体以任意视角“虚拟”呈现出来的状态 |
+| interference | n. | 干涉 | 装配检查中零件之间不应出现的相互侵占 |
+| software package | n.phr. | 软件包 | 如 CATIA，可完成整机设计与装配的成套软件 |
+| airframe manufacturer | n.phr. | 机体制造商 | 多数用 CATIA 设计飞机，制造前先在软件中完成整机装配 |
+| shop floor | n.phr. | 车间现场 | 技术人员用笔记本或移动设备调阅图纸的作业现场 |
+| mobile device | n.phr. | 移动设备 | 与笔记本电脑并列，可在现场调阅图纸和手册 |
+| drawing board | n.phr. | 绘图板 | 20 世纪大部分时间里绘图员用笔和纸作业的地方 |
+## 4. 语法解析
+
+### ① with 引导的原因状语 + the way 定语从句
+**原句**：With the introduction and advancement of computers in the later decades of the 20 th century, the way drawings are created changed dramatically.
+**拆解**：With… 为介词短语作原因/伴随状语，in the later decades of the 20 th century 为其内部时间状语；主句主语 the way drawings are created（the way 后是省略 that/in which 的定语从句），谓语 changed，dramatically 为程度副词。
+**要点**：the way 后接定语从句时关系词常省略，不能写成 the way which drawings are created；主语中心词是 the way，故谓语用单数 changed。
+
+### ② not only…but… 并列 + 过去进行时被动
+**原句**：Computers were used not only to create drawings, but they were being used to show items in “virtual reality,” from any possible viewing angle.
+**拆解**：前一分句为一般过去时被动 were used + not only to create drawings（不定式作目的）；后一分句用过去进行时被动 were being used，but 引出递进；from any possible viewing angle 为状语。
+**要点**：not only 置于句中时不倒装，只有置于句首才需要倒装；were being used 强调当时正在形成的新用法，比 were used 更有“逐步转向”的意味。
+
+### ③ it 作形式主语 + for sb to do 真正主语
+**原句**：Additionally, with nearly instantaneous information sharing capability through computer networking and the Internet, it became much easier for designers to share their work with other designers and manufacturers virtually anytime, anywhere in the world.
+**拆解**：Additionally 为连接副词；with… 介词短语表原因；it 为形式主语，真正主语是 for designers to share their work…；became 为系动词，much easier 为表语；句末 anytime、anywhere 并列作状语。
+**要点**：形式主语 it 不能换成 that；for designers 是不定式的逻辑主语；修饰比较级只能用 much、far、a lot 等，不能用 very。
+
+### ④ allow for + 动名词
+**原句**：Further development of computer software programs allowed for assembling of separately created parts to check for proper fit and possible interferences.
+**拆解**：主语 Further development of computer software programs；谓语 allowed for（短语动词）；宾语为动名词 assembling，of separately created parts 说明装配对象；to check for… 为目的状语。
+**要点**：allow for 意为“使……成为可能、为……留出余地”，与 allow sb to do 结构不同；assembling 前用 of 短语，翻译时宜还原为“把分别创建的零件装配起来”。
+
+### ⑤ 现在分词作方式状语 + have sth done 使役被动
+**原句**：Using new computer-controlled manufacturing techniques, it became possible to design a part and have it precisely manufactured without ever having shown it on paper.
+**拆解**：Using… 为现在分词短语作方式状语；主句 it 为形式主语，真正主语是并列的两个不定式 to design a part 与 have it precisely manufactured；have it manufactured 为“have + 宾语 + 过去分词”结构；without ever having shown 为否定完成式动名词。
+**要点**：have sth done 表示“让某事被做”，宾语与过去分词是被动关系；介词 without 后须用动名词，完成式 having shown 强调“从未先在纸上画出”这一先于制造的动作。
+
+### ⑥ 破折号 + where 引导的定语从句
+**原句**：Computer Aided Design (CAD)—where a computer is used in the design of a part or product
+**拆解**：术语全称 Computer Aided Design (CAD) 后接破折号，破折号后 where 引导定语从句对术语作解释；从句为被动 is used in the design of…。
+**要点**：where 在此不是“在哪里”，而是指代“在这种做法中”，相当于 in which；缩写表、术语表的释义常用“术语—where 从句”的格式，翻译时可处理为“即用计算机……”。
