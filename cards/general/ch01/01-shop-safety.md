@@ -31,7 +31,6 @@ An important factor in preventing electrical fires is to keep the area around el
 Compressed air, like electricity, is an excellent tool when it is under control. The following “dos and don’ts” apply when working with or around compressed gases:
 
 • Inspect air hoses frequently for breaks and worn spots.
-
   Unsafe hoses must be replaced immediately.
 
 • Keep all connections in a “no-leak condition.”
@@ -43,7 +42,6 @@ Compressed air, like electricity, is an excellent tool when it is under control.
 • Filter air used for paint spraying to remove oil and water.
 
 • Never use compressed air to clean hands or clothing.
-
   Pressure can force debris into the flesh leading to infection.
 
 • Never spray compressed air in the area of other personnel.
@@ -175,8 +173,7 @@ Welding on an aircraft should be performed outside, if possible. If welding in t
 压缩空气和电一样，在受控状态下是极好的工具。在操作或靠近压缩气体作业时，应遵守以下“注意事项”：
 
 • 经常检查空气软管有无破损和磨损处。
-
-不安全的软管必须立即更换。
+  不安全的软管必须立即更换。
 
 • 使所有连接处保持“不漏气状态”。
 
@@ -187,8 +184,7 @@ Welding on an aircraft should be performed outside, if possible. If welding in t
 • 喷涂用的空气应经过滤，除去其中的油和水。
 
 • 绝不要用压缩空气吹手或吹衣服。
-
-压力会把碎屑压入皮肉，导致感染。
+  压力会把碎屑压入皮肉，导致感染。
 
 • 绝不要朝其他人员所在区域喷射压缩空气。
 

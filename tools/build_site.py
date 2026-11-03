@@ -215,7 +215,11 @@ def render_markdown(text):
                 break
             buf.append(cur)
             i += 1
-        out.append("<p>%s</p>" % inline(" ".join(buf)))
+        if buf and buf[0].startswith("•"):
+            # 项目符号段落：后续紧跟的行是该条目的续行，换行但保持悬挂缩进
+            out.append('<p class="bullet">%s</p>' % "<br>".join(inline(x) for x in buf))
+        else:
+            out.append("<p>%s</p>" % inline(" ".join(buf)))
 
     return "\n".join(out), headings
 
@@ -496,6 +500,7 @@ body{
 .content h5{font-size:14.5px;margin:16px 0 5px;line-height:1.5;color:#333b43}
 .content h6{font-size:13.5px;margin:14px 0 4px;line-height:1.5;color:#4a525b}
 .content p{margin:10px 0}
+.content p.bullet{padding-left:1.15em;text-indent:-1.15em}
 .content ul,.content ol{margin:10px 0;padding-left:22px}
 .content li{margin:4px 0}
 .content code{background:#f3f3f1;padding:1.5px 5px;border-radius:5px;font-size:.9em;
