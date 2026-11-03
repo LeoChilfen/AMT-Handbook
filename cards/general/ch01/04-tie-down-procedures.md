@@ -32,7 +32,7 @@ The normal tie-down procedure for heavy aircraft includes the following:
 
 3. Chock all wheels fore and aft.
 
-4. Attach tie-down reels to aircraft tie-down loops, tie- down anchors, or tie-down stakes. Use tie-down stakes for temporary tie-down only. If tie-down reels are not available, 1⁄4" wire cable or 1 1⁄2" manila line may be used.
+4. Attach tie-down reels to aircraft tie-down loops, tie-down anchors, or tie-down stakes. Use tie-down stakes for temporary tie-down only. If tie-down reels are not available, 1⁄4" wire cable or 1 1⁄2" manila line may be used.
 
 ### Tie-Down Procedures for Seaplanes
 

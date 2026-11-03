@@ -2,13 +2,13 @@
 
 ### Types of Fuel and Identification
 
-Two types of aviation fuel in general use are aviation gasoline, also known as A VGAS, and turbine fuel, also known as JET A fuel.
+Two types of aviation fuel in general use are aviation gasoline, also known as AVGAS, and turbine fuel, also known as JET A fuel.
 
-Aviation gasoline (A VGAS) is used in reciprocating engine aircraft. Currently, there are three grades of fuel in general use: 80/87, 100/130, and 100LL (low lead). A fourth grade, 115/145, is in limited use in the large reciprocating-engine aircraft. The two numbers indicate the lean mixture and rich mixture octane rating numbers of the specific fuel. In other words, with 80/87 A VGAS, the 80 is the lean mixture rating and 87 is the rich mixture rating number. To avoid confusing the types of A VGAS, it is generally identified as grade 80, 100, 100LL, or 115. A VGAS can also be identified by a color code. The color of the fuel needs to match the color band on piping and fueling equipment.
+Aviation gasoline (AVGAS) is used in reciprocating engine aircraft. Currently, there are three grades of fuel in general use: 80/87, 100/130, and 100LL (low lead). A fourth grade, 115/145, is in limited use in the large reciprocating-engine aircraft. The two numbers indicate the lean mixture and rich mixture octane rating numbers of the specific fuel. In other words, with 80/87 AVGAS, the 80 is the lean mixture rating and 87 is the rich mixture rating number. To avoid confusing the types of AVGAS, it is generally identified as grade 80, 100, 100LL, or 115. AVGAS can also be identified by a color code. The color of the fuel needs to match the color band on piping and fueling equipment.
 
-Turbine fuel/jet fuel is used to power turbojet and turbo- shaft engines. Three types of turbine fuel generally used in civilian aviation are JET A and JET A-1, made from kerosene, and JET B, a blend of kerosene and A VGAS. While jet fuel is identified by the color black on piping and fueling equipment, the actual color of jet fuel can be clear or straw colored.
+Turbine fuel/jet fuel is used to power turbojet and turboshaft engines. Three types of turbine fuel generally used in civilian aviation are JET A and JET A-1, made from kerosene, and JET B, a blend of kerosene and AVGAS. While jet fuel is identified by the color black on piping and fueling equipment, the actual color of jet fuel can be clear or straw colored.
 
-Before mixing A VGAS and turbine fuel, refer to the Type Certificate Data Sheet for the respective powerplant. Adding jet fuel to A VGAS causes a decrease in the power developed by the engine and could cause damage to the engine (through detonation) and loss of life. Adding A VGAS to jet fuel can cause lead deposits in the turbine engine and can lead to reduced service life.
+Before mixing AVGAS and turbine fuel, refer to the Type Certificate Data Sheet for the respective powerplant. Adding jet fuel to AVGAS causes a decrease in the power developed by the engine and could cause damage to the engine (through detonation) and loss of life. Adding AVGAS to jet fuel can cause lead deposits in the turbine engine and can lead to reduced service life.
 
 ### Contamination Control
 
@@ -50,7 +50,7 @@ Prior to fueling, the person fueling must check the following:
 
 3. Ensure no flame-producing devices are carried by anyone engaged in the fueling operation. A moment of carelessness could cause an accident.
 
-4. Ensure that the proper type and grade of fuel is used. Do not mix A VGAS and JET fuel.
+4. Ensure that the proper type and grade of fuel is used. Do not mix AVGAS and JET fuel.
 
 5. Ensure that all the sumps have been drained.
 
