@@ -58,26 +58,99 @@ The IA must keep their certificate available for inspection by any one of the fo
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（26 段）。专业术语按行业惯例，数字与缩写保留。 -->
+### 第 65.91 条 检验授权
+
+持有 A&P 合格证满 3 年、且在最近 2 年内一直处于从业状态的维修人员，可使用 FAA 表格 8610-1《维修人员检验授权申请书》向 FAA 提出申请，作为 IA 人选接受审议。除上述时间要求外，IA 候选人还必须具备：
+
+• 一个固定作业基地，在正常工作周内能以本人到场或电话方式联系到，但该地点不必是其行使检验权限的地点。
+
+• 为正确检验其拟批准放行的机体、动力装置、螺旋桨或任何相关零件或附件所必需的可用设备、设施和检验数据。
+
+符合上述全部条件的申请人随后必须通过一次笔试（或该考试的计算机化版本），以测定其在完成大修或改装之后、或在实施年度检查或渐进式检查之后检验航空器适航性的能力。计算机考试的最低及格分数为 70 分。如申请人考试不合格，则自不合格之日起至少满 90 天方可重考。与 A&P 考试不同，即使申请人接受补充培训，这一时限也不缩短。
+
+### 第 65.92 条 检验授权：有效期
+
+IA 合格证于每个奇数年的 3 月 31 日到期，但只有在技术人员持有当前有效的维修人员合格证期间方可行使。出现下列情形时，IA 即不再有效：
+
+• 技术人员将其交回，或该证被暂停或吊销。
+
+• 技术人员不再拥有固定作业基地。
+
+• 技术人员不再拥有所需的设施、设备或检验数据。
+
+无论何时合格证被暂停或吊销，技术人员都必须在 FAA 要求时将其交回局长。
+
+### 第 65.93 条 检验授权：续期
+
+IA 合格证可在技术人员寻求续期的每一年，按下列方式之一续期：
+
+• 在技术人员持有 IA 等级的每 90 天内，至少完成一次年度检查。
+
+• 在技术人员持有 IA 等级的每 90 天内，至少完成两次大修或重大改装的检查。（注：无论该工作被批准与否，这些检查均可计入。）
+
+• 实施（或监督）并批准至少一次渐进式检查。
+
+• 参加并成功完成不少于 8 学时授课的复训课程（须为局长认可者）。这可以是单日研讨会，也可以是局长认可的若干单独课程的组合。有些研讨会由 FAA 的 FSDO 主办且免费；另一些收费较低。私营行业也经常举办单日课程，通常要收取费用。无论由谁主办研讨会，这通常都是完成续期、了解新问题并在同行中建立人脉的极好途径。
+
+• 通过 FAA 监察员的口试，以确认申请人对适用法规和标准的了解是当前的。
+
+由于所有 IA 合格证都在每个日历年的第一季度（3 月 31 日）到期，且法规规定持有 IA 不满 90 天者无需满足上述续期要求，因此在日历年的第一季度取得 IA 的人员无需续期。
+
+持有 IA 的技术人员应注意，法规明确规定，在 3 月 31 日之前的每 90 天期间内，所需完成的年度检查（四次）和大修或改装检查（八次）的数量。这并不是说在之前每一个 90 天期间内技术人员都必须完成一次年度检查或两次大修或改装检查，而是指截至 3 月 31 日的累计数量。因此，IA 实际上可以连续 11 个月不进行任何与续期有关的检查活动，然后在 3 月一次性完成全部四次所需的年度检查，或全部八次与 337 表格有关的检查。但是，法规不允许将这些续期活动任意混合（即两次年度检查加四份大修与重大改装表格）。
+
+另一种续期方式是面见 FAA 指派的 FSDO 监察员，由其确认申请人具备对适用法规和标准的当前知识。尽管这常被视为最后的续期手段，但不应把它看成一桩负面经历。如果 IA 全年都以专业方式开展其活动，这次会面可视为一次专业的跟踪回访或咨询。IA 与 FSDO 监察员之间的良好互动，可通过这样的会面得到增进。
+
+### 第 65.95 条 检验授权：权限与限制
+
+IA 可实施年度检查，或实施、监督渐进式检查。他们还可批准经过大修或改装的任何与航空器相关的零件或附件放行（但按 14 CFR 第 121 部运行的持续适航方案维护的航空器除外）。
+
+IA 必须将其合格证保持在可供下列任一人员检查的状态：
+
+• NTSB 的授权代表
+
+• 任何联邦、州、地方或执法人员 如果 IA 持有人迁移其固定作业基地，则必须在开始行使 IA 权限之前，以书面形式通知负责其迁入地点的 FSDO。尽管并无此要求，但良好的商业礼仪和职业责任感应提示：也应向迁出地 FSDO 的负责 FAA 主管维修监察员（PMI）写一封类似的信。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Addition —— The process in which the value of one number is added to the value of another.
-- Alteration —— A change or modification to an aircraft from its previous state
-- Annual inspection —— An inspection required by the FAA once every 12 calendar months if other suitable inspections do not occur within that timeframe. An A&P technician with inspect
-- Current —— The flow of electrical charge.
-- Maintenance —— This includes inspection, overhaul, repair, preservation, and the replacement of parts, but excludes preventive maintenance.
-- Major repairs —— A repair that (1) if improperly done, might appreciably affect weight, balance, structural strength, performance, powerplant operation, flight characteristics, 
-- Progressive inspection —— Breaking down the large task of conducting a major inspection into smaller tasks which can be accomplished periodically without taking the aircraft out of servi
-- Repair —— The restoration of an aircraft component to its previous state.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| Inspection Authorization (IA) | 专有名词 | 检验授权 | 持 A&P 满 3 年、近 2 年从业者可申请的附加资格 |
+| fixed base of operation | n.phr. | 固定作业基地 | 工作日能以本人到场或电话联系的地点，不必是实际行使检验权之地 |
+| renewal | n. | 续期 | 每奇数年 3 月 31 日前须完成的延续资格手续 |
+| annual inspection | n.phr. | 年度检查 | 续期途径之一，按持有 IA 每 90 天折算一次 |
+| progressive inspection | n.phr. | 渐进式检查 | 把一次大检查拆成若干小任务分期完成，可实施或监督 |
+| refresher course | n.phr. | 复训课程 | 不少于 8 学时且局方认可，是续期途径之一 |
+| retesting | n. | 重考 | IA 笔试不合格后须间隔 90 天才可再考 |
+| odd-numbered year | n.phr. | 奇数年 | IA 合格证在每奇数年的 3 月 31 日到期 |
+| Administrator | n. | 局长（局方） | 法规中指 FAA 局长及其授权代表，证件被吊扣时须交回 |
+| Principal Maintenance Inspector (PMI) | 专有名词 | 主管维修监察员 | 迁出地 FSDO 的负责监察员，宜另致函告知 |
+| inspection data | n.phr. | 检验数据 | 实施检验所必需的资料，缺失即 IA 失效 |
+| continuous airworthiness program | n.phr. | 持续适航方案 | 按 14 CFR 第 121 部运行的方案，其航空器不在 IA 放行范围内 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① 定语从句 + 现在分词短语作方式状语
+**原句**：An A&P mechanic who has held their certificate for at least 3 years, and has been active for the last 2 years, may submit application using FAA Form 8610-1, Mechanic’s Application for Inspection Authorization, to the FAA for consideration as an IA.
+**拆解**：主语 An A&P mechanic + who has held... and has been active... 定语从句（两个并列的现在完成时谓语，共用一个 who）；主句谓语 may submit application；using FAA Form 8610-1 为现在分词短语作方式状语；to the FAA 为间接宾语方向，for consideration as an IA 表目的。
+**要点**：using 的逻辑主语是主句主语 mechanic，不是 application，故不能理解为「申请使用表格」。介词短语 to the FAA 与 for consideration 分别表递交对象与目的，两者位置调换会改变语义。并列完成时中第二个 has 不能省，因为主语相同但时态短语各自独立。
+
+### ② until 引导时间状语从句 + 被动语态
+**原句**：If the applicant fails the test, retesting cannot be attempted until a minimum of 90 days have elapsed from the failure date.
+**拆解**：If 引导条件状语从句；主句 retesting cannot be attempted（情态 + 被动，主语为动名词 retesting）；until 引导时间状语从句，从句主语 a minimum of 90 days，谓语 have elapsed（现在完成时），from the failure date 为时间起点。
+**要点**：not...until 是「直到……才」的固定搭配，主句否定 + until 从句肯定。a minimum of 90 days 作主语时谓语用复数 have，中心词是 days 而非 minimum。条件从句用一般现在时替代将来时，符合主将从现。
+
+### ③ unlike 介词短语作状语 + there be 存在句
+**原句**：Unlike the A&P test, there is no reduction in this time if the applicant receives additional training.
+**拆解**：Unlike the A&P test 为介词短语作状语，表对比；主句为 there be 存在句 there is no reduction in this time；if the applicant receives additional training 为条件状语从句。
+**要点**：unlike 是介词，后接名词或名词短语，不能接句子（接句子要用 whereas/while）；翻译成「与……不同」而非「不像」。there be 句型的真正主语是 reduction，故用 is；in this time 指前句提到的 90 天等待期。
+
+### ④ but 并列两个谓语 + during the time 引导定语从句
+**原句**：An IA certificate expires on March 31 of each odd-numbered year, but may only be exercised during the time the technician holds a currently effective mechanic certificate.
+**拆解**：主语 An IA certificate 带两个并列谓语：expires on March 31 of each odd-numbered year 与 may only be exercised during the time...；during the time 后为省略关系副词 when 的定语从句，the technician holds a currently effective mechanic certificate。
+**要点**：第二个分句承前省略主语，但保留了情态动词 may，说明这是「可以行使」的权限条件。the time 后的定语从句省略了 when，因为先行词是表时间的名词且在从句中作时间状语。only 位置贴近被修饰的谓语，译文应把「只有……才」体现出来。
+
+### ⑤ although 让步从句 + 被动语态
+**原句**：Although this is often considered the renewal method of last resort, it should not be considered a negative experience.
+**拆解**：Although 引导让步状语从句，this is often considered + 主语补足语 the renewal method of last resort；主句 it should not be considered a negative experience（情态 + 被动 + 否定）。
+**要点**：consider 的被动式后直接跟名词作主语补足语，不加 as（加 as 亦可但本句没有）。the method of last resort 意为「最后手段」，of last resort 是固定搭配。译文宜用「不应被看成」，与前半句的「常被视为」形成对照。
+

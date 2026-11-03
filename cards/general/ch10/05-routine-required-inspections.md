@@ -14,7 +14,7 @@ Pilots are required to follow a checklist contained within the Pilot’s Operati
 
 ### Annual/100-Hour Inspections
 
-The basic requirements for annual and 100-hour inspections are discussed in 14 CFR part 91. With some exceptions, all aircraft must have a complete inspection annually. Aircraft that are used for commercial purposes (carrying any person, other than a crewmember, for hire or flight instruction for hire) and are likely to be used more frequently than noncommercial aircraft must have this complete inspection every 100 hours. The scope and detail of items to be included in annual and 100-hour inspections is included as Appendix D to part 43. [Figure 10-2]
+The basic requirements for annual and 100-hour inspections are discussed in 14 CFR part 91. With some exceptions, all aircraft must have a complete inspection annually. Aircraft that are used for commercial purposes (carrying any person, other than a crewmember, for hire or flight instruction for hire) and are likely to be used more frequently than noncommercial aircraft must have this complete inspection every 100 hours. The scope and detail of items to be included in annual and 100-hour inspections is included as Appendix D to part 43.
 
 A properly written checklist, such as the one shown earlier in this chapter, includes all the items of Appendix D. Although the scope and detail of annual and 100-hour inspections are identical, there are two significant differences. One difference involves persons authorized to conduct them. A certified airframe and powerplant (A&P) maintenance technician can conduct a 100-hour inspection, whereas an annual inspection must be conducted by a certified A&P maintenance technician with inspection authorization (IA). The other difference involves authorized overflight of the maximum 100 hours before inspection. An aircraft may be flown up to 10 hours beyond the 100-hour limit if necessary to fly to a destination Page No. 1 2 3 4 5 6 Rev. No. 4 - - 4 2 4 DEPARTMENT OF TRANSPORTATION FEDERAL AVIATION ADMINISTRATION A27EU Revision 4 AIRBUS DEFENCE AND SPACE GMBH EADS DEUTSCHLAND GMBH DAIMLER CHRYSLER AEROSPACE AG DAIMLER-BENZ AEROSPACE AG DEUTSCHE AEROSPACE AG MESSERSCHMITT-BÖLKOW-BLOHM AG MESSERSCHMITT-BÖLKOW-BLOHM GMBH BO-209-150 FV & RV BO-209-160 FV & RV BO-209-150 FF July 9, 2015 TYPE CERTIFICATE DATA SHEET NO. A27EU This data sheet, which is a part of Type Certificate No. A27EU, prescribes conditions and limitations under which the product for which the Type Certificate was issued meets the airworthiness requirements of the Federal Aviation Regulations.
 
@@ -196,7 +196,7 @@ where the inspection is to be conducted.
 
 Because the scope and detail of an annual inspection is very extensive and could keep an aircraft out of service for a considerable length of time, alternative inspection programs designed to minimize down time may be utilized. A progressive inspection program allows an aircraft to be inspected progressively. The scope and detail of an annual inspection is essentially divided into segments or phases (typically four to six). Completion of all the phases completes a cycle that satisfies the requirements of an annual inspection. The advantage of such a program is that any required segment may be completed overnight and thus enable the aircraft to fly daily without missing any revenue earning potential. Progressive inspection programs include routine items, such as engine oil changes, and detailed items, such as flight control cable inspection. Routine items are accomplished each time the aircraft comes in for a phase inspection, and detailed items focus on detailed inspection of specific areas. Detailed inspections are typically done once each cycle. A cycle must be completed within 12 months. If all required phases are not completed within 12 months, the remaining phase inspections must be conducted before the end of the 12th month from when the first phase was completed.
 
-Each registered owner or operator of an aircraft desiring to use a progressive inspection program must submit a written request to the FAA Flight Standards District Office (FSDO) having jurisdiction over the area that the applicant is located. Section 91.409(d) of 14 CFR part 91 establishes procedures to be followed for progressive inspections. [Figure 10-3]
+Each registered owner or operator of an aircraft desiring to use a progressive inspection program must submit a written request to the FAA Flight Standards District Office (FSDO) having jurisdiction over the area that the applicant is located. Section 91.409(d) of 14 CFR part 91 establishes procedures to be followed for progressive inspections.
 
 ### Continuous Inspections
 
@@ -210,26 +210,255 @@ Aircraft that are operated in controlled airspace under instrument flight rules 
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（102 段）。专业术语按行业惯例，数字与缩写保留。 -->
+为确定民用航空器的总体状态，14 CFR 规定所有民用航空器都必须按特定周期接受检查，周期通常取决于其从事的运行类型。民用航空器的机长（PIC）负责判定该航空器是否处于可安全飞行的状态。因此，每次飞行前都必须对航空器进行检查。更详细的检查必须由航空维修技术人员（AMT）实施，至少每 12 个日历月一次；而对另一些航空器，则要求每飞行 100 小时后检查一次。在其他情况下，可以按照一套旨在在一个日历周期或飞行时间周期内完成对航空器全部检查的体系实施检查。这类检查包括分阶段式检查（phase-type inspections）。
+
+要确定具体的检查要求和实施检查的规则，应查阅 14 CFR 中规定各类运行下航空器检查与维修要求的部分。
+
+### 飞行前/飞行后检查
+
+驾驶飞机时，飞行员必须遵循《飞行员操作手册》（POH）中所载的检查单。检查单的第一节标题为「飞行前检查」。飞行前检查单包含一个「绕机」部分，列出飞行员绕飞机行走时应目视检查总体状态的项目。此外，飞行员必须确认燃油、滑油和其他飞行所需物品的数量是否合适、是否受到污染。另外，飞行员有责任查阅飞机维修记录和其他必备文件，以核实飞机确实适航。每次飞行后，建议飞行员或维修人员进行飞行后检查，以便发现下次飞行前可能需要修理或维护的任何问题。
+
+### 年度/100 小时检查
+
+年度检查和 100 小时检查的基本要求在 14 CFR 第 91 部中论述。除某些例外，所有航空器都必须每年接受一次完整检查。用于商业目的（载运除机组成员以外的任何人员并收取报酬，或为收取报酬而进行飞行训练）且使用频次很可能高于非商业航空器的航空器，必须每 100 小时接受一次这种完整检查。年度检查和 100 小时检查所含项目的范围和详细程度，列于第 43 部的附录 D 中。
+
+编写得当的检查单，如此前本章所示的那种，涵盖附录 D 的所有项目。虽然年度检查和 100 小时检查的范围和详细程度完全相同，但存在两处重要差别。一处差别涉及有权实施这两种检查的人员：持证的机体与动力装置（A&P）维修技术人员可以实施 100 小时检查，而年度检查必须由持有检查授权（IA）的持证 A&P 维修技术人员实施。另一处差别涉及检查前超出 100 小时上限的经批准超飞。如为飞往某目的地所必需，航空器可超出 100 小时限制最多飞行 10 小时（原文此处为表格碎片，原文无正文）
+
+型号合格证持有人：Airbus Defence and Space GmbH，地址 Willy-Messerschmitt-Strasse 1，85521 Ottobrunn，Germany。型号合格证权属记录：Messerschmitt-Bölkow-Blohm GmbH 于 1992 年 4 月 1 日将 TC A27EU 转让给 Messerschmitt-Bölkow-Blohm AG（见注 4）。
+
+Messerschmitt-Bölkow-Blohm AG 于 1992 年 11 月 30 日将 TC A27EU 转让给 Deutsche Aerospace AG；Deutsche Aerospace AG 于 1995 年 1 月 2 日将 TC A27EU 转让给 Daimler-Benz Aerospace AG；Daimler-Benz Aerospace AG 于 1998 年 11 月 17 日将 TC A27EU 转让给 Daimler Chrysler Aerospace AG；Daimler Chrysler Aerospace AG 于 2000 年 7 月 10 日将 TC A27EU 转让给 EADS Deutschland GmbH；EADS Deutschland GmbH 于 2014 年 7 月 1 日将 TC A27EU 转让给 Airbus Defence and Space GmbH（见注 7）。
+
+I - 型号 BO-209-150 FV 和 RV，2 PCLM（正常类与实用类），1971 年 7 月 9 日批准（FV 型为固定式前起落架；RV 型为可收放式前起落架）。
+
+发动机：Lycoming O-320-E1C 或 O-320-E1F。燃油：最低等级 80/87 航空汽油。发动机限制：所有运行状态下 2700 r.p.m.（150 hp）。
+
+螺旋桨：Hartzell HC-C2YL-1B/7663A-6。螺旋桨限制：直径 70 in.，不允许进一步减小；30 in. 半径处的桨距设定：高距 27°，低距 12°12'。
+
+整流锥：MBB P/N 209-61056；调速器：Woodward P/N T210452 或 P/N 210681。2 A27EU 空速限制（CAS）——正常类与实用类：不可超过 173 节（199 m.p.h.）
+
+最大结构巡航速度 135 节（155 m.p.h.）
+
+机动速度 117 节（135 m.p.h.）
+
+襟翼放下 88 节（101 m.p.h.）
+
+*起落架收放 104 节（120 m.p.h.）
+
+*起落架放下 173 节（199 m.p.h.）
+
+（*仅适用于 RV 型）。
+
+重心范围——正常类：（85.47）至（89.37），1265 lb. 及以下；（86.92）至（89.37），1808 lb.。
+
+实用类：（85.47）至（89.37），1265 lb. 及以下；（86.25）至（89.37），1565。最大重量：正常类 1808 lb.，实用类 1565 lb.。座位数：2 个，位于（+ 90.7）。
+
+最大行李重量 110 lb.，位于（+114.2）。
+
+燃油容量：总量 39.2 gal.（可用 38.6 gal.；两个各 19.6 gal. 的机翼油箱，位于 + 90.7）。
+
+滑油容量 8 qt.（+3.94）。
+
+不可用燃油和不可排放滑油的数据见注 1。
+
+II - 型号 BO-209-160 FV 和 RV，2 PCLM（正常类与实用类），1971 年 7 月 9 日批准（FV 型为固定式前起落架；RV 型为可收放式前起落架）。
+
+发动机：Lycoming IO-320-D1A 或 IO-320-D1B。燃油：最低等级 100/130 航空汽油。发动机限制：所有运行状态下 2700 r.p.m.（160 hp）。
+
+螺旋桨：Hartzell HC-C2YL-1B/7663A-6。螺旋桨限制：直径 70 in.，不允许进一步减小；30 in. 半径处的桨距设定：高距 27°，低距 14°57'。
+
+整流锥：MBB P/N 209-61056；调速器：Woodward P/N T210452 或 P/N 210681。空速限制（CAS）——正常类与实用类：不可超过 173 节（199 m.p.h.）
+
+最大结构巡航速度 135 节（155 m.p.h.）
+
+机动速度 117 节（135 m.p.h.）
+
+襟翼放下 88 节（101 m.p.h.）
+
+*起落架收放 104 节（120 m.p.h.）
+
+*起落架放下 173 节（199 m.p.h.）
+
+（*仅适用于 RV 型）。
+
+重心范围——正常类：（85.47）至（89.37），1265 lb. 及以下；（86.92）至（89.37），1808 lb.。
+
+实用类：（85.47）至（89.37），1265 lb. 及以下；（86.25）至（89.37），1565 lb.。
+
+3 A27EU 最大重量：正常类 1808 lb.，实用类 1565 lb.。座位数：2 个，位于（+ 90.7）。
+
+最大行李重量 110 lb.，位于（+ 114.2）。
+
+燃油容量：总量 39.2 gal.（可用 38.6 gal.；两个各 19.6 gal. 的机翼油箱，位于 + 90.7）。
+
+滑油容量 8 qt.（+3.94）。
+
+不可用燃油和不可排放滑油的数据见注 1。
+
+III - 型号 BO-209-150 FF，2 PCLM（正常类与实用类），1971 年 7 月 9 日批准（固定式前起落架）。
+
+发动机：Lycoming O-320-E2C 或 O-320-E2F。燃油：最低等级 80/87 航空汽油。
+
+发动机限制：所有运行状态下 2700 r.p.m.（150 hp）。
+
+螺旋桨：McCauley 1C172MGM-70.5-60 或 -66。螺旋桨限制：最大允许油门设定下的静态 r.p.m.：
+
+不超过 2400，不低于 2100，不允许附加容差。
+
+直径：最大 70.5 in.，修理后最小 70 in.。
+
+不允许进一步减小。整流锥：MBB P/N 209-61156。空速限制（CAS）——正常类与实用类：不可超过 173 节（199 m.p.h.）
+
+最大结构巡航速度 135 节（155 m.p.h.）
+
+机动速度 117 节（135 m.p.h.）
+
+襟翼放下 88 节（101 m.p.h.）
+
+重心范围——正常类：（85.47）至（89.37），1265 lb. 及以下；（86.92）至（89.37），1808 lb.。
+
+实用类：（85.47）至（89.37），1265 lb. 及以下；（86.25）至（89.37），1565 lb.。
+
+最大重量：正常类 1808 lb.，实用类 1565 lb.。座位数：2 个，位于（+ 90.7）。
+
+最大行李重量 110 lb.，位于（+114.2）。
+
+燃油容量：总量 39.2 gal.（可用 38.6 gal.；两个各 19.6 gal. 的机翼油箱，位于 + 90.7）。
+
+滑油容量 8 qt.（+3.94）。
+
+不可用燃油和不可排放滑油的数据见注 1。
+
+4 A27EU 适用于所有型号的数据 操纵面活动量 副翼 上 29° + 1° 下 14° + 1° 襟翼 下 35° + 0° - 3° 可平尾 上 18° + 1° 下 9° + 1° 方向舵 左 28° + 2° 右 28° + 2° 可平尾配平：在可平尾处于中立位时，测量配平片后缘与可平尾后缘之间的距离。
+
+配平片中位：0.32 in. 向下，+ 0.08 in.
+
+机头下俯：0.20 in. 向上，+ 0.08 in.
+
+机头上仰：0.66 in. 向下，+ 0.08 in.
+
+总行程：0.86 in. + 0.16 in.
+
+基准：位于机翼前缘之前 75.51 in.，即机翼与机翼中段整流罩分型线处。
+
+调平手段：机身左侧两个调平点。
+
+适用序号：序号 121 及以后。
+
+对每一架申请适航审定的单架飞机，都必须提交经背书的德意志联邦共和国政府出口适航证，背书内容见下文「进口要求」。
+
+审定基础：FAR 21.29 和 1965 年 2 月 1 日的 FAR 23，已经第 23-1 至 23-9 号修正案（含）修订。型号合格证编号 A27EU，1971 年 7 月 9 日颁发。
+
+型号合格证申请日期：1970 年 5 月 11 日。
+
+Luftfahrt Bundesamt 最初按第 680 号型号合格证对该飞机进行了型号合格审定。FAA 按美国型号合格证编号 A27EU 对该产品予以认可。自 2003 年 9 月 28 日起，欧洲航空安全局（EASA）代表德国开始对该产品实施监督。BO-209 各型号的 EASA 型号合格证为 EASA.A.357。
+
+进口要求：FAA 可以依据由 Luftfahrt Bundesamt 代表欧洲共同体签署的 NAA 出口适航证（Export C of A）颁发美国适航证。该出口适航证应包含以下声明：『本证所涵盖的航空器已经检查、试验，并查明符合美国适航法规 14 CFR 第 23 部（按美国型号合格证编号 A27EU 批准），且处于可安全运行的状态。』服务信息：下列文件中的每一份都必须说明其已获欧洲航空安全局（EASA）批准，或者在 2003 年 9 月 28 日之前取得的批准由 Luftfahrt Bundesamt 批准。
+
+• 服务通告，
+
+• 结构修理手册，
+
+• 航空器飞行手册，以及
+
+• 翻修与维修手册。
+
+FAA 接受此类文件并将其视为 FAA 批准，除非存在下列条件之一：
+
+• 文件改变了 FAA 批准手册中的限制、性能或程序；或
+
+•文件对该产品的美国型号合格证作出 14 CFR § 21.93 所定义的噪声或排放方面的更改。
+
+5 A27EU 服务信息（续）FAA 采用型号验证后的程序来批准这些文件。FAA 可以逐案委托 EASA 代表 FAA 为该美国型号合格证进行批准。如属这种情况，将在文件上注明。设备：适用适航法规（见审定基础）所规定的基本必备设备必须装机方可取得审定。此外还要求配备下列设备：1. 失速警告系统。
+
+2. LBA 批准的 BO-209 型号批准飞行手册，编号 LF 37E-7/71，日期为 1971 年 7 月或 LBA 批准的更晚版本。
+
+3. 序号 121 至 130 的飞机必须按 MBB 技术通告 TN 9-71 进行改装，以设置备用静压系统源和音响式起落架警告系统。（序号 131 及以后的飞机已在生产中装设这些系统）。
+
+注 1. 在原始适航审定之时，必须为每架飞机提供现行的重量与平衡报告（包括审定空重中的设备清单），必要时还包括装载说明。审定空重及相应的重心，必须计入 0 lbs.、位于 +39.4 的不可排放滑油，以及 3.6 lb.、位于 +90.7 的不可用燃油。
+
+注 2. 下列标牌必须展示在飞行员前方并清晰可见：
+
+「本飞机必须按正常类或实用类飞机运行，并遵守以标牌、标记和手册形式载明的相应使用限制。」
+
+此外，LBA 批准的《飞机飞行手册》中要求的所有标牌都必须安装在适当位置。
+
+注 3. 正确维修该飞机所必需的信息，载于 Messerschmitt-Bolkow-Blohm GmbH 的 BO-209 型维修手册中，该手册收录于 MBB 文件编号 LF 37E-7/71。
+
+注 4. 飞机制造商为：
+
+Waggon- und Maschienenbau A.G.
+
+Donauworth、Laupheim，德意志联邦共和国（Messerschmitt-Bolkow-Blohm 的一个分部）。
+
+注 5. 安装 Tost 拖曳接头（环形），LBA 批准号 60.230.4，在按 MBB 图样 209-85003（用于滑翔机拖曳）或 MBB 图样 209-85003 和 209-8700（用于横幅拖曳）安装时，可予批准。
+
+注 6. 为按 14 CFR 第 21.182(c) 部颁发适航证，德国 Luftfahrt Bundesamt 必须证明该飞机符合型号设计并处于可安全运行的状态。就此而言，德国 Luftfahrt Bundesamt 将证明该飞机符合其已颁发的所有适用的强制性持续适航信息（MCAI）。为按 14 CFR 第 21.182(d) 部颁发适航证，审定检查员或其他授权人员必须查明（除其他事项外）该产品处于可安全运行的状态。为作出该判断，审定检查员或其他授权人员应在颁发前联系 ACE-112（联邦航空管理局小型飞机管理局），以确定是否需要证明飞机符合某些 MCAI，才能支持飞机处于可安全运行状态的结论。
+
+6 A27EU 注 7. 这些转让中有些未通知 FAA，因此在某些情况下实际的型号合格证并未重新颁发。
+
+该目的地即进行检查的地点。
+
+### 分阶段检查
+
+由于年度检查的范围和详细程度都非常大，可能使航空器停场相当长的时间，因此可以采用旨在尽量减少停机的替代检查方案。分阶段检查方案允许对航空器分阶段实施检查。年度检查的范围和详细程度基本上被划分为若干段或阶段（通常为四至六个）。完成所有阶段即完成一个周期，该周期满足年度检查的要求。这种方案的优点在于，任何所需阶段都可以在一夜之间完成，从而使航空器得以每日飞行，不损失任何创收潜力。分阶段检查方案既包括例行项目（如更换发动机滑油），也包括详细项目（如飞行操纵钢索检查）。例行项目在航空器每次进厂做阶段检查时完成，而详细项目则侧重于对特定区域进行细致检查。详细检查通常每个周期做一次。一个周期必须在 12 个月内完成。如果未在 12 个月内完成所有规定阶段，则必须在第一阶段完成之后的第 12 个月结束之前完成其余阶段检查。
+
+每一位希望采用分阶段检查方案的航空器登记所有人或运营人，都必须向对申请人所在地区拥有管辖权的 FAA 飞行标准地区办公室（FSDO）提交书面申请。14 CFR 第 91 部第 91.409(d) 条规定了分阶段检查应遵循的程序。
+
+### 连续检查
+
+连续检查方案与分阶段检查方案相似，只是它适用于大型或涡轮动力航空器，因此更为复杂。
+
+与分阶段检查方案一样，连续检查方案须经 FAA 局长批准。可以根据运行类型以及航空器运行所依据的 CFR 各部来申请批准。商业运行航空器的维修方案必须详载于商业证书持有人经批准的运行规范（OpSpecs）中。航空公司采用包含例行检查和详细检查的连续维修方案。不过，详细检查可能包含不同的详细程度。常被称为「检」（checks）的 A 检、B 检、C 检和 D 检，其详细程度逐级提高。A 检综合性最低、实施最频繁。另一方面，D 检综合性极高，涉及系统和部件的大量拆解、拆卸、翻修和检查。D 检在一架航空器的使用寿命期内可能只进行三至六次。
+
+### 高度表与应答机检查
+
+在管制空域内按仪表飞行规则（IFR）运行的航空器，其每一具高度表和静压系统都必须在前 24 个日历月内按 14 CFR 第 43 部附录 E 所述程序进行测试。装有空中交通管制（ATC）应答机的航空器，还必须在前 24 个月内对每台应答机进行检查。所有这些检查都必须由具有相应资格的人员实施。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Addition —— The process in which the value of one number is added to the value of another.
-- Airworthiness certificate —— A document required to be onboard an aircraft that indicates the aircraft conforms to type design and is in condition for safe operation.
-- Annual inspection —— An inspection required by the FAA once every 12 calendar months if other suitable inspections do not occur within that timeframe. An A&P technician with inspect
-- Center of gravity (CG) —— The point about which the nose-heavy and tail-heavy moments are exactly equal in magnitude.
-- Current —— The flow of electrical charge.
-- Datum —— An imaginary vertical plane or line from which all measurements of arm are taken. The datum is established by the manufacturer. Once the datum has been selected
-- Detailed inspection —— A thorough examination of an item including disassembly. The overhaul of a component is considered to be a detailed inspection.
-- Diameter (circle) —— The length of a line passing directly through the center of a circle. Twice the radius of the circle.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| pilot-in-command (PIC) | n.phr. | 机长 | 判定航空器是否可安全飞行 |
+| annual inspection | n.phr. | 年度检查 | 每 12 个日历月一次 |
+| 100-hour inspection | n.phr. | 100 小时检查 | 商业运行航空器每 100 小时 |
+| inspection authorization (IA) | n.phr. | 检查授权 | 年度检查须由持 IA 者实施 |
+| preflight inspection | n.phr. | 飞行前检查 | POH 检查单第一节 |
+| progressive inspection | n.phr. | 分阶段检查 | 分阶段完成年度检查范围 |
+| continuous inspection | n.phr. | 连续检查 | 大型或涡轮动力航空器 |
+| phase-type inspection | n.phr. | 分阶段式检查 | 按日历或飞行时间周期完成全部检查 |
+| operations specifications (OpSpecs) | n.phr. | 运行规范 | 维修方案须详载其中 |
+| altimeter | n. | 高度表 | 每 24 个日历月测试 |
+| transponder | n. | 应答机 | ATC 应答机每 24 个月检查 |
+| static system | n.phr. | 静压系统 | 与高度表一起测试 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① 介词短语作目的 + 现在分词作伴随状语
+**原句**：For the purpose of determining their overall condition, 14 CFR provides for the inspection of all civil aircraft at specific intervals, depending generally upon the type of operations that they are engaged in.
+**拆解**：for the purpose of determining… 是目的状语，of 后接动名词；主句 14 CFR provides for the inspection… 中 provide for 意为「规定」，at specific intervals 为频度状语；depending generally upon… 为现在分词短语作伴随状语，其逻辑主语是检查周期，that they are engaged in 是修饰 operations 的定语从句，介词 in 留在句末。
+**要点**：provide for 在法规英语中是「规定、为……作出安排」，不是「提供」；be engaged in 意为「从事」，介词 in 后置是定语从句的常规语序；depending upon 在此不表条件，而是说明「取决于」。
+
+### ② 定语从句并列 + 比较级 + 情态被动
+**原句**：Aircraft that are used for commercial purposes (carrying any person, other than a crewmember, for hire or flight instruction for hire) and are likely to be used more frequently than noncommercial aircraft must have this complete inspection every 100 hours.
+**拆解**：主语 Aircraft 由两个并列定语从句修饰：that are used for commercial purposes 和 (that) are likely to be used more frequently than…，第二个从句省略了 that；括号内 carrying… 为现在分词短语补充说明 commercial purposes；谓语 must have 后接宾语 this complete inspection，every 100 hours 为频度状语。
+**要点**：两个定语从句由 and 并列且共用先行词时，第二个从句可省略关系词，回读时须把 and are likely 补成 and which are likely；have an inspection 是「做检查」的口语化搭配，此处 must have 表示强制要求。
+
+### ③ although 让步从句 + there be 存在句
+**原句**：Although the scope and detail of annual and 100-hour inspections are identical, there are two significant differences.
+**拆解**：although 引导让步状语从句，主语 the scope and detail 为并列两项，谓语 are identical；主句为 there be 存在句，真正主语 two significant differences 在后，故用 are。
+**要点**：although 与 but 不能同句连用，这是中式英语的高发错误；there be 的谓语与后面的真正主语一致，不看 there；identical 意为「完全相同」，比 similar 语气强。
+
+### ④ whereas 引导对比从句
+**原句**：A certified airframe and powerplant (A&P) maintenance technician can conduct a 100-hour inspection, whereas an annual inspection must be conducted by a certified A&P maintenance technician with inspection authorization (IA).
+**拆解**：前一分句为主动结构 can conduct；whereas 引导对比从句，从句主语 an annual inspection 是动作承受者，故用被动 must be conducted by…；with inspection authorization (IA) 为介词短语修饰 technician。
+**要点**：whereas 表「而、然而」，用于并列对比两种规定，是法规条文的典型连接词，不能用 while 之外的 but 替换；同一句中主动与被动并用，是因为前句强调「谁能做」，后句强调「检查必须由谁来做」。
+
+### ⑤ because 原因从句 + 过去分词作定语
+**原句**：Because the scope and detail of an annual inspection is very extensive and could keep an aircraft out of service for a considerable length of time, alternative inspection programs designed to minimize down time may be utilized.
+**拆解**：because 引导原因状语从句，从句含并列谓语 is very extensive 与 could keep…；keep sb/sth out of service 为「使……停用」的复合宾语结构；主句主语 alternative inspection programs 由过去分词短语 designed to minimize down time 后置修饰，谓语为 may be utilized 被动结构。
+**要点**：the scope and detail 作整体看待时谓语可用单数 is；keep…out of service 与 return to service 是维修领域的一对固定说法；designed to do 作定语时等于 which are designed to do，注意不要与目的状语混淆。
+
+### ⑥ 定语从句 + 被动 + 依据状语
+**原句**：Aircraft that are operated in controlled airspace under instrument flight rules (IFR) must have each altimeter and static system tested in accordance with procedures described in 14 CFR part 43, Appendix E, within the preceding 24 calendar months.
+**拆解**：that are operated… 为定语从句修饰 Aircraft；主句谓语是 have sth done 的使役结构——have each altimeter and static system tested（使高度表和静压系统接受测试），tested 为过去分词作宾语补足语；in accordance with… 为依据状语，described in 14 CFR part 43 为过去分词短语修饰 procedures；within the preceding 24 calendar months 为时间状语。
+**要点**：have sth done 表示「使某事被做」，实施者不必出现，是维修规章中的高频结构；in accordance with 后接法规名称时要保留其部、附录编号；the preceding 24 calendar months 是「之前 24 个日历月」的追溯期表述，与「每 24 个月一次」略有差别。

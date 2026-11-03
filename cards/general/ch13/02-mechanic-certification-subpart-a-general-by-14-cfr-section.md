@@ -100,23 +100,141 @@ Any technician who refuses to submit to a drug test, which is required by 14 CFR
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（47 段）。专业术语按行业惯例，数字与缩写保留。 -->
+### 第 65.3 条 境外航空人员（非飞行机组成员）的合格证
+
+通常情况下，FAA 只向美国公民或居住在美国境内的常住外侨颁发这类合格证。但是，如果 FAA 认定向位于美国境外的人员颁发合格证是美国注册民用航空器的运行和持续适航性所必需的，则只要该人员满足必要条件，FAA 就会向其颁发合格证。
+
+### 第 65.11 条 申请与颁发
+
+任何符合取得维修人员合格证条件的人员，都必须通过 FAA 表格 8610-2《航空人员合格证和/或等级申请书》提出申请。如果维修人员的合格证已被暂停，则在暂停期间不得申请增加等级。维修人员合格证被吊销的，该人员在吊销之后 1 年内不得申请合格证。
+
+### 第 65.12 条 涉及酒精与药物的违法行为
+
+任何因违反联邦或州有关药物犯罪的法规而被定罪的人员，可在定罪之日起 1 年内被拒绝其合格证或等级的申请。该违法行为可涉及下列任何一种或多种行为：种植、加工、制造、出售、处置、持有、运输或进口麻醉药品、大麻、抑制剂或兴奋剂。他们还可能面临被暂停或吊销其目前持有的任何合格证。
+
+### 第 65.13 条 临时合格证
+
+以不低于 70 分的成绩通过全部规定考试的合格申请人，可获发一张临时合格证，其有效期不超过 120 天。在此期间，FAA 将审查申请书及任何补充证明文件，并颁发正式合格证和等级。
+
+### 第 65.14 条 安全不合格
+
+本条是在 2001 年 9 月 11 日恐怖袭击之后增补的。它基本规定：任何被运输安全管理局（TSA）认定为安全威胁的人员，若正在申请合格证，其申请将被搁置；若已持有合格证，则该合格证将被吊销。
+
+### 第 65.15 条 合格证的有效期
+
+维修人员合格证持续有效，直至被交回、暂停或吊销。这几个术语的区别可归纳如下：
+
+• 交回指自愿放弃。
+
+• 暂停指 FAA 临时从持有人处收回合格证。
+
+• 吊销指 FAA 永久从持有人处收回合格证。
+
+### 第 65.16 条 姓名变更：遗失或损毁合格证的补发
+
+依本部颁发的合格证如需变更姓名，申请书必须附上申请人现有的合格证，以及结婚证、法院裁定或其他能证明该变更的文件。
+
+如果技术人员变更姓名，或需要补发合格证，必须将申请书提交至 FAA 的下列地址：Federal Aviation Administration Airmen Certification Branch (AFB-720)
+
+P.O. Box 25082 Oklahoma City, OK 73125 应当注意，此项服务收取少量费用。
+
+### 第 65.17 条 考试：一般程序
+
+FAA 已指定某些人员主持与取得维修人员合格证有关的考试。这些考试的最低及格分数为 70 分。
+
+### 第 65.18 条 笔试：作弊或其他未经许可的行为
+
+如果维修人员或修理人员申请人被认定作弊，或以其他方式参与未经许可的行为，则其在 1 年内不具备取得本章项下任何合格证或等级的资格。此外，该人员已持有的现有等级也可能被暂停或吊销。笔试中不可接受的行为举例如下：
+
+• 抄袭或故意取走试卷。
+
+• 提供或接受试卷副本的任何部分。
+
+• 在考试期间提供或接受帮助。
+
+• 代替他人参加试卷的任何部分。
+
+• 在考试期间使用未经授权考试管理人员提供的任何材料或辅助工具。
+
+• 故意促成、协助或参与上述任何行为。
+
+### 第 65.19 条 不合格后的重考
+
+如果维修人员或修理人员未能达到规定的最低及格分数，则在其希望申请重考时，可考虑两种选择：
+
+• 等待自考试不合格之日起 30 天，然后再次参加考试。
+
+• 就不合格的知识领域寻求补充培训，并提交由提供该培训的持证技术人员签署的声明，说明申请人已接受必要培训并已具备应试准备。
+
+### 第 65.20 条 申请、合格证、记录本、报告与记录：伪造、复制或篡改
+
+14 CFR 第 43 部第 43.9 条和第 43.11 条规定了技术人员就所完成的工作在维修/检查记录中作出适当记载的要求。这些恰当的记录文件是美国民用航空器机队安全高效运行的基础。因此，FAA 对参与伪造这些记录的人员采取严厉行动。下列行为构成暂停或吊销该人员所持有的任何合格证或等级的依据：
+
+• 在申请书上作出欺诈性或故意虚假的陈述。
+
+• 在任何为表明符合合格证要求所需的记录本、记录或报告中作出欺诈性或故意虚假的陈述。
+
+• 为欺诈目的复制合格证或等级。
+
+• 篡改依本部颁发的任何合格证或等级。
+
+### 第 65.21 条 地址变更
+
+如果技术人员变更地址，则必须在永久住所变更后 30 天内以书面形式通知 FAA（地址如下）：Federal Aviation Administration Airmen Certification Branch (AFB-720)
+
+P.O. Box 25082 Oklahoma City, OK 73125
+
+### 拒绝接受药物或酒精检测
+
+任何拒绝接受 14 CFR 第 120 部第 120.15 条所要求的药物检测的技术人员，FAA 可拒绝其任何附加合格证或等级的申请，并可暂停或吊销其目前持有的任何现有合格证或等级。第 120 部第 120.117 条《实施药物检测方案》要求雇员提供尿样。第 120 部第 120.37 条《酒精滥用》要求雇员接受呼气检测。每一条都包含一个“定义”部分和一个题为“必须接受检测的雇员”的部分。从事“航空器维修或预防性维修职责”的人员在两个部分中都被列出。要求进行检测的情形有多种类型（或者说是多个时点）：
+
+• 基于合理理由的检测
+
+• 复岗检测
+
+• 后续跟踪检测 上述繁多的检测方式，以及 FAA 对涉入这些未经许可物质或滥用酒精许可量的人员所施加的严厉处罚，表明 FAA 对技术人员可能出现的机能受损深为关切。航空维修是一种职业选择，要求最高水准的技术人员能够以其最大潜力工作。这个行业中容不下涉入药物滥用的人。一旦涉入，技术人员不仅危及自身，也危及同事，最终危及那些期望在维修活动之后收到一架适航航空器的客户。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Alteration —— A change or modification to an aircraft from its previous state
-- Current —— The flow of electrical charge.
-- Difference —— The answer to a subtraction problem.
-- Maintenance —— This includes inspection, overhaul, repair, preservation, and the replacement of parts, but excludes preventive maintenance.
-- Matter —— Any substance that has mass and takes up space.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| airman | n. | 航空人员 | 本章法规的适用对象，指除飞行机组成员以外的持证人员 |
+| rating | n. | 等级 | 附在合格证上的权限类别，如机体、动力装置 |
+| temporary certificate | n.phr. | 临时合格证 | 通过全部考试后先行颁发，有效期不超过 120 天 |
+| surrender | v. | 交回、自愿放弃 | 合格证三种失效方式之一，须由持有人主动交出 |
+| revocation | n. | 吊销 | 与 suspension 相对，指 FAA 永久收回合格证 |
+| falsification | n. | 伪造 | 在申请、记录本或报告中作虚假记载，可导致吊扣证件 |
+| logbook | n. | 记录本 | 需依法填写、能证明符合合格证要求的维修记录载体 |
+| retesting | n. | 重考 | 未达 70 分及格线后的再次应试，须间隔 30 天或补足培训 |
+| written test | n.phr. | 笔试 | 第 65.18 条专门规定笔试作弊的后果 |
+| narcotic drug | n.phr. | 麻醉药品 | 第 65.12 条所列违法涉药行为的对象之一 |
+| security threat | n.phr. | 安全威胁 | 由 TSA 认定，被认定者的申请将被搁置或证件被吊销 |
+| false statement | n.phr. | 虚假陈述 | 在申请或记录本中作欺诈性、故意不实的记载 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① should 提前的虚拟条件倒装
+**原句**：Should the mechanic or repairman fail to achieve the required minimum passing grade, there are two options they may consider when desiring to apply for retesting:
+**拆解**：Should the mechanic or repairman fail... 为省略 if 的虚拟条件状语从句，正常语序为 If the mechanic or repairman should fail...，Should 提到主语前构成部分倒装；主句 there are two options 为 there be 存在句，they may consider 是省略了关系词的定语从句修饰 options，when desiring... 为时间状语（desiring 的逻辑主语是 they）。
+**要点**：句首出现 Should + 主语 + 动词原形时，不要读成疑问句，这是规章文本里「万一……」的固定写法；if 省略后语气更正式。there be 后的定语从句省略了 that/which，因为先行词在从句中作宾语。
+
+### ② 定语从句 + must + by means of 表方式
+**原句**：Any person who meets the criteria for obtaining a mechanic certificate must apply by means of FAA Form 8610-2, Airman Certificate and/or Rating Application.
+**拆解**：主语 Any person + who meets the criteria for obtaining a mechanic certificate 定语从句；谓语 must apply；by means of FAA Form 8610-2 介词短语作方式状语；逗号后 Airman Certificate and/or Rating Application 是表格名称的同位语。
+**要点**：who 在定语从句中作主语，先行词是人时不能用 which；by means of 意为「通过……方式」，比 with 更正式。同位语直接跟在专有名称后，译文用书名号或「即……」引出，不必另起一句。
+
+### ③ if 条件从句中嵌套宾语从句 + providing 引导条件
+**原句**：However, if the FAA determines that the issuance of a certificate to a person located outside of the United States is necessary for the operation and continued airworthiness of a U.S.-registered civil aircraft, it will issue a certificate to that person, providing they meet the necessary requirements.
+**拆解**：if 引导条件状语从句，从句谓语 determines 后接 that 宾语从句（主语 the issuance of a certificate to a person，located outside... 为过去分词短语后置定语），表语 necessary for...；主句 it will issue a certificate to that person（it 指 FAA）；句末 providing they meet... 为 providing (that) 引导的附加条件状语从句。
+**要点**：providing/provided (that) 等于 if，但更书面，且不能用于虚拟条件。that 宾语从句中的主语是抽象名词 issuance，谓语用单数 is，易被后面的复数名词误导出复数谓语。
+
+### ④ until 时间状语从句 + 三个并列过去分词
+**原句**：Mechanic’s certificates are effective until they are surrendered, suspended, or revoked.
+**拆解**：主句 Mechanic’s certificates are effective（系表结构）；until 引导时间状语从句，从句主语 they 指 certificates，谓语 are + 三个并列过去分词 surrendered、suspended、revoked 构成被动。
+**要点**：until 表「直到……为止」，主句用肯定式表示状态持续到该时点；若主句是否定式则译为「直到……才」。三个过去分词共用 are，后两个前的 are 省略，翻译时分别补出「被交回、被暂停、被吊销」。
+
+### ⑤ either...or 并列 + have sth done 使役结构
+**原句**：It basically states that anyone determined by the Transportation Security Administration (TSA) to be a security threat will either have their application held if they are applying for a certificate, or have the certificate that they do hold revoked.
+**拆解**：主句 It basically states + that 宾语从句；从句主语 anyone（determined by the TSA to be a security threat 为过去分词短语作后置定语），谓语为 either...or 并列的两个 have + 宾语 + 过去分词：have their application held 与 have the certificate revoked；if they are applying for a certificate 为插入的条件状语从句，that they do hold 为定语从句修饰 certificate。
+**要点**：have sth done 表示「使某事被（他人）做」，此处指证件被搁置、被吊销，不是自己去做；either...or 连接的是两个谓语动词 have，翻译时保留「要么……要么……」的对应。do hold 中的 do 为强调助动词，仅用于加强语气，不译出。
+

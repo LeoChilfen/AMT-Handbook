@@ -8,23 +8,15 @@ Ultrasonic inspection is finding increasing application in aircraft bonded const
 
 • Top skin material is made from different materials and thickness
 
-• Different types and thickness of adhesives are used in bonded structures Amplifier RF pulser Rate generator Timing circuit Cathode ray oscilloscope Specimen Flaw Transducer 1 3 2 WATER YOKEHANDHELD Pulse Echo Through-transmission Ultrasonic (TTU)
-
-0 1 2 3 4 5 6 7 8 9 10 10 9 8 7 6 5 4 3 2 1 0 DEPTH SIGNAL STRENGTH DELAMINATION 0 1 2 3 4 5 6 7 8 9 10 10 9 8 7 6 5 4 3 2 1 0 DEPTH SIGNAL STRENGTH NORMAL INSPECTION – NDI OVERVIEW Flaw FlawTransducer Specimen T F B Cathode ray tube A B C D Transducer incident wave Reflective wave Reflective surface Material under test T = Wavelength 2 F = F1 (Fundamental frequency)
-
-T = W F= 2F1 (2nd Harmonic)
-
-T = 11/2 W F= 3F1 (3rd Harmonic)
+• Different types and thickness of adhesives are used in bonded structures
 
 It is necessary that the frequency of the ultrasonic waves corresponding to a particular dial setting be accurately known. Checks should be made with standard test blocks to guard against possible drift of frequency. If the frequency of an ultrasonic wave is such that its wavelength is twice the thickness of a specimen (funda- mental frequency), then the reﬂected wave will arrive back at the transducer in the same phase as the original transmission so that strengthening of the signal will occur. This results from constructive interference or a resonance and is shown as a high amplitude value on the indicating screen. If the frequency is increased such that three times the wavelength equals four times the thickness, the reﬂected signal will return completely out of phase with the transmitted signal and cancella- tion will occur. Further increase of the frequency causes the wavelength to be equal to the thickness again and gives a reﬂected signal in phase with the transmitted signal and a resonance once more.
 
-By starting at the fundamental frequency and gradually increasing the frequency, the successive cancellations and resonances can be noted and the readings used to check the fundamental frequency reading. [Figure 8-10]
+By starting at the fundamental frequency and gradually increasing the frequency, the successive cancellations and resonances can be noted and the readings used to check the fundamental frequency reading.
 
-In some instruments, the oscillator circuit contains a motor driven capacitor which changes the frequency of the oscillator. [Figure 8-11] In other instruments, the frequency is changed by electronic means.
+In some instruments, the oscillator circuit contains a motor driven capacitor which changes the frequency of the oscillator. In other instruments, the frequency is changed by electronic means.
 
-The change in frequency is synchronized with the horizontal sweep of a CRT. The horizontal axis thus represents a frequency range. If the frequency range contains resonances, the circuitry is arranged to pres- ent these vertically. Calibrated transparent scales are then placed in front of the tube, and the thickness can be read directly. The instruments normally operate Coaxial cable Quartz crystal       A B D in a metal plate.
-
-45° Coaxial cable Quartz crystal Defect Material
+The change in frequency is synchronized with the horizontal sweep of a CRT. The horizontal axis thus represents a frequency range. If the frequency range contains resonances, the circuitry is arranged to pres- ent these vertically. Calibrated transparent scales are then placed in front of the tube, and the thickness can be read directly. The instruments normally operate
 
 • Underlying structures contain differences in core material, cell size, thickness, height, back skin material and thickness, doublers (material and thickness), closure member attachments, foam adhesive, steps in skins, internal ribs, and laminates (number of layers, layer thickness, and layer material)
 
@@ -46,9 +38,7 @@ Defects can be separated into five general types to represent the various areas 
 
 ### Acoustic Emission Inspection
 
-Acoustic emission is an NDI technique that involves the placing of acoustic emission sensors at various locations on an aircraft structure and then applying a load or stress. The materials emit sound and stress waves that take the form of ultrasonic pulses. Cracks and areas of corrosion in the stressed airframe structure emit sound waves that are registered by the sensors. These acoustic emission bursts can be used to locate flaws and to evaluate their rate of growth as a function of applied stress. Acoustic emission testing has an advantage over other NDI methods in that it can detect and locate all of the activated flaws in a structure in one test. Because of the complexity of aircraft structures, T = 2W F= 4F1 (4th Harmonic)
-
-oscillator Pulse ampliﬁer Transducer Tuning capacitor Horizontal time-base generator Contacts Material Motor system.
+Acoustic emission is an NDI technique that involves the placing of acoustic emission sensors at various locations on an aircraft structure and then applying a load or stress. The materials emit sound and stress waves that take the form of ultrasonic pulses. Cracks and areas of corrosion in the stressed airframe structure emit sound waves that are registered by the sensors. These acoustic emission bursts can be used to locate flaws and to evaluate their rate of growth as a function of applied stress. Acoustic emission testing has an advantage over other NDI methods in that it can detect and locate all of the activated flaws in a structure in one test. Because of the complexity of aircraft structures,
 
 application of acoustic emission testing to aircraft has required a new level of sophistication in testing technique and data interpretation.
 
@@ -66,7 +56,7 @@ If a discontinuity is present, the magnetic lines of force are disturbed and opp
 
 When a discontinuity in a magnetized material is open to the surface and a magnetic substance (indicating medium) is available on the surface, the flux leakage at the discontinuity tends to form the indicating medium into a path of higher permeability. (Permeability is a term used to refer to the ease that a magnetic flux can be established in a given magnetic circuit.) Because of the magnetism in the part and the adherence of the magnetic particles to each other, the indication remains on the surface of the part in the form of an approximate outline of the discontinuity that is immediately below it. The same action takes place when the discontinuity is not open to the surface, but since the amount of flux leakage is less, fewer particles are held in place and a fainter and less sharply defined indication is obtained.
 
-If the discontinuity is very far below the surface, there may be no flux leakage and no indication on the surface. The flux leakage at a transverse discontinuity is shown in Figure 10-26 . The flux leakage at a longitudinal discontinuity is shown in Figure 10-27.
+If the discontinuity is very far below the surface, there may be no flux leakage and no indication on the surface.
 
 #### Types of Discontinuities Disclosed
 
@@ -90,9 +80,9 @@ Chromium and nickel plating generally do not interfere with indications of crack
 
 #### Effect of Flux Direction
 
-To locate a defect in a part, it is essential that the magnetic lines of force pass approximately perpendicular to the defect. It is, therefore, necessary to induce magnetic flux in more than one direction, since defects are likely to exist at any angle to the major axis of the part. This requires two separate magnetizing operations, referred to as circular magnetization and longitudinal magnetization. The effect of flux direction is illustrated in Figure 10-28.
+To locate a defect in a part, it is essential that the magnetic lines of force pass approximately perpendicular to the defect. It is, therefore, necessary to induce magnetic flux in more than one direction, since defects are likely to exist at any angle to the major axis of the part. This requires two separate magnetizing operations, referred to as circular magnetization and longitudinal magnetization.
 
-Circular magnetization is the induction of a magnetic field consisting of concentric circles of force about and within the part. This is achieved by passing electric current through the part, locating defects running approximately parallel to the axis of the part. Figure 10-29 illustrates circular magnetization of a crankshaft. In longitudinal magnetization, the magnetic field is produced in a direction parallel to the long axis of the part. This is accomplished by placing the part in a solenoid excited by electric current. The metal part then becomes the core of an electromagnet and is magnetized by induction from the magnetic field created in the solenoid. In longitudinal magnetization of long parts, the solenoid must be moved along the part in order to magnetize it. [Figure 10-30] This is necessary to ensure adequate field strength throughout the entire length of the part.
+Circular magnetization is the induction of a magnetic field consisting of concentric circles of force about and within the part. This is achieved by passing electric current through the part, locating defects running approximately parallel to the axis of the part. In longitudinal magnetization, the magnetic field is produced in a direction parallel to the long axis of the part. This is accomplished by placing the part in a solenoid excited by electric current. The metal part then becomes the core of an electromagnet and is magnetized by induction from the magnetic field created in the solenoid. In longitudinal magnetization of long parts, the solenoid must be moved along the part in order to magnetize it. This is necessary to ensure adequate field strength throughout the entire length of the part.
 
 Solenoids produce effective magnetization for approximately 12 inches from each end of the coil, thus accommodating parts or sections approximately 30 inches in length. Longitudinal magnetization equivalent to that obtained by a solenoid may be accomplished by wrapping a flexible electrical conductor around the part. Although this method is not as convenient, it has an advantage in that the coils conform more closely to the shape of the part, producing a somewhat more uniform magnetization. The flexible coil method is also useful for large or irregularly-shaped parts when standard solenoids are not available.
 
@@ -100,7 +90,7 @@ Solenoids produce effective magnetization for approximately 12 inches from each 
 
 The effectiveness of the magnetic particle inspection also depends on the flux density or field strength at the surface of the part when the indicating medium is applied. As the flux density in the part is increased, the sensitivity of the test increases, because of the greater flux leakages at discontinuities and the resulting improved formation of magnetic particle patterns.
 
-Longitudinal magnetization Attraction of particles at defects Attraction of particles at defects Circular magnetization A B Excessively high flux densities may form nonrelevant indications, such as patterns of the grain flow in the material. These indications interfere with the detection of patterns resulting from significant discontinuities. It is therefore necessary to use a field strength high enough to reveal all possible harmful discontinuities, but not strong enough to produce confusing nonrelevant indications.
+Excessively high flux densities may form nonrelevant indications, such as patterns of the grain flow in the material. These indications interfere with the detection of patterns resulting from significant discontinuities. It is therefore necessary to use a field strength high enough to reveal all possible harmful discontinuities, but not strong enough to produce confusing nonrelevant indications.
 
 #### Magnetizing Methods
 
@@ -116,19 +106,19 @@ The residual inspection procedure involves magnetization of the part and applica
 
 #### Identification of Indications
 
-The correct evaluation of the character of indications is extremely important but is sometimes difficult to make from observation of the indications alone. The principal distinguishing features of indications are shape, buildup, width, and sharpness of outline. These characteristics are more valuable in distinguishing between types of discontinuities than in determining their severity. Careful observation of the character of the magnetic particle pattern method).
+The correct evaluation of the character of indications is extremely important but is sometimes difficult to make from observation of the indications alone. The principal distinguishing features of indications are shape, buildup, width, and sharpness of outline. These characteristics are more valuable in distinguishing between types of discontinuities than in determining their severity. Careful observation of the character of the magnetic particle pattern
 
 must always be included in the complete evaluation of the significance of an indicated discontinuity.
 
-The most readily distinguished indications are those produced by cracks open to the surface. These discontinuities include fatigue cracks, heat-treat cracks, shrink cracks in welds and castings, and grinding cracks. An example of a fatigue crack is shown in Figure 10-31.
+The most readily distinguished indications are those produced by cracks open to the surface. These discontinuities include fatigue cracks, heat-treat cracks, shrink cracks in welds and castings, and grinding cracks.
 
 ### Magnaglo Inspection
 
-Magnaglo inspection is similar to the preceding method, but differs in that a fluorescent particle solution is used and the inspection is made under black light. [Figure 10-32] Efficiency of inspection is increased by the neon-like glow of defects allowing smaller flaw indications to be seen. This is an excellent method for use on gears, threaded parts, and aircraft engine components. The reddish- brown liquid spray or bath that is used consists of Magnaglo paste mixed with a light oil at the ratio of 0.10 to 0.25 ounce of paste per gallon of oil. After inspection, the part must be demagnetized and rinsed with a cleaning solvent.
+Magnaglo inspection is similar to the preceding method, but differs in that a fluorescent particle solution is used and the inspection is made under black light. Efficiency of inspection is increased by the neon-like glow of defects allowing smaller flaw indications to be seen. This is an excellent method for use on gears, threaded parts, and aircraft engine components. The reddish- brown liquid spray or bath that is used consists of Magnaglo paste mixed with a light oil at the ratio of 0.10 to 0.25 ounce of paste per gallon of oil. After inspection, the part must be demagnetized and rinsed with a cleaning solvent.
 
 #### Magnetizing Equipment
 
-Fixed (Nonportable) General Purpose Unit A fixed, general purpose unit provides direct current (DC) for wet, continuous, or residual magnetization procedures. [Figure 10-33] Circular or longitudinal magnetization may be used, and it may be powered with rectified AC, as well as DC. The contact heads provide the electrical terminals for circular magnetization. One head is fixed in position with its contact plate mounted on a shaft surrounded by a pressure spring so that the plate may be moved longitudinally. The plate is maintained in the extended position by the spring until pressure transmitted through the work from the movable head forces it back.
+Fixed (Nonportable) General Purpose Unit A fixed, general purpose unit provides direct current (DC) for wet, continuous, or residual magnetization procedures. Circular or longitudinal magnetization may be used, and it may be powered with rectified AC, as well as DC. The contact heads provide the electrical terminals for circular magnetization. One head is fixed in position with its contact plate mounted on a shaft surrounded by a pressure spring so that the plate may be moved longitudinally. The plate is maintained in the extended position by the spring until pressure transmitted through the work from the movable head forces it back.
 
 The motor-driven movable head slides horizontally in longitudinal guides and is controlled by a switch. The spring allows sufficient overrun of the motor-driven head to avoid jamming it and also provides pressure on the ends of the work to ensure good electrical contact. A plunger-operated switch in the fixed head cuts out the forward motion circuit of the movable head motor when the spring has been properly compressed. In some units, the movable head is hand operated, and the contact plate is sometimes arranged for operation by an air ram. Both contact plates are fitted with various fixtures for supporting the work.
 
@@ -138,11 +128,11 @@ The suspension liquid is contained in a sump tank and is agitated and circulated
 
 Portable General Purpose Unit It is often necessary to perform the magnetic particle inspection at locations where fixed general purpose equipment is not available or to perform an inspection on members of aircraft structures without removing them from the aircraft. It is particularly useful for inspecting landing gear and engine mounts suspected of having developed cracks in service. Portable units supply both AC and DC magnetization.
 
-This unit is a source of magnetizing and demagnetizing current but does not provide a means for supporting the work or applying the suspension. It operates on 200 volt, 60 cycle AC and contains a rectifier for producing DC when required. [Figure 10-34]
+This unit is a source of magnetizing and demagnetizing current but does not provide a means for supporting the work or applying the suspension. It operates on 200 volt, 60 cycle AC and contains a rectifier for producing DC when required.
 
-The magnetizing current is supplied through the flexible cables with prods or contact clamps, as shown in Figure 10-35. The cable terminals may be fitted with prods or with contact clamps. Circular magnetization may be developed by using either the prods or clamps.
+The magnetizing current is supplied through the flexible cables with prods or contact clamps, as shown. The cable terminals may be fitted with prods or with contact clamps. Circular magnetization may be developed by using either the prods or clamps.
 
-Longitudinal magnetization is developed by wrapping the shock absorber.
+Longitudinal magnetization is developed by wrapping the
 
 cable around the part. The strength of the magnetizing current is controlled by an eight-point tap switch, and the duration that it is applied is regulated by an automatic cutoff similar to that used in the fixed general purpose unit.
 
@@ -176,7 +166,7 @@ The effective operation in the demagnetizing procedure is that of slowly moving 
 
 Because of their unique ability to penetrate material and disclose discontinuities, X and gamma radiations have been applied to the radiographic (x-ray) inspection of metal fabrications and nonmetallic products.
 
-The penetrating radiation is projected through the part to be inspected and produces an invisible or latent image in the film. When processed, the film becomes a radiograph or shadow picture of the object. This inspection medium and portable unit provides a fast and reliable means for checking the integrity of airframe structures and engines. [Figure 10-36]
+The penetrating radiation is projected through the part to be inspected and produces an invisible or latent image in the film. When processed, the film becomes a radiograph or shadow picture of the object. This inspection medium and portable unit provides a fast and reliable means for checking the integrity of airframe structures and engines.
 
 ### Radiographic Inspection
 
@@ -202,7 +192,7 @@ The factors of radiographic exposure are so interdependent that it is necessary 
 
 • Film characteristics
 
-• Types of intensifying screen, if used Knowledge of the x-ray unit’s capabilities form a background for the other exposure factors. In addition to the unit rating in kilovoltage, the size, portability, ease of manipulation, and exposure particulars of the available equipment must be thoroughly understood. Previous experience on similar objects is also very helpful in the determination of the overall exposure techniques. A log or record of previous exposures provides specific data as a guide for future radiographs. After Prod set Contact clamp exposure to x-rays, the latent image on the film is made permanently visible by processing it successively through a developer chemical solution, an acid bath, and a fixing bath, followed by a clear water wash.
+• Types of intensifying screen, if used Knowledge of the x-ray unit’s capabilities form a background for the other exposure factors. In addition to the unit rating in kilovoltage, the size, portability, ease of manipulation, and exposure particulars of the available equipment must be thoroughly understood. Previous experience on similar objects is also very helpful in the determination of the overall exposure techniques. A log or record of previous exposures provides specific data as a guide for future radiographs. After the latent image on the film is made permanently visible by processing it successively through a developer chemical solution, an acid bath, and a fixing bath, followed by a clear water wash.
 
 #### Radiographic Interpretation
 
@@ -216,7 +206,7 @@ There are three basic categories of flaws: voids, inclusions, and dimensional ir
 
 It is important to analyze the geometry of a flaw, especially for items such as the sharpness of terminal points. For example, in a crack-like flaw, the terminal points appear much sharper in a sphere-like flaw, such as a gas cavity. Also, material strength may be adversely affected by flaw shape. A flaw having sharp points could establish a source of localized stress concentration. Spherical flaws affect material strength to a far lesser degree than do sharp-pointed flaws. Specifications and reference standards usually stipulate that sharp-pointed flaws, such as cracks, cold shuts, and so forth, are cause for rejection.
 
-Material strength is also affected by flaw size. A metallic component of a given area is designed to carry a certain load plus a safety factor. Reducing this area by including a large flaw weakens the part and reduces the safety factor. Some flaws are often permitted in components due to these safety factors. In this case, the interpreter must determine the degree Dark area Light area After processing Film Void Radiation source Dark area Specimen of tolerance or imperfection specified by the design engineer. Both flaw size and flaw shape are considered carefully, since small flaws with sharp points can be just as bad as large flaws with no sharp points.
+Material strength is also affected by flaw size. A metallic component of a given area is designed to carry a certain load plus a safety factor. Reducing this area by including a large flaw weakens the part and reduces the safety factor. Some flaws are often permitted in components due to these safety factors. In this case, the interpreter must determine the degree of tolerance or imperfection specified by the design engineer. Both flaw size and flaw shape are considered carefully, since small flaws with sharp points can be just as bad as large flaws with no sharp points.
 
 Another important consideration in flaw analysis is flaw location. Metallic components are subjected to numerous and varied forces during their effective service life. Generally, the distribution of these forces is not equal in the component or part, and certain critical areas may be rather highly stressed. The interpreter must pay special attention to these areas. Another aspect of flaw location is that certain types of discontinuities close to one another may potentially serve as a source of stress concentrations creating a situation that must be closely scrutinized.
 
@@ -234,26 +224,264 @@ If the whole body is exposed to a very large dose of radiation, death could resu
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（114 段）。专业术语按行业惯例，数字与缩写保留。 -->
+超声检测在航空器粘接结构与粘接修理中的应用日益增多。航空器上使用着多种构型和类型的粘接结构。所有这些变化都使超声检测的实施变得复杂。在某一个零件或零件的某一区域上效果良好的检查方法，可能不适用于其他零件，或同一零件的其他区域。粘接结构类型中的一些变量如下：
+
+• 上面板（蒙皮）由不同材料制成，厚度也各不相同
+
+• 粘接结构中使用不同类型和厚度的胶粘剂
+
+必须准确知道刻度盘某一设定所对应的超声波频率。应用标准试块进行检查，以防频率漂移。如果超声波频率使其波长等于试件厚度的两倍（基频），反射波回到换能器时与原发射相位相同，信号因此增强。这是相长干涉（共振）的结果，在指示屏幕上表现为高幅值。如果提高频率，使三倍波长等于四倍厚度，反射信号返回时与发射信号完全反相，发生抵消。频率再提高，使波长又等于厚度时，反射信号又与发射信号同相，再次出现共振。
+
+从基频开始逐渐提高频率，便可记下相继出现的抵消和共振，并用这些读数来核对基频读数。
+
+有些仪器的振荡电路中有一个电机驱动的电容器，用来改变振荡器频率。另一些仪器则用电子方式改变频率。
+
+频率的变化与 CRT 的水平扫描同步。横轴因此代表一个频率范围。如果该频率范围内含有共振，电路就安排把这些共振竖直显示出来。校准过的透明刻度尺放在管子前面，即可直接读出厚度。仪器通常工作在……
+
+• 下层结构在芯材材料、蜂窝格尺寸、厚度、高度、下蒙皮材料与厚度、加强板（材料与厚度）、封闭件连接、泡沫胶粘剂、蒙皮台阶、内部翼肋以及层压件（层数、层厚与各层材料）等方面各不相同
+
+• 粘接结构可能只有上面板可及，也可能上、下两面板都可及
+
+### 缺陷类型
+
+为表示粘接结构和层压结构的各个区域，缺陷可分为以下五个大类：
+
+1. I 类——外蒙皮与胶粘剂界面处的脱粘或空洞。
+
+2. II 类——胶粘剂与芯材界面处的脱粘或空洞。
+
+3. III 类——层压件各层之间的空洞。
+
+4. IV 类——泡沫胶粘剂中的空洞，或芯材与封闭件接头处胶粘剂与封闭件之间的脱粘。
+
+5. V 类——芯材中的水分。
+
+### 声发射检查
+
+声发射是一种 NDI 技术，其做法是在航空器结构的各个部位放置声发射传感器，然后施加荷载或应力。材料会发出声波和应力波，其形式为超声脉冲。受力机体结构中的裂纹和腐蚀区域会发出声波，由传感器记录下来。这些声发射脉冲可用于定位缺陷，并评价其随施加应力增长的速率。声发射检测相对于其他 NDI 方法的优点是，它能在一次检测中查出并定位结构中的所有活动缺陷。由于航空器结构复杂，
+
+……把声发射检测用于航空器，在检测技术和数据判读方面都要求达到一个新的精细水平。
+
+### 磁粉检测
+
+磁粉检测是一种用于发现铁磁性材料（如铁和钢）中不可见裂纹及其他缺陷的方法。它不适用于非磁性材料。
+
+在快速旋转、往复运动、振动以及承受其他高应力的航空器零件上，小缺陷常常发展到使零件完全失效的程度。对于位于表面或近表面的这类缺陷，磁粉检测在快速发现方面已被证明极其可靠。采用这种检查方法，可以指示出缺陷的位置，并勾画出其大致尺寸和形状。
+
+检查过程包括把零件磁化，然后把铁磁粉施加到待检表面区域。铁磁粉（显示介质）可悬浮在液体中冲淋到零件上；零件可浸入悬浮液中；也可把干粉状的磁粉撒在零件表面。航空器零件检查中更常用湿法。
+
+如果存在不连续，磁力线就会受到扰动，在不连续的两侧出现相反的磁极。于是磁化颗粒在两个相反磁极之间的磁场中形成图形。这种图形称为「指示」，其形状大致相当于不连续在表面的投影。不连续可定义为零件正常物理结构或构型的中断，如裂纹、锻造折叠、发纹、夹杂、疏松等。不连续可能影响、也可能不影响零件的可用性。
+
+#### 指示的形成
+
+当磁化材料中的不连续开口于表面，且表面上有磁性物质（显示介质）时，该不连续处的漏磁会把显示介质引成一条磁导率较高的通路。（磁导率这一术语，指在给定磁路中建立磁通量的容易程度。）由于零件中的磁性和磁粉颗粒彼此吸附，指示会以大致轮廓的形式留在零件表面，这个轮廓就是其正下方不连续的形状。当不连续不开口于表面时也会发生同样的作用，但由于漏磁量较少，被吸住的颗粒较少，得到的指示较淡、边界也不那么清晰。
+
+如果不连续位于表面以下很远，可能没有漏磁，表面也就没有指示。
+
+#### 所显示的不连续类型
+
+磁粉检测通常能发现下列类型的不连续：裂纹、折叠、发纹、冷隔、夹杂、裂口、撕裂、缩管和空洞。这些都会影响使用中零件的可靠性。
+
+裂纹、裂口、爆裂、撕裂、发纹、空洞和缩管，都是由固态金属的实际分离或断裂形成的。冷隔和折叠则是金属中形成的叠层，中断了金属的连续性。
+
+夹杂是金属在加工阶段由其中的杂质形成的外来物质。例如，它们可能是熔炼基体金属时带入的炉衬碎块，或其他外来成分。夹杂中断金属的连续性，因为它们妨碍金属相邻面的接合或焊合。
+
+#### 待检零件的准备
+
+所有零件在检测前必须清除油脂、油污和脏物。清洁非常重要，因为任何存在的油脂或其他外来物质，都会在悬浮液从零件上流下时吸附磁粉，从而产生无关指示。
+
+不连续上覆盖足够量的油脂或外来物质，还可能妨碍在该处形成图形。不宜依靠磁粉悬浮液来清洁零件。用悬浮液清洁并不彻底，而且这样从零件上清除的外来物质会污染悬浮液，从而降低其效能。
+
+干法检测时，彻底清洁绝对必要。油脂或其他外来物质会滞留磁粉，造成无关指示，并使显示介质无法均匀分布在零件表面。所有通向内部通道或空腔的小孔和油孔，都必须用石蜡或其他合适的非磨蚀材料堵住。
+
+镉、铜、锡和锌镀层不会妨碍磁粉检测取得满意效果，除非镀层异常厚，或需要发现的缺陷异常小。
+
+镀铬和镀镍一般不妨碍显示开口于基体金属表面的裂纹，但会妨碍显示夹杂之类的细小不连续。由于镍的磁性更强，镀镍在阻碍指示形成方面比镀铬更明显。
+
+#### 磁通方向的影响
+
+要发现零件中的缺陷，磁力线必须大致垂直于缺陷通过。因此，必须在不止一个方向上引入磁通，因为缺陷可能相对零件主轴呈任意角度。这需要两次独立的磁化操作，分别称为周向磁化和纵向磁化。
+
+周向磁化是感应出由围绕并贯穿零件内部的同心磁力线组成的磁场。做法是让电流通过零件，用于发现大致平行于零件轴线的缺陷。在纵向磁化中，磁场沿平行于零件长轴的方向产生。做法是把零件放入通有电流的螺线管中。金属零件于是成为电磁铁的铁芯，靠螺线管中产生的磁场感应而被磁化。对长零件作纵向磁化时，必须让螺线管沿零件移动，才能将其磁化。这样才能确保零件全长范围内都有足够的磁场强度。
+
+螺线管在距线圈两端各约 12 英寸的范围内能产生有效磁化，因此可容纳约 30 英寸长的零件或区段。与螺线管等效的纵向磁化，可用柔性电缆缠绕在零件上来实现。虽然这种方法不如前者方便，但其优点是线圈更贴合零件形状，产生的磁化较为均匀。在缺少标准螺线管时，柔性线圈法对大型或不规则形状的零件也很有用。
+
+#### 磁通密度的影响
+
+磁粉检测的效果，还取决于施加显示介质时零件表面的磁通密度或磁场强度。随着零件中磁通密度的增大，检测灵敏度也提高，因为不连续处的漏磁更大，磁粉图形的形成因而改善。
+
+过高的磁通密度可能形成无关指示，例如材料流线（纤维流）的图形。这些指示会干扰对重要不连续所形成图形的发现。因此，所用的磁场强度必须高到足以显示一切可能的有害不连续，但又不能高到产生令人混淆的无关指示。
+
+#### 磁化方法
+
+零件被磁化时，其中的磁场强度随该磁化力增大到最大值，并在磁化力保持期间一直维持在这个最大值。
+
+磁化力撤除后，磁场强度下降到较低的剩磁值，其大小取决于材料的磁性和零件的形状。这些磁特性决定零件磁化时采用连续法还是剩磁法。
+
+连续检查法中，在保持磁化力的同时把零件磁化并施加显示介质。因此零件中的可用磁通密度处于最大值。最大磁通值直接取决于磁化力和零件所用材料的磁导率。
+
+连续法几乎可用于所有周向磁化和纵向磁化程序。连续法比剩磁法灵敏度更高，特别是在发现近表面不连续方面。航空器零件和组件的高度关键性，以及许多应用中对近表面检查的需要，使连续法得到更广泛的应用。由于连续法比剩磁法显示出更多非重要的不连续，因此必须对用该法显示出的不连续作仔细而明智的判读和评价。
+
+剩磁检查法是在撤除磁化力之后才把零件磁化并施加显示介质。该法依靠零件中的剩磁或永久磁性，当磁化是用缠绕在零件上的柔性线圈完成时，它比连续法更实用。一般来说，剩磁法只用于为承受应力而经过热处理的钢件。
+
+#### 指示的辨识
+
+正确评价指示的性质极为重要，但有时仅凭观察指示很难作出。指示的主要区分特征是形状、堆积程度、宽度和轮廓的清晰度。在区分不连续的类型方面，这些特征比判断其严重程度更有价值。对磁粉图形性质的仔细观察
+
+……必须始终纳入对已指示出的不连续之重要性的完整评价。
+
+最容易辨别的是开口于表面的裂纹所产生的指示。这类不连续包括疲劳裂纹、热处理裂纹、焊缝和铸件中的收缩裂纹以及磨削裂纹。
+
+### Magnaglo 检查
+
+Magnaglo 检查与前一种方法相似，不同之处在于使用荧光磁粉悬浮液，并在黑光下进行检查。缺陷发出的霓虹般辉光使更小的缺陷指示也能被看到，从而提高了检查效率。这是用于齿轮、螺纹零件和航空发动机部件的一种极好方法。所用的红褐色喷液或浸液，由 Magnaglo 糊剂与轻质油按每加仑油 0.10 至 0.25 盎司糊剂的比例混合而成。检查后，零件必须退磁，并用清洗溶剂冲洗。
+
+#### 磁化设备
+
+固定式（非便携式）通用设备　固定式通用设备为湿法、连续法或剩磁法磁化提供直流电（DC）。可使用周向或纵向磁化，除 DC 外，也可用整流交流电供电。接触头为周向磁化提供电气端子。一个接触头的位置固定，其接触板装在一根由压紧弹簧包围的心轴上，因此接触板可作纵向移动。弹簧使接触板保持在伸出位置，直到通过工件传来的可动头压力把它压回。
+
+电机驱动的可动头在纵向导轨中水平滑动，由开关控制。弹簧允许电机驱动的可动头有足够的超程，以免卡住，同时也对工件两端施加压力，以保证良好电接触。当弹簧被压缩到适当程度时，固定头中的柱塞式开关会切断可动头电机的正向运动电路。有些设备的可动头是手动操作的，接触板有时由气动顶杆操纵。两个接触板都装有各种夹具以支承工件。
+
+按下设备前面的按钮即可接通磁化电路。该电路通常设定在约半秒后自动断开。磁化电流的强度可用变阻器手动调到所需值，也可通过变阻器短路开关调到设备的额定容量。所用电流由电流表指示。纵向磁化由螺线管产生，螺线管与可动头在同一导轨中移动，并通过开关接入电路。
+
+悬浮液储存在集液箱中，由泵搅动并循环。悬浮液经喷嘴施加到工件上。悬浮液从工件上经非金属格栅流入收集盘，再回到集液箱。循环泵由按钮开关操作。
+
+便携式通用设备　常常需要在没有固定式通用设备的场所进行磁粉检测，或者需要在飞机结构件不拆卸的情况下对其进行检查。它特别适用于检查使用中怀疑已产生裂纹的起落架和发动机安装座。便携式设备可提供交流磁化和直流磁化。
+
+这种设备是磁化和退磁电流的电源，但不提供支承工件或施加悬浮液的手段。它使用 200 伏、60 赫兹交流电工作，内装整流器，需要时产生直流电。
+
+磁化电流经带触杆或接触夹的柔性电缆供给，如图所示。电缆端头可装触杆，也可装接触夹。周向磁化可用触杆或接触夹来实现。
+
+纵向磁化是通过把
+
+……电缆缠绕在零件上来实现的。磁化电流的强度由八档分接开关控制，通电时间由类似于固定式通用设备所用的自动切断装置调节。
+
+该便携式设备还可作退磁器使用，为此提供高电流、低电压的交流电。退磁时，让交流电通过零件，并用电流调节器逐渐减小。
+
+在检测有平面的大型结构、且电流必须通过零件时，有时无法使用接触夹。这种情况下就使用接触触杆。
+
+触杆既可用于便携式设备，也可用于固定式通用设备。被检零件或组件可支承或固定在标准设备上方，用软管把悬浮液浇到该区域，多余的悬浮液流入箱中。也可采用干法。
+
+触杆要紧压在待检表面上。大电流有在接触区造成烧蚀的倾向，但若处理得当，这种烧蚀通常很轻微。在允许采用触杆磁化的应用中，轻微烧蚀一般是可以接受的。
+
+#### 显示介质
+
+可用于磁粉检测的各种显示介质，可分为湿、干两大类材料。任何显示介质的基本要求，是能对零件中的不连续产生合格的指示。
+
+某种显示介质在背景或零件表面上提供的对比度特别重要。湿法最常用的颜色是黑色和红色，干法最常用的是黑色、红色和灰色。
+
+为获得合格的性能，显示介质必须具有高磁导率和低剩磁性。高磁导率可确保把磁粉吸向不连续漏磁处所需的磁能最小。低剩磁性可确保磁粉颗粒不会因自身被磁化而相互吸引，从而妨碍其移动性。
+
+如果零件要重新投入使用，检查后残留的永久磁性必须通过退磁操作去除。工作机构的零件必须退磁，以防已磁化的零件吸附系统内无意残留的铁屑、磨屑或切屑，或吸附使用中磨损产生的钢颗粒。这类颗粒在磁化零件上积聚，可能使轴承或其他运动部件出现划伤。机体零件必须退磁，以免影响仪表。
+
+一般不需要在相继的磁化操作之间退磁，除非经验表明省略这一操作会使某特定应用的效果降低。退磁可用多种不同方法实现。对航空器零件的一种简便做法，是让零件承受方向不断反向、同时强度逐渐减小的磁化力。随着这个逐渐减小的磁化力先在一个方向、再在另一个方向作用，零件的磁性也随之减弱。
+
+#### 标准退磁做法
+
+在零件中产生反向且逐渐减小磁化力的基本做法，是使用由交流电激励的螺线管线圈。随着零件离开螺线管的交变磁场，零件中的磁性逐渐减弱。
+
+应使用尺寸与工件相近的退磁器。为获得最大效果，小零件应尽量靠近线圈内壁放置。不易失去磁性的零件，要缓慢地在其内进出若干次，同时朝各个方向翻转或旋转。让零件带着电流留在退磁器中，实际上几乎起不到退磁作用。
+
+退磁过程中起作用的动作，是把零件缓慢移出线圈、远离磁场强度。退出过程中，应让零件始终正对开口，直到离退磁器 1 至 2 英尺为止。在零件离开口 1 至 2 英尺之前不要切断退磁电流，因为电流撤得太早可能使零件重新磁化。使用便携式设备的另一种做法，是让交流电通过待退磁的零件，同时把电流逐渐减小到零。
+
+由于 X 射线和伽马射线具有穿透材料并显示不连续的独特能力，它们已被用于金属构件和非金属制品的射线（X 射线）检测。
+
+穿透辐射射过待检零件，在胶片中产生不可见的潜像。经处理后，胶片就成为物体的射线照片或投影图。这种检查介质与便携式设备，为检查机体结构和发动机的完整性提供了一种快速可靠的手段。
+
+### 射线检测
+
+射线检测技术可在很少分解或完全不分解的情况下，发现机体结构或发动机中的缺陷或瑕疵。这与通常需要拆下、分解并去除可疑零件油漆后才能检查的其他无损检测类型形成鲜明对比。由于 X 射线伴随的辐射风险，要成为合格的射线操作人员需要接受大量培训。只有合格的射线人员才允许操作 X 射线设备。
+
+下面几段讨论的 X 射线过程有三大步骤：包括准备在内的曝光、胶片处理，以及射线照片判读。
+
+#### 准备与曝光
+
+射线曝光的各项因素相互依赖程度很高，因此对任何一次具体的射线曝光都必须通盘考虑所有因素。这些因素包括但不限于下列各项：
+
+• 材料厚度与密度
+
+• 物体的形状与尺寸
+
+• 待发现缺陷的类型
+
+• 所用 X 射线机的特性
+
+• 曝光距离
+
+• 曝光角度
+
+• 胶片特性
+
+• 所用增感屏的类型（如使用）　了解 X 射线机的性能，是掌握其他曝光因素的背景。除设备的千伏额定值外，还必须透彻了解现有设备的尺寸、便携性、操作便利程度和曝光细节。以往在类似物体上的经验，对确定总体曝光技术也很有帮助。以往曝光的记录可作为具体数据，指导今后的射线照相。曝光之后，胶片上的潜像要经显影液、酸浴和定影浴依次处理，再用清水冲洗，才能永久显现出来。
+
+#### 射线照片判读
+
+从质量保证的角度看，射线照片判读是射线照相中最重要的阶段。正是在这个阶段，判断上的错误可能造成灾难性后果。整个射线照相过程的努力都集中在这一阶段，零件或结构在此被接收或拒收。被忽略、未被理解或判读不当的不健全状况或其他缺陷，会使射线照相的目的和努力落空，并可能危及整架飞机的结构完整性。一种特别的危险，是因判读不当而接收了零件或结构所带来的虚假安全感。
+
+乍看之下，射线照片判读似乎很简单，但只要稍加分析，这种印象很快就会消除。判读这一课题既多样又复杂，无法在本书这类文件中充分涵盖。因此，本章只简要回顾射线照片判读的基本要求，并描述一些常见缺陷。
+
+经验表明，只要有可能，就应当在射线照相作业现场附近进行判读。观察射线照片时，能接触到被检材料是很有帮助的。这样就可把射线照片直接与被检材料对照，并能立即判定由表面状况或厚度变化之类原因造成的指示。以下几段说明分析射线照片时必须考虑的几个因素。
+
+缺陷有三大类：空洞、夹杂和尺寸不规则。最后一类（尺寸不规则）与本章讨论无关，因为其主要因素是程度问题，而射线照相并不精确。空洞和夹杂在射线照片上可能呈现从二维平面到三维球体的各种形态。裂纹、撕裂或冷隔最接近于二维平面，而空腔看起来像三维球体。收缩、氧化物夹杂、疏松等其他类型的缺陷，则处于这两种形态之间的某处。
+
+分析缺陷的几何形状很重要，特别是对于端点尖锐程度这类项目。例如，在裂纹状缺陷中，端点看起来比球状缺陷（如气孔）中的端点尖锐得多。此外，缺陷形状也可能对材料强度产生不利影响。带尖角的缺陷可能形成局部应力集中的源头。球状缺陷对材料强度的影响，远小于尖角缺陷。规范和参考标准通常规定，裂纹、冷隔之类带尖角的缺陷应予拒收。
+
+材料强度也受缺陷尺寸的影响。给定截面积的金属构件，是按承受一定载荷并留有安全系数设计的。因存在大缺陷而使该截面积减小，就会削弱零件并降低安全系数。由于有这些安全系数，构件中往往允许存在某些缺陷。在这种情况下，判读人员必须确定设计工程师所规定的容差或允许不完善程度。缺陷尺寸和缺陷形状都要仔细考虑，因为带尖角的小缺陷可能与不带尖角的大缺陷同样有害。
+
+缺陷分析中另一个重要考虑是缺陷位置。金属构件在其有效使用寿命中要承受众多且多变的力。一般来说，这些力在构件或零件中的分布并不均匀，某些关键区域可能受力相当高。判读人员必须特别注意这些区域。缺陷位置的另一个方面是，某些彼此靠近的同类不连续可能成为应力集中的源头，从而造成必须仔细审查的情况。
+
+夹杂是一类含有夹入物的缺陷。这类缺陷的密度可能大于或小于被射线照相的物品。上述关于缺陷形状、尺寸和位置的讨论，同样适用于夹杂和空洞。此外，含有外来物质的缺陷还可能成为腐蚀源。
+
+#### 辐射危害
+
+X 射线设备和放射性同位素源的辐射对活组织有破坏作用。普遍认为，使用这类设备时必须提供足够的防护。人员必须始终停留在初级 X 射线束之外。
+
+辐射会使它所穿过的一切物质发生变化，活组织也不例外。辐射击中人体分子时，其效应可能不过是打出几个电子，但这类变化过多就可能造成不可弥补的伤害。复杂生物体受到辐射时，是否造成损伤以及损伤程度，取决于哪些体细胞发生了变化。
+
+位于人体中部、被辐射穿透的重要器官，最容易受到伤害。皮肤通常吸收大部分辐射，对辐射的反应也最早。
+
+如果全身受到很大剂量的辐射，可能致死。一般来说，辐射病理效应的类型和严重程度，取决于一次所受的辐射量和受照部位占全身的百分比。较小剂量的辐射可在短期内引起血液和肠道紊乱。更迟发的效应是白血病和其他癌症。皮肤损伤和脱发也是受辐射照射的可能结果。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Addition —— The process in which the value of one number is added to the value of another.
-- Ammeter —— An instrument for measuring electric current in amperes.
-- Capacitor —— An electrical component that stores an electric charge.
-- Circular magnetization —— The induction of a magnetic field consisting of concentric circles of force about and within a part, which is achieved by passing electric current through the p
-- Conductor —— A material that will carry electric current.
-- Corrosion —— The deterioration of metal by chemical or electrochemical attack.
-- Current —— The flow of electrical charge.
-- Delamination —— Separation of the bond between the individual plies of a laminated composite structure.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| bonded structure | n.phr. | 粘接结构 | 蒙皮、芯材与胶粘剂粘成的航空器构件 |
+| adhesive | n. | 胶粘剂 | 粘接结构中连接蒙皮与芯材的胶层 |
+| disbond | n. | 脱粘 | 胶层与蒙皮或芯材之间失去结合 |
+| delamination | n. | 分层 | 层压件各层之间的分离或空洞 |
+| acoustic emission | n.phr. | 声发射 | 受力结构发出应力波、由传感器记录的 NDI 技术 |
+| ferromagnetic | adj. | 铁磁性的 | 能被磁化、可作磁粉检测的材料属性 |
+| indication | n. | 指示 | 磁粉在漏磁处形成的图形，未必是真实缺陷 |
+| flux leakage | n.phr. | 漏磁 | 不连续处磁力线逸出表面的现象 |
+| permeability | n. | 磁导率 | 在给定磁路中建立磁通量的容易程度 |
+| residual magnetism | n.phr. | 剩磁 | 撤去磁化力后零件中残留的磁性 |
+| demagnetization | n. | 退磁 | 检查后去除零件永久磁性的操作 |
+| radiograph | n. | 射线照片 | 胶片经处理后得到的物体投影图 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① 前置长状语 + develop to the point that 结果从句
+**原句**：In rapidly rotating, reciprocating, vibrating, and other highly-stressed aircraft parts, small defects often develop to the point that they cause complete failure of the part.
+**拆解**：句首 In … aircraft parts 为地点／范围状语，内部由四个并列定语（rotating, reciprocating, vibrating, highly-stressed）修饰 parts；主句为 small defects often develop to the point；that 从句说明「发展到什么程度」，是同位／结果从句。
+**要点**：to the point that ＝「到了……的程度」，比 so … that 更强调发展过程的终点；四个并列形容词最后一项前才加 and；技术文常把范围状语提前，使主句主语 defects 紧跟其后，翻译时应先状后主。
+
+### ② be defined as + such as 列举 + and the like
+**原句**：A discontinuity may be defined as an interruption in the normal physical structure or configuration of a part, such as a crack, forging lap, seam, inclusion, porosity, and the like.
+**拆解**：主语 A discontinuity；情态被动谓语 may be defined as；表语 an interruption，后接 in the normal physical structure or configuration of a part；such as 引出六项举例，and the like 收尾。
+**要点**：be defined as 是定义句的固定句式，as 后接名词而非句子；such as 后列举必须用复数可数名词或不可数名词，不能与 etc. 重复；and the like ＝ and so on，书面语中更常见。
+
+### ③ As 引导「随着」的比例从句
+**原句**：As the flux density in the part is increased, the sensitivity of the test increases, because of the greater flux leakages at discontinuities and the resulting improved formation of magnetic particle patterns.
+**拆解**：As 从句表示两个变化同步发生；主句 the sensitivity of the test increases；because of 引出名词性原因，其宾语是 the greater flux leakages 与 the resulting improved formation 两项并列。
+**要点**：as 表示「随着」时主句与从句都用一般现在时或都含比较级，构成「越……越……」的对应；because of 后只能接名词或动名词，接句子须用 because；resulting 为现在分词作定语，意思是「由此产生的」。
+
+### ④ 分词短语作伴随状语（depending on）
+**原句**：When the magnetizing force is removed, the field strength decreases to a lower residual value depending on the magnetic properties of the material and the shape of the part.
+**拆解**：When 引导时间从句；主句 the field strength decreases to a lower residual value；depending on … 为现在分词短语作伴随状语，逻辑主语是 the field strength 的取值，实为对 decrease 的补充说明。
+**要点**：depend on 在这里用分词形式，等于 which depends on，避免再起一个从句；depend on 的宾语是两项并列（magnetic properties 与 shape）；翻译时宜处理成「……下降到的剩磁值，取决于……」，而不是直译「取决于……地下降」。
+
+### ⑤ Due to 名词短语作原因状语 + 过去分词后置定语
+**原句**：Due to the radiation risks associated with x-ray, extensive training is required to become a qualified radiographer.
+**拆解**：Due to the radiation risks 为原因状语；associated with x-ray 是过去分词短语后置修饰 risks；主句 extensive training is required 为被动；to become a qualified radiographer 作目的／结果状语。
+**要点**：due to 后接名词，不能接句子（口语中有人误当连词）；associated with 是固定搭配，表示「与……相关的」；require 的被动式后接不定式表示「为达到某目的所需要」，译文常改写成「要成为……需要……培训」。

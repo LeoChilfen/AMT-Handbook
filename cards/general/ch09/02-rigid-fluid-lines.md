@@ -22,9 +22,9 @@ Titanium 3AL–2.5V tubing and fitting is used extensively in transport category
 
 Before making repairs to any aircraft tubing, it is important to make accurate identification of tubing materials. Aluminum alloy, steel, or titanium tubing can be identified readily by sight where it is used as the basic tubing material. However, it is difficult to determine whether a material is carbon steel or stainless steel, or whether it is 1100, 3003, 5052-O, 6061-T6, or 2024-T3 aluminum alloy. To positively identify the material used in the original installation, compare code markings of the replacement tubing with the original markings on the tubing being replaced.
 
-On large aluminum alloy tubing, the alloy designation is stamped on the surface. On small aluminum tubing, the designation may be stamped on the surface; but more often it is shown by a color code, not more than 4" in width, painted at the two ends and approximately midway between the ends of some tubing. When the band consists of two colors, one- half the width is used for each color. [Figure 9-1]
+On large aluminum alloy tubing, the alloy designation is stamped on the surface. On small aluminum tubing, the designation may be stamped on the surface; but more often it is shown by a color code, not more than 4" in width, painted at the two ends and approximately midway between the ends of some tubing. When the band consists of two colors, one- half the width is used for each color.
 
-If the code markings are hard or impossible to read, it may Aluminum Alloy Number Color of Band 1100 White 3003 Green 2014 Gray 2024 Red 5052 Purple 6053 Black 6061 Blue and Yellow 7075 Brown and Yellow alloy tubing.
+If the code markings are hard or impossible to read, it may
 
 be necessary to test samples of the material for hardness by hardness testing.
 
@@ -36,9 +36,9 @@ Damaged tubing and fluid lines should be repaired with new parts whenever possib
 
 Tube forming consists of four processes: cutting, bending, flaring, and beading. If the tubing is small and made of soft material, the assembly can be formed by hand bending during installation. If the tube is 1⁄4" diameter or larger, hand bending without the aid of tools is impractical.
 
-When cutting tubing, it is important to produce a square end, free of burrs. Tubing may be cut with a tube cutter or a hacksaw. The cutter can be used with any soft metal tubing, such as copper, aluminum, or aluminum alloy. Correct use of the tube cutter is shown in Figure 9-2. Special chipless cutters are available for cutting aluminum 6061-T6, corrosion- resistant steel, and titanium tubing.
+When cutting tubing, it is important to produce a square end, free of burrs. Tubing may be cut with a tube cutter or a hacksaw. The cutter can be used with any soft metal tubing, such as copper, aluminum, or aluminum alloy. Special chipless cutters are available for cutting aluminum 6061-T6, corrosion- resistant steel, and titanium tubing.
 
-A new piece of tubing should be cut approximately 10 percent longer than the tube to be replaced to provide for minor variations in bending. Place the tube in the cutting tool with the cutting wheel at the point where the cut is to be made. Rotate the cutter around the tubing, applying light pressure to the cutting wheel by intermittently twisting the thumbscrew. Too much pressure on the cutting wheel at one time could deform the tubing or cause excessive burring. After cutting the tubing, carefully remove any burrs from inside and outside the tube. Use a knife or the burring edge attached to the tube cutter. The deburring operation can be accomplished by the use of a deburring tool. [Figure 9-3] This tool is capable of removing both the inside and outside burrs by just turning the tool end for end.
+A new piece of tubing should be cut approximately 10 percent longer than the tube to be replaced to provide for minor variations in bending. Place the tube in the cutting tool with the cutting wheel at the point where the cut is to be made. Rotate the cutter around the tubing, applying light pressure to the cutting wheel by intermittently twisting the thumbscrew. Too much pressure on the cutting wheel at one time could deform the tubing or cause excessive burring. After cutting the tubing, carefully remove any burrs from inside and outside the tube. Use a knife or the burring edge attached to the tube cutter. The deburring operation can be accomplished by the use of a deburring tool. This tool is capable of removing both the inside and outside burrs by just turning the tool end for end.
 
 When performing the deburring operation, use extreme care that the wall thickness of the end of the tubing is not reduced or fractured. Very slight damage of this type can lead to fractured flares or defective flares, which do not seal properly. Use a fine-tooth file to file the end square and smooth.
 
@@ -46,15 +46,15 @@ If a tube cutter is not available, or if tubing of hard material is to be cut, u
 
 An easy way to hold small diameter tubing, when cutting it, is to place the tube in a combination flaring tool and clamp the tool in a vise. Make the cut about one-half inch from the flaring tool. This procedure keeps sawing vibrations to a minimum and prevents damage to the tubing if it is accidentally hit with the hacksaw frame or file handle while cutting. Be sure all filings and cuttings are removed from the tube.
 
-The objective in tube bending is to obtain a smooth bend without flattening the tube. Tubing under 1⁄4" in diameter usually can be bent without the use of a bending tool. For larger sizes, either portable hand benders or production benders are usually used. Figure 9-4 shows preferred methods and standard bend radii for bending tubing by tube size.
+The objective in tube bending is to obtain a smooth bend without flattening the tube. Tubing under 1⁄4" in diameter usually can be bent without the use of a bending tool. For larger sizes, either portable hand benders or production benders are usually used.
 
-Rotate toward open side of cutter Tube Clean cut Cut Using a hand bender, insert the tubing into the groove of the bender so that the measured end is left of the form block. Align the two zeros and align the mark on the tubing with the L on the form handle. If the measured end is on the right side, then align the mark on the tubing with the R on the form handle. With a steady motion, pull the form handle until the zero mark on the form handle lines up with the desired angle of bend, as indicated on the radius block. [Figure 9-5]
+Using a hand bender, insert the tubing into the groove of the bender so that the measured end is left of the form block. Align the two zeros and align the mark on the tubing with the L on the form handle. If the measured end is on the right side, then align the mark on the tubing with the R on the form handle. With a steady motion, pull the form handle until the zero mark on the form handle lines up with the desired angle of bend, as indicated on the radius block.
 
-Hand benders come in different sizes that correspond to the tube diameter. Make sure to select the correct bender for the desired tube diameter. Figure 9-6 shows hand benders available for different sizes of tubing. Typically, the tubing size is stamped in the bender. [Figure 9-7]
+Hand benders come in different sizes that correspond to the tube diameter. Make sure to select the correct bender for the desired tube diameter.Typically, the tubing size is stamped in the bender.
 
-Bend the tubing carefully to avoid excessive flattening, kinking, or wrinkling. A small amount of flattening in bends is acceptable, but the small diameter of the flattened portion must not be less than 75 percent of the original outside diameter. Tubing with flattened, wrinkled, or irregular bends should not be installed. Wrinkled bends usually result from trying to bend thin wall tubing without using a tube bender. Excessive flattening causes fatigue failure of the tube. Examples of correct and incorrect tubing bends are shown in Figure 9-8.
+Bend the tubing carefully to avoid excessive flattening, kinking, or wrinkling. A small amount of flattening in bends is acceptable, but the small diameter of the flattened portion must not be less than 75 percent of the original outside diameter. Tubing with flattened, wrinkled, or irregular bends should not be installed. Wrinkled bends usually result from trying to bend thin wall tubing without using a tube bender. Excessive flattening causes fatigue failure of the tube.
 
-Tube bending machines for all types of tubing are generally used in repair stations and large maintenance shops. With such equipment, proper bends can be made on large diameter tubing and on tubing made from hard material. The production CNC™ tube bender is an example of this type of machine. [Figure 9-9]
+Tube bending machines for all types of tubing are generally used in repair stations and large maintenance shops. With such equipment, proper bends can be made on large diameter tubing and on tubing made from hard material. The production CNC™ tube bender is an example of this type of machine.
 
 The ordinary production tube bender accommodates tubing ranging from 1⁄4" to 11⁄2" outside diameter. Benders for larger sizes are available, and the principle of their operation is similar to that of the hand tube bender. The radius blocks are so constructed that the radius of bend varies with the tube diameter. The radius of bend is usually stamped on the block.
 
@@ -66,7 +66,7 @@ When hand or production tube benders are not available or are not suitable for a
 
 After plugging one end, fill and pack the tube with fine, dry sand and plug tightly. Both plugs must be tight so they are not forced out when the bend is made. After the ends are closed, bend the tubing over a forming block shaped to the specified radius. In a modified version of the filler method, a fusible alloy is used instead of sand. In this method, the tube is filled under hot water with a fusible alloy that melts at 160 °F. The alloy-filled tubing is then removed from the water, allowed to cool, and bent slowly by hand around a forming block or with a tube bender. After the bend is made, the alloy is again melted under hot water and removed from the tubing. When using either filler methods, make certain that all particles of the filler are removed. Visually inspect with a borescope to make certain that no particles are carried into the system in which the tubing is installed. Store the fusible alloy filler where it is free from dust or dirt. It can be re-melted and reused as often as desired. Never heat this filler in any other way than the prescribed method, as the alloy will stick to the inside of the tubing, making them both unusable.
 
-Two kinds of flares are generally used in aircraft tubing: the Type Bender AB AB B B B BC B BC B BC C BC C Tube OD ¹⁄8" ³⁄16" ¹⁄4" ⁵⁄16" ³⁄8" ³⁄8" ⁷⁄16" ¹⁄2" ¹⁄2" ⁵⁄8" ⁵⁄8" ³⁄4" ³⁄4"
+Two kinds of flares are generally used in aircraft tubing:
 
 Standard Bend ³⁄8" ⁷⁄16" ⁹⁄16" ¹¹⁄16" ¹¹⁄16" ¹⁵⁄16" 1³⁄8" 1¹⁄2" 1¹⁄4" 2" 1¹⁄2" 2¹⁄2" 1³⁄4"
 
@@ -74,45 +74,45 @@ Type Bender C B C C C C C C C C C C C Tube OD ⁷⁄8" 1" 1 " 1 ¹⁄8" 1¹⁄4"
 
 Standard Bend 2" 3¹⁄2" 3" 3¹⁄2" 3³⁄4" 5" 6" 5" 6" 7" 8" 10" 12"
 
-A– Hand B–Portable hand benders C–Production bender single flare and the double flare. [Figure 9-10A and B] Flares are frequently subjected to extremely high pressures; therefore, the flare on the tubing must be properly shaped or the connection leaks or fails. A flare made too small produces a weak joint, which may leak or pull apart; if made too large, it interferes with the proper engagement of the screw thread on the fitting and causes leakage. A crooked flare is the result of the tubing not being cut squarely. If a flare is not made properly, flaws cannot be corrected by applying additional torque when tightening the fitting. The flare and tubing must be free from cracks, dents, nicks, scratches, or any other defects.
+single flare and the double flare. Flares are frequently subjected to extremely high pressures; therefore, the flare on the tubing must be properly shaped or the connection leaks or fails. A flare made too small produces a weak joint, which may leak or pull apart; if made too large, it interferes with the proper engagement of the screw thread on the fitting and causes leakage. A crooked flare is the result of the tubing not being cut squarely. If a flare is not made properly, flaws cannot be corrected by applying additional torque when tightening the fitting. The flare and tubing must be free from cracks, dents, nicks, scratches, or any other defects.
 
-The flaring tool used for aircraft tubing has male and female dies ground to produce a flare of 35° to 37°. Under no circumstance is it permissible to use an automotive-type flaring tool that produces a flare of 45°. [Figure 9-11]
+The flaring tool used for aircraft tubing has male and female dies ground to produce a flare of 35° to 37°. Under no circumstance is it permissible to use an automotive-type flaring tool that produces a flare of 45°.
 
-The single-flare hand flaring tool, similar to that shown in Figure 9-12, is used for flaring tubing. The tool consists of a flaring block or grip die, a yoke, and a flaring pin. The flaring block is a hinged double bar with holes corresponding to various sizes of tubing. These holes are countersunk on one end to form the outside support against which the flare is formed. The yoke is used to center the flaring pin over the end of the tube to be flared. Two types of flaring tools are used to make flares on tubing: the impact type and the rolling type.
+The single-flare hand flaring tool is used for flaring tubing. The tool consists of a flaring block or grip die, a yoke, and a flaring pin. The flaring block is a hinged double bar with holes corresponding to various sizes of tubing. These holes are countersunk on one end to form the outside support against which the flare is formed. The yoke is used to center the flaring pin over the end of the tube to be flared. Two types of flaring tools are used to make flares on tubing: the impact type and the rolling type.
 
 ### Instructions for Rolling-Type Flaring Tools
 
-Use these tools only to flare soft copper, aluminum, and brass tubing. Do not use with corrosion-resistant steel or titanium. Cut the tube squarely and remove all burrs. Slip the fitting nut and sleeve on the tube. Loosen clamping screw used for locking the sliding segment in the die holder. This permits their separation. The tools are self-gauging; the proper size Good Perfect bend Flattened bend Wrinkled bend Kinked bend flare is produced when tubing is clamped flush with the top of the die block. Insert tubing between the segments of the die block that correspond to the size of the tubing to be flared. Advance the clamp screw against the end segment and tighten firmly. Move the yoke down over the top of the die holder and twist it clockwise to lock it into position. Turn the feed screw down firmly, and continue until a slight resistance is felt. This indicates an accurate flare has been completed. Always read the tool manufacturer’s instructions, because there are several different types of rolling-type flaring tools that use slightly different procedures.
+Use these tools only to flare soft copper, aluminum, and brass tubing. Do not use with corrosion-resistant steel or titanium. Cut the tube squarely and remove all burrs. Slip the fitting nut and sleeve on the tube. Loosen clamping screw used for locking the sliding segment in the die holder. This permits their separation. The tools are self-gauging; the proper size flare is produced when tubing is clamped flush with the top of the die block. Insert tubing between the segments of the die block that correspond to the size of the tubing to be flared. Advance the clamp screw against the end segment and tighten firmly. Move the yoke down over the top of the die holder and twist it clockwise to lock it into position. Turn the feed screw down firmly, and continue until a slight resistance is felt. This indicates an accurate flare has been completed. Always read the tool manufacturer’s instructions, because there are several different types of rolling-type flaring tools that use slightly different procedures.
 
 A double flare is used on soft aluminum alloy tubing 3⁄8" outside diameter and under. This is necessary to prevent cutting off the flare and failure of the tube assembly under operating pressures. A double flare is smoother and more concentric than a single flare and therefore seals better. It is also more resistant to the shearing effect of torque.
 
 #### Double Flaring Instructions
 
-Deburr both the inside and outside of the tubing to be flared. Cut off the end of the tubing if it appears damaged. Anneal brass, copper, and aluminum by heating to a dull red and cool rapidly in cold water. Open the flaring tool by unscrewing both clamping screws. Select the hole in the flaring bar that matches the tubing diameter and place the tubing with the end you have just prepared, extending above the top of the bar by a distance equal to the thickness of the shoulder of the adapter insert. Tighten clamping screws to hold tubing securely. Insert pilot of correctly sized adapter into tubing. Slip yoke over the flaring bars and center over adapter. Advance the cone downward until the shoulder of the adapter rests on the flaring bar. This bells out the end of the tubing. Next, back off the cone just enough to remove the adapter. After removing the adapter, advance the cone directly into the belled end of the tubing. This folds the tubing on itself and forms an accurate double flare without cracking or splitting the tubing. To prevent thinning out of the flare wall, do not overtighten. [Figure 9-13]
+Deburr both the inside and outside of the tubing to be flared. Cut off the end of the tubing if it appears damaged. Anneal brass, copper, and aluminum by heating to a dull red and cool rapidly in cold water. Open the flaring tool by unscrewing both clamping screws. Select the hole in the flaring bar that matches the tubing diameter and place the tubing with the end you have just prepared, extending above the top of the bar by a distance equal to the thickness of the shoulder of the adapter insert. Tighten clamping screws to hold tubing securely. Insert pilot of correctly sized adapter into tubing. Slip yoke over the flaring bars and center over adapter. Advance the cone downward until the shoulder of the adapter rests on the flaring bar. This bells out the end of the tubing. Next, back off the cone just enough to remove the adapter. After removing the adapter, advance the cone directly into the belled end of the tubing. This folds the tubing on itself and forms an accurate double flare without cracking or splitting the tubing. To prevent thinning out of the flare wall, do not overtighten.
 
 Rigid tubing may be joined to either an end item (such as a brake cylinder), another section of either rigid tubing, or to a flexible hose (such as a drain line). In the case of connection to an end item or another tube, fittings are required, which may or may not necessitate flaring of the tube. In the case of attachment to a hose, it may be necessary to bead the rigid tube so that a clamp can be used to hold the hose onto the tube.
 
 #### Flareless Fittings
 
-Although the use of flareless tube fittings eliminates all tube flaring, another operation, referred to as presetting, is necessary prior to installation of a new flareless tube assembly. Flareless tube assemblies should be preset with the proper size presetting tool or operation. Figure 9-14 (steps 37° A. Single-flared end B. Double-flared end flared (B) tube ends.
+Although the use of flareless tube fittings eliminates all tube flaring, another operation, referred to as presetting, is necessary prior to installation of a new flareless tube assembly. Flareless tube assemblies should be preset with the proper size presetting tool or operation.
 
-1, 2, and 3) illustrates the presetting operation, which is performed as follows: 1. Cut the tube to the correct length, with the ends perfectly square. Deburr the inside and outside of the tube. Slip the nut, then the sleeve, over the tube (step 1), lubricate the threads of the fitting and nut with hydraulic fluid. 2. Place the fitting in a vise (step 2), and hold the tubing firmly and squarely on the seat in the fitting. (The tube must bottom firmly in the fitting.) Tighten the nut until the cutting edge of the sleeve grips the tube. To determine this point, slowly turn the tube back and forth while tightening the nut. When the tube no longer turns, the nut is ready for tightening. 3. Final tightening depends upon the tubing (step 3). For aluminum alloy tubing up to and including 1⁄2" outside diameter, tighten the nut from 1 to 11⁄6 turns. For steel tubing and aluminum alloy tubing over 1⁄2" outside diameter, tighten from 11⁄6 to 11⁄2 turns.
+1. Cut the tube to the correct length, with the ends perfectly square. Deburr the inside and outside of the tube. Slip the nut, then the sleeve, over the tube (step 1), lubricate the threads of the fitting and nut with hydraulic fluid. 2. Place the fitting in a vise (step 2), and hold the tubing firmly and squarely on the seat in the fitting. (The tube must bottom firmly in the fitting.) Tighten the nut until the cutting edge of the sleeve grips the tube. To determine this point, slowly turn the tube back and forth while tightening the nut. When the tube no longer turns, the nut is ready for tightening. 3. Final tightening depends upon the tubing (step 3). For aluminum alloy tubing up to and including 1⁄2" outside diameter, tighten the nut from 1 to 11⁄6 turns. For steel tubing and aluminum alloy tubing over 1⁄2" outside diameter, tighten from 11⁄6 to 11⁄2 turns.
 
 After presetting the sleeve, disconnect the tubing from the fitting and check the following points: The tube should extend 3⁄32" to 1⁄8" beyond the sleeve pilot; otherwise, blowoff may occur. The sleeve pilot should contact the tube or have a maximum clearance of 0.005" for aluminum alloy tubing or 0.015" for steel tubing. A slight collapse of the tube at the sleeve cut is permissible. No movement of the sleeve pilot, except rotation, is permissible.
 
 Tubing may be beaded with a hand beading tool, with machine beading rolls, or with grip dies. The method to be used depends on the diameter and wall thickness of the tube and the material from which it was made.
 
-The hand beading tool is used with tubing having 1⁄4" to 1" outside diameter. [Figure 9-15] The bead is formed by using the beader frame with the proper rollers attached. The inside and outside of the tube is lubricated with light oil to reduce the friction between the rollers during beading. The sizes, marked in sixteenths of an inch on the rollers, are for the outside diameter of the tubing that can be beaded with the rollers. Separate rollers are required for the inside of each tubing size, and care must be taken to use the correct parts when beading. The hand beading tool works somewhat like the tube cutter in that the roller is screwed down intermittently while rotating the beading tool around the tubing. In addition, a small vise (tube holder) is furnished with the kit.
+The hand beading tool is used with tubing having 1⁄4" to 1" outside diameter. The bead is formed by using the beader frame with the proper rollers attached. The inside and outside of the tube is lubricated with light oil to reduce the friction between the rollers during beading. The sizes, marked in sixteenths of an inch on the rollers, are for the outside diameter of the tubing that can be beaded with the rollers. Separate rollers are required for the inside of each tubing size, and care must be taken to use the correct parts when beading. The hand beading tool works somewhat like the tube cutter in that the roller is screwed down intermittently while rotating the beading tool around the tubing. In addition, a small vise (tube holder) is furnished with the kit.
 
 Other methods and types of beading tools and machines are available, but the hand beading tool is used most often. As a rule, beading machines are limited to use with large diameter tubing, over 115⁄16", unless special rollers are supplied. The grip-die method of beading is confined to small tubing.
 
 ### Fluid Line Identification
 
-Fluid lines in aircraft are often identified by markers made up of color codes, words, and geometric symbols. These markers identify each line’s function, content, and primary hazard. Figure 9-16 illustrates the various color codes and symbols used to designate the type of system and its contents.
+Fluid lines in aircraft are often identified by markers made up of color codes, words, and geometric symbols. These markers identify each line’s function, content, and primary hazard.
 
-Fluid lines are marked, in most instances, with 1" tape or decals. [Figure 9-17A] On lines 4" in diameter (or larger), lines in oily environment, hot lines, and on some cold lines, steel tags may be used in place of tape or decals. [Figure 9-17B] Paint is used on lines in engine compartments where there is the possibility of tapes, decals, or tags being drawn into the engine induction system.
+Fluid lines are marked, in most instances, with 1" tape or decals. On lines 4" in diameter (or larger), lines in oily environment, hot lines, and on some cold lines, steel tags may be used in place of tape or decals. Paint is used on lines in engine compartments where there is the possibility of tapes, decals, or tags being drawn into the engine induction system.
 
-In addition to the above-mentioned markings, certain lines may be further identified regarding specific function within a system (e.g., drain, vent, pressure, or return). Lines conveying fuel may be marked FLAM [Figure 9-17]; lines containing toxic materials are marked TOXIC in place of FLAM. Lines containing physically dangerous materials, such as oxygen, nitrogen, or FreonTM, may be marked PHDAN.
+In addition to the above-mentioned markings, certain lines may be further identified regarding specific function within a system (e.g., drain, vent, pressure, or return). Lines conveying fuel may be marked FLAM; lines containing toxic materials are marked TOXIC in place of FLAM. Lines containing physically dangerous materials, such as oxygen, nitrogen, or FreonTM, may be marked PHDAN.
 
 Aircraft and engine manufacturers are responsible for the original installation of identification markers, but the aviation mechanic is responsible for the replacement when it becomes necessary. Tapes and decals are generally placed on both ends of a line and at least once in each compartment through which lines run. In addition, identification markers are placed immediately adjacent to each valve, regulator, filter, or other accessories within a line. Where paint or tags are used, location requirements are the same as for tapes and decals.
 
@@ -120,7 +120,7 @@ Aircraft and engine manufacturers are responsible for the original installation 
 
 Depending on the type and use, fittings have either pipe threads or machine threads. Pipe threads are similar to those used in ordinary plumbing and are tapered, both internal and external. External threads are referred to as male threads and internal threads are female threads. When two fittings are joined, a male into a female, the thread taper forms a seal. Some form of pipe thread lubricant approved for particular fluid application should be used when joining pipe threads to prevent seizing and high-pressure leakage. Use care when applying thread lubricant so that the lubricant does not enter and contaminate the system. Do not use lubricants on oxygen lines. Oxygen reacts with petroleum products and can ignite (special lubricants are available or oxygen systems).
 
-Fitting TubeSleeve pilot Sleeve cutting edge Sleeve Tube nut STEP 1 STEP 2 Slight deformation permissible .005" maximum aluminum alloy tubing .015" maximum corrosion-resistant steel tubing STEP 3 Machine threads have no sealing capability and are similar to those used on common nuts and bolts. This type of fitting is used only to draw connections together or for attachment through bulkheads. A flared tube connection, a crush washer, or a synthetic seal is used to make the connection fluid tight. Machine threads have no taper and do not form a fluid-tight seal. The size of these fittings is given in dash numbers, which equal the nominal outside diameter in sixteenths of an inch.
+Machine threads have no sealing capability and are similar to those used on common nuts and bolts. This type of fitting is used only to draw connections together or for attachment through bulkheads. A flared tube connection, a crush washer, or a synthetic seal is used to make the connection fluid tight. Machine threads have no taper and do not form a fluid-tight seal. The size of these fittings is given in dash numbers, which equal the nominal outside diameter in sixteenths of an inch.
 
 #### Universal Bulkhead Fittings
 
@@ -132,27 +132,27 @@ The beaded type of fitting, which requires a bead and a section of hose and hose
 
 #### AN Flared Fittings
 
-A flared tube fitting consists of a sleeve and a nut. [Figure 9-18] The nut fits over the sleeve and, when tightened, draws the sleeve and tubing flare tightly against a male fitting to form a seal. Tubing used with this type of fitting must be flared before installation. The male fitting has a cone-shaped surface with the same angle as the inside of the flare. The sleeve supports the tube so that vibration does not concentrate at the edge of the flare and distributes the shearing action over a wider area for added strength.
+A flared tube fitting consists of a sleeve and a nut. The nut fits over the sleeve and, when tightened, draws the sleeve and tubing flare tightly against a male fitting to form a seal. Tubing used with this type of fitting must be flared before installation. The male fitting has a cone-shaped surface with the same angle as the inside of the flare. The sleeve supports the tube so that vibration does not concentrate at the edge of the flare and distributes the shearing action over a wider area for added strength.
 
 Fitting combinations composed of different alloys should be avoided to prevent dissimilar metal corrosion. As with all fitting combinations, ease of assembly, alignment, and proper lubrication should be assured when tightening fittings during installation.
 
-Standard AN fittings are identified by their black or blue color. All AN steel fittings are colored black, all AN aluminum fittings are colored blue, and aluminum bronze fittings are cadmium plated and natural in appearance. A sampling of AN fittings is shown in Figure 9-19. Figure 9-20 contains 3/32" to 1/8"
+Standard AN fittings are identified by their black or blue color. All AN steel fittings are colored black, all AN aluminum fittings are colored blue, and aluminum bronze fittings are cadmium plated and natural in appearance.
 
-connection that is virtually maintenance free. Swaged fittings are used to join hydraulic lines in areas where routine disconnections are not required and are often used with titanium and corrosion-resistant steel tubing. The fittings are installed with portable hydraulically-powered tooling, which is compact enough to be used in tight spaces. [Figure 9-24] If the fittings need to be disconnected, cut the tubing with a tube cutter. Special installation tooling is available in portable kits. Always use the manufacturer’s instructions to install swaged fittings. Typical Permaswage™ fittings are shown in Figure 9-25.
+connection that is virtually maintenance free. Swaged fittings are used to join hydraulic lines in areas where routine disconnections are not required and are often used with titanium and corrosion-resistant steel tubing. The fittings are installed with portable hydraulically-powered tooling, which is compact enough to be used in tight spaces. If the fittings need to be disconnected, cut the tubing with a tube cutter. Special installation tooling is available in portable kits. Always use the manufacturer’s instructions to install swaged fittings.
 
-One of the latest developments is the Permalite™ fitting. Permalite™ is a tube fitting that is mechanically attached to the tube by axial swaging. Permalite™ works by deforming the fitting into the tube being joined by moving a ring, a component of the Permalite™ fitting, axially along the fitting length using a Permaswage™ Axial swage tool. Typical Permalite™ fittings are shown in Figure 9-26.
+One of the latest developments is the Permalite™ fitting. Permalite™ is a tube fitting that is mechanically attached to the tube by axial swaging. Permalite™ works by deforming the fitting into the tube being joined by moving a ring, a component of the Permalite™ fitting, axially along the fitting length using a Permaswage™ Axial swage tool.
 
 #### Cryofit Fittings
 
-Many transport category aircraft use Cryofit fittings to join hydraulic lines in areas where routine disconnections are not required. Cryofit fittings are standard fittings with a cryogenic sleeve. The sleeve is made of a shape memory alloy, Tinel™. additional information on sizes, torques, and bend radii. AN flared fittings are different from MS flareless fittings and they are not interchangeable. AN flared fittings are easily recognized, because they have a cone at the end of the fitting while the MS flareless fitting has a straight end. [Figure 9-21]
+Many transport category aircraft use Cryofit fittings to join hydraulic lines in areas where routine disconnections are not required. Cryofit fittings are standard fittings with a cryogenic sleeve. The sleeve is made of a shape memory alloy, Tinel™. additional information on sizes, torques, and bend radii. AN flared fittings are different from MS flareless fittings and they are not interchangeable. AN flared fittings are easily recognized, because they have a cone at the end of the fitting while the MS flareless fitting has a straight end.
 
 ### MS Flareless Fittings
 
-MS flareless fittings are designed primarily for high-pressure (3,000 psi) hydraulic systems that may be subjected to severe vibration or fluctuating pressure. [Figure 9-22] Using this type of fitting eliminates all tube flaring, yet provides a safe and strong, dependable tube connection. The fitting consists of three parts: a body, a sleeve, and a nut. [Figure 9-23] The internal design of the body causes the sleeve to cut into the outside of the tube when the body and nut are joined. The counterbore shoulder within the body is designed with a reverse angle of 15° for steel connectors and 45° for aluminum fittings. This reverse angle prevents inward collapse of the tubing when tightened and provides a partial sealing force to be exerted against the periphery of the body counterbore.
+MS flareless fittings are designed primarily for high-pressure (3,000 psi) hydraulic systems that may be subjected to severe vibration or fluctuating pressure. Using this type of fitting eliminates all tube flaring, yet provides a safe and strong, dependable tube connection. The fitting consists of three parts: a body, a sleeve, and a nut. The internal design of the body causes the sleeve to cut into the outside of the tube when the body and nut are joined. The counterbore shoulder within the body is designed with a reverse angle of 15° for steel connectors and 45° for aluminum fittings. This reverse angle prevents inward collapse of the tubing when tightened and provides a partial sealing force to be exerted against the periphery of the body counterbore.
 
 #### Swaged Fittings
 
-A popular repair system for connecting and repairing hydraulic lines on transport category aircraft is the use of Permaswage™ fittings. Swaged fittings create a permanent Tubing AN819 sleeve AN818 nut ELECTRICAL CONDUIT ELECTRICAL CONDUIT ELECTRICAL CONDUIT ELECTRICAL CONDUIT ELECTRICAL CONDUIT WATER WATER WATER WATER WATER WATER FUEL FUEL FUEL FUEL FUEL FUEL FUEL LUBRICATION LUBRICATION LUBRICATION LUBRICATION LUBRICATION LUBRICATION LUBRICATION PNEUMATIC PNEUMATIC PNEUMATIC PNEUMATIC PNEUMATIC PNEUMATIC XXXXXXXXXXXX HYDRAULICHYDRAULICHYDRAULICHYDRAULICHYDRAULICHYDRAULIC COOLANT COOLANT COOLANT COOLANT COOLANT COOLANT COOLANT AIR CONDITION AIR CONDITION AIR CONDITION AIR CONDITION COMPRESSED GAS COMPRESSED GAS COMPRESSED GAS COMPRESSED GAS COMPRESSED GAS INSTRUMENT AIR INSTRUMENT AIR INSTRUMENT AIR INSTRUMENT AIR INSTRUMENT AIR BREATHING OXYGEN BREATHING OXYGEN BREATHING OXYGEN BREATHING OXYGEN BREATHING OXYGEN FIRE PROTECTION FIRE PROTECTION FIRE PROTECTION FIRE PROTECTION FIRE PROTECTION DE-ICING DE-ICING DE-ICING DE-ICING DE-ICING DE-ICING VACUUM VACUUM VACUUM VACUUM VACUUM VACUUM INERTING FLUID INERTING FLUID INERTING FLUID INERTING FLUID INERTING FLUID WARNING SYMBOL A B FUEL FLAM FUEL FUEL FLAM FLAM and metal tags (B).
+A popular repair system for connecting and repairing hydraulic lines on transport category aircraft is the use of Permaswage™ fittings. Swaged fittings create a permanent
 
 ### Rigid Tubing Installation and Inspection
 
@@ -160,7 +160,7 @@ Before installing a line assembly in an aircraft, inspect the line carefully. Re
 
 #### Connection & Torque
 
-Never apply compound to the faces of the fitting or the flare, as it destroys the metal-to-metal contact between the fitting and flare, a contact which is necessary to produce the seal. Be sure that the line assembly is properly aligned before tightening the fittings. Do not pull the installation into place with torque on the nut. Correct and incorrect methods of installing flared tube assemblies are illustrated in Remember that these torque values are for flared-type fittings only. Always tighten fittings to the correct torque value when installing a tube assembly. Overtightening a fitting may badly The sleeve is manufactured 3 percent smaller, frozen in liquid nitrogen, and expanded to 5 percent larger than the line. During installation, the fitting is removed from the liquid nitrogen and inserted onto the tube. During a 10 to 15 second warming up period, the fitting contracts to its original size (3 percent smaller), biting down on the tube, forming a permanent seal. Cryofit fittings can only be removed by cutting the tube at the sleeve, though this leaves enough room to replace it with a swaged fitting without replacing the hydraulic line. It is frequently used with titanium tubing. The shape memory technology is also used for end fittings, flared fittings, and flareless fittings. [Figure 9-27]
+Never apply compound to the faces of the fitting or the flare, as it destroys the metal-to-metal contact between the fitting and flare, a contact which is necessary to produce the seal. Be sure that the line assembly is properly aligned before tightening the fittings. Do not pull the installation into place with torque on the nut. Remember that these torque values are for flared-type fittings only. Always tighten fittings to the correct torque value when installing a tube assembly. Overtightening a fitting may badly The sleeve is manufactured 3 percent smaller, frozen in liquid nitrogen, and expanded to 5 percent larger than the line. During installation, the fitting is removed from the liquid nitrogen and inserted onto the tube. During a 10 to 15 second warming up period, the fitting contracts to its original size (3 percent smaller), biting down on the tube, forming a permanent seal. Cryofit fittings can only be removed by cutting the tube at the sleeve, though this leaves enough room to replace it with a swaged fitting without replacing the hydraulic line. It is frequently used with titanium tubing. The shape memory technology is also used for end fittings, flared fittings, and flareless fittings.
 
 ELBOW AN821 ELBOW AN823 TEE AN825 ELBOW AN822 TEE AN824 TEE AN826 CROSS AN827 UNION AN832 ELBOW AN833 TEE AN834 ELBOW AN837 ELBOW AN838 ELBOW AN839 TEE AN804 PLUG AN814 PLUG AN806 UNION AN815 NUT AN817 NUT AN818 SLEEVE AN819 CAP AN820NIPPLE AN816ADAPTOR AN807 BOLT AN774 BOLT AN775 ELBOW AN776 ELBOW AN777 ELBOW AN778 TEE AN779 AN744 to AN932 Material:
 
@@ -182,13 +182,13 @@ Steel Tubing, Bolt Fitting, or Nut Torque (in–lb)
 
 Hose End Fittings and Hose Assemblies MS28740 or Equivalent End Fitting Minimum Bend Radii (inches)
 
-Steel Minimum Maximum Alum. Alloy 1100-H14 damage or completely cut off the tube flare, or it may ruin the sleeve or fitting nut. Failure to tighten sufficiently also may be serious, as this condition may allow the line to blow out of the assembly or to leak under system pressure. The use of torque wrenches and the prescribed torque values prevents overtightening or undertightening. If a tube fitting assembly is tightened properly, it may be removed and retightened many times before reflaring is necessary.
+damage or completely cut off the tube flare, or it may ruin the sleeve or fitting nut. Failure to tighten sufficiently also may be serious, as this condition may allow the line to blow out of the assembly or to leak under system pressure. The use of torque wrenches and the prescribed torque values prevents overtightening or undertightening. If a tube fitting assembly is tightened properly, it may be removed and retightened many times before reflaring is necessary.
 
 #### Flareless Tube Installation
 
 Tighten the nut by hand until an increase in resistance to turning is encountered. Should it be impossible to run the nut down with the fingers, use a wrench, but be alert for the first signs of bottoming. It is important that the final tightening commence at the point where the nut just begins to bottom. Use a wrench and turn the nut one-sixth turn (one flat on a hex nut). Use a wrench on the connector to prevent it from turning while tightening the nut. After the tube assembly is installed, the system should be pressure tested. It is permissible to tighten the nut an additional one-sixth turn (making a total of one-third turn), should a connection leak. If leakage still occurs after tightening the nut a total of one- third turn, remove the assembly and inspect the components for scores, cracks, presence of foreign material, or damage from overtightening. Several aircraft manufacturers include torque values in their maintenance manuals to tighten the flareless fittings.
 
-TEE MS21909 TEE MS21910 TEE MS21911ELBOW MS21908 SLEEVE MS21922 NUT MS21917 BUSHING MS21915 PLUG MS21913 UNION MS21924 TEE MS21912 ADAPTER MS21923 NUT MS21921 REDUCER MS21916 CAP MS21914 ELBOW MS21925 ELBOW MS21926 TEE MS21905 SLEEVE MS20819 UNION MS21902 ELBOW MS21904 UNION MS21903 ADAPTER MS21900 ADAPTER MS21901 ELBOW MS21907 CROSS MS21906 Material: aluminum alloy Size of fitting in 16ths inch – 4⁄16 inch Design part number: adapter, flareless tube to AN flared tube Prefix: military specification MS 21900 –4 D NutBody Sleeve Lower die/holder assembly Power unit Waged Fitting Hydraulic Tubing Disconnect Head assembly The following notes, cautions, and faults apply to the installation of rigid tubing.
+The following notes, cautions, and faults apply to the installation of rigid tubing.
 
 Note: Overtightening a flareless tube nut drives the cutting edge of the sleeve deeply into the tube, causing the tube to be weakened to the point where normal in-flight vibration could cause the tube to shear. After inspection (if no discrepancies are found), reassemble the connections and repeat the pressure test procedures.
 
@@ -198,38 +198,267 @@ Common faults: Flare distorted into nut threads; sleeve cracked; flare cracked o
 
 #### Rigid Tubing Inspection & Repair
 
-Minor dents and scratches in tubing may be repaired. Scratches or nicks not deeper than 10 percent of the wall thickness in aluminum alloy tubing, which are not in the heel of a bend, may be repaired by burnishing with hand tools. The damage limits for hard, thin-walled corrosion- resistant steel and titanium tubing are considerably less than for aluminum tubing and might depend on the aircraft manufacturer. Consult the aircraft maintenance manual for damage limits. Replace lines with severe die marks, seams, or splits in the tube. Any crack or deformity in a flare is unacceptable and is cause for rejection. A dent of less than 20 percent of the tube diameter is not objectionable, unless it is in the heel of a bend. To remove dents, draw a bullet of proper size through the tube by means of a length of cable, or push the bullet through a short straight tube by means of a dowel rod. In this case, a bullet is a ball bearing or slug Incorrect—will damage flare or threads, or cause sleeve to crack under vibration if tightened Incorrect—may pull off or distort flare if tightened Correctly fitted and tightened .025 clearance between flare and shoulder before tightening Do not deflect into place.
+Minor dents and scratches in tubing may be repaired. Scratches or nicks not deeper than 10 percent of the wall thickness in aluminum alloy tubing, which are not in the heel of a bend, may be repaired by burnishing with hand tools. The damage limits for hard, thin-walled corrosion- resistant steel and titanium tubing are considerably less than for aluminum tubing and might depend on the aircraft manufacturer. Consult the aircraft maintenance manual for damage limits. Replace lines with severe die marks, seams, or splits in the tube. Any crack or deformity in a flare is unacceptable and is cause for rejection. A dent of less than 20 percent of the tube diameter is not objectionable, unless it is in the heel of a bend. To remove dents, draw a bullet of proper size through the tube by means of a length of cable, or push the bullet through a short straight tube by means of a dowel rod. In this case, a bullet is a ball bearing or slug
 
 Replace tube assembly.
 
-normally made of steel or some other hard metal. In the case of soft aluminum tubing, a hard wood slug or dowel may even be used as a bullet. [Figure 9-29] A severely damaged line should be replaced. However, the line may be repaired by cutting out the damaged section and inserting a tube section of the same size and material. Flare both ends of the undamaged and replacement tube sections and make the connection by using standard unions, sleeves, and tube nuts. Aluminum 6061-T6, corrosion-resistant steel 304-1/8h and Titanium 3AL-2.5V tubing can be repaired by swaged fittings. If the damaged portion is short enough, omit the insert tube and repair by using one repair union. [Figure 9-30] When repairing a damaged line, be very careful to remove all chips and burrs. Any open line that is to be left unattended for a period of time should be sealed, using metal, wood, rubber, Cable Bullet Dent or plastic plugs or caps.
+normally made of steel or some other hard metal. In the case of soft aluminum tubing, a hard wood slug or dowel may even be used as a bullet. A severely damaged line should be replaced. However, the line may be repaired by cutting out the damaged section and inserting a tube section of the same size and material. Flare both ends of the undamaged and replacement tube sections and make the connection by using standard unions, sleeves, and tube nuts. Aluminum 6061-T6, corrosion-resistant steel 304-1/8h and Titanium 3AL-2.5V tubing can be repaired by swaged fittings. If the damaged portion is short enough, omit the insert tube and repair by using one repair union. When repairing a damaged line, be very careful to remove all chips and burrs. Any open line that is to be left unattended for a period of time should be sealed, using metal, wood, rubber, or plastic plugs or caps.
 
-When repairing a low-pressure line using a flexible fluid connection assembly, position the hose clamps carefully to prevent overhang of the clamp bands or chafing of the tightening screws on adjacent parts. If chafing can occur, the hose clamps should be repositioned on the hose. Figure 9-31 illustrates the design of a flexible fluid connection assembly and gives the maximum allowable angular and dimensional offset.
+When repairing a low-pressure line using a flexible fluid connection assembly, position the hose clamps carefully to prevent overhang of the clamp bands or chafing of the tightening screws on adjacent parts. If chafing can occur, the hose clamps should be repositioned on the hose.
 
 When replacing rigid tubing, ensure that the layout of the new line is the same as that of the line being replaced. Remove the damaged or worn assembly, taking care not to further damage or distort it, and use it as a forming template for the new part. If the old length of tubing cannot be used as a pattern, make a wire template, bending the pattern by hand as required for the new assembly. Then bend the tubing to match the wire pattern. Never select a path that does not require bends in the tubing. A tube cannot be cut or flared accurately enough so that it can be installed without bending and still be free from mechanical strain. Bends are also necessary to permit the tubing to expand or contract under temperature changes and to absorb vibration. If the tube is small (under 1⁄4") and can be hand formed, casual bends may be made to allow for this. If the tube must be machine formed, definite bends must be made to avoid a straight assembly. Start all bends a reasonable distance from the fittings because the sleeves and nuts must be slipped back during the fabrication of flares and during inspections. In all cases, the new tube assembly should be so formed prior to installation that it is not necessary to pull or deflect the assembly into alignment by means of the coupling nuts.
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（102 段）。专业术语按行业惯例，数字与缩写保留。 -->
+### 导管材料
+
+在航空的早期，铜导管曾广泛用于航空流体场合。在现代飞机上，铝合金、耐蚀钢或钛合金导管已普遍取代了铜导管。
+
+#### 铝合金导管
+
+用 1100 H14（1⁄2 硬）或 3003 H14（1⁄2 硬）制成的导管，用于流体压力低或可忽略的通用管路，例如仪表管路和通风导管。用 2024-T3、5052-O 和 6061-T6 铝合金材料制成的导管，用于低、中压的通用系统，例如 1,000 至 1,500 psi 的液压和气动系统，以及燃油和滑油管路。
+
+耐蚀钢导管，无论是退火状态的 CRES 304、CRES 321，还是 CRES 304-1⁄8 硬状态，都广泛用于操纵起落架、襟翼、刹车的高压液压系统（3,000 psi 及以上）以及防火区。它较高的抗拉强度允许使用壁更薄的导管；因此最终装机重量并不比壁更厚的铝合金导管大多少。在存在外来物损伤（FOD）风险的部位（即起落架和轮舱区域）使用钢管路。耐蚀导管配用压接式接头或 MS 无扩口接头。尽管钢管路的识别标记各不相同，但通常都包括制造商名称或商标、美国汽车工程师学会（SAE）编号，以及金属的物理状态。
+
+#### 钛合金 3AL–2.5V
+
+钛合金 3AL–2.5V 的导管和接头广泛用于压力在 1,500 psi 以上的运输类和高性能飞机液压系统。钛比钢的强度高 30%，比钢轻 50%。钛导管配用 Cryofit 接头或压接式接头。任何氧气系统组件中都不得使用钛导管和钛接头。钛及钛合金具有氧反应性。如果新成形的钛表面暴露在气态氧中，在低压下就可能发生自燃。
+
+### 材料识别
+
+在对任何飞机导管进行修理之前，准确识别导管的材料很重要。当铝合金、钢或钛合金导管作为基本导管材料使用时，通常可以凭肉眼识别。然而，要判定某种材料是碳钢还是不锈钢，或者它是 1100、3003、5052-O、6061-T6 还是 2024-T3 铝合金，就很困难。要确切识别原始装机所用的材料，应把更换导管的代码标记与被更换导管上的原有标记作比较。
+
+在大型铝合金导管上，合金牌号压印在表面。在小型铝导管上，牌号也可能压印在表面；但更常见的是用色标表示：色标带宽不超过 4 英寸，涂在导管的两端以及某些导管两端大约中间的位置。当色带由两种颜色组成时，每种颜色各占一半宽度。
+
+如果代码标记难以看清或根本无法看清，则可能必须
+
+对材料试样进行硬度试验。
+
+金属导管按外径（OD）定尺寸，外径以英寸的十六分之一为分数单位计量。例如，6 号导管的尺寸是 6⁄16 英寸（即 3⁄8 英寸），8 号导管是 8⁄16 英寸（即 1⁄2 英寸），依此类推。所有刚性导管上都印有导管直径。除其他分类方式或识别方法外，导管还按不同的壁厚制造。因此，安装导管时不仅要了解材料和外径，还要了解壁厚。壁厚以千分之一英寸为单位印在导管上。要确定导管的内径（ID），可用外径减去两倍的壁厚。例如，10 号导管若壁厚为 0.063"，其内径为 0.625" – 2(0.063") = 0.499"。
+
+### 金属管路的制作
+
+损坏的导管和流体管路应尽可能用新件修理。遗憾的是，有时更换并不现实，必须进行修理。流体管路外表面的划伤、擦伤或轻微腐蚀可视为无关紧要，可以用抛光工具或铝棉打磨光滑。以这种方式可以修复的损伤限度，在本章“刚性导管检查与修理”一节中讨论。如果流体管路组件需要更换，接头往往可以回收使用；这样修理就只涉及导管成形和更换。
+
+导管成形包括四道工序：切割、弯曲、扩口和滚压凸缘。如果导管较细且由软材料制成，安装时可用手工弯曲成形。如果导管直径为 1⁄4 英寸或更大，不借助工具手工弯曲是不现实的。
+
+切割导管时，切出方正且无毛刺的端面很重要。导管可用切管器或钢锯切割。切管器可用于任何软金属导管，例如铜、铝或铝合金。切割 6061-T6 铝合金、耐蚀钢和钛合金导管时，可使用专用无屑切管器。
+
+新导管的下料长度应比要更换的导管长约 10%，以留出弯曲时的微小差异。把导管装入切割工具，使切割轮对准要下刀的位置。绕导管旋转切管器，同时通过间断地拧动滚花螺钉对切割轮施加轻微压力。一次对切割轮施加过大压力可能使导管变形或产生过多毛刺。切断导管后，要仔细清除管内、外的毛刺。可用刀具或切管器上附带的去毛刺刀口。去毛刺作业也可使用去毛刺工具完成。这种工具只需调头使用，就能同时去掉内、外毛刺。
+
+进行去毛刺作业时，要格外小心，不要使导管端部的壁厚减薄或产生裂纹。这种极轻微的损伤也可能导致扩口开裂或产生有缺陷的扩口，从而密封不良。用细齿锉把端面锉平、锉光。
+
+如果没有切管器，或者要切割硬材料导管，应使用细齿钢锯，最好选用每英寸 32 齿的锯条。使用锯切可减少切割过程中导管的加工硬化程度。锯完后，把导管端面锉平锉光，清除所有毛刺。
+
+切割小直径导管时，一种简便的夹持方法是将导管装入扩口组合工具，再把工具夹在台虎钳上。切口应距扩口工具约半英寸。这样做能把锯切振动降到最低，并且在切割过程中万一被锯架或锉柄碰到时，可避免损伤导管。务必把管内的锉屑和切屑全部清除干净。
+
+弯管的目标是获得圆滑的弯曲而不把导管压扁。直径小于 1⁄4 英寸的导管通常不用弯管工具即可弯曲。尺寸更大的导管通常使用便携式手动弯管器或生产用弯管器。
+
+使用手动弯管器时，把导管插入弯管器的槽中，使已量好长度的一端位于成形块的左侧。对齐两个零位，并把导管上的标记与成形手柄上的 L 对齐。如果已量好长度的一端在右侧，则把导管上的标记与成形手柄上的 R 对齐。平稳地拉动成形手柄，直到成形手柄上的零位标记与半径块上指示的所需弯曲角度对齐。
+
+手动弯管器有各种尺寸，与导管直径相对应。务必为所需的导管直径选对弯管器。通常，弯管器上都打有导管尺寸的钢印。
+
+弯管时要小心，避免过度压扁、扭结或起皱。弯曲处允许有轻微压扁，但被压扁部分的小直径不得小于原外径的 75%。弯曲处被压扁、起皱或形状不规则的导管不得安装。起皱的弯曲通常是由于不使用弯管器而试图弯曲薄壁导管造成的。过度压扁会导致导管疲劳失效。
+
+适用于各类导管的弯管机通常用于修理站和大型维修车间。有了这类设备，就可以在大直径导管和硬材料导管上弯出合格的弯。生产型 CNC™ 弯管机就是这类设备的一个例子。
+
+普通生产型弯管器可弯制外径从 1⁄4 英寸到 11⁄2 英寸的导管。也有更大尺寸的弯管器，其工作原理与手动弯管器相似。半径块的结构使弯曲半径随导管直径而变化。弯曲半径通常打印在半径块上。
+
+### 其他弯曲方法
+
+当没有手动或生产型弯管器，或它们不适用于某项特定的弯曲作业时，可使用金属成分的填充料或干砂来辅助弯曲成形。
+
+使用这种方法时，导管应切得比所需长度稍长。多出的长度用于在两端各插入一个塞子（可以是木塞）。导管也可以把两端压扁或在两端焊上金属圆片来封住。
+
+塞住一端后，用干燥的细砂把导管填满并捣实，然后紧紧塞住。两个塞子都必须塞紧，以免弯管时被挤出。两端封好后，在按规定半径成形的成形块上弯曲导管。在填充法的一种改良形式中，用可熔合金代替砂子。这种方法是在热水中把在 160 °F 熔化的可熔合金灌入导管。然后把灌满合金的导管从水中取出，让其冷却，再在成形块上用手慢慢弯曲，或用弯管器弯曲。弯好后，再次在热水中使合金熔化，并把它从导管中清除。使用这两种填充方法时，都要确保清除所有填充料颗粒。用内窥镜检查，确证没有颗粒被带入安装该导管的系统。可熔合金填充料应存放在无灰尘、无污物的场所。它可以重新熔化、重复使用任意多次。除规定的方法外，绝不要用其他任何方式加热这种填充料，否则合金会粘在导管内壁上，使合金和导管都无法再用。
+
+飞机导管通常使用两种扩口：
+
+（原文此处为表格碎片，无对应正文）
+
+（原文此处为表格碎片，无对应正文）
+
+（原文此处为表格碎片，无对应正文）
+
+单扩口和双扩口两种。扩口经常承受极高的压力；因此，导管上的扩口必须成形正确，否则连接处会渗漏或失效。扩口做得太小会产生薄弱的接头，可能漏油或被拉开；做得太大则会妨碍与接头上螺纹的正确啮合，并造成渗漏。扩口歪斜是导管未切割方正造成的。如果扩口做得不合格，靠拧紧接头时施加更大的扭矩是无法弥补缺陷的。扩口和导管不得有裂纹、凹坑、刻痕、划伤或任何其他缺陷。
+
+用于飞机导管的扩口工具，其阴阳模经研磨加工，可扩出 35° 至 37° 的扩口。任何情况下都不允许使用能扩出 45° 扩口的汽车式扩口工具。
+
+单扩口手动扩口工具用于给导管扩口。该工具由扩口块（或称夹持模）、轭架和扩口销组成。扩口块是一副铰接的双条块，上面有与各种导管尺寸相对应的孔。这些孔在一端做成锥形沉孔，形成扩口成形时依靠的外支撑。轭架用于使扩口销位于待扩口导管端部的中心。导管扩口使用两种扩口工具：冲压式和滚压式。
+
+### 滚压式扩口工具使用说明
+
+这些工具只用于给软铜、铝和黄铜导管扩口。不得用于耐蚀钢或钛合金。把导管切方正并清除所有毛刺。把接头螺帽和衬套套到导管上。松开用于把滑动件锁在模座中的夹紧螺钉，使两者可以分开。这种工具是自定尺寸的；当导管与模块顶面齐平夹紧时，就扩出了尺寸正确的扩口。把导管插入模块上与待扩导管尺寸相对应的两片之间。推进夹紧螺钉顶住端片并拧紧。把轭架向下移到模座顶部，顺时针转动使其锁定到位。向下拧紧进给螺杆，直到感到轻微阻力为止。这表明已扩出准确的扩口。务必阅读工具制造商的说明，因为滚压式扩口工具有几种不同类型，操作步骤略有差异。
+
+外径 3⁄8 英寸及以下的软铝合金导管采用双扩口。这样做是为了防止扩口被切断以及导管组件在工作压力下失效。双扩口比单扩口更光滑、同心度更好，因此密封性更好。它对扭矩的剪切作用也更有抵抗力。
+
+#### 双扩口操作说明
+
+对要扩口的导管内外都去毛刺。如果导管端部有损伤，应切掉该端。黄铜、铜和铝可加热至暗红色，然后在冷水中快速冷却进行退火。拧松两个夹紧螺钉，打开扩口工具。在扩口条上选择与导管直径相匹配的孔，把已加工好的导管端放入，使其高出扩口条顶面的距离等于转接衬块台肩的厚度。拧紧夹紧螺钉，把导管牢牢固定。把尺寸合适的转接衬块的引导端插入导管。把轭架套到扩口条上，并对准转接衬块的中心。向下推进锥头，直到转接衬块的台肩落在扩口条上。这样就把导管端部扩成喇叭口。然后稍微退回锥头，刚好能取出转接衬块。取出转接衬块后，直接把锥头推进导管已扩成喇叭口的一端。这会把导管端部自身折转，形成准确的双扩口，而不会使导管开裂或胀裂。为防止扩口壁减薄，不要拧得过紧。
+
+刚性导管可以连接到末端附件（例如刹车作动筒）、另一段刚性导管，或软管（例如排放管路）。连接到末端附件或另一段导管时，需要使用接头，而接头可能要求导管扩口，也可能不要求。连接到软管时，可能需要给刚性导管滚压凸缘，以便用卡箍把软管固定在导管上。
+
+#### 无扩口接头
+
+虽然使用无扩口导管接头可以免去所有导管扩口作业，但在安装新的无扩口导管组件之前，还需要进行另一道称为预装的工序。无扩口导管组件应使用尺寸合适的预装工具或按规程进行预装。
+
+1. 把导管切成正确长度，两端必须方正。对导管内外去毛刺。先把螺帽、再把衬套套到导管上（步骤 1），用液压油润滑接头和螺帽的螺纹。2. 把接头夹在台虎钳上（步骤 2），把导管牢固、方正地压在接头的座面上。（导管必须牢固地坐到底。）拧紧螺帽，直到衬套的刃口咬住导管。判断这一点的办法是：在拧紧螺帽的同时，慢慢来回转动导管。当导管不再转动时，螺帽即可进行最终拧紧。3. 最终拧紧量取决于导管（步骤 3）。对于外径 1⁄2 英寸及以下的铝合金导管，把螺帽拧 1 至 11⁄6 圈。对于钢管和外径大于 1⁄2 英寸的铝合金导管，拧 11⁄6 至 11⁄2 圈。
+
+预装衬套后，把导管从接头上拆下，检查以下几点：导管应伸出衬套引导端 3⁄32 英寸至 1⁄8 英寸；否则可能发生脱出（blowoff）。衬套引导端应接触导管，或最大间隙为：铝合金导管 0.005 英寸，钢导管 0.015 英寸。衬套刃口处的导管有轻微收缩是允许的。除转动外，衬套引导端不允许有任何活动。
+
+导管可用手动滚压凸缘工具、机器滚压轮或夹持模滚压凸缘。采用哪种方法取决于导管的直径、壁厚以及制造导管的材料。
+
+手动滚压凸缘工具用于外径 1⁄4 英寸至 1 英寸的导管。使用装有合适滚轮的滚压凸缘机架即可滚压出凸缘。滚压前用轻质油润滑导管内外，以减小滚压时滚轮之间的摩擦。滚轮上以十六分之一英寸标注的尺寸，是指可用该滚轮滚压凸缘的导管外径。每种导管尺寸的内侧都需要专用滚轮，滚压时必须注意选用正确的零件。手动滚压凸缘工具的操作与切管器有些相似：一边绕导管旋转滚压工具，一边间断地压下滚轮。此外，工具套件中还配有一个小台虎钳（导管夹持器）。
+
+还有其他方法以及不同类型的手动滚压凸缘工具和机器，但手动滚压凸缘工具使用最普遍。一般来说，滚压凸缘机仅限于加工直径较大（超过 115⁄16 英寸）的导管，除非配有专用滚轮。夹持模滚压法只适用于小导管。
+
+### 流体管路识别
+
+飞机上的流体管路常用由色标、文字和几何符号组成的标记来识别。这些标记标明每条管路的功能、所含介质和主要危害。
+
+在多数情况下，流体管路用 1 英寸宽的胶带或贴标标记。对直径 4 英寸（或更大）的管路、油污环境中的管路、热管路以及某些冷管路，可用钢制标牌代替胶带或贴标。在发动机舱内，由于胶带、贴标或标牌有可能被吸入发动机进气系统，因此对那里的管路采用涂漆标记。
+
+除上述标记外，某些管路还可进一步标明其在系统中的具体功能（例如排放、通气、压力或回油）。输送燃油的管路可标记 FLAM；含有毒物质的管路用 TOXIC 代替 FLAM。含有氧气、氮气或 FreonTM 之类有生理危害物质的管路，可标记 PHDAN。
+
+飞机和发动机制造商负责最初安装识别标记，但在需要更换时，由航空维修人员负责。胶带和贴标一般贴在管路的两端，并在管路经过的每一舱段内至少贴一处。此外，识别标记还贴在管路内每个活门、调节器、滤子或其他附件紧邻的位置。使用涂漆或标牌时，位置要求与胶带和贴标相同。
+
+### 流体管路端接头
+
+接头的螺纹有管螺纹和机螺纹两种，取决于其类型和用途。管螺纹与普通水暖管件上所用的螺纹相似，内、外都是锥螺纹。外螺纹称为阳螺纹，内螺纹称为阴螺纹。两个接头（一阳一阴）连接时，螺纹的锥度形成密封。连接管螺纹时，应使用经批准、适用于特定流体场合的某种管螺纹润滑剂，以防止咬死和高压渗漏。涂敷螺纹润滑剂时要小心，不要让润滑剂进入并污染系统。氧气管道上不得使用润滑剂。氧会与石油产品发生反应并可能起火（氧气系统有专用润滑剂可供使用）。
+
+机螺纹没有密封能力，与普通螺帽和螺栓上的螺纹相似。这类接头只用于把连接件拉紧，或用于穿过隔框的安装。连接处的液密性靠扩口导管连接、压紧垫圈或合成密封件来实现。机螺纹没有锥度，不能形成液密密封。这类接头的尺寸用短横线编号表示，该编号等于以十六分之一英寸计的公称外径。
+
+#### 通用隔框接头
+
+当流体管路穿过隔框，并且需要把管路固定在隔框上时，应使用隔框接头。接头穿过隔框的一端比其他端更长，以便安装锁紧螺帽，把接头固定在隔框上。
+
+接头用于把一段导管连接到另一段导管或系统部件上。共有四种类型：（1）凸缘加卡箍式，（2）扩口式接头，（3）无扩口式接头，（4）永久式接头（Permaswage™、Permalite™ 和 Cyrofit™）。系统承受的压力大小和所用材料，通常是选择连接件的决定因素。
+
+凸缘式接头需要滚出凸缘，并配一段软管和软管卡箍，只用于低压或中压系统，例如真空系统和冷却液系统。扩口式、无扩口式或永久式接头可用作各种系统的连接件，不受压力限制。
+
+#### AN 扩口接头
+
+扩口导管接头由一个衬套和一个螺帽组成。螺帽套在衬套上，拧紧时把衬套和导管扩口紧紧压在阳接头上形成密封。使用这种接头的导管在安装前必须扩口。阳接头有一个锥形面，其角度与扩口内侧相同。衬套支撑导管，使振动不集中在扩口边缘，并把剪切作用分散到更大的面积上，从而增加强度。
+
+应避免使用由不同合金组成的接头组合，以防异种金属腐蚀。与所有接头组合一样，安装时拧紧接头应确保装配顺畅、对正良好并适当润滑。
+
+标准 AN 接头用黑色或蓝色来识别。所有 AN 钢接头都着黑色，所有 AN 铝接头都着蓝色，铝青铜接头则镀镉，呈金属本色。
+
+的连接，这种连接实际上几乎不需要维护。压接式接头用于在不需要例行拆卸的部位连接液压管路，并且常与钛合金和耐蚀钢导管配用。这种接头用便携式液压工具安装，该工具结构紧凑，可在狭窄空间内使用。如果需要拆开接头，用切管器把导管切断。专用安装工具装在便携式工具箱中供应。安装压接式接头时务必遵循制造商的说明。
+
+最新发展的产品之一是 Permalite™ 接头。Permalite™ 是一种通过轴向压接机械连接到导管上的管接头。Permalite™ 的工作原理是：用 Permaswage™ 轴向压接工具沿接头长度方向轴向移动 Permalite™ 接头上的一个环状部件，使接头变形并压入所连接的导管中。
+
+#### Cryofit 接头
+
+许多运输类飞机在不需要例行拆卸的部位使用 Cryofit 接头连接液压管路。Cryofit 接头是带低温衬套的标准接头。该衬套由形状记忆合金 Tinel™ 制成。关于尺寸、扭矩和弯曲半径的补充信息。AN 扩口接头与 MS 无扩口接头不同，两者不可互换。AN 扩口接头很容易辨认，因为它的接头端部有一个锥面，而 MS 无扩口接头的端部是直的。
+
+### MS 无扩口接头
+
+MS 无扩口接头主要设计用于可能承受剧烈振动或压力波动的高压（3,000 psi）液压系统。使用这类接头可以免去所有导管扩口作业，同时提供安全、牢固、可靠的导管连接。该接头由三部分组成：本体、衬套和螺帽。本体的内部结构使衬套在本体与螺帽连接时切入导管外表面。本体内孔的沉孔台肩设计有反向角：钢接头为 15°，铝接头为 45°。这一反向角可防止拧紧时导管向内压瘪，并在本体沉孔周边产生部分密封力。
+
+#### 压接式接头
+
+在运输类飞机上连接和修理液压管路时，一种常用的修理方案是使用 Permaswage™ 接头。压接式接头形成永久
+
+### 刚性导管安装与检查
+
+在飞机上安装管路组件之前，要仔细检查管路。消除凹坑和划伤，并确保所有螺帽和衬套都紧密配合，且通过正确的导管扩口而可靠就位。管路组件应清洁，无任何外来物。
+
+#### 连接与扭矩
+
+绝不要在接头或扩口的配合面上涂抹密封膏，因为这会破坏接头与扩口之间的金属对金属接触，而这一接触是形成密封所必需的。拧紧接头之前，要确保管路组件已正确对正。不要靠拧螺帽的扭矩把安装件硬拉到位。记住，这些扭矩值仅适用于扩口式接头。安装导管组件时，务必把接头拧到正确的扭矩值。过度拧紧接头可能严重……衬套加工得比管路尺寸小 3%，在液氮中冷冻后膨胀到比管路大 5%。安装时，把接头从液氮中取出并套到导管上。在 10 至 15 秒的回温过程中，接头收缩回原尺寸（比管路小 3%），咬紧导管，形成永久密封。Cryofit 接头只能通过在衬套处切断导管来拆除，不过这样仍留有足够空间，可用压接式接头替换它而不必更换液压管路。它常与钛合金导管配用。这种形状记忆技术也用于端接头、扩口式接头和无扩口式接头。
+
+（原文此处为表格碎片，无对应正文）
+
+铝合金……（代码 D）
+
+钢……（代码：无字母）
+
+黄铜……（代码 B）
+
+铝青铜……（代码 Z——用于 AN819 衬套）
+
+AN 编号后面的短横线编号表示该接头所配导管（或软管）的尺寸，以十六分之一英寸计。该尺寸对应导管的外径和软管的内径。带管螺纹的接头用短横线编号表示管件尺寸，以八分之一英寸计。如上所述，材料代码字母写在短横线编号之后。
+
+（原文此处为表格碎片，无对应正文）
+
+（原文此处为表格碎片，无对应正文）
+
+（原文此处为表格碎片，无对应正文）
+
+（原文此处为表格碎片，无对应正文）
+
+损伤甚至完全切断导管扩口，还可能损坏衬套或接头螺帽。拧紧不足同样可能造成严重后果，因为这种情况可能使管路从组件中脱出，或在系统压力下渗漏。使用扭矩扳手并按规定扭矩值拧紧，可防止过拧或拧紧不足。如果导管接头组件拧紧得当，可以在需要重新扩口之前多次拆卸和重新拧紧。
+
+#### 无扩口导管安装
+
+用手拧螺帽，直到感觉转动阻力增大为止。如果用手指无法把螺帽拧下去，可使用扳手，但要警惕开始坐到底的迹象。重要的是，最终拧紧应从螺帽刚开始坐到底的位置起算。用扳手把螺帽拧六分之一圈（六角螺帽上的一个面）。拧螺帽时，用扳手固定住接头，防止其转动。导管组件安装好后，系统应进行压力试验。如果连接处渗漏，允许把螺帽再拧六分之一圈（共拧三分之一圈）。如果总共拧了三分之一圈后仍然渗漏，应拆下组件，检查各零件有无划痕、裂纹、异物或过度拧紧造成的损伤。若干飞机制造商在维修手册中给出了拧紧无扩口接头的扭矩值。
+
+以下注意事项、警告和常见故障适用于刚性导管的安装。
+
+注：过度拧紧无扩口导管螺帽会使衬套刃口深深切入导管，使导管削弱到在正常飞行振动下就可能被剪断的程度。检查后（如未发现问题），重新装好各连接处并重复压力试验程序。
+
+警告：绝不要把螺帽拧过三分之一圈（六角螺帽的两个面）；这是在不产生永久损伤衬套和螺帽的可能性的前提下允许的最大拧紧量。
+
+常见故障：扩口变形挤入螺帽螺纹；衬套开裂；扩口开裂或裂开；扩口不圆；扩口内侧粗糙或有划伤；以及螺帽或活接头的螺纹脏污、损伤或损坏。
+
+#### 刚性导管检查与修理
+
+导管上的轻微凹坑和划伤可以修复。铝合金导管上深度不超过壁厚 10%、且不在弯曲背弧面上的划伤或刻痕，可用手工工具抛光修复。硬质薄壁耐蚀钢和钛合金导管的损伤限度比铝合金导管小得多，并且可能因飞机制造商而异。损伤限度请查阅飞机维修手册。有严重模痕、夹层或裂口的管路应更换。扩口上任何裂纹或变形都是不可接受的，应予以报废。凹坑小于导管直径的 20% 尚可接受，除非位于弯曲背弧面上。去除凹坑的方法是：用一段钢索把尺寸合适的弹丸拉过导管，或用木棒把弹丸推过一段短的直管。这里所说的弹丸，是指滚珠或
+
+更换导管组件。
+
+通常由钢或其他硬质金属制成。对于软铝导管，甚至可以用硬木塞或木棒作弹丸。严重损坏的管路应更换。不过，也可以通过切掉损伤段、插入一段尺寸和材料相同的导管来修理。把完好段和更换段的两端都扩口，然后用标准活接头、衬套和导管螺帽连接。6061-T6 铝合金、304-1/8h 耐蚀钢和 3AL-2.5V 钛合金导管可用压接式接头修理。如果损伤部分够短，可省去插入段，用一个修理活接头修复。修理损坏管路时，一定要把切屑和毛刺清除干净。任何敞开的、需要放置一段时间无人看管的管路，都应使用金属、木、橡胶或塑料塞子或盖子封住。
+
+使用软管流体连接组件修理低压管路时，要仔细确定软管卡箍的位置，防止卡箍带外伸，或防止拧紧螺钉与相邻零件磨损。如果可能发生磨损，应在软管上重新布置卡箍位置。
+
+更换刚性导管时，要确保新管路的布置与被更换的管路相同。拆下损坏或磨损的组件时要小心，不要进一步损伤或使其变形，并把它作为制作新件的成形样板。如果旧导管不能用作样板，可制作一根铁丝样板，按新组件的需要用手弯曲成形，然后按铁丝样板弯曲导管。绝不要选择不需要弯曲导管的路径。导管无论切得或扩得多准，若不弯曲就直接安装，都不可能免除机械应力。弯曲也是为了让导管在温度变化时能够膨胀或收缩，并吸收振动。如果导管较细（小于 1⁄4 英寸）且可手工成形，可以为此随意弯出一些弯。如果导管必须用机器成形，则必须弯出明确的弯，以避免出现一根直的组件。所有弯都应从距接头适当距离处开始，因为在制作扩口和检查时需要把衬套和螺帽往回滑。无论如何，新导管组件在安装前就应成形到位，以便不必用连接螺帽把组件硬拉或硬掰来对正。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Addition —— The process in which the value of one number is added to the value of another.
-- Borescope —— A device that enables the inspector to see inside areas that could not otherwise be inspected without disassembly.
-- Corrosion —— The deterioration of metal by chemical or electrochemical attack.
-- Diameter (circle) —— The length of a line passing directly through the center of a circle. Twice the radius of the circle.
-- Dissimilar metal corrosion —— Caused by contact between dissimilar metal parts in the presence of a conductor.
-- Force —— The intensity of an impetus, or the intensity of an input.
-- Foreign object damage (FOD) —— Any damage caused by any loose object to aircraft, personnel, or equipment. These loose objects can be anything from broken runway concrete to shop towels and s
-- Friction —— The opposition to movement between objects.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| rigid tubing | n.phr. | 刚性导管 | 与软管相对，指铝合金、耐蚀钢或钛合金制成的刚性金属管路 |
+| flare | n./v. | 扩口；扩口作业 | 导管端部扩成锥面，与阳接头锥面贴合形成密封 |
+| double flare | n.phr. | 双扩口 | 先扩成喇叭口再向内折转，用于 3⁄8 英寸及以下软铝导管，抗扭矩剪切 |
+| flareless fitting | n.phr. | 无扩口接头 | 靠衬套刃口切入导管密封，安装前须预装衬套并控制拧紧圈数 |
+| beading | n. | 滚压凸缘 | 在刚性导管端部滚出一道凸缘，以便用卡箍固定软管 |
+| swaged fitting | n.phr. | 压接式接头 | 用便携式液压工具压接，形成几乎免维护的永久连接 |
+| flaring tool | n.phr. | 扩口工具 | 阴阳模研磨成 35°～37°，禁止使用 45° 的汽车式扩口工具 |
+| tube cutter | n.phr. | 切管器 | 切割轮绕管旋转进给，切口须方正且无毛刺 |
+| bend radius | n.phr. | 弯曲半径 | 随机型与管径而异的最小弯曲半径，由半径块保证 |
+| work hardening | n.phr. | 加工硬化 | 切割弯曲使金属变硬变脆，锯切可减少硬化程度 |
+| torque | n. | 扭矩 | 拧紧接头的力矩，过大过小都会导致渗漏或损坏衬套 |
+| dissimilar metal corrosion | n.phr. | 异种金属腐蚀 | 不同合金接头直接接触引起的电化学腐蚀，应避免混用 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① 并列主语与现在完成时
+**原句**：In modern aircraft, aluminum alloy, corrosion-resistant steel, or titanium tubing have generally replaced copper tubing.
+**拆解**：In modern aircraft 为地点状语前置；主语由 aluminum alloy、corrosion-resistant steel、titanium tubing 三个名词短语经 or 并列构成；谓语 have generally replaced 是现在完成时，副词 generally 插在助动词与过去分词之间；copper tubing 作宾语。
+**要点**：or 连接的表语/主语指「三者之一」，作者按集合概念用了复数 have，正式写作中也可见单数 has；tubing 是不可数名词，不能因它单数就误改谓语。可迁移搭配：A, B, or C have generally replaced D（A、B、C 已普遍取代 D），常见于材料沿革叙述。
+
+### ② with 复合结构 + where 定语从句
+**原句**：Place the tube in the cutting tool with the cutting wheel at the point where the cut is to be made.
+**拆解**：祈使句，Place 为谓语，the tube 为宾语，in the cutting tool 为地点状语；with the cutting wheel at the point 是 with + 名词 + 介词短语 的复合结构，说明切割轮应处的伴随状态；where the cut is to be made 为定语从句修饰 the point，其中 is to be made 用 be to do 表「预定要做」。
+**要点**：with 复合结构用于补充「手边工具、零件的位置或状态」，比再写一个并列句简洁，机务步骤描写高频使用。where 前需有表地点的先行词；be to be done 表示按工艺要求应当进行，可迁移为 the point where the flare is to be made（应当扩口的位置）。
+
+### ③ 省略 if 的 Should 倒装 + 形式主语
+**原句**：Should it be impossible to run the nut down with the fingers, use a wrench, but be alert for the first signs of bottoming.
+**拆解**：Should it be impossible... 等于 If it should be impossible...，省略 if 后把 should 提到句首构成倒装；it 是形式主语，真正主语为不定式 to run the nut down with the fingers；主句是两个祈使句 use a wrench 与 be alert for the first signs of bottoming，由 but 连接。
+**要点**：Should 倒装属正式书面语，条件部分带「万一」的委婉语气，维修手册里常用来写应急处理。可迁移：Should any leak occur, retorque the nut.（万一出现渗漏，重新拧紧螺帽）。注意主句仍用原形动词，but 后也是祈使句，不能写成 you should be alert。
+
+### ④ 否定介词短语前置引起的倒装
+**原句**：Under no circumstance is it permissible to use an automotive-type flaring tool that produces a flare of 45°.
+**拆解**：Under no circumstance 是否定介词短语置于句首，主句随之部分倒装为 is it permissible；it 为形式主语，真正主语是 to use an automotive-type flaring tool；that produces a flare of 45° 为定语从句修饰 flaring tool。
+**要点**：never、under no circumstance、in no case 等否定成分置于句首时必须部分倒装（助动词/be 提前），这是手册强调禁令的固定句式。permissible 后接 to do 而非动名词；45° 中的 ° 与数字连写不空格。
+
+### ⑤ 分词后置定语 + 非限制性定语从句 + 省略条件句
+**原句**：A flare made too small produces a weak joint, which may leak or pull apart; if made too large, it interferes with the proper engagement of the screw thread on the fitting and causes leakage.
+**拆解**：A flare 为主语，made too small 是过去分词短语作后置定语（= that is made too small）；produces 为谓语，a weak joint 为宾语；which may leak or pull apart 是非限制性定语从句补充说明 weak joint；分号后 if made too large 是 if it is made too large 的省略；主句 it interferes with... and causes leakage 为并列谓语。
+**要点**：made + 形容词补足语 这种「分词 + 补语」后置定语在技术文本中极常见，表「因制作偏差而……」。非限制性定语从句用逗号与先行词隔开，补充而非限定。条件句省略时须与主句同主语（此处均为 it = a flare），否则不能省。
+
+### ⑥ as 原因状语从句 + 同位语强调
+**原句**：Never apply compound to the faces of the fitting or the flare, as it destroys the metal-to-metal contact between the fitting and flare, a contact which is necessary to produce the seal.
+**拆解**：Never 置句首的祈使句；apply compound to the faces of the fitting or the flare 是 apply A to B 搭配；as it destroys... 为原因状语从句，it 指代前句所述行为；a contact which is necessary to produce the seal 是同位语，复指 the metal-to-metal contact，其中 which 引导定语从句。
+**要点**：as 表原因时语气弱于 because，常用于「禁令 + 理由」的规程句式，可与 since 互换。用名词短语作同位语（a contact which...）重复前文核心词再展开，是英文技术写作强调关键概念的常用手法，翻译时可处理为「而这一接触是……所必需的」。

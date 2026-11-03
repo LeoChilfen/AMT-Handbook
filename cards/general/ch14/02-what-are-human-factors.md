@@ -4,13 +4,13 @@
 
 ## 1. 原文
 
-The term “human factors” has grown increasingly popular as the commercial aviation industry realizes that human error, rather than mechanical failure, underlies most aviation accidents and incidents. Human factors science or technologies are multidisciplinary fields incorporating contributions from psychology, engineering, industrial design, statistics, operations research, and anthropometry. It is a term that covers the science of understanding the properties of human capability, the application of this understanding to the design, development, and deployment of systems and services, and the art of ensuring successful application of human factor principles into the maintenance working environment. The spectrum of human factors that can affect aviation maintenance and work performance is broad. They encompass a wide range of challenges that influence people very differently as humans do not all have the same capabilities, strengths, weaknesses, or limitations. Unfortunately, aviation maintenance tasks that do not take into account the vast amount of human limitations can result in technical error and injuries. Figure 14-5 shows some of the human factors that affect AMTs. Some are more serious than others but, in most cases, when you combine three or four of the factors, they create a problem that contributes to an accident or incident.
+The term “human factors” has grown increasingly popular as the commercial aviation industry realizes that human error, rather than mechanical failure, underlies most aviation accidents and incidents. Human factors science or technologies are multidisciplinary fields incorporating contributions from psychology, engineering, industrial design, statistics, operations research, and anthropometry. It is a term that covers the science of understanding the properties of human capability, the application of this understanding to the design, development, and deployment of systems and services, and the art of ensuring successful application of human factor principles into the maintenance working environment. The spectrum of human factors that can affect aviation maintenance and work performance is broad. They encompass a wide range of challenges that influence people very differently as humans do not all have the same capabilities, strengths, weaknesses, or limitations. Unfortunately, aviation maintenance tasks that do not take into account the vast amount of human limitations can result in technical error and injuries. Some are more serious than others but, in most cases, when you combine three or four of the factors, they create a problem that contributes to an accident or incident.
 
 ### Elements of Human Factors
 
-Human factors are comprised of many disciplines. This section discusses ten of those disciplines: Clinical Psychology, Experimental Psychology, Anthropometrics, Computer Science, Cognitive Science, Safety Engineering, Medical Science, Organizational Psychology, Educational Psychology, and Industrial Engineering. [Figure 14-6] The study and application of human factors is complex because there is not just one simple answer to fix or change how people are affected by certain conditions or situations. The overall goal of aviation maintenance human factors research is to identify and optimize the factors that affect human performance in maintenance and inspection.
+Human factors are comprised of many disciplines. This section discusses ten of those disciplines: Clinical Psychology, Experimental Psychology, Anthropometrics, Computer Science, Cognitive Science, Safety Engineering, Medical Science, Organizational Psychology, Educational Psychology, and Industrial Engineering. The study and application of human factors is complex because there is not just one simple answer to fix or change how people are affected by certain conditions or situations. The overall goal of aviation maintenance human factors research is to identify and optimize the factors that affect human performance in maintenance and inspection.
 
-important to aviation maintenance. Human Capabilities Human Capabilities Human Limitations Environmental Conditions Environmental Conditions Human-Machine Interface Human-Machine Interface Human Factors Human Factors Mental State Mental State Physical State Physical State Emotional State Emotional State The focus initiates on the technician but extends to the entire engineering and technical organization. Research is optimized by incorporating the many disciplines that affect human factors in an effort to understand how people can work more efficiently and maintain work performance.
+important to aviation maintenance. The focus initiates on the technician but extends to the entire engineering and technical organization. Research is optimized by incorporating the many disciplines that affect human factors in an effort to understand how people can work more efficiently and maintain work performance.
 
 By understanding each of the disciplines and applying them to different situations or human behaviors, we can correctly recognize potential human factors and address them before they develop into a problem or create a chain of problems that result in an accident or incident.
 
@@ -42,7 +42,7 @@ Medicine is the science and art of healing. It encompasses a variety of health c
 
 Psychology Organizational psychologists are concerned with relations between people and work. Their interests include organizational structure and organizational change, workers’ productivity and job satisfaction, consumer behavior, and the selection, placement, training, and development of personnel. Understanding organizational psychology helps aviation maintenance supervisors learn about the points listed below that, if exercised, can enhance the work environment and productivity.
 
-• Rewards and compensations for workers with good Fatigue Boring repetitive jobs Incomplete or incorrect documentation Lack of spare parts Lack of tools and equipment Poor training Smelly fumes Personal life problems Substance abuse Loud noises Snow Unrealistic deadlines Poorly designed testing for skill and knowledge Slippery floors Poor communication Poor instructions Poor tool control safety records.
+• Rewards and compensations for workers with good safety records.
 
 • Motivation for workers to want to do well and work safely.
 
@@ -58,29 +58,106 @@ Educational psychologists study how people learn and design the methods and mate
 
 Industrial engineering is the organized approach to the study of work. It is important for supervisors to set reasonable work standards that can be met and exceeded. Unrealistic work standards create unnecessary stressors that cause mistakes. It is also beneficial to have an efficient facility layout so that there is room to work. Clean and uncluttered environments enhance work performance. Another aspect of industrial engineering that helps in the understanding of human factors is the statistical analysis of work performance. Concrete data of work performance, whether good or bad, can show the contributing factors that may have been present when the work was done.
 
-Cognitive Science Organization Psychology 0 10 20 30 Not Complex Flight Exercise Caution Area of Concern Endangerment Low Risk Educational Psychology Safety Engineering Medical Science Computer Science Anthropometric Science Experimental Psychology Clinical Psychology Industrial Engineering Human Factors are required to read back instructions or clearances given by air traffic control (ATC) to ensure that the pilot receives the correct instructions and gives ATC an opportunity to correct if the information is wrong. Frank and Lillian Gilbreth also are known for their research on fatigue. Also in the early 1900s, Orville and Wilbur Wright were the first to fly a powered aircraft and also pioneered many human factors considerations. While others were trying to develop aircraft with a high degree of aerodynamic stability, the Wrights intentionally designed unstable aircraft with cerebralized control modeled after the flight of birds. Between 1901 and 1903, the brothers worked with large gliders at Kill Devil Hills, near Kitty Hawk, North Carolina, to develop the first practical human interactive controls for aircraft pitch, roll, and yaw. On December 17, 1903, they made four controlled powered flights over the dunes at Kitty Hawk with their Wright Flyer. [Figure 14-11] They later developed practical in-flight control of engine power, plus an angle of attack sensor and stick pusher that reduced pilot workload. The brothers’ flight demonstrations in the United States and Europe during 1908-1909 awakened the world to the new age of controlled flight. Orville was the first aviator to use a seat belt and also introduced a rudder boost/ trim control that gave the pilot greater control authority. The Wrights’ flight training school in Dayton, Ohio included a flight simulator of their own design. The Wrights patented
+Human Factors are required to read back instructions or clearances given by air traffic control (ATC) to ensure that the pilot receives the correct instructions and gives ATC an opportunity to correct if the information is wrong. Frank and Lillian Gilbreth also are known for their research on fatigue. Also in the early 1900s, Orville and Wilbur Wright were the first to fly a powered aircraft and also pioneered many human factors considerations. While others were trying to develop aircraft with a high degree of aerodynamic stability, the Wrights intentionally designed unstable aircraft with cerebralized control modeled after the flight of birds. Between 1901 and 1903, the brothers worked with large gliders at Kill Devil Hills, near Kitty Hawk, North Carolina, to develop the first practical human interactive controls for aircraft pitch, roll, and yaw. On December 17, 1903, they made four controlled powered flights over the dunes at Kitty Hawk with their Wright Flyer. They later developed practical in-flight control of engine power, plus an angle of attack sensor and stick pusher that reduced pilot workload. The brothers’ flight demonstrations in the United States and Europe during 1908-1909 awakened the world to the new age of controlled flight. Orville was the first aviator to use a seat belt and also introduced a rudder boost/ trim control that gave the pilot greater control authority. The Wrights’ flight training school in Dayton, Ohio included a flight simulator of their own design. The Wrights patented
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（28 段）。专业术语按行业惯例，数字与缩写保留。 -->
+随着商业航空业认识到，大多数航空事故和事件的根本原因是人为差错而非机械故障，「人为因素」这一术语日益流行。人为因素科学或技术是多学科领域，汇集了心理学、工程学、工业设计、统计学、运筹学和人体测量学的贡献。这一术语涵盖：理解人的能力特性的科学，将这种理解应用于系统与服务的设计、开发和部署，以及确保人为因素原则成功应用于维修工作环境的艺术。可能影响航空维修和工作绩效的人为因素范围很广。它们包含各种各样的挑战，这些挑战对人的影响差异很大，因为人的能力、优势、弱点和局限各不相同。不幸的是，不考虑大量人的局限的航空维修任务可能导致技术差错和伤害。其中一些比其他更严重，但在多数情况下，当三四种因素叠加时，就会产生导致事故或事件的问题。
+
+### 人为因素的要素
+
+人为因素由许多学科构成。本节讨论其中十个学科：临床心理学、实验心理学、人体测量学、计算机科学、认知科学、安全工程、医学、组织心理学、教育心理学和工业工程。人为因素的研究与应用很复杂，因为要解决或改变人如何受某些状况或情境影响，并不存在单一简单的答案。航空维修人为因素研究的总体目标，是识别并优化影响维修与检查中人的绩效的因素。
+
+这些学科对航空维修很重要。重点首先放在技术员身上，但会扩展到整个工程与技术组织。研究通过纳入影响人为因素的众多学科而得到优化，以理解人们如何能更高效地工作并保持工作绩效。
+
+通过理解每一个学科并将其应用于不同情境或人的行为，我们就能正确识别潜在的人为因素，并在它们发展成问题或形成导致事故或事件的问题链之前加以处理。
+
+#### 临床心理学
+
+临床心理学包括为理解、预防和缓解心理困扰或功能障碍，并促进主观幸福感和个人发展而进行的心理学研究与应用。它关注个体的心理健康。临床心理学可以帮助个体应对应激、应对不利处境的机制、不良自我形象，以及接受同事的批评。
+
+#### 实验心理学
+
+实验心理学包括对多种基本行为过程的研究，通常在实验室环境中进行。这些过程可能包括学习、感觉、知觉、人的绩效、动机、记忆、语言、思维和沟通，以及行为背后的生理过程，如进食、阅读和问题解决。为检验工作政策与程序的效率，实验研究有助于测量绩效、生产率和缺陷。
+
+人体测量学是研究人体尺寸与能力的学科。由于 AMT 必须面对的工作环境和空间，这门学科对航空维修至关重要。例如，一名身高 6 英尺 3 英寸、体重 230 磅的男子可能被要求钻入飞机狭小的爬行空间进行修理。另一个例子是设备和工具的尺寸与重量。男性和女性通常处于身高和体重的两个不同区间。尽管两者都能以很高的熟练程度完成同样的任务，但体型较小的人使用为其尺寸定制的工具和设备时可能效率更高。换言之，一种尺寸并不适合所有人，在雇用如此多样化的人群时，「普通人」这一说法并不适用。
+
+#### 计算机科学
+
+计算机科学的技术定义是研究信息与计算的理论基础，以及它们在计算机系统中实现与应用的实际技术。但它与航空维修的关系解释起来更简单。如前所述，AMT 花在记录维修上的时间与执行维修的时间一样多。他们拥有舒适可靠的计算机工作站很重要。软件程序和基于计算机的测试设备应易于学习、易于使用，而不应只针对计算机素养很高的人。
+
+#### 认知科学
+
+认知科学是把心智视为信息处理器的跨学科科学研究。它包括研究信息如何在神经系统或机器（如计算机）中被处理（在知觉、语言、推理和情绪等官能中）、表征和转换。它跨越从低层学习与决策机制到高层逻辑与规划的许多分析层次。AMT 必须具备快速高效解决问题的能力。他们经常需要排查故障并迅速做出反应。这可能形成恶性循环，产生巨大的应激。认知科学这一学科有助于我们理解如何在高应激情境中更好地帮助 AMT，使其思维过程不被打断、不影响工作能力。
+
+#### 安全工程
+
+安全工程确保生命攸关系统在部件失效时仍能按需工作。理想情况下，安全工程师在系统早期设计中进行分析，找出可能发生的故障，然后在设计规范中预先提出安全要求，并对现有系统提出改进，使系统更安全。就航空维修而言，安全怎么强调都不为过，每个人都应当拥有安全的工作环境。安全工程在航空维修设施、有毒材料储存容器、重物起吊设备以及防止人员滑倒、绊倒或跌落的地面设计等方面发挥着重要作用。在工业工作环境中，职业安全与健康管理局（OSHA）的指南很重要。
+
+#### 医学
+
+医学是治疗的科学与艺术。它涵盖各种医疗保健实践，这些实践通过预防和治疗疾病来维持和恢复健康。性情与身体健康非常重要，且与人为因素直接相关。正如人的体型各不相同，由于身体生理、身体结构和生物力学，他们对情境的反应也差异很大。
+
+组织心理学 组织心理学家关注人与工作之间的关系。他们的兴趣包括组织结构与组织变革、工人的生产率与工作满意度、消费者行为，以及人员的选拔、安置、培训和发展。理解组织心理学有助于航空维修主管了解下面列出的要点，这些要点若得到实行，可以改善工作环境和生产率。
+
+• 对安全记录良好的工人给予奖励和补偿。
+
+• 激励工人愿意做好工作并安全地工作。
+
+• 统一工作团队和小组，使他们相处融洽、共同把工作做好。
+
+• 平等对待所有工人。
+
+#### 教育心理学
+
+教育心理学家研究人们如何学习，并设计用于教育各年龄段人群的方法和材料。每个人的学习方式不同，速度也不同。主管应设计与多种学习风格相关的教学模块。
+
+#### 工业工程
+
+工业工程是研究工作的一种有组织的方法。对主管而言，重要的是设定合理、可以达到并可超越的工作标准。不切实际的工作标准会产生不必要的应激源，从而导致失误。拥有高效的设施布局、使工作有足够空间，也是有益的。清洁、整洁的环境能提高工作绩效。工业工程中另一个有助于理解人为因素的方面，是对工作绩效的统计分析。工作绩效的具体数据，无论好坏，都能显示完成工作时可能存在的促成因素。
+
+人为因素要求复诵空中交通管制（ATC）给出的指令或许可，以确保飞行员收到正确指令，并在信息有误时给 ATC 一个纠正的机会。Frank 和 Lillian Gilbreth 也以其疲劳研究而闻名。同样在 20 世纪初，Orville 和 Wilbur Wright 首次驾驶动力飞机飞行，并开创了许多人为因素方面的考虑。当其他人试图研制具有高度气动稳定性的飞机时，莱特兄弟有意设计了不稳定、采用大脑化操纵（cerebralized control）、模仿鸟类飞行的飞机。1901 年至 1903 年间，兄弟二人与大型滑翔机在北卡罗来纳州基蒂霍克附近的 Kill Devil Hills 进行试验，研制出首个实用的、人机交互的飞机俯仰、滚转和偏航操纵装置。1903 年 12 月 17 日，他们驾驶「飞行者」号在基蒂霍克沙丘上空完成了四次受控动力飞行。他们后来还研制了实用的发动机功率飞行控制，以及降低飞行员工作负荷的迎角传感器和推杆器。1908—1909 年兄弟俩在美国和欧洲的飞行演示，唤醒了世界对受控飞行新时代的认识。Orville 是第一位使用安全带的飞行员，还引入了方向舵助力/配平控制，赋予飞行员更大的操纵权限。莱特兄弟在俄亥俄州代顿的飞行训练学校包含一架他们自己设计的飞行模拟器。莱特兄弟为此申请了专利。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Maintenance —— This includes inspection, overhaul, repair, preservation, and the replacement of parts, but excludes preventive maintenance.
-- Pitch (aircraft maneuver) —— Rotation of an aircraft about its lateral axis. Pitch (rivet layout dimension). The distance between the centers of adjacent rivets installed in the same row. P
-- Power (exponent) —— A shorthand method of indicating how many times a number, called the base, is multiplied by itself. For example, in the number 43, 3 is the power, or exponent, 
-- Power —— Power is the time rate at which work is done or energy is transferred.
-- Repair —— The restoration of an aircraft component to its previous state.
-- Stress —— The internal resistance of an object to external forces attempting to strain or deform that object. Measured in pounds per square foot or pounds per square inch
-- Weight —— A measure of the pull of gravity acting on the mass of an object.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| human factors | n. | 人为因素 | 影响航空维修人员绩效的各类要素 |
+| multidisciplinary | adj. | 多学科的 | 人为因素科学汇集心理学、工程学等学科 |
+| anthropometry | n. | 人体测量学 | 研究人体尺寸与能力，关系维修空间与工具 |
+| clinical psychology | n. | 临床心理学 | 关注个体心理健康与应激应对 |
+| experimental psychology | n. | 实验心理学 | 在实验室研究学习、知觉等基本行为过程 |
+| cognitive science | n. | 认知科学 | 把心智视为信息处理器的跨学科研究 |
+| safety engineering | n. | 安全工程 | 确保生命攸关系统失效时仍按需工作 |
+| organizational psychology | n. | 组织心理学 | 研究人与工作、团队与激励的关系 |
+| educational psychology | n. | 教育心理学 | 研究学习方式并设计教学材料 |
+| industrial engineering | n. | 工业工程 | 研究工作组织、标准与设施布局 |
+| stressor | n. | 应激源 | 不切实际的工作标准会造成不必要的应激源 |
+| performance | n. | 绩效 | 本节反复讨论的人的工作表现与效率 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① as 引导的原因状语从句与 rather than
+**原句**：The term “human factors” has grown increasingly popular as the commercial aviation industry realizes that human error, rather than mechanical failure, underlies most aviation accidents and incidents.
+**拆解**：主句为 The term “human factors” has grown increasingly popular；as 引导原因状语从句，realizes 后接 that 宾语从句；rather than mechanical failure 是插入的对比成分，underlies 为从句谓语。
+**要点**：as 在此相当于 because；rather than 连接两个并列名词，强调取前者舍后者；underlie 意为「是……的根源」，主语 human error 为单数，故用 underlies。
+
+### ② 现在分词短语作后置定语
+**原句**：Human factors science or technologies are multidisciplinary fields incorporating contributions from psychology, engineering, industrial design, statistics, operations research, and anthropometry.
+**拆解**：主干为 Human factors science or technologies are multidisciplinary fields；incorporating… 为现在分词短语，修饰 fields。
+**要点**：incorporating 相当于 which incorporate，分词短语作定语使句子紧凑；from 后并列六个学科名词，翻译时可保留并列。
+
+### ③ that 引导的定语从句与 result in
+**原句**：Unfortunately, aviation maintenance tasks that do not take into account the vast amount of human limitations can result in technical error and injuries.
+**拆解**：主语 aviation maintenance tasks 后接 that 定语从句，谓语为 can result in，宾语为 technical error and injuries。
+**要点**：take into account 意为「考虑到」，宾语是 the vast amount of human limitations；result in 表示「导致」，勿与 result from（由……造成）混淆。
+
+### ④ ensure that 宾语从句与 even when 让步
+**原句**：Safety engineering ensures that a life-critical system behaves as needed even when the component fails.
+**拆解**：主干 Safety engineering ensures that…；that 从句主语 a life-critical system，谓语 behaves，as needed 为方式状语；even when 引导让步状语从句。
+**要点**：as needed 是「按需要」的固定表达；even when 比 even if 更强调「即使在实际发生……的时候」。
+
+### ⑤ when + 动名词的状语与 apply
+**原句**：In other words, one size does not fit all and the term “average person” does not apply when employing such a diverse group of people.
+**拆解**：由 and 连接两个并列分句；第二分句主干 the term “average person” does not apply，when employing… 为时间状语。
+**要点**：when employing 是 when one employs 的省略形式，动名词的逻辑主语与主句主语一致时常用此结构；apply 在此意为「适用」。
