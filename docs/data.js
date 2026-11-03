@@ -2013,5 +2013,492 @@ window.AMT_CARDS = [
     "file": "07-fuel-servicing-of-aircraft.md"
    }
   ]
+ },
+ {
+  "chapter": "general-ch02",
+  "book": "general",
+  "bookEn": "General",
+  "bookZh": "通用",
+  "num": "02",
+  "titleEn": "Regulations, Maintenance Forms, Records, & Publications",
+  "count": 10,
+  "cards": [
+   {
+    "slug": "general-ch02-01",
+    "seq": "01",
+    "title": "Overview — Title 14 of the Code of Federal",
+    "file": "01-overview-title-14-of-the-code-of-federal-regulations-14-cfr.md"
+   },
+   {
+    "slug": "general-ch02-02",
+    "seq": "02",
+    "title": "Explanation of Primary Regulations (Parts 43 and 91)",
+    "file": "02-explanation-of-primary-regulations-parts-43-and-91.md"
+   },
+   {
+    "slug": "general-ch02-03",
+    "seq": "03",
+    "title": "Civil Air Regulations (CAR)",
+    "file": "03-civil-air-regulations-car.md"
+   },
+   {
+    "slug": "general-ch02-04",
+    "seq": "04",
+    "title": "Suspected Unapproved Parts (SUP)",
+    "file": "04-suspected-unapproved-parts-sup.md"
+   },
+   {
+    "slug": "general-ch02-05",
+    "seq": "05",
+    "title": "Other FAA Documents",
+    "file": "05-other-faa-documents.md"
+   },
+   {
+    "slug": "general-ch02-06",
+    "seq": "06",
+    "title": "FAA Handbooks & Manuals",
+    "file": "06-faa-handbooks-and-manuals.md"
+   },
+   {
+    "slug": "general-ch02-07",
+    "seq": "07",
+    "title": "Non-FAA Documents",
+    "file": "07-non-faa-documents.md"
+   },
+   {
+    "slug": "general-ch02-08",
+    "seq": "08",
+    "title": "Forms",
+    "file": "08-forms.md"
+   },
+   {
+    "slug": "general-ch02-09",
+    "seq": "09",
+    "title": "Records",
+    "file": "09-records.md"
+   },
+   {
+    "slug": "general-ch02-10",
+    "seq": "10",
+    "title": "Light Sport Aircraft (LSA)",
+    "file": "10-light-sport-aircraft-lsa.md"
+   }
+  ]
+ },
+ {
+  "chapter": "general-ch03",
+  "book": "general",
+  "bookEn": "General",
+  "bookZh": "通用",
+  "num": "03",
+  "titleEn": "Mathematics in Aviation Maintenance",
+  "count": 19,
+  "cards": [
+   {
+    "slug": "general-ch03-01",
+    "seq": "01",
+    "title": "Introduction",
+    "file": "01-introduction.md"
+   },
+   {
+    "slug": "general-ch03-02",
+    "seq": "02",
+    "title": "Whole Numbers",
+    "file": "02-whole-numbers.md"
+   },
+   {
+    "slug": "general-ch03-03",
+    "seq": "03",
+    "title": "Fractions",
+    "file": "03-fractions.md"
+   },
+   {
+    "slug": "general-ch03-04",
+    "seq": "04",
+    "title": "Mixed Numbers",
+    "file": "04-mixed-numbers.md"
+   },
+   {
+    "slug": "general-ch03-05",
+    "seq": "05",
+    "title": "The Decimal Number System",
+    "file": "05-the-decimal-number-system.md"
+   },
+   {
+    "slug": "general-ch03-06",
+    "seq": "06",
+    "title": "Ratio",
+    "file": "06-ratio.md"
+   },
+   {
+    "slug": "general-ch03-07",
+    "seq": "07",
+    "title": "Proportion",
+    "file": "07-proportion.md"
+   },
+   {
+    "slug": "general-ch03-08",
+    "seq": "08",
+    "title": "Percentage",
+    "file": "08-percentage.md"
+   },
+   {
+    "slug": "general-ch03-09",
+    "seq": "09",
+    "title": "Positive & Negative Numbers (Signed Numbers)",
+    "file": "09-positive-and-negative-numbers-signed-numbers.md"
+   },
+   {
+    "slug": "general-ch03-10",
+    "seq": "10",
+    "title": "Powers",
+    "file": "10-powers.md"
+   },
+   {
+    "slug": "general-ch03-11",
+    "seq": "11",
+    "title": "Functions of Numbers Chart",
+    "file": "11-functions-of-numbers-chart.md"
+   },
+   {
+    "slug": "general-ch03-12",
+    "seq": "12",
+    "title": "Scientific Notation",
+    "file": "12-scientific-notation.md"
+   },
+   {
+    "slug": "general-ch03-13",
+    "seq": "13",
+    "title": "Algebra",
+    "file": "13-algebra.md"
+   },
+   {
+    "slug": "general-ch03-14",
+    "seq": "14",
+    "title": "Computing Area of Two-Dimensional Solids",
+    "file": "14-computing-area-of-two-dimensional-solids.md"
+   },
+   {
+    "slug": "general-ch03-15",
+    "seq": "15",
+    "title": "Computing Volume of Three-Dimensional Solids",
+    "file": "15-computing-volume-of-three-dimensional-solids.md"
+   },
+   {
+    "slug": "general-ch03-16",
+    "seq": "16",
+    "title": "Computing Surface Area of Three-Dimensional Solids",
+    "file": "16-computing-surface-area-of-three-dimensional-solids.md"
+   },
+   {
+    "slug": "general-ch03-17",
+    "seq": "17",
+    "title": "Trigonometric Functions",
+    "file": "17-trigonometric-functions.md"
+   },
+   {
+    "slug": "general-ch03-18",
+    "seq": "18",
+    "title": "Measurement Systems",
+    "file": "18-measurement-systems.md"
+   },
+   {
+    "slug": "general-ch03-19",
+    "seq": "19",
+    "title": "The Binary Number System",
+    "file": "19-the-binary-number-system.md"
+   }
+  ]
+ },
+ {
+  "chapter": "general-ch04",
+  "book": "general",
+  "bookEn": "General",
+  "bookZh": "通用",
+  "num": "04",
+  "titleEn": "Aircraft Drawings",
+  "count": 19,
+  "cards": [
+   {
+    "slug": "general-ch04-01",
+    "seq": "01",
+    "title": "Introduction",
+    "file": "01-introduction.md"
+   },
+   {
+    "slug": "general-ch04-02",
+    "seq": "02",
+    "title": "Computer Graphics",
+    "file": "02-computer-graphics.md"
+   },
+   {
+    "slug": "general-ch04-03",
+    "seq": "03",
+    "title": "Purpose & Function of Aircraft Drawings",
+    "file": "03-purpose-and-function-of-aircraft-drawings.md"
+   },
+   {
+    "slug": "general-ch04-04",
+    "seq": "04",
+    "title": "Care & Use of Drawings",
+    "file": "04-care-and-use-of-drawings.md"
+   },
+   {
+    "slug": "general-ch04-05",
+    "seq": "05",
+    "title": "Types of Drawings",
+    "file": "05-types-of-drawings.md"
+   },
+   {
+    "slug": "general-ch04-06",
+    "seq": "06",
+    "title": "Title Blocks",
+    "file": "06-title-blocks.md"
+   },
+   {
+    "slug": "general-ch04-07",
+    "seq": "07",
+    "title": "Universal Numbering System",
+    "file": "07-universal-numbering-system.md"
+   },
+   {
+    "slug": "general-ch04-08",
+    "seq": "08",
+    "title": "Drawing Standards",
+    "file": "08-drawing-standards.md"
+   },
+   {
+    "slug": "general-ch04-09",
+    "seq": "09",
+    "title": "Bill of Material",
+    "file": "09-bill-of-material.md"
+   },
+   {
+    "slug": "general-ch04-10",
+    "seq": "10",
+    "title": "Other Drawing Data",
+    "file": "10-other-drawing-data.md"
+   },
+   {
+    "slug": "general-ch04-11",
+    "seq": "11",
+    "title": "Methods of Illustration",
+    "file": "11-methods-of-illustration.md"
+   },
+   {
+    "slug": "general-ch04-12",
+    "seq": "12",
+    "title": "Lines and Their Meanings",
+    "file": "12-lines-and-their-meanings.md"
+   },
+   {
+    "slug": "general-ch04-13",
+    "seq": "13",
+    "title": "Drawing Symbols",
+    "file": "13-drawing-symbols.md"
+   },
+   {
+    "slug": "general-ch04-14",
+    "seq": "14",
+    "title": "Reading and Interpreting Drawings",
+    "file": "14-reading-and-interpreting-drawings.md"
+   },
+   {
+    "slug": "general-ch04-15",
+    "seq": "15",
+    "title": "Drawing Sketches",
+    "file": "15-drawing-sketches.md"
+   },
+   {
+    "slug": "general-ch04-16",
+    "seq": "16",
+    "title": "Care of Drafting Instruments",
+    "file": "16-care-of-drafting-instruments.md"
+   },
+   {
+    "slug": "general-ch04-17",
+    "seq": "17",
+    "title": "Graphs & Charts",
+    "file": "17-graphs-and-charts.md"
+   },
+   {
+    "slug": "general-ch04-18",
+    "seq": "18",
+    "title": "Microfilm & Microfiche",
+    "file": "18-microfilm-and-microfiche.md"
+   },
+   {
+    "slug": "general-ch04-19",
+    "seq": "19",
+    "title": "Digital Images",
+    "file": "19-digital-images.md"
+   }
+  ]
+ },
+ {
+  "chapter": "general-ch05",
+  "book": "general",
+  "bookEn": "General",
+  "bookZh": "通用",
+  "num": "05",
+  "titleEn": "Physics for Aviation",
+  "count": 13,
+  "cards": [
+   {
+    "slug": "general-ch05-01",
+    "seq": "01",
+    "title": "Matter",
+    "file": "01-matter.md"
+   },
+   {
+    "slug": "general-ch05-02",
+    "seq": "02",
+    "title": "Energy",
+    "file": "02-energy.md"
+   },
+   {
+    "slug": "general-ch05-03",
+    "seq": "03",
+    "title": "Force, Work, Power, & Torque",
+    "file": "03-force-work-power-and-torque.md"
+   },
+   {
+    "slug": "general-ch05-04",
+    "seq": "04",
+    "title": "Simple Machines",
+    "file": "04-simple-machines.md"
+   },
+   {
+    "slug": "general-ch05-05",
+    "seq": "05",
+    "title": "Stress",
+    "file": "05-stress.md"
+   },
+   {
+    "slug": "general-ch05-06",
+    "seq": "06",
+    "title": "Motion",
+    "file": "06-motion.md"
+   },
+   {
+    "slug": "general-ch05-07",
+    "seq": "07",
+    "title": "Heat",
+    "file": "07-heat.md"
+   },
+   {
+    "slug": "general-ch05-08",
+    "seq": "08",
+    "title": "Pressure",
+    "file": "08-pressure.md"
+   },
+   {
+    "slug": "general-ch05-09",
+    "seq": "09",
+    "title": "Gas Laws",
+    "file": "09-gas-laws.md"
+   },
+   {
+    "slug": "general-ch05-10",
+    "seq": "10",
+    "title": "Fluid Mechanics",
+    "file": "10-fluid-mechanics.md"
+   },
+   {
+    "slug": "general-ch05-11",
+    "seq": "11",
+    "title": "Sound",
+    "file": "11-sound.md"
+   },
+   {
+    "slug": "general-ch05-12",
+    "seq": "12",
+    "title": "The Atmosphere",
+    "file": "12-the-atmosphere.md"
+   },
+   {
+    "slug": "general-ch05-13",
+    "seq": "13",
+    "title": "Aircraft Theory of Flight",
+    "file": "13-aircraft-theory-of-flight.md"
+   }
+  ]
+ },
+ {
+  "chapter": "general-ch06",
+  "book": "general",
+  "bookEn": "General",
+  "bookZh": "通用",
+  "num": "06",
+  "titleEn": "Aircraft Weight & Balance",
+  "count": 11,
+  "cards": [
+   {
+    "slug": "general-ch06-01",
+    "seq": "01",
+    "title": "Introduction",
+    "file": "01-introduction.md"
+   },
+   {
+    "slug": "general-ch06-02",
+    "seq": "02",
+    "title": "Requirements for Aircraft Weighing",
+    "file": "02-requirements-for-aircraft-weighing.md"
+   },
+   {
+    "slug": "general-ch06-03",
+    "seq": "03",
+    "title": "Weight & Balance Terminology",
+    "file": "03-weight-and-balance-terminology.md"
+   },
+   {
+    "slug": "general-ch06-04",
+    "seq": "04",
+    "title": "Procedures for Weighing an Aircraft",
+    "file": "04-procedures-for-weighing-an-aircraft.md"
+   },
+   {
+    "slug": "general-ch06-05",
+    "seq": "05",
+    "title": "Weight and Balance Equipment",
+    "file": "05-weight-and-balance-equipment.md"
+   },
+   {
+    "slug": "general-ch06-06",
+    "seq": "06",
+    "title": "Loading an Aircraft for Flight",
+    "file": "06-loading-an-aircraft-for-flight.md"
+   },
+   {
+    "slug": "general-ch06-07",
+    "seq": "07",
+    "title": "Equipment Change & Aircraft Alteration",
+    "file": "07-equipment-change-and-aircraft-alteration.md"
+   },
+   {
+    "slug": "general-ch06-08",
+    "seq": "08",
+    "title": "Loading Graphs & CG Envelopes",
+    "file": "08-loading-graphs-and-cg-envelopes.md"
+   },
+   {
+    "slug": "general-ch06-09",
+    "seq": "09",
+    "title": "Helicopter Weight & Balance",
+    "file": "09-helicopter-weight-and-balance.md"
+   },
+   {
+    "slug": "general-ch06-10",
+    "seq": "10",
+    "title": "Weight and Balance—Weight-Shift Control Aircraft and Powered Parachutes",
+    "file": "10-weight-and-balance-weight-shift-control-aircraft-and-powered-parachute.md"
+   },
+   {
+    "slug": "general-ch06-11",
+    "seq": "11",
+    "title": "Weight & Balance for Large Airplanes",
+    "file": "11-weight-and-balance-for-large-airplanes.md"
+   }
+  ]
  }
 ];
