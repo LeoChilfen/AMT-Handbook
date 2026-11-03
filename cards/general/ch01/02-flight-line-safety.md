@@ -40,6 +40,8 @@ The tail rotor is invisible when operating.
 
 When securing the rotor on helicopters with elastomeric bearings, check the maintenance manual for the proper method. Using the wrong method could damage the bearing.
 
+### Fire Safety
+
 Performing maintenance on aircraft and their components requires the use of electrical tools that can produce sparks, heat-producing tools and equipment, flammable and explosive liquids, and gases. As a result, a high potential exists for fire to occur. Measures must be taken to prevent a fire from occurring and to have a plan for extinguishing it.
 
 The key to fire safety is knowledge of what causes a fire, how to prevent it, and how to put it out. This knowledge must be instilled in each technician, emphasized by their supervisors through sound safety programs, and occasionally practiced. Airport or other local fire departments can normally be called upon to assist in training personnel and helping to establish fire safety programs for the hangar, shops, and flight line.
