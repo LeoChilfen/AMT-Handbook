@@ -10,7 +10,7 @@ Much has been done to improve the corrosion resistance of aircraft, such as impr
 
 #### Galvanic Corrosion
 
-Galvanic corrosion occurs when two dissimilar metals make electrical contact in the presence of an electrolyte. [Figure 8-18] The rate which corrosion occurs depends on the difference in the activities. The greater the difference in activity, the faster corrosion occurs. The rate of galvanic corrosion also depends on the size of the parts in contact. If the surface area of the corroding metal is smaller than the surface area of the less active metal, corrosion is rapid and severe. When the corroding metal is larger than the less active metal, corrosion is slow and superficial.
+Galvanic corrosion occurs when two dissimilar metals make electrical contact in the presence of an electrolyte. The rate which corrosion occurs depends on the difference in the activities. The greater the difference in activity, the faster corrosion occurs. The rate of galvanic corrosion also depends on the size of the parts in contact. If the surface area of the corroding metal is smaller than the surface area of the less active metal, corrosion is rapid and severe. When the corroding metal is larger than the less active metal, corrosion is slow and superficial.
 
 ### Common Corrosive Agents
 
@@ -24,25 +24,64 @@ Substances that cause corrosion of metals are called corrosive agents. The most 
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（9 段）。专业术语按行业惯例，数字与缩写保留。 -->
+为提高飞机的耐腐蚀性已经做了大量工作，例如改进材料、表面处理、绝缘和现代防护涂层。所有这一切都旨在减少总体维护工作量，同时提高可靠性。尽管有这些改进，腐蚀及其控制仍是一个非常现实的问题，需要持续进行预防性维护。在进行任何腐蚀控制维护时，都应查阅安全数据表（SDS），了解该过程中所用任何化学品的信息。腐蚀预防性维护包括下列具体工作：
+
+1. 充分清洁 2. 彻底定期润滑 3. 详细检查腐蚀与失效：即使腐蚀量相对较小，零件的疲劳极限也会低于未腐蚀的零件
+
+#### 电偶腐蚀
+
+电偶腐蚀是在两种异种金属于电解质存在下发生电接触时产生的。腐蚀发生的速率取决于两者活动性的差异。活动性差异越大，腐蚀发生得越快。电偶腐蚀的速率还取决于相接触零件的尺寸。如果受腐蚀金属的表面积小于活动性较低的金属的表面积，腐蚀就迅速而严重。当受腐蚀金属比活动性较低的金属更大时，腐蚀就缓慢且只及表面。
+
+### 常见腐蚀性介质
+
+引起金属腐蚀的物质称为腐蚀性介质。最常见的腐蚀性介质是酸、碱和盐。大气和水是这些介质最常见的两种载体，它们本身也可能起腐蚀性介质的作用。
+
+• 酸——中等强度的酸就会严重腐蚀机体所用的大多数合金。破坏性最强的是硫酸（电瓶酸）、卤酸（盐酸、氢氟酸和氢溴酸）、氮氧化物类化合物，以及人畜排泄物中的有机酸。
+
+• 碱——作为一类物质，碱的腐蚀性不如酸。除非溶液中含有缓蚀剂，铝合金和镁合金极易受到许多碱性溶液的腐蚀侵蚀。对铝腐蚀性特别强的物质是洗涤碱、钾碱（木灰）和石灰（水泥粉尘）。氨是一种碱，但它是个例外，因为铝合金对氨具有很强的耐蚀性。
+
+• 盐——大多数盐溶液都是良好的电解质，能促进腐蚀侵蚀。有些不锈钢合金能耐盐溶液的侵蚀，但铝合金、镁合金和其他钢则……防护系统 4. 及时处理腐蚀并补涂受损的漆面 5. 准确记录并报告材料或设计缺陷，通报制造商和 FAA 6. 使用适当的材料、设备、技术出版物和经过充分培训的人员 7. 保持基本涂层系统 8. 保持排水孔畅通无阻 9. 每日排放燃油箱集水槽 10. 每日擦拭暴露的关键部位 11. 在恶劣天气时对飞机密封防水，在温暖晴朗的天气保持适当通风 12. 更换老化或损坏的垫圈和密封胶，防止进水或积水 13. 在停放飞机时最大限度使用防护罩。在常规腐蚀预防性维护被中断的任何时期之后，修复累积的腐蚀损伤并使飞机恢复到标准状态所需的维护量通常相当大。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Corrosion —— The deterioration of metal by chemical or electrochemical attack.
-- Detailed inspection —— A thorough examination of an item including disassembly. The overhaul of a component is considered to be a detailed inspection.
-- Difference —— The answer to a subtraction problem.
-- Maintenance —— This includes inspection, overhaul, repair, preservation, and the replacement of parts, but excludes preventive maintenance.
-- Preventive maintenance —— Simple or minor preservation operations and the replacement of small standard parts not involving complex assembly operations.
-- Repair —— The restoration of an aircraft component to its previous state.
-- Resistance —— The opposition a device or material offers to the flow or current.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| corrosion preventive maintenance | n.phr. | 腐蚀预防性维护 | 本节主题；须持续进行，含 13 项具体工作 |
+| Safety Data Sheet (SDS) | n.phr. | 安全数据表 | 使用化学品前必须查阅的资料 |
+| galvanic corrosion | n.phr. | 电偶腐蚀 | 异种金属在电解质中电接触引起的腐蚀 |
+| electrolyte | n. | 电解质 | 电偶腐蚀发生所需的存在条件 |
+| dissimilar metals | n.phr. | 异种金属 | 活动性不同、相互接触即构成电偶对 |
+| corrosive agent | n.phr. | 腐蚀性介质 | 引起金属腐蚀的物质，如酸、碱、盐 |
+| alkali | n. | 碱 | 腐蚀性一般弱于酸，但镁、铝仍敏感 |
+| corrosion inhibitor | n.phr. | 缓蚀剂 | 溶液中加入后可抑制碱性溶液侵蚀 |
+| washing soda | n.phr. | 洗涤碱 | 对铝腐蚀性特别强的碱性物质 |
+| potash | n.phr. | 钾碱 | 原文注明即 wood ashes（木灰） |
+| fatigue limit | n.phr. | 疲劳极限 | 腐蚀使其降低，即使腐蚀量很小 |
+| drain hole | n.phr. | 排水孔 | 必须保持畅通，防止积水引起腐蚀 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① Much 作主语 + 现在完成时被动
+**原句**：Much has been done to improve the corrosion resistance of aircraft, such as improvements in materials, surface treatments, insulation, and modern protective finishes.
+**拆解**：Much 是不定代词作主语，指「大量工作」；谓语 has been done 为现在完成时被动语态；to improve the corrosion resistance of aircraft 是不定式作目的状语；such as 引出四项 improvements 作举例。
+**要点**：much 作主语时谓语用单数，且多用于肯定句（否定句、疑问句常用 not much、how much）；such as 后接名词性成分举例，不能接完整句子；完成时被动 has been done 强调「至今已完成」。
+
+### ② the + 比较级，the + 比较级
+**原句**：The greater the difference in activity, the faster corrosion occurs.
+**拆解**：前一个 the greater… 是比较状语从句（省略了 is），后一个 the faster… 是主句，主语 corrosion，谓语 occurs；两个 the 都不是冠词，而是与比较级连用的程度副词。
+**要点**：该句式表示「越……就越……」，两个分句都用「the + 比较级 + 主语 + 谓语」，且不能把任何一个 the 省掉；occurs 是不及物动词，不能写成 is occurred。注意与 the greater of the two（两者中较大的）区分。
+
+### ③ be aimed at doing + as well as 并列
+**原句**：All of these have been aimed at reducing the overall maintenance effort, as well as improving reliability.
+**拆解**：主语 All of these，谓语 have been aimed at 为现在完成时被动，at 是介词，故后接动名词 reducing；as well as 连接第二个动名词 improving，构成并列宾语。
+**要点**：be aimed at 中的 at 是介词，后必须用动名词，不能写 to reduce；as well as 连接的成分与前面保持一致（此处为 V-ing），且谓语与前一项一致，不因 as well as 而后移；aim at 也可用于主动语态。
+
+### ④ In spite of + 名词短语，主句带定语从句
+**原句**：In spite of these improvements, corrosion and its control is a very real problem that requires continuous preventive maintenance.
+**拆解**：In spite of these improvements 是介词短语作让步状语；主句主语 corrosion and its control（视为一个整体概念），谓语 is，表语 a very real problem；that requires continuous preventive maintenance 是定语从句修饰 problem。
+**要点**：in spite of 是介词，后接名词或动名词；若接句子须用 although/though（in spite of the fact that 也可，但啰嗦）；主语由 and 连接但指同一件事时谓语可用单数，此处 corrosion and its control 被当作一个议题。
+
+### ⑤ 条件从句 + 比较级 smaller than + 并列形容词
+**原句**：If the surface area of the corroding metal is smaller than the surface area of the less active metal, corrosion is rapid and severe.
+**拆解**：if 引导条件状语从句，主语 the surface area of the corroding metal，系动词 is，表语 smaller than the surface area of the less active metal 为比较结构；主句 corrosion is rapid and severe 为主系表，两个形容词并列作表语。
+**要点**：比较级后接 than，比较的两项须对等（此处都是 surface area）；less active 是「less + 原级」构成的降级比较，意为「活动性较低的」，不要写成 less activer；条件句用一般现在时，主句也用一般现在时，是科技文本陈述普遍规律的典型时态搭配。

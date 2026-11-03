@@ -46,7 +46,7 @@ To facilitate the discussion of steels some familiarity with their nomenclature 
 
 Small quantities of certain elements are present in alloy steels that are not specified as required. These elements are considered as incidental and may be present to the maximum amounts as follows: copper, 0.35 percent; nickel, 0.25 percent; chromium, 0.20 percent; molybdenum, 0.06 percent.
 
-The list of standard steels is altered from time to time to accommodate steels of proven merit and to provide for changes in the metallurgical and engineering requirements of industry. [Figure 7-1]
+The list of standard steels is altered from time to time to accommodate steels of proven merit and to provide for changes in the metallurgical and engineering requirements of industry.
 
 Metal stock is manufactured in several forms and shapes, including sheets, bars, rods, tubing, extrusions, forgings, and castings. Sheet metal is made in a number of sizes and thicknesses. Specifications designate thicknesses in thousandths of an inch. Bars and rods are supplied in a variety of shapes, such as round, square, rectangular, hexagonal, and octagonal. Tubing can be obtained in round, oval, rectangular, or streamlined shapes. The size of tubing is generally specified by outside diameter and wall thickness.
 
@@ -88,11 +88,11 @@ The tensile strength of Inconel is 100,000 pounds per square Series Designation 
 
 ### Electrochemical Test
 
-Prepare a wiring assembly as shown in Figure 7-2, and prepare the two reagents (ammonium fluoride and dimethylglyoxime solutions) placing them in separate dedicated dropper solution Aluminum rod stock 9v battery − + LED Alligator clip bottles. Before testing, you must thoroughly clean the metal for the electrolytic deposit to take place. You may use nonmetallic hand scrubbing pads or 320–600 grit “crocus cloth” to remove deposits and corrosion products (thermal oxide).
+Prepare a wiring assembly and prepare the two reagents (ammonium fluoride and dimethylglyoxime solutions) placing them in separate dedicated dropper solution Aluminum rod stock 9v battery − + LED Alligator clip bottles. Before testing, you must thoroughly clean the metal for the electrolytic deposit to take place. You may use nonmetallic hand scrubbing pads or 320–600 grit “crocus cloth” to remove deposits and corrosion products (thermal oxide).
 
 Connect the alligator clip of the wiring assembly to the bare metal being tested. Place one drop of a 0.05 percent reagent grade ammonium fluoride solution in deionized water on the center of a 1 inch × 1 inch sheet of filter paper. Lay the moistened filter paper over the bare metal alloy being tested. Firmly press the end of the aluminum rod over the center of the moist paper. Maintain connection for 10 seconds while rocking the aluminum rod on the filter paper. Ensure that the light emitting diode (LED) remains lit (indicating good electrical contact and current flow) during this period. Disconnect the wiring assembly and set it aside. Remove the filter paper and examine it to determine that a light spot appears where the connection was made.
 
-Deposit one drop of 1.0 percent solution of reagent grade dimethylglyoxime in ethyl alcohol on the filter paper (same side that was in contact with the test metal). A bright, distinctly pink spot will appear within seconds on the filter paper if the metal being tested is Inconel. A brown spot will appear if the test metal is stainless steel. Some stainless-steel alloys may leave a very light pink color. However, the shade and depth of color will be far less than would appear for Inconel. For flat surfaces, the test spot will be circular while for curved surfaces, such as the outside of a tube or pipe, the test spot may appear as a streak. (Refer to Figure 7-3 for sample test results.) This procedure should not be used in the heat-affected zone of weldments or on nickel coated surfaces.
+Deposit one drop of 1.0 percent solution of reagent grade dimethylglyoxime in ethyl alcohol on the filter paper (same side that was in contact with the test metal). A bright, distinctly pink spot will appear within seconds on the filter paper if the metal being tested is Inconel. A brown spot will appear if the test metal is stainless steel. Some stainless-steel alloys may leave a very light pink color. However, the shade and depth of color will be far less than would appear for Inconel. For flat surfaces, the test spot will be circular while for curved surfaces, such as the outside of a tube or pipe, the test spot may appear as a streak. This procedure should not be used in the heat-affected zone of weldments or on nickel coated surfaces.
 
 ### Nonferrous Aircraft Metals
 
@@ -164,7 +164,7 @@ In the 2xxx through 8xxx groups, the first digit indicates the major alloying el
 
 • 6xxx—magnesium and silicon
 
-• 8xxx—other elements In the 2xxx through 8xxx alloy groups, the second digit in the alloy designation indicates alloy modifications. If the second digit is zero, it indicates the original alloy, while digits 1 through 9 indicate alloy modifications. The last two of the four digits in the designation identify the different alloys in the group. [Figure 7-4]
+• 8xxx—other elements In the 2xxx through 8xxx alloy groups, the second digit in the alloy designation indicates alloy modifications. If the second digit is zero, it indicates the original alloy, while digits 1 through 9 indicate alloy modifications. The last two of the four digits in the designation identify the different alloys in the group.
 
 #### Effect of Alloying Element
 
@@ -404,15 +404,15 @@ Pyrometer installations on all modern furnaces provide automatic regulation of t
 
 Heating The object in heating is to transform pearlite (a mixture of alternate strips of ferrite and iron carbide in a single grain) to austenite as the steel is heated through the critical range. Since this transition takes time, a relatively slow rate of heating must be used. Ordinarily, the cold steel is inserted when the temperature in the furnace is from 300 °F to 500 °F below the hardening temperature. In this way, too rapid heating through the critical range is prevented.
 
-If temperature-measuring equipment is not available, it becomes necessary to estimate temperatures by some other means. An inexpensive, yet accurate method involves the use of commercial crayons, pellets, or paints that melt at various temperatures within the range of 125 °F to 1,600 °F. The least accurate method of temperature estimation is by observation of the color of the hot hearth of the furnace or of the work. The heat colors observed are affected by many factors, such as the conditions of artificial or natural light, the character of the scale on the work, and so forth. Steel begins to appear dull red at about 1,000 °F, and as the temperature increases, the color changes gradually through various shades of red to orange, to yellow, and finally to white. A rough approximation of the correspondence between color and temperature is indicated in Figure 7-5.
+If temperature-measuring equipment is not available, it becomes necessary to estimate temperatures by some other means. An inexpensive, yet accurate method involves the use of commercial crayons, pellets, or paints that melt at various temperatures within the range of 125 °F to 1,600 °F. The least accurate method of temperature estimation is by observation of the color of the hot hearth of the furnace or of the work. The heat colors observed are affected by many factors, such as the conditions of artificial or natural light, the character of the scale on the work, and so forth. Steel begins to appear dull red at about 1,000 °F, and as the temperature increases, the color changes gradually through various shades of red to orange, to yellow, and finally to white. A rough approximation of the correspondence between color and temperature is indicated.
 
-It is also possible to secure some idea of the temperature of a piece of carbon or low alloy steel, in the low temperature range used for tempering, from the color of the thin oxide film that forms on the cleaned surface of the steel when heated in this range. The approximate temperature/color relationship is indicated on the lower portion of the scale in Figure 7-5.
+It is also possible to secure some idea of the temperature of a piece of carbon or low alloy steel, in the low temperature range used for tempering, from the color of the thin oxide film that forms on the cleaned surface of the steel when heated in this range. The approximate temperature/color relationship is indicated on the lower portion of the scale.
 
 It is often necessary or desirable to protect steel or cast iron from surface oxidation (scaling) and loss of carbon from the surface layers (decarburization). Commercial furnaces, therefore, are generally equipped with some means of atmosphere control. This usually is in the form of a burner for burning controlled amounts of gas and air and directing the products of combustion into the furnace muffle. Water vapor, a product of this combustion, is detrimental and many furnaces are equipped with a means for eliminating it. For furnaces not equipped with atmosphere control, a variety of external atmosphere generators are available. The gas so generated is piped into the furnace and one generator may supply several furnaces. If no method of atmosphere control is available, some degree of protection may be secured by covering the work with cast iron borings or chips. Since the liquid heating medium surrounds the work in salt or lead baths, the problem of preventing scaling or decarburization is simplified. Vacuum furnaces also are used for annealing steels, especially when a bright non-oxidized surface is a prime consideration.
 
 The temperature of the furnace must be held constant during the soaking period, since it is during this period that rearrangement of the internal structure of the steel takes place.
 
-Soaking temperatures for various types of steel are specified in ranges varying as much as 100 °F. [Figure 7-6] Small parts are soaked in the lower part of the specified range and heavy parts in the upper part of the specified range. The length of the soaking period depends upon the type of steel and the size of the part. Naturally, heavier parts require longer soaking to ensure equal heating throughout. As a general rule, a soaking period of 30 minutes to 1 hour is sufficient for the average heat-treating operation.
+Soaking temperatures for various types of steel are specified in ranges varying as much as 100 °F. Small parts are soaked in the lower part of the specified range and heavy parts in the upper part of the specified range. The length of the soaking period depends upon the type of steel and the size of the part. Naturally, heavier parts require longer soaking to ensure equal heating throughout. As a general rule, a soaking period of 30 minutes to 1 hour is sufficient for the average heat-treating operation.
 
 The rate of cooling through the critical range determines the form that the steel retains. Various rates of cooling are used to produce the desired results. Still air is a slow cooling medium but is much faster than furnace cooling. Liquids are the fastest cooling media and are therefore used in hardening steels.
 
@@ -504,7 +504,7 @@ The time limit for the temperature drop to 1,000 °F increases above the 1 secon
 
 Because of the high internal stresses in the “as quenched” condition, steel must be tempered just before it becomes cold. The part should be removed from the quenching bath at a temperature of approximately 200 °F, since the temperature range from 200 °F down to room temperature is the cracking range.
 
-Hardening temperatures and quenching mediums for the various types of steel are listed in Figure 7-6.
+Hardening temperatures and quenching mediums for the various types of steel are listed.
 
 #### Hardening Precautions
 
@@ -518,19 +518,19 @@ Shallow hardening steels, such as plain carbon and certain varieties of alloy st
 
 Tempering reduces the brittleness imparted by hardening and produces definite physical properties within the steel. Tempering always follows, never precedes, the hardening operation. In addition to reducing brittleness, tempering softens the steel.
 
-Tempering is always conducted at temperatures below the low critical point of the steel. In this respect, tempering differs from annealing, normalizing, or hardening, all of which require temperatures above the upper critical point. When hardened steel is reheated, tempering begins at 212 °F and continues as the temperature increases toward the low critical point. By selecting a definite tempering temperature, the resulting hardness and strength can be predetermined. Approximate temperatures for various tensile strengths are listed in Figure 7-6. The minimum time at the tempering temperature should be 1 hour. If the part is over one inch in thickness, increase the time by 1 hour for each additional inch of thickness. Tempered steels used in aircraft work have from 125,000 to 200,000 psi ultimate tensile strength.
+Tempering is always conducted at temperatures below the low critical point of the steel. In this respect, tempering differs from annealing, normalizing, or hardening, all of which require temperatures above the upper critical point. When hardened steel is reheated, tempering begins at 212 °F and continues as the temperature increases toward the low critical point. By selecting a definite tempering temperature, the resulting hardness and strength can be predetermined. Approximate temperatures for various tensile strengths are listed. The minimum time at the tempering temperature should be 1 hour. If the part is over one inch in thickness, increase the time by 1 hour for each additional inch of thickness. Tempered steels used in aircraft work have from 125,000 to 200,000 psi ultimate tensile strength.
 
 Generally, the rate of cooling from the tempering temperature has no effect on the resulting structure; therefore, the steel is usually cooled in still air after being removed from the furnace.
 
 Annealing of steel produces a fine-grained, soft, ductile metal without internal stresses or strains. In the annealed state, steel has its lowest strength. In general, annealing is the opposite of hardening.
 
-Heating the metal to just above the upper critical point, soaking at that temperature, and cooling very slowly in the furnace accomplishes annealing of steel. (Refer to Figure 7-6 for recommended temperatures.) Soaking time is approximately 1 hour per inch of thickness of the material. To produce maximum softness in steel, the metal must be cooled very slowly. Slow cooling is obtained by shutting off the heat and allowing the furnace and metal to cool together to 900 °F or lower, then removing the metal from the furnace and cooling in still air. Another method is to bury the heated steel in ashes, sand, or other substance that does not conduct heat readily.
+Heating the metal to just above the upper critical point, soaking at that temperature, and cooling very slowly in the furnace accomplishes annealing of steel. Soaking time is approximately 1 hour per inch of thickness of the material. To produce maximum softness in steel, the metal must be cooled very slowly. Slow cooling is obtained by shutting off the heat and allowing the furnace and metal to cool together to 900 °F or lower, then removing the metal from the furnace and cooling in still air. Another method is to bury the heated steel in ashes, sand, or other substance that does not conduct heat readily.
 
 The normalizing of steel removes the internal stresses set up by heat-treating, welding, casting, forming, or machining. Stress, if not controlled, leads to failure. Because of the better physical properties, aircraft steels are often used in the normalized state, but seldom, if ever, in the annealed state.
 
 One of the most important uses of normalizing in aircraft work is in welded parts. Welding causes strains to be set up in the adjacent material. In addition, the weld itself is a cast structure as opposed to the wrought structure of the rest of the material. These two types of structures have different grain sizes, and to refine the grain as well as to relieve the internal stresses, all welded parts should be normalized after fabrication.
 
-Heating the steel above the upper critical point and cooling in still air accomplish normalizing. The more rapid quenching obtained by air-cooling, as compared to furnace cooling, results in a harder and stronger material than that obtained by annealing. Recommended normalizing temperatures for the various types of aircraft steels are listed in Figure 7-6.
+Heating the steel above the upper critical point and cooling in still air accomplish normalizing. The more rapid quenching obtained by air-cooling, as compared to furnace cooling, results in a harder and stronger material than that obtained by annealing. Recommended normalizing temperatures for the various types of aircraft steels are listed.
 
 Case hardening produces a hard, wear-resistant surface or case over a strong, tough core. Case hardening is ideal for parts that require a wear-resistant surface and, at the same time, must be tough enough internally to withstand the applied loads. The steels best suited to case hardening are the low carbon and low-alloy steels. If high-carbon steel is case hardened, the hardness penetrates the core and causes brittleness. In case hardening, the surface of the metal is changed chemically by introducing a high carbide or nitride content. The core is unaffected chemically.
 
@@ -616,7 +616,7 @@ Temperature The temperatures used for solution heat-treating vary with different
 
 If the temperature is too low, maximum strength is not obtained. When excessive temperatures are used, there is danger of melting the low melting constituents of some alloys with consequent lowering of the physical properties of the alloy. Even if melting does not occur, the use of higher than recommended temperatures promotes discoloration and increases quenching strains.
 
-Time at Temperature The time at temperature, referred to as soaking time, is measured from the time the coldest metal reaches the minimum limit of the desired temperature range. The soaking time varies, depending upon the alloy and thickness, from 10 minutes for thin sheets to approximately 12 hours for heavy forgings. For the heavy sections, the nominal soaking time is approximately 1 hour for each inch of cross-sectional thickness. [Figure 7-7]
+Time at Temperature The time at temperature, referred to as soaking time, is measured from the time the coldest metal reaches the minimum limit of the desired temperature range. The soaking time varies, depending upon the alloy and thickness, from 10 minutes for thin sheets to approximately 12 hours for heavy forgings. For the heavy sections, the nominal soaking time is approximately 1 hour for each inch of cross-sectional thickness.
 
 Choose the minimum soaking time necessary to develop the required physical properties. The effect of an abbreviated soaking time is obvious. An excessive soaking period aggravates high-temperature oxidation. With clad material, prolonged heating results in excessive diffusion of copper and other soluble constituents into the protective cladding and may defeat the purpose of cladding.
 
@@ -678,7 +678,7 @@ Refrigeration retards the rate of natural aging. At 32 °F, the beginning of the
 
 #### Precipitation Practices
 
-The temperatures used for precipitation-hardening depend upon the alloy and the properties desired, ranging from 250 °F to 375 °F. They should be controlled within a very narrow range (±5 °F) to obtain best results. [Figure 7-8]
+The temperatures used for precipitation-hardening depend upon the alloy and the properties desired, ranging from 250 °F to 375 °F. They should be controlled within a very narrow range (±5 °F) to obtain best results.
 
 The time at temperature is dependent upon the temperature used, the properties desired, and the alloy. It ranges from 8 to 96 hours. Increasing the aging temperature decreases the soaking period necessary for proper aging. However, a closer control of both time and temperature is necessary when using the higher temperatures.
 
@@ -764,19 +764,19 @@ Hardness testing is a method of determining the results of heat- treatment, as w
 
 Practically all hardness testing equipment now uses the resistance to penetration as a measure of hardness. Included among the better-known hardness testers are the Brinell and Rockwell, both of which are described and illustrated in this section. Also included is the Barcol tester, a popular portable- type hardness tester currently in use.
 
-The Brinell hardness tester uses a hardened spherical ball that is forced into the surface of the metal. [Figure 7-9] This ball is 10 millimeters (0.3937 inch) in diameter. A pressure of 3,000 kilograms is used for ferrous metals and 500 kilograms for nonferrous metals. The pressure must be maintained at least 10 seconds for ferrous metals and at least 30 seconds for nonferrous metals. The load is applied by hydraulic pressure. A hand pump or an electric motor, depending on the model of tester, builds up the hydraulic pressure. A pressure gauge indicates the amount of pressure. There is a release mechanism for relieving the pressure after the test has been made, and a calibrated microscope is provided for measuring the diameter of the impression in millimeters. The machine has various shaped anvils for supporting the specimen and an elevating screw for bringing the specimen in contact with the ball penetrator. These are attachments for special tests.
+The Brinell hardness tester uses a hardened spherical ball that is forced into the surface of the metal. This ball is 10 millimeters (0.3937 inch) in diameter. A pressure of 3,000 kilograms is used for ferrous metals and 500 kilograms for nonferrous metals. The pressure must be maintained at least 10 seconds for ferrous metals and at least 30 seconds for nonferrous metals. The load is applied by hydraulic pressure. A hand pump or an electric motor, depending on the model of tester, builds up the hydraulic pressure. A pressure gauge indicates the amount of pressure. There is a release mechanism for relieving the pressure after the test has been made, and a calibrated microscope is provided for measuring the diameter of the impression in millimeters. The machine has various shaped anvils for supporting the specimen and an elevating screw for bringing the specimen in contact with the ball penetrator. These are attachments for special tests.
 
 To determine the Brinell hardness number for a metal, measure the diameter of the impression using the calibrated microscope furnished with the tester. Then convert the measurement into the Brinell hardness number on the conversion table furnished with the tester.
 
 #### Rockwell Tester
 
-The Rockwell hardness tester measures the resistance to penetration, as does the Brinell tester. [Figure 7-10] Instead of measuring the diameter of the impression, the Rockwell tester measures the depth, and the hardness is indicated directly on a dial attached to the machine. The dial numbers in the outer circle are black and the inner numbers are red. Rockwell hardness numbers are based on the difference between the depth of penetration at major and minor loads. The greater this difference, the lower the hardness number and the softer the material.
+The Rockwell hardness tester measures the resistance to penetration, as does the Brinell tester. Instead of measuring the diameter of the impression, the Rockwell tester measures the depth, and the hardness is indicated directly on a dial attached to the machine. The dial numbers in the outer circle are black and the inner numbers are red. Rockwell hardness numbers are based on the difference between the depth of penetration at major and minor loads. The greater this difference, the lower the hardness number and the softer the material.
 
 Two types of penetrators are used with the Rockwell tester: a diamond cone and a hardened steel ball. The load, which forces the penetrator into the metal, is called the major load and is measured in kilograms. The results of each penetrator and load combination are reported on separate scales designated by letters. The penetrator, the major load, and the scale vary with the kind of metal being tested.
 
 For hardened steels, the diamond penetrator is used; the major load is 150 kilograms; and the hardness is read on the “C” scale. When this reading is recorded, the letter “C” must precede the number indicated by the pointer. The C-scale setup is used for testing metals ranging in hardness from C-20 to the hardest steel (usually about C-70). If the metal is softer than C-20, the B-scale setup is used. With this setup, the 1⁄16-inch ball is used as a penetrator; the major load is 100 kilograms; and the hardness is read on the B-scale.
 
-In addition to the C and B scales, there are other setups for special testing. The scales, penetrators, major loads, and dial numbers to be read are listed in Figure 7-11.
+In addition to the C and B scales, there are other setups for special testing. The scales, penetrators, major loads, and dial numbers to be read are listed.
 
 The Rockwell tester is equipped with a weight pan, and two weights are supplied with the machine. One weight is marked in red. The other weight is marked in black. With no weight in the weight pan, the machine applies a major load of 60 kilograms. If the scale setup calls for a 100-kilogram load, the red weight is placed in the pan. For a 150-kilogram load, the black weight is added to the red weight. The black weight is always used with the red weight; it is never used alone.
 
@@ -792,7 +792,7 @@ The metal to be tested in the Rockwell tester must be ground smooth on two oppos
 
 Clad aluminum alloy sheets cannot be tested directly with any accuracy with a Rockwell hardness tester. If the hardness value of the base metal is desired, the pure aluminum coating must be removed from the area to be checked prior to testing.
 
-The Barcol tester is a portable unit designed for testing aluminum alloys, copper, brass, or other relatively soft materials. [Figure 7-12] It should not be used on aircraft steels. Approximate range of the tester is 25 to 100 Brinell. The unit can be used in any position and in any space that allows for the operator’s hand. It is of great value in the hardness testing of assembled or installed parts, especially to check for proper heat-treatment. The hardness is indicated on a dial conveniently divided into 100 graduations.
+The Barcol tester is a portable unit designed for testing aluminum alloys, copper, brass, or other relatively soft materials. It should not be used on aircraft steels. Approximate range of the tester is 25 to 100 Brinell. The unit can be used in any position and in any space that allows for the operator’s hand. It is of great value in the hardness testing of assembled or installed parts, especially to check for proper heat-treatment. The hardness is indicated on a dial conveniently divided into 100 graduations.
 
 The design of the Barcol tester is such that operating experience is not necessary. It is only necessary to exert a light pressure against the instrument to drive the spring- loaded indenter into the material to be tested. The hardness reading is instantly indicated on the dial.
 
@@ -1468,24 +1468,248 @@ Inconel 与不锈钢外观相似，且常出现在发动机的相同部位，因
 
 材料从炉中取出到淬火之间的时间间隔对某些合金至关重要，应尽量缩短。对 2017 或 2024 薄板材料进行固溶热处理时，间隔时间不得超过 10 秒。厚截面允许的时间可稍长。
 
+淬火前让金属稍冷却会促进从固溶体中再析出。析出沿晶界和某些滑移面发生，使成形性变差。对于 2017、2024 和 7075 合金，其抗晶间腐蚀性能会受到不利影响。
+
+#### 重复热处理
+
+对已经热处理的材料进行处理，视为重复热处理。未包铝的可热处理强化合金可反复进行固溶热处理而不产生有害影响。
+
+包铝薄板允许的固溶热处理次数有限，因为每次重新加热都会加剧芯部与包覆层之间的扩散。现行规范允许包铝薄板重复热处理 1 至 3 次，取决于包覆层厚度。
+
+### 固溶热处理后的校直
+
+固溶热处理过程中会发生一些翘曲，产生扭折、鼓包、波浪和扭曲。校直和矫平操作一般可消除这些缺陷。
+
+若校直操作使抗拉强度和屈服强度明显提高、伸长率略有下降，则材料标记为 -T3 状态。若上述数值没有实质变化，则材料标记为 -T4 状态。
+
+### 析出热处理
+
+如前所述，铝合金从固溶热处理温度淬火后立即处于较软的状态。为获得最大强度，必须进行自然时效或析出硬化。
+
+在这种硬化和强化过程中，可溶组分从过饱和固溶体中析出。随析出进行，材料强度不断提高（常呈一系列峰值）直至达到最大值。继续时效，即过
+
+（原文此处为表格碎片，无对应正文）
+
+时效，会使强度持续下降，直至达到较为稳定的状态。析出的亚微观颗粒在晶粒内部及晶粒之间形成锁键，在施加任何载荷时抵抗内部滑移和变形。这样，合金的强度和硬度得以提高。
+
+析出硬化使材料的强度和硬度大幅提高，同时延展性能相应下降。因此，用于获得所需强度提高的工艺称为时效或析出硬化。
+
+可热处理强化合金通过时效强化，并不仅仅由于存在析出物。强度既来自细小弥散亚微观析出物的均匀分布，也来自它对合金晶体结构的影响。
+
+所采用的时效规程取决于强度以外的许多性能。一般来说，人工时效合金要轻微过时效以提高其耐蚀性。对于含铜量高的人工时效合金尤其如此，这类合金若时效不足，易产生晶间腐蚀。
+
+可热处理强化铝合金分为两类：在室温下即可获得全部强度的，以及需要人工时效的。
+
+在室温下经 4 或 5 天获得全部强度的合金称为自然时效合金。淬火后不久即开始从过饱和固溶体中析出，一般在 24 小时内达到最大强度的 90%。2017 和 2024 合金是自然时效合金。
+
+需要析出热处理才能获得全部强度的合金是人工时效合金。不过，这些合金在室温下也有有限程度的时效，强化的速度和程度取决于合金。
+
+许多人工时效合金在几天后达到最大的自然（室温）时效强度，可以 -T4 或 -T3 状态库存以备加工。高锌合金（如 7075）在长时期内仍会明显时效，其力学性能变化足以降低成形性。
+
+可以利用 -W 状态成形性好的优点；不过方式与自然时效合金相同，即在固溶热处理后尽快加工，或采用冷藏保持其成形性。
+
+冷藏可延缓自然时效的速度。在 32 °F 下，时效过程的开始可推迟数小时；而干冰（−50 °F 至 −100 °F）可将时效推迟很长时间。
+
+#### 析出规程
+
+析出硬化所用温度取决于合金和所需性能，范围为 250 °F 至 375 °F。为获得最佳效果，应把温度控制在很窄的范围内（±5 °F）。
+
+在温度下的时间取决于所用温度、所需性能和合金，范围为 8 至 96 小时。提高时效温度可缩短适当时效所需的保温时间。不过，使用较高温度时必须更严格地控制时间和温度。
+
+经过热析出处理后，材料应空冷至室温。水淬虽无必要，但也不产生有害影响。随炉冷却则易造成过时效。
+
+### 铝合金的退火
+
+铝合金的退火规程是：将合金加热到较高温度，在该温度保持或保温一段时间（取决于金属质量），然后在静止空气中冷却。退火使金属处于最利于冷作的状态。不过，在长时间成形加工中，金属会呈现所谓“机械硬化”状态而抗拒进一步加工。成形过程中可能需要多次退火零件以避免开裂。铝合金零件或接头不应以退火状态使用。
+
+包铝零件应尽可能快速而小心地加热，因为长时间受热会使芯部某些组分扩散到包覆层中。这会降低包覆层的耐蚀性。
+
+### 铝合金铆钉的热处理
+
+铝合金铆钉按以下成分供应：1100、5056、2117、2017 和 2024 合金。
+
+1100 合金铆钉以“制造态”使用，用于铆接适合采用低强度铆钉的铝合金薄板。5056 合金铆钉以“制造态”使用，用于铆接镁合金薄板。
+
+2117 合金铆钉强度中等偏高，适于铆接铝合金薄板。这种铆钉只进行一次热处理（由制造厂完成），热处理后经阳极氧化处理。使用前无需再热处理。2117 合金铆钉热处理后性能可无限期保持，随时可以铆打。用这种合金制造的铆钉在飞机制造中应用最广。
+
+2017 和 2024 合金铆钉是高强度铆钉，适用于铝合金结构。它们以热处理状态从制造厂购入。由于这些合金在室温下的时效特性会使铆钉不适于铆打，因此必须在即将使用前重新热处理。2017 合金铆钉淬火后约 1 小时即变得太硬而无法铆打；2024 合金铆钉淬火后 10 分钟即硬化。两种合金可按需反复重新热处理；不过，必须在第一次重新热处理前进行阳极氧化，以防材料晶间氧化。若这些铆钉在淬火后立即存放在低于 32 °F 的冰箱中，可保持足够软的状态数天。
+
+需要热处理的铆钉在盐浴中的管状容器内加热，或在空气炉中的小丝网篮中加热。2017 合金铆钉的热处理是将铆钉置于 930 °F 至 950 °F 的温度下约 30 分钟，然后立即冷水淬火。这些铆钉在铆打后约 9 天达到最大强度。2024 合金铆钉应加热到 910 °F 至 930 °F 并立即冷水淬火。这些铆钉的抗剪强度比 2017 铆钉高，用于需要额外强度的部位。2024 合金铆钉在铆打后 1 天达到最大抗剪强度。
+
+热处理后或从冷藏取出后，2017 铆钉应在约 1 小时内铆打，2024 铆钉应在 10 至 20 分钟内铆打。若未在这些时间内使用，铆钉应在冷藏前重新热处理。
+
+### 镁合金的热处理
+
+镁合金铸件对热处理反应良好，飞机制造中所用镁约 95% 为铸造形式。镁合金铸件的热处理与铝合金相似，也有两类热处理：
+
+#### 固溶热处理
+
+固溶热处理和析出（时效）热处理。不过，镁在室温下自然时效时性能变化可忽略不计。
+
+固溶热处理 镁合金铸件进行固溶热处理以提高抗拉强度、延展性和抗冲击性。这种热处理状态在合金牌号后用符号 -T4 表示。固溶热处理加人工时效标记为 -T6。人工时效是使金属获得全部性能所必需的。
+
+镁合金铸件的固溶热处理温度范围为 730 °F 至 780 °F，具体范围取决于合金类型。每种合金的温度范围列于规范 MIL-H-6857。规范中所列各范围的上限是该合金可加热而不致熔化金属的最高温度。
+
+保温时间为 10 至 18 小时，确切时间取决于合金类型以及零件厚度。厚度超过 2 英寸的铸件可能需要超过 18 小时的保温时间。切勿在盐浴中加热镁合金，因为可能引起爆炸。
+
+镁合金热处理存在严重的潜在火灾危险。若因疏忽或设备故障超过最高温度，铸件可能着火并自由燃烧。因此，所用炉子应装有安全切断装置，在常规控制设备故障或失效时切断加热元件和鼓风机的电源。某些镁合金在固溶热处理期间需要二氧化硫气体保护气氛。这有助于在温度略超限时防止起火。
+
+镁合金固溶热处理后采用空冷，因为液体冷却似乎没有好处。
+
+#### 析出热处理
+
+固溶处理后，镁合金可进行时效处理以提高硬度和屈服强度。
+
+（原文此处为表格碎片，无对应正文）
+
+（原文此处为表格碎片，无对应正文）
+
+一般来说，时效处理仅用于消除应力并使合金稳定，以防随后（尤其是机加工期间或之后）发生尺寸变化。这种处理使屈服强度和硬度都有所提高，代价是延展性略有降低。耐蚀性也有所改善，使其更接近“铸态”合金。
+
+### 钛的热处理
+
+对钛进行热处理的目的如下：
+
+• 消除冷成形或机加工产生的应力。
+
+• 在热加工或冷加工后进行退火，或为后续冷作提供最大延展性。
+
+• 通过热硬化提高强度。
+
+#### 消除应力
+
+消除应力一般用于去除钛板成形产生的应力集中。其处理温度为 650 °F 至 1,000 °F。在温度下的时间从极薄板的几分钟到厚截面的 1 小时以上不等。典型的消除应力处理为 900 °F 保温 30 分钟，然后空冷。
+
+消除应力时金属表面形成的变色或氧化皮，可通过在酸溶液中酸洗而容易地去除。推荐溶液含 10%～20% 硝酸和 1%～3% 氢氟酸。溶液应处于室温或略高于室温。
+
+钛及钛合金退火可获得韧性、室温延展性、高温下的尺寸和组织稳定性以及改善的切削加工性。
+
+完全退火通常作为进一步加工的准备。处理温度为 1,200 至 1,650 °F。在温度下的时间从 16 分钟到数小时不等，取决于材料厚度和待进行的冷作量。常用合金的典型处理为 1,300 °F 保温 1 小时，然后空冷。完全退火一般会产生足够的氧化皮，需要使用苛性碱除鳞，如氢化钠盐浴。
+
+#### 热硬化
+
+非合金钛不能热处理，但飞机制造中常用的合金可通过热处理强化，通常要以延展性有所下降为代价。为获得最佳效果，建议自 1,450 °F 水淬，然后重新加热到 900 °F 保温 8 小时。
+
+钛的化学活性及其在相对较低温度下对氧、氮和碳的快速吸收，使表面硬化对某些特殊应用具有优势。可采用渗氮、渗碳或碳氮共渗，形成深度为 0.0001 至 0.0002 英寸的耐磨表层。
+
+### 硬度试验
+
+硬度试验是测定热处理结果以及金属热处理前状态的一种方法。由于硬度值可与抗拉强度值相关联，并部分地与耐磨性相关联，硬度试验是检验热处理控制和材料性能的有价值手段。
+
+目前几乎所有硬度试验设备都以抗压入能力作为硬度的量度。较著名的硬度试验机中包括布氏和洛氏试验机，本节将对二者加以说明和图示。此外还有巴柯尔试验机，这是一种目前广泛使用的便携式硬度试验机。
+
+布氏硬度试验机使用一个淬硬钢球压入金属表面。该球直径 10 毫米（0.3937 英寸）。黑色金属采用 3,000 公斤压力，有色金属采用 500 公斤压力。黑色金属的压力须保持至少 10 秒，有色金属至少 30 秒。载荷由液压施加。手泵或电动机（取决于试验机型号）建立液压。压力表指示压力大小。试验后有卸压机构，并配有校准显微镜以毫米为单位测量压痕直径。机器有各种形状的砧座用于支承试样，以及升降螺杆使试样与球压头接触。这些是用于特殊试验的附件。
+
+要确定金属的布氏硬度值，用试验机所带校准显微镜测量压痕直径，然后在试验机所带的换算表上将测量值换算为布氏硬度值。
+
+#### 洛氏试验机
+
+洛氏硬度试验机与布氏试验机一样测量抗压入能力。洛氏试验机不测量压痕直径，而是测量深度，硬度直接显示在机器所附刻度盘上。刻度盘外圈数字为黑色，内圈数字为红色。洛氏硬度值以主载荷与初载荷下压入深度之差为基础。差值越大，硬度值越低，材料越软。
+
+洛氏试验机使用两种压头：金刚石圆锥和淬硬钢球。使压头压入金属的载荷称为主载荷，以公斤计量。每种压头与载荷组合的结果分别在以字母标示的不同标尺上报告。压头、主载荷和标尺随所试金属种类而异。
+
+对于淬硬钢，使用金刚石压头，主载荷为 150 公斤，硬度在“C”标尺上读取。记录该读数时，字母“C”必须置于指针所示数字之前。C 标尺用于试验硬度从 C-20 到最硬钢（通常约 C-70）的金属。若金属比 C-20 软，则使用 B 标尺。该配置使用 1/16 英寸钢球作压头，主载荷为 100 公斤，硬度在 B 标尺上读取。
+
+除 C 和 B 标尺外，还有其他用于特殊试验的配置。各标尺、压头、主载荷及应读刻度盘数字列于相关数据表。
+
+洛氏试验机配有砝码盘，机器附有两个砝码。一个砝码标红色，另一个标黑色。砝码盘内不放砝码时，机器施加 60 公斤主载荷。若标尺配置要求 100 公斤载荷，则将红砝码放入盘中。若需 150 公斤载荷，则在红砝码上加黑砝码。黑砝码总是与红砝码一起使用，绝不单独使用。
+
+几乎所有试验都用 B 标尺或 C 标尺配置进行。对这些标尺，颜色可作为选择砝码和读取刻度盘的指南。B 标尺试验使用红砝码并读红色数字；C 标尺试验则在红砝码上加黑砝码并读黑色数字。
+
+设置洛氏试验机时，对已知为硬的材料使用金刚石压头。若硬度未知，先试用金刚石，因为用钢球试验硬材料可能使钢球变形。若金属试验值低于 C-22，则改用钢球。
+
+对所有软材料（试验值低于 B-100 者）使用钢球。若在 B 标尺上端与 C 标尺下端出现重叠，则使用 C 标尺配置。
+
+施加主载荷前，应将试样牢固锁定到位，以防滑动，并使砧座和压头正确就位。为此，在扳动杠杆前施加 10 公斤载荷。这一预载荷称为初载荷。无论标尺配置如何，初载荷均为 10 公斤。
+
+在洛氏试验机上试验的金属必须在两个相对面磨平，且无划痕和异物。表面应垂直于压入轴线，两个相对的磨光面应平行。若试样有锥度，误差大小取决于锥度。曲面也会使硬度试验产生轻微误差，误差大小取决于曲率（曲率半径越小，误差越大）。为消除这种误差，如有可能应在曲面上磨出一个小平面。
+
+包铝铝合金薄板不能用洛氏硬度试验机直接准确试验。若需要基体金属的硬度值，必须在试验前去除待检部位的纯铝包覆层。
+
+巴柯尔试验机是一种便携式仪器，用于试验铝合金、铜、黄铜或其他相对较软的材料。不应用于航空钢。该试验机的近似范围为 25 至 100 布氏硬度。该仪器可用于任何位置，以及能容纳操作者手部的任何空间。它在装配件或已安装零件的硬度试验中很有价值，尤其用于检查热处理是否正确。硬度显示在便于读数的、分为 100 格的刻度盘上。
+
+巴柯尔试验机的设计使操作者无需经验。只需对仪器施加轻微压力，将弹簧加载的压针压入待试材料，硬度读数即显示在刻度盘上。
+
+铝合金的若干典型读数以巴柯尔值列出。为防止损坏压针，在其接触被试材料时避免滑动或刮擦。若压针损坏，必须更换新针，切勿试图修磨压针。
+
+每台试验机都配有一个测试盘，用于检查压针状态。检查时，将仪器向下压到测试盘上。当向下的压力使下柱塞导套端部接触盘面时，指示读数应在测试盘所示范围内。
+
+锻造是通过锤击或压制使产品成形的工艺。材料在再结晶温度以下锻造时称为冷锻；在再结晶温度以上加工时称为热锻。落锤锻造是一种锤击工艺，将热钢锭放在落锤机的成对成形模具之间，数吨重的重锤落到上模上，使热金属被迫形成模具的形状。由于该过程非常迅速，金属晶粒组织发生改变，使成品零件的强度显著提高。
+
+铸造是将金属熔化并浇入所需形状的铸型而成形。由于金属不发生塑性变形，晶粒形状或取向不可能改变。冷却速度、金属的合金成分和热处理可控制金属的晶粒度。铸件通常比同材料的变形产品强度低、更脆。对于形状复杂或带有内部通道的零件（如涡轮叶片），铸造可能是最经济的工艺。除发动机零件外，飞机上大多数金属构件是变形件而非铸件。
+
+所有金属产品都以铸锭形式开始。变形金属是由铸锭经塑性变形转变而来。对于高强度铝合金，需要 80%～90% 的压下量（厚度尺寸变化）才能获得完全变形组织的高力学性能。
+
+铁合金和铝合金都用于航空铸造。铸铁含 6%～8% 的碳和硅。
+
+铸铁是一种硬而不可锻的生铁，通过浇入铸型制成。铸造铝合金经加热到熔融状态并浇入铸型以获得所需形状。
+
+挤压工艺是将金属从模具开口中挤出，使金属形成模具开口的形状。模具形状即角材、槽材、管材或其他形状的横截面。某些金属（如铅、锡和铝）可冷挤压，不过大多数金属在挤压前都要加热。挤压工艺的主要优点是灵活。例如，由于铝的加工性好，可以经济地挤压出比其他金属更复杂、尺寸更大的形状。
+
+挤压型材可制成非常简单以及极其复杂的截面。在此工艺中，例如将铝圆柱锭加热到 750～850 °F，然后由液压柱塞经模具开口挤出。开口形状即成品挤压件的横截面形状。挤压工艺可成形许多结构件，如槽材、角材、T 形件和 Z 形件。
+
+铝是飞机上挤压加工最多的金属。铝的挤压温度为 700～900 °F（371～482 °C），需要高达 80,000 psi（552 MPa）的压力。挤压后，产品常经热加工和机械加工以获得所需性能。挤压工艺限于延展性较好的材料。
+
+（原文此处为表格碎片，无对应正文）
+
+### 冷作硬化
+
+冷作是指在临界温度范围以下进行的机械加工。它使金属产生应变硬化。事实上，金属常变得很硬，以致不经退火软化就难以继续成形。
+
+由于冷作消除了伴随收缩产生的误差，可获得更致密、更好的金属。强度和硬度以及弹性极限都提高，但延展性下降。由于这使金属更脆，在某些操作过程中必须不时加热，以消除加工的不良影响。
+
+冷作工艺有几种，航空机械师主要涉及的是冷轧和冷拔。这些工艺赋予金属以热加工无法获得的优良品质。
+
+冷轧通常指在室温下加工金属。在此操作中，已轧到近似尺寸的材料经酸洗去除氧化皮，然后通过冷硬精轧辊，从而获得光滑表面并使工件达到精确尺寸。冷轧材料的主要形式是板、条和棒。
+
+冷拔用于制造无缝管、线材、流线型拉杆及其他形式的材料。线材由各种直径的热轧棒材制成。这些棒材经酸洗去除氧化皮，浸入石灰水，然后在蒸汽室中干燥并存放至准备拉拔。附着在金属上的石灰涂层在拉拔时起润滑作用。
+
+用于拉拔的棒材尺寸取决于成品线材所需的直径。为将棒材减小到所需尺寸，需将其冷态拉过模具。棒材一端锉尖或锤尖后穿入模孔，由拉拔机的钳口夹住并拉过模具。这一系列操作由称为拉丝机的机构完成。
+
+为将棒材逐步减小到所需尺寸，必须使线材依次通过逐渐变小的模具。由于每次拉拔都会降低线材的延展性，在继续拉拔前必须不时退火。冷作虽降低延展性，却提高线材的抗拉强度。
+
+制造航空用无缝钢管时，管材在拉拔过程中通过环形模具冷拔，管内有一根芯棒或金属杆支承。这迫使金属在模具与芯棒之间流动，从而可控制壁厚以及内外径。
+
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Addition —— The process in which the value of one number is added to the value of another.
-- Alclad aluminum —— Used to designate sheets that consist of an aluminum alloy core coated with a layer of pure aluminum to a depth of approximately 51⁄2 percent on each side. Glos
-- Alteration —— A change or modification to an aircraft from its previous state
-- Annealing —— The process of heating a metal to a prescribed temperature, holding it there for a specified length of time, and then cooling the metal back to room temperature
-- Case hardening —— A process in which the surface of a metal is changed chemically by introducing a high carbide or nitride content. Case hardening produces a hard, wear-resistant
-- Conductor —— A material that will carry electric current.
-- Corrosion —— The deterioration of metal by chemical or electrochemical attack.
-- Current —— The flow of electrical charge.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| alloy | n. | 合金 | 两种或多种金属（或金属与非金属）熔合而成的材料，本章讨论铝合金、镁合金、钛合金等 |
+| ferrous | adj. | 黑色金属的 | 指含铁金属；布氏硬度试验中黑色金属用 3,000 公斤压力 |
+| nonferrous | adj. | 有色金属的 | 指不含铁的金属；同处试验用 500 公斤压力 |
+| corrosion-resistant steel | n. | 耐蚀钢 | 含铬等元素、抗腐蚀的钢，属本章列举的标准钢种之一 |
+| aluminum alloy | n. | 铝合金 | 可热处理强化，经固溶热处理与时效获得强度，如 2017、2024、7075 |
+| magnesium | n. | 镁 | 密度最小的结构金属，铸件对热处理反应良好，加热时须防火 |
+| titanium | n. | 钛 | 强度高、耐蚀性好，非合金钛不能热处理强化 |
+| heat treatment | n. | 热处理 | 通过加热、保温和冷却改变金属性能的工艺总称 |
+| annealing | n. | 退火 | 加热到规定温度、保温后缓冷，使金属软化、便于冷作 |
+| hardening | n. | 淬火 | 加热后急速冷却以提高硬度，如钢件淬火 |
+| tempering | n. | 回火 | 淬火后再加热并冷却，降低脆性、调整强韧配合 |
+| case hardening | n. | 表面硬化 | 向表层渗入碳或氮，形成硬而耐磨的表层 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① 被动语态 + 分词短语补充说明
+**原句**：Metal stock is manufactured in several forms and shapes, including sheets, bars, rods, tubing, extrusions, forgings, and castings.
+**拆解**：主句为 `Metal stock is manufactured ...`（被动语态，主语是受事者）；`including ...` 是现在分词短语，对前面的 forms and shapes 作补充列举，不是并列谓语。
+**要点**：技术英语描述“材料被加工成……”时习惯用被动，制造者不重要或显而易见；`including` 与 `such as` 都可列举，但 `including` 后接完整清单时前面常加逗号，避免与主句谓语混淆。
+
+### ② so ... that 结果状语从句
+**原句**：so hard that it is difficult to continue the forming process without softening the metal by annealing.
+**拆解**：`so + 形容词 + that 从句`构成结果状语；从句中 `it` 是形式主语，真正主语是 `to continue the forming process`；`without softening ... by annealing` 为介词短语作条件/方式补充。
+**要点**：`so ... that` 表“如此……以至于”，与 `such ... that`（such + 名词）区分；`without + 动名词` 是技术文本中表达“不……就无法……”的常用手段。
+
+### ③ 否定祈使句 + as 原因状语
+**原句**：Never heat magnesium alloys in a salt bath as this may result in an explosion.
+**拆解**：`Never + 动词原形`构成否定祈使句，主语 you 省略；`as this may result in an explosion` 是 as 引导的原因状语从句，说明禁止的理由。
+**要点**：维修手册用 `never`、`must not` 表达硬性禁止；`as` 作“因为”讲时语气弱于 `because`，多用于补充说明性理由，注意与表时间的 `as` 区分。
+
+### ④ by + 动名词的方式状语与 thus + 分词的结果链
+**原句**：By permitting it to lie on the bottom of the bath, it is apt to cool faster on the topside than on the bottom side, thus causing it to warp or crack.
+**拆解**：`By permitting ...` 为方式状语置于句首；主句 `it is apt to cool faster ... than ...` 是比较结构；`thus causing ...` 是现在分词短语表结果，逻辑主语与主句一致。
+**要点**：`thus/thereby + 现在分词`是技术英语常见的“因此导致”表达，比另起一句更紧凑；`be apt to do` 表“易于、往往”。
+
+### ⑤ 形式主语 it + 不定式，括号内术语同位解释
+**原句**：It is often necessary or desirable to protect steel or cast iron from surface oxidation (scaling) and loss of carbon from the surface layers (decarburization).
+**拆解**：`It` 是形式主语，真正主语为 `to protect ... from ...`（不定式短语）；`from` 后并列两个宾语：`surface oxidation (scaling)` 与 `loss of carbon from the surface layers (decarburization)`；括号内的 scaling、decarburization 是对前文术语的同位注释。
+**要点**：`it is + adj. + to do` 把长不定式后置，避免主语过长；`protect A from B` 中 B 是危害来源，不可写成 `protect A of B`；技术文献常用括号给出同义术语，阅读时应视为解释而非新增信息。

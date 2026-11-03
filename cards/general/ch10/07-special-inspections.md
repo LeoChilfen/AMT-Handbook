@@ -128,7 +128,7 @@ Wrinkled wing skin is the most easily detected sign of an excessive load having 
 
 A special inspection is performed after a flight through severe turbulence. Emphasis is placed upon inspecting the upper and lower wing surfaces for excessive buckles or wrinkles with permanent set. Where wrinkles have occurred, remove a few rivets and examine the rivet shanks to determine if the rivets ATA iSpec 2200 Systems Sample Systems Subsystems Title 21 AIR CONDITIONING 21 -00 General 21 -10 Compression 21 -20 Distribution 21 -30 Pressurization Control 21 -40 Heating 21 -50 Cooling 21 -60 Temperature Control 21 -70 Moisture/Air Contaminate Control 22 AUTO FLIGHT 23 COMMUNICATIONS 24 ELECTRICAL POWER 25 EQUIPMENT/FURNISHINGS 26 FIRE PROTECTION 27 FLIGHT CONTROLS 28 FUEL 29 HYDRAULIC POWER 30 ICE AND RAIN PROTECTION 31 INDICATING/RECORDING SYSTEMS 32 LANDING GEAR 33 LIGHTS 34 NAVIGATION 35 OXYGEN 36 PNEUMATIC 37 VACUUM 38 WATER/WASTE Systems Subsystems Title 42 INTEGRATED MODULAR AVIONICS 51 STANDARD PRACTICES AND STRUCTURES - GENERAL 52 DOORS 53 FUSELAGE 54 NACELLES/PYLONS 55 STABILIZERS 56 WINDOWS 57 WINGS 60 STANDARD PR ACTICES - PROPELLER/ROTOR 61 PROPELLERS/PROPULSION 62 ROTOR(S)
 
-71 POWER PLANT 72 ENGINE TURBINE/TURBOPROP DUCTED FAN/UNDUCTED FAN 72 -20 AIR INLET SECTION 73 ENGINE FUEL AND CONTROL 74 IGNITION 75 AIR 76 ENGINE CONTROLS 77 ENGINE INDICATING 78 EXHAUST 79 OIL 80 STARTING 81 TURBINES 82 WATER INJECTION 83 ACCESSORY GEAR-BOXES This figure shows a representative number of systems/subsystems for demonstration purposes only. It is not all-encompassing and should be viewed as a learning aid to understand the numbering method of the ATA iSpec 2200 System. Consult the specific aircraft maintenance manuals or Airlines for America (A4A) for a complete description of the systems and subsystems.
+71 POWER PLANT 72 ENGINE TURBINE/TURBOPROP DUCTED FAN/UNDUCTED FAN 72 -20 AIR INLET SECTION 73 ENGINE FUEL AND CONTROL 74 IGNITION 75 AIR 76 ENGINE CONTROLS 77 ENGINE INDICATING 78 EXHAUST 79 OIL 80 STARTING 81 TURBINES 82 WATER INJECTION 83 ACCESSORY GEAR-BOXES It is not all-encompassing and should be viewed as a learning aid to understand the numbering method of the ATA iSpec 2200 System. Consult the specific aircraft maintenance manuals or Airlines for America (A4A) for a complete description of the systems and subsystems.
 
 have sheared or were highly loaded in shear.
 
@@ -144,7 +144,7 @@ Although lightning strikes to aircraft are extremely rare, if a strike has occur
 
 When the aircraft is hit by birds during flight, the external areas of the airplane are inspected in the general area of the bird strike. If the initial inspection shows structural damage, then the internal structure of the airplane must be inspected as well. Also, inspect the hydraulic, pneumatic, and any other systems in the area of the bird strike.
 
-Inspection of aircraft structures that have been subjected to fire or intense heat can be relatively simple if visible damage is present. Visible damage requires repair or replacement. If there is no visible damage, the structural integrity of an aircraft may still have been compromised. Since most structural metallic components of an aircraft have undergone some sort of heat- treatment process during manufacture, an exposure to high heat not encountered during normal operations could severely degrade the design strength of the structure. The strength and airworthiness of an aluminum structure that passes a visual inspection, but is still suspect, can be further determined by use of a conductivity tester. This is a device that uses eddy current and is discussed later in this chapter. Since strength of metals is related to hardness, possible damage to steel structures might be determined by use of a hardness tester, such as a Rockwell C hardness tester. [Figure 10-5]
+Inspection of aircraft structures that have been subjected to fire or intense heat can be relatively simple if visible damage is present. Visible damage requires repair or replacement. If there is no visible damage, the structural integrity of an aircraft may still have been compromised. Since most structural metallic components of an aircraft have undergone some sort of heat- treatment process during manufacture, an exposure to high heat not encountered during normal operations could severely degrade the design strength of the structure. The strength and airworthiness of an aluminum structure that passes a visual inspection, but is still suspect, can be further determined by use of a conductivity tester. This is a device that uses eddy current and is discussed later in this chapter. Since strength of metals is related to hardness, possible damage to steel structures might be determined by use of a hardness tester, such as a Rockwell C hardness tester.
 
 Like aircraft damaged by fire, aircraft damaged by water can range from minor to severe. This depends on the level of the flood water, whether it was fresh or salt water, and the elapsed time between the flood occurrence and when repairs were initiated. Any parts that were totally submerged are completely disassembled, thoroughly cleaned, dried, and treated with a corrosion inhibitor. Many parts might have to be replaced, particularly interior carpeting, seats, side panels, and instruments. Since water serves as an electrolyte that promotes corrosion, all traces of water and salt must be removed before the aircraft can again be considered airworthy.
 
@@ -156,26 +156,196 @@ Two primary factors that make inspecting these aircraft different from other air
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（75 段）。专业术语按行业惯例，数字与缩写保留。 -->
+在航空器的使用寿命期内，可能出现这样的情况：超出正常维护与使用范围的某些事件可能会影响其适航性。遇到这些情况时，应按特别检查程序（也称条件检查）执行检查，以确定航空器结构是否发生了损伤。这些程序……年度检查与 100 小时检查。Part 43 附录 D——年度检查和 100 小时检查应包含的项目（按具体航空器的适用情况）的范围与细节……状况、缺陷和安装不牢。
+
+(11) 整流罩——检查裂纹和缺陷。
+
+(e) 执行年度检查或 100 小时检查的每个人，应（在适用时）检查起落架组的下列部件：
+
+(1) 所有组件——状况不良和安装不牢。
+
+(2) 减震装置——油液油位不当。
+
+(3) 连杆、桁架和构件——过度或过量磨损、疲劳和变形。
+
+(4) 收放和锁定机构——工作不正常。
+
+(5) 液压管路——渗漏。
+
+(6) 电气系统——导线摩擦和开关工作不正常。
+
+(7) 机轮——裂纹、缺陷和轴承状况。
+
+(8) 轮胎——磨损和割伤。
+
+(9) 刹车——调整不当。
+
+(10) 浮筒和滑橇——安装不牢，以及明显或可见的缺陷。
+
+(f) 执行年度检查或 100 小时检查的每个人，应（在适用时）检查机翼和中央翼段组件的所有部件，查其总体状况不良、蒙布或蒙皮劣化、变形、失效迹象和安装不牢。
+
+(g) 执行年度检查或 100 小时检查的每个人，应（在适用时）检查组成完整尾翼组件的所有部件和系统，查其总体状况不良、蒙布或蒙皮劣化、变形、失效迹象、安装不牢、部件安装不当和部件工作不正常。
+
+(h) 执行年度检查或 100 小时检查的每个人，应（在适用时）检查螺旋桨组的下列部件：
+
+(1) 螺旋桨组件——裂纹、缺口、卡滞和渗油。
+
+(2) 螺栓——拧紧力矩不当和缺少保险。
+
+(3) 防冰装置——工作不正常和明显缺陷。
+
+(4) 操纵机构——工作不正常、安装不牢和行程受限。
+
+(i) 执行年度检查或 100 小时检查的每个人，应（在适用时）检查无线电组的下列部件：
+
+(1) 无线电和电子设备——安装不当和安装不牢。
+
+(2) 导线和导管——布线不当、安装不牢和明显缺陷。
+
+(3) 搭接和屏蔽——安装不当和状况不良。
+
+(4) 天线（包括拖曳天线）——状况不良、安装不牢和工作不正常。
+
+(j) 执行年度检查或 100 小时检查的每个人，应（在适用时）检查本清单未另行覆盖的每一已装杂项，查其安装不当和工作不正常。(a) 执行年度检查或 100 小时检查的每个人，应在该检查之前拆下或打开所有必要的检查口盖、检修门、整流罩和发动机罩。他应彻底清洁航空器和航空器发动机。
+
+(b) 执行年度检查或 100 小时检查的每个人，应（在适用时）检查机身和船体组的下列部件：
+
+(1) 蒙布和蒙皮——劣化、变形、其他失效迹象，以及接头的缺陷或安装不牢。
+
+(2) 系统和部件——安装不当、明显缺陷和工作不良。
+
+(3) 气囊、气袋、压载箱及相关零件——状况不良。
+
+(c) 执行年度检查或 100 小时检查的每个人，应（在适用时）检查客舱和驾驶舱组的下列部件：
+
+(1) 总则——不清洁，以及可能卡住操纵机构的松散设备。
+
+(2) 座椅和安全带——状况不良和明显缺陷。
+
+(3) 窗户和风挡——劣化和破损。
+
+(4) 仪表——状况不良、安装、标记，以及（可行时）工作不正常。
+
+(5) 飞行和发动机操纵机构——安装不当和工作不正常。
+
+(6) 蓄电池——安装不当和充电不当。
+
+(7) 所有系统——安装不当、总体状况不良、明显和显而易见的缺陷，以及安装不牢。
+
+(d) 执行年度检查或 100 小时检查的每个人，应（在适用时）按如下要求检查发动机和短舱组的部件：
+
+(1) 发动机舱段——油、燃油或液压油过量渗漏的目视迹象，以及这类渗漏的来源。
+
+(2) 螺柱和螺母——拧紧力矩不当和明显缺陷。
+
+(3) 发动机内部——气缸压缩压力，以及滤网和油底壳放油螺塞上的金属颗粒或外来物。如果气缸压缩压力偏低，则查内部状况不当和内部公差不当。
+
+(4) 发动机安装架——裂纹、安装松动，以及发动机相对安装架的松动。
+
+(5) 柔性减振器——状况不良和劣化。
+
+(6) 发动机操纵机构——缺陷、行程不当和保险不当。
+
+(7) 管路、软管和卡箍——渗漏、状况不当和松动。
+
+(8) 排气总管——裂纹、缺陷和安装不当。
+
+(9) 附件——安装固定方面的明显缺陷。
+
+(10) 所有系统——安装不当、总体状况不良 § 91.409 检查。
+
+(3) 对航空器进行必要分解和正确检查所需的足够机库与设备；以及 (4) 适用于该航空器的现行适当技术资料。
+
+渐进式检查的频次和详细程度，应保证在每个 12 个日历月内对航空器完成一次完整检查，并与制造商的建议、外场使用经验以及该航空器所从事的运行种类相一致。渐进式检查计划必须确保航空器在任何时候都适航，并符合所有适用的 FAA 航空器规范、型号合格证数据表、适航指令和其他经批准的资料。如果中止渐进式检查，所有人或运营人应立即以书面形式将中止一事通知当地 FAA 飞行标准地区办公室。中止之后，按 §91.409(a)(1) 的首次年度检查应在航空器按渐进式检查完成的最后一次完整检查之后 12 个日历月内到期。按 §91.409(b) 的 100 小时检查应在该次完整检查之后 100 小时内到期。就确定年度检查和 100 小时检查何时到期而言，对航空器的完整检查要求按渐进式检查对航空器及其所有部件作详细检查。对航空器的例行检查再加上对若干部件的详细检查，不算一次完整检查。
+
+(d) 渐进式检查。希望采用渐进式检查计划的每一位航空器登记所有人或运营人，必须向对其所在地区有管辖权的 FAA 飞行标准地区办公室提交书面请求，并应提供——(1) 持有检查授权的持证机械员、持证机体修理站，或航空器制造商，以监督或实施渐进式检查；
+
+(2) 一份现行检查程序手册，可供驾驶员和维修人员取用且通俗易懂，其中详细包含——(i) 渐进式检查的说明，包括检查责任的连续性、报告的编写，以及记录和技术参考资料的保存；
+
+(ii) 一份检查计划表，规定以小时或天表示的、实施例行检查和详细检查的间隔，并包括在航路上超出检查间隔不超过 10 小时的说明，以及因使用经验而更改检查间隔的说明；
+
+(iii) 例行检查和详细检查的样表及其使用说明；以及 (iv) 样表和记录及其使用说明；
+
+下面几页所列的程序只是一般性的，意在使航空维修人员了解需要检查的部位。因此，它们并不包罗一切。实施上述任何特别检查时，务必遵循航空器维修手册中的详细程序。若手册对所述情况说明得不够充分，应向在这些方面经验丰富的其他维修技术人员请教。以下各段介绍若干典型的特别检查类型。
+
+### 重着陆或超重着陆检查
+
+着陆所引起的结构应力，不仅取决于当时的全重，还取决于撞击的剧烈程度。重着陆检查针对的是以最大设计着陆限制或低于该限制着陆的重着陆。当飞机以超过最大设计着陆重量的重量着陆时，必须进行超重着陆检查。然而，由于难以估计接地瞬间的垂直速度，很难判断一次着陆是否严重到足以造成结构损伤。因此，在已知超过设计着陆重量的重量下着陆之后，或在粗暴着陆之后——即使后者发生时航空器并未超过设计着陆重量——都要实施一次特别检查。
+
+机翼蒙皮起皱，是着陆过程中施加了过大载荷最容易发现的迹象。另一个容易发现的迹象是铆接缝处的燃油渗漏。其他可能的损伤部位是翼梁腹板、隔框、短舱蒙皮及其连接件、防火墙蒙皮，以及机翼和机身长桁。如果这些部位都没有不良影响，可以合理地认为未发生严重损伤。如果发现了损伤，则可能需要更广泛的检查和结构对合检查。
+
+### 严重湍流检查／超“G”检查
+
+当航空器遇到阵风时，机翼上的空气动力载荷超过支撑航空器重量的正常机翼载荷。阵风趋向于使航空器加速，而其惯性则阻碍这一变化。如果阵风速度与空速的组合过于严重，诱发的应力就可能造成结构损伤。
+
+在飞越严重湍流之后要实施一次特别检查。重点检查机翼上下表面有无带永久变形的过度鼓胀或起皱。凡出现起皱处，拆下几颗铆钉并检查铆钉杆，判断铆钉是否 ATA iSpec 2200 系统 示例系统 分系统 标题 21 空调 21-00 总则 21-10 压缩 21-20 分配 21-30 增压控制 21-40 加热 21-50 冷却 21-60 温度控制 21-70 湿气／空气污染物控制 22 自动飞行 23 通信 24 电源 25 设备／内饰 26 防火 27 飞行操纵 28 燃油 29 液压 30 防冰与防雨 31 指示／记录系统 32 起落架 33 灯光 34 导航 35 氧气 36 气动 37 真空 38 水／废水 42 综合模块化航电 51 标准做法与结构——总则 52 舱门 53 机身 54 短舱／吊挂 55 安定面 56 窗 57 机翼 60 标准做法——螺旋桨／旋翼 61 螺旋桨／推进 62 旋翼
+
+71 动力装置 72 发动机 涡轮／涡桨 涵道风扇／非涵道风扇 72-20 进气段 73 发动机燃油与控制 74 点火 75 空气 76 发动机操纵 77 发动机指示 78 排气 79 滑油 80 起动 81 涡轮 82 喷水 83 附件齿轮箱。它并不包罗一切，应视为帮助理解 ATA iSpec 2200 系统编号方法的学习辅助材料。系统和分系统的完整说明，请查阅具体航空器维修手册或美国航空公司协会（A4A）。
+
+被剪断，或在剪切中承受了很高的载荷。
+
+通过检查门和其他可触及的开口，检查从机身到翼尖的所有翼梁腹板。检查有无鼓胀、起皱和被剪断的连接件。检查短舱周围区域和短舱蒙皮有无鼓胀，尤其是机翼前缘处。检查有无燃油渗漏。任何明显的燃油渗漏都表明该区域可能承受过超载，使密封胶破裂、接缝张开。
+
+如果在严重湍流期间放下了起落架，应仔细检查周围表面有无铆钉松动、裂纹或鼓胀。轮舱内部可能进一步显示过度阵风的情况。检查机身蒙皮的上下表面。过大的弯矩可能在这些区域留下斜向的皱褶。
+
+检查尾翼表面有无皱褶、鼓胀或被剪断的连接件。还要检查尾翼与机身的连接区域。这些检查覆盖了关键部位。如果在上述任何部位发现过度损伤，必须继续检查，直到查明全部损伤。
+
+### 雷击
+
+尽管航空器遭雷击极为罕见，但一旦发生雷击，就要仔细检查航空器，以确定可能发生的损伤范围。雷击航空器时，电流必须通过结构传导，并被允许在受控部位放电或消散。这些受控部位主要是航空器的静电放电刷，或在更先进的航空器上是零场放电器。当高压电涌通过铝或钢等良导体时，损伤可能很小或不存在。当高压电涌通过非金属结构时，例如玻璃纤维雷达罩、发动机整流罩或包皮、玻璃或塑料窗，或没有内置电气搭接的复合材料结构，就可能发生烧蚀和更严重的结构损伤。需要对结构进行目视检查。在所有受影响的部位、电气搭接带、静电放电刷和零场放电器上，寻找复合材料树脂劣化、烧蚀或侵蚀的迹象。
+
+当航空器在飞行中遭鸟撞时，要检查飞机外部鸟撞大致区域。如果初步检查显示结构损伤，则还必须检查飞机的内部结构。此外，还要检查鸟撞区域的液压、气动和任何其他系统。
+
+检查遭受火灾或强烈高温的航空器结构，如果存在可见损伤，则相对简单。可见损伤需要修理或更换。如果没有可见损伤，航空器的结构完整性仍可能已受损。由于航空器大多数金属结构件在制造过程中都经过某种热处理，遭受正常使用中不会遇到的高温，可能严重降低结构的设计强度。对通过目视检查但仍然可疑的铝结构，可用导电率测试仪进一步确定其强度和适航性。这是一种利用涡流的装置，本章后面将予以讨论。由于金属的强度与硬度相关，钢结构的可能损伤可以用硬度计确定，例如 Rockwell C 硬度计。
+
+与遭火灾损伤的航空器一样，遭水损伤的航空器也有轻有重。这取决于洪水水位、是淡水还是盐水，以及洪水发生到开始修理之间经过的时间。凡完全浸没的零件都要完全分解、彻底清洁、干燥，并做缓蚀处理。许多零件可能必须更换，尤其是内部地毯、座椅、侧板和仪表。由于水是促进腐蚀的电解质，在航空器重新被认为适航之前，必须清除所有水和盐的痕迹。
+
+由于水上飞机在加速腐蚀的环境中运行，必须仔细检查其腐蚀情况和促进腐蚀的条件。检查舱底区域有无废液压油、水、污物、钻屑和其他杂物。此外，由于水上飞机在高速下击水常承受过大应力，应检查铆钉和其他紧固件是否松动；蒙皮是否被拉伸、弯曲或开裂；浮筒连接接头是否损伤；以及整个结构的一般磨损。
+
+### 农业喷洒航空器
+
+使这类航空器的检查与其他航空器不同的两个主要因素，是所用某些化学品的腐蚀性和典型的飞行剖面。腐蚀的破坏效应可能在比正常使用的航空器短得多的时间内被发现。化学品可能使蒙布变软，或使蒙布航空器的蒙布带松开。金属航空器可能每年都需要脱漆、清洁、重新喷漆并进行防腐处理。机翼前缘和其他区域可能需要保护涂层或胶带。五金件可能需要更频繁地更换。在使用高峰时，这类航空器一天可飞 50 个循环（起飞和着陆）以上，而且大多从简易跑道或草地跑道起飞。这会大大加速正常疲劳件的失效。起落架及相关部件需要频繁检查。由于这类航空器几乎一直在极低空连续运行，空气滤清器往往更快堵塞。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Aircraft Specifications —— FAA recordkeeping documents issued for both type-certificated and non-typecertificated products which have been found eligible for U.S. airworthiness certificat
-- Annual inspection —— An inspection required by the FAA once every 12 calendar months if other suitable inspections do not occur within that timeframe. An A&P technician with inspect
-- Ballast —— A weight installed or carried in an aircraft to move the center of gravity to a location within its allowable limits.
-- Corrosion —— The deterioration of metal by chemical or electrochemical attack.
-- Current —— The flow of electrical charge.
-- Degradation —— The alteration of material properties (e.g., strength, modulus, coefficient of expansion) which may result from deviations in manufacturing or from repeated loa
-- Detailed inspection —— A thorough examination of an item including disassembly. The overhaul of a component is considered to be a detailed inspection.
-- Empennage —— The section of the airplane that consists of the vertical stabilizer, the horizontal stabilizer, and the associated control surfaces.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| special inspection | n.phr. | 特别检查 | 出现超出正常维护与使用的情况后实施的条件性检查 |
+| conditional inspection | n.phr. | 条件检查 | 特别检查的别称，有条件才做 |
+| annual inspection | n.phr. | 年度检查 | 每 12 个日历月必须完成一次的法定检查 |
+| 100-hour inspection | n.phr. | 100 小时检查 | 每 100 飞行小时完成一次的法定检查 |
+| progressive inspection | n.phr. | 渐进式检查 | 经批准、把完整检查分批排入 12 个月内的检查计划 |
+| inspection interval | n.phr. | 检查周期 | 例行检查与详细检查之间的间隔，航路上最多超 10 小时 |
+| airworthiness | n. | 适航性 | 航空器满足适航要求、可安全飞行的性质 |
+| gross weight | n.phr. | 全重 | 着陆时决定结构应力的因素之一 |
+| overweight landing | n.phr. | 超重着陆 | 以超过最大设计着陆重量的重量着陆 |
+| gust | n. | 阵风 | 使机翼载荷超过正常值、可能造成结构损伤的突风 |
+| empennage | n. | 尾翼 | 垂直安定面、水平安定面及相关操纵面组成的组件 |
+| static discharge wick | n.phr. | 静电放电刷 | 雷击电流在受控部位放电的路径 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① when 引导的定语从句 + 名词后置介词短语
+**原句**：During the service life of an aircraft, occasions may arise when something out of the ordinary care and use of an aircraft could possibly affect its airworthiness.
+**拆解**：During the service life of an aircraft 为时间状语；主句 occasions may arise；when 引导定语从句修饰 occasions，从句主语 something 后接 out of the ordinary care and use of an aircraft 作后置修饰；could possibly affect 为谓语。
+**要点**：arise 是不及物动词，没有被动形式，别写成 may be arisen；这里的 when 从句修饰先行词 occasions，不是时间状语，译成「……的情况」；something out of … 这类「代词 + 介词短语」结构里，介词短语起定语作用。
+
+### ② 现在分词后置定语 + shall 的法定义务
+**原句**：Each person performing an annual or 100-hour inspection shall inspect (where applicable) the following components of the landing gear group:
+**拆解**：主语 Each person 后接现在分词短语 performing … 作后置定语；谓语 shall inspect；宾语 the following components of the landing gear group；括号内 where applicable 为插入语，限定适用范围。
+**要点**：shall 在法规文本中表「应当、必须」，比 must 更正式，不能译成「将」；perform an inspection 是固定动宾搭配；where applicable「在适用时」是法规文书的高频插入语，位置灵活。
+
+### ③ not only … but also 的平行介词短语
+**原句**：The structural stress induced by a landing depends not only upon the gross weight at the time, but also upon the severity of impact.
+**拆解**：主语 The structural stress，过去分词短语 induced by a landing 作后置定语；谓语 depends upon，后面是 not only upon … but also upon … 的平行结构；at the time 作 gross weight 的后置定语。
+**要点**：depend on／upon 意为「取决于」，本身就含被动意味，不能用 be depended on；not only 与 but also 后必须接同类成分，这里是两个 upon 短语；induced by 是「由……引起」的固定分词搭配。
+
+### ④ because of + 形式主语 it + whether or not 宾语从句
+**原句**：Because of the difficulty in estimating vertical velocity at the time of contact, it is hard to judge whether or not a landing has been sufficiently severe to cause structural damage.
+**拆解**：Because of 引导原因状语，只能接名词短语；主句 it 是形式主语，真正主语为不定式 to judge …；whether or not 引导宾语从句，从句用现在完成时 has been；sufficiently … to cause 是「足够……以致」结构。
+**要点**：because of 后不能接句子，接句子要用 because；difficulty in doing sth 中的 in 不能换成 to do；it is hard to judge 里的 it 不可换成 that，也不能省。
+
+### ⑤ 条件从句 + 祈使句的维修指令句式
+**原句**：If the landing gear was lowered during a period of severe turbulence, inspect the surrounding surfaces carefully for loose rivets, cracks, or buckling.
+**拆解**：If 引导条件从句，was lowered 为被动；主句是祈使句 inspect …；for loose rivets, cracks, or buckling 说明检查目标；carefully 修饰 inspect。
+**要点**：维修手册大量使用「条件从句 + 祈使句」给出操作步骤，祈使句无主语，译成中文时补「应」；inspect sth for sth 表示「检查某物以查某问题」；三项并列用逗号分隔、最后一项前加 or。

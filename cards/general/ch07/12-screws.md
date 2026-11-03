@@ -18,7 +18,7 @@ Commonly used screws are classified in four groups: 1. Structural screws, which 
 
 ### Structural Screws
 
-Structural screws are made of alloy steel, are properly heat- treated, and can be used as structural bolts. These screws Studs Installed fastener Stud receptacles Airloc cross pin Cross pinReceptacle Panel Stud are found in the NAS204 through NAS235 and AN509 and AN525 series. They have a definite grip and the same shear strength as a bolt of the same size. Shank tolerances are similar to AN hex head bolts, and the threads are National Fine. Structural screws are available with round, brazier, or countersunk heads. Either a Phillips or a Reed & Prince screwdriver drives the recessed head screws.
+Structural screws are made of alloy steel, are properly heat- treated, and can be used as structural bolts. These screws are found in the NAS204 through NAS235 and AN509 and AN525 series. They have a definite grip and the same shear strength as a bolt of the same size. Shank tolerances are similar to AN hex head bolts, and the threads are National Fine. Structural screws are available with round, brazier, or countersunk heads. Either a Phillips or a Reed & Prince screwdriver drives the recessed head screws.
 
 The AN509 (100°) flathead screw is used in countersunk holes where a flush surface is necessary.
 
@@ -56,22 +56,96 @@ NAS144DH-22 NAS = National Aircraft Standard 144 = head style; diameter and thre
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（25 段）。专业术语按行业惯例，数字与缩写保留。 -->
+螺钉是飞机上使用最普遍的螺纹紧固件。它们与螺栓不同，因为材料强度通常较低。螺钉可以装在配合较松的螺纹中，头部形状则做成可被螺丝刀或扳手驱动的形式。有些螺钉具有明确的夹持部（无螺纹的光杆段），另一些则全长带有螺纹。
+
+有几种结构螺钉与标准结构螺栓的差别仅在于头部形式。它们的材料相同，并具有确定的夹持长度。AN525 垫圈头螺钉以及 NAS220 至 NAS227 系列就属于这类螺钉。
+
+常用的螺钉分为四类：1. 结构螺钉，其强度与同尺寸的螺栓相同。
+
+2. 机械螺钉，包括一般修理中使用的大多数类型。
+
+3. 自攻螺钉，用于连接重量较轻的零件。
+
+4. 打入螺钉，它们实际上不是螺钉而是钉子。这类螺钉用木槌或锤子打入金属零件，头部没有开槽或凹槽。
+
+### 结构螺钉
+
+结构螺钉由合金钢制成，经过适当的热处理，可作为结构螺栓使用。这类螺钉见于 NAS204 至 NAS235 以及 AN509 和 AN525 系列。它们具有确定的夹持长度，剪切强度与同尺寸的螺栓相同。杆部公差与 AN 六角头螺栓相似，螺纹为美国细牙螺纹（National Fine）。结构螺钉可选用圆头、brazier 头或埋头形式。凹槽头螺钉用 Phillips 或 Reed & Prince 螺丝刀驱动。
+
+AN509（100°）平头螺钉用于要求表面齐平的埋头孔。
+
+AN525 垫圈头结构螺钉用于头部凸起不碍事的部位。垫圈头螺钉可提供较大的接触面积。
+
+机械螺钉通常为平头（埋头）、圆头或垫圈头形式。它们是一般用途螺钉，有低碳钢、黄铜、耐蚀钢和铝合金等材质可供选择。
+
+圆头螺钉 AN515 和 AN520 的头部有开槽或凹槽两种。AN515 螺钉为粗牙螺纹，AN520 为细牙螺纹。
+
+埋头机械螺钉有 82° 的 AN505 和 AN510 以及 100° 的 AN507。AN505 和 AN510 在材料与用途上与圆头 AN515、AN520 相对应。
+
+圆柱头螺钉 AN500 至 AN503 是一般用途螺钉，在轻型机构中用作有头螺钉。其用途可包括连接铸铝件，例如齿轮箱盖板。
+
+AN500 和 AN501 螺钉有低碳钢、耐蚀钢和黄铜三种材质。AN500 为粗牙螺纹，而 AN501 为细牙螺纹。它们没有明确规定的夹持长度。
+
+大于 6 号的螺钉在头部钻有一个通孔，用于保险。
+
+AN502 和 AN503 圆柱头螺钉由热处理合金钢制成，夹持部较短，并有细牙和粗牙两种。这些螺钉在对强度要求高的场合用作有头螺钉。粗牙螺钉因金属较软，常用作攻入铝合金和镁合金铸件的有头螺钉。
+
+### 自攻螺钉
+
+机械自攻螺钉列为 AN504 和 AN506。AN504 螺钉为圆头，AN506 为 82° 埋头。这些螺钉用于把可拆卸零件（如铭牌）连接到铸件，以及连接到由螺钉自行切出螺纹的零件上。
+
+AN530 和 AN531 自攻钣金螺钉（例如 Parker-Kalon Z 型钣金螺钉）端部为钝头。它们用于铆接前金属件的临时连接，以及非结构组件的永久装配。自攻螺钉不得用来替代标准螺钉、螺母、螺栓或铆钉。
+
+打入螺钉　打入螺钉 AN535 相当于 Parker-Kalon U 型。它们是平头自攻螺钉，用作有头螺钉，把铭牌固定在铸件上，并用于封堵经防腐处理的管状结构上的排水孔。安装后不打算再拆卸。
+
+### 螺钉的标识与编码
+
+用于标识螺钉的编码体系与螺栓所用的类似。螺钉有 AN 和 NAS 两类。NAS 螺钉是结构螺钉。件号 510、515、550 等把螺钉归入若干类别，例如圆头、平头、垫圈头等。字母和数字表示其材料成分、长度和厚度。以下是 AN 与 NAS 编码示例。
+
+AN501B-416-7　AN = 空军-海军标准（Air Force-Navy standard）　501 = 圆柱头、细牙螺纹　B = 黄铜　416 = 直径 4⁄16 英寸　7 = 长度 7⁄16 英寸　把「B」换成字母「D」，表示材料为 2017-T 铝合金；换成字母「C」则指定耐蚀钢。在材料代码字母前加「A」，表示头部已钻孔以便保险。
+
+NAS144DH-22　NAS = 国家航空标准（National Aircraft Standard）　144 = 头部形式；直径与螺纹——1⁄4-28 螺栓，内六角扳动　DH = 头部钻孔　22 = 螺钉长度，以 1/16 英寸为单位——长 13⁄8 英寸　基本 NAS 件号标识该零件。后缀字母和短横线后的数字用于区分不同尺寸、镀层材料、钻孔规格等。短横线数字和后缀字母没有标准含义，必须查阅标准手册中相应的 NAS 页面才能得知其含义说明。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Corrosion —— The deterioration of metal by chemical or electrochemical attack.
-- Diameter (circle) —— The length of a line passing directly through the center of a circle. Twice the radius of the circle.
-- Force —— The intensity of an impetus, or the intensity of an input.
-- Repair —— The restoration of an aircraft component to its previous state.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| screw | n. | 螺钉 | 本节主题，与螺栓相比材料强度较低、可配合松螺纹安装 |
+| structural screw | n. | 结构螺钉 | 材料与夹持长度同结构螺栓，如 AN525、NAS220 至 NAS227 |
+| machine screw | n. | 机械螺钉 | 一般修理中最常用的一类，含平头、圆头、垫圈头 |
+| self-tapping screw | n. | 自攻螺钉 | 在零件上自行切出螺纹，用于铭牌等轻零件，不得替代标准紧固件 |
+| drive screw | n. | 打入螺钉 | 实为钉子，用木槌或锤子打入，装后不打算拆卸 |
+| fillister head | n. | 圆柱头 | AN500 至 AN503 的头部形式，在轻型机构中作有头螺钉 |
+| grip | n. | 夹持部、夹持长度 | 螺钉夹住被连接件的那段无螺纹长度 |
+| countersunk | adj. | 埋头的 | 82° 与 100° 沉头孔用，使头部与表面齐平 |
+| recessed head | n. | 凹槽头 | 用 Phillips 或 Reed & Prince 螺丝刀驱动的头部 |
+| safetying | n. | 保险 | 6 号以上螺钉头部钻孔穿保险丝，防止松动 |
+| coarse thread | n. | 粗牙螺纹 | AN500、AN515 等采用；软金属铸件上常用 |
+| part number | n. | 件号 | AN、NAS 编码中的字母与数字表示材料、直径、长度 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① 最高级 + 副词修饰的复合前置定语
+**原句**：Screws are the most commonly used threaded fastening devices on aircraft.
+**拆解**：主语 Screws + 系动词 are + 表语 the most commonly used threaded fastening devices + 地点状语 on aircraft。表语中心词 devices 前叠了三层前置修饰：the most commonly used（最高级，副词 commonly 修饰过去分词 used）、threaded（过去分词）、fastening（动名词）。
+**要点**：程度副词必须紧贴分词，写成 the most commonly used，不能拆成 the most used commonly；译成中文时常把「最常用的」提出来单独作定语。可迁移结构：the most widely used method、the least frequently replaced part。
+
+### ② while 表对比 + 被动语态
+**原句**：Some screws have a clearly defined grip or unthreaded portion, while others are threaded along their entire length.
+**拆解**：主句 Some screws have a clearly defined grip or unthreaded portion（have 后接两个并列宾语，or 表同义替换）；while 引导对比状语从句 others are threaded along their entire length，从句为被动语态，along their entire length 作范围状语。
+**要点**：技术英语里 while 多表「而、然而」的对照，不是「当……时」；主句主动、从句被动构成形式对照，中文要保留「有的……而另一些……」的并列感。把 while 误读为时间状语是常见错误。
+
+### ③ either…or 连接主语时的主谓一致
+**原句**：Either a Phillips or a Reed & Prince screwdriver drives the recessed head screws.
+**拆解**：Either A or B 作主语（A = a Phillips screwdriver，B = a Reed & Prince screwdriver，第二处中心词承前省略）；谓语 drives 用第三人称单数；宾语 the recessed head screws。
+**要点**：either…or 连接主语时谓语遵循就近原则，两个并列项都是单数，故用 drives；若一单一复，谓语随最近的一项。工具与商标名 Phillips、Reed & Prince 保留原形，不加复数。
+
+### ④ 情态动词否定被动 + replace 的搭配
+**原句**：Self-tapping screws should not be used to replace standard screws, nuts, bolts, or rivets.
+**拆解**：主语 Self-tapping screws + 谓语 should not be used（情态动词 + 否定 + 被动语态）+ 目的不定式 to replace standard screws, nuts, bolts, or rivets（replace 的宾语是四项并列）。
+**要点**：should not be used to 是手册禁用条款的典型句式，语气比 must not 缓和但同样表示禁止；replace 后直接跟被替代物，「用 X 替代 Y」则写作 replace Y with X。可迁移：must not be used as a substitute for。
+
+### ⑤ have + 宾语 + 过去分词（宾补）与后置定语
+**原句**：Screws larger than No. 6 have a hole drilled through the head for safetying purposes.
+**拆解**：主语 Screws 带后置定语 larger than No. 6（比较结构不能前置）+ 谓语 have + 宾语 a hole + 过去分词短语 drilled through the head 作宾语补足语 + 目的状语 for safetying purposes。
+**要点**：have sth done 在此不表「让别人做」，而是客观说明「某物上已被加工出……」，与 have the head drilled 同型；译成中文时把宾补转成谓语更顺（「在头部钻有一个通孔」）。safetying 是动词 safety 的动名词，指打保险。

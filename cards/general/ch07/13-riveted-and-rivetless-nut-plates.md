@@ -8,7 +8,7 @@ When access to the back of a screw or bolt installation is impractical, riveted 
 
 Nuts that are made to be riveted in place in aircraft are called nut plates. Their purpose is to allow bolts and screws to be inserted without having to hold the nut. They are permanently mounted to enable inspection panels and access doors to be easily removed and installed. When many screws are used on a panel, to make installation easier, normally floating anchor nuts are used. The floating anchor nut fits into a small bracket, which is riveted to the aircraft skin. The nut is free to move, which makes it much easier to align it with the screw. For production ease, sometimes ganged anchor nuts are used for inspection panels. Ganged anchor nuts allow the nuts to float in a channel, making alignment with the screw easy.
 
-Self-locking nut plates are made under several standards and come in several shapes and sizes. Figure 7-62 shows an MS21078 two-lug nut plate with a nonmetallic insert and an MS21047 lightweight, all-metal, 450 °F (232 °C) nut plate. Nut plates can also have three riveting points if the added strength is required.
+Self-locking nut plates are made under several standards and come in several shapes and sizes. Shown are an MS21078 two-lug nut plate with a nonmetallic insert and an MS21047 lightweight, all-metal, 450 °F (232 °C) nut plate. Nut plates can also have three riveting points if the added strength is required.
 
 This is the trade name of a hollow, blind rivet made of 6053 aluminum alloy, counter bored and threaded on the inside. One person using a special tool, which heads the rivet on the blind side of the material, can install Rivnuts. The Rivnut is threaded on the mandrel of the heading tool and inserted in the rivet hole. The heading tool is held at right angles to the material, the handle is squeezed, and the mandrel crank is turned clockwise after each stroke. Continue squeezing the handle and turning the mandrel crank of the heading tool until a solid resistance is felt, which indicates that the rivet is set.
 
@@ -20,25 +20,25 @@ The countersunk style Rivnut is made with two different head angles: the 100° w
 
 Open-end Rivnuts are the most widely used and are recommended in preference to the closed end type wherever possible. However, closed-end Rivnuts must be used in pressurized compartments.
 
-Rivnuts are manufactured in six grip ranges. The minimum Two-lug anchor nut MS21078 MS21051 MS21055 NAS444 or A6195NAS680A A1777, A1789, or A1794 MS21047 MS21059 One-lug anchor nut Corner anchor nut Right-angle anchor nut Ganged anchor nuts U-type tinnerman nuts provide convenient anchor points for cowlings, fairings, and panels.
+Rivnuts are manufactured in six grip ranges. The minimum U-type tinnerman nuts provide convenient anchor points for cowlings, fairings, and panels.
 
-High-temperature two-lug anchor nut Two-lug ﬂoating anchor nut Anchor type tinnerman nuts are suitable for nonstructural applications MS33737 Instrument nut To reduce magnetic inﬂuences in the ﬂightdeck, nonmagnetic mounting nuts secure instruments in a control panel.
+Anchor type tinnerman nuts are suitable for nonstructural applications. To reduce magnetic influences in the flightdeck, nonmagnetic mounting nuts secure instruments in a control panel.
 
 grip length is indicated by a plain head and the next higher grip length by one radial dash mark on the head. Each succeeding grip range is indicated by an additional radial dash mark until five marks indicate the maximum range.
 
-Notice in Figure 7-63 that some part number codes consist of a “6,” an “8,” or a “10,” a “dash,” and two or three more numbers. In some, the letters “K” or “KB” replaces the dash. The first number indicates the machine screw size of the thread, and the last two or three numbers indicate the maximum grip length in thousandths of an inch. A dash between the figures indicates that the Rivnut has an open end and is keyless; a “B” in place of the dash means it has a closed end and is keyless; a “K” means it has an open end and has a key; and a “KB” indicates that it has a closed end and a key. If the last two or three numbers are divisible by five, the Rivnut has a flathead; if they are not divisible by five, the Rivnut has a countersunk head.
+Notice that some part number codes consist of a “6,” an “8,” or a “10,” a “dash,” and two or three more numbers. In some, the letters “K” or “KB” replaces the dash. The first number indicates the machine screw size of the thread, and the last two or three numbers indicate the maximum grip length in thousandths of an inch. A dash between the figures indicates that the Rivnut has an open end and is keyless; a “B” in place of the dash means it has a closed end and is keyless; a “K” means it has an open end and has a key; and a “KB” indicates that it has a closed end and a key. If the last two or three numbers are divisible by five, the Rivnut has a flathead; if they are not divisible by five, the Rivnut has a countersunk head.
 
 An example of a part number code is: 10KB106 10 = Grip length KB = Closed end and key 106 = Screw and thread size
 
 ### Dill Lok-Skrus and Dill Lok-Rivets
 
-Dill “Lok-Skru” and “Lok-Rivet” are trade names for internally-threaded rivets. They are used for blind attachment of accessories, such as fairings, fillets, access door covers, door and window frames, floor panels, and the like. Lok- Skrus and Lok-Rivets are like the Rivnut in appearance and application; however, they come in two parts and require more clearance on the blind side than the Rivnut to accommodate the barrel. [Figure 7-64]
+Dill “Lok-Skru” and “Lok-Rivet” are trade names for internally-threaded rivets. They are used for blind attachment of accessories, such as fairings, fillets, access door covers, door and window frames, floor panels, and the like. Lok- Skrus and Lok-Rivets are like the Rivnut in appearance and application; however, they come in two parts and require more clearance on the blind side than the Rivnut to accommodate the barrel.
 
 The Lok-Rivet and the Lok-Skru are alike in construction, except the Lok-Skru is tapped internally for fastening an accessory by using an attaching screw, whereas the Lok-Rivet is not tapped and can be used only as a rivet. Since both Lok-Skrus and Lok-Rivets are installed in the same manner, the following discussion for the Lok-Skru also applies to the Lok-Rivet.
 
-The main parts of a Lok-Skru are the barrel, the head, and an attachment screw. The barrel is made of aluminum alloy 6B45 8B45 10B45 6K45 8K45 10K45 6KB45 8KB45 10KB45 6B75 8B75 10B75 6K75 8K75 10K75 6KB75 8KB75 10KB75 6B100 8B100 10B100 6K100 8K100 10K100 6KB100 8KB100 10KB100 6B91 8B91 10B91 6B121 8B121 10B121 6B146 8B146 10B146 6B106 8B106 10B106 6K106 8K106 10K106 6KB106 8KB106 10KB106 6B136 8B136 10B136 6K136 8K136 10K136 6KB136 8KB136 10KB136 6B161 8B161 10B161 6K161 8K161 10K161 6KB161 8KB161 10KB161 Flat—0.32 H ead Thickness 100°— 0.48 Head Thickness 100°— 0.63 Head Thickness and comes in either closed or open ends. The head is either aluminum alloy or steel, and the attachment screw is made of steel. All the steel parts are cadmium plated, and all of aluminum parts are anodized to resist corrosion. When installed, the barrel screws up over the head and grips the metal on the blind side. The attaching screw is then inserted if needed. There are two head types: the flathead and the countersunk head. The Lok-Skru is tapped for 7-32, 8-32, 10-32, or 10-24 screws, and the diameters vary from 0.230 inch for 6-32 screws, to 0.292 inch for 10-32 screws. Grip ranges vary from 0.010 inch to 0.225 inch.
+The main parts of a Lok-Skru are the barrel, the head, and an attachment screw. The barrel is made of aluminum alloy and comes in either closed or open ends. The head is either aluminum alloy or steel, and the attachment screw is made of steel. All the steel parts are cadmium plated, and all of aluminum parts are anodized to resist corrosion. When installed, the barrel screws up over the head and grips the metal on the blind side. The attaching screw is then inserted if needed. There are two head types: the flathead and the countersunk head. The Lok-Skru is tapped for 7-32, 8-32, 10-32, or 10-24 screws, and the diameters vary from 0.230 inch for 6-32 screws, to 0.292 inch for 10-32 screws. Grip ranges vary from 0.010 inch to 0.225 inch.
 
-This rivet is a high-strength blind rivet used on late model aircraft. It has a minimum shear strength of 75,000 psi and can be installed by one person. The Deutsch rivet consists of two parts: the stainless-steel sleeve and the hardened steel drive pin. [Figure 7-65] The pin and sleeve are coated with a lubricant and a corrosion inhibitor.
+This rivet is a high-strength blind rivet used on late model aircraft. It has a minimum shear strength of 75,000 psi and can be installed by one person. The Deutsch rivet consists of two parts: the stainless-steel sleeve and the hardened steel drive pin. The pin and sleeve are coated with a lubricant and a corrosion inhibitor.
 
 The Deutsch rivet is available in diameters of 3⁄16, 1⁄4, or 3⁄8 inch. Grip lengths for this rivet range from 3⁄16 to 1 inch. Some variation is allowed in grip length when installing the rivet. For example, a rivet with a grip length of 3⁄16 inch can be used where the total thickness of materials is between 0.198 and 0.228 inch.
 
@@ -50,22 +50,90 @@ When securing nut plates in pressurized aircraft and in fuel cells, a sealing nu
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（22 段）。专业术语按行业惯例，数字与缩写保留。 -->
+当无法从背面接近螺钉或螺栓的安装部位时，就用铆接式或无铆钉托板螺母来固定面板的连接。在飞机上，这项技术特别有用的一例是把地板固定到桁条上，以及把各块地板彼此固定。
+
+为在飞机上铆接固定而制成的螺母称为托板螺母（nut plate）。其用途是：不必用手扶住螺母就能装入螺栓和螺钉。它们被永久固定，以便检查口盖和检修门能方便地拆装。当一块面板上要用许多螺钉时，为便于安装，通常使用浮动托板螺母（floating anchor nut）。浮动托板螺母装在一个小支架内，支架铆接在飞机蒙皮上。螺母可以自由活动，因此与螺钉对位容易得多。为便于生产，检查面板有时使用成组托板螺母（ganged anchor nut）。成组托板螺母让各个螺母在一条槽内浮动，从而容易与螺钉对位。
+
+自锁托板螺母按多种标准制造，并有多种形状和尺寸。图中所示为一个带非金属嵌件的 MS21078 双耳托板螺母和一个 MS21047 轻型全金属 450 °F（232 °C）托板螺母。如果要求更高强度，托板螺母也可以有三个铆接点。
+
+这是由 6053 铝合金制成的空心盲铆钉的商名，其内部经过扩孔并制有螺纹。一人使用专用工具即可安装 Rivnut，该工具在材料的盲侧把铆钉镦出头部。Rivnut 拧在镦头工具的芯轴（mandrel）上，然后插入铆钉孔。把工具与材料保持垂直，压动手柄，每压一次后顺时针转动芯轴曲柄。继续压手柄并转动工具的芯轴曲柄，直到感到明显的阻力，这表明铆钉已安装到位。
+
+Rivnut 主要用作托板螺母，也用于把除冰带（deicer boot）固定到机翼前缘。它可在次要结构中用作铆钉，或用于连接附件，例如支架、整流片、仪表或隔音材料。
+
+Rivnut 制有两种头部形式，每种又分两种端部：平头和埋头，各有开口端与封闭端。除薄头埋头型外，所有 Rivnut 都可在头部带上或不带小凸起（键，key），以防止 Rivnut 转动。带键的 Rivnut 用作托板螺母，而不带键的 Rivnut 用于不承受扭矩载荷的普通盲铆接修理。安装带键的 Rivnut 时需要键槽铣刀（keyway cutter）。
+
+埋头型 Rivnut 有两种头部角度：100° 的头部厚度为 0.048 和 0.063 英寸，115° 的头部厚度为 0.063 英寸。这两种头部形式各有三种尺寸：6-32、8-32 和 10-32。这些数字表示 Rivnut 内部螺纹的机械螺钉规格。杆部实际外径为：6-32 规格 3⁄16 英寸，8-32 规格 7⁄32 英寸，10-32 规格 1⁄4 英寸。
+
+开口端 Rivnut 使用最广，凡条件允许都推荐优先于封闭端型。但在增压舱内必须使用封闭端 Rivnut。
+
+Rivnut 制有六个夹持长度范围。最小夹持长度……U 型 tinnerman 螺母可为整流罩、整流片和面板提供便利的固定点。
+
+锚型 tinnerman 螺母适用于非结构应用。为减小驾驶舱内的磁性影响，非磁性安装螺母把仪表固定在控制面板上。
+
+夹持长度由平头表示，次一级夹持长度由头部上的一道径向刻线表示。其后每个夹持范围都增加一道径向刻线，直到五道刻线表示最大范围。
+
+注意，有些件号代码由「6」「8」或「10」、一个短横线以及两三个数字组成。有些则用字母「K」或「KB」代替短横线。第一个数字表示螺纹的机械螺钉规格，最后两三个数字表示以千分之一英寸计的最大夹持长度。数字之间的短横线表示 Rivnut 为开口端且无键；用「B」代替短横线表示封闭端且无键；「K」表示开口端且带键；「KB」表示封闭端且带键。如果最后两三个数字能被 5 整除，则 Rivnut 为平头；若不能被 5 整除，则为埋头。
+
+件号代码的一个例子是：10KB106　10 = 夹持长度　KB = 封闭端并带键　106 = 螺钉与螺纹规格
+
+### Dill Lok-Skru 与 Dill Lok-Rivet
+
+Dill「Lok-Skru」和「Lok-Rivet」是内螺纹铆钉的商名。它们用于从盲侧连接附件，例如整流片、整流包角（fillet）、检修门口盖、门窗框、地板等。Lok-Skru 和 Lok-Rivet 在外观与用途上与 Rivnut 相似；但它们由两个零件组成，盲侧所需间隙比 Rivnut 大，以容纳套筒（barrel）。
+
+Lok-Rivet 与 Lok-Skru 结构相似，区别在于 Lok-Skru 内部攻有螺纹，可用安装螺钉固定附件，而 Lok-Rivet 未攻螺纹，只能用作铆钉。由于两者的安装方式相同，下面关于 Lok-Skru 的讨论也适用于 Lok-Rivet。
+
+Lok-Skru 的主要零件是套筒、头部和安装螺钉。套筒由铝合金制成，有封闭端和开口端两种。头部为铝合金或钢制，安装螺钉由钢制成。所有钢制零件都镀镉，所有铝制零件都经阳极氧化以抗腐蚀。安装时，套筒拧到头部上，夹住盲侧的金属。然后按需装入安装螺钉。头部有两种：平头和埋头。Lok-Skru 攻有 7-32、8-32、10-32 或 10-24 螺钉的螺纹，直径从 6-32 螺钉的 0.230 英寸到 10-32 螺钉的 0.292 英寸不等。夹持范围从 0.010 英寸到 0.225 英寸。
+
+这种铆钉是用于较新机型的高强度盲铆钉。其最小剪切强度为 75,000 psi，可由一人安装。Deutsch 铆钉由两个零件组成：不锈钢套筒和淬硬钢驱动销。销与套筒涂有润滑剂和缓蚀剂。
+
+Deutsch 铆钉有 3⁄16、1⁄4 或 3⁄8 英寸直径。该铆钉的夹持长度为 3⁄16 至 1 英寸。安装时夹持长度允许有一定变化。例如，夹持长度为 3⁄16 英寸的铆钉可用于材料总厚度在 0.198 至 0.228 英寸之间的部位。
+
+镦打 Deutsch 铆钉时，使用普通锤子或气动铆枪加平头冲模（flathead set）。先把铆钉放入已钻好的孔中，然后把销打入套筒。镦打动作使销对套筒施加压力，把套筒两侧挤开。这种拉伸在铆钉端部形成工厂头（shop head），实现可靠的紧固。最后几下敲击时，铆钉头顶部的凸脊把销锁紧在铆钉内。
+
+### 密封托板螺母
+
+在增压飞机和燃油箱内固定托板螺母时，使用密封托板螺母，而不是前面所述的开口型。必须注意选用长度完全正确的螺栓或螺钉。如果螺栓或螺钉太短，螺纹不足以把器件固定到位；如果太长，则会穿透托板螺母的背面，破坏密封。通常还要使用密封胶，以确保托板螺母完全密封。密封托板螺母应使用何种密封胶，请查阅制造商的规范。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Corrosion —— The deterioration of metal by chemical or electrochemical attack.
-- Pressure —— The amount of force acting on a specific amount of surface area, typically measured in pounds per square inch or psi.
-- Resistance —— The opposition a device or material offers to the flow or current.
-- Torque —— The tendency of a force to cause or change rotational motion of a body.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| nut plate | n. | 托板螺母 | 本节主题，铆接固定在结构上，使螺栓、螺钉无需手扶螺母 |
+| riveted | adj. | 铆接固定的 | 托板螺母用铆钉永久装在蒙皮或支架上 |
+| floating anchor nut | n. | 浮动托板螺母 | 装在小支架内可自由活动，便于与螺钉对位 |
+| ganged anchor nut | n. | 成组托板螺母 | 多个螺母在同一槽内浮动，用于螺钉密集的检查面板 |
+| self-locking | adj. | 自锁的 | 带非金属嵌件或全金属结构，防止螺钉松动 |
+| Rivnut | n. | 拉铆螺母（商名） | 空心盲铆钉，内部扩孔并攻螺纹，可单面安装 |
+| key | n. | 键（防转凸起） | 头部小凸起，嵌进键槽防止 Rivnut 转动 |
+| mandrel | n. | 芯轴 | 镦头工具的中心杆，Rivnut 拧在其上后被拉铆 |
+| blind side | n. | 盲侧 | 手够不到的一面，镦头与夹持都在这一侧完成 |
+| drive pin | n. | 驱动销 | Deutsch 铆钉中被锤入不锈钢套筒、使套筒张开涨紧的淬硬钢销 |
+| grip length | n. | 夹持长度 | 铆钉可夹持的材料总厚度范围，用头部径向刻线标示 |
+| sealing nut plate | n. | 密封托板螺母 | 增压舱与燃油箱用，靠密封胶和正确长度的螺钉保证密封 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① 时间状语从句 + 被动语态 + 目的不定式
+**原句**：When access to the back of a screw or bolt installation is impractical, riveted or rivetless nut plates are used to secure the connection of panels.
+**拆解**：When 引导时间状语从句（主语 access，后置定语 to the back of a screw or bolt installation，系动词 is，表语 impractical）；主句主语 riveted or rivetless nut plates + 谓语 are used（被动）+ 目的不定式 to secure the connection of panels。
+**要点**：access 在此为名词「接近、通路」，不是动词；被动 are used 后接 to do 说明用途，与 are used for doing 同义但更强调目的。手册常以「条件从句 + 被动主句」给出选材建议，翻译时把从句译成「当……无法……时」。
+
+### ② 非限制性定语从句 which 的指代
+**原句**：The floating anchor nut fits into a small bracket, which is riveted to the aircraft skin.
+**拆解**：主句 The floating anchor nut fits into a small bracket；逗号后 which 引导非限制性定语从句，先行词是 a small bracket，从句为被动 is riveted to the aircraft skin。
+**要点**：非限制性从句用逗号隔开、不用 that；which 在此只能指物（bracket），不能指整句，否则句意会变成「螺母装进支架这件事被铆在蒙皮上」。译成中文常把从句前置成「支架铆接在蒙皮上」，或用「该支架……」分句处理。
+
+### ③ which 指代前句 + make it easier to do 形式宾语
+**原句**：The nut is free to move, which makes it much easier to align it with the screw.
+**拆解**：主句 The nut is free to move（be free to do 表「可以自由……」）；which 引导非限制性定语从句，先行词是整个主句所述情况；从句中 it 为形式宾语，真正的宾语是 to align it with the screw，much easier 作宾语补足语。
+**要点**：which 指代整句时，中文宜译成「因此……」「这使得……」；make it + 形容词 + to do 是形式宾语结构，it 不可换成 this 或 that，也不能省略。句末的 it 指 the nut，与本句主语同指。
+
+### ④ 并列谓语 + 最高级 + in preference to
+**原句**：Open-end Rivnuts are the most widely used and are recommended in preference to the closed end type wherever possible.
+**拆解**：主语 Open-end Rivnuts 后接两个并列谓语：are the most widely used（最高级作表语，widely 修饰 used）和 are recommended（被动）；in preference to the closed end type 为介词短语表比较对象；wherever possible 为让步状语从句的省略形式（= wherever it is possible）。
+**要点**：in preference to 相当于「优先于、而不是」，比 than 更正式，后面接被舍弃的一方；wherever possible 省略主语和 be 动词，是手册中常见的简省写法。并列的两个谓语共用一个主语，翻译时可拆成两个短句。
+
+### ⑤ except 插入语 + 过去分词后置定语 + keep…from doing
+**原句**：All Rivnuts, except the thin head countersunk type, are available with or without small projections (keys) attached to the head to keep the Rivnut from turning.
+**拆解**：主语 All Rivnuts，except the thin head countersunk type 为插入的排除成分；谓语 are available + with or without small projections (keys)；attached to the head 为过去分词短语作后置定语（= which are attached to the head）；to keep the Rivnut from turning 为目的状语。
+**要点**：except 前后用逗号隔开，说明「除……外」的例外；attached 是过去分词表被动，不是谓语，找到 are available 才是主句谓语。keep sb/sth from doing 意为「防止……做……」，from 在美式英语中可省略，但正式文本中保留更清楚。

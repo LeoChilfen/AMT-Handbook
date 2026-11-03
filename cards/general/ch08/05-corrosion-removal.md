@@ -32,30 +32,80 @@ Mask off any opening that would permit the stripping compound to get into aircra
 
 All depressions resulting from corrosion rework must be faired or blended with the surrounding surface. Fairing can be accomplished as follows:
 
-1. Remove rough edges and all corrosion from the damaged area. All dish-outs must be elliptically shaped with the major axis running spanwise on wings and horizontal stabilizers, longitudinally on fuselages, and vertically on vertical stabilizers. 2. In critical and highly stressed areas, all pits remaining after the removal of corrosion products must be blended out to prevent stress risers that may cause stress corrosion cracking. [Figure 8-23] On a non- critical structure, it is not necessary to blend out pits remaining after removal of corrosion products by abrasive blasting, since this results in unnecessary metal removal. Rework depressions by forming smoothly blended dish-outs, using a ratio of 20:1, length to depth. [Figure 8-24] In areas having closely-spaced, multiple pits, intervening material must be removed to minimize surface irregularity or waviness. [Figure 8-25] Steel nut-plates and steel fasteners are to be removed before blending corrosion out of aluminum structure. Steel or copper particles embedded in aluminum can become a point of future corrosion. All corrosion products must be removed during blending to prevent reoccurrence of corrosion.
+1. Remove rough edges and all corrosion from the damaged area. All dish-outs must be elliptically shaped with the major axis running spanwise on wings and horizontal stabilizers, longitudinally on fuselages, and vertically on vertical stabilizers. 2. In critical and highly stressed areas, all pits remaining after the removal of corrosion products must be blended out to prevent stress risers that may cause stress corrosion cracking. On a non- critical structure, it is not necessary to blend out pits remaining after removal of corrosion products by abrasive blasting, since this results in unnecessary metal removal. Rework depressions by forming smoothly blended dish-outs, using a ratio of 20:1, length to depth. In areas having closely-spaced, multiple pits, intervening material must be removed to minimize surface irregularity or waviness. Steel nut-plates and steel fasteners are to be removed before blending corrosion out of aluminum structure. Steel or copper particles embedded in aluminum can become a point of future corrosion. All corrosion products must be removed during blending to prevent reoccurrence of corrosion.
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（15 段）。专业术语按行业惯例，数字与缩写保留。 -->
+总的来说，任何完整的腐蚀处理都包括：清洁并剥除腐蚀区域的涂层，尽可能多地清除腐蚀产物，中和蚀坑和缝隙中残留的物质，恢复保护性表面膜，以及施加临时性或永久性涂层或漆层。腐蚀损伤的修复包括清除所有腐蚀和腐蚀产物。当腐蚀损伤严重并超过飞机或零件制造商规定的损伤限值时，该零件必须更换。以下各段讨论的是飞机表面和部件上腐蚀侵蚀的修复，这些部位的劣化尚未发展到需要对所涉零件返工或结构修理的程度。
+
+清除腐蚀有几种标准方法。通常用来除腐蚀的方法是机械法和化学法。机械法包括用磨料垫、砂纸或金属绵手工打磨，以及使用磨料垫、砂轮、砂盘和磨料橡胶垫进行动力机械打磨、研磨和抛光。不过，所用方法取决于金属和腐蚀程度。
+
+### 表面清洁与漆层去除
+
+清除腐蚀也包括去除覆盖在被侵蚀或可疑区域上的表面涂层。为使剥漆化合物发挥最大效力，必须清除该区域的油脂、油、污物或防腐剂。这一预清洁步骤还有助于确定腐蚀蔓延的范围，因为剥漆操作应保持在完整暴露腐蚀损伤所必需的最小限度内。任何壁板上若腐蚀大面积蔓延，都要对整段进行完全处理。
+
+清洁所用材料的类型取决于要清除的污物的性质。现代环境标准鼓励尽可能使用水基、无毒清洁化合物。在某些地方，当地或州法律可能要求使用此类产品，并禁止使用含挥发性有机化合物（VOC）的溶剂。在允许的地方，可使用干洗溶剂（P-D-680）去除油脂、油或软的防腐化合物。对于厚或已干硬的防腐剂的重度清除，还有其他溶剂乳化型化合物可供使用。
+
+通用型水溶性剥漆剂可用于大多数场合。还有其他对飞机结构影响极小的除漆方法，这些方法被认为「环境友好」。
+
+只要可行，任何大面积的化学除漆都应在室外（露天）进行，最好在阴凉处。如果必须在室内除漆，则必须保证充分通风。合成橡胶表面，包括飞机轮胎、织物和亚克力，都必须彻底保护，避免与除漆剂接触。使用除漆剂时必须小心，尤其是在燃气或水密接缝密封胶附近，因为剥漆剂往往会使这些密封胶软化并破坏其完整性。
+
+应遮蔽任何可能使剥漆化合物进入飞机内部或关键空腔的开口。剥漆剂有毒，所含成分对皮肤和眼睛都有害。因此，应戴橡胶手套、耐酸材料围裙和护目镜。通用剥漆程序如下：
+
+1. 用剥漆剂涂刷整个待剥区域，涂层厚度为 1/32 英寸至 1/16 英寸。任何漆刷都可作为令人满意的涂抹工具，只是刷毛会因除漆剂对粘合剂的作用而松脱，而且该刷子接触过除漆剂后不得再用于其他用途。
+
+2. 让剥漆剂在表面停留足够长的时间，使漆层起皱并鼓起。这可能需要 10 分钟到数小时，取决于温度、湿度以及被去除漆层的状况。用饱蘸除漆剂的鬃刷擦洗表面，使仍附着在金属上的涂层进一步松脱。
+
+3. 在漆层仍然牢固附着或剥漆剂已干的地方，视需要重新涂刷剥漆剂，并重复上述过程。只能使用非金属刮刀来帮助清除顽固的漆层。专用于剥漆的无纺磨料垫也可能有助于清除已松动的漆层。
+
+4. 用水和扫帚、刷子或新的无纺磨料垫冲洗并擦洗表面，以去除松动的漆层和残留的剥漆剂。如果有水喷淋条件，就把低压至中压的水流直接喷在正在擦洗的区域上。如果有蒸汽清洁设备且区域足够大，可用该设备配合蒸汽清洁剂溶液完成清洁。对面积较小的区域，可使用任何能保证清洗区彻底冲洗的方法。处置剥下的残留物时，应注意遵守环境法规。
+
+### 返工区域的整流或过渡
+
+因腐蚀返工而产生的所有凹陷，都必须与周围表面整流或过渡平顺。整流可按下列方法进行：
+
+1. 清除损伤区域的粗糙边缘和所有腐蚀。所有研磨出的凹坑都必须呈椭圆形，其长轴在机翼和水平安定面上沿展向，在机身上沿纵向，在垂直安定面上沿垂直方向。2. 在关键区域和高应力区域，清除腐蚀产物后残留的所有蚀坑都必须打磨过渡掉，以防止可能引起应力腐蚀开裂的应力集中。在非关键结构上，不必用喷砂法打磨过渡去除腐蚀产物后残留的蚀坑，因为那会造成不必要的金属去除。返工凹陷时，应打磨成平顺过渡的椭圆形凹坑，长深比为 20:1。在密集多蚀坑的区域，必须去除中间的材料，以减小表面不平整或波纹。在从铝结构中打磨去除腐蚀之前，应拆下钢制托板螺母和钢制紧固件。嵌入铝中的钢或铜颗粒会成为将来腐蚀的起点。打磨过程中必须清除所有腐蚀产物，以防止腐蚀再次发生。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Corrosion —— The deterioration of metal by chemical or electrochemical attack.
-- Humidity —— The amount of water vapor in the air.
-- Matter —— Any substance that has mass and takes up space.
-- Pressure —— The amount of force acting on a specific amount of surface area, typically measured in pounds per square inch or psi.
-- Ratio —— The comparison of two numbers or quantities.
-- Repair —— The restoration of an aircraft component to its previous state.
-- Stress corrosion —— Occurs as the result of the combined effect of sustained tensile stresses and a corrosive environment.
-- Stress —— The internal resistance of an object to external forces attempting to strain or deform that object. Measured in pounds per square foot or pounds per square inch
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| corrosion damage | n.phr. | 腐蚀损伤 | 超过制造商限值时必须更换零件 |
+| stripping compound | n.phr. | 剥漆化合物 | 除漆前须先去除油脂油污以保证效力 |
+| volatile organic compound (VOC) | n.phr. | 挥发性有机化合物 | 部分地区的法规禁止使用含 VOC 的溶剂 |
+| dry cleaning solvent | n.phr. | 干洗溶剂 | 原文给出规范号 P-D-680，用于去油脂 |
+| solvent emulsion type | n.phr. | 溶剂乳化型 | 清除厚或干硬防腐剂时可用的另一类化合物 |
+| water soluble stripper | n.phr. | 水溶性剥漆剂 | 通用型，适用于大多数剥漆场合 |
+| seam sealant | n.phr. | 接缝密封胶 | 剥漆剂会使其软化、破坏其完整性 |
+| acrylic | n. | 亚克力（丙烯酸材料） | 与轮胎、织物并列，须防除漆剂接触 |
+| bristle brush | n.phr. | 鬃刷 | 蘸除漆剂擦洗表面，使涂层松脱 |
+| nonmetallic scraper | n.phr. | 非金属刮刀 | 允许用来刮除顽固漆层的唯一工具类型 |
+| fairing | n. | 整流、过渡平顺 | 把返工凹陷磨成与周围表面平顺过渡 |
+| stress corrosion cracking | n.phr. | 应力腐蚀开裂 | 蚀坑造成应力集中后可能引发 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① involve + 多个并列动名词宾语
+**原句**：In general, any complete corrosion treatment involves cleaning and stripping of the corroded area, removing as much of the corrosion products as practicable, neutralizing any residual materials remaining in pits and crevices, restoring protective surface films, and applying temporary or permanent coatings or paint finishes.
+**拆解**：主句 any complete corrosion treatment involves…；involves 后接五个并列的动名词短语作宾语：cleaning and stripping of…、removing as much…as practicable、neutralizing…remaining…、restoring…、applying…；removing 后的 as much…as practicable 是「尽可能多」的比较结构。
+**要点**：involve 后接动名词，不能接不定式；五项之间用逗号分隔，最后一项前加 and；as much of the corrosion products as practicable 中 of 短语把 as much 限定在「腐蚀产物」上，不能写成 as many。remaining in pits and crevices 是现在分词作后置定语，等于 that remain。
+
+### ② 过去分词短语作后置定语（limits set by…）
+**原句**：When the corrosion damage is severe and exceeds the damage limits set by the aircraft or parts manufacturer, the part must be replaced.
+**拆解**：when 引导时间状语从句，主语 the corrosion damage 带两个并列谓语 is severe 与 exceeds the damage limits；set by the aircraft or parts manufacturer 是过去分词短语作后置定语，修饰 limits；主句 the part must be replaced 为带情态动词的被动语态。
+**要点**：过去分词作定语表示被动和已完成，set by… 相当于 which are set by…；主句用 must be replaced 表达强制性结论，与从句的「超过限值」构成条件—后果关系。注意 the aircraft or parts manufacturer 中的 or 表示「飞机或零件制造商」，即二者之一。
+
+### ③ be an aid in doing + since 原因从句
+**原句**：This preliminary cleaning operation is also an aid in determining the extent of the spread of the corrosion, since the stripping operation is held to the minimum consistent with full exposure of the corrosion damage.
+**拆解**：主语 This preliminary cleaning operation，系动词 is，表语 an aid，in determining… 是介词短语说明「在哪方面有帮助」；since 引导原因状语从句，从句为被动结构 is held to the minimum，consistent with full exposure… 是形容词短语后置修饰 minimum。
+**要点**：an aid in doing 中的 in 是介词，后接动名词，也可换用 an aid to doing；be held to the minimum 意为「被控制在最低限度」，to 表示程度；consistent with 是固定搭配，意为「与……相符、在……允许范围内」。
+
+### ④ wherever 引导让步状语从句（省略形式）+ be to be done
+**原句**：Wherever practicable, chemical paint removal from any large area is to be accomplished outside (in open air) and preferably in shaded areas.
+**拆解**：Wherever practicable 是 wherever it is practicable 的省略形式，作让步/条件状语；主句主语 chemical paint removal from any large area，谓语 is to be accomplished 为「be + 不定式被动」；outside (in open air) 与 preferably in shaded areas 是两个并列的地点状语。
+**要点**：wherever 引导的从句主语与主句一致且含 be 时可省略，只留形容词；be to be done 在规程类文本中表示「应当（被）做」，比 must be done 语气缓和；preferably 修饰整个地点状语，意为「最好在……」。
+
+### ⑤ 祈使句 + that 定语从句 + permit…to do
+**原句**：Mask off any opening that would permit the stripping compound to get into aircraft interiors or critical cavities.
+**拆解**：Mask off any opening 为祈使句，Mask off 是「遮蔽、封住」的短语动词；that would permit… 是定语从句修饰 opening，从句中 permit 后接宾语 the stripping compound 和不定式 to get into… 作宾语补足语。
+**要点**：permit sb/sth to do sth 意为「允许某人/某物做某事」，此处主语是物（开口），故译为「使剥漆化合物得以进入」；would 在此表示「可能会」，说明封堵的理由是潜在的后果，而非已发生的事实。

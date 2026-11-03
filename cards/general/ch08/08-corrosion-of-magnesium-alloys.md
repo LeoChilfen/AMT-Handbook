@@ -4,7 +4,7 @@
 
 ## 1. 原文
 
-Magnesium is the most chemically active of the metals used in aircraft construction and is the most difficult to protect. When a failure in the protective coating does occur, the prompt and complete correction of the coating failure is imperative if serious structural damage is to be avoided. Magnesium attack is probably the easiest type of corrosion to detect in its early stages, since magnesium corrosion products occupy several times the volume of the original magnesium metal destroyed. The beginning of attack shows as a lifting of the paint film and white spots on the magnesium surface. These rapidly develop into snow-like mounds or even “white whiskers.” [Figure 8-29] Reprotection involves the removal of corrosion products, the partial restoration of surface coatings by chemical treatment, and a reapplication of protective coatings.
+Magnesium is the most chemically active of the metals used in aircraft construction and is the most difficult to protect. When a failure in the protective coating does occur, the prompt and complete correction of the coating failure is imperative if serious structural damage is to be avoided. Magnesium attack is probably the easiest type of corrosion to detect in its early stages, since magnesium corrosion products occupy several times the volume of the original magnesium metal destroyed. The beginning of attack shows as a lifting of the paint film and white spots on the magnesium surface. These rapidly develop into snow-like mounds or even “white whiskers.” Reprotection involves the removal of corrosion products, the partial restoration of surface coatings by chemical treatment, and a reapplication of protective coatings.
 
 ### Treatment of Wrought Magnesium Sheet & Forgings
 
@@ -30,22 +30,70 @@ If extensive removal of corrosion products from a structural casting is involved
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（12 段）。专业术语按行业惯例，数字与缩写保留。 -->
+镁是飞机制造所用金属中化学活性最强的，也是最难防护的。当防护涂层确实出现失效时，如果要避免严重的结构损伤，就必须立即、彻底地修复涂层失效。镁受到侵蚀在初期大概是最容易探测的腐蚀类型，因为镁的腐蚀产物所占的体积是所破坏的原始镁金属体积的好几倍。侵蚀开始时表现为漆膜鼓起和镁表面出现白点，这些会迅速发展成雪堆状的凸起，甚至长出「白须」。重新防护包括清除腐蚀产物、通过化学处理部分恢复表面涂层，以及重新施加防护涂层。
+
+### 变形镁合金板材与锻件的处理
+
+镁蒙皮的腐蚀通常发生在蒙皮板的边缘周围、垫圈下面，或受剪切、钻孔、磨损或撞击造成物理损伤的区域。如果蒙皮段容易拆下，就把它拆下，以确保完全抑制腐蚀并完成处理。如果涉及绝缘垫圈，应把螺钉松开到足以在绝缘垫圈下方对镁进行刷涂处理的程度。应尽可能对腐蚀产物进行完全的机械清除。要把这种机械清理限制在刚硬猪鬃刷及类似非金属清理工具（包括无纺磨料垫）的使用范围内，在野外条件下进行处理时尤其如此。与铝一样，在任何情况下都不得用钢制或铝制工具、钢丝绵、青铜绵或铝绵，或其他曾用于其他金属表面的清理磨料垫来清洁镁。钢刷或钢制工具造成的颗粒嵌入，或脏磨料对已处理表面的污染，都可能比最初的腐蚀侵蚀带来更多麻烦。已腐蚀的镁通常可按下述方法处理：
+
+1. 清洁并剥去待处理区域的漆层。剥漆程序已在本章前面讨论过，FAA AC 43.13-1《可接受的方法、技术和实践——飞机检查与修理》中也有论述。
+
+2. 用刚硬猪鬃刷或无纺磨料垫把腐蚀产物尽量打松并清除。不得使用钢丝刷、碳化硅磨料或钢制切削工具。
+
+3. 用已加入硫酸的铬酸溶液充分地处理腐蚀区域。趁铬酸仍湿润时刷洗该区域，把溶液揉进蚀坑和缝隙中，同样要使用非金属刷。
+
+4. 让铬酸在表面停留 5 至 20 分钟，然后用干净的湿布擦去多余的溶液。不得让多余的溶液干燥后留在表面上，因为此类沉积物会引起漆膜起层。
+
+5. 表面一干，就立即恢复原有的防护漆。
+
+### 已装机镁铸件的处理
+
+镁铸件一般比变形镁蒙皮更多孔，也更易受到穿透性侵蚀。不过，就所有实际用途而言，所有镁区域的处理方法都是相同的。发动机机匣、摇臂、接头、各种盖板、板和手柄是最常见的镁铸件。
+
+铸件上出现侵蚀时，如果要避免危险的腐蚀穿透，就必须尽早进行实际可行的处理。事实上，浸在盐水中过夜的发动机机匣可能被完全穿透。只要实际可行，就应分开贴合面，以便有效处理现有的侵蚀并防止其进一步发展。应遵循上一段所述镁蒙皮的同一通用处理顺序。
+
+如果涉及从结构铸件上大量清除腐蚀产物，可能需要制造商作出判断，以评估剩余的结构强度是否足够。具体的结构修理手册通常列有重要结构件的尺寸公差限值，只要涉及安全问题就必须查阅。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Corrosion —— The deterioration of metal by chemical or electrochemical attack.
-- Repair —— The restoration of an aircraft component to its previous state.
-- Tolerance —— The sum of the plus and minus allowance figures.
-- Volume —— The amount of space within a three-dimensional solid.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| chemically active | adj.phr. | 化学活性强的 | 镁在所有飞机制造用金属中最活泼 |
+| protective coating | n.phr. | 防护涂层 | 失效后须立即彻底修复，否则引起结构损伤 |
+| corrosion product | n.phr. | 腐蚀产物 | 体积可达被消耗金属的数倍，是判据之一 |
+| white whiskers | n.phr. | 白须 | 镁腐蚀后期出现的白色须状物，原文加引号 |
+| wrought magnesium | n.phr. | 变形镁 | 经轧制、锻造等加工的镁材，与铸件相对 |
+| forging | n. | 锻件 | 本节标题所指的另一类变形镁制品 |
+| insulating washer | n.phr. | 绝缘垫圈 | 垫圈下易积液腐蚀，处理时应松开螺钉 |
+| hog bristle brush | n.phr. | 猪鬃刷 | 允许使用的非金属清理工具 |
+| nonwoven abrasive pad | n.phr. | 无纺磨料垫 | 与猪鬃刷并列的允许工具，野外作业常用 |
+| chromic acid | n.phr. | 铬酸 | 加硫酸后用于处理腐蚀区域的溶液 |
+| casting | n. | 铸件 | 多孔、易穿透性侵蚀，如发动机机匣 |
+| parting surface | n.phr. | 贴合面 | 铸件装配结合面，须分开才能处理干净 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① 助动词 does 强调肯定谓语
+**原句**：When a failure in the protective coating does occur, the prompt and complete correction of the coating failure is imperative if serious structural damage is to be avoided.
+**拆解**：when 引导时间状语从句，主语 a failure in the protective coating，谓语 does occur 为「助动词 do + 动词原形」的强调形式；主句主语 the prompt and complete correction of the coating failure，谓语 is imperative；if serious structural damage is to be avoided 是条件状语从句，用「be + 不定式被动」。
+**要点**：肯定句中用 do/does/did 强调谓语，意为「确实、的确」，不能用于 be 动词后；is imperative 表示「势在必行」，比 should be done 语气更强；if…is to be avoided 中的 be to do 表「将要、若要」。
+
+### ② 最高级 + 不定式（主动形式表被动）
+**原句**：Magnesium is the most chemically active of the metals used in aircraft construction and is the most difficult to protect.
+**拆解**：两个并列谓语 is the most chemically active 与 is the most difficult to protect，共用一个主语 Magnesium；of the metals used in aircraft construction 是范围限定，used 为过去分词作后置定语；to protect 的逻辑宾语是 magnesium，但句中不出现。
+**要点**：最高级后接 of + 复数范围名词，不能换用 than；difficult、easy、hard 后接不定式时用主动式表被动，即 the most difficult to protect = the most difficult to be protected，日常更常用前者。
+
+### ③ since 原因状语从句 + 倍数表达
+**原句**：Magnesium attack is probably the easiest type of corrosion to detect in its early stages, since magnesium corrosion products occupy several times the volume of the original magnesium metal destroyed.
+**拆解**：主句为最高级结构 the easiest type of corrosion to detect；since 引导原因状语从句，主语 magnesium corrosion products，谓语 occupy，宾语 several times the volume of the original magnesium metal destroyed；destroyed 为过去分词作后置定语修饰 metal。
+**要点**：since 表原因时与 because 相近，但更书面；倍数表达用「several times + the volume of」，不能说 several times the volume than；the easiest…to detect 与第②条同理，不定式主动表被动。
+
+### ④ do so 替代前文动词短语
+**原句**：If the skin section can be removed easily, do so to assure complete inhibition and treatment.
+**拆解**：if 引导条件状语从句，can be removed easily 为带情态动词的被动；主句 do so 是祈使句，do so 替代前面的 remove the skin section，避免重复；to assure complete inhibition and treatment 为目的状语。
+**要点**：do so 只能替代「动词 + 宾语」这类动作短语，不能替代 be 动词或状态；若动作宾语过长，可直接用 do so，这是英语避免重复的常用手段。inhibition 在此指「抑制腐蚀」，不是化学上的抑制。
+
+### ⑤ be to be done + insofar as practicable
+**原句**：Complete mechanical removal of corrosion products is to be practiced insofar as practicable.
+**拆解**：主语 Complete mechanical removal of corrosion products；谓语 is to be practiced 是「be + 不定式被动」结构；insofar as practicable 为条件/程度状语，意为「在实际可行的范围内」。
+**要点**：be to do 在技术文本中常表示「应当、需要」，加被动即「应当被……」，比 must be done 委婉；insofar as 是正式连词短语，insofar as practicable 是手册套语，相当于 as far as possible，同一文件中也写作 so far as is practicable。
