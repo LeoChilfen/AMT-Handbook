@@ -12,7 +12,7 @@ Earlier in this chapter it was identified that the CG for an object is the point
 
 A more realistic way to find the CG for an object, especially an airplane, is to place it on a minimum of two scales and calculate the moment value for each scale reading. There is a plank that is 200" long, with the left end being the datum (zero arm), and 6 weights placed at various locations along the length of the plank.
 
-To calculate the CG for the object, the moments for all the weights need to be calculated and then summed, and the weights need to be summed. In the four-column table, the item, weight, and arm are listed in the first three columns, with the information coming from product of the weight and arm. The weight and moment columns are summed, with the CG being equal to the total moment divided by the total weight. The arm column is not summed. The number appearing at the bottom of that column is the CG.
+To calculate the CG for the object, the moments for all the weights need to be calculated and then summed, and the weights need to be summed. In the four-column table, the item, weight, and arm are listed in the first three columns, with the information in the fourth column coming from the product of the weight and arm. The weight and moment columns are summed, with the CG being equal to the total moment divided by the total weight. The arm column is not summed. The number appearing at the bottom of that column is the CG.
 
 CG = Total Moment ÷ Total Weight = 52,900 in-lb ÷ 495 lb = 106.9" (106.87 rounded to tenths)
 
