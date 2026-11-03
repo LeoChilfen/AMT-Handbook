@@ -36,13 +36,13 @@ The normal tie-down procedure for heavy aircraft includes the following:
 
 ### Tie-Down Procedures for Seaplanes
 
-Seaplanes can be moored to a buoy, weather permitting, or tied to a dock. Weather causes wave action, and waves cause the seaplane to bob and roll. This bobbing and rolling while
+Seaplanes can be moored to a buoy, weather permitting, or tied to a dock. Weather causes wave action, and waves cause the seaplane to bob and roll.
 
 ### Tie-Down Procedures for Ski Planes
 
 Ski planes are tied down, if the securing means are available, in the same manner as land planes. Ski-equipped airplanes can be secured on ice or in snow by using a device called a dead-man. A dead-man is any item at hand, such as a piece of pipe, log, and so forth, that a rope is attached to and buried in a snow or ice trench. Using caution to keep the free end of the rope dry and unfrozen, snow is packed in the trench. If available, pour water into the trench; when it is frozen, tie down the aircraft with the free end of the rope.
 
-tied to a dock can cause damage. When warning of an impending storm is received and it is not possible to fly the aircraft out of the storm area, some compartments of the seaplane can be flooded, partially sinking the aircraft. Tie down the aircraft securely to anchors. Seaplanes tied down on land have been saved from high-wind damage by filling the floats with water in addition to tying the aircraft down in the usual manner. During heavy weather, if possible, remove the seaplane from the water and tie down in the same manner as a land plane. If this is not possible, the seaplane could be anchored in a sheltered area away from the wind and waves.
+This bobbing and rolling while tied to a dock can cause damage. When warning of an impending storm is received and it is not possible to fly the aircraft out of the storm area, some compartments of the seaplane can be flooded, partially sinking the aircraft. Tie down the aircraft securely to anchors. Seaplanes tied down on land have been saved from high-wind damage by filling the floats with water in addition to tying the aircraft down in the usual manner. During heavy weather, if possible, remove the seaplane from the water and tie down in the same manner as a land plane. If this is not possible, the seaplane could be anchored in a sheltered area away from the wind and waves.
 
 ### Tie-Down Procedures for Helicopters
 
@@ -104,13 +104,13 @@ When securing powered parachutes, pack the parachute in a bag to prevent the chu
 
 ### 水上飞机的系留程序
 
-天气允许时，水上飞机可系泊在浮标上，也可系在码头上。天气会引起波浪，波浪使水上飞机上下起伏、左右横摇。这种上下起伏和横摇在
+天气允许时，水上飞机可系泊在浮标上，也可系在码头上。天气会引起波浪，波浪使水上飞机上下起伏、左右横摇。
 
 ### 雪橇飞机的系留程序
 
 若有可用的系留手段，雪橇飞机按与陆上飞机相同的方式系留。装有雪橇的飞机可用一种称为"埋锚"（dead-man）的装置固定在冰面或雪地上。埋锚就是手边任何可用的物件，如一段管子、一根圆木等等，把绳索系在其上，埋进雪沟或冰沟里。填雪入沟时要小心保持绳的自由端干燥不冻。若有条件，向沟内灌水；待水冻结后，用绳的自由端系留飞机。
 
-（接上文海上系留）系在码头上可能造成损坏。当收到即将来临的风暴警报、且无法将飞机飞离风暴区时，可将水上飞机的部分舱室灌水，使飞机部分下沉。应把飞机牢固地系留在地锚上。系留在陆地上的水上飞机，除按常规方式系留外，还通过向浮筒内灌水，避免了高风损坏。恶劣天气时，如有可能，应将水上飞机吊离水面，按陆上飞机的方式系留。若无法做到，可将水上飞机锚泊在避风避浪的遮蔽水域。
+在码头上系留时，这种上下起伏与摇摆可能造成损坏。当收到即将来临的风暴警报、且无法将飞机飞离风暴区时，可将水上飞机的部分舱室灌水，使飞机部分下沉。应把飞机牢固地系留在地锚上。系留在陆地上的水上飞机，除按常规方式系留外，还通过向浮筒内灌水，避免了高风损坏。恶劣天气时，如有可能，应将水上飞机吊离水面，按陆上飞机的方式系留。若无法做到，可将水上飞机锚泊在避风避浪的遮蔽水域。
 
 ### 直升机的系留程序
 

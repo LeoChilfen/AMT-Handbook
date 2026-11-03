@@ -1,7 +1,3 @@
-# Fuel Servicing of Aircraft
-
-> 通用 Ch 01 · Fuel Servicing of Aircraft · 原文 PDF 第 47 页
-
 ## 1. 原文
 
 ### Types of Fuel and Identification
@@ -48,7 +44,9 @@ The proper fueling of an aircraft is the responsibility of the owner/operator. T
 
 Prior to fueling, the person fueling must check the following:
 
-1. Ensure all aircraft electrical systems and electronic devices, including radar, are turned off. 2. Do not carry anything in the shirt pockets. These items could fall into the fuel tanks.
+1. Ensure all aircraft electrical systems and electronic devices, including radar, are turned off.
+
+2. Do not carry anything in the shirt pockets. These items could fall into the fuel tanks.
 
 3. Ensure no flame-producing devices are carried by anyone engaged in the fueling operation. A moment of carelessness could cause an accident.
 
@@ -58,7 +56,9 @@ Prior to fueling, the person fueling must check the following:
 
 6. Wear eye protection. Although generally not as critical as eye protection, other forms of protection, such as rubber gloves and aprons, can also protect the skin from the effects of spilled or splashed fuel.
 
-7. Do not fuel aircraft if there is danger of other aircraft in the vicinity blowing dirt in the direction of the aircraft being fueled. Blown dirt, dust, or other contaminants can enter an open fuel tank, contaminating the entire contents of the tank. 8. Do not fuel an aircraft when there is lightning within 5 miles.
+7. Do not fuel aircraft if there is danger of other aircraft in the vicinity blowing dirt in the direction of the aircraft being fueled. Blown dirt, dust, or other contaminants can enter an open fuel tank, contaminating the entire contents of the tank.
+
+8. Do not fuel an aircraft when there is lightning within 5 miles.
 
 9. Do not fuel an aircraft within 500 feet of operating ground radar.
 
@@ -68,9 +68,7 @@ When using mobile fueling equipment:
 
 2. Set the hand brake of the fuel truck, and chock the wheels to prevent rolling.
 
-3. Ground the aircraft and then ground the truck. Next, ground or bond them together by running a connecting wire between the aircraft and the fuel truck. This may be done by three separate ground wires or by a “Y”
-
-cable from the fuel truck.
+3. Ground the aircraft and then ground the truck. Next, ground or bond them together by running a connecting wire between the aircraft and the fuel truck. This may be done by three separate ground wires or by a “Y” cable from the fuel truck.
 
 4. Ensure that the grounds are in contact with bare metal or are in the proper grounding points on the aircraft. Do not use the engine exhaust or propeller as grounding points. Damage to the propeller can result, and there is no way of quickly ensuring a positive bond between the engine and the airframe.
 
@@ -144,7 +142,9 @@ General precautions when defueling are:
 
 加油前，加油人员必须检查以下各项：
 
-1. 确认飞机所有电气系统和电子设备（包括雷达）均已关闭。2. 衬衣口袋里不得装任何物品，这些物品可能掉入油箱。
+1. 确认飞机所有电气系统和电子设备（包括雷达）均已关闭。
+
+2. 衬衣口袋里不得装任何物品，这些物品可能掉入油箱。
 
 3. 确认参与加油作业的任何人都未携带产生火焰的装置。一时的疏忽就可能酿成事故。
 
@@ -154,7 +154,9 @@ General precautions when defueling are:
 
 6. 佩戴护目镜。其他防护用品（如橡胶手套和围裙）通常虽不如护目镜关键，但也能保护皮肤免受溢出或溅出燃油的影响。
 
-7. 如果附近其他飞机有可能把尘土吹向正在加油的飞机，不得为该机加油。被吹起的尘土、灰尘或其他污染物会进入敞开的油箱，污染整箱燃油。8. 5 英里范围内有闪电时，不得为飞机加油。
+7. 如果附近其他飞机有可能把尘土吹向正在加油的飞机，不得为该机加油。被吹起的尘土、灰尘或其他污染物会进入敞开的油箱，污染整箱燃油。
+
+8. 5 英里范围内有闪电时，不得为飞机加油。
 
 9. 不得在距正在工作的地面雷达 500 英尺以内为飞机加油。
 
@@ -164,9 +166,7 @@ General precautions when defueling are:
 
 2. 拉紧加油车的手制动，并垫上轮挡防止溜动。
 
-3. 先为飞机接地，再为加油车接地。然后通过一根连接线把飞机与加油车连接起来接地或搭接。这可以用三根独立的接地线完成，也可以用加油车引出的“Y”形
-
-电缆完成。（原文此处因版面被切成两块，本块为上一块句子的延续）
+3. 先为飞机接地，再为加油车接地。然后通过一根连接线把飞机与加油车连接起来接地或搭接。这可以用三根独立的接地线完成，也可以用加油车引出的“Y”形电缆完成。
 
 4. 确认接地线接触的是裸金属或飞机上正确的接地点。不得以发动机排气管或螺旋桨作为接地点：这可能损坏螺旋桨，而且无法迅速确认发动机与机体之间已可靠搭接。
 

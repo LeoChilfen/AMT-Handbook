@@ -94,11 +94,19 @@ To start an engine on the ground, perform the following operations:
 
 3. Place the start switch in the “start” position. This starts the engine turning.
 
-4. Place the ignition switch on. (On some engines, the ignition is activated by moving the fuel lever.) 5. The fuel is now turned on. This is accomplished by moving the condition lever to the “on” position.
+4. Place the ignition switch on. (On some engines, the ignition is activated by moving the fuel lever.)
 
-6. Monitor the engine lights of the exhaust temperature. If it exceeds the limits, shut the engine down. 7. Check the oil pressure and temperature. 8. After the engine reaches a self-sustaining speed, the starter is disengaged.
+5. The fuel is now turned on. This is accomplished by moving the condition lever to the “on” position.
 
-9. The engine continues to accelerate up to idle. 10. Maintain the power lever at the “start” position until the specified minimum oil temperature is reached.
+6. Monitor the engine lights of the exhaust temperature. If it exceeds the limits, shut the engine down.
+
+7. Check the oil pressure and temperature.
+
+8. After the engine reaches a self-sustaining speed, the starter is disengaged.
+
+9. The engine continues to accelerate up to idle.
+
+10. Maintain the power lever at the “start” position until the specified minimum oil temperature is reached.
 
 11. Disconnect the ground power supply, if used.
 
@@ -142,7 +150,9 @@ The following procedures are typical of those used to start many turbine engines
 
 5. Turn ignition switch on. (This is usually accomplished by moving the start lever toward the “on” position. A micro switch connected to the leveler turns on the ignition.)
 
-6. Move the start lever to “idle” or “start” position, this starts fuel flow into the engine. 7. Engine start (light off) is indicated by a rise in exhaust gas temperature.
+6. Move the start lever to “idle” or “start” position, this starts fuel flow into the engine.
+
+7. Engine start (light off) is indicated by a rise in exhaust gas temperature.
 
 8. If a two-spool engine, check rotation of fan or N1.
 
@@ -200,7 +210,9 @@ The attachment of the tow bar varies on different types of aircraft. Aircraft eq
 
 5. Under no circumstances is anyone permitted to walk or to ride between the nosewheel of an aircraft and the towing vehicle, nor ride on the outside of a moving aircraft or on the towing vehicle. In the interest of safety, no attempt to board or leave a moving aircraft or towing vehicle is permitted.
 
-6. The towing speed of the aircraft is not to exceed that of the walking team members. The aircraft’s engines usually are not operated when the aircraft is being towed into position. 7. The aircraft brake system is to be charged before each towing operation. Aircraft with faulty brakes are towed into position only for repair of brake systems, and then personnel must be standing by ready with chocks for emergency use. Chocks must be immediately available in case of an emergency throughout any towing operation.
+6. The towing speed of the aircraft is not to exceed that of the walking team members. The aircraft’s engines usually are not operated when the aircraft is being towed into position.
+
+7. The aircraft brake system is to be charged before each towing operation. Aircraft with faulty brakes are towed into position only for repair of brake systems, and then personnel must be standing by ready with chocks for emergency use. Chocks must be immediately available in case of an emergency throughout any towing operation.
 
 8. To avoid possible personal injury and aircraft damage during towing operations, entrance doors are closed, ladders retracted, and gear-down locks installed.
 
@@ -266,9 +278,13 @@ Taxi signals are usually given at night with the aid of illuminated wands attach
 
 2. 将混合比操纵杆置于所起动的发动机与化油器组合所推荐的位置。一般规则是：燃油喷射式发动机把混合比操纵杆放在“慢车切断”（idle cut-off）位置，浮子式化油器放在“全富油”（full rich）位置。许多轻型航空器装的是没有中间卡位的混合比拉杆。当此类操纵杆推到底、与仪表板齐平时，混合比即处于“全富油”位置；反之，把操纵杆完全拉出时，化油器处于“慢车切断”或“全贫油”位置。操作者可在两端之间的无标记中间位置中任选，以获得所需的混合比。
 
-3. 打开油门至能提供 1,000 至 1,200 rpm 的位置（约距“关闭”位置 1/8" 至 1/2"）。 4. 把预热或备用空气（化油器空气）操纵杆留在“冷”位，以防回火时造成损坏和起火。这些辅助加温装置在发动机暖机之后使用，可改善燃油雾化、防止火花塞积炭和结冰，并消除进气系统的结冰。
+3. 打开油门至能提供 1,000 至 1,200 rpm 的位置（约距“关闭”位置 1/8" 至 1/2"）。
 
-5. 间歇地把注油开关扳到“开”（起动过程中按压点火开关注油），或用注油泵打一至三下，视航空器装备而定。天气越冷，需要的注油量越多。 6. 接通起动机，待螺旋桨至少转过两整圈后，再打开点火开关。对于装有进气振动器（火花喷射式，即磁电机内带延迟断电器组件）的发动机，把开关转到“双”（both）位，再把开关转到“起动”位接通起动机；发动机起动后，把起动机开关松回“双”位。起动使用冲击联轴器磁电机的发动机时，把点火开关转到“左”位，把起动开关置于“起动”位；发动机起动后，松开起动开关。不得用起动机连续转动发动机超过 1 分钟。两次尝试之间应留 3 至 5 分钟让起动机冷却（起动机工作循环）。否则，起动机可能因过热而烧毁。
+4. 把预热或备用空气（化油器空气）操纵杆留在“冷”位，以防回火时造成损坏和起火。这些辅助加温装置在发动机暖机之后使用，可改善燃油雾化、防止火花塞积炭和结冰，并消除进气系统的结冰。
+
+5. 间歇地把注油开关扳到“开”（起动过程中按压点火开关注油），或用注油泵打一至三下，视航空器装备而定。天气越冷，需要的注油量越多。
+
+6. 接通起动机，待螺旋桨至少转过两整圈后，再打开点火开关。对于装有进气振动器（火花喷射式，即磁电机内带延迟断电器组件）的发动机，把开关转到“双”（both）位，再把开关转到“起动”位接通起动机；发动机起动后，把起动机开关松回“双”位。起动使用冲击联轴器磁电机的发动机时，把点火开关转到“左”位，把起动开关置于“起动”位；发动机起动后，松开起动开关。不得用起动机连续转动发动机超过 1 分钟。两次尝试之间应留 3 至 5 分钟让起动机冷却（起动机工作循环）。否则，起动机可能因过热而烧毁。
 
 7. 发动机平稳工作后，若起动时用的是“慢车切断”位，把混合比操纵杆移到“全富油”位。化油器式发动机本来就处于富油位置。检查滑油压力。
 
@@ -322,11 +338,19 @@ Taxi signals are usually given at night with the aid of illuminated wands attach
 
 3. 把起动开关置于“起动”位，发动机开始转动。
 
-4. 打开点火开关。（某些发动机通过移动燃油杆来接通点火。） 5. 此时打开燃油，做法是把状态杆移到“开”位。
+4. 打开点火开关。（某些发动机通过移动燃油杆来接通点火。）
 
-6. 监控排气温度的发动机指示灯。若超出限制，停车。 7. 检查滑油压力和温度。 8. 发动机达到自持转速后，起动机脱开。
+5. 此时打开燃油，做法是把状态杆移到“开”位。
 
-9. 发动机继续加速至慢车。 10. 把功率杆保持在“起动”位，直到达到规定的最低滑油温度。
+6. 监控排气温度的发动机指示灯。若超出限制，停车。
+
+7. 检查滑油压力和温度。
+
+8. 发动机达到自持转速后，起动机脱开。
+
+9. 发动机继续加速至慢车。
+
+10. 把功率杆保持在“起动”位，直到达到规定的最低滑油温度。
 
 11. 若使用了地面电源，将其断开。
 
@@ -370,7 +394,9 @@ Taxi signals are usually given at night with the aid of illuminated wands attach
 
 5. 打开点火开关。（这通常靠把起动杆移向“开”位来实现，与杆相连的微动开关接通点火。）
 
-6. 把起动杆移到“慢车”或“起动”位，燃油开始流入发动机。 7. 发动机起动（点亮）表现为排气温度上升。
+6. 把起动杆移到“慢车”或“起动”位，燃油开始流入发动机。
+
+7. 发动机起动（点亮）表现为排气温度上升。
 
 8. 若是双转子发动机，检查风扇或 N1 的转动。
 
@@ -428,7 +454,9 @@ APU 一般是较小的涡轮发动机，在地面为起动发动机提供压缩�
 
 5. 任何情况下都不允许任何人行走或乘坐于航空器前轮与牵引车之间，也不允许乘坐在移动中的航空器或牵引车外侧。为安全起见，不得试图上下移动中的航空器或牵引车。
 
-6. 航空器的牵引速度不得超过步行作业人员的速度。把航空器牵引到位时，通常不运转航空器发动机。 7. 每次牵引作业前都要给航空器刹车系统充压。刹车有故障的航空器只能为修理刹车系统而牵引到位，且此时人员必须手持轮挡待命以备急用。在整个牵引作业过程中，轮挡必须随时可取用。
+6. 航空器的牵引速度不得超过步行作业人员的速度。把航空器牵引到位时，通常不运转航空器发动机。
+
+7. 每次牵引作业前都要给航空器刹车系统充压。刹车有故障的航空器只能为修理刹车系统而牵引到位，且此时人员必须手持轮挡待命以备急用。在整个牵引作业过程中，轮挡必须随时可取用。
 
 8. 为避免可能的人员伤害和航空器损坏，牵引作业中应关闭舱门、收起登机梯并装好起落架下位锁。
 

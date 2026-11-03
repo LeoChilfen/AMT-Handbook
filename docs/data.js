@@ -2009,7 +2009,7 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch01-07",
     "seq": "07",
-    "title": "Fuel Servicing of Aircraft",
+    "title": "07-fuel-servicing-of-aircraft.md",
     "file": "07-fuel-servicing-of-aircraft.md"
    }
   ]
