@@ -14,7 +14,9 @@ Before starting an aircraft engine:
 
 2. Make sure that no property damage or personal injury occurs from the propeller blast or jet exhaust.
 
-3. If external electrical power is used for starting, ensure that it can be removed safely, and it is sufficient for the total starting sequence. 4. During any and all starting procedures, a “fireguard” equipped with a suitable fire extinguisher shall be stationed in an appropriate place. A fireguard is someone familiar with aircraft starting procedures. The fire extinguisher should be a CO 2 extinguisher of at least 5-pound capacity. The appropriate place is adjacent to the outboard side of the engine, in view of the pilot, and also where they can observe the engine/ aircraft for indication of starting problems.
+3. If external electrical power is used for starting, ensure that it can be removed safely, and it is sufficient for the total starting sequence.
+
+4. During any and all starting procedures, a “fireguard” equipped with a suitable fire extinguisher shall be stationed in an appropriate place. A fireguard is someone familiar with aircraft starting procedures. The fire extinguisher should be a CO 2 extinguisher of at least 5-pound capacity. The appropriate place is adjacent to the outboard side of the engine, in view of the pilot, and also where they can observe the engine/ aircraft for indication of starting problems.
 
 5. If the aircraft is turbine-engine powered, the area in front of the jet inlet must be kept clear of personnel, property, and/or debris (FOD).
 
