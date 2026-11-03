@@ -16,7 +16,11 @@ The self-plugging (friction lock) blind rivets are manufactured by several compa
 
 Self-plugging (friction lock) rivets are fabricated in two parts: a rivet head with a hollow shank or sleeve, and a stem that extends through the hollow shank.
 
-Several events, in their proper sequence, occur when a pulling force is applied to the stem of the rivet: 1. The stem is pulled into the rivet shank. 2. The mandrel portion of the stem forces the rivet shank to expand.
+Several events, in their proper sequence, occur when a pulling force is applied to the stem of the rivet:
+
+1. The stem is pulled into the rivet shank.
+
+2. The mandrel portion of the stem forces the rivet shank to expand.
 
 3. When friction (or pulling action pressure) becomes great enough, it causes the stem to snap at a breakoff groove on the stem. The plug portion (bottom end of the stem) is retained in the shank of the rivet giving the rivet much greater shear strength than could be obtained from a hollow rivet.
 
@@ -228,7 +232,11 @@ Receptacles for Airloc fasteners are manufactured in two types: rigid and floati
 
 自填塞（摩擦锁）铆钉由两部分制成：带空心杆（或套筒）的铆钉头，以及穿过空心杆的芯杆。
 
-对铆钉芯杆施加拉力时，会按适当顺序发生以下事件：1. 芯杆被拉入铆钉杆。2. 芯杆的芯轴部分迫使铆钉杆扩张。
+对铆钉芯杆施加拉力时，会按适当顺序发生以下事件：
+
+1. 芯杆被拉入铆钉杆。
+
+2. 芯杆的芯轴部分迫使铆钉杆扩张。
 
 3. 当摩擦（或拉拔作用压力）足够大时，芯杆会在杆上的断槽处断开。塞入部分（芯杆底端）留在铆钉杆内，使铆钉的剪切强度大大高于空心铆钉所能达到的强度。
 

@@ -38,7 +38,9 @@ The actual sequence of events is as follows:
 
 1. The incident occurred while working for a commercial airline. The pressure for getting the aircraft in the air is tremendous in this environment.
 
-2. Inventory error added to the pressure. The damaged part had been removed because the technician had queried and believed a replacement part was immediately available. 3. The company inspector was either unaware of regulatory requirements or simply did not care.
+2. Inventory error added to the pressure. The damaged part had been removed because the technician had queried and believed a replacement part was immediately available.
+
+3. The company inspector was either unaware of regulatory requirements or simply did not care.
 
 4. The second technician was either unaware of regulatory requirements or simply did not care.
 
@@ -146,7 +148,9 @@ Finally, the technician is encouraged to read the following code of ethics devel
 
 1. 事件发生在为一家商业航空公司工作期间。在这种环境里，让航空器升空的压力极大。
 
-2. 库存差错加重了压力。受损件之所以被拆下，是因为技术人员查询后相信替换件可以立即获得。3. 公司检查员要么不了解法规要求，要么根本不在乎。
+2. 库存差错加重了压力。受损件之所以被拆下，是因为技术人员查询后相信替换件可以立即获得。
+
+3. 公司检查员要么不了解法规要求，要么根本不在乎。
 
 4. 第二名技术人员要么不了解法规要求，要么根本不在乎。
 

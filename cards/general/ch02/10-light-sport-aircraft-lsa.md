@@ -16,7 +16,29 @@ FAA Form 337 (10/06) Federal Aviation Administration 2. Owner (As shown on regis
 
 6. Conformity Statement 7. Approval for Return to Service SAMPLE FAA Form 337 (10/06) 8. Description of Work Accomplished SAMPLE The ASTM developed a comprehensive list of consensus standards for use by manufacturers, regulators, maintenance facilities, LSA owners, and service providers. It is unique that these standards are the first ones in over 100 years to solely address the issue of recreational aircraft use. It is also the first complete set of industry consensus standards covering the design, manufacture, and use of recreational aircraft that was developed by a non-government agency. The ASTM committee that developed these LSA standards did so to ensure the quality of products and services to support both the national and the international regulatory structures for LSAs. Over 20 standards have been generated, and more are being developed to cover this diversity of aircraft. This handbook only incorporates a review of F2483-05, “Standard Practice for Maintenance and the Development of Maintenance Manuals for Light Sport Aircraft (LSA)” a six-page document comprised of the following 12 sections:
 
-1. Scope 2. Referenced Documents 3. Terminology 4. Significance and Use 5. Aircraft Maintenance Manual 6. Line Maintenance, Repairs, and Alterations 7. Heavy Maintenance, Repairs, and Alterations 8. Overhaul 9. Major Repairs and Alterations 10. Task-Specific Training 11. Safety Directives 12. Keywords The scope of that document is basically twofold:
+1. Scope
+
+2. Referenced Documents
+
+3. Terminology
+
+4. Significance and Use
+
+5. Aircraft Maintenance Manual
+
+6. Line Maintenance, Repairs, and Alterations
+
+7. Heavy Maintenance, Repairs, and Alterations
+
+8. Overhaul
+
+9. Major Repairs and Alterations
+
+10. Task-Specific Training
+
+11. Safety Directives
+
+12. Keywords The scope of that document is basically twofold:
 
 • To provide guidelines for the qualification necessary to accomplish various levels of maintenance on LSA.
 
@@ -106,7 +128,29 @@ Another major difference between LSA maintenance and traditional aircraft mainte
 
 （原文此处为 FAA Form 337 第 6–8 项栏目名的样张内容，无对应正文）ASTM 制定了一份供制造商、监管机构、维修单位、LSA 所有人和服务提供者使用的完整共识标准清单。其独特之处在于，这些标准是 100 多年来首批专门针对休闲类航空器使用问题的标准。它也是首套由非政府机构制定的、涵盖休闲类航空器设计、制造和使用的完整行业共识标准。制定这些 LSA 标准的 ASTM 委员会之所以这样做，是为了确保产品与服务质量，以支撑 LSA 的国内和国际监管体系。目前已产生 20 多项标准，还有更多标准正在制定，以覆盖这一类别航空器的多样性。本手册只收录了对 F2483-05《轻型运动航空器（LSA）维修与维修手册制定的标准做法》的评述，该文件共六页，由以下 12 节组成：
 
-1. 适用范围　2. 引用文件　3. 术语　4. 意义与用途　5. 航空器维修手册　6. 外场维修、修理与改装　7. 深度维修、修理与改装　8. 大修　9. 重大修理与改装　10. 任务专项培训　11. 安全指令　12. 关键词。该文件的范围基本上有两个方面：
+1. 适用范围
+
+2. 引用文件
+
+3. 术语
+
+4. 意义与用途
+
+5. 航空器维修手册
+
+6. 外场维修、修理与改装
+
+7. 深度维修、修理与改装
+
+8. 大修
+
+9. 重大修理与改装
+
+10. 任务专项培训
+
+11. 安全指令
+
+12. 关键词。该文件的范围基本上有两个方面：
 
 • 为完成 LSA 各级维修所必需的资格提供指南。
 

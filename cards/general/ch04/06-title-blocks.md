@@ -1,3 +1,7 @@
+# Title Blocks
+
+> 通用 Ch 04 · Title Blocks · 原文 PDF 第 127 页
+
 ## 1. 原文
 
 Every print must have some means of identification. This is provided by a title block. The title block consists of a drawing number and certain other data concerning the drawing and the object it represents. This information is grouped in a prominent place on the print, usually in the lower right-hand corner. Sometimes the title block is in the form of a strip extending almost the entire distance across the bottom of the sheet.

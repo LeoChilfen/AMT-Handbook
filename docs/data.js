@@ -2009,7 +2009,7 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch01-07",
     "seq": "07",
-    "title": "07-fuel-servicing-of-aircraft.md",
+    "title": "Fuel Servicing of Aircraft",
     "file": "07-fuel-servicing-of-aircraft.md"
    }
   ]
@@ -2246,19 +2246,19 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch04-05",
     "seq": "05",
-    "title": "05-types-of-drawings.md",
+    "title": "Types of Drawings",
     "file": "05-types-of-drawings.md"
    },
    {
     "slug": "general-ch04-06",
     "seq": "06",
-    "title": "06-title-blocks.md",
+    "title": "Title Blocks",
     "file": "06-title-blocks.md"
    },
    {
     "slug": "general-ch04-07",
     "seq": "07",
-    "title": "07-universal-numbering-system.md",
+    "title": "Universal Numbering System",
     "file": "07-universal-numbering-system.md"
    },
    {
@@ -2270,7 +2270,7 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch04-09",
     "seq": "09",
-    "title": "09-bill-of-material.md",
+    "title": "Bill of Material",
     "file": "09-bill-of-material.md"
    },
    {
@@ -2282,13 +2282,13 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch04-11",
     "seq": "11",
-    "title": "11-methods-of-illustration.md",
+    "title": "Methods of Illustration",
     "file": "11-methods-of-illustration.md"
    },
    {
     "slug": "general-ch04-12",
     "seq": "12",
-    "title": "12-lines-and-their-meanings.md",
+    "title": "Lines and Their Meanings",
     "file": "12-lines-and-their-meanings.md"
    },
    {
@@ -2300,7 +2300,7 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch04-14",
     "seq": "14",
-    "title": "14-reading-and-interpreting-drawings.md",
+    "title": "Reading and Interpreting Drawings",
     "file": "14-reading-and-interpreting-drawings.md"
    },
    {
@@ -2330,7 +2330,7 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch04-19",
     "seq": "19",
-    "title": "19-digital-images.md",
+    "title": "Digital Images",
     "file": "19-digital-images.md"
    }
   ]
@@ -2353,19 +2353,19 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch05-02",
     "seq": "02",
-    "title": "02-energy.md",
+    "title": "Energy",
     "file": "02-energy.md"
    },
    {
     "slug": "general-ch05-03",
     "seq": "03",
-    "title": "03-force-work-power-and-torque.md",
+    "title": "Force, Work, Power, & Torque",
     "file": "03-force-work-power-and-torque.md"
    },
    {
     "slug": "general-ch05-04",
     "seq": "04",
-    "title": "04-simple-machines.md",
+    "title": "Simple Machines",
     "file": "04-simple-machines.md"
    },
    {
@@ -2377,7 +2377,7 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch05-06",
     "seq": "06",
-    "title": "06-motion.md",
+    "title": "Motion",
     "file": "06-motion.md"
    },
    {
@@ -2395,7 +2395,7 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch05-09",
     "seq": "09",
-    "title": "09-gas-laws.md",
+    "title": "Gas Laws",
     "file": "09-gas-laws.md"
    },
    {
@@ -2419,7 +2419,7 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch05-13",
     "seq": "13",
-    "title": "13-aircraft-theory-of-flight.md",
+    "title": "Aircraft Theory of Flight",
     "file": "13-aircraft-theory-of-flight.md"
    }
   ]

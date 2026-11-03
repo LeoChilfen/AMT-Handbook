@@ -18,7 +18,27 @@ If left unchecked, corrosion can cause eventual structural failure. The appearan
 
 Many factors affect the type, speed, cause, and seriousness of metal corrosion. Some of these factors that influence metal corrosion and the rate of corrosion are:
 
-1. Type of metal 2. Heat-treatment and grain direction 3. Presence of a dissimilar, less corrodible metal 4. Anodic and cathodic surface areas (in galvanic corrosion) 5. Temperature 6. Presence of electrolytes (hard water, salt water, battery fluids, etc.) 7. Availability of oxygen 8. Presence of biological organisms 9. Mechanical stress on the corroding metal 10. Time of exposure to a corrosive environment 11. Lead/graphite pencil marks on aircraft surface metals
+1. Type of metal
+
+2. Heat-treatment and grain direction
+
+3. Presence of a dissimilar, less corrodible metal
+
+4. Anodic and cathodic surface areas (in galvanic corrosion)
+
+5. Temperature
+
+6. Presence of electrolytes (hard water, salt water, battery fluids, etc.)
+
+7. Availability of oxygen
+
+8. Presence of biological organisms
+
+9. Mechanical stress on the corroding metal
+
+10. Time of exposure to a corrosive environment
+
+11. Lead/graphite pencil marks on aircraft surface metals
 
 Most pure metals are not suitable for aircraft construction and are used only in combination with other metals to form alloys. Most alloys are made up entirely of small crystalline regions called grains. Corrosion can occur on surfaces of those regions that are less resistant and also at boundaries between regions, resulting in the formation of pits and intergranular corrosion. Metals have a wide range of corrosion resistance.
 
@@ -90,7 +110,9 @@ Corrosion is a natural occurrence that attacks metal by chemical or electrochemi
 
 1. A metal subject to corrosion (anode)
 
-2. A dissimilar conductive material (cathode) that has less tendency to corrode 3. Presence of a continuous, conductive liquid path (electrolyte)
+2. A dissimilar conductive material (cathode) that has less tendency to corrode
+
+3. Presence of a continuous, conductive liquid path (electrolyte)
 
 4. Electrical contact between the anode and the cathode (usually in the form of metal to metal contact, such as rivets, bolts, and corrosion)
 
@@ -220,7 +242,27 @@ Fatigue corrosion involves cyclic stress and a corrosive extremely vulnerable. E
 
 许多因素会影响金属腐蚀的类型、速度、原因和严重程度。影响金属腐蚀及腐蚀速率的部分因素如下：
 
-1. 金属种类 2. 热处理与晶粒方向 3. 存在异种、较难腐蚀的金属 4. 阳极与阴极表面积（在电偶腐蚀中） 5. 温度 6. 存在电解质（硬水、盐水、电瓶液等） 7. 氧的可获得性 8. 生物有机体的存在 9. 腐蚀金属上的机械应力 10. 暴露于腐蚀环境的时间 11. 飞机表面金属上的铅笔（铅/石墨）痕迹
+1. 金属种类
+
+2. 热处理与晶粒方向
+
+3. 存在异种、较难腐蚀的金属
+
+4. 阳极与阴极表面积（在电偶腐蚀中）
+
+5. 温度
+
+6. 存在电解质（硬水、盐水、电瓶液等）
+
+7. 氧的可获得性
+
+8. 生物有机体的存在
+
+9. 腐蚀金属上的机械应力
+
+10. 暴露于腐蚀环境的时间
+
+11. 飞机表面金属上的铅笔（铅/石墨）痕迹
 
 大多数纯金属不适合用于飞机制造，只能与其他金属结合形成合金使用。大多数合金完全由称为晶粒的微小结晶区域组成。腐蚀可发生在耐蚀性较差的晶粒表面，也可发生在晶粒之间的边界处，从而形成点蚀和晶间腐蚀。金属的耐蚀性范围很广。
 
@@ -292,7 +334,9 @@ Fatigue corrosion involves cyclic stress and a corrosive extremely vulnerable. E
 
 1. 易受腐蚀的金属（阳极）
 
-2. 腐蚀倾向较小的异种导电材料（阴极） 3. 存在连续的导电液体通路（电解质）
+2. 腐蚀倾向较小的异种导电材料（阴极）
+
+3. 存在连续的导电液体通路（电解质）
 
 4. 阳极与阴极之间的电接触（通常表现为金属与金属的直接接触，如铆钉、螺栓，以及腐蚀产物）
 

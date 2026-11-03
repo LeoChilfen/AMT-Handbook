@@ -1,8 +1,14 @@
+# Simple Machines
+
+> 通用 Ch 05 · Simple Machines · 原文 PDF 第 157 页
+
 ## 1. 原文
 
 A machine is any device with which work may be accomplished. For example, machines can be used for any of the following purposes, or combinations of these 5 purposes:
 
-1. Machines are used to transform energy, as in the case of a generator transforming mechanical energy into electrical energy. 2. Machines are used to transfer energy from one place to another, as in the examples of the connecting rods, crankshaft, and reduction gears transferring energy from an aircraft’s engine to its propeller.
+1. Machines are used to transform energy, as in the case of a generator transforming mechanical energy into electrical energy.
+
+2. Machines are used to transfer energy from one place to another, as in the examples of the connecting rods, crankshaft, and reduction gears transferring energy from an aircraft’s engine to its propeller.
 
 3. Machines are used to multiply force; for example, a system of pulleys may be used to lift a heavy load. The pulley system enables the load to be raised by exerting a force that is smaller than the weight of the load.
 
@@ -100,7 +106,9 @@ A chisel is a good example of a wedge. A chisel might be 8 inches long and only 
 
 机器是任何可以用来做功的装置。例如，机器可用于以下任一用途，或这 5 种用途的组合：
 
-1. 机器用于转换能量，例如发电机把机械能转换为电能。2. 机器用于把能量从一处传递到另一处，例如连杆、曲轴和减速齿轮把能量从飞机发动机传到螺旋桨。
+1. 机器用于转换能量，例如发电机把机械能转换为电能。
+
+2. 机器用于把能量从一处传递到另一处，例如连杆、曲轴和减速齿轮把能量从飞机发动机传到螺旋桨。
 
 3. 机器用于倍增力；例如，滑轮系统可用于吊起重载。滑轮系统使人能用小于载荷重量的力把载荷提起。
 

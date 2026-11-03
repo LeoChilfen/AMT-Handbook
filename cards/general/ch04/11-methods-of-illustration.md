@@ -1,3 +1,7 @@
+# Methods of Illustration
+
+> 通用 Ch 04 · Methods of Illustration · 原文 PDF 第 133 页
+
 ## 1. 原文
 
 ### Applied Geometry

@@ -14,7 +14,9 @@ Many of the principles, characteristics, and effects of AC are similar to those 
 
 Since AC constantly changes direction and intensity, the following two effects (to be discussed later) take place in AC circuits that do not occur in DC circuits:
 
-1. Inductive reactance 2. Capacitive reactance
+1. Inductive reactance
+
+2. Capacitive reactance
 
 ## 2. 中文翻译
 
@@ -28,7 +30,9 @@ Since AC constantly changes direction and intensity, the following two effects (
 
 由于交流电不断改变方向和大小，交流电路中会出现以下两种（后文将讨论的）效应，而直流电路中不会出现：
 
-1. 感抗　2. 容抗
+1. 感抗
+
+2. 容抗
 
 ## 3. 专业词汇
 

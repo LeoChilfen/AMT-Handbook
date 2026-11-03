@@ -1,3 +1,7 @@
+# Bill of Material
+
+> 通用 Ch 04 · Bill of Material · 原文 PDF 第 131 页
+
 ## 1. 原文
 
 A list of the materials and parts necessary for the fabrication or assembly of a component or system is often included on the drawing. The list is usually in ruled columns that provide the part number, name of the part, material the part is to be constructed of, the quantity required, and the source of the part or material. On drawings that do not have a bill of material, the data may be indicated directly on the drawing. On assembly drawings, each item is identified by a number in a circle or square. An arrow connecting the number with the item assists in locating it in the bill of material.

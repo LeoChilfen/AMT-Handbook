@@ -228,7 +228,11 @@ After completing the same tasks multiple times, maintainers can develop a lack o
 
 In an effort to identify the most frequently occurring maintenance discrepancies, the United Kingdom Civil Aviation Authority (CAA) conducted in-depth studies of maintenance sites on aviation maintenance operations. The following list is what they found to be the most common occurring maintenance errors.
 
-1. Incorrect installation of components. 2. Fitting of wrong parts. 3. Electrical wiring discrepancies to include crossing connections.
+1. Incorrect installation of components.
+
+2. Fitting of wrong parts.
+
+3. Electrical wiring discrepancies to include crossing connections.
 
 4. Forgotten tools and parts. 5. Failure to lubricate.
 
@@ -470,7 +474,11 @@ Historically, twenty percent of all accidents are caused by a machine failure, a
 
 为找出最常发生的维修缺陷，英国民航局（CAA）对航空维修运行中的维修现场进行了深入研究。以下清单是他们发现的最常发生的维修差错。
 
-1. 部件安装不正确。2. 装错零件。3. 电气布线缺陷，包括交叉连接。
+1. 部件安装不正确。
+
+2. 装错零件。
+
+3. 电气布线缺陷，包括交叉连接。
 
 4. 遗忘工具和零件。5. 未润滑。
 

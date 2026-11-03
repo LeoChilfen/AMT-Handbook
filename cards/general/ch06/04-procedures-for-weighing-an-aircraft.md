@@ -60,7 +60,27 @@ The TCDS for a Piper twin-engine airplane known as the Seneca (PA-34-200) is use
 
 Some of the important weight and balance information found in a TCDS is as follows:
 
-1. Engine 2. CG range 3. Maximum weight 4. Number of seats 5. Baggage capacity 6. Fuel capacity 7. Oil capacity 8. Datum information 9. Leveling means 10. Amount of oil in empty weight 11. Amount of fuel in empty weight
+1. Engine
+
+2. CG range
+
+3. Maximum weight
+
+4. Number of seats
+
+5. Baggage capacity
+
+6. Fuel capacity
+
+7. Oil capacity
+
+8. Datum information
+
+9. Leveling means
+
+10. Amount of oil in empty weight
+
+11. Amount of fuel in empty weight
 
 ## 2. 中文翻译
 
@@ -120,7 +140,27 @@ CG = 总力矩 ÷ 总重量 = 3,400 in-lb ÷ 495 lb = 6.9"（6.87 取到十分�
 
 TCDS 中与重量和平衡有关的重要信息，一部分如下：
 
-1. 发动机 2. 重心范围 3. 最大重量 4. 座位数 5. 行李容量 6. 燃油容量 7. 滑油容量 8. 基准信息 9. 调平手段 10. 计入空重的滑油量 11. 计入空重的燃油量
+1. 发动机
+
+2. 重心范围
+
+3. 最大重量
+
+4. 座位数
+
+5. 行李容量
+
+6. 燃油容量
+
+7. 滑油容量
+
+8. 基准信息
+
+9. 调平手段
+
+10. 计入空重的滑油量
+
+11. 计入空重的燃油量
 
 ## 3. 专业词汇
 

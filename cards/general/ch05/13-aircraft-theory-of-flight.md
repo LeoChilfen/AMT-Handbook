@@ -1,3 +1,7 @@
+# Aircraft Theory of Flight
+
+> 通用 Ch 05 · Aircraft Theory of Flight · 原文 PDF 第 186 页
+
 ## 1. 原文
 
 Before a technician can consider performing maintenance on an aircraft, it is necessary to understand the pieces that make up the aircraft. Names like fuselage, empennage, wing, and so many others, come into play when describing what an airplane is and how it operates. For helicopters, names like main rotor, anti-torque rotor, and autorotation come to mind as a small portion of what needs to be understood about rotorcraft. The study of physics, which includes basic aerodynamics, is a necessary part of understanding why aircraft operate the way they do.
@@ -8,7 +12,11 @@ During flight, there are four forces acting on an airplane. These forces are lif
 
 All four of these forces are measured in pounds. Any time the forces are not in balance, something about the airplane’s condition is changing. The possibilities are as follows:
 
-1. When an airplane is accelerating, it has more thrust than drag. 2. When an airplane is decelerating, it has less thrust than drag. 3. When an airplane is at a constant velocity, thrust and drag are equal.
+1. When an airplane is accelerating, it has more thrust than drag.
+
+2. When an airplane is decelerating, it has less thrust than drag.
+
+3. When an airplane is at a constant velocity, thrust and drag are equal.
 
 4. When an airplane is climbing, it has more lift than weight. 5. When an airplane is descending, it has more weight than lift. 6. When an airplane is at a constant altitude, lift and weight are equal.
 
@@ -354,7 +362,11 @@ To land a powered parachute, the first action the pilot takes is to reduce engin
 
 这四种力都以磅计量。任何时候只要这些力不平衡，飞机的状态就在发生变化。可能的情况如下：
 
-1. 飞机加速时，推力大于阻力。2. 飞机减速时，推力小于阻力。3. 飞机速度恒定时，推力与阻力相等。
+1. 飞机加速时，推力大于阻力。
+
+2. 飞机减速时，推力小于阻力。
+
+3. 飞机速度恒定时，推力与阻力相等。
 
 4. 飞机爬升时，升力大于重力。5. 飞机下降时，重力大于升力。6. 飞机高度恒定时，升力与重力相等。
 

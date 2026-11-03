@@ -1,3 +1,7 @@
+# Digital Images
+
+> 通用 Ch 04 · Digital Images · 原文 PDF 第 147 页
+
 ## 1. 原文
 
 Though not a drawing, a digital image created by a digital camera can be extremely helpful to aviation maintenance technicians in evaluating and sharing information concerning the airworthiness or other information about aircraft. Digital images can be rapidly transmitted over the World Wide Web as attachments to e-mail messages. Images of structural fatigue cracks, failed parts, or other flaws, as well as desired design and paint schemes, are just a few examples of the types of digital images that might be shared by any number of users over the Internet. The illustration is a digital image of damage to a composite structure taken with a simple digital camera.

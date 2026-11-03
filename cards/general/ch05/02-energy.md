@@ -1,3 +1,7 @@
+# Energy
+
+> 通用 Ch 05 · Energy · 原文 PDF 第 152 页
+
 ## 1. 原文
 
 Energy is typically defined as something that gives us the capacity to perform work. As individuals, saying that we feel full of energy is an indicator that we can perform a lot of work. Energy can be classified as one of two types: either as potential energy or kinetic energy.

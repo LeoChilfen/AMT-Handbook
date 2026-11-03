@@ -1,3 +1,7 @@
+# Force, Work, Power, & Torque
+
+> 通用 Ch 05 · Force, Work, Power, & Torque · 原文 PDF 第 154 页
+
 ## 1. 原文
 
 Before the concept of work, power, or torque can be discussed, we need to understand what force means. According to the dictionary, force is the intensity of an impetus, or the intensity of an input. For example, if we apply a force to an object, the tendency will be for the object to move. Another way to look at it is that for work, power, or torque to exist, there must be a force that initiates the process.

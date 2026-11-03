@@ -1,3 +1,7 @@
+# Gas Laws
+
+> 通用 Ch 05 · Gas Laws · 原文 PDF 第 173 页
+
 ## 1. 原文
 
 The simple structure of gases makes them readily adaptable to mathematical analysis from which has evolved a detailed theory of the behavior of gases. This is called the kinetic theory of gases. The theory assumes that a body of gas is composed of identical molecules which behave like minute elastic spheres, spaced relatively far apart and continuously in motion.

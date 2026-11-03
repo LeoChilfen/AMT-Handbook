@@ -92,7 +92,11 @@ Rigid tubing may be joined to either an end item (such as a brake cylinder), ano
 
 Although the use of flareless tube fittings eliminates all tube flaring, another operation, referred to as presetting, is necessary prior to installation of a new flareless tube assembly. Flareless tube assemblies should be preset with the proper size presetting tool or operation.
 
-1. Cut the tube to the correct length, with the ends perfectly square. Deburr the inside and outside of the tube. Slip the nut, then the sleeve, over the tube (step 1), lubricate the threads of the fitting and nut with hydraulic fluid. 2. Place the fitting in a vise (step 2), and hold the tubing firmly and squarely on the seat in the fitting. (The tube must bottom firmly in the fitting.) Tighten the nut until the cutting edge of the sleeve grips the tube. To determine this point, slowly turn the tube back and forth while tightening the nut. When the tube no longer turns, the nut is ready for tightening. 3. Final tightening depends upon the tubing (step 3). For aluminum alloy tubing up to and including 1⁄2" outside diameter, tighten the nut from 1 to 11⁄6 turns. For steel tubing and aluminum alloy tubing over 1⁄2" outside diameter, tighten from 11⁄6 to 11⁄2 turns.
+1. Cut the tube to the correct length, with the ends perfectly square. Deburr the inside and outside of the tube. Slip the nut, then the sleeve, over the tube (step 1), lubricate the threads of the fitting and nut with hydraulic fluid.
+
+2. Place the fitting in a vise (step 2), and hold the tubing firmly and squarely on the seat in the fitting. (The tube must bottom firmly in the fitting.) Tighten the nut until the cutting edge of the sleeve grips the tube. To determine this point, slowly turn the tube back and forth while tightening the nut. When the tube no longer turns, the nut is ready for tightening.
+
+3. Final tightening depends upon the tubing (step 3). For aluminum alloy tubing up to and including 1⁄2" outside diameter, tighten the nut from 1 to 11⁄6 turns. For steel tubing and aluminum alloy tubing over 1⁄2" outside diameter, tighten from 11⁄6 to 11⁄2 turns.
 
 After presetting the sleeve, disconnect the tubing from the fitting and check the following points: The tube should extend 3⁄32" to 1⁄8" beyond the sleeve pilot; otherwise, blowoff may occur. The sleeve pilot should contact the tube or have a maximum clearance of 0.005" for aluminum alloy tubing or 0.015" for steel tubing. A slight collapse of the tube at the sleeve cut is permissible. No movement of the sleeve pilot, except rotation, is permissible.
 
@@ -290,7 +294,11 @@ When replacing rigid tubing, ensure that the layout of the new line is the same 
 
 虽然使用无扩口导管接头可以免去所有导管扩口作业，但在安装新的无扩口导管组件之前，还需要进行另一道称为预装的工序。无扩口导管组件应使用尺寸合适的预装工具或按规程进行预装。
 
-1. 把导管切成正确长度，两端必须方正。对导管内外去毛刺。先把螺帽、再把衬套套到导管上（步骤 1），用液压油润滑接头和螺帽的螺纹。2. 把接头夹在台虎钳上（步骤 2），把导管牢固、方正地压在接头的座面上。（导管必须牢固地坐到底。）拧紧螺帽，直到衬套的刃口咬住导管。判断这一点的办法是：在拧紧螺帽的同时，慢慢来回转动导管。当导管不再转动时，螺帽即可进行最终拧紧。3. 最终拧紧量取决于导管（步骤 3）。对于外径 1⁄2 英寸及以下的铝合金导管，把螺帽拧 1 至 11⁄6 圈。对于钢管和外径大于 1⁄2 英寸的铝合金导管，拧 11⁄6 至 11⁄2 圈。
+1. 把导管切成正确长度，两端必须方正。对导管内外去毛刺。先把螺帽、再把衬套套到导管上（步骤 1），用液压油润滑接头和螺帽的螺纹。
+
+2. 把接头夹在台虎钳上（步骤 2），把导管牢固、方正地压在接头的座面上。（导管必须牢固地坐到底。）拧紧螺帽，直到衬套的刃口咬住导管。判断这一点的办法是：在拧紧螺帽的同时，慢慢来回转动导管。当导管不再转动时，螺帽即可进行最终拧紧。
+
+3. 最终拧紧量取决于导管（步骤 3）。对于外径 1⁄2 英寸及以下的铝合金导管，把螺帽拧 1 至 11⁄6 圈。对于钢管和外径大于 1⁄2 英寸的铝合金导管，拧 11⁄6 至 11⁄2 圈。
 
 预装衬套后，把导管从接头上拆下，检查以下几点：导管应伸出衬套引导端 3⁄32 英寸至 1⁄8 英寸；否则可能发生脱出（blowoff）。衬套引导端应接触导管，或最大间隙为：铝合金导管 0.005 英寸，钢导管 0.015 英寸。衬套刃口处的导管有轻微收缩是允许的。除转动外，衬套引导端不允许有任何活动。
 

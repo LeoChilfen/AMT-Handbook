@@ -32,7 +32,9 @@ Mask off any opening that would permit the stripping compound to get into aircra
 
 All depressions resulting from corrosion rework must be faired or blended with the surrounding surface. Fairing can be accomplished as follows:
 
-1. Remove rough edges and all corrosion from the damaged area. All dish-outs must be elliptically shaped with the major axis running spanwise on wings and horizontal stabilizers, longitudinally on fuselages, and vertically on vertical stabilizers. 2. In critical and highly stressed areas, all pits remaining after the removal of corrosion products must be blended out to prevent stress risers that may cause stress corrosion cracking. On a non-critical structure, it is not necessary to blend out pits remaining after removal of corrosion products by abrasive blasting, since this results in unnecessary metal removal. Rework depressions by forming smoothly blended dish-outs, using a ratio of 20:1, length to depth. In areas having closely-spaced, multiple pits, intervening material must be removed to minimize surface irregularity or waviness. Steel nut-plates and steel fasteners are to be removed before blending corrosion out of aluminum structure. Steel or copper particles embedded in aluminum can become a point of future corrosion. All corrosion products must be removed during blending to prevent reoccurrence of corrosion.
+1. Remove rough edges and all corrosion from the damaged area. All dish-outs must be elliptically shaped with the major axis running spanwise on wings and horizontal stabilizers, longitudinally on fuselages, and vertically on vertical stabilizers.
+
+2. In critical and highly stressed areas, all pits remaining after the removal of corrosion products must be blended out to prevent stress risers that may cause stress corrosion cracking. On a non-critical structure, it is not necessary to blend out pits remaining after removal of corrosion products by abrasive blasting, since this results in unnecessary metal removal. Rework depressions by forming smoothly blended dish-outs, using a ratio of 20:1, length to depth. In areas having closely-spaced, multiple pits, intervening material must be removed to minimize surface irregularity or waviness. Steel nut-plates and steel fasteners are to be removed before blending corrosion out of aluminum structure. Steel or copper particles embedded in aluminum can become a point of future corrosion. All corrosion products must be removed during blending to prevent reoccurrence of corrosion.
 
 ## 2. 中文翻译
 
@@ -64,7 +66,9 @@ All depressions resulting from corrosion rework must be faired or blended with t
 
 因腐蚀返工而产生的所有凹陷，都必须与周围表面整流或过渡平顺。整流可按下列方法进行：
 
-1. 清除损伤区域的粗糙边缘和所有腐蚀。所有研磨出的凹坑都必须呈椭圆形，其长轴在机翼和水平安定面上沿展向，在机身上沿纵向，在垂直安定面上沿垂直方向。2. 在关键区域和高应力区域，清除腐蚀产物后残留的所有蚀坑都必须打磨过渡掉，以防止可能引起应力腐蚀开裂的应力集中。在非关键结构上，不必用喷砂法打磨过渡去除腐蚀产物后残留的蚀坑，因为那会造成不必要的金属去除。返工凹陷时，应打磨成平顺过渡的椭圆形凹坑，长深比为 20:1。在密集多蚀坑的区域，必须去除中间的材料，以减小表面不平整或波纹。在从铝结构中打磨去除腐蚀之前，应拆下钢制托板螺母和钢制紧固件。嵌入铝中的钢或铜颗粒会成为将来腐蚀的起点。打磨过程中必须清除所有腐蚀产物，以防止腐蚀再次发生。
+1. 清除损伤区域的粗糙边缘和所有腐蚀。所有研磨出的凹坑都必须呈椭圆形，其长轴在机翼和水平安定面上沿展向，在机身上沿纵向，在垂直安定面上沿垂直方向。
+
+2. 在关键区域和高应力区域，清除腐蚀产物后残留的所有蚀坑都必须打磨过渡掉，以防止可能引起应力腐蚀开裂的应力集中。在非关键结构上，不必用喷砂法打磨过渡去除腐蚀产物后残留的蚀坑，因为那会造成不必要的金属去除。返工凹陷时，应打磨成平顺过渡的椭圆形凹坑，长深比为 20:1。在密集多蚀坑的区域，必须去除中间的材料，以减小表面不平整或波纹。在从铝结构中打磨去除腐蚀之前，应拆下钢制托板螺母和钢制紧固件。嵌入铝中的钢或铜颗粒会成为将来腐蚀的起点。打磨过程中必须清除所有腐蚀产物，以防止腐蚀再次发生。
 
 ## 3. 专业词汇
 

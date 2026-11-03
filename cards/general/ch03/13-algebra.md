@@ -44,7 +44,17 @@ X = 161 3⁄4 A commonly used acronym, PEMDAS, is used for remembering the order
 
 ### Order of Operation for Algebraic Equations
 
-1. Parentheses 2. Exponents 3. Multiplication 4. Division 5. Addition 6. Subtraction
+1. Parentheses
+
+2. Exponents
+
+3. Multiplication
+
+4. Division
+
+5. Addition
+
+6. Subtraction
 
 ## 2. 中文翻译
 
@@ -88,7 +98,17 @@ X = 161 3⁄4。PEMDAS 是常用的首字母缩写，用来记住代数中的运
 
 ### 代数等式的运算顺序
 
-1. 括号　2. 指数　3. 乘法　4. 除法　5. 加法　6. 减法
+1. 括号
+
+2. 指数
+
+3. 乘法
+
+4. 除法
+
+5. 加法
+
+6. 减法
 
 ## 3. 专业词汇
 

@@ -1,3 +1,7 @@
+# Lines and Their Meanings
+
+> 通用 Ch 04 · Lines and Their Meanings · 原文 PDF 第 140 页
+
 ## 1. 原文
 
 Every drawing is composed of lines. Lines mark the boundaries, edges, and intersection of surfaces. Lines are used to show dimensions and hidden surfaces and to indicate centers. Obviously, if the same kind of line is used to show these variations, a drawing becomes a meaningless collection of lines. For this reason, various kinds of standardized lines are used on aircraft drawings.

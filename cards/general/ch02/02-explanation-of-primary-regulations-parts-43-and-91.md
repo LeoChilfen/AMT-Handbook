@@ -24,7 +24,17 @@ These terms are not defined in 14 CFR part 1 and are given full explanation in t
 
 There are nine different persons who may perform maintenance: (Reminder: Per 14 CFR part 1, the FAA definition of a person is “an individual, firm, partnership, corporation, association, joint-stock association, or governmental entity. It includes a trustee, receiver, assignee, or similar representative of any of them.”)
 
-1. Certificated mechanic, per 14 CFR part 65 2. Certificated repairman, per 14 CFR part 65 3. Person working under the supervision of a certificated mechanic or repairman 4. Holder of repair station certificate 5. Holder of an air carrier certificate 6. Except for holders of a sport pilot certificate, the holder of a pilot certificate issued under part 61 may perform preventive maintenance on any aircraft owned or operated by that pilot which is not used under 14 CFR part 121, 129, or 135. The holder of a sport pilot certificate may perform preventive maintenance on an aircraft owned or operated by that pilot and issued a special airworthiness certificate in the light-sport category.
+1. Certificated mechanic, per 14 CFR part 65
+
+2. Certificated repairman, per 14 CFR part 65
+
+3. Person working under the supervision of a certificated mechanic or repairman
+
+4. Holder of repair station certificate
+
+5. Holder of an air carrier certificate
+
+6. Except for holders of a sport pilot certificate, the holder of a pilot certificate issued under part 61 may perform preventive maintenance on any aircraft owned or operated by that pilot which is not used under 14 CFR part 121, 129, or 135. The holder of a sport pilot certificate may perform preventive maintenance on an aircraft owned or operated by that pilot and issued a special airworthiness certificate in the light-sport category.
 
 7. Pilot of a helicopter (when operated under 14 CFR part 135 and in remote areas) may perform specific preventive maintenance actions. These actions may only be accomplished under the following conditions:
 
@@ -92,13 +102,27 @@ If the maintenance accomplished was a major repair or alteration, the work must 
 
 This section presents two terms not previously defined in 14 CFR:
 
-1. Life-limited part means any part that has specified a mandatory replacement limit. 2. Life status means the accumulated cycles, hours, or any other mandatory limit of a life-limited part.
+1. Life-limited part means any part that has specified a mandatory replacement limit.
+
+2. Life status means the accumulated cycles, hours, or any other mandatory limit of a life-limited part.
 
 This section then goes on to specify what to do with parts that are temporarily removed from and then reinstalled on a type-certificated product; what to do with parts that are removed from a type certified product and not immediately reinstalled; and how to transfer life-limited parts from one type-certificated product to another.
 
 When a life-limited part is removed, the person removing it from the type-certificated product must control the part and ensure proper tracking of the life-limiting factor. This is to prevent the installation of the part after it has reached its life limit. There are seven possible methods the technician or repair facility may choose from to comply with this requirement.
 
-1. Recordkeeping 2. Tagging 3. Non-permanent marking 4. Permanent marking 5. Segregation 6. Mutilation 7. Any other method approved or accepted by the FAA When a life-limited part is transferred, the information concerning the life status of that part must be transferred with it. Although regulations already did exist that required the tracking of life-limited parts when they were installed on an aircraft, this regulation was generated to govern the disposition of such parts when they were removed from the aircraft.
+1. Recordkeeping
+
+2. Tagging
+
+3. Non-permanent marking
+
+4. Permanent marking
+
+5. Segregation
+
+6. Mutilation
+
+7. Any other method approved or accepted by the FAA When a life-limited part is transferred, the information concerning the life status of that part must be transferred with it. Although regulations already did exist that required the tracking of life-limited parts when they were installed on an aircraft, this regulation was generated to govern the disposition of such parts when they were removed from the aircraft.
 
 #### Section 43.11—Content, form, and disposition of records for inspections conducted under parts 91 and 125, and sections 135.411(a)(1) and 135.419 of this chapter
 
@@ -254,7 +278,17 @@ Section 91.421—Rebuilt Engine Maintenance Records This section presents the te
 
 有九类不同人员可以实施维修：（提示：按 14 CFR part 1，FAA 对 person（人）的定义是“个人、商号、合伙组织、公司、协会、股份制协会或政府实体。它包括上述任何一方的受托人、破产管理人、受让人或类似代表。”）
 
-1. 按 14 CFR part 65 取得证书的维修人员（mechanic）2. 按 14 CFR part 65 取得证书的修理人员（repairman）3. 在持证维修人员或修理人员监督下工作的人 4. 修理站证书持有人 5. 航空承运人证书持有人 6. 除持运动驾驶员执照者外，按 part 61 取得驾驶员执照的持有人，可对该驾驶员拥有或运行、且不按 14 CFR part 121、129 或 135 使用的任何航空器实施预防性维修。持运动驾驶员执照者，可对该驾驶员拥有或运行、且已取得轻型运动类特别适航证的航空器实施预防性维修。
+1. 按 14 CFR part 65 取得证书的维修人员（mechanic）
+
+2. 按 14 CFR part 65 取得证书的修理人员（repairman）
+
+3. 在持证维修人员或修理人员监督下工作的人
+
+4. 修理站证书持有人
+
+5. 航空承运人证书持有人
+
+6. 除持运动驾驶员执照者外，按 part 61 取得驾驶员执照的持有人，可对该驾驶员拥有或运行、且不按 14 CFR part 121、129 或 135 使用的任何航空器实施预防性维修。持运动驾驶员执照者，可对该驾驶员拥有或运行、且已取得轻型运动类特别适航证的航空器实施预防性维修。
 
 7. 直升机驾驶员（按 14 CFR part 135 在偏远地区运行时）可实施特定的预防性维修工作。这些工作只能在下列条件下完成：
 
@@ -322,13 +356,27 @@ Section 91.421—Rebuilt Engine Maintenance Records This section presents the te
 
 本节给出两个 14 CFR 此前未定义的术语：
 
-1. 寿命件（life-limited part）指任何规定了强制性更换极限的部件。2. 寿命状态（life status）指寿命件的累计循环数、小时数或任何其他强制性极限。
+1. 寿命件（life-limited part）指任何规定了强制性更换极限的部件。
+
+2. 寿命状态（life status）指寿命件的累计循环数、小时数或任何其他强制性极限。
 
 本节随后规定了以下情形的处理办法：对暂时从型号合格审定产品上拆下、随后又装回的部件；对从型号合格审定产品上拆下而未立即装回的部件；以及如何将寿命件从一个型号合格审定产品转移到另一个。
 
 拆下寿命件时，从型号合格审定产品上拆下该件的人必须控制该件，并确保对寿命限制因素作正确跟踪。这是为防止该件达到寿命极限后仍被安装。技术人员或修理机构可选择七种方法来符合这一要求。
 
-1. 记录保存 2. 挂标签 3. 非永久性标记 4. 永久性标记 5. 隔离 6. 损毁 7. FAA 批准或接受的任何其他方法 寿命件转移时，有关该件寿命状态的信息必须随之转移。尽管早已有规章要求在寿命件装机时对其进行跟踪，但本规章的出台是为规范此类部件从航空器上拆下时的处置。
+1. 记录保存
+
+2. 挂标签
+
+3. 非永久性标记
+
+4. 永久性标记
+
+5. 隔离
+
+6. 损毁
+
+7. FAA 批准或接受的任何其他方法 寿命件转移时，有关该件寿命状态的信息必须随之转移。尽管早已有规章要求在寿命件装机时对其进行跟踪，但本规章的出台是为规范此类部件从航空器上拆下时的处置。
 
 #### 第 43.11 节——按 part 91、125 及本章第 135.411(a)(1) 节和第 135.419 节实施的检查的记录的内容、格式与处置
 

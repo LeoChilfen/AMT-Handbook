@@ -86,7 +86,11 @@ To begin, assemble all the necessary equipment, such as:
 
 4. Applicable Aircraft Specifications and weight and balance computation forms.
 
-When weighing an aircraft to determine its empty weight, only the weight of residual (unusable) fuel should be included. To ensure that only residual fuel is accounted for, the aircraft should be weighed in one of the following three conditions. 1. Weigh the aircraft with absolutely no fuel in the aircraft tanks or fuel lines. If an aircraft is weighed in this condition, the technician can mathematically add the proper amount of residual fuel to the aircraft and account for its arm and moment. The proper amount of fuel can be determined by looking in the aircraft’s TCDS. 2. Drain fuel from the tanks in the manner specified by the aircraft manufacturer. If there are no specific instructions, drain the fuel until the fuel quantity gauges read empty and until fuel stops draining from the tanks. The aircraft attitude may be a consideration when draining the fuel tanks and the maintenance manual should be consulted. In this case, the unusable fuel will remain in the lines and system, and its weight and arm can be determined by reference to the aircraft’s TCDS.
+When weighing an aircraft to determine its empty weight, only the weight of residual (unusable) fuel should be included. To ensure that only residual fuel is accounted for, the aircraft should be weighed in one of the following three conditions.
+
+1. Weigh the aircraft with absolutely no fuel in the aircraft tanks or fuel lines. If an aircraft is weighed in this condition, the technician can mathematically add the proper amount of residual fuel to the aircraft and account for its arm and moment. The proper amount of fuel can be determined by looking in the aircraft’s TCDS.
+
+2. Drain fuel from the tanks in the manner specified by the aircraft manufacturer. If there are no specific instructions, drain the fuel until the fuel quantity gauges read empty and until fuel stops draining from the tanks. The aircraft attitude may be a consideration when draining the fuel tanks and the maintenance manual should be consulted. In this case, the unusable fuel will remain in the lines and system, and its weight and arm can be determined by reference to the aircraft’s TCDS.
 
 3. Weigh the aircraft with the fuel tanks completely full. If an aircraft is weighed in this condition, the technician can mathematically subtract the weight of usable fuel and account for its arm and moment. If the weight of the fuel is in question, a hydrometer can also be used to determine the weight of each gallon of fuel, while the Aircraft Specifications or TCDS can be used to identify the fuel capacity of the aircraft. If an aircraft is to be weighed with load cells attached to jacks, the technician should check both the load cell instruction manual and aircraft maintenance manual to make sure it is permissible to jack the aircraft with the fuel tanks full as this may add additional stress to the aircraft structure.
 
@@ -352,7 +356,11 @@ CG = –D + (R × L) / W = –80 + (67 × 222) / 1,218 = –67.8 The CG is 67.8"
 
 4. 适用的《航空器规范》和重量与平衡计算表格。
 
-在称重以确定空重时，只应计入残余（不可用）燃油的重量。为确保只计入残余燃油，飞机应在下列三种状态之一称重。1. 在飞机油箱和油路中完全没有燃油的状态下称重。如果在此状态下称重，技术人员可以通过计算把适量残余燃油加到飞机上，并计入其力臂和力矩。合适的油量可通过查阅飞机 TCDS 确定。2. 按飞机制造商规定的方式从油箱中排油。如果没有具体说明，就排油至油量表读数为空、且燃油不再从油箱流出为止。排空油箱时，飞机姿态可能是一个考虑因素，应查阅维修手册。在这种情况下，不可用燃油会留在管路和系统中，其重量和力臂可查阅飞机 TCDS 确定。
+在称重以确定空重时，只应计入残余（不可用）燃油的重量。为确保只计入残余燃油，飞机应在下列三种状态之一称重。
+
+1. 在飞机油箱和油路中完全没有燃油的状态下称重。如果在此状态下称重，技术人员可以通过计算把适量残余燃油加到飞机上，并计入其力臂和力矩。合适的油量可通过查阅飞机 TCDS 确定。
+
+2. 按飞机制造商规定的方式从油箱中排油。如果没有具体说明，就排油至油量表读数为空、且燃油不再从油箱流出为止。排空油箱时，飞机姿态可能是一个考虑因素，应查阅维修手册。在这种情况下，不可用燃油会留在管路和系统中，其重量和力臂可查阅飞机 TCDS 确定。
 
 3. 在油箱完全加满的状态下称重。如果在此状态下称重，技术人员可以通过计算减掉可用燃油的重量，并计入其力臂和力矩。如果对燃油重量有疑问，也可以用比重计确定每加仑燃油的重量，同时可用《航空器规范》或 TCDS 查得该机的燃油容量。如果要用装在千斤顶上的载荷传感器称重，技术人员应查阅载荷传感器说明书和飞机维修手册，确认允许在满油状态下顶升飞机，因为满油会给机体结构增加附加应力。
 

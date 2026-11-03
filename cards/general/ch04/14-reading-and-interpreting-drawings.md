@@ -1,3 +1,7 @@
+# Reading and Interpreting Drawings
+
+> 通用 Ch 04 · Reading and Interpreting Drawings · 原文 PDF 第 143 页
+
 ## 1. 原文
 
 Aircraft technicians do not necessarily need to be accomplished in making drawings. However, they must have a working knowledge of the information that is to be conveyed to them. They most frequently encounter drawings for construction and assembly of new aircraft and components, during modifications, and for making repairs.

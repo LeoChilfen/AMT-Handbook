@@ -46,7 +46,13 @@ Most files are made of high-grade tool steels that are hardened and tempered. Fi
 
 Files are used to square ends, file rounded corners, remove burrs and slivers from metal, straighten uneven edges, smooth rough edges, and file holes and slots.
 
-Files have three distinguishing features: 1. Their length, measured exclusive of the tang; 2. Their kind or name, such as a hand file that has reference to the relative coarseness of the teeth; and 3. Their cut, such as a single-cut or double-cut file.
+Files have three distinguishing features:
+
+1. Their length, measured exclusive of the tang;
+
+2. Their kind or name, such as a hand file that has reference to the relative coarseness of the teeth; and
+
+3. Their cut, such as a single-cut or double-cut file.
 
 Files are usually made in two types of cuts: single cut and double cut. The single cut file has a single row of teeth extending across the face at an angle of 65° to 85° with the length of the file. The size of the cuts depends on the coarseness of the file. The double cut file has two rows of teeth that cross each other. For general work, the angle of the first row is 40° to 45°. The first row is generally referred to as “overcut,” and the second row as “upcut;” the upcut is forward stroke to cause each tooth to remove a small amount of metal. The strokes should be long and steady with a speed not more than 40 to 50 strokes per minute.
 
@@ -216,7 +222,13 @@ When using a countersink, care must be taken not to remove an excessive amount o
 
 锉刀用于把端面锉方、锉出圆角、除去金属上的毛刺和金属丝屑、修直不齐的边、锉光粗糙的边，以及锉削孔和槽。
 
-锉刀有三个区别特征：1. 长度，量取时不计算柄舌；2. 种类或名称，如手锉，这与锉齿的相对粗细有关；3. 锉纹，如单纹锉或双纹锉。
+锉刀有三个区别特征：
+
+1. 长度，量取时不计算柄舌；
+
+2. 种类或名称，如手锉，这与锉齿的相对粗细有关；
+
+3. 锉纹，如单纹锉或双纹锉。
 
 锉刀通常有两种锉纹：单纹和双纹。单纹锉有一排锉齿，横过锉面，与锉刀长度方向成 65° 至 85° 角。锉纹的粗细取决于锉刀的粗度。双纹锉有两排相互交叉的锉齿。用于一般工作时，第一排齿的角度为 40° 至 45°。第一排齿通常称为“横切纹”，第二排齿称为“上切纹”；上切纹在推程中起作用，使每个齿切下少量金属。行程应长而平稳，速度不超过每分钟 40 至 50 次。
 

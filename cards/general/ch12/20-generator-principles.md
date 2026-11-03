@@ -22,7 +22,11 @@ When a loop conductor is rotated in a magnetic field, a voltage is induced in ea
 
 The value of an induced emf depends on three factors:
 
-1. Number of wires moving through the magnetic field 2. Strength of the magnetic field 3. Speed of rotation
+1. Number of wires moving through the magnetic field
+
+2. Strength of the magnetic field
+
+3. Speed of rotation
 
 ### Generators of Alternating Current
 
@@ -154,7 +158,11 @@ Voltage source 1 0° 90° 180° 270° 360° Voltage source 2 A. Voltage and curr
 
 感应电动势的大小取决于三个因素：
 
-1. 穿过磁场运动的导线数量　2. 磁场的强度　3. 旋转速度
+1. 穿过磁场运动的导线数量
+
+2. 磁场的强度
+
+3. 旋转速度
 
 ### 交流发电机
 

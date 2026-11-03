@@ -60,11 +60,23 @@ Operational amplifiers were originally developed for analog computers and used t
 
 There are two inputs to the operational amplifier, inverting (−) and non-inverting (+), and there is one output. The polarity NPN Input Class A amplifier Output VCC VEE + − − NPN Input Class AB amplifier Output VCC VEE + − − NPN Input Class B amplifier Output VCC VEE + − − of a signal applied to the inverting input (−) is reversed at the output. A signal applied to the non-inverting (+) input retains its polarity on the output. To be classified as an operational amplifier, the circuit must have certain characteristics:
 
-1. Very high gain 2. Very high input impedance 3. Very high output impedance This type of a circuit can be made up of discrete components, such as resistors and transistors. However, the most common form of an operational amplifier is found in the integrated circuit. This integrated circuit or chip contains the various stages of the operational amplifier and can be treated as if it were a single stage.
+1. Very high gain
+
+2. Very high input impedance
+
+3. Very high output impedance This type of a circuit can be made up of discrete components, such as resistors and transistors. However, the most common form of an operational amplifier is found in the integrated circuit. This integrated circuit or chip contains the various stages of the operational amplifier and can be treated as if it were a single stage.
 
 The number of applications for OP AMPs is too numerous to detail in this handbook. However, the technician occasionally comes across these devices in modern aircraft and should be able to recognize their general purpose in a circuit. Some of the basic applications are:
 
-1. Go/no-go detectors 2. Square wave circuits 3. Non-inverting amplifier 4. Inverting amplifier 5. Half-wave rectifier Input Impedance coupled amplifier Output Q1 Q2C1 VCC L1 NPN Input Class C amplifier Output VCC VEE + − − Input RC coupled amplifier Output Q1 Q2C1 VCC R1 R2
+1. Go/no-go detectors
+
+2. Square wave circuits
+
+3. Non-inverting amplifier
+
+4. Inverting amplifier
+
+5. Half-wave rectifier Input Impedance coupled amplifier Output Q1 Q2C1 VCC L1 NPN Input Class C amplifier Output VCC VEE + − − Input RC coupled amplifier Output Q1 Q2C1 VCC R1 R2
 
 ## 2. 中文翻译
 
@@ -124,11 +136,23 @@ RC 耦合是最常用的耦合方式，它使用一只耦合电容和一些信�
 
 运算放大器有两个输入端——反相输入端（−）和同相输入端（+），还有一个输出端。（原文此处为图注碎片：The polarity NPN Input Class A amplifier Output VCC VEE NPN Input Class AB amplifier Output VCC VEE NPN Input Class B amplifier Output VCC VEE，混入正文，无对应正文）加在反相输入端（−）上的信号，其极性在输出端被倒转。加在同相输入端（+）上的信号，在输出端保持其极性。要归类为运算放大器，该电路必须具备某些特性：
 
-1. 极高的增益 2. 极高的输入阻抗 3. 极高的输出阻抗 这类电路可以由分立元件（如电阻和晶体管）构成。然而，运算放大器最常见的形式是做在集成电路里。这种集成电路（芯片）包含运算放大器的各个级，可以当作单个级来处理。
+1. 极高的增益
+
+2. 极高的输入阻抗
+
+3. 极高的输出阻抗 这类电路可以由分立元件（如电阻和晶体管）构成。然而，运算放大器最常见的形式是做在集成电路里。这种集成电路（芯片）包含运算放大器的各个级，可以当作单个级来处理。
 
 运算放大器的应用多得不胜枚举，本手册无法一一详述。不过，技术人员在现代飞机上偶尔会遇到这类器件，应当能在电路里认出它们的大致用途。一些基本应用是：
 
-1. 通/不通检测器 2. 方波电路 3. 同相放大器 4. 反相放大器 5. 半波整流器（原文此处为图注碎片：Input Impedance coupled amplifier Output Q1 Q2C1 VCC L1 NPN Input Class C amplifier Output VCC VEE Input RC coupled amplifier Output Q1 Q2C1 VCC R1 R2，混入正文，无对应正文）
+1. 通/不通检测器
+
+2. 方波电路
+
+3. 同相放大器
+
+4. 反相放大器
+
+5. 半波整流器（原文此处为图注碎片：Input Impedance coupled amplifier Output Q1 Q2C1 VCC L1 NPN Input Class C amplifier Output VCC VEE Input RC coupled amplifier Output Q1 Q2C1 VCC R1 R2，混入正文，无对应正文）
 
 ## 3. 专业词汇
 

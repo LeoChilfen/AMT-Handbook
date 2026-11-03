@@ -8,9 +8,21 @@ Magnetic amplifiers do not amplify magnetism but use electromagnetism to amplify
 
 Advantages of the magnetic amplifier are:
 
-1. Very high efficiency, on the order of approximately 90 percent 2. High reliability 3. Very rugged, able to withstand vibrations, moisture, and overloads 4. No warm-up time Some of the disadvantages of the magnetic amplifier are:
+1. Very high efficiency, on the order of approximately 90 percent
 
-1. Incapacity to handle low-voltage signals 2. Not usable in high-frequency applications 3. Time delay associated with magnetic affects 4. Poor fidelity The basic operating principles of the magnetic amplifier are fairly simple. Keep in mind that all amplifiers are current control devices. In this particular case, power that is delivered to the load is controlled by a variable inductance.
+2. High reliability
+
+3. Very rugged, able to withstand vibrations, moisture, and overloads
+
+4. No warm-up time Some of the disadvantages of the magnetic amplifier are:
+
+1. Incapacity to handle low-voltage signals
+
+2. Not usable in high-frequency applications
+
+3. Time delay associated with magnetic affects
+
+4. Poor fidelity The basic operating principles of the magnetic amplifier are fairly simple. Keep in mind that all amplifiers are current control devices. In this particular case, power that is delivered to the load is controlled by a variable inductance.
 
 If an AC voltage is applied to the primary winding of an iron core transformer, the iron core is magnetized and demagnetized at the same frequency as that of the applied voltage. This, in turn, induces a voltage in the transformers secondary winding. The output voltage across the terminals of the secondary depends on the relationship of the number of turns in the primary and the secondary of the transformer.
 
@@ -44,9 +56,21 @@ The DC control winding, acting in opposition to the reference winding, either in
 
 磁放大器的优点是：
 
-1. 效率很高，大约可达 90%　　2. 可靠性高　　3. 十分坚固，能承受振动、潮湿和过载　　4. 无需预热时间　　磁放大器的一些缺点是：
+1. 效率很高，大约可达 90%
 
-1. 无法处理低电压信号　　2. 不能用于高频应用　　3. 磁性效应带来时间延迟　　4. 保真度差　　磁放大器的基本工作原理相当简单。要记住，所有放大器都是电流控制器件。在这种特定的情况下，输送给负载的功率由一个可变电感来控制。
+2. 可靠性高
+
+3. 十分坚固，能承受振动、潮湿和过载
+
+4. 无需预热时间　　磁放大器的一些缺点是：
+
+1. 无法处理低电压信号
+
+2. 不能用于高频应用
+
+3. 磁性效应带来时间延迟
+
+4. 保真度差　　磁放大器的基本工作原理相当简单。要记住，所有放大器都是电流控制器件。在这种特定的情况下，输送给负载的功率由一个可变电感来控制。
 
 如果把交流电压加到铁心变压器的初级绕组上，铁心就以与所加电压相同的频率被磁化和去磁。这又会在变压器的次级绕组中感应出电压。次级端钮上的输出电压，取决于变压器初级与次级匝数的关系。
 

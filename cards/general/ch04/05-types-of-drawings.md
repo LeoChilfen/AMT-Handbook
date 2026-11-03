@@ -1,3 +1,7 @@
+# Types of Drawings
+
+> 通用 Ch 04 · Types of Drawings · 原文 PDF 第 126 页
+
 ## 1. 原文
 
 Drawings must give information such as size and shape of the object and all its parts, specifications for material to be used, how the material is to be finished, how the parts are to be assembled, and any other information essential to making and assembling the object. Drawings may be divided into three classes: detail, assembly, and installation.

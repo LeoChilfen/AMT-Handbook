@@ -130,7 +130,13 @@ This regulation represents the heart of aviation maintenance and is one of the t
 
 Title 14 of the CFR part 45 includes the requirements for the identification of aircraft, engines, propellers, certain replacement and modification parts, and the nationality and registration marking required on U.S.-registered aircraft. All type-certificated products must have the following information on a fireproof dataplate or similar approved fireproof method.
 
-1. Builder’s name 2. Model designation 3. Builder’s serial number 4. TC number (if any)
+1. Builder’s name
+
+2. Model designation
+
+3. Builder’s serial number
+
+4. TC number (if any)
 
 5. Production certificate number (if any)
 
@@ -138,7 +144,11 @@ Title 14 of the CFR part 45 includes the requirements for the identification of 
 
 1. The letters “FAA-PMA”
 
-2. The name, symbol, or trademark of the holder of the PMA 3. The part number 4. The name and model designation for each type certificated product it can be installed on If a part has a specified replacement time, inspection interval, or other related procedure specification in the maintenance manual or ICA, that part must have a part number and a serial number (or the equivalent of each).
+2. The name, symbol, or trademark of the holder of the PMA
+
+3. The part number
+
+4. The name and model designation for each type certificated product it can be installed on If a part has a specified replacement time, inspection interval, or other related procedure specification in the maintenance manual or ICA, that part must have a part number and a serial number (or the equivalent of each).
 
 The manufacturer of a life-limited part must either provide marking instructions for that part, or state that the part cannot be marked without a compromise to its integrity. Exceptions are made for the identification of parts that are too small to be practical to mark the required data.
 
@@ -238,7 +248,23 @@ A pivotal portion of this regulation is the first section in subpart J, 14 CFR p
 
 However, once initiated, the repetitive inspection intervals are not to exceed 7 years. The certificate holder must make both the aircraft and the records available to the FAA for inspection and review. The certificate holder must notify the Administrator at least 60 days in advance of the availability of the aircraft and the records for review. The records must include the following information:
 
-1. Total years in service of the airplane 2. Total time in service of the airframe 3. Date of the last inspection and records review required by this section 4. Current status of life-limited parts 5. Time since the last overhaul of all structural components required to be overhauled on a specific time basis 6. Current inspection status of the airplane, including the time since the last inspection required by the inspection program that the airplane is maintained under 7. Current status of applicable ADs, including the date and methods of compliance, and, if the AD involves recurring action, the time and date when the next action is required 8. A list of major structural alterations 9. A report of major structural repairs and the current inspection status of those repairs
+1. Total years in service of the airplane
+
+2. Total time in service of the airframe
+
+3. Date of the last inspection and records review required by this section
+
+4. Current status of life-limited parts
+
+5. Time since the last overhaul of all structural components required to be overhauled on a specific time basis
+
+6. Current inspection status of the airplane, including the time since the last inspection required by the inspection program that the airplane is maintained under
+
+7. Current status of applicable ADs, including the date and methods of compliance, and, if the AD involves recurring action, the time and date when the next action is required
+
+8. A list of major structural alterations
+
+9. A report of major structural repairs and the current inspection status of those repairs
 
 #### 14 CFR Part 145—Repair Stations
 
@@ -414,7 +440,13 @@ part 23 共有七个分部，其中六个分部给出这类航空器设计的详
 
 CFR 第 14 编 part 45 包括对航空器、发动机、螺旋桨、某些更换件与改装件的识别要求，以及美国登记航空器上须有的国籍与登记标记要求。所有型号合格审定的产品都必须以耐火数据铭牌或经批准的类似耐火方式载有下列信息。
 
-1. 制造人名称 2. 型号标识 3. 制造人序号 4. TC 编号（如有）
+1. 制造人名称
+
+2. 型号标识
+
+3. 制造人序号
+
+4. TC 编号（如有）
 
 5. 生产许可证编号（如有）
 
@@ -422,7 +454,11 @@ CFR 第 14 编 part 45 包括对航空器、发动机、螺旋桨、某些更换
 
 1. 字母“FAA-PMA”
 
-2. PMA 持有人的名称、符号或商标 3. 件号 4. 该件可安装于其上的每一型号合格审定产品的名称与型号标识 若某部件在维修手册或 ICA 中规定了更换时间、检查间隔或其他相关程序规范，则该部件必须带有件号和序号（或各自的等效标识）。
+2. PMA 持有人的名称、符号或商标
+
+3. 件号
+
+4. 该件可安装于其上的每一型号合格审定产品的名称与型号标识 若某部件在维修手册或 ICA 中规定了更换时间、检查间隔或其他相关程序规范，则该部件必须带有件号和序号（或各自的等效标识）。
 
 寿命限定件的制造商必须为该件提供标记说明，或者声明该件在不损害其完整性的情况下无法标记。对于尺寸过小、标记所需数据不现实的部件，其识别可作例外处理。
 
@@ -522,7 +558,23 @@ CFR 第 14 编 part 45 包括对航空器、发动机、螺旋桨、某些更换
 
 不过，一旦启动，重复检查间隔不得超过 7 年。证书持有人必须把航空器和记录都提供给 FAA 进行检查与审查。证书持有人必须至少提前 60 天通知局长航空器与记录可供审查。记录必须包含下列信息：
 
-1. 飞机服役总年数 2. 机身服役总时间 3. 本节所要求的最近一次检查与记录审查的日期 4. 寿命限定件的当前状态 5. 所有须按特定时间翻修的结构部件自上次翻修以来的时间 6. 飞机当前的检查状态，包括自该飞机所依据的检查大纲要求的最近一次检查以来的时间 7. 适用 AD 的当前状态，包括符合的日期与方法；若 AD 涉及重复性措施，还包括下次措施所需的时间与日期 8. 重大结构改装清单 9. 重大结构修理报告以及这些修理当前的检查状态
+1. 飞机服役总年数
+
+2. 机身服役总时间
+
+3. 本节所要求的最近一次检查与记录审查的日期
+
+4. 寿命限定件的当前状态
+
+5. 所有须按特定时间翻修的结构部件自上次翻修以来的时间
+
+6. 飞机当前的检查状态，包括自该飞机所依据的检查大纲要求的最近一次检查以来的时间
+
+7. 适用 AD 的当前状态，包括符合的日期与方法；若 AD 涉及重复性措施，还包括下次措施所需的时间与日期
+
+8. 重大结构改装清单
+
+9. 重大结构修理报告以及这些修理当前的检查状态
 
 #### 14 CFR part 145——维修站
 

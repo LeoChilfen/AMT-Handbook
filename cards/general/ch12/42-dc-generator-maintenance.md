@@ -8,7 +8,11 @@ The following information about the inspection and maintenance of DC generator s
 
 In general, the inspection of the generator installed in the aircraft should include the following items:
 
-1. Security of generator mounting 2. Condition of electrical connections 3. Dirt and oil in the generator—if oil is present, check engine oil seal. Blow out dirt with compressed air.
+1. Security of generator mounting
+
+2. Condition of electrical connections
+
+3. Dirt and oil in the generator—if oil is present, check engine oil seal. Blow out dirt with compressed air.
 
 4. Condition of generator brushes 5. Generator operation 6. V oltage regulator operation
 
@@ -94,7 +98,11 @@ The armature in a practical motor is not placed between the poles of a permanent
 
 一般来说，检查装在飞机上的发电机应包括以下各项：
 
-1. 发电机安装是否牢固　　2. 电气连接的状况　　3. 发电机内的污物和油污——如果有油，检查发动机油封。用压缩空气吹除污物。
+1. 发电机安装是否牢固
+
+2. 电气连接的状况
+
+3. 发电机内的污物和油污——如果有油，检查发动机油封。用压缩空气吹除污物。
 
 4. 发电机电刷的状况　　5. 发电机的工作情况　　6. 电压调节器的工作情况
 

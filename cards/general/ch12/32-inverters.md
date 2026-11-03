@@ -44,7 +44,17 @@ Static inverters, referred to as solid-state inverters, are manufactured in a wi
 
 Since static inverters use solid-state components, they are considerably smaller, more compact, and much lighter in weight than rotary inverters. Depending on the output power rating required, static inverters that are no larger than a typical airspeed indicator can be used in aircraft systems. Some of the features of static inverters are:
 
-1. High efficiency 2. Low maintenance, long life 3. No warmup period required 4. Capable of starting under load 5. Extremely quiet operation 6. Fast response to load changes Static inverters are commonly used to provide power for such frequency sensitive instruments as the attitude gyro and directional gyro. They also provide power for autosyn and magnesyn indicators and transmitters, rate gyros, radar, and other airborne applications.
+1. High efficiency
+
+2. Low maintenance, long life
+
+3. No warmup period required
+
+4. Capable of starting under load
+
+5. Extremely quiet operation
+
+6. Fast response to load changes Static inverters are commonly used to provide power for such frequency sensitive instruments as the attitude gyro and directional gyro. They also provide power for autosyn and magnesyn indicators and transmitters, rate gyros, radar, and other airborne applications.
 
 ## 2. 中文翻译
 
@@ -88,7 +98,17 @@ Since static inverters use solid-state components, they are considerably smaller
 
 由于静止式逆变器使用固态元件，它们比旋转式逆变器小得多、紧凑得多，重量也轻得多。视所需的输出功率额定值而定，尺寸不大于典型空速表的静止式逆变器即可用于飞机系统。静止式逆变器的部分特点是：
 
-1. 效率高 2. 维护量小、寿命长 3. 无需预热时间 4. 能在带载情况下启动 5. 运行极为安静 6. 对负载变化响应快 静止式逆变器通常用于为姿态陀螺仪和航向陀螺仪等对频率敏感的仪表供电。它们也为自整角（autosyn）和磁同步（magnesyn）指示器与传感器、速率陀螺、雷达及其他机载应用供电。
+1. 效率高
+
+2. 维护量小、寿命长
+
+3. 无需预热时间
+
+4. 能在带载情况下启动
+
+5. 运行极为安静
+
+6. 对负载变化响应快 静止式逆变器通常用于为姿态陀螺仪和航向陀螺仪等对频率敏感的仪表供电。它们也为自整角（autosyn）和磁同步（magnesyn）指示器与传感器、速率陀螺、雷达及其他机载应用供电。
 
 ## 3. 专业词汇
 
