@@ -6,9 +6,7 @@
 
 The normal tie-down procedure for heavy aircraft can be accomplished with rope or cable tie-down. The number of tie-downs are governed by anticipated weather conditions.
 
-Most heavy aircraft are equipped with surface control locks that are engaged or installed when the aircraft is secured.
-
-Since the method of locking controls vary on different types of aircraft, check the manufacturer’s instructions for proper installation or engaging procedures. If high winds are anticipated, control surface battens can also be installed to prevent damage. Figure 1-11 illustrates four common tie- down points on heavy aircraft.
+Most heavy aircraft are equipped with surface control locks that are engaged or installed when the aircraft is secured. Since the method of locking controls vary on different types of aircraft, check the manufacturer’s instructions for proper installation or engaging procedures. If high winds are anticipated, control surface battens can also be installed to prevent damage. Figure 1-11 illustrates four common tie- down points on heavy aircraft.
 
 The normal tie-down procedure for heavy aircraft includes the following:
 
@@ -22,57 +20,51 @@ The normal tie-down procedure for heavy aircraft includes the following:
 
 ## 2. 中文翻译
 
-重型航空器的常规系留程序可用绳索或钢索完成。系留点的数量根据预期天气条件确定。
+重型飞机的常规系留程序可用绳索或钢索完成。系留点的数量由预计的天气状况决定。
 
-大多数重型航空器装有操纵面锁定装置，在航空器系留时予以啮合或安装。
+大多数重型飞机装有操纵面锁，在飞机系留时予以啮合或装上。由于不同机型的操纵面锁定方法各不相同，应查阅制造商说明以确认正确的安装或啮合程序。如预计有大风，还可加装操纵面压板以防损伤。图 1-11 示出了重型飞机上四个常见的系留点。
 
-由于不同机型的操纵面锁定方法不同，应查阅制造厂说明，了解正确的安装或啮合程序。如果预期有大风，还可以安装操纵面夹板以防损坏。图 1-11 示出重型航空器上四个常见的系留点。
+重型飞机的常规系留程序包括下列内容：
 
-重型航空器的常规系留程序包括以下内容：
+1. 尽可能使机头迎向主导风。
 
-1. 尽可能让机头迎主导风。
+2. 装好操纵面锁、全部堵盖和护罩。
 
-2. 安装操纵面锁、所有罩盖和护套。
+3. 在全部机轮的前后打轮挡。[图 1-12]
 
-3. 在机轮前后都放好轮挡。[图 1-12]
-
-4. 把系留卷索接到航空器系留环、系留地锚或系留桩上。系留桩只用于临时系留。如果没有系留卷索，可使用 1/4" 钢索或 1 1/2" 马尼拉绳。
+4. 把系留绞盘接到飞机系留环、系留地锚或系留桩上。系留桩只用于临时系留。如无系留绞盘，可用 1⁄4" 钢丝绳或 1 1⁄2" 马尼拉绳。
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-| tie-down reel | n. phr. | 系留卷索 | 卷盘式系留索具，用来把机体连接到地面锚点 |
-| tie-down loop | n. phr. | 系留环 | 机体上供系留索连接的受力点 |
-| tie-down anchor | n. phr. | 系留地锚 | 埋设或固定在地面的锚点，承受系留拉力 |
-| tie-down stake | n. phr. | 系留桩 | 打入地面的地桩，仅限临时系留使用 |
-| surface control lock | n. phr. | 操纵面锁定装置 | 系留时锁定副翼、升降舵等操纵面，防止被风吹动 |
-| control surface batten | n. phr. | 操纵面夹板 | 大风时加装在操纵面外侧的临时固定板 |
-| chock | v./n. | 放轮挡；轮挡 | chock all wheels fore and aft 在机轮前后都打上轮挡 |
-| manila line | n. phr. | 马尼拉绳 | 没有系留卷索时的替代系留绳，规格 1 1/2" |
+| heavy aircraft | n. | 重型飞机 | 本节指用钢索、绞盘系留的大中型飞机 |
+| tie-down | n. | 系留 | 用绳索或钢索把飞机固定在地面 |
+| cable tie-down | n. | 钢索系留 | 以钢丝绳代替绳索的系留方式 |
+| surface control lock | n. | 操纵面锁 | 锁定副翼、升降舵等，防风吹动 |
+| control surface batten | n. | 操纵面压板 | 大风时压住操纵面，防颤振损伤 |
+| tie-down reel | n. | 系留绞盘 | 收放钢索并施加预紧力的装置 |
+| tie-down anchor | n. | 系留地锚 | 埋入地下的固定受力点 |
+| chock | v./n. | 打轮挡；轮挡 | 在机轮前后塞入，防止滚动 |
 
 ## 4. 语法解析
 
-### ① 被动语态 + that 定语从句 + when 从句
+### ① 被动语态 + by 引出施动者（并注意主谓一致）
+**原句**：The number of tie-downs are governed by anticipated weather conditions.
+**拆解**：主语 The number of tie-downs（of 短语作后置定语）+ 被动谓语 are governed + 状语 by anticipated weather conditions（过去分词作定语）。
+**要点**：原文用 are 与单数主语 The number 不一致，规范写法应为 is governed；抄录时保留原样，但要知道这是原文的疏漏。by + 名词 引出施动者，是技术被动句的常见收尾。
 
+### ② 定语从句套时间状语从句
 **原句**：Most heavy aircraft are equipped with surface control locks that are engaged or installed when the aircraft is secured.
+**拆解**：主句 Most heavy aircraft are equipped with surface control locks（被动）；that 引导定语从句修饰 locks，从句内 are engaged or installed 为并列被动谓语，when 引导时间状语从句。
+**要点**：be equipped with 意为“装有”，不是“被装备”；定语从句里再套时间状语从句，是规章文本“层层限定”的典型写法，翻译时要按中文习惯拆开。
 
-**拆解**：主句 Most heavy aircraft are equipped with surface control locks；that are engaged or installed 是定语从句修饰 locks，从句为被动，两个过去分词由 or 并列；when the aircraft is secured 是时间状语从句，也是被动。
+### ③ Since 引导原因 + 祈使句主句
+**原句**：Since the method of locking controls vary on different types of aircraft, check the manufacturer’s instructions for proper installation or engaging procedures.
+**拆解**：Since 引导原因状语从句（主语 the method of locking controls，谓语 vary）；主句是祈使句 check the manufacturer’s instructions；for proper installation or engaging procedures 说明查说明书的目的，installation 与 engaging 并列作介词宾语。
+**要点**：“Since + 原因, 祈使句”构成“因为…所以请…”的要求句；installation 是名词、engaging 是动名词，并列时要保证词性一致（此处都作介词宾语，合法）。
 
-**要点**：一句话里三处被动，是手册「以物为主语、不点明执行者」的典型写法。be equipped with 是固定搭配「装有」；engage 在此指「使（锁定装置）啮合、卡入」，与 install（安装）并列，二者都可用于 lock。securing 是名词化的「系留」，the aircraft is secured 即「航空器完成系留时」。
-
-### ② if 条件从句 + 情态被动 + 目的状语
-
-**原句**：If high winds are anticipated, control surface battens can also be installed to prevent damage.
-
-**拆解**：If high winds are anticipated 是条件状语从句（被动）；主句 control surface battens can also be installed 是情态动词被动；to prevent damage 是目的状语。
-
-**要点**：anticipate 意为「预料到」，比 expect 更强调事先有所准备；气象类文本常用被动 are anticipated（被预报将有）。can be installed 表示「可以加装」，不是「必须」；to prevent damage 中的 damage 不可数，不加 a。
-
-### ③ 祈使句 + whenever possible 省略结构
-
-**原句**：Head aircraft into prevailing wind whenever possible.
-
-**拆解**：Head 是祈使句的动词（此处作及物动词「使……朝向」），aircraft 是宾语，into prevailing wind 是方向状语；whenever possible 是让步/时间状语从句的省略形式，完整为 whenever it is possible。
-
-**要点**：head 作动词时表示「使机头朝向」，head aircraft into the wind 即「让航空器机头迎风」。whenever possible / when necessary 这类省略结构在手册中极常见，省略的是 it is，不能补成 whenever is possible。prevailing wind 前不加 the，表示「主导风」这一概念。
+### ④ only 的位置与限定范围
+**原句**：Use tie-down stakes for temporary tie-down only.
+**拆解**：祈使句 Use tie-down stakes for temporary tie-down only；only 位于句末，限定的是状语 for temporary tie-down。
+**要点**：only 位置不同则限定对象不同——句末 only 强调“仅限临时系留”；若写成 Use only tie-down stakes… 就变成“只许用系留桩”，语义跑偏。

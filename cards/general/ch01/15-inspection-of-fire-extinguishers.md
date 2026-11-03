@@ -6,52 +6,65 @@
 
 Fire extinguishers need to be checked periodically utilizing a checklist. If a checklist is unavailable, check the following as a minimum:
 
-• Proper location of appropriate extinguisher • Safety seals unbroken • All external dirt and rust removed • Gauge or indicator in operable range • Proper weight • No nozzle obstruction • No obvious damage Airport or other local fire departments can usually help in preparing or providing extinguisher checklists. In addition, these fire departments can be helpful in answering questions
+• Proper location of appropriate extinguisher
 
-and assisting in obtaining repairs to or replacement of fire extinguishers.
+• Safety seals unbroken
+
+• All external dirt and rust removed
+
+• Gauge or indicator in operable range
+
+• No nozzle obstruction
+
+• No obvious damage Airport or other local fire departments can usually help in preparing or providing extinguisher checklists. In addition, these fire departments can be helpful in answering questions and assisting in obtaining repairs to or replacement of fire extinguishers.
 
 ## 2. 中文翻译
 
 灭火器需要借助检查单定期检查。如果没有检查单，至少应检查以下各项：
 
-• 适用的灭火器放置在正确位置 • 安全封条未被破坏 • 已清除外部污物和锈迹 • 压力表或指示器处于可工作范围 • 重量正确 • 喷嘴无堵塞 • 无明显损伤
+• 适用的灭火器放在规定位置
 
-机场消防部门或其他当地消防部门通常可以协助编制或提供灭火器检查单。此外，这些消防部门还可以帮助解答问题，并协助安排灭火器的修理或更换。
+• 保险封条未破损
+
+• 已清除所有外部污垢和锈迹
+
+• 压力表或指示器处于可工作范围
+
+• 喷嘴无堵塞
+
+• 无明显损伤（原文此处项目符号与下段文字在 PDF 中连排，未分段：机场或其他当地消防部门通常可以协助编制或提供灭火器检查单。此外，这些消防部门还可帮助解答问题，并协助安排灭火器的修理或更换。）
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-| periodically | adv. | 定期地 | 按固定周期检查灭火器，而非一次性检查 |
-| checklist | n. | 检查单 | 逐项核对灭火器状态的清单，可向消防部门索取 |
-| safety seal | n. phr. | 安全封条 | 封条未破损才说明灭火器未被使用或误动 |
-| gauge | n. | 压力表 | 指针须落在可工作范围内 |
-| operable range | n. phr. | 可工作范围 | 压力表上表示压力正常的区间 |
-| nozzle obstruction | n. phr. | 喷嘴堵塞 | 检查项之一，堵塞会导致喷不出灭火剂 |
-| replacement | n. | 更换 | 灭火器无法修复时整体换新 |
+| extinguisher | n. | 灭火器 | 本节检查单针对的对象，需按期核对状态 |
+| checklist | n. | 检查单 | 逐项核对灭火器状态的表格，缺则按最低项检查 |
+| safety seal | n. | 保险封条 | 铅封、塑料封条，破损说明可能已被使用 |
+| gauge | n. | 压力表 | 指示灭火器内压是否在可工作范围 |
+| indicator | n. | 指示器 | 与压力表并列的另一种状态显示装置 |
+| nozzle | n. | 喷嘴 | 喷射出口，需检查有无堵塞 |
+| rust | n. | 锈迹 | 筒体外部腐蚀迹象，检查时要清除 |
+| fire department | n. | 消防部门 | 可协助编制检查单、安排修理或更换的当地机构 |
 
 ## 4. 语法解析
 
-### ① need to be + 过去分词
-
+### ① need to be done + 分词方式状语
 **原句**：Fire extinguishers need to be checked periodically utilizing a checklist.
+**拆解**：主语 Fire extinguishers + 谓语 need + 不定式被动 to be checked；periodically 为频率副词；utilizing a checklist 为现在分词短语作方式状语。
+**要点**：need 后接不定式被动，表示“（东西）需要被……”，与 need doing（同义口语式）可互换；utilize 在此等于 use，是手册常用的正式说法。
 
-**拆解**：主语 Fire extinguishers，谓语 need to be checked（need 作实义动词，后接被动不定式 to be checked）；periodically 是频率状语；utilizing a checklist 是现在分词短语作方式状语。
-
-**要点**：need to be done 表示「需要被……」，主语是动作的承受者；也可写成 need checking（need + 动名词，主动形式表被动含义），但不能写 need to check（那会变成「需要去检查别人/别的东西」）。utilize 比 use 正式，手册中常用来指「使用某种工具或程序」。
-
-### ② If 条件从句 + 祈使主句
-
+### ② if 条件从句 + 祈使主句
 **原句**：If a checklist is unavailable, check the following as a minimum:
+**拆解**：If 引导条件状语从句（主系表 is unavailable）+ 祈使句主句 check the following；as a minimum 为方式状语，意为“至少”。
+**要点**：条件从句与祈使主句搭配，是说明书的标准句式；the following 指代后面列举的项目，冒号引出清单；as a minimum 不可写成 at minimum 以外的不规范形式。
 
-**拆解**：If a checklist is unavailable 是条件状语从句，用一般现在时表示将来可能的情形；主句 check the following 是祈使句；as a minimum 是介词短语作状语，意为「至少」。
-
-**要点**：条件从句中不用 will；主句为祈使句时，整句相当于「如果……就请……」。as a minimum 是手册高频短语，与 at a minimum 近义；following 在此是名词化的「以下各项」。
-
-### ③ help in doing / be helpful in doing
-
+### ③ help in + 动名词
 **原句**：Airport or other local fire departments can usually help in preparing or providing extinguisher checklists.
+**拆解**：主语 Airport or other local fire departments + 情态动词 can + 副词 usually + 谓语 help + in preparing or providing…（介词 in 后接并列动名词）。
+**要点**：help in doing sth 比 help do sth 更强调“在……过程中提供帮助”；or 连接两个动名词须保持形式平行；主语含 or 时谓语单复数按就近原则处理，此处用复数与就近的 departments 一致。
 
-**拆解**：主语 Airport or other local fire departments，谓语 can help；in preparing or providing extinguisher checklists 是介词短语，两个动名词并列作 in 的宾语。
-
-**要点**：help (in) doing sth 中的 in 常可省略，但接了 in 就必须用动名词，不能接不定式；preparing 与 providing 共用宾语 extinguisher checklists。同类结构 be helpful in doing sth（有助于做某事）在本节下一句也出现。
+### ④ be helpful in doing + 并列名词短语
+**原句**：In addition, these fire departments can be helpful in answering questions and assisting in obtaining repairs to or replacement of fire extinguishers.
+**拆解**：In addition 为连接性状语；主语 these fire departments + 系动词 can be + 表语 helpful + in answering… and assisting in…（并列动名词短语）。
+**要点**：be helpful in doing 与 help in doing 同义，但更强调“有用”；assist in doing 也是固定搭配；obtaining repairs to or replacement of 中 to 和 of 各自搭配前面的名词，不能合并成一个介词。

@@ -1,0 +1,74 @@
+# Reciprocating Engines
+
+> 通用 Ch 01 · Reciprocating Engines · 原文 PDF 第 33 页
+
+## 1. 原文
+
+The following procedures are typical of those used to start reciprocating engines. There are, however, wide variations in the procedures for the many reciprocating engines. Do not attempt to use the methods presented here for actually starting an engine. Instead, always refer to the procedures contained in the applicable manufacturer’s instructions. Reciprocating engines are capable of starting in fairly low temperatures Align the blades without the use of engine heating or oil dilution, depending on the grade of oil used. The various covers (wing, tail, flight deck, wheel, and so forth) protecting the aircraft must be removed before attempting to turn the engine. Use external sources of electrical power when starting engines equipped with electric starters, if possible or needed. This eliminates an excessive burden on the aircraft battery. Leave all unnecessary electrical equipment off until the generators are furnishing electrical power to the aircraft power bus. Before starting a radial engine that has been shut down for more than 30 minutes, check the ignition switch for off. Turn the propeller three or four complete revolutions by hand to detect a hydraulic lock, if one is present. Any liquid present in a cylinder is indicated by the abnormal effort required to rotate the propeller or by the propeller stopping abruptly during rotation. Never use force to turn the propeller when a hydraulic lock is detected. Sufficient force can be exerted on the crankshaft to bend or break a connecting rod if a lock is present. To eliminate a lock, remove either the front or rear spark plug from the lower cylinders and pull the propeller through. Never attempt to clear the hydraulic lock by pulling the propeller through in the direction opposite to normal rotation. This tends to inject the liquid from the cylinder into the intake pipe. The liquid is drawn back into the cylinder with the possibility of complete or partial lock occurring on the subsequent start.
+
+To start the engine, proceed as follows:
+
+1. Turn the auxiliary fuel pump on, if the aircraft is so equipped.
+
+2. Place the mixture control to the position recommended for the engine and carburetor combination being started. As a general rule, put the mixture control in the “idle cut-off” position for fuel injection and in the “full rich” position for float-type carburetors. Many light aircraft are equipped with a mixture control pull rod that has no detent intermediate positions. When such controls are pushed in flush with the instrument panel, the mixture is set in the “full rich” position. Conversely, when the control rod is pulled all the way out, the carburetor is in the “idle cut-off” or “full lean” position. The operator can select unmarked intermediate positions between these two extremes to achieve any desired mixture setting.
+
+3. Open the throttle to a position that provides 1,000 to 1,200 rpm (approximately 1⁄8" to 1⁄2" from the “closed” position). 4. Leave the pre-heat or alternate air (carburetor air) control in the “cold” position to prevent damage and fire in case of backfire. These auxiliary heating devices are used after the engine warms up. They improve fuel vaporization, prevent fouling of the spark plugs, ice formation, and eliminate icing in the induction system.
+
+5. Move the primer switch to “on” intermittently (press to prime by pushing in on the ignition switch during the starting cycle), or prime with one to three strokes of priming pump, depending on how the aircraft is equipped. The colder the weather, the more priming is needed. 6. Energize the starter and after the propeller has made at least two complete revolutions, turn the ignition switch on. On engines equipped with an induction vibrator (shower of sparks, magneto incorporates a retard breaker assembly), turn the switch to the “both” position and energize the starter by turning the switch to the “start” position. After the engine starts, release the starter switch to the “both” position. When starting an engine that uses an impulse coupling magneto, turn the ignition switch to the “left” position. Place the start switch to the “start” position. When the engine starts, release the start switch. Do not crank the engine continuously with the starter for more than 1 minute. Allow a 3- to 5-minute period for cooling the starter (starter duty cycle) between successive attempts. Otherwise, the starter may be burned out due to overheating.
+
+7. After the engine is operating smoothly, move the mixture control to the “full rich” position if started in the “idle cutoff” position. Carbureted engines are already in the rich mixture position. Check for oil pressure.
+
+8. Instruments for monitoring the engine during operation include a tachometer for rpm, manifold pressure gauge, oil pressure gauge, oil temperature gauge, cylinder head temperature gauge, exhaust gas temperature gauge, and fuel flow gauge.
+
+## 2. 中文翻译
+
+以下程序是起动活塞式发动机的典型做法。不过，众多活塞式发动机的起动程序差异很大。切勿用此处介绍的方法去实际起动发动机，而应始终参照相应制造商说明中所载的程序。活塞式发动机在较低温度下也能起动（原文此处混入他页残句“Align the blades…”，略），具体取决于所用滑油的牌号。在试图转动发动机之前，必须拆下保护飞机的各种堵盖与罩布（机翼、尾翼、驾驶舱、机轮等）。起动装电动起动机的发动机时，应尽可能或按需使用外部电源。这样可避免给飞机电瓶造成过大负担。在发电机向飞机电源汇流条供电之前，所有不必要的用电设备应保持关闭。起动停放超过 30 分钟的星型发动机之前，应检查点火开关处于关闭位。用手转动螺旋桨三到四整圈，以发现是否存在液压锁。气缸内如有液体，表现为转动螺旋桨所需力量异常增大，或螺旋桨在转动中骤然停住。发现液压锁时，切勿强行转动螺旋桨。如存在液压锁，作用在曲轴上的力足以使连杆弯曲或折断。排除液压锁时，应拆下下部气缸的前或后火花塞，然后拉转螺旋桨。切勿用反向于正常旋转方向拉转螺旋桨的方法去消除液压锁。这样做会把液体从气缸压入进气管，随后又被吸回气缸，可能在下次起动时造成完全或部分液压锁。
+
+起动发动机时，按下列步骤操作：
+
+1. 如飞机装有辅助燃油泵，将其接通。
+
+2. 把混合比操纵杆放到该发动机与化油器组合所推荐的位置。一般规则是：燃油喷射式发动机把混合比放在“慢车切断”（idle cut-off）位，浮子式化油器放在“全富油”（full rich）位。许多轻型飞机装的混合比拉杆没有中间定位槽。此类操纵杆推到底与仪表板齐平时，混合比处于“全富油”位。反之，拉杆全部拉出时，化油器处于“慢车切断”或“全贫油”位。操作者可在两端之间的无标记中间位置中选择，以获得所需的混合比设定。
+
+3. 把油门开到能提供 1,000 至 1,200 rpm 的位置（约离“关”位 1⁄8" 至 1⁄2"）。4. 把预热或备用空气（化油器空气）操纵杆留在“冷”位，以防回火时造成损坏和起火。这些辅助加温装置在发动机暖机后使用。它们可改善燃油汽化，防止火花塞积污、结冰，并消除进气系统的结冰。
+
+5. 把注油开关间断地置于“开”（起动过程中按压点火开关注油），或用注油泵打一至三下，视飞机装备而定。天气越冷，需要的注油量越大。6. 接通起动机；待螺旋桨至少转满两整圈后，打开点火开关。对装进气振动器（火花喷注型，磁电机带延迟断电器组件）的发动机，把开关转到“双”（both）位，再把开关转到“起动”（start）位接通起动机。发动机起动后，把起动开关松开回“双”位。起动使用冲击联轴器磁电机的发动机时，把点火开关转到“左”（left）位，把起动开关置于“起动”位；发动机起动后松开起动开关。不得用起动机连续带转发动机超过 1 分钟。两次起动尝试之间应留 3 至 5 分钟让起动机冷却（起动机工作周期）。否则，起动机可能因过热而烧毁。
+
+7. 发动机平稳工作后，若起动时处于“慢车切断”位，应把混合比操纵杆移到“全富油”位。化油器式发动机本来就处在富油位。检查滑油压力。
+
+8. 运行中监控发动机的仪表包括：转速表（rpm）、进气压力表、滑油压力表、滑油温度表、气缸头温度表、排气温度表和燃油流量表。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| reciprocating engine | n. | 活塞式发动机 | 靠活塞往复运动做功的发动机，本节主题 |
+| hydraulic lock | n. | 液压锁（液锁） | 液体进入气缸使活塞无法压缩 |
+| connecting rod | n. | 连杆 | 连接活塞与曲轴，液锁时可能被顶弯 |
+| crankshaft | n. | 曲轴 | 承受液锁力矩的旋转轴 |
+| mixture control | n. | 混合比操纵 | 调节燃油与空气比例的杆/阀 |
+| idle cut-off | n. | 慢车切断 | 停止供油以使发动机停车的混合比位置 |
+| primer | n. | 注油器 | 起动前向进气系统补充燃油的装置 |
+| starter duty cycle | n. | 起动机工作周期 | 两次带转之间必须冷却的间隔规定 |
+
+## 4. 语法解析
+
+### ① however 作插入语与 variations in
+**原句**：There are, however, wide variations in the procedures for the many reciprocating engines.
+**拆解**：There are 存在句 + 插入语 however（用逗号隔开）+ 主语 wide variations + in the procedures for the many reciprocating engines 后置定语。
+**要点**：however 作插入语表转折，不能像 but 那样直接连接两个分句；variations in 是“在某方面的差异”，不用 variations of。
+
+### ② the + 比较级, the + 比较级
+**原句**：The colder the weather, the more priming is needed.
+**拆解**：The + 比较级 the colder the weather, the + 比较级 the more priming is needed；后半句为被动结构（is needed）。
+**要点**：“the + 比较级, the + 比较级”表示“越…越…”，两个 the 都不能省；前半句常省略谓语（the colder the weather = the colder the weather is）。
+
+### ③ attempt to do 与过去分词后置定语
+**原句**：Do not attempt to use the methods presented here for actually starting an engine.
+**拆解**：否定祈使 Do not attempt + 不定式 to use the methods 作宾语；presented here 是过去分词短语作 methods 的后置定语。
+**要点**：attempt to do 为固定搭配（attempt doing 很少见）；presented here 等于 which are presented here，手册为求简洁常这样压缩。
+
+### ④ be indicated by + 名词/动名词并列
+**原句**：Any liquid present in a cylinder is indicated by the abnormal effort required to rotate the propeller or by the propeller stopping abruptly during rotation.
+**拆解**：主语 Any liquid + present in a cylinder（形容词短语作后置定语）+ 被动谓语 is indicated + by the abnormal effort required to rotate the propeller 与 by the propeller stopping abruptly during rotation 两个并列状语；required to… 为过去分词短语修饰 effort，stopping 为动名词。
+**要点**：be indicated by 意为“表现为、由…表明”；两个 by 后面一个是名词短语、一个是动名词短语，都由介词 by 引出；present in 中的 present 是形容词“存在的”，不是动词“呈现”。

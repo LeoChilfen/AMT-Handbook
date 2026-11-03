@@ -8,44 +8,43 @@ As with the previously mentioned items, it is important to be aware of propeller
 
 ## 2. 中文翻译
 
-与前文提到的各项一样，注意螺旋桨也很重要。技师不能想当然地认为滑行中航空器的飞行员能看见自己，在停机坪区域必须始终待在飞行员的视野内。涡轮发动机的进气道和排气也是十分危险的区域。在运行中的航空器附近任何地方都不允许吸烟或使用明火。要注意可能对皮肤有害的航空器液体。在航空器周围操作地面保障设备时，务必在设备与航空器之间留出间隔，并把设备固定好，使其不会滑向航空器。运行中航空器周围区域的所有物品都必须妥善存放。
+与前面提到的各项一样，必须注意螺旋桨。技术人员不能想当然地认为滑行中飞机的飞行员能看到自己，在机坪区域作业时必须始终处于飞行员的视野之内。燃气涡轮发动机的进气道和排气口同样可能是十分危险的区域。飞机运行时，其附近任何地方都不允许吸烟或出现明火。要注意那些对皮肤有害的飞机用液体。在飞机周围操作地面保障设备时，务必让设备与飞机之间留出间距，并将其固定好，使其不会滑向飞机。正在运行的飞机周围区域内的所有物品都必须妥善存放。
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-| propeller | n. | 螺旋桨 | 本节提醒注意的旋转危险源 |
-| taxiing aircraft | n. phr. | 滑行中的航空器 | 飞行员视野受限，技师须主动避让 |
-| within the pilot’s view | phr. | 在飞行员视野内 | 停机坪上防止被撞的基本做法 |
-| turbine engine intake | n. phr. | 涡轮发动机进气道 | 吸气危险区，禁止靠近 |
-| exhaust | n. | 排气（流） | 高温高速气流的危险区 |
-| open flame | n. phr. | 明火 | 运行中航空器附近严禁使用 |
-| aircraft fluid | n. phr. | 航空器液体（油液） | 燃油、液压油等可能刺激或损伤皮肤 |
-| support equipment | n. phr. | 地面保障设备 | 电源车、气源车、牵引车一类设备 |
-| stow | v. | 收纳、固定存放 | 所有物品须妥善存放，防止被吹移 |
+| propeller | n. | 螺旋桨 | 本节提醒注意其旋转危险，人员须避开桨盘与旋转面 |
+| taxiing aircraft | 名词短语 | 滑行中的飞机 | 飞行员视野受限，技术人员须留在其视野内 |
+| ramp area | 名词短语 | 机坪区域 | 飞机滑行与地面保障设备作业的区域 |
+| turbine engine intake | 名词短语 | 燃气涡轮发动机进气道 | 会吸入人员与外来物的危险区域 |
+| exhaust | n. | 排气口、尾喷 | 高温高速气流的危险区，附近禁止吸烟与动火 |
+| open flame | 名词短语 | 明火 | 飞机运行时其附近严禁出现的火源 |
+| support equipment | 名词短语 | 地面保障设备 | 在飞机周围使用时须保持间距并固定防溜滑 |
+| stow | v. | 妥善存放、系固 | 运行中飞机周围所有物品都须做到的处置 |
 
 ## 4. 语法解析
 
-### ① As with the previously mentioned items, it is important to be aware of propellers（as with + it 形式主语）
-
-**原句**：As with the previously mentioned items, it is important to be aware of propellers.
-
-**拆解**：As with the previously mentioned items 是介词短语作状语，意为「如同前面提到的各项一样」；it 是形式主语，真正的主语是 to be aware of propellers。
-
-**要点**：as with 后接名词短语，表示类比，不能接从句（接从句要用 as 引导方式状语从句）。It is + 形容词 + to do 是英语避免头重脚轻的常用手段，中文一般直接译「做某事很重要」，不必译出「它是」。区分 as with（如同……一样）与 as for（至于）。
-
-### ② Technicians cannot assume the pilot … can see them and must stay within the pilot’s view（省略 that 的宾语从句 + 并列谓语）
+### ① 省略 that 的宾语从句 + 并列谓语 + while 省略
 
 **原句**：Technicians cannot assume the pilot of a taxiing aircraft can see them and must stay within the pilot’s view while on the ramp area.
+**拆解**：主语 Technicians + 谓语 1 cannot assume + 省略 that 的宾语从句（the pilot of a taxiing aircraft can see them）+ and 谓语 2 must stay within the pilot’s view + while on the ramp area 为时间状语（省略 they are）。
+**要点**：assume 后的宾语从句常省略 that，cannot assume (that) the pilot… can see them 的从句里又套了一个情态动词 can，读句时先找出 assume 的从句边界。两个谓语不能混为一句：technicians 既“不能想当然”，又“必须留在视野内”。while on the ramp area = while they are on the ramp area，省略后主语须与主句一致；注意句末 their/them 都指 technicians。
 
-**拆解**：主句主语 Technicians，两个并列谓语 cannot assume 与 must stay；assume 后是省略了 that 的宾语从句 the pilot … can see them；while on the ramp area 是 while they are on the ramp area 的省略形式。
+### ② 动名词与名词并列作主语 + 被动语态
 
-**要点**：assume 后的宾语从句连词 that 可以省略，但句中出现第二个谓语 must stay 时要判断它属于主句还是从句——本句 must stay 与 cannot assume 并列，主语仍是 Technicians，译作「不能想当然……并且必须待在……」。while + 介词短语也是省略结构，条件是主语与主句一致。
+**原句**：Smoking or open flames are not permitted anywhere near an aircraft in operation.
+**拆解**：主语 Smoking or open flames（动名词与名词短语并列）+ 谓语 are not permitted（被动语态）+ 地点状语 anywhere near an aircraft（in operation 为后置定语修饰 aircraft）。
+**要点**：动名词 smoking 与名词短语 open flames 并列作主语，谓语用复数 are，不能因为第一个成分是动名词就用 is。anywhere near… 是“在……附近任何地方”的强调说法。in operation 是“正在运行/使用中”的固定表达，作后置定语时必须放在名词之后。
 
-### ③ All items in the area of operating aircraft must be stowed properly（被动语态 + 动名词作定语）
+### ③ When + 现在分词（省略）+ so that 目的从句
+
+**原句**：When operating support equipment around aircraft, be sure to allow space between it and the aircraft, and secure it so it cannot roll into the aircraft.
+**拆解**：When operating… 为时间状语（省略 you are）+ 祈使句 be sure to allow space between it and the aircraft + and secure it（并列祈使）+ so (that) 引导目的/结果状语从句 it cannot roll into the aircraft。
+**要点**：When + 现在分词是 When you are operating… 的省略，祈使句的隐含主语是 you，所以可以省。be sure to do 表示“务必做”，比 must 委婉。so (that) 引导目的从句时常用 can/could/cannot，本句 so it cannot roll… 表示“使其不能滑向飞机”。between it and the aircraft 中 it 指 support equipment，代词指代要按就近原则判断。
+
+### ④ 现在分词作定语 + must be done
 
 **原句**：All items in the area of operating aircraft must be stowed properly.
-
-**拆解**：主语 All items，in the area of operating aircraft 是后置定语，其中 operating 是动名词作定语修饰 aircraft；谓语 must be stowed（情态被动），properly 作状语。
-
-**要点**：operating aircraft 意为「运行中的航空器」，operating 是主动的现在分词形式，因为航空器自己「运行」；若说 operated aircraft 则是「被操作的航空器」，含义不同。must be stowed 与 must be stored 都可译「必须存放」，但 stow 强调「固定、收好以防移动」，是机坪用语的习惯选择。
+**拆解**：主语 All items（in the area of operating aircraft 为后置定语）+ 谓语 must be stowed（情态动词 + 被动语态）+ 副词 properly 作状语。
+**要点**：in the area of operating aircraft 中 operating 是现在分词作定语修饰 aircraft（“正在运行的飞机”），整个介词短语修饰 items，不要读成“运行中的区域”。must be stowed 用被动，强调物品“必须被人收好”，施动者不出现。properly 修饰 stowed，位置在句末，不能插到 must 与 be 之间随意改写。

@@ -10,57 +10,49 @@ Three things are required for a fire. Remove any one of these things and the fir
 
 2. Heat—accelerates the combining of oxygen with fuel, in turn releasing more heat.
 
-3. Oxygen—the element that combines chemically with another substance through the process of oxidation.
-
-Rapid oxidation, accompanied by a noticeable release of heat and light, is called combustion or burning.
+3. Oxygen—the element that combines chemically with another substance through the process of oxidation. Rapid oxidation, accompanied by a noticeable release of heat and light, is called combustion or burning. [Figure 1-3]
 
 ## 2. 中文翻译
 
-燃烧需要三个条件。去掉其中任何一个，火就会熄灭：
+燃烧需要三个条件。去掉其中任何一个条件，火就会熄灭：
 
-1. 燃料——在有热量存在的条件下与氧结合，并释放出更多热量。其结果是，它自身还原为其他化合物。
+1. 燃料——在有热量存在的条件下与氧结合，并释放出更多的热。结果，它自身被还原为其他化合物。
 
-2. 热量——加速氧与燃料的结合，进而释放出更多热量。
+2. 热量——加速氧与燃料的结合，进而释放出更多的热。
 
-3. 氧气——通过氧化过程与另一种物质发生化学结合的元素。
-
-快速氧化，并伴随明显的放热与发光，称为燃烧。
+3. 氧——通过氧化过程与另一种物质发生化学结合的元素。伴随明显的热和光释放的快速氧化，称为燃烧（combustion 或 burning）。[Figure 1-3]
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-| fuel | n. | 燃料 | 燃烧三要素之一，与氧结合并释放热量 |
-| heat | n. | 热量 | 加速氧与燃料结合，使氧化反应自行维持 |
-| oxygen | n. | 氧气 | 通过氧化过程与物质发生化学结合的元素 |
-| oxidation | n. | 氧化 | 物质与氧发生化学结合的过程，燃烧即快速氧化 |
-| combustion | n. | 燃烧 | 伴随明显放热发光的快速氧化 |
-| chemical compound | n. phr. | 化合物 | 燃料燃烧后还原成的其他化合物 |
-| in the presence of | phr. | 在……存在的情况下 | in the presence of heat 指有热量存在时 |
-| extinguish | v. | 熄灭 | 此处 the fire extinguishes 为不及物用法，火自行熄灭 |
+| fuel | n. | 燃料 | 三要素中提供可燃物、与氧结合的那一项 |
+| oxygen | n. | 氧 | 与燃料发生氧化反应的氧化剂 |
+| heat | n. | 热量 | 加速氧化并使反应自持的能量 |
+| oxidation | n. | 氧化 | 物质与氧发生的化学结合过程 |
+| combustion | n. | 燃烧 | 伴随放热发光的快速氧化（正式术语） |
+| burning | n. | 燃烧 | 与 combustion 同义的通俗说法 |
+| chemical compound | n. | 化合物 | 燃料燃烧后转化成的产物 |
+| element | n. | 元素 | 指氧这类基本物质，不能拆分 |
 
 ## 4. 语法解析
 
-### ① 祈使句 + and：条件与结果
+### ① 被动语态 + 目的状语
+**原句**：Three things are required for a fire.
+**拆解**：主语 Three things + 被动谓语 are required + for a fire 表目的或范围。
+**要点**：require 用被动时主语是“被需要的东西”，不是需求者；a fire 前不加冠词表示“着火”这一事件，译作“燃烧需要三个条件”。
 
+### ② 祈使句 + and 的条件结果结构
 **原句**：Remove any one of these things and the fire extinguishes:
+**拆解**：前一分句为祈使句 Remove…，and 连接后一分句 the fire extinguishes，整体相当于 If you remove…, the fire extinguishes。
+**要点**：“祈使句 + and + 结果句”是条件结果句的压缩形式（否定条件用 or）；此处 extinguish 作不及物动词，意为“（火）自行熄灭”，与及物用法 extinguish the fire 相对。
 
-**拆解**：前半句 Remove any one of these things 是祈使句，在此表示条件（「只要去掉其中任何一个」）；and 连接后半句 the fire extinguishes，表示结果。整句相当于 If you remove any one of these things, the fire extinguishes.
+### ③ 破折号同位语 + 分词结果状语
+**原句**：1. Fuel—combines with oxygen in the presence of heat, releasing more heat.
+**拆解**：Fuel 后接破折号，combines 的主语承前省略（即 Fuel）；in the presence of heat 为条件状语；releasing more heat 为现在分词短语作结果状语。
+**要点**：技术文本常用破折号引出定义或说明，可理解为“即/就是”；分词作结果状语时逻辑主语须与主句主语一致（此处为 Fuel）。
 
-**要点**：技术文本常用「祈使句 + and + 陈述句」代替 if 条件句，语气更直接、紧凑。注意 extinguishes 在这里是不及物动词，主语是 the fire，不能理解为被动；同类结构如 Remove the pin and the handle can be squeezed。
-
-### ② 过去分词短语作插入语：accompanied by
-
+### ④ 过去分词短语作后置定语
 **原句**：Rapid oxidation, accompanied by a noticeable release of heat and light, is called combustion or burning.
-
-**拆解**：主语 Rapid oxidation，谓语 is called；两个逗号之间的 accompanied by a noticeable release of heat and light 是过去分词短语，作伴随状语（也可看作非限制性定语），逻辑主语就是 rapid oxidation，二者是被动关系。
-
-**要点**：accompanied by 意为「伴有、伴随」，常用于给术语下定义时补充特征。because / which is accompanied by 也能表达，但不如分词短语简洁。注意 accompanied 不能写成 accompanying——后者表示「陪伴着别人」，主被动关系相反。
-
-### ③ 定语从句：the element that combines …
-
-**原句**：the element that combines chemically with another substance through the process of oxidation
-
-**拆解**：中心词 the element，that 引导定语从句并在从句中作主语；combines with 是固定搭配「与……结合」，chemically 作状语，through the process of oxidation 是方式状语。
-
-**要点**：定义术语时常用「名词 + that 从句」的结构，从句谓语与先行词保持一致（此处 element 为单数，用 combines）。combine with 是化学、材料类文本的高频搭配；combine A with B（使 A 与 B 结合）则为及物用法，注意区分。
+**拆解**：主语 Rapid oxidation + 插入的过去分词短语 accompanied by… 作后置定语 + 被动谓语 is called + 主语补足语 combustion or burning。
+**要点**：be accompanied by 表示“伴随”，用被动形式；插入语用逗号隔开，删去后主谓仍完整，不影响 is called 的单复数判断。

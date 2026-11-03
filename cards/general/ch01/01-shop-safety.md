@@ -4,56 +4,51 @@
 
 ## 1. 原文
 
-Keeping the shop, hangars, and flight line clean is essential to safety and efficient maintenance. The highest standards of orderly work arrangements and cleanliness must be observed during the maintenance of aircraft. Where continuous work shifts are established, the outgoing shift removes and properly stores personal tools, rollaway boxes, work stands, maintenance stands, hoses, electrical cords, hoists, crates, and boxes that were needed for the work to be accomplished.
-
-Signs are posted to indicate dangerous equipment or hazardous conditions. Additionally, there are signs that provide the location of first aid and fire equipment. Safety lanes, pedestrian walkways, and fire lanes are painted around the perimeter inside the hangars. This is a safety measure to prevent accidents and to keep pedestrian traffic out of work areas.
+Keeping the shop, hangars, and flight line clean is essential to safety and efficient maintenance. The highest standards of orderly work arrangements and cleanliness must be observed during the maintenance of aircraft. Where continuous work shifts are established, the outgoing shift removes and properly stores personal tools, rollaway boxes, work stands, maintenance stands, hoses, electrical cords, hoists, crates, and boxes that were needed for the work to be accomplished. Signs are posted to indicate dangerous equipment or hazardous conditions. Additionally, there are signs that provide the location of first aid and fire equipment. Safety lanes, pedestrian walkways, and fire lanes are painted around the perimeter inside the hangars. This is a safety measure to prevent accidents and to keep pedestrian traffic out of work areas.
 
 Safety is everyone’s business. However, technicians and supervisors must watch for their own safety and for the safety of others working around them. Communication is key to ensuring everyone’s safety. If other personnel are conducting their actions in an unsafe manner, communicate with them, reminding them of their safety and that of others around them.
 
 ## 2. 中文翻译
 
-保持车间、机库和停机坪的清洁，对安全与高效维修至关重要。在航空器维修过程中，必须遵守最高的作业有序性与清洁度标准。凡是实行连续轮班的地方，交班班组要把完成工作所需的个人工具、移动工具柜、工作梯、维修工作台、软管、电源线、起重设备以及板条箱和箱子取出并妥善归位存放。
+保持车间、机库和停机坪的清洁，对安全和高效维修至关重要。维修飞机期间，必须遵守最高标准的作业秩序与清洁要求。凡实行连续轮班的场所，交班班组应撤收并妥善存放本次作业所需的个人工具、移动工具柜、工作梯、维修平台、软管、电线、吊具、板条箱和箱子。现场设置标志牌，标示危险设备或危险状况；此外还设有标志牌，指明急救设备和消防器材的位置。机库内侧四周地面漆划安全通道、人行通道和消防通道。这是一项安全措施，用以防止事故，并使行人远离作业区。
 
-现场张贴标志，用以指示危险设备或危险状况；此外还有标志标明急救设备和消防设备的位置。机库内部四周划设安全通道、人行步道和消防车道。这是一项预防事故、把人流挡在作业区之外的安全措施。
-
-安全是每个人的事。不过，维修技师和主管都必须留意自身的安全，也要留意周围作业人员的安全。沟通是保障所有人安全的关键。如果其他人员的行为方式不安全，就要与他们沟通，提醒他们注意自身以及周围他人的安全。
+安全是每个人的事。但技术人员和主管必须既注意自身安全，也注意周围一同作业的其他人员的安全。沟通是确保所有人安全的关键。如果其他人员的行为方式不安全，就应主动与他们沟通，提醒其注意自身及周围人员的安全。
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-| flight line | n. | 停机坪、外场停机线 | 室外停放、加油、试车的作业区，与机库相对 |
-| orderly work arrangements | n. phr. | 作业有序、物品摆放整齐 | 「最高的有序性与清洁度标准」中的前者 |
-| rollaway box | n. | 移动工具柜（带轮工具箱） | 交班时必须收回并归位 |
-| work stand / maintenance stand | n. | 工作梯／维修工作台 | 高空作业平台，用完归位以免挡通道 |
-| hoist | n. | 起重设备、吊车 | 与软管、电源线同列的车间设备 |
-| hazardous condition | n. phr. | 危险状况 | 需要张贴警示标志的状态 |
-| pedestrian walkway | n. | 人行步道 | 机库内划出的行人专用通道 |
-| fire lane | n. | 消防车道 | 机库四周划设，禁止占用 |
-| perimeter | n. | 周边、外围 | paint around the perimeter 沿机库内周边划线 |
+| shop | n. | 车间、修理厂 | 本节与机库、停机坪并列，指室内维修作业场所，须保持整洁有序 |
+| hangar | n. | 机库 | 停放并维修飞机的大型建筑，其内侧四周地面漆划安全、消防通道 |
+| flight line | n. | 停机坪、外场停机线 | 室外停放、加油、试车的作业区，本节要求与车间、机库同样保持清洁 |
+| maintenance | n. | 维修（含检查、翻修、修理、防腐与换件） | 本节指航空器维修全过程，期间须保持最高标准的秩序与清洁 |
+| rollaway box | n. | 移动工具柜 | 交班时须撤收并妥善存放的可推行工具容器 |
+| maintenance stand | n. | 维修平台、工作台架 | 交班时须撤走并存放的登高作业平台 |
+| safety lane | n. | 安全通道 | 机库内漆划、用于隔离人车与作业区的通道 |
+| fire lane | n. | 消防通道 | 机库内漆划、保证消防车通行与人员疏散的通道 |
 
 ## 4. 语法解析
 
-### ① The highest standards … must be observed（情态动词 + 被动语态）
+### ① 情态动词被动语态表示“必须被遵守”
 
 **原句**：The highest standards of orderly work arrangements and cleanliness must be observed during the maintenance of aircraft.
+**拆解**：主语 The highest standards（of orderly work arrangements and cleanliness 为介词短语后置定语）+ 谓语 must be observed（情态动词 + 被动语态）+ 时间状语 during the maintenance of aircraft。
+**要点**：手册类文本用 must be + 过去分词表示“（由人）必须做到”，施动者不出现，把重点放在要求本身。易错点：standards 在此为复数，谓语用 must be 而非 must is；observe 在此不译“观察”，而是“遵守、奉行”，与 rules、standards、procedures 搭配时都作此义，可迁移到 must be observed / strictly observed。
 
-**拆解**：主语 The highest standards（最高标准）+ 介词短语 of orderly work arrangements and cleanliness 作后置定语；谓语 must be observed 为「情态动词 + be + 过去分词」；during the maintenance of aircraft 是时间状语。
-
-**要点**：手册类文本强调「规定必须被执行」，因此大量使用情态被动：把动作的承受者提到主语位置、把执行者省略。注意 observed 在此不是「观察」而是「遵守、奉行」（observe a rule / standard），是维修文件的固定用法；换成 must be followed 意思相同但语气弱。
-
-### ② Where continuous work shifts are established（where 引导的状语从句）
+### ② where 引导条件状语从句
 
 **原句**：Where continuous work shifts are established, the outgoing shift removes and properly stores personal tools, rollaway boxes, work stands, maintenance stands, hoses, electrical cords, hoists, crates, and boxes that were needed for the work to be accomplished.
+**拆解**：Where 引导条件状语从句（= 在……的场所/情况下）+ 主句主语 the outgoing shift + 并列谓语 removes and properly stores + 长宾语列表 + that were needed for the work to be accomplished 为定语从句修饰前面全部物品。
+**要点**：技术文本中 where 常作“凡……之处、在……情况下”的条件连词，既不是疑问词，也不是定语从句引导词，翻译时译成“凡……的场所”最顺。易错点：主句两个谓语共用一个主语 the outgoing shift，removes 与 stores 时态、人称须一致；that 从句的先行词是一整串并列名词，不只最后一个 boxes。
 
-**拆解**：Where … 引导地点／条件状语从句，意为「在……的地方／情况下」，相当于 in the case where；主句主语 the outgoing shift（交班班组），谓语是并列的 removes and properly stores；that were needed for the work to be accomplished 是定语从句，修饰前面一长串物品。
+### ③ there be 存在句 + that 定语从句
 
-**要点**：技术文本里 where 常不表具体地点而表「情形」，译作「凡是……的地方／情况」最顺。主句中间插入九个并列宾语，读句子时先抓住 removes and stores 两个动词，再回头核对宾语清单，避免被长列举带偏。
+**原句**：Additionally, there are signs that provide the location of first aid and fire equipment.
+**拆解**：Additionally 为连接副词 + there are signs 存在句 + that provide the location of first aid and fire equipment 为关系代词 that 引导的定语从句，修饰 signs。
+**要点**：存在句的真正主语在 be 之后，谓语与 signs 一致用 are；that 在从句中作主语，不可省略，也不能换成 what。provide the location of… 是“标示/给出……的位置”，与上句 Signs are posted to indicate… 属同一语义场的两种说法。
 
-### ③ Communication is key to ensuring everyone’s safety（介词 to + 动名词）
+### ④ 不定式作目的状语 + keep 复合结构
 
-**原句**：Communication is key to ensuring everyone’s safety.
-
-**拆解**：主语 Communication，系动词 is，表语 key（关键的）；to ensuring 中的 to 是介词而非不定式符号，因此后面必须接动名词 ensuring。
-
-**要点**：be key to / be essential to / contribute to 中的 to 都是介词，后接名词或 -ing；写成 to ensure 是常见错误。可迁移搭配：key to preventing accidents（预防事故的关键）、essential to maintaining airworthiness（保持适航的关键）。
+**原句**：This is a safety measure to prevent accidents and to keep pedestrian traffic out of work areas.
+**拆解**：主语 This + 系动词 is + 表语 a safety measure + 两个并列不定式 to prevent accidents 与 to keep pedestrian traffic out of work areas 作目的状语（说明该措施用来做什么）。
+**要点**：表语名词后接不定式，说明“该事物用于做……”，不要误判为定语从句省略。keep + 宾语 + out of + 地点是“使……不进入/远离……”的复合宾语结构，keep pedestrian traffic out of work areas 可整体记成一个可迁移句式：keep sth. out of sth.。

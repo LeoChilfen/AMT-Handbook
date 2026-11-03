@@ -1,6 +1,6 @@
 # 学习卡片 · Study Cards
 
-按「手册的每一节」拆出来的学习卡片。每张卡对应手册里一段红色标题小节：
+按「手册的每一节」拆出来的学习卡片。每张卡对应手册里一个小节标题：
 从该标题之后开始，到下一个标题之前结束的**全部原文**，配三块学习内容。
 
 ## 卡片长什么样
@@ -12,11 +12,9 @@
 
 ## 1. 原文                 ← 手册英文原文，逐段保留（禁止改写）
 ## 2. 中文翻译             ← 与原文自然段一一对应的专业翻译
-## 3. 专业词汇             ← 表格：英文 | 词性 | 中文 | 本节语境（4~9 条）
+## 3. 专业词汇             ← 表格：英文 | 词性 | 中文 | 本节语境（4~8 条，优先取 Glossary 词条）
 ## 4. 语法解析             ← 2~4 个语法点，每个含 原句 / 拆解 / 要点
 ```
-
-样板：`cards/general/ch01/01-shop-safety.md`。
 
 ## 目录结构
 
@@ -27,35 +25,52 @@ cards/
   ...
 ```
 
-`<序号>-<标题 slug>.md`，序号即本节在该章目录（TOC）中的先后顺序。
+`<序号>-<标题 slug>.md`，序号即本节在该章里的先后顺序（来自 PDF 书签顺序）。
 
 ## 分段依据
 
-手册 PDF 没有保留字体颜色，无法程序化取出「红色标题」。因此改用**书前目录（TOC）**：
-目录里逐条列出每章的小节标题与印刷页码（如 `Shop Safety ............ 1-1`），
-这就是权威的节序表。流水线把目录标题按顺序在正文里定位，两个标题之间的文字即本节原文。
+直接读 PDF 的**书签（outline / bookmarks）**：目录树里每一章下面的子条目就是小节标题，
+并带目标页。流水线按书签顺序在正文里定位每个标题，两个标题之间的文字即本节原文。
 
 - 父级标题（下面直接跟子标题、自身没有正文）不单独出卡；
-- 正文不足 220 字符的标题跳过（多为一句话说明或纯图表页）。
+- 正文不足 200 字符的标题跳过（多为一句话说明或纯图表页）；
+- 段落切分依据「换行行尾是否有空格」：折行有尾空格、段落末行没有。
+
+## 专业词汇取词
+
+`tools/glossary.py` 从手册 Glossary 章（G-1 起）抽条目，生成 `glossary.json`。
+出卡时把「本节原文里出现过的 Glossary 词条」写进第 3 节的 TODO 注释，填卡时优先采用。
 
 ## 重新生成 / 校验
 
-素材（PDF 纹理后的按章 txt）默认读 `C:\Users\Admin\.dsh\docs-index\amt\_src`，
-可用 `--root` 指向别处。
+需要 `pypdf`（`pip install pypdf`）。
 
 ```bash
-# 1. 解析书前目录，得到每章的权威小节标题表
-python tools/parse_toc.py --json toc.json
+PDF="AMT Handbook-General2023.pdf"
 
-# 2. 把标题按顺序定位到章节正文里（输出带行号/页码的 JSON）
-python tools/locate_headings.py general 01 --toc toc.json --json heads-general-ch01.json
+# 1. 导出书签树（标题 + 页码）
+python tools/pdf_outline.py "$PDF" outline.json
 
-# 3. 按定位结果切出卡片骨架（只有原文 + 三个 TODO）
-python tools/gen_cards.py general 01 --headings heads-general-ch01.json --skip-first
+# 2. 导出每页正文（jsonl，一行一页）
+python tools/pdf_pages.py "$PDF" pages.jsonl 1 678
 
-# 4. 校验：四节齐全、无 TODO、翻译段数够、词汇表够行、语法点都有原句
+# 3. 按书签把某一章切成小节（输出 paras 列表）
+python tools/pdf_sections.py --outline outline.json --pages pages.jsonl \
+       --chapter 1 --json sections-ch01.json
+
+# 4. 抽 Glossary 词条
+python tools/glossary.py pages.jsonl glossary.json 657 667
+
+# 5. 出卡片骨架（只有原文 + 三个 TODO）
+python tools/gen_cards_pdf.py sections-ch01.json --book general --chapter 01 \
+       --root . --glossary glossary.json
+
+# 6. 校验：四节齐全、无 TODO、翻译段数够、词汇表够行、语法点都有原句
 python tools/check_cards.py cards/general/ch01
 ```
 
 站点由 `tools/build_site.py` 自动把 `cards/**/*.md` 渲染成
-`docs/cards/<chapter>-<seq>.html`，入口是首页侧栏的「学习卡片」。
+`docs/cards/<chapter>-<seq>.html`，入口是侧栏的「学习卡片」。含 `TODO` 的未完成卡片不会上站。
+
+> 旧流程（`parse_toc.py` / `locate_headings.py` / `gen_cards.py` / `split_sections.py`）是从
+> 纯文本抽取件切节的版本，保留以便换用没有书签的 PDF；有书签时优先用上面的 `pdf_*.py`。
