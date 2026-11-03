@@ -127,7 +127,7 @@
     var total = 0;
     cardsData.forEach(function(s){ total += s.count; });
     var html = '<div class="hero"><h1>学习卡片</h1>' +
-      '<p class="lead">按「节」拆分的学习卡片：每张包含 <b>手册原文</b>、<b>专业翻译</b>、<b>专业词汇解析</b> 与 <b>语法解析</b>。' +
+      '<p class="lead">按每章<b>二级目录</b>拆分的学习卡片：每张覆盖一个大节（含其下的小标题），包含 <b>手册原文</b>、<b>专业翻译</b>、<b>专业词汇解析</b> 与 <b>语法解析</b>。' +
       (total ? '当前共 ' + total + ' 张，覆盖 ' + cardsData.length + ' 章。' : '') + '</p></div>';
     var curBook = '';
     cardsData.forEach(function(s){

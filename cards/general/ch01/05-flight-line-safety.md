@@ -1,0 +1,131 @@
+# Flight Line Safety
+
+> 通用 Ch 01 · Flight Line Safety · 原文 PDF 第 26 页
+
+## 1. 原文
+
+**Hearing Protection**
+
+The flight line is a place of dangerous activity. Technicians who perform maintenance on the flight line must constantly be aware of what is going on around them. The noise on a flight line comes from many places. Aircraft are only one source of noise. There are auxiliary power units (APUs), fuel trucks, baggage handling equipment, and so forth. Each has its own frequency of sound. Combined all together, the noise on the ramp or flight line can cause hearing loss.
+
+There are many types of hearing protection available. Hearing protection can be external or internal. Earmuffs or headphones are considered external protection. The internal type of hearing protection fits into the auditory canal. Both types reduce the sound level reaching the eardrum and reduce the chances of hearing loss.
+
+Hearing protection is essential when working with pneumatic drills, rivet guns, or other loud tools. Even short duration exposure to these sounds can cause hearing loss because of their high frequency. Continued exposure will cause hearing loss.
+
+**Foreign Object Damage (FOD)**
+
+Foreign object damage (FOD) is any damage to aircraft, personnel, or equipment caused by any loose object. These loose objects can be anything, such as broken runway concrete, shop towels, safety wire, etc. To control FOD, keep ramp and operation areas clean, have a tool control program, and provide convenient receptacles for used hardware, shop towels, and other consumables.
+
+Never leave tools or other items around the intake of a turbine engine. The modern gas turbine engine creates a low-pressure area in front of the engine that causes any loose object to be drawn into the engine. The exhaust of these engines can propel loose objects great distances with enough force to damage anything that is hit. The importance of a FOD program cannot be overstressed when a technician considers the cost of engines, components, or a human life.
+
+**Safety Around Airplanes**
+
+As with the previously mentioned items, it is important to be aware of propellers. Technicians cannot assume the pilot of a taxiing aircraft can see them and must stay within the pilot’s view while on the ramp area. Turbine engine intakes and exhaust can also be very hazardous areas. Smoking or open flames are not permitted anywhere near an aircraft in operation. Be aware of aircraft fluids that can be detrimental to skin. When operating support equipment around aircraft, be sure to allow space between it and the aircraft, and secure it so it cannot roll into the aircraft. All items in the area of operating aircraft must be stowed properly.
+
+**Safety Around Helicopters**
+
+Every type of helicopter has different features. These differences must be learned to avoid damaging the helicopter or injuring the technician. When approaching a helicopter while the blades are turning, adhere to the following guidelines to ensure safety.
+
+• Observe the rotor head and blades to see if they are level. This allows maximum clearance when approaching the helicopter.
+
+• Approach the helicopter in view of the pilot.
+
+• Never approach a helicopter carrying anything with a vertical height that the blades could hit. This could cause blade damage and injury to the individual.
+
+• Never approach a single-rotor helicopter from the rear.
+
+The tail rotor is invisible when operating.
+
+• Never go from one side of the helicopter to the other by going around the tail. Always go around the nose of the helicopter.
+
+When securing the rotor on helicopters with elastomeric bearings, check the maintenance manual for the proper method. Using the wrong method could damage the bearing.
+
+Performing maintenance on aircraft and their components requires the use of electrical tools that can produce sparks, heat-producing tools and equipment, flammable and explosive liquids, and gases. As a result, a high potential exists for fire to occur. Measures must be taken to prevent a fire from occurring and to have a plan for extinguishing it.
+
+The key to fire safety is knowledge of what causes a fire, how to prevent it, and how to put it out. This knowledge must be instilled in each technician, emphasized by their supervisors through sound safety programs, and occasionally practiced. Airport or other local fire departments can normally be called upon to assist in training personnel and helping to establish fire safety programs for the hangar, shops, and flight line.
+
+## 2. 中文翻译
+
+**听力保护**
+
+停机坪是危险作业集中的场所。在停机坪上执行维修的技术人员必须时刻清楚周围正在发生什么。停机坪上的噪声来源很多。飞机只是其中一个噪声源。还有辅助动力装置（APU）、加油车、行李装卸设备等等。每种设备都有各自的声频率。这些声音叠加在一起，停机坪或外场上的噪声足以造成听力损伤。
+
+可用的听力保护用具种类很多。听力保护可以是外置式，也可以是内置式。耳罩或头戴式耳机属于外置式保护。内置式护耳器则塞入耳道。两种方式都能降低到达鼓膜的声级，减少听力损伤的可能。
+
+使用气动钻、铆枪或其他高噪声工具时，听力保护必不可少。这类声音频率高，即使短时间暴露也可能造成听力损伤。持续暴露则必然导致听力损伤。
+
+**外来物损伤（FOD）**
+
+外来物损伤（FOD）指任何松散物体对飞机、人员或设备造成的损伤。这些松散物体可以是任何东西，例如破损的跑道混凝土碎块、抹布、保险丝等。要控制 FOD，就应保持停机坪和作业区清洁，建立工具管控制度，并在方便的位置设置回收容器，用于存放用过的紧固件、抹布及其他消耗品。
+
+绝不要把工具或其他物品遗留在涡轮发动机进气口附近。现代燃气涡轮发动机在发动机前方形成低压区，会把任何松散物体吸入发动机。这类发动机的排气则能把松散物体吹出很远，其力量足以击伤被击中的任何东西。当技术人员想到发动机、部件乃至一条人命的代价时，FOD 计划的重要性再怎么强调都不为过。
+
+**飞机周围的安全**
+
+与前面提到的各项一样，必须留意螺旋桨。技术人员不能想当然地认为滑行中飞机的飞行员能看见自己，在停机坪区域必须始终处在飞行员的视野之内。涡轮发动机的进气道和排气口同样是十分危险的区域。在运行中的飞机附近任何地方都禁止吸烟或使用明火。要留意可能伤害皮肤的飞机液体。在飞机周围操作地面保障设备时，务必与飞机保持间距，并将其固定好，防止其自行滑动撞上飞机。运行中飞机所在区域内的所有物品都必须妥善存放。
+
+**直升机周围的安全**
+
+每一种直升机都有不同的结构特点。必须了解这些差异，以免损坏直升机或伤及技术人员。旋翼仍在转动时接近直升机，应遵守以下准则以确保安全。
+
+• 观察旋翼桨毂和桨叶是否处于水平位置。这样接近直升机时可获得最大间隙。
+
+• 在飞行员视野内接近直升机。
+
+• 绝不要携带竖直高度可能被桨叶击中的物品接近直升机。这可能造成桨叶损坏并伤及人员。
+
+• 绝不要从后方接近单旋翼直升机。
+
+尾桨在运转时是看不见的。
+
+• 绝不要绕机尾从直升机一侧走到另一侧。始终从机头方向绕行。
+
+对采用弹性体轴承的直升机进行旋翼系留时，应查阅维修手册确认正确方法。方法错误会损坏轴承。
+
+对飞机及其部件进行维修，需要使用会产生火花的电动工具、发热的工具和设备，以及易燃易爆液体和气体。因此，发生火灾的可能性很高。必须采取措施防止火灾发生，并制定灭火预案。
+
+消防安全的关键在于了解火灾的成因、如何预防以及如何扑灭。这种知识必须灌输给每一位技术人员，由主管通过完善的安全计划加以强调，并定期演练。通常可以请机场或当地消防部门协助培训人员，并帮助机库、车间和停机坪建立消防安全计划。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| flight line | n. | 停机坪、外场停机线 | 室外停放、加油、试车的作业区，噪声与危险活动集中之地 |
+| hearing protection | n. | 听力保护（用具） | 耳罩、耳机等外置式与塞入耳道的内置式两类护耳器 |
+| frequency | n. | 频率 | 各噪声源声频率不同，高频声音短时暴露也能损伤听力 |
+| auditory canal | n. | 耳道 | 内置式护耳器插入并封堵的部位 |
+| eardrum | n. | 鼓膜 | 两种护耳器都降低到达此处的声级 |
+| foreign object damage (FOD) | n. | 外来物损伤 | 松散物体对飞机、人员或设备造成的损伤 |
+| maintenance | n. | 维修 | 含检查、翻修、修理、防腐与换件，本节指停机坪上的维修作业 |
+| ramp | n. | 停机坪 | APU、加油车、行李设备等噪声源聚集的铺筑场地 |
+| intake | n. | 进气道 | 燃气涡轮发动机前方低压区，会把松散物吸入 |
+| exhaust | n. | 排气（口） | 高速尾流能把松散物吹出很远并造成击伤 |
+| taxiing | adj. | 滑行中的 | 飞行员视野受限，技术人员不得假定自己能被看见 |
+| elastomeric bearing | n. | 弹性体轴承 | 直升机旋翼桨毂部件，系留方法错误会损坏 |
+
+## 4. 语法解析
+
+### ① 定语从句 + 宾语从句
+**原句**：Technicians who perform maintenance on the flight line must constantly be aware of what is going on around them.
+**拆解**：主语 Technicians 后接 who 引导的定语从句 who perform maintenance on the flight line；谓语 must be aware of（情态动词 + 系表结构）；of 后接 what is going on around them 作宾语从句。
+**要点**：who 在定语从句中作主语，指人；be aware of 后面不能用 that 从句，要用 what/名词性短语，因为 of 是介词。手册中描述岗位职责时，常用「人 + who 从句 + must + 动词」把要求挂在具体角色上。
+
+### ② 过去分词短语作状语
+**原句**：Combined all together, the noise on the ramp or flight line can cause hearing loss.
+**拆解**：Combined all together 为过去分词短语作方式状语；主句主语 the noise（后置定语 on the ramp or flight line），谓语 can cause，宾语 hearing loss。
+**要点**：过去分词作状语表被动/完成，这里相当于 When they are combined all together。注意它的逻辑主语其实是各种噪声源，与主句主语 the noise 并不严格一致，属手册中常见的「垂悬分词」，读时按语义补出被合并的对象即可。
+
+### ③ cannot + be + over- 构成的强调否定
+**原句**：The importance of a FOD program cannot be overstressed when a technician considers the cost of engines, components, or a human life.
+**拆解**：主语 The importance（of a FOD program 后置定语）+ 谓语 cannot be overstressed（情态动词否定 + 被动）+ when 引导的时间状语从句（a technician considers the cost of…）。
+**要点**：cannot be overstressed 字面是「不能被过度强调」，实际表示「再怎么强调也不为过」，是规范、公文里常见的强调句式；同类还有 cannot be overemphasized、cannot be overstated。别按字面译成「不能过分强调」。
+
+### ④ 情态动词被动 + 并列不定式作目的
+**原句**：Measures must be taken to prevent a fire from occurring and to have a plan for extinguishing it.
+**拆解**：主语 Measures + 谓语 must be taken（情态动词 + 被动语态）+ 两个并列的不定式 to prevent… and to have… 作目的状语；prevent a fire from occurring 为 prevent sb/sth from doing 搭配；extinguishing 作介词 for 的宾语。
+**要点**：must be taken 强调「措施要由人来采取」，动作执行者不必出现；prevent/stop/keep…from doing 中 from 在美式英语里可省略，但正式文本通常保留。两个不定式共用一个 to 之外的成分时，第二个 to 一般不省，以示并列目的。
+
+### ⑤ 分词状语 + while 从句 + 祈使句
+**原句**：When approaching a helicopter while the blades are turning, adhere to the following guidelines to ensure safety.
+**拆解**：When approaching a helicopter 为分词短语作时间状语（逻辑主语是隐含的 you）；while the blades are turning 为插入的时间状语从句，表示与主句动作同时；主句是祈使句 adhere to the following guidelines，to ensure safety 为目的状语。
+**要点**：When + 现在分词可省略主语和 be，相当于 When you approach…；while 从句用进行时强调「正在转动」这一持续状态。祈使句是操作手册给出步骤时的标准句式，主语 you 不出现。

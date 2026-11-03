@@ -1,0 +1,191 @@
+# Tie-Down Procedures
+
+> 通用 Ch 01 · Tie-Down Procedures · 原文 PDF 第 30 页
+
+## 1. 原文
+
+**Preparation of Aircraft**
+
+Aircraft are to be tied down after each flight to prevent damage from sudden storms. The direction that aircraft are to be parked and tied down is determined by prevailing or forecast wind direction.
+
+Aircraft are to be headed into the wind, depending on the locations of the parking area’s fixed tie-down points. Spacing of tie-downs need to allow for ample wingtip clearance. [Figure 1-9] After the aircraft is properly located, lock the nosewheel or the tail wheel in the fore-and-aft position.
+
+**Tie-Down Procedures for Land Planes**
+
+**Securing Light Aircraft**
+
+Light aircraft are most often secured with ropes tied only at the aircraft tie-down rings provided for securing purposes. Rope is never to be tied to a lift strut, since this practice can bend a strut if the rope slips to a point where there is no slack. Since manila rope shrinks when wet, about 1 inch (1") of slack needs to be provided for movement. Too much slack, however, allows the aircraft to jerk against the ropes. Tight tie-down ropes put inverted flight stresses on the aircraft and many are not designed to take such loads.
+
+A tie-down rope holds no better than the knot. Anti-slip knots, such as the bowline, are quickly tied and are easy to untie. [Figure 1-10] Aircraft not equipped with tie-down fittings must be secured in accordance with the manufacturer’s instructions. Ropes are to be tied to outer ends of struts on high-wing monoplanes and suitable rings provided where structural conditions permit, if the manufacturer has not already provided them.
+
+**Securing Heavy Aircraft**
+
+The normal tie-down procedure for heavy aircraft can be accomplished with rope or cable tie-down. The number of tie-downs are governed by anticipated weather conditions.
+
+Most heavy aircraft are equipped with surface control locks that are engaged or installed when the aircraft is secured. Since the method of locking controls vary on different types of aircraft, check the manufacturer’s instructions for proper installation or engaging procedures. If high winds are anticipated, control surface battens can also be installed to prevent damage. Figure 1-11 illustrates four common tie- down points on heavy aircraft.
+
+The normal tie-down procedure for heavy aircraft includes the following:
+
+1. Head aircraft into prevailing wind whenever possible.
+
+2. Install control locks, all covers, and guards.
+
+3. Chock all wheels fore and aft. [Figure 1-12]
+
+4. Attach tie-down reels to aircraft tie-down loops, tie- down anchors, or tie-down stakes. Use tie-down stakes for temporary tie-down only. If tie-down reels are not available, 1⁄4" wire cable or 1 1⁄2" manila line may be used.
+
+**Tie-Down Procedures for Seaplanes**
+
+Seaplanes can be moored to a buoy, weather permitting, or tied to a dock. Weather causes wave action, and waves cause the seaplane to bob and roll. This bobbing and rolling while COMBUSTIBLES ORDINARY CAPABILITY LIQUIDS FLAMMABLE EQUIPMENT ELECTRICAL COMBUSTIBLES ORDINARY LIQUIDS FLAMMABLE EQUIPMENT ELECTRICAL EQUIPMENT ELECTRICAL LIQUIDS FLAMMABLE METALS COMBUSTIBLE 1. Water 2. Carbon Dioxide, Dry Chemical Bromochlorodifluoromethane, and Bromotrifluoromethane 3. Multipurpose Dry Chemical 4. Multipurpose Dry Chemical (Insufficient Agent for ‘A’ Rating)
+
+5. Dry Powder COMBUSTIBLES ORDINARY LIQUIDS FLAMMABLE EQUIPMENT ELECTRICAL METALS COMBUSTIBLE 6'
+
+**Tie-Down Procedures for Ski Planes**
+
+Ski planes are tied down, if the securing means are available, in the same manner as land planes. Ski-equipped airplanes can be secured on ice or in snow by using a device called a dead-man. A dead-man is any item at hand, such as a piece of pipe, log, and so forth, that a rope is attached to and buried in a snow or ice trench. Using caution to keep the free end of the rope dry and unfrozen, snow is packed in the trench. If available, pour water into the trench; when it is frozen, tie down the aircraft with the free end of the rope.
+
+tied to a dock can cause damage. When warning of an impending storm is received and it is not possible to fly the aircraft out of the storm area, some compartments of the seaplane can be flooded, partially sinking the aircraft. Tie down the aircraft securely to anchors. Seaplanes tied down on land have been saved from high-wind damage by filling the floats with water in addition to tying the aircraft down in the usual manner. During heavy weather, if possible, remove the seaplane from the water and tie down in the same manner as a land plane. If this is not possible, the seaplane could be anchored in a sheltered area away from the wind and waves.
+
+Tying a Bowline KnotA Tying a Square KnotB Over This one must be under Up through and around back Back down through Under Under Over Aft fuselage tiedown ring Underside of wing tiedown loop Main gear wheel tiedown loop Nose landing gear tiedown loop length of time the aircraft is expected to remain on the ground, and location and characteristics of the aircraft. Wheel chocks, control locks, rope tie-downs, mooring covers, tip socks, tie- down assemblies, parking brakes, and rotor brakes are used Operators of ski-equipped aircraft sometimes pack soft snow around the skis, pour water on the snow, and permit the skis to freeze to the ice. This, in addition to the usual tie-down procedures, aids in preventing damage from windstorms. Caution must be used when moving an aircraft that has been secured in this manner to ensure that a ski is not still frozen to the ground. Otherwise, damage to the aircraft or skis can occur.
+
+**Tie-Down Procedures for Helicopters**
+
+Helicopters, like other aircraft are secured to prevent structural damage that can occur from high-velocity surface winds. Helicopters are to be secured in hangars, when possible. If not, they must be tied down securely. Helicopters that are tied down can usually sustain winds up to approximately 65 mph. If at all possible, helicopters are evacuated to a safe area if tornadoes or hurricanes are anticipated. For added protection, helicopters can be moved to a clear area so that they are not damaged by flying objects or falling limbs from surrounding trees.
+
+If high winds are anticipated with the helicopter parked in the open, tie down the main rotor blades. Detailed instructions for securing and mooring each type of helicopter can be found in the applicable maintenance manual. [Figure 1-13] Methods of securing helicopters vary with weather conditions, the to secure helicopters.
+
+Typical mooring procedures are as follows:
+
+1. Face the helicopter in the direction that the highest forecast wind or gusts are anticipated.
+
+2. Spot the helicopter slightly more than one rotor span distance from other aircraft.
+
+3. Place wheel chocks ahead of and behind all wheels (where applicable). On helicopters equipped with skids, retract the ground handling wheels, lower the helicopter to rest on the skids, and install wheel position lock pins or remove the ground-handling wheels. Secure ground-handling wheels inside the aircraft or inside the hangar or storage buildings. Do not leave them unsecured on the flight line.
+
+4. Align the blades and install tie-down assemblies as prescribed by the helicopter manufacturer. [Figure 1-14] Tie straps snugly without strain, and during wet weather, provide some slack to avoid the possibility of the straps shrinking, causing undue stress on the aircraft and/or its rotor system(s).
+
+5. Fasten the tie-down ropes or cables to the forward and aft landing gear cross tubes and secure to ground stakes or tie-down rings.
+
+**Procedures for Securing Weight-Shift-Control**
+
+There are many types of weight-shift-controlled aircraft— engine powered and non-powered. These types of aircraft are very susceptible to wind damage. The wings can be secured in a similar manner as a conventional aircraft in light winds. In high winds, the mast can be disconnected from the wing and the wing placed close to the ground and secured. This type of aircraft can also be partially disassembled or moved into a hangar for protection.
+
+**Procedures for Securing Powered Parachutes**
+
+When securing powered parachutes, pack the parachute in a bag to prevent the chute from filling with air from the wind and dragging the seat and engine. The engine and seat can also be secured if needed.
+
+## 2. 中文翻译
+
+**飞机准备**
+
+每次飞行后都应系留飞机，以防突发风暴造成损坏。飞机停放和系留的方向由主导风向或预报风向确定。
+
+飞机机头应迎风，具体取决于停机坪固定系留点的位置。系留点间距应留出充足的翼尖间隙。[图 1-9] 飞机就位后，将前轮或尾轮锁定在前后（纵向）位置。
+
+**陆上飞机的系留程序**
+
+**轻型飞机的系留**
+
+轻型飞机通常只用绳索系留，且绳索只系在飞机上专为系留设置的系留环处。绳索绝不能系在升力支柱上，因为一旦绳索滑到没有余量的位置，这种做法会把支柱拉弯。马尼拉绳受潮后会收缩，因此需留出约 1 英寸（1"）的松弛量供其活动。但松弛量过大，飞机会在绳索之间猛烈晃动。系留绳绷得过紧会给飞机施加倒飞应力，而许多飞机并非按承受这类载荷设计的。
+
+系留绳牢固与否，全看绳结打得如何。防滑绳结（如单套结）打起来快，也容易解开。[图 1-10] 未装系留附件的飞机必须按制造商的说明进行系留。对于上单翼飞机，若制造商尚未提供系留点，绳索应系在支柱外端；在结构条件允许处，应设置合适的系留环。
+
+**重型飞机的系留**
+
+重型飞机的常规系留程序可用绳索或钢索系留完成。系留点数量取决于预计的天气条件。
+
+大多数重型飞机装有操纵面锁，在系留飞机时接合或安装到位。由于不同机型的操纵面锁定方法不同，应查阅制造商说明以了解正确的安装或接合程序。若预计有大风，还可安装操纵面夹板以防损坏。图 1-11 示出重型飞机上四个常见的系留点。
+
+重型飞机的常规系留程序包括以下步骤：
+
+1. 尽可能使飞机机头迎主导风。
+
+2. 安装操纵面锁、所有盖罩和护罩。
+
+3. 在所有机轮的前后加轮挡。[图 1-12]
+
+4. 将系留绞盘（系留索卷盘）连接到飞机系留环、地锚或系留桩上。系留桩仅用于临时系留。若无系留绞盘，可使用 1/4" 钢丝绳或 1 1/2" 马尼拉绳。
+
+**水上飞机的系留程序**
+
+天气允许时，水上飞机可系泊在浮标上，也可系在码头上。天气会引起波浪，波浪使水上飞机上下起伏、左右横摇。这种上下起伏和横摇在……（原文此处起为灭火器图表残片，略）……1. 水 2. 二氧化碳、干粉、溴氯二氟甲烷和溴三氟甲烷 3. 多功能干粉 4. 多功能干粉（对"A"类火的灭火能力不足）
+
+5. 干粉（Dry Powder）COMBUSTIBLES ORDINARY LIQUIDS FLAMMABLE EQUIPMENT ELECTRICAL METALS COMBUSTIBLE 6'（原文此处为灭火器图表残片，略）
+
+**雪橇飞机的系留程序**
+
+若有可用的系留手段，雪橇飞机按与陆上飞机相同的方式系留。装有雪橇的飞机可用一种称为"埋锚"（dead-man）的装置固定在冰面或雪地上。埋锚就是手边任何可用的物件，如一段管子、一根圆木等等，把绳索系在其上，埋进雪沟或冰沟里。填雪入沟时要小心保持绳的自由端干燥不冻。若有条件，向沟内灌水；待水冻结后，用绳的自由端系留飞机。
+
+（接上文海上系留）系在码头上可能造成损坏。当收到即将来临的风暴警报、且无法将飞机飞离风暴区时，可将水上飞机的部分舱室灌水，使飞机部分下沉。应把飞机牢固地系留在地锚上。系留在陆地上的水上飞机，除按常规方式系留外，还通过向浮筒内灌水，避免了高风损坏。恶劣天气时，如有可能，应将水上飞机吊离水面，按陆上飞机的方式系留。若无法做到，可将水上飞机锚泊在避风避浪的遮蔽水域。
+
+（原文此处为图示/表格残片，略）图示为打单套结（图 A）与打方结（图 B）的步骤，以及飞机系留点标注：此股须在下方、向上穿过并绕回、再向下穿回、下、下、上；后机身系留环、机翼下表面系留环、主起落架机轮系留环、前起落架系留环。该块中还夹有直升机小节的残句"……飞机预计在地面停留的时间，以及飞机的位置和特性。轮挡、操纵面锁、绳索系留、系泊罩、翼尖套、系留组件、驻车刹车和旋翼刹车都用于……"，以及与本节内容无关的雪橇飞机段落：装备雪橇的飞机营运人有时会在雪橇周围压实软雪，向雪上浇水，让雪橇冻结在冰面上；除常规系留程序外，这样做有助于防止风暴损坏。移动以这种方式固定的飞机时必须小心，确保雪橇没有仍冻在地面上，否则可能损坏飞机或雪橇。
+
+**直升机的系留程序**
+
+直升机与其他飞机一样需要固定，以防高速地面风造成结构损坏。条件允许时，直升机应固定在机库内；若无法入库，则必须牢固系留。已系留的直升机通常能承受约 65 mph 的风。若预计有龙卷风或飓风，应尽可能将直升机转移到安全区域。为进一步保护，可将直升机移至空旷处，以免被飞起的物体或周围树木掉落的枝干砸坏。
+
+若预计有大风而直升机停在露天，应系留主旋翼桨叶。各类直升机固定和系泊的详细说明见相应维修手册。[图 1-13] 直升机的固定方法随天气条件、……（原文此处断句残缺，略）……以及固定直升机所用的……（原文此处断句残缺，略）
+
+典型的系泊程序如下：
+
+1. 使直升机面向预报风力或阵风最大的方向。
+
+2. 将直升机停放在距其他飞机略大于一个旋翼直径的位置。
+
+3. 在所有机轮的前后放置轮挡（如适用）。对装有滑橇的直升机，收起地面移动轮，将直升机放下使其落在滑橇上，并安装轮位锁定销或拆下地面移动轮。将地面移动轮固定在飞机内，或存放在机库、库房内。不得将其未加固定地留在停机坪上。
+
+4. 按直升机制造商规定的方位对齐桨叶并安装系留组件。[图 1-14] 系带应系紧但不受拉力；潮湿天气时需留出一定松弛量，以免系带收缩，给飞机和/或其旋翼系统带来过大应力。
+
+5. 将系留绳或钢索固定到前、后起落架横管上，并固定到地桩或系留环上。
+
+**重量转移操纵飞机的固定程序**
+
+重量转移操纵飞机有多种类型——有动力的和无动力的。这类飞机极易遭受风的损坏。小风时，机翼可按与常规飞机类似的方式固定。大风时，可将桅杆从机翼上拆开，把机翼放低贴近地面并固定。这类飞机也可部分分解或移入机库保护。
+
+**动力伞的固定程序**
+
+固定动力伞时，应将伞衣装入伞包，防止伞衣被风充气而拖动座椅和发动机。必要时也可将发动机和座椅固定。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| tie-down | n./adj. | 系留；系留装置 | 每次飞行后把飞机固定在地面，防止突发风暴损坏 |
+| mooring | n. | 系泊 | 水上飞机系于浮标、直升机按系泊程序固定 |
+| chock | v./n. | 加轮挡；轮挡 | 重型机与直升机步骤中「all wheels 前后加轮挡」 |
+| control lock | n. | 操纵面锁 | 系留时接合或安装，防止舵面被风吹动 |
+| tie-down ring | n. | 系留环 | 轻型飞机只允许绳索系在此处，不得系升力支柱 |
+| anchor | n. | 地锚 | 系留绞盘可接的固定点；水上飞机系于锚上 |
+| stake | n. | （系留）桩 | 打入地面作系留点，仅限临时系留 |
+| dead-man | n. | 埋锚（雪地埋入物） | 雪橇飞机在冰雪上系留时埋进沟里的管子、圆木等 |
+| bowline | n. | 单套结 | 防滑结，打得快、易解开，是系留绳的标准结 |
+| stress | n. | 应力 | 系留绳绷得过紧会给飞机加上倒飞应力 |
+| strain | n. | 拉力、绷紧变形 | 系带要系紧但「without strain」，不受拉力 |
+| rotor blade | n. | 旋翼桨叶 | 大风且直升机露天停放时，要系留主旋翼桨叶 |
+
+## 4. 语法解析
+
+### ① be to + 被动表示规定性义务
+**原句**：Aircraft are to be tied down after each flight to prevent damage from sudden storms.
+**拆解**：主语 Aircraft + 谓语 are to be tied down（be to + 被动语态：are 是 be to 的 be，tied 是过去分词）+ 时间状语 after each flight + 目的状语 to prevent damage from sudden storms。
+**要点**：be to do 在手册规章中表示"按规定应当"，强制力接近 must 但更像客观规定；变被动为 be to be done 时两个 be 一个都不能省。after each flight 配一般现在时，表示反复适用的规定，而不是"每次飞完已经系好"。
+
+### ② no + 比较级 + than 的等比否定
+**原句**：A tie-down rope holds no better than the knot.
+**拆解**：主语 A tie-down rope + 谓语 holds（此处 hold 意为"固定得住"）+ 比较状语 no better than the knot（no + 比较级 + than，把绳与结拉到同一水平上一起否定）。
+**要点**：no better than = "和……一样不牢固"，否定的是两者；若写成 not better than 则只是"不比……更牢"，两者可能都牢。手册借此把薄弱环节指向绳结，所以下一句马上讲防滑结。
+
+### ③ since 原因从句里再套 if 条件从句和 where 定语从句
+**原句**：Rope is never to be tied to a lift strut, since this practice can bend a strut if the rope slips to a point where there is no slack.
+**拆解**：主句 Rope is never to be tied to a lift strut（never 位于 is 之后、to be tied 之前）+ since 引导原因状语从句 this practice can bend a strut + 从句内嵌 if 条件状语从句 the rope slips to a point + where 引导定语从句修饰 a point。
+**要点**：三层从句由外到内是"原因—条件—地点"，汉语习惯先说条件再说结果，翻译时要倒过来。never 的位置是易错点：否定副词放在 be 之后、被动不定式之前。
+
+### ④ with 复合结构 + 条件从句被动 + 祈使主句
+**原句**：If high winds are anticipated with the helicopter parked in the open, tie down the main rotor blades.
+**拆解**：If 引导条件状语从句（high winds are anticipated，被动，施动者是气象而非人）+ with the helicopter parked in the open（with + 名词 + 过去分词，表伴随状态）+ 祈使句主句 tie down the main rotor blades。
+**要点**：with 复合结构里 parked 的逻辑主语是 the helicopter，只能被动，写成 parking 就成了"直升机自己在停"。主句无主语祈使句是手册步骤的典型句法，指令对象是读者（维修人员）。
+
+### ⑤ 状语从句省略 + need to be done
+**原句**：Since manila rope shrinks when wet, about 1 inch (1") of slack needs to be provided for movement.
+**拆解**：Since 引导原因状语从句 + when wet 是 when it is wet 的省略（从句主语与主句一致且含 be 时，主语和 be 可一起省略）+ 主句 about 1 inch (1") of slack needs to be provided for movement（need to be done，物作主语表"需要被……"）。
+**要点**：when wet 不是介词短语，而是省略了 it is 的时间状语从句，别误判成"潮湿的时候"这种名词性成分。need 作实义动词、主语为物时，后接 to be done，不能说 slack needs provide。

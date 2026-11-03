@@ -1968,7 +1968,7 @@ window.AMT_CARDS = [
   "bookZh": "通用",
   "num": "01",
   "titleEn": "Safety, Ground Operations, & Servicing",
-  "count": 52,
+  "count": 10,
   "cards": [
    {
     "slug": "general-ch01-01",
@@ -1979,308 +1979,56 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch01-02",
     "seq": "02",
-    "title": "Physiological Safety",
-    "file": "02-physiological-safety.md"
+    "title": "Safety Around Compressed Gases",
+    "file": "02-safety-around-compressed-gases.md"
    },
    {
     "slug": "general-ch01-03",
     "seq": "03",
-    "title": "Fire Safety",
-    "file": "03-fire-safety.md"
+    "title": "Safety Around Hazardous Materials",
+    "file": "03-safety-around-hazardous-materials.md"
    },
    {
     "slug": "general-ch01-04",
     "seq": "04",
-    "title": "Safety Around Compressed Gases",
-    "file": "04-safety-around-compressed-gases.md"
+    "title": "Safety Around Machine Tools",
+    "file": "04-safety-around-machine-tools.md"
    },
    {
     "slug": "general-ch01-05",
     "seq": "05",
-    "title": "Safety Around Hazardous Materials",
-    "file": "05-safety-around-hazardous-materials.md"
+    "title": "Flight Line Safety",
+    "file": "05-flight-line-safety.md"
    },
    {
     "slug": "general-ch01-06",
     "seq": "06",
-    "title": "Safety Around Machine Tools",
-    "file": "06-safety-around-machine-tools.md"
+    "title": "Fire Protection",
+    "file": "06-fire-protection.md"
    },
    {
     "slug": "general-ch01-07",
     "seq": "07",
-    "title": "Hearing Protection",
-    "file": "07-hearing-protection.md"
+    "title": "Tie-Down Procedures",
+    "file": "07-tie-down-procedures.md"
    },
    {
     "slug": "general-ch01-08",
     "seq": "08",
-    "title": "Foreign Object Damage (FOD)",
-    "file": "08-foreign-object-damage-fod.md"
+    "title": "Ground Movement of Aircraft",
+    "file": "08-ground-movement-of-aircraft.md"
    },
    {
     "slug": "general-ch01-09",
     "seq": "09",
-    "title": "Safety Around Airplanes",
-    "file": "09-safety-around-airplanes.md"
+    "title": "Servicing Aircraft",
+    "file": "09-servicing-aircraft.md"
    },
    {
     "slug": "general-ch01-10",
     "seq": "10",
-    "title": "Safety Around Helicopters",
-    "file": "10-safety-around-helicopters.md"
-   },
-   {
-    "slug": "general-ch01-11",
-    "seq": "11",
-    "title": "Fire Safety",
-    "file": "11-fire-safety.md"
-   },
-   {
-    "slug": "general-ch01-12",
-    "seq": "12",
-    "title": "Requirements for Fire to Occur",
-    "file": "12-requirements-for-fire-to-occur.md"
-   },
-   {
-    "slug": "general-ch01-13",
-    "seq": "13",
-    "title": "Classification of Fires",
-    "file": "13-classification-of-fires.md"
-   },
-   {
-    "slug": "general-ch01-14",
-    "seq": "14",
-    "title": "Types and Operation of Shop and Flight Line Fire Extinguishers",
-    "file": "14-types-and-operation-of-shop-and-flight-line-fire-extinguishers.md"
-   },
-   {
-    "slug": "general-ch01-15",
-    "seq": "15",
-    "title": "Inspection of Fire Extinguishers",
-    "file": "15-inspection-of-fire-extinguishers.md"
-   },
-   {
-    "slug": "general-ch01-16",
-    "seq": "16",
-    "title": "Identifying Fire Extinguishers",
-    "file": "16-identifying-fire-extinguishers.md"
-   },
-   {
-    "slug": "general-ch01-17",
-    "seq": "17",
-    "title": "Using Fire Extinguishers",
-    "file": "17-using-fire-extinguishers.md"
-   },
-   {
-    "slug": "general-ch01-18",
-    "seq": "18",
-    "title": "Preparation of Aircraft",
-    "file": "18-preparation-of-aircraft.md"
-   },
-   {
-    "slug": "general-ch01-19",
-    "seq": "19",
-    "title": "Securing Light Aircraft",
-    "file": "19-securing-light-aircraft.md"
-   },
-   {
-    "slug": "general-ch01-20",
-    "seq": "20",
-    "title": "Securing Heavy Aircraft",
-    "file": "20-securing-heavy-aircraft.md"
-   },
-   {
-    "slug": "general-ch01-21",
-    "seq": "21",
-    "title": "Tie-Down Procedures for Seaplanes",
-    "file": "21-tie-down-procedures-for-seaplanes.md"
-   },
-   {
-    "slug": "general-ch01-22",
-    "seq": "22",
-    "title": "Tie-Down Procedures for Ski Planes",
-    "file": "22-tie-down-procedures-for-ski-planes.md"
-   },
-   {
-    "slug": "general-ch01-23",
-    "seq": "23",
-    "title": "Tie-Down Procedures for Helicopters",
-    "file": "23-tie-down-procedures-for-helicopters.md"
-   },
-   {
-    "slug": "general-ch01-24",
-    "seq": "24",
-    "title": "Procedures for Securing Weight-Shift-Control",
-    "file": "24-procedures-for-securing-weight-shift-control.md"
-   },
-   {
-    "slug": "general-ch01-25",
-    "seq": "25",
-    "title": "Procedures for Securing Powered Parachutes",
-    "file": "25-procedures-for-securing-powered-parachutes.md"
-   },
-   {
-    "slug": "general-ch01-26",
-    "seq": "26",
-    "title": "Engine Starting and Operation",
-    "file": "26-engine-starting-and-operation.md"
-   },
-   {
-    "slug": "general-ch01-27",
-    "seq": "27",
-    "title": "Reciprocating Engines",
-    "file": "27-reciprocating-engines.md"
-   },
-   {
-    "slug": "general-ch01-28",
-    "seq": "28",
-    "title": "Hand Cranking Engines",
-    "file": "28-hand-cranking-engines.md"
-   },
-   {
-    "slug": "general-ch01-29",
-    "seq": "29",
-    "title": "Extinguishing Engine Fires",
-    "file": "29-extinguishing-engine-fires.md"
-   },
-   {
-    "slug": "general-ch01-30",
-    "seq": "30",
-    "title": "Turboprop Engines",
-    "file": "30-turboprop-engines.md"
-   },
-   {
-    "slug": "general-ch01-31",
-    "seq": "31",
-    "title": "Turboprop Starting Procedures",
-    "file": "31-turboprop-starting-procedures.md"
-   },
-   {
-    "slug": "general-ch01-32",
-    "seq": "32",
-    "title": "Turbofan Engines",
-    "file": "32-turbofan-engines.md"
-   },
-   {
-    "slug": "general-ch01-33",
-    "seq": "33",
-    "title": "Starting a Turbofan Engine",
-    "file": "33-starting-a-turbofan-engine.md"
-   },
-   {
-    "slug": "general-ch01-34",
-    "seq": "34",
-    "title": "Auxiliary Power Units (APUs)",
-    "file": "34-auxiliary-power-units-apus.md"
-   },
-   {
-    "slug": "general-ch01-35",
-    "seq": "35",
-    "title": "Hot Start",
-    "file": "35-hot-start.md"
-   },
-   {
-    "slug": "general-ch01-36",
-    "seq": "36",
-    "title": "False or Hung Start",
-    "file": "36-false-or-hung-start.md"
-   },
-   {
-    "slug": "general-ch01-37",
-    "seq": "37",
-    "title": "Engine Fails to Start",
-    "file": "37-engine-fails-to-start.md"
-   },
-   {
-    "slug": "general-ch01-38",
-    "seq": "38",
-    "title": "Towing of Aircraft",
-    "file": "38-towing-of-aircraft.md"
-   },
-   {
-    "slug": "general-ch01-39",
-    "seq": "39",
-    "title": "Taxiing Aircraft",
-    "file": "39-taxiing-aircraft.md"
-   },
-   {
-    "slug": "general-ch01-40",
-    "seq": "40",
-    "title": "Taxi Signals",
-    "file": "40-taxi-signals.md"
-   },
-   {
-    "slug": "general-ch01-41",
-    "seq": "41",
-    "title": "Servicing Aircraft Air/Nitrogen Oil & Fluids",
-    "file": "41-servicing-aircraft-air-nitrogen-oil-and-fluids.md"
-   },
-   {
-    "slug": "general-ch01-42",
-    "seq": "42",
-    "title": "Electric Ground Power Units",
-    "file": "42-electric-ground-power-units.md"
-   },
-   {
-    "slug": "general-ch01-43",
-    "seq": "43",
-    "title": "Hydraulic Ground Power Units",
-    "file": "43-hydraulic-ground-power-units.md"
-   },
-   {
-    "slug": "general-ch01-44",
-    "seq": "44",
-    "title": "Ground Support Air Units",
-    "file": "44-ground-support-air-units.md"
-   },
-   {
-    "slug": "general-ch01-45",
-    "seq": "45",
-    "title": "Ground Air Heating and Air Conditioning",
-    "file": "45-ground-air-heating-and-air-conditioning.md"
-   },
-   {
-    "slug": "general-ch01-46",
-    "seq": "46",
-    "title": "Oxygen Servicing Equipment",
-    "file": "46-oxygen-servicing-equipment.md"
-   },
-   {
-    "slug": "general-ch01-47",
-    "seq": "47",
-    "title": "Oxygen Hazards",
-    "file": "47-oxygen-hazards.md"
-   },
-   {
-    "slug": "general-ch01-48",
-    "seq": "48",
-    "title": "Types of Fuel and Identification",
-    "file": "48-types-of-fuel-and-identification.md"
-   },
-   {
-    "slug": "general-ch01-49",
-    "seq": "49",
-    "title": "Contamination Control",
-    "file": "49-contamination-control.md"
-   },
-   {
-    "slug": "general-ch01-50",
-    "seq": "50",
-    "title": "Fueling Hazards",
-    "file": "50-fueling-hazards.md"
-   },
-   {
-    "slug": "general-ch01-51",
-    "seq": "51",
-    "title": "Fueling Procedures",
-    "file": "51-fueling-procedures.md"
-   },
-   {
-    "slug": "general-ch01-52",
-    "seq": "52",
-    "title": "Defueling",
-    "file": "52-defueling.md"
+    "title": "Fuel Servicing of Aircraft",
+    "file": "10-fuel-servicing-of-aircraft.md"
    }
   ]
  }

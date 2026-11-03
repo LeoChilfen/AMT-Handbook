@@ -195,10 +195,12 @@ def render_markdown(text):
 
         if re.match(r"^\d+[.)]\s+", stripped):
             items = []
+            start = int(re.match(r"^(\d+)[.)]\s+", stripped).group(1))
             while i < n and re.match(r"^\d+[.)]\s+", lines[i].strip()):
                 items.append(re.sub(r"^\d+[.)]\s+", "", lines[i].strip()))
                 i += 1
-            out.append("<ol>%s</ol>" % "".join("<li>%s</li>" % inline(t) for t in items))
+            attr = ' start="%d"' % start if start > 1 else ""
+            out.append("<ol%s>%s</ol>" % (attr, "".join("<li>%s</li>" % inline(t) for t in items)))
             continue
 
         # paragraph
@@ -674,7 +676,7 @@ JS = r"""(function(){
     var total = 0;
     cardsData.forEach(function(s){ total += s.count; });
     var html = '<div class="hero"><h1>学习卡片</h1>' +
-      '<p class="lead">按「节」拆分的学习卡片：每张包含 <b>手册原文</b>、<b>专业翻译</b>、<b>专业词汇解析</b> 与 <b>语法解析</b>。' +
+      '<p class="lead">按每章<b>二级目录</b>拆分的学习卡片：每张覆盖一个大节（含其下的小标题），包含 <b>手册原文</b>、<b>专业翻译</b>、<b>专业词汇解析</b> 与 <b>语法解析</b>。' +
       (total ? '当前共 ' + total + ' 张，覆盖 ' + cardsData.length + ' 章。' : '') + '</p></div>';
     var curBook = '';
     cardsData.forEach(function(s){

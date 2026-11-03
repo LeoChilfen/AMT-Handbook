@@ -1,7 +1,8 @@
-# 学习卡片 · Study Cards
+﻿# 学习卡片 · Study Cards
 
-按「手册的每一节」拆出来的学习卡片。每张卡对应手册里一个小节标题：
-从该标题之后开始，到下一个标题之前结束的**全部原文**，配三块学习内容。
+按手册的**二级目录**（每章的直接子条目，如 Ch 01 的 `Shop Safety`、`Fire Protection`）拆出来的学习卡片。
+一张卡覆盖一个大节：从该标题之后开始，到下一个二级标题之前结束的**全部原文**（其中更细的小标题以
+`**小标题**` 粗体行保留，翻译时同样保留），再配三块学习内容。
 
 ## 卡片长什么样
 
@@ -10,10 +11,10 @@
 
 > 通用 Ch 01 · Shop Safety · 原文 PDF 第 23 页
 
-## 1. 原文                 ← 手册英文原文，逐段保留（禁止改写）
+## 1. 原文                 ← 手册英文原文，逐段保留（禁止改写）；**小标题** 也是独立一块
 ## 2. 中文翻译             ← 与原文自然段一一对应的专业翻译
-## 3. 专业词汇             ← 表格：英文 | 词性 | 中文 | 本节语境（4~8 条，优先取 Glossary 词条）
-## 4. 语法解析             ← 2~4 个语法点，每个含 原句 / 拆解 / 要点
+## 3. 专业词汇             ← 表格：英文 | 词性 | 中文 | 本节语境（10~12 条，优先取 Glossary 词条）
+## 4. 语法解析             ← 4~6 个语法点，每个含 原句 / 拆解 / 要点
 ```
 
 ## 目录结构
@@ -21,7 +22,7 @@
 ```
 cards/
   general/ch01/01-shop-safety.md
-  general/ch01/02-physiological-safety.md
+  general/ch01/02-safety-around-compressed-gases.md
   ...
 ```
 
@@ -32,6 +33,7 @@ cards/
 直接读 PDF 的**书签（outline / bookmarks）**：目录树里每一章下面的子条目就是小节标题，
 并带目标页。流水线按书签顺序在正文里定位每个标题，两个标题之间的文字即本节原文。
 
+- 卡片粒度取**二级目录**（书签 depth == 1，即章的直接子条目），pdf_sections.py --level 1；--level 0 则是每条书签一张卡（旧版）；
 - 父级标题（下面直接跟子标题、自身没有正文）不单独出卡；
 - 正文不足 200 字符的标题跳过（多为一句话说明或纯图表页）；
 - 段落切分依据「换行行尾是否有空格」：折行有尾空格、段落末行没有。
@@ -56,7 +58,7 @@ python tools/pdf_pages.py "$PDF" pages.jsonl 1 678
 
 # 3. 按书签把某一章切成小节（输出 paras 列表）
 python tools/pdf_sections.py --outline outline.json --pages pages.jsonl \
-       --chapter 1 --json sections-ch01.json
+       --chapter 1 --json sections-ch01.json --level 1
 
 # 4. 抽 Glossary 词条
 python tools/glossary.py pages.jsonl glossary.json 657 667

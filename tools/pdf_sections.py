@@ -102,6 +102,7 @@ def main():
     ap.add_argument("--chapter", required=True)
     ap.add_argument("--json", required=True)
     ap.add_argument("--min-chars", type=int, default=200)
+    ap.add_argument("--level", type=int, default=0, help="1 = only second-level entries (chapter's direct children)")
     a = ap.parse_args()
 
     rows = json.load(io.open(a.outline, encoding="utf-8"))
@@ -163,23 +164,29 @@ def main():
                       "start": idx[s], "end": idx[e]})
         cursor = e
 
+    miss = [h["title"] for h in found if h["start"] is None]
+    # which located headings become their own card?
+    kept = [i for i, h in enumerate(found)
+            if h["start"] is not None and (not a.level or h["depth"] == a.level)]
+
     out = []
-    miss = []
     seq = 0
-    for i, h in enumerate(found):
-        if h["start"] is None:
-            miss.append(h["title"])
-            continue
-        # end of body = start of next located heading
-        nxt_start = None
-        for j in range(i + 1, len(found)):
-            if found[j]["start"] is not None:
-                nxt_start = found[j]["start"]
-                break
-        if nxt_start is None:
-            nxt_start = len(raw)
-        body = raw[h["end"]:nxt_start]
-        paras = clean_body(body)
+    for pos, i in enumerate(kept):
+        h = found[i]
+        nxt_i = kept[pos + 1] if pos + 1 < len(kept) else None
+        body_end = found[nxt_i]["start"] if nxt_i is not None else len(raw)
+        # deeper headings inside this section -> bold separators
+        subs = [found[j] for j in range(i + 1, nxt_i if nxt_i is not None else len(found))
+                if found[j]["start"] is not None and h["end"] <= found[j]["start"] < body_end]
+        paras = []
+        cur = h["end"]
+        for s in subs:
+            if s["start"] < cur:
+                continue
+            paras += clean_body(raw[cur:s["start"]])
+            paras.append("**%s**" % s["title"].strip())
+            cur = s["end"]
+        paras += clean_body(raw[cur:body_end])
         total = sum(len(p) for p in paras)
         if total < a.min_chars:
             continue
