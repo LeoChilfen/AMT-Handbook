@@ -32,7 +32,7 @@ Compressed air, like electricity, is an excellent tool when it is under control.
 
 • Inspect air hoses frequently for breaks and worn spots.
 
-Unsafe hoses must be replaced immediately.
+  Unsafe hoses must be replaced immediately.
 
 • Keep all connections in a “no-leak condition.”
 
@@ -44,7 +44,7 @@ Unsafe hoses must be replaced immediately.
 
 • Never use compressed air to clean hands or clothing.
 
-Pressure can force debris into the flesh leading to infection.
+  Pressure can force debris into the flesh leading to infection.
 
 • Never spray compressed air in the area of other personnel.
 
