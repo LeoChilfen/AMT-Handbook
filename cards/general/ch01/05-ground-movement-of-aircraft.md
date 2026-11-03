@@ -154,6 +154,8 @@ APUs are generally smaller turbine engines that provide compressed air for start
 
 ### Unsatisfactory Turbine Engine Starts
 
+#### Hot Start
+
 A hot start occurs when the engine starts, but the exhaust gas temperature exceeds specified limits. This is usually caused by an excessively rich air-fuel mixture entering the combustion chamber. This condition can be caused by either too much fuel or not enough airflow. The fuel to the engine must be shut off immediately.
 
 #### False or Hung Start
@@ -212,9 +214,11 @@ The attachment of the tow bar varies on different types of aircraft. Aircraft eq
 
 ### Taxiing Aircraft
 
-As a general rule, only rated pilots and qualified airframe and powerplant (A&P) technicians are authorized to start, run up, and taxi aircraft. All taxiing operations are performed in accordance with applicable local regulations. The following section provides detailed instructions on
+As a general rule, only rated pilots and qualified airframe and powerplant (A&P) technicians are authorized to start, run up, and taxi aircraft. All taxiing operations are performed in accordance with applicable local regulations. The following section provides detailed instructions on taxi signals and related taxi instructions.
 
-and related taxi instructions. Taxi Signals Many ground accidents have occurred as a result of improper technique in taxiing aircraft. Although the pilot is ultimately responsible for the aircraft until the engine is stopped, a taxi signalman can assist the pilot around the flight line. In some aircraft configurations, the pilot’s vision is obstructed while on the ground. The pilot cannot see obstructions close to the wheels or under the wings and has little idea of what is behind the aircraft. Consequently, the pilot depends upon the taxi signalman for directions.
+#### Taxi Signals
+
+Many ground accidents have occurred as a result of improper technique in taxiing aircraft. Although the pilot is ultimately responsible for the aircraft until the engine is stopped, a taxi signalman can assist the pilot around the flight line. In some aircraft configurations, the pilot’s vision is obstructed while on the ground. The pilot cannot see obstructions close to the wheels or under the wings and has little idea of what is behind the aircraft. Consequently, the pilot depends upon the taxi signalman for directions.
 
 The standard position for a signalman is slightly ahead of and in line with the aircraft’s left wingtip. As the signalman faces the aircraft, the nose of the aircraft is on the left. The signalman must stay far enough ahead of the wingtip to remain in the pilot’s field of vision. It is a good practice to perform a foolproof test to be sure the pilot can see all signals. If the signalman can see the pilot’s eyes, the pilot can see the signals.
 
@@ -376,6 +380,8 @@ APU 一般是较小的涡轮发动机，在地面为起动发动机提供压缩�
 
 ### 涡轮发动机起动不良
 
+#### 热起动
+
 热起动是指发动机起动了，但排气温度超过规定限制。这通常是由于过富的油气混合气进入燃烧室所致。造成这种情况的原因可能是燃油过多或气流不足。必须立即切断供给发动机的燃油。
 
 #### 虚假起动或悬挂起动
@@ -434,9 +440,11 @@ APU 一般是较小的涡轮发动机，在地面为起动发动机提供压缩�
 
 ### 航空器的滑行
 
-一般规则是，只有持照驾驶员和合格的机体与动力装置（A&P）技师才有权起动、试车和滑行航空器。所有滑行作业均按适用的当地规章执行。下一节给出关于……的详细说明（原文此处句子中断，缺若干词）。
+一般规则是，只有持照驾驶员和合格的机体与动力装置（A&P）技师才有权起动、试车和滑行航空器。所有滑行作业均按适用的当地规章执行。下一节给出关于滑行信号及相关滑行说明的详细内容。
 
-（承上）以及相关的滑行说明。 滑行信号——许多地面事故都是由于滑行操作手法不当造成的。虽然直到发动机停车之前，驾驶员始终对航空器负最终责任，但滑行信号员可以协助驾驶员在外场停机线一带活动。某些航空器布局下，驾驶员在地面时视野受阻，看不到靠近机轮或机翼下方处的障碍物，也不太清楚航空器后方的情况。因此，驾驶员要依靠滑行信号员指示方向。
+#### 滑行信号
+
+许多地面事故都是由于滑行操作手法不当造成的。虽然直到发动机停车之前，驾驶员始终对航空器负最终责任，但滑行信号员可以协助驾驶员在外场停机线一带活动。某些航空器布局下，驾驶员在地面时视野受阻，看不到靠近机轮或机翼下方处的障碍物，也不太清楚航空器后方的情况。因此，驾驶员要依靠滑行信号员指示方向。
 
 信号员的标准站位是在航空器左翼尖前方略偏前、并与翼尖成一条线的位置。信号员面朝航空器时，机头在他左侧。信号员必须站得离翼尖足够远，以保持在驾驶员视野之内。做一个简单可靠的验证是好习惯：若信号员能看到驾驶员的眼睛，驾驶员就能看到信号。
 

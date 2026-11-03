@@ -52,6 +52,8 @@ Oxygen used on aircraft is available in two types: gaseous and liquid. The type 
 
 Oxygen is commercially available in three general types: aviator’s breathing, industrial, and medical. Only oxygen marked “Aviator’s Breathing Oxygen” that meets Federal Specification BB-0-925A, Grade A, or its equivalent is to be used in aircraft breathing oxygen systems. Industrial oxygen may contain impurities that could cause the pilot, crew, and/ or passengers to become sick. Medical oxygen, although pure, contains water that can freeze in the cold temperatures found at the altitudes where oxygen is necessary.
 
+### Oxygen Hazards
+
 Gaseous oxygen is chemically stable and is nonflammable. However, combustible materials ignite more rapidly and burn with greater intensity in an oxygen-rich atmosphere. In addition, oxygen combines with oil, grease, or bituminous material to form a highly-explosive mixture that is sensitive to compression or impact. Physical damage to, or failure of, oxygen containers, valves, or plumbing can result in an explosive rupture with extreme danger to life and property. It is imperative that the highest standard of cleanliness be observed in handling oxygen and that only qualified and authorized persons be permitted to service aircraft gaseous oxygen systems. In addition to aggravating the fire hazard and because of its low temperature (it boils at −297 °F), liquid oxygen causes severe “burns” (frostbite) if it comes in contact with the skin.
 
 ## 2. 中文翻译
@@ -103,6 +105,8 @@ Gaseous oxygen is chemically stable and is nonflammable. However, combustible ma
 飞机上使用的氧气分两类：气态氧和液态氧。某一具体机型使用哪一种，取决于该机所装的设备类型。气态氧储存在大型钢瓶里，而液氧（通常简称 LOX）储存在液氧转换器中，并在其中转换为可用的气体。
 
 市售氧气一般有三种类型：航空人员呼吸用氧、工业氧和医用氧。只有标注“Aviator’s Breathing Oxygen”（飞行员呼吸用氧）、符合联邦规范 BB-0-925A A 级或其等效标准的氧气，才可用于飞机的呼吸供氧系统。工业氧可能含有杂质，会使飞行员、机组成员和/或乘客身体不适。医用氧虽然纯净，但含有水分，在必须供氧的高空低温环境下会结冰。
+
+### 氧气危害
 
 气态氧化学性质稳定，且不可燃。但在富氧环境中，可燃材料会起燃更快、燃烧更剧烈。此外，氧会与滑油、润滑脂或沥青类物质结合，形成对压缩或撞击敏感的高爆炸性混合物。氧气容器、阀门或管路受到机械损伤或发生失效，可能导致爆炸性破裂，对生命和财产造成极大危险。在处理氧气时，必须遵守最高标准的清洁要求；并且只允许合格且经授权的人员对飞机气态氧系统进行勤务。液氧不仅会加剧火灾危险，而且由于其温度很低（沸点为 −297 °F），一旦接触皮肤会造成严重“烧伤”（冻伤）。
 

@@ -34,6 +34,8 @@ The effects of micro-organisms are:
 
 • Corrosive compounds that can attack the fuel tank’s structure. In the case of a wet wing tank, the tank is made from the aircraft’s structure. They can also have offensive odors.
 
+### Fueling Hazards
+
 The volatility of aviation fuels creates a fire hazard that has plagued aviators and aviation engine designers since the beginning of powered flight. V olatility is the ability of a liquid to change into a gas at a relatively low temperature. In its liquid state, aviation fuel does not burn. It is, therefore, the vapor or gaseous state that the liquid fuel changes that is not only useful in powering the aircraft, but also a fire hazard.
 
 Static electricity is a byproduct of one substance rubbing against another. Fuel flowing through a fuel line causes a certain amount of static electricity. The greatest static electricity concern around aircraft is that during flight, the aircraft moving through the air causes static electricity to build in the airframe. If that static electricity is not dissipated prior to refueling, the static electricity in the airframe attempts to return to the ground through the fuel line from the servicing unit. The spark caused by the static electricity can ignite any vaporized fuel.
@@ -82,6 +84,8 @@ cable from the fuel truck.
 
 When fueling from pits or cabinets, follow the same procedures as when using a truck. Pits or cabinets are usually designed with permanent grounding, eliminating the need to ground the equipment. However, the aircraft still must be grounded, and then the equipment must be grounded to the aircraft as it was with mobile equipment.
 
+### Defueling
+
 Defueling procedures differ with different types of aircraft. Before defueling an aircraft, check the maintenance/service manual for specific procedures and cautions. Defueling can be accomplished by gravity defueling or by pumping the fuel out of the tanks. When the gravity method is used, it is necessary to have a method of collecting the fuel. When the pumping method is used, care must be taken not to damage the tanks, and the removed fuel cannot be mixed with good fuel.
 
 General precautions when defueling are:
@@ -125,6 +129,8 @@ General precautions when defueling are:
 • 使燃油乳化。
 
 • 产生腐蚀性化合物，侵蚀油箱结构。就整体油箱（wet wing tank）而言，油箱本身就是由飞机结构构成的。这些微生物还会产生难闻的气味。
+
+### 加油危害
 
 航空燃油的挥发性造成了自动力飞行之初就困扰飞行员和航空发动机设计者的火灾危险。挥发性是指液体在相对较低温度下转变为气体的能力。航空燃油在液态下不会燃烧。因此，正是液态燃油转变而成的蒸气态或气态，既可用于驱动飞机，又构成火灾危险。
 
@@ -173,6 +179,8 @@ General precautions when defueling are:
 8. 按相反顺序拆除接地线。如果飞机短时间内不飞行也不移动，机体接地线可以保留不拆。
 
 从地井或加油柜加油时，遵循与使用加油车相同的程序。地井或加油柜通常设计为永久接地，无需再为设备接地。但飞机仍必须接地，然后仍须像移动设备那样把设备与飞机连接接地。
+
+### 放油
 
 抽油程序因飞机类型而异。为飞机抽油前，应查阅维修/勤务手册中的具体程序和注意事项。抽油可采用重力放油或用泵把燃油从油箱抽出。采用重力法时，必须有收集燃油的办法。采用泵抽法时，须注意不要损坏油箱，且抽出的燃油不得与好油混合。
 
