@@ -4,17 +4,17 @@
 
 ## 1. 原文
 
-The transmission is mounted between the generator and the aircraft engine. Its name denotes that hydraulic oil is used, although some transmissions may use engine oil. Refer to the cutaway view of such a transmission in Figure 12-334. The input shaft D is driven from the drive shaft on the accessory section of the engine. The output drive F, on the opposite end of the transmission, engages the drive shaft of the generator.
+The transmission is mounted between the generator and the aircraft engine. Its name denotes that hydraulic oil is used, although some transmissions may use engine oil. The input shaft D is driven from the drive shaft on the accessory section of the engine. The output drive F, on the opposite end of the transmission, engages the drive shaft of the generator.
 
 The input shaft is geared to the rotating cylinder block gear, which it drives, as well as to the makeup and scavenger gear pumps E.
 
 The makeup (charge) pump delivers oil (300 psi) to the pump and motor cylinder block, to the governor system, and to the pressurized case, whereas the scavenger pump returns the oil to the external reservoir.
 
-The rotating cylinder assembly B consists of the pump and motor cylinder blocks, which are bolted to opposite sides of a port plate. The two other major parts are the motor wobbler A and the pump wobbler C. The governor system is the unit at the top of the left side in Figure 12-334.
+The rotating cylinder assembly B consists of the pump and motor cylinder blocks, which are bolted to opposite sides of a port plate. The two other major parts are the motor wobbler A and the pump wobbler C. The governor system is the unit at the top of the left side.
 
 The cylinder assembly has two primary units. The block assembly of one of the units, the pump, contains 14 cylinders, each of which has a piston and pushrod. Charge pressure from the makeup pump is applied to each piston in order to force it outward against the pushrod. It, in turn, is pushed against the pump wobble plate.
 
-If the plate remained as shown in Figure 12-335A, each of the 14 cylinders would have equal pressure, and all pistons would be in the same relative position in their respective cylinders. But with the plate tilted, the top portion moves outward and the lower portion inward. [Figure 12-335B] As a result, more oil enters the interior of the upper cylinder, but oil is forced from the cylinder of the bottom piston.
+If the plate remained as shown, each of the 14 cylinders would have equal pressure, and all pistons would be in the same relative position in their respective cylinders. But with the plate tilted, the top portion moves outward and the lower portion inward. As a result, more oil enters the interior of the upper cylinder, but oil is forced from the cylinder of the bottom piston.
 
 If the pump block were rotated while the plate remained stationary, the top piston would be forced inward because of the angle of the plate. This action would cause the oil confined within the cylinder to be subjected to increased pressure great enough to force it into the motor cylinder block assembly.
 
@@ -30,15 +30,15 @@ To prevent the oil temperature from becoming excessively high within the cylinde
 
 The clutch, located in the output gear and clutch assembly, is an overrunning one way, sprag-type device. Its purpose is to ratchet if the alternator becomes motorized; otherwise, the alternator might turn the engine. Furthermore, the clutch provides a positive connection when the transmission is driving the alternator.
 
-There is another unit of the drive that must be discussed—the governor system. The governor system, which consists of a hydraulic cylinder with a piston, is electrically controlled. Its duty is to regulate oil pressure flowing to the control cylinder assembly. [Figure 12-336]
+There is another unit of the drive that must be discussed—the governor system. The governor system, which consists of a hydraulic cylinder with a piston, is electrically controlled. Its duty is to regulate oil pressure flowing to the control cylinder assembly.
 
 The center of the system’s hydraulic cylinder is slotted so the arm of the pump wobble plate can be connected to the piston. As oil pressure moves the piston, the pump wobble plate is placed in either overspeed, underspeed, or straight drive.
 
-Figure 12-337 shows the electrical circuit used to govern the speed of the transmission. First, the main points of the complete electrical control circuit are discussed. [Figures 12-337 and 12-338] For simplification, two portions, the overspeed circuit and the load division circuit, are considered as individual circuits.
+First, the main points of the complete electrical control circuit are discussed. For simplification, two portions, the overspeed circuit and the load division circuit, are considered as individual circuits.
 
-Note, in Figure 12-337 , that the circuit has a valve and solenoid assembly (O) and a control cylinder (E), and that it contains such units as the tachometer generator (D), the rectifier (C), and adjustable resistor (B), rheostat (A), and the control coil (Q).
+Note that the circuit has a valve and solenoid assembly (O) and a control cylinder (E), and that it contains such units as the tachometer generator (D), the rectifier (C), and adjustable resistor (B), rheostat (A), and the control coil (Q).
 
-Since it is driven by a drive gear in the transmission, the tachometer (often called tach) generator, a three-phase unit, has a voltage proportional to the speed of the output drive. The rectifier changes its voltage from AC to DC. After rectification, the current flows through the resistor, rheostat, and valve and solenoid. Each of these units is connected in series. [Figure 12-338]
+Since it is driven by a drive gear in the transmission, the tachometer (often called tach) generator, a three-phase unit, has a voltage proportional to the speed of the output drive. The rectifier changes its voltage from AC to DC. After rectification, the current flows through the resistor, rheostat, and valve and solenoid. Each of these units is connected in series.
 
 Under normal operating conditions, the output of the tach generator causes just enough current to enter the valve and solenoid coil to set up a magnetic field of sufficient strength to balance the spring force in the valve. When the alternator speed increases as the result of a decrease in load, the tach generator output also increases. Because of the greater output, the coil in the solenoid is sufficiently strengthened to overcome the spring force. Thus, the valve moves and, as a result, oil pressure enters the reduced speed side of the control cylinder.
 
@@ -48,23 +48,23 @@ With the output speed reduction, tach generator output decreases; consequently, 
 
 If a heavy load is put on the AC generator, its speed decreases. The generator is not driven directly by the engine; the hydraulic drive allows slippage. This decrease causes the output of the tach generator to taper off and, as a result, weakens the magnetic field of the solenoid coil. The spring in the solenoid moves the valve and allows oil pressure to enter the increase side of the control cylinder and the output speed of the transmission is raised.
 
-There are still two important circuits that must be discussed: the overspeed circuit and the load division circuit. The generator is prevented from overspeeding by a centrifugal switch (S) in Figure 12-339 and the overspeed solenoid coil (R), which is located in the solenoid and valve assembly. The centrifugal switch is on the transmission and is driven through the same gear arrangement as the tach generator.
+There are still two important circuits that must be discussed: the overspeed circuit and the load division circuit. The generator is prevented from overspeeding by a centrifugal switch (S) and the overspeed solenoid coil (R), which is located in the solenoid and valve assembly. The centrifugal switch is on the transmission and is driven through the same gear arrangement as the tach generator.
 
-AB E C D F The aircraft DC system furnishes the power to operate the overspeed coil in the solenoid and coil assembly. If the output speed of the transmission reaches a speed of 7,000 to 7,500 rpm, the centrifugal switch closes the DC circuit and energizes the overspeed solenoid. This component then moves the valve and engages the latch that holds the valve in the underdrive position. To release the latch, energize the underdrive release solenoid.
+The aircraft DC system furnishes the power to operate the overspeed coil in the solenoid and coil assembly. If the output speed of the transmission reaches a speed of 7,000 to 7,500 rpm, the centrifugal switch closes the DC circuit and energizes the overspeed solenoid. This component then moves the valve and engages the latch that holds the valve in the underdrive position. To release the latch, energize the underdrive release solenoid.
 
 The load division circuit’s function is to equalize the loads placed on each of the alternators, which is necessary to assure that each alternator assumes its share; otherwise, one alternator might be overloaded while another would be carrying only a small load.
 
-In Figure 12-340, one phase of the alternator provides power for the primary in transformer (G), whose secondary supplies power to the primaries of two other transformers (J 1 and J2). Rectifiers (K) then change the output of the transformer secondaries from AC to DC.
+One phase of the alternator provides power for the primary in transformer (G), whose secondary supplies power to the primaries of two other transformers (J 1 and J2). Rectifiers (K) then change the output of the transformer secondaries from AC to DC.
 
 The function of the two capacitors (L) is to smooth out the DC pulsations.
 
 The output of the current transformer (F) depends upon the amount of current flowing in the line of one phase. In this way, it measures the real load of the generator. The output voltage of the current transformer is applied across resistor (H). This voltage is added vectorially to the voltage applied to the upper winding of transformer (J) by the output of transformer (F). At the same time as it adds vectorially to the upper winding of transformer (J), it subtracts vectorially from the voltage applied to the lower winding of (J).
 
-This voltage addition and subtraction depends on the real load of the generator. The amount of real load determines the phase A B angle and the amount of voltage impressed across resistor (H). The greater the real load, the greater the voltage across (H), and hence, the greater the difference between the voltages applied to the two primaries of transformer (J). The unequal voltages applied to resistor (M) by the secondaries of transformer (J) cause a current flow through the control coil (P).
+This voltage addition and subtraction depends on the real load of the generator. The amount of real load determines the phase angle and the amount of voltage impressed across resistor (H). The greater the real load, the greater the voltage across (H), and hence, the greater the difference between the voltages applied to the two primaries of transformer (J). The unequal voltages applied to resistor (M) by the secondaries of transformer (J) cause a current flow through the control coil (P).
 
 The control coil is wound so that its voltage supplements the voltage for the control coil in the valve and solenoid assembly. The resulting increased voltage moves the valve and slows down the generator’s speed. Why should the speed be decreased if the load has been increased? Actually, systems using only one generator would not have decreased speed, but for those having two or more generators, a decrease is necessary to equalize the loads.
 
-The load division circuit is employed only when two or more generators supply power. In such systems, the control coils are connected in parallel. If the source voltage for one of these becomes higher than the others, it determines the direction of current flow throughout the entire load division circuit. As explained before, the real load on the generator determines the amount of voltage on the control coil; therefore, the generator with the highest real load has the highest voltage. As shown in Figure 12-341, current through No. 1 control coil, where the largest load exists, aids the control coil of the valve and solenoid, thereby slowing down the generator. (The source voltage of the control coils is represented by battery symbols in Figure 12-341.) The current in the remaining control coils opposes the control coil of the valve and solenoid, in order to increase the speed of the other generators so the load is more evenly distributed.
+The load division circuit is employed only when two or more generators supply power. In such systems, the control coils are connected in parallel. If the source voltage for one of these becomes higher than the others, it determines the direction of current flow throughout the entire load division circuit. As explained before, the real load on the generator determines the amount of voltage on the control coil; therefore, the generator with the highest real load has the highest voltage. Current through No. 1 control coil, where the largest load exists, aids the control coil of the valve and solenoid, thereby slowing down the generator. The current in the remaining control coils opposes the control coil of the valve and solenoid, in order to increase the speed of the other generators so the load is more evenly distributed.
 
 On some drives, instead of an electrically-controlled governor, a flyweight-type governor is employed, which consists of a recess-type revolving valve driven by the output shaft of the drive, flyweights, two coil springs, and a nonrotating valve stem. Centrifugal force, acting on the governor flyweights, causes them to move outward, lifting the valve stem against the opposition of a coil spring.
 
@@ -72,34 +72,133 @@ The valve stem position controls the directing of oil to the two oil outlines. I
 
 Overspeed protection is installed in the governor. The drive starts in the underdrive position. The governor coil springs are fully extended and the valve stem is held at the limit of its downward travel. In this condition, pressure is directed to the side of the control piston giving minimum wobble plate angle. The maximum angle side of the control piston is open to the hollow stem. As the input speed increases, the flyweights start to move outward to overcome the spring bias. This action lifts the valve stem and starts directing oil to the maximum side of the control piston, while the minimum side is opened to the hollow stem.
 
-At about 6,000 rpm, the stem is positioned to stop drainage of either side, and the two pressures seek a balance point as Generator E D C B A O P Q R Latch Oil out Oil in Constant speed drive the flyweight force is balanced against the spring bias. Thus, a mechanical failure in the governor causes an underdrive condition. The flyweight’s force is always tending to move the valve stem to the decrease speed position so that, if the coil spring breaks and the stem moves to the extreme position in that direction, output speed is reduced. If the input to the governor fails, the spring forces the stem all the way to the start position to obtain minimum output speed.
+At about 6,000 rpm, the stem is positioned to stop drainage of either side, and the two pressures seek a balance point as the flyweight force is balanced against the spring bias. Thus, a mechanical failure in the governor causes an underdrive condition. The flyweight’s force is always tending to move the valve stem to the decrease speed position so that, if the coil spring breaks and the stem moves to the extreme position in that direction, output speed is reduced. If the input to the governor fails, the spring forces the stem all the way to the start position to obtain minimum output speed.
 
-Generator To load F E G H D C B A S J J K K N N O P Q R L L Latch Oil out Oil in Constant speed drive An adjustment screw on the end of the governor regulates the output speed of the constant speed drive. This adjustment increases or decreases the compression of a coil spring, opposing the action of the flyweights. The adjustment screws turn in an indented collar, which provides a means of making speed adjustments in known increments. Each “click” provides a small change in generator frequency.
+An adjustment screw on the end of the governor regulates the output speed of the constant speed drive. This adjustment increases or decreases the compression of a coil spring, opposing the action of the flyweights. The adjustment screws turn in an indented collar, which provides a means of making speed adjustments in known increments. Each “click” provides a small change in generator frequency.
 
 The constant speed drive (CSD) can be an independent unit or mounted within the alternator housing. When the CSD and the alternator are contained within one unit, the assembly is known as an integrated drive generator (IDG).
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（37 段）。专业术语按行业惯例，数字与缩写保留。 -->
+该传动装置装在发电机与飞机发动机之间。其名称表明使用液压油，尽管有些传动装置可能使用发动机滑油。输入轴 D 由发动机附件区的传动轴驱动。位于传动装置另一端的输出传动件 F 与发电机的传动轴啮合。
+
+输入轴通过齿轮与旋转缸体齿轮相连并驱动该齿轮，同时也与补油泵和回油泵 E 相连。
+
+补油（充液）泵把压力为 300 psi 的滑油送往泵和马达缸体、调速器系统以及增压机匣，而回油泵则把滑油送回外部油箱。
+
+旋转缸体组件 B 由泵缸体和马达缸体组成，二者用螺栓固定在配流盘的两侧。另外两个主要部件是马达摆动盘 A 和泵摆动盘 C。调速器系统是左侧顶部的那个组件。
+
+缸体组件有两个主要单元。其中泵这一单元的缸体组件包含 14 个缸，每个缸都配有活塞和推杆。补油泵的充液压力作用在每个活塞上，迫使其向外顶住推杆。推杆又顶在泵摆动盘上。
+
+如果摆动盘保持如图所示的状态，14 个缸中的每一个都将具有相等的压力，所有活塞在各自缸内都处于相同的相对位置。但摆动盘倾斜后，上部向外移动，下部向内移动。结果，更多滑油进入上部缸的内部，而下部活塞所在缸中的滑油被挤出。
+
+如果泵缸体旋转而摆动盘保持不动，由于摆动盘的角度，顶部活塞会被迫向内移动。这一作用使封闭在缸内的滑油受到增大的压力，足以将其压入马达缸体组件。
+
+在解释马达单元中的高压油起什么作用之前，有必要了解旋转缸体组件这一部分的一些情况。马达缸体组件有 16 个缸，每个缸都有活塞和推杆。它们不断接收 300 psi 的充液压力。活塞的位置取决于每根推杆与马达摆动盘接触的那一点。这些推杆对摆动盘斜面施加压力，使摆动盘旋转。
+
+当滑油从泵缸经马达配流盘压入时，马达的活塞和推杆被向外推。推杆顶住马达摆动盘，摆动盘可以自由转动，但不能改变其设定角度。由于推杆不能侧向移动，作用在马达摆动盘斜面上的压力便使其旋转。
+
+在实际的传动装置中，有一个可调摆动盘。控制缸组件决定泵摆动盘的倾角。例如，若传动装置处于超速传动状态，该倾角被设定为使马达缸体带动马达摆动盘转得比马达组件更快。泵缸和马达缸中较高的压力产生上述结果。
+
+当传动装置处于减速传动时，角度的设置使泵送作用减弱。推杆与马达摆动盘之间随之产生的滑移降低了传动装置的输出转速。当泵摆动盘不成角度时，泵送作用最小，传动装置处于所谓液压锁止状态。在这种情况下，输入与输出转速大致相同，传动装置被视为处于直接传动。
+
+为防止缸体内油温过高，补油压力泵迫使滑油通过该缸体的中心和安全活门。滑油从该活门流入传动装置机匣底部。回油泵把滑油从传动装置机匣抽出，使其流经滑油冷却器和滤油器，然后再送回油箱。在循环开始时，滑油从油箱吸出，经过滤油器，由补油压力泵压入缸体。
+
+位于输出齿轮和离合器组件中的离合器是一种单向超越式楔块离合器。其作用是在交流发电机被电动驱动时打滑；否则，交流发电机可能会带动发动机。此外，当传动装置驱动交流发电机时，离合器提供可靠连接。
+
+传动装置中还有一个单元必须讨论——调速器系统。调速器系统由一个带活塞的液压缸组成，采用电气控制。其职责是调节流向控制缸组件的滑油压力。
+
+系统液压缸的中心开有槽，使泵摆动盘的臂能够与活塞相连。当油压推动活塞时，泵摆动盘被置于超速、欠速或直接传动位置。
+
+首先讨论整个电气控制电路的要点。为简化起见，把超速电路和负载分配电路这两个部分作为独立电路来考虑。
+
+注意，该电路有一个活门与电磁线圈组件（O）和一个控制缸（E），并且包含测速发电机（D）、整流器（C）、可调电阻器（B）、变阻器（A）和控制线圈（Q）等单元。
+
+由于测速（常称 tach）发电机由传动装置中的传动齿轮驱动，它是三相机组，其电压与输出传动件的转速成正比。整流器把其电压从交流变为直流。整流后，电流流过电阻器、变阻器以及活门与电磁线圈。这些单元各自串联连接。
+
+在正常工作条件下，测速发电机的输出恰好使足够的电流进入活门与电磁线圈，建立起足以平衡活门中弹簧力的磁场。当负载减小使交流发电机转速升高时，测速发电机输出也随之增大。由于输出增大，电磁线圈中的线圈磁性增强到足以克服弹簧力。于是活门移动，油压随即进入控制缸的减速侧。
+
+压力随之推动活塞，使泵摆动盘的角度减小。活塞另一侧的滑油被压回，经活门流回系统回油路。由于泵摆动盘角度变小，传动装置中的泵送作用减弱。结果是输出转速降低。为完成循环，过程反向进行。
+
+随着输出转速降低，测速发电机输出减小；因此，流向电磁线圈的电流减弱。于是电磁线圈的磁场变得很弱，弹簧得以克服它并重新定位活门。
+
+如果交流发电机加上重负载，其转速下降。发电机并非由发动机直接驱动；液压传动允许滑移。这一转速下降使测速发电机输出逐渐减小，从而削弱电磁线圈的磁场。电磁线圈中的弹簧使活门移动，允许油压进入控制缸的增速侧，传动装置的输出转速随之升高。
+
+还有两个重要电路必须讨论：超速电路和负载分配电路。离心开关（S）和位于电磁线圈与活门组件中的超速电磁线圈（R）可防止发电机超速。离心开关装在传动装置上，由与测速发电机相同的齿轮机构驱动。
+
+飞机直流系统为电磁线圈与线圈组件中的超速线圈提供电源。如果传动装置的输出转速达到 7,000 至 7,500 rpm，离心开关就接通直流电路，使超速电磁线圈通电。该组件随后移动活门，并接合把活门保持在减速传动位置的锁闩。要释放锁闩，应使减速传动释放电磁线圈通电。
+
+负载分配电路的作用是使各交流发电机所承担的负载相等，这是确保每台交流发电机都承担其份额所必需的；否则，一台交流发电机可能过载，而另一台却只承担很小的负载。
+
+交流发电机的一相为变压器（G）的初级供电，其二次侧向另外两台变压器（J1 和 J2）的初级供电。整流器（K）随后把变压器二次侧的输出从交流变为直流。
+
+两个电容器（L）的作用是平滑直流的脉动。
+
+电流互感器（F）的输出取决于一相线路中流过的电流大小。这样它就能测量发电机的实际负载。电流互感器的输出电压加在电阻器（H）两端。该电压与变压器（F）输出加在变压器（J）上部绕组的电压进行矢量相加。在它与变压器（J）上部绕组矢量相加的同时，也从加在（J）下部绕组上的电压中矢量相减。
+
+这种电压的相加与相减取决于发电机的实际负载。实际负载的大小决定了相位角和加在电阻器（H）上的电压大小。实际负载越大，（H）两端的电压越大，因而加在变压器（J）两个初级上的电压差也越大。变压器（J）二次侧加在电阻器（M）上的不等电压引起电流流过控制线圈（P）。
+
+控制线圈的绕制方式使其电压对活门与电磁线圈组件中控制线圈的电压起补充作用。由此增大的电压使活门移动，并降低发电机的转速。负载已经增大，为什么还要降低转速呢？实际上，只使用一台发电机的系统不会降低转速，但对于装有两台或更多发电机的系统，必须降低转速才能使负载均衡。
+
+只有当两台或更多发电机供电时才使用负载分配电路。在这类系统中，各控制线圈并联连接。如果其中一个的电源电压高于其他，它就决定整个负载分配电路中电流的方向。如前所述，发电机的实际负载决定控制线圈上的电压大小；因此，实际负载最高的发电机电压最高。电流流过负载最大处的 1 号控制线圈，帮助活门与电磁线圈的控制线圈工作，从而使该发电机减速。其余控制线圈中的电流则对活门与电磁线圈的控制线圈起相反作用，以提高其他发电机的转速，使负载分配更均匀。
+
+在某些传动装置上，采用飞重式调速器代替电气控制调速器。它由输出轴驱动的凹槽式旋转活门、飞重、两根螺旋弹簧和一个不旋转的活门杆组成。作用在调速器飞重上的离心力使飞重向外移动，克服螺旋弹簧的阻力抬起活门杆。
+
+活门杆的位置控制着流向两条出油路的滑油。如果输出转速趋于超过 6,000 rpm，飞重抬起活门杆，把更多滑油引向控制活塞的一侧，使活塞朝减小泵摆动盘角度的方向移动。如果转速降到 6,000 rpm 以下，滑油被引向控制活塞，使其朝增大摆动盘角度的方向移动。
+
+调速器中装有超速保护。传动装置以减速传动位置起动。调速器螺旋弹簧完全伸展，活门杆被保持在其下行行程的极限位置。在这种情况下，压力被引向控制活塞的一侧，给出最小的摆动盘角度。控制活塞的最大角度侧与空心杆相通。随着输入转速升高，飞重开始向外移动以克服弹簧预紧力。这一作用抬起活门杆，开始把滑油引向控制活塞的最大角度侧，同时最小角度侧与空心杆相通。
+
+在约 6,000 rpm 时，活门杆被定位到停止两侧泄油的位置，两种压力在飞重力与弹簧预紧力平衡时寻求平衡点。因此，调速器发生机械故障会导致减速传动状态。飞重力总是趋于把活门杆移向降速位置，这样，如果螺旋弹簧断裂、活门杆移到该方向的极限位置，输出转速就会降低。如果通往调速器的输入失效，弹簧会把活门杆一直推到起动位置，以获得最低输出转速。
+
+调速器端部的调整螺钉调节恒速传动装置的输出转速。该调整增大或减小一根螺旋弹簧的压缩量，以对抗飞重的作用。调整螺钉在带齿的套环中转动，从而提供按已知增量进行转速调整的手段。每“咔哒”一声，发电机频率便有小量变化。
+
+恒速传动装置（CSD）可以是一个独立单元，也可以装在交流发电机壳体内。当 CSD 与交流发电机装在同一单元内时，该组件称为整体驱动发电机（IDG）。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Addition —— The process in which the value of one number is added to the value of another.
-- Centrifugal force —— The apparent force occurring in curvilinear motion acting to deflect objects outward from the axis of rotation. For instance, when pulling out of a dive, it is 
-- Current —— The flow of electrical charge.
-- Difference —— The answer to a subtraction problem.
-- Division —— The process of finding how many times one number (the divisor) is contained in another number (the dividend).
-- Force —— The intensity of an impetus, or the intensity of an input.
-- Frequency —— The number of cycles (on/off) completed per unit of time. Usually expressed in Hertz.
-- Power (exponent) —— A shorthand method of indicating how many times a number, called the base, is multiplied by itself. For example, in the number 43, 3 is the power, or exponent, 
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| transmission | n. | 传动装置 | 装在发电机与发动机之间、以液压油传递动力的装置 |
+| hydraulic oil | n. | 液压油 | 传动装置的工作介质，部分装置也使用发动机滑油 |
+| makeup (charge) pump | n. | 补油泵 | 提供 300 psi 充液压力并补充系统油量的泵 |
+| scavenger pump | n. | 回油泵 | 把机匣内的滑油抽回外部油箱的泵 |
+| cylinder block | n. | 缸体 | 泵与马达的柱塞缸组合体，泵侧 14 缸、马达侧 16 缸 |
+| wobble plate | n. | 摆动盘 | 角度可调、把活塞往复运动转换为旋转运动的斜盘 |
+| pushrod | n. | 推杆 | 活塞与摆动盘之间的传力杆件 |
+| overrunning clutch | n. | 超越离合器 | 单向传递扭矩，防止发电机电动时带动发动机 |
+| governor | n. | 调速器 | 通过控制活塞调节泵摆动盘角度以稳定输出转速 |
+| tachometer generator | n. | 测速发电机 | 三相测速机组，输出电压与输出转速成正比 |
+| load division circuit | n. | 负载分配电路 | 使并联发电机负载均衡的控制电路 |
+| integrated drive generator | n. | 整体驱动发电机 | CSD 与交流发电机装在同一壳体内的组件（IDG） |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① 不定式作表语 + otherwise
+**原句**：Its purpose is to ratchet if the alternator becomes motorized; otherwise, the alternator might turn the engine.
+**拆解**：主语 Its purpose；is 后 to ratchet 为不定式作表语；if 引导条件从句；分号后 otherwise 引出相反结果的独立分句。
+**要点**：purpose is to do 是说明功能的常见句式；otherwise 意为“否则”，前后须是两个完整分句。
+
+### ② 虚拟语气 + while 对比
+**原句**：If the pump block were rotated while the plate remained stationary, the top piston would be forced inward because of the angle of the plate.
+**拆解**：If 从句用 were rotated 表示与现在事实相反的假设；while 引导同时性对比状语从句；主句 would be forced 为虚拟结果，because of 引出原因。
+**要点**：虚拟条件句中 while 从句用陈述语气；because of 后接名词短语，because 后接从句。
+
+### ③ 不定式目的状语 + prevent…from doing
+**原句**：To prevent the oil temperature from becoming excessively high within the cylinder block, the makeup pressure pump forces oil through the center of this block and the pressure relief valve.
+**拆解**：To prevent… 不定式短语置于句首作目的状语；prevent A from doing 中 A 为 the oil temperature，from 后接动名词；主句为 the pump forces oil through…。
+**要点**：prevent/keep/stop…from doing 是固定搭配；目的状语的不定式逻辑主语与主句主语一致。
+
+### ④ 非限制性定语从句
+**原句**：The governor system, which consists of a hydraulic cylinder with a piston, is electrically controlled.
+**拆解**：主语 The governor system；which 引导非限制性定语从句，插入说明其构成；谓语 is electrically controlled 为被动。
+**要点**：非限制性定语从句用逗号隔开，which 不能换成 that；consist of 不用被动语态。
+
+### ⑤ what 引导的名词性从句
+**原句**：When the pump wobble plate is not at an angle, the pumping action is at a minimum and the transmission has what is known as hydraulic lock.
+**拆解**：When 引导时间状语从句；主句由 and 连接两个分句；第二个分句宾语为 what 引导的名词性从句，what 在从句中作主语。
+**要点**：what is known as… 意为“所谓的……”，what 兼作连接词与主语，不能换成 that。
+
+### ⑥ since 原因从句 + 同位语 + 形容词短语后置
+**原句**：Since it is driven by a drive gear in the transmission, the tachometer (often called tach) generator, a three-phase unit, has a voltage proportional to the speed of the output drive.
+**拆解**：Since 引导原因状语从句；主句主语 the tachometer generator 后接同位语 a three-phase unit；谓语 has；宾语 a voltage 后接形容词短语 proportional to… 作后置定语。
+**要点**：同位语用逗号隔开，不影响主谓一致；proportional to 作后置定语时相当于 which is proportional to。

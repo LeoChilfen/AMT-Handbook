@@ -2500,5 +2500,813 @@ window.AMT_CARDS = [
     "file": "11-weight-and-balance-for-large-airplanes.md"
    }
   ]
+ },
+ {
+  "chapter": "general-ch07",
+  "book": "general",
+  "bookEn": "General",
+  "bookZh": "通用",
+  "num": "07",
+  "titleEn": "Aircraft Materials, Hardware, & Processes",
+  "count": 17,
+  "cards": [
+   {
+    "slug": "general-ch07-01",
+    "seq": "01",
+    "title": "Aircraft Metals",
+    "file": "01-aircraft-metals.md"
+   },
+   {
+    "slug": "general-ch07-02",
+    "seq": "02",
+    "title": "Nonmetallic Aircraft Materials",
+    "file": "02-nonmetallic-aircraft-materials.md"
+   },
+   {
+    "slug": "general-ch07-03",
+    "seq": "03",
+    "title": "Seals",
+    "file": "03-seals.md"
+   },
+   {
+    "slug": "general-ch07-04",
+    "seq": "04",
+    "title": "Aircraft Hardware",
+    "file": "04-aircraft-hardware.md"
+   },
+   {
+    "slug": "general-ch07-05",
+    "seq": "05",
+    "title": "Aircraft Nuts",
+    "file": "05-aircraft-nuts.md"
+   },
+   {
+    "slug": "general-ch07-06",
+    "seq": "06",
+    "title": "Aircraft Washers",
+    "file": "06-aircraft-washers.md"
+   },
+   {
+    "slug": "general-ch07-07",
+    "seq": "07",
+    "title": "Installation of Nuts, Washers, & Bolts",
+    "file": "07-installation-of-nuts-washers-and-bolts.md"
+   },
+   {
+    "slug": "general-ch07-08",
+    "seq": "08",
+    "title": "Safetying of Bolts & Nuts",
+    "file": "08-safetying-of-bolts-and-nuts.md"
+   },
+   {
+    "slug": "general-ch07-09",
+    "seq": "09",
+    "title": "Fastener Torque",
+    "file": "09-fastener-torque.md"
+   },
+   {
+    "slug": "general-ch07-10",
+    "seq": "10",
+    "title": "Aircraft Rivets",
+    "file": "10-aircraft-rivets.md"
+   },
+   {
+    "slug": "general-ch07-11",
+    "seq": "11",
+    "title": "Mechanically-Expanded Rivets",
+    "file": "11-mechanically-expanded-rivets.md"
+   },
+   {
+    "slug": "general-ch07-12",
+    "seq": "12",
+    "title": "Screws",
+    "file": "12-screws.md"
+   },
+   {
+    "slug": "general-ch07-13",
+    "seq": "13",
+    "title": "Riveted & Rivetless Nut Plates",
+    "file": "13-riveted-and-rivetless-nut-plates.md"
+   },
+   {
+    "slug": "general-ch07-14",
+    "seq": "14",
+    "title": "Hole Repair & Hole Repair Hardware",
+    "file": "14-hole-repair-and-hole-repair-hardware.md"
+   },
+   {
+    "slug": "general-ch07-15",
+    "seq": "15",
+    "title": "Safetying Methods",
+    "file": "15-safetying-methods.md"
+   },
+   {
+    "slug": "general-ch07-16",
+    "seq": "16",
+    "title": "Safety Wiring",
+    "file": "16-safety-wiring.md"
+   },
+   {
+    "slug": "general-ch07-17",
+    "seq": "17",
+    "title": "General Safety Wiring Rules",
+    "file": "17-general-safety-wiring-rules.md"
+   }
+  ]
+ },
+ {
+  "chapter": "general-ch08",
+  "book": "general",
+  "bookEn": "General",
+  "bookZh": "通用",
+  "num": "08",
+  "titleEn": "Cleaning & Corrosion Control",
+  "count": 21,
+  "cards": [
+   {
+    "slug": "general-ch08-01",
+    "seq": "01",
+    "title": "Corrosion",
+    "file": "01-corrosion.md"
+   },
+   {
+    "slug": "general-ch08-02",
+    "seq": "02",
+    "title": "Preventive Maintenance",
+    "file": "02-preventive-maintenance.md"
+   },
+   {
+    "slug": "general-ch08-03",
+    "seq": "03",
+    "title": "Inspection",
+    "file": "03-inspection.md"
+   },
+   {
+    "slug": "general-ch08-04",
+    "seq": "04",
+    "title": "Corrosion Prone Areas",
+    "file": "04-corrosion-prone-areas.md"
+   },
+   {
+    "slug": "general-ch08-05",
+    "seq": "05",
+    "title": "Corrosion Removal",
+    "file": "05-corrosion-removal.md"
+   },
+   {
+    "slug": "general-ch08-06",
+    "seq": "06",
+    "title": "Corrosion of Ferrous Metals",
+    "file": "06-corrosion-of-ferrous-metals.md"
+   },
+   {
+    "slug": "general-ch08-07",
+    "seq": "07",
+    "title": "Corrosion of Aluminum & Aluminum Alloys",
+    "file": "07-corrosion-of-aluminum-and-aluminum-alloys.md"
+   },
+   {
+    "slug": "general-ch08-08",
+    "seq": "08",
+    "title": "Corrosion of Magnesium Alloys",
+    "file": "08-corrosion-of-magnesium-alloys.md"
+   },
+   {
+    "slug": "general-ch08-09",
+    "seq": "09",
+    "title": "Treatment of Titanium & Titanium Alloys",
+    "file": "09-treatment-of-titanium-and-titanium-alloys.md"
+   },
+   {
+    "slug": "general-ch08-10",
+    "seq": "10",
+    "title": "Protection of Dissimilar Metal Contacts",
+    "file": "10-protection-of-dissimilar-metal-contacts.md"
+   },
+   {
+    "slug": "general-ch08-11",
+    "seq": "11",
+    "title": "Corrosion Limits",
+    "file": "11-corrosion-limits.md"
+   },
+   {
+    "slug": "general-ch08-12",
+    "seq": "12",
+    "title": "Processes & Materials Used in Corrosion Control",
+    "file": "12-processes-and-materials-used-in-corrosion-control.md"
+   },
+   {
+    "slug": "general-ch08-13",
+    "seq": "13",
+    "title": "Chemical Treatments",
+    "file": "13-chemical-treatments.md"
+   },
+   {
+    "slug": "general-ch08-14",
+    "seq": "14",
+    "title": "Protective Paint Finishes",
+    "file": "14-protective-paint-finishes.md"
+   },
+   {
+    "slug": "general-ch08-15",
+    "seq": "15",
+    "title": "Aircraft Cleaning",
+    "file": "15-aircraft-cleaning.md"
+   },
+   {
+    "slug": "general-ch08-16",
+    "seq": "16",
+    "title": "Powerplant Cleaning",
+    "file": "16-powerplant-cleaning.md"
+   },
+   {
+    "slug": "general-ch08-17",
+    "seq": "17",
+    "title": "Solvent Cleaners",
+    "file": "17-solvent-cleaners.md"
+   },
+   {
+    "slug": "general-ch08-18",
+    "seq": "18",
+    "title": "Emulsion Cleaners",
+    "file": "18-emulsion-cleaners.md"
+   },
+   {
+    "slug": "general-ch08-19",
+    "seq": "19",
+    "title": "Soaps & Detergent Cleaners",
+    "file": "19-soaps-and-detergent-cleaners.md"
+   },
+   {
+    "slug": "general-ch08-20",
+    "seq": "20",
+    "title": "Mechanical Cleaning Materials",
+    "file": "20-mechanical-cleaning-materials.md"
+   },
+   {
+    "slug": "general-ch08-21",
+    "seq": "21",
+    "title": "Chemical Cleaners",
+    "file": "21-chemical-cleaners.md"
+   }
+  ]
+ },
+ {
+  "chapter": "general-ch09",
+  "book": "general",
+  "bookEn": "General",
+  "bookZh": "通用",
+  "num": "09",
+  "titleEn": "Fluid Lines & Fittings",
+  "count": 3,
+  "cards": [
+   {
+    "slug": "general-ch09-01",
+    "seq": "01",
+    "title": "Introduction",
+    "file": "01-introduction.md"
+   },
+   {
+    "slug": "general-ch09-02",
+    "seq": "02",
+    "title": "Rigid Fluid Lines",
+    "file": "02-rigid-fluid-lines.md"
+   },
+   {
+    "slug": "general-ch09-03",
+    "seq": "03",
+    "title": "Flexible Hose Fluid Lines",
+    "file": "03-flexible-hose-fluid-lines.md"
+   }
+  ]
+ },
+ {
+  "chapter": "general-ch10",
+  "book": "general",
+  "bookEn": "General",
+  "bookZh": "通用",
+  "num": "10",
+  "titleEn": "Inspection Concepts & Techniques",
+  "count": 12,
+  "cards": [
+   {
+    "slug": "general-ch10-01",
+    "seq": "01",
+    "title": "Basic Inspection",
+    "file": "01-basic-inspection.md"
+   },
+   {
+    "slug": "general-ch10-02",
+    "seq": "02",
+    "title": "Aircraft Logs",
+    "file": "02-aircraft-logs.md"
+   },
+   {
+    "slug": "general-ch10-03",
+    "seq": "03",
+    "title": "Checklists",
+    "file": "03-checklists.md"
+   },
+   {
+    "slug": "general-ch10-04",
+    "seq": "04",
+    "title": "Publications",
+    "file": "04-publications.md"
+   },
+   {
+    "slug": "general-ch10-05",
+    "seq": "05",
+    "title": "Routine/Required Inspections",
+    "file": "05-routine-required-inspections.md"
+   },
+   {
+    "slug": "general-ch10-06",
+    "seq": "06",
+    "title": "Air Transport Association iSpec 2200",
+    "file": "06-air-transport-association-ispec-2200.md"
+   },
+   {
+    "slug": "general-ch10-07",
+    "seq": "07",
+    "title": "Special Inspections",
+    "file": "07-special-inspections.md"
+   },
+   {
+    "slug": "general-ch10-08",
+    "seq": "08",
+    "title": "Special Flight Permits",
+    "file": "08-special-flight-permits.md"
+   },
+   {
+    "slug": "general-ch10-09",
+    "seq": "09",
+    "title": "Nondestructive Inspection/Testing",
+    "file": "09-nondestructive-inspection-testing.md"
+   },
+   {
+    "slug": "general-ch10-10",
+    "seq": "10",
+    "title": "Inspection of Bonded Structures",
+    "file": "10-inspection-of-bonded-structures.md"
+   },
+   {
+    "slug": "general-ch10-11",
+    "seq": "11",
+    "title": "Inspection of Composites",
+    "file": "11-inspection-of-composites.md"
+   },
+   {
+    "slug": "general-ch10-12",
+    "seq": "12",
+    "title": "Inspection of Welds",
+    "file": "12-inspection-of-welds.md"
+   }
+  ]
+ },
+ {
+  "chapter": "general-ch11",
+  "book": "general",
+  "bookEn": "General",
+  "bookZh": "通用",
+  "num": "11",
+  "titleEn": "Hand Tools & Measuring Devices",
+  "count": 4,
+  "cards": [
+   {
+    "slug": "general-ch11-01",
+    "seq": "01",
+    "title": "General Purpose Tools",
+    "file": "01-general-purpose-tools.md"
+   },
+   {
+    "slug": "general-ch11-02",
+    "seq": "02",
+    "title": "Metal Cutting Tools",
+    "file": "02-metal-cutting-tools.md"
+   },
+   {
+    "slug": "general-ch11-03",
+    "seq": "03",
+    "title": "Taps and Dies",
+    "file": "03-taps-and-dies.md"
+   },
+   {
+    "slug": "general-ch11-04",
+    "seq": "04",
+    "title": "Layout and Measuring Tools",
+    "file": "04-layout-and-measuring-tools.md"
+   }
+  ]
+ },
+ {
+  "chapter": "general-ch12",
+  "book": "general",
+  "bookEn": "General",
+  "bookZh": "通用",
+  "num": "12",
+  "titleEn": "Fundamentals of Electricity & Electronics",
+  "count": 51,
+  "cards": [
+   {
+    "slug": "general-ch12-01",
+    "seq": "01",
+    "title": "Introduction",
+    "file": "01-introduction.md"
+   },
+   {
+    "slug": "general-ch12-02",
+    "seq": "02",
+    "title": "General Composition of Matter",
+    "file": "02-general-composition-of-matter.md"
+   },
+   {
+    "slug": "general-ch12-03",
+    "seq": "03",
+    "title": "Metric Based Prefixes Used for Electrical Calculations",
+    "file": "03-metric-based-prefixes-used-for-electrical-calculations.md"
+   },
+   {
+    "slug": "general-ch12-04",
+    "seq": "04",
+    "title": "Static Electricity",
+    "file": "04-static-electricity.md"
+   },
+   {
+    "slug": "general-ch12-05",
+    "seq": "05",
+    "title": "Magnetism",
+    "file": "05-magnetism.md"
+   },
+   {
+    "slug": "general-ch12-06",
+    "seq": "06",
+    "title": "Types of Magnets",
+    "file": "06-types-of-magnets.md"
+   },
+   {
+    "slug": "general-ch12-07",
+    "seq": "07",
+    "title": "Electromagnetism",
+    "file": "07-electromagnetism.md"
+   },
+   {
+    "slug": "general-ch12-08",
+    "seq": "08",
+    "title": "Conventional Flow & Electron Flow",
+    "file": "08-conventional-flow-and-electron-flow.md"
+   },
+   {
+    "slug": "general-ch12-09",
+    "seq": "09",
+    "title": "Electromotive Force (Voltage)",
+    "file": "09-electromotive-force-voltage.md"
+   },
+   {
+    "slug": "general-ch12-10",
+    "seq": "10",
+    "title": "Current",
+    "file": "10-current.md"
+   },
+   {
+    "slug": "general-ch12-11",
+    "seq": "11",
+    "title": "Ohm’s Law (Resistance)",
+    "file": "11-ohm-s-law-resistance.md"
+   },
+   {
+    "slug": "general-ch12-12",
+    "seq": "12",
+    "title": "Resistance of a Conductor",
+    "file": "12-resistance-of-a-conductor.md"
+   },
+   {
+    "slug": "general-ch12-13",
+    "seq": "13",
+    "title": "Power and Energy",
+    "file": "13-power-and-energy.md"
+   },
+   {
+    "slug": "general-ch12-14",
+    "seq": "14",
+    "title": "Types of Resistors",
+    "file": "14-types-of-resistors.md"
+   },
+   {
+    "slug": "general-ch12-15",
+    "seq": "15",
+    "title": "Circuit Protection Devices",
+    "file": "15-circuit-protection-devices.md"
+   },
+   {
+    "slug": "general-ch12-16",
+    "seq": "16",
+    "title": "Series DC Circuits",
+    "file": "16-series-dc-circuits.md"
+   },
+   {
+    "slug": "general-ch12-17",
+    "seq": "17",
+    "title": "Parallel DC Circuits",
+    "file": "17-parallel-dc-circuits.md"
+   },
+   {
+    "slug": "general-ch12-18",
+    "seq": "18",
+    "title": "Series-Parallel DC Circuits",
+    "file": "18-series-parallel-dc-circuits.md"
+   },
+   {
+    "slug": "general-ch12-19",
+    "seq": "19",
+    "title": "Alternating Current (AC) & Voltage",
+    "file": "19-alternating-current-ac-and-voltage.md"
+   },
+   {
+    "slug": "general-ch12-20",
+    "seq": "20",
+    "title": "Generator Principles",
+    "file": "20-generator-principles.md"
+   },
+   {
+    "slug": "general-ch12-21",
+    "seq": "21",
+    "title": "Capacitance",
+    "file": "21-capacitance.md"
+   },
+   {
+    "slug": "general-ch12-22",
+    "seq": "22",
+    "title": "Inductance",
+    "file": "22-inductance.md"
+   },
+   {
+    "slug": "general-ch12-23",
+    "seq": "23",
+    "title": "AC Circuits",
+    "file": "23-ac-circuits.md"
+   },
+   {
+    "slug": "general-ch12-24",
+    "seq": "24",
+    "title": "DC Measuring Instruments",
+    "file": "24-dc-measuring-instruments.md"
+   },
+   {
+    "slug": "general-ch12-25",
+    "seq": "25",
+    "title": "The Voltmeter",
+    "file": "25-the-voltmeter.md"
+   },
+   {
+    "slug": "general-ch12-26",
+    "seq": "26",
+    "title": "The Ohmmeter",
+    "file": "26-the-ohmmeter.md"
+   },
+   {
+    "slug": "general-ch12-27",
+    "seq": "27",
+    "title": "AC Measuring Instruments",
+    "file": "27-ac-measuring-instruments.md"
+   },
+   {
+    "slug": "general-ch12-28",
+    "seq": "28",
+    "title": "Basic Circuit Analysis & Troubleshooting",
+    "file": "28-basic-circuit-analysis-and-troubleshooting.md"
+   },
+   {
+    "slug": "general-ch12-29",
+    "seq": "29",
+    "title": "Batteries",
+    "file": "29-batteries.md"
+   },
+   {
+    "slug": "general-ch12-30",
+    "seq": "30",
+    "title": "Nickel-Cadmium Batteries",
+    "file": "30-nickel-cadmium-batteries.md"
+   },
+   {
+    "slug": "general-ch12-31",
+    "seq": "31",
+    "title": "Lithium-Ion Batteries",
+    "file": "31-lithium-ion-batteries.md"
+   },
+   {
+    "slug": "general-ch12-32",
+    "seq": "32",
+    "title": "Inverters",
+    "file": "32-inverters.md"
+   },
+   {
+    "slug": "general-ch12-33",
+    "seq": "33",
+    "title": "Semiconductors",
+    "file": "33-semiconductors.md"
+   },
+   {
+    "slug": "general-ch12-34",
+    "seq": "34",
+    "title": "Rectifiers",
+    "file": "34-rectifiers.md"
+   },
+   {
+    "slug": "general-ch12-35",
+    "seq": "35",
+    "title": "Introduction to Transistors",
+    "file": "35-introduction-to-transistors.md"
+   },
+   {
+    "slug": "general-ch12-36",
+    "seq": "36",
+    "title": "Vacuum Tubes",
+    "file": "36-vacuum-tubes.md"
+   },
+   {
+    "slug": "general-ch12-37",
+    "seq": "37",
+    "title": "Filtering",
+    "file": "37-filtering.md"
+   },
+   {
+    "slug": "general-ch12-38",
+    "seq": "38",
+    "title": "Amplifier Circuits",
+    "file": "38-amplifier-circuits.md"
+   },
+   {
+    "slug": "general-ch12-39",
+    "seq": "39",
+    "title": "Magnetic Amplifiers",
+    "file": "39-magnetic-amplifiers.md"
+   },
+   {
+    "slug": "general-ch12-40",
+    "seq": "40",
+    "title": "Logic Circuits",
+    "file": "40-logic-circuits.md"
+   },
+   {
+    "slug": "general-ch12-41",
+    "seq": "41",
+    "title": "DC Generators",
+    "file": "41-dc-generators.md"
+   },
+   {
+    "slug": "general-ch12-42",
+    "seq": "42",
+    "title": "DC Generator Maintenance",
+    "file": "42-dc-generator-maintenance.md"
+   },
+   {
+    "slug": "general-ch12-43",
+    "seq": "43",
+    "title": "DC Motor Construction",
+    "file": "43-dc-motor-construction.md"
+   },
+   {
+    "slug": "general-ch12-44",
+    "seq": "44",
+    "title": "Types of DC Motors",
+    "file": "44-types-of-dc-motors.md"
+   },
+   {
+    "slug": "general-ch12-45",
+    "seq": "45",
+    "title": "Counter Electromotive Force (emf)",
+    "file": "45-counter-electromotive-force-emf.md"
+   },
+   {
+    "slug": "general-ch12-46",
+    "seq": "46",
+    "title": "AC Motors",
+    "file": "46-ac-motors.md"
+   },
+   {
+    "slug": "general-ch12-47",
+    "seq": "47",
+    "title": "Alternators",
+    "file": "47-alternators.md"
+   },
+   {
+    "slug": "general-ch12-48",
+    "seq": "48",
+    "title": "Generator Control Units (GCU)",
+    "file": "48-generator-control-units-gcu.md"
+   },
+   {
+    "slug": "general-ch12-49",
+    "seq": "49",
+    "title": "Alternator Constant Speed Drive System",
+    "file": "49-alternator-constant-speed-drive-system.md"
+   },
+   {
+    "slug": "general-ch12-50",
+    "seq": "50",
+    "title": "Hydraulic Transmission",
+    "file": "50-hydraulic-transmission.md"
+   },
+   {
+    "slug": "general-ch12-51",
+    "seq": "51",
+    "title": "Voltage Regulation of Alternators",
+    "file": "51-voltage-regulation-of-alternators.md"
+   }
+  ]
+ },
+ {
+  "chapter": "general-ch13",
+  "book": "general",
+  "bookEn": "General",
+  "bookZh": "通用",
+  "num": "13",
+  "titleEn": "Mechanic Privileges & Limitations",
+  "count": 5,
+  "cards": [
+   {
+    "slug": "general-ch13-01",
+    "seq": "01",
+    "title": "Introduction",
+    "file": "01-introduction.md"
+   },
+   {
+    "slug": "general-ch13-02",
+    "seq": "02",
+    "title": "Mechanic Certification: Subpart A—General (by 14 CFR Section)",
+    "file": "02-mechanic-certification-subpart-a-general-by-14-cfr-section.md"
+   },
+   {
+    "slug": "general-ch13-03",
+    "seq": "03",
+    "title": "Mechanic Certification: Subpart D—Mechanics (by 14 CFR Section)",
+    "file": "03-mechanic-certification-subpart-d-mechanics-by-14-cfr-section.md"
+   },
+   {
+    "slug": "general-ch13-04",
+    "seq": "04",
+    "title": "Inspection Authorization (IA) (by 14 CFR Section)",
+    "file": "04-inspection-authorization-ia-by-14-cfr-section.md"
+   },
+   {
+    "slug": "general-ch13-05",
+    "seq": "05",
+    "title": "Ethics",
+    "file": "05-ethics.md"
+   }
+  ]
+ },
+ {
+  "chapter": "general-ch14",
+  "book": "general",
+  "bookEn": "General",
+  "bookZh": "通用",
+  "num": "14",
+  "titleEn": "Human Factors",
+  "count": 7,
+  "cards": [
+   {
+    "slug": "general-ch14-01",
+    "seq": "01",
+    "title": "Introduction",
+    "file": "01-introduction.md"
+   },
+   {
+    "slug": "general-ch14-02",
+    "seq": "02",
+    "title": "What are Human Factors?",
+    "file": "02-what-are-human-factors.md"
+   },
+   {
+    "slug": "general-ch14-03",
+    "seq": "03",
+    "title": "History of Human Factors",
+    "file": "03-history-of-human-factors.md"
+   },
+   {
+    "slug": "general-ch14-04",
+    "seq": "04",
+    "title": "The Pear Model",
+    "file": "04-the-pear-model.md"
+   },
+   {
+    "slug": "general-ch14-05",
+    "seq": "05",
+    "title": "Human Error",
+    "file": "05-human-error.md"
+   },
+   {
+    "slug": "general-ch14-06",
+    "seq": "06",
+    "title": "The “Dirty Dozen”",
+    "file": "06-the-dirty-dozen.md"
+   },
+   {
+    "slug": "general-ch14-07",
+    "seq": "07",
+    "title": "Where to Get Information",
+    "file": "07-where-to-get-information.md"
+   }
+  ]
  }
 ];

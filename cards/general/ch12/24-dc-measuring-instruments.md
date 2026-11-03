@@ -4,7 +4,7 @@
 
 ## 1. 原文
 
-Understanding the functional design and operation of electrical measuring instruments is very important, since they are used in repairing, maintaining, and troubleshooting electrical circuits. The best and most expensive measuring instrument is of no use unless the technician knows what is Red Red Red - Yellow Yellow Black Iron core High-voltage winding 5-volt winding 6-volt winding Secondary windings Black Primary Yellow Green Green Green - Yellow Yellow - Blue 1 2 Input Output 3 Primary 1–2 1–2 1–3 1–3 2–3 2–3 used with “ ”
+Understanding the functional design and operation of electrical measuring instruments is very important, since they are used in repairing, maintaining, and troubleshooting electrical circuits. The best and most expensive measuring instrument is of no use unless the technician knows what is
 
 Secondary 1–3 2–3 1–2 2–3 1–3 1–2 A B transformer.
 
@@ -20,7 +20,7 @@ This basic DC type of meter movement—first employed by the French scientist, d
 
 The current sensitivity of a meter movement is the amount of current required to drive the meter movement to a full-scale deflection. A simple example would be a meter movement that has 1 mA sensitivity. What this indicates is that meter movement requires 1 mA of current to move the needle to a full-scale indication. Likewise, a half-scale deflection requires only 0.5 mA of current. Additionally, what is called movement resistance is the actual DC resistance of the wire used to construct the meter coil.
 
-In a standard d’Arsonval meter, movement may have a current sensitivity of 1 mA and a resistance of 50 Ω. If the meter is going to be used to measure more than 1 mA, then additional circuitry is required to accomplish the task. This additional circuitry is a simple shunt resistor. The purpose of the shunt resistor is to bypass current that exceeds the 1 mA limitation of the meter movement. To illustrate this, assume that the 1 mA meter in question is needed to measure 10 mA. The shunt resistor used should carry 9 mA while the remaining 1 mA is allowed to pass through the meter. [Figure 12-149]
+In a standard d’Arsonval meter, movement may have a current sensitivity of 1 mA and a resistance of 50 Ω. If the meter is going to be used to measure more than 1 mA, then additional circuitry is required to accomplish the task. This additional circuitry is a simple shunt resistor. The purpose of the shunt resistor is to bypass current that exceeds the 1 mA limitation of the meter movement. To illustrate this, assume that the 1 mA meter in question is needed to measure 10 mA. The shunt resistor used should carry 9 mA while the remaining 1 mA is allowed to pass through the meter.
 
 To determine the proper shunt resistance for this situation: R SH = Shunt resistance R M = Meter resistance = 50 Ω Because the shunt resistance and the 50 Ω meter resistance are in parallel, the voltage drop across both of them is the same.
 
@@ -36,13 +36,13 @@ A common method of damping by electrical means is to wind the moving coil on an 
 
 ### Mechanical Damping
 
-Air damping is a common method of damping by mechanical means. As shown in Figure 12-150, a vane is attached to the shaft of the moving element and enclosed in an air chamber. The movement of the shaft is retarded because of the resistance that the air offers to the vane. Effective damping is achieved if the vane nearly touches the walls of the chamber.
+Air damping is a common method of damping by mechanical means. As shown in the figure, a vane is attached to the shaft of the moving element and enclosed in an air chamber. The movement of the shaft is retarded because of the resistance that the air offers to the vane. Effective damping is achieved if the vane nearly touches the walls of the chamber.
 
 ### A Basic Multirange Ammeter
 
 Building upon the basic meter previously discussed is the more complex and useful multirange meter, which is more practical. The basic idea of a multirange ammeter is to make the meter usable over a wide range of voltages. In order to accomplish this, each range must utilize a different shunt resistance. The example given in this handbook is that of a two-range meter. However, once the basics of a two-range multirange ammeter are understood, the concepts can easily be transferred to the design of meters with many selectable ranges.
 
-Figure 12-151 shows the schematic of an ammeter with two selectable ranges. This example builds upon the previous 10 mA range meter by adding a 100 mA range. With the switch selected to the 10 mA range, the meter indicates 10 mA when the needle is deflected to full-scale and likewise indicates 100 mA at full-scale when selected to 100 mA. The value of the 100 mA shunt resistor is determined the same way the 10 mA shunt resistor was determined. Recall that the meter movement can only carry 1 mA. This means that in a 100 mA range the remaining current of 99 mA must pass through the shunt resistor.
+The figure shows the schematic of an ammeter with two selectable ranges. This example builds upon the previous 10 mA range meter by adding a 100 mA range. With the switch selected to the 10 mA range, the meter indicates 10 mA when the needle is deflected to full-scale and likewise indicates 100 mA at full-scale when selected to 100 mA. The value of the 100 mA shunt resistor is determined the same way the 10 mA shunt resistor was determined. Recall that the meter movement can only carry 1 mA. This means that in a 100 mA range the remaining current of 99 mA must pass through the shunt resistor.
 
 RSH = IM × RMISH Substituting the values:
 
@@ -50,7 +50,7 @@ RSH = = 0.51 ΩImA × 50 Ω99 mA
 
 The precautions to observe when using an ammeter are summarized as follows:
 
-1. Always connect ammeter in series with the element Meter movement [+] [−]
+1. Always connect ammeter in series with the element
 
 RSH ISH IMM Meter movement Basic ammeter [+] [−]
 
@@ -64,26 +64,104 @@ RSH ISH 1 mA 10 mA 9 mA through which the current flow is to be measured.
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（29 段）。专业术语按行业惯例，数字与缩写保留。 -->
+理解电气测量仪的功能设计与操作十分重要，因为它们在电气电路的修理、维护和故障排除中都要用到。最优质、最昂贵的测量仪表也毫无用处，除非技术人员知道
+
+（原文此处为图注碎片，原文无正文）
+
+所测的是什么量，以及每个读数分别表示什么。仪表的作用是测量电路中存在的各种量。因此，当仪表接入电路时，不得改变该电路的特性。
+
+仪表有自励式和外励式两类。自励式仪表依靠仪表内部的电源工作。外励式仪表的电源取自其所接入的电路。当今最常用的模拟式仪表是电压表、电流表和欧姆表，它们都依据电磁学原理工作。仪表工作的基本原理，是由按某种方式从电路取得的电流所建立的磁场之间的相互作用。这种相互作用发生在永久磁铁的磁场与旋转磁铁的线圈之间。流过旋转磁铁线圈的电流越大，产生的磁场越强。磁场越强，线圈的转动越大。虽然有些仪表既能测量直流也能测量交流，但本节只讨论用作直流仪表的那些。用于交流、或同时用于交流和直流的仪表，在交流理论与电路的学习中讨论。
+
+### 达松瓦尔表头机构
+
+这种基本的直流式表头机构——最早由法国科学家达松瓦尔用于进行电气测量——是一种电流测量装置，用于电流表、电压表和欧姆表。指针的偏转量与通过线圈的电流大小成正比。基本上，电流表和电压表都是电流测量仪器，主要区别在于它们接入电路的方式。欧姆表基本上也是一种电流测量仪器，但它与电流表、电压表的不同之处在于，它自带电源（自励式），并含有其他辅助电路。
+
+### 电流灵敏度与电阻
+
+表头机构的电流灵敏度，是驱动表头达到满刻度偏转所需的电流量。一个简单的例子是电流灵敏度为 1 mA 的表头。这说明该表头需要 1 mA 的电流才能使指针达到满刻度指示。同样，半刻度偏转只需要 0.5 mA 的电流。此外，所谓机构电阻，是指绕制仪表线圈所用导线的实际直流电阻。
+
+在标准达松瓦尔仪表中，机构可能具有 1 mA 的电流灵敏度和 50 Ω 的电阻。如果要用该仪表测量大于 1 mA 的电流，就需要附加电路来完成这一任务。这种附加电路就是一个简单的分流电阻。分流电阻的作用是旁路掉超过表头 1 mA 限值的电流。为说明这一点，假设上述 1 mA 仪表需要测量 10 mA。所用分流电阻应承载 9 mA，而让其余 1 mA 通过仪表。
+
+要确定适用于这种情况的分流电阻：R SH = 分流电阻　R M = 仪表电阻 = 50 Ω　由于分流电阻与 50 Ω 的仪表电阻并联，二者两端的电压降相同。
+
+E SH = EM　利用欧姆定律，这一关系可改写为：
+
+E SH = ISH × RSH　E M = IM × RM　I SH × RSH = IM × RM　只需解出 RSH　RSH = IM × RM/ISH　代入数值　RSH = (1 mA × 50 Ω)/9 mA = 5.56 Ω
+
+为使仪表读数迅速而准确，希望运动指针超出其正确位置的幅度很小，并在不超过一两次小幅摆动之后就停下来。「阻尼」一词用于指使电气仪表的指针在运动起来之后停下来的各种方法。阻尼可以用电气方法、机械方法或二者的组合来实现。
+
+### 电气阻尼
+
+一种常见的电气阻尼方法，是把动圈绕在铝制框架上。当线圈在永久磁铁的磁场中运动时，铝框架中会产生涡流。涡流产生的磁场阻碍线圈的运动。因此指针较缓慢地摆向正确位置，并很快停下来，摆动很小。
+
+### 机械阻尼
+
+空气阻尼是一种常见的机械阻尼方法。如图所示，一个翼片固定在运动元件的轴上，并封装在一个空气室内。由于空气对翼片产生阻力，轴的运动受到阻滞。如果翼片几乎贴到空气室壁，就能获得有效的阻尼。
+
+### 基本的多量程电流表
+
+在前面所讨论的基本仪表基础上，发展出更复杂、更有用的多量程仪表，它们更为实用。多量程电流表的基本思路是使仪表能在很宽的电压范围内使用。为做到这一点，每个量程必须采用不同的分流电阻。本手册所举的例子是一块两量程仪表。不过，一旦理解了两量程多量程电流表的基本原理，这些概念就可以很容易地推广到具有多个可选量程的仪表设计中。
+
+图中示出了一块具有两个可选量程的电流表的电路图。本例在先前 10 mA 量程仪表的基础上增加了一个 100 mA 量程。当开关选在 10 mA 量程时，指针满刻度偏转即表示 10 mA；同样，当选在 100 mA 量程时，满刻度表示 100 mA。100 mA 分流电阻的阻值，用与确定 10 mA 分流电阻相同的方法确定。回想一下，表头只能承载 1 mA。这意味着在 100 mA 量程中，其余 99 mA 的电流必须通过分流电阻。
+
+RSH = IM × RM/ISH　代入数值：
+
+RSH = (1 mA × 50 Ω)/99 mA = 0.51 Ω
+
+使用电流表时应注意的预防事项归纳如下：
+
+1. 始终将电流表与被测元件串联。
+
+（原文此处为图注碎片，原文无正文）
+
+即待测电流所要流过的那个元件。
+
+2. 绝不能把电流表跨接在电压源（如电池或发电机）两端。要记住，电流表的电阻极低，在高量程时尤其如此；任何电压，哪怕只有一伏左右，都会使很大的电流通过仪表，从而造成损坏。
+
+3. 应选用足够大的量程，使偏转保持在满刻度以下。测量电流之前，先对它的大小有个概念。然后切换到足够大的刻度，或从最高量程开始逐步下调，直到调至合适的刻度。最准确的读数在约半刻度偏转时获得。许多毫安表就是因为试图去测量安培电流而被毁坏的。因此，接线前一定要看清表盘上或开关位置上的标识，选好合适的量程。
+
+4. 接入电路时注意仪表的正确极性。电流必须以一定的方向通过线圈，才能使指示指针向上偏转。因电路接线错误而导致电流反向，会使仪表反向偏转，并常常使表针弯曲。注意仪表上的极性标记，以避免接线错误。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Ammeter —— An instrument for measuring electric current in amperes.
-- Current —— The flow of electrical charge.
-- Difference —— The answer to a subtraction problem.
-- Ohm’s Law —— Explains the relationship between voltage, current, and resistance in an electrical circuit, and states that current flow in an electrical circuit is directly p
-- Ohmmeter —— A current measuring instrument that provides its own source (self-excited) of power.
-- Power (exponent) —— A shorthand method of indicating how many times a number, called the base, is multiplied by itself. For example, in the number 43, 3 is the power, or exponent, 
-- Power —— Power is the time rate at which work is done or energy is transferred.
-- Proportion —— A proportion is a statement of equality between two or more ratios. The example of A is to B as C is to D can be represented A:B = C:D or A/B = C/D.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| meter movement | n.phr. | 表头机构 | 仪表中随电流偏转的可动部分，含线圈、指针和游丝 |
+| current sensitivity | n.phr. | 电流灵敏度 | 使表头达到满刻度偏转所需的电流，如 1 mA |
+| movement resistance | n.phr. | 机构电阻 | 绕制仪表线圈所用导线的实际直流电阻，如 50 Ω |
+| shunt resistor | n.phr. | 分流电阻 | 与表头并联、用于旁路超出量程的那部分电流的电阻 |
+| full-scale deflection | n.phr. | 满刻度偏转 | 指针偏转到刻度的最大位置，对应仪表量程上限 |
+| damping | n. | 阻尼 | 使运动后的指针迅速停止摆动的电气或机械方法 |
+| eddy current | n.phr. | 涡流 | 线圈在永久磁铁磁场中运动时在铝框架内感生的电流 |
+| multirange ammeter | n.phr. | 多量程电流表 | 通过切换不同分流电阻而具有多个量程的电流表 |
+| self-excited | adj. | 自励式的 | 由仪表内部电源供电工作的（与之相对为外励式） |
+| externally excited | adj. | 外励式的 | 电源取自仪表所接入电路的 |
+| polarity | n. | 极性 | 接线时正负端的对应关系，接反会使指针反向偏转 |
+| milliammeter | n. | 毫安表 | 以毫安为量程单位的电流表，误通大电流易被烧毁 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① 动名词短语作主语 + since 原因状语从句
+**原句**：Understanding the functional design and operation of electrical measuring instruments is very important, since they are used in repairing, maintaining, and troubleshooting electrical circuits.
+**拆解**：动名词短语 Understanding the functional design and operation of electrical measuring instruments 作主语，谓语 is，表语 very important；since 引导原因状语从句，从句为被动语态 are used in…，后面接三个并列动名词 repairing、maintaining、troubleshooting 作介词 in 的宾语。
+**要点**：动名词短语作主语时谓语用单数 is；since 在此表原因，可换成 because，但不能换成 for；be used in + 动名词表示「用于做某事」，区别于 be used to do。
+
+### ② when 引导的时间状语从句 + must 否定 + 被动
+**原句**：For this reason, when a meter is connected to a circuit, it must not change the characteristics of that circuit.
+**拆解**：For this reason 为介词短语作状语；when 引导时间状语从句，从句为被动 is connected to a circuit；主句主语 it（指 the meter），谓语 must not change，宾语 the characteristics of that circuit。
+**要点**：must not 表示「禁止、不得」，与 need not（不必）区分明显；时间状语从句常用一般现在时表示将来；characteristics 作「特性」解时常用复数。
+
+### ③ that 引导的定语从句 + 介词 from 引导的来源状语
+**原句**：Those that are self-excited operate from a power source within the meter.
+**拆解**：主句主语 Those，that 引导定语从句 are self-excited 修饰 those；谓语 operate，from a power source 为来源状语，within the meter 为后置定语修饰 a power source。
+**要点**：those 作先行词时用 that/who 引导定语从句，指物也可用 which；operate from 表示「由……供电/驱动」，区别于 operate on（依据……工作）；within 比 in 更强调「在内部范围之内」。
+
+### ④ 过去分词短语作后置定语 + required to do
+**原句**：The current sensitivity of a meter movement is the amount of current required to drive the meter movement to a full-scale deflection.
+**拆解**：主语 The current sensitivity of a meter movement，谓语 is，表语 the amount of current；required to drive… 为过去分词短语作后置定语修饰 current，其中 to drive… 为目的状语。
+**要点**：the amount of + 不可数名词，谓语用单数；required to do 意为「为做……所需的」，是过去分词被动含义；drive…to… 表示「把……驱动到……程度」。
+
+### ⑤ While 引导的让步状语从句 + in that 引导的原因从句
+**原句**：While an ohmmeter is also basically a current measuring instrument, it differs from the ammeter and voltmeter in that it provides its own source (self-excited) of power and contains other auxiliary circuits.
+**拆解**：While 引导让步状语从句；主句 it differs from the ammeter and voltmeter；in that 引导原因状语从句，从句中 provides 与 contains 为并列谓语，宾语分别为 its own source (self-excited) of power 和 other auxiliary circuits。
+**要点**：句首 While 表「虽然」，与 although 相近，不能用 but 呼应；differ from A in that… 是「与 A 的不同之处在于……」的固定句型；in that 是复合连词，不能拆成介词 in + that 从句理解。

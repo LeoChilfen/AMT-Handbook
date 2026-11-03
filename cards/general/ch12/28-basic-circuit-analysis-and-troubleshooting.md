@@ -24,7 +24,7 @@ Horizontal deflection plates (h)Screen Beam on center (0) volts (−) volts Elec
 
 ### Voltage Measurement
 
-V oltage is measured across a component with a voltmeter or the voltmeter position on a multimeter. Usually, there is a DC and an AC selection on the meter. Before the meter is used for measurements, make sure that the meter is selected for the correct type of voltage. When placing the probes across a component to take a measurement, take care to ensure that the polarity is correct. [Figure 12-170] Standard practice is for the red meter lead to be installed in the positive (+) jack and the black meter lead to be installed in the negative meter jack (−). Then when placing the probes across or in parallel with a component to measure the voltage, the leads should match the polarity of the component. The red lead is on the positive Applied Applied (0) volts (+) volts Horizontal deflection plates (h)
+V oltage is measured across a component with a voltmeter or the voltmeter position on a multimeter. Usually, there is a DC and an AC selection on the meter. Before the meter is used for measurements, make sure that the meter is selected for the correct type of voltage. When placing the probes across a component to take a measurement, take care to ensure that the polarity is correct. Standard practice is for the red meter lead to be installed in the positive (+) jack and the black meter lead to be installed in the negative meter jack (−). Then when placing the probes across or in parallel with a component to measure the voltage, the leads should match the polarity of the component. The red lead is on the positive Applied Applied (0) volts (+) volts Horizontal deflection plates (h)
 
 (−) volts Vertical deflection plates (v)
 
@@ -34,17 +34,17 @@ All meters have some resistance and will shunt some of the current. This has the
 
 ### Current Measurement
 
-Current is measured with the ammeter connected in the current path by opening or breaking the circuit and inserting the meter in series. [Figure 12-170] Standard practice is for the red meter lead to be installed in the positive (+) jack and the black meter lead to be installed in the negative meter jack (−). The positive side of the meter is connected towards the positive voltage source. Ideally, the meter should not alter the current and influence the circuit and the measurements. However, the meter does have some effect because of its internal resistance that is connected with the rest of the circuit in series. The resistance is rather small and for most practical purposes, this can be neglected.
+Current is measured with the ammeter connected in the current path by opening or breaking the circuit and inserting the meter in series. Standard practice is for the red meter lead to be installed in the positive (+) jack and the black meter lead to be installed in the negative meter jack (−). The positive side of the meter is connected towards the positive voltage source. Ideally, the meter should not alter the current and influence the circuit and the measurements. However, the meter does have some effect because of its internal resistance that is connected with the rest of the circuit in series. The resistance is rather small and for most practical purposes, this can be neglected.
 
 ### Checking Resistance in a Circuit
 
 The ohmmeter is used to measure the resistance. In its more basic form, the ohmmeter consists of a variable resistor in series with a meter movement and a voltage source. The meter must first be adjusted before use.
 
-Refer to Figure 12-171 for meter configurations during adjustments. When the meter leads are not connected (open), the needle points to the full left-hand position, indicating infinite resistance or and open circuit. With the lead placed together, the circuit is shorted as shown with the meter needle to the full right-hand position. When a connection is made, the internal battery is allowed to produce a current through the movement coil, causing a deflection of the needle in proportion to the value of the external resistance. In this case, the resistance is zero because the leads are shorted.
+When the meter leads are not connected (open), the needle points to the full left-hand position, indicating infinite resistance or and open circuit. With the lead placed together, the circuit is shorted as shown with the meter needle to the full right-hand position. When a connection is made, the internal battery is allowed to produce a current through the movement coil, causing a deflection of the needle in proportion to the value of the external resistance. In this case, the resistance is zero because the leads are shorted.
 
 The purpose of the variable resistor in the meter is to adjust the current so that the pointer reads exactly zero when the leads are shorted. This is needed because as the battery continues to be used, the voltage changes, thus requiring an adjustment. The meter should be “zeroed” before each use.
 
-To check the value of a resistor, the resistor must be disconnected from the circuit. This prevents any possible damage to the ohmmeter, and it prevents the possibility of any inaccurate readings due to the circuit being in parallel with the resistor in question. [Figure 12-172]
+To check the value of a resistor, the resistor must be disconnected from the circuit. This prevents any possible damage to the ohmmeter, and it prevents the possibility of any inaccurate readings due to the circuit being in parallel with the resistor in question.
 
 ### Continuity Checks
 
@@ -52,9 +52,9 @@ In many cases, the ohmmeter is not used for measuring the resistance of a compon
 
 ### Capacitance Measurement
 
-Figure 12-173 illustrates a basic test of a capacitor with an ohmmeter. There are usually two common modes of failure for a capacitor. One is a complete failure characterized by short circuit through the capacitor due to the dielectric breaking down or an open circuit. The more insidious failure occurs due to degradation, which is a gradual deterioration of the capacitor’s characteristics.
+illustrates a basic test of a capacitor with an ohmmeter. There are usually two common modes of failure for a capacitor. One is a complete failure characterized by short circuit through the capacitor due to the dielectric breaking down or an open circuit. The more insidious failure occurs due to degradation, which is a gradual deterioration of the capacitor’s characteristics.
 
-If a problem is suspected, remove the capacitor from the circuit and check with an ohmmeter. The first step is to short the two leads of the capacitor to ensure that it is entirely discharged. Next, connect the two leads as shown in Figure 12-173 across the capacitor and observe the needle movement. At first, the needle should indicate a short circuit. Then as the capacitor begins to charge, the needle should move to the left or infinity and eventually indicate an open circuit. The capacitor takes its charge from the internal battery of the ohmmeter. The greater the capacitance, the longer it takes to charge. If the capacitor is shorted, then the needle remains at a very low or shorted resistance. If there is some internal deterioration of the dielectric, then the needle never reaches a high resistance but some intermediate value, indicating a current.
+If a problem is suspected, remove the capacitor from the circuit and check with an ohmmeter. The first step is to short the two leads of the capacitor to ensure that it is entirely discharged. Next, connect the two leads as shown across the capacitor and observe the needle movement. At first, the needle should indicate a short circuit. Then as the capacitor begins to charge, the needle should move to the left or infinity and eventually indicate an open circuit. The capacitor takes its charge from the internal battery of the ohmmeter. The greater the capacitance, the longer it takes to charge. If the capacitor is shorted, then the needle remains at a very low or shorted resistance. If there is some internal deterioration of the dielectric, then the needle never reaches a high resistance but some intermediate value, indicating a current.
 
 ### Inductance Measurement
 
@@ -66,37 +66,37 @@ On occasions, the inductor fails due to overheating. When the inductor is overhe
 
 One of the most common modes of failure is the “open” circuit. A component, such as a resistor, can overheat due to the power rating being exceeded. Other more frustrating problems can happen when a “cold” solder joint cracks leaving a wire disconnected from a relay or connector. This type of damage can occur during routine maintenance after a technician has accessed an area for inspections. In many cases, there is no visual indication that a failure has occurred, and the soon-to-be-frustrated technician is unaware that there is a problem until power is reapplied to the aircraft in the final days leading up to aircraft delivery and scheduled operations.
 
-The first example is a simplified diagram shown in Figures 12-174 through 12-176. The circuit depicted in Figure 12-174 is designed to cause current to flow through a lamp, but because of the open resistor, the lamp will not light. To locate this open, a voltmeter or an ohmmeter should be used.
+The first example is a simplified diagram. The circuit depicted is designed to cause current to flow through a lamp, but because of the open resistor, the lamp will not light. To locate this open, a voltmeter or an ohmmeter should be used.
 
 ### Tracing Opens with the Voltmeter
 
 A general procedure to follow in this case is to measure the voltage drop across each component in the circuit, keeping in mind the following points. If there is an open in a series circuit, then the voltage drops on sides of the component. In this case, the total voltage must appear across the open resistor as per Kirchhoff’s V oltage Law.
 
-If a voltmeter is connected across the lamp, as shown in Figure 12-175, the voltmeter reads zero. Since no current can flow in the circuit because of the open resistor, there is no voltage drop across the lamp indicating that the lamp is good.
+If a voltmeter is connected across the lamp, as shown, the voltmeter reads zero. Since no current can flow in the circuit because of the open resistor, there is no voltage drop across the lamp indicating that the lamp is good.
 
-Next, the voltmeter is connected across the open resistor, as shown in Figure 12-176. The voltmeter has closed the circuit by shunting (paralleling) the burned out resistor, allowing current to flow. Current flows from the negative terminal of the battery, through the switch, through the voltmeter and the lamp, back to the positive terminal of the battery. However, the resistance of the voltmeter is so high that only a very small current flows in the circuit. The current is too small to light the lamp, but the voltmeter reads the battery voltage.
+Next, the voltmeter is connected across the open resistor, as shown. The voltmeter has closed the circuit by shunting (paralleling) the burned out resistor, allowing current to flow. Current flows from the negative terminal of the battery, through the switch, through the voltmeter and the lamp, back to the positive terminal of the battery. However, the resistance of the voltmeter is so high that only a very small current flows in the circuit. The current is too small to light the lamp, but the voltmeter reads the battery voltage.
 
 ### Tracing Opens with the Ohmmeter
 
-A simplified circuit, as shown in Figures 12-177 and 12-178, illustrates how to locate an open in a series circuit using the ohmmeter. A general rule to keep in mind when troubleshooting with an ohmmeter is: when an ohmmeter is properly connected across a circuit component and a resistance reading is obtained, the component has continuity and is not open.
+A simplified circuit, as shown, illustrates how to locate an open in a series circuit using the ohmmeter. A general rule to keep in mind when troubleshooting with an ohmmeter is: when an ohmmeter is properly connected across a circuit component and a resistance reading is obtained, the component has continuity and is not open.
 
-When an ohmmeter is used, the circuit component to be tested must be isolated and the power source removed from the circuit. In this case, these requirements can be met by opening the circuit switch as shown in Figure 12-177. The ohmmeter is zeroed and across all good components is zero. The voltage drop across the open component equals the total voltage across the series combination. This condition happens because the open component prevents current to pass through the series circuit. With there being no current, there can be no voltage drop across any of the good components. Because the current is zero, it can be determined by Ohm’s Law that E = IR = 0 volts across a component. The voltage is the same on both places across (in parallel with) the lamp. In this testing configuration, some value of resistance is read indicating that the lamp is in good condition and is not the source of the open in the circuit.
+When an ohmmeter is used, the circuit component to be tested must be isolated and the power source removed from the circuit. In this case, these requirements can be met by opening the circuit switch as shown. The ohmmeter is zeroed and across all good components is zero. The voltage drop across the open component equals the total voltage across the series combination. This condition happens because the open component prevents current to pass through the series circuit. With there being no current, there can be no voltage drop across any of the good components. Because the current is zero, it can be determined by Ohm’s Law that E = IR = 0 volts across a component. The voltage is the same on both places across (in parallel with) the lamp. In this testing configuration, some value of resistance is read indicating that the lamp is in good condition and is not the source of the open in the circuit.
 
-Now the technician should move to the resistor and place the ohmmeter probe across it as shown in Figure 12-178. When the ohmmeter is connected across the open resistor, it indicates infinite resistance, or a discontinuity. Thus, the circuit open has now been located.
+Now the technician should move to the resistor and place the ohmmeter probe across it as shown. When the ohmmeter is connected across the open resistor, it indicates infinite resistance, or a discontinuity. Thus, the circuit open has now been located.
 
 + − Black lead Open circuit Red lead 0 Simplified ohmmeter ∞ + − Black lead Shorted circuit Red lead 0 Simplified ohmmeter ∞ + − Black lead R1 Red lead Isolate from circuit connect across resistor 0 Simplified ohmmeter ∞ R2 R3 + −
 
 ### Troubleshooting Shorting Faults in a Series Circuit
 
-An open fault can cause a component or system not to work, which can be critical and hazardous. A shorting fault can potentially be more of a severe nature than the open type of fault. A short circuit, or “short,” causes the opposite effect. A short across a series circuit produces a greater than normal current flow. Faults of this type can develop slowly when a wire bundle is not properly secured and is allowed to chafe against the airframe structure or other systems, such as hydraulic lines. Shorts can also occur due to a careless technician using incorrect hardware when installing an interior. If screws that are too long are used to install trim, it is possible to penetrate a wire bundle immediately causing numerous shorts. Worse yet, are the shorts that are not immediately seen but “latent” and do not show symptoms until the aircraft is in service. Another point to keep in mind is when closing panels. Wires can become pinched between the panel and the airframe causing either a short or a latent, intermittent short. The simplified circuit, shown in Figures 12-179 through 12-182 is used to illustrate troubleshooting a short in a series circuit.
+An open fault can cause a component or system not to work, which can be critical and hazardous. A shorting fault can potentially be more of a severe nature than the open type of fault. A short circuit, or “short,” causes the opposite effect. A short across a series circuit produces a greater than normal current flow. Faults of this type can develop slowly when a wire bundle is not properly secured and is allowed to chafe against the airframe structure or other systems, such as hydraulic lines. Shorts can also occur due to a careless technician using incorrect hardware when installing an interior. If screws that are too long are used to install trim, it is possible to penetrate a wire bundle immediately causing numerous shorts. Worse yet, are the shorts that are not immediately seen but “latent” and do not show symptoms until the aircraft is in service. Another point to keep in mind is when closing panels. Wires can become pinched between the panel and the airframe causing either a short or a latent, intermittent short. The simplified circuit is used to illustrate troubleshooting a short in a series circuit.
 
-In Figure 12-179, a circuit is designed to light a lamp. A resistor is connected in the circuit to limit current flow. If the resistor is shorted, as shown in the illustration, the current flow increases and the lamp becomes brighter. If the applied voltage were high enough, the lamp would burn out, but in this case the fuse would protect the lamp by opening first.
+A circuit is designed to light a lamp. A resistor is connected in the circuit to limit current flow. If the resistor is shorted, as shown in the illustration, the current flow increases and the lamp becomes brighter. If the applied voltage were high enough, the lamp would burn out, but in this case the fuse would protect the lamp by opening first.
 
-Usually a short circuit produces an open circuit by either blowing (opening) the fuse or burning out a circuit component. But in some circuits, there may be additional resistors which do not allow one shorted resistor to increase the current flow enough to blow the fuse or burn out a component. [Figure 12-180] Thus, with one resistor shorted out, the circuit still functions since the power dissipated by the other resistors does not exceed the rating of the fuse.
+Usually a short circuit produces an open circuit by either blowing (opening) the fuse or burning out a circuit component. But in some circuits, there may be additional resistors which do not allow one shorted resistor to increase the current flow enough to blow the fuse or burn out a component. Thus, with one resistor shorted out, the circuit still functions since the power dissipated by the other resistors does not exceed the rating of the fuse.
 
 ### Tracing Shorts with the Ohmmeter
 
-The shorted resistor can be located with an ohmmeter. [Figure 12-181] First the switch is opened to isolate the Break Break V + − Black lead Needle moves full-scale (short)
+The shorted resistor can be located with an ohmmeter. First the switch is opened to isolate the Break Break V + − Black lead Needle moves full-scale (short)
 
 Conventional current Initial charging of capacitor behaves like a shorted circuit.
 
@@ -104,17 +104,17 @@ Red lead 0 Simplified ohmmeter ∞ + − +− Black lead Needle moves full-scale
 
 Full charge no current Once charged, the capacitor behaves like an open circuit.
 
-Red lead 0 Simplified ohmmeter ∞ circuit components. In Figure 12-181, this circuit is shown with an ohmmeter connected across each of the resistors. Only the ohmmeter connected across the shorted resistor shows a zero reading, indicating that this resistor is shorted.
+Red lead 0 Simplified ohmmeter ∞ circuit components. this circuit is shown with an ohmmeter connected across each of the resistors. Only the ohmmeter connected across the shorted resistor shows a zero reading, indicating that this resistor is shorted.
 
 ### Tracing Shorts with the Voltmeter
 
-To locate the shorted resistor while the circuit is functioning, a voltmeter can be used. Figure 12-182 illustrates that when a voltmeter is connected across any of the resistors that are not shorted, a portion of the applied voltage is indicated on the voltmeter scale. When it is connected across the shorted resistor, the voltmeter reads zero.
+To locate the shorted resistor while the circuit is functioning, a voltmeter can be used. When a voltmeter is connected across any of the resistors that are not shorted, a portion of the applied voltage is indicated on the voltmeter scale. When it is connected across the shorted resistor, the voltmeter reads zero.
 
 ### Troubleshooting Open Faults in a Parallel Circuit
 
 The procedures used in troubleshooting a parallel circuit are sometimes different from those used in a series circuit. Unlike a series circuit, a parallel circuit has more than one path in which current flows. A voltmeter cannot be used, since, when it is placed across an open resistor, it reads the voltage drop in a parallel branch. But an ammeter or the modified use of an ohmmeter can be employed to detect an open branch in a parallel circuit.
 
-If the open resistor shown in Figure 12-183 was not visually apparent, the circuit might appear to be functioning properly, because current would continue to flow in the other two branches of the circuit. To determine that the circuit is not operating properly, a determination must be made as to how the circuit should behave when working properly. First, the total resistance, total current, and the branch currents of the circuit should be calculated as if there were no open in the circuit. In this case, the total resistance can be simply determined by:
+If the open resistor was not visually apparent, the circuit might appear to be functioning properly, because current would continue to flow in the other two branches of the circuit. To determine that the circuit is not operating properly, a determination must be made as to how the circuit should behave when working properly. First, the total resistance, total current, and the branch currents of the circuit should be calculated as if there were no open in the circuit. In this case, the total resistance can be simply determined by:
 
 RT = RN Where RT is the total circuit resistance N is the number of resistors R is the resistor value Break V Break Ω Break Ω component.
 
@@ -122,33 +122,33 @@ RT = = 10 Ω30 Ω3 The total current of the circuit can now be determined by usi
 
 ### Tracing an Open with an Ammeter
 
-If the technician now places an ammeter in the circuit, the total current would be indicated as 2 amperes as shown in Figure 12-183 instead of the calculated 3 amperes. Since 1 ampere of current should be flowing through each branch, it is obvious that one branch is open. If the ammeter is then connected into the branches, one after another, the open branch is eventually located by a zero ammeter reading.
+If the technician now places an ammeter in the circuit, the total current would be indicated as 2 amperes as shown instead of the calculated 3 amperes. Since 1 ampere of current should be flowing through each branch, it is obvious that one branch is open. If the ammeter is then connected into the branches, one after another, the open branch is eventually located by a zero ammeter reading.
 
 ### Tracing an Open with an Ohmmeter
 
-A modified use of the ohmmeter can also locate this type of open. If the ohmmeter is connected across the open resistor, as shown in Figure 12-184, an erroneous reading of continuity would be obtained. Even though the circuit switch is open, the open resistor is still in parallel with R 1 and R2, and the ohmmeter would indicate the open resistor had a resistance of 15 ohms, the equivalent resistance of the parallel combination of R 1 and R2.
+A modified use of the ohmmeter can also locate this type of open. If the ohmmeter is connected across the open resistor, as shown, an erroneous reading of continuity would be obtained. Even though the circuit switch is open, the open resistor is still in parallel with R 1 and R2, and the ohmmeter would indicate the open resistor had a resistance of 15 ohms, the equivalent resistance of the parallel combination of R 1 and R2.
 
-Therefore, it is necessary to open the circuit as shown in Figure 12-185 in order to check the resistance of R3. In this way, the resistor is not shunted (paralleled) by R1 and R2. The reading on the ohmmeter now indicates infinite resistance, which means the open component has been isolated.
+Therefore, it is necessary to open the circuit as shown in order to check the resistance of R3. In this way, the resistor is not shunted (paralleled) by R1 and R2. The reading on the ohmmeter now indicates infinite resistance, which means the open component has been isolated.
 
 ### Troubleshooting Shorting Faults in Parallel Circuits
 
-As in a series circuit, a short in a parallel circuit usually causes an open circuit by blowing the fuse. But, unlike a series circuit, one shorted component in a parallel circuit stops current flow by causing the fuse to open. Refer to the circuit in Figure 12-186. If resistor R3 is shorted, a path of almost zero resistance is offered the current, and all the circuit current flows through the branch containing the shorted resistor. Since this is practically the same as connecting a wire between the terminals of the battery, the current rises to an excessive value, and the fuse opens. Since the fuse opens almost as soon as a resistor shorts out, there is no time to V V Some voltage Short Zero voltage Ω Ω Ω Ω 40 Ω 50 Ω R1 R3 R2 R4 10 Ω 100 V 0 Ω perform a current or voltage check. Thus, troubleshooting a parallel DC circuit for a shorted component should be accomplished with an ohmmeter. But, as in the case of checking for an open resistor in a parallel circuit, a shorted resistor can be detected with an ohmmeter only if one end of the shorted resistor is disconnected and isolated from the rest of the circuit.
+As in a series circuit, a short in a parallel circuit usually causes an open circuit by blowing the fuse. But, unlike a series circuit, one shorted component in a parallel circuit stops current flow by causing the fuse to open. If resistor R3 is shorted, a path of almost zero resistance is offered the current, and all the circuit current flows through the branch containing the shorted resistor. Since this is practically the same as connecting a wire between the terminals of the battery, the current rises to an excessive value, and the fuse opens. Since the fuse opens almost as soon as a resistor shorts out, there is no time to V V Some voltage Short Zero voltage Ω Ω Ω Ω 40 Ω 50 Ω R1 R3 R2 R4 10 Ω 100 V 0 Ω perform a current or voltage check. Thus, troubleshooting a parallel DC circuit for a shorted component should be accomplished with an ohmmeter. But, as in the case of checking for an open resistor in a parallel circuit, a shorted resistor can be detected with an ohmmeter only if one end of the shorted resistor is disconnected and isolated from the rest of the circuit.
 
 ### Troubleshooting Shorting Faults in Series-Parallel Circuits
 
 #### Logic in Tracing an Open
 
-Troubleshooting a series-parallel resistive circuit involves locating malfunctions similar to those found in a series or a parallel circuit. Figures 12-187 through 12-189 illustrate three points of failure in a series-parallel circuit and their generalized effects.
+Troubleshooting a series-parallel resistive circuit involves locating malfunctions similar to those found in a series or a parallel circuit. illustrate three points of failure in a series-parallel circuit and their generalized effects.
 
-1. In the circuit shown in Figure 12-187, an open has occurred in the series portion of the circuit. When the open occurs anywhere in the series portion of a series-parallel circuit, current flow in the entire circuit stops. In this case, the circuit does not function, and the lamp, L1, is not lit.
+1. In the circuit shown, an open has occurred in the series portion of the circuit. When the open occurs anywhere in the series portion of a series-parallel circuit, current flow in the entire circuit stops. In this case, the circuit does not function, and the lamp, L1, is not lit.
 
-2. If the open occurs in the parallel portion of a series- parallel circuit, as shown in Figure 12-188, part of the circuit continues to function. In this case, the lamp continues to burn, but its brightness diminishes, since the total resistance of the circuit has increased and the total current has decreased.
+2. If the open occurs in the parallel portion of a series- parallel circuit, as shown, part of the circuit continues to function. In this case, the lamp continues to burn, but its brightness diminishes, since the total resistance of the circuit has increased and the total current has decreased.
 
-3. If the open occurs in the branch containing the lamp, as shown in Figure 12-189, the circuit continues to function with increased resistance and decreased current, but the lamp does not light.
+3. If the open occurs in the branch containing the lamp, as shown, the circuit continues to function with increased resistance and decreased current, but the lamp does not light.
 
 ### Tracing Opens with the Voltmeter
 
-To explain how the voltmeter and ohmmeter can be used to troubleshoot series-parallel circuits, the circuit shown in Figure 12-190 has been labeled at various points. A point- to-point description is listed below with expected results:
+To explain how the voltmeter and ohmmeter can be used to troubleshoot series-parallel circuits, the circuit has been labeled at various points. A point- to-point description is listed below with expected results:
 
 1. By connecting a voltmeter between points A and D, the battery and switch can be checked for opens.
 
@@ -164,26 +164,205 @@ Troubleshooting the series portion of a series-parallel circuit presents no diff
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（79 段）。专业术语按行业惯例，数字与缩写保留。 -->
+排故是识别问题征兆、确定可能原因并找出电路中失效元件或导线的系统化过程。要精通排故，技术人员必须了解电路如何工作，并知道如何正确使用测试设备。系统失效的方式有很多，要涵盖所有可能性超出了本手册的范围。不过，有一些基本概念能使技术人员处理飞机上遇到的许多常见故障。
+
+在开始讨论基本电路与排故之前，先给出以下定义。
+
+• 短路——电路中两个元件之间或一个……
+
+（原文此处为图注碎片，无对应正文）
+
+（原文此处为图注碎片，无对应正文）
+
+……元件或导线与地之间无意的低阻通路。它通常造成大电流，从而烧毁或损坏电路导线或元件。
+
+• 开路——不完整或不连续的通路。开路代表无限大的电阻。开关是用于接通和断开电路的常见器件。有时电路会因元件失效而断开，例如灯泡烧坏或电阻器烧毁。
+
+• 连续性——连续、不中断或相互连通的状态；即电路未断开或不存在开路的状态。
+
+• 不连续——连续性的反面，表示电路断开或不连续。
+
+### 电压测量
+
+电压用电压表或万用表的电压档跨接在元件两端测量。仪表上通常有直流和交流选择。用仪表测量之前，务必确认仪表已选到正确的电压类型。把表笔跨接在元件上测量时，要注意确保极性正确。标准做法是把红表笔插入正（+）插孔，黑表笔插入负（−）插孔。然后，在跨接（并联）在元件两端测量电压时，表笔应与元件的极性一致。红表笔接在元件的正……
+
+（原文此处为图注碎片，无对应正文）
+
+……信号输入侧，黑表笔接在负侧，这样可以防止损坏仪表或产生错误读数。
+
+所有仪表都有一定电阻，会分流一部分电流。由于电流的这一变化，电路特性也随之改变。这在较老的模拟式仪表上更是常见的问题。如果对元件两端电压的大小有疑问，应把仪表置于最高电压量程测量。这样可以防止仪表「打表」及可能的损坏。然后应把量程逐档调低，直到所测电压在刻度中央偏转处读出。在刻度中央读取的读数最准确。
+
+### 电流测量
+
+测量电流时，把电流表接入电流通路：断开电路并把仪表串联接入。标准做法是把红表笔插入正（+）插孔，黑表笔插入负（−）插孔。仪表正侧朝向正电压源。理想情况下，仪表不应改变电流、不应影响电路和测量结果。然而，由于仪表内阻与电路其余部分串联，它确实会有一些影响。该电阻相当小，在大多数实际应用中可忽略不计。
+
+### 检查电路中的电阻
+
+欧姆表用于测量电阻。在其较基本的形式中，欧姆表由可变电阻器、表头和电压源串联组成。使用前必须先调整仪表。
+
+当表笔不连接（开路）时，指针指向最左位置，表示电阻无穷大或开路。把两根表笔接在一起时，电路被短接，指针指向最右位置。接通后，内部电池通过表头线圈产生电流，使指针按外接电阻值成比例偏转。此时电阻为零，因为表笔处于短接状态。
+
+仪表中可变电阻器的作用是调节电流，使表笔短接时指针恰好读为零。这是必要的，因为随着电池不断使用，电压会变化，从而需要调整。每次使用前都应对仪表「校零」。
+
+检查电阻器的阻值时，必须把电阻器从电路上脱开。这样可防止对欧姆表造成任何可能的损坏，也可防止因被测电阻器与电路并联而产生不准确读数。
+
+### 连续性检查
+
+在许多情况下，欧姆表不是用来测量元件的电阻，而只是检查电路某一部分到另一部分连接是否完好。如果连接良好，欧姆表读数接近零电阻或短路。如果电路开路，或某处连接很差，例如连接器内压接过度的插针，则欧姆表读数为无穷大或某个很高的电阻值。要记住，在进行任何测量时，都应避免接触电路或表笔。接触会引入另一条并联通路，给出误导性的指示。
+
+### 电容测量
+
+……说明了用欧姆表对电容器进行的一项基本测试。电容器通常有两种常见失效模式。一种是完全失效，其特点是介质击穿导致电容器短路，或电容器开路。更隐蔽的失效是由退化引起的，即电容器特性的逐渐劣化。
+
+如果怀疑有问题，把电容器从电路上拆下，用欧姆表检查。第一步是把电容器的两根引线短接，确保其完全放电。然后如图所示把两根引线跨接在电容器两端，观察指针摆动。起初指针应指示短路。随后随着电容器开始充电，指针应向左或向无穷大摆动，最终指示开路。电容器的电荷来自欧姆表的内部电池。电容量越大，充电所需时间越长。如果电容器短路，指针会停在很低或短路的电阻处。如果介质内部有劣化，指针永远达不到高阻值，而停在某个中间值，表示有电流。
+
+### 电感测量
+
+电感器的常见失效模式是开路。要检查电感器是否完好，必须把它从电路上拆下，像电容器那样作为孤立元件测试。如果电感器开路，用欧姆表简单一测即显示为电阻无穷大的开路。如果电感器确实状况良好，欧姆表则指示线圈的电阻。
+
+有时，电感器会因过热而失效。电感器过热时，线圈导线的绝缘层可能熔化，造成短路。线圈短路的影响是减少匝数。此时，对电感器的进一步测试必须用本手册未涉及的测试设备完成。
+
+### 串联电路开路故障的排故
+
+最常见的失效模式之一是「开路」。像电阻器这样的元件可能因功率额定值被超过而过热。还有更令人头疼的问题：虚焊焊点开裂，使导线与继电器或连接器脱开。这类损伤可能发生在技术人员为检查而接近某区域之后的日常维护中。许多情况下没有可见的失效迹象，那位即将受挫的技术人员直到在飞机交付和计划运行前的最后几天重新给飞机通电时，才知道存在问题。
+
+第一个示例是一张简化图。图中所示电路设计为使电流流过一盏灯，但由于电阻器开路，灯不会亮。要定位这一开路，应使用电压表或欧姆表。
+
+### 用电压表追踪开路
+
+这种情况下应遵循的一般程序是测量电路中每个元件两端的电压降，同时注意以下几点。如果串联电路中存在开路，则电压降出现在元件两侧。此时，根据基尔霍夫电压定律，全部电压必定出现在开路电阻器两端。
+
+如果把电压表跨接在灯两端，电压表读数为零。由于电阻器开路，电路中没有电流，灯两端没有电压降，说明灯是好的。
+
+接下来，把电压表跨接在开路的电阻器两端。电压表通过旁路（并联）已烧坏的电阻器使电路闭合，从而使电流流过。电流从蓄电池负极出发，经开关、电压表、灯，回到蓄电池正极。然而电压表电阻极高，电路中只流过很小的电流。该电流太小，不能点亮灯，但电压表读数等于蓄电池电压。
+
+### 用欧姆表追踪开路
+
+一张简化电路图说明了如何用欧姆表在串联电路中定位开路。用欧姆表排故时应记住的一般规则是：当欧姆表正确跨接在电路元件上并得到电阻读数时，说明该元件连续，并未开路。
+
+使用欧姆表时，被测电路元件必须隔离，并断开电源。在本例中，可通过断开电路开关满足这些要求。把欧姆表校零，在所有良好元件上的读数均为零。开路元件两端的电压降等于串联组合上的总电压。发生这种情况是因为开路元件阻止电流通过串联电路。既然没有电流，任何良好元件两端就不可能有电压降。由于电流为零，根据欧姆定律可确定元件两端 E = IR = 0 伏。灯两端（并联于灯）两处的电压相同。在这种测试配置中，会读到某个电阻值，表明灯状况良好，不是电路中开路的来源。
+
+现在技术人员应移到电阻器处，把欧姆表表笔跨接其上。当欧姆表跨接到开路电阻器上时，指示电阻无穷大或不连续。这样，电路的开路就被定位了。
+
+（原文此处为图注碎片，无对应正文）
+
+### 串联电路短路故障的排故
+
+开路故障会使元件或系统不工作，这可能很关键也很危险。短路故障可能比开路故障更严重。短路则产生相反的效果。串联电路中的短路会产生大于正常的电流。当线束固定不当、任其与机体结构或液压管路等其他系统摩擦时，这类故障会缓慢发展。技术人员在安装内饰时使用不正确的五金件也可能造成短路。如果安装装饰件时使用过长的螺钉，可能立即刺穿线束，造成许多短路。更糟的是那些不会立即显现、而是「潜伏」的短路，直到飞机投入使用时才暴露症状。还有一点要注意，就是盖板安装。导线可能被夹在盖板与机体之间，造成短路或潜伏性的间歇短路。下面用简化的电路来说明串联电路中短路的排故。
+
+某一电路设计用来点亮一盏灯。电路中接有一个电阻器以限制电流。如果电阻器被短路，如图所示，电流增大，灯变亮。如果所加电压足够高，灯会烧坏，但在本例中，保险丝会先熔断而保护灯。
+
+通常短路会因熔断（断开）保险丝或烧坏电路元件而造成开路。但在某些电路中，还可能有其他电阻器，使单个被短路的电阻器不足以把电流增大到熔断保险丝或烧坏元件的程度。因此，在一个电阻器被短路的情况下，电路仍能工作，因为其他电阻器耗散的功率没有超过保险丝的额定值。
+
+### 用欧姆表追踪短路
+
+短路的电阻器可以用欧姆表定位。首先断开开关，以隔离……
+
+电容器初始充电时表现得像短路的电路。
+
+（原文此处为图注碎片，无对应正文）
+
+一旦充电完成，电容器表现得像开路的电路。
+
+……电路元件。在此电路中，用欧姆表分别跨接每个电阻器。只有跨接短路电阻器的欧姆表显示零读数，表明该电阻器已短路。
+
+### 用电压表追踪短路
+
+要在电路工作时定位短路的电阻器，可以使用电压表。当电压表跨接在任何未短路的电阻器上时，仪表刻度上指示出所加电压的一部分。当它跨接在被短路的电阻器上时，电压表读数为零。
+
+### 并联电路开路故障的排故
+
+排故并联电路所用的程序有时与串联电路不同。与串联电路不同，并联电路有多条电流通路。不能使用电压表，因为把它跨接在开路电阻器上时，它读到的是并联支路中的电压降。但可以用电流表或改进使用的欧姆表来检测并联电路中的开路支路。
+
+如果开路的电阻器并非肉眼可见，电路可能看起来工作正常，因为电流会继续在电路的另外两条支路中流动。要确定电路并未正常工作，必须先确定电路正常工作时应当如何表现。首先，应假设电路中没有开路，计算电路的总电阻、总电流和各支路电流。在这种情况下，总电阻可简单地由下式确定：
+
+RT = R/N，式中 RT 为电路总电阻，N 为电阻数量，R 为电阻值。
+
+RT = 30 Ω ÷ 3 = 10 Ω。现在可用欧姆定律确定电路的总电流：IT = ES/RT，式中 IT 为总电流，ES 为并联支路两端的电源电压，RT 为并联支路的总电阻。IT = 30 V ÷ 10 Ω = 3 安（总电流）。各支路电流应以类似方式确定。对于第一条支路，电流为：I1 = ES/R1，式中 I1 为第一条支路的电流，ES 为并联支路两端的电源电压，R1 为第一条支路的电阻。I1 = 30 V ÷ 30 Ω = 1 安。由于另外两条支路的电阻值相同，因此每条支路中的电流也是 1 安。把各支路电流相加，证实了总电流为 3 安的最初计算。
+
+### 用电流表追踪开路
+
+如果技术人员此时把电流表接入电路，总电流将显示为 2 安，而不是算出的 3 安。由于每条支路本应流过 1 安电流，显然有一条支路开路。然后依次把电流表接入各支路，最终会以零电流读数定位出开路支路。
+
+### 用欧姆表追踪开路
+
+改进使用欧姆表也能定位这类开路。如果把欧姆表跨接在开路电阻器两端，会得到错误的连续读数。即使电路开关已断开，该开路电阻器仍与 R1 和 R2 并联，欧姆表会指示该开路电阻器的电阻为 15 欧姆，即 R1 与 R2 并联组合的等效电阻。
+
+因此，必须按图示断开电路，以便检查 R3 的电阻。这样该电阻器才不会被 R1 和 R2 旁路（并联）。此时欧姆表读数指示无穷大电阻，意味着开路元件已被隔离出来。
+
+### 并联电路短路故障的排故
+
+与串联电路一样，并联电路中的短路通常通过熔断保险丝造成开路。但与串联电路不同，并联电路中一个元件短路就会使保险丝断开，从而停止电流流动。如果电阻器 R3 短路，就为电流提供了一条几乎零电阻的通路，全部电路电流都流过含短路电阻器的那条支路。由于这实际上相当于在蓄电池两端接一根导线，电流升到过大值，保险丝断开。由于电阻器一短路保险丝几乎立即断开，来不及进行电流或电压检查。因此，并联直流电路中短路元件的排故应使用欧姆表。但正如检查并联电路中的开路电阻器一样，只有把短路电阻器的一端断开并与电路其余部分隔离，才能用欧姆表检测出短路的电阻器。
+
+### 串并联电路短路故障的排故
+
+#### 追踪开路的逻辑
+
+对串并联电阻电路排故，涉及定位与串联或并联电路中所发现的类似的故障。……来说明串并联电路中的三个故障点及其一般影响。
+
+1. 在所示电路中，串联部分发生开路。当串并联电路的串联部分任何位置发生开路时，整个电路中的电流都会停止。此时电路不工作，灯 L1 不亮。
+
+2. 如果开路发生在串并联电路的并联部分，如图所示，电路的一部分仍继续工作。此时灯继续点亮，但亮度减弱，因为电路总电阻增大、总电流减小。
+
+3. 如果开路发生在包含灯的支路中，如图所示，电路继续工作，电阻增大、电流减小，但灯不亮。
+
+### 用电压表追踪开路
+
+为说明如何用电压表和欧姆表对串并联电路排故，已在电路的各点加了标记。下面按点逐项说明并给出预期结果：
+
+1. 把电压表接在 A 点与 D 点之间，可检查蓄电池和开关是否开路。
+
+2. 把电压表接在 A 点与 B 点之间，可检查 R1 两端的电压降。该电压降是所加电压的一部分。
+
+3. 如果 R1 开路，B 点与 D 点之间的读数为零。
+
+4. 把电压表接在 A 点与 E 点之间，可检查蓄电池正极与 E 点之间导线的连续性以及保险丝。如果该导线或保险丝开路，电压表读数为零。
+
+5. 如果灯在亮，显然含灯的支路中没有开路；此时可通过把灯 L1 从电路上拆下，用电压表检测含 R2 的支路是否开路。
+
+对串并联电路的串联部分排故没有困难，但在电路的并联部分，可能得到误导性的读数。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Ammeter —— An instrument for measuring electric current in amperes.
-- Ampere —— A unit of measure of the rate of electron flow or current in an electrical conductor. One ampere of current represents one coulomb of electrical charge (6.24 × 
-- Capacitance (C) —— The property of an electric conductor that characterizes its ability to store an electric charge.
-- Capacitor —— An electrical component that stores an electric charge.
-- Conductor —— A material that will carry electric current.
-- Current —— The flow of electrical charge.
-- Degradation —— The alteration of material properties (e.g., strength, modulus, coefficient of expansion) which may result from deviations in manufacturing or from repeated loa
-- Discontinuity —— An interruption in the normal physical structure or configuration of a part, such as a crack, forging lap, seam, inclusion, porosity, and the like. A discontinu
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| troubleshooting | n. | 排故 | 识别征兆、确定原因、定位失效元件或导线的系统化过程 |
+| short circuit | n. | 短路 | 两个元件之间或元件与地之间无意的低阻通路，产生过大电流 |
+| open circuit | n. | 开路 | 不完整或不连续的通路，代表无限大电阻 |
+| continuity | n. | 连续性 | 通路完好、不中断；欧姆表读数接近零即有此状态 |
+| discontinuity | n. | 不连续 | 连续性的反面，电路断开，欧姆表指示无穷大 |
+| voltage drop | n. | 电压降 | 串联电路中开路元件两端承受全部电压 |
+| ohmmeter | n. | 欧姆表 | 由可变电阻器、表头和电压源串联组成，使用前须校零 |
+| ammeter | n. | 电流表 | 断开电路后串联接入，测量支路电流 |
+| capacitance | n. | 电容量 | 越大充电所需时间越长，指针摆动越慢 |
+| inductor | n. | 电感器 | 常见失效为开路，过热时绝缘熔化可致短路 |
+| degradation | n. | 退化 | 电容器特性的逐渐劣化，属更隐蔽的失效 |
+| Kirchhoff’s Voltage Law | n. | 基尔霍夫电压定律 | 串联电路开路时全部电压出现在开路元件两端 |
+| series-parallel circuit | n. | 串并联电路 | 开路在串联段则全停，在并联段则部分仍工作 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① 破折号引出同位语 + 分词作伴随状语
+**原句**：• Discontinuity—the opposite of continuity, indicating that a circuit is broken or not continuous.
+**拆解**：Discontinuity 为被定义术语，破折号后 the opposite of continuity 为同位语，说明其含义；indicating that a circuit is broken or not continuous 为现在分词短语作伴随（补充）状语，其中 that 引导宾语从句。
+**要点**：技术手册常用「术语 + 破折号 + 名词短语」的定义格式，破折号等于冒号或 namely，不宜译成「减去」；indicate 后接 that 从句说明所指示的内容，不能写成 indicate a circuit is broken 而省略 that（易生歧义）；not continuous 与 broken 并列作表语，翻译时「断开」与「不连续」两个状态都要译出。
+### ② the + 比较级, the + 比较级
+**原句**：The greater the capacitance, the longer it takes to charge.
+**拆解**：前一分句 The greater the capacitance 为条件，后一分句 the longer it takes to charge 为结果；it 为形式主语，真正主语是 to charge，longer 为表语，take 表示「花费」。
+**要点**：这是「越……越……」的固定句型，前后都用 the + 比较级且不倒装，不能写成 The capacitance is greater, the time is longer；it takes + 时间 + to do 中的 it 不可换成 that；charge 在此为不及物动词，意为「充电」，与 charge a battery（给蓄电池充电）的及物用法要区分。
+### ③ 表语前置引起的倒装
+**原句**：Worse yet, are the shorts that are not immediately seen but “latent” and do not show symptoms until the aircraft is in service.
+**拆解**：正常语序为 The shorts that are not immediately seen but “latent” … are worse yet；Worse yet 被提到句首作表语，因此系动词 are 置于主语之前构成完全倒装；that 引导定语从句修饰 the shorts，从句内 are not seen 与 do not show symptoms 为并列谓语。
+**要点**：这种倒装只出现在书面语，目的是强调 worse yet（更糟的是）；主语带长定语时倒装更常见，翻译时按「更糟的是……」顺译即可；but “latent” 的 latent 与 not immediately seen 对立，指故障潜伏、不显症状，不能译为「潜在的」了事，要体现「当时看不出来」。
+### ④ while 引导的时间状语从句用进行时被动 + 主句被动
+**原句**：Keep in mind that while any measurement is being taken, contact with the circuit or probes should be avoided.
+**拆解**：主句为祈使句 Keep in mind that …，that 引导宾语从句；从句内部 while any measurement is being taken 为时间状语（现在进行时的被动语态），主谓为 contact with the circuit or probes should be avoided。
+**要点**：is being taken 强调「测量正在进行」这一持续过程，与 is taken 的一次性动作不同；avoid 后用名词 contact 作主语，属「动作名词化」，比 avoid touching the circuit 更正式；keep in mind that 常译为「要记住」，其后从句用陈述语序。
+### ⑤ 不定式目的状语 + 并列被动谓语 + 指代
+**原句**：To check the integrity of an inductor, it must be removed from the circuit and tested as an isolated component just like the capacitor.
+**拆解**：To check the integrity of an inductor 为目的状语；主句主语 it 指代 the inductor，谓语为并列被动 must be removed (from the circuit) 与 (must be) tested (as an isolated component)；just like the capacitor 为比较状语。
+**要点**：目的状语置于句首时，其逻辑主语应与主句主语一致，但这里主句是被动语态，动作发出者省略，翻译时补出「必须把电感器……拆下」更自然；tested as an isolated component 中 as 表示「作为」，与 tested like the capacitor 的 like 不可混用；integrity 在技术文中指「完好性」，不是「正直」。
+### ⑥ for + 名词 + 不定式构成的复合结构作表语
+**原句**：Standard practice is for the red meter lead to be installed in the positive (+) jack and the black meter lead to be installed in the negative meter jack (−).
+**拆解**：主语 Standard practice，系动词 is，表语为 for the red meter lead to be installed … and the black meter lead to be installed …；两个 for + 名词 + 不定式结构并列，不定式均用被动式 to be installed。
+**要点**：for … to do 结构中 for 后的名词是不定式的逻辑主语，此处表示「规定由红表笔插入……」，不能改为 the red meter lead is installed；被动不定式 to be installed 强调按规程安装，而非强调动作执行者；两个并列项各自重复 for 与 to be installed，是技术规程避免歧义的写法，翻译时两处都要译出。

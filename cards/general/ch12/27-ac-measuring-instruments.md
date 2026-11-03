@@ -6,21 +6,21 @@
 
 A DC meter, such as an ammeter, connected in an AC circuit indicates zero, because the meter movements used in a d’Arsonval type movement is restricted to DC. Since the field of a permanent magnet in the d’Arsonval type meter remains constant and in the same direction at all times, the moving coil follows the polarity of the current. The coil attempts to move in one direction during half of the AC cycle and in the reverse direction during the other half when the current reverses.
 
-The current reverses direction too rapidly for the coil to follow, causing the coil to assume an average position. Since 20% full-scale 120k Ω Meter movement [+] [−]
+The current reverses direction too rapidly for the coil to follow, causing the coil to assume an average position. Since
 
-− + Adjuster R x 1 Range switch R x 10 R x 100 R x 1k R x 10k 0∞ the current is equal and opposite during each half of the AC cycle, the DC meter indicates zero, which is the average value. Thus, a meter with a permanent magnet cannot be used to measure alternating voltage and current. For AC measurements of current and voltage, additional circuitry is required. The additional circuitry has a rectifier, which converts AC to DC. There are two basic types of rectifiers: the half-wave rectifier and the full-wave rectifier. [Figure 12-159]
+the current is equal and opposite during each half of the AC cycle, the DC meter indicates zero, which is the average value. Thus, a meter with a permanent magnet cannot be used to measure alternating voltage and current. For AC measurements of current and voltage, additional circuitry is required. The additional circuitry has a rectifier, which converts AC to DC. There are two basic types of rectifiers: the half-wave rectifier and the full-wave rectifier.
 
-Figure 12-159 also shows a simplified block diagram of an AC meter. In this depiction, the full-wave rectifier precedes the meter movement. The movement responds to the average value of the pulsating DC. The scale can then be calibrated to show anything the designer wants. In most cases, it is the root mean square (RMS) value or peak value.
+The figure also shows a simplified block diagram of an AC meter. In this depiction, the full-wave rectifier precedes the meter movement. The movement responds to the average value of the pulsating DC. The scale can then be calibrated to show anything the designer wants. In most cases, it is the root mean square (RMS) value or peak value.
 
 ### Electrodynamometer Meter Movement
 
-The electrodynamometer can be used to measure alternating or direct voltage and current. It operates on the same principles as the permanent magnet moving coil meter, except that the permanent magnet is replaced by an air core electromagnet. The field of the electrodynamometer is developed by the same current that flows through the moving coil. [Figure 12-160]
+The electrodynamometer can be used to measure alternating or direct voltage and current. It operates on the same principles as the permanent magnet moving coil meter, except that the permanent magnet is replaced by an air core electromagnet. The field of the electrodynamometer is developed by the same current that flows through the moving coil.
 
 Because this movement contains no iron, the electrodynamometer can be used as a movement for both AC and DC instruments. AC can be measured by connecting the stationary and moving coils in series. Whenever the current in the moving coil reverses, the magnetic field produced by the stationary coil reverses. Regardless of the direction of the current, the needle moves in a clockwise direction. However, for either voltmeter or ammeter applications, the electrodynamometer is too expensive to economically compete with the d’Arsonval-type movement.
 
 ### Moving Iron Vane Meter
 
-The moving iron vane meter is another basic type of meter. It can be used to measure either AC or DC. Unlike the d’Arsonval meter, which employs permanent magnets, it depends on induced magnetism for its operation. It utilizes the principle of repulsion between two concentric iron vanes, one fixed and one movable, placed inside a solenoid. A pointer is attached to the movable vane. [Figure 12-161]
+The moving iron vane meter is another basic type of meter. It can be used to measure either AC or DC. Unlike the d’Arsonval meter, which employs permanent magnets, it depends on induced magnetism for its operation. It utilizes the principle of repulsion between two concentric iron vanes, one fixed and one movable, placed inside a solenoid. A pointer is attached to the movable vane.
 
 When current flows through the coil, the two iron vanes become magnetized with North poles at their upper ends and South poles at their lower ends for one direction of current through the coil. Because like poles repel, the unbalanced component of force, tangent to the movable element, causes it to turn against the force exerted by the springs.
 
@@ -38,7 +38,7 @@ When the moving iron vane meter is used as an ammeter, the coil is wound with re
 
 Hand generator Ohmmeter Axis O − + R2 R3 RX 0 Inf.
 
-M M G ACB Half-wave rectifier Full-wave rectifier Simple AC voltmeter Full-wave rectifier AC In Pulsing DC AC In Pulsing DC AC In0 0 0 0 0 AC converted to pulsing DC on every positive half-cycle AC converted to pulsing DC on both positive and negative half-cycle The moving iron vane instrument may be used to measure DC but has an error due to residual magnetism in the vanes. Reversing the meter connections and averaging the readings may minimize the error. When used on AC circuits, the instrument has an accuracy of 0.5 percent. Because of its simplicity, relatively low cost, and the fact that no current is conducted to the moving element, this type of movement is used extensively to measure current and voltage in AC power circuits. However, because the reluctance of the magnetic circuit is high, the moving iron vane meter requires much more power to produce full-scale deflection than is required by a d’Arsonval meter of the same range. Therefore, the moving iron vane meter is seldom used in high-resistance low-power circuits.
+The moving iron vane instrument may be used to measure DC but has an error due to residual magnetism in the vanes. Reversing the meter connections and averaging the readings may minimize the error. When used on AC circuits, the instrument has an accuracy of 0.5 percent. Because of its simplicity, relatively low cost, and the fact that no current is conducted to the moving element, this type of movement is used extensively to measure current and voltage in AC power circuits. However, because the reluctance of the magnetic circuit is high, the moving iron vane meter requires much more power to produce full-scale deflection than is required by a d’Arsonval meter of the same range. Therefore, the moving iron vane meter is seldom used in high-resistance low-power circuits.
 
 ### Inclined Coil Iron Vane Meter
 
@@ -52,11 +52,11 @@ As in the moving iron vane instruments, the inclined coil instrument is wound wi
 
 Multiplying the volts by the amperes in an AC circuit gives the apparent power: the combination of the true power (which does the work) and the reactive power (which does no work and is returned to the line). Reactive power is measured in units of vars (volt-amperes reactive) or kilovars (kilovolt- amperes reactive (kV AR). When properly connected,
 
-s measure the reactive power. As such, they are called varmeters. [Figure 12-162]
+s measure the reactive power. As such, they are called varmeters.
 
-Fixed coils Shunt Movable coils A A B C B C Pointer Control spring Cylindrical coil Moving iron segment Stationary iron segment movement. Figure 12-161. Moving iron vane meter.
+Fixed coils Shunt Movable coils A A B C B C Pointer Control spring Cylindrical coil Moving iron segment Stationary iron segment movement. Moving iron vane meter.
 
-Wattmeter Electric power is measured by means of a wattmeter. Because electric power is the product of current and voltage, a wattmeter must have two elements, one for current and the other for voltage. For this reason, wattmeters are usually of the electrodynamometer type. [Figure 12-163]
+Wattmeter Electric power is measured by means of a wattmeter. Because electric power is the product of current and voltage, a wattmeter must have two elements, one for current and the other for voltage. For this reason, wattmeters are usually of the electrodynamometer type.
 
 The movable coil with a series resistance forms the voltage element, and the stationary coils constitute the current element. The strength of the field around the potential coil depends on the amount of current that flows through it. The current, in turn, depends on the load voltage applied across the coil and the high resistance in series with it. The strength of the field around the current coils depends on the amount of current flowing through the load. Thus, the meter deflection is proportional to the product of the voltage across the potential coil and the current through the current coils. The effect is almost the same (if the scale is properly calibrated) as if the voltage applied across the load and the current through the load were multiplied together.
 
@@ -66,13 +66,13 @@ If the current in the line is reversed, the direction of current in both coils a
 
 The oscilloscope is by far one of the more useful electronic measurements available. The viewing capabilities of the oscilloscope make it possible to see and quantify various waveform characteristics, such as phase relationships, amplitudes, and durations. While oscilloscopes come in a variety of configurations and presentations, the basic operation is typically the same. Most oscilloscopes in general bench or shop applications use a cathode-ray tube (CRT), which is the device or screen that displays the waveforms. The CRT is a vacuum instrument that contains an electron gun, which emits a very narrow and focused beam of electrons. A phosphorescent coat applied to the back of the screen forms the screen. The beam is electronically aimed and accelerated so that the electron beam strikes the screen. When the electron beam strikes the screen, light is emitted at the point of impact.
 
-Figure 12-164 shows the basic components of the CRT with a block diagram. The heated cathode emits electrons. The magnitude of voltage on the control grid determines the actual flow of electrons and thus controls the intensity of the electron beam. The acceleration anodes increase the speed of the electrons, and the focusing anode narrows the beam down to a fine point. The surface of the screen is also an anode and assists in the acceleration of the electron beam.
+The figure shows the basic components of the CRT with a block diagram. The heated cathode emits electrons. The magnitude of voltage on the control grid determines the actual flow of electrons and thus controls the intensity of the electron beam. The acceleration anodes increase the speed of the electrons, and the focusing anode narrows the beam down to a fine point. The surface of the screen is also an anode and assists in the acceleration of the electron beam.
 
-LoadCurrent coil Varmeter Reactor Voltage coil M The purpose of the vertical and horizontal deflection plates is to bend the electron beam and position it to a specific point of the screen. [Figure 12-165] By providing a neutral or zero voltage to a deflection plate, the electron beam is unaffected. By applying a negative voltage to a plate, the electron beam is repelled and driven away from the plate. Finally, by applying a positive voltage, the electron beam is drawing to the plate. Figure 12-165 provides a few possible plate voltage combinations and the resultant beam position.
+The purpose of the vertical and horizontal deflection plates is to bend the electron beam and position it to a specific point of the screen. By providing a neutral or zero voltage to a deflection plate, the electron beam is unaffected. By applying a negative voltage to a plate, the electron beam is repelled and driven away from the plate. Finally, by applying a positive voltage, the electron beam is drawing to the plate. The figure provides a few possible plate voltage combinations and the resultant beam position.
 
 ### Horizontal Deflection
 
-To get a visual representation of the input signal, an internally generated saw-tooth voltage is generated and then applied to the horizontal deflection plates. Figure 12-166 illustrates that the saw-tooth is a pattern of voltage applied, which begins at a negative voltage and increases at a constant rate to a positive voltage. This applied varying voltage draws or traces the electron beam from the far left of the screen to the far right side of the screen. The resulting display is a straight line, if the sweep rate is fast enough. This saw-tooth applied voltage is a repetitive signal so that the beam is repeatedly swept across the tube. The rate at which the saw-tooth voltage goes from negative to positive is determined by the frequency. This rate then establishes the sweep rate of the beam. When the saw-tooth reaches the end of its sweep from left to right, the beam then rapidly returns to the left side and is ready to make another sweep. During this time, the electron beam is stopped or blanked out and does not produce any kind of a trace. This period of time is called flyback.
+To get a visual representation of the input signal, an internally generated saw-tooth voltage is generated and then applied to the horizontal deflection plates. The figure illustrates that the saw-tooth is a pattern of voltage applied, which begins at a negative voltage and increases at a constant rate to a positive voltage. This applied varying voltage draws or traces the electron beam from the far left of the screen to the far right side of the screen. The resulting display is a straight line, if the sweep rate is fast enough. This saw-tooth applied voltage is a repetitive signal so that the beam is repeatedly swept across the tube. The rate at which the saw-tooth voltage goes from negative to positive is determined by the frequency. This rate then establishes the sweep rate of the beam. When the saw-tooth reaches the end of its sweep from left to right, the beam then rapidly returns to the left side and is ready to make another sweep. During this time, the electron beam is stopped or blanked out and does not produce any kind of a trace. This period of time is called flyback.
 
 ### Vertical Deflection
 
@@ -80,7 +80,7 @@ If this same signal were applied to the vertical plates, it would also produce a
 
 ### Tracing a Sine Wave
 
-Reproducing the sine wave on the oscilloscope combines both the vertical and horizontal deflection patterns. [Figure 12-167] If the sine wave voltage signal is applied across the vertical deflection plates, the result will be the vertical beam oscillation up and down on the screen. The amount that the beam moves above the centerline depends on the peak value of the voltage.
+Reproducing the sine wave on the oscilloscope combines both the vertical and horizontal deflection patterns. If the sine wave voltage signal is applied across the vertical deflection plates, the result will be the vertical beam oscillation up and down on the screen. The amount that the beam moves above the centerline depends on the peak value of the voltage.
 
 While the beam is being swept from the left to the right by the horizontal plates, the sine wave voltage is being applied to the vertical plates, causing the form of the input signal to be traced out on the screen.
 
@@ -102,17 +102,17 @@ Controlling the flow of electrons onto the screen varies the intensity. Do not k
 
 • V olts/Division—used to select the voltage interval that each division on the vertical scale represents. For example, suppose each vertical division was set to equal 10 mV . If a waveform was measured and had a peak value of 4 divisions, then the peak value in voltage would be 40 mV .
 
-• Trigger—The trigger control provides synchronization between the saw-tooth horizontal sweep and the applied signal on the vertical plates. The benefit is that the waveform on the screen appears to be stationary and fixed and not drifting across the screen. A triggering circuit is used to initiate the start of a sweep rather than CRT base Anode ScreenMatingconnector Horizontal deflection plates (H)Preaccelerating anode (A1)
+• Trigger—The trigger control provides synchronization between the saw-tooth horizontal sweep and the applied signal on the vertical plates. The benefit is that the waveform on the screen appears to be stationary and fixed and not drifting across the screen. A triggering circuit is used to initiate the start of a sweep rather than
 
 Cathode (K) & heater Control grid Vertical deflection plates (V)
 
 Accelerating anode (A3)
 
-Electron gun e e e e e e e e e e e e e e e e e e e e R Current coil M Potential coil Load the fixed saw-tooth sweep rate. In a typical oscilloscope, this triggering signal comes from the input signal itself at a selected point during the signal’s cycle. The horizontal signal goes through one sweep, retraces back to the left side and waits there until it is triggered again by the input signal to start another sweep.
+the fixed saw-tooth sweep rate. In a typical oscilloscope, this triggering signal comes from the input signal itself at a selected point during the signal’s cycle. The horizontal signal goes through one sweep, retraces back to the left side and waits there until it is triggered again by the input signal to start another sweep.
 
 ### Flat Panel Color Displays for Oscilloscopes
 
-While the standard CRT design of oscilloscope is still in service, the technology of display and control has evolved into use of the flat panel monitors. Furthermore, the newer oscilloscopes can even be integrated with the common personal computer (PC). [Figure 12-168] Some of the features of this technology include easy data capture, data transfer, documentation, and data analysis. Hand-held oscilloscopes are now available that can perform the functions of larger bench type equipment but are mobile and great tools for trouble shooting. [Figure 12-169]
+While the standard CRT design of oscilloscope is still in service, the technology of display and control has evolved into use of the flat panel monitors. Furthermore, the newer oscilloscopes can even be integrated with the common personal computer (PC). Some of the features of this technology include easy data capture, data transfer, documentation, and data analysis. Hand-held oscilloscopes are now available that can perform the functions of larger bench type equipment but are mobile and great tools for trouble shooting.
 
 ### Digital Multimeter
 
@@ -120,26 +120,160 @@ Traditionally, the meters that technicians have used have been the analog voltme
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（57 段）。专业术语按行业惯例，数字与缩写保留。 -->
+把直流仪表，例如电流表，接在交流电路中会指示零，因为 d’Arsonval 型仪表所用的表头机构只限于直流。由于 d’Arsonval 型仪表中永久磁铁的磁场始终保持恒定、方向不变，可动线圈便跟随电流的极性。在交流周期的半个周期内线圈试图朝一个方向转动，在电流反转的另半个周期内则朝相反方向转动。
+
+电流反向太快，线圈来不及跟随，因而使线圈停在平均位置上。由于
+
+在交流周期的每一半中电流大小相等、方向相反，直流仪表便指示零，而零正是平均值。因此，带有永久磁铁的仪表不能用来测量交流电压和电流。要测量交流的电流和电压，还需要附加电路。附加电路中有一个整流器，它把交流电转换为直流电。整流器有两种基本类型：半波整流器和全波整流器。
+
+图中还示出了交流仪表的简化框图。在这一图示中，全波整流器位于表头机构之前。表头机构响应脉动直流的平均值。于是刻度可以标定成设计者想要的任何量值。在多数情况下，所标定的是均方根（RMS）值或峰值。
+
+### 电动式（电动力计）表头机构
+
+电动力计可用于测量交流或直流电压和电流。它的工作原理与永久磁铁动圈式仪表相同，只是永久磁铁被空气芯电磁铁所取代。电动力计的磁场由流过可动线圈的同一电流产生。
+
+由于这种机构中不含铁，电动力计既可用作交流仪表也可用作直流仪表的表头机构。测量交流时，可把固定线圈与可动线圈串联。每当可动线圈中的电流反向，固定线圈产生的磁场也随之反向。无论电流方向如何，指针都朝顺时针方向转动。然而，无论用于电压表还是电流表，电动力计都过于昂贵，难以在经济上与 d’Arsonval 型表头机构竞争。
+
+### 动铁片式仪表
+
+动铁片式仪表是另一种基本类型的仪表。它既可测量交流也可测量直流。与采用永久磁铁的 d’Arsonval 仪表不同，它依靠感应磁性工作。它利用置于螺线管内的两个同心铁片之间的排斥原理，其中一个铁片固定，另一个可动。指针装在可动铁片上。
+
+当电流流过线圈时，在电流的某一方向上，两个铁片的上端被磁化为 N 极、下端被磁化为 S 极。由于同极相斥，与可动元件相切的不平衡分力便使它克服弹簧的作用力而转动。
+
+可动铁片为长方形，固定铁片为渐尖形。这种设计可以使用比较均匀的刻度。
+
+当线圈中没有电流流过时，可动铁片所处的位置与渐尖形固定铁片较宽的部分相对，刻度读数为零。铁片的磁化程度取决于磁场强度，而磁场强度又取决于流过线圈的电流大小。
+
+固定铁片较宽一端的排斥力大于靠近较窄一端处的排斥力。因此，可动铁片朝较窄的一端转过一个与线圈电流大小成正比的角度。当排斥力与弹簧的约束力相平衡时，运动停止。
+
+由于无论线圈中电流方向如何，排斥力方向始终相同（朝向固定铁片较窄的一端），所以动铁片式仪表既可用于直流电路，也可用于交流电路。
+
+这类仪表的机械阻尼可以通过在转轴上装一片铝片来实现：转轴运动时，铝片就在受限的空气空间中移动。
+
+动铁片式仪表用作电流表时，线圈以匝数较少的大直径导线绕制，以便承载额定电流。动铁片式仪表用作电压表时，螺线管以细导线多匝绕制。便携式电压表内置串联电阻，量程可达 750 伏。更高的量程通过外加倍压电阻获得。
+
+（原文此处为图注碎片，原文无正文）
+
+动铁片式仪表也可用于测量直流，但由于铁片中存在剩磁而带有误差。把仪表接线反接并取两次读数的平均值，可使该误差减至最小。用于交流电路时，该仪表的准确度为 0.5%。由于结构简单、成本相对较低，而且没有电流引到可动元件上，这种表头机构被广泛用于测量交流电力电路中的电流和电压。然而，由于磁路磁阻较大，动铁片式仪表产生满刻度偏转所需的功率比同量程的 d’Arsonval 仪表大得多。因此，动铁片式仪表很少用于高电阻、低功率电路。
+
+### 斜线圈动铁片式仪表
+
+动铁片式机构的工作原理也被应用于斜线圈式仪表，它既可测量交流也可测量直流。斜线圈动铁片式仪表的线圈与转轴成一定角度安装。两个软铁片斜装在转轴上，位于线圈内部。当线圈中没有电流流过时，控制弹簧使指针停在零位，铁片位于与线圈平面平行的平面内。当电流流过线圈时，铁片趋于与穿过线圈中心、垂直于线圈平面的磁力线对齐。于是铁片克服弹簧作用而转动，使指针沿刻度移动。
+
+无论线圈中电流方向如何，铁片都趋向与磁力线对齐。因此，斜线圈动铁片式仪表既可测量交流也可测量直流。铝盘和阻尼磁铁提供电磁阻尼。
+
+与动铁片式仪表一样，斜线圈式仪表要达到满刻度偏转需要较大的电流，很少用于高电阻、低功率电路。
+
+与动铁片式仪表一样，斜线圈式仪表用作电流表时以直径较大、匝数较少的导线绕制，用作电压表时以细导线多匝绕制。
+
+在交流电路中，用伏特乘以安培得到视在功率：它是有功功率（做工作的功率）与无功功率（不做工作、并被送回线路的功率）的组合。无功功率以乏（vars，即无功伏安）或千乏（kilovars，即无功千伏安（kV AR））为单位计量。当正确接线时，
+
+它们便测量无功功率。因此，它们被称为无功功率表（varmeters）。
+
+（原文此处为图注碎片，原文无正文）
+
+功率表 电功率用功率表测量。由于电功率是电流与电压的乘积，功率表必须有两个元件，一个用于电流，另一个用于电压。因此，功率表通常采用电动力计式。
+
+带串联电阻的可动线圈构成电压元件，固定线圈构成电流元件。电位线圈（电压线圈）周围磁场的强度取决于流过它的电流大小。该电流又取决于加在线圈上的负载电压以及与之串联的高阻值电阻。电流线圈周围磁场的强度取决于流过负载的电流大小。因此，仪表的偏转与电压线圈两端的电压和通过电流线圈的电流的乘积成正比。如果刻度标定正确，其效果几乎就相当于把加在负载上的电压与流过负载的电流相乘。
+
+如果线路中的电流反向，两个电流线圈和电压线圈中的电流方向都反向，最终结果是指针仍向上读数。因此，这种功率表既可测量交流功率也可测量直流功率。
+
+### 频率测量／示波器
+
+示波器是目前可用的相当有用的电子测量手段之一。示波器的可视能力使人们能够看到并量化各种波形特征，如相位关系、幅度和持续时间。虽然示波器的结构和显示方式多种多样，但基本工作原理通常相同。一般台式或车间用示波器大多使用阴极射线管（CRT），即显示波形的器件或屏幕。CRT 是一种真空器件，内含电子枪，电子枪发射一束很窄的聚焦电子束。涂在屏幕背面的荧光层构成屏幕。电子束受到电子方式的瞄准和加速，从而打到屏幕上。当电子束打到屏幕时，在撞击点发出光。
+
+图中用框图给出了 CRT 的基本组成部件。受热的阴极发射电子。控制栅极上的电压大小决定实际的电子流量，从而控制电子束的强度。加速阳极提高电子的速度，聚焦阳极把电子束收细成一点。屏幕表面本身也是一个阳极，协助电子束加速。
+
+垂直与水平偏转板的作用是使电子束偏转，并把它定位到屏幕上的特定点。给偏转板加中性电压或零电压时，电子束不受影响。给极板加负电压时，电子束被排斥并被推离该板。最后，加正电压时，电子束被吸向该板。图中给出了几种可能的极板电压组合及其相应的电子束位置。
+
+### 水平偏转
+
+为了得到输入信号的直观图形，要产生一个内部产生的锯齿波电压，然后把它加到水平偏转板上。图中表明，锯齿波是一种所加电压的波形，它从负电压开始，以恒定速率升高到正电压。这个变化的电压把电子束从屏幕最左侧拉（描）到最右侧。如果扫描速率足够快，所得到的显示就是一条直线。这个所加的锯齿波电压是重复信号，因此电子束被反复扫过整个管子。锯齿波电压从负到正的速率由频率决定。这个速率进而确定电子束的扫描速率。当锯齿波完成自左向右的扫描行程后，电子束迅速回到左侧，准备进行下一次扫描。在这段时间内，电子束被截止或消隐，不产生任何轨迹。这段时间称为回扫。
+
+### 垂直偏转
+
+如果把同一信号加到垂直板上，它同样会使电子束从下方位置描到上方位置，从而产生一条竖线。
+
+### 描绘正弦波
+
+在示波器上重现正弦波，要同时利用垂直和水平两种偏转图形。如果把正弦波电压信号加到垂直偏转板两端，结果就是电子束在屏幕上上下作垂直振荡。电子束偏离中心线的幅度取决于电压的峰值。
+
+在水平板使电子束自左向右扫描的同时，正弦波电压被加到垂直板上，使输入信号的波形在屏幕上被描绘出来。
+
+### 示波器的控制装置
+
+虽然示波器样式繁多，从简单到复杂各不相同，但它们都有一些共同的控制装置。除屏幕和电源开关外，其中一些控制装置列举如下：
+
+• 水平位置——可调节电子束的水平中性位置。用该控制装置重新定位波形显示，以便更好地观察波形或进行测量。
+
+• 垂直位置——使所描绘的图像上下移动，便于更好地观察和测量。
+
+• 聚焦——在电子束瞄准并汇聚到屏幕的过程中对其进行控制。当电子束清晰聚焦时，它被收细成非常细的一点，不出现模糊的外观。
+
+• 强度——实质上就是轨迹的亮度。
+
+控制打到屏幕上的电子流量即可改变亮度。在进行长时间测试时，或当电子束静止并在屏幕上形成一个点时，不要使亮度保持过高。这会损坏屏幕。
+
+• 秒／格——一种基于时间的控制装置，用于设定水平扫描速率。基本上，该开关用来选择水平刻度上每一格所代表的时间间隔。这些格可以是秒、毫秒，甚至微秒。一个简单的例子是：假设技术人员把秒／格控制装置置于 10 μS。如果该技术人员正在观察的波形在屏幕上占 4 格周期，那么周期就是 40 μS。此后可通过取周期的倒数确定该波形的频率。在此例中，1⁄40 μS 等于 25 kHz 的频率。
+
+• 伏／格——用于选择垂直刻度上每一格所代表的电压间隔。例如，假设每一垂直格设定为等于 10 mV。若测得某波形的峰值为 4 格，则峰值电压为 40 mV。
+
+• 触发——触发控制使锯齿波水平扫描与加在垂直板上的信号之间保持同步。其好处是屏幕上的波形看起来稳定固定，不会在屏幕上漂移。触发电路用来启动一次扫描，而不是
+
+（原文此处为图注碎片，原文无正文）
+
+（原文此处为图注碎片，原文无正文）
+
+采用固定的锯齿波扫描速率。在典型示波器中，这个触发信号来自输入信号本身，取自信号周期中选定的某一点。水平信号完成一次扫描，回扫到左侧后就在那里等待，直到再次被输入信号触发，才开始另一次扫描。
+
+### 示波器的平板彩色显示
+
+虽然标准 CRT 式示波器仍在使用，但显示与控制技术已经发展到使用平板显示器的阶段。此外，较新的示波器甚至可以与普通个人计算机（PC）集成。这类技术的一些特点包括方便的数据采集、数据传输、记录归档和数据分析。现在已有手持式示波器，它们能履行为大型台式设备所设计的功能，而且便于携带，是排查故障的好工具。
+
+### 数字万用表
+
+传统上，技术人员使用的仪表是模拟电压表、电流表和欧姆表。这些通常组合在同一台仪器中，称为万用表或 VOM（伏-欧-毫安表）。这种做法既方便又经济。由于使用方便，数字万用表（DMM）和数字电压表（DVM）更为常见。与带指针的旧式模拟仪表相比，这类仪表更易读数，精度也更高。万用表的单线圈表头需要许多条刻度，而这些刻度并不总是容易准确读数。此外，内阻造成的负载效应有时会影响电路和测量结果。DVM 不仅精度更高、读数更明确，而且输入电阻更高，对电路的负载效应和影响更小。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Addition —— The process in which the value of one number is added to the value of another.
-- Ammeter —— An instrument for measuring electric current in amperes.
-- Apparent power —— That power apparently available for use in an AC circuit containing a reactive component. It is the product of effective voltage times the effective current, ex
-- Current —— The flow of electrical charge.
-- Division —— The process of finding how many times one number (the divisor) is contained in another number (the dividend).
-- Force —— The intensity of an impetus, or the intensity of an input.
-- Frequency —— The number of cycles (on/off) completed per unit of time. Usually expressed in Hertz.
-- Ohmmeter —— A current measuring instrument that provides its own source (self-excited) of power.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| rectifier | n. | 整流器 | 把交流电转换为直流电的器件，是交流测量的必备环节 |
+| half-wave rectifier | n.phr. | 半波整流器 | 只在正半周把交流变为脉动直流的整流方式 |
+| full-wave rectifier | n.phr. | 全波整流器 | 在正、负两个半周都整流，位于表头机构之前 |
+| root mean square (RMS) | n.phr. | 均方根 | 交流表刻度最常标定的有效值，与峰值并列 |
+| electrodynamometer | n. | 电动力计（电动式机构） | 用空气芯电磁铁代替永久磁铁、可测交直流的表头 |
+| moving iron vane meter | n.phr. | 动铁片式仪表 | 靠两个同心铁片间排斥力工作的交直流通用仪表 |
+| repulsion | n. | 排斥（力） | 同极相斥使可动铁片克服弹簧转动的力 |
+| residual magnetism | n.phr. | 剩磁 | 铁片残留磁性，使动铁片式仪表测直流时产生误差 |
+| varmeter | n. | 无功功率表 | 正确接线后专门测量无功功率的仪表 |
+| wattmeter | n. | 功率表 | 含电流元件与电压元件、读数正比于电压电流乘积 |
+| oscilloscope | n. | 示波器 | 用 CRT 显示波形，可观察相位、幅度与持续时间 |
+| flyback | n. | 回扫 | 锯齿波扫到右端后电子束快速返回左侧并被消隐的时段 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① Because 原因状语从句 + as 介词短语表用途
+**原句**：Because this movement contains no iron, the electrodynamometer can be used as a movement for both AC and DC instruments.
+**拆解**：Because 引导原因状语从句，主语 this movement，谓语 contains，宾语 no iron；主句主语 the electrodynamometer，谓语 can be used，as a movement for both AC and DC instruments 为介词短语作方式/身份状语。
+**要点**：be used as 表示「被用作」，as 后接身份名词，区别于 be used for（用于某用途）与 be used to do（用来做）；both…and 连接并列定语，注意与 either…or 的区别。
+
+### ② When 引导的被动时间从句 + in order to 目的状语
+**原句**：When the moving iron vane meter is used as an ammeter, the coil is wound with relatively few turns of large wire in order to carry the rated current.
+**拆解**：When 引导时间状语从句，其中 the moving iron vane meter 作主语、is used as an ammeter 为被动谓语加方式短语；主句 the coil is wound with relatively few turns of large wire 为被动结构，with 引出材料与匝数；in order to carry the rated current 为目的状语。
+**要点**：be wound with 表示「用……绕制」，是绕线工艺的固定搭配；in order to 与 so as to 同义，但 in order to 可置于句首；few turns of large wire 中 few 修饰可数名词 turns，注意与 a few 的褒贬差别。
+
+### ③ 动名词作主语
+**原句**：Controlling the flow of electrons onto the screen varies the intensity.
+**拆解**：Controlling the flow of electrons onto the screen 为动名词短语作主语，谓语为第三人称单数的 varies，宾语 the intensity；onto the screen 为方向状语修饰 flow。
+**要点**：动名词作主语时谓语用单数；句中已有 varies 这一谓语，因此不能再把 controlling 视为谓语动词；flow of electrons onto the screen 是「电子打到屏幕上的流量」这一技术表达。
+
+### ④ Regardless of 引导的让步介词短语
+**原句**：Regardless of the direction of the current, the needle moves in a clockwise direction.
+**拆解**：Regardless of the direction of the current 为让步介词短语作状语，of 后接名词短语；主句 the needle moves in a clockwise direction，in a clockwise direction 为方式状语。
+**要点**：regardless of 意为「不论、不管」，后接名词或名词性短语，不能直接接从句（接从句需用 regardless of the fact that）；in a clockwise direction 中 clockwise 作形容词修饰 direction。
+
+### ⑤ Not only 置于句首的部分倒装 + which 非限制性定语从句
+**原句**：Not only does the DVM offer greater accuracy and less ambiguity, but also higher input resistance, which has less of a loading effect and influence on a circuit.
+**拆解**：Not only 置于句首引起部分倒装，助动词 does 提到主语 the DVM 之前，实义动词 offer 保持原形；but also 后省略了相同的主语谓语，只留宾语 higher input resistance；which 引导非限制性定语从句，先行词为 higher input resistance。
+**要点**：not only…but also 置于句首时前一分句必须倒装、后一分句用正常语序；but also 后省略成分要靠上下文补全；which 从句中 less of a loading effect 是「负载效应较小」的固定说法。

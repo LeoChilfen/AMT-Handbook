@@ -1,0 +1,214 @@
+<h1 id="ac-motors">AC Motors</h1>
+<blockquote>通用 Ch 12 · AC Motors · 原文 PDF 第 589 页</blockquote>
+<h2 id="1-原文">1. 原文</h2>
+<p>Because of their advantages, many types of aircraft motors are designed to operate on alternating current. In general, AC motors are less expensive than comparable DC motors. In many instances, AC motors do not use brushes and commutators so sparking at the brushes is avoided. AC motors are reliable and require little maintenance. They are also well suited for constant speed applications and certain types are manufactured that have, within limits, variable speed characteristics. Alternating current motors are designed to operate on polyphase or single-phase lines and at several voltage ratings.</p>
+<p>The speed of rotation of an AC motor depends upon the number of poles and the frequency of the electrical source of power:</p>
+<p>rpm = 120 × FrequencyNumber of poles Since airplane electrical systems typically operate at 400 cycles, an electric motor at this frequency operates at about seven times the speed of a 60-cycle commercial motor with the same number of poles. Because of this high speed of rotation, 400-cycle AC motors are suitable for operating small, high-speed rotors, through reduction gears, in lifting and moving heavy loads, such as the wing flaps, the retractable landing gear, and the starting of engines. The 400-cycle induction type motor operates at speeds ranging from 6,000 rpm to 24,000 rpm. Alternating current motors are rated in horsepower output, operating voltage, full load current, speed, number of phases, and frequency. Whether the motors operate continuously or intermittently (for short intervals) is also considered in the rating.</p>
+<h3 id="types-of-ac-motors">Types of AC Motors</h3>
+<p>There are two general types of AC motors used in aircraft systems: induction motors and synchronous motors. Either type may be single-phase, two-phase, or three-phase. Three-phase induction motors are used where large amounts of power are required. They operate such devices as starters, flaps, landing gears, and hydraulic pumps. Single-phase induction motors are used to operate devices such as surface locks, intercooler shutters, and oil shutoff valves in which the power requirement is low. Three-phase synchronous motors operate at constant synchronous speeds and are commonly used to operate flux gate compasses and propeller synchronizer systems. Single- phase synchronous motors are common sources of power to operate electric clocks and other small, precision equipment. They require some auxiliary method to bring them up to synchronous speeds; that is, to start them. Usually the starting winding consists of an auxiliary stator winding.</p>
+<h3 id="three-phase-induction-motor">Three-Phase Induction Motor</h3>
+<p>The three-phase AC induction motor is also called a squirrel cage motor. Both single-phase and three-phase motors operate on the principle of a rotating magnetic field. A horseshoe magnet held over a compass needle is a simple illustration of the principle of the rotating field. The needle takes a position parallel to the magnetic flux passing between the two poles of the magnet. If the magnet is rotated, the compass needle follows. A rotating magnetic field can be produced by a two-or three-phase current flowing through two or more groups of coils wound on inwardly projecting poles of an iron frame. The coils on each group of poles are wound alternately in opposite directions to produce opposite polarity, and each group is connected to a separate phase of voltage. The operating principle depends on a revolving, or rotating, magnetic field to produce torque. The key to understanding the induction motor is a thorough understanding of the rotating magnetic field.</p>
+<h3 id="rotating-magnetic-field">Rotating Magnetic Field</h3>
+<p>The field structure has poles whose windings are energized by three AC voltages: a, b, and c. These voltages have equal magnitude but differ in phase. At the instant of time shown as 0, the resultant magnetic field produced by the application of the three voltages has its greatest intensity in a direction extending from pole 1 to pole 4. Under this condition, pole 1 can be considered as a North pole and pole 4 as a South pole. At the instant of time shown as 1, the resultant magnetic field has its greatest intensity in the direction extending from pole 2 to pole 5. In this case, pole 2 can be considered as a North pole and pole 5 as a South pole. Thus, between instant 0 and instant 1, the magnetic field has rotated clockwise. At instant 2, the resultant magnetic field has its greatest intensity in the direction from pole 3 to pole 6, and the resultant magnetic field has continued to rotate clockwise. At instant 3, poles 4 and 1 can be considered as North and South poles, respectively, and the field has rotated still farther. At later instants of time, the resultant magnetic field rotates to other positions while traveling in a clockwise direction, a single revolution of the field occurring in one cycle. If the exciting voltages have a frequency of 60 cps, the magnetic field makes 60 revolutions per second, or 3,600 rpm. This speed is known as the synchronous speed of the rotating field.</p>
+<h3 id="construction-of-induction-motor">Construction of Induction Motor</h3>
+<p>The stationary portion of an induction motor is called a stator, and the rotating member is called a rotor. Instead of salient poles in the stator, distributed windings are used. These windings are placed in slots around the periphery of the stator. It is usually impossible to determine the number of poles in an induction motor by visual inspection, but the information can be obtained from the nameplate of the motor. The nameplate usually gives the number of poles and the speed at which the motor is designed to run. This rated, or nonsynchronous, speed is slightly less than the synchronous speed. To determine the number of poles per phase on the motor, divide 120 times the frequency by the rated speed. Written as an equation, it is:</p>
+<p>P = 120 × fN Where: P is the number of poles per phase f is the frequency in cps N is the rated speed in rpm, and 120 is a constant The result is nearly equal to the number of poles per phase. For example, consider a 60-cycle, three-phase motor with a rated speed of 1,750 rpm. In this case:</p>
+<p>P = = = 4.1120 × 60 7,2001,750 1,750 Therefore, the motor has four poles per phase. If the number of poles per phase is given on the nameplate, the synchronous speed can be determined by dividing 120 times the frequency by the number of poles per phase. In the example used above, the synchronous speed is equal to 7,200/4, or 1,800 rpm.</p>
+<p>The rotor of an induction motor consists of an iron core having longitudinal slots around its circumference in which heavy copper or aluminum bars are embedded. These bars are welded to a heavy ring of high conductivity on either end. The composite structure is sometimes called a squirrel cage, and motors containing such a rotor are called squirrel cage induction motors.</p>
+<h3 id="induction-motor-slip">Induction Motor Slip</h3>
+<p>When the rotor of an induction motor is subjected to the revolving magnetic field produced by the stator windings, a voltage is induced in the longitudinal bars. The induced voltage causes a current to flow through the bars. This current, in turn, produces its own magnetic field, which combines with the revolving field so that the rotor assumes a position in which the induced voltage is minimized. As a result, the rotor revolves at very nearly the synchronous speed of the stator field, the difference in speed being just sufficient enough to induce the proper amount of current in the rotor to overcome the mechanical and electrical losses in the rotor. If the rotor were to turn at the same speed as the rotating field, the rotor conductors would not be cut by any magnetic lines of force, no EMF would be induced in them, no current could flow, and there would be no torque. The rotor would then slow down. For this reason, there must always be a difference in speed between the rotor and the rotating field. This difference in speed is called slip and is expressed as a percentage of the synchronous speed. For example, if the rotor turns at 1,750 rpm and the synchronous speed is 1,800 rpm, the difference in speed is 50 rpm. The slip is then equal to 50/1,800 or 2.78 percent.</p>
+<h3 id="single-phase-induction-motor">Single-Phase Induction Motor</h3>
+<p>The previous discussion has applied only to polyphase motors. A single-phase motor has only one stator winding. This winding generates a field, which merely pulsates, instead of rotating. When the rotor is stationary, the expanding and collapsing stator field induces currents in the rotor. These currents generate a rotor field opposite in polarity to that of the stator. The opposition of the field exerts a turning force on the upper and lower parts of the rotor trying to turn it 180° from its position. Since these forces are exerted through the center of the rotor, the turning force is equal in each direction. As a result, the rotor does not turn. If the rotor starts turning, it continues to rotate in the direction in which it started, since the turning force in that direction is aided by the momentum of the rotor.</p>
+<h3 id="shaded-pole-induction-motor">Shaded Pole Induction Motor</h3>
+<p>The first effort in the development of a self-starting, single-phase motor was the shaded pole induction motor. This motor has salient poles, a portion of each pole being encircled by a heavy copper ring. The presence of the ring causes the magnetic field through the ringed portion of the pole face to lag appreciably behind that through the other part of the pole face. The net effect is the production of a slight component of rotation of the field, sufficient to cause the rotor to revolve. As the rotor accelerates, the torque increases until the rated speed is obtained. Such motors have low starting torque and find their greatest application in small fan motors where the initial torque required is low.</p>
+<p>The poles of the shaded pole motor resemble those of a DC motor.</p>
+<p>A low resistance, short-circuited coil or copper band is placed across one tip of each small pole from which the motor gets the name of shaded pole. The rotor of this motor is the squirrel cage type. As the current increases in the stator winding, the flux increases. A portion of this flux cuts the low resistance shading coil. This induces a current in the shading coil, and by Lenz’s Law, the current sets up a flux that opposes the flux inducing the current. Hence, most of the flux passes through the unshaded portion of the poles.</p>
+<p>When the current in the winding and the main flux reaches a maximum, the rate of change is zero; thus, no emf is induced in the shading coil. A little later, the shading coil current, which causes the induced emf to lag, reaches zero, and there is no opposing flux. Therefore, the main field flux</p>
+<p>passes through the shaded portion of the field pole. The main field flux, which is now decreasing, induces a current in the shading coil. This current sets up a flux that opposes the decrease of the main field flux in the shaded portion of the pole. The effect is to concentrate the lines of force in the shaded portion of the pole face. In effect, the shading coil retards, in time phase, the portion of the flux passing through the shaded part of the pole. This lag in time phase of the flux in the shaded tip causes the flux to produce the effect of sweeping across the face of the pole, from left to right in the direction of the shaded tip. This behaves like a very weak rotating magnetic field, and sufficient torque is produced to start a small motor. The starting torque of the shaded pole motor is exceedingly weak, and the power factor is low. Consequently, it is built in sizes suitable for driving such devices as small fans.</p>
+<h3 id="split-phase-motor">Split-Phase Motor</h3>
+<p>There are various types of self-starting motors, known as split-phase motors. Such motors have a starting winding displaced 90 electrical degrees from the main or running winding. In some types, the starting winding has a fairly high resistance, which causes the current in this winding to be out of phase with the current in the running winding. This condition produces, in effect, a rotating field and the rotor revolves. A centrifugal switch disconnects the starting winding automatically after the rotor has attained approximately 25 percent of its rated speed.</p>
+<h3 id="capacitor-start-motor">Capacitor Start Motor</h3>
+<p>With the development of high-capacity electrolytic capacitors, a variation of the split-phase motor known as the capacitor start motor, has been made. Nearly all fractional horsepower motors in use today on refrigerators and other similar appliances are of this type. In this adaptation, the starting winding and running winding have the same size and resistance value. The phase shift between currents of the two windings is obtained by using capacitors connected in series with the starting winding.</p>
+<p>Capacitor start motors have a starting torque comparable to their torque at rated speed and can be used in applications where the initial load is heavy. Again, a centrifugal switch is required for disconnecting the starting winding when the rotor speed is approximately 25 percent of the rated speed.</p>
+<p>Although some single-phase induction motors are rated as high as 2 horsepower (hp), the major field of application is 1 hp, or less, at a voltage rating of 115 volts for the smaller sizes and 110 to 220 volts for one-fourth hp and up. For even larger power ratings, polyphase motors generally are used, since they have excellent starting torque characteristics.</p>
+<h3 id="direction-of-rotation-of-induction-motors">Direction of Rotation of Induction Motors</h3>
+<p>The direction of rotation of a three-phase induction motor can be changed by simply reversing two of the leads to the motor. The same effect can be obtained in a two-phase motor by reversing connections to one phase. In a single-phase motor, reversing connections to the starting winding reverses the direction of rotation.</p>
+<p>Most single-phase motors designed for general application have provision for readily reversing connections to the starting winding. Nothing can be done to a shaded pole motor to reverse the direction of rotation because the direction is determined by the physical location of the copper shading ring. If, after starting, one connection to a three-phase motor is broken, the motor continues to run but delivers only one-third the rated power. Also, a two-phase motor runs at one-half its rated power if one phase is disconnected. Neither motor starts under these abnormal conditions.</p>
+<h3 id="synchronous-motor">Synchronous Motor</h3>
+<p>The synchronous motor is one of the principal types of AC motors. Like the induction motor, the synchronous motor makes use of a rotating magnetic field. Unlike the induction motor, however, the torque developed does not depend on the induction of currents in the rotor. Briefly, the principle of operation of the synchronous motor is as follows: A multiphase source of AC is applied to the stator windings, and a rotating magnetic field is produced. A direct current is applied to the rotor winding, and another magnetic field is produced. The synchronous motor is so designed and constructed that these two fields react to each other in such a manner that the rotor is dragged along and rotates at the same speed as the rotating magnetic field produced by the stator windings.</p>
+<p>An understanding of the operation of the synchronous motor can be obtained by considering the simple motor of clockwise by some mechanical means in order to produce a rotating magnetic field. They induce poles of opposite polarity in the soft iron rotor, and forces of attraction exist between corresponding North and South poles.</p>
+<p>Consequently, as poles A and B rotate, the rotor is dragged along at the same speed. However, if a load is applied to the rotor shaft, the rotor axis momentarily falls behind that of the rotating field but, thereafter, continues to rotate with the field at the same speed as long as the load remains constant. If the load is too large, the rotor pulls out of synchronism with the rotating field and, as a result, no longer rotates with the field at the same speed. Thus, the motor is said to be overloaded.</p>
+<p>Such a simple motor is never used. The idea of using some mechanical means of rotating the poles is impractical because another motor would be required to perform this work. Also, such an arrangement is unnecessary because a rotating magnetic field can be produced electrically by using phased AC voltages. In this respect, the synchronous motor is similar to the induction motor.</p>
+<p>The synchronous motor consists of a stator field winding similar to that of an induction motor. The stator winding produces a rotating magnetic field. The rotor may be a permanent magnet, as in small, single-phase synchronous motors used for clocks and other small precision equipment, or it may be an electromagnet, energized from a DC source of power and fed through slip rings into the rotor field coils, as in an alternator. In fact, an alternator may be operated either as an alternator or a synchronous motor.</p>
+<p>Since a synchronous motor has little starting torque, some means must be provided to bring it up to synchronous speed. The most common method is to start the motor at no load, allow it to reach full speed, and then energize the magnetic field. The magnetic field of the rotor locks with the magnetic field of the stator and the motor operates at synchronous speed.</p>
+<p>The magnitude of the induced poles in the rotor is so small that sufficient torque cannot be developed for most practical loads. To avoid such a limitation on motor operation, a winding is placed on the rotor and energized with DC. A rheostat placed in series with the DC source provides the operator of the machine with a means of varying the strength of the rotor poles, thus placing the motor under control for varying loads.</p>
+<p>The synchronous motor is not a self-starting motor. The rotor is heavy and, from a dead stop, it is impossible to bring the rotor into magnetic lock with the rotating magnetic field. For this reason, all synchronous motors have some kind of starting device. One type of simple starter is another motor, either AC or DC, which brings the rotor up to approximately 90 percent of its synchronous speed. The starting motor is then disconnected, and the rotor locks in step with the rotating field. Another starting method is a second winding of the squirrel cage type on the rotor. This induction winding brings the rotor almost to synchronous speed, and when the DC is connected to the rotor windings, the rotor pulls into step with the field. The latter method is the more commonly used.</p>
+<p>An AC-series motor is a single-phase motor, but is not an induction or synchronous motor. It resembles a DC motor in that it has brushes and a commutator. The AC-series motor operates on either AC or DC circuits. Remember that the direction of rotation of a DC-series motor is independent of the polarity of the applied voltage, provided the field and armature connections remain unchanged. Hence, if a DC-series motor is connected to an AC source, a torque is developed that tends to rotate the armature in one direction. However, a DC-series motor does not operate satisfactorily from an AC supply for the following reasons:</p>
+<ol><li>The alternating flux sets up large eddy current and hysteresis losses in the unlaminated portions of the magnetic circuit and causes excessive heating and reduced efficiency.</li></ol>
+<ol start="2"><li>The self-induction of the field and armature windings causes a low power factor.</li></ol>
+<ol start="3"><li>The alternating field flux establishes large currents in the coils, which are short circuited by the brushes; this action causes excessive sparking at the commutator.</li></ol>
+<p>To design a series motor for satisfactory operation on AC, the following changes are made:</p>
+<ol><li>The eddy current losses are reduced by laminating the field poles, frame, and armature.</li></ol>
+<ol start="2"><li>Hysteresis losses are minimized by using high permeability, transformer-type, silicon steel laminations.</li></ol>
+<ol start="3"><li>The reactance of the field windings is kept satisfactorily low by using shallow pole pieces, few turns of wire, low frequency (usually 25 cycles for large motors), low flux density, and low reluctance (a short air gap).</li></ol>
+<ol start="4"><li>The reactance of the armature is reduced by using a compensating winding embedded in the pole pieces. If the compensating winding is connected in series with the armature, the armature is conductively compensated.</li></ol>
+<p>If the compensating winding is designed, the armature is inductively compensated. If the motor is designed for operation on both DC and AC circuits, the compensating winding is connected in series with the armature. The axis of the compensating winding is displaced from the main field axis by an angle of 90°. This arrangement is similar to the compensating winding used in some DC motors and generators to overcome armature reaction. The compensating winding establishes a counter magnetomotive force, neutralizing the effect of the armature magnetomotive force, preventing distortion of the main field flux, and reducing the armature reactance. The inductively compensated armature acts like the primary of a transformer, the secondary</p>
+<p>Winding 1 (Starting winding)</p>
+<p>of which is the shorted compensating winding. The shorted secondary receives an induced voltage by the action of the alternating armature flux, and the resulting current flowing through the turns of the compensating winding establishes the opposing magnetomotive force, neutralizing the armature reactance.</p>
+<ol start="5"><li>Sparking at the commutator is reduced by the use of preventive leads P1, P2, P3, and so forth, When coils at A and B are shorted by the brushes, the induced current is limited by the relatively high resistance of the leads. Sparking at the brushes is also reduced by using armature coils having only a single turn and multipolar fields. High torque is obtained by having a large number of armature conductors and a large diameter armature. Thus, the commutator has a large number of very thin commutator bars and the armature voltage is limited to about 250 volts.</li></ol>
+<p>Fractional horsepower AC series motors are called universal motors. They do not have compensating windings or preventive leads. They are used extensively to operate fans and portable tools, such as drills, grinders, and saws.</p>
+<h3 id="maintenance-of-ac-motors">Maintenance of AC Motors</h3>
+<p>The inspection and maintenance of AC motors is very simple. The bearings may or may not need frequent lubrication. If they are the sealed type, lubricated at the factory, they require no further attention. Be sure the coils are kept dry and free from oil or other abuse. The temperature of a motor is usually its only limiting operating factor. A good rule of thumb is that a temperature too hot for the hand is too high for safety. Next to the temperature, the sound of a motor or generator is the best trouble indicator. When operating properly, it should hum evenly. If it is overloaded it “grunts.” A three-phase motor with one lead disconnected refuses to turn and “growls.” A knocking sound generally indicates a loose armature coil, a shaft out of alignment, or armature dragging because of worn bearings. In all cases, the inspection and maintenance of all AC motors should be performed in accordance with the applicable manufacturer’s instructions.</p>
+<h2 id="2-中文翻译">2. 中文翻译</h2>
+<p>由于交流电动机的诸多优点，许多类型的飞机电动机被设计为使用交流电运行。一般来说，交流电动机比同类直流电动机便宜。在许多情况下，交流电动机不使用电刷和换向器，因此避免了电刷处的火花。交流电动机可靠且维护量小。它们还非常适合恒速应用，某些类型在允许范围内还具有变速特性。交流电动机被设计为可在多相或单相线路上运行，并有多种额定电压。</p>
+<p>交流电动机的转速取决于磁极数和电源频率：</p>
+<p>rpm = 120 × 频率/磁极数 由于飞机电气系统通常以 400 周运行，因此在该频率下，一台电动机的转速约为相同磁极数的 60 周商用电动机的七倍。由于转速很高，400 周的交流电动机适合通过减速齿轮驱动小型高速转子，用于升降和移动重载，如襟翼、可收放起落架以及发动机起动。400 周感应式电动机的转速范围为 6,000 rpm 至 24,000 rpm。交流电动机按输出马力、工作电压、满载电流、转速、相数和频率额定。电动机是连续运行还是间歇运行（短时间运行）也在额定考虑之内。</p>
+<h3 id="交流电动机的类型">交流电动机的类型</h3>
+<p>飞机系统中使用的交流电动机主要有两大类：感应电动机和同步电动机。两类都可能是单相、两相或三相。三相感应电动机用于需要大功率的场合，驱动起动器、襟翼、起落架和液压泵等装置。单相感应电动机用于驱动功率需求较低的装置，如舱门锁、中冷器百叶窗和滑油关断活门。三相同步电动机以恒定的同步转速运行，常用于驱动磁通门罗盘和螺旋桨同步系统。单相同步电动机是驱动电钟和其他小型精密设备的常见动力源。它们需要某种辅助方法把转速提高到同步转速；也就是说，需要起动。通常起动绕组由辅助定子绕组构成。</p>
+<h3 id="三相感应电动机">三相感应电动机</h3>
+<p>三相交流感应电动机也称为鼠笼式电动机。单相和三相电动机都基于旋转磁场的原理工作。把马蹄形磁铁放在罗盘指针上方，就是旋转磁场原理的一个简单示例。指针会停在平行于磁铁两极之间磁通的位置。如果转动磁铁，罗盘指针会跟着转动。当两相或三相电流流过绕在铁架内凸磁极上的两组或多组线圈时，就能产生旋转磁场。每组磁极上的线圈交替地以相反方向绕制，以产生相反的极性，每组线圈接到独立的电压相。其工作原理依靠旋转磁场来产生转矩。理解感应电动机的关键，是透彻理解旋转磁场。</p>
+<h3 id="旋转磁场">旋转磁场</h3>
+<p>该磁场结构中的磁极绕组由三相交流电压 a、b、c 供电。这些电压大小相等，但相位不同。在标为 0 的时刻，三相电压共同产生的合成磁场在由极 1 指向极 4 的方向上强度最大。在这种状态下，极 1 可视为北极，极 4 可视为南极。在标为 1 的时刻，合成磁场在由极 2 指向极 5 的方向上强度最大。此时，极 2 可视为北极，极 5 可视为南极。因此，在时刻 0 和时刻 1 之间，磁场已顺时针旋转。在时刻 2，合成磁场在由极 3 指向极 6 的方向上强度最大，合成磁场继续顺时针旋转。在时刻 3，极 4 和极 1 可分别视为北极和南极，磁场又转过更远。在此后的时刻，合成磁场继续顺时针方向行进并转到其他位置，磁场在一个周期内完成一次旋转。如果励磁电压频率为 60 cps，磁场每秒旋转 60 转，即 3,600 rpm。这个转速称为旋转磁场的同步转速。</p>
+<h3 id="感应电动机的构造">感应电动机的构造</h3>
+<p>感应电动机的静止部分称为定子，旋转部分称为转子。定子不采用凸极，而采用分布绕组。这些绕组嵌放在定子圆周的槽内。通常无法通过目视检查确定感应电动机的极数，但可以从电动机的铭牌上获得这一信息。铭牌通常给出极数和电动机设计的运行转速。这个额定转速（或称非同步转速）略低于同步转速。要确定电动机每相的极数，可用 120 乘频率再除以额定转速。写成公式为：</p>
+<p>P = 120 × f/N 式中：P 为每相极数，f 为频率（cps），N 为额定转速（rpm），120 为常数。计算结果近似等于每相极数。例如，考虑一台额定转速 1,750 rpm 的 60 周三相电动机。此时：</p>
+<p>P = 120 × 60 / 1,750 = 7,200/1,750 = 4.11 因此，该电动机每相有四个磁极。如果铭牌上给出了每相极数，则可用 120 乘频率除以每相极数求得同步转速。在上例中，同步转速等于 7,200/4，即 1,800 rpm。</p>
+<p>感应电动机的转子由铁芯构成，铁芯圆周上有纵向槽，槽内嵌有粗铜条或铝条。这些导条两端焊接到高电导率的粗端环上。这种组合结构有时称为鼠笼，装有这种转子的电动机称为鼠笼式感应电动机。</p>
+<h3 id="感应电动机的转差">感应电动机的转差</h3>
+<p>当感应电动机的转子处于定子绕组产生的旋转磁场中时，纵向导条中会感应出电压。感应电压使电流流过导条。这个电流又产生自己的磁场，该磁场与旋转磁场合成，使转子处于感应电压最小的位置。结果，转子以非常接近定子磁场同步转速的转速旋转，转速差刚好足以在转子中感应出适当的电流，以克服转子中的机械损耗和电气损耗。如果转子以与旋转磁场相同的转速旋转，转子导体就不会切割任何磁力线，其中不会感应出电动势，不会有电流流过，也就没有转矩。于是转子会减速。因此，转子与旋转磁场之间必须始终存在转速差。这个转速差称为转差，用同步转速的百分比表示。例如，如果转子以 1,750 rpm 旋转而同步转速为 1,800 rpm，转速差为 50 rpm，则转差等于 50/1,800，即 2.78%。</p>
+<h3 id="单相感应电动机">单相感应电动机</h3>
+<p>前面的讨论只适用于多相电动机。单相电动机只有一个定子绕组。该绕组产生的磁场只是脉动，而不是旋转。当转子静止时，定子磁场的扩张和收缩会在转子中感应出电流。这些电流产生与定子磁场极性相反的转子磁场。磁场的相斥对转子的上下两部分施加转动力，试图使它从所在位置转过 180°。由于这些力都通过转子中心作用，两个方向的转动力相等。结果转子不转。如果转子开始转动，它会沿着起动时的方向继续旋转，因为该方向的转动力得到转子动量的帮助。</p>
+<h3 id="罩极式感应电动机">罩极式感应电动机</h3>
+<p>在自起动单相电动机的发展中，最早的努力是罩极式感应电动机。这种电动机有凸极，每个磁极的一部分被一个粗铜环包围。铜环的存在使穿过磁极面被环包围部分的磁场明显滞后于穿过磁极面其他部分的磁场。净效果是产生一个很小的磁场旋转分量，足以使转子旋转。随着转子加速，转矩增大，直到达到额定转速。这种电动机起动转矩低，最适用于初始转矩要求不高的小型风扇电动机。</p>
+<p>罩极式电动机的磁极与直流电动机的磁极相似。</p>
+<p>在每个小磁极的一个端部跨接一个低电阻短路线圈或铜带，电动机由此得名罩极式。这种电动机的转子是鼠笼式。随着定子绕组中电流增大，磁通增大。一部分磁通切割低电阻的罩极线圈，在罩极线圈中感应出电流；根据楞次定律，该电流产生一个磁通，阻碍感应出该电流的磁通。因此，大部分磁通穿过磁极的未罩部分。</p>
+<p>当绕组中的电流和主磁通达到最大值时，变化率为零，因此罩极线圈中不感应电动势。稍后，使感应电动势滞后的罩极线圈电流降为零，不再有阻碍磁通。因此，主磁场磁通</p>
+<p>穿过磁极的罩极部分。现在正在减小的主磁场磁通在罩极线圈中感应出电流。这个电流产生的磁通阻碍磁极罩极部分中主磁场磁通的减小。其效果是把磁力线集中在磁极面的罩极部分。实际上，罩极线圈在时间相位上使穿过磁极罩极部分的那部分磁通滞后。罩极尖端磁通的这种时间相位滞后，使磁通产生扫过磁极面的效果，方向为从左到右、朝向罩极尖端。这就像很弱的旋转磁场，能产生足够的转矩来起动小型电动机。罩极式电动机的起动转矩极弱，功率因数低。因此，它被制成适合驱动小型风扇等装置的规格。</p>
+<h3 id="分相式电动机">分相式电动机</h3>
+<p>有各种类型的自起动电动机，称为分相式电动机。这种电动机的起动绕组与主绕组（运行绕组）在电气上相差 90 电角度。在某些类型中，起动绕组电阻较高，使该绕组中的电流与运行绕组中的电流不同相。这种情况实际上产生旋转磁场，转子便旋转起来。当转子达到约 25% 额定转速后，离心开关自动断开起动绕组。</p>
+<h3 id="电容起动电动机">电容起动电动机</h3>
+<p>随着大容量电解电容器的出现，分相式电动机的一种变型——电容起动电动机——得以实现。当今冰箱和其他类似电器上使用的几乎所有分马力电动机都是这种类型。在这种改型中，起动绕组和运行绕组的线径与电阻值相同。两个绕组电流之间的相位差，通过把电容器与起动绕组串联来获得。</p>
+<p>电容起动电动机的起动转矩与额定转速下的转矩相当，可用于初始负载较重的场合。同样，需要离心开关在转子转速约为额定转速 25% 时断开起动绕组。</p>
+<p>虽然有些单相感应电动机额定功率高达 2 马力（hp），但主要应用领域是 1 hp 及以下，较小规格的额定电压为 115 伏，四分之一 hp 及以上为 110 至 220 伏。对于更大的功率，一般使用多相电动机，因为它们具有优良的起动转矩特性。</p>
+<h3 id="感应电动机的旋转方向">感应电动机的旋转方向</h3>
+<p>只要调换接到三相感应电动机的两根引线，就能改变其旋转方向。在两相电动机中，调换一相的接法也能得到同样效果。在单相电动机中，调换起动绕组的接法就能改变旋转方向。</p>
+<p>大多数通用单相电动机都有便于调换起动绕组接线的结构。罩极式电动机无法通过任何办法改变旋转方向，因为方向由铜罩环的物理位置决定。如果三相电动机起动后有一根接线断开，电动机仍会继续运行，但只输出额定功率的三分之一。同样，两相电动机如果断开一相，也只以额定功率的一半运行。在这些异常条件下，两种电动机都无法起动。</p>
+<h3 id="同步电动机">同步电动机</h3>
+<p>同步电动机是交流电动机的主要类型之一。与感应电动机一样，同步电动机也利用旋转磁场。然而与感应电动机不同的是，它产生的转矩不依赖于转子中电流的感应。简言之，同步电动机的工作原理如下：多相交流电源加到定子绕组上，产生旋转磁场。直流电加到转子绕组上，产生另一个磁场。同步电动机的设计和结构使这两个磁场相互作用，从而拖动转子，使其以与定子绕组产生的旋转磁场相同的转速旋转。</p>
+<p>通过考虑那样一种简易电动机——其磁极由某种机械方式顺时针转动以产生旋转磁场——就可以理解同步电动机的工作。这些磁极在软铁转子中感应出极性相反的磁极，相应的北极与南极之间便产生吸引力。</p>
+<p>因此，当磁极 A 和 B 旋转时，转子被拖着以相同转速旋转。然而，如果给转子轴加负载，转子轴线会暂时落后于旋转磁场轴线，但此后只要负载保持不变，转子就继续以相同转速随磁场旋转。如果负载太大，转子就会与旋转磁场失去同步，结果不再以相同转速随磁场旋转。于是称电动机过载。</p>
+<p>像这样的简易电动机从未被实际使用。用某种机械方式转动磁极的想法不切实际，因为需要另一台电动机来完成这项工作。而且这种安排也没有必要，因为利用相位不同的交流电压可以电气地产生旋转磁场。在这方面，同步电动机与感应电动机相似。</p>
+<p>同步电动机由类似于感应电动机的定子励磁绕组构成。定子绕组产生旋转磁场。转子可以是永久磁铁（如用于电钟和其他小型精密设备的单相同步电动机），也可以是电磁铁，由直流电源励磁，并经滑环送入转子励磁绕组，如同交流发电机那样。事实上，一台交流发电机既可以作为交流发电机运行，也可以作为同步电动机运行。</p>
+<p>由于同步电动机起动转矩很小，必须提供某种手段把它带到同步转速。最常用的方法是空载起动电动机，让它达到全速，然后给磁场励磁。转子磁场与定子磁场锁定，电动机便以同步转速运行。</p>
+<p>转子中感应磁极的强度太小，无法产生足以带动大多数实际负载的转矩。为避免这种对电动机运行的限制，在转子上放置绕组并用直流励磁。与直流电源串联的变阻器为操作者提供了改变转子磁极强度的手段，从而使电动机在负载变化时得到控制。</p>
+<p>同步电动机不是自起动电动机。转子很重，从静止状态无法使转子与旋转磁场进入磁锁定。因此，所有同步电动机都有某种起动装置。一种简单的起动器是另一台电动机（交流或直流），它把转子带到同步转速的约 90%。然后断开起动电动机，转子便与旋转磁场同步。另一种起动方法是在转子上加一个鼠笼式第二绕组。这个感应绕组把转子带到接近同步转速，当直流电接入转子绕组时，转子便与磁场同步。后一种方法更常用。</p>
+<p>交流串励电动机是单相电动机，但不是感应电动机或同步电动机。它类似于直流电动机，有电刷和换向器。交流串励电动机既可在交流电路上运行，也可在直流电路上运行。要记住，只要励磁绕组和电枢的接法不变，直流串励电动机的旋转方向与所加电压的极性无关。因此，如果把直流串励电动机接到交流电源上，会产生使电枢朝一个方向旋转的转矩。然而，直流串励电动机不能令人满意地由交流电源运行，原因如下：</p>
+<ol><li>交变磁通在磁路的未叠片部分造成很大的涡流损耗和磁滞损耗，导致过度发热和效率降低。</li></ol>
+<ol start="2"><li>励磁绕组和电枢绕组的自感导致功率因数低。</li></ol>
+<ol start="3"><li>交变磁场磁通在线圈中建立起大电流，这些线圈被电刷短路；这种作用在换向器处造成过度火花。</li></ol>
+<p>为使串励电动机在交流下满意运行，作了以下改变：</p>
+<ol><li>通过把磁极、机座和电枢叠片化来减小涡流损耗。</li></ol>
+<ol start="2"><li>通过使用高磁导率的变压器型硅钢片来把磁滞损耗降到最低。</li></ol>
+<ol start="3"><li>通过采用浅磁极、少匝数导线、低频率（大型电动机通常为 25 周）、低磁通密度和低磁阻（短气隙），把励磁绕组的电抗保持在足够低的水平。</li></ol>
+<ol start="4"><li>通过采用嵌入磁极的补偿绕组来减小电枢电抗。如果补偿绕组与电枢串联，则电枢得到传导补偿。</li></ol>
+<p>如果补偿绕组按此方式设计，则电枢得到感应补偿。如果电动机设计为既可在直流也可在交流电路上运行，则补偿绕组与电枢串联。补偿绕组的轴线与主磁场轴线成 90° 角。这种安排类似于某些直流电动机和发电机中用来克服电枢反应的补偿绕组。补偿绕组建立反磁动势，抵消电枢磁动势的作用，防止主磁场磁通畸变，并减小电枢电抗。感应补偿的电枢如同变压器的初级，其次级</p>
+<p>（原文此处为图注碎片，原文无正文）</p>
+<p>其次级就是被短接的补偿绕组。被短接的次级在交变电枢磁通的作用下感应出电压，由此在补偿绕组各匝中流动的电流建立反向磁动势，抵消电枢电抗。</p>
+<ol start="5"><li>通过使用预防引线 P1、P2、P3 等来减小换向器处的火花。当 A 处和 B 处的线圈被电刷短路时，感应电流受到引线相对较高电阻的限制。使用只有一匝的电枢线圈和多极磁场也能减小电刷处的火花。通过采用大量电枢导体和大直径电枢可获得大转矩。因此，换向器有很多很薄的换向片，电枢电压被限制在约 250 伏。</li></ol>
+<p>分马力交流串励电动机称为通用电动机。它们没有补偿绕组或预防引线。它们广泛用于驱动风扇和便携式工具，如钻、磨床和锯。</p>
+<h3 id="交流电动机的维护">交流电动机的维护</h3>
+<p>交流电动机的检查和维护非常简单。轴承可能需要也可能不需要经常润滑。如果是工厂加注润滑的密封型，则无需进一步维护。务必保持线圈干燥、无油污和其他损害。电动机的温度通常是其唯一的限制运行因素。一条经验法则是：手感觉太烫的温度就高得不安全。除温度外，电动机或发电机的声音是最好的故障指示。正常运行时，它应均匀地嗡嗡作响。如果过载，它会发出“哼哼”声。三相电动机断开一根引线时拒绝转动，并发出“咆哮”声。敲击声通常表明电枢线圈松动、轴不对中，或轴承磨损导致电枢拖擦。在所有情况下，所有交流电动机的检查和维护都应按照适用的制造商说明进行。</p>
+<h2 id="3-专业词汇">3. 专业词汇</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">词性</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">本节语境</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">induction motor</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">感应电动机</td>
+<td style="text-align:left">依靠定子旋转磁场在转子中感应电流而产生转矩的交流电动机</td>
+</tr>
+<tr>
+<td style="text-align:left">synchronous motor</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">同步电动机</td>
+<td style="text-align:left">转子磁场与定子旋转磁场同步、不依赖感应电流的交流电动机</td>
+</tr>
+<tr>
+<td style="text-align:left">squirrel cage</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">鼠笼</td>
+<td style="text-align:left">由铁芯和两端端环焊接的铜条或铝条构成的转子结构</td>
+</tr>
+<tr>
+<td style="text-align:left">stator</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">定子</td>
+<td style="text-align:left">感应电动机的静止部分，嵌放分布绕组</td>
+</tr>
+<tr>
+<td style="text-align:left">rotor</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">转子</td>
+<td style="text-align:left">感应电动机的旋转部分，鼠笼式或绕线式</td>
+</tr>
+<tr>
+<td style="text-align:left">slip</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">转差</td>
+<td style="text-align:left">转子转速低于同步转速的差值，以同步转速的百分比表示</td>
+</tr>
+<tr>
+<td style="text-align:left">synchronous speed</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">同步转速</td>
+<td style="text-align:left">旋转磁场的转速，60 cps 时为 3,600 rpm</td>
+</tr>
+<tr>
+<td style="text-align:left">shaded pole</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">罩极</td>
+<td style="text-align:left">用铜环罩住部分极面以产生起动转矩的凸极结构</td>
+</tr>
+<tr>
+<td style="text-align:left">split-phase motor</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">分相式电动机</td>
+<td style="text-align:left">起动绕组与运行绕组相差 90 电角度的自起动单相电动机</td>
+</tr>
+<tr>
+<td style="text-align:left">capacitor start motor</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">电容起动电动机</td>
+<td style="text-align:left">用电容器与起动绕组串联移相的分相式电动机变型</td>
+</tr>
+<tr>
+<td style="text-align:left">compensating winding</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">补偿绕组</td>
+<td style="text-align:left">嵌入磁极、抵消电枢磁动势以减小电枢电抗的绕组</td>
+</tr>
+<tr>
+<td style="text-align:left">universal motor</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">通用电动机</td>
+<td style="text-align:left">分马力交流串励电动机，交直流两用</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-语法解析">4. 语法解析</h2>
+<h3 id="so-引导的结果状语从句">① so 引导的结果状语从句</h3>
+<p><strong>原句</strong>：In many instances, AC motors do not use brushes and commutators so sparking at the brushes is avoided. <strong>拆解</strong>：主句为 AC motors do not use brushes and commutators；so 引导结果状语从句 sparking at the brushes is avoided，其中 sparking at the brushes 为动名词短语作主语，谓语为被动式 is avoided。 <strong>要点</strong>：so 表“因此”时连接两个独立分句，口语中常不加逗号，但正式书面语宜用逗号；不要与 so that（目的）混淆。</p>
+<h3 id="whether-引导主语从句">② Whether 引导主语从句</h3>
+<p><strong>原句</strong>：Whether the motors operate continuously or intermittently (for short intervals) is also considered in the rating. <strong>拆解</strong>：Whether…intermittently 为主语从句，括号内容为插入说明；主句谓语 is considered 为被动语态，in the rating 作状语。 <strong>要点</strong>：主语从句用 whether 而非 if；从句作主语时谓语用单数 is。</p>
+<h3 id="虚拟条件句-were-to-would">③ 虚拟条件句 were to + would</h3>
+<p><strong>原句</strong>：If the rotor were to turn at the same speed as the rotating field, the rotor conductors would not be cut by any magnetic lines of force <strong>拆解</strong>：If 从句用 were to turn 表示与将来事实相反的假设；主句 would not be cut 为被动语态的虚拟结果。 <strong>要点</strong>：were to 比 should 更强调“纯假设”；主句用 would + 动词原形，不能换成 will。</p>
+<h3 id="过去分词短语作后置定语">④ 过去分词短语作后置定语</h3>
+<p><strong>原句</strong>：A horseshoe magnet held over a compass needle is a simple illustration of the principle of the rotating field. <strong>拆解</strong>：主语 A horseshoe magnet 后接过去分词短语 held over a compass needle 作后置定语（相当于 which is held…）；谓语为 is，表语为 a simple illustration of…。 <strong>要点</strong>：held 与 magnet 是被动关系，故用过去分词；若为主动关系则用现在分词 holding。</p>
+<h3 id="so-that-与-such-that-嵌套">⑤ so…that 与 such…that 嵌套</h3>
+<p><strong>原句</strong>：The synchronous motor is so designed and constructed that these two fields react to each other in such a manner that the rotor is dragged along and rotates at the same speed as the rotating magnetic field produced by the stator windings. <strong>拆解</strong>：主句 The synchronous motor is so designed and constructed；第一个 that 引导结果从句，从句中 in such a manner that 再引导第二个结果从句，其中 is dragged along 与 rotates 并列。 <strong>要点</strong>：so 修饰形容词或副词，such 修饰名词短语（such a manner）；the same…as 为同级比较，as 后接名词短语。</p>
+<h3 id="be-said-to-be-被动复合结构">⑥ be said to be 被动复合结构</h3>
+<p><strong>原句</strong>：Thus, the motor is said to be overloaded. <strong>拆解</strong>：the motor 为主语，is said 为被动谓语，to be overloaded 为不定式作主语补足语。 <strong>要点</strong>：It is said that… 与 sb/sth is said to… 可互换；此处 to be overloaded 表示状态，不能写成 to overload。</p>

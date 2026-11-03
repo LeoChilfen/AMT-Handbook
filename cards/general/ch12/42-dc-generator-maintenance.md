@@ -18,7 +18,7 @@ Sparking of brushes quickly reduces the effective brush area in contact with the
 
 The following information pertains to brush seating, brush pressure, high mica condition, and brush wear. Manufacturers usually recommend the following procedures to seat brushes that do not make good contact with slip rings or commutators.
 
-Lift the brush sufficiently to permit the insertion of a strip of No. 000, or finer, sandpaper under the brush, rough side out. [Figure 12-289] Pull the sandpaper in the direction of armature rotation, being careful to keep the ends of the sandpaper as close to the slip ring or commutator surface as possible in order to avoid rounding the edges of the brush.
+Lift the brush sufficiently to permit the insertion of a strip of No. 000, or finer, sandpaper under the brush, rough side out. Pull the sandpaper in the direction of armature rotation, being careful to keep the ends of the sandpaper as close to the slip ring or commutator surface as possible in order to avoid rounding the edges of the brush.
 
 When pulling the sandpaper back to the starting point, raise the brush so it does not ride on the sandpaper. Sand the brush only in the direction of rotation.
 
@@ -44,47 +44,47 @@ Each brush should be a specified length to work properly. If a brush is too shor
 
 Some special generator brushes should not be replaced because of a slight grooving on the face of the brush. These grooves are normal and will appear in AC and DC generator brushes which are installed in some models of aircraft generators. These brushes have two cores made of a harder material with a higher expansion rate than the material used in the main body of the brush. Usually, the main body of the brush face rides on the commutator. However, at certain temperatures, the cores extend and wear through any film on the commutator.
 
-Most devices in an airplane, from the starter [Figure 12-290] to the automatic pilot, depend upon mechanical energy furnished by DC motors. A DC motor is a rotating machine, which transforms DC energy into mechanical energy. It consists of two principal parts—a field assembly and an armature assembly. The armature is the rotating part in which current carrying wires are acted upon by the magnetic field.
+Most devices in an airplane, from the starter to the automatic pilot, depend upon mechanical energy furnished by DC motors. A DC motor is a rotating machine, which transforms DC energy into mechanical energy. It consists of two principal parts—a field assembly and an armature assembly. The armature is the rotating part in which current carrying wires are acted upon by the magnetic field.
 
-Whenever a current carrying wire is placed in the field of a magnet, a force acts on the wire. The force is not one of attraction or repulsion; however, it is at right angles to the wire and also at right angles to the magnetic field set up by the magnet. The action of the force upon a current carrying wire placed in a magnetic field is shown in Figure 12-291. A wire is located between two permanent magnets. The lines of force in the magnetic field are from the North pole to the South pole. When no current flows, no force is exerted on the wire, but when current flows through the wire, a magnetic field is set up about it. [Figure 12-291] The direction of the field depends on the direction of current flow. Current in one direction creates a clockwise field about the wire, and current in the other direction, a counterclockwise field.
+Whenever a current carrying wire is placed in the field of a magnet, a force acts on the wire. The force is not one of attraction or repulsion; however, it is at right angles to the wire and also at right angles to the magnetic field set up by the magnet. The action of the force upon a current carrying wire placed in a magnetic field is shown in the figure. A wire is located between two permanent magnets. The lines of force in the magnetic field are from the North pole to the South pole. When no current flows, no force is exerted on the wire, but when current flows through the wire, a magnetic field is set up about it. The direction of the field depends on the direction of current flow. Current in one direction creates a clockwise field about the wire, and current in the other direction, a counterclockwise field.
 
 Since the current carrying wire produces a magnetic field, a reaction occurs between the field about the wire and the magnetic field between the magnets. When the current flows Unseated brush 000 sandpaper (sand side next to brush)
 
 Properly seated brush 1/32" to 1/16"
 
-in a direction to create a counterclockwise magnetic field about the wire, this field and the field between the magnets add or reinforce at the bottom of the wire because the lines of force are in the same direction. At the top of the wire, they subtract or neutralize, since the lines of force in the two fields are opposite in direction. Thus, the resulting field at the bottom is strong and the one at the top is weak. Consequently, the wire is pushed upward. [Figure 12-291C] The wire is always pushed away from the side where the field is strongest.
+in a direction to create a counterclockwise magnetic field about the wire, this field and the field between the magnets add or reinforce at the bottom of the wire because the lines of force are in the same direction. At the top of the wire, they subtract or neutralize, since the lines of force in the two fields are opposite in direction. Thus, the resulting field at the bottom is strong and the one at the top is weak. Consequently, the wire is pushed upward. The wire is always pushed away from the side where the field is strongest.
 
 If current flow through the wire were reversed in direction, the two fields would add at the top and subtract at the bottom. Since a wire is always pushed away from the strong field, the wire would be pushed down.
 
 ### Force Between Parallel Conductors
 
-Two wires carrying current in the vicinity of one another exert a force on each other because of their magnetic fields. An end view of two conductors is shown in Figure 12-292. In Figure 12-292A, electron flow in both conductors is toward the reader, and the magnetic fields are clockwise around the conductors. Between the wires, the fields cancel because the directions of the two fields oppose each other. The wires are forced in the direction of the weaker field, toward each other. This force is one of attraction. In Figure 12-292B, the electron flow in the two wires is in opposite directions. The magnetic fields are, therefore, clockwise in one and counterclockwise in the other, as shown. The fields reinforce each other between the wires, and the wires are forced in the direction of the weaker field, away from each other. This force is one of repulsion.
+Two wires carrying current in the vicinity of one another exert a force on each other because of their magnetic fields. An end view of two conductors is shown in the figure. In view A of the figure, electron flow in both conductors is toward the reader, and the magnetic fields are clockwise around the conductors. Between the wires, the fields cancel because the directions of the two fields oppose each other. The wires are forced in the direction of the weaker field, toward each other. This force is one of attraction. In view B of the figure, the electron flow in the two wires is in opposite directions. The magnetic fields are, therefore, clockwise in one and counterclockwise in the other, as shown. The fields reinforce each other between the wires, and the wires are forced in the direction of the weaker field, away from each other. This force is one of repulsion.
 
 To summarize: conductors carrying current in the same direction tend to be drawn together; conductors carrying current in opposite directions tend to be repelled from each other.
 
 ### Developing Torque
 
-If a coil in which current is flowing is placed in a magnetic field, a force is produced which causes the coil to rotate. In the coil shown in Figure 12-293, current flows inward on side A and outward on side B. The magnetic field about B is clockwise and that about A, counterclockwise. As previously explained, a force develops which pushes side B downward. At the same time, the field of the magnets and the field about A, in which the current is inward, adds at the bottom and subtracts at the top. Therefore, A moves upward. The coil rotates until its plane is perpendicular to the magnetic lines between the North and South poles of the magnet, as indicated in Figure 12-293 by the white coil at right angles to the black coil.
+If a coil in which current is flowing is placed in a magnetic field, a force is produced which causes the coil to rotate. In the coil shown, current flows inward on side A and outward on side B. The magnetic field about B is clockwise and that about A, counterclockwise. As previously explained, a force develops which pushes side B downward. At the same time, the field of the magnets and the field about A, in which the current is inward, adds at the bottom and subtracts at the top. Therefore, A moves upward. The coil rotates until its plane is perpendicular to the magnetic lines between the North and South poles of the magnet, as indicated by the white coil at right angles to the black coil.
 
 The tendency of a force to produce rotation is called torque. When the steering wheel of a car is turned, torque is applied. The engine of an airplane gives torque to the propeller. Torque is developed also by the reacting magnetic fields about the current carrying coil just described. This is the torque, which turns the coil.
 
-The right-hand motor rule can be used to determine the direction a current carrying wire moves in a magnetic field. As illustrated in Figure 12-294, if the index finger of the right hand is pointed in the direction of the magnetic field and the second finger in the direction of current flow, the thumb indicates the direction the current carrying wire moves.
+The right-hand motor rule can be used to determine the direction a current carrying wire moves in a magnetic field. As illustrated, if the index finger of the right hand is pointed in the direction of the magnetic field and the second finger in the direction of current flow, the thumb indicates the direction the current carrying wire moves.
 
-The amount of torque developed in a coil depends upon several factors: the strength of the magnetic field, the number of turns in the coil, and the position of the coil in the field. Magnets are made of special steel that produces a strong field. Since there is torque acting on each turn, the greater the number of turns on the coil, the greater the torque. In a coil carrying a steady current located in a uniform magnetic field, the torque varies at successive positions of rotation. [Figure 12-295] When the plane of the coil is parallel to the lines of force, the torque is zero. When its plane cuts the lines of force at right angles, the torque is 100 percent. At intermediate positions, the torque ranges between 0 and 100 percent.
+The amount of torque developed in a coil depends upon several factors: the strength of the magnetic field, the number of turns in the coil, and the position of the coil in the field. Magnets are made of special steel that produces a strong field. Since there is torque acting on each turn, the greater the number of turns on the coil, the greater the torque. In a coil carrying a steady current located in a uniform magnetic field, the torque varies at successive positions of rotation. When the plane of the coil is parallel to the lines of force, the torque is zero. When its plane cuts the lines of force at right angles, the torque is 100 percent. At intermediate positions, the torque ranges between 0 and 100 percent.
 
-A coil of wire through which the current flows rotates when placed in a magnetic field. This is the technical basis governing the construction of a DC motor. [Figure 12-296] However, A B C Wire without current located in a magnetic field Wire with current and accompanying field Resultant field and direction of force on wire if the connecting wires from the battery were permanently fastened to the terminals of the coil and there was a flow of current, the coil would rotate only until it lined itself up with the magnetic field. Then, it would stop, because the torque at that point would be 0.
+A coil of wire through which the current flows rotates when placed in a magnetic field. This is the technical basis governing the construction of a DC motor. However, A B C Wire without current located in a magnetic field Wire with current and accompanying field Resultant field and direction of force on wire if the connecting wires from the battery were permanently fastened to the terminals of the coil and there was a flow of current, the coil would rotate only until it lined itself up with the magnetic field. Then, it would stop, because the torque at that point would be 0.
 
 A motor, of course, must continue rotating. It is therefore necessary to design a device that reverses the current in the coil just at the time the coil becomes parallel to the lines of force. This creates torque again and causes the coil to rotate. If the current reversing device is set up to reverse the current each time the coil is about to stop, the coil can be made to continue rotating as long as desired.
 
-One method of doing this is to connect the circuit so that, as the coil rotates, each contact slides off the terminal to which it connects and slides onto the terminal of opposite polarity. In other words, the coil contacts switch terminals continuously as the coil rotates, preserving the torque and keeping the coil rotating. In Figure 12-296, the coil terminal segments are labeled A and B. As the coil rotates, the segments slide onto and past the fixed terminals or brushes. With this arrangement, the direction of current in the side of the coil next to the North-seeking pole flows toward the reader, and the force acting on that side of the coil turns it downward. The part of the motor that changes the current from one wire to another is called the commutator.
+One method of doing this is to connect the circuit so that, as the coil rotates, each contact slides off the terminal to which it connects and slides onto the terminal of opposite polarity. In other words, the coil contacts switch terminals continuously as the coil rotates, preserving the torque and keeping the coil rotating. In the figure, the coil terminal segments are labeled A and B. As the coil rotates, the segments slide onto and past the fixed terminals or brushes. With this arrangement, the direction of current in the side of the coil next to the North-seeking pole flows toward the reader, and the force acting on that side of the coil turns it downward. The part of the motor that changes the current from one wire to another is called the commutator.
 
-When the coil is positioned as shown in Figure 12-296A, current flows from the negative terminal of the battery to the negative (−) brush, to segment B of the commutator, through the loop to segment A of the commutator, to the positive (+) brush, and then back to the positive terminal of the battery. By using the right-hand motor rule, it is seen that the coil rotates counterclockwise. The torque at this position of the coil is maximum, since the greatest number of lines of force is being cut by the coil.
+When the coil is positioned as shown in view A of the figure, current flows from the negative terminal of the battery to the negative (−) brush, to segment B of the commutator, through the loop to segment A of the commutator, to the positive (+) brush, and then back to the positive terminal of the battery. By using the right-hand motor rule, it is seen that the coil rotates counterclockwise. The torque at this position of the coil is maximum, since the greatest number of lines of force is being cut by the coil.
 
-When the coil has rotated 90° to the position shown in Figure 12-296B, segments A and B of the commutator no longer make contact with the battery circuit and no current can flow through the coil. At this position, the torque has reached a minimum value, since a minimum number of lines of force are being cut. However, the momentum of the coil carries it beyond this position until the segments again make contact with the brushes, and current again enters the coil; this time, though, it enters through segment A and leaves through segment B. However, since the positions of segments A and B have also been reversed, the effect of the current is as before, the torque acts in the same direction, and the coil continues its counterclockwise rotation.
+When the coil has rotated 90° to the position shown in view B of the figure, segments A and B of the commutator no longer make contact with the battery circuit and no current can flow through the coil. At this position, the torque has reached a minimum value, since a minimum number of lines of force are being cut. However, the momentum of the coil carries it beyond this position until the segments again make contact with the brushes, and current again enters the coil; this time, though, it enters through segment A and leaves through segment B. However, since the positions of segments A and B have also been reversed, the effect of the current is as before, the torque acts in the same direction, and the coil continues its counterclockwise rotation.
 
-On passing through the position shown in Figure 12-296C, the torque again reaches maximum.
+On passing through the position shown in view C of the figure, the torque again reaches maximum.
 
-Continued rotation carries the coil again to a position of minimum torque as in Figure 12-296D. At this position, the brushes no longer carry current, but once more the momentum rotates the coil to the point where current enters through N S A B Direction of current Magnetic fieldTorque Current Motion Magnetic flux + A B segment B and leaves through A. Further rotation brings the coil to the starting point and, thus, one revolution is completed.
+Continued rotation carries the coil again to a position of minimum torque as shown in view D of the figure. At this position, the brushes no longer carry current, but once more the momentum rotates the coil to the point where current enters through N S A B Direction of current Magnetic fieldTorque Current Motion Magnetic flux + A B segment B and leaves through A. Further rotation brings the coil to the starting point and, thus, one revolution is completed.
 
 The switching of the coil terminals from the positive to the negative brushes occurs twice per revolution of the coil.
 
@@ -94,26 +94,134 @@ The armature in a practical motor is not placed between the poles of a permanent
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（44 段）。专业术语按行业惯例，数字与缩写保留。 -->
+以下关于直流发电机系统检查和维护的信息只是一般性的，因为飞机发电机系统种类繁多。这些程序仅供熟悉了解。对某一具体的发电机系统，务必遵循制造商适用的说明。
+
+（原文此处为图注碎片：A B NS + − Load Series field coil To load Arm Shunt field coil Compound wound … Field coils，混入正文，无对应正文）一般来说，检查装在飞机上的发电机应包括以下各项：
+
+1. 发电机安装是否牢固　　2. 电气连接的状况　　3. 发电机内的污物和油污——如果有油，检查发动机油封。用压缩空气吹除污物。
+
+4. 发电机电刷的状况　　5. 发电机的工作情况　　6. 电压调节器的工作情况
+
+### 发电机电刷的状况
+
+电刷打火会很快减小与换向片接触的有效电刷面积。应当确定这种打火的严重程度。磨损过度则需要详细检查。
+
+以下资料涉及电刷的研磨贴合、电刷压力、云母凸出和电刷磨损。对于与滑环或换向器接触不良的电刷，制造厂通常推荐以下研磨程序。
+
+把电刷抬起足够高度，以便把一条 000 号或更细的砂纸插入电刷下面，砂面朝外。沿电枢旋转方向拉动砂纸，注意使砂纸两端尽可能贴近滑环或换向器表面，以免把电刷边缘磨圆。
+
+把砂纸拉回起点时，要把电刷抬起，使它不在砂纸上磨擦。只能沿旋转方向打磨电刷。
+
+发电机运转一段时间后，应检查电刷，确认没有砂粒嵌入电刷并积聚铜屑。
+
+在任何情况下都不得使用金刚砂布或类似磨料来研磨电刷（或修整换向器），因为它们含有导电材料，会使电刷与换向片之间产生电弧。
+
+压力过大会使电刷迅速磨损。而压力过小又会使电刷卡跳，造成表面烧蚀和麻点。
+
+碳质、石墨质或轻金属化石墨电刷对换向器应施加 1 1/2 至 2 1/2 psi 的压力。推荐压力应使用以盎司为刻度的弹簧秤检查。电刷弹簧（原文此处为图注碎片：Output current or load、Output voltage、Series connection、Differential compounding、Cumulative compounding，混入正文，无对应正文）张力通常调整在 32 至 36 盎司之间；不过，各具体发电机的张力可能略有不同。
+
+使用弹簧秤时，电刷对换向器所施压力的大小可直接从秤上读出。测量时把秤钩在弹簧臂与电刷顶部的接触点上，电刷应装在刷握中。把秤逐渐拉起，直到弹簧臂刚刚离开电刷表面为止。在这一瞬间读出秤上的力。
+
+大多数载流大的电刷都带有柔软的低电阻辫线，其连接应牢固，并经常检查。绝不允许辫线改变或限制电刷的自由运动。
+
+辫线的作用是传导电流，而不是让电刷弹簧承受电流，因为电流会使弹簧过热而改变其作用。辫线还能消除电刷在刷握内移动时对刷握产生的火花，从而把电刷的侧向磨损减到最小。
+
+打磨电刷后产生的碳粉应彻底清除，不得留在发电机的任何部位。这种碳粉曾引起过若干次严重火灾，并造成发电机的昂贵损坏。
+
+长时间运行常会使换向片之间的云母绝缘凸出换向片表面。这种情况称为“云母凸出”，它会妨碍电刷与换向器的接触。一旦出现这种情况，或者电枢已在车床上车削过，就要仔细地把云母绝缘下切到等于云母宽度的深度，约 1.20 英寸。
+
+每只电刷都有规定的长度才能正常工作。如果电刷太短，它与换向器的接触就会不良，这还会减小把电刷压住的弹簧力。大多数制造厂规定新电刷长度允许的磨损量。当电刷磨损到允许的最小长度时，必须更换。
+
+某些特殊发电机用的电刷不应因为电刷表面有轻微沟槽就更换。这些沟槽是正常的，会出现在装在若干机型飞机发电机上的交流和直流发电机用电刷中。这类电刷有两条由较硬材料制成的芯线，其膨胀率高于电刷主体所用材料。通常电刷表面的主体部分在换向器上滑行，但在某些温度下，芯线会伸出并磨掉换向器上的任何油膜。
+
+飞机上的大多数设备，从起动机到自动驾驶仪，都依赖直流电动机提供的机械能。直流电动机是一种把直流电能转变为机械能的旋转电机。它由两个主要部分组成——磁场组件和电枢组件。电枢是旋转部分，其中的载流导线受到磁场的作用。
+
+每当把载流导线放入磁场中，导线就会受到力的作用。这个力不是吸引力或排斥力，而是垂直于导线、同时也垂直于磁铁所建立磁场的力。磁场中载流导线所受力的作用如图所示。一根导线放在两块永久磁铁之间。磁场中的磁力线从北极到南极。没有电流时，导线上不作用力；当电流流过导线时，导线周围就建立起磁场。磁场的方向取决于电流的方向。一个方向的电流在导线周围产生顺时针磁场，相反方向的电流则产生逆时针磁场。
+
+由于载流导线产生磁场，导线周围的磁场与磁铁之间的磁场之间就发生相互作用。当电流（原文此处为图注碎片：Unseated brush、000 sandpaper，混入正文，无对应正文）
+
+（原文此处为图注碎片：Properly seated brush、1/32 至 1/16 英寸，无对应正文）
+
+沿某一方向流动、在导线周围产生逆时针磁场时，这个磁场与磁铁之间的磁场在导线下方叠加或增强，因为磁力线方向相同。在导线上方，由于两个磁场的磁力线方向相反，它们相互减弱或抵消。因此，下方合成的磁场强，上方合成的磁场弱。结果，导线被向上推。导线总是被推离磁场最强的一侧。
+
+如果通过导线的电流方向反过来，两个磁场就会在上方叠加、在下方抵消。由于导线总是被推离强磁场，导线就会被向下推。
+
+### 平行导体之间的力
+
+两根通有电流的导线彼此靠近时，由于各自的磁场，会相互施加作用力。两根导体的端视图如图所示。在图中 A 位置，两根导体中的电子流向都朝向读者，磁场绕导体顺时针方向。在两根导线之间，由于两个磁场方向相反，磁场相互抵消。导线朝磁场较弱的方向被推，即相互靠近。这个力是吸引力。在图中 B 位置，两根导线中的电子流向相反。因此磁场一个顺时针、一个逆时针，如图所示。两根导线之间的磁场相互增强，导线朝磁场较弱的方向被推，即相互远离。这个力是排斥力。
+
+概括地说：电流方向相同的导体趋于相互吸引；电流方向相反的导体趋于相互排斥。
+
+### 转矩的产生
+
+如果把一个通有电流的线圈放在磁场中，就会产生使线圈旋转的力。在图示的线圈中，电流在 A 侧向内流入、在 B 侧向外流出。B 周围的磁场为顺时针方向，A 周围的磁场为逆时针方向。如前所述，产生的力把 B 侧向下推。与此同时，磁铁的磁场与 A 周围的磁场（其中电流向内流）在下方叠加、在上方抵消。因此 A 向上运动。线圈旋转，直到其平面垂直于磁铁北极与南极之间的磁力线，如图中与黑色线圈成直角的白色线圈所示。
+
+力使物体旋转的趋势称为转矩。转动汽车方向盘时，就施加了转矩。飞机发动机把转矩传给螺旋桨。刚才所述的载流线圈周围相互作用的磁场也产生转矩。正是这个转矩使线圈转动。
+
+右手电动机定则可以用来确定磁场中载流导线的运动方向。如图所示，如果右手食指指向磁场方向，中指指向电流方向，则拇指所指的是载流导线的运动方向。
+
+线圈中产生的转矩大小取决于几个因素：磁场强度、线圈匝数以及线圈在磁场中的位置。磁铁用特殊钢制成，能产生强磁场。由于每一匝都受到转矩作用，线圈匝数越多，转矩越大。对于通有稳定电流、位于均匀磁场中的线圈，其转矩随旋转位置而变化。当线圈平面与磁力线平行时，转矩为零；当其平面与磁力线成直角切割时，转矩为 100%。在中间位置，转矩在 0 到 100% 之间变化。
+
+通有电流的导线线圈放在磁场中就会旋转。这就是直流电动机构造的技术基础。然而（原文此处为图注碎片：A B C、Wire without current located in a magnetic field、Resultant field，混入正文，无对应正文）如果从电池引出的连接导线永久固定在电枢线圈的端钮上，并且有电流流过，线圈只能旋转到它与磁场对齐为止，然后就会停止，因为该点处的转矩为零。
+
+当然，电动机必须持续旋转。因此，必须设计一种装置，在线圈恰好与磁力线平行时使线圈中的电流反向。这样又重新产生转矩，使线圈继续旋转。如果电流换向装置设计成线圈每次即将停止时就使电流反向，那么线圈就能一直旋转下去。
+
+实现这一点的一种方法是把电路接成：线圈旋转时，每个触点从它所接触的端子上滑开，滑到极性相反的端子上。换言之，线圈旋转时其触点不断换接端子，从而保持转矩、使线圈持续旋转。线圈的端钮片标为 A 和 B。线圈旋转时，换向片滑上并滑过固定端子（即电刷）。在这种布置下，靠近北极侧的线圈边中电流朝向读者流动，作用在该线圈边上的力使它向下转。电动机中使电流从一根导线换到另一根导线的部分称为换向器。
+
+当线圈处于图中 A 位置时，电流从电池负极流向负（−）电刷，流到换向器的 B 片，经线圈流到换向器的 A 片，再流向正（+）电刷，然后回到电池正极。应用右手电动机定则可以看出，线圈逆时针旋转。此时线圈所处位置的转矩最大，因为线圈切割的磁力线最多。
+
+当线圈转过 90° 到达图中 B 位置时，换向器的 A 片和 B 片不再与电池电路接触，线圈中没有电流流过。在这个位置，转矩达到最小值，因为切割的磁力线最少。不过，线圈的动量带着它越过这一位置，直到换向片再次与电刷接触，电流重新进入线圈；不过这一次电流从 A 片进入、从 B 片流出。然而，由于 A、B 两片的位置也互换了，电流的作用与原先相同，转矩方向不变，线圈继续逆时针旋转。
+
+线圈经过图中 C 位置时，转矩再次达到最大。
+
+继续旋转又使线圈到达图中 D 位置那样的最小转矩位置。在这个位置，电刷不再通电流，但动量又一次使线圈转到电流从 B 片进入、从 A 片流出的位置（原文此处为图注碎片：N S A B、Direction of current、Magnetic field、Torque、Current、Motion，混入正文，无对应正文）。继续旋转使线圈回到起点，于是完成一周旋转。
+
+线圈端钮从正电刷换接到负电刷，每转一周发生两次。
+
+只有一个线圈的电动机，其转矩既不连续也不很有效，因为有两个位置实际上完全没有转矩。为克服这一点，实际直流电动机的电枢上绕有许多线圈。这些线圈的分布使电枢处于任何位置时都有线圈靠近磁极。这使转矩既连续又强劲。同样，换向器也包含许多换向片，而不只是两片。
+
+实际电动机的电枢不是放在永久磁铁的磁极之间，而是放在电磁铁的磁极之间，因为这样可以提供强得多的磁场。铁心通常用软钢或退火钢制成，这种钢可以被感应强烈磁化。使电磁铁磁化的电流来自给电枢供电的同一电源。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Current —— The flow of electrical charge.
-- Detailed inspection —— A thorough examination of an item including disassembly. The overhaul of a component is considered to be a detailed inspection.
-- Energy —— The capacity of a physical system to perform work. There are two types of energy, kinetic and potential.
-- Force —— The intensity of an impetus, or the intensity of an input.
-- Maintenance —— This includes inspection, overhaul, repair, preservation, and the replacement of parts, but excludes preventive maintenance.
-- Mechanical energy —— This includes all methods of producing increased motion of molecules such as friction, impact of bodies, or compression of gases.
-- Pressure —— The amount of force acting on a specific amount of surface area, typically measured in pounds per square inch or psi.
-- Resistance —— The opposition a device or material offers to the flow or current.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| detailed inspection | n.phr. | 详细检查 | 电刷过度磨损后需进行的、含分解的彻底检查 |
+| brush seating | n.phr. | 电刷研磨贴合 | 用砂纸沿旋转方向打磨电刷，使其贴合换向器 |
+| pigtail | n. | 辫线 | 连接电刷与外电路的柔软编织铜导体 |
+| high mica | n.phr. | 云母凸出 | 换向片间云母绝缘高出片面的状况，妨碍电刷接触 |
+| undercut | v. | 下切 | 把凸出的云母绝缘切到等于云母宽度的深度 |
+| commutator bar | n.phr. | 换向片 | 换向器上被云母绝缘隔开的铜片 |
+| torque | n. | 转矩 | 力使物体旋转的趋势，电动机输出转矩使其转动 |
+| magnetic field | n.phr. | 磁场 | 磁铁或载流导线周围有磁力作用的空间 |
+| right-hand motor rule | n.phr. | 右手电动机定则 | 食指指磁场、中指指电流，拇指指导线运动方向 |
+| momentum | n. | 动量 | 线圈转过最小转矩位置后靠惯性继续转动的性质 |
+| electromagnetic | adj. | 电磁的 | 实际电动机用电磁铁代替永久磁铁以获强磁场 |
+| commutation | n. | 换向 | 换向器使线圈中电流在适当时刻反向的过程 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① because of + 名词短语（区别于 because 从句）
+**原句**：The following information about the inspection and maintenance of DC generator systems is general in nature because of the large number of differing aircraft generator systems.
+**拆解**：主语 The following information（about the inspection and maintenance of DC generator systems 为后置定语）+ 谓语 is + 表语 general in nature；because of the large number of differing aircraft generator systems 为原因状语，介词短语而非从句。
+**要点**：because of 后只能接名词或名词短语，because 后接从句；本句若改从句应写成 because there are a large number of differing … systems。in nature 意为“在性质上”，是插入性介词短语，不要译成“在自然界中”。a large number of 修饰可数复数，谓语用复数，但本题中它是 because of 的宾语，与主句谓语无关。
+### ② 否定词短语置于句首引起部分倒装 + since 原因从句 + that 定语从句
+**原句**：Under no circumstances should emery cloth or similar abrasives be used for seating brushes (or smoothing commutators), since they contain conductive materials that cause arcing between brushes and commutator bars.
+**拆解**：Under no circumstances 为否定状语前置，主句部分倒装：should + 主语 emery cloth or similar abrasives + be used；for seating brushes 为目的状语；since 引导原因从句 they contain conductive materials，that cause arcing … 为定语从句修饰 materials。
+**要点**：under no circumstances（决不）置于句首时，主句必须部分倒装，且谓语用 should/must 等情态动词；正常语序是 Emery cloth should not be used under any circumstances。be used for doing sth 中 for 后接动名词表示用途。that cause arcing 修饰复数 materials，故从句谓语用 cause。
+### ③ 省略关系词的定语从句 + 非限定性 which + 现在分词短语
+**原句**：If a brush is too short, the contact it makes with the commutator will be faulty, which can also reduce the spring force holding the brush in place.
+**拆解**：If 引导条件从句；主句主语 the contact（后接省略关系代词 that/which 的定语从句 it makes with the commutator）+ 谓语 will be faulty；逗号后 which 引导非限定性定语从句，指代前面“接触不良”这件事；holding the brush in place 为现在分词短语作后置定语修饰 the spring force。
+**要点**：省略关系词的定语从句只在从句中作宾语时成立：the contact (that) it makes …，此处 it 指电刷。非限定性 which 不能换成 that。现在分词 holding 与 the spring force 是主动关系（弹簧力把电刷固定在原位），译成“把电刷压住的弹簧力”，不要译成被动。
+### ④ rather than 平行结构 + subject sth to sth + 虚拟语气
+**原句**：The purpose of the pigtail is to conduct the current, rather than subjecting the brush spring to currents that would alter its spring action by overheating.
+**拆解**：主语 The purpose of the pigtail，表语为不定式 to conduct the current；rather than subjecting … 是与 to conduct 平行的动名词结构（rather than 后也可接动词原形，此处用动名词保持名词性平行）；subjecting the brush spring to currents 为动名词短语，that would alter its spring action by overheating 为定语从句修饰 currents。
+**要点**：subject sth to sth 意为“使……承受……”，此处 subjecting the brush spring to currents 是“让电刷弹簧通过电流”。rather than 表示取舍，前后结构应一致；would alter 是虚拟/推测语气，指电流会使弹簧作用改变这一潜在后果。by overheating 表方式，译成“因过热而改变”。
+### ⑤ from…to… 插入同位语 + 过去分词短语作后置定语 + depend upon
+**原句**：Most devices in an airplane, from the starter to the automatic pilot, depend upon mechanical energy furnished by DC motors.
+**拆解**：主语 Most devices（in an airplane 为后置定语），from the starter to the automatic pilot 为插入的同位说明，指出范围的两端；谓语 depend upon；宾语 mechanical energy，furnished by DC motors 为过去分词短语作后置定语。
+**要点**：from A to B 作插入语时前后用逗号隔开，不影响主谓一致：主语仍是 Most devices，故谓语用 depend 而非 depends。furnished by 是过去分词短语，与 mechanical energy 是被动关系（由直流电动机提供的机械能），不能改用 furnishing。depend upon = depend on。
+### ⑥ 分号连接 + however 转折 + at right angles to
+**原句**：The force is not one of attraction or repulsion; however, it is at right angles to the wire and also at right angles to the magnetic field set up by the magnet.
+**拆解**：前一分句 The force is not one of attraction or repulsion（one 指代 a force）；分号后 however 作连接副词引转折分句，it 指 the force，is at right angles to the wire 与 and also at right angles to the magnetic field 为并列表语；set up by the magnet 为过去分词短语作后置定语。
+**要点**：however 作连接副词时不能像 but 那样只用逗号连接两个句子，必须用分号或句号。be at right angles to 是“与……成直角”的固定搭配，介词用 to，不用 with。set up by the magnet 中 set up 是“建立（磁场）”的意思，不要与 set up（安装、建立机构）混淆，翻译时按语境译作“磁铁建立的磁场”。

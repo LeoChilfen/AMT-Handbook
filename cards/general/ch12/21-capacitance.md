@@ -8,7 +8,7 @@ Another important property in AC circuits, besides resistance and inductance, is
 
 ### Capacitors in Direct Current
 
-When a capacitor is connected across a source of DC, such as a storage battery in the circuit shown in Figure 12-114A, and the switch is then closed, the plate marked B becomes positively charged, and the A plate negatively charged. Current flows in the external circuit during the time the electrons are moving from B to A. The current flow in the circuit is at a maximum the instant the switch is closed, but continually decreases thereafter until it reaches zero. The current becomes zero as soon as the difference in voltage of A and B becomes the same as the voltage of the battery. If the switch is opened as shown in Figure 12-114B, the plates remain charged. Once the capacitor is shorted, it discharges quickly as shown Figure 12-114C.
+When a capacitor is connected across a source of DC, such as a storage battery in the circuit shown in the figure, and the switch is then closed, the plate marked B becomes positively charged, and the A plate negatively charged. Current flows in the external circuit during the time the electrons are moving from B to A. The current flow in the circuit is at a maximum the instant the switch is closed, but continually decreases thereafter until it reaches zero. The current becomes zero as soon as the difference in voltage of A and B becomes the same as the voltage of the battery. If the switch is opened as shown in the figure, the plates remain charged. Once the capacitor is shorted, it discharges quickly as shown in the figure.
 
 It should be clear that during the time the capacitor is being charged or discharged, there is current in the circuit, even though the circuit is broken by the gap between the capacitor plates. Current is present only during the time of charge and discharge, and this period of time is usually short.
 
@@ -18,13 +18,13 @@ The time required for a capacitor to attain a full charge is proportional to the
 
 When a capacitor charges or discharges through a resistance, a certain amount of time is required for a full charge or discharge. The voltage across the capacitor does not change instantaneously. The rate of charging or discharging is determined by the time constant of the circuit. The time constant of a series resistor/capacitor (RC) circuit is a time interval that equals the product of the resistance in ohms and the capacitance in farad and is symbolized by the Greek letter tau (τ).
 
-τ = RC The time in the formula is the time required to charge to 63 percent of the voltage of the source. The time required to bring the charge to about 99 percent of the source voltage is approximately 5 τ. [Figure 12-115] The measure of a capacitor’s ability to store charge is its capacitance. The symbol used for capacitance is the letter C.
+τ = RC The time in the formula is the time required to charge to 63 percent of the voltage of the source. The time required to bring the charge to about 99 percent of the source voltage is approximately 5 τ. The measure of a capacitor’s ability to store charge is its capacitance. The symbol used for capacitance is the letter C.
 
-As can be seen from Figure 12-115, there can be no continuous movement of DC through a capacitor. A good capacitor blocks DC and passes the effects of pulsing DC or AC.
+As can be seen from the figure, there can be no continuous movement of DC through a capacitor. A good capacitor blocks DC and passes the effects of pulsing DC or AC.
 
 ### Units of Capacitance
 
-Electrical charge, which is symbolized by the letter Q, is measured in units of coulombs. The coulomb is given by the letter C, as with capacitance. Unfortunately, this can be confusing. One coulomb of charge is defined as a charge having 6.28 × 1018 electrons. The basic unit of capacitance is the farad and is given by the letter f. By definition, one A B Equal heat dissipation in both circuits + − RVrms=Vdc RVrms farad is one coulomb of charge stored with one volt across the plates of the capacitor. The general formula for capacitance in terms of charge and voltage is:
+Electrical charge, which is symbolized by the letter Q, is measured in units of coulombs. The coulomb is given by the letter C, as with capacitance. Unfortunately, this can be confusing. One coulomb of charge is defined as a charge having 6.28 × 1018 electrons. The basic unit of capacitance is the farad and is given by the letter f. By definition, one farad is one coulomb of charge stored with one volt across the plates of the capacitor. The general formula for capacitance in terms of charge and voltage is:
 
 Where C = E Q C = capacitance measured in farads E = applied voltage measured in volts Q = charge measured in coulombs In practical terms, one farad is a large amount of capacitance. Typically, in electronics, much smaller units are used. The two more common smaller units are the microfarad (μF), which is 10-6 farad, and the picofarad (pF), which is 10-12 farad.
 
@@ -44,17 +44,17 @@ The voltage rating of the capacitor is a factor in determining the actual capaci
 
 3. The dielectric material affects the capacitance of parallel plates. The dielectric constant of a vacuum is defined as 1, and that of air is very close to 1. These values are used as a reference, and all other materials have values specified in relation to air (vacuum).
 
-The strength of some commonly used dielectric materials is listed in Figure 12-116. The voltage rating also depends on frequency because the losses, and the resultant heating effect, increase as the frequency increases.
+The strength of some commonly used dielectric materials is listed in the figure. The voltage rating also depends on frequency because the losses, and the resultant heating effect, increase as the frequency increases.
 
 ### Types of Capacitors
 
-Capacitors come in all shapes and sizes and are usually marked with their value in farads. They may also be divided into two groups: fixed and variable. The fixed capacitors, which have approximately constant capacitance, may then be further divided according to the type of dielectric used. Some varieties are: paper, oil, mica, electrolytic and ceramic capacitors. Figure 12-117 shows the schematic symbols for a fixed and variable capacitor.
+Capacitors come in all shapes and sizes and are usually marked with their value in farads. They may also be divided into two groups: fixed and variable. The fixed capacitors, which have approximately constant capacitance, may then be further divided according to the type of dielectric used. Some varieties are: paper, oil, mica, electrolytic and ceramic capacitors. The figure shows the schematic symbols for a fixed and variable capacitor.
 
 #### Fixed Capacitors
 
-Mica Capacitors The fixed mica capacitor is made of metal foil plates that are separated by sheets of mica, which form the dielectric. The whole assembly is covered in molded plastic, which keeps out moisture. Mica is an excellent dielectric and withstands higher voltages than paper without allowing arcing between the plates. Common values of mica capacitors range from approximately 50 microfarads to about 0.02 microfarads. [Figure 12-118]
+Mica Capacitors The fixed mica capacitor is made of metal foil plates that are separated by sheets of mica, which form the dielectric. The whole assembly is covered in molded plastic, which keeps out moisture. Mica is an excellent dielectric and withstands higher voltages than paper without allowing arcing between the plates. Common values of mica capacitors range from approximately 50 microfarads to about 0.02 microfarads.
 
-The ceramic capacitor is constructed with materials, such as titanium acid barium for a dielectric. Internally these 63% 100% 90% 80% 70% 60% 50% 40% 30% 20% 10% 86% 95% 98% Voltage Current 1t Charging curve for a capacitor 2t 3t 4t 5t 99% A B C + − ++++ −−−− Open B A Capacitor being charged Capacitor retains charge Capacitor discharges + − ++++ −−−− Close Charge B A + − ++ −− Close ShortRemoved B A capacitors are not constructed as a coil, so they are well suited for use in high-frequency applications. They are shaped like a disk, available in very small capacitance values, and very small sizes. This type is fairly small, inexpensive, and reliable. Both the ceramic and the electrolytic are the most widely available and used capacitor.
+The ceramic capacitor is constructed with materials, such as titanium acid barium for a dielectric. Internally these capacitors are not constructed as a coil, so they are well suited for use in high-frequency applications. They are shaped like a disk, available in very small capacitance values, and very small sizes. This type is fairly small, inexpensive, and reliable. Both the ceramic and the electrolytic are the most widely available and used capacitor.
 
 Two kinds of electrolytic capacitors are in use: wet electrolytic and dry electrolytic. The wet electrolytic capacitor is designed of two metal plates separated by an electrolyte with an electrolyte dielectric, which is basically conductive salt in solvent. For capacitances greater than a few microfarads, the plate areas of paper or mica capacitors must become very large; thus, electrolytic capacitors are usually used instead. These units provide large capacitance in small physical sizes. Their values range from 1 to about 1,500 microfarads. Unlike the other types, electrolytic capacitors are generally polarized, with the positive lead marked with a “+” and the negative lead marked with a “−” and should only be subjected to direct voltage or pulsating direct voltage only.
 
@@ -62,15 +62,15 @@ The electrolyte in contact with the negative terminal, either in paste or liquid
 
 The close spacing of the negative and positive electrodes gives rise to the comparatively high-capacitance value, but allows greater possibility of voltage breakdown and leakage of electrons from one electrode to the other.
 
-The electrolyte of the dry electrolytic unit is a paste contained in a separator made of an absorbent material, such as gauze or paper. The separator not only holds the electrolyte in place but also prevents it from short circuiting the plates. Dry electrolytic capacitors are made in both cylindrical and rectangular block form and may be contained either within cardboard or metal covers. Since the electrolyte cannot spill, the dry capacitor may be mounted in any convenient position. [Figure 12-119]
+The electrolyte of the dry electrolytic unit is a paste contained in a separator made of an absorbent material, such as gauze or paper. The separator not only holds the electrolyte in place but also prevents it from short circuiting the plates. Dry electrolytic capacitors are made in both cylindrical and rectangular block form and may be contained either within cardboard or metal covers. Since the electrolyte cannot spill, the dry capacitor may be mounted in any convenient position.
 
 Similar to the electrolytic, these capacitors are constructed with a material called tantalum, which is used for the electrodes. They are superior to electrolytic capacitors, having better temperature and frequency characteristics. When tantalum powder is baked in order to solidify it, a crack forms inside. This crack is used to store an electrical charge. Like electrolytic capacitors, the tantalum capacitors are also polarized and are indicated with the “+” and “−” symbols.
 
-In this capacitor, a thin polyester film is used as a dielectric. These components are inexpensive, temperature stable, and widely used. Tolerance is approximately 5–10 percent. It Fixed Variable Dielectric K Dielectric Strength (volts per .001 inch)
+In this capacitor, a thin polyester film is used as a dielectric. These components are inexpensive, temperature stable, and widely used. Tolerance is approximately 5–10 percent. It
 
-Air 1.0 80 Paper (1) Paraffined 2.2 1,200 (2) Beeswaxed 3.1 1,800 Glass 4.2 200 Castor Oil 4.7 380 Bakelite 6.0 500 Mica 6.0 2,000 Fiber 6.5 50 can be quite large depending on capacity or rated voltage.
+can be quite large depending on capacity or rated voltage.
 
-In radio and radar transmitters, voltages high enough to cause arcing, or breakdown, of paper dielectrics are often used. Consequently, in these applications capacitors that use oil or oil impregnated paper for the dielectric material are preferred. Capacitors of this type are considerably more expensive than ordinary paper capacitors, and their use is generally restricted to radio and radar transmitting equipment. [Figure 12-120]
+In radio and radar transmitters, voltages high enough to cause arcing, or breakdown, of paper dielectrics are often used. Consequently, in these applications capacitors that use oil or oil impregnated paper for the dielectric material are preferred. Capacitors of this type are considerably more expensive than ordinary paper capacitors, and their use is generally restricted to radio and radar transmitting equipment.
 
 #### Variable Capacitors
 
@@ -82,7 +82,7 @@ A voltage-variable capacitor or varactor is also known as a variable capacitance
 
 ### Capacitors in Series
 
-When capacitors are placed in series, the effective plate separation is increased and the total capacitance is less than that of the smallest capacitor. Additionally, the series combination is capable of withstanding a higher total potential difference than any of the individual capacitors. Figure 12-121 is a simple series circuit. The bottom plate of C 1 and the top plate of C 2 is charged by electrostatic induction. The capacitors charge as current is established through the circuit. Since this is a series circuit, the current must be the same at all points. Since the current is the rate of flow of charge, the amount of charge (Q) stored by each capacitor is equal to the total charge.
+When capacitors are placed in series, the effective plate separation is increased and the total capacitance is less than that of the smallest capacitor. Additionally, the series combination is capable of withstanding a higher total potential difference than any of the individual capacitors. The figure shows a simple series circuit. The bottom plate of C 1 and the top plate of C 2 is charged by electrostatic induction. The capacitors charge as current is established through the circuit. Since this is a series circuit, the current must be the same at all points. Since the current is the rate of flow of charge, the amount of charge (Q) stored by each capacitor is equal to the total charge.
 
 Q T = Q1 + Q2 + Q3 According to Kirchhoff’s V oltage Law, the sum of the voltages across the charged capacitors must equal the total voltage, ET. This is expressed as:
 
@@ -96,7 +96,7 @@ If C1 = 10 μF, C2 = 5 μF and C3 = 8 μF Then = + + CT 10 μF 5 μF 8 μF 1 1 1
 
 ### Capacitors in Parallel
 
-When capacitors are connected in parallel, the effective plate area increases, and the total capacitance is the sum of the individual capacitances. Figure 12-122 shows a simplified parallel circuit. The total charging current from the source divides at the junction of the parallel branches. There is a separate charging current through each branch so that a different charge can be stored by each capacitor. Using Kirchhoff’s Current Law, the sum of all of the charging currents is then equal to the total current. The sum of the charges (Q) on the capacitors is equal to the total charge. The voltages (E) across all of the parallel branches are equal. With all of this in mind, a general equation for capacitors in parallel can be determined as:
+When capacitors are connected in parallel, the effective plate area increases, and the total capacitance is the sum of the individual capacitances. The figure shows a simplified parallel circuit. The total charging current from the source divides at the junction of the parallel branches. There is a separate charging current through each branch so that a different charge can be stored by each capacitor. Using Kirchhoff’s Current Law, the sum of all of the charging currents is then equal to the total current. The sum of the charges (Q) on the capacitors is equal to the total charge. The voltages (E) across all of the parallel branches are equal. With all of this in mind, a general equation for capacitors in parallel can be determined as:
 
 Q T = Q1 + Q2 + Q3 Because Q = CE: CTET = C1E1 + C2E2 + C3E3 V oltages can be factored out because:
 
@@ -108,11 +108,11 @@ If C1 = 330 μF, C2 = 220 μF Then CT = 330 μF + 220 μF = 550 μF
 
 ### Capacitors in Alternating Current
 
-If a source of AC is substituted for the battery, the capacitor acts quite differently than it does with DC. When AC is applied in the circuit, the charge on the plates constantly changes. [Figure 12-123] This means that electricity must flow first from Y clockwise around to X, then from X counterclockwise around to Y , then from Y clockwise around to X, and so on. Although no current flows through the insulator between the plates of the capacitor, it constantly flows in the remainder of the circuit between X and Y . In a circuit where there is only capacitance, current leads the applied voltage as contrasted with a circuit in which there is inductance, where the current lags the voltage.
+If a source of AC is substituted for the battery, the capacitor acts quite differently than it does with DC. When AC is applied in the circuit, the charge on the plates constantly changes. This means that electricity must flow first from Y clockwise around to X, then from X counterclockwise around to Y , then from Y clockwise around to X, and so on. Although no current flows through the insulator between the plates of the capacitor, it constantly flows in the remainder of the circuit between X and Y . In a circuit where there is only capacitance, current leads the applied voltage as contrasted with a circuit in which there is inductance, where the current lags the voltage.
 
 ### Capacitive Reactance Xc
 
-The effectiveness of a capacitor in allowing an AC flow to pass depends upon the capacitance of the circuit and the applied frequency. To what degree a capacitor allows an AC flow to pass depends largely upon the capacitive value of the capacitor given in farads (f). The greater the capacitance of the capacitor, the greater the number of electrons, measured in Coulombs, necessary to bring the capacitor to a fully charged state. Once the capacitor approaches or actually reaches a fully charged condition, the polarity of the capacitor opposes the polarity of the applied voltage, essentially acting then as an open circuit. To further illustrate this characteristic and how it manifests itself in an AC circuit, consider the following. If a capacitor has a large capacitive value, meaning that it requires a relatively large number of electrons to bring it to a fully charged state, + − + − + − + − C1 C2 C3 + − + − + − + − C1 C2 C3 then a rather high-frequency current can alternate through the capacitor without the capacitor ever reaching a full charge. In this case, if the frequency is high enough and the capacitance large enough that there is never enough time for the capacitor to ever reach a full charge, it is possible that the capacitor may offer very little or no resistance to the current. However, the smaller the capacitance, the fewer electrons are required to bring it up to a full charge and it is more likely that the capacitor will build up enough of an opposing charge that it can present a great deal of resistance to the current if not to the point of behaving like an open circuit. In between these two extreme conditions lies a continuum of possibilities of current opposition depending on the combination of applied frequency and the selected capacitance. Current in an AC circuit can be controlled by changing the circuit capacitance in a similar manner that resistance can control the current. The actual AC reactance Xc, which just like resistance, is measured in ohms (Ω). Capacitive reactance Xc is determined by the following:
+The effectiveness of a capacitor in allowing an AC flow to pass depends upon the capacitance of the circuit and the applied frequency. To what degree a capacitor allows an AC flow to pass depends largely upon the capacitive value of the capacitor given in farads (f). The greater the capacitance of the capacitor, the greater the number of electrons, measured in Coulombs, necessary to bring the capacitor to a fully charged state. Once the capacitor approaches or actually reaches a fully charged condition, the polarity of the capacitor opposes the polarity of the applied voltage, essentially acting then as an open circuit. To further illustrate this characteristic and how it manifests itself in an AC circuit, consider the following. If a capacitor has a large capacitive value, meaning that it requires a relatively large number of electrons to bring it to a fully charged state, then a rather high-frequency current can alternate through the capacitor without the capacitor ever reaching a full charge. In this case, if the frequency is high enough and the capacitance large enough that there is never enough time for the capacitor to ever reach a full charge, it is possible that the capacitor may offer very little or no resistance to the current. However, the smaller the capacitance, the fewer electrons are required to bring it up to a full charge and it is more likely that the capacitor will build up enough of an opposing charge that it can present a great deal of resistance to the current if not to the point of behaving like an open circuit. In between these two extreme conditions lies a continuum of possibilities of current opposition depending on the combination of applied frequency and the selected capacitance. Current in an AC circuit can be controlled by changing the circuit capacitance in a similar manner that resistance can control the current. The actual AC reactance Xc, which just like resistance, is measured in ohms (Ω). Capacitive reactance Xc is determined by the following:
 
 Xc = 2πfC 1 Where Xc = capacitive reactance f = frequency in cps C = capacity in farads 2π = 6.28
 
@@ -134,34 +134,190 @@ When capacitors are connected in series, the total reactance is equal to the sum
 
 ### Phase of Current and Voltage in Reactive Circuits
 
-Unlike a purely resistive circuit, the capacitive and inductive reactance has a significant effect on the phase relationship between the applied AC voltage and the corresponding X YAC generator current in the circuit.
+Unlike a purely resistive circuit, the capacitive and inductive reactance has a significant effect on the phase relationship between the applied AC voltage and the corresponding current in the circuit.
 
-In review, when current and voltage pass through zero and reach maximum value at the same time, the current and voltage are said to be in phase. [Figure 12-124A] If the current and voltage pass through zero and reach the maximum values at different times, the current and voltage are said to be out of phase. In a circuit containing only inductance, the current reaches a maximum value later than the voltage, lagging the voltage by 90°, or one-fourth cycle. [Figure 12-124B]
+In review, when current and voltage pass through zero and reach maximum value at the same time, the current and voltage are said to be in phase. If the current and voltage pass through zero and reach the maximum values at different times, the current and voltage are said to be out of phase. In a circuit containing only inductance, the current reaches a maximum value later than the voltage, lagging the voltage by 90°, or one-fourth cycle.
 
-In a circuit containing only capacitance, the current reaches its maximum value ahead of the voltage and the current leads the voltage by 90°, or one-fourth cycle. [Figure 12-124C] The amount the current lags or leads the voltage in a circuit depends on the relative amounts of resistance, inductance, and capacitance in the circuit.
+In a circuit containing only capacitance, the current reaches its maximum value ahead of the voltage and the current leads the voltage by 90°, or one-fourth cycle. The amount the current lags or leads the voltage in a circuit depends on the relative amounts of resistance, inductance, and capacitance in the circuit.
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（68 段）。专业术语按行业惯例，数字与缩写保留。 -->
+除电阻和电感之外，交流电路中另一个重要特性是电容量。电感在电路中用电感线圈表示，电容量则用电容器表示。电容器最基本的形式是由两块平行极板构成，极板之间隔着一层称为电介质的非导体。在电路中，电容器起着储存电荷的「蓄水池」或「仓库」的作用。
+
+### 直流电中的电容器
+
+当把电容器接在直流电源（如蓄电池）两端——如图中电路所示——然后合上开关时，标记为 B 的极板带正电，A 极板带负电。在电子从 B 向 A 移动的那段时间里，外电路中有电流流动。合上开关的瞬间，电路中的电流最大，此后不断减小，直至为零。当 A、B 之间的电压差与电池电压相等时，电流随即变为零。如果像图中那样断开开关，两块极板仍保持带电。一旦把电容器短接，它就会像图中那样迅速放电。
+
+应当明确：在电容器充电或放电期间，电路中是有电流的，尽管电容器两极板之间的间隙把电路断开了。电流只存在于充电和放电的那段时间内，而这段时间通常很短。
+
+### 电阻/电容（RC）时间常数
+
+电容器充满电荷所需的时间与电容量及电路电阻成正比。电路中的电阻把时间因素引入了电容器的充电和放电过程。
+
+当电容器通过电阻充电或放电时，充满或放完需要一定的时间。电容器两端的电压不会瞬时改变。充电或放电的速率由电路的时间常数决定。串联电阻/电容（RC）电路的时间常数是一个时间间隔，等于以欧姆为单位的电阻与以法拉为单位的电容之积，用希腊字母 tau（τ）表示。
+
+τ = RC　公式中的时间是指充电到电源电压 63% 所需的时间。把电荷充到约 99% 电源电压所需的时间约为 5τ。电容器储存电荷的能力用它的电容量来度量，电容量的符号是字母 C。
+
+从图中可以看出，直流电不可能持续通过电容器。良好的电容器能阻断直流电，而让脉动直流或交流电的作用通过。
+
+### 电容量的单位
+
+电荷用字母 Q 表示，以库仑为单位计量。库仑也用字母 C 表示，与电容量的符号相同，这很容易混淆。1 库仑电荷定义为具有 6.28 × 1018 个电子的电荷。电容量的基本单位是法拉，用字母 f 表示。按定义，1 法拉就是极板两端加 1 伏电压时所储存的 1 库仑电荷。用电荷和电压表示电容量的通用公式是：
+
+式中 C = E⁄Q　C = 电容量，单位法拉　E = 所加电压，单位伏特　Q = 电荷，单位库仑　实际上一法拉是很大的电容量。在电子设备中通常使用小得多的单位，较常用的两个较小单位是微法（μF），即 10-6 法拉，以及皮法（pF），即 10-12 法拉。
+
+### 电容器的额定电压
+
+电容器两端能加多大电压是有限度的。航空维修人员必须了解额定电压，它规定了为避免器件损坏所能施加的最大直流电压。这个额定值通常称为击穿电压、工作电压，或简称额定电压。如果加在极板上的电压过大，电介质就会被击穿，极板之间发生打火。电容器随之短路，可能流过它的直流电会损坏设备的其他部分。
+
+能安全充到 500 伏直流电的电容器，并不能安全地承受有效值为 500 伏的交流或脉动直流。500 伏（RMS）的交流电压峰值为 707 伏，因此施加该电压的电容器工作电压至少应为 750 伏。选择电容器时，其工作电压至少应比将要施加的最高电压大 50%。
+
+电容器的额定电压是决定实际电容量大小的一项因素，因为电介质越厚，电容量越小。电介质较厚的高压电容器，若要具有与电介质较薄的同类低压电容器相同的电容量，就必须有更大的极板面积。
+
+### 影响电容量的因素
+
+1. 平行板电容器的电容量与极板面积成正比。面积越大，电容量越大；面积越小，电容量越小。如果把极板面积加倍，可容纳的电荷也就加倍。在给定电位差下电容器能容纳的电荷加倍，而由 C = Q/E 可知电容量也随之加倍。
+
+2. 平行板电容器的电容量与极板间距成反比。
+
+3. 电介质材料会影响平行板电容器的电容量。真空的电介质常数定义为 1，空气的数值非常接近 1。这些数值用作基准，其他所有材料的数值都以空气（真空）为参照给出。
+
+一些常用电介质材料的强度列于图中。额定电压还取决于频率，因为损耗以及由此产生的发热会随频率升高而增大。
+
+### 电容器的类型
+
+电容器形状、尺寸各异，通常标有以法拉为单位的数值。它们也可以分为两类：固定电容器和可变电容器。电容量近似恒定的固定电容器，还可以按所用介质的类型进一步划分，常见的有：纸介、油浸、云母、电解和陶瓷电容器。图中示出了固定电容器和可变电容器的电路符号。
+
+#### 固定电容器
+
+云母电容器　固定云母电容器由金属箔极板构成，极板之间隔以云母片作为电介质。整个组件用模压塑料封装，以防潮气侵入。云母是优良的电介质，比纸介质能承受更高的电压而不致在极板间打火。云母电容器的常见容量范围大约从 50 微法到 0.02 微法。
+
+陶瓷电容器用诸如钛酸钡之类的材料作电介质。这种电容器内部并非绕成线圈状，因此很适合用于高频场合。它们呈圆片状，可提供极小的电容量和极小的尺寸，体积相当小、价格低廉且可靠。陶瓷电容器和电解电容器是市面上最常见、使用最广的两类电容器。
+
+电解电容器有湿式和干式两种。湿式电解电容器由两块金属极板构成，中间隔以电解质，并以电解质作电介质，电解质基本上是溶于溶剂的导电盐。当需要的电容量大于几微法时，纸介或云母电容器的极板面积就必须做得很大；因此通常改用电解电容器。这类电容器能在很小的体积内提供很大的电容量，容量范围从 1 微法到约 1,500 微法。与其他类型不同，电解电容器一般是有极性的，正极引线标「+」，负极引线标「−」，而且只应施加直流电压或脉动直流电压。
+
+与负极端子接触的电解质（膏状或液态）构成负极。电介质是沉积在电容器正极上的一层极薄的氧化膜。正极是一片铝箔，折叠起来以获得最大面积。电容器在制造过程中要经过化成处理，处理时让电流通过电容器，电流的流动使铝板上沉积出薄薄的氧化层。
+
+正、负电极间距很小，因而电容量相对较大，但也更容易发生电压击穿和电子从一个电极向另一个电极的漏电。
+
+干式电解电容器的电解质是装在由吸收材料（如纱布或纸）制成的隔膜中的膏状物。隔膜不仅能保持电解质的位置，还能防止它使极板短路。干式电解电容器有圆柱形和矩形块状两种形式，可装在纸板壳或金属壳内。由于电解质不会溢出，干式电容器可以安装在任意方便的位置。
+
+这类电容器与电解电容器类似，电极所用的材料是钽。它们优于电解电容器，具有更好的温度特性和频率特性。钽粉在焙烧固化时内部会形成一道裂纹，这道裂纹用来储存电荷。与电解电容器一样，钽电容器也是有极性的，用「+」和「−」符号标示。
+
+这种电容器用一层薄聚酯薄膜作电介质。这类元件价格低廉、温度稳定、应用广泛，容差约为 5–10%。它
+
+的尺寸可能因容量或额定电压而相当大。
+
+在无线电和雷达发射机中，常使用高到会使纸介质打火（击穿）的电压。因此，这类应用优先选用以油或油浸纸作电介质的电容器。这类电容器比普通纸介电容器贵得多，其使用通常仅限于无线电和雷达发射设备。
+
+#### 可变电容器
+
+可变电容器主要用于无线电调谐电路，有时称为「调谐电容器」。它们的电容量很小，通常在 100 pF 到 500 pF 之间。
+
+微调电容器实际上是一种可调或可变电容器，用陶瓷或塑料作电介质。多数微调电容器用颜色标记，以便容易辨认其可调容量。陶瓷型把数值印在器件上。颜色对应为：黄（5 pF）、蓝（7 pF）、白（10 pF）、绿（30 pF）、棕（60 pF）。
+
+电压可变电容器（varactor，变容二极管）也叫可变电容二极管或 varicap。这种器件利用反向偏置二极管中势垒宽度的变化。由于二极管的势垒区相当于非导体，二极管在反向偏置时就构成一个电容器。本质上，N 型材料成为一个极板，结区则为电介质。如果反向偏压增大，势垒宽度变宽，相当于把两块极板拉开，电容量随之减小。
+
+### 电容器的串联
+
+电容器串联时，等效极板间距增大，总电容量小于其中最小的那只电容器。此外，串联组合能承受比任何单只电容器都高的总电位差。图中是一个简单的串联电路。C1 的下极板和 C2 的上极板靠静电感应而带电。随着电路中建立起电流，电容器被充电。由于是串联电路，各处的电流必须相同。而电流是电荷流动的速率，因此每只电容器储存的电荷量（Q）都等于总电荷量。
+
+Q T = Q1 + Q2 + Q3　根据基尔霍夫电压定律，各已充电电容器上的电压之和必须等于总电压 ET。可表示为：
+
+E T = E1 + E2 + E3　现在可以把公式 E = Q/C 代入电压方程，得到：
+
+= + + CT C1 C2 C3 QT Q1 Q2 Q3　由于所有电容器上的电荷相等，可以把 Q 项提出来，从而得到公式：
+
+= + + CT C1 C2 C3 1 1 1 1　考虑下面的例子：
+
+若 C1 = 10 μF，C2 = 5 μF，C3 = 8 μF，则 = + + CT 10 μF 5 μF 8 μF 1 1 1 1　CT = = 2.35 μF 0.425 μF 1
+
+### 电容器的并联
+
+电容器并联时，等效极板面积增大，总电容量等于各电容量之和。图中示出了一个简化的并联电路。来自电源的总充电电流在并联支路的连接点处分流。每条支路各有其充电电流，因此每只电容器储存的电荷可以不同。根据基尔霍夫电流定律，所有充电电流之和等于总电流。各电容器上电荷（Q）之和等于总电荷。并联各支路两端的电压（E）相等。据此，可以得出电容器并联的通用公式：
+
+Q T = Q1 + Q2 + Q3　因为 Q = CE，所以 CTET = C1E1 + C2E2 + C3E3　电压可以提出来，因为：
+
+E T = E1 + E2 + E3　于是得到电容器并联的公式：
+
+C T = C1 + C2 + C3　考虑下面的例子：
+
+若 C1 = 330 μF，C2 = 220 μF，则 CT = 330 μF + 220 μF = 550 μF
+
+### 交流电中的电容器
+
+如果把电池换成交流电源，电容器的工作情况与接直流时大不相同。电路中加上交流电时，极板上的电荷不断变化。这意味着电流必须先从 Y 沿顺时针绕到 X，再从 X 沿逆时针绕到 Y，然后又从 Y 沿顺时针绕到 X，如此反复。虽然极板之间的绝缘介质中没有电流通过，但在 X 与 Y 之间电路的其余部分中电流不断流动。在只有电容的电路中，电流超前于所加电压；这与存在电感的电路相反，在那种电路中电流滞后于电压。
+
+### 容抗 Xc
+
+电容器允许交流电流通过的能力，取决于电路的电容量和所加频率。电容器在多大程度上允许交流电流通过，主要取决于以法拉（f）为单位的电容量。电容量越大，把电容器充到满电荷状态所需的电子数（以库仑计）就越多。一旦电容器接近或真正达到充满状态，其极性就与所加电压的极性相反，此时实际上相当于开路。为进一步说明这一特性及其在交流电路中的表现，请看下面的情形。如果电容器的容量很大，即需要相当多的电子才能把它充到满电荷状态，那么频率较高的电流便可以在电容器中来回交变，而电容器始终达不到满电荷。在这种情况下，如果频率足够高、电容量足够大，以致永远没有足够时间让电容器充满，电容器对电流的阻碍就可能非常小甚至为零。反之，电容量越小，充至满电荷所需的电子就越少，电容器也就更可能积累起足够大的反向电荷，从而对电流形成很大的阻碍，甚至表现得像开路一样。在这两种极端情况之间，电流所受阻碍的大小随所加频率与电容量组合的不同而连续变化。改变电路的电容量可以控制交流电路中的电流，这与电阻控制电流的方式类似。实际的交流电抗 Xc 和电阻一样以欧姆（Ω）计量。容抗 Xc 由下式确定：
+
+Xc = 2πfC 1　式中 Xc = 容抗　f = 频率（cps）　C = 容量（法拉）　2π = 6.28
+
+假设有一个串联电路，外加电压为 110 伏、60 cps，电容器的电容量为 80 Mf。求容抗和电流。
+
+求容抗用公式 Xc = 1/(2πfC)。先把电容量 80 Mf 换算成法拉，即用 80 除以 1,000,000，因为 100 万微法等于 1 法拉。商为 0.000080 法拉。代入公式，得：
+
+Xc = 6.28 × 60 × 0.000080 1　Xc = 33.2 欧姆（容抗）　求出容抗后，就可以像在直流电路中那样用欧姆定律求出电流。
+
+电流 = 电压/容抗，即 I = E/Xc　求电流：
+
+I = E/Xc　I = 110/33.2　I = 3.31 安培
+
+### 容抗的串联与并联
+
+电容器串联时，总电抗等于各电抗之和：Xct = (Xc)1 + (Xc)2　并联电容器的总电抗，求法与并联电路计算总电阻相同：
+
+(Xc)t = 1/(Xc)1 + 1/(Xc)2 + 1/(Xc)3
+
+### 电抗电路中电流与电压的相位
+
+与纯电阻电路不同，容抗和感抗对所加交流电压与电路中相应电流之间的相位关系有显著影响。
+
+回顾一下：当电流和电压同时过零并同时达到最大值时，称二者同相。如果电流和电压在不同时刻过零、达到最大值，则称二者异相。在只有电感的电路中，电流比电压晚达到最大值，即滞后电压 90°，或四分之一个周波。
+
+在只有电容的电路中，电流先于电压达到最大值，即电流超前电压 90°，或四分之一个周波。电路中电流滞后或超前电压的多少，取决于该电路中电阻、电感和电容的相对大小。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Alternating current —— An electric current that reverses direction in a circuit at regular intervals.
-- Capacitance (C) —— The property of an electric conductor that characterizes its ability to store an electric charge.
-- Capacitive reactance (X c) —— The measure of a capacitor’s opposition to alternating current.
-- Capacitor —— An electrical component that stores an electric charge.
-- Conductor —— A material that will carry electric current.
-- Coulomb —— A measure of electrical output. One coulomb is 6.24 × 1018 electrons.
-- Current —— The flow of electrical charge.
-- Difference —— The answer to a subtraction problem.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| capacitance | n. | 电容量 | 电容器储存电荷的能力，符号 C，单位为法拉 |
+| capacitor | n. | 电容器 | 由两片极板夹一层电介质构成、用来储电的元件，在电路中相当于蓄水池 |
+| dielectric | n. | 电介质 | 隔开两块极板、阻止电荷直接通过的非导体，其厚度影响电容量与耐压 |
+| farad | n. | 法拉 | 电容量的基本单位，1 法拉即极板间加 1 伏时储存 1 库仑电荷 |
+| microfarad (μF) | n. | 微法 | 10-6 法拉，电解电容器常用容量单位 |
+| picofarad (pF) | n. | 皮法 | 10-12 法拉，可变电容器与陶瓷电容器常用单位 |
+| coulomb | n. | 库仑 | 电荷量的单位，1 库仑为 6.28 × 1018 个电子所带的电荷 |
+| RC time constant | n.phr. | RC 时间常数 | 电阻与电容的乘积，充电到电源电压 63% 所需的时间 |
+| breakdown voltage | n.phr. | 击穿电压 | 电介质所能承受的最大直流电压，超过即打火、短路 |
+| polarized | adj. | 有极性的 | 电解、钽电容器有正负之分，只能加直流或脉动直流 |
+| capacitive reactance (Xc) | n.phr. | 容抗 | 电容器对交流电的阻碍，单位欧姆，Xc = 1/(2πfC) |
+| out of phase | n.phr. | 异相 | 电流与电压不在同一时刻过零或达到最大值的情形 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① the + 比较级，the + 比较级（省略谓语）
+**原句**：The greater the capacitance of the capacitor, the greater the number of electrons, measured in Coulombs, necessary to bring the capacitor to a fully charged state.
+**拆解**：整体为 the + 比较级, the + 比较级 结构；后一分句的主语是 the number of electrons，measured in Coulombs 为过去分词短语作后置定语，necessary to bring… 为形容词短语后置修饰 electrons，谓语 is 被省略。
+**要点**：两个分句的谓语 is 均省略，只剩比较级短语；注意 the number of + 复数名词作主语时谓语用单数，而 a number of 用复数；measured in 这类过去分词定语在技术文本中极常见，翻译时常提前成「以……计」。
+
+### ② 形式主语 It + even though 让步从句
+**原句**：It should be clear that during the time the capacitor is being charged or discharged, there is current in the circuit, even though the circuit is broken by the gap between the capacitor plates.
+**拆解**：It 为形式主语，真正主语是 that 引导的主语从句；从句中 during the time (that) the capacitor is being charged or discharged 为时间状语（the capacitor is being charged 为现在进行时被动），主句为 there is current in the circuit；even though 引导让步状语从句，is broken 为被动。
+**要点**：It is clear that… 是论文与手册中最常见的句式，翻译时不必译出「它」；even though 比 although 语气更强，常用于「看似矛盾」的技术说明；during the time + 从句时 that 常省略。
+
+### ③ 非限制性定语从句 + 限制性定语从句嵌套
+**原句**：The aircraft technician must be aware of the voltage rating, which specifies the maximum DC voltage that can be applied without the risk of damage to the device.
+**拆解**：主句为 the aircraft technician must be aware of the voltage rating；which 引导非限制性定语从句修饰 voltage rating；从句中 that can be applied 为限制性定语从句修饰 the maximum DC voltage，that 作主语；without the risk of damage to the device 为介词短语作状语。
+**要点**：which 前有逗号且先行词是物，不能用 that 替换；两个从句一限制一非限制，翻译时前者译为「它规定了……」的独立短句更通顺；be aware of 为固定搭配，不能写成 be aware about。
+
+### ④ If 条件句 + 过去分词短语作后置定语
+**原句**：If the voltage applied across the plates is too great, the dielectric breaks down and arcing occurs between the plates.
+**拆解**：If 引导条件状语从句，从句主语 the voltage 后接过去分词短语 applied across the plates 作后置定语（= that is applied），谓语是 is；主句有两个并列谓语 breaks down 与 occurs，arcing 为动名词作主语。
+**要点**：applied 不是谓语，判断主谓时要跳过这类定语；break down 是「击穿、失效」的短语动词，与 breakdown（名词，击穿）区分；arcing 这类动词-ing 名词在技术英语中大量出现（如 heating、charging）。
+
+### ⑤ Once 时间状语从句 + 现在分词短语作伴随状语
+**原句**：Once the capacitor approaches or actually reaches a fully charged condition, the polarity of the capacitor opposes the polarity of the applied voltage, essentially acting then as an open circuit.
+**拆解**：Once 引导时间状语从句，主语 the capacitor，并列谓语 approaches or actually reaches；主句主语 the polarity of the capacitor，谓语 opposes，宾语 the polarity of the applied voltage；essentially acting then as an open circuit 为现在分词短语作伴随状语，逻辑主语与主句主语一致。
+**要点**：Once 表示「一旦」，从句用一般现在时代替将来时；分词短语的逻辑主语必须与主句主语相同，否则要改成从句；oppose 是及物动词，直接接宾语，不加 to。

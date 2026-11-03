@@ -8,7 +8,7 @@
 
 Michael Faraday discovered that by moving a magnet through a coil of wire, a voltage was induced across the coil. If a complete circuit was provided, then a current was also induced. The amount of induced voltage is directly proportional to the rate of change of the magnetic field with respect to the coil. The simplest of experiments can prove that when a bar magnet is moved through a coil of wire, a voltage is induced and can be measured on a voltmeter. This is commonly known as Faraday’s Law or the Law of Electromagnetic Induction, which states that the induced emf or electromagnetic force in a closed loop of wire is proportional to the rate of change of the magnetic flux through a coil of wire.
 
-Conversely, current flowing through a coil of wire produces a magnetic field. When this wire is formed into a coil, it then becomes a basic inductor. The magnetic lines of force around each loop or turn in the coil effectively add to the lines of force around the adjoining loops. This forms a strong magnetic field within and around the coil. Figure 12-125A shows a coil of wire strengthening a magnetic field. The magnetic lines of force around adjacent loops are deflected into an outer path when the loops are brought close together. This happens because the magnetic lines of force between adjacent loops are in opposition with each other. The total magnetic field for the two loops is shown in Figure 12-125B. As more loops are added close together, the strength of the magnetic field increases. Figure 12-125C illustrates the combined effects of many loops of a coil. The result is a strong electromagnet.
+Conversely, current flowing through a coil of wire produces a magnetic field. When this wire is formed into a coil, it then becomes a basic inductor. The magnetic lines of force around each loop or turn in the coil effectively add to the lines of force around the adjoining loops. This forms a strong magnetic field within and around the coil. The figure shows a coil of wire strengthening a magnetic field. The magnetic lines of force around adjacent loops are deflected into an outer path when the loops are brought close together. This happens because the magnetic lines of force between adjacent loops are in opposition with each other. The total magnetic field for the two loops is shown in the figure. As more loops are added close together, the strength of the magnetic field increases. The figure illustrates the combined effects of many loops of a coil. The result is a strong electromagnet.
 
 The primary aspect of the operation of a coil is its property to oppose any change in current through it. This property is called inductance. When current flows through any conductor, a magnetic field starts to expand from the center of the wire. As the lines of magnetic force grow outward through the conductor, they induce an emf in the conductor itself. The induced voltage is always in the direction opposite to the direction of the current flow. The effects of this countering emf are to oppose the immediate establishment of the maximum current. This effect is only a temporary condition. Once the current reaches a steady value in the conductor, the lines of magnetic force no longer expand and the countering emf is no longer present.
 
@@ -20,13 +20,13 @@ Because the inductors basic action is to oppose a change in its current, it then
 
 τ = R L Where τ = seconds L = inductance (H)
 
-In a series RL circuit, the current increases to 63 percent of its full value in 1 time constant after the circuit is closed. This buildup is similar to the buildup of voltage in a capacitor when charging an RC circuit. Both follow an exponential curve and reach 99 percent value after the 5th time constant. [Figure 12-126]
+In a series RL circuit, the current increases to 63 percent of its full value in 1 time constant after the circuit is closed. This buildup is similar to the buildup of voltage in a capacitor when charging an RC circuit. Both follow an exponential curve and reach 99 percent value after the 5th time constant.
 
 ### Physical Parameters
 
 Some of the physical factors that affect inductance are:
 
-Current and voltage in phase Effect of inductance Effect of capacitance A B C 0° 180° 360° emf 0° Lag 180°90° 360°270° emf 0° Lead 180°90° 360°270° emf 1. The number of turns: Doubling the number of turns in a coil produces a field twice as strong if the same current is used. As a general rule, the inductance varies as the square of the number of turns.
+1. The number of turns: Doubling the number of turns in a coil produces a field twice as strong if the same current is used. As a general rule, the inductance varies as the square of the number of turns.
 
 2. The cross-sectional area of the coil: The inductance of a coil increases directly as the cross-sectional area of the core increases. Doubling the radius of a coil increases the inductance by a factor of four.
 
@@ -40,7 +40,7 @@ Self-inductance is the generation of a voltage in an electric circuit by a chang
 
 ### Types of Inductors
 
-Inductors used in radios can range from a straight wire at UHF to large chokes and transformers used for filtering the ripple from the output of power supplies and in audio amplifiers. Figure 12-127 shows the schematic symbols for common inductors. Values of inductors range from nano-henries to tens of henries.
+Inductors used in radios can range from a straight wire at UHF to large chokes and transformers used for filtering the ripple from the output of power supplies and in audio amplifiers. The figure shows the schematic symbols for common inductors. Values of inductors range from nano-henries to tens of henries.
 
 Inductors are classified by the type of core and the method of winding them. The number of turns in the inductor winding and the core material determine the capacity of the inductor. Cores made of dielectric material like ceramics, wood, and paper provide small amounts of stored energy while cores made of ferrite substances have a much higher degree of stored energy. The core material is usually the most important aspect of the inductors construction. The conductors typically used in the construction of an inductor offer little resistance to the flow of current. However, with the introduction of a core, resistance is introduced in the circuit and the current now builds up in the windings until the resistance of the core is overcome. This buildup is stored as magnetic energy in the core. Depending on the core resistance, the buildup soon reaches a point of magnetic saturation, and it can be released when necessary. The most common core materials are: air, solid ferrite, powdered ferrite, steel, toroid, and ferrite toroid.
 
@@ -50,17 +50,17 @@ Inductors are classified by the type of core and the method of winding them. The
 
 ### Units of Inductance
 
-The henry is the basic unit of inductance and is symbolized with the letter H. An electric circuit has an inductance of one henry when current changing at the rate of one ampere per second induces a voltage of one volt into the circuit. In many practical applications, millihenries (mH) and microhenries (μH) are more common units. The typical symbol for an inductor is shown in Figure 12-127.
+The henry is the basic unit of inductance and is symbolized with the letter H. An electric circuit has an inductance of one henry when current changing at the rate of one ampere per second induces a voltage of one volt into the circuit. In many practical applications, millihenries (mH) and microhenries (μH) are more common units. The typical symbol for an inductor is shown in the figure.
 
 ### Inductors in Series
 
-If we connect two inductors in series, the same current flows through both inductors and, therefore, both are subject to the same rate of change of current. [Figure 12-128] When inductors are connected in series, the total inductance LT, is the sum of the individual inductors. The general equation for n number of inductors in series is:
+If we connect two inductors in series, the same current flows through both inductors and, therefore, both are subject to the same rate of change of current. When inductors are connected in series, the total inductance LT, is the sum of the individual inductors. The general equation for n number of inductors in series is:
 
 LT = L1 + L2 + L3 + … LN
 
 ### Inductors in Parallel
 
-When two inductors are connected in parallel, each must have the same potential difference between the terminals. [Figure 12-129] When inductors are connected in parallel, the total inductance is less than the smallest inductance. The general equation for n number of inductors in parallel is:
+When two inductors are connected in parallel, each must have the same potential difference between the terminals. When inductors are connected in parallel, the total inductance is less than the smallest inductance. The general equation for n number of inductors in parallel is:
 
 LT = + +1L1 1L2 1L3 1LN 1 + . . .
 
@@ -70,44 +70,146 @@ L 1 = 10 mH, L2 = 5 mH, L3 = 2 mH LT = + +110 mH 15 mH 12 mH 1 LT = 0.8 mH 1 L T
 
 ### Inductive Reactance
 
-Alternating current is in a constant state of change; the effects of the magnetic fields are a continuously inducted voltage opposition to the current in the circuit. This opposition is called inductive reactance, symbolized by X L, and is measured in ohms just as resistance is measured. Inductance is the property of a circuit to oppose any change in current and is measured in henries. Inductive reactance is a measure of how much the countering emf in the circuit opposes current Inductor + L1 L2 − variations.
+Alternating current is in a constant state of change; the effects of the magnetic fields are a continuously inducted voltage opposition to the current in the circuit. This opposition is called inductive reactance, symbolized by X L, and is measured in ohms just as resistance is measured. Inductance is the property of a circuit to oppose any change in current and is measured in henries. Inductive reactance is a measure of how much the countering emf in the circuit opposes current variations.
 
 The inductive reactance of a component is directly proportional to the inductance of the component and the applied frequency to the circuit. By increasing either the inductance or applied frequency, the inductive reactance likewise increases and presents more opposition to current in the circuit. This relationship is given as:
 
-X L = 2πfL Where: XL = inductive reactance in ohms f = frequency in cycles per second π = 3.1416 L = inductance In Figure 12-130, an AC series circuit is shown in which the inductance is 0.146 henry and the voltage is 110 volts at a frequency of 60 cps. Inductive reactance is determined by the following method.
+X L = 2πfL Where: XL = inductive reactance in ohms f = frequency in cycles per second π = 3.1416 L = inductance In the figure, an AC series circuit is shown in which the inductance is 0.146 henry and the voltage is 110 volts at a frequency of 60 cps. Inductive reactance is determined by the following method.
 
 X L = 2π × f × L X L = 6.28 × 60 × 0.146 X L = 55 ohm In any circuit where there is only resistance, the expression for the relationship of voltage and current is given by Ohm’s Law: I = E/R. Similarly, when there is inductance in an AC circuit, the relationship between voltage and current can be expressed as:
 
 Current = or I = V oltage E Reactance XL Where:
 
-XL = inductive reactance of the circuit in ohms I = E XL I = 110 55 I = 2 amperes In AC series circuits, inductive reactances are added like resistances in series in a DC circuit. [Figure 12-131] Thus, the total reactance in the illustrated circuit equals the sum of the individual reactances.
+XL = inductive reactance of the circuit in ohms I = E XL I = 110 55 I = 2 amperes In AC series circuits, inductive reactances are added like resistances in series in a DC circuit. Thus, the total reactance in the illustrated circuit equals the sum of the individual reactances.
 
-The total reactance of inductors connected in parallel is found the same way as the total resistance in a parallel circuit. [Figure 12-132] Thus, the total reactance of inductances connected in parallel, as shown, is expressed as:
+The total reactance of inductors connected in parallel is found the same way as the total resistance in a parallel circuit. Thus, the total reactance of inductances connected in parallel, as shown, is expressed as:
 
 (XL)T = + +1(XL)1 1(XL)2 1(XL)3 1
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（41 段）。专业术语按行业惯例，数字与缩写保留。 -->
+### 电感量的特性
+
+迈克尔·法拉第发现，把磁铁在线圈中移动时，线圈两端会感应出电压。如果构成闭合回路，还会感应出电流。感应电压的大小与磁场相对于线圈的变化率成正比。最简单的实验就能证明：把条形磁铁在线圈中移动时会感应出电压，并且可以用电压表测量出来。这一规律通常称为法拉第定律或电磁感应定律，它指出：闭合导线回路中感应出的电动势（emf）与该回路磁通量的变化率成正比。
+
+反过来，流过线圈的电流也会产生磁场。当导线绕成线圈后，它就成为一个基本电感器。线圈中每一圈（匝）周围的磁力线，会有效地叠加到相邻各圈周围的磁力线上。这样就在线圈内部和周围形成了很强的磁场。图中示出了线圈如何增强磁场。当各圈彼此靠近时，相邻各圈周围的磁力线会被偏折到外侧路径上。这是因为相邻两圈之间的磁力线方向彼此相反。两圈的合成磁场如图所示。随着靠得很近的圈数增多，磁场强度随之增大。图中示出了线圈许多圈的合成效果，其结果是形成一块强电磁铁。
+
+线圈工作的主要方面在于它能阻碍通过自身的电流发生任何变化。这一特性称为电感量。当电流流过任何导体时，磁场会从导线中心开始扩展。当磁力线向外扩展穿过导体时，会在导体自身中感应出电动势。感应电压的方向总是与电流流动的方向相反。这种反向电动势的作用是阻碍电流立即达到最大值。这一效应只是一种暂时的状态。一旦导体中的电流达到稳定值，磁力线就不再扩展，反向电动势也不再存在。
+
+在起始瞬间，反向电动势几乎等于所加电压，因此电流很小。然而，随着磁力线向外移动，每秒切割导体的磁力线数量逐渐减少，反向电动势随之减弱。最终，反向电动势降为零，电路中唯一的电压就是所加电压，电流达到最大值。
+
+### RL 时间常数
+
+由于电感器的基本作用是阻碍自身电流的变化，因此可以推知：电感器中的电流不能瞬时改变。电流从一个值变化到另一个值需要一定的时间。电流变化的速率由时间常数决定，时间常数用希腊字母 τ 表示。RL 电路的时间常数是：
+
+τ = L⁄R　式中 τ = 秒　L = 电感量（H）
+
+在串联 RL 电路中，合上开关后经过 1 个时间常数，电流增大到满值的 63%。这种增长过程与给 RC 电路充电时电容器电压的增长类似。两者都遵循指数曲线，并在第 5 个时间常数之后达到 99% 的数值。
+
+### 物理参数
+
+影响电感量的一些物理因素有：
+
+1. 匝数：在电流相同的情况下，把线圈的匝数加倍，产生的磁场强度也加倍。一般规律是，电感量与匝数的平方成正比。
+
+2. 线圈的横截面积：线圈的电感量随铁芯横截面积的增大而正比增大。把线圈的半径加倍，电感量增大为原来的四倍。
+
+3. 线圈的长度：在匝数不变的情况下把线圈长度加倍，电感量减半。
+
+4. 线圈所绕铁芯的材料：线圈可绕在磁性材料或非磁性材料上。非磁性材料包括空气、铜、塑料和玻璃。磁性材料包括镍、铁、钢或钴，它们具有磁导率，能为磁力线提供更好的通路，从而形成更强的磁场。
+
+自感现象这一特性由德国物理学家海因里希·楞次于 1833 年总结，它给出了电磁感应所产生的感应电动势的方向。这就是通常所说的楞次定律，其表述为：电路中所感应的电动势总是取这样的方向，即使它驱动电流在闭合电路中流动时所产生的磁场阻碍磁通量的变化。
+
+自感是指在同一电路中，由变化的电流在电路自身中产生电压的现象。即使是一段直导线也具有一定程度的电感量，因为导体中的电流会产生磁场。当导体中的电流改变方向时，导体周围磁场的极性也相应改变。因此，变化的电流会在导线周围产生变化的磁场。为进一步增强磁场，可以把导线卷成线圈，这就是电感器。电感器周围变化的磁场在线圈两端感应出电压。这个感应电动势称为自感电动势，它倾向于阻碍电路中电流的任何变化。这一特性通常称为电感量，用字母 L 表示。
+
+### 电感器的类型
+
+无线电中使用的电感器，范围从特高频（UHF）下的一段直导线，到用于滤除电源输出纹波的大扼流圈和变压器，以及音频放大器中的电感器。图中示出了常见电感器的电路符号。电感器的数值范围从纳亨到几十亨。
+
+电感器按铁芯的类型和绕制方法分类。电感器绕组的匝数和铁芯材料决定电感器的容量。由陶瓷、木材、纸等电介质材料制成的铁芯储存的能量较少，而由铁氧体材料制成的铁芯储存能量的程度则高得多。铁芯材料通常是电感器结构最重要的方面。电感器制作中使用的导体对电流流动的阻碍很小。然而，一旦引入铁芯，电路中就引入了电阻，电流便在绕组中逐渐建立，直至克服铁芯的电阻。这种建立过程以磁能的形式储存在铁芯中。视铁芯电阻的大小，这种建立过程很快达到磁饱和点，并可在需要时释放出来。最常见的铁芯材料有：空气、实心铁氧体、粉状铁氧体、钢、环形铁芯和铁氧体环形铁芯。
+
+（原文此处为图注碎片，原文无正文）
+
+（原文此处为图注碎片，原文无正文）
+
+### 电感量的单位
+
+亨利是电感量的基本单位，用字母 H 表示。当电流以每秒 1 安培的速率变化、在电路中感应出 1 伏电压时，该电路的电感量就是 1 亨利。在许多实际应用中，毫亨（mH）和微亨（μH）是更常用的单位。电感器的典型符号如图所示。
+
+### 电感器的串联
+
+如果把两个电感器串联，通过两个电感器的电流相同，因此两者都承受相同的电流变化率。电感器串联时，总电感量 LT 等于各电感器电感量之和。n 个电感器串联的通用公式为：
+
+LT = L1 + L2 + L3 + … LN
+
+### 电感器的并联
+
+当两个电感器并联时，两端的电位差必须相同。电感器并联时，总电感量小于其中最小的电感量。n 个电感器并联的通用公式为：
+
+LT = 1⁄L1 + 1⁄L2 + 1⁄L3 + … 1⁄LN
+
+一个简单的例子是：
+
+L 1 = 10 mH，L2 = 5 mH，L3 = 2 mH　LT = 1⁄10 mH + 1⁄5 mH + 1⁄2 mH　LT = 1⁄0.8 mH　L T = 1.25 mH
+
+### 感抗
+
+交流电始终处于不断变化之中；磁场的作用表现为对电路中电流的持续性感应电压阻碍。这种阻碍称为感抗，用 X L 表示，并像电阻一样以欧姆计量。电感量是电路阻碍电流任何变化的特性，以亨利计量。感抗是衡量电路中反向电动势在多大程度上阻碍电流变化的量。
+
+元件的感抗与该元件的电感量和施加到电路上的频率成正比。增大电感量或所加频率中的任何一个，感抗都会相应增大，对电路中电流的阻碍也随之增大。这一关系表示为：
+
+X L = 2πfL　式中：XL = 感抗，单位欧姆　f = 频率，单位周波/秒　π = 3.1416　L = 电感量　图中示出了一个交流串联电路，其电感量为 0.146 亨利，电压为 110 伏、频率 60 cps。感抗用下述方法求出。
+
+X L = 2π × f × L　X L = 6.28 × 60 × 0.146　X L = 55 欧姆　在任何只有电阻的电路中，电压与电流的关系式由欧姆定律给出：I = E/R。同样，当交流电路中含有电感时，电压与电流之间的关系可表示为：
+
+电流 = 电压/电抗，即 I = E/XL　式中：
+
+XL = 电路的感抗，单位欧姆　I = E/XL　I = 110/55　I = 2 安培　在交流串联电路中，感抗的相加方式与直流电路中电阻串联相同。因此，图示电路中的总电抗等于各分电抗之和。
+
+并联电感器的总电抗，求法与并联电路中的总电阻相同。因此，所示并联电感器的总电抗可表示为：
+
+(XL)T = 1/(XL)1 + 1/(XL)2 + 1/(XL)3
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Alternating current —— An electric current that reverses direction in a circuit at regular intervals.
-- Ampere —— A unit of measure of the rate of electron flow or current in an electrical conductor. One ampere of current represents one coulomb of electrical charge (6.24 × 
-- Capacitance (C) —— The property of an electric conductor that characterizes its ability to store an electric charge.
-- Capacitor —— An electrical component that stores an electric charge.
-- Conductor —— A material that will carry electric current.
-- Current —— The flow of electrical charge.
-- Difference —— The answer to a subtraction problem.
-- Energy —— The capacity of a physical system to perform work. There are two types of energy, kinetic and potential.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| inductance | n. | 电感量 | 线圈阻碍自身电流变化的特性，符号 L，单位为亨利 |
+| inductor | n. | 电感器 | 把导线绕成线圈制成的元件，用于电路中产生电感量 |
+| self-inductance | n. | 自感 | 同一电路中变化电流在该电路自身感应出电压的现象 |
+| henry | n. | 亨利 | 电感量的基本单位，符号 H，1 亨利即电流每秒变化 1 安培时感应 1 伏 |
+| RL time constant | n.phr. | RL 时间常数 | L/R，表示电感电路中电流升到满值 63% 所需的时间 τ |
+| millihenry (mH) | n. | 毫亨 | 10-3 亨利，实用电感量的常用单位 |
+| inductive reactance | n.phr. | 感抗 | 电感对交流电的阻碍，符号 XL，单位欧姆，XL = 2πfL |
+| permeability | n. | 磁导率 | 磁性材料为磁力线提供更好通路、从而增强磁场的性质 |
+| ferrite | n. | 铁氧体 | 用作铁芯的材料，能储存较多磁能，使电感器容量增大 |
+| choke | n. | 扼流圈 | 用于滤除电源输出纹波的大电感器，属无线电设备中的常见电感 |
+| counter emf | n.phr. | 反向电动势 | 导体中变化磁力线感应出的、方向与电流相反的电动势 |
+| magnetic saturation | n.phr. | 磁饱和 | 铁芯磁能积累到极限、无法再增大的状态 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① that 宾语从句 + by + 动名词作方式状语
+**原句**：Michael Faraday discovered that by moving a magnet through a coil of wire, a voltage was induced across the coil.
+**拆解**：主句主语 Michael Faraday，谓语 discovered，后接 that 引导的宾语从句；从句中 by moving a magnet through a coil of wire 为「介词 by + 动名词短语」作方式状语，主谓为 a voltage was induced（被动语态），across the coil 为地点状语。
+**要点**：by + 动名词表示「通过……手段」，是技术说明中常见的因果表达；was induced 是被动结构而不是过去时主动；从句的主语 a voltage 与方式状语位置颠倒，翻译时应先译手段再译结果。
+
+### ② 非限制性定语从句 + 宾语从句
+**原句**：This is commonly known as Faraday’s Law or the Law of Electromagnetic Induction, which states that the induced emf or electromagnetic force in a closed loop of wire is proportional to the rate of change of the magnetic flux through a coil of wire.
+**拆解**：主句 This is commonly known as…（被动）；which 引导非限制性定语从句，先行词是前面的定律名称；从句谓语 states 后接 that 引导的宾语从句，从句主语为 the induced emf or electromagnetic force，is proportional to 为谓语部分，the rate of change of 为介词短语作宾语。
+**要点**：非限制性定语从句用逗号隔开，which 不能换成 that；be proportional to 表示「与……成正比」，反义为 inversely proportional to；the rate of change of X 是固定搭配「X 的变化率」。
+
+### ③ Once 引导的时间状语从句 + no longer
+**原句**：Once the current reaches a steady value in the conductor, the lines of magnetic force no longer expand and the countering emf is no longer present.
+**拆解**：Once 引导时间状语从句（主语 the current，谓语 reaches，一般现在时）；主句由两个并列分句构成，第一个为 the lines of magnetic force no longer expand，第二个为 the countering emf is no longer present。
+**要点**：时间状语从句用一般现在时代替将来时；no longer 位于实义动词之前、be 动词之后，这是判断其位置的要点；be present 意为「存在、出现」，不等于「在场」。
+
+### ④ 被动语态 + 介词短语作后置定语 + when 从句
+**原句**：The magnetic lines of force around adjacent loops are deflected into an outer path when the loops are brought close together.
+**拆解**：主句主语 the magnetic lines of force，around adjacent loops 为介词短语作后置定语，谓语 are deflected 为被动，into an outer path 为介词短语作状语；when 引导时间状语从句，are brought 为被动。
+**要点**：物理过程的描述大量使用被动，因为重点是「发生什么」而非「谁操作」；deflect into 是「偏折到……之中」的动词搭配；判断主谓时先跳过 around… 这类后置定语。
+
+### ⑤ 动名词作主语 + 倍数比较结构
+**原句**：Doubling the number of turns in a coil produces a field twice as strong if the same current is used.
+**拆解**：动名词短语 Doubling the number of turns in a coil 作主语，谓语 produces，宾语 a field，twice as strong 为倍数比较结构作后置定语（省略了 as the original field）；if 引导条件状语从句，is used 为被动。
+**要点**：动名词短语作主语时谓语用单数 produces；倍数表达为「A is twice as strong as B」或「twice the strength of B」，本句省略了比较对象；if 从句的被动在技术文本中常表示「若采用……条件」。

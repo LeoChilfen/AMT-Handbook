@@ -10,7 +10,7 @@ Across the terminals of the typical aircraft battery, voltage can be measured as
 
 Where E = EQ E = Potential difference in volts E = Energy expanded or absorbed in joules (J)
 
-Q = Charge measured in coulombs Figure 12-37 illustrates the flow of electrons of electric current. Two interconnected water tanks demonstrate that when a difference of pressure exists between the two tanks, water flows until the two tanks are equalized. The illustration shows the level of water in tank A to be at a higher level, reading 10 psi (higher potential energy) than the water level in tank B, reading 2 psi (lower potential energy). Between the two tanks, there is 8-psi potential difference. If the valve in the interconnecting line between the tanks is opened, water flows from tank A into tank B until the level of water (potential energy) of both tanks is equalized. It is important to note that it was not the pressure in tank A that caused the water to flow; rather, it was the difference in pressure between tank A and tank B that caused the flow.
+Q = Charge measured in coulombs Two interconnected water tanks demonstrate that when a difference of pressure exists between the two tanks, water flows until the two tanks are equalized. The illustration shows the level of water in tank A to be at a higher level, reading 10 psi (higher potential energy) than the water level in tank B, reading 2 psi (lower potential energy). Between the two tanks, there is 8-psi potential difference. If the valve in the interconnecting line between the tanks is opened, water flows from tank A into tank B until the level of water (potential energy) of both tanks is equalized. It is important to note that it was not the pressure in tank A that caused the water to flow; rather, it was the difference in pressure between tank A and tank B that caused the flow.
 
 This comparison illustrates the principle that electrons move, when a path is available, from a point of excess electrons (higher potential energy) to a point deficient in electrons (lower potential energy). The force that causes this movement is the potential difference in electrical energy between the two points. This force is called the electrical pressure or the potential difference or the electromotive force (electron moving force).
 
@@ -30,26 +30,63 @@ The velocity of the charge is actually an average velocity and is called drift v
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（12 段）。专业术语按行业惯例，数字与缩写保留。 -->
+……最终推动电子流动的导体。电动势的符号是大写字母“E”。
+
+在典型飞机电池的两个端子之间，可以测得 12 伏或 24 伏的电位差，这就是电压。也就是说，电池的两个接线柱之间有 12 伏或 24 伏的电动势，可推动电流通过电路。负端子中相对自由的电子向正端子中过剩的正电荷移动。回顾静电部分的讨论：同种电荷相互排斥，异种电荷相互吸引。最终结果就是电流通过导体流动。除非有来自电池、发电机或地面电源设备的外加电压，导体中不可能有电流流动。电位差，即电系统中任意两点之间的电压，可由下式确定：
+
+式中 E = EQ；E 为电位差，单位为伏特（V）；E 为消耗或吸收的能量，单位为焦耳（J）。
+
+Q = 以库仑为单位的电荷量。两个相互连通的水箱表明：当两箱之间存在压力差时，水就流动，直到两箱水位相等。图中 A 箱的水位较高，读数为 10 psi（势能较高），B 箱水位读数为 2 psi（势能较低）。两箱之间存在 8 psi 的电位差。若打开两箱之间连通管路上的阀门，水便从 A 箱流入 B 箱，直至两箱的水位（势能）相等。需要注意的是，使水流动的并不是 A 箱中的压力，而是 A 箱与 B 箱之间的压力差。
+
+这一类比说明了如下原理：只要有通路，电子就会从电子过剩处（势能较高）流向电子不足处（势能较低）。引起这种运动的力量是两点之间电能的电位差。这个力称为电压、电位差或电动势（electron moving force，电子运动力）。
+
+电流 运动的电子构成电流。无论有多少电子在运动，这种电流通常就称为“电流”或“电流流动”。电流是对电荷流过空间某一区域或导体的速率的度量。运动的电荷是导体中的自由电子，如铜、银、铝和金中的自由电子。“自由电子”一词描述某些原子中外层电子与母原子结合松散的状态。当把电池等外部电源接入电路时，这些结合松散的电子很容易被驱动沿给定方向运动。这些电子被电池的正端子吸引，而负端子则是电子的来源。在给定时间内通过导体的电荷量越大，电流就越大。
+
+电流 = 电荷量 / 时间，即 I = Q/t。式中：
+
+I = 电流，单位为安培（A）。
+
+Q = 电荷量，单位为库仑（C）。
+
+T = 时间。A B 电流的国际单位制（SI）单位是安培（A），1 A = 1 C/s。1 安培（A）的电流相当于 1 秒内通过导体 1 库仑（C）的电荷。1 库仑电荷等于 6.28 billion（62.8 亿）个电子。公式或电路图中表示电流的符号是大写字母“I”。
+
+当电流只朝一个方向流动时，称为直流电（DC）。本手册后文将讨论在电路中周期性往复振荡的电流形式。本节只讨论直流电的应用。
+
+电荷的速度实际上是平均速度，称为漂移速度。要理解漂移速度的概念，可以设想一种电荷载流子为自由电子的导体。这些电子始终处于类似气体分子的随机运动状态。当在导体两端施加电压时，电动势在导体内建立电场，电流随之形成。电子并不沿直线运动，而是与附近其他原子反复碰撞。这些碰撞通常把其他自由电子从原子中撞出，这些电子以称为漂移速度的平均速度向导体正端运动，该速度相对较慢。要理解电流效应的近乎瞬时性，不妨设想一根装满钢球的长管：在管的一端推入一个球（管代表导体），管的另一端就会立即弹出一个球。因此，尽管电流是电子相对缓慢漂移的结果，仍可视为瞬时发生。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Ampere —— A unit of measure of the rate of electron flow or current in an electrical conductor. One ampere of current represents one coulomb of electrical charge (6.24 × 
-- Conductor —— A material that will carry electric current.
-- Coulomb —— A measure of electrical output. One coulomb is 6.24 × 1018 electrons.
-- Current —— The flow of electrical charge.
-- Difference —— The answer to a subtraction problem.
-- Direct current (DC) —— Electricity that flows in one direction at all times.
-- Electrical energy —— Electrical energy is converted to heat energy when an electric current flows through any form of resistance such as an electric iron, electric light, or an elec
-- Electromotive force (EMF) —— The pressure or force that causes electrons to flow in an electrical circuit.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| electromotive force (emf) | n. | 电动势 | 推动电子在导体中流动的“压力”，符号为 E |
+| potential difference | n. | 电位差 | 电系统任意两点之间的电压，是电子从高电位流向低电位的驱动力 |
+| terminal | n. | 端子、接线柱 | 电池两端引出电压的部位；负端子是电子的来源 |
+| coulomb | n. | 库仑 | 电荷量单位，1 C 等于 6.28 billion 个电子 |
+| ampere | n. | 安培 | 电流单位，1 A = 1 C/s，表示每秒通过 1 库仑电荷 |
+| direct current (DC) | n. | 直流电 | 始终沿一个方向流动的电流，本节只讨论这种电流 |
+| drift velocity | n. | 漂移速度 | 电子在电场中经反复碰撞后向正端前进的平均速度，数值很小 |
+| free electron | n. | 自由电子 | 外层与原子结合松散、易被外电源驱动定向运动的电子 |
+| ground power unit | n. | 地面电源设备 | 与电池、发电机并列的外加电压来源 |
+| charge | n. | 电荷 | 电流大小的度量对象，单位为库仑 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① 同位语插入 + 情态动词被动语态
+**原句**：The potential difference, or the voltage across any two points in an electrical system, can be determined by:
+**拆解**：主语 The potential difference 后接由 or 引出的同位语 the voltage across any two points in an electrical system；谓语为 can be determined（情态动词 + 被动语态）；句末 by 引出计算所依据的关系式。
+**要点**：or 在这里不是“或者”，而是“亦即”，用来把术语换成更通俗的说法，翻译时可作“即”；情态被动 can be determined 隐去执行者，是技术说明的惯用写法；主语与谓语之间插入长同位语时，要先跳过同位语找到谓语。
+
+### ② 强调句 + rather 的对比结构
+**原句**：It is important to note that it was not the pressure in tank A that caused the water to flow; rather, it was the difference in pressure between tank A and tank B that caused the flow.
+**拆解**：主句 It is important to note that… 中 it 为形式主语，真正主语是 to note 短语；that 从句内是两个强调句：it was not the pressure in tank A that caused the water to flow 与 it was the difference in pressure…that caused the flow，分号后的 rather 引出被肯定的那一项。
+**要点**：It was X that… 是强调句型，去掉 It was 和 that 后句子成分仍完整；否定强调 it was not X that… 与 rather 连用，构成“不是……而是……”；注意强调句中 that 不作成分，不能用 which 以外的关系词随意替换。
+
+### ③ unless 引导的真实条件状语从句
+**原句**：There cannot be a flow in a conductor unless there is an applied voltage from a battery, generator, or ground power unit.
+**拆解**：主句为 there be 存在句 There cannot be a flow in a conductor；unless 引导条件状语从句，从句同样是 there is 存在句，表语 an applied voltage 后接 from 短语说明电压来源。
+**要点**：unless 相当于 if…not，自身已含否定，从句中不可再加 not；there be 与情态动词连用表示“不可能存在”；并列三个来源时前两项用逗号、最后一项前用 or，表示全部可能。
+
+### ④ 介词 + which 引导的定语从句
+**原句**：Current is a measurement of a rate at which a charge flows through some region of space or a conductor.
+**拆解**：主语 Current + 系动词 is + 表语 a measurement of a rate；at which 引导定语从句修饰先行词 rate，从句主语 a charge，谓语 flows through，宾语 some region of space or a conductor。
+**要点**：at which 来自固定搭配 at a rate（以某一速率），介词提到 which 之前是正式书面语的标志；此处不能用 that 或 what；翻译时把介词还原到从句中，译成“电荷以该速率流过……”。

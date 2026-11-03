@@ -12,49 +12,49 @@ The combined effects of resistance, inductive reactance, and capacitive reactanc
 
 ### Series AC Circuits
 
-If an AC circuit consists of resistance only, the value of the impedance is the same as the resistance, and Ohm’s Law for an AC circuit, I = E/Z, is exactly the same as for a DC circuit. In Figure 12-133, a series circuit containing a lamp with 11 ohms resistance connected across a source is illustrated. To find how much current flows if 110 volts DC is applied and how much current flows if 110 volts AC are applied, the following examples are solved:
+If an AC circuit consists of resistance only, the value of the impedance is the same as the resistance, and Ohm’s Law for an AC circuit, I = E/Z, is exactly the same as for a DC circuit. In the figure, a series circuit containing a lamp with 11 ohms resistance connected across a source is illustrated. To find how much current flows if 110 volts DC is applied and how much current flows if 110 volts AC are applied, the following examples are solved:
 
-I = E R I = (where Z = R) E Z I = 110 V 11 W I = 110 V 11 W I = 10 amperes DC I = 10 amperes AC When AC circuits contain resistance and either inductance or capacitance, the impedance, Z, is not the same as the 110V AC 60 cycles A XL1 XL2 + L2 − L1 resistance, R. The impedance of a circuit is the circuit’s total opposition to the flow of current. In an AC circuit, this opposition consists of resistance and reactance, either inductive or capacitive or elements of both.
+I = E R I = (where Z = R) E Z I = 110 V 11 W I = 110 V 11 W I = 10 amperes DC I = 10 amperes AC When AC circuits contain resistance and either inductance or capacitance, the impedance, Z, is not the same as the resistance, R. The impedance of a circuit is the circuit’s total opposition to the flow of current. In an AC circuit, this opposition consists of resistance and reactance, either inductive or capacitive or elements of both.
 
-Resistance and reactance cannot be added directly, but they can be considered as two forces acting at right angles to each other. Thus, the relation between resistance, reactance, and impedance may be illustrated by a right triangle. [Figure 12-134]
+Resistance and reactance cannot be added directly, but they can be considered as two forces acting at right angles to each other. Thus, the relation between resistance, reactance, and impedance may be illustrated by a right triangle.
 
-Since these quantities may be related to the sides of a right triangle, the formula for finding the impedance, or total opposition to current flow in an AC circuit, can be found by using the law of right triangles. This theorem, called the Pythagorean theorem, applies to any right triangle. It states that the square of the hypotenuse is equal to the sum of the squares of the other two sides. Thus, the value of any side of a right triangle can be found if the other two sides are known. If an AC circuit contains resistance and inductance, as shown in Figure 12-135, the relation between the sides can be stated as:
+Since these quantities may be related to the sides of a right triangle, the formula for finding the impedance, or total opposition to current flow in an AC circuit, can be found by using the law of right triangles. This theorem, called the Pythagorean theorem, applies to any right triangle. It states that the square of the hypotenuse is equal to the sum of the squares of the other two sides. Thus, the value of any side of a right triangle can be found if the other two sides are known. If an AC circuit contains resistance and inductance, as shown in the figure, the relation between the sides can be stated as:
 
 Z 2 = R2 + XL2 The square root of both sides of the equation gives Z = R2 + XL2 This formula can be used to determine the impedance when the values of inductive reactance and resistance are known. It can be modified to solve for impedance in circuits containing capacitive reactance and resistance by substituting XC in the formula in place of XL. In circuits containing resistance with both inductive and capacitive reactance, the reactances can be combined, but because their effects in the circuit are exactly opposite, they are combined by subtraction:
 
 X = XL − XC or X = XC − XL (the smaller number is always subtracted from the larger)
 
-In Figure 12-135, a series circuit consisting of resistance and inductance connected in series is connected to a source of 110 volts at 60 cps. The resistive element is a lamp with 6 ohms resistance, and the inductive element is a coil with an inductance of 0.021 henry. What is the value of the impedance and the current through the lamp and the coil?
+In the figure, a series circuit consisting of resistance and inductance connected in series is connected to a source of 110 volts at 60 cps. The resistive element is a lamp with 6 ohms resistance, and the inductive element is a coil with an inductance of 0.021 henry. What is the value of the impedance and the current through the lamp and the coil?
 
 First, the inductive reactance of the coil is computed:
 
 X L = 2π × f × L X L = 6.28 × 60 × 0.021 X L = 8 ohms inductive reactance Next, the total impedance is computed:
 
-Z = R2 + XL2 Z = 62 + 82 Z = 36 + 64 Z = 100 Z = 10 ohms impedance Then the current flow, I = E Z I = 110 10 I = 11 amperes current XL2XL1 110 V Reactance Resistance Z R Impedance XL − XC The voltage drop across the resistance (ER) is:
+Z = R2 + XL2 Z = 62 + 82 Z = 36 + 64 Z = 100 Z = 10 ohms impedance Then the current flow, I = E Z I = 110 10 I = 11 amperes current The voltage drop across the resistance (ER) is:
 
 E R = I × R E R = 11 × 6 = 66 volts The voltage drop across the inductance (EXL) is:
 
-EXL = I × XL EXL = 11 × 8 = 88 volts The sum of the two voltages is greater than the impressed voltage. This results from the fact that the two voltages are out of phase and, as such, represent the maximum voltage. If the voltage in the circuit is measured by a voltmeter, it is approximately 110 volts, the impressed voltage. This can be proved by the equation: E = (ER)2 + (EXL)2 E = 662 + 882 E = 4,356 + 7,744 E = 12,100 E = 110 volts In Figure 12-136, a series circuit is illustrated in which a capacitor of 200 µf is connected in series with a 10 ohm lamp. What is the value of the impedance, the current flow, and the voltage drop across the lamp?
+EXL = I × XL EXL = 11 × 8 = 88 volts The sum of the two voltages is greater than the impressed voltage. This results from the fact that the two voltages are out of phase and, as such, represent the maximum voltage. If the voltage in the circuit is measured by a voltmeter, it is approximately 110 volts, the impressed voltage. This can be proved by the equation: E = (ER)2 + (EXL)2 E = 662 + 882 E = 4,356 + 7,744 E = 12,100 E = 110 volts In the figure, a series circuit is illustrated in which a capacitor of 200 µf is connected in series with a 10 ohm lamp. What is the value of the impedance, the current flow, and the voltage drop across the lamp?
 
 First, the capacitance is changed from microfarads to farads. Since 1 million microfarads equal 1 farad, then:
 
 200 μf = = 0.000200 farads 2001,000,000 XC = 12πfC XC = 16.28 × 60 × 0.000200 farads XC = 10.07536 X C = 13 ohms capacitive reactance To find the impedance, Z = R2 + XC2 Z = 102 + 132 Z = 100 + 169 Z = 269 Z = 16.4 ohms capacitive reactance To find the current, I = E Z I = 110 16.4 I = 6.7 amperes The voltage drop across the lamp (ER) is:
 
-E R = 6.7 × 10 E R = 67 volts The voltage drop across the capacitor (EXC) is EXC = I × XC EXC = 6.7 × 13 EXC = 86.1 volts 110 V AC 60 cycles 10 Ω 200 μf A 110V AC 60 cycles 0.021 henries A 6 Ω The sum of these two voltages does not equal the applied voltage, since the current leads the voltage. To find the applied voltage, use the following formula:
+E R = 6.7 × 10 E R = 67 volts The voltage drop across the capacitor (EXC) is EXC = I × XC EXC = 6.7 × 13 EXC = 86.1 volts The sum of these two voltages does not equal the applied voltage, since the current leads the voltage. To find the applied voltage, use the following formula:
 
 ET = (ER)2 + (EXC)2 ET = 672 + 86.12 ET = 4,489 + 7,413 ET = 11,902 E T = 110 volts When the circuit contains resistance, inductance, and capacitance, the following equation is used to find the impedance:
 
-Z = R2 + (XL – XC)2 Example: What is the impedance of a series circuit, consisting of a capacitor with a reactance of 7 ohms, an inductor with a reactance of 10 ohms, and a resistor with a resistance of 4 ohms? [Figure 12-137]
+Z = R2 + (XL – XC)2 Example: What is the impedance of a series circuit, consisting of a capacitor with a reactance of 7 ohms, an inductor with a reactance of 10 ohms, and a resistor with a resistance of 4 ohms?
 
 Z = R2 + (XL – XC)2 Z = 42 + (10 – 7)2 Z = 42 + 32 Z = 25 Z = 5 ohms Assuming that the reactance of the capacitor is 10 ohms and the reactance of the inductor is 7 ohms, then X C is greater than XL. Thus, Z = R2 + (XL – XC)2 Z = 42 + (7 – 10)2 Z = 42 + (–3)2 Z = 16 + 9 Z = 25 Z = 5 ohms
 
 ### Parallel AC Circuits
 
-The methods used in solving parallel AC circuit problems are basically the same as those used for series AC circuits. Out of phase voltages and currents can be added by using the law of right triangles. However, in solving circuit problems, the currents through the branches are added since the voltage drops across the various branches are the same and are equal to the applied voltage. In Figure 12-138 , a parallel AC circuit containing an inductance and a resistance is shown schematically. The current flowing through the inductance, I L, is 0.0584 ampere, and the current flowing through the resistance is 0.11 ampere. What is the total current in the circuit?
+The methods used in solving parallel AC circuit problems are basically the same as those used for series AC circuits. Out of phase voltages and currents can be added by using the law of right triangles. However, in solving circuit problems, the currents through the branches are added since the voltage drops across the various branches are the same and are equal to the applied voltage. In the figure, a parallel AC circuit containing an inductance and a resistance is shown schematically. The current flowing through the inductance, I L, is 0.0584 ampere, and the current flowing through the resistance is 0.11 ampere. What is the total current in the circuit?
 
 IT = IL2 + IR2 = (0.0584)2 + (0.11)2 = 0.0155 = 0.1245 ampere Since inductive reactance causes voltage to lead the current, the total current, which contains a component of inductive current, lags the applied voltage. If the current and voltages are plotted, the angle between the two, called the phase angle, illustrates the amount the current lags the voltage.
 
-In Figure 12-139, a 112-volt generator is connected to a load consisting of a 2 µf capacitance and a 10,000-ohm resistance in parallel. What is the value of the impedance and total current flow?
+In the figure, a 112-volt generator is connected to a load consisting of a 2 µf capacitance and a 10,000-ohm resistance in parallel. What is the value of the impedance and total current flow?
 
 First, find the capacitive reactance of the circuit:
 
@@ -102,7 +102,7 @@ X = XL + XC XL + XC To find the parallel networks with resistance capacitive and
 
 Z = XL2 XC2 + (RXL – RXC)2 R XL XC Since at the resonant frequency XL cancels XC, the current can become very large, depending on the amount of resistance. In such cases, the voltage drop across the inductor or capacitor is often higher than the applied voltage.
 
-In a parallel resonant circuit, the reactances are equal and equal currents flow through the coil and the capacitor. [Figure 12-140]
+In a parallel resonant circuit, the reactances are equal and equal currents flow through the coil and the capacitor.
 
 Since the inductive reactance causes the current through the coil to lag the voltage by 90°, and the capacitive reactance causes the current through the capacitor to lead the voltage by 90°, the two currents are 180° out of phase. The canceling effect of such currents would mean that no current would flow from the generator and the parallel combination of the inductor and the capacitor would appear as infinite impedance. In practice, no such circuit is possible, since some value of resistance is always present, and the parallel circuit, sometimes called a tank circuit, acts as very high impedance. It is also called an antiresonant circuit, since its effect in a circuit is opposite to that of a series resonant circuit, in which the impedance is very low.
 
@@ -118,7 +118,7 @@ True power of any AC circuit is commonly referred to as the working power of the
 
 Apparent power in an AC circuit is sometimes referred to as the reactive power of a circuit. Apparent power is the power consumed by the entire circuit, including both the resistance and the reactance. Apparent power is symbolized by the letter S and is measured in volt-amps (V A). Apparent power is a product of the effective voltage multiplied by the effective current. Apparent power is calculated by the formula:
 
-S = I2 × Z Only when the AC circuit is made up of pure resistance is the apparent power equal to the true power. [Figure 12-141] When there is capacitance or inductance in the circuit, the current and voltage are not exactly in phase, and the true power is less than the apparent power. The true power is obtained by a wattmeter reading. The ratio of the true power to the apparent power is called the power factor and is usually expressed in percent. In equation form, the relationship is:
+S = I2 × Z Only when the AC circuit is made up of pure resistance is the apparent power equal to the true power. When there is capacitance or inductance in the circuit, the current and voltage are not exactly in phase, and the true power is less than the apparent power. The true power is obtained by a wattmeter reading. The ratio of the true power to the apparent power is called the power factor and is usually expressed in percent. In equation form, the relationship is:
 
 Power Factor (PF) = 100 × watts (True Power)volts × amperes (Apparent Power)
 
@@ -132,7 +132,7 @@ Apparent power = V olts × Amperes Apparent power = 220 × 50 = 11,000 watts or 
 
 A transformer changes electrical energy of a given voltage into electrical energy at a different voltage level. It consists of two coils that are not electrically connected, but are arranged so that the magnetic field surrounding one coil cuts through the other coil. When an alternating voltage is applied to (across) one coil, the varying magnetic field set up around that coil creates an alternating voltage in the other coil by mutual induction. A transformer can also be used with pulsating DC, but a pure DC voltage cannot be used, since only a varying voltage creates the varying magnetic field that is the basis of the mutual induction process.
 
-A transformer consists of three basic parts. [Figure 12-142] These are an iron core, which provides a circuit of low reluctance for magnetic lines of force; a primary winding, which receives the electrical energy from the source of applied voltage; and a secondary winding, which receives electrical energy by induction from the primary coil.
+A transformer consists of three basic parts. These are an iron core, which provides a circuit of low reluctance for magnetic lines of force; a primary winding, which receives the electrical energy from the source of applied voltage; and a secondary winding, which receives electrical energy by induction from the primary coil.
 
 The primary and secondary of this closed core transformer are wound on a closed core to obtain maximum inductive effect between the two coils.
 
@@ -140,17 +140,17 @@ There are two classes of transformers: voltage transformers, used for stepping u
 
 ### Current Transformers
 
-used in instrument circuits. In voltage transformers, the primary coils are connected in parallel across the supply voltage. [Figure 12-143A] The primary windings of current transformers are connected in series in the primary circuit. [Figure 12-143B] Of the two types, the voltage transformer is the more common.
+used in instrument circuits. In voltage transformers, the primary coils are connected in parallel across the supply voltage. The primary windings of current transformers are connected in series in the primary circuit. Of the two types, the voltage transformer is the more common.
 
-There are many types of voltage transformers. Most of these are either step-up or step-down transformers. The factor that determines whether a transformer is a step-up or step- down type is the “turns” ratio. The turns ratio is the ratio of the number of turns in the primary winding to the number of turns in the secondary winding. For example, the turns ratio of the step-down transformer is 5 to 1, since there are five times as many turns in the primary as in the secondary. [Figure 12-144A] The step-up transformer has a 1 to 4 turns ratio. [Figure 12-144B]
+There are many types of voltage transformers. Most of these are either step-up or step-down transformers. The factor that determines whether a transformer is a step-up or step- down type is the “turns” ratio. The turns ratio is the ratio of the number of turns in the primary winding to the number of turns in the secondary winding. For example, the turns ratio of the step-down transformer is 5 to 1, since there are five times as many turns in the primary as in the secondary. The step-up transformer has a 1 to 4 turns ratio.
 
-The ratio of the transformer input voltage to the output voltage is the same as the turns ratio if the transformer is 100 percent efficient. Thus, when 10 volts are applied to the primary of the transformer, two volts are induced in the secondary. [Figure 12-144A] If 10 volts are applied to the primary of the transformer, the output voltage across the terminals of the secondary is 40 volts. [Figure 12-144B]
+The ratio of the transformer input voltage to the output voltage is the same as the turns ratio if the transformer is 100 percent efficient. Thus, when 10 volts are applied to the primary of the transformer, two volts are induced in the secondary. If 10 volts are applied to the primary of the transformer, the output voltage across the terminals of the secondary is 40 volts.
 
 No transformer can be constructed that is 100 percent efficient, although iron core transformers can approach this figure. This is because all the magnetic lines of force set up in the primary do not cut across the turns of the secondary coil. A certain amount of the magnetic flux, called leakage flux, leaks out of the magnetic circuit. The measure of how well the flux of the primary is coupled into the secondary is called the “coefficient of coupling.” For example, if it is assumed that the primary of a transformer develops 10,000 lines of force and only 9,000 cut across the secondary, the coefficient of coupling would be 0.9. Stated another way, the transformer would be 90 percent efficient.
 
 When an AC voltage is connected across the primary terminals of a transformer, an AC flows and self induces a voltage in the primary coil that is opposite and nearly equal to the applied voltage. The difference between these two voltages allows just enough current in the primary to magnetize its core. This is called the exciting, or magnetizing, current. The magnetic field caused by this exciting current cuts across the secondary coil and induces a voltage by mutual induction.
 
-If a load is connected across the secondary coil, the load current flowing through the secondary coil produces a magnetic field that tends to neutralize the magnetic field produced by the primary current. This reduces the self-induced (opposition) voltage in the primary coil and allows more primary current Primary coil Secondary coil S P Iron core Reactive power Watts True power Apparent power volts x amperes to flow. The primary current increases as the secondary load current increases, and decreases as the secondary load current decreases. When the secondary load is removed, the primary current is again reduced to the small exciting current sufficient only to magnetize the iron core of the transformer.
+If a load is connected across the secondary coil, the load current flowing through the secondary coil produces a magnetic field that tends to neutralize the magnetic field produced by the primary current. This reduces the self-induced (opposition) voltage in the primary coil and allows more primary current to flow. The primary current increases as the secondary load current increases, and decreases as the secondary load current decreases. When the secondary load is removed, the primary current is again reduced to the small exciting current sufficient only to magnetize the iron core of the transformer.
 
 If a transformer steps up the voltage, it steps down the current by the same ratio. This should be evident if the power formula is considered, for the power (I × E) of the output (secondary) electrical energy is the same as the input (primary) power minus that energy loss in the transforming process. Thus, if 10 volts and 4 amps (40 watts of power) are used in the primary to produce a magnetic field, there is 40 watts of power developed in the secondary (disregarding any loss). If the transformer has a step-up ratio of 4 to 1, the voltage across the secondary is 40 volts and the current is 1 amp. The voltage is 4 times greater and the current is one-fourth the primary circuit value, but the power (I × E value) is the same.
 
@@ -162,17 +162,17 @@ Transposing the equation to find the output voltage gives:
 
 E2 = E1 N2 N1 The most commonly used types of voltage transformers are:
 
-1. Power transformers are used to step up or step down voltages and current in many types of power supplies. They range in size from the small power transformer [Figure 12-145] used in a radio receiver to the large transformers used to step down high power line voltage to the 110–120 volt level used in homes.
+1. Power transformers are used to step up or step down voltages and current in many types of power supplies. They range in size from the small power transformer used in a radio receiver to the large transformers used to step down high power line voltage to the 110–120 volt level used in homes.
 
-Figure 12-146 shows the schematic symbol for an iron core transformer. In this case, the secondary is made up of three separate windings. Each winding supplies a different circuit with a specific voltage, which saves the weight, space, and expense of three separate transformers. Each secondary has a midpoint connection called a “center tap,” which provides a selection of half the voltage across the whole winding. The leads from the various windings are color coded by the manufacturer. [Figure 12-146] This is a standard color code, but other codes or numbers may be used.
+The figure shows the schematic symbol for an iron core transformer. In this case, the secondary is made up of three separate windings. Each winding supplies a different circuit with a specific voltage, which saves the weight, space, and expense of three separate transformers. Each secondary has a midpoint connection called a “center tap,” which provides a selection of half the voltage across the whole winding. The leads from the various windings are color coded by the manufacturer. This is a standard color code, but other codes or numbers may be used.
 
 2. Audio transformers resemble power transformers. They have only one secondary and are designed to operate over the range of audio frequencies (20 to 20,000 cps).
 
-3. RF transformers are designed to operate in equipment that functions in the radio range of frequencies. The symbol for the RF transformer is the same as for an RF choke coil. It has an air core as shown in Figure 12-147.
+3. RF transformers are designed to operate in equipment that functions in the radio range of frequencies. The symbol for the RF transformer is the same as for an RF choke coil. It has an air core as shown in the figure.
 
-4. Autotransformers are normally used in power circuits; however, they may be designed for other uses. Two different symbols for autotransformers used in power or audio circuits are shown in Figure 12-148 . If used in an RF communication or navigation circuit [Figure 12-148B], it is the same, except there is no symbol for an iron core. The autotransformer uses part of a winding as a primary; and, depending on whether it is step up or step down, it uses all or part of the same winding as the secondary. For example, the autotransformer shown in Figure 12-148A could use the following possible choices for primary and secondary terminals.
+4. Autotransformers are normally used in power circuits; however, they may be designed for other uses. Two different symbols for autotransformers used in power or audio circuits are shown in the figure. If used in an RF communication or navigation circuit, it is the same, except there is no symbol for an iron core. The autotransformer uses part of a winding as a primary; and, depending on whether it is step up or step down, it uses all or part of the same winding as the secondary. For example, the autotransformer shown in the figure could use the following possible choices for primary and secondary terminals.
 
-AC power supply Load AC power supply Meter To load A B 10 turns primary 2 turns secondary 8 turns secondary 2 turns primary A B Current Transformers Current transformers are used in AC power supply systems to sense generator line current and to provide a current, proportional to the line current, for circuit protection and control devices.
+Current transformers are used in AC power supply systems to sense generator line current and to provide a current, proportional to the line current, for circuit protection and control devices.
 
 The current transformer is a ring-type transformer using a current carrying power lead as a primary (either the power lead or the ground lead of the AC generator). The current in the primary induces a current in the secondary by magnetic induction. The sides of all current transformers are marked “H1” and “H2” on the unit base. The transformers must be installed with the “H1” side toward the generator in the circuit in order to have proper polarity. The secondary of the transformer should never be left open while the system is being operated; to do so could cause dangerously high voltages and could overheat the transformer. Therefore, the transformer output connections should always be connected with a jumper when the transformer is not being used but is left in the system.
 
@@ -190,26 +190,230 @@ The transmission of power over long distances is accomplished by using transform
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（92 段）。专业术语按行业惯例，数字与缩写保留。 -->
+### 交流电路的欧姆定律
+
+直流电路的规则和公式，只有在电路仅含电阻时才能适用于交流电路，例如电灯和发热元件的情况。为了在交流电路中使用电压和电流的有效值，就必须考虑电感和电容与电阻共同产生的影响。
+
+电阻、感抗和容抗的共同作用，构成了交流电路中对电流流动的总阻碍。这种总阻碍称为阻抗，用字母 Z 表示。测量阻抗的单位是欧姆。
+
+### 交流串联电路
+
+如果交流电路只由电阻构成，则阻抗的值与电阻相同，交流电路的欧姆定律 I = E/Z 与直流电路完全相同。图中示出了一个串联电路，其中一只 11 欧姆的灯接在电源两端。为求出加 110 伏直流电时流过多少电流、加 110 伏交流电时流过多少电流，解算以下各例：
+
+I = E R　I = E Z（此处 Z = R）　I = 110 V 11 W　I = 110 V 11 W　I = 10 amperes DC（直流）　I = 10 amperes AC（交流）　当交流电路同时含有电阻和电感或电容时，阻抗 Z 与电阻 R 并不相同。电路的阻抗是电路对电流流动的总阻碍。在交流电路中，这种阻碍由电阻和电抗构成，电抗可以是感抗或容抗，也可以两者兼有。
+
+电阻和电抗不能直接相加，但可以把它们看作彼此成直角作用的两个力。因此，电阻、电抗和阻抗之间的关系可以用一个直角三角形来表示。
+
+由于这些量可以与直角三角形的边相对应，求阻抗（即交流电路中对电流流动的总阻碍）的公式，可以用直角三角形的定律求得。这一定理称为勾股定理，适用于任何直角三角形。它指出：斜边的平方等于另外两边的平方和。因此，只要已知另外两边，就能求出直角三角形任意一边的值。如果交流电路含有电阻和电感，如图所示，则各边之间的关系可表示为：
+
+Z 2 = R2 + XL2　对方程式两边开平方，得　Z = R2 + XL2　当已知感抗和电阻的值时，可用此公式求出阻抗。若把公式中的 XL 换成 XC，就可以用来求含容抗和电阻的电路的阻抗。在同时含有电阻、感抗和容抗的电路中，各电抗可以合并，但由于它们在电路中的作用恰好相反，因此合并时用相减：
+
+X = XL − XC　或　X = XC − XL（总是用较小的数去减较大的数）
+
+图中示出了一个串联电路，电阻和电感串联后接到 110 伏、60 cps 的电源上。电阻元件是一只 6 欧姆的灯，电感元件是一个电感量为 0.021 亨利的线圈。该灯和该线圈的阻抗值及通过它们的电流是多少？
+
+首先计算线圈的感抗：
+
+X L = 2π × f × L　X L = 6.28 × 60 × 0.021　X L = 8 ohms（感抗）　其次计算总阻抗：
+
+Z = R2 + XL2　Z = 62 + 82　Z = 36 + 64　Z = 100　Z = 10 ohms（阻抗）　然后求电流，I = E Z　I = 110 10　I = 11 amperes（电流）　电阻上的电压降（ER）为：
+
+E R = I × R　E R = 11 × 6 = 66 volts　电感上的电压降（EXL）为：
+
+EXL = I × XL　EXL = 11 × 8 = 88 volts　这两个电压之和大于外加电压。这是由于两个电压相位不同，因而代表的是最大电压。如果用电压表测量电路中的电压，测得约为 110 伏，即外加电压。这可以用下式证明：E = (ER)2 + (EXL)2　E = 662 + 882　E = 4,356 + 7,744　E = 12,100　E = 110 volts　图中示出了一个串联电路，其中 200 µf 的电容与一只 10 欧姆的灯串联。阻抗值、电流以及灯上的电压降各是多少？
+
+首先把电容值由微法换算为法拉。由于 1,000,000 微法等于 1 法拉，于是：
+
+200 μf = 200/1,000,000 = 0.000200 farads　XC = 12πfC　XC = 16.28 × 60 × 0.000200 farads　XC = 10.07536　X C = 13 ohms（容抗）　求阻抗，Z = R2 + XC2　Z = 102 + 132　Z = 100 + 169　Z = 269　Z = 16.4 ohms（容抗）　求电流，I = E Z　I = 110 16.4　I = 6.7 amperes　灯上的电压降（ER）为：
+
+E R = 6.7 × 10　E R = 67 volts　电容上的电压降（EXC）为　EXC = I × XC　EXC = 6.7 × 13　EXC = 86.1 volts　这两个电压之和不等于所加电压，因为电流超前于电压。要求所加电压，使用下式：
+
+ET = (ER)2 + (EXC)2　ET = 672 + 86.12　ET = 4,489 + 7,413　ET = 11,902　E T = 110 volts　当电路同时含有电阻、电感和电容时，用下式求阻抗：
+
+Z = R2 + (XL – XC)2　例：一个串联电路由容抗为 7 欧姆的电容、感抗为 10 欧姆的电感和电阻为 4 欧姆的电阻组成，其阻抗是多少？
+
+Z = R2 + (XL – XC)2　Z = 42 + (10 – 7)2　Z = 42 + 32　Z = 25　Z = 5 ohms　假设电容的容抗为 10 欧姆、电感的感抗为 7 欧姆，则 X C 大于 XL。于是，Z = R2 + (XL – XC)2　Z = 42 + (7 – 10)2　Z = 42 + (–3)2　Z = 16 + 9　Z = 25　Z = 5 ohms
+
+### 交流并联电路
+
+求解交流并联电路问题所用的方法，基本上与交流串联电路相同。相位不同的电压和电流，可以用直角三角形的定律相加。但在解电路问题时，是把各支路的电流相加，因为各支路上的电压降相同，并且都等于所加电压。图中示意地示出了一个含电感和电阻的交流并联电路。流过电感的电流 I L 为 0.0584 安培，流过电阻的电流为 0.11 安培。电路中的总电流是多少？
+
+IT = IL2 + IR2 = (0.0584)2 + (0.11)2 = 0.0155 = 0.1245 amperes　由于感抗使电压超前于电流，含有感性电流分量的总电流滞后于所加电压。如果把电流和电压画成曲线，二者之间的夹角称为相位角，它表示电流滞后于电压的程度。
+
+图中，一台 112 伏的发电机接到一个由 2 µf 电容和 10,000 欧姆电阻并联组成的负载上。阻抗值和总电流是多少？
+
+首先求电路的容抗：
+
+XC = 1 2πfC　把 2 μf 换算成法拉，并将数值代入所给公式：
+
+（原文此处为图注碎片，原文无正文）
+
+= 12 × 3.14 × 60 × 0.000002 = 或 1 10,0000.00075360 7.536 = 1,327 XC（容抗）　要求阻抗，必须把交流串联电路中所用的阻抗公式加以修改，以适用于并联电路：
+
+Z = R2 + XC2 RXC = (10,000)2 + (1,327)2 10,000 × 1,327 = 0.1315 W（约）
+
+求流过电容的电流：
+
+IC = E XC　IC = 110 1,327 = 0.0829 amperes　求流过电阻的电流：
+
+IR = E R = 110 10,000 = 0.011 amperes　求电路中的总电流：
+
+IT2 = IR2 + IC2　IT = IL2 + IR2 = 0.0836 amperes（约）
+
+已经表明，感抗
+
+（X L = 2πfL）和容抗
+
+XC = 1 2πfC 都是交流频率的函数。降低频率会减小感抗的欧姆值，而频率降低却会增大容抗。在某一特定频率（称为谐振频率）下，电容和电感的电抗效应相等。由于这两种效应彼此相反，它们会相互抵消，只剩下电阻的欧姆值来阻碍电路中的电流。如果电阻值很小，或仅由导线电阻构成，电流值就可能变得很大。
+
+在电感和电容串联、且频率为谐振频率（或称共振频率）的电路中，称该电路处于「谐振」状态，并称为串联谐振电路。谐振频率的符号为 Fn。
+
+如果在谐振频率下感抗等于容抗，则：
+
+XL = XC，即 2πfL = 1 2πfC　两边同除以 2 fL，得　Fn2 = 1 (2π) 2LC　两边开平方，得：
+
+Fn = 1 2π LC　式中 Fn 为谐振频率，单位 cps；C 为电容量，单位法拉；L 为电感量，单位亨利。用这一公式可以确定电容和电感发生谐振的频率。
+
+要求电路的感抗，用：
+
+XL = 2πfL　交流串联电路中所用的阻抗公式必须加以修改，以适用于并联电路。
+
+（原文此处为图注碎片，原文无正文）
+
+（原文此处为图注碎片，原文无正文）
+
+Z = R2 = XL2 XL　求电感和容性电抗的并联网络，用：
+
+X = XL + XC XL + XC　求含电阻、容抗和电感的并联网络，用：
+
+Z = XL2 XC2 + (RXL – RXC)2 R XL XC　由于在谐振频率下 XL 与 XC 相互抵消，电流可能变得很大，具体取决于电阻的大小。在这种情况下，电感或电容上的电压降往往高于所加电压。
+
+在并联谐振电路中，各电抗相等，流过线圈和电容的电流也相等。
+
+由于感抗使流过线圈的电流滞后于电压 90°，容抗使流过电容的电流超前于电压 90°，因此这两个电流相位差 180°。这种电流的抵消效应意味着不会有电流从发电机流出，电感和电容的并联组合将表现为无穷大阻抗。实际上不存在这样的电路，因为总存在一定的电阻值，而这种并联电路（有时称为谐振腔电路）表现为很高的阻抗。它也称为反谐振电路，因为它在电路中的作用与串联谐振电路相反，串联谐振电路的阻抗很低。
+
+### 交流电路中的功率
+
+在直流电路中，功率由公式 P = EI 求得（瓦特等于伏特 × 安培）。因此，如果电路中有 1 安培的电流在 200 伏电压下流动，功率就是 200 瓦。伏特与安培的乘积就是电路中的有功功率。
+
+### 有功功率的定义
+
+任何交流电路的有功功率通常称为电路的工作功率。有功功率是电路中电阻部分所消耗的功率，以瓦特计量。有功功率用字母 P 表示，可由电路中的任何功率表指示。有功功率用以下公式计算：
+
+#### 视在功率的定义
+
+交流电路中的视在功率有时称为电路的无功功率。视在功率是整个电路消耗的功率，既包括电阻也包括电抗。视在功率用字母 S 表示，以伏安（V A）计量。视在功率是有效电压与有效电流的乘积。视在功率用以下公式计算：
+
+S = I2 × Z　只有当交流电路完全由纯电阻构成时，视在功率才等于有功功率。当电路中有电容或电感时，电流与电压并不完全同相，有功功率小于视在功率。有功功率由功率表的读数得到。有功功率与视在功率之比称为功率因数，通常用百分数表示。用方程表示，其关系为：
+
+功率因数（PF）= 100 × watts（有功功率）volts × amperes（视在功率）
+
+例：一台 220 伏的交流电动机从线路上取用 50 安培电流，但线路上的功率表显示该电动机只取用 9,350 瓦。视在功率和功率因数各是多少？
+
+视在功率 = V olts × Amperes　视在功率 = 220 × 50 = 11,000 watts（或伏安）
+
+（PF）= Watts（有功功率）× 100V A（视在功率）
+
+（PF）= 9,350 × 10011,000　（PF）= 85，即 85%
+
+变压器把某一电压的电能转换为另一电压等级的电能。它由两个线圈组成，这两个线圈之间没有电的连接，但布置成使环绕一个线圈的磁场切割另一个线圈。当把交流电压加到一个线圈上（两端）时，该线圈周围建立的交变磁场通过互感在另一个线圈中产生交变电压。变压器也可以用于脉动直流，但不能使用纯直流电压，因为只有变化的电压才能产生作为互感过程基础的变化磁场。
+
+变压器由三个基本部分组成。这三部分是：铁芯，它为磁力线提供低磁阻的通路；一次绕组，它接收来自所加电压电源的电能；以及二次绕组，它通过一次线圈的感应接收电能。
+
+这种闭合铁芯变压器的一次侧和二次侧都绕在闭合铁芯上，以获得两个线圈之间的最大电感效应。
+
+变压器分为两大类：用于升高或降低电压的电压变压器；以及
+
+### 电流互感器
+
+用于仪表电路中的那一类。在电压变压器中，一次线圈并联接在电源电压两端。电流互感器的一次绕组串联接在一次电路中。在这两种类型中，电压变压器更为常见。
+
+电压变压器种类很多。其中大多数是升压变压器或降压变压器。决定一台变压器是升压型还是降压型的因素，是「匝数」比。匝数比是一次绕组匝数与二次绕组匝数之比。例如，降压变压器的匝数比为 5 比 1，因为一次侧的匝数是二次侧的 5 倍。升压变压器的匝数比为 1 比 4。
+
+如果变压器效率为 100%，则变压器输入电压与输出电压之比等于匝数比。因此，当把 10 伏加到变压器的一次侧时，二次侧会感应出 2 伏。如果把 10 伏加到变压器的一次侧，则二次侧端子上的输出电压为 40 伏。
+
+无法造出效率为 100% 的变压器，尽管铁芯变压器可以接近这个数值。这是因为一次侧建立的所有磁力线并不都切割二次线圈的匝。一定量的磁通（称为漏磁通）会从磁路中泄漏出去。衡量一次侧磁通耦合到二次侧的程度，称为「耦合系数」。例如，假设变压器的一次侧产生 10,000 条磁力线，而只有 9,000 条切割二次侧，则耦合系数为 0.9。换一种说法，该变压器的效率为 90%。
+
+当把交流电压接在变压器一次侧端子两端时，就有交流电流过，并在一次线圈中自感出一个与所加电压方向相反、大小接近相等的电压。这两个电压之差，使一次侧中恰好有足够的电流使铁芯磁化。这个电流称为励磁电流或磁化电流。由这一励磁电流产生的磁场切割二次线圈，并通过互感感应出电压。
+
+如果把负载接在二次线圈两端，流过二次线圈的负载电流会产生一个磁场，它倾向于抵消一次电流所产生的磁场。这减小了一次线圈中的自感（反抗）电压，使一次侧可以通过更多的电流。一次电流随二次负载电流的增大而增大，随二次负载电流的减小而减小。去掉二次负载时，一次电流又减小到很小的励磁电流，只够使变压器的铁芯磁化。
+
+如果变压器升高电压，它就以相同的比例降低电流。如果考虑功率公式，这一点就应当显而易见，因为输出（二次）电能的功率（I × E）等于输入（一次）功率减去变压过程中的那部分能量损耗。因此，如果用 10 伏和 4 安培（40 瓦功率）在一次侧产生磁场，则二次侧产生的功率为 40 瓦（不计任何损耗）。如果变压器的升压比为 4 比 1，则二次侧的电压为 40 伏，电流为 1 安培。电压增大为 4 倍，电流是一次侧电路数值的四分之一，但功率（I × E 值）相同。
+
+当已知匝数比和输入电压时，输出电压可按下式确定：
+
+E2 E1 = N2 N1　式中 E 为一次侧电压，E2 为二次侧输出电压，N1 和 N2 分别为一次侧和二次侧的匝数。
+
+把公式变形以求输出电压，得：
+
+E2 = E1 N2 N1　最常用的电压变压器类型有：
+
+1. 电源变压器：在许多类型的电源中用于升高或降低电压和电流。其尺寸范围从无线电接收机中使用的小型电源变压器，到用于把高压输电线电压降到家庭所用 110–120 伏电平的大型变压器。
+
+图中示出了铁芯变压器的电路符号。在这个例子中，二次侧由三个独立的绕组组成。每个绕组为特定电路提供特定电压，从而省去三台独立变压器的重量、空间和费用。每个二次绕组都有一个称为「中心抽头」的中点连接，可提供整个绕组电压的一半。各绕组的引线由制造厂用颜色编码。这是标准的色码，但也可以使用其他色码或编号。
+
+2. 音频变压器：外形类似电源变压器。它们只有一个二次绕组，设计工作在音频频率范围（20 到 20,000 cps）。
+
+3. 射频变压器：设计用于在无线电频率范围内工作的设备中。射频变压器的符号与射频扼流圈相同。它具有空气芯，如图所示。
+
+4. 自耦变压器：通常用于电力电路；不过也可以设计用于其他用途。图中示出了用于电力或音频电路的自耦变压器的两种不同符号。如果用于射频通信或导航电路，其符号相同，只是没有铁芯符号。自耦变压器把绕组的一部分用作一次侧；并根据是升压还是降压，把同一绕组的全部或一部分用作二次侧。例如，图中所示的自耦变压器可以采用以下各种可能的一次、二次端子选择。
+
+电流互感器用于交流供电系统中，感测发电机的线路电流，并为电路保护和控制装置提供与线路电流成比例的电流。
+
+电流互感器是一种环形变压器，用一根载流电源线作为一次侧（交流发电机的电源线或接地线）。一次侧电流通过磁感应，在二次侧感应出电流。所有电流互感器的底座上都标有「H1」和「H2」。安装时必须使「H1」一侧朝向电路中的发电机，以获得正确的极性。系统运行时，绝不能让互感器的二次侧开路；否则可能产生危险的高压，并可能使互感器过热。因此，当互感器不使用时仍留在系统中，其输出端应始终用跨接线短接。
+
+### 变压器的损耗
+
+除了耦合不完善引起的功率损耗之外，变压器还会发生「铜损」和「铁损」。构成线圈各匝的导体的电阻引起铜损。铁损有两种：磁滞损耗和涡流损耗。磁滞损耗是使变压器铁芯随所加交变电压先向一个方向、再向另一个方向磁化所需的电能。涡流损耗是由变化磁场在变压器铁芯中感应的电流（涡流）引起的。为减小涡流损耗，铁芯用涂有绝缘层的叠片制成，从而减小感应电流的环流。
+
+### 变压器中的功率
+
+由于变压器并不给电路增加任何电能，而只是把电路中已有的电能从一种电压改变或变换为另一种电压，所以电路中的总能量必定保持不变。如果能够造出理想的变压器，其中就没有功率损耗；功率会不减地从一个电压传递到另一个电压。
+
+由于功率是伏特与安培的乘积，变压器升高电压必然导致电流减小，反之亦然。变压器二次侧的功率不可能大于一次侧的功率。安培与伏特的乘积保持不变。
+
+远距离输电是借助变压器实现的。在电源处升高电压，以减小输电过程中的线路损耗。在使用地点再降低电压，因为用高压来驱动电动机、照明或其他电器是不现实的。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Addition —— The process in which the value of one number is added to the value of another.
-- Ampere —— A unit of measure of the rate of electron flow or current in an electrical conductor. One ampere of current represents one coulomb of electrical charge (6.24 × 
-- Apparent power —— That power apparently available for use in an AC circuit containing a reactive component. It is the product of effective voltage times the effective current, ex
-- Capacitance (C) —— The property of an electric conductor that characterizes its ability to store an electric charge.
-- Capacitive reactance (X c) —— The measure of a capacitor’s opposition to alternating current.
-- Capacitor —— An electrical component that stores an electric charge.
-- Conductor —— A material that will carry electric current.
-- Current —— The flow of electrical charge.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| impedance | n. | 阻抗 | 交流电路对电流的总阻碍，含电阻与电抗，符号 Z，单位为欧姆 |
+| reactance | n. | 电抗 | 由电感或电容引起的、对交流电流的阻碍部分，不能与电阻直接相加 |
+| inductive reactance | n.phr. | 感抗 | XL，等于 2πfL，随频率与电感量增大而增大 |
+| capacitive reactance | n.phr. | 容抗 | XC，等于 1/2πfC，随频率升高而减小 |
+| phase angle | n.phr. | 相位角 | 并联电路中电流与电压之间的夹角，表示电流滞后或超前的程度 |
+| resonant frequency | n.phr. | 谐振频率 | 感抗与容抗相等而相互抵消的频率，符号 Fn，Fn = 1/2π√(LC) |
+| true power | n.phr. | 有功功率 | 电路电阻部分实际消耗的功率，符号 P，以瓦特计 |
+| apparent power | n.phr. | 视在功率 | 整个电路（电阻加电抗）占用的功率，符号 S，以伏安计 |
+| power factor | n.phr. | 功率因数 | 有功功率与视在功率之比，以百分数表示 |
+| transformer | n. | 变压器 | 通过互感把一种电压的电能变为另一种电压的电能的装置 |
+| turns ratio | n.phr. | 匝数比 | 一次绕组匝数与二次绕组匝数之比，决定升压或降压 |
+| leakage flux | n.phr. | 漏磁通 | 未切割二次线圈、从磁路中泄漏出去的那部分磁通 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① only when 引导的限制性条件状语 + as in 举例
+**原句**：The rules and equations for DC circuits apply to AC circuits only when the circuits contain resistance alone, as in the case of lamps and heating elements.
+**拆解**：主句 The rules and equations for DC circuits apply to AC circuits；only when 引导条件状语从句，从句主语 the circuits，谓语 contain，宾语 resistance alone；as in the case of 为介词短语作补充说明。
+**要点**：only when 表示「只有在……情况下才」，语气比 when 强，且不能换成 if 而保持原意；as in the case of 是「如同……的情况」，用于举例而非比较；resistance alone 中 alone 后置表示「仅仅」。
+
+### ② if 条件从句 + 同位语插入 + the same as
+**原句**：If an AC circuit consists of resistance only, the value of the impedance is the same as the resistance, and Ohm’s Law for an AC circuit, I = E/Z, is exactly the same as for a DC circuit.
+**拆解**：If 引导条件状语从句；主句由 and 连接的两个并列分句构成，第一个分句主语 the value of the impedance，表语 the same as the resistance；第二个分句主语 Ohm’s Law for an AC circuit，I = E/Z 为同位语插入，谓语 is exactly the same as。
+**要点**：the same as 后接比较对象，若重复前面出现过的名词可省略；同位语用逗号夹在主语与谓语之间，翻译时常译为「即……」；consists of 表示「由……组成」。
+
+### ③ that 宾语从句 + the + 名词 + of 逐层嵌套
+**原句**：It states that the square of the hypotenuse is equal to the sum of the squares of the other two sides.
+**拆解**：主句 It states，that 引导宾语从句；从句主语 the square of the hypotenuse（the + 名词 + of 结构），谓语 is equal to，表语 the sum of the squares of the other two sides（三层 of 结构嵌套）。
+**要点**：长 of 结构要从后往前译：「另外两边的平方和」；be equal to 后接名词，若接动词则用 be equal to doing；it 指代前句的定理。
+
+### ④ Since 原因状语从句 + 现在分词作结果状语
+**原句**：Since these effects are the opposite of one another, they will cancel, leaving only the ohmic value of the resistance to oppose current flow in a circuit.
+**拆解**：Since 引导原因状语从句；主句 they will cancel；leaving only the ohmic value of the resistance to oppose current flow in a circuit 为现在分词短语作结果状语，其中 to oppose 为不定式作后置定语修饰 the ohmic value。
+**要点**：Since 表原因时与 because 相近，但语气更弱、更书面；现在分词作结果状语时逻辑主语与主句主语一致（都是 these effects）；leave + 宾语 + to do 表示「只留下……去做……」。
+
+### ⑤ No…that 定语从句被谓语隔开 + although 让步
+**原句**：No transformer can be constructed that is 100 percent efficient, although iron core transformers can approach this figure.
+**拆解**：主句 No transformer can be constructed，that 引导的定语从句修饰 transformer，因主句太短而后置；although 引导让步状语从句，主语 iron core transformers，谓语 can approach，宾语 this figure。
+**要点**：定语从句与其先行词被谓语隔开时，靠语义判断修饰对象；No + 名词作主语时谓语用肯定形式，语义全否定；approach this figure 意为「接近这一数值」，figure 在此指数字而非图。

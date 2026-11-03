@@ -4,7 +4,7 @@
 
 ## 1. 原文
 
-Fixed resistors have built into the design a means of opposing current. [Figure 12-48] The general use of a resistor in a circuit is to limit the amount of current flow. There are a number of methods used in construction and sizing of a resistor that control properties, such as resistance value, the precision of the resistance value, and the ability to dissipate heat. While in some applications the purpose of the resistive element is used to generate heat, such as in propeller anti-ice boots, heat typically is the unwanted loss of energy.
+Fixed resistors have built into the design a means of opposing current. The general use of a resistor in a circuit is to limit the amount of current flow. There are a number of methods used in construction and sizing of a resistor that control properties, such as resistance value, the precision of the resistance value, and the ability to dissipate heat. While in some applications the purpose of the resistive element is used to generate heat, such as in propeller anti-ice boots, heat typically is the unwanted loss of energy.
 
 ### Carbon Composition
 
@@ -18,7 +18,7 @@ There are other types of fixed resistors in common use. Included in this group a
 
 It is very difficult to manufacture a resistor to an exact standard of ohmic values. Fortunately, most circuit requirements are not extremely critical. For many uses, the actual resistance in ohms can be 20 percent higher or lower than the value marked on the resistor without causing difficulty. The percentage variation between the marked value and the actual value of a resistor is known as the “tolerance” of a resistor. A resistor coded for a 5 percent tolerance is not more than 5 percent higher or lower than the value indicated by the color code.
 
-The resistor color code is made up of a group of colors, numbers, and tolerance values. Each color is represented by a number, and in most cases, by a tolerance value. [Figure 12-49]
+The resistor color code is made up of a group of colors, numbers, and tolerance values. Each color is represented by a number, and in most cases, by a tolerance value.
 
 When the color code is used with the end-to-center band marking system, the resistor is normally marked with bands of color at one end of the resistor. The body or base color of the resistor has nothing to do with the color code, and in no way indicates a resistance value. To prevent confusion, this body is never the same color as any of the bands indicating resistance value.
 
@@ -30,7 +30,7 @@ When the end-to-center band marking system is used, either three or four bands m
 
 1. The first color band (nearest the end of the resistor) indicates the first digit in the numerical resistance value. This band is never gold or silver in color.
 
-2. The second color band always indicates the second digit of ohmic value. It is never gold or silver in color. [Figure 12-50]
+2. The second color band always indicates the second digit of ohmic value. It is never gold or silver in color.
 
 3. The third color band indicates the number of zeros to be added to the two digits derived from the first and second bands, except in the following two cases:
 
@@ -38,29 +38,29 @@ When the end-to-center band marking system is used, either three or four bands m
 
 (b) If the third band is silver in color, the first two digits must be multiplied by 1 percent.
 
-4. If there is a fourth color band, it is used as a multiplier for percentage of tolerance, as indicated in the color code chart in Figure 12-49. If there is no fourth band, the tolerance is understood to be 20 percent.
+4. If there is a fourth color band, it is used as a multiplier for percentage of tolerance, as indicated in the color code chart. If there is no fourth band, the tolerance is understood to be 20 percent.
 
-Figure 12-50 illustrates the rules for reading the resistance value of a resistor marked with the end-to-center band system. This resistor is marked with three bands of color, which must be read from the end toward the center.
+The rules for reading the resistance value of a resistor marked with the end-to-center band system are illustrated below. This resistor is marked with three bands of color, which must be read from the end toward the center.
 
 There is no fourth color band; therefore, the tolerance is understood to be 20 percent. 20 percent of 250,000 Ω, equals 50,000 Ω.
 
-Since the 20 percent tolerance is plus or minus, Maximum resistance = 250,000 Ω + 50,000 Ω = 300,000 Ω Minimum resistance = 250,000 Ω − 50,000 Ω = 200,000 Ω The following paragraphs provide a few extra examples of resistor color band decoding. Figure 12-51 contains a resistor with another set of colors. This resistor code should be read as follows:
+Since the 20 percent tolerance is plus or minus, Maximum resistance = 250,000 Ω + 50,000 Ω = 300,000 Ω Minimum resistance = 250,000 Ω − 50,000 Ω = 200,000 Ω The following paragraphs provide a few extra examples of resistor color band decoding. A resistor with another set of colors is shown below. This resistor code should be read as follows:
 
 The resistance of this resistor is 86,000 ±10 percent ohms. The maximum resistance is 94,600 ohms, and the minimum resistance is 77,400 ohms.
 
-Another example is the resistance of the resistor in Figure 12-52 is 960 ±5 percent ohms. The maximum resistance is 1,008 ohms, and the minimum resistance is 912 ohms. Sometimes circuit considerations dictate that the tolerance must be smaller than 20 percent. Figure 12-53 shows an example of a resistor with a 2 percent tolerance. The resistance value of this resistor is 2,500 ±2 percent ohms. The maximum resistance is 2,550 ohms, and the minimum resistance is 2,450 ohms.
+Another example is the resistance of the resistor is 960 ±5 percent ohms. The maximum resistance is 1,008 ohms, and the minimum resistance is 912 ohms. Sometimes circuit considerations dictate that the tolerance must be smaller than 20 percent. An example of a resistor with a 2 percent tolerance is shown. The resistance value of this resistor is 2,500 ±2 percent ohms. The maximum resistance is 2,550 ohms, and the minimum resistance is 2,450 ohms.
 
-Figure 12-54 contains an example of a resistor with a black third color band. The color code value of black is zero, and the third band indicates the number of zeros to be added to the first two digits.
+An example of a resistor with a black third color band is shown. The color code value of black is zero, and the third band indicates the number of zeros to be added to the first two digits.
 
-In this case, a zero number of zeros must be added to the first two digits; therefore, no zeros are added. Thus, the resistance value is 10 ±1 percent ohms. The maximum resistance is 10.1 ohms, and the minimum resistance is 9.9 ohms. There are two exceptions to the rule stating the third color band indicates the number of zeros. The first of these exceptions is illustrated in Figure 12-55. When the third band is gold in color, it indicates that the first two digits must be multiplied by 10 percent. The value of this resistor in this case is:
+In this case, a zero number of zeros must be added to the first two digits; therefore, no zeros are added. Thus, the resistance value is 10 ±1 percent ohms. The maximum resistance is 10.1 ohms, and the minimum resistance is 9.9 ohms. There are two exceptions to the rule stating the third color band indicates the number of zeros. When the third band is gold in color, it indicates that the first two digits must be multiplied by 10 percent. The value of this resistor in this case is:
 
-10 × 0.10 ±2% = 1 = 0.02 ohms When the third band is silver, as is the case in Figure 12-56, the first two digits must be multiplied by 1 percent. The value Gray Blue Orange Silver 8 6 000 10% White Blue Brown Gold 9 6 0 5% Red Green Red Red 2 5 00 2% Brown Black Black Brown 1 0 1% 1st Band 2nd Band 3rd Band Red Green Yellow Color Numerical Value Significance 1st band — red 2 1st digit 2nd band — green 5 2nd digit 3rd band — yellow 4 No. of zeroes to add Yellow Green Silver (Multiplier)
+10 × 0.10 ±2% = 1 = 0.02 ohms When the third band is silver, the first two digits must be multiplied by 1 percent. The value Gray Blue Orange Silver 8 6 000 10% White Blue Brown Gold 9 6 0 5% Red Green Red Red 2 5 00 2% Brown Black Black Brown 1 0 1% 1st Band 2nd Band 3rd Band Red Green Yellow Color Numerical Value Significance 1st band — red 2 1st digit 2nd band — green 5 2nd digit 3rd band — yellow 4 No. of zeroes to add Yellow Green Silver (Multiplier)
 
 Silver 4 5 1% 10% Brown Black Gold (Multiplier)
 
 Red 1 0 10% 2% of the resistor is 0.45 ±10 percent ohms.
 
-Wire-wound resistors typically control large amounts of current and have high power ratings. Resistors of this type are constructed by winding a resistance wire around an insulating rod usually made of porcelain. The windings are coated with an insulation material for physical protection and heat conduction. Both ends of the windings are connected to terminals, which are used to connect the resistor to a circuit. [Figure 12-57]
+Wire-wound resistors typically control large amounts of current and have high power ratings. Resistors of this type are constructed by winding a resistance wire around an insulating rod usually made of porcelain. The windings are coated with an insulation material for physical protection and heat conduction. Both ends of the windings are connected to terminals, which are used to connect the resistor to a circuit.
 
 A wire-wound resistor with tap is a special type of fixed resistor that can be adjusted. These adjustments can be made by moving a slide bar tap or by moving the tap to a preset incremental position. While the tap may be adjustable, the adjustments are usually set at the time of installation to a specific value and then operated in service as a fixed resistor. Another type of wire-wound resistor is constructed of Manganin wire, used when high precision is needed.
 
@@ -68,48 +68,152 @@ A wire-wound resistor with tap is a special type of fixed resistor that can be a
 
 Variable resistors are constructed so that the resistive value can be changed easily. This adjustment can be manual or automatic, and the adjustments can be made while the system that it is connected to is in operation. There are two basic types of manual adjustors: the rheostat and the potentiometer.
 
-A rheostat is a variable resistor used to vary the amount of current flowing in a circuit. [Figure 12-58] Figure 12-59 shows a rheostat connected in series with an ordinary resistance in a series circuit. As the slider arm moves from point A to B, the amount of rheostat resistance (AB) is increased. Since the rheostat resistance and the fixed resistance are in series, the total resistance in the circuit also increases, and the current in the circuit decreases. On the other hand, if the slider arm is moved toward point A, the total resistance decreases and the current in the circuit increases.
+A rheostat is a variable resistor used to vary the amount of current flowing in a circuit. A rheostat connected in series with an ordinary resistance in a series circuit is shown. As the slider arm moves from point A to B, the amount of rheostat resistance (AB) is increased. Since the rheostat resistance and the fixed resistance are in series, the total resistance in the circuit also increases, and the current in the circuit decreases. On the other hand, if the slider arm is moved toward point A, the total resistance decreases and the current in the circuit increases.
 
-The potentiometer is considered a three-terminal device. [Figure 12-60] As illustrated, terminals 1 and 2 have the entire value of the potentiometer resistance between them. Terminal 3 is the wiper or moving contact. Through this wiper, the resistance between terminals 1 and 3 or terminals 2 and 3 can be varied. While the rheostat is used to vary the current in a circuit, the potentiometer is used to vary the voltage in a circuit. A typical use for this component can be found in the volume controls on an audio panel and input devices for flight data recorders, among many other applications.
+The potentiometer is considered a three-terminal device. As illustrated, terminals 1 and 2 have the entire value of the potentiometer resistance between them. Terminal 3 is the wiper or moving contact. Through this wiper, the resistance between terminals 1 and 3 or terminals 2 and 3 can be varied. While the rheostat is used to vary the current in a circuit, the potentiometer is used to vary the voltage in a circuit. A typical use for this component can be found in the volume controls on an audio panel and input devices for flight data recorders, among many other applications.
 
-In Figure 12-61A, a potentiometer is used to obtain a variable voltage from a fixed voltage source to apply to an electrical load. The voltage applied to the load is the voltage between points 2 and 3. When the slider arm is moved to point 1, the entire voltage is applied to the electrical device (load); when the arm is moved to point 3, the voltage applied to the load is zero. The potentiometer makes possible the application of any voltage between zero and full voltage to the load.
+A potentiometer is used to obtain a variable voltage from a fixed voltage source to apply to an electrical load. The voltage applied to the load is the voltage between points 2 and 3. When the slider arm is moved to point 1, the entire voltage is applied to the electrical device (load); when the arm is moved to point 3, the voltage applied to the load is zero. The potentiometer makes possible the application of any voltage between zero and full voltage to the load.
 
-The current flowing through the circuit of Figure 12-61 leaves the negative terminal electron flow of the battery and divides one part flowing through the lower portion of the potentiometer (points 3 to 2) and the other part through the load. Both parts combine at point 2 and flow through the upper portion of the potentiometer (points 2 to 1) back to the positive terminal of the battery. In View B of Figure 12-61, a potentiometer and its schematic symbol are shown.
+The current flowing through the circuit leaves the negative terminal electron flow of the battery and divides one part flowing through the lower portion of the potentiometer (points 3 to 2) and the other part through the load. Both parts combine at point 2 and flow through the upper portion of the potentiometer (points 2 to 1) back to the positive terminal of the battery. A potentiometer and its schematic symbol are shown.
 
 In choosing a potentiometer resistance, the amount of current drawn by the load should be considered, as well as the current flow through the potentiometer at all settings of the slider arm. The energy of the current through the potentiometer is dissipated in the form of heat.
 
-It is important to keep this wasted current as small as possible by making the resistance of the potentiometer as large as practicable. In most cases, the resistance of the potentiometer can be several times the resistance of the load. Figure 12-62 shows how a potentiometer can be wired to function as a rheostat.
+It is important to keep this wasted current as small as possible by making the resistance of the potentiometer as large as practicable. In most cases, the resistance of the potentiometer can be several times the resistance of the load.
 
-Linear Potentiometers In a linear potentiometer, the resistance between both terminal and the wiper varies linearly with the position of the wiper. To illustrate, one quarter of a turn on the potentiometer results in one quarter of the total resistance. The same relationship exists when one-half or three-quarters of potentiometer movement. [Figure 12-63] Tapered Potentiometers Resistance varies in a nonlinear manner in the case of the tapered potentiometer. [Figure 12-64] Keep in mind that one-half of full potentiometer travel does not necessarily correspond to one-half the total resistance of the potentiometer.
+Linear Potentiometers In a linear potentiometer, the resistance between both terminal and the wiper varies linearly with the position of the wiper. To illustrate, one quarter of a turn on the potentiometer results in one quarter of the total resistance. The same relationship exists when one-half or three-quarters of potentiometer movement. Tapered Potentiometers Resistance varies in a nonlinear manner in the case of the tapered potentiometer. Keep in mind that one-half of full potentiometer travel does not necessarily correspond to one-half the total resistance of the potentiometer.
 
-The thermistor is a type of a variable resistor that is temperature sensitive. [Figure 12-65] This component has a negative temperature coefficient, which means that as the sensed temperature increases, the resistance of the thermistor decreases.
+The thermistor is a type of a variable resistor that is temperature sensitive. This component has a negative temperature coefficient, which means that as the sensed temperature increases, the resistance of the thermistor decreases.
 
 ### Photoconductive Cells
 
-The photoconductive cell is similar to the thermistor. Like the thermistor, it has a negative temperature coefficient. Unlike the thermistor, the resistance is controlled by light intensity. This kind of component can be found in radio control heads where the intensity of the ambient light is sensed through the photoconductive cell resulting in the backlighting of the control heads to adjust to the flight deck lighting conditions. [Figure 12-66]
+The photoconductive cell is similar to the thermistor. Like the thermistor, it has a negative temperature coefficient. Unlike the thermistor, the resistance is controlled by light intensity. This kind of component can be found in radio control heads where the intensity of the ambient light is sensed through the photoconductive cell resulting in the backlighting of the control heads to adjust to the flight deck lighting conditions.
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（42 段）。专业术语按行业惯例，数字与缩写保留。 -->
+固定电阻器在设计中内置了阻碍电流的手段。电阻器在电路中的一般用途是限制电流流量。制造电阻器时可采用多种方法与尺寸，以控制电阻值、电阻值的精度以及散热能力等特性。虽然在某些应用中电阻元件的用途是产生热量，例如螺旋桨防冰靴，但热量通常是不希望出现的能量损失。
+
+### 碳合成（碳质）电阻器
+
+碳合成电阻器由细颗粒碳/石墨的混合物、作为填料的绝缘材料以及把材料黏合在一起的黏结剂构成。石墨相对于绝缘材料的比例决定电阻器的欧姆值或电阻值。这种混合物被压制成棒状，并装上轴向引线（俗称“猪尾”）。成品封装在绝缘涂层中，以实现隔离与物理保护。
+
+还有其他类型的固定电阻器也常用。这一类包括：
+
+• 金属釉膜电阻器 膜式电阻器的制法是把电阻材料均匀沉积在陶瓷棒上。这种电阻材料可以是碳膜电阻器用的石墨、金属膜电阻器用的镍铬、金属釉电阻器用的金属与玻璃，以及金属氧化物电阻器用的金属与绝缘氧化物。
+
+### 电阻器的额定值
+
+把电阻器制造成精确到欧姆标准值是非常困难的。幸运的是，大多数电路要求并不十分苛刻。对于许多用途，实际电阻值比电阻器上标称的值高或低 20% 都不会造成困难。标称值与实际值之间的百分比差异称为电阻器的“容差”。标注为 5% 容差的电阻器，其实际值比色码所示值高或低不超过 5%。
+
+电阻器色码由一组颜色、数字和容差值组成。每种颜色对应一个数字，大多数情况下还对应一个容差值。
+
+在端到中心色带标记体系下使用色码时，电阻器通常在一端标出色带。电阻器的本体或底色与色码无关，绝不用来表示电阻值。为避免混淆，本体颜色从不与表示电阻值的任何色带颜色相同。
+
+电阻器色码 颜色 数字 容差：黑 0 —；棕 1 1%；红 2 2%；橙 3 3%；黄 4 4%；绿 5 5%；蓝 6 6%；紫 7 7%；灰 8 8%；白 9 9%；金 — 5%；银 — 10%；无色 — 20%
+
+### 色带解读
+
+使用端到中心色带标记体系时，电阻器上标有三条或四条色带。
+
+1. 第一条色带（最靠近电阻器端部）表示电阻数值的第一位数字。这一条从不是金色或银色。
+
+2. 第二条色带总是表示欧姆值的第二位数字。它从不是金色或银色。
+
+3. 第三条色带表示在由第一、二条色带得到的两位数字之后要加的零的个数，但下列两种情况除外：
+
+(a) 若第三条色带为金色，则前两位数字必须乘以 10%。
+
+(b) 若第三条色带为银色，则前两位数字必须乘以 1%。
+
+4. 若有第四条色带，则用它作为容差百分比的乘数，如色码表所示。若没有第四条色带，则容差视为 20%。
+
+下面说明标有端到中心色带体系的电阻器读取电阻值的规则。该电阻器标有三条色带，必须从端部向中心读取。
+
+没有第四条色带，因此容差视为 20%。250,000 Ω 的 20% 等于 50,000 Ω。
+
+由于 20% 容差是正负值，最大电阻 = 250,000 Ω + 50,000 Ω = 300,000 Ω，最小电阻 = 250,000 Ω − 50,000 Ω = 200,000 Ω。以下段落给出几个电阻器色带解读的补充例子。下面是一只带有另一组颜色的电阻器。该电阻器色码应读取如下：
+
+该电阻器的电阻为 86,000 ±10% 欧姆。最大电阻为 94,600 欧姆，最小电阻为 77,400 欧姆。
+
+另一个例子中，电阻器的电阻为 960 ±5% 欧姆。最大电阻为 1,008 欧姆，最小电阻为 912 欧姆。有时电路上的考虑要求容差小于 20%。下面给出一只容差为 2% 的电阻器示例。该电阻器的电阻值为 2,500 ±2% 欧姆。最大电阻为 2,550 欧姆，最小电阻为 2,450 欧姆。
+
+下面给出一只第三条色带为黑色的电阻器示例。黑色的色码值为零，而第三条色带表示在头两位数字后要加的零的个数。
+
+本例中，头两位数字后要加的零的个数为零，因此不添加零。于是电阻值为 10 ±1% 欧姆。最大电阻为 10.1 欧姆，最小电阻为 9.9 欧姆。关于第三条色带表示零的个数这条规则，有两个例外。当第三条色带为金色时，它表示前两位数字必须乘以 10%。本例中该电阻器的值为：
+
+10 × 0.10 ±2% = 1 = 0.02 欧姆。当第三条色带为银色时（本例即属此种情况），前两位数字必须乘以 1%。其值……（原文此处为表格碎片，为色环—数字—意义对照：灰 蓝 橙 银 = 8 6 000 10%；白 蓝 棕 金 = 9 6 0 5%；红 绿 红 红 = 2 5 00 2%；棕 黑 黑 棕 = 1 0 1%；第一环 红 = 第一位数字 2；第二环 绿 = 第二位数字 5；第三环 黄 = 需加的零的个数 4；黄 绿 银 =（乘数））
+
+（原文此处为表格碎片：银 4 5 1% 10%；棕 黑 金 =（乘数））
+
+红 1 0 10% 2%……该电阻器的阻值为 0.45 ±10 欧姆。
+
+线绕电阻器通常控制大电流，具有高功率额定值。这类电阻器是在通常由瓷制成的绝缘棒上绕制电阻丝制成的。绕组表面涂覆绝缘材料，以提供物理保护并导热。绕组两端接在端子上，端子用于把电阻器接入电路。
+
+带抽头的线绕电阻器是一种可以调整的特殊固定电阻器。调整可通过移动滑杆抽头或把抽头移到预设的增量位置来实现。虽然抽头可以调整，但通常在安装时被调到某一具体数值，此后在服役中作为固定电阻器使用。另一种线绕电阻器由 Manganin 导线制成，用于需要高精度之处。
+
+### 可变电阻器
+
+可变电阻器的构造使其电阻值可以方便地改变。这种调整可以是手动或自动的，而且可以在其所连接的系统的运行过程中进行。手动调节器有两种基本类型：变阻器和电位器。
+
+变阻器是用于改变电路中电流大小的可变电阻器。下面给出变阻器与一只普通电阻串联于串联电路中的情形。当滑臂从 A 点移向 B 点时，变阻器接入的电阻量（AB 段）增大。由于变阻器电阻与固定电阻串联，电路中的总电阻也增大，电路中的电流减小。反之，若滑臂向 A 点移动，总电阻减小，电路中的电流增大。
+
+电位器被视为三端器件。如图所示，端子 1 与 2 之间是整个电位器电阻值。端子 3 是滑片或活动触点。通过该滑片，端子 1 与 3 之间或端子 2 与 3 之间的电阻可以改变。变阻器用于改变电路中的电流，而电位器用于改变电路中的电压。该元件的典型应用可见于音频面板的音量控制、飞行数据记录器的输入装置，以及许多其他应用。
+
+下面给出用电位器从固定电压源获得可变电压并施加到电气负载上的用法。施加到负载上的电压是 2 点与 3 点之间的电压。当滑臂移到 1 点时，全部电压加在电气器件（负载）上；当滑臂移到 3 点时，加在负载上的电压为零。电位器使 0 到全电压之间的任意电压都能施加到负载上。
+
+流过电路的电流离开电池的负端（电子流），分成一部分流过电位器的下段（3 点到 2 点），另一部分流过负载。两部分在 2 点汇合，再流过电位器的上段（2 点到 1 点）回到电池的正端。图中 B 视图给出了电位器及其原理图符号。
+
+选择电位器电阻时，应考虑负载所取用的电流，以及在滑臂各个位置时流过电位器的电流。流过电位器的电流能量以热的形式耗散。
+
+重要的是，应使电位器电阻尽可能大，从而把这种浪费的电流保持在尽可能小的程度。大多数情况下，电位器的电阻可以是负载电阻的若干倍。
+
+线性电位器 在线性电位器中，两端与滑片之间的电阻随滑片位置线性变化。举例来说，转动四分之一圈，得到总电阻的四分之一。转到一半或四分之三时也存在同样的关系。锥形（渐变）电位器 在锥形电位器中，电阻以非线性方式变化。要记住，电位器行程的一半并不一定对应总电阻的一半。
+
+热敏电阻器是一种对温度敏感的可变电阻器。这种元件具有负温度系数，意思是随着感测温度升高，热敏电阻器的电阻减小。
+
+### 光导电池
+
+光导电池与热敏电阻器类似。和热敏电阻器一样，它具有负温度系数。与热敏电阻器不同的是，其电阻由光强控制。这类元件可见于无线电控制面板：环境光强通过光导电池感测，从而对控制面板进行背光照明，以适应驾驶舱的照明条件。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Conduction —— The transfer of heat which requires physical contact between an object that has a large amount of heat energy and one that has a smaller amount of heat energy.
-- Current —— The flow of electrical charge.
-- Energy —— The capacity of a physical system to perform work. There are two types of energy, kinetic and potential.
-- Percentage —— Used to express a number as a fraction of 100. Using the percentage sign, %, 90 percent is expressed as 90%.
-- Potentiometer —— A variable tapped resistor that can be used as a voltage divider.
-- Power (exponent) —— A shorthand method of indicating how many times a number, called the base, is multiplied by itself. For example, in the number 43, 3 is the power, or exponent, 
-- Power —— Power is the time rate at which work is done or energy is transferred.
-- Product —— The result of multiplication.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| fixed resistor | n. | 固定电阻器 | 阻值不可调，设计上内置阻碍电流的手段 |
+| tolerance | n. | 容差 | 标称值与实际值之间的百分比差异，如 5%、10% |
+| color code | n. | 色码 | 用一组颜色、数字和容差值表示电阻值的标码体系 |
+| carbon composition resistor | n. | 碳合成电阻器 | 由碳/石墨、绝缘填料与黏结剂压制而成的固定电阻器 |
+| wire-wound resistor | n. | 线绕电阻器 | 在瓷质绝缘棒上绕制电阻丝制成，可承受大电流、高功率 |
+| rheostat | n. | 变阻器 | 两端的可变电阻器，用来改变电路中电流的大小 |
+| potentiometer | n. | 电位器 | 三端可变电阻器，用作分压器，用来改变电路中的电压 |
+| wiper | n. | 滑片 | 电位器的活动触点，即端子 3 |
+| tapered potentiometer | n. | 锥形电位器 | 电阻随滑片位置非线性变化的电位器 |
+| thermistor | n. | 热敏电阻器 | 温度敏感的可变电阻器，具有负温度系数 |
+| photoconductive cell | n. | 光导电池 | 电阻由光强控制的可变电阻器，用于驾驶舱背光调节 |
+| Manganin | n. | 锰铜合金 | 用于高精度线绕电阻器的电阻丝材料 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① have + 宾语 + 介词短语的宾语后置
+**原句**：Fixed resistors have built into the design a means of opposing current.
+**拆解**：主语 Fixed resistors，谓语 have built，宾语 a means of opposing current 因过长而后置，介词短语 into the design 提前紧跟谓语；of opposing current 为介词短语作后置定语修饰 a means。
+**要点**：英语常把长宾语移到句末，形成“谓语 + 状语 + 宾语”的语序，避免头重脚轻；a means of doing 表示“做……的手段”，means 单复数同形；opposing 为动名词，不是现在分词。
+
+### ② be known as 术语定义 + 后置定语
+**原句**：The percentage variation between the marked value and the actual value of a resistor is known as the “tolerance” of a resistor.
+**拆解**：主语 The percentage variation 后接 between…and… 介词短语作后置定语；谓语 is known as 为被动结构，后接术语 the “tolerance”；句末 of a resistor 修饰 tolerance。
+**要点**：be known as 后接名称，be known for 后接特征，be known to 后接人，三者不可混用；variation between A and B 是“A 与 B 之间的差异”的固定搭配；引号内的术语在中文里对应“容差”，首次出现加引号。
+
+### ③ as 引导时间状语从句 + 被动语态的增减
+**原句**：As the slider arm moves from point A to B, the amount of rheostat resistance (AB) is increased.
+**拆解**：As 引导时间状语从句，意为“随着”，谓语 moves 为一般现在时；主句 the amount of rheostat resistance is increased 为被动语态，括号 (AB) 补充说明所指线段。
+**要点**：as 表“随着”时强调两个过程同步发生，比 when 更贴切；increase 用被动表示“被增大”，施动者是操作者，故不必写出；the amount of + 不可数名词，谓语用单数。
+
+### ④ while 引导的让步状语从句 + 并列被动结构
+**原句**：While the tap may be adjustable, the adjustments are usually set at the time of installation to a specific value and then operated in service as a fixed resistor.
+**拆解**：While 引导让步状语从句，谓语 may be adjustable 为“情态动词 + 系表”结构；主句主语 the adjustments 后接两个并列被动谓语 are set 与 (are) operated，set to a specific value 表示“调到某一数值”，as a fixed resistor 为方式状语。
+**要点**：句首 while 引出对比或让步，译作“虽然”；set…to… 是“把……调到……”的固定搭配，注意介词用 to；并列谓语可共用助动词，第二个 are 被省略。
+
+### ⑤ Unlike 引导的对比状语 + 被动语态 + 关系从句
+**原句**：Unlike the thermistor, the resistance is controlled by light intensity.
+**拆解**：Unlike the thermistor 为介词短语作对比状语，置于句首；主句 the resistance is controlled by light intensity 为被动语态，by 引出施动者（此处为手段）。
+**要点**：unlike 是介词，后接名词或代词，不能接句子（接句子用 whereas）；Unlike A, B… 意为“与 A 不同，B……”，比较对象必须对等；is controlled by 既可用于人，也可用于光、温度等非人为因素。

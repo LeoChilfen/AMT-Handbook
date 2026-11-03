@@ -62,7 +62,7 @@ E2RP = (24 V)2 20 ΩP = P = 28.8 W
 
 The total power dissipated in both a series and parallel circuit is equal to the sum of the power dissipated in each resistor in the circuit. Power is simply additive and can be stated as:
 
-PT = P1 + P2 + P3 + ……PN Figure 12-44 provides a summary of all the possible transpositions of the Ohm’s Law formula and the power formula.
+PT = P1 + P2 + P3 + ……PN
 
 ### Energy in an Electrical Circuit
 
@@ -104,34 +104,165 @@ The schematic is the most common place where the technician finds electronic sym
 
 The schematic depiction of a conductor is simple enough. This is generally shown as a solid line. However, the line types may vary depending on who drew the schematics and what exactly the line represents. While the solid line is used to depict the wire or conductor, schematics used for aircraft modifications can also use other line types, such as a dashed to represent “existing” wires prior to modification and solid lines for “new” wires.
 
-There are two methods employed to show wire crossovers and wire connections. Figure 12-45 shows the two methods of drawing wires that cross: version A and version B. Figure 12-46 shows the two methods for drawing wire that connect version A and version B. If version A in Figure 12-45 is used to depict crossovers, then version A for wire connections in Figure 12-46 is used. The same can then be said about the use of version B methods. The technician encounters both in common use.
+There are two methods employed to show wire crossovers and wire connections. The two methods of drawing wires that cross are shown: version A and version B. The two methods for drawing wire that connect are shown: version A and version B. If version A is used to depict crossovers, then version A for wire connections is used. The same can then be said about the use of version B methods. The technician encounters both in common use.
 
-Figure 12-47 shows a few examples of the more common wire types that the technician encounters in schematics. They are the single wire, single shielded, shielded twisted pair or double, and the shielded triple. This is not an exhaustive list of wire types but a fair representation of how they are depicted. Figure 12-47 also shows the wires having a wire number. These are shown for the sake of illustration and vary from one A B A B Single wire Conductor Typical Wire No.
+A few examples of the more common wire types that the technician encounters in schematics are shown. They are the single wire, single shielded, shielded twisted pair or double, and the shielded triple. This is not an exhaustive list of wire types but a fair representation of how they are depicted. The wires are also shown having a wire number. These are shown for the sake of illustration and vary from one
 
-SX001A22 12PB501-*APJ356 NM200A22 RF300A22 Shielded single wire Shielded double wire Shielded triple wire Shielding installation agency to another. For further understanding of a wire numbering system, consult the appropriate wiring guide published by the agency that drew the prints. Regardless of the specifics of the wire numbering system, organizations that exercise professional wiring practices have the installed wire marked in some manner. This is an aid to the technician who has to troubleshoot or modify the system at a later date.
+installation agency to another. For further understanding of a wire numbering system, consult the appropriate wiring guide published by the agency that drew the prints. Regardless of the specifics of the wire numbering system, organizations that exercise professional wiring practices have the installed wire marked in some manner. This is an aid to the technician who has to troubleshoot or modify the system at a later date.
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（53 段）。专业术语按行业惯例，数字与缩写保留。 -->
+### 电路中的功率
+
+本节介绍直流电路中的功率与能量消耗。无论指机械系统还是电气系统，功率都被定义为能量消耗的速率（原文此处为表格碎片，为 AWG 线号、以密耳计的直径与每 1,000 英尺电阻的表头）。
+
+0000 460.0 0.04901　000 409.6 0.06180　00 364.8 0.07793　0 324.9 0.09827　1 289.3 0.1239　2 257.6 0.1563　3 229.4 0.1970　4 204.3 0.2485　5 181.9 0.3133　6 162.0 0.3951　8 128.5 0.6282　10 101.9 0.9989　12 80.81 1.588　14 64.08 2.525　16 50.82 4.016　18 40.30 6.385　20 31.96 10.15　22 25.35 16.14　24 20.10 25.67　26 15.94 40.81　28 12.64 64.9　30 10.03 103.2　——或该系统内部的转换，即在给定时间内使用或转换的能量。
+
+从物理学这一学科来看，功率的基本表达式为：
+
+P = E/t。式中 P = 功率，单位为瓦特（W）
+
+E = 能量（E 为手写体 E），单位为焦耳（J）
+
+t = 时间，单位为秒（s）
+
+功率的计量单位是瓦特（W），指每秒转换 1 焦耳（J）的能量转换速率。因此，1 秒内消耗的焦耳数等于瓦特数。下面给出一个简单的例子。
+
+假设 10 秒内消耗 300 焦耳的能量，问功率为多少瓦特？
+
+通用公式：P = 能量/时间 = 300 J/10 s，P = 30 W。瓦特以蒸汽机的发明者詹姆斯·瓦特（James Watt）命名。瓦特设计了一个测量马的功率的实验，以便找到一种测量其蒸汽机机械功率的方法。移动 33,000 磅重物 1 英尺需时 1 分钟，即为 1 马力。由于功率是做功的速率，它等于功除以时间。用公式表示即：
+
+功率 = 33,000 ft-lb/60 s，P = 550 ft-lb/s。电功率可用类似方式标定。例如，额定为 1 马力的电动机需要 746 瓦特的电能。
+
+### 电学研究中使用的功率公式
+
+电流流过电阻性电路时，能量以热的形式耗散。回想一下，电压可以用能量和电荷表示，如以下表达式所示：
+
+E = 能量/电荷。式中 E = 电位差，单位为伏特；E = 消耗或吸收的能量，单位为焦耳（J）
+
+Q = 电荷，单位为库仑。电流 I 也可以用电荷与时间表示，如以下表达式所示：
+
+电流 = 电荷/时间，即 I = Q/T。式中：
+
+I = 电流，单位为安培（A）
+
+Q = 电荷，单位为库仑（C）
+
+T = 时间。当电压 W⁄Q 与电流 Q⁄t 相乘时，电荷 Q 被约去，留下物理学的基本表达式：
+
+W⁄Q × Q⁄t = W⁄t = 功率。对于简单的直流电气系统，功率耗散可由下式给出：
+
+通用功率公式：P = I(E)
+
+式中 P = 功率；I = 电流；E = 伏特数。若某电路的电压已知为 24 伏特、电流为 2 安培，则该电路的功率为：
+
+P = 48 W。回想欧姆定律，即 E = I(R)。若用 IR 替换通用公式中的 E，就得到仅用电流 I 和电阻 R 确定电路功率的公式。
+
+功率方程的第二种形式：P = I²R。若某电路的电流已知为 2 安培、电阻为 100 Ω，则该电路的功率为：
+
+P = I²R，P = (2 A)² × 100 Ω，P = 400 W。利用可表述为 I = E⁄R 的欧姆定律，我们还可以再次替换，从而只需知道电路的电压（E）和电阻（R）就能确定功率。
+
+P = (E/R)(E)。功率方程的第三种形式：P = E²/R。若某电路的电压已知为 24 伏特、电阻为 20 Ω，则该电路的功率为：
+
+P = E²/R，P = (24 V)²/20 Ω，P = 28.8 W
+
+### 串联与并联电路中的功率
+
+串联电路和并联电路中耗散的总功率，都等于电路中各电阻器耗散功率之和。功率可以直接相加，可表示为：
+
+PT = P1 + P2 + P3 + ……PN
+
+### 电路中的能量
+
+能量被定义为做功的能力。由于功率是能量使用的速率，一段时间内使用的功率实际上就是能量消耗。把功率与时间相乘，就得到能量。
+
+焦耳被定义为能量单位。还有另一种也许更熟悉的计量单位。由于功率以瓦特表示、时间以秒表示，能量单位可以称为瓦特-秒（Ws），或者从电费单上更容易认出的千瓦时（kWh）。有关能量的进一步讨论见第 5 章《物理》。
+
+### 电能的来源
+
+电能可以通过多种方法产生。最常见的四种是压力、化学、热和光。
+
+#### 压力来源
+
+这种发电形式通常称为压电（piezo 或 piez 源自希腊语：压、压力、挤压），是对介电或非导电晶体施加机械压力的结果。如今最常用的压电材料是石英晶体和罗谢尔盐。不过，罗谢尔盐正被钛酸钡等其他材料所取代。
+
+施加机械应力会产生电极化，极化程度与该应力成正比。这种极化在晶体两端建立起电压。若在晶体两端接入电路，则当晶体受力（施加压力）时可观察到电流流动。相反的情况也可能发生：在晶体的某些面之间施加电压可产生机械形变。这种现象通常称为压电效应。
+
+压电材料广泛用于把机械应变转换为电信号的换能器。这类器件包括麦克风、唱机拾音器和振动传感元件。相反的效果——由电信号输入得到机械输出——也广泛用于耳机和扬声器。
+
+（原文此处为图注碎片，由功率公式与欧姆定律的各种变形排列组成）
+
+#### 化学来源
+
+化学能可以转换为电能；其中最常见的形式是电池。原电池利用两种不同的金属在碱性电解液之类的化学溶液中产生电，金属与化学物质之间的化学反应使其中一种金属释放出比另一种更多的电子。电池的一个端子接在一种金属上，例如锌；另一个端子接在另一种金属上，例如氧化锰。释放电子较多的一端带正电，另一端带负电。若用导线把电池的一端与另一端连接起来，电子便通过导线流动以平衡电荷。
+
+#### 热源
+
+航空工业中最常见的热电来源是热电偶。热电偶被广泛用作温度传感器。它们价格便宜、可以互换、具有标准连接器，并能测量很宽的温度范围。热电偶是把至少一端连接在一起的两根不同金属导线，它们在两线之间产生与接点温度成正比的电压。这称为塞贝克效应，以最早于 1821 年注意到该现象的托马斯·塞贝克（Thomas Seebeck）命名。人们还注意到，不同金属组合具有不同的电压差。热电偶用于测量气缸盖温度和涡轮进口温度（TIT）。
+
+太阳能电池或光电池是把光能转换为电能的器件。从本质上讲，该器件含有某些化学元素，这些元素在受到光能照射时会释放电子。
+
+阳光中的光子被太阳能面板或电池吸收，在那里被硅等半导体材料吸收。电池中的电子从原子中挣脱出来，从而能够在材料中流动以产生电。同时产生的互补正电荷称为空穴（电子的缺失），在硅太阳能面板中沿与电子相反的方向流动。
+
+太阳能电池有许多应用，历史上曾用于地球轨道卫星或空间探测器、手持计算器和手表。
+
+### 电气元件的原理图表示
+
+原理图是技术人员最常遇到电子符号的地方。原理图是描述电子或电气电路互连关系与逻辑的图。原理图中大量使用各种符号，也用于蓝图和插图。本节简要介绍一些较常见的符号，并说明如何解读它们。
+
+导体的原理图表示相当简单。通常画成一条实线。不过，线条种类可能因绘图者和线条所代表的确切含义而不同。实线用于表示导线或导体，而用于飞机改装的原理图还可以使用其他线条，例如用虚线表示改装前“原有”的导线、用实线表示“新增”的导线。
+
+表示导线交叉与导线连接有两种方法。两种画交叉导线的方法都会给出：A 版和 B 版；两种画连接导线的方法也会给出：A 版和 B 版。若用 A 版表示交叉，则连接导线也用 A 版；B 版方法也是如此。技术人员在实际工作中两种都会遇到。
+
+下面给出技术人员在原理图中遇到的几种较常见的导线类型示例。它们是单线、单屏蔽线、屏蔽双绞线或双屏蔽线，以及屏蔽三线。这并非导线类型的完整清单，而是对其画法的合理展示。图中还显示了导线上的导线编号。这些编号只是为了示意，不同
+
+安装机构之间也会有所不同。有关导线编号体系的进一步说明，请查阅绘制该图样的机构发布的相应布线指南。无论导线编号体系的具体规定如何，采用专业布线规范的组织都会以某种方式标记已安装的导线，这有助于技术人员日后对该系统进行排故或改装。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Chemical energy —— Energy released from chemical reactions.
-- Conductor —— A material that will carry electric current.
-- Current —— The flow of electrical charge.
-- Diameter (circle) —— The length of a line passing directly through the center of a circle. Twice the radius of the circle.
-- Difference —— The answer to a subtraction problem.
-- Electrical energy —— Electrical energy is converted to heat energy when an electric current flows through any form of resistance such as an electric iron, electric light, or an elec
-- Energy —— The capacity of a physical system to perform work. There are two types of energy, kinetic and potential.
-- Horsepower —— A measure of power equal to 550 foot-pounds per second or 33,000 foot-pounds per minute and 746 Watts.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| power | n. | 功率 | 能量消耗或转换的速率，单位为瓦特（W），P = E/t |
+| watt | n. | 瓦特 | 功率单位，指每秒转换 1 焦耳的能量；以詹姆斯·瓦特命名 |
+| horsepower | n. | 马力 | 功率单位，1 马力 = 550 ft-lb/s = 746 W |
+| energy | n. | 能量 | 做功的能力；功率与时间相乘即得能量 |
+| kilowatt-hour (kWh) | n. | 千瓦时 | 电费单上常见的能量单位，由瓦特与秒相乘所得的瓦特-秒换算而来 |
+| watt-second (Ws) | n. | 瓦特-秒 | 以瓦特乘秒表示的能量单位 |
+| piezoelectric effect | n. | 压电效应 | 对晶体施加机械应力产生电压、或施加电压产生形变的现象 |
+| thermocouple | n. | 热电偶 | 两种不同金属接合、按接点温度产生电压的温度传感器，基于塞贝克效应 |
+| Seebeck effect | n. | 塞贝克效应 | 热电偶两线间电压与接点温度成正比的效应，1821 年由塞贝克发现 |
+| photovoltaic cell | n. | 光电池 | 把光能转换为电能的器件，即太阳能电池 |
+| schematic | n. | 原理图 | 描述电子或电气电路互连关系与逻辑的图，技术人员借此读取符号 |
+| transducer | n. | 换能器 | 把机械应变转换为电信号的器件，如麦克风、拾音器 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① 现在分词短语作同位说明 + 非限制性定语从句
+**原句**：The unit measurement for power is the watt (W), which refers to a rate of energy conversion of 1 joule (J)/second.
+**拆解**：主句为主系表结构 The unit measurement for power is the watt；逗号后 which 引导非限制性定语从句，指代 the watt，说明其定义；rate of energy conversion 后接 of 1 joule (J)/second 表示比率的具体数值。
+**要点**：单位定义常用 “X is the Y, which refers to…” 的句式；非限制性定语从句只能用 which，不能换成 that；a rate of … /second 是“每秒……的速率”的固定表达，注意分母用斜线而不用 per 时的紧凑写法。
+
+### ② 过去分词短语作后置定语 + 比较结构
+**原句**：Since power is the rate of doing work, it is equivalent to the work divided by time.
+**拆解**：Since 引导原因状语从句；主句 it is equivalent to the work divided by time 中，divided by time 为过去分词短语作后置定语修饰 the work，be equivalent to 后接名词性成分。
+**要点**：the work divided by time 不能理解为谓语，它是“功除以时间”的定语；be equivalent to 后接名词或动名词，不接从句；since 表原因时与 because 近义，但语气更书面。
+
+### ③ if 条件从句中的替代与省略
+**原句**：If we now substitute IR for E in the general formula, we get a formula that uses only current I and resistance R to determine the power in a circuit.
+**拆解**：If 引导真实条件从句，substitute A for B 意为“用 A 替换 B”；主句 we get a formula 后接 that 引导的定语从句，从句谓语 uses 后接 to determine 作目的状语。
+**要点**：substitute IR for E 的语序是“新代旧”，与 replace E with IR 相反，是高频易错点；that uses… 定语从句修饰 a formula；不定式 to determine 表用途，可译为“用来确定”。
+
+### ④ 现在分词短语作结果状语 + 省略结构
+**原句**：When voltage W⁄Q and current Q⁄t are multiplied, the charge Q is divided out leaving the basic expression from physics:
+**拆解**：When 引导时间状语从句，谓语 are multiplied 为被动；主句 the charge Q is divided out 也是被动；leaving the basic expression 为现在分词短语作结果状语，表示“从而留下……”。
+**要点**：divide out 是数学运算用语，意为“约去、消去”；现在分词短语作结果状语时逻辑主语与主句主语一致；from physics 修饰 expression，说明来源。
+
+### ⑤ 定语从句 + 原因状语从句的组合
+**原句**：Energy is defined as the ability to do work. Because power is the rate of energy usage, power used over a span of time is actually energy consumption.
+**拆解**：第一句为被动定义句，to do work 为不定式作后置定语修饰 the ability；第二句 Because 引导原因状语从句，主句主语 power 后接 used over a span of time 作后置定语，谓语为 is。
+**要点**：be defined as 是术语定义的固定句式；ability to do 用不定式而不用 of doing；power used over a span of time 中 used 是过去分词，不能误读为谓语动词。
+
+### ⑥ 倒装与强调的介词短语前置 + 被动语态
+**原句**：This form of electrical generation is commonly known as piezoelectric (piezo or piez taken from Greek: to press; pressure; to squeeze) is a result of the application of mechanical pressure on a dielectric or non-conducting crystal.
+**拆解**：主语 This form of electrical generation 后接 is commonly known as piezoelectric 的被动结构，括号内为词源说明；第二个 is a result of 与前面的谓语并列重复，属原文口语化写法；a result of 后接名词短语，of mechanical pressure 修饰 result。
+**要点**：be known as 意为“被称为”，后接名称；apply pressure on 是“对……施加压力”的搭配，此处转为名词 application of mechanical pressure on；dielectric 与 non-conducting 并列修饰 crystal，属同义复指。

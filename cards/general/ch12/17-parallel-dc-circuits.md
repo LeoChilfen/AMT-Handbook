@@ -8,7 +8,7 @@ A circuit in which two of more electrical resistances or loads are connected acr
 
 • A resistance or load for each current path
 
-• Two or more paths for current flow Figure 12-96 depicts the most basic parallel circuit. Current flowing out of the source divides at point A in the diagram and goes through R1 and R2. As more branches are added to the circuit, more paths for the source current are provided.
+• Two or more paths for current flow The most basic parallel circuit is depicted here. Current flowing out of the source divides at point A in the diagram and goes through R1 and R2. As more branches are added to the circuit, more paths for the source current are provided.
 
 The first point to understand is that the voltage across any branch is equal to the voltage across all of the other branches.
 
@@ -44,19 +44,19 @@ A current source is an energy source that provides a constant value of current t
 
 Kirchhoff’s Current Law can be stated as: the sum of the currents into a junction or node is equal to the sum of the currents flowing out of that same junction or node. A junction can be defined as a point in the circuit where two or more circuit paths come together. In the case of the parallel circuit, it is the point in the circuit where the individual branches join.
 
-General formula IT = I1 + I2 + I3 Refer to Figure 12-97 for an example. Point A and point B represent two junctions or nodes in the circuit with three resistive branches in between. The voltage source provides a total current IT into node A. At this point, the current must divide, flowing out of node A into each of the branches according to the resistive value of each branch. Kirchhoff’s Current Law states that the current going in must equal that going out. Following the current through the three branches and back into node B, the total current I T entering node B and leaving node B is the same as that which entered node A. The current then continues back to the voltage source.
+General formula IT = I1 + I2 + I3 Point A and point B represent two junctions or nodes in the circuit with three resistive branches in between. The voltage source provides a total current IT into node A. At this point, the current must divide, flowing out of node A into each of the branches according to the resistive value of each branch. Kirchhoff’s Current Law states that the current going in must equal that going out. Following the current through the three branches and back into node B, the total current I T entering node B and leaving node B is the same as that which entered node A. The current then continues back to the voltage source.
 
-Figure 12-98 shows that the individual branch currents are:
+The individual branch currents are:
 
 I 1 = 5 mA I 2 = 12 mA The total current flow into the node A equals the sum of the branch currents, which is: IT = I1 + I2 Substitute IT = 5 mA + 12 mA IT = 17 mA The total current entering node B is also the same.
 
-Figure 12-99 illustrates how to determine an unknown current in one branch. Note that the total current into a junction of the three branches is known. Two of the branch currents are known. By rearranging the general formula, the current in branch two can be determined.
+An example illustrates how to determine an unknown current in one branch. Note that the total current into a junction of the three branches is known. Two of the branch currents are known. By rearranging the general formula, the current in branch two can be determined.
 
 General formula IT = I1 + I2 + I3 Substitute 75 mA = 30 mA + I2 + 20 mA Solve I2 I2 = 75 mA – 30 mA – 20 mA I2 = 25 mA
 
 ### Current Dividers
 
-It can now be easily seen that the parallel circuit is a current divider. As shown in Figure 12-96, there is a current through each of the two resistors. Because the same voltage is applied across both resistors in parallel, the branch currents are inversely proportional to the ohmic values of the resistors. Branches with higher resistance have less current than those with lower resistance. For example, if the resistive value of R2 is twice as high as that of R1, the current in R2 is half of that of R1. All of this can be determined with Ohm’s Law.
+It can now be easily seen that the parallel circuit is a current divider. There is a current through each of the two resistors. Because the same voltage is applied across both resistors in parallel, the branch currents are inversely proportional to the ohmic values of the resistors. Branches with higher resistance have less current than those with lower resistance. For example, if the resistive value of R2 is twice as high as that of R1, the current in R2 is half of that of R1. All of this can be determined with Ohm’s Law.
 
 By Ohm’s Law, the current through any one of the branches can be written as:
 
@@ -68,26 +68,108 @@ E S = ITRT Substituting ITRT for ES ITRT RX IX = Rearranging RT RX IX = ( ) IT R
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（31 段）。专业术语按行业惯例，数字与缩写保留。 -->
+两条或更多电阻或负载跨接在同一电压源上的电路称为并联电路。串联电路与并联电路的主要区别在于：并联电路中为电流提供了不止一条通路。这些并联通路中的每一条称为一条支路。并联电路的最低要求如下：
+
+• 每条电流通路都有一只电阻或负载
+
+• 两条或更多条电流通路。最基本的并联电路如图所示。从电源流出的电流在图中 A 点分流，分别流过 R1 和 R2。随着支路增加，电源电流就获得更多通路。
+
+首先要理解的一点是：任一支路两端的电压都等于其他所有支路两端的电压。
+
+### 并联总电阻
+
+并联电路由两只或更多电阻以这样的方式连接而成：电流可以同时流过所有电阻。这样就不需要电流先通过一只电阻再通过下一只。电阻并联时，电路的总电阻减小。并联组合的总电阻总是小于电路中最小的那只电阻的值。在串联电路中，电流必须一只一只地通过电阻，这使电流受到的电阻等于所有电阻之和。在并联电路中，电流有多只电阻可以通过，因而相对于任何单只电阻的值，实际上降低了电路的总电阻。
+
+流过每只电阻的电流大小随其各自电阻而不同。电路的总电流是各支路电流之和。一看便知，总电流大于任何给定支路的电流。用欧姆定律根据所加电压和总电流计算总电阻，可以确定总电阻小于任何一条支路。
+
+举个例子：若电路中有一只 100 Ω 电阻和一只 5 Ω 电阻；虽然确切数值必须计算，但仍可以说两者并联后的电阻小于 5 Ω。
+
+### 电阻并联
+
+并联总电阻的公式如下：
+
+1/RT = 1/R1 + 1/R2 + 1/R3 + … + 1/RN。若两边取倒数，则并联总电阻的通用公式为：
+
+RT = 1/（1/R1 + 1/R2 + 1/R3 + … + 1/RN）
+
+### 两只电阻并联
+
+通常一次只考虑两只电阻更为方便，因为这种情况在实际中最常见。电路中任意数量的电阻都可以拆成两两成对来处理。因此最常用的方法是用（原文此处为图注碎片，为 R1 与 R2 并联、接在电压源 ES 上的示意图）两只电阻并联的公式。
+
+RT = 1/（1/R1 + 1/R2）。把分母中的各项合并并改写：
+
+RT = R1R2/（R1 + R2）。用文字表述：两只电阻并联的总电阻等于两只电阻之积除以两只电阻之和。用下面的公式计算总电阻。
+
+通用公式 RT = R1R2/（R1 + R2）。已知值 R1 = 500 Ω，R2 = 400 Ω。RT =（500 Ω × 400 Ω）/（500 Ω + 400 Ω）。RT = 200,000 Ω/900 Ω。RT = 222.22 Ω
+
+电流源是即使负载的电阻值变化也能向负载提供恒定电流值的能量源。要记住的通用法则是：并联电流源产生的总电流等于各电流源的代数和。
+
+### 基尔霍夫电流定律
+
+基尔霍夫电流定律可以表述为：流入一个节点或交汇点的电流之和，等于流出同一节点或交汇点的电流之和。节点可以定义为电路中两条或更多通路汇合的一点。就并联电路而言，节点就是各支路汇合的那一点。
+
+通用公式 IT = I1 + I2 + I3。点 A 与点 B 代表电路中两个节点，它们之间有三条电阻支路。电压源向节点 A 提供总电流 IT。在这一点上电流必须分流，按各支路的电阻值从节点 A 流入每条支路。基尔霍夫电流定律指出，流入的电流必须等于流出的电流。沿电流流经三条支路并回到节点 B 的路径来看，进入节点 B 的总电流 IT 与离开节点 B 的总电流相同，且与进入节点 A 的电流相同。然后电流继续回到电压源。
+
+各支路电流分别为：
+
+I1 = 5 mA，I2 = 12 mA。流入节点 A 的总电流等于各支路电流之和，即：IT = I1 + I2。代入：IT = 5 mA + 12 mA，IT = 17 mA。进入节点 B 的总电流也相同。
+
+下面举例说明如何求某一支路中的未知电流。注意流入三条支路交汇点的总电流已知，其中两条支路的电流已知。将通用公式变形，即可求出第二条支路的电流。
+
+通用公式 IT = I1 + I2 + I3。代入 75 mA = 30 mA + I2 + 20 mA。求解 I2：I2 = 75 mA – 30 mA – 20 mA，I2 = 25 mA
+
+### 分流器
+
+现在很容易看出，并联电路就是一个分流器。两只电阻中各有一股电流流过。由于两只并联电阻上施加的是同一电压，各支路电流与各电阻的欧姆值成反比。电阻较大的支路电流小于电阻较小的支路。例如，若 R2 的电阻值是 R1 的两倍，则 R2 中的电流是 R1 的一半。所有这些都可以用欧姆定律确定。
+
+按欧姆定律，流过任一支路的电流可以写成：
+
+（原文此处为图注碎片，为由电压源 ES 供电的并联电路标示图：R1、R2、R3，节点 A 与 B，总电流 IT 及各支路电流 I1、I3，并有 30 mA、20 mA 等待求值的标注）
+
+（原文此处为图注碎片，为并联电路电流标示：节点 A 与 B、电源 ES、I2 = 12 mA、R1 与 R2、IT = 17 mA、I1 = 5 mA）IX = ES/RX。电压源出现在每一只并联电阻的两端，RX 代表其中的任一电阻。电源电压等于总电流乘以并联总电阻。
+
+ES = ITRT。用 ITRT 代换 ES：IX =（ITRT）/RX。整理得：IX =（RT/RX）IT。于是 R2 中：I2 =（RT/R2）IT；R1 中：I1 =（RT/R1）IT。这个公式就是通用的分流公式。任一支路中的电流等于并联总电阻除以该支路电阻，再乘以总电流。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Current —— The flow of electrical charge.
-- Denominator —— The lower part of a fraction (represented by the letter D in N⁄D), the quantity by which the numerator is divided.
-- Difference —— The answer to a subtraction problem.
-- Energy —— The capacity of a physical system to perform work. There are two types of energy, kinetic and potential.
-- Ohm’s Law —— Explains the relationship between voltage, current, and resistance in an electrical circuit, and states that current flow in an electrical circuit is directly p
-- Parallel circuit —— A circuit in which two or more electrical resistances or loads are connected across the same voltage source.
-- Product —— The result of multiplication.
-- Resistance —— The opposition a device or material offers to the flow or current.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| parallel circuit | n. | 并联电路 | 两条或更多电阻或负载跨接在同一电压源上，电流有多条通路 |
+| branch | n. | 支路 | 并联电路中每一条并联的电流路径 |
+| total parallel resistance | n. | 并联总电阻 | 并联组合的总电阻，总小于最小的那只电阻 |
+| reciprocal | n. | 倒数 | 两边取倒数即得并联总电阻的通用公式 |
+| current source | n. | 电流源 | 负载电阻变化时仍提供恒定电流值的能量源 |
+| Kirchhoff’s Current Law | n. | 基尔霍夫电流定律 | 流入节点的电流之和等于流出同一节点的电流之和 |
+| junction | n. | 交汇点 | 两条或更多电路通路汇合之处，亦称节点 |
+| current divider | n. | 分流器 | 并联电路按电阻值把总电流分到各支路 |
+| inversely proportional | adj. | 成反比的 | 同一电压下支路电流与电阻欧姆值成反比 |
+| voltage across | n. | 两端电压 | 加在并联各支路上的电压彼此相等 |
+| product | n. | 乘积 | 两只电阻并联时分子为两电阻之积 |
+| algebraic sum | n. | 代数和 | 并联电流源的总电流按极性相加 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① in which 定语从句 + 被动谓语
+**原句**：A circuit in which two of more electrical resistances or loads are connected across the same voltage source is called a parallel circuit.
+**拆解**：主语中心词 A circuit，后接 in which 引导的定语从句（two of more electrical resistances or loads are connected across the same voltage source）；主句谓语 is called，表语 a parallel circuit。
+**要点**：in which 定语从句把主语与谓语隔开，阅读时要先跳过从句找 is called；be called 意为“被称为”，后接名词作补语；two of more 是原文的笔误式写法，意为 two or more。
+
+### ② 过去分词短语作后置定语 + such a way as to
+**原句**：The parallel circuit consists of two or more resistors connected in such a way as to allow current flow to pass through all of the resistors at once.
+**拆解**：主句谓语 consists of；宾语 two or more resistors 后接过去分词短语 connected in such a way as to allow… 作后置定语；in such a way as to do 表方式兼结果；allow sb/sth to do 为复合结构。
+**要点**：connected 是过去分词表被动，相当于 which are connected；such a way as to 意为“以这样的方式以致”，比 so as to 更强调方式；at once 在此意为“同时”，不是“立刻”。
+
+### ③ it 形式主语 + that 从句 + that 替代
+**原句**：It can be determined by inspection that the total current is greater than that of any given branch.
+**拆解**：it 为形式主语，真正主语是 that 引导的主语从句；can be determined 为被动谓语，by inspection 为方式状语；从句中 greater than that of any given branch，that 替代 the current。
+**要点**：It can be determined that… 是技术文献中常见的客观表述；by inspection 意为“通过观察/一看便知”；比较结构中的 that 替代前文单数名词，复数用 those。
+
+### ④ 过去分词短语（divided by / multiplied by）作后置修饰
+**原句**：The current through any branch equals the total parallel resistance divided by the individual branch resistance, multiplied by the total current.
+**拆解**：主语 The current through any branch，谓语 equals，宾语 the total parallel resistance；后接两个过去分词短语 divided by… 与 multiplied by… 并列修饰 resistance，说明运算顺序。
+**要点**：divided by 先除、multiplied by 后乘，语序即运算顺序；equals 后接名词短语即可，不必加 to；这类“名词 + 分词短语”结构在公式描述中极常见。
+
+### ⑤ can be stated as + 分词后置定语
+**原句**：Kirchhoff’s Current Law can be stated as: the sum of the currents into a junction or node is equal to the sum of the currents flowing out of that same junction or node.
+**拆解**：主句 Kirchhoff’s Current Law can be stated as；冒号后为对定律内容的展开，主语 the sum of the currents into a junction or node，谓语 is equal to，宾语 the sum of the currents flowing out of…，现在分词短语 flowing out of 作后置定语。
+**要点**：can be stated as 意为“可以表述为”，后接名词性内容或冒号引出的完整句；into 与 out of 形成方向对照；flowing out of 是现在分词表主动，与前面的 the currents into 结构对称。

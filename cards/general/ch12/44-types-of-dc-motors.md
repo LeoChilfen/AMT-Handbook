@@ -12,13 +12,13 @@ Because of the low resistance in the windings, the series motor is able to draw 
 
 The speed of a series motor is dependent upon the load. Any change in load is accompanied by a substantial change in speed. A series motor runs at high speed when it has a light load and at low speed with a heavy load. If the load is removed entirely, the motor may operate at such a high speed that the armature falls apart. If high starting torque is needed under heavy load conditions, series motors have many applications. Series motors are often used in aircraft as engine starters and for raising and lowering landing gears, cowl flaps, and wing flaps.
 
-In the shunt motor, the field winding is connected in parallel or in shunt with the armature winding. [Figure 12-300] The resistance in the field winding is high. Since the field winding is connected directly across the power supply, the current through the field is constant. The field current does not vary with motor speed, as in the series motor and, therefore, the torque of the shunt motor varies only with the current through the armature. The torque developed at starting is less than that developed by a series motor of equal size.
+In the shunt motor, the field winding is connected in parallel or in shunt with the armature winding. The resistance in the field winding is high. Since the field winding is connected directly across the power supply, the current through the field is constant. The field current does not vary with motor speed, as in the series motor and, therefore, the torque of the shunt motor varies only with the current through the armature. The torque developed at starting is less than that developed by a series motor of equal size.
 
 The speed of the shunt motor varies very little with changes in load. When all load is removed, it assumes a speed slightly higher than the loaded speed. This motor is particularly suitable for use when constant speed is desired and when high starting torque is not needed.
 
 ### Compound DC Motor
 
-The compound motor is a combination of the series and shunt motors. There are two windings in the field: a shunt winding and a series winding. [Figure 12-301] The shunt winding is composed of many turns of fine wire and is connected in parallel with the armature winding. The series winding consists of a few turns of large wire and is connected in series with the armature winding. The starting torque is higher than in the shunt motor but lower than in the series motor. Variation of speed with load is less than in a series wound motor but greater than in a shunt motor. The compound motor is used whenever the combined characteristics of the series and shunt motors are desired.
+The compound motor is a combination of the series and shunt motors. There are two windings in the field: a shunt winding and a series winding. The shunt winding is composed of many turns of fine wire and is connected in parallel with the armature winding. The series winding consists of a few turns of large wire and is connected in series with the armature winding. The starting torque is higher than in the shunt motor but lower than in the series motor. Variation of speed with load is less than in a series wound motor but greater than in a shunt motor. The compound motor is used whenever the combined characteristics of the series and shunt motors are desired.
 
 Like the compound generator, the compound motor has both series and shunt field windings. The series winding may either aid the shunt wind (cumulative compound) or oppose the shunt winding (differential compound). The starting and load characteristics of the cumulative compound motor are somewhere between those of the series and those of the shunt motor.
 
@@ -26,27 +26,74 @@ Because of the series field, the cumulative compound motor has a higher starting
 
 In the differential compound motor, an increase in load creates an increase in current and a decrease in total flux in this type of motor. These two tend to offset each other and the result is a practically constant speed. However, since an increase in load tends to decrease the field strength, the speed characteristic becomes unstable. Rarely is this type of motor used in aircraft systems.
 
-A graph of the variation in speed with changes of load of the various types of DC motors is shown in Figure 12-302.
+A graph of the variation in speed with changes of load of the various types of DC motors is shown in the figure.
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（12 段）。专业术语按行业惯例，数字与缩写保留。 -->
+直流电动机有三种基本类型：串励电动机、并励电动机和复励电动机。它们的主要差别在于励磁绕组与电枢绕组的连接方式。
+
+在串励电动机中，励磁绕组由匝数相对较少、线径较粗的导线构成，与电枢绕组串联。串励电动机的示意图和原理图都（原文此处为图注碎片，句子在此中断，无对应正文）电流也流过电枢绕组。因此，电流的任何增大都会同时增强磁场和电枢的磁性。
+
+由于绕组电阻低，串励电动机在起动时能够汲取很大的电流。这个起动电流流过励磁绕组和电枢绕组，产生很高的起动转矩，而这正是串励电动机的主要优点。
+
+串励电动机的转速取决于负载。负载的任何变化都会伴随转速的显著变化。串励电动机轻载时转速高，重载时转速低。如果把负载完全卸掉，电动机的转速可能高到使电枢解体。如果在重载条件下需要高起动转矩，串励电动机就有许多用途。在飞机上，串励电动机常用作发动机起动机，并用于收放起落架、整流罩鱼鳞板和襟翼。
+
+在并励电动机中，励磁绕组与电枢绕组并联。励磁绕组的电阻很高。由于励磁绕组直接接在电源两端，通过励磁绕组的电流是恒定的。与串励电动机不同，励磁电流不随电动机转速变化，因此并励电动机的转矩只随通过电枢的电流变化。其起动时产生的转矩小于同样大小的串励电动机。
+
+并励电动机的转速随负载变化很小。当全部负载卸掉时，它的转速只比有载转速略高。这种电动机特别适合要求恒速而不需要高起动转矩的场合。
+
+### 复励直流电动机
+
+复励电动机是串励电动机和并励电动机的结合。磁场中有两个绕组：一个并励绕组和一个串励绕组。并励绕组由许多匝细导线构成，与电枢绕组并联。串励绕组由少数几匝粗导线构成，与电枢绕组串联。它的起动转矩高于并励电动机，但低于串励电动机。转速随负载的变化比串励电动机小，但比并励电动机大。凡是需要兼有串励和并励电动机综合特性的场合，都使用复励电动机。
+
+与复励发电机一样，复励电动机既有串励绕组又有并励绕组。串励绕组既可以助长并励绕组的作用（积复励），也可以抵消并励绕组的作用（差复励）。积复励电动机的起动特性和负载特性介于串励电动机与并励电动机之间。
+
+由于有串励绕组，积复励电动机的起动转矩高于并励电动机。积复励电动机用于驱动负载会突然变化的机械。凡是需要高起动转矩、而又不便使用串励电动机的场合，也使用这种电动机。
+
+在差复励电动机中，负载增加会使电流增大，同时使这类电动机的总磁通减少。这两者趋于相互抵消，结果转速实际上保持恒定。不过，由于负载增加会使磁场强度减弱，转速特性会变得不稳定。这种电动机在飞机系统中很少使用。
+
+各类直流电动机的转速随负载变化的曲线如图所示。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Current —— The flow of electrical charge.
-- Power (exponent) —— A shorthand method of indicating how many times a number, called the base, is multiplied by itself. For example, in the number 43, 3 is the power, or exponent, 
-- Power —— Power is the time rate at which work is done or energy is transferred.
-- Resistance —— The opposition a device or material offers to the flow or current.
-- Torque —— The tendency of a force to cause or change rotational motion of a body.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| series motor | n.phr. | 串励电动机 | 励磁绕组与电枢绕组串联，起动转矩大但转速随负载剧变 |
+| shunt motor | n.phr. | 并励电动机 | 励磁绕组与电枢绕组并联，转速基本恒定 |
+| compound motor | n.phr. | 复励电动机 | 同时具有串励和并励绕组，兼有两者的特性 |
+| field winding | n.phr. | 励磁绕组 | 产生磁场的绕组，串励时粗而少，并励时细而多 |
+| armature winding | n.phr. | 电枢绕组 | 旋转电枢上的绕组，与励磁绕组成串并联关系 |
+| starting torque | n.phr. | 起动转矩 | 起动瞬间产生的转矩，是串励电动机的主要优点 |
+| cumulative compound | n.phr. | 积复励 | 串励绕组助长并励绕组磁场的复励接法 |
+| differential compound | n.phr. | 差复励 | 串励绕组抵消并励绕组磁场的复励接法 |
+| flux | n. | 磁通 | 磁场中穿过给定面积的磁力线总量，差复励时随负载减少 |
+| load | n. | 负载 | 电动机拖动的机械阻力，决定了电动机的转速与电流 |
+| heavy wire | n.phr. | 粗导线 | 串励励磁绕组所用线径较大的导线，可承载大电流 |
+| constant speed | n.phr. | 恒速 | 并励与差复励电动机在负载变化时接近不变的转速 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① differ in + 介词 + which 引导的定语从句
+**原句**：They differ largely in the method in which their field and armature coils are connected.
+**拆解**：主语 They，谓语 differ，副词 largely 修饰；in the method 为状语，in which 引导定语从句修饰 the method，从句为被动结构 their field and armature coils are connected。
+**要点**：differ in 后接抽象的方面（在某方面不同），differ from 后接比较对象（与……不同）。in which 相当于 where 或 the way in which，此处指“连接的方式”，不能换成 in that（那是“因为/在……方面”的连词）。largely 意为“主要地”，修饰 differ 而不是修饰整个句子。
+### ② because of + 名词短语 + be able to + 介词后动名词
+**原句**：Because of the low resistance in the windings, the series motor is able to draw a large current in starting.
+**拆解**：Because of the low resistance in the windings 为原因状语（介词短语）；主句 the series motor is able to draw a large current；in starting 为介词短语表时间，动名词 starting 作介词宾语。
+**要点**：because of 后接名词性成分，与 because 引导从句形成对照。be able to 强调能力，此处相当于 is capable of drawing。in starting 表示“在起动过程中”，介词 in 后必须用动名词，不能写 in start；也可说 at starting，但 in doing 更强调过程。
+### ③ 插入介词短语 + 非限定性定语从句
+**原句**：This starting current, in passing through both the field and armature windings, produces a high starting torque, which is the series motor’s principal advantage.
+**拆解**：主语 This starting current，中间插入 in passing through both the field and armature windings（介词 + 动名词短语作方式状语）；谓语 produces，宾语 a high starting torque；逗号后 which 引导非限定性定语从句，先行词为整个“产生高起动转矩”这一事实。
+**要点**：插入语前后用逗号与主句隔开，去掉后 main clause 仍完整。in passing through 中 passing through 是动名词，through 表示“流经”。非限定性 which 从句用逗号隔开，不能用 that；此处 which 指代前面的整句内容，翻译时常译作“而这正是……”。principal advantage 中 principal 是“主要的”。
+### ④ be accompanied by 被动结构
+**原句**：Any change in load is accompanied by a substantial change in speed.
+**拆解**：主语 Any change in load（in load 为后置定语），谓语 is accompanied by 为被动结构，宾语 a substantial change in speed。
+**要点**：be accompanied by 意为“伴随着”，主语是受影响的一方，by 后接伴随的结果；不能写成 Any change in load accompanies by。此处 change in load 与 change in speed 都用 in，表示“在……方面的变化”。substantial 意为“显著的”，不要按字面译成“实质的”。
+### ⑤ such … that 引导结果从句
+**原句**：If the load is removed entirely, the motor may operate at such a high speed that the armature falls apart.
+**拆解**：If 引导条件从句（被动语态 the load is removed，entirely 作状语）；主句 the motor may operate at such a high speed，that 引导结果状语从句 the armature falls apart，与 such 呼应。
+**要点**：such + a/an + 形容词 + 名词 + that … 与 so + 形容词/副词 + that … 的分工：有名词时用 such，只有形容词或副词时用 so。may 表示“可能”，预示危险后果。fall apart 意为“散架、解体”，是固定短语，不能按字面译作“掉落分开”。
+### ⑥ 否定副词置于句首的全倒装
+**原句**：Rarely is this type of motor used in aircraft systems.
+**拆解**：Rarely 为否定意义的副词置于句首，引起全倒装：谓语 is 提前至主语 this type of motor 之前，过去分词 used 与 is 构成被动，in aircraft systems 为地点状语。
+**要点**：rarely、seldom、hardly、never、little 等否定副词置句首时必须倒装，正常语序是 This type of motor is rarely used in aircraft systems。倒装时只把助动词或 be 动词提到主语前，实义动词部分保持不动。in aircraft systems 表示范围，译作“在飞机系统中”。

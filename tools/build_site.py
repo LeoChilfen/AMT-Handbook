@@ -380,13 +380,17 @@ def main():
                     chapter = next((it for it in manifest
                                     if it["slug"].startswith(chapter_slug + "a")
                                     or it["slug"].startswith(chapter_slug + "b")), None)
+                title_en = chapter["titleEn"] if chapter else "Ch " + num
+                if chapter and chapter["slug"] != chapter_slug:
+                    # split chapter (ch12 -> ch12a): the card folder spans both parts
+                    title_en = re.sub(r"\s*\(Part\s*\d+\)\s*$", "", title_en)
                 card_sets.append({
                     "chapter": chapter_slug,
                     "book": book_slug,
                     "bookEn": book_en,
                     "bookZh": book_zh,
                     "num": num,
-                    "titleEn": chapter["titleEn"] if chapter else "Ch " + num,
+                    "titleEn": title_en,
                     "count": len(cards),
                     "cards": cards,
                 })
