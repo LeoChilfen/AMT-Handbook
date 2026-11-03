@@ -14,9 +14,7 @@ From the scientific discipline of physics, the fundamental expression for power 
 
 E tP = Where P = power measured in watts (W)
 
-E = energy (E is a script E) measured in joules (J)
-
-and t = time measured in seconds (s)
+E = energy (E is a script E) measured in joules (J) and t = time measured in seconds (s)
 
 The unit measurement for power is the watt (W), which refers to a rate of energy conversion of 1 joule (J)/second. Therefore, the number of joules consumed in 1 second is equal to the number of watts. A simple example is given below.
 
@@ -106,9 +104,7 @@ The schematic depiction of a conductor is simple enough. This is generally shown
 
 There are two methods employed to show wire crossovers and wire connections. The two methods of drawing wires that cross are shown: version A and version B. The two methods for drawing wire that connect are shown: version A and version B. If version A is used to depict crossovers, then version A for wire connections is used. The same can then be said about the use of version B methods. The technician encounters both in common use.
 
-A few examples of the more common wire types that the technician encounters in schematics are shown. They are the single wire, single shielded, shielded twisted pair or double, and the shielded triple. This is not an exhaustive list of wire types but a fair representation of how they are depicted. The wires are also shown having a wire number. These are shown for the sake of illustration and vary from one
-
-installation agency to another. For further understanding of a wire numbering system, consult the appropriate wiring guide published by the agency that drew the prints. Regardless of the specifics of the wire numbering system, organizations that exercise professional wiring practices have the installed wire marked in some manner. This is an aid to the technician who has to troubleshoot or modify the system at a later date.
+A few examples of the more common wire types that the technician encounters in schematics are shown. They are the single wire, single shielded, shielded twisted pair or double, and the shielded triple. This is not an exhaustive list of wire types but a fair representation of how they are depicted. The wires are also shown having a wire number. These are shown for the sake of illustration and vary from one installation agency to another. For further understanding of a wire numbering system, consult the appropriate wiring guide published by the agency that drew the prints. Regardless of the specifics of the wire numbering system, organizations that exercise professional wiring practices have the installed wire marked in some manner. This is an aid to the technician who has to troubleshoot or modify the system at a later date.
 
 ## 2. 中文翻译
 
@@ -122,9 +118,7 @@ installation agency to another. For further understanding of a wire numbering sy
 
 P = E/t。式中 P = 功率，单位为瓦特（W）
 
-E = 能量（E 为手写体 E），单位为焦耳（J）
-
-t = 时间，单位为秒（s）
+E = 能量（E 为手写体 E），单位为焦耳（J）t = 时间，单位为秒（s）
 
 功率的计量单位是瓦特（W），指每秒转换 1 焦耳（J）的能量转换速率。因此，1 秒内消耗的焦耳数等于瓦特数。下面给出一个简单的例子。
 
@@ -214,9 +208,7 @@ PT = P1 + P2 + P3 + ……PN
 
 表示导线交叉与导线连接有两种方法。两种画交叉导线的方法都会给出：A 版和 B 版；两种画连接导线的方法也会给出：A 版和 B 版。若用 A 版表示交叉，则连接导线也用 A 版；B 版方法也是如此。技术人员在实际工作中两种都会遇到。
 
-下面给出技术人员在原理图中遇到的几种较常见的导线类型示例。它们是单线、单屏蔽线、屏蔽双绞线或双屏蔽线，以及屏蔽三线。这并非导线类型的完整清单，而是对其画法的合理展示。图中还显示了导线上的导线编号。这些编号只是为了示意，不同
-
-安装机构之间也会有所不同。有关导线编号体系的进一步说明，请查阅绘制该图样的机构发布的相应布线指南。无论导线编号体系的具体规定如何，采用专业布线规范的组织都会以某种方式标记已安装的导线，这有助于技术人员日后对该系统进行排故或改装。
+下面给出技术人员在原理图中遇到的几种较常见的导线类型示例。它们是单线、单屏蔽线、屏蔽双绞线或双屏蔽线，以及屏蔽三线。这并非导线类型的完整清单，而是对其画法的合理展示。图中还显示了导线上的导线编号。这些编号只是为了示意，不同安装机构之间也会有所不同。有关导线编号体系的进一步说明，请查阅绘制该图样的机构发布的相应布线指南。无论导线编号体系的具体规定如何，采用专业布线规范的组织都会以某种方式标记已安装的导线，这有助于技术人员日后对该系统进行排故或改装。
 
 ## 3. 专业词汇
 

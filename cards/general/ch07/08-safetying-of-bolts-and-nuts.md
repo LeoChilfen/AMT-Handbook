@@ -4,13 +4,13 @@
 
 ## 1. 原文
 
-It is very important that all bolts or nuts, except the self- locking type, be safetied after installation. This prevents them from loosening in flight due to vibration. Methods of safetying are discussed later in this chapter.
+It is very important that all bolts or nuts, except the self-locking type, be safetied after installation. This prevents them from loosening in flight due to vibration. Methods of safetying are discussed later in this chapter.
 
 ### Repair of Damaged Internal Threads
 
 Installation or replacement of bolts is simple when compared to the installation or replacement of studs. Bolt heads and nuts are cut in the open, whereas studs are installed into internal threads in a casting or built-up assembly. Damaged threads on bolts or nuts can be seen and only require replacement of the defective part. If internal threads are damaged, two alternatives are apparent: the part may be replaced or the threads repaired or replaced. Correction of the thread problem is usually cheaper and more convenient. Two methods of repairing are by replacement bushings or helicoils.
 
-Replacement Bushings Bushings are usually special material (steel or brass spark plug bushings into aluminum cylinder heads). A material that resists wear is used where removal and replacement is frequent. The external threads on the bushing are usually coarse. The bushing is installed, a thread lock compound may or may not be used, and staked to prevent loosening. Many bushings have left-hand threads external and right- hand threads internal. With this installation, removal of the bolt or stud (right-hand threads) tends to tighten the bushing.
+Replacement Bushings Bushings are usually special material (steel or brass spark plug bushings into aluminum cylinder heads). A material that resists wear is used where removal and replacement is frequent. The external threads on the bushing are usually coarse. The bushing is installed, a thread lock compound may or may not be used, and staked to prevent loosening. Many bushings have left-hand threads external and right-hand threads internal. With this installation, removal of the bolt or stud (right-hand threads) tends to tighten the bushing.
 
 Bushings for common installations, such as spark plugs, may be up to 0.040 oversize (in increments of 0.005). Original installation and overhaul shop replacements are shrunk fit: a heated cylinder head and a frozen bushing.
 

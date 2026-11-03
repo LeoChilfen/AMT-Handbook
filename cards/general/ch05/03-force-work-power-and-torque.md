@@ -1,7 +1,3 @@
-# Force, Work, Power, & Torque
-
-> 通用 Ch 05 · Force, Work, Power, & Torque · 原文 PDF 第 154 页
-
 ## 1. 原文
 
 Before the concept of work, power, or torque can be discussed, we need to understand what force means. According to the dictionary, force is the intensity of an impetus, or the intensity of an input. For example, if we apply a force to an object, the tendency will be for the object to move. Another way to look at it is that for work, power, or torque to exist, there must be a force that initiates the process.
@@ -48,9 +44,9 @@ Example: An aircraft with a gross weight of 79,600 lb is towed over a concrete r
 
 F = mN = 0.02 mu × 79,600 lb = 1,592 lb
 
-The concept of power involves the previously discussed topic of work, which was a force being applied over a measured distance, but adds one more consideration—time. In other words, how long it takes to accomplish the work. If someone asked the average person if they could lift one million pounds 5 feet off the ground, the answer most assuredly would be no. This person would probably assume that they are to lift it all at once. What if they are given 365 days to lift it, and could lift small amounts of weight at a time? The work involved would be the same, regardless of how long it took to lift the weight, but the power required is different. If the weight is to be lifted in a shorter period of time, it will take more power. The formula for power is as follows: Power = Force × distance ÷ time The units for power will be foot-pounds per minute, foot- pounds per second, inch-pounds per minute or second, and possibly mile-pounds per hour. The units depend on how distance and time are measured.
+The concept of power involves the previously discussed topic of work, which was a force being applied over a measured distance, but adds one more consideration—time. In other words, how long it takes to accomplish the work. If someone asked the average person if they could lift one million pounds 5 feet off the ground, the answer most assuredly would be no. This person would probably assume that they are to lift it all at once. What if they are given 365 days to lift it, and could lift small amounts of weight at a time? The work involved would be the same, regardless of how long it took to lift the weight, but the power required is different. If the weight is to be lifted in a shorter period of time, it will take more power. The formula for power is as follows: Power = Force × distance ÷ time The units for power will be foot-pounds per minute, foot-pounds per second, inch-pounds per minute or second, and possibly mile-pounds per hour. The units depend on how distance and time are measured.
 
-Many years ago, there was a desire to compare the power of the newly evolving steam engine to that of horses. People wanted to know how many horses the steam engine was equivalent to. The value we know currently as one horsepower (hp) was developed, and it is equal to 550 foot- pounds per second (ft-lb/s) because of this. It was found that the average horse could lift a weight of 550 lb, one foot off the ground, in one second. The values we use today, in order to convert power to horsepower, are as follows:
+Many years ago, there was a desire to compare the power of the newly evolving steam engine to that of horses. People wanted to know how many horses the steam engine was equivalent to. The value we know currently as one horsepower (hp) was developed, and it is equal to 550 foot-pounds per second (ft-lb/s) because of this. It was found that the average horse could lift a weight of 550 lb, one foot off the ground, in one second. The values we use today, in order to convert power to horsepower, are as follows:
 
 1 hp = 550 ft-lb/s 1 hp = 33,000 ft-lb/min.
 

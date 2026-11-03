@@ -20,7 +20,7 @@ Use the standard torque table as a guide in tightening nuts, studs, bolts, and s
 
 1. To obtain values in foot-pounds, divide inch-pounds by 12.
 
-2. Do not lubricate nuts or bolts except for corrosion- resistant steel parts or where specifically instructed to do so.
+2. Do not lubricate nuts or bolts except for corrosion-resistant steel parts or where specifically instructed to do so.
 
 3. Always tighten by rotating the nut first if possible. When space considerations make it necessary to tighten by rotating the bolt head, approach the high side of the indicated torque range. Do not exceed the maximum allowable torque value.
 

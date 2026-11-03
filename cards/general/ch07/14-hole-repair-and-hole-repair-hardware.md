@@ -52,7 +52,7 @@ The thimble, bushing, and shackle fittings may be used in place of some types of
 
 Turnbuckles A turnbuckle assembly is a mechanical screw device consisting of two threaded terminals and a threaded barrel.
 
-Turnbuckles are fitted in the cable assembly for making minor adjustments in cable length and for adjusting cable tension. One of the terminals has right-hand threads and the other has left-hand threads. The barrel has matching right- and left-hand internal threads. The end of the barrel with the left-hand threads can usually be identified by a groove or knurl around that end of the barrel.
+Turnbuckles are fitted in the cable assembly for making minor adjustments in cable length and for adjusting cable tension. One of the terminals has right-hand threads and the other has left-hand threads. The barrel has matching right-hand and left-hand internal threads. The end of the barrel with the left-hand threads can usually be identified by a groove or knurl around that end of the barrel.
 
 When installing a turnbuckle in a control system, it is necessary to screw both terminals an equal number of turns into the barrel. It is also essential that all turnbuckle terminals be screwed into the barrel until not more than three threads are exposed on either side of the turnbuckle barrel.
 

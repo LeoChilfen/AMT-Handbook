@@ -14,9 +14,7 @@ For example, if two pith balls are suspended and each ball is touched with the c
 
 Although most objects become charged with static electricity by means of friction, a charged substance can also influence objects near it by contact. If a positively-charged rod touches an uncharged metal bar, it draws electrons from the uncharged bar to the point of contact. Some electrons enter the rod, leaving the metal bar with a deficiency of electrons (positively charged) and making the rod less positive than it was or, perhaps, even neutralizing its charge completely.
 
-A positively-charged rod is brought near, but does not touch, an uncharged metal bar. Electrons in the metal bar are attracted to the end of the bar nearest the positively- charged rod, leaving a deficiency of electrons at the opposite end of the bar. If this positively-charged end is touched by a neutral object, electrons will flow into the metal bar and
-
-neutralize the charge. The metal bar is left with an overall excess of electrons.
+A positively-charged rod is brought near, but does not touch, an uncharged metal bar. Electrons in the metal bar are attracted to the end of the bar nearest the positively charged rod, leaving a deficiency of electrons at the opposite end of the bar. If this positively-charged end is touched by a neutral object, electrons will flow into the metal bar and neutralize the charge. The metal bar is left with an overall excess of electrons.
 
 ### Electrostatic Field
 
@@ -36,7 +34,7 @@ The distribution of the charge on an irregularly-shaped object differs from that
 
 ### Electrostatic Discharge (ESD) Considerations
 
-One of the most frequent causes of damage to a solid- state component or integrated circuits is the electrostatic discharge (ESD) from the human body when one of these devices is handled. Careless handling of line replaceable units (LRUs), circuit cards, and discrete components can cause unnecessarily time consuming and expensive repairs. This damage can occur if a technician touches the mating pins for a card or box. Other sources for ESD can be the top of a toolbox that is covered with a carpet. Damage can be avoided by discharging the static electricity from your body by touching the chassis of the removed box, by wearing a grounding wrist strap, and exercising good professional handling of the components in the aircraft. This can include placing protective caps over open connectors and not placing an ESD-sensitive component in an environment that causes damage. Parts that are ESD sensitive are typically shipped in bags specially designed to protect components from electrostatic damage.
+One of the most frequent causes of damage to a solid-state component or integrated circuits is the electrostatic discharge (ESD) from the human body when one of these devices is handled. Careless handling of line replaceable units (LRUs), circuit cards, and discrete components can cause unnecessarily time consuming and expensive repairs. This damage can occur if a technician touches the mating pins for a card or box. Other sources for ESD can be the top of a toolbox that is covered with a carpet. Damage can be avoided by discharging the static electricity from your body by touching the chassis of the removed box, by wearing a grounding wrist strap, and exercising good professional handling of the components in the aircraft. This can include placing protective caps over open connectors and not placing an ESD-sensitive component in an environment that causes damage. Parts that are ESD sensitive are typically shipped in bags specially designed to protect components from electrostatic damage.
 
 Other precautions that should be taken with working with electronic components are:
 
@@ -66,9 +64,7 @@ Other precautions that should be taken with working with electronic components a
 
 尽管大多数物体是通过摩擦带上静电的，带电物质也能通过接触影响附近的物体。如果带正电的棒接触一根不带电的金属棒，它会把电子从不带电的金属棒吸引到接触点。部分电子进入棒中，使金属棒缺少电子（带正电），并使棒本身的正电性比原来减弱，甚至可能完全中和其电荷。
 
-一根带正电的棒被移近但不接触一根不带电的金属棒。金属棒中的电子被吸引到靠近带正电棒的一端，使棒的另一端缺少电子。如果用中性物体接触带正电的这一端，电子就会流入金属棒并
-
-中和电荷。金属棒最终整体上带有过剩的电子。
+一根带正电的棒被移近但不接触一根不带电的金属棒。金属棒中的电子被吸引到靠近带正电棒的一端，使棒的另一端缺少电子。如果用中性物体接触带正电的这一端，电子就会流入金属棒并中和电荷。金属棒最终整体上带有过剩的电子。
 
 ### 静电场
 

@@ -4,9 +4,9 @@
 
 ## 1. 原文
 
-Aircraft nuts are made in a variety of shapes and sizes. They are made of cadmium-plated carbon steel, stainless steel, or anodized 2024T aluminum alloy and may be obtained with either right- or left-hand threads. No identifying marking or lettering appears on nuts. Only the characteristic metallic luster or color of the aluminum, brass, or the insert can identify them when the nut is of the self-locking type. They can be further identified by their construction.
+Aircraft nuts are made in a variety of shapes and sizes. They are made of cadmium-plated carbon steel, stainless steel, or anodized 2024T aluminum alloy and may be obtained with either right-hand or left-hand threads. No identifying marking or lettering appears on nuts. Only the characteristic metallic luster or color of the aluminum, brass, or the insert can identify them when the nut is of the self-locking type. They can be further identified by their construction.
 
-Aircraft nuts can be divided into two general groups: non- self-locking and self-locking nuts. Non-self-locking nuts are those that must be safetied by external locking devices, such as cotter pins, safety wire, or locknuts. Self-locking nuts contain the locking feature as an integral part.
+Aircraft nuts can be divided into two general groups: non-self-locking and self-locking nuts. Non-self-locking nuts are those that must be safetied by external locking devices, such as cotter pins, safety wire, or locknuts. Self-locking nuts contain the locking feature as an integral part.
 
 ### Non-Self-Locking Nuts
 
@@ -17,8 +17,6 @@ LC Lockbolt collar C Material C = 24ST aluminum alloy (green color). Use with he
 F = 61ST aluminum alloy (plain color). Use with 75ST aluminum alloy lockbolts only.
 
 R = mild steel (cadmium plated). Use with heat-treated alloy steel lockbolts for high temperature applications only.
-
-Diameter of a pin in 32nds of an inch C Lockbolt collar LC C C ALSF Head type ASCT509 = close tolerance AN-509 C-sink head ALSF = flathead type ALS509 = standard AN-509 C-sink head ALS426 = standard AN-426 C-sink head Pin materials E = 75S-T6 aluminum alloy T = heat-treated alloy steel Body diameter in 32nds of an inch Grip length in 16ths of an inch E 8 8 Stump-type lockbolt ALSF E 8 8 ALPP H T Head type ACT509 = close tolerance AN-509 C-sink head ALPP = pan head ALPB = brazier head ALP509 = standard AN-509 C-sink head ALP426 = standard AN-426 C-sink head Class fit H = hole filling (interference fit)
 
 N = non-hole filling (clearance fit)
 
@@ -36,7 +34,7 @@ The wing nut, AN350, is intended for use where the desired tightness can be obta
 
 ### Self-Locking Nuts
 
-As their name implies, self-locking nuts need no auxiliary means of safetying but have a safetying feature included as an integral part of their construction. Many types of self- locking nuts have been designed and their use has become quite widespread. Common applications are:
+As their name implies, self-locking nuts need no auxiliary means of safetying but have a safetying feature included as an integral part of their construction. Many types of self-locking nuts have been designed and their use has become quite widespread. Common applications are:
 
 • At tachment of antifriction bearings and control pulleys
 
@@ -66,7 +64,7 @@ Normally, elastic stop nuts can be used many times with complete safety and with
 
 After the nut has been tightened, make sure the rounded or Boots aircraft nut Flexloc nut Fiber locknut Elastic stop nut Elastic anchor nut Tightened nut Untightened nut Nut case Threaded nut core Locking shoulder Keyway chamfered end of the bolts, studs, or screws extends at least the full round or chamfer through the nut. Flat end bolts, studs, or screws should extend at least 1⁄32 inch through the nut. Bolts of 5⁄16-inch diameter and over with cotter pin holes may be used with self-locking nuts, but only if free from burrs around the holes. Bolts with damaged threads and rough ends are not acceptable. Do not tap the fiber locking insert. The self-locking action of the elastic stop nut is the result of having the bolt threads impress themselves into the untapped fiber.
 
-Do not install elastic stop nuts in places where the temperature is higher than 250 °F, because the effectiveness of the self- locking action is reduced beyond this point. Self-locking nuts may be used on aircraft engines and accessories when the engine manufacturer specifies their use.
+Do not install elastic stop nuts in places where the temperature is higher than 250 °F, because the effectiveness of the self-locking action is reduced beyond this point. Self-locking nuts may be used on aircraft engines and accessories when the engine manufacturer specifies their use.
 
 Self-locking nut bases are made in several forms and materials for riveting and welding to aircraft structure or parts. Certain applications require the installation of self-locking nuts in channels, an arrangement that permits the attachment of many nuts with only a few rivets. These channels are track-like bases with regularly spaced nuts, which are either removable or non-removable. The removable type carries a floating nut that can be snapped in or out of the channel, thus making possible the easy removal of damaged nuts. Nuts, such as the clinch-type and spline-type, depend on friction for their anchorage and are not acceptable for use in aircraft structures.
 
@@ -88,7 +86,7 @@ Part numbers designate the type of nut. The common types and their respective pa
 
 • Light hex, AN340 and AN345
 
-• Castellated shear, AN320 The patented self-locking types are assigned part numbers ranging from MS20363 through MS20367. The Boots, the Flexloc, the fiber locknut, the elastic stop nut, and the self- locking nut belong to this group. Part number AN350 is assigned to the wing nut.
+• Castellated shear, AN320 The patented self-locking types are assigned part numbers ranging from MS20363 through MS20367. The Boots, the Flexloc, the fiber locknut, the elastic stop nut, and the self-locking nut belong to this group. Part number AN350 is assigned to the wing nut.
 
 Letters and digits following the part number indicate such NutFiber collar items as material, size, threads per inch, and whether the thread is right or left hand. The letter “B” following the part number indicates the nut material to be brass, a “D” indicates 2017-T aluminum alloy, a “DD” indicates 2024-T aluminum alloy, a “C” indicates stainless steel, and a dash in place of a letter indicates cadmium-plated carbon steel.
 
@@ -123,8 +121,6 @@ LC 锁栓套环 C 材料 C = 24ST 铝合金（绿色）。仅与热处理合金�
 F = 61ST 铝合金（本色）。仅与 75ST 铝合金锁栓配合使用。
 
 R = 低碳钢（镀镉）。仅与热处理合金钢锁栓配合，用于高温场合。
-
-（原文此处为表格碎片，无对应正文）
 
 N = 非填孔（间隙配合）
 

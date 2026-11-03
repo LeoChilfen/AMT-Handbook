@@ -1,7 +1,3 @@
-# Methods of Illustration
-
-> 通用 Ch 04 · Methods of Illustration · 原文 PDF 第 133 页
-
 ## 1. 原文
 
 ### Applied Geometry
@@ -34,7 +30,7 @@ Detail View A detail view shows only a part of the object, but in greater detail
 
 A pictorial drawing is like a photograph. It shows an object as it appears to the eye, but it is not satisfactory for showing complex forms and shapes. Pictorial drawings are useful in showing the general appearance of an object and are used extensively with orthographic projection drawings. Pictorial drawings are used in Aircraft Maintenance Manuals (AMM), Structural Repair Manuals (SRM), and Illustrated Parts Catalogues (IPC). Four types of pictorial drawings used frequently by aircraft engineers and technicians are: perspective, isometric, oblique, and exploded view.
 
-Perspective Drawings A perspective view shows an object as it appears to an observer. It most closely resembles the way an object would look in a photograph. Because of perspective, some of the lines of an object are not parallel and therefore the actual angles and dimensions are not accurate. Isometric Drawings An isometric view uses a combination of the views of an orthographic projection and tilts the object forward so that portions of all three views can be seen in one view. This provides the observer with a three- dimensional view of the object. Unlike a perspective drawing where lines converge and dimensions are not true, lines in an isometric drawing are parallel and dimensioned as they are in an orthographic projection.
+Perspective Drawings A perspective view shows an object as it appears to an observer. It most closely resembles the way an object would look in a photograph. Because of perspective, some of the lines of an object are not parallel and therefore the actual angles and dimensions are not accurate. Isometric Drawings An isometric view uses a combination of the views of an orthographic projection and tilts the object forward so that portions of all three views can be seen in one view. This provides the observer with a three-dimensional view of the object. Unlike a perspective drawing where lines converge and dimensions are not true, lines in an isometric drawing are parallel and dimensioned as they are in an orthographic projection.
 
 Oblique Drawings An oblique view is like an isometric view, except for one distinct difference. In an oblique drawing, two of the three drawing axes are always at right angles to each other.
 
@@ -48,19 +44,17 @@ Installation Diagrams The illustration is an example of an installation diagram.
 
 Schematic Diagrams Schematic diagrams do not indicate the location of the individual components in the aircraft nor do they show the actual size and shape of the components, but rather locate components with respect to each other within the system. Schematics show the principle of operation of an aircraft system and are often used for troubleshooting and training purposes.
 
-The illustration shows a schematic diagram of an aircraft air conditioning system. High-speed bleed air from the engine is A B C OBJECT ROTATED FLAT TOP FRONTLEFT SIDE RIGHT SIDE REAR BOTTOM the lines that lead into and out of the unit. Schematic diagrams and installation diagrams are used extensively in aircraft manuals.
+The illustration shows a schematic diagram of an aircraft air conditioning system. High-speed bleed air from the engine is combined with cold air in the mixing chamber and distributed via a manifold to various parts of the aircraft. Note that each line is coded for ease of reading and tracing the flow. Each component is identified by name, and its location within the system can be ascertained by noting the lines that lead into and out of the unit. Schematic diagrams and installation diagrams are used extensively in aircraft manuals.
 
-Block Diagrams Block diagrams are used to show a simplified relationship of a combined with cold air in the mixing chamber and distributed via a manifold to various parts of the aircraft.
+Block Diagrams Block diagrams are used to show a simplified relationship of a more complex system of components. Individual components are drawn as a rectangle (block) with lines connecting it to other components (blocks) that it interfaces with during operation.
 
-Note that each line is coded for ease of reading and tracing the flow. Each component is identified by name, and its location within the system can be ascertained by noting E E VIEW C 22 REF 8 REF 3 REF REF 9 23 5 2 3 23 6 REF 5 D C B AA B C D 12345678 8 7 6 5 4 3 2 1 REVISIONS FOR REVISION HISTORY SEE SHEET 1 SHEET 4 OF 5 SWorks Drawing No.:SIZE FORM 86359 REV - - REV technicians involved with electrical repairs and installations, a thorough knowledge of wiring diagrams and electrical schematics is essential.
+Wiring Diagrams Wiring diagrams show the electrical wiring and circuitry, coded for identification, of all the electrical appliances and devices used on aircraft. These diagrams, even for relatively simple circuits, can be quite complicated. For technicians involved with electrical repairs and installations, a thorough knowledge of wiring diagrams and electrical schematics is essential.
 
-Flowcharts are used to illustrate a sequence or flow of events. There are two types of flow charts most frequently more complex system of components. Individual components are drawn as a rectangle (block) with lines connecting it to other components (blocks) that it interfaces with during operation. Wiring Diagrams Wiring diagrams show the electrical wiring and circuitry, coded for identification, of all the electrical appliances and devices used on aircraft. These diagrams, even for relatively simple circuits, can be quite complicated. For A B CPERSPECTIVE ISOMETRIC OBLIQUE 5 3 6 6 5 3 D C AA B C D 12345678 8 7 6 5 4 3 2 1 TITLE:
+Flowcharts are used to illustrate a sequence or flow of events. There are two types of flow charts most frequently used in the aviation industry: troubleshooting flowcharts and logic flowcharts.
 
-SHEET 1 OF 2 B cwhitworth FORM (SWorks) 86359 REV - used in the aviation industry: troubleshooting flowcharts and logic flowcharts.
+Troubleshooting Flowchart Troubleshooting flowcharts are frequently used for the detection of faulty components. They often consist of a series of yes or no questions. If the answer to a question is yes, one course of action is followed.
 
-Troubleshooting Flowchart Troubleshooting flowcharts are frequently used for the detection of faulty components. They often consist of a series of yes or no questions. If the answer to a question A 1 2 3 4 AL TITUDE TRANSDUCER (REF)
-
-LEGEND 1. Screw 2. Cable Connector 3. Altitude/Vertical Speed Selector 4. Flight Guidance Program/Computer FWD Serials 1005 thru 1336 and 1337 and subs w/o PFD is yes, one course of action is followed. If the answer is no, a different course of action is followed. In this simple manner, a logical solution to a problem may be achieved. The illustration shows a flow chart to determine the repair options for a composite structure.
+If the answer is no, a different course of action is followed. In this simple manner, a logical solution to a problem may be achieved. The illustration shows a flow chart to determine the repair options for a composite structure.
 
 Logic Flowchart Another type of flowchart, developed specifically for analysis of digitally-controlled components and systems, is the logic flowchart. A logic flowchart uses standardized symbols to indicate specific types of logic gates and their relationship to other digital devices in a system. Since digital systems make use of binary mathematics consisting of 1s and 0s, voltage or no voltage, a light pulse or no light pulse, and so forth, logic flowcharts consist of individual components that take an input and provide an output that is either the same as the input or opposite. By analyzing the input or multiple inputs, it is possible to determine the digital output or outputs.
 
@@ -110,19 +104,17 @@ Logic Flowchart Another type of flowchart, developed specifically for analysis o
 
 原理图 原理图既不标出各个部件在飞机上的位置，也不显示部件的实际尺寸和形状，而是确定各部件在系统内彼此的相对位置。原理图显示飞机系统的工作原理，常用于排故和培训。
 
-飞机空调系统原理图见另图。来自发动机的高速引气在混合室中与冷空气混合，再经集气管分配到飞机的各个部分。图中每条管路都做了编码，以便阅读和追踪气流；每个部件都标有名称，其在系统中的位置可通过查看进出该部件的管路来确定。（原文此段顺序被打乱，并夹入图纸标注数字碎片。）原理图和安装图在飞机手册中使用得十分广泛。
+飞机空调系统原理图见另图。来自发动机的高速引气在混合室中与冷空气混合，再经集气管分配到飞机的各个部分。图中每条管路都做了编码，以便阅读和追踪气流；每个部件都标有名称，其在系统中的位置可通过查看进出该部件的管路来确定。原理图和安装图在飞机手册中使用得十分广泛。
 
-方框图用于显示由众多部件组成的较复杂系统的简化关系。各部件画成矩形（方框），并用线条把它与运行中与之交界的其他部件（方框）连接起来。（原文此段文字被截断，后半句混入了其他段落的内容。）
+方框图用于显示由众多部件组成的较复杂系统的简化关系。各部件画成矩形（方框），并用线条把它与运行中与之交界的其他部件（方框）连接起来。
 
-应注意，每条管路都做了编码，以便阅读和追踪流向。每个部件都标有名称，其在系统中的位置可通过查看与之相连的线条来确定。（原文此处夹入图框边框、修订栏和图号等图面文字。）对于从事电气修理和安装的技术人员来说，透彻掌握布线图和电气原理图是必不可少的。
+应注意，每条管路都做了编码，以便阅读和追踪流向。每个部件都标有名称，其在系统中的位置可通过查看与之相连的线条来确定。对于从事电气修理和安装的技术人员来说，透彻掌握布线图和电气原理图是必不可少的。
 
-流程图用于说明事件的顺序或流程。航空业中最常用的流程图有两种：排故流程图和逻辑流程图。布线图显示飞机上所用全部电气器具和装置的接线与电路，并加以编码以便识别。即使电路相对简单，这类图也可能相当复杂。（原文此处夹入图面标注数字和标题栏文字。）
+流程图用于说明事件的顺序或流程。航空业中最常用的流程图有两种：排故流程图和逻辑流程图。布线图显示飞机上所用全部电气器具和装置的接线与电路，并加以编码以便识别。即使电路相对简单，这类图也可能相当复杂。
 
-（原文此处为图框标题栏与图幅编号的文字碎片，与上一段末句相接，无独立正文。）
+排故流程图 排故流程图常用于查找有故障的部件。它通常由一系列「是／否」问题组成。如果一个问题的回答是「是」，就沿一条处置路线走；
 
-排故流程图 排故流程图常用于查找有故障的部件。它通常由一系列「是／否」问题组成。如果一个问题的回答是「是」，就沿一条处置路线走；（原文此处夹入图例标注文字，句子被截断。）
-
-如果回答是「否」，则沿另一条不同的处置路线走。用这种简单的方式，就能求得问题的逻辑解法。某图所示为判断复合材料结构修理方案的流程图。（原文此段夹入图例清单与适用序号等图面文字。）
+如果回答是「否」，则沿另一条不同的处置路线走。用这种简单的方式，就能求得问题的逻辑解法。某图所示为判断复合材料结构修理方案的流程图。
 
 逻辑流程图 另一种流程图是逻辑流程图，专为分析数字控制的部件和系统而开发。逻辑流程图使用标准化符号来表示特定类型的逻辑门及其与系统中其他数字器件的关系。由于数字系统使用由 1 和 0、有电压与无电压、有光脉冲与无光脉冲等构成的二值运算，所以逻辑流程图由这样一些单个部件组成：它们接受输入，并给出与输入相同或相反的输出。通过分析一个输入或多个输入，就可以确定数字输出。
 

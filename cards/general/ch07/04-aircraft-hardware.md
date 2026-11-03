@@ -36,7 +36,7 @@ A Class 4 fit requires a wrench to turn the nut onto a bolt, whereas a Class 1 f
 
 Bolts and nuts are also produced with right-hand and left-hand threads. A right-hand thread tightens when turned clockwise; a left-hand thread tightens when turned counterclockwise.
 
-Aircraft Bolts Aircraft bolts are fabricated from cadmium- or zinc-plated corrosion-resistant steel, un-plated corrosion-resistant steel, or anodized-aluminum alloys. Most bolts used in aircraft structures are either general purpose, AN bolts, NAS internal wrenching or close tolerance bolts, or MS bolts. In certain cases, aircraft manufacturers make bolts of different dimensions or greater strength than the standard types. Such bolts are made for a particular application, and it is of extreme importance to use like bolts in replacement. The letter “S” stamped on the head usually identifies special bolts.
+Aircraft Bolts Aircraft bolts are fabricated from cadmium-plated or zinc-plated corrosion-resistant steel, un-plated corrosion-resistant steel, or anodized-aluminum alloys. Most bolts used in aircraft structures are either general purpose, AN bolts, NAS internal wrenching or close tolerance bolts, or MS bolts. In certain cases, aircraft manufacturers make bolts of different dimensions or greater strength than the standard types. Such bolts are made for a particular application, and it is of extreme importance to use like bolts in replacement. The letter “S” stamped on the head usually identifies special bolts.
 
 AN bolts come in three head styles: hex head, Clevis, and eyebolt. NAS bolts are available in hex head, internal wrenching, and countersunk head styles. MS bolts come in hex head and internal wrenching styles.
 
@@ -54,9 +54,7 @@ EC-776 (clear amber)
 
 MIL-S-4383B 12 parts of EC-807 to 100 parts of EC-801 Use as is Use as is 10 parts of PR-1302HT-A to 100 parts of PR-1302HT 12 parts of PR-727A to 100 parts of PR-727 Use as is Use as is 2–4 hours 8–12 hours Indefinite non-drying 2–4 hours 1½ hours minimum Solvent release, sets up in 2–4 hours 8–12 hours 6 months 6–9 months 6–9 months 6 months 6 months 6–9 months Indefinite in airtight containers 5 days at −20 °F after flash freeze at −65 °F Not applicable Not applicable 5 days at −20 °F after flash freeze at −65 °F 5 days at −20 °F after flash freeze at −65 °F Not applicable Not applicable Faying surfaces, fillet seals, and packing gaps Coating rivet Packing voids up to ¼"
 
-Sealing access door gaskets Potting electrical connections and bulkhead seals Sealing hot air ducts passing through bulkheads Top coating −65 °F to 200 °F −65 °F to 200 °F −40 °F to 200 °F −65 °F to 200 °F −65 °F to 200 °F −60 °F to 200 °F −65 °F to 200 °F EC-807 None None PR-1302HT-A PR-727A None None Sealant Base Accelerator(Catalyst) Mixing Ratioby Weight Application Life (Work) Storage (Shelf) Life After Mixing Storage (Shelf) Life Unmixed TemperatureRange Application and Limitations other sizes in proportion).
-
-Alloy-steel bolts smaller than No. 10-32 and aluminum- alloy bolts smaller than 1⁄4 inch in diameter are not used in primary structures. Aluminum-alloy bolts and nuts are not used where they are repeatedly removed for purposes of maintenance and inspection. Aluminum-alloy nuts may be used with cadmium-plated steel bolts loaded in shear on land airplanes, but are not used on seaplanes due to the increased possibility of dissimilar metal corrosion.
+Alloy-steel bolts smaller than No. 10-32 and aluminum-alloy bolts smaller than 1⁄4 inch in diameter are not used in primary structures. Aluminum-alloy bolts and nuts are not used where they are repeatedly removed for purposes of maintenance and inspection. Aluminum-alloy nuts may be used with cadmium-plated steel bolts loaded in shear on land airplanes, but are not used on seaplanes due to the increased possibility of dissimilar metal corrosion.
 
 The AN-73 drilled head bolt is like the standard hex bolt, but has a deeper head, which is drilled to receive wire for safetying. The AN-3 and the AN-73 series bolts are interchangeable, for all practical purposes, from the standpoint of tension and shear strengths.
 
@@ -122,17 +120,17 @@ Lockbolts Lockbolts are used to attach two materials permanently. They are light
 
 The lockbolt combines the features of a high-strength bolt and rivet, but it has advantages over both. The lockbolt is generally used in wing splice fittings, landing gear fittings, fuel cell fittings, longerons, beams, skin splice plates, and other major structural attachments. It is more easily and quickly installed than the conventional rivets or bolts and eliminates the use of lock washers, cotter pins, and special nuts. Like the rivet, the lockbolt requires a pneumatic hammer or “pull gun” for installation. When installed, it is rigidly and permanently locked in place. Three types of lockbolts are commonly used: the pull type, the stump type, and the blind type.
 
-Pull Type Pull-type lockbolts are used mainly in aircraft primary and secondary structures. They are installed very rapidly and have approximately one-half the weight of equivalent AN steel AIR ASSO CIATES A R E O N M S COO P ER A037 4 AN C SPEC W F O X S Magnetically inspected Special bolt Special bolt Drilled head bolt Special bolt NAS close tolerance bolt Clevis bolt Reworked bolt Low strength material bolt Aluminum alloy (2024) bolt AN standard steel bolt AN standard steel bolt AN standard steel bolt Eyebolt Clevis bolt Countersunk head bolt Internal hex head bolt Standard head bolt Drilled hex head bolt AN standard steel bolt AN standard steel bolt AN standard steel bolt AN standard steel bolt AN standard steel bolt AN standard steel bolt (corrosion resistant)
+Pull Type Pull-type lockbolts are used mainly in aircraft primary and secondary structures. They are installed very rapidly and have approximately one-half the weight of equivalent AN steel.
 
 Orange-dyed magnetically inspected AN bolts and nuts. A special pneumatic “pull gun” is required to install this type of lockbolt. One person can accomplish installation since bucking is not required.
 
-Stump Type Stump-type lockbolts, although they do not have the extended stem with pull grooves, are companion fasteners to pull-type lockbolts. They are used primarily where clearance does not permit installation of the pull-type lockbolt. A standard pneumatic riveting hammer (with a hammer set attached for swaging the collar into the pin locking grooves) and a bucking bar are tools necessary for the installation of stump- type lockbolts.
+Stump Type Stump-type lockbolts, although they do not have the extended stem with pull grooves, are companion fasteners to pull-type lockbolts. They are used primarily where clearance does not permit installation of the pull-type lockbolt. A standard pneumatic riveting hammer (with a hammer set attached for swaging the collar into the pin locking grooves) and a bucking bar are tools necessary for the installation of stump-type lockbolts.
 
 Pull type Stump type Blind type Blind Type Blind-type lockbolts come as complete units or assemblies. They have exceptional strength and sheet pull-together characteristics. Blind lockbolts are used where only one side of the work is accessible and, generally, where it is difficult to drive a conventional rivet. This type of lockbolt is installed in the same manner as the pull-type lockbolt.
 
-Common Features Common features of the three types of lockbolts are the annular locking grooves on the pin and the locking collar, which is swaged into the pin’s lock grooves to lock the pin in tension. The pins of the pull- and blind-type lockbolts are extended for pull installation. The extension is provided with pulling grooves and a tension breakoff groove.
+Common Features Common features of the three types of lockbolts are the annular locking grooves on the pin and the locking collar, which is swaged into the pin’s lock grooves to lock the pin in tension. The pins of the pull-type and blind-type lockbolts are extended for pull installation. The extension is provided with pulling grooves and a tension breakoff groove.
 
-Composition The pins of pull- and stump-type lockbolts are made of heat- treated alloy steel or high-strength aluminum alloy. Companion collars are made of aluminum alloy or mild steel. The blind lockbolt consists of a heat-treated alloy steel pin, blind sleeve and filler sleeve, mild steel collar, and carbon steel washer.
+Composition The pins of pull-type and stump-type lockbolts are made of heat-treated alloy steel or high-strength aluminum alloy. Companion collars are made of aluminum alloy or mild steel. The blind lockbolt consists of a heat-treated alloy steel pin, blind sleeve and filler sleeve, mild steel collar, and carbon steel washer.
 
 Substitution Alloy-steel lockbolts may be used to replace steel high-shear rivets, solid steel rivets, or AN bolts of the same diameter and head type. Aluminum-alloy lockbolts may be used to replace solid aluminum-alloy rivets of the same diameter and head type. Steel and aluminum-alloy lockbolts may also be used to replace steel and 2024T aluminum-alloy bolts, respectively, of the same diameter. Blind lockbolts may be used to replace solid aluminum-alloy rivets, stainless steel rivets, or all blind rivets of the same diameter.
 
@@ -193,8 +191,6 @@ MIL-P-20628 PR-1302HT（红色）
 MIL-S-8784 PR-727 灌封胶 MIL-S-8516B HT-3（灰绿色）
 
 EC-776（透明琥珀色）
-
-（原文此处为表格碎片，无对应正文）
 
 （原文此处为表格碎片，无对应正文）
 

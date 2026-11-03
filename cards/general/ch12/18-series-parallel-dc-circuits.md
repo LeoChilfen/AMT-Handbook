@@ -18,7 +18,7 @@ The first step is to determine the current at junction A, leading into the paral
 
 RT = R1 + R23 Where R23 = ( ) Parallel network R2 + R3 R2R3 Find REQ R23 = 2k Ω + 3k Ω 2k Ω 3k Ω Solve for REQ R23 = 5k Ω 6,000k Ω R23 = 1.2k Ω Solve for RT RT = 1k Ω + 1.2k Ω RT = 2.2k Ω With the total resistance RT now determined, the total IT can be determined. Using Ohm’s Law:
 
-IT = RT ES Substitute values IT = 2.2k Ω 24 V IT = 10.9 mA The current through the parallel branches of R 2 and R3 can be determined using the current divider rule discussed earlier in this handbook.
+IT = RT ES Substitute values IT = 2.2k Ω 24 VIT = 10.9 mA The current through the parallel branches of R 2 and R3 can be determined using the current divider rule discussed earlier in this handbook.
 
 Recall Parallel Branch Resistance:
 

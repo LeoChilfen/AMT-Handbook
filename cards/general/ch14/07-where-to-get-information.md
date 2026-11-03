@@ -16,9 +16,9 @@ The subsequent investigation by the National Transportation Safety Board (NTSB) 
 
 Accident Cause crashed due to reversed wiring of the flight controls.
 
-crashed due to insufficient lubrication of the jackscrew assembly. MAINTENANCE JOB CARD WORKNO A26 AD-NOTE 1 OF 2 -400 1 OF 1 97471 FZE 1 ZONE 221-222 SOLID STATE FLIGHT DATA RECORDER (IF APPLICABLE)
+The aircraft crashed due to insufficient lubrication of the jackscrew assembly. MAINTENANCE JOB CARD WORKNO A26 AD-NOTE 1 OF 2 -400 1 OF 1 97471 FZE 1 ZONE 221-222 SOLID STATE FLIGHT DATA RECORDER (IF APPLICABLE)
 
-MS 31-31-00-007-002-500 (AMM 31-31-01)F1 SSFDR DATA COPY NOTE: THIS IS A DUPLICATE INSPECTION!
+MS 31-31-00-007-002-500 (AMM 31-31-01)F1 SSFDR DATA COPY Note: This is a duplicate inspection!
 
 PERFORMANCE AND INSPECTION MUST BE DONE BY TWO PERSONS.
 
@@ -72,7 +72,7 @@ The improper replacement of the forward elevator trim cable and subsequent inade
 
 On September 28, 2007, American Airlines Flight 1400 DC-9 experienced an in-flight engine fire during departure climb from Lambert St. Louis International Airport (STL). During the return to STL, the nose landing gear failed to extend, and the flight crew executed a go-around, during which the crew extended the nose gear using the emergency procedure. The flight crew conducted an emergency landing, and the 2 flight crewmembers, 3 flight attendants, and 138 passengers deplaned on the runway. No occupant injuries were reported, but the airplane sustained substantial damage from the fire.
 
-American Airlines’ maintenance personnel’s use of an inappropriate manual engine-start procedure, which led to the uncom- manded opening of the left engine air turbine starter valve, and a subsequent left engine fire.
+American Airlines’ maintenance personnel’s use of an inappropriate manual engine-start procedure, which led to the uncommanded opening of the left engine air turbine starter valve, and a subsequent left engine fire.
 
 INCIDENT CAUSE INCIDENT CAUSE ACCIDENT CAUSE ACCIDENT CAUSE ACCIDENT CAUSE
 
@@ -90,7 +90,7 @@ INCIDENT CAUSE INCIDENT CAUSE ACCIDENT CAUSE ACCIDENT CAUSE ACCIDENT CAUSE
 
 事故原因 因飞行控制装置接线反接而坠毁。
 
-因起重螺杆组件润滑不足而坠毁。维修工卡 工号 A26 适航指令说明 第 1 页，共 2 页 -400 第 1 页，共 1 页 97471 FZE 1 区域 221-222 固态飞行数据记录器（如适用）
+飞机因起重螺杆组件润滑不足而坠毁。维修工卡 工号 A26 适航指令说明 第 1 页，共 2 页 -400 第 1 页，共 1 页 97471 FZE 1 区域 221-222 固态飞行数据记录器（如适用）
 
 MS 31-31-00-007-002-500（AMM 31-31-01）F1 SSFDR 数据复制 注：这是重复检查！
 

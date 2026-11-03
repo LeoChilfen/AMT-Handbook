@@ -112,7 +112,7 @@ Date: Item Nose Tail Left Main Right Main Subtotal Fuel Oil Misc.
 
 Total Scale (lb) Tare Wt. (lb) Net Wt. (lb) Arm (inches) Moment (in-lb)
 
-item names must be changed to reflect the weight locations.
+Item names must be changed to reflect the weight locations.
 
 If an equipment change is being done on an aircraft, and the new weight and balance is calculated mathematically instead of weighing the aircraft, the same type of form can be used. The only change would be the use of a four-column solution, instead of six columns, and there would be no tare weight or involvement with fuel and oil.
 

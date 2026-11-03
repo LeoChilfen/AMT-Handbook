@@ -40,11 +40,9 @@ For today’s flight, the following useful load items are included:
 
 To calculate the loaded weight and CG of this airplane, a four-column chart is used.
 
-Based on the information in the TCDS, the maximum takeoff weight of this airplane is 4,200 lb and the aft-most CG limit Datum 67.8 142D = –80 L = 222.0 of the wing trailing edge and the fuselage.
+Based on the information in the TCDS, the maximum takeoff weight of this airplane is 4,200 lb and the aft-most CG limit is +94.6" aft of the wing trailing edge and the fuselage.
 
-Datum D = 7.5 19.7 L = 222.0 229.5 leading edge.
-
-is +94.6". The loaded airplane is 25 lb too heavy, and the CG is 1.82" too far aft. To make the airplane safe to fly, the load needs to be reduced by 25 lb and some of the load needs to be shifted forward. For example, the baggage can be reduced by 25 lb, and a full 100 lb of it can be placed in the more forward compartment. One passenger can be moved to the forward seat next to the pilot, and the aft-most passenger can then be moved forward. With the changes made, the loaded weight is now at the maximum allowable of 4,200 lb, and the CG has moved forward 4.42". The airplane is now safe to fly.
+The loaded airplane is 25 lb too heavy, and the CG is 1.82" too far aft. To make the airplane safe to fly, the load needs to be reduced by 25 lb and some of the load needs to be shifted forward. For example, the baggage can be reduced by 25 lb, and a full 100 lb of it can be placed in the more forward compartment. One passenger can be moved to the forward seat next to the pilot, and the aft-most passenger can then be moved forward. With the changes made, the loaded weight is now at the maximum allowable of 4,200 lb, and the CG has moved forward 4.42". The airplane is now safe to fly.
 
 ### Adverse-Loaded CG Checks
 
@@ -150,11 +148,9 @@ Empty Weight CG Range Maximum Weight No. of Seats Maximum Baggage Fuel Capacity 
 
 为计算该机装载后的重量与重心，需使用一张四列计算表。
 
-根据 TCDS 中的信息，该机的最大起飞重量为 4,200 lb，最后重心限制位于机翼后缘与机身之后。
+根据 TCDS 中的信息，该机的最大起飞重量为 4,200 lb，最后重心限制为 +94.6"，位于机翼后缘与机身之后。
 
-（原文此处为表格碎片，原文无正文）
-
-其值为 +94.6"。该装载后的飞机超重 25 lb，重心偏后 1.82"。为使飞机可以安全飞行，需要把载荷减少 25 lb，并把部分载荷前移。例如，可以把行李减少 25 lb，并把整整 100 lb 行李改放到更靠前的行李舱。可以把一名乘客移到驾驶员旁边的前座，然后最后排的乘客再向前移。做出这些改动后，装载重量正好为 4,200 lb 的最大允许值，重心前移了 4.42"。现在这架飞机可以安全飞行了。
+该装载后的飞机超重 25 lb，重心偏后 1.82"。为使飞机可以安全飞行，需要把载荷减少 25 lb，并把部分载荷前移。例如，可以把行李减少 25 lb，并把整整 100 lb 行李改放到更靠前的行李舱。可以把一名乘客移到驾驶员旁边的前座，然后最后排的乘客再向前移。做出这些改动后，装载重量正好为 4,200 lb 的最大允许值，重心前移了 4.42"。现在这架飞机可以安全飞行了。
 
 ### 不利装载重心检查
 

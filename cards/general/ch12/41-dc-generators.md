@@ -16,9 +16,7 @@ Autopilot computer (engage circuit)
 
 Autopilot controller Pitch wheel centered Turn knob centered When all input circuits are valid, then the a/p can be engaged Autopilot Engage Logic +28 vdc OR gate input/output Truth table A f = A + B B A 0 1 0 1 B 0 0 1 1 f 0 1 1 1 A B + − A B + − circuit which collect and use the energy produced by the simple generator. The loop of wire is arranged to rotate in a magnetic field. When the plane of the loop of wire is parallel to the magnetic lines of force, the voltage induced in the loop causes a current to flow in the direction indicated by the arrows. The voltage induced at this position is maximum, since the wires are cutting the lines of force at right angles, thus cutting more lines of force per second than in any other position relative to the magnetic field. As the loop approaches the vertical position shown, the induced voltage decreases because both sides of the loop (A and B) are approximately parallel to the lines of force and the rate of cutting is reduced. When the loop is vertical, no lines of force are cut since the wires are momentarily traveling parallel to the magnetic lines of force, and there is no induced voltage. As the rotation of the loop continues, the number of lines of force cut increases until the loop has rotated an additional 90° to a horizontal plane. In the position shown, the number of lines of force cut and the induced voltage once again are maximum. The direction of cutting, however, is in the opposite direction to that occurring in the earlier positions, so the direction (polarity) of the induced voltage is reversed. As rotation of the loop continues, the number of lines of force having been cut again decreases, and the induced voltage becomes zero at the position shown, since the wires A and B are again parallel to the magnetic lines of force.
 
-If the voltage induced throughout the entire 360° of rotation A F B NAND gate A (1)
-
-F B A F B Equivalent circuit NAND gate input/output 0 1 0 NAND gate input/output NAND gate truth table 0 1 1 1 1 0 1 0 1 A 0 1 0 1 B 0 0 1 1 f 1 1 1 0 OR gate input/output Truth table A f = A + B B A 0 1 0 1 B 0 0 1 1 f 0 1 1 1 Door unsafe Door warn Light on Cabin door not secured Baggage door secured+28 VDC Door unsafe Door warn Light off Cabin door secured Baggage door secured+28 VDC is plotted, the curve shown in the figure results. This voltage is called an alternating voltage because of its reversal from positive to negative value, first in one direction and then in the other.
+If the voltage induced throughout the entire 360° of rotation is plotted, the curve shown in the figure results. This voltage is called an alternating voltage because of its reversal from positive to negative value, first in one direction and then in the other.
 
 To use the voltage generated in the loop for producing a current flow in an external circuit, some means must be provided to connect the loop of wire in series with the external circuit. Such an electrical connection can be effected by opening the loop of wire and connecting its two ends to two metal rings, called slip rings, against which two metal or carbon brushes ride. The brushes are connected to the external circuit. By replacing the slip rings of the basic AC generator with two half cylinders, called a commutator, a basic DC generator is obtained. In this illustration, the black side of the coil is connected to the black segment, and the white side of the coil to the white segment. The segments are insulated from each other. The two stationary brushes are placed on opposite sides of the commutator and are so mounted that each brush contacts each segment of the commutator as the latter revolves simultaneously with the loop. The rotating parts of a DC generator (coil and commutator) are called an armature. The generation of an emf by the loop rotating in the magnetic field is the same for both AC and DC generators, but the action of the commutator produces a DC voltage.
 
@@ -32,7 +30,7 @@ X-NOR gate input/output Truth table A f = A + B 0f 0 0 B T0 T1 T2 T3 T4 1 A 0 0 
 
 In position B, the flux is now being cut at a maximum rate, which means that the induced emf is maximum. At this time, the black brush is contacting the black segment, and the white brush is contacting the white segment. The deflection of the meter is toward the right, indicating the polarity of the output voltage.
 
-At position C, the loop has completed 180° of rotation. Like position A, no flux lines are being cut and the output voltage is zero. The important condition to observe at position C is the action of the segments and brushes. The black brush at the 180° angle is contacting both black and white segments on one side of the commutator, and the white brush is contacting both segments on the other side of the commutator. After the Typical integrated logic circuit 0.280" max 0.200" max 0.785" max 16 15 14 13 12 11 10 9 1 2 3 4 5 6 7 8 4Y 4A 4B GND 3A 3B 3Y 1Y 1A 1B VCC 2A 2B 2Y 14 13 12 11 10 9 8 1 2 3 4 5 6 7 Quad exclusive-OR circuit Input Output A 0 0 1 1 Y 0 1 1 0 B 0 1 0 1 1Q 2Q 2Q Enable Gnd 3Q 3Q 4Q 1Q 1D 2D Enable Vcc 3D 4D 4Q 16 15 14 13 12 11 10 9 1 2 3 4 5 6 7 8 DQ G Q QD Q G DQ G Q QD Q G D-register loop rotates slightly past the 180° point, the black brush is contacting only the white segment, and the white brush is contacting only the black segment.
+At position C, the loop has completed 180° of rotation. Like position A, no flux lines are being cut and the output voltage is zero. The important condition to observe at position C is the action of the segments and brushes. The black brush at the 180° angle is contacting both black and white segments on one side of the commutator, and the white brush is contacting both segments on the other side of the commutator. After the loop rotates slightly past the 180° point, the black brush is contacting only the white segment, and the white brush is contacting only the black segment.
 
 Because of this switching of commutator elements, the black brush is always in contact with the coil side moving downward, and the white brush is always in contact with the coil side moving upward. Though the current actually reverses its direction in the loop in exactly the same way as in the AC generator, commutator action causes the current to flow always in the same direction through the external circuit or meter.
 
@@ -42,11 +40,7 @@ At position D, commutator action reverses the current in the external circuit, a
 
 At the instant that each brush is contacting two segments on the commutator at these points, a direct short circuit is produced. If an emf were generated in the loop at this time, a high current would flow in the circuit, causing an arc and thus damaging the commutator. For this reason, the brushes must be placed in the exact position where the short occurs when the generated emf is zero. This position is called the neutral plane. If the brushes are installed properly, no sparking occurs between the brushes and the commutator. Sparking is an indication of improper brush placement, which is the main cause of improper commutation.
 
-The voltage generated by the basic DC generator varies from zero to its maximum value twice for each revolution of the loop. This variation of DC voltage is called “ripple,” and may be reduced by using more loops, or coils, as shown in the figure. As the number of loops is increased, the variation between maximum and minimum values of voltage is reduced, and the output voltage of the generator approaches a steady DC value. In the figure, the number of commutator segments is increased in direct proportion to the number of loops; that N S A B N S B A direction.
-
-N S A Armature B Load Slip ring Pole piece Brush N S A B generator.
-
-is, there are two segments for one loop, four segments for two loops, and eight segments for four loops.
+The voltage generated by the basic DC generator varies from zero to its maximum value twice for each revolution of the loop. This variation of DC voltage is called “ripple,” and may be reduced by using more loops, or coils, as shown in the figure. As the number of loops is increased, the variation between maximum and minimum values of voltage is reduced, and the output voltage of the generator approaches a steady DC value. In the figure, the number of commutator segments is increased in direct proportion to the number of loops; that is, there are two segments for one loop, four segments for two loops, and eight segments for four loops.
 
 The voltage induced in a single turn loop is small. Increasing the number of loops does not increase the maximum value of generated voltage, but increasing the number of turns in each loop increases this value. Within narrow limits, the output voltage of a DC generator is determined by the product of the number of turns per loop, the total flux per pair of poles in the machine, and the speed of rotation of the armature.
 
@@ -58,7 +52,7 @@ Generators used on aircraft may differ somewhat in design, since various manufac
 
 The field frame is also called the yoke, which is the foundation or frame for the generator. The frame has two functions: It completes the magnetic circuit between the poles and acts as a mechanical support for the other parts of the generator. In the figure, the frame for a two-pole generator is shown in a cross-sectional view. A four-pole generator frame is shown in the figure.
 
-– Voltage + Voltage Maximum Minimum 0° Maximum 90° 270° 360° 360° 1 cycle 180° S N Induced EMF 1 Revolution A EB C D In small generators, the frame is made of one piece of iron, but in larger generators, it is usually made up of two parts bolted together. The frame has high magnetic properties and, together with the pole pieces, forms the major part of the magnetic circuit. The field poles are bolted to the inside of the frame and form a core on which the field coil windings are mounted. The poles are usually laminated to reduce eddy current losses and serve the same purpose as the iron core of an electromagnet; that is, they concentrate the lines of force produced by the field coils. The entire frame, including field poles, is made from high-quality magnetic iron or sheet steel.
+In small generators, the frame is made of one piece of iron, but in larger generators, it is usually made up of two parts bolted together. The frame has high magnetic properties and, together with the pole pieces, forms the major part of the magnetic circuit. The field poles are bolted to the inside of the frame and form a core on which the field coil windings are mounted. The poles are usually laminated to reduce eddy current losses and serve the same purpose as the iron core of an electromagnet; that is, they concentrate the lines of force produced by the field coils. The entire frame, including field poles, is made from high-quality magnetic iron or sheet steel.
 
 A practical DC generator uses electromagnets instead of permanent magnets. To produce a magnetic field of the necessary strength with permanent magnets would greatly increase the physical size of the generator.
 
@@ -98,7 +92,7 @@ Armature windings of a generator are spaced so that, during rotation of the arma
 
 ### Compensating Windings
 
-or interpoles may be used to counteract some of the effects of field distortion, since shifting the brushes is inconvenient and unsatisfactory, especially when the speed and load of the generator are changing constantly.
+Compensating windings or interpoles may be used to counteract some of the effects of field distortion, since shifting the brushes is inconvenient and unsatisfactory, especially when the speed and load of the generator are changing constantly.
 
 Compensating Windings The compensating windings consist of a series of coils embedded in slots in the pole faces. These coils are also connected in series with the armature. Consequently, this series connection with the armature produces a magnetic field in the compensating windings that varies directly with the armature current. The compensating windings are wound in such a manner that the magnetic field produced by them counteracts the magnetic field produced by the armature. As a result, the neutral plane remains stationary any magnitude of armature current. With this design, once the brushes are set correctly, they do not need to be moved again. The figure illustrates how the windings are set into the pole faces.
 
@@ -136,7 +130,7 @@ If the shunt field of a compound generator is connected across both the armature
 
 ### Generator Ratings
 
-A generator is rated in power output. Since a generator is designed to operate at a specified voltage, the rating usually is given as the number of amperes the generator can safely Generator + − S N SN External load Generator −− − − − − − + + + ++ + ++ − − − − − − − + + + + + + + CompensatingA InterpoleB Main field windings Armature windings Main field windings Compensating windings Compensating windings Interpole windings Interpole windings A B NS Load − + Field rheostat Field coils To load Arm supply at its rated voltage. Generator rating and performance data are stamped on the nameplate attached to the generator. When replacing a generator, it is important to choose one of the proper rating.
+A generator is rated in power output. Since a generator is designed to operate at a specified voltage, the rating usually is given as the number of amperes the generator can safely supply at its rated voltage. Generator rating and performance data are stamped on the nameplate attached to the generator. When replacing a generator, it is important to choose one of the proper rating.
 
 The rotation of generators is termed either clockwise or counterclockwise, as viewed from the driven end. Usually, the direction of rotation is stamped on the data plate. If no direction is stamped on the plate, the rotation may be marked by an arrow on the cover plate of the brush housing. It is important that a generator with the correct direction of rotation be used; otherwise, the voltage is reversed.
 
@@ -160,9 +154,7 @@ On most large 24-volt generators, electrical connections are made to terminals m
 
 （原文此处为图注碎片：Autopilot controller … Both field and armature excited，混入正文，无对应正文）电路，用来收集并使用这台简单发电机所产生的电能。导线回路安排在磁场中旋转。当导线回路的平面与磁力线平行时，回路中感应的电压使电流沿箭头所示的方向流动。这一位置感应的电压最大，因为导线与磁力线成直角切割，相对于磁场的任何其他位置每秒切割的磁力线都更多。当回路转到竖直位置时，感应电压减小，因为回路的两边（A 和 B）都大致与磁力线平行，切割速率降低。当回路处于竖直位置时，不切割任何磁力线，因为导线此时暂时平行于磁力线运动，没有感应电压。随着回路继续旋转，切割的磁力线条数增加，直到回路又转过 90° 到达水平面。在所示位置，切割的磁力线条数和感应电压再次达到最大。不过切割方向与此前的各个位置相反，因此感应电压的方向（极性）也反了过来。随着回路继续旋转，已切割的磁力线条数再次减少，在所示位置感应电压为零，因为导线 A 和 B 又平行于磁力线了。
 
-如果把整个 360° 旋转过程中感应的电压（原文此处为图注碎片：A F B、NAND gate A 1，混入正文，无对应正文）
-
-（原文此处为图注碎片：F B A F B、Equivalent circuit、NAND gate truth table … Both field and armature excited，混入正文，无对应正文）绘制成曲线，就得到图中所示的曲线。这种电压称为交流电压，因为它先从正变到负，先朝一个方向，再朝另一个方向。
+如果把整个 360° 旋转过程中感应的电压绘制成曲线，就得到图中所示的曲线。这种电压称为交流电压，因为它先从正变到负，先朝一个方向，再朝另一个方向。
 
 为了利用回路中产生的电压在外电路中形成电流，必须提供某种手段，把导线回路与外电路串联起来。这种电连接可以通过把导线回路断开、将其两端分别接到两个金属环上来实现，这种金属环称为滑环，两只金属或碳质电刷压在滑环上。电刷与外电路相连。把基本交流发电机的滑环换成两个半圆柱体（称为换向器），就得到一台基本的直流发电机。在这幅图中，线圈的黑色一侧接到黑色换向片，白色一侧接到白色换向片。各换向片之间相互绝缘。两个固定电刷放在换向器的相对两侧，其安装方式使换向片随回路一起旋转时每个电刷都与每个换向片接触。直流发电机的旋转部分（线圈和换向器）称为电枢。回路在磁场中旋转产生电动势的过程，对交流发电机和直流发电机来说是相同的，但换向器的作用产生了直流电压。
 
@@ -176,7 +168,7 @@ On most large 24-volt generators, electrical connections are made to terminals m
 
 在位置 B，磁通以最大速率被切割，这意味着感应电动势最大。此时黑色电刷与黑色换向片接触，白色电刷与白色换向片接触。表针向右偏转，指示出输出电压的极性。
 
-在位置 C，回路已转过 180°。与位置 A 一样，没有磁通线被切割，输出电压为零。在位置 C 需要注意的重要情况是换向片与电刷的作用。处于 180° 角位置的黑色电刷与换向器一侧的黑色和白色换向片同时接触，白色电刷则与换向器另一侧的两个换向片同时接触。回路稍转过 180° 之后（原文此处为图注碎片：Typical integrated logic circuit、D-register，混入正文，无对应正文），黑色电刷只与白色换向片接触，白色电刷只与黑色换向片接触。
+在位置 C，回路已转过 180°。与位置 A 一样，没有磁通线被切割，输出电压为零。在位置 C 需要注意的重要情况是换向片与电刷的作用。处于 180° 角位置的黑色电刷与换向器一侧的黑色和白色换向片同时接触，白色电刷则与换向器另一侧的两个换向片同时接触。回路稍转过 180° 之后，黑色电刷只与白色换向片接触，白色电刷只与黑色换向片接触。
 
 由于换向器件的这种切换作用，黑色电刷始终与向下运动的线圈边接触，白色电刷始终与向上运动的线圈边接触。尽管电流在回路中的实际换向方式与交流发电机完全相同，换向器的作用却使电流在外电路或表计中始终沿同一方向流动。
 
@@ -186,11 +178,7 @@ On most large 24-volt generators, electrical connections are made to terminals m
 
 当每个电刷同时接触换向器上的两个换向片时，就会产生直接短路。如果此时回路中产生了电动势，电路中就会流过很大的电流，产生电弧，从而损坏换向器。因此，电刷必须放在短路恰好发生在感应电动势为零的位置。这个位置称为中性面。如果电刷安装正确，电刷与换向器之间不会发生火花。火花是电刷位置不当的迹象，而电刷位置不当是换向不良的主要原因。
 
-基本直流发电机产生的电压每转一周两次从零变到最大值。这种直流电压的变化称为“纹波”，可以通过使用更多的回路（线圈）来减小，如图所示。随着回路数增加，电压最大值与最小值之间的变化减小，发电机的输出电压趋近于稳定的直流值。回路数越多，换向片数按比例增加；也（原文此处为图注碎片：N S A B N S B A direction，混入正文，无对应正文）
-
-（原文此处为图注碎片：N S A Armature B Load Slip ring Pole piece Brush，无对应正文）
-
-就是说，一个回路有两片换向片，两个回路有四片，四个回路有八片。
+基本直流发电机产生的电压每转一周两次从零变到最大值。这种直流电压的变化称为“纹波”，可以通过使用更多的回路（线圈）来减小，如图所示。随着回路数增加，电压最大值与最小值之间的变化减小，发电机的输出电压趋近于稳定的直流值。回路数越多，换向片数按比例增加；也就是说，一个回路有两片换向片，两个回路有四片，四个回路有八片。
 
 单匝回路感应出的电压很小。增加回路数并不提高发电机电压的最大值，但增加每个回路的匝数可以提高这个值。在较窄的范围内，直流发电机的输出电压由每个回路的匝数、电机每对磁极的总磁通以及电枢转速三者的乘积决定。
 
@@ -202,7 +190,7 @@ On most large 24-volt generators, electrical connections are made to terminals m
 
 磁场机架也称为磁轭，是发电机的底座或骨架。机架有两个作用：它构成磁极之间的磁路，并作为发电机其他部件的机械支撑。图中以横截面视图给出了两极发电机的机架。四极发电机的机架如图所示。
 
-（原文此处为图注碎片：Voltage、Maximum、Minimum、Induced EMF、A EB C D，混入正文，无对应正文）在小发电机中，机架由一整块铁制成，而在较大的发电机中，机架通常由用螺栓连在一起的两部分组成。机架具有良好的磁性能，与磁极铁心一起构成磁路的主要部分。磁场磁极用螺栓固定在机架内侧，形成安装励磁线圈绕组的铁心。磁极通常做成叠片，以减少涡流损耗，其作用与电磁铁的铁心相同，即集中励磁线圈产生的磁力线。整个机架（包括磁场磁极）由优质磁性铁或薄钢板制成。
+在小发电机中，机架由一整块铁制成，而在较大的发电机中，机架通常由用螺栓连在一起的两部分组成。机架具有良好的磁性能，与磁极铁心一起构成磁路的主要部分。磁场磁极用螺栓固定在机架内侧，形成安装励磁线圈绕组的铁心。磁极通常做成叠片，以减少涡流损耗，其作用与电磁铁的铁心相同，即集中励磁线圈产生的磁力线。整个机架（包括磁场磁极）由优质磁性铁或薄钢板制成。
 
 实际的直流发电机使用电磁铁而不是永久磁铁。要用永久磁铁产生所需强度的磁场，会使发电机的物理尺寸大大增加。
 
@@ -280,7 +268,7 @@ On most large 24-volt generators, electrical connections are made to terminals m
 
 ### 发电机的额定值
 
-发电机的额定值按输出功率表示。由于发电机设计在规定的电压下工作，额定值通常用发电机在额定电压下能安全（原文此处为图注碎片：Generator、External load、Compensating、Interpole、Main field windings、Armature windings 等，混入正文，无对应正文）提供的安培数来表示。发电机的额定值和性能数据打在发电机附带的铭牌上。更换发电机时，重要的是选择额定值合适的发电机。
+发电机的额定值按输出功率表示。由于发电机设计在规定的电压下工作，额定值通常用发电机在额定电压下能安全提供的安培数来表示。发电机的额定值和性能数据打在发电机附带的铭牌上。更换发电机时，重要的是选择额定值合适的发电机。
 
 发电机的旋转方向，从驱动端看，有顺时针和逆时针两种说法。通常旋转方向打在数据牌上。如果数据牌上没有标明方向，则可在电刷罩的盖板上用箭头标出旋转方向。必须使用旋转方向正确的发电机，否则电压会反向。
 

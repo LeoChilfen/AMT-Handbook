@@ -22,9 +22,7 @@ Since current flows from negative to positive, many illustrations indicate curre
 
 When a wire is bent into a loop and an electric current flows through it, the left-hand rule remains valid.
 
-If the wire is coiled into two loops, many of the lines of force become large enough to include both loops.
-
-go through the loops in the same direction, circle around the outside of the two coils, and come in at the opposite end.
+If the wire is coiled into two loops, many of the lines of force become large enough to include both loops. go through the loops in the same direction, circle around the outside of the two coils, and come in at the opposite end.
 
 When a wire contains many such loops, it is called a coil. The lines of force form a pattern through all the loops causing a high concentration of flux lines through the center of the coil.
 
@@ -62,9 +60,7 @@ Electromagnets are used in electrical instruments, motors, generators, relays, a
 
 当把导线弯成一个环并通以电流时，左手定则仍然适用。
 
-如果把导线绕成两个环，许多力线会大到足以包含两个环。
-
-这些力线沿同一方向穿过各个环，绕过两个线圈的外侧，再从相反的一端进入。
+如果把导线绕成两个环，许多力线会大到足以包含两个环。这些力线沿同一方向穿过各个环，绕过两个线圈的外侧，再从相反的一端进入。
 
 当一根导线包含许多这样的环时，就称为线圈。力线穿过所有环形成一种图案，使线圈中心有很高的磁通线集中度。
 

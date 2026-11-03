@@ -2246,19 +2246,19 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch04-05",
     "seq": "05",
-    "title": "Types of Drawings",
+    "title": "05-types-of-drawings.md",
     "file": "05-types-of-drawings.md"
    },
    {
     "slug": "general-ch04-06",
     "seq": "06",
-    "title": "Title Blocks",
+    "title": "06-title-blocks.md",
     "file": "06-title-blocks.md"
    },
    {
     "slug": "general-ch04-07",
     "seq": "07",
-    "title": "Universal Numbering System",
+    "title": "07-universal-numbering-system.md",
     "file": "07-universal-numbering-system.md"
    },
    {
@@ -2270,7 +2270,7 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch04-09",
     "seq": "09",
-    "title": "Bill of Material",
+    "title": "09-bill-of-material.md",
     "file": "09-bill-of-material.md"
    },
    {
@@ -2282,13 +2282,13 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch04-11",
     "seq": "11",
-    "title": "Methods of Illustration",
+    "title": "11-methods-of-illustration.md",
     "file": "11-methods-of-illustration.md"
    },
    {
     "slug": "general-ch04-12",
     "seq": "12",
-    "title": "Lines and Their Meanings",
+    "title": "12-lines-and-their-meanings.md",
     "file": "12-lines-and-their-meanings.md"
    },
    {
@@ -2300,7 +2300,7 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch04-14",
     "seq": "14",
-    "title": "Reading and Interpreting Drawings",
+    "title": "14-reading-and-interpreting-drawings.md",
     "file": "14-reading-and-interpreting-drawings.md"
    },
    {
@@ -2330,7 +2330,7 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch04-19",
     "seq": "19",
-    "title": "Digital Images",
+    "title": "19-digital-images.md",
     "file": "19-digital-images.md"
    }
   ]
@@ -2353,19 +2353,19 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch05-02",
     "seq": "02",
-    "title": "Energy",
+    "title": "02-energy.md",
     "file": "02-energy.md"
    },
    {
     "slug": "general-ch05-03",
     "seq": "03",
-    "title": "Force, Work, Power, & Torque",
+    "title": "03-force-work-power-and-torque.md",
     "file": "03-force-work-power-and-torque.md"
    },
    {
     "slug": "general-ch05-04",
     "seq": "04",
-    "title": "Simple Machines",
+    "title": "04-simple-machines.md",
     "file": "04-simple-machines.md"
    },
    {
@@ -2377,7 +2377,7 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch05-06",
     "seq": "06",
-    "title": "Motion",
+    "title": "06-motion.md",
     "file": "06-motion.md"
    },
    {
@@ -2395,7 +2395,7 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch05-09",
     "seq": "09",
-    "title": "Gas Laws",
+    "title": "09-gas-laws.md",
     "file": "09-gas-laws.md"
    },
    {
@@ -2419,7 +2419,7 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch05-13",
     "seq": "13",
-    "title": "Aircraft Theory of Flight",
+    "title": "13-aircraft-theory-of-flight.md",
     "file": "13-aircraft-theory-of-flight.md"
    }
   ]

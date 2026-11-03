@@ -1,7 +1,3 @@
-# Lines and Their Meanings
-
-> 通用 Ch 04 · Lines and Their Meanings · 原文 PDF 第 140 页
-
 ## 1. 原文
 
 Every drawing is composed of lines. Lines mark the boundaries, edges, and intersection of surfaces. Lines are used to show dimensions and hidden surfaces and to indicate centers. Obviously, if the same kind of line is used to show these variations, a drawing becomes a meaningless collection of lines. For this reason, various kinds of standardized lines are used on aircraft drawings.
@@ -26,8 +22,6 @@ Sectioning lines indicate the exposed surfaces of an object in a sectional view.
 
 Phantom lines indicate the alternate position of parts of the object or the relative position of a missing part. They are composed of one long and two short evenly spaced dashes.
 
-34 – 25 – 12 34 – 51 – 01 34 – 16 – 12 34 – 24 – 01 WIRING DIAGRAM FLIGHT DIRECTOR FLIGHT DIRECTOR BOTH ON 2 BOTH ON 2 BOTH ON 1 BOTH ON 1 93 J3A 33 J1A J1B 33 50 J1A J1B 50 J2A 37 J2A J3A 69 J3A J2A 36 J2A J1 31 J1 J2B 79 J2B J1 33 J1 J2A 37 J2A J3A 69 J3A J4A 45 J4A J1A 45 J1 44 J1 J2A 35 J2A J1 42 J1 J2B 64 J2B 48 J1A J4A 48 J4A 48 J1A J4A 48 J4A J4A 45 J4A J1A 45 J3A 1A 1B 2A 2B J3A 93 J3A DIGITAL FLIGHT GUIDANCE COMPUTER-1 22-01-01 UIO - 212 DIGITAL FLIGHT GUIDANCE COMPUTER-2 22-01-01 UIO - 213 ATTITUDE SWITCHING UNIT 34 - 23 UIO - 228 AIR DATA INST SWITCHING UNIT 34 - 14 UIO - 207 M M M M S1 S2 C E N T R A L P R O C E S S O R C E N T R A L P R O C E S S O R S1 S2 NORMAL L ON AUX NORMAL BOTH ON 2 BOTH ON 1 NORMAL R ON AUX NORMAL
-
 Break lines indicate that a portion of the object is not shown on the drawing. Short breaks are made by solid, freehand lines. For long breaks, solid ruled lines with zigzags are used. Shafts, rods, tubes, and other such parts that have a portion of their length broken out have the ends of the break drawn as indicated.
 
 Leader lines are solid lines with one arrowhead. They indicate a part or portion that a note, number, or other reference applies.
@@ -36,7 +30,7 @@ Hidden lines indicate invisible edges or contours. Hidden lines consist of short
 
 ### Outline or Visible Lines
 
-The outline or visible line is used for all lines on the drawing representing visible lines on the object. This is a medium-to- wide line that represents edges and surfaces that can be seen when the object is viewed directly.
+The outline or visible line is used for all lines on the drawing representing visible lines on the object. This is a medium-to-wide line that represents edges and surfaces that can be seen when the object is viewed directly.
 
 Stitch lines are used to indicate the stitching or sewing lines on an article and consists of a series of very short dashes, approximately half the length of dash or hidden lines, evenly spaced. Long lines of stitching may be indicated by a series of stitch lines connected by phantom lines.
 
@@ -69,8 +63,6 @@ Cutting plane lines indicate the plane where a sectional view of the object is t
 剖面线表示剖视图中物体被切开的表面。它们一般是细实线，但可随剖切所示的材料种类而变化。
 
 假想线表示物体某一部分的另一位置，或某个缺失零件的相对位置。它由一条长划和两条短划组成，间距均匀。
-
-（原文此处为布线图的图面文字与线路编号碎片，无正文。）
 
 断裂线表示物体的某一部分没有画在图上。短的断裂用细实线徒手画出；长的断裂则用带锯齿的细实线画出。轴、杆、管等长度方向有部分断裂画出的零件，其断裂端按上述画法绘制。
 

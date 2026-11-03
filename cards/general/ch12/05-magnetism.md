@@ -4,17 +4,13 @@
 
 ## 1. 原文
 
-Magnetism is defined as the property of an object to attract certain metallic substances. In general, these substances are ferrous materials; that is, materials composed of iron or iron
-
-alloys, such as soft iron, steel, and alnico. These materials, sometimes called magnetic materials, include at least three nonferrous materials: nickel, cobalt, and gadolinium, which are magnetic to a limited degree. All other substances are considered nonmagnetic. A few of these non-magnetic substances can be classified as diamagnetic since they are repelled by both poles of a magnet.
+Magnetism is defined as the property of an object to attract certain metallic substances. In general, these substances are ferrous materials; that is, materials composed of iron or iron alloys, such as soft iron, steel, and alnico. These materials, sometimes called magnetic materials, include at least three nonferrous materials: nickel, cobalt, and gadolinium, which are magnetic to a limited degree. All other substances are considered nonmagnetic. A few of these non-magnetic substances can be classified as diamagnetic since they are repelled by both poles of a magnet.
 
 Magnetism is an invisible force, the ultimate nature of which has not been fully determined. It can best be described by the effects it produces. Examination of a simple bar magnet discloses some basic characteristics of all magnets. If the magnet is suspended to swing freely, it aligns itself with the earth’s magnetic poles. One end is labeled “N,” meaning the North seeking end or pole of the magnet. If the “N” end of a compass or magnet is referred to as North seeking rather than North, there is no conflict in referring to the pole it seeks, which is the North magnetic pole. The opposite end of the magnet, marked “S” is the South seeking end and points to the South magnetic pole. Since the earth is a giant magnet, its poles attract the ends of the magnet. These poles are not located at the geographic poles.
 
 The somewhat mysterious and completely invisible force of a magnet depends on a magnetic field that surrounds the magnet. This field always exists between the poles of a magnet and arranges itself to conform to the shape of any magnet.
 
-The theory that explains the action of a magnet holds that each molecule making up the iron bar is itself a tiny magnet, with both North and South poles. These molecular magnets each possess a magnetic field, but in an unmagnetized state, the molecules are arranged at random throughout the iron bar. If a magnetizing force, such as stroking with a lodestone, is applied to the unmagnetized
-
-bar, the molecular magnets rearrange themselves in line with the magnetic field of the lodestone, with all North ends of the magnets pointing in one direction and all South ends in the opposite direction. In such a configuration, the magnetic fields of the magnets combine to produce the total field of the magnetized bar.
+The theory that explains the action of a magnet holds that each molecule making up the iron bar is itself a tiny magnet, with both North and South poles. These molecular magnets each possess a magnetic field, but in an unmagnetized state, the molecules are arranged at random throughout the iron bar. If a magnetizing force, such as stroking with a lodestone, is applied to the unmagnetized bar, the molecular magnets rearrange themselves in line with the magnetic field of the lodestone, with all North ends of the magnets pointing in one direction and all South ends in the opposite direction. In such a configuration, the magnetic fields of the magnets combine to produce the total field of the magnetized bar.
 
 When handling a magnet, avoid applying direct heat, hammering, or dropping it. Heating or sudden shock creates misalignment of the molecules, causing the strength of a magnet to decrease. When a magnet is to be stored, devices known as “keeper bars” are installed to provide an easy path for flux lines from one pole to the other. This promotes the retention of the molecules in their North-South alignment.
 
@@ -38,17 +34,13 @@ The magnetic circuit can be compared in many respects to an electrical circuit. 
 
 ## 2. 中文翻译
 
-磁性被定义为物体吸引某些金属物质的性质。一般来说，这些物质是含铁材料；也就是由铁或铁
-
-合金组成的材料，例如软铁、钢和阿尔尼科合金。这些材料有时称为磁性材料，其中至少包括三种非铁金属：镍、钴和钆，它们具有有限程度的磁性。所有其他物质都被视为非磁性物质。其中少数非磁性物质可归类为抗磁性物质，因为它们会被磁铁的两极排斥。
+磁性被定义为物体吸引某些金属物质的性质。一般来说，这些物质是含铁材料；也就是由铁或铁合金组成的材料，例如软铁、钢和阿尔尼科合金。这些材料有时称为磁性材料，其中至少包括三种非铁金属：镍、钴和钆，它们具有有限程度的磁性。所有其他物质都被视为非磁性物质。其中少数非磁性物质可归类为抗磁性物质，因为它们会被磁铁的两极排斥。
 
 磁性是一种看不见的力，其终极本质尚未被完全确定。对它最好的描述是它所产生的效应。考察一根简单的条形磁铁，可以揭示所有磁铁的一些基本特性。如果让磁铁自由摆动，它会自行对准地球的磁极。一端标为「N」，意为磁铁指北的一端或磁极。如果把罗盘或磁铁的「N」端称为指北端而不是北极，那么把它所指向的磁极（即北磁极）称为北极就不存在矛盾了。磁铁的另一端标为「S」，是指南端，指向南磁极。由于地球是一个巨大的磁铁，它的磁极吸引磁铁的两端。这些磁极并不位于地理极点。
 
 磁铁那种多少有些神秘、完全看不见的力，取决于环绕磁铁的磁场。这个场总是存在于磁铁的两极之间，并使自身顺应任何磁铁的形状。
 
-解释磁铁作用的学说认为，构成铁棒的每个分子本身都是一个小磁铁，既有北极也有南极。这些分子磁铁各自具有磁场，但在未磁化状态下，分子在整根铁棒中杂乱排列。如果把磁化力（例如用天然磁石沿一个方向摩擦）施加到未磁化的
-
-铁棒上，分子磁铁就会沿天然磁石的磁场重新排列，所有磁铁的北极朝向一个方向，所有南极朝向相反方向。在这种排列下，各磁铁的磁场组合起来，产生整根磁化铁棒的总磁场。
+解释磁铁作用的学说认为，构成铁棒的每个分子本身都是一个小磁铁，既有北极也有南极。这些分子磁铁各自具有磁场，但在未磁化状态下，分子在整根铁棒中杂乱排列。如果把磁化力（例如用天然磁石沿一个方向摩擦）施加到未磁化的铁棒上，分子磁铁就会沿天然磁石的磁场重新排列，所有磁铁的北极朝向一个方向，所有南极朝向相反方向。在这种排列下，各磁铁的磁场组合起来，产生整根磁化铁棒的总磁场。
 
 拿取磁铁时，要避免直接加热、敲击或跌落。加热或突然的冲击会造成分子排列错乱，使磁铁的强度下降。存放磁铁时，要装上称为「保持条」的装置，为一端到另一端的磁通线提供一条容易通过的路径。这有助于分子保持其南北排列。
 

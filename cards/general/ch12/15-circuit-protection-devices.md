@@ -36,9 +36,7 @@ Components in the electrical circuits are typically not all intended to operate 
 
 Switches control the current flow in most aircraft electrical circuits. A switch is used to start, to stop, or to change the direction of the current flow in the circuit. The switch in each circuit must be able to carry the normal current of the circuit and must be insulated heavily enough for the voltage of the circuit.
 
-An understanding of some basic definitions of the switch is necessary before any of the switch types are discussed. The number of poles, throws, and positions they have designates
-
-es, as well as some other type of switches.
+An understanding of some basic definitions of the switch is necessary before any of the switch types are discussed. The number of poles, throws, and positions they have designates the switch type, as well as some other type of switches.
 
 Pole—the switch’s movable blade or contactor. The number of poles is equal to the number of circuits, or paths for current flow, that can be completed through the switch at any one time.
 
@@ -62,9 +60,7 @@ Double-Pole, Double-Throw (DPDT)
 
 The schematic symbol for the double-pole, double-throw (DPDT) switch is shown. This type of switch makes a connection from one set of contacts to either of two other sets of contacts.
 
-A toggle switch that is spring-loaded to the OFF position system.
-
-and must be held in the ON position to complete the circuit is a momentary contact two-position switch. One that comes to rest at either of two positions, opening the circuit in one position and closing it in another, is a two-position switch. A toggle switch that comes to rest at any one of three positions is a three-position switch.
+A toggle switch that is spring-loaded to the OFF position and must be held in the ON position to complete the circuit is a momentary contact two-position switch. One that comes to rest at either of two positions, opening the circuit in one position and closing it in another, is a two-position switch. A toggle switch that comes to rest at any one of three positions is a three-position switch.
 
 A switch that stays open, except when it is held in the closed position, is a normally open switch (usually identified as NO). One that stays closed, except when it is held in the open position is a normally closed switch (NC). Both kinds are spring loaded to their normal position and return to that position as soon as they are released.
 
@@ -132,9 +128,7 @@ A relay is simply an electromechanical switch where a small amount of current ca
 
 开关控制大多数飞机电气电路中的电流。开关用于启动、停止或改变电路中电流的方向。每个电路中的开关都必须能承载该电路的正常电流，并且其绝缘必须足以承受该电路的电压。
 
-在讨论各种开关类型之前，有必要先了解开关的一些基本定义。它们所具有的极数、掷数和位置数决定
-
-……以及其他一些类型的开关。
+在讨论各种开关类型之前，有必要先了解开关的一些基本定义。它们所具有的极数、掷数和位置数决定……以及其他一些类型的开关。
 
 极（Pole）——开关的可动刀片或触头。极数等于通过该开关在同一时间能够接通的电路数，即电流通路数。
 
@@ -158,9 +152,7 @@ A relay is simply an electromechanical switch where a small amount of current ca
 
 双极双掷（DPDT）开关的原理图符号如图所示。这种开关把一组触点与另外两组触点中的任一组接通。
 
-一种弹簧加载复位到 OFF 位置的拨动开关
-
-并且必须保持在 ON 位置才能接通电路，这属于瞬动触点双位开关。在两个位置中任一位置停留、在一个位置断开电路并在另一位置闭合电路的开关，是双位开关。在三个位置中任一位置停留的拨动开关，是三位开关。
+一种弹簧加载复位到 OFF 位置的拨动开关并且必须保持在 ON 位置才能接通电路，这属于瞬动触点双位开关。在两个位置中任一位置停留、在一个位置断开电路并在另一位置闭合电路的开关，是双位开关。在三个位置中任一位置停留的拨动开关，是三位开关。
 
 除保持在闭合位置外一直断开的开关，是常开开关（通常标为 NO）。除保持在断开位置外一直闭合的开关，是常闭开关（NC）。这两种开关都由弹簧加载到其正常位置，一松开就回到该位置。
 

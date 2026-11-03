@@ -1,7 +1,3 @@
-# Title Blocks
-
-> 通用 Ch 04 · Title Blocks · 原文 PDF 第 127 页
-
 ## 1. 原文
 
 Every print must have some means of identification. This is provided by a title block. The title block consists of a drawing number and certain other data concerning the drawing and the object it represents. This information is grouped in a prominent place on the print, usually in the lower right-hand corner. Sometimes the title block is in the form of a strip extending almost the entire distance across the bottom of the sheet.
@@ -10,7 +6,15 @@ Although title blocks do not follow a standard form as far as layout is concerne
 
 1. A drawing number to identify the print for filing purposes and to prevent confusing it with any other print.
 
-2. The name of the part or assembly 3. The drawing scale 4. The date 5. The name of the firm 6. The name of the draftsmen, the checker, and the person approving the drawing
+2. The name of the part or assembly.
+
+3. The drawing scale.
+
+4. The date.
+
+5. The name of the firm.
+
+6. The name of the draftsmen, the checker, and the person approving the drawing.
 
 ### Drawing or Print Numbers
 
@@ -22,7 +26,7 @@ Reference numbers that appear in the title block refer you to the numbers of oth
 
 In addition to appearing in the title block, dash numbers may appear on the face of the drawing near the parts they identify. Dash numbers are also used to identify right-hand and left-hand parts.
 
-In aircraft, many parts on the left side are like the corresponding parts on the right side but in reverse. The left- hand part is always shown in the drawing. The right-hand part is called for in the title block. Above the title block a notation is found, such as: 470204-1LH shown; 470204-2RH opposite. Both parts carry the same number, but the part called for is distinguished by a dash number. Some prints have odd numbers for left-hand parts and even numbers for right-hand parts.
+In aircraft, many parts on the left side are like the corresponding parts on the right side but in reverse. The left-hand part is always shown in the drawing. The right-hand part is called for in the title block. Above the title block a notation is found, such as: 470204-1LH shown; 470204-2RH opposite. Both parts carry the same number, but the part called for is distinguished by a dash number. Some prints have odd numbers for left-hand parts and even numbers for right-hand parts.
 
 ## 2. 中文翻译
 
@@ -32,7 +36,15 @@ In aircraft, many parts on the left side are like the corresponding parts on the
 
 1. 图纸编号，用于归档时识别该复制图，并防止与其他复制图混淆。
 
-2. 零件或组件的名称；3. 图纸比例；4. 日期；5. 公司名称；6. 绘图员、校对人和图纸批准人的姓名。
+2. 零件或组件的名称。
+
+3. 图纸比例。
+
+4. 日期。
+
+5. 公司名称。
+
+6. 绘图员、校对人和图纸批准人的姓名。
 
 ### 图纸（复制图）编号
 

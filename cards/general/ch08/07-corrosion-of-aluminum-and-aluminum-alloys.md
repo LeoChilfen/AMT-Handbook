@@ -12,7 +12,7 @@ NOTE: Aluminum alloys commonly form a smooth surface oxidation that is from 0.00
 
 General surface attack of aluminum penetrates relatively slowly, but speeds up in the presence of dissolved salts. Considerable attack can usually take place before serious loss of structural strength develops.
 
-At least three forms of attack on aluminum alloys are particularly serious: the penetrating pit-type corrosion through the walls of aluminum tubing, stress-corrosion cracking of materials under sustained stress, and intergranular corrosion, which is characteristic of certain improperly heat- treated aluminum alloys.
+At least three forms of attack on aluminum alloys are particularly serious: the penetrating pit-type corrosion through the walls of aluminum tubing, stress-corrosion cracking of materials under sustained stress, and intergranular corrosion, which is characteristic of certain improperly heat-treated aluminum alloys.
 
 In general, corrosion of aluminum can be more effectively treated in place compared to corrosion occurring on other structural materials used in aircraft. Treatment includes the mechanical removal of as much of the corrosion products as practicable and the inhibition of residual materials by chemical means, followed by the restoration of permanent surface coatings.
 
@@ -46,7 +46,7 @@ Nonwoven abrasive pads have generally replaced aluminum wool, aluminum wire brus
 
 ### Treatment of Intergranular Corrosion in Heat‑Treated Aluminum Alloy Surfaces
 
-As previously described, intergranular corrosion is an attack along grain boundaries of improperly or inadequately heat- treated alloys, resulting from precipitation of dissimilar constituents following heat-treatment. In its most severe form, actual lifting of metal layers (exfoliation) occurs.
+As previously described, intergranular corrosion is an attack along grain boundaries of improperly or inadequately heat-treated alloys, resulting from precipitation of dissimilar constituents following heat-treatment. In its most severe form, actual lifting of metal layers (exfoliation) occurs.
 
 More severe cleaning is a must when intergranular corrosion is present. The mechanical removal of all corrosion products and visible delaminated metal layers must be accomplished to determine the extent of the destruction and to evaluate the remaining structural strength of the component. Corrosion depth and removal limits have been established for some aircraft. Any loss of structural strength must be evaluated prior to repair or replacement of the part. If the manufacturer’s limits do not adequately address the damage, a designated engineering representative (DER) can be brought in to assess the damage.
 

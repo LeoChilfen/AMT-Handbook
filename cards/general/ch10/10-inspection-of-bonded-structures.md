@@ -10,13 +10,13 @@ Ultrasonic inspection is finding increasing application in aircraft bonded const
 
 • Different types and thickness of adhesives are used in bonded structures
 
-It is necessary that the frequency of the ultrasonic waves corresponding to a particular dial setting be accurately known. Checks should be made with standard test blocks to guard against possible drift of frequency. If the frequency of an ultrasonic wave is such that its wavelength is twice the thickness of a specimen (funda- mental frequency), then the reﬂected wave will arrive back at the transducer in the same phase as the original transmission so that strengthening of the signal will occur. This results from constructive interference or a resonance and is shown as a high amplitude value on the indicating screen. If the frequency is increased such that three times the wavelength equals four times the thickness, the reﬂected signal will return completely out of phase with the transmitted signal and cancella- tion will occur. Further increase of the frequency causes the wavelength to be equal to the thickness again and gives a reﬂected signal in phase with the transmitted signal and a resonance once more.
+It is necessary that the frequency of the ultrasonic waves corresponding to a particular dial setting be accurately known. Checks should be made with standard test blocks to guard against possible drift of frequency. If the frequency of an ultrasonic wave is such that its wavelength is twice the thickness of a specimen (fundamental frequency), then the reﬂected wave will arrive back at the transducer in the same phase as the original transmission so that strengthening of the signal will occur. This results from constructive interference or a resonance and is shown as a high amplitude value on the indicating screen. If the frequency is increased such that three times the wavelength equals four times the thickness, the reﬂected signal will return completely out of phase with the transmitted signal and cancellation will occur. Further increase of the frequency causes the wavelength to be equal to the thickness again and gives a reﬂected signal in phase with the transmitted signal and a resonance once more.
 
 By starting at the fundamental frequency and gradually increasing the frequency, the successive cancellations and resonances can be noted and the readings used to check the fundamental frequency reading.
 
 In some instruments, the oscillator circuit contains a motor driven capacitor which changes the frequency of the oscillator. In other instruments, the frequency is changed by electronic means.
 
-The change in frequency is synchronized with the horizontal sweep of a CRT. The horizontal axis thus represents a frequency range. If the frequency range contains resonances, the circuitry is arranged to pres- ent these vertically. Calibrated transparent scales are then placed in front of the tube, and the thickness can be read directly. The instruments normally operate
+The change in frequency is synchronized with the horizontal sweep of a CRT. The horizontal axis thus represents a frequency range. If the frequency range contains resonances, the circuitry is arranged to present these vertically. Calibrated transparent scales are then placed in front of the tube, and the thickness can be read directly. The instruments normally operate
 
 • Underlying structures contain differences in core material, cell size, thickness, height, back skin material and thickness, doublers (material and thickness), closure member attachments, foam adhesive, steps in skins, internal ribs, and laminates (number of layers, layer thickness, and layer material)
 
@@ -26,7 +26,7 @@ The change in frequency is synchronized with the horizontal sweep of a CRT. The 
 
 Defects can be separated into five general types to represent the various areas of bonded and laminate structures as follows:
 
-1. Type I—disbonds or voids in an outer skin-to- adhesive interface.
+1. Type I—disbonds or voids in an outer skin-to-adhesive interface.
 
 2. Type II—disbonds or voids at the adhesive-to-core interface.
 
@@ -38,15 +38,13 @@ Defects can be separated into five general types to represent the various areas 
 
 ### Acoustic Emission Inspection
 
-Acoustic emission is an NDI technique that involves the placing of acoustic emission sensors at various locations on an aircraft structure and then applying a load or stress. The materials emit sound and stress waves that take the form of ultrasonic pulses. Cracks and areas of corrosion in the stressed airframe structure emit sound waves that are registered by the sensors. These acoustic emission bursts can be used to locate flaws and to evaluate their rate of growth as a function of applied stress. Acoustic emission testing has an advantage over other NDI methods in that it can detect and locate all of the activated flaws in a structure in one test. Because of the complexity of aircraft structures,
-
-application of acoustic emission testing to aircraft has required a new level of sophistication in testing technique and data interpretation.
+Acoustic emission is an NDI technique that involves the placing of acoustic emission sensors at various locations on an aircraft structure and then applying a load or stress. The materials emit sound and stress waves that take the form of ultrasonic pulses. Cracks and areas of corrosion in the stressed airframe structure emit sound waves that are registered by the sensors. These acoustic emission bursts can be used to locate flaws and to evaluate their rate of growth as a function of applied stress. Acoustic emission testing has an advantage over other NDI methods in that it can detect and locate all of the activated flaws in a structure in one test. Because of the complexity of aircraft structures, application of acoustic emission testing to aircraft has required a new level of sophistication in testing technique and data interpretation.
 
 ### Magnetic Particle Inspection
 
 Magnetic particle inspection is a method of detecting invisible cracks and other defects in ferromagnetic materials, such as iron and steel. It is not applicable to nonmagnetic materials.
 
-In rapidly rotating, reciprocating, vibrating, and other highly- stressed aircraft parts, small defects often develop to the point that they cause complete failure of the part. Magnetic particle inspection has proven extremely reliable for the rapid detection of such defects located on or near the surface. With this method of inspection, the location of the defect is indicated and the approximate size and shape are outlined.
+In rapidly rotating, reciprocating, vibrating, and other highly stressed aircraft parts, small defects often develop to the point that they cause complete failure of the part. Magnetic particle inspection has proven extremely reliable for the rapid detection of such defects located on or near the surface. With this method of inspection, the location of the defect is indicated and the approximate size and shape are outlined.
 
 The inspection process consists of magnetizing the part and then applying ferromagnetic particles to the surface area to be inspected. The ferromagnetic particles (indicating medium) may be held in suspension in a liquid that is flushed over the part; the part may be immersed in the suspension liquid; or the particles, in dry powder form, may be dusted over the surface of the part. The wet process is more commonly used in the inspection of aircraft parts.
 
@@ -106,15 +104,13 @@ The residual inspection procedure involves magnetization of the part and applica
 
 #### Identification of Indications
 
-The correct evaluation of the character of indications is extremely important but is sometimes difficult to make from observation of the indications alone. The principal distinguishing features of indications are shape, buildup, width, and sharpness of outline. These characteristics are more valuable in distinguishing between types of discontinuities than in determining their severity. Careful observation of the character of the magnetic particle pattern
-
-must always be included in the complete evaluation of the significance of an indicated discontinuity.
+The correct evaluation of the character of indications is extremely important but is sometimes difficult to make from observation of the indications alone. The principal distinguishing features of indications are shape, buildup, width, and sharpness of outline. These characteristics are more valuable in distinguishing between types of discontinuities than in determining their severity. Careful observation of the character of the magnetic particle pattern must always be included in the complete evaluation of the significance of an indicated discontinuity.
 
 The most readily distinguished indications are those produced by cracks open to the surface. These discontinuities include fatigue cracks, heat-treat cracks, shrink cracks in welds and castings, and grinding cracks.
 
 ### Magnaglo Inspection
 
-Magnaglo inspection is similar to the preceding method, but differs in that a fluorescent particle solution is used and the inspection is made under black light. Efficiency of inspection is increased by the neon-like glow of defects allowing smaller flaw indications to be seen. This is an excellent method for use on gears, threaded parts, and aircraft engine components. The reddish- brown liquid spray or bath that is used consists of Magnaglo paste mixed with a light oil at the ratio of 0.10 to 0.25 ounce of paste per gallon of oil. After inspection, the part must be demagnetized and rinsed with a cleaning solvent.
+Magnaglo inspection is similar to the preceding method, but differs in that a fluorescent particle solution is used and the inspection is made under black light. Efficiency of inspection is increased by the neon-like glow of defects allowing smaller flaw indications to be seen. This is an excellent method for use on gears, threaded parts, and aircraft engine components. The reddish-brown liquid spray or bath that is used consists of Magnaglo paste mixed with a light oil at the ratio of 0.10 to 0.25 ounce of paste per gallon of oil. After inspection, the part must be demagnetized and rinsed with a cleaning solvent.
 
 #### Magnetizing Equipment
 
@@ -132,9 +128,7 @@ This unit is a source of magnetizing and demagnetizing current but does not prov
 
 The magnetizing current is supplied through the flexible cables with prods or contact clamps, as shown. The cable terminals may be fitted with prods or with contact clamps. Circular magnetization may be developed by using either the prods or clamps.
 
-Longitudinal magnetization is developed by wrapping the
-
-cable around the part. The strength of the magnetizing current is controlled by an eight-point tap switch, and the duration that it is applied is regulated by an automatic cutoff similar to that used in the fixed general purpose unit.
+Longitudinal magnetization is developed by wrapping the cable around the part. The strength of the magnetizing current is controlled by an eight-point tap switch, and the duration that it is applied is regulated by an automatic cutoff similar to that used in the fixed general purpose unit.
 
 This portable unit also serves as a demagnetizer and supplies high amperage, low-voltage AC for this purpose. For demagnetization, the AC is passed through the part and gradually reduced by means of a current reducer.
 
@@ -258,9 +252,7 @@ If the whole body is exposed to a very large dose of radiation, death could resu
 
 ### 声发射检查
 
-声发射是一种 NDI 技术，其做法是在航空器结构的各个部位放置声发射传感器，然后施加荷载或应力。材料会发出声波和应力波，其形式为超声脉冲。受力机体结构中的裂纹和腐蚀区域会发出声波，由传感器记录下来。这些声发射脉冲可用于定位缺陷，并评价其随施加应力增长的速率。声发射检测相对于其他 NDI 方法的优点是，它能在一次检测中查出并定位结构中的所有活动缺陷。由于航空器结构复杂，
-
-……把声发射检测用于航空器，在检测技术和数据判读方面都要求达到一个新的精细水平。
+声发射是一种 NDI 技术，其做法是在航空器结构的各个部位放置声发射传感器，然后施加荷载或应力。材料会发出声波和应力波，其形式为超声脉冲。受力机体结构中的裂纹和腐蚀区域会发出声波，由传感器记录下来。这些声发射脉冲可用于定位缺陷，并评价其随施加应力增长的速率。声发射检测相对于其他 NDI 方法的优点是，它能在一次检测中查出并定位结构中的所有活动缺陷。由于航空器结构复杂，把声发射检测用于航空器，在检测技术和数据判读方面都要求达到一个新的精细水平。
 
 ### 磁粉检测
 
@@ -326,9 +318,7 @@ If the whole body is exposed to a very large dose of radiation, death could resu
 
 #### 指示的辨识
 
-正确评价指示的性质极为重要，但有时仅凭观察指示很难作出。指示的主要区分特征是形状、堆积程度、宽度和轮廓的清晰度。在区分不连续的类型方面，这些特征比判断其严重程度更有价值。对磁粉图形性质的仔细观察
-
-……必须始终纳入对已指示出的不连续之重要性的完整评价。
+正确评价指示的性质极为重要，但有时仅凭观察指示很难作出。指示的主要区分特征是形状、堆积程度、宽度和轮廓的清晰度。在区分不连续的类型方面，这些特征比判断其严重程度更有价值。对磁粉图形性质的仔细观察必须始终纳入对已指示出的不连续之重要性的完整评价。
 
 最容易辨别的是开口于表面的裂纹所产生的指示。这类不连续包括疲劳裂纹、热处理裂纹、焊缝和铸件中的收缩裂纹以及磨削裂纹。
 
@@ -352,9 +342,7 @@ Magnaglo 检查与前一种方法相似，不同之处在于使用荧光磁粉�
 
 磁化电流经带触杆或接触夹的柔性电缆供给，如图所示。电缆端头可装触杆，也可装接触夹。周向磁化可用触杆或接触夹来实现。
 
-纵向磁化是通过把
-
-……电缆缠绕在零件上来实现的。磁化电流的强度由八档分接开关控制，通电时间由类似于固定式通用设备所用的自动切断装置调节。
+纵向磁化是通过把电缆缠绕在零件上来实现的。磁化电流的强度由八档分接开关控制，通电时间由类似于固定式通用设备所用的自动切断装置调节。
 
 该便携式设备还可作退磁器使用，为此提供高电流、低电压的交流电。退磁时，让交流电通过零件，并用电流调节器逐渐减小。
 

@@ -4,7 +4,7 @@
 
 ## 1. 原文
 
-by multiplying by 100 as shown earlier.
+By multiplying by 100 as shown earlier.
 
 Example: Express the fraction 5⁄8 as a percentage.
 

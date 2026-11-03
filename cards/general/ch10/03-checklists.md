@@ -6,217 +6,253 @@
 
 Always use a checklist when performing an inspection. The checklist may be of your own design, one provided by the manufacturer of the equipment being inspected, or one obtained from some other source. The checklist should include the following:
 
-1. Fuselage and Hull Group a. Fabric and skin—for deterioration, distortion, other evidence of failure, and defective or insecure attachment of fittings.
+1. Fuselage and Hull Group
 
-b. Systems and components—for proper installation, apparent defects, and satisfactory operation.
+A. Fabric and skin—for deterioration, distortion, other evidence of failure, and defective or insecure attachment of fittings.
 
-c. Envelope gas bags, ballast tanks, and related parts—for condition.
+B. Systems and components—for proper installation, apparent defects, and satisfactory operation.
 
-2. Cabin and Cockpit Group a. General—for cleanliness and loose equipment that needs to be secured.
+C. Envelope gas bags, ballast tanks, and related parts—for condition.
 
-b. Seats and safety belts—for condition and security.
+2. Cabin and Cockpit Group
 
-c. Windows and windshields—for deterioration and breakage.
+A. General—for cleanliness and loose equipment that needs to be secured.
 
-d. Instruments—for condition, mounting, marking, and (where practicable) for proper operation.
+B. Seats and safety belts—for condition and security.
 
-e. Flight and engine controls—for proper installation and operation.
+C. Windows and windshields—for deterioration and breakage.
 
-f. Batteries—for proper installation and charge.
+D. Instruments—for condition, mounting, marking, and (where practicable) for proper operation.
 
-g. All systems—for proper installation, general condition, apparent defects, and security of attachment.
+E. Flight and engine controls—for proper installation and operation.
 
-3. Engine and Nacelle Group a. Engine section—for visual evidence of excessive oil, fuel, hydraulic leaks, and sources of such leaks.
+F. Batteries—for proper installation and charge.
 
-b. Studs and nuts—for proper torquing and obvious defects.
+G. All systems—for proper installation, general condition, apparent defects, and security of attachment.
 
-c. Internal engine—for cylinder compression and for metal particles or foreign matter on screens and sump drain plugs. If cylinder compression is weak, check for improper internal condition and improper internal tolerances.
+3. Engine and Nacelle Group
 
-d. Engine mount—for cracks and looseness of mounting.
+A. Engine section—for visual evidence of excessive oil, fuel, hydraulic leaks, and sources of such leaks.
 
-e. Flexible vibration dampeners—for condition and deterioration.
+B. Studs and nuts—for proper torquing and obvious defects.
 
-f. Engine controls—for defects, proper travel, and proper safetying.
+C. Internal engine—for cylinder compression and for metal particles or foreign matter on screens and sump drain plugs. If cylinder compression is weak, check for improper internal condition and improper internal tolerances.
 
-g. Lines, hoses, and clamps—for leaks, condition, and looseness.
+D. Engine mount—for cracks and looseness of mounting.
 
-h. Exhaust stacks—for cracks, defects, and proper attachment.
+E. Flexible vibration dampeners—for condition and deterioration.
 
-i. Accessories—for apparent defects in security of mounting.
+F. Engine controls—for defects, proper travel, and proper safetying.
 
-j. All systems—for proper installation, general condition defects, and secure attachment.
+G. Lines, hoses, and clamps—for leaks, condition, and looseness.
 
-k. Cowling—for cracks and defects.
+H. Exhaust stacks—for cracks, defects, and proper attachment.
 
-l. Ground run-up and functional check—check all powerplant controls and systems for correct response, all instruments for proper operation and indication.
+I. Accessories—for apparent defects in security of mounting.
 
-4. Landing Gear Group a. All units—for condition and security of attachment.
+J. All systems—for proper installation, general condition defects, and secure attachment.
 
-b. Shock absorbing devices—for proper oleo fluid level.
+K. Cowling—for cracks and defects.
 
-c. Linkage, trusses, and members—for undue or excessive wear, fatigue, and distortion.
+L. Ground run-up and functional check—check all powerplant controls and systems for correct response, all instruments for proper operation and indication.
 
-d. Retracting and locking mechanism—for proper operation.
+4. Landing Gear Group
 
-e. Hydraulic lines—for leakage.
+A. All units—for condition and security of attachment.
 
-f. Electrical system—for chafing and proper operation of switches.
+B. Shock absorbing devices—for proper oleo fluid level.
 
-g. Wheels—for cracks, defects, and condition of bearings.
+C. Linkage, trusses, and members—for undue or excessive wear, fatigue, and distortion.
 
-h. Tires—for wear and cuts.
+D. Retracting and locking mechanism—for proper operation.
 
-i. Brakes—for proper adjustment.
+E. Hydraulic lines—for leakage.
 
-j. Floats and skis—for security of attachment and obvious defects.
+F. Electrical system—for chafing and proper operation of switches.
 
-5. Wing and Center Section a. All components—for condition and security.
+G. Wheels—for cracks, defects, and condition of bearings.
 
-b. Fabric and skin—for deterioration, distortion, other evidence of failure, and security of attachment.
+H. Tires—for wear and cuts.
 
-c. Internal structure (spars, ribs, compression members)—for cracks, bends, and security.
+I. Brakes—for proper adjustment.
 
-d. Movable surfaces—for damage or obvious defects, unsatisfactory fabric or skin attachment, and proper travel.
+J. Floats and skis—for security of attachment and obvious defects.
 
-e. Control mechanism—for freedom of movement, alignment, and security.
+5. Wing and Center Section
 
-f. Control cables—for proper tension, fraying, wear, and proper routing through fairleads and pulleys.
+A. All components—for condition and security.
 
-6. Empennage Group a. Fixed surfaces—for damage or obvious defects, loose fasteners, and security of attachment.
+B. Fabric and skin—for deterioration, distortion, other evidence of failure, and security of attachment.
 
-b. Movable control surfaces—for damage or obvious defects, loose fasteners, loose fabric, or skin distortion.
+C. Internal structure (spars, ribs, compression members)—for cracks, bends, and security.
 
-c. Fabric or skin—for abrasion, tears, cuts, defects, distortion, and deterioration.
+D. Movable surfaces—for damage or obvious defects, unsatisfactory fabric or skin attachment, and proper travel.
 
-7. Propeller Group a. Propeller assembly—for cracks, nicks, bends, and oil leakage.
+E. Control mechanism—for freedom of movement, alignment, and security.
 
-b. Bolts—for proper torquing and safe tying.
+F. Control cables—for proper tension, fraying, wear, and proper routing through fairleads and pulleys.
 
-c. Anti-icing devices—for proper operation and obvious defects.
+6. Empennage Group
 
-d. Control mechanisms—for proper operation, secure mounting, and travel.
+A. Fixed surfaces—for damage or obvious defects, loose fasteners, and security of attachment.
 
-8. Communication and Navigation Group a. Radio and electronic equipment—for proper installation and secure mounting.
+B. Movable control surfaces—for damage or obvious defects, loose fasteners, loose fabric, or skin distortion.
 
-b. Wiring and conduits—for proper routing, secure mounting, and obvious defects.
+C. Fabric or skin—for abrasion, tears, cuts, defects, distortion, and deterioration.
 
-c. Bonding and shielding—for proper installation and condition.
+7. Propeller Group
 
-d. Antennas—for condition, secure mounting, and proper operation.
+A. Propeller assembly—for cracks, nicks, bends, and oil leakage.
 
-9. Miscellaneous a. Emergency and first aid equipment—for general condition and proper stowage.
+B. Bolts—for proper torquing and safe tying.
 
-b. Parachutes, life rafts, flares, and so forth— inspect in accordance with the manufacturer’s recommendations.
+C. Anti-icing devices—for proper operation and obvious defects.
 
-c. Autopilot system—for general condition, security of attachment, and proper operation.
+D. Control mechanisms—for proper operation, secure mounting, and travel.
+
+8. Communication and Navigation Group
+
+A. Radio and electronic equipment—for proper installation and secure mounting.
+
+B. Wiring and conduits—for proper routing, secure mounting, and obvious defects.
+
+C. Bonding and shielding—for proper installation and condition.
+
+D. Antennas—for condition, secure mounting, and proper operation.
+
+9. Miscellaneous
+
+A. Emergency and first aid equipment—for general condition and proper stowage.
+
+B. Parachutes, life rafts, flares, and so forth— inspect in accordance with the manufacturer’s recommendations.
+
+C. Autopilot system—for general condition, security of attachment, and proper operation.
 
 ## 2. 中文翻译
 
 进行检查时务必使用检查单。检查单可以是你自己设计的，可以是由被检查设备的制造商提供的，也可以来自其他来源。检查单应包含以下内容：
 
-1. 机身与船体组 a. 蒙布与蒙皮——检查有无劣化、变形、其他失效迹象，以及连接件是否缺陷或固定不牢。
+1. 机身与船体组
 
-b. 各系统与部件——检查安装是否正确、有无明显缺陷、工作是否正常。
+A. 蒙布与蒙皮——检查有无劣化、变形、其他失效迹象，以及连接件是否缺陷或固定不牢。
 
-c. 气囊、镇重油箱及相关部件——检查状态。
+B. 各系统与部件——检查安装是否正确、有无明显缺陷、工作是否正常。
 
-2. 客舱与驾驶舱组 a. 总体——检查清洁状况，以及需要固定的松动物品。
+C. 气囊、镇重油箱及相关部件——检查状态。
 
-b. 座椅与安全带——检查状态和固定情况。
+2. 客舱与驾驶舱组
 
-c. 窗户与风挡——检查有无劣化和破损。
+A. 总体——检查清洁状况，以及需要固定的松动物品。
 
-d. 仪表——检查状态、安装、标记，并在可行时检查工作是否正常。
+B. 座椅与安全带——检查状态和固定情况。
 
-e. 飞行操纵与发动机操纵机构——检查安装和操作是否正常。
+C. 窗户与风挡——检查有无劣化和破损。
 
-f. 蓄电池——检查安装是否正确、电量是否充足。
+D. 仪表——检查状态、安装、标记，并在可行时检查工作是否正常。
 
-g. 所有系统——检查安装是否正确、总体状态如何、有无明显缺陷，以及固定是否牢固。
+E. 飞行操纵与发动机操纵机构——检查安装和操作是否正常。
 
-3. 发动机与短舱组 a. 发动机舱段——目视检查有无滑油、燃油、液压油过度渗漏的迹象，以及这些渗漏的来源。
+F. 蓄电池——检查安装是否正确、电量是否充足。
 
-b. 螺柱与螺母——检查拧紧力矩是否正确、有无明显缺陷。
+G. 所有系统——检查安装是否正确、总体状态如何、有无明显缺陷，以及固定是否牢固。
 
-c. 发动机内部——检查气缸压缩性，以及滤网和油底壳放油塞上有无金属颗粒或外来杂质。如果气缸压缩性不足，应检查内部状态是否异常、内部公差是否不当。
+3. 发动机与短舱组
 
-d. 发动机安装架——检查有无裂纹、安装是否松动。
+A. 发动机舱段——目视检查有无滑油、燃油、液压油过度渗漏的迹象，以及这些渗漏的来源。
 
-e. 柔性减振件——检查状态和劣化情况。
+B. 螺柱与螺母——检查拧紧力矩是否正确、有无明显缺陷。
 
-f. 发动机操纵机构——检查有无缺陷、行程是否合适、保险是否正确。
+C. 发动机内部——检查气缸压缩性，以及滤网和油底壳放油塞上有无金属颗粒或外来杂质。如果气缸压缩性不足，应检查内部状态是否异常、内部公差是否不当。
 
-g. 管路、软管与卡箍——检查有无渗漏、状态如何、是否松动。
+D. 发动机安装架——检查有无裂纹、安装是否松动。
 
-h. 排气管——检查有无裂纹、缺陷，安装是否正确。
+E. 柔性减振件——检查状态和劣化情况。
 
-i. 附件——检查安装牢固性方面的明显缺陷。
+F. 发动机操纵机构——检查有无缺陷、行程是否合适、保险是否正确。
 
-j. 所有系统——检查安装是否正确、总体状态缺陷以及固定是否牢固。
+G. 管路、软管与卡箍——检查有无渗漏、状态如何、是否松动。
 
-k. 发动机罩——检查有无裂纹和缺陷。
+H. 排气管——检查有无裂纹、缺陷，安装是否正确。
 
-l. 地面试车与功能检查——检查所有动力装置操纵机构和系统响应是否正确，所有仪表工作和指示是否正常。
+I. 附件——检查安装牢固性方面的明显缺陷。
 
-4. 起落架组 a. 所有组件——检查状态和固定是否牢固。
+J. 所有系统——检查安装是否正确、总体状态缺陷以及固定是否牢固。
 
-b. 减震装置——检查油液式减震器油位是否合适。
+K. 发动机罩——检查有无裂纹和缺陷。
 
-c. 连杆、桁架与构件——检查有无过度或不正常磨损、疲劳和变形。
+L. 地面试车与功能检查——检查所有动力装置操纵机构和系统响应是否正确，所有仪表工作和指示是否正常。
 
-d. 收放与锁定机构——检查工作是否正常。
+4. 起落架组
 
-e. 液压管路——检查有无渗漏。
+A. 所有组件——检查状态和固定是否牢固。
 
-f. 电气系统——检查有无磨伤、开关工作是否正常。
+B. 减震装置——检查油液式减震器油位是否合适。
 
-g. 机轮——检查有无裂纹、缺陷，以及轴承状态。
+C. 连杆、桁架与构件——检查有无过度或不正常磨损、疲劳和变形。
 
-h. 轮胎——检查磨损和割伤。
+D. 收放与锁定机构——检查工作是否正常。
 
-i. 刹车——检查调整是否正确。
+E. 液压管路——检查有无渗漏。
 
-j. 浮筒与雪橇——检查固定是否牢固、有无明显缺陷。
+F. 电气系统——检查有无磨伤、开关工作是否正常。
 
-5. 机翼与中翼段 a. 所有部件——检查状态和牢固性。
+G. 机轮——检查有无裂纹、缺陷，以及轴承状态。
 
-b. 蒙布与蒙皮——检查有无劣化、变形、其他失效迹象，以及固定是否牢固。
+H. 轮胎——检查磨损和割伤。
 
-c. 内部结构（翼梁、翼肋、抗压构件）——检查有无裂纹、弯曲，以及牢固性。
+I. 刹车——检查调整是否正确。
 
-d. 活动面——检查有无损伤或明显缺陷、蒙布或蒙皮固定是否合格、行程是否正确。
+J. 浮筒与雪橇——检查固定是否牢固、有无明显缺陷。
 
-e. 操纵机构——检查活动是否灵活、对位是否正确、是否牢固。
+5. 机翼与中翼段
 
-f. 操纵钢索——检查张力是否合适、有无断丝与磨损，以及经由导索环和滑轮走向是否正确。
+A. 所有部件——检查状态和牢固性。
 
-6. 尾翼组 a. 固定面——检查有无损伤或明显缺陷、紧固件是否松动，以及固定是否牢固。
+B. 蒙布与蒙皮——检查有无劣化、变形、其他失效迹象，以及固定是否牢固。
 
-b. 活动操纵面——检查有无损伤或明显缺陷、紧固件松动、蒙布松弛或蒙皮变形。
+C. 内部结构（翼梁、翼肋、抗压构件）——检查有无裂纹、弯曲，以及牢固性。
 
-c. 蒙布或蒙皮——检查有无擦伤、撕裂、割伤、缺陷、变形和劣化。
+D. 活动面——检查有无损伤或明显缺陷、蒙布或蒙皮固定是否合格、行程是否正确。
 
-7. 螺旋桨组 a. 螺旋桨组件——检查有无裂纹、缺口、弯曲和滑油渗漏。
+E. 操纵机构——检查活动是否灵活、对位是否正确、是否牢固。
 
-b. 螺栓——检查拧紧力矩是否正确、保险是否可靠。
+F. 操纵钢索——检查张力是否合适、有无断丝与磨损，以及经由导索环和滑轮走向是否正确。
 
-c. 防冰装置——检查工作是否正常、有无明显缺陷。
+6. 尾翼组
 
-d. 操纵机构——检查工作是否正常、安装是否牢固、行程是否合适。
+A. 固定面——检查有无损伤或明显缺陷、紧固件是否松动，以及固定是否牢固。
 
-8. 通信与导航组 a. 无线电与电子设备——检查安装是否正确、固定是否牢固。
+B. 活动操纵面——检查有无损伤或明显缺陷、紧固件松动、蒙布松弛或蒙皮变形。
 
-b. 导线与线管——检查走向是否正确、固定是否牢固、有无明显缺陷。
+C. 蒙布或蒙皮——检查有无擦伤、撕裂、割伤、缺陷、变形和劣化。
 
-c. 搭接与屏蔽——检查安装是否正确、状态是否良好。
+7. 螺旋桨组
 
-d. 天线——检查状态、固定是否牢固、工作是否正常。
+A. 螺旋桨组件——检查有无裂纹、缺口、弯曲和滑油渗漏。
 
-9. 杂项 a. 应急与急救设备——检查总体状态和存放是否妥当。
+B. 螺栓——检查拧紧力矩是否正确、保险是否可靠。
 
-b. 降落伞、救生筏、信号弹等——按制造商的建议进行检查。
+C. 防冰装置——检查工作是否正常、有无明显缺陷。
 
-c. 自动驾驶仪系统——检查总体状态、固定是否牢固、工作是否正常。
+D. 操纵机构——检查工作是否正常、安装是否牢固、行程是否合适。
+
+8. 通信与导航组
+
+A. 无线电与电子设备——检查安装是否正确、固定是否牢固。
+
+B. 导线与线管——检查走向是否正确、固定是否牢固、有无明显缺陷。
+
+C. 搭接与屏蔽——检查安装是否正确、状态是否良好。
+
+D. 天线——检查状态、固定是否牢固、工作是否正常。
+
+9. 杂项
+
+A. 应急与急救设备——检查总体状态和存放是否妥当。
+
+B. 降落伞、救生筏、信号弹等——按制造商的建议进行检查。
+
+C. 自动驾驶仪系统——检查总体状态、固定是否牢固、工作是否正常。
 
 ## 3. 专业词汇
 

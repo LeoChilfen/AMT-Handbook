@@ -4,11 +4,7 @@
 
 ## 1. 原文
 
-Understanding the functional design and operation of electrical measuring instruments is very important, since they are used in repairing, maintaining, and troubleshooting electrical circuits. The best and most expensive measuring instrument is of no use unless the technician knows what is
-
-Secondary 1–3 2–3 1–2 2–3 1–3 1–2 A B transformer.
-
-being measured and what each reading indicates. The purpose of the meter is to measure quantities existing in a circuit. For this reason, when a meter is connected to a circuit, it must not change the characteristics of that circuit.
+Understanding the functional design and operation of electrical measuring instruments is very important, since they are used in repairing, maintaining, and troubleshooting electrical circuits. The best and most expensive measuring instrument is of no use unless the technician knows what is being measured and what each reading indicates. The purpose of the meter is to measure quantities existing in a circuit. For this reason, when a meter is connected to a circuit, it must not change the characteristics of that circuit.
 
 Meters are either self-excited or externally excited. Those that are self-excited operate from a power source within the meter. Externally-excited meters get their power source from the circuit that they are connected to. The most common analog meters in use today are the voltmeter, ammeter, and ohmmeter. All of which operate on the principles of electromagnetism. The fundamental principle behind the operation of the meter is the interaction between magnetic fields created by a current gathered from the circuit in some manner. This interaction is between the magnetic fields of a permanent magnet and the coils of a rotating magnet. The greater the current through the coils of the rotating magnet, the stronger the magnetic field produced. A stronger field produces greater rotation of the coil. While some meters can be used for both DC and AC circuit measurement, only those used as DC instruments are discussed in this section. The meters used for AC, or for both AC and DC, are discussed in the study of AC theory and circuitry.
 
@@ -22,11 +18,11 @@ The current sensitivity of a meter movement is the amount of current required to
 
 In a standard d’Arsonval meter, movement may have a current sensitivity of 1 mA and a resistance of 50 Ω. If the meter is going to be used to measure more than 1 mA, then additional circuitry is required to accomplish the task. This additional circuitry is a simple shunt resistor. The purpose of the shunt resistor is to bypass current that exceeds the 1 mA limitation of the meter movement. To illustrate this, assume that the 1 mA meter in question is needed to measure 10 mA. The shunt resistor used should carry 9 mA while the remaining 1 mA is allowed to pass through the meter.
 
-To determine the proper shunt resistance for this situation: R SH = Shunt resistance R M = Meter resistance = 50 Ω Because the shunt resistance and the 50 Ω meter resistance are in parallel, the voltage drop across both of them is the same.
+To determine the proper shunt resistance for this situation: RSH = Shunt resistance R M = Meter resistance = 50 Ω Because the shunt resistance and the 50 Ω meter resistance are in parallel, the voltage drop across both of them is the same.
 
-E SH = EM Using Ohm’s Law, this relationship can be rewritten as:
+ESH = EM Using Ohm’s Law, this relationship can be rewritten as:
 
-E SH = ISH × RSH E M = IM × RM I SH × RSH = IM × RM Simply solve for RSH RSH = IM × RMISH Substituting the values RSH = = 5.56 ΩImA × 50 Ω9 mA
+ESH = ISH × RSH E M = IM × RM ISH × RSH = IM × RM Simply solve for RSH RSH = IM × RMISH Substituting the values RSH = = 5.56 ΩImA × 50 Ω9 mA
 
 To make meter readings quickly and accurately, it is desirable that the moving pointer overshoot its proper position only a small amount and come to rest after not more than one or two small oscillations. The term “damping” is applied to methods used to bring the pointer of an electrical meter to rest after it has been set in motion. Damping may be accomplished by electrical means, by mechanical means, or by a combination of both.
 
@@ -64,11 +60,7 @@ RSH ISH 1 mA 10 mA 9 mA through which the current flow is to be measured.
 
 ## 2. 中文翻译
 
-理解电气测量仪的功能设计与操作十分重要，因为它们在电气电路的修理、维护和故障排除中都要用到。最优质、最昂贵的测量仪表也毫无用处，除非技术人员知道
-
-（原文此处为图注碎片，原文无正文）
-
-所测的是什么量，以及每个读数分别表示什么。仪表的作用是测量电路中存在的各种量。因此，当仪表接入电路时，不得改变该电路的特性。
+理解电气测量仪的功能设计与操作十分重要，因为它们在电气电路的修理、维护和故障排除中都要用到。最优质、最昂贵的测量仪表也毫无用处，除非技术人员知道所测的是什么量，以及每个读数分别表示什么。仪表的作用是测量电路中存在的各种量。因此，当仪表接入电路时，不得改变该电路的特性。
 
 仪表有自励式和外励式两类。自励式仪表依靠仪表内部的电源工作。外励式仪表的电源取自其所接入的电路。当今最常用的模拟式仪表是电压表、电流表和欧姆表，它们都依据电磁学原理工作。仪表工作的基本原理，是由按某种方式从电路取得的电流所建立的磁场之间的相互作用。这种相互作用发生在永久磁铁的磁场与旋转磁铁的线圈之间。流过旋转磁铁线圈的电流越大，产生的磁场越强。磁场越强，线圈的转动越大。虽然有些仪表既能测量直流也能测量交流，但本节只讨论用作直流仪表的那些。用于交流、或同时用于交流和直流的仪表，在交流理论与电路的学习中讨论。
 

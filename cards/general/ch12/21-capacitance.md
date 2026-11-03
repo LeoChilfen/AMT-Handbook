@@ -66,9 +66,7 @@ The electrolyte of the dry electrolytic unit is a paste contained in a separator
 
 Similar to the electrolytic, these capacitors are constructed with a material called tantalum, which is used for the electrodes. They are superior to electrolytic capacitors, having better temperature and frequency characteristics. When tantalum powder is baked in order to solidify it, a crack forms inside. This crack is used to store an electrical charge. Like electrolytic capacitors, the tantalum capacitors are also polarized and are indicated with the “+” and “−” symbols.
 
-In this capacitor, a thin polyester film is used as a dielectric. These components are inexpensive, temperature stable, and widely used. Tolerance is approximately 5–10 percent. It
-
-can be quite large depending on capacity or rated voltage.
+In this capacitor, a thin polyester film is used as a dielectric. These components are inexpensive, temperature stable, and widely used. Tolerance is approximately 5–10 percent. It can be quite large depending on capacity or rated voltage.
 
 In radio and radar transmitters, voltages high enough to cause arcing, or breakdown, of paper dielectrics are often used. Consequently, in these applications capacitors that use oil or oil impregnated paper for the dielectric material are preferred. Capacitors of this type are considerably more expensive than ordinary paper capacitors, and their use is generally restricted to radio and radar transmitting equipment.
 
@@ -204,9 +202,7 @@ In a circuit containing only capacitance, the current reaches its maximum value 
 
 这类电容器与电解电容器类似，电极所用的材料是钽。它们优于电解电容器，具有更好的温度特性和频率特性。钽粉在焙烧固化时内部会形成一道裂纹，这道裂纹用来储存电荷。与电解电容器一样，钽电容器也是有极性的，用「+」和「−」符号标示。
 
-这种电容器用一层薄聚酯薄膜作电介质。这类元件价格低廉、温度稳定、应用广泛，容差约为 5–10%。它
-
-的尺寸可能因容量或额定电压而相当大。
+这种电容器用一层薄聚酯薄膜作电介质。这类元件价格低廉、温度稳定、应用广泛，容差约为 5–10%。它的尺寸可能因容量或额定电压而相当大。
 
 在无线电和雷达发射机中，常使用高到会使纸介质打火（击穿）的电压。因此，这类应用优先选用以油或油浸纸作电介质的电容器。这类电容器比普通纸介电容器贵得多，其使用通常仅限于无线电和雷达发射设备。
 

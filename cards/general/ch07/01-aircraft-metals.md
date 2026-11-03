@@ -66,7 +66,7 @@ Steel containing carbon in percentages ranging from 0.50 to 1.05 percent is clas
 
 The various nickel steels are produced by combining nickel with carbon steel. Steels containing from 3 to 3.75 percent nickels are commonly used. Nickel increases the hardness, tensile strength, and elastic limit of steel without appreciably decreasing the ductility. It also intensifies the hardening effect of heat-treatment. SAE 2330 steel is used extensively for aircraft parts, such as bolts, terminals, keys, clevises, and pins.
 
-Chromium steel is high in hardness, strength, and corrosion- resistant properties and is particularly adaptable for heat-treated forgings, which require greater toughness and strength than may be obtained in plain carbon steel. It can be used for articles such as the balls and rollers of antifriction bearings. Chrome- nickel or stainless steels are the corrosion resistant metals. The anticorrosive degree of this steel is determined by the surface condition of the metal, as well as by the composition, temperature, and concentration of the corrosive agent. The principal alloy of stainless steel is chromium. The corrosion resistant steel most often used in aircraft construction is known as 18-8 steel because its content is 18 percent chromium and 8 percent nickel. One of the distinctive features of 18-8 steel is that cold-working may increase its strength.
+Chromium steel is high in hardness, strength, and corrosion-resistant properties and is particularly adaptable for heat-treated forgings, which require greater toughness and strength than may be obtained in plain carbon steel. It can be used for articles such as the balls and rollers of antifriction bearings. Chrome-nickel or stainless steels are the corrosion resistant metals. The anticorrosive degree of this steel is determined by the surface condition of the metal, as well as by the composition, temperature, and concentration of the corrosive agent. The principal alloy of stainless steel is chromium. The corrosion resistant steel most often used in aircraft construction is known as 18-8 steel because its content is 18 percent chromium and 8 percent nickel. One of the distinctive features of 18-8 steel is that cold-working may increase its strength.
 
 Stainless steel may be rolled, drawn, bent, or formed to any shape. Because these steels expand about 50 percent more than mild steel and conduct heat only about 40 percent as rapidly, they are more difficult to weld. Stainless steel can be used for almost any part of an aircraft. Some of its common applications are the fabrication of exhaust collectors, stacks and manifolds, structural and machined parts, springs, castings, tie rods, and control cables.
 
@@ -116,9 +116,7 @@ The various types of aluminum may be divided into two general classes:
 
 • Wrought alloys (those which may be shaped by rolling, drawing, or forging). Of these two, the wrought alloys are the most widely used in aircraft construction, being used for stringers, bulkheads, skin, rivets, and extruded sections.
 
-Aluminum casting alloys are divided into two basic groups. In one, the physical properties of the alloys are determined by the alloying elements and cannot be changed after the metal is cast. In the other, the alloying elements make it steel (SS) alloys.
-
-possible to heat-treat the casting to produce the desired physical properties.
+Aluminum casting alloys are divided into two basic groups. In one, the physical properties of the alloys are determined by the alloying elements and cannot be changed after the metal is cast. In the other, the alloying elements make it possible to heat-treat the casting to produce the desired physical properties.
 
 A letter preceding the alloy number identifies the casting alloys. When a letter precedes a number, it indicates a slight variation in the composition of the original alloy. This variation in composition is simply to impart some desirable quality. For example, in casting alloy 214, the addition of zinc to improve its pouring qualities is indicated by the letter A in front of the number, thus creating the designation A214.
 
@@ -142,7 +140,7 @@ Die-castings are used where relatively large production of a given part is invol
 
 #### Wrought Aluminum
 
-and wrought aluminum alloys are divided into two general classes: non-heat-treatable alloys and heat- treatable alloys.
+Wrought aluminum and wrought aluminum alloys are divided into two general classes: non-heat-treatable alloys and heat-treatable alloys.
 
 Non-heat-treatable alloys are those in which the mechanical properties are determined by the amount of cold-work introduced after the final annealing operation. The mechanical properties obtained by cold-working are destroyed by any subsequent heating and cannot be restored except by additional cold-working, which is not always possible. The “full hard” temper is produced by the maximum amount of cold-work that is commercially practicable. Metal in the “as fabricated” condition is produced from the ingot without any subsequent controlled amount of cold-working or thermal treatment. There is, consequently, a variable amount of strain hardening depending upon the thickness of the section.
 
@@ -174,7 +172,7 @@ In the 2xxx through 8xxx groups, the first digit indicates the major alloying el
 
 3000 series: Manganese is the principal alloying element of this group, which is generally non-heat-treatable. The percentage of manganese that is alloy effective is 1.5 percent. The most popular is 3003, which is of moderate strength and has good working characteristics.
 
-4000 series: Silicon is the principal alloying element of this group and lowers melting temperature. Its primary use is in welding and brazing. When used in welding heat- treatable alloys, this group responds to a limited amount of heat-treatment.
+4000 series: Silicon is the principal alloying element of this group and lowers melting temperature. Its primary use is in welding and brazing. When used in welding heat-treatable alloys, this group responds to a limited amount of heat-treatment.
 
 5000 series: Magnesium is the principal alloying element. It has good welding and corrosion resistant characteristics. High temperatures (over 150 °F) or excessive cold-working increases susceptibility to corrosion.
 
@@ -198,7 +196,7 @@ Where used, the temper designation follows the alloy designation and is separate
 
 #### Magnesium & Magnesium Alloys
 
-Magnesium, the world’s lightest structural metal, is a silvery white material weighing only two-thirds as much as aluminum. Magnesium does not possess sufficient strength in its pure state for structural uses, but when alloyed with zinc, aluminum, and manganese, it produces an alloy having the highest strength- to-weight ratio of any of the commonly used metals.
+Magnesium, the world’s lightest structural metal, is a silvery white material weighing only two-thirds as much as aluminum. Magnesium does not possess sufficient strength in its pure state for structural uses, but when alloyed with zinc, aluminum, and manganese, it produces an alloy having the highest strength-to-weight ratio of any of the commonly used metals.
 
 Magnesium is probably more widely distributed in nature than any other metal. It can be obtained from such ores as dolomite and magnesite, as well as from seawater, underground brines, and waste solutions of potash. With about 10 million pounds of magnesium in one cubic mile of seawater, there is no danger of a dwindling supply.
 
@@ -214,7 +212,7 @@ Because of the high melting point of titanium, high temperature properties are d
 
 Titanium is nonmagnetic and has an electrical resistance comparable to that of stainless steel. Some of the base alloys of titanium are quite hard. Heat-treating and alloying do not develop the hardness of titanium to the high levels of some of the heat-treated alloys of steel. It was only recently that a heat-treatable titanium alloy was developed. Prior to the development of this alloy, heating and rolling was the only method of forming that could be accomplished. However, it is possible to form the new alloy in the soft condition and heat-treat it for hardness.
 
-Iron, molybdenum, and chromium are used to stabilize titanium and produce alloys that quench-harden and age- harden. The addition of these metals also adds ductility. The fatigue resistance of titanium is greater than that of aluminum or steel.
+Iron, molybdenum, and chromium are used to stabilize titanium and produce alloys that quench-harden and age-harden. The addition of these metals also adds ductility. The fatigue resistance of titanium is greater than that of aluminum or steel.
 
 Titanium becomes softer as the degree of purity is increased. It is not practical to distinguish between the various grades of commercially pure or unalloyed titanium by chemical analysis; therefore, the grades are determined by mechanical properties.
 
@@ -254,15 +252,13 @@ Red brass, sometimes termed “bronze” because of its tin content, is used in 
 
 Bronzes are copper alloys containing tin. The true bronzes have up to 25 percent tin, but those with less than 11 percent are basic types of crystals: A (alpha), B (beta), and C (combined alpha and beta). Their characteristics are:
 
-• A (alpha)—all-around performance; good weld ability;
-
-tough and strong both cold and hot; and resistant to oxidation.
+• A (alpha)—all-around performance; good weld ability; tough and strong both cold and hot; and resistant to oxidation.
 
 • B (beta)—bendability; excellent bend ductility; strong both cold and hot, but vulnerable to contamination.
 
 • C (combined alpha and beta for compromise performances)—strong when cold and warm, but weak when hot; good bendability; moderate contamination resistance; excellent forge ability.
 
-Titanium is manufactured for commercial use in two basic compositions: commercially-pure titanium and alloyed titanium. A-55 is an example of commercially-pure titanium. It has yield strength of 55,000 to 80,000 psi and is a general- purpose grade for moderate to severe forming. It is sometimes used for nonstructural aircraft parts and for all types of corrosion-resistant applications, such as tubing. Type A-70 titanium is closely related to type A-55 but has yield strength of 70,000 to 95,000 psi. It is used where higher strength is required, and it is specified for many moderately stressed aircraft parts. For many corrosion applications, it is used interchangeably with type A-55. Both type A-55 and type A-70 is weldable.
+Titanium is manufactured for commercial use in two basic compositions: commercially-pure titanium and alloyed titanium. A-55 is an example of commercially-pure titanium. It has yield strength of 55,000 to 80,000 psi and is a general-purpose grade for moderate to severe forming. It is sometimes used for nonstructural aircraft parts and for all types of corrosion-resistant applications, such as tubing. Type A-70 titanium is closely related to type A-55 but has yield strength of 70,000 to 95,000 psi. It is used where higher strength is required, and it is specified for many moderately stressed aircraft parts. For many corrosion applications, it is used interchangeably with type A-55. Both type A-55 and type A-70 is weldable.
 
 One of the widely-used titanium base alloys is designated as C-110M. It is used for primary structural members and aircraft skin, has 110,000 psi minimum yield strength, and contains 8 percent manganese.
 
@@ -298,7 +294,7 @@ K-Monel has been successfully used for gears and structural members in aircraft,
 
 There are basically two nickel alloys used in aircraft: Monel and Inconel. Monel contains about 68 percent nickel and 29 percent copper, plus small amounts of iron and manganese. Nickel alloys can be welded or easily machined. Some of the nickel Monel, especially the nickel Monels containing small amounts of aluminum, are heat-treatable to similar tensile strengths of steel. Nickel Monel is used in gears and parts that require high strength and toughness, such as exhaust systems that require high strength and corrosion resistance at elevated temperatures.
 
-Inconel alloys of nickel produce a high strength, high temperature alloy containing approximately 80 percent nickel, 14 percent chromium, and small amounts of iron and other elements. The nickel Inconel alloys are frequently used in turbine engines because of their ability to maintain their strength and corrosion resistance under extremely high- temperature conditions.
+Inconel alloys of nickel produce a high strength, high temperature alloy containing approximately 80 percent nickel, 14 percent chromium, and small amounts of iron and other elements. The nickel Inconel alloys are frequently used in turbine engines because of their ability to maintain their strength and corrosion resistance under extremely high-temperature conditions.
 
 Inconel and stainless steel are similar in appearance and are frequently found in the same areas of the engine. Sometimes it is important to identify the difference between the metal samples. A common test is to apply one drop of cupric chloride and hydrochloric acid solution to the unknown metal and allow it to remain for 2 minutes. At the end of the soak period, a shiny spot indicates the material is nickel Inconel, and a copper-colored spot indicates stainless steel.
 
@@ -306,7 +302,7 @@ Inconel and stainless steel are similar in appearance and are frequently found i
 
 In selecting substitute metals for the repair and maintenance of aircraft, it is very important to check the appropriate structural repair manual. Aircraft manufacturers design structural members to meet a specific load requirement for an aircraft. The methods of repairing these members, apparently similar in construction, vary with different aircraft.
 
-Four requirements must be kept in mind when selecting substitute metals. The first and most important of these is maintaining the original strength of the structure. The other three are maintaining contour or aerodynamic smoothness; maintaining original weight, if possible, or keeping added weight to a minimum; and maintaining the original corrosion- resistant properties of the metal.
+Four requirements must be kept in mind when selecting substitute metals. The first and most important of these is maintaining the original strength of the structure. The other three are maintaining contour or aerodynamic smoothness; maintaining original weight, if possible, or keeping added weight to a minimum; and maintaining the original corrosion-resistant properties of the metal.
 
 ### Metalworking Processes
 
@@ -320,7 +316,7 @@ Blooms, billets, or slabs are heated above the critical range and rolled into a 
 
 Complicated sections, which cannot be rolled, or sections of which only a small quantity is required, are usually forged. Forging of steel is a mechanical working at temperatures above the critical range to shape the metal as desired. Forging is done either by pressing or hammering the heated steel until the desired shape is obtained.
 
-Pressing is used when the parts to be forged are large and heavy; this process also replaces hammering where high- grade steel is required. Since a press is slow acting, its force is uniformly transmitted to the center of the section, thus affecting the interior grain structure, as well as the exterior to give the best possible structure throughout.
+Pressing is used when the parts to be forged are large and heavy; this process also replaces hammering where high-grade steel is required. Since a press is slow acting, its force is uniformly transmitted to the center of the section, thus affecting the interior grain structure, as well as the exterior to give the best possible structure throughout.
 
 Hammering can be used only on relatively small pieces. Since hammering transmits its force almost instantly, its effect is limited to a small depth. Thus, it is necessary to use a very heavy hammer or to subject the part to repeated blows to ensure complete working of the section. If the force applied is too weak to reach the center, the finished forged surface is concave. If the center was properly worked, the surface is convex or bulged. The advantage of hammering is that the operator has control over both the amount of pressure applied and the finishing temperature and can produce small parts of the highest grade. This type of forging is usually referred to as smith forging. It is used extensively where only a small number of parts are needed. Considerable machining time and material are saved when a part is smith forged to approximately the finished shape.
 
@@ -332,7 +328,7 @@ Normalizing applies to iron base metals only. Normalizing consists of heating th
 
 Strength, weight, and reliability are three factors that determine the requirements to be met by any material used in airframe construction and repair. Airframes must be strong and yet as lightweight as possible. There are very definite limits to which increases in strength can be accompanied by increases in weight. An airframe so heavy that it could not support a few hundred pounds of additional weight would be of little use.
 
-All metals, in addition to having a good strength-to- weight ratio, must be thoroughly reliable, thus minimizing the possibility of dangerous and unexpected failures. In addition to these general properties, the material selected for a definite application must possess specific qualities suitable for the purpose.
+All metals, in addition to having a good strength-to-weight ratio, must be thoroughly reliable, thus minimizing the possibility of dangerous and unexpected failures. In addition to these general properties, the material selected for a definite application must possess specific qualities suitable for the purpose.
 
 The material must possess the strength required by the dimensions, weight, and use. The five basic stresses that metals may be required to withstand are tension, compression, shear, bending, and torsion.
 
@@ -344,7 +340,7 @@ Bending can be described as the deflection or curving of a member due to forces 
 
 The relationship between the strength of a material and its weight per cubic inch, expressed as a ratio, is known as the strength-to-weight ratio. This ratio forms the basis for comparing the desirability of various materials for use in airframe construction and repair. Neither strength nor weight alone can be used as a means of true comparison. In some applications, such as the skin of monocoque structures, thickness is more important than strength. In this instance, the material with the lightest weight for a given thickness or gauge is best. Thickness or bulk is necessary to prevent bucking or damage caused by careless handling.
 
-Corrosion is the eating away or pitting of the surface or the
+Corrosion is the eating away or pitting of the surface.
 
 #### Internal Structure of Metals
 
@@ -356,7 +352,7 @@ If the metal is cold-worked too much, that is, if it is bent back and forth or h
 
 In the heat-treatment of aluminum alloys, only two processes are included: the hardening and toughening process and the softening process. The hardening and toughening process is called heat-treating, and the softening process is called annealing. Aircraft metals are subjected to both shock and fatigue (vibrational) stresses. Fatigue occurs in materials that are exposed to frequent reversals of loading or repeatedly applied loads, if the fatigue limit is reached or exceeded. Repeated vibration or bending ultimately causes a minute crack to occur at the weakest point. As vibration or bending continues, the crack lengthens until the part completely fails. This is termed “shock and fatigue failure.” Resistance to this condition is known as shock and fatigue resistance. It is essential that materials used for critical parts be resistant to these stresses.
 
-Heat-treatment is a series of operations involving the heating and cooling of metals in the solid state. Its purpose is to change a mechanical property, or combination of mechanical properties, so that the metal is more useful, serviceable, and safe for a definite purpose. By heat-treating, a metal can be made harder, stronger, and more resistant to impact. Heat- treating can also make a metal softer and more ductile. No one heat-treating operation can produce all these characteristics. In fact, some properties are often improved at the expense of others. In being hardened, for example, a metal may become brittle.
+Heat-treatment is a series of operations involving the heating and cooling of metals in the solid state. Its purpose is to change a mechanical property, or combination of mechanical properties, so that the metal is more useful, serviceable, and safe for a definite purpose. By heat-treating, a metal can be made harder, stronger, and more resistant to impact. Heat-treating can also make a metal softer and more ductile. No one heat-treating operation can produce all these characteristics. In fact, some properties are often improved at the expense of others. In being hardened, for example, a metal may become brittle.
 
 The various heat-treating processes are similar in that they all involve the heating and cooling of metals. They differ, however, in the temperatures to which the metal is heated, the rate at which it is cooled, and, of course, in the result.
 
@@ -392,13 +388,11 @@ Heat-treating furnaces differ in size, shape, capacity, construction, operation,
 
 The size and capacity of a heat-treating furnace depends on the intended use. A furnace must be capable of heating rapidly and uniformly, regardless of the desired maximum temperature or the mass of the charge. An oven-type furnace should have a working space (hearth) about twice as long and three times as wide as any part that is heated in the furnace.
 
-Accurate temperature measurement is essential to good heat- treating. The usual method is by means of thermocouples: the most common base metal couples are copper-constantan (up to about 700 °F), iron-constantan (up to about 1,400 °F), and chromel-alumel (up to about 2,200 °F). The most common noble metal couples (which can be used up to about 2,800 °F) are platinum coupled with either the alloy 87 percent platinum (13 percent rhodium) or the alloy 90 percent platinum (10 percent rhodium). The temperatures quoted are for continuous operation.
+Accurate temperature measurement is essential to good heat-treating. The usual method is by means of thermocouples: the most common base metal couples are copper-constantan (up to about 700 °F), iron-constantan (up to about 1,400 °F), and chromel-alumel (up to about 2,200 °F). The most common noble metal couples (which can be used up to about 2,800 °F) are platinum coupled with either the alloy 87 percent platinum (13 percent rhodium) or the alloy 90 percent platinum (10 percent rhodium). The temperatures quoted are for continuous operation.
 
 The life of thermocouples is affected by the maximum temperature (which may frequently exceed those given above) and by the furnace atmosphere. Iron-constantan is more suited for use in reducing and chromel-alumel in oxidizing atmospheres. Thermocouples are usually encased in metallic or ceramic tubes closed at the hot end to protect them from the furnace gases. A necessary attachment is an instrument, such as a millivoltmeter or potentiometer, for measuring the electromotive force generated by the thermocouple. In the interest of accurate control, place the hot junction of the thermocouple as close to the work as possible. The use of an automatic controller is valuable in controlling the temperature at the desired value.
 
-Pyrometers may have meters either of the indicating type or recording type. Indicating pyrometers give direct reading of the furnace temperature. The recording type produces a permanent record of the temperature range throughout the
-
-operation by means of an inked stylus attached to an arm, which traces a line on a sheet of calibrated paper or temperature chart.
+Pyrometers may have meters either of the indicating type or recording type. Indicating pyrometers give direct reading of the furnace temperature. The recording type produces a permanent record of the temperature range throughout the operation by means of an inked stylus attached to an arm, which traces a line on a sheet of calibrated paper or temperature chart.
 
 Pyrometer installations on all modern furnaces provide automatic regulation of the temperature at any desired setting. Instruments of this type are called controlling potentiometer pyrometers. They include a current regulator and an operating mechanism, such as a relay.
 
@@ -448,9 +442,7 @@ The first important consideration in the heat-treatment of a steel part is to kn
 
 #### Behavior of Steel During Heating & Cooling
 
-Changing the internal structure of a ferrous metal is accomplished by heating to a temperature above its upper critical point, holding it at that temperature for a time sufficient to permit certain internal changes to occur, and then °Fahrenheit °Centigrade °F °C °F °C Color of Hot Body Temper Colors 2,700 2,600 2,500 2,400 2,300 2,200 2,100 2,000 1,900 1,800 1,700 1,600 1,500 1,400 1,300 1,200 1,100 1,000 900 800 700 600 500 400 300 200 100 1,500 1,400 1,300 1,200 1,100 1,000 900 800 700 600 500 400 300 200 100 0 Straw 220430 Dark Blue 290550 Purple 270520 Y ellow Brown 250460 White 12002192 Light Y ellow 11002012 Y ellow 10501922 Light Orange 9801796 Orange 9301706 Light Red 8701598 810Light cherry1490 Cherry 7601400 Dark Cherry 7001292 Blood Red 6501202 Brown Red 6001112 Approximate Temperature Colors to Fahrenheit or vice versa, color temperature scale for hardening temperature range, and tempering temperature range.
-
-cooling to atmospheric temperature under predetermined, controlled conditions.
+Changing the internal structure of a ferrous metal is accomplished by heating to a temperature above its upper critical point, holding it at that temperature for a time sufficient to permit certain internal changes to occur, and then cooling to atmospheric temperature under predetermined, controlled conditions.
 
 At ordinary temperatures, the carbon in steel exists in the form of particles of iron carbide scattered throughout an iron matrix known as “ferrite.” The number, size, and distribution of these particles determine the hardness of the steel. At elevated temperatures, the carbon is dissolved in the iron matrix in the form of a solid solution called “austenite,” and the carbide particles appear only after the steel has been cooled. If the cooling is slow, the carbide particles are relatively coarse and few. In this condition, the steel is soft. If the cooling is rapid, as by quenching in oil or water, the carbon precipitates as a cloud of very fine carbide particles, and the steel is hard. The fact that the carbide particles can be dissolved in austenite is the basis of the heat-treatment of steel. The temperatures at which this transformation takes place are called the critical points and vary with the composition of the steel. The percent of carbon in the steel has the greatest influence on the critical points of heat-treatment.
 
@@ -498,7 +490,7 @@ Harden by cold-work only.
 
 (n) Water used for quenching shall be within the temperature range of 80–150 °F.
 
-continue if the final structure is to be all martensite.
+Continue if the final structure is to be all martensite.
 
 The time limit for the temperature drop to 1,000 °F increases above the 1 second limit for carbon steels when alloys are added to steel. Therefore, a slower quenching medium produces hardness in alloy steels.
 
@@ -586,7 +578,7 @@ The most widely used alloys in aircraft construction are hardened by heat-treatm
 
 • T10—artificially aged and then cold-worked Additional digits may be added to T1 through T10 to indicate a variation in treatment, which significantly alters the characteristics of the product.
 
-Aluminum-alloy sheets are marked with the specification number on approximately every square foot of material. If for any reason this identification is not on the material, it is possible to separate the heat-treatable alloys from the non- heat-treatable alloys by immersing a sample of the material in a 10 percent solution of caustic soda (sodium hydroxide). The heat-treatable alloys turn black due to the copper content, whereas the others remain bright. In the case of clad material, the surface remains bright, but there is a dark area in the middle when viewed from the edge.
+Aluminum-alloy sheets are marked with the specification number on approximately every square foot of material. If for any reason this identification is not on the material, it is possible to separate the heat-treatable alloys from the non-heat-treatable alloys by immersing a sample of the material in a 10 percent solution of caustic soda (sodium hydroxide). The heat-treatable alloys turn black due to the copper content, whereas the others remain bright. In the case of clad material, the surface remains bright, but there is a dark area in the middle when viewed from the edge.
 
 #### Alclad Aluminum
 
@@ -652,11 +644,7 @@ Where the straightening operations produce an appreciable increase in the tensil
 
 As previously stated, the aluminum alloys are in a comparatively soft state immediately after quenching from a solution heat-treating temperature. To obtain their maximum strengths, they must be either naturally aged or precipitation-hardened.
 
-During this hardening and strengthening operation, precipitation of the soluble constituents from the super- saturated solid solution takes place. The strength of the material increases (often by a series of peaks) until a maximum is reached, as precipitation progresses. Further aging, or over- Thickness (inch) Time (minutes)
-
-Up to 0.032 30 0.032 to 1⁄8 30 40 Over ¼ 60 NOTE: Soaking time starts when the metal (or the molten bath) reaches a temperature within the range specified above.
-
-aging, causes the strength to steadily decline until a somewhat stable condition is obtained. The submicroscopic particles that are precipitated provide the keys or locks within the grain structure and between the grains to resist internal slippage and distortion when a load of any type is applied. In this manner, the strength and hardness of the alloy are increased.
+During this hardening and strengthening operation, precipitation of the soluble constituents from the super-saturated solid solution takes place. The strength of the material increases (often by a series of peaks) until a maximum is reached, as precipitation progresses. Further aging, or over-aging, causes the strength to steadily decline until a somewhat stable condition is obtained. The submicroscopic particles that are precipitated provide the keys or locks within the grain structure and between the grains to resist internal slippage and distortion when a load of any type is applied. In this manner, the strength and hardness of the alloy are increased.
 
 Precipitation-hardening produces a great increase in the strength and hardness of the material with corresponding decreases in the ductile properties. The process used to obtain the desired increase in strength is therefore known as aging or precipitation-hardening.
 
@@ -706,11 +694,11 @@ The 2017 rivet should be driven within approximately 1 hour and the 2024 rivet w
 
 ### Heat-Treatment of Magnesium Alloys
 
-Magnesium alloy castings respond readily to heat-treatment, and about 95 percent of the magnesium used in aircraft construction is in the cast form. The heat-treatment of magnesium alloy castings is like the heat-treatment of aluminum alloys in that there are two types of heat-treatment:
+Magnesium alloy castings respond readily to heat-treatment, and about 95 percent of the magnesium used in aircraft construction is in the cast form. The heat-treatment of magnesium alloy castings is like the heat-treatment of aluminum alloys in that there are two types of heat-treatment: solution heat-treatment and precipitation (aging) heat-treatment.
 
 #### Solution Heat-Treatment
 
-and precipitation (aging) heat- treatment. Magnesium, however, develops a negligible change in its properties when allowed to age naturally at room temperatures.
+Magnesium, however, develops a negligible change in its properties when allowed to age naturally at room temperatures.
 
 Solution Heat-Treatment Magnesium alloy castings are solution heat-treated to improve tensile strength, ductility, and shock resistance. This heat-treatment condition is indicated by using the symbol –T4 following the alloy designation. Solution heat-treatment plus artificial aging is designated –T6. Artificial aging is necessary to develop the full properties of the metal.
 
@@ -738,7 +726,7 @@ Titanium is heat-treated for the following purposes:
 
 • Relief of stresses set up during cold forming or machining.
 
-• Annealing after hot-working or cold-working, or to provide maximum ductility for subsequent cold- working.
+• Annealing after hot-working or cold-working, or to provide maximum ductility for subsequent cold-working.
 
 • Thermal hardening to improve strength.
 
@@ -760,9 +748,9 @@ The chemical activity of titanium and its rapid absorption of oxygen, nitrogen, 
 
 ### Hardness Testing
 
-Hardness testing is a method of determining the results of heat- treatment, as well as the state of a metal prior to heat-treatment. Since hardness values can be tied in with tensile strength values and, in part, with wear resistance. Hardness tests are a valuable check of heat-treat control and of material properties.
+Hardness testing is a method of determining the results of heat-treatment, as well as the state of a metal prior to heat-treatment. Since hardness values can be tied in with tensile strength values and, in part, with wear resistance. Hardness tests are a valuable check of heat-treat control and of material properties.
 
-Practically all hardness testing equipment now uses the resistance to penetration as a measure of hardness. Included among the better-known hardness testers are the Brinell and Rockwell, both of which are described and illustrated in this section. Also included is the Barcol tester, a popular portable- type hardness tester currently in use.
+Practically all hardness testing equipment now uses the resistance to penetration as a measure of hardness. Included among the better-known hardness testers are the Brinell and Rockwell, both of which are described and illustrated in this section. Also included is the Barcol tester, a popular portable-type hardness tester currently in use.
 
 The Brinell hardness tester uses a hardened spherical ball that is forced into the surface of the metal. This ball is 10 millimeters (0.3937 inch) in diameter. A pressure of 3,000 kilograms is used for ferrous metals and 500 kilograms for nonferrous metals. The pressure must be maintained at least 10 seconds for ferrous metals and at least 30 seconds for nonferrous metals. The load is applied by hydraulic pressure. A hand pump or an electric motor, depending on the model of tester, builds up the hydraulic pressure. A pressure gauge indicates the amount of pressure. There is a release mechanism for relieving the pressure after the test has been made, and a calibrated microscope is provided for measuring the diameter of the impression in millimeters. The machine has various shaped anvils for supporting the specimen and an elevating screw for bringing the specimen in contact with the ball penetrator. These are attachments for special tests.
 
@@ -794,7 +782,7 @@ Clad aluminum alloy sheets cannot be tested directly with any accuracy with a Ro
 
 The Barcol tester is a portable unit designed for testing aluminum alloys, copper, brass, or other relatively soft materials. It should not be used on aircraft steels. Approximate range of the tester is 25 to 100 Brinell. The unit can be used in any position and in any space that allows for the operator’s hand. It is of great value in the hardness testing of assembled or installed parts, especially to check for proper heat-treatment. The hardness is indicated on a dial conveniently divided into 100 graduations.
 
-The design of the Barcol tester is such that operating experience is not necessary. It is only necessary to exert a light pressure against the instrument to drive the spring- loaded indenter into the material to be tested. The hardness reading is instantly indicated on the dial.
+The design of the Barcol tester is such that operating experience is not necessary. It is only necessary to exert a light pressure against the instrument to drive the spring-loaded indenter into the material to be tested. The hardness reading is instantly indicated on the dial.
 
 Several typical readings for aluminum alloys are listed in the Barcol number. To prevent damage to the point, avoid sliding or scraping when it is in contact with the material being tested. If the point should become damaged, it must be replaced with a new one. Do not attempt to grind the point.
 
@@ -822,7 +810,7 @@ Aluminum is the most extruded metal used in aircraft. Aluminum is extruded at a 
 
 Cold-working applies to mechanical working performed at temperatures below the critical range. It results in a strain hardening of the metal. In fact, the metal often becomes so hard that it is difficult to continue the forming process without softening the metal by annealing.
 
-Since the errors attending shrinkage are eliminated in cold- working, a much more compact and better metal is obtained. The strength and hardness, as well as the elastic limit, are increased; but the ductility decreases. Since this makes the metal more brittle, it must be heated from time to time during certain operations to remove the undesirable effects of the working.
+Since the errors attending shrinkage are eliminated in cold-working, a much more compact and better metal is obtained. The strength and hardness, as well as the elastic limit, are increased; but the ductility decreases. Since this makes the metal more brittle, it must be heated from time to time during certain operations to remove the undesirable effects of the working.
 
 While there are several cold-working processes, the two with which the aviation mechanic is principally concerned are cold rolling and cold drawing. These processes give the metals desirable qualities that cannot be obtained by hot working.
 
@@ -950,9 +938,7 @@ Inconel 是一种镍铬铁合金，外观与不锈钢（耐蚀钢，CRES）非�
 
 • 变形合金（可通过轧制、拉拔或锻造成形的合金）。这两类中，变形合金在飞机制造中应用最广，用于制造长桁、隔框、蒙皮、铆钉和挤压型材。
 
-铸造铝合金分为两个基本类别。一类是合金的物理性能由合金元素决定，金属铸造后不能再改变；另一类是合金元素使其
-
-可以对铸件进行热处理，以获得所需的物理性能。
+铸造铝合金分为两个基本类别。一类是合金的物理性能由合金元素决定，金属铸造后不能再改变；另一类是合金元素使其可以对铸件进行热处理，以获得所需的物理性能。
 
 合金号前的字母用于标识铸造合金。字母置于数字之前时，表示原合金成分有细微变化。这种成分变化只是为了赋予某种理想性能。例如，铸造合金 214 中加入锌以改善其浇注性能，用数字前的字母 A 表示，于是形成牌号 A214。
 
@@ -1088,9 +1074,7 @@ Inconel 是一种镍铬铁合金，外观与不锈钢（耐蚀钢，CRES）非�
 
 青铜是含锡的铜合金。真正的青铜含锡量可达 25%，但含锡低于 11% 的青铜具有三种基本晶体类型：A（α）、B（β）和 C（α 与 β 混合）。它们的特性如下：
 
-• A（α）——综合性能好；焊接性良好；
-
-冷态和热态下均强韧；抗氧化。
+• A（α）——综合性能好；焊接性良好；冷态和热态下均强韧；抗氧化。
 
 • B（β）——可弯曲性；弯曲延展性极佳；冷态和热态下强度高，但易受污染。
 
@@ -1178,7 +1162,7 @@ Inconel 与不锈钢外观相似，且常出现在发动机的相同部位，因
 
 材料强度与其每立方英寸重量之间的关系，以比值表示，称为强度重量比。这一比值是比较各种材料用于机体构造和修理的适用性的基础。单凭强度或单凭重量都不能作为真正比较的依据。在某些应用中，如单壳结构的蒙皮，厚度比强度更重要。这时，给定厚度或规格下重量最轻的材料最佳。厚度或体积是防止失稳或防止因搬运不慎造成损伤所必需的。
 
-腐蚀是表面被侵蚀或点蚀，或
+腐蚀是表面被侵蚀或点蚀。
 
 #### 金属的内部结构
 
@@ -1230,9 +1214,7 @@ Inconel 与不锈钢外观相似，且常出现在发动机的相同部位，因
 
 热电偶的寿命受最高温度（常可能超过上述数值）和炉内气氛的影响。铁-康铜更适用于还原性气氛，镍铬-镍铝更适用于氧化性气氛。热电偶通常封装在热端封闭的金属或陶瓷管中，以防炉气侵蚀。必不可少的附件是测量热电偶所产生电动势的仪器，如毫伏计或电位差计。为保证精确控制，应将热电偶的热端尽可能靠近工件。使用自动控制器有助于将温度控制在所需值。
 
-高温计的仪表可为指示式或记录式。指示式高温计直接给出炉温读数。记录式通过连在臂上的墨水笔尖在标定纸或温度记录图上画出线条，对
-
-整个操作过程的温度范围作出永久记录。
+高温计的仪表可为指示式或记录式。指示式高温计直接给出炉温读数。记录式通过连在臂上的墨水笔尖在标定纸或温度记录图上画出线条，对整个操作过程的温度范围作出永久记录。
 
 所有现代炉上的高温计装置都能将温度自动调节到任意设定值。这类仪器称为控制电位差计式高温计，包括电流调节器和诸如继电器之类的执行机构。
 
@@ -1282,9 +1264,7 @@ Inconel 与不锈钢外观相似，且常出现在发动机的相同部位，因
 
 #### 钢在加热与冷却中的行为
 
-改变黑色金属内部组织的方法是：将金属加热到上临界点以上，在该温度保持足够时间使某些内部变化发生，然后
-
-在预定的受控条件下冷却到大气温度。
+改变黑色金属内部组织的方法是：将金属加热到上临界点以上，在该温度保持足够时间使某些内部变化发生，然后在预定的受控条件下冷却到大气温度。
 
 常温下，钢中的碳以碳化铁颗粒的形式散布在称为“铁素体”的铁基体中。这些颗粒的数量、大小和分布决定钢的硬度。在高温下，碳以称为“奥氏体”的固溶体形式溶解在铁基体中，碳化物颗粒只有在钢冷却后才出现。若冷却缓慢，碳化物颗粒相对粗大且数量少，此时钢是软的。若冷却迅速（如油淬或水淬），碳以极细碳化物颗粒的云雾状析出，钢就变硬。碳化物颗粒能溶解于奥氏体，这是钢热处理的基础。发生这种转变的温度称为临界点，随钢的成分而异。钢中碳的百分比对热处理临界点影响最大。
 
@@ -1486,11 +1466,7 @@ Inconel 与不锈钢外观相似，且常出现在发动机的相同部位，因
 
 如前所述，铝合金从固溶热处理温度淬火后立即处于较软的状态。为获得最大强度，必须进行自然时效或析出硬化。
 
-在这种硬化和强化过程中，可溶组分从过饱和固溶体中析出。随析出进行，材料强度不断提高（常呈一系列峰值）直至达到最大值。继续时效，即过
-
-（原文此处为表格碎片，无对应正文）
-
-时效，会使强度持续下降，直至达到较为稳定的状态。析出的亚微观颗粒在晶粒内部及晶粒之间形成锁键，在施加任何载荷时抵抗内部滑移和变形。这样，合金的强度和硬度得以提高。
+在这种硬化和强化过程中，可溶组分从过饱和固溶体中析出。随析出进行，材料强度不断提高（常呈一系列峰值）直至达到最大值。继续时效，即过时效，会使强度持续下降，直至达到较为稳定的状态。析出的亚微观颗粒在晶粒内部及晶粒之间形成锁键，在施加任何载荷时抵抗内部滑移和变形。这样，合金的强度和硬度得以提高。
 
 析出硬化使材料的强度和硬度大幅提高，同时延展性能相应下降。因此，用于获得所需强度提高的工艺称为时效或析出硬化。
 
@@ -1540,11 +1516,11 @@ Inconel 与不锈钢外观相似，且常出现在发动机的相同部位，因
 
 ### 镁合金的热处理
 
-镁合金铸件对热处理反应良好，飞机制造中所用镁约 95% 为铸造形式。镁合金铸件的热处理与铝合金相似，也有两类热处理：
+镁合金铸件对热处理反应良好，飞机制造中所用镁约 95% 为铸造形式。镁合金铸件的热处理与铝合金相似，也有两类热处理：固溶热处理和析出（时效）热处理。
 
 #### 固溶热处理
 
-固溶热处理和析出（时效）热处理。不过，镁在室温下自然时效时性能变化可忽略不计。
+不过，镁在室温下自然时效时性能变化可忽略不计。
 
 固溶热处理 镁合金铸件进行固溶热处理以提高抗拉强度、延展性和抗冲击性。这种热处理状态在合金牌号后用符号 -T4 表示。固溶热处理加人工时效标记为 -T6。人工时效是使金属获得全部性能所必需的。
 

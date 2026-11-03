@@ -180,9 +180,7 @@ Fine crack-like apertures require a longer penetrating time than defects such as
 
 6. V isible penetrant-type developer, when applied to the surface of a part, dries to a smooth, white coating.
 
-As the developer dries, bright red indications appear where there are surface defects. If no red indications appear, there are no surface defects. 7. When conducting the fluorescent penetrant-type inspection, the defects show up (under black light)
-
-as a brilliant yellow-green color and the sound areas appear deep blue-violet.
+As the developer dries, bright red indications appear where there are surface defects. If no red indications appear, there are no surface defects. 7. When conducting the fluorescent penetrant-type inspection, the defects show up (under black light) as a brilliant yellow-green color and the sound areas appear deep blue-violet.
 
 8. It is possible to examine an indication of a defect and to determine its cause as well as its extent. Such an appraisal can be made if something is known about the manufacturing processes that the part has been subjected to.
 
@@ -236,9 +234,7 @@ Flaws are detected by measuring the amplitude of signals reflected and the time 
 
 The time base, triggered simultaneously with each transmission pulse, causes a spot to sweep across the screen of the CRT or LCD. The spot sweeps from left to right across the face of the scope 50 to 5,000 times per second or higher if required for high-speed automated scanning. Due to the speed of the cycle of transmitting and receiving, the picture on the oscilloscope appears to be stationary.
 
-A few microseconds after the sweep is initiated, the rate generator electrically excites the pulser, and the pulser in turn emits an electrical pulse. The transducer converts this pulse into a short train of ultrasonic sound waves. If the interfaces
-
-of the transducer and the specimen are properly oriented, the ultrasound is reflected back to the transducer when it reaches the internal flaw and the opposite surface of the specimen. The time interval between the transmission of the initial impulse and the reception of the signals from within the specimen are measured by the timing circuits. The reflected pulse received by the transducer is amplified, transmitted to, and displayed on the instrument screen. The pulse is displayed in the same relationship to the front and back pulses as the flaw is in relation to the front and back surfaces of the specimen.
+A few microseconds after the sweep is initiated, the rate generator electrically excites the pulser, and the pulser in turn emits an electrical pulse. The transducer converts this pulse into a short train of ultrasonic sound waves. If the interfaces of the transducer and the specimen are properly oriented, the ultrasound is reflected back to the transducer when it reaches the internal flaw and the opposite surface of the specimen. The time interval between the transmission of the initial impulse and the reception of the signals from within the specimen are measured by the timing circuits. The reflected pulse received by the transducer is amplified, transmitted to, and displayed on the instrument screen. The pulse is displayed in the same relationship to the front and back pulses as the flaw is in relation to the front and back surfaces of the specimen.
 
 Pulse-echo instruments may also be used to detect flaws not directly underneath the probe by use of the angle beam testing method. Angle beam testing differs from straight beam testing only in the manner that the ultrasonic waves pass through the material being tested. The beam is projected into the material at an acute angle to the surface by means of a crystal cut at an angle and mounted in plastic. The beam, or a portion thereof, reflects successively from the surfaces of the material or any other discontinuity, including the edge of the piece. In straight beam testing, the horizontal distance on the screen between the initial pulse and the first back reflection represents the thickness of the piece; while in angle beam testing, this distance represents the width of the material between the searching unit and the opposite edge of the piece.
 
@@ -250,11 +246,9 @@ This system differs from the pulse method in that the frequency of transmission 
 
 It is necessary that the frequency of the ultrasonic waves corresponding to a particular dial setting be accurately known. Checks are made with standard test blocks to guard against possible drift of frequency. If the frequency of an ultrasonic wave is such that its wavelength is twice the thickness of a specimen (fundamental frequency), then the reflected wave arrives back at the transducer in the same phase as the original transmission so that strengthening of the signal occurs. This results from constructive interference or a resonance and is shown as a high amplitude value on the indicating screen. If the frequency is increased such that three times the wavelength equals four times the thickness, the reflected signal returns completely out of phase with the transmitted signal and cancellation occurs. Further increase of the frequency causes the wavelength to be equal to the thickness again and gives a reflected signal in phase with the transmitted signal and a resonance once more. By starting at the fundamental frequency and gradually increasing the frequency, the successive cancellations and resonances can be noted and the readings used to check the fundamental frequency reading.
 
-In some instruments, the oscillator circuit contains a motor- driven capacitor that changes the frequency of the oscillator. In other instruments, the frequency is changed by electronic means. The change in frequency is synchronized with the horizontal sweep of a CRT. The horizontal axis represents a frequency range. If the frequency range contains resonances, the circuitry is arranged to present these vertically. Calibrated transparent scales are then placed in front of the tube and the thickness can be read directly. The instruments normally operate between 0.25 millicycle (mc) and 10 mc in four or five bands.
+In some instruments, the oscillator circuit contains a motor-driven capacitor that changes the frequency of the oscillator. In other instruments, the frequency is changed by electronic means. The change in frequency is synchronized with the horizontal sweep of a CRT. The horizontal axis represents a frequency range. If the frequency range contains resonances, the circuitry is arranged to present these vertically. Calibrated transparent scales are then placed in front of the tube and the thickness can be read directly. The instruments normally operate between 0.25 millicycle (mc) and 10 mc in four or five bands.
 
-The resonance thickness instrument can be used to test the thickness of such metals as steel, cast iron, brass, nickel, copper, silver, lead, aluminum, and magnesium. In addition, areas of corrosion or wear on tanks, tubing, airplane wing skins,
-
-and other structures or products can be located and evaluated. Direct reading dial-operated units are available that measure thickness between 0.025 inch and 3 inches with an accuracy of better than ±1 percent. Ultrasonic inspection requires a skilled operator who is familiar with the equipment being used, as well as the inspection method to be used for the many different parts being tested.
+The resonance thickness instrument can be used to test the thickness of such metals as steel, cast iron, brass, nickel, copper, silver, lead, aluminum, and magnesium. In addition, areas of corrosion or wear on tanks, tubing, airplane wing skins, and other structures or products can be located and evaluated. Direct reading dial-operated units are available that measure thickness between 0.025 inch and 3 inches with an accuracy of better than ±1 percent. Ultrasonic inspection requires a skilled operator who is familiar with the equipment being used, as well as the inspection method to be used for the many different parts being tested.
 
 ### Ultrasonic Instruments
 
@@ -444,9 +438,7 @@ Inspection with ultrasonics is limited to the part in contact with the transduce
 
 6. 着色渗透型显像剂涂到零件表面后，会干燥成一层光滑的白色涂层。
 
-显像剂干燥时，有表面缺陷处会出现鲜红色的指示。如果没有红色指示出现，就没有表面缺陷。7. 进行荧光渗透型检查时，缺陷在（黑光下）呈现……
-
-……明亮的黄绿色，而无缺陷区域呈深蓝紫色。
+显像剂干燥时，有表面缺陷处会出现鲜红色的指示。如果没有红色指示出现，就没有表面缺陷。7. 进行荧光渗透型检查时，缺陷在（黑光下）呈现明亮的黄绿色，而无缺陷区域呈深蓝紫色。
 
 8. 可以检查缺陷指示，并判定其成因和范围。如果能对零件所经历过的制造过程有所了解，就可以作出这样的评定。
 
@@ -500,9 +492,7 @@ Inspection with ultrasonics is limited to the part in contact with the transduce
 
 时基与每个发射脉冲同时触发，使一个光点在 CRT 或 LCD 屏幕上扫过。光点在示波器面上从左到右扫过，每秒 50 至 5,000 次；高速自动扫描需要时还可更高。由于发射与接收循环的速度很快，示波器上的图像看起来是静止的。
 
-扫描开始后几微秒，速率发生器以电信号激励脉冲发生器，脉冲发生器随即发出一个电脉冲。换能器把该脉冲转换成一小串超声波。如果界面……
-
-……换能器与试件的界面取向正确，超声波传到内部缺陷和试件对面时就会反射回换能器。初始脉冲的发出与试件内部信号被接收之间的时间间隔，由计时电路测量。换能器接收到的反射脉冲经放大、传输并显示在仪器屏幕上。该脉冲与前、后脉冲之间的显示关系，正如缺陷与试件前、后表面之间的关系。
+扫描开始后几微秒，速率发生器以电信号激励脉冲发生器，脉冲发生器随即发出一个电脉冲。换能器把该脉冲转换成一小串超声波。如果换能器与试件的界面取向正确，超声波传到内部缺陷和试件对面时就会反射回换能器。初始脉冲的发出与试件内部信号被接收之间的时间间隔，由计时电路测量。换能器接收到的反射脉冲经放大、传输并显示在仪器屏幕上。该脉冲与前、后脉冲之间的显示关系，正如缺陷与试件前、后表面之间的关系。
 
 脉冲回波仪器还可采用斜射声束检测法，发现不在探头正下方的缺陷。斜射声束检测与直射声束检测的区别，仅在于超声波穿过被检材料的方式不同。声束以与表面成锐角的方向射入材料，办法是用一块按角度切割并封装在塑料中的晶片。声束或其一部分，会从材料表面或任何其他不连续处（包括零件边缘）相继反射。在直射声束检测中，屏幕上初始脉冲与第一次底面回波之间的水平距离代表零件厚度；而在斜射声束检测中，该距离代表探头与零件对面边缘之间材料的宽度。
 
@@ -516,9 +506,7 @@ Inspection with ultrasonics is limited to the part in contact with the transduce
 
 有些仪器的振荡电路中有一个电机驱动的电容器，用来改变振荡器频率。另一些仪器则用电子方式改变频率。频率的变化与 CRT 的水平扫描同步。横轴代表一个频率范围。如果该频率范围内含有共振，电路就安排把这些共振竖直显示出来。校准过的透明刻度尺放在管子前面，即可直接读出厚度。仪器通常在 0.25 兆周（mc）到 10 兆周之间分四或五个频段工作。
 
-共振式测厚仪可用来测量钢、铸铁、黄铜、镍、铜、银、铅、铝和镁等金属的厚度。此外，油箱、导管、飞机机翼蒙皮上的腐蚀或磨损区域，
-
-以及其他结构或产品，都能被定位和评估。已有可直接读数的表盘式仪器，能测量 0.025 英寸至 3 英寸的厚度，精度优于 ±1%。超声检测需要熟练的操作者，他既要熟悉所用设备，也要熟悉检测各种不同零件所用的检查方法。
+共振式测厚仪可用来测量钢、铸铁、黄铜、镍、铜、银、铅、铝和镁等金属的厚度。此外，油箱、导管、飞机机翼蒙皮上的腐蚀或磨损区域，以及其他结构或产品，都能被定位和评估。已有可直接读数的表盘式仪器，能测量 0.025 英寸至 3 英寸的厚度，精度优于 ±1%。超声检测需要熟练的操作者，他既要熟悉所用设备，也要熟悉检测各种不同零件所用的检查方法。
 
 ### 超声仪器
 

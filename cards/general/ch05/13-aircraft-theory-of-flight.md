@@ -1,7 +1,3 @@
-# Aircraft Theory of Flight
-
-> 通用 Ch 05 · Aircraft Theory of Flight · 原文 PDF 第 186 页
-
 ## 1. 原文
 
 Before a technician can consider performing maintenance on an aircraft, it is necessary to understand the pieces that make up the aircraft. Names like fuselage, empennage, wing, and so many others, come into play when describing what an airplane is and how it operates. For helicopters, names like main rotor, anti-torque rotor, and autorotation come to mind as a small portion of what needs to be understood about rotorcraft. The study of physics, which includes basic aerodynamics, is a necessary part of understanding why aircraft operate the way they do.
@@ -44,9 +40,7 @@ The camber of a wing is the curvature which is present on top and bottom surface
 
 The chord line is an imaginary straight line running from the wing’s leading edge to its trailing edge. The angle between the chord line and the longitudinal axis of the airplane is known as the angle of incidence.
 
-Relative W ind The relative wind is a relationship between the direction of airflow and the aircraft wing. In normal flight circumstances, the
-
-is the opposite direction of the aircraft flightpath.
+Relative W ind The relative wind is a relationship between the direction of airflow and the aircraft wing. In normal flight circumstances, the relative wind is the opposite direction of the aircraft flightpath.
 
 • If the flightpath is forward then the relative wind is backward.
 
@@ -106,9 +100,7 @@ The initial response that an airplane displays after its equilibrium is disrupte
 
 The dynamic stability of an airplane involves the amount of time it takes for it to react to its static stability after it has been displaced from a condition of equilibrium. Dynamic stability involves the oscillations that typically occur as the airplane tries to return to its original position or attitude. Even though an airplane may have positive static stability, it may have dynamic stability which is positive, neutral, or negative.
 
-Imagine that an airplane in straight-and-level flight is disturbed and pitches noseup. If the airplane has positive static stability, the nose will pitch back down after the disturbance is removed. If it immediately returns to straight-
-
-and-level flight, it is also said to have positive dynamic stability. The airplane, however, may pass through level flight and remain pitched down, and then continue the recovery process by pitching back up. This pitching up and then down is known as an oscillation. If the oscillations lessen over time, the airplane is still classified as having positive dynamic stability. If the oscillations increase over time, the airplane is classified as having negative dynamic stability. If the oscillations remain the same over time, the airplane is classified as having neutral dynamic stability.
+Imagine that an airplane in straight-and-level flight is disturbed and pitches noseup. If the airplane has positive static stability, the nose will pitch back down after the disturbance is removed. If it immediately returns to straight-and-level flight, it is also said to have positive dynamic stability. The airplane, however, may pass through level flight and remain pitched down, and then continue the recovery process by pitching back up. This pitching up and then down is known as an oscillation. If the oscillations lessen over time, the airplane is still classified as having positive dynamic stability. If the oscillations increase over time, the airplane is classified as having negative dynamic stability. If the oscillations remain the same over time, the airplane is classified as having neutral dynamic stability.
 
 The concept of dynamic stability is shown by the way the displacement from equilibrium changes over time. In one case, the displacement goes through three oscillations and then returns to equilibrium. In another case, the displacement is increasing after two oscillations, and will not return to equilibrium. In a third case, the displacement is staying the same with each oscillation.
 
@@ -140,9 +132,7 @@ The purpose of flight controls is to allow the pilot to maneuver the airplane, a
 
 The lateral axis of an airplane is a line that runs below the wing, from wingtip to wingtip, passing through the airplane’s center of gravity. Movement around this axis is called pitch, and control around this axis is called longitudinal control. The flight control that handles this job is the elevator attached to the horizontal stabilizer, a fully moving horizontal stabilizer, or on a v-tail configured airplane, it is called ruddervators. A Cessna 182 has an elevator. A Piper Cherokee Cruiser PA-28-140 has a fully moving horizontal stabilizer, known as a stabilator, and a Beechcraft Bonanza has a ruddervator.
 
-Depending on the airplane being discussed, movement around the lateral axis happens as a result of the pilot moving
-
-control wheel or yoke, the control stick, or on some airplanes, a side stick. These airplanes use a control wheel or yoke. On the Cessna 182, pulling back on the control wheel causes the trailing edge of the elevator to deflect upward, causing an increased downward force that raises the nose of the airplane. Movement of the elevator causes the nose of the airplane to pitch up or pitch down by rotating around the lateral axis.
+Depending on the airplane being discussed, movement around the lateral axis happens as a result of the pilot moving control wheel or yoke, the control stick, or on some airplanes, a side stick. These airplanes use a control wheel or yoke. On the Cessna 182, pulling back on the control wheel causes the trailing edge of the elevator to deflect upward, causing an increased downward force that raises the nose of the airplane. Movement of the elevator causes the nose of the airplane to pitch up or pitch down by rotating around the lateral axis.
 
 On the Piper Cherokee Cruiser PA-28-140, pulling back on the control wheel causes the entire horizontal surface, or stabilator, to move, with the trailing edge deflecting upward. The anti-servo tab seen on the Cherokee provides a control feel similar to what would be experienced by moving an elevator. Without this tab, the stabilator might be too easy to move and a pilot could overcontrol the airplane. The ruddervators on the Beechcraft Bonanza are also moved by the control wheel, with their trailing edges deflecting upward when the control wheel is pulled back. As the name implies, these surfaces also act as the rudder for this airplane.
 
@@ -156,9 +146,7 @@ The ailerons move as a result of the pilot rotating the control wheel to the lef
 
 The vertical axis of an airplane runs from top to bottom through the middle of the airplane, passing through the center of gravity. Movement around this axis is known as yaw, and control around this axis is called directional control. Movement around this axis is controlled by the rudder, or in the case of the Beechcraft Bonanza, by the ruddervators. The feet of the pilot are on the rudder pedals, and pushing on the left or right rudder pedal makes the rudder move left or right. The trailing edge of the rudder moves to the right, and the nose of the airplane yaws to the right, when the right rudder pedal is pushed.
 
-Even though the rudder of the airplane will make the nose yaw to the left or the right, the rudder is not what turns the
-
-airplane. For what is called a coordinated turn to occur, both the ailerons and rudder come into play. Let’s say we want to turn the airplane to the right. We start by turning the control wheel to the right, which raises the right aileron and lowers the left aileron and initiates the banking turn. The increased lift on the left wing also increases the induced drag on the left wing, which tries to make the nose of the airplane yaw to the left. To counteract this, when the control wheel is moved to the right, a small amount of right rudder is used to keep the nose of the airplane from yawing to the left. Once the nose of the airplane is pointing in the right direction, pressure on the rudder is no longer needed.
+Even though the rudder of the airplane will make the nose yaw to the left or the right, the rudder is not what turns the airplane. For what is called a coordinated turn to occur, both the ailerons and rudder come into play. Let’s say we want to turn the airplane to the right. We start by turning the control wheel to the right, which raises the right aileron and lowers the left aileron and initiates the banking turn. The increased lift on the left wing also increases the induced drag on the left wing, which tries to make the nose of the airplane yaw to the left. To counteract this, when the control wheel is moved to the right, a small amount of right rudder is used to keep the nose of the airplane from yawing to the left. Once the nose of the airplane is pointing in the right direction, pressure on the rudder is no longer needed.
 
 Trim Tabs Trim tabs are small movable surfaces that attach to the trailing edge of flight controls. These tabs can be controlled from the flight deck, and their purpose is to create an aerodynamic force that keeps the flight control in a deflected position. Trim tabs can be installed on any of the primary flight controls.
 
@@ -232,9 +220,7 @@ A. The Mach number is fairly low, and the entire wing is experiencing subsonic a
 
 B. The velocity has reached the critical Mach number, where the airflow over the top of the wing is reaching Mach 1 velocity. C. The velocity has surpassed the critical Mach number , and a normal shock wave has formed on the top of the wing. Some airflow separation starts to occur behind the shock wave.
 
-D. The velocity has continued to increase beyond the critical Mach number, and the normal shock wave has moved far enough aft that serious airflow separation is occurring. A normal shock wave is now forming on the bottom of the wing as well.
-
-shock waves, the velocity of the air is subsonic and the static pressure has increased.
+D. The velocity has continued to increase beyond the critical Mach number, and the normal shock wave has moved far enough aft that serious airflow separation is occurring. A normal shock wave is now forming on the bottom of the wing as well. Behind the normal shock waves, the velocity of the air is subsonic and the static pressure has increased.
 
 E. T he velocity has increased to the point that both shock waves on the wing, top and bottom, have moved to the back of the wing and attached to the trailing edge.
 
@@ -256,9 +242,7 @@ The helicopter, as we know it today, falls under the classification known as rot
 
 The main parts that make up a helicopter are the cabin, landing gear, tail boom, power plant, transmission, main rotor, and tail rotor.
 
-Main Rotor Systems In the fully articulated rotor system, the blades are attached to the hub multiple times. The blades are hinged in a way that allows them to move up and down and fore and aft, and bearings provide for motion around the pitch change axis. Rotor systems using this type of arrangement typically have three or more blades. The hinge that allows the blades to move
-
-up and down is called the flap hinge, and movement around this hinge is called flap. The hinge that allows the blades to move fore and aft is called a drag or lag hinge. Movement around this hinge is called dragging, lead/lag, or hunting. The main rotor head of a Eurocopter model 725 has the drag hinge and pitch change rods visible.
+Main Rotor Systems In the fully articulated rotor system, the blades are attached to the hub multiple times. The blades are hinged in a way that allows them to move up and down and fore and aft, and bearings provide for motion around the pitch change axis. Rotor systems using this type of arrangement typically have three or more blades. The hinge that allows the blades to move up and down is called the flap hinge, and movement around this hinge is called flap. The hinge that allows the blades to move fore and aft is called a drag or lag hinge. Movement around this hinge is called dragging, lead/lag, or hunting. The main rotor head of a Eurocopter model 725 has the drag hinge and pitch change rods visible.
 
 The semi-rigid rotor system is used with a two-blade main rotor. The blades are rigidly attached to the hub, with the hub and blades able to teeter like a seesaw. The teetering action allows the blades to flap, with one blade dropping down while the other blade rises. The blades are able to change pitch independently of each other. A Bell Jet Ranger helicopter in flight uses a semi-rigid rotor system, which is evident because the rotor is tilted forward when the helicopter is in forward flight.
 
@@ -330,9 +314,7 @@ Autorotation is a flight condition where the main rotor blades are driven by the
 
 A weight-shift control, flexible wing type aircraft consists of a fabric-covered wing, often referred to as the sail, attached to a tubular structure that has wheels, seats, and an engine and propeller. The wing structure is also tubular, with the fabric covering creating the airfoil shape. The shape of the wing varies among the different models of weight-shift control aircraft being produced, but a delta shaped wing is a very popular design. Within the weight-shift control aircraft community, these aircraft are typically referred to as trikes.
 
-The trike’s mast is attached to the wing at the hang point on the keel of the wing with a hang point bolt and safety cable. There is also a support tube, known as a king post, extending up from the top of the wing, with cables running down and secured to the tubular wing structure. The cables
-
-running down from the king post as part of the upper rigging are there to support the wing when the aircraft is on the ground, and to handle negative loads when in flight. The lines that run from the king post to the trailing edge of the wing are known as reflex cables. These cables maintain the shape of the wing when it is in a stalled state by holding the trailing edge of the wing up which helps raise the nose during recovery from the stall. If the aircraft goes into an inadvertent stall, having the trailing edge of the wing in a slightly raised position helps raise the nose of the aircraft and get it out of the dive. The passenger seat is centered under the wing’s aerodynamic center, with the weight of the pilot being forward of this point and the weight of the engine and propeller being aft.
+The trike’s mast is attached to the wing at the hang point on the keel of the wing with a hang point bolt and safety cable. There is also a support tube, known as a king post, extending up from the top of the wing, with cables running down and secured to the tubular wing structure. The cables running down from the king post as part of the upper rigging are there to support the wing when the aircraft is on the ground, and to handle negative loads when in flight. The lines that run from the king post to the trailing edge of the wing are known as reflex cables. These cables maintain the shape of the wing when it is in a stalled state by holding the trailing edge of the wing up which helps raise the nose during recovery from the stall. If the aircraft goes into an inadvertent stall, having the trailing edge of the wing in a slightly raised position helps raise the nose of the aircraft and get it out of the dive. The passenger seat is centered under the wing’s aerodynamic center, with the weight of the pilot being forward of this point and the weight of the engine and propeller being aft.
 
 Unlike a traditional airplane, the trike does not have a rudder, elevator, or ailerons. Instead, it has a wing that can be pivoted forward or aft, and left or right. The pilot’s hand is on a control bar that is connected to a pivot point just forward of where the wing attaches. There are cables attached to the ends of the bar that extend up to the wing’s leading and trailing edge, and to the left and right side of the cross bar. Running from the wing leading edge to trailing edge are support pieces known as battens. The battens fit into pockets, and they give the wing its cambered shape. The names of some of the primary parts of the trike will be referred to when the flight characteristics of the trike are described in the paragraphs that follow.
 
@@ -346,7 +328,7 @@ Shifting weight to the right causes the aircraft to bank right. The weight of th
 
 Once the trike is in flight and flying straight and level, the pilot only needs to keep light pressure on the bar that controls the wing. If the trike is properly balanced and there is no air turbulence, the aircraft will remain stable even if the pilot’s hands are removed from the bar. The same as with any airplane, increasing engine power will make the aircraft climb and decreasing power will make it descend. The throttle is typically controlled with a foot pedal, like a gas pedal in an automobile.
 
-A trike lands in a manner very similar to an airplane. When it is time to land, the pilot reduces engine power with the foot- operated throttle; causing airspeed and wing lift to decrease. As the trike descends, the rate of descent can be controlled by pushing forward or pulling back on the bar, and varying engine power. When the trike is almost to the point of touchdown, the engine power will be reduced and the angle of attack of the wing will be increased, to cushion the descent and provide a smooth landing. If the aircraft is trying to land in a very strong crosswind, the landing may not be so smooth. When landing in a cross wind, the pilot will land in a crab to maintain direction down the runway. Touchdown is done with the back wheels first, then letting the front wheel down. A trike getting ready to touch down can be seen, and the support mast and the cables on top of the wing, including the luff lines, can also be seen.
+A trike lands in a manner very similar to an airplane. When it is time to land, the pilot reduces engine power with the foot-operated throttle; causing airspeed and wing lift to decrease. As the trike descends, the rate of descent can be controlled by pushing forward or pulling back on the bar, and varying engine power. When the trike is almost to the point of touchdown, the engine power will be reduced and the angle of attack of the wing will be increased, to cushion the descent and provide a smooth landing. If the aircraft is trying to land in a very strong crosswind, the landing may not be so smooth. When landing in a cross wind, the pilot will land in a crab to maintain direction down the runway. Touchdown is done with the back wheels first, then letting the front wheel down. A trike getting ready to touch down can be seen, and the support mast and the cables on top of the wing, including the luff lines, can also be seen.
 
 ### Powered Parachute Aerodynamics
 
@@ -356,7 +338,7 @@ As in weight-shift control aircraft, the powered parachute does not have the tra
 
 Unlike an airplane, where the pilot has a lot of control over when the airplane rotates by deciding when to pull back on the yoke, the powered parachute will not take off until it reaches a specific airspeed. The powered parachute will typically lift off the ground at a speed somewhere between 28 and 30 mph, and will have airspeed in flight of approximately 30 mph.
 
-Once the powered parachute is in flight, control over climbing and descending is handled with engine power. Advancing the throttle makes the aircraft climb, and retarding the throttle makes it descend. The inflated wing creates a lot of drag in flight, so reducing the engine power creates a very controllable descent of the aircraft. The throttle, for controlling engine power, is typically located on the right- hand side of the pilot.
+Once the powered parachute is in flight, control over climbing and descending is handled with engine power. Advancing the throttle makes the aircraft climb, and retarding the throttle makes it descend. The inflated wing creates a lot of drag in flight, so reducing the engine power creates a very controllable descent of the aircraft. The throttle, for controlling engine power, is typically located on the right-hand side of the pilot.
 
 Turning of the powered parachute in flight is handled by foot-operated pedals, or steering bars, located at the front of the aircraft. Each foot-operated pedal controls a set of lines, usually made from nylon that runs up to the trailing edge of each wingtip. When the right foot pedal is pushed, the line pulls down on the tailing edge of the 8 wingtip. As the trailing edge of the right wing drop downs, drag is increased on the right side and the aircraft turns right. When pressure is taken off the foot pedal, the drag in the entire airfoil equalizes and the aircraft resumes its straight-and-level flight.
 
@@ -404,9 +386,7 @@ To land a powered parachute, the first action the pilot takes is to reduce engin
 
 弦线是从机翼前缘延伸到后缘的一条假想直线。弦线与飞机纵轴之间的夹角称为安装角。
 
-相对风是气流方向与飞机机翼之间的一种关系。在正常飞行条件下，相对风
-
-与飞机航迹的方向相反。
+相对风是气流方向与飞机机翼之间的一种关系。在正常飞行条件下，相对风与飞机航迹的方向相反。
 
 • 如果航迹向前，则相对风向后。
 
@@ -466,9 +446,7 @@ To land a powered parachute, the first action the pilot takes is to reduce engin
 
 飞机的动稳定性，涉及飞机偏离平衡状态后、针对其静稳定性作出反应所需的时间。动稳定性涉及飞机试图回到原位置或原姿态时通常出现的振荡。即使一架飞机具有正静稳定性，它的动稳定性也可能是正、中立或负的。
 
-设想一架直线平飞的飞机受到扰动而机头上仰。如果飞机具有正静稳定性，扰动消失后机头会重新下俯。如果它立即回到直线平飞
-
-并保持直线平飞状态，也就说它具有正动稳定性。然而，飞机可能冲过平飞位置、保持下俯，然后再通过上仰继续恢复过程。这种先上仰后下俯称为振荡。如果振荡随时间减弱，飞机仍归为正动稳定性。如果振荡随时间增强，飞机归为负动稳定性。如果振荡随时间保持不变，飞机归为中立动稳定性。
+设想一架直线平飞的飞机受到扰动而机头上仰。如果飞机具有正静稳定性，扰动消失后机头会重新下俯。如果它立即回到直线平飞并保持直线平飞状态，也就说它具有正动稳定性。然而，飞机可能冲过平飞位置、保持下俯，然后再通过上仰继续恢复过程。这种先上仰后下俯称为振荡。如果振荡随时间减弱，飞机仍归为正动稳定性。如果振荡随时间增强，飞机归为负动稳定性。如果振荡随时间保持不变，飞机归为中立动稳定性。
 
 动稳定性的概念体现在偏离平衡的位移随时间的变化上。一种情形是，位移经过三次振荡后回到平衡；另一种情形是，位移经过两次振荡后仍在增大，不会回到平衡；还有一种情形是，位移在每次振荡后保持不变。
 
@@ -500,9 +478,7 @@ To land a powered parachute, the first action the pilot takes is to reduce engin
 
 飞机的横轴是一条从翼下穿过、从翼尖到翼尖、并经过飞机重心的直线。绕此轴的运动称为俯仰，绕此轴的操纵称为纵向操纵。承担这一任务的操纵面，是装在水平安定面上的升降舵、可全动水平安定面，或在 V 尾布局飞机上称为升降方向舵的舵面。一架 Cessna 182 上装有升降舵。一架 Piper Cherokee Cruiser PA-28-140 上装有称为全动平尾的全可动水平安定面，Beechcraft Bonanza 上则装有升降方向舵。
 
-根据所讨论的机型不同，绕横轴的运动由驾驶员移动
-
-驾驶盘或驾驶杆、中央操纵杆，或在某些飞机上使用侧杆来实现。这两架飞机使用驾驶盘或驾驶杆。在 Cessna 182 上，向后拉驾驶盘会使升降舵后缘向上偏转，产生增大的向下力，从而抬起机头。升降舵的运动使机头绕横轴上仰或下俯。
+根据所讨论的机型不同，绕横轴的运动由驾驶员移动驾驶盘或驾驶杆、中央操纵杆，或在某些飞机上使用侧杆来实现。这两架飞机使用驾驶盘或驾驶杆。在 Cessna 182 上，向后拉驾驶盘会使升降舵后缘向上偏转，产生增大的向下力，从而抬起机头。升降舵的运动使机头绕横轴上仰或下俯。
 
 在 Piper Cherokee Cruiser PA-28-140 上，向后拉驾驶盘会使整个水平面（即全动平尾）运动，其后缘向上偏转。Cherokee 上的反伺服片提供了一种与操纵升降舵相似的操纵感。没有这个调整片，全动平尾可能太容易移动，驾驶员可能操纵过量。Beechcraft Bonanza 上的升降方向舵也由驾驶盘驱动，向后拉驾驶盘时其后缘向上偏转。顾名思义，这些舵面同时兼作该机的方向舵。
 
@@ -516,9 +492,7 @@ To land a powered parachute, the first action the pilot takes is to reduce engin
 
 飞机的立轴从上到下穿过飞机中部，经过重心。绕此轴的运动称为偏航，绕此轴的操纵称为方向操纵。绕此轴的运动由方向舵控制，在 Beechcraft Bonanza 的情况下则由升降方向舵控制。驾驶员的脚踩在方向舵脚蹬上，踩左或右方向舵脚蹬使方向舵向左或向右运动。踩右方向舵脚蹬时，方向舵后缘向右偏，机头向右偏航。
 
-尽管飞机的方向舵会使机头向左或向右偏航，但方向舵并不是使飞机转弯的
-
-装置。要形成所谓协调转弯，副翼和方向舵都要起作用。假设我们要让飞机右转。先向右转动驾驶盘，这使右副翼上抬、左副翼下放，开始进入倾斜转弯。左翼升力增大，同时也增大了左翼的诱导阻力，这会使机头向左偏航。为了抵消这一趋势，在驾驶盘向右移动时，要施加少量右方向舵，防止机头向左偏航。一旦机头指向正确的方向，就不需要再蹬方向舵了。
+尽管飞机的方向舵会使机头向左或向右偏航，但方向舵并不是使飞机转弯的装置。要形成所谓协调转弯，副翼和方向舵都要起作用。假设我们要让飞机右转。先向右转动驾驶盘，这使右副翼上抬、左副翼下放，开始进入倾斜转弯。左翼升力增大，同时也增大了左翼的诱导阻力，这会使机头向左偏航。为了抵消这一趋势，在驾驶盘向右移动时，要施加少量右方向舵，防止机头向左偏航。一旦机头指向正确的方向，就不需要再蹬方向舵了。
 
 **配平片** 配平片是附着在操纵面后缘的小型可动面。这些调整片可以从驾驶舱操纵，其作用是产生气动力，使操纵面保持在偏转位置。配平片可以安装在任何一个主操纵面上。
 
@@ -592,9 +566,7 @@ A. 马赫数相当低，整个机翼都处于亚音速气流中。
 
 B. 速度已达到临界马赫数，机翼上表面的气流速度达到马赫 1。C. 速度已超过临界马赫数，机翼上表面形成了一道正激波，激波后方开始出现一些气流分离。
 
-D. 速度继续增大、超过临界马赫数，正激波已后移得足够远，出现严重的气流分离。机翼下表面此时也在形成一道正激波。
-
-后方，气流为亚音速，静压已升高。
+D. 速度继续增大、超过临界马赫数，正激波已后移得足够远，出现严重的气流分离。机翼下表面此时也在形成一道正激波。正激波后方，气流为亚音速，静压已升高。
 
 E. 速度已增大到机翼上、下表面的两道激波都移到机翼后部并附着在后缘上的程度。
 
@@ -616,9 +588,7 @@ F. 翼型的前进速度超过马赫 1，在机翼前缘之前刚形成一道新
 
 构成直升机的主要部件有座舱、起落架、尾梁、动力装置、传动装置、主旋翼和尾桨。
 
-**主旋翼系统** 在全铰接式旋翼系统中，桨叶通过多个铰与桨毂相连。桨叶的铰接方式使其能够上下运动和前后运动，轴承则允许其绕变距轴运动。采用这种布置的旋翼系统通常有三片或更多桨叶。允许桨叶上下运动的铰
-
-称为挥舞铰，绕该铰的运动称为挥舞。允许桨叶前后运动的铰称为阻力铰或摆振铰。绕该铰的运动称为摆振、超前/滞后或追逐。某型直升机的主旋翼桨毂上可以看到阻力铰和变距拉杆。
+**主旋翼系统** 在全铰接式旋翼系统中，桨叶通过多个铰与桨毂相连。桨叶的铰接方式使其能够上下运动和前后运动，轴承则允许其绕变距轴运动。采用这种布置的旋翼系统通常有三片或更多桨叶。允许桨叶上下运动的铰称为挥舞铰，绕该铰的运动称为挥舞。允许桨叶前后运动的铰称为阻力铰或摆振铰。绕该铰的运动称为摆振、超前/滞后或追逐。某型直升机的主旋翼桨毂上可以看到阻力铰和变距拉杆。
 
 半刚性旋翼系统用于两片桨叶的主旋翼。桨叶与桨毂刚性连接，桨毂和桨叶能像跷跷板一样上下摇摆。这种摇摆动作使桨叶能够挥舞，一片桨叶下降时另一片上升。两片桨叶可以各自独立地改变桨距。一架飞行中的 Bell Jet Ranger 直升机采用半刚性旋翼系统，这一点从直升机前飞时旋翼整体前倾的姿态就可以看出来。
 
@@ -690,9 +660,7 @@ Aerospatiale AS-315B 直升机装有三叶尾桨。该尾桨的桨叶为开口�
 
 重心操纵式柔性翼航空器由蒙布机翼（常称为帆布）和管状结构组成，管状结构上装有轮子、座椅、发动机和螺旋桨。机翼结构也是管状的，蒙布形成翼型形状。各型重心操纵式航空器的机翼形状不同，但三角翼是一种非常流行的设计。在重心操纵式航空器圈内，这类航空器通常被称为 trike（三角翼小车）。
 
-trike 的桅杆用挂点螺栓和安全钢索连接到机翼龙骨上的挂点。机翼上方还伸出一根称为王柱的支撑管，钢索从王柱向下固定在管状机翼结构上。
-
-从王柱向下延伸、构成上部索具的钢索，用于在地面支撑机翼、在飞行中承受负载荷。从王柱连到机翼后缘的绳索称为反曲线钢索。这些钢索在机翼失速时保持机翼形状，方法是把机翼后缘抬起，从而有助于在改出失速时抬起机头。如果航空器进入意外失速，机翼后缘略微抬起的状态有助于抬起机头并改出俯冲。乘员座椅位于机翼气动中心正下方，驾驶员的重量在该点之前，发动机和螺旋桨的重量在该点之后。
+trike 的桅杆用挂点螺栓和安全钢索连接到机翼龙骨上的挂点。机翼上方还伸出一根称为王柱的支撑管，钢索从王柱向下固定在管状机翼结构上。从王柱向下延伸、构成上部索具的钢索，用于在地面支撑机翼、在飞行中承受负载荷。从王柱连到机翼后缘的绳索称为反曲线钢索。这些钢索在机翼失速时保持机翼形状，方法是把机翼后缘抬起，从而有助于在改出失速时抬起机头。如果航空器进入意外失速，机翼后缘略微抬起的状态有助于抬起机头并改出俯冲。乘员座椅位于机翼气动中心正下方，驾驶员的重量在该点之前，发动机和螺旋桨的重量在该点之后。
 
 与传统飞机不同，trike 没有方向舵、升降舵或副翼。它有一副可以前后、左右转动的机翼。驾驶员的手放在操纵杆上，操纵杆连接到机翼连接点稍前方的转轴。操纵杆两端连有钢索，向上延伸到机翼前缘和后缘，以及横杆的左右两侧。从机翼前缘通到后缘的支撑件称为翼肋条。翼肋条插入布套中，使机翼具有弯度。trike 一些主要部件的名称，后面叙述 trike 飞行特性时会用到这些名称。
 

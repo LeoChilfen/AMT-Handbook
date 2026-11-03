@@ -8,27 +8,13 @@ Three-dimensional solids have length, width, and height. There are many three-di
 
 ### Rectangular Solid
 
-A rectangular solid is a three-dimensional solid with six rectangular-shaped sides. The volume is the Circumference Diameter (d)
+A rectangular solid is a three-dimensional solid with six rectangular-shaped sides. The volume is the number of cubic units within the rectangular solid. The formula for the volume of a rectangular solid is: volume = length × width × height = l × w × h The rectangular solid is 3 feet by 2 feet by 2 feet. The volume of the solid is = 3 ft × 2 ft × 2 ft = 12 cubic feet.
 
-b a π = 3.1416 a = Length of one of the semi-axes b = Length of the other semi-axis Area = a = π x a x b Circumference = c = 2π a2 + b2 2 s c a = Wing area, ft.2 c = Average chord, ft.
+Example: A rectangular baggage compartment measures 5 feet 6 inches in length, 3 feet 4 inches in width, and 2 feet 3 inches in height. How many cubic feet of baggage will it hold? First, substitute the known values into the formula. v = l × w × h = 5'6" × 3'4" × 2'3" = 5.5 ft × 3.33 ft × 2.25 ft = 41.25 cubic feet
 
-number of cubic units within the rectangular solid. The formula for the volume of a rectangular solid is:
+A cube is a solid with six square sides. A cube is just a special type of rectangular solid. It has the same formula for volume as does the rectangular solid, which is volume = length × width × height = L × W × H. Because all of the sides of a cube are equal, the volume formula for a cube can also be written as: volume = side × side × side = S3 Example: A large, cube-shaped carton contains a shipment of smaller boxes inside of it. Each of the smaller boxes is 1 ft × 1 ft × 1 ft. The measurement of the large carton is 3 ft × 3 ft × 3 ft. How many of the smaller boxes are in the large carton? First, substitute the known values into the formula. v = l × w × h = 3 ft × 3 ft × 3 ft = 27 cubic feet of volume in the large carton Since each of the smaller boxes has a volume of 1 cubic foot, the large carton holds 27 boxes.
 
-volume = length × width × height = l × w × h The rectangular solid is 3 feet by 2 feet by 2 feet. The volume of the solid is = 3 ft × 2 ft × 2 ft = 12 cubic feet.
-
-Example: A rectangular baggage compartment measures 5 feet 6 inches in length, 3 feet 4 inches in width, and 2 feet 3 inches in height. How many cubic feet of baggage will it hold? First, substitute the known values into the formula.
-
-v = l × w × h = 5'6" × 3'4" × 2'3" = 5.5 ft × 3.33 ft × 2.25 ft = 41.25 cubic feet
-
-A cube is a solid with six square sides. A cube is just a special type of rectangular solid. It has the same formula for volume as does the rectangular solid, which is volume = length × width × height = L × W × H. Because all of the sides of a cube are equal, the volume formula for a cube can also be written as:
-
-volume = side × side × side = S3 Example: A large, cube-shaped carton contains a shipment of smaller boxes inside of it. Each of the smaller boxes is 1 ft × 1 ft × 1 ft. The measurement of the large carton is 3 ft × 3 ft × 3 ft. How many of the smaller boxes are in the large carton? First, substitute the known values into the formula.
-
-v = l × w × h = 3 ft × 3 ft × 3 ft = 27 cubic feet of volume in the large carton Since each of the smaller boxes has a volume of 1 cubic foot, the large carton holds 27 boxes.
-
-A solid having the shape of a can, a length of pipe, or a barrel is called a cylinder. The ends of a cylinder are identical circles. The formula for the volume of a cylinder is:
-
-volume = π × radius2 × height of the cylinder = π r2 × h One of the most important applications of the volume of a cylinder is finding the piston displacement of a cylinder in a reciprocating engine. Piston displacement is the total volume (in cubic inches, cubic centimeters, or liters) swept by all of the pistons of a reciprocating engine as they move in one revolution of the crankshaft. The formula for piston displacement is given as:
+A solid having the shape of a can, a length of pipe, or a barrel is called a cylinder. The ends of a cylinder are identical circles. The formula for the volume of a cylinder is: volume = π × radius2 × height of the cylinder = π r2 × h One of the most important applications of the volume of a cylinder is finding the piston displacement of a cylinder in a reciprocating engine. Piston displacement is the total volume (in cubic inches, cubic centimeters, or liters) swept by all of the pistons of a reciprocating engine as they move in one revolution of the crankshaft. The formula for piston displacement is given as:
 
 Piston Displacement = π × (bore divided by 2)2 × stroke × (# cylinders)
 
@@ -36,11 +22,7 @@ Length 2.54 centimeters 12 inches 3 feet 5,280 feet 0.0394 inches 0.62 miles 25.
 
 Fahrenheit = ⁹⁄5 × (°C + 32)
 
-Conversion Factors The bore of an engine is the inside diameter of the cylinder. The stroke of the engine is the length the piston travels inside the cylinder. Example: Find the piston displacement of one cylinder in a multi-cylinder aircraft engine. The engine has a cylinder bore of 5.5 inches and a stroke of 5.4 inches. First, substitute the known values in the formula.
-
-v = π × r2 × h = (3.1416) × (5.5 ÷ 2)2 × (5.4)
-
-v = 23.758 × 5.4 = 128.29 cubic inches The piston displacement of one cylinder is 128.29 cubic inches. For an eight-cylinder engine, then the total engine displacement would be:
+Conversion Factors The bore of an engine is the inside diameter of the cylinder. The stroke of the engine is the length the piston travels inside the cylinder. Example: Find the piston displacement of one cylinder in a multi-cylinder aircraft engine. The engine has a cylinder bore of 5.5 inches and a stroke of 5.4 inches. First, substitute the known values in the formula. v = π × r2 × h = (3.1416) × (5.5 ÷ 2)2 × (5.4) v = 23.758 × 5.4 = 128.29 cubic inches The piston displacement of one cylinder is 128.29 cubic inches. For an eight-cylinder engine, then the total engine displacement would be:
 
 Total displacement for 8 cylinders = 8 × 128.29 = 1026.32 cubic inches of displacement
 
@@ -52,9 +34,7 @@ H L W L = 3 W= 2 H = 2 s s s Solid Volume Surface Area l × w × h s3 π × r2 �
 
 Rectangle Solid Cube Cylinder Sphere
 
-Formulas for Area of Two-Dimensional ObjectsOrder of Operation for Algebraic Equations Names and Symbols for Metric Prefixes Powers of Ten Prefix Means exa (10 18)
-
-giga (10 9) mega (10 6)
+Formulas for Area of Two-Dimensional ObjectsOrder of Operation for Algebraic Equations Names and Symbols for Metric Prefixes Powers of Ten Prefix Means exa (10 18) giga (10 9) mega (10 6)
 
 One quintillion times One quadrillion times One trillion times One billion times One million times One thousand times One hundred times Ten times One tenth of One hundredth of One thousandth of One millionth of One billionth of One trillionth of Powers of Ten Expansion Value Positive Exponents 106 105 104 103 102 101 100 1,000,000 100,000 10,000 1,000 100 10 1 10 x 10 x 10 x 10 x 10 x 10 10 x 10 x 10 x 10 x 10 10 x 10 x 10 x 10 10 x 10 x 10 10 x 10 10 Negative Exponents 1/10=0.1 1/100=0.01 1/1,000=0.001 1/10,000=0.0001 1/100,000=0.00001 1/1,000,000=0.000001 1/10 1/(10 x 10)
 
@@ -70,11 +50,7 @@ Cosine (cos) of angle A = adjacent side (side b)hypotenuse (side c)
 
 Tangent (tan) of angle A = opposite side (side a)adjacent side (side b)
 
-v = 4⁄3 × π × radius3 = 4⁄3 × π × r3 or v = 1⁄6 × πd3 Example: A pressure tank inside the fuselage of a cargo aircraft is in the shape of a sphere with a diameter of 34 inches. What is the volume of the pressure tank?
-
-v = 4⁄3 × π × radius3 = 4⁄3 × (3.1416) × (34⁄2)3 = 1.33 × 3.1416 × 173 = 1.33 × 3.1416 × 4,913 v = 20,528.125 cubic inches Cone A solid with a circle as a base and with sides that gradually taper to a point is called a cone. The formula for the volume of a cone is given as:
-
-v = 1⁄3 × π × radius2 × height = 1⁄3 × π × r2 × h
+V = 4⁄3 × π × radius3 = 4⁄3 × π × r3 or v = 1⁄6 × πd3 Example: A pressure tank inside the fuselage of a cargo aircraft is in the shape of a sphere with a diameter of 34 inches. What is the volume of the pressure tank? v = 4⁄3 × π × radius3 = 4⁄3 × (3.1416) × (34⁄2)3 = 1.33 × 3.1416 × 173 = 1.33 × 3.1416 × 4,913 v = 20,528.125 cubic inches Cone A solid with a circle as a base and with sides that gradually taper to a point is called a cone. The formula for the volume of a cone is given as: v = 1⁄3 × π × radius2 × height = 1⁄3 × π × r2 × h
 
 Since all volumes are not measured in the same units, it is necessary to know all the common units of volume and how they are related to each other. For example, the mechanic may know the volume of a tank in cubic feet or cubic inches, but when the tank is full of gasoline, they are interested in how many gallons it contains.
 
@@ -84,27 +60,13 @@ Since all volumes are not measured in the same units, it is necessary to know al
 
 ### 长方体
 
-长方体是有六个矩形面的三维立体。体积是（原文此处句子中断，紧接“Circumference Diameter (d)”等表格碎片，原文无正文。）
+长方体是有六个矩形面的三维立体。体积是长方体内部所含立方单位的数目。长方体的体积公式为：volume = length × width × height = l × w × h 这个长方体的尺寸是 3 英尺 × 2 英尺 × 2 英尺。该立体的体积为 3 ft × 2 ft × 2 ft = 12 立方英尺。
 
-（原文此处为公式与标注的碎片：b、a、π = 3.1416、a = 一条半轴的长度、b = 另一条半轴的长度、Area = a = π x a x b、Circumference = c = 2π、a2 + b2、s、c，以及“机翼面积，平方英尺”“平均弦长，英尺”等标注，原文无正文。）
+例：某行李舱长 5 英尺 6 英寸、宽 3 英尺 4 英寸、高 2 英尺 3 英寸，它能装多少立方英尺的行李？先把已知值代入公式。v = l × w × h = 5'6" × 3'4" × 2'3" = 5.5 ft × 3.33 ft × 2.25 ft = 41.25 立方英尺
 
-长方体内部所含立方单位的数目。长方体的体积公式为：
+立方体是有六个正方形面的立体。立方体只是长方体的一种特例。它的体积公式与长方体相同，即 volume = length × width × height = L × W × H。由于立方体各边都相等，其体积公式也可以写成：volume = side × side × side = S3（原文 S3 中的 3 为上标，即 S 的立方）例：一个大立方体纸箱里装着若干小盒子。每个小盒子为 1 ft × 1 ft × 1 ft，大纸箱的尺寸为 3 ft × 3 ft × 3 ft。大纸箱里有多少个小盒子？先把已知值代入公式。v = l × w × h = 3 ft × 3 ft × 3 ft = 27 立方英尺，这是大纸箱的容积。由于每个小盒子的体积为 1 立方英尺，这个大纸箱可装 27 个盒子。
 
-volume = length × width × height = l × w × h 这个长方体的尺寸是 3 英尺 × 2 英尺 × 2 英尺。该立体的体积为 3 ft × 2 ft × 2 ft = 12 立方英尺。
-
-例：某行李舱长 5 英尺 6 英寸、宽 3 英尺 4 英寸、高 2 英尺 3 英寸，它能装多少立方英尺的行李？先把已知值代入公式。
-
-v = l × w × h = 5'6" × 3'4" × 2'3" = 5.5 ft × 3.33 ft × 2.25 ft = 41.25 立方英尺
-
-立方体是有六个正方形面的立体。立方体只是长方体的一种特例。它的体积公式与长方体相同，即 volume = length × width × height = L × W × H。由于立方体各边都相等，其体积公式也可以写成：
-
-volume = side × side × side = S3（原文 S3 中的 3 为上标，即 S 的立方）例：一个大立方体纸箱里装着若干小盒子。每个小盒子为 1 ft × 1 ft × 1 ft，大纸箱的尺寸为 3 ft × 3 ft × 3 ft。大纸箱里有多少个小盒子？先把已知值代入公式。
-
-v = l × w × h = 3 ft × 3 ft × 3 ft = 27 立方英尺，这是大纸箱的容积。由于每个小盒子的体积为 1 立方英尺，这个大纸箱可装 27 个盒子。
-
-形状像罐头、一段管子或木桶的立体称为圆柱体。圆柱体的两端是完全相同的圆。圆柱体的体积公式为：
-
-volume = π × radius2 × height of the cylinder = π r2 × h 圆柱体体积最重要的应用之一，是求往复式发动机气缸的活塞排量。活塞排量是往复式发动机全部活塞在曲轴转一转的过程中扫过的总容积（以立方英寸、立方厘米或升计）。活塞排量的公式为：
+形状像罐头、一段管子或木桶的立体称为圆柱体。圆柱体的两端是完全相同的圆。圆柱体的体积公式为：volume = π × radius2 × height of the cylinder = π r2 × h 圆柱体体积最重要的应用之一，是求往复式发动机气缸的活塞排量。活塞排量是往复式发动机全部活塞在曲轴转一转的过程中扫过的总容积（以立方英寸、立方厘米或升计）。活塞排量的公式为：
 
 Piston Displacement = π × (bore divided by 2)2 × stroke × (# cylinders)（原文此处括号外的 2 为上标，即求平方）
 
@@ -112,11 +74,7 @@ Piston Displacement = π × (bore divided by 2)2 × stroke × (# cylinders)（�
 
 Fahrenheit = ⁹⁄5 × (°C + 32)
 
-换算系数　发动机的缸径是气缸的内径。行程是活塞在气缸内移动的距离。例：求某多缸航空发动机一个气缸的活塞排量。该发动机缸径 5.5 英寸、行程 5.4 英寸。先把已知值代入公式。
-
-v = π × r2 × h = (3.1416) × (5.5 ÷ 2)2 × (5.4)
-
-v = 23.758 × 5.4 = 128.29 立方英寸 单个气缸的活塞排量为 128.29 立方英寸。那么，八缸发动机的整机总排量为：
+换算系数　发动机的缸径是气缸的内径。行程是活塞在气缸内移动的距离。例：求某多缸航空发动机一个气缸的活塞排量。该发动机缸径 5.5 英寸、行程 5.4 英寸。先把已知值代入公式。v = π × r2 × h = (3.1416) × (5.5 ÷ 2)2 × (5.4) v = 23.758 × 5.4 = 128.29 立方英寸 单个气缸的活塞排量为 128.29 立方英寸。那么，八缸发动机的整机总排量为：
 
 8 个气缸的总排量 = 8 × 128.29 = 1026.32 立方英寸
 
@@ -128,9 +86,7 @@ v = 23.758 × 5.4 = 128.29 立方英寸 单个气缸的活塞排量为 128.29 �
 
 （原文此处为表头名称的碎片：Rectangle、Solid、Cube、Cylinder、Sphere，原文无正文。）
 
-（原文此处为几个附表标题混排：二维物体面积公式、代数等式运算顺序、公制词头名称与符号、10 的幂（exa 10 18），原文无完整句子。）
-
-（原文此处为词头碎片：giga（10 9）、mega（10 6），原文无正文。）
+（原文此处为几个附表标题混排：二维物体面积公式、代数等式运算顺序、公制词头名称与符号、10 的幂（exa 10 18），原文无完整句子。） （原文此处为词头碎片：giga（10 9）、mega（10 6），原文无正文。）
 
 （原文此处为 10 的幂表的碎片：One quintillion times 至 One trillionth of 等倍数说法，106、105……100 与 1,000,000……1 的对应，10 × 10 × … 的展开式，以及 1/10 = 0.1、1/100 = 0.01 等负指数取值，原文无完整句子。）
 
@@ -146,11 +102,7 @@ v = 23.758 × 5.4 = 128.29 立方英寸 单个气缸的活塞排量为 128.29 �
 
 （原文此处为公式碎片：角 A 的正切（tan）= 对边（边 a）／邻边（边 b），原文无正文。）
 
-v = 4⁄3 × π × radius3 = 4⁄3 × π × r3 或 v = 1⁄6 × πd3 例：某货机机身内有一个球形压力罐，直径为 34 英寸。该压力罐的体积是多少？
-
-v = 4⁄3 × π × radius3 = 4⁄3 × (3.1416) × (34⁄2)3 = 1.33 × 3.1416 × 173 = 1.33 × 3.1416 × 4,913 v = 20,528.125 立方英寸 圆锥　以圆为底、侧面逐渐收拢到一点的立体称为圆锥体。圆锥体的体积公式为：
-
-v = 1⁄3 × π × radius2 × height = 1⁄3 × π × r2 × h
+v = 4⁄3 × π × radius3 = 4⁄3 × π × r3 或 v = 1⁄6 × πd3 例：某货机机身内有一个球形压力罐，直径为 34 英寸。该压力罐的体积是多少？v = 4⁄3 × π × radius3 = 4⁄3 × (3.1416) × (34⁄2)3 = 1.33 × 3.1416 × 173 = 1.33 × 3.1416 × 4,913 v = 20,528.125 立方英寸 圆锥　以圆为底、侧面逐渐收拢到一点的立体称为圆锥体。圆锥体的体积公式为：v = 1⁄3 × π × radius2 × height = 1⁄3 × π × r2 × h
 
 由于各种体积并不都用同一单位计量，必须了解所有常用的体积单位以及它们彼此之间的换算关系。例如，维修人员可能知道某个油箱的容积是若干立方英尺或立方英寸，但当油箱装满汽油时，他们关心的是它能装多少加仑。
 

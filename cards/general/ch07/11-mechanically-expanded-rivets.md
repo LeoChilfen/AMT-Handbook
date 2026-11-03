@@ -26,7 +26,7 @@ The stem of the self-plugging (friction lock) rivet may have a knot or knob on t
 
 Self-plugging (friction lock) rivets are fabricated from several materials. Rivets are available in the following material combinations: stem 2017 aluminum alloy and sleeve 2117 aluminum alloy; stem 2017 aluminum alloy and sleeve 5056 aluminum alloy; and stem steel and sleeve steel.
 
-Self-plugging (friction lock) rivets are designed so that installation requires only one person; it is not necessary to have the work accessible from both sides. The pulling strength of the rivet stem is such that a uniform job can always be assured. Because it is not necessary to have access to the opposite side of the work, self- plugging (friction lock) rivets can be used to attach assemblies to hollow tubes, corrugated sheet, hollow boxes, and so forth. Because a hammering force is not necessary to install the rivet, it can be used to attach assemblies to plywood or plastics.
+Self-plugging (friction lock) rivets are designed so that installation requires only one person; it is not necessary to have the work accessible from both sides. The pulling strength of the rivet stem is such that a uniform job can always be assured. Because it is not necessary to have access to the opposite side of the work, self-plugging (friction lock) rivets can be used to attach assemblies to hollow tubes, corrugated sheet, hollow boxes, and so forth. Because a hammering force is not necessary to install the rivet, it can be used to attach assemblies to plywood or plastics.
 
 Factors to consider in the selection of the correct rivet for installation are: installation location, composition of the material being riveted, thickness of the material being riveted, and strength desired.
 
@@ -96,7 +96,7 @@ C = Total rivet shank length (Minimum grip illustrated)
 
 Before installation After installation Many special fasteners produce high strength with lightweight and can be used in place of conventional AN bolts and nuts. When AN bolts are tightened with the nut, the bolt stretches, narrowing the diameter and then the bolt is no longer tight in the hole. Special fasteners eliminate this loose fit, because they are held in place by a collar that is squeezed into position. These fasteners are not under the same tensile loads as a bolt during installation. Special fasteners are also used extensively for light sport aircraft (LSA). Always follow the aircraft manufacturer’s recommendations.
 
-Pin (Hi-Shear) rivets are classified as special rivets but are not of the blind type. Access to both sides of the material is required to install this type of rivet. Pin rivets have the same shear strength as bolts of equal diameters, are about 40 percent of the weight of a bolt, and require only about one- fifth as much time for installation as a bolt, nut, and washer combination. They are approximately three times as strong as solid shank rivets.
+Pin (Hi-Shear) rivets are classified as special rivets but are not of the blind type. Access to both sides of the material is required to install this type of rivet. Pin rivets have the same shear strength as bolts of equal diameters, are about 40 percent of the weight of a bolt, and require only about one-fifth as much time for installation as a bolt, nut, and washer combination. They are approximately three times as strong as solid shank rivets.
 
 Pin rivets are essentially threadless bolts. The pin is headed at one end and is grooved about the circumference at the other. A metal collar is swaged onto the grooved end effecting a firm, tight fit. Pin rivets are fabricated in a variety of materials but should be used only in shear applications. They should never be used where the grip length is less than the shank diameter.
 
@@ -138,11 +138,11 @@ For protruding head applications Unisink A combination of ﬂush and protruding 
 
 156° Countersunk NAS 1097 A large diameter, shallow countersunk head providing wide area for honeycomb applications. Not covered by NAS Standard.
 
-term “Residual Tension” is defined as the remaining tensile load experienced by a fastener in a joint after the fastener installation sequence is complete, and after any residual relaxation of the joint assembly.
+The term “Residual Tension” is defined as the remaining tensile load experienced by a fastener in a joint after the fastener installation sequence is complete, and after any residual relaxation of the joint assembly.
 
 The advantages of HI-LOK™ two-piece fastener include its lightweight, high fatigue resistance, high strength, and its inability to be over-torqued. The pins, made from alloy steel, corrosion-resistant steel, nickel, or titanium alloy, come in many standard and oversized shank diameters. The collars are made of aluminum alloy, corrosion-resistant steel, titanium, or alloy steel. The collars have wrenching flats, fracture point, threads, and a recess. The wrenching flats are used to install the collar. The fracture point has been designed to allow the wrenching flats to shear when the proper torque has been reached. The threads match the threads of the pins and have been formed into an ellipse that is distorted to provide the locking action. The recess serves as a built-in washer. This area contains a portion of the shank and the transition area of the fastener. The hole shall typically be prepared so that the maximum interference fit does not exceed 0.002-inch. This avoids build up of excessive internal stresses in the work adjacent ¼"
 
-grip 4 4 4 Diameter 3/16 "
+Grip 4 4 4 Diameter 3/16 "
 
 Rivet grip number to be used: −04 Read 2 4 6 8 Read 269C3 Gauge C A B A = Thickness of material (grip range)
 
@@ -212,7 +212,7 @@ The total amount of material thickness to be secured with the Airloc fastener mu
 
 The cross pin is manufactured from chrome-vanadium steel and heat-treated to provide maximum strength, wear, and holding power. It should never be used the second time; once removed from the stud, replace it with a new pin.
 
-Receptacles for Airloc fasteners are manufactured in two types: rigid and floating. Number—No. 2, No. 5, and No. 7, classifies sizes. They are also classified by the center-to- center distance between the rivet holes of the receptacle: No. 2 is 3⁄4 inch; No. 5 is 1 inch; and No. 7 is 13⁄8 inch. Receptacles are fabricated from high-carbon, heat-treated steel. An upper wing assures ejection of the stud when unlocked and enables the cross pin to be held in a locked position between the upper wing, cam, stop, and wing detent, regardless of the tension to which the receptacle is subjected.
+Receptacles for Airloc fasteners are manufactured in two types: rigid and floating. Number—No. 2, No. 5, and No. 7, classifies sizes. They are also classified by the center-to-center distance between the rivet holes of the receptacle: No. 2 is 3⁄4 inch; No. 5 is 1 inch; and No. 7 is 13⁄8 inch. Receptacles are fabricated from high-carbon, heat-treated steel. An upper wing assures ejection of the stud when unlocked and enables the cross pin to be held in a locked position between the upper wing, cam, stop, and wing detent, regardless of the tension to which the receptacle is subjected.
 
 ## 2. 中文翻译
 

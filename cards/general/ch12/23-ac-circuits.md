@@ -60,7 +60,7 @@ First, find the capacitive reactance of the circuit:
 
 XC = 1 2πfC Changing 2 μf to farads and entering the values into the formula given:
 
-110 V AC 60 cycles 4 Ω 10 Ω 7 Ω capacitance.
+110 VAC 60 cycles 4 Ω 10 Ω 7 Ω capacitance.
 
 = 12 × 3.14 × 60 × 0.000002 = or 1 10,0000.00075360 7.536 = 1,327 XC capacitive reactance To find the impedance, the impedance formula used in a series AC circuit must be modified to fit the parallel circuit:
 
@@ -68,7 +68,7 @@ Z = R2 + XC2 RXC = (10,000)2 + (1,327)2 10,000 × 1,327 = 0.1315 W (approximatel
 
 To find the current through the capacitance:
 
-IC = E XC IC = 110 1,327 = 0.0829 ampere To find the current flowing through the resistance:
+IC = EXC IC = 110 1,327 = 0.0829 ampere To find the current flowing through the resistance:
 
 IR = E R = 110 10,000 = 0.011 ampere To find the total current in the circuit:
 
@@ -100,7 +100,7 @@ Z = R2 = XL2 XL To find the parallel networks of inductance and capacitive react
 
 X = XL + XC XL + XC To find the parallel networks with resistance capacitive and inductance, use:
 
-Z = XL2 XC2 + (RXL – RXC)2 R XL XC Since at the resonant frequency XL cancels XC, the current can become very large, depending on the amount of resistance. In such cases, the voltage drop across the inductor or capacitor is often higher than the applied voltage.
+Z = XL2 XC2 + (RXL – RXC)2 RXL XC Since at the resonant frequency XL cancels XC, the current can become very large, depending on the amount of resistance. In such cases, the voltage drop across the inductor or capacitor is often higher than the applied voltage.
 
 In a parallel resonant circuit, the reactances are equal and equal currents flow through the coil and the capacitor.
 
@@ -136,13 +136,13 @@ A transformer consists of three basic parts. These are an iron core, which provi
 
 The primary and secondary of this closed core transformer are wound on a closed core to obtain maximum inductive effect between the two coils.
 
-There are two classes of transformers: voltage transformers, used for stepping up or stepping down voltages; and
+There are two classes of transformers: voltage transformers, used for stepping up or stepping down voltages;
 
 ### Current Transformers
 
-used in instrument circuits. In voltage transformers, the primary coils are connected in parallel across the supply voltage. The primary windings of current transformers are connected in series in the primary circuit. Of the two types, the voltage transformer is the more common.
+Current transformers are used in instrument circuits. In voltage transformers, the primary coils are connected in parallel across the supply voltage. The primary windings of current transformers are connected in series in the primary circuit. Of the two types, the voltage transformer is the more common.
 
-There are many types of voltage transformers. Most of these are either step-up or step-down transformers. The factor that determines whether a transformer is a step-up or step- down type is the “turns” ratio. The turns ratio is the ratio of the number of turns in the primary winding to the number of turns in the secondary winding. For example, the turns ratio of the step-down transformer is 5 to 1, since there are five times as many turns in the primary as in the secondary. The step-up transformer has a 1 to 4 turns ratio.
+There are many types of voltage transformers. Most of these are either step-up or step-down transformers. The factor that determines whether a transformer is a step-up or step-down type is the “turns” ratio. The turns ratio is the ratio of the number of turns in the primary winding to the number of turns in the secondary winding. For example, the turns ratio of the step-down transformer is 5 to 1, since there are five times as many turns in the primary as in the secondary. The step-up transformer has a 1 to 4 turns ratio.
 
 The ratio of the transformer input voltage to the output voltage is the same as the turns ratio if the transformer is 100 percent efficient. Thus, when 10 volts are applied to the primary of the transformer, two volts are induced in the secondary. If 10 volts are applied to the primary of the transformer, the output voltage across the terminals of the secondary is 40 volts.
 

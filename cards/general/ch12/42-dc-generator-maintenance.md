@@ -6,7 +6,7 @@
 
 The following information about the inspection and maintenance of DC generator systems is general in nature because of the large number of differing aircraft generator systems. These procedures are for familiarization only. Always follow the applicable manufacturer’s instructions for a given generator system.
 
-A B NS + − Load Series field coil To load Arm Shunt field coil Compound wound A B NS + − Field rheostat Load Shunt circuit Main circuit Arm To loadField coils In general, the inspection of the generator installed in the aircraft should include the following items:
+In general, the inspection of the generator installed in the aircraft should include the following items:
 
 1. Security of generator mounting 2. Condition of electrical connections 3. Dirt and oil in the generator—if oil is present, check engine oil seal. Blow out dirt with compressed air.
 
@@ -44,15 +44,11 @@ Each brush should be a specified length to work properly. If a brush is too shor
 
 Some special generator brushes should not be replaced because of a slight grooving on the face of the brush. These grooves are normal and will appear in AC and DC generator brushes which are installed in some models of aircraft generators. These brushes have two cores made of a harder material with a higher expansion rate than the material used in the main body of the brush. Usually, the main body of the brush face rides on the commutator. However, at certain temperatures, the cores extend and wear through any film on the commutator.
 
-Most devices in an airplane, from the starter to the automatic pilot, depend upon mechanical energy furnished by DC motors. A DC motor is a rotating machine, which transforms DC energy into mechanical energy. It consists of two principal parts—a field assembly and an armature assembly. The armature is the rotating part in which current carrying wires are acted upon by the magnetic field.
+Most devices in an airplane, from the starter to the automatic pilot, depend upon mechanical energy furnished by DC motors. A direct-current (DC) motor is a rotating machine, which transforms DC energy into mechanical energy. It consists of two principal parts—a field assembly and an armature assembly. The armature is the rotating part in which current carrying wires are acted upon by the magnetic field.
 
 Whenever a current carrying wire is placed in the field of a magnet, a force acts on the wire. The force is not one of attraction or repulsion; however, it is at right angles to the wire and also at right angles to the magnetic field set up by the magnet. The action of the force upon a current carrying wire placed in a magnetic field is shown in the figure. A wire is located between two permanent magnets. The lines of force in the magnetic field are from the North pole to the South pole. When no current flows, no force is exerted on the wire, but when current flows through the wire, a magnetic field is set up about it. The direction of the field depends on the direction of current flow. Current in one direction creates a clockwise field about the wire, and current in the other direction, a counterclockwise field.
 
-Since the current carrying wire produces a magnetic field, a reaction occurs between the field about the wire and the magnetic field between the magnets. When the current flows Unseated brush 000 sandpaper (sand side next to brush)
-
-Properly seated brush 1/32" to 1/16"
-
-in a direction to create a counterclockwise magnetic field about the wire, this field and the field between the magnets add or reinforce at the bottom of the wire because the lines of force are in the same direction. At the top of the wire, they subtract or neutralize, since the lines of force in the two fields are opposite in direction. Thus, the resulting field at the bottom is strong and the one at the top is weak. Consequently, the wire is pushed upward. The wire is always pushed away from the side where the field is strongest.
+Since the current carrying wire produces a magnetic field, a reaction occurs between the field about the wire and the magnetic field between the magnets. When the current flows in a direction to create a counterclockwise magnetic field about the wire, this field and the field between the magnets add or reinforce at the bottom of the wire because the lines of force are in the same direction. At the top of the wire, they subtract or neutralize, since the lines of force in the two fields are opposite in direction. Thus, the resulting field at the bottom is strong and the one at the top is weak. Consequently, the wire is pushed upward. The wire is always pushed away from the side where the field is strongest.
 
 If current flow through the wire were reversed in direction, the two fields would add at the top and subtract at the bottom. Since a wire is always pushed away from the strong field, the wire would be pushed down.
 
@@ -96,7 +92,7 @@ The armature in a practical motor is not placed between the poles of a permanent
 
 以下关于直流发电机系统检查和维护的信息只是一般性的，因为飞机发电机系统种类繁多。这些程序仅供熟悉了解。对某一具体的发电机系统，务必遵循制造商适用的说明。
 
-（原文此处为图注碎片：A B NS + − Load Series field coil To load Arm Shunt field coil Compound wound … Field coils，混入正文，无对应正文）一般来说，检查装在飞机上的发电机应包括以下各项：
+一般来说，检查装在飞机上的发电机应包括以下各项：
 
 1. 发电机安装是否牢固　　2. 电气连接的状况　　3. 发电机内的污物和油污——如果有油，检查发动机油封。用压缩空气吹除污物。
 
@@ -138,11 +134,7 @@ The armature in a practical motor is not placed between the poles of a permanent
 
 每当把载流导线放入磁场中，导线就会受到力的作用。这个力不是吸引力或排斥力，而是垂直于导线、同时也垂直于磁铁所建立磁场的力。磁场中载流导线所受力的作用如图所示。一根导线放在两块永久磁铁之间。磁场中的磁力线从北极到南极。没有电流时，导线上不作用力；当电流流过导线时，导线周围就建立起磁场。磁场的方向取决于电流的方向。一个方向的电流在导线周围产生顺时针磁场，相反方向的电流则产生逆时针磁场。
 
-由于载流导线产生磁场，导线周围的磁场与磁铁之间的磁场之间就发生相互作用。当电流（原文此处为图注碎片：Unseated brush、000 sandpaper，混入正文，无对应正文）
-
-（原文此处为图注碎片：Properly seated brush、1/32 至 1/16 英寸，无对应正文）
-
-沿某一方向流动、在导线周围产生逆时针磁场时，这个磁场与磁铁之间的磁场在导线下方叠加或增强，因为磁力线方向相同。在导线上方，由于两个磁场的磁力线方向相反，它们相互减弱或抵消。因此，下方合成的磁场强，上方合成的磁场弱。结果，导线被向上推。导线总是被推离磁场最强的一侧。
+由于载流导线产生磁场，导线周围的磁场与磁铁之间的磁场之间就发生相互作用。当电流沿某一方向流动、在导线周围产生逆时针磁场时，这个磁场与磁铁之间的磁场在导线下方叠加或增强，因为磁力线方向相同。在导线上方，由于两个磁场的磁力线方向相反，它们相互减弱或抵消。因此，下方合成的磁场强，上方合成的磁场弱。结果，导线被向上推。导线总是被推离磁场最强的一侧。
 
 如果通过导线的电流方向反过来，两个磁场就会在上方叠加、在下方抵消。由于导线总是被推离强磁场，导线就会被向下推。
 

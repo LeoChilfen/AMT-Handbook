@@ -28,7 +28,7 @@ A screwdriver should not be used for chiseling or prying. Do not use a screwdriv
 
 When using a screwdriver on a small part, always hold the part in the vise or rest it on a workbench. Do not hold the part in the hand, as the screwdriver may slip and cause serious personal injury.
 
-Replaceable tip screwdrivers, commonly referred to as “10 in 1” screwdrivers, allow for the quick changing of a screwdriver tip and economical replacement of the tip when it becomes worn. A wide variety of screwdriver tips, including flat, crosspoint (Reed & Prince, Phillips), Torx (6-point star- shaped pattern), and square drive tips are available for use with the handles. The cordless hand-held power screwdriver has replaced most automatic or spiral screwdrivers for the removal of multiple screws from an airframe. Care must be exercised when using a power screwdriver. If the slip clutch is set for too high a setting when installing a screw, the screwdriver tip will slip and rotate on top of the screw head, damaging it. The screw should be started by hand to avoid driving the screw into the nut or nut plate in a cross-threaded manner. To avoid damaging the slot or receptacle in the head of the screw, the use of cordless power drills fitted with a removable tip driver to remove or install screws is not recommended, as the drill does not have a slip-clutch installed.
+Replaceable tip screwdrivers, commonly referred to as “10 in 1” screwdrivers, allow for the quick changing of a screwdriver tip and economical replacement of the tip when it becomes worn. A wide variety of screwdriver tips, including flat, crosspoint (Reed & Prince, Phillips), Torx (6-point star-shaped pattern), and square drive tips are available for use with the handles. The cordless hand-held power screwdriver has replaced most automatic or spiral screwdrivers for the removal of multiple screws from an airframe. Care must be exercised when using a power screwdriver. If the slip clutch is set for too high a setting when installing a screw, the screwdriver tip will slip and rotate on top of the screw head, damaging it. The screw should be started by hand to avoid driving the screw into the nut or nut plate in a cross-threaded manner. To avoid damaging the slot or receptacle in the head of the screw, the use of cordless power drills fitted with a removable tip driver to remove or install screws is not recommended, as the drill does not have a slip-clutch installed.
 
 Torx Flat Square drive tip Crosspoint (Phillips)
 
@@ -58,7 +58,7 @@ Large indentations in metal, which are necessary to start a twist drill, are mad
 
 The drive punch, which is often called a tapered punch, is used for driving out damaged rivets, pins, and bolts that sometimes bind in holes. The drive punch is therefore made with a flat face instead of a point. The size of the punch is determined by the width of the face, which is usually 1⁄8 inch to 1⁄4 inch.
 
-Pin punches, often called drift punches, are similar to drive punches and are used for the same purposes. The difference between the two is that the sides of a drive punch taper all the way to the face while the pin punch has a straight shank. Pin punches are sized by the diameter of the face, in thirty- seconds of an inch, and range from 1⁄16 to 3⁄8 inch in diameter.
+Pin punches, often called drift punches, are similar to drive punches and are used for the same purposes. The difference between the two is that the sides of a drive punch taper all the way to the face while the pin punch has a straight shank. Pin punches are sized by the diameter of the face, in thirty-seconds of an inch, and range from 1⁄16 to 3⁄8 inch in diameter.
 
 In general practice, a pin or bolt that is to be driven out is usually started and driven with a drive punch until the sides of the punch touch the side of the hole. A pin punch is then used to drive the pin or bolt the rest of the way out of the hole. Stubborn pins may be started by placing a thin piece of scrap copper, brass, or aluminum directly against the pin and then striking it with a hammer until the pin begins to move.
 
@@ -86,7 +86,7 @@ The adjustable wrench is a handy utility tool that has smooth jaws and is design
 
 The category of special wrenches includes the crowfoot, flare nut, spanner, torque, and Allen wrenches.
 
-The crowfoot wrench is normally used when accessing nuts that must be removed from studs or bolts that cannot be accessed using other tools. The flare nut wrench has the appearance of a box-end wrench that has been cut open on one end. This opening allows the wrench to be used on the B-nut of a fuel, hydraulic, or oxygen line. Since it mounts using the standard square adapter, like the crowfoot wrench, it can be used in conjunction with a
+The crowfoot wrench is normally used when accessing nuts that must be removed from studs or bolts that cannot be accessed using other tools. The flare nut wrench has the appearance of a box-end wrench that has been cut open on one end. This opening allows the wrench to be used on the B-nut of a fuel, hydraulic, or oxygen line. Since it mounts using the standard square adapter, like the crowfoot wrench, it can be used in conjunction with a torque wrench.
 
 The hook spanner is for a round nut with a series of notches cut in the outer edge. This wrench has a curved arm with a hook on the end that fits into one of the notches on the nut. The hook is placed in one of these notches with the handle pointing in the direction the nut is to be turned. Some hook spanner wrenches are adjustable and fit nuts of various diameters. U-shaped hook spanners have two lugs on the face of the wrench to fit notches cut in the face of the nut or screw plug. End spanners resemble a socket wrench, but have a series of lugs that fit into corresponding notches in a nut or plug. Pin spanners have a pin in place of a lug, and the pin fits into a round hole in the edge of a nut. Face pin spanners are similar to the U-shaped hook spanners except that they have pins instead of lugs.
 
@@ -188,7 +188,7 @@ In certain applications, the use of an impact driver may be required. Struck wit
 
 专用扳手这一类包括爪形扳手、油管螺母扳手、圆螺母扳手、扭矩扳手和内六角扳手。
 
-爪形扳手通常用于接近那些必须从螺柱或螺栓上卸下、而用其他工具无法接近的螺母。油管螺母扳手的外形像一端被剖开的梅花扳手。这个开口使扳手能用在燃油、液压或氧气导管的 B 形螺母上。由于它和爪形扳手一样通过标准方孔接头安装，因此可与
+爪形扳手通常用于接近那些必须从螺柱或螺栓上卸下、而用其他工具无法接近的螺母。油管螺母扳手的外形像一端被剖开的梅花扳手。这个开口使扳手能用在燃油、液压或氧气导管的 B 形螺母上。由于它和爪形扳手一样通过标准方孔接头安装，因此可与扭矩扳手配用。
 
 钩形扳手用于外缘上开有一系列缺口的圆螺母。这种扳手有一个弯臂，臂端带钩，钩嵌入螺母上的一个缺口。把钩放入其中一个缺口，手柄指向螺母应转动的方向。有些钩形扳手是可调的，能配合各种直径的螺母。U 形钩扳手在扳手端面上有两个凸爪，用来配合螺母或螺塞端面上切出的缺口。端面扳手类似套筒扳手，但带有一系列凸爪，嵌入螺母或螺塞上相应的缺口。销式扳手用销代替凸爪，销插入螺母边缘的圆孔中。端面销式扳手与 U 形钩扳手相似，只是用销代替了凸爪。
 

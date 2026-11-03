@@ -32,7 +32,7 @@ The 2017-T and 2024-T rivets are used in aluminum-alloy structures where more st
 
 The 5056 rivet is used for riveting magnesium-alloy structures because of its corrosion-resistant qualities in combination with magnesium.
 
-Mild steel rivets are used for riveting steel parts. The corrosion- resistant steel rivets are for riveting corrosion-resistant steels in firewalls, exhaust stack brackets, and similar structures.
+Mild steel rivets are used for riveting steel parts. The corrosion-resistant steel rivets are for riveting corrosion-resistant steels in firewalls, exhaust stack brackets, and similar structures.
 
 Monel rivets are used for riveting nickel-steel alloys. They can be substituted for those made of corrosion-resistant steel in some cases.
 
@@ -76,11 +76,9 @@ The flathead rivet, like the roundhead rivet, is used on interior structures. It
 
 The universal head rivet is a combination of the roundhead, flathead, and brazier head. It is used in aircraft construction and repair in both interior and exterior locations. When replacement is necessary for protruding head rivets— roundhead, flathead, or brazier head—they can be replaced by universal head rivets.
 
-The countersunk head rivet is flat topped and beveled toward the shank so that it fits into a countersunk or dimpled hole and is flush with the material’s surface. The angle at which the head slopes may vary from 78° to 120°. The 100° rivet is the most commonly used type. These rivets are used to fasten sheets over which other sheets must fit. They are also * New speciﬁcations are for design purposes.
+The countersunk head rivet is flat topped and beveled toward the shank so that it fits into a countersunk or dimpled hole and is flush with the material’s surface. The angle at which the head slopes may vary from 78° to 120°. The 100° rivet is the most commonly used type. These rivets are used to fasten sheets over which other sheets must fit. They are also used on exterior surfaces of the aircraft, because they offer only slight resistance to the slipstream and help to minimize turbulent airflow.
 
-Head MarkingMaterial AN Material Code AN425 78° Counter- sunk Head AN426 100° Counter- sunk Head MS20426* AN427 100° Counter- sunk Head MS20427* AN430 Round Head MS20470* AN435 Round Head MS20613* MS20615* AN441 Flat Head AN442 Flat Head MS20470* AN455 Brazier Head MS20470* AN456 Brazier Head MS20470* AN470 Universal Head MS20470* Heat Treat Before Use Shear Strength psi Bearing Strength psi X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X X 25,000 100,000 113,000 126,000 136,000 90,000 90,000 90,000 X X X X X X X A AD D D DD B F C M C X MS20613* X MS20613* X X MS20615* X MS20615* X X X X X X X MS20426 No No Yes No Yes No No No No No No No No No 10,000 30,000 34,000 38,000 41,000 27,000 35,000 65,000 23,000 49,000 49,000 95,000 Plain Recessed Dot Raised Dot Raised Dot Raised Double Dash Raised Cross Three Raised Dashes Recessed Triangle Recessed Dash Plain Plain Plain Recessed Large and Small Dot Recessed Double Dots 1100 2117T 2017T 2024T 5056T 2017T-HD 7075-T73 Carbon Steel Copper Brass Titanium Monel (Nickel- Copper Alloy)
-
-Corrosion Resistant Steel Monel Heating Time—Air Furnace Rivet Alloy Time atTemperature Heat-TreatingTemperature 910 °F–930 °F 925 °F–950 °F 2024 2017 1 hour 1 hour Heating Time—Salt Bath 2024 2017 30 minutes 30 minutes Rivet Alloy Time atTemperature Heat-TreatingTemperature 910 °F–930 °F 925 °F–950 °F Group A 1100 3003 5052 6053 Group B 2117 2017 2124 7075 used on exterior surfaces of the aircraft, because they offer only slight resistance to the slipstream and help to minimize turbulent airflow.
+Corrosion Resistant Steel Monel Heating Time—Air Furnace Rivet Alloy Time atTemperature Heat-TreatingTemperature 910 °F–930 °F 925 °F–950 °F 2024 2017 1 hour 1 hour Heating Time—Salt Bath 2024 2017 30 minutes 30 minutes Rivet Alloy Time atTemperature Heat-TreatingTemperature 910 °F–930 °F 925 °F–950 °F Group A 1100 3003 5052 6053 Group B 2117 2017 2124 7075
 
 The markings on the heads of rivets indicate the material of which they are made and, therefore, their strength. Although there are three materials indicated by a plain head, it is possible to distinguish their difference by color. The 1100 is an aluminum color; the mild steel is a typical steel color; and the copper rivet is a copper color. Any head marking can appear on any head style of the same material.
 
@@ -178,11 +176,9 @@ For use in such places, special rivets have been designed that can be bucked fro
 
 通用头铆钉是圆头、平头和扁圆头的结合体。它用于飞机制造和修理中的内部与外部部位。当凸头铆钉（圆头、平头或扁圆头）需要更换时，可用通用头铆钉代用。
 
-埋头铆钉顶部为平面，向杆部倾斜，以便装入埋头孔或压窝孔，并与材料表面齐平。头部斜面角度可为 78° 至 120°。100° 铆钉是最常用的类型。这种铆钉用于固定其上还要再装其他板件的板件。它们也（原文此处句子被表格脚注碎片「* 新规范仅供设计用途」打断，原文无完整句）
+埋头铆钉顶部为平面，向杆部倾斜，以便装入埋头孔或压窝孔，并与材料表面齐平。头部斜面角度可为 78° 至 120°。100° 铆钉是最常用的类型。这种铆钉用于固定其上还要再装其他板件的板件。它们也用于飞机外表面，因为它们对流过的气流阻力很小，有助于把湍流减到最小。
 
-（原文此处为铆钉头部标记、AN 与 MS 件号、材料代号及剪切与承压强度对照表的碎片，含 AN425、AN426、AN430、AN435、AN441、AN442、AN455、AN456、AN470 等件号，1100、2117T、2017T、2024T、5056T、7075-T73、碳钢、铜、黄铜、钛、蒙乃尔等材料，以及 Plain、Raised Dot、Raised Cross、Recessed Triangle 等头部标记形状，原文无正文）
-
-（原文此处为热处理温度与加热时间的表格碎片，含耐蚀钢、蒙乃尔的空气炉加热时间，2024、2017 在 910 °F–930 °F 与 925 °F–950 °F 下的保温时间、盐浴 30 分钟，以及 A 组 1100、3003、5052、6053 与 B 组 2117、2017、2124、7075 的牌号）也用于飞机外表面，因为它们对流过的气流阻力很小，有助于把湍流减到最小。
+（原文此处为热处理温度与加热时间的表格碎片，含耐蚀钢、蒙乃尔的空气炉加热时间，2024、2017 在 910 °F–930 °F 与 925 °F–950 °F 下的保温时间、盐浴 30 分钟，以及 A 组 1100、3003、5052、6053 与 B 组 2117、2017、2124、7075 的牌号）
 
 铆钉头上的标记表示铆钉是用什么材料制成的，因而也表示其强度。虽然光面头部可能对应三种材料，但可以通过颜色区分它们的差别。1100 为铝的本色；低碳钢为典型的钢色；铜铆钉为铜色。任何一种头部标记都可以出现在同一种材料的任何一种头型上。
 

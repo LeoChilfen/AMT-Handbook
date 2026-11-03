@@ -8,7 +8,7 @@
 
 Our conventional (U.S. or English) system of measurement is part of our cultural heritage from the days when the thirteen colonies were under British rule. It started as a collection of Anglo-Saxon, Roman, and Norman-French weights and measures. For example, the inch represents the width of the thumb and the foot is from the length of the human foot. Tradition holds that King Henry I decreed that the yard should be the distance from the tip of his nose to the end of his thumb. Since medieval times, commissions appointed by various English monarchs have reduced the chaos of measurement by setting specific standards for some of the most important units. Some of the conventional units of measure are: inches, feet, yards, miles, ounces, pints, gallons, and pounds. Because the conventional system was not set up systematically, it contains a random collection of conversions. For example, 1 mile = 5,280 feet and 1 foot = 12 inches.
 
-The metric system, also known as the International System of Units (SI), is the dominant language of measurement used today. Its standardization and decimal features make it well- suited for engineering and aviation work. The metric system was first envisioned by Gabriel Mouton, Vicar of St. Paul’s Church in Lyons, France. The meter is the unit of length in the metric system, and it is equal to one ten-millionth of the distance from the equator to the North Pole. The liter is the unit of volume and is equal to one cubic decimeter. The gram is the unit of mass and is equal to one cubic centimeter of water.
+The metric system, also known as the International System of Units (SI), is the dominant language of measurement used today. Its standardization and decimal features make it well-suited for engineering and aviation work. The metric system was first envisioned by Gabriel Mouton, Vicar of St. Paul’s Church in Lyons, France. The meter is the unit of length in the metric system, and it is equal to one ten-millionth of the distance from the equator to the North Pole. The liter is the unit of volume and is equal to one cubic decimeter. The gram is the unit of mass and is equal to one cubic centimeter of water.
 
 All of the metric units follow a consistent naming scheme, which consists of attaching a prefix to the unit. For example, since kilo stands for 1,000, one kilometer equals 1,000 meters. Centi is the prefix for one hundredth, so one meter equals one hundred centimeters. Milli is the prefix for one thousandths and one gram equals one thousand milligrams.
 
@@ -18,11 +18,7 @@ The United States primarily uses the conventional (U.S. or English) system, alth
 
 To convert inches to millimeters, multiply the number of inches by 25.4. Example: 20 inches = 20 × 25.4 = 508 mm To convert ounces to grams, multiply the number of ounces by 28.35.
 
-Example: 12 ounces = 12 × 28.35 = 340.2 grams Prefix Multiplier(Exponential) Multiplier(Numerical) MeaningSymbol exa (1018)
-
-giga (109) mega (106)
-
-quintillion quadrillion trillion billion million thousand hundred ten tenth hundredth thousandth millionth billionth trillionth quadrillionth quintillionth 1,000,000,000,000,000,000 1,000,000,000,000,000 1,000,000,000,000 1,000,000,000 1,000,000 1,000 100 10 0.1 0.01 0.001 0.000,001 0.000,000,001 0.000,000,000,001 0.000,000,000,000,001 0.000,000,000,000,000,001 E P T G M k h da 1 d c m µ n p f a Less Than 1 Greater Than 1
+Example: 12 ounces = 12 × 28.35 = 340.2 grams Prefix Multiplier(Exponential) Multiplier(Numerical) MeaningSymbol exa (1018) giga (109) mega (106) quintillion quadrillion trillion billion million thousand hundred ten tenth hundredth thousandth millionth billionth trillionth quadrillionth quintillionth 1,000,000,000,000,000,000 1,000,000,000,000,000 1,000,000,000,000 1,000,000,000 1,000,000 1,000 100 10 0.1 0.01 0.001 0.000,001 0.000,000,001 0.000,000,000,001 0.000,000,000,000,001 0.000,000,000,000,000,001 E P T G M k h da 1 d c m µ n p f a Less Than 1 Greater Than 1
 
 ## 2. 中文翻译
 
@@ -40,11 +36,7 @@ quintillion quadrillion trillion billion million thousand hundred ten tenth hund
 
 要把英寸换算为毫米，用英寸数乘以 25.4。例：20 英寸 = 20 × 25.4 = 508 mm 要把盎司换算为克，用盎司数乘以 28.35。
 
-例：12 盎司 = 12 × 28.35 = 340.2 克（原文此处混入表格表头与首行碎片：Prefix、Multiplier(Exponential)、Multiplier(Numerical)、Meaning、Symbol、exa (1018)，原文无完整句子。）
-
-（原文此处为词头表碎片：giga (109)、mega (106)，原文无正文。）
-
-（原文此处为词头表主体：quintillion、quadrillion、trillion、billion、million、thousand、hundred、ten、tenth、hundredth、thousandth、millionth、billionth、trillionth、quadrillionth、quintillionth，以及 1,000,000,000,000,000,000 至 0.000,000,000,000,000,001 的对应数值，符号栏为 E、P、T、G、M、k、h、da、1、d、c、m、µ、n、p、f、a，并标注 Less Than 1（小于 1）与 Greater Than 1（大于 1），原文无正文。）
+例：12 盎司 = 12 × 28.35 = 340.2 克（原文此处混入表格表头与首行碎片：Prefix、Multiplier(Exponential)、Multiplier(Numerical)、Meaning、Symbol、exa (1018)，原文无完整句子。） （原文此处为词头表碎片：giga (109)、mega (106)，原文无正文。） （原文此处为词头表主体：quintillion、quadrillion、trillion、billion、million、thousand、hundred、ten、tenth、hundredth、thousandth、millionth、billionth、trillionth、quadrillionth、quintillionth，以及 1,000,000,000,000,000,000 至 0.000,000,000,000,000,001 的对应数值，符号栏为 E、P、T、G、M、k、h、da、1、d、c、m、µ、n、p、f、a，并标注 Less Than 1（小于 1）与 Greater Than 1（大于 1），原文无正文。）
 
 ## 3. 专业词汇
 
@@ -86,8 +78,8 @@ quintillion quadrillion trillion billion million thousand hundred ten tenth hund
 **要点**：be known as 的过去分词形式去掉 be 后可作为同位插入语，前后各加逗号；used today 中的 used 与 measurement 是被动关系。
 
 ### ⑤ make + 宾语 + 形容词补足语
-**原句**：Its standardization and decimal features make it well- suited for engineering and aviation work.
-**拆解**：主语 Its standardization and decimal features；谓语 make 属复合宾语结构，it 为宾语，well- suited 为形容词补足语，for engineering and aviation work 说明适应的领域。
+**原句**：Its standardization and decimal features make it well-suited for engineering and aviation work.
+**拆解**：主语 Its standardization and decimal features；谓语 make 属复合宾语结构，it 为宾语，well-suited 为形容词补足语，for engineering and aviation work 说明适应的领域。
 **要点**：make + 宾语 + 形容词表示“使……变得……”，补足语位置不能用副词；be suited for 是固定搭配，意为“适合”。
 
 ### ⑥ although 让步从句 + 现在进行时

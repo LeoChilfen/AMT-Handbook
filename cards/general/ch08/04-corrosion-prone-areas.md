@@ -30,7 +30,7 @@ More than any other area on the aircraft, this area probably receives more punis
 
 Design specifications require that aircraft have drains installed in all areas where water may collect. Daily inspection of low point drains is a standard requirement. If this inspection is neglected, the drains may become ineffective because of accumulated debris, grease, or sealants.
 
-more frequently than other areas.
+Low point drains should be inspected more frequently than other areas.
 
 ### Engine Frontal Areas & Cooling Air Vents
 
@@ -58,9 +58,7 @@ Electronic and electrical compartments cooled by ram air or compressor bleed air
 
 Helicopter rotor heads and gearboxes, in addition to being constantly exposed to the elements, contain bare steel surfaces, many external working parts, and dissimilar metal contacts. Inspect these areas frequently for evidence of corrosion. The proper maintenance, lubrication, and the use of preservative coatings can prevent corrosion in these areas.
 
-All control cables, whether plain carbon steel or corrosion- resistant steel, are to be inspected to determine their condition at each inspection period. In this process, inspect cables for corrosion by random cleaning of short sections with solvent soaked cloths. If external corrosion is evident, relieve tension Bare steel hinge pin Al alloy extrusions Hidden corrosion occurs here. Joint freezes and lugs break off when hinge is actuated.
-
-and check the cable for internal corrosion. Replace cables that have internal corrosion. Remove light external corrosion with a nonwoven abrasive pad lightly soaked in oil or, alternatively, a steel wire brush. When corrosion products have been removed, recoat the cable with preservative.
+All control cables, whether plain carbon steel or corrosion-resistant steel, are to be inspected to determine their condition at each inspection period. In this process, inspect cables for corrosion by random cleaning of short sections with solvent soaked cloths. If external corrosion is evident, relieve tension and check the cable for internal corrosion. Replace cables that have internal corrosion. Remove light external corrosion with a nonwoven abrasive pad lightly soaked in oil or, alternatively, a steel wire brush. When corrosion products have been removed, recoat the cable with preservative.
 
 ## 2. 中文翻译
 
@@ -90,7 +88,7 @@ and check the cable for internal corrosion. Replace cables that have internal co
 
 设计规范要求飞机在所有可能积水的区域安装排水孔。每日检查低点排水孔是标准要求。如果忽视这项检查，排水孔就可能因积聚的碎屑、润滑脂或密封胶而失效。
 
-比其他区域更频繁。
+低点排水孔应比其他区域更频繁地检查。
 
 ### 发动机前部区域与冷却空气道
 
@@ -118,9 +116,7 @@ and check the cable for internal corrosion. Replace cables that have internal co
 
 直升机旋翼头和齿轮箱除了持续暴露于环境之中，还含有裸钢表面、许多外部运动件和异种金属接触。应经常检查这些区域有无腐蚀迹象。适当的维护、润滑和使用防腐涂层可以防止这些区域发生腐蚀。
 
-所有操纵钢索，不论普通碳钢还是耐蚀钢，都应在每个检查周期检查以确定其状况。在此过程中，用蘸有溶剂的布随机清洁短段，检查钢索有无腐蚀。如果外部腐蚀明显，应放松张力……（原文此处夹有图注碎片，非正文）
-
-并检查钢索有无内部腐蚀。更换有内部腐蚀的钢索。用轻蘸油的无纺磨料垫，或者改用钢丝刷，清除轻微的外部腐蚀。清除腐蚀产物后，给钢索重新涂覆防腐剂。
+所有操纵钢索，不论普通碳钢还是耐蚀钢，都应在每个检查周期检查以确定其状况。在此过程中，用蘸有溶剂的布随机清洁短段，检查钢索有无腐蚀。如果外部腐蚀明显，应放松张力（原文此处夹有图注碎片，非正文）并检查钢索有无内部腐蚀。更换有内部腐蚀的钢索。用轻蘸油的无纺磨料垫，或者改用钢丝刷，清除轻微的外部腐蚀。清除腐蚀产物后，给钢索重新涂覆防腐剂。
 
 ## 3. 专业词汇
 

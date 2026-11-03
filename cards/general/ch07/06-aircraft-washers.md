@@ -12,7 +12,7 @@ Aluminum and aluminum-alloy washers may be used under bolt heads or nuts on alum
 
 The AN970 steel washer provides a greater bearing area than the AN960 washer and is used on wooden structures under both the head and the nut of a bolt to prevent crushing the surface.
 
-Lock washers, both the AN935 and AN936, are used with machine screws or bolts where the self-locking or castellated- type nut is not appropriate. The spring action of the washer (AN935) provides enough friction to prevent loosening of the nut from vibration.
+Lock washers, both the AN935 and AN936, are used with machine screws or bolts where the self-locking or castellated-type nut is not appropriate. The spring action of the washer (AN935) provides enough friction to prevent loosening of the nut from vibration.
 
 Lock washers should never be used under the following conditions:
 

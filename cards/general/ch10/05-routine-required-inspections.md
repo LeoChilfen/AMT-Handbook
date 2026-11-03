@@ -124,13 +124,13 @@ See NOTE 1 for unusable fuel and undrainable oil data.
 
 4 A27EU DATA PERTINENT TO ALL MODELS Control Surface Movements Ailerons Up 29° + 1° Down 14° + 1° Wing flaps Down 35° + 0° - 3° Stabilator Up 18° + 1° Down 9° + 1° Rudder Left 28° + 2° Right 28° + 2° Stabilator trim, distance measured between trailing edge of trim tab and trailing edge of stabilator with stabilator in the neutral position.
 
-tab neutral: 0.32 in. Down, + 0.08 in.
+Tab neutral: 0.32 in. Down, + 0.08 in.
 
-nose down: 0.20 in. Up, + 0.08 in.
+Nose down: 0.20 in. Up, + 0.08 in.
 
-nose up: 0.66 in. Down, + 0.08 in.
+Nose up: 0.66 in. Down, + 0.08 in.
 
-total travel: 0.86 in. + 0.16 in.
+Total travel: 0.86 in. + 0.16 in.
 
 Datum 75.51 in. forward of wing leading edge at split line of the wing/wing stub fairing.
 
@@ -180,7 +180,7 @@ NOTE 3. Information essential for proper maintenance of the airplane is containe
 
 NOTE 4. The airplane manufacturer is:
 
-Waggon- und Maschienenbau A.G.
+Waggon und Maschienenbau A.G.
 
 Donauworth, Laupheim Federal Republic of Germany (A division of Messerschmitt-Bolkow-Blohm).
 
@@ -189,8 +189,6 @@ NOTE 5. Installation of a Tost tow coupling (ring type), LBA approval No. 60.230
 NOTE 6. For issuance of an airworthiness certificate in accordance with 14 CFR Part 21.182(c), the Luftfahrt Bundesamt of Germany must certify that the airplane conforms to the type design and is in a condition for safe operation. In that regard, the Luftfahrt Bundesamt of Germany will certify that the airplane complies with all applicable mandatory continuing airworthiness information (MCAI) it has issued. For issuance of an airworthiness certificate in accordance with 14 CFR Part 21.182(d) the certific ating inspector, or other authorized person, must find, among other things, that the product is in a condition for safe operation. In order to make that finding, the certificating inspector or other authorized person should contact ACE -112, Federal Aviation Administration, Small Airplane Directorate, prior to issuance to determine whether showing airplane compliance with certain MCAI is necessary to support a finding that the airplane is in a condition for safe operation.
 
 6 A27EU NOTE 7. Some of these transfers were not notified to the FAA and so in some instances the actual type certificates were not reissued.
-
-where the inspection is to be conducted.
 
 ### Progressive Inspections
 
@@ -386,7 +384,7 @@ FAA 接受此类文件并将其视为 FAA 批准，除非存在下列条件之�
 
 注 4. 飞机制造商为：
 
-Waggon- und Maschienenbau A.G.
+Waggon und Maschienenbau A.G.
 
 Donauworth、Laupheim，德意志联邦共和国（Messerschmitt-Bolkow-Blohm 的一个分部）。
 
@@ -395,8 +393,6 @@ Donauworth、Laupheim，德意志联邦共和国（Messerschmitt-Bolkow-Blohm �
 注 6. 为按 14 CFR 第 21.182(c) 部颁发适航证，德国 Luftfahrt Bundesamt 必须证明该飞机符合型号设计并处于可安全运行的状态。就此而言，德国 Luftfahrt Bundesamt 将证明该飞机符合其已颁发的所有适用的强制性持续适航信息（MCAI）。为按 14 CFR 第 21.182(d) 部颁发适航证，审定检查员或其他授权人员必须查明（除其他事项外）该产品处于可安全运行的状态。为作出该判断，审定检查员或其他授权人员应在颁发前联系 ACE-112（联邦航空管理局小型飞机管理局），以确定是否需要证明飞机符合某些 MCAI，才能支持飞机处于可安全运行状态的结论。
 
 6 A27EU 注 7. 这些转让中有些未通知 FAA，因此在某些情况下实际的型号合格证并未重新颁发。
-
-该目的地即进行检查的地点。
 
 ### 分阶段检查
 

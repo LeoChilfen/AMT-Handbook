@@ -8,7 +8,7 @@
 
 Active materials in nickel-cadmium cells (Ni-Cad) are nickel hydroxide (NiOOH) in the charged positive plate (Anode) and sponge cadmium (Cd) in the charged negative plate (Cathode). The electrolyte is a potassium hydroxide (KOH) solution in concentration of 20–34 percent by weight pure KOH in distilled water.
 
-Sintered nickel-cadmium cells have relatively thin sintered nickel matrices forming a plate grid structure. The grid structure is highly porous and is impregnated with the active positive material (nickel-hydroxide) and the negative material (cadmium-hydroxide). The plates are then formed by sintering nickel powder to fine-mesh wire screen. In other variations of the process, the active material in the sintered matrix is converted chemically, or thermally, to an active state and then formed. In general, there are many steps to these cycles of impregnation and formation. Thin sintered plate cells are ideally suited for very high rate charge and discharge service. Pocket plate nickel-cadmium cells have the positive or negative active material, pressed into pockets of perforated nickel-plated steel plates or into tubes. The active material is trapped securely in contact with a metal current collector so active material shedding is largely eliminated. Plate designs vary in thickness A B + + Constant current charging circuit Constant voltage charging circuit Rheostat A OFF ON V R Motor generator depending upon cycling service requirements. The typical open circuit cell voltage of a nickel-cadmium battery is about 1.25 volts.
+Sintered nickel-cadmium cells have relatively thin sintered nickel matrices forming a plate grid structure. The grid structure is highly porous and is impregnated with the active positive material (nickel-hydroxide) and the negative material (cadmium-hydroxide). The plates are then formed by sintering nickel powder to fine-mesh wire screen. In other variations of the process, the active material in the sintered matrix is converted chemically, or thermally, to an active state and then formed. In general, there are many steps to these cycles of impregnation and formation. Thin sintered plate cells are ideally suited for very high rate charge and discharge service. Pocket plate nickel-cadmium cells have the positive or negative active material, pressed into pockets of perforated nickel-plated steel plates or into tubes. The active material is trapped securely in contact with a metal current collector so active material shedding is largely eliminated. Plate designs vary in thickness depending upon cycling service requirements. The typical open circuit cell voltage of a nickel-cadmium battery is about 1.25 volts.
 
 ### Operation of Nickel-Cadmium Cells
 
@@ -24,7 +24,7 @@ The pad in the battery sump jar should be saturated with a three percent (by wei
 
 #### General Maintenance and Safety Precautions
 
-Refer to the battery manufacturer for detailed service instructions. Below are general recommendations for maintenance and safety precautions. For vented nickel- cadmium cells, the general maintenance requirements are:
+Refer to the battery manufacturer for detailed service instructions. Below are general recommendations for maintenance and safety precautions. For vented nickel-cadmium cells, the general maintenance requirements are:
 
 1. Hydrate cells to supply water lost during overcharging.
 

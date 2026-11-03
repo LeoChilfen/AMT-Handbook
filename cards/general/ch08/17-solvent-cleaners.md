@@ -26,7 +26,7 @@ Kerosene is mixed with solvent emulsion-type cleaners for softening heavy preser
 
 ### Cleaning Compound for Oxygen Systems
 
-Cleaning compounds for use in the oxygen system are anhydrous (waterless) ethyl alcohol or isopropyl (anti- icing fluid) alcohol. These may be used to clean accessible components of the oxygen system, such as crew masks and lines. Fluids must not be put into tanks or regulators.
+Cleaning compounds for use in the oxygen system are anhydrous (waterless) ethyl alcohol or isopropyl (anti-icing fluid) alcohol. These may be used to clean accessible components of the oxygen system, such as crew masks and lines. Fluids must not be put into tanks or regulators.
 
 Do not use any cleaning compounds that may leave an oily film when cleaning oxygen equipment. Instructions of the manufacturer of the oxygen equipment and cleaning compounds must be followed at all times.
 

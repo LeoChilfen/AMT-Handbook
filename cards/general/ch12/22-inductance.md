@@ -80,7 +80,7 @@ X L = 2π × f × L X L = 6.28 × 60 × 0.146 X L = 55 ohm In any circuit where 
 
 Current = or I = V oltage E Reactance XL Where:
 
-XL = inductive reactance of the circuit in ohms I = E XL I = 110 55 I = 2 amperes In AC series circuits, inductive reactances are added like resistances in series in a DC circuit. Thus, the total reactance in the illustrated circuit equals the sum of the individual reactances.
+XL = inductive reactance of the circuit in ohms I = EXL I = 110 55 I = 2 amperes In AC series circuits, inductive reactances are added like resistances in series in a DC circuit. Thus, the total reactance in the illustrated circuit equals the sum of the individual reactances.
 
 The total reactance of inductors connected in parallel is found the same way as the total resistance in a parallel circuit. Thus, the total reactance of inductances connected in parallel, as shown, is expressed as:
 

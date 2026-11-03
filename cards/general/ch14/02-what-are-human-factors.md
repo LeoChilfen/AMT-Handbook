@@ -8,9 +8,7 @@ The term “human factors” has grown increasingly popular as the commercial av
 
 ### Elements of Human Factors
 
-Human factors are comprised of many disciplines. This section discusses ten of those disciplines: Clinical Psychology, Experimental Psychology, Anthropometrics, Computer Science, Cognitive Science, Safety Engineering, Medical Science, Organizational Psychology, Educational Psychology, and Industrial Engineering. The study and application of human factors is complex because there is not just one simple answer to fix or change how people are affected by certain conditions or situations. The overall goal of aviation maintenance human factors research is to identify and optimize the factors that affect human performance in maintenance and inspection.
-
-important to aviation maintenance. The focus initiates on the technician but extends to the entire engineering and technical organization. Research is optimized by incorporating the many disciplines that affect human factors in an effort to understand how people can work more efficiently and maintain work performance.
+Human factors are comprised of many disciplines. This section discusses ten of those disciplines: Clinical Psychology, Experimental Psychology, Anthropometrics, Computer Science, Cognitive Science, Safety Engineering, Medical Science, Organizational Psychology, Educational Psychology, and Industrial Engineering. The study and application of human factors is complex because there is not just one simple answer to fix or change how people are affected by certain conditions or situations. The overall goal of aviation maintenance human factors research is to identify and optimize the factors that affect human performance in maintenance and inspection. It is important to aviation maintenance. The focus initiates on the technician but extends to the entire engineering and technical organization. Research is optimized by incorporating the many disciplines that affect human factors in an effort to understand how people can work more efficiently and maintain work performance.
 
 By understanding each of the disciplines and applying them to different situations or human behaviors, we can correctly recognize potential human factors and address them before they develop into a problem or create a chain of problems that result in an accident or incident.
 
@@ -66,9 +64,7 @@ Human Factors are required to read back instructions or clearances given by air 
 
 ### 人为因素的要素
 
-人为因素由许多学科构成。本节讨论其中十个学科：临床心理学、实验心理学、人体测量学、计算机科学、认知科学、安全工程、医学、组织心理学、教育心理学和工业工程。人为因素的研究与应用很复杂，因为要解决或改变人如何受某些状况或情境影响，并不存在单一简单的答案。航空维修人为因素研究的总体目标，是识别并优化影响维修与检查中人的绩效的因素。
-
-这些学科对航空维修很重要。重点首先放在技术员身上，但会扩展到整个工程与技术组织。研究通过纳入影响人为因素的众多学科而得到优化，以理解人们如何能更高效地工作并保持工作绩效。
+人为因素由许多学科构成。本节讨论其中十个学科：临床心理学、实验心理学、人体测量学、计算机科学、认知科学、安全工程、医学、组织心理学、教育心理学和工业工程。人为因素的研究与应用很复杂，因为要解决或改变人如何受某些状况或情境影响，并不存在单一简单的答案。航空维修人为因素研究的总体目标，是识别并优化影响维修与检查中人的绩效的因素。这些学科对航空维修很重要。重点首先放在技术员身上，但会扩展到整个工程与技术组织。研究通过纳入影响人为因素的众多学科而得到优化，以理解人们如何能更高效地工作并保持工作绩效。
 
 通过理解每一个学科并将其应用于不同情境或人的行为，我们就能正确识别潜在的人为因素，并在它们发展成问题或形成导致事故或事件的问题链之前加以处理。
 

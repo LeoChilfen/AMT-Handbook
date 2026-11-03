@@ -34,7 +34,7 @@ The pitch of a blade indicates the number of teeth per inch. Pitches of 14, 18, 
 
 7. After the first few strokes, make each stroke as long as the hacksaw frame allows. This prevents the blade from overheating.
 
-are usually made of eight-sided tool steel bar stock, carefully hardened and tempered. Since the cutting edge is slightly convex, the center portion receives the greatest shock when cutting, and the weaker corners are protected. The cutting angle should be 60° to 70° for general use, such as for cutting wire, strap iron, or small bars and rods. When using a chisel, hold it firmly in one hand. With the other hand, strike the chisel head squarely with a ball peen hammer.
+Chisels are usually made of eight-sided tool steel bar stock, carefully hardened and tempered. Since the cutting edge is slightly convex, the center portion receives the greatest shock when cutting, and the weaker corners are protected. The cutting angle should be 60° to 70° for general use, such as for cutting wire, strap iron, or small bars and rods. When using a chisel, hold it firmly in one hand. With the other hand, strike the chisel head squarely with a ball peen hammer.
 
 When cutting square corners or slots, a special cold chisel called a cape chisel should be used. It is like a flat chisel except the cutting edge is very narrow. It has the same cutting angle and is held and used in the same manner as any other chisel.
 
@@ -46,7 +46,7 @@ Most files are made of high-grade tool steels that are hardened and tempered. Fi
 
 Files are used to square ends, file rounded corners, remove burrs and slivers from metal, straighten uneven edges, smooth rough edges, and file holes and slots.
 
-Files have three distinguishing features: 1. Their length, measured exclusive of the tang; 2. Their kind or name, such as a hand file that has reference to the relative coarseness of the teeth; and 3. Their cut, such as a single- or double-cut file.
+Files have three distinguishing features: 1. Their length, measured exclusive of the tang; 2. Their kind or name, such as a hand file that has reference to the relative coarseness of the teeth; and 3. Their cut, such as a single-cut or double-cut file.
 
 Files are usually made in two types of cuts: single cut and double cut. The single cut file has a single row of teeth extending across the face at an angle of 65° to 85° with the length of the file. The size of the cuts depends on the coarseness of the file. The double cut file has two rows of teeth that cross each other. For general work, the angle of the first row is 40° to 45°. The first row is generally referred to as “overcut,” and the second row as “upcut;” the upcut is forward stroke to cause each tooth to remove a small amount of metal. The strokes should be long and steady with a speed not more than 40 to 50 strokes per minute.
 

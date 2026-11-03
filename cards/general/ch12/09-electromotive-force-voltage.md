@@ -4,7 +4,7 @@
 
 ## 1. 原文
 
-Unlike current, which is easy to visualize as a flow, voltage is a variable that is determined between two points. Often, we refer to voltage as a value across two points. It is the electromotive force (emf) or the push or pressure felt in a Direction of
+Unlike current, which is easy to visualize as a flow, voltage is a variable that is determined between two points. Often, we refer to voltage as a value across two points. It is the electromotive force (emf) or the push or pressure felt in a Direction of…
 
 ## 2. 中文翻译
 

@@ -1,7 +1,3 @@
-# Types of Drawings
-
-> 通用 Ch 04 · Types of Drawings · 原文 PDF 第 126 页
-
 ## 1. 原文
 
 Drawings must give information such as size and shape of the object and all its parts, specifications for material to be used, how the material is to be finished, how the parts are to be assembled, and any other information essential to making and assembling the object. Drawings may be divided into three classes: detail, assembly, and installation.
@@ -26,7 +22,7 @@ In a half section, the cutting plane extends only halfway across the object, lea
 
 #### Revolved Section
 
-A revolved section drawn directly on the exterior view shows the shape of the cross section of a part, such as the spoke of a wheel. An example of a revolved section is shown in
+A revolved section drawn directly on the exterior view shows the shape of the cross section of a part, such as the spoke of a wheel. An example of a revolved section is shown.
 
 #### Removed Section
 
@@ -58,7 +54,7 @@ Section A-A shows the cross-sectional shape of the object at cutting plane line 
 
 #### 旋转剖视图
 
-直接画在外形视图上的旋转剖视图，显示零件横截面的形状，例如轮子的辐条。旋转剖视图的示例见……（原文此处句子在行末被截断，无对应文字）。
+直接画在外形视图上的旋转剖视图，显示零件横截面的形状，例如轮子的辐条。旋转剖视图的示例此处给出（原文此处句子在行末被截断，无对应文字）。
 
 #### 移出剖视图
 

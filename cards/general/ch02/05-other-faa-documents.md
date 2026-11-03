@@ -48,7 +48,7 @@ Generally, ADs include:
 
 • A description of the unsafe condition
 
-• The product that the AD applies to
+• The product that the AD applies to.
 
 • The required corrective action or operating limitations or both
 
@@ -78,7 +78,7 @@ Specifications were originated during implementation of the Air Commerce Act of 
 
 1. Group I—Type Certificate Aircraft, Engines, and Propellers. Covering standard, restricted, and limited types issued for domestic, foreign, and military surplus products.
 
-2. Group II—Aircraft, Engine, and Propeller Approvals. Covering domestic, foreign, and military surplus products constructed or modified between October 1, 1927, and August 22, 1938. All have met minimum airworthiness requirements without formal type certification. Such products are eligible for standard airworthiness certification as though they are type- certificated products.
+2. Group II—Aircraft, Engine, and Propeller Approvals. Covering domestic, foreign, and military surplus products constructed or modified between October 1, 1927, and August 22, 1938. All have met minimum airworthiness requirements without formal type certification. Such products are eligible for standard airworthiness certification as though they are type-certificated products.
 
 3. Group III—Aircraft, Engine, and Propeller Approvals. Covering domestic products manufactured prior to October 1, 1927, foreign products manufactured prior to June 20, 1931, and certain military surplus engines and propellers. All have met minimum airworthiness requirements of the Air Commerce Act of 1926 and implementing Air Commerce Regulations without formal type certification. Such products are eligible for standard airworthiness certification as though they are type-certificated products.
 

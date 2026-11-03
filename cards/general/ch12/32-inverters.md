@@ -24,7 +24,7 @@ As the name of the rotary inverter indicates, it has a revolving armature in the
 
 The DC motor in this inverter is a four pole, compound wound motor. The four field coils consist of many turns of fine wire, with a few turns of heavy wire placed on top. The fine wire is the shunt field, connected to the DC source through a filter and to ground through a centrifugal governor. The heavy wire is the series field, which is connected in series with the motor armature. The centrifugal governor controls the speed by shunting a resistor that is in series with the shunt field when the motor reaches a certain speed.
 
-The alternator is a three-phase, four-pole, star-connected AC generator. The DC input is supplied to the generator field coils and connected to ground through a voltage regulator. The output is taken off the armature through three slip rings to provide three-phase power. The inverter would be a single- phase inverter if it had a single armature winding and one slip ring. The frequency of this type unit is determined by the speed of the motor and the number of generator poles.
+The alternator is a three-phase, four-pole, star-connected AC generator. The DC input is supplied to the generator field coils and connected to ground through a voltage regulator. The output is taken off the armature through three slip rings to provide three-phase power. The inverter would be a single-phase inverter if it had a single armature winding and one slip ring. The frequency of this type unit is determined by the speed of the motor and the number of generator poles.
 
 ### Inductor-Type Rotary Inverter
 
@@ -34,7 +34,7 @@ When the rotor poles are between the stationary poles, there is a high reluctanc
 
 The number of poles and the speed of the motor determine the frequency of this type of inverter. The DC stator field current controls the voltage.
 
-is a simplified diagram of a typical aircraft AC power distribution system, utilizing a main and a standby rotary inverter system.
+The figure is a simplified diagram of a typical aircraft AC power distribution system, utilizing a main and a standby rotary inverter system.
 
 ### Static Inverters
 

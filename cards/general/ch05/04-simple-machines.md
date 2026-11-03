@@ -1,7 +1,3 @@
-# Simple Machines
-
-> 通用 Ch 05 · Simple Machines · 原文 PDF 第 157 页
-
 ## 1. 原文
 
 A machine is any device with which work may be accomplished. For example, machines can be used for any of the following purposes, or combinations of these 5 purposes:
@@ -22,13 +18,11 @@ An understanding of the principles of simple machines provides a necessary found
 
 ### Mechanical Advantage of Machines
 
-As identified in statements 3 and 4 under simple machines, a machine can be used to multiply force or to multiply speed. It cannot, however, multiply force and speed at the same time. In order to gain one force, it must lose the other force. To do otherwise would mean the machine has more power going Force of 500 lb Torque = F x d Torque = 500 x 4 Torque = 2,000 lb-in Torque = 166.7 lb-ft Piston Connecting rod Crankshaft 4"
-
-out than coming in, and that is not possible.
+As identified in statements 3 and 4 under simple machines, a machine can be used to multiply force or to multiply speed. It cannot, however, multiply force and speed at the same time. In order to gain one force, it must lose the other force. To do otherwise would mean the machine has more power going out than coming in, and that is not possible.
 
 In reference to machines, mechanical advantage is a comparison of the output force to the input force, or the output distance to the input distance. If there is a mechanical advantage in terms of force, there will be a fractional disadvantage in terms of distance. The following formulas can be used to calculate mechanical advantage.
 
-Mechanical Advantage = Force Out ÷ Force In or Mechanical Advantage = Distance Out ÷ Distance In
+Mechanical Advantage = Force Out ÷ Force In or Mechanical Advantage = Distance Out ÷ Distance In.
 
 The simplest machine, and perhaps the most familiar one, is the lever. A seesaw is a familiar example of a lever, with two people sitting on either end of a board and a pivoting point in the middle. There are three basic parts in all levers. They are the fulcrum “F,” a force or effort “E,” and a resistance “R.” Shown are the pivot point “F” (fulcrum), the effort “E” which is applied at a distance “L” from the fulcrum, and a resistance “R” which acts at a distance “l” from the fulcrum. Distances “L” and “l” are the lever arms.
 
@@ -50,7 +44,7 @@ E × 60 in = 500 lb × 12 in E = 500 lb × 12 in ÷ 60 in E = 100 lb The mechani
 
 Mechanical Advantage = Force Out ÷ Force In = 500 lb ÷ 100 lb = 5, or 5 to 1 An interesting thing to note with this example lever is if the applied effort moved down 10 inches, the weight on the other end would only move up 2 inches. The weight being lifted would only move one-fifth as far. The reason for this is the Resistance “R” Effort “E”
 
-class levers. The fulcrum is at one end of the lever and the weight or resistance to be overcome is at the other end, with the effort applied at some point between. Third class levers are easily recognized because the effort is applied between the fulcrum and the resistance. The retractable main landing gear on an airplane is a good example of a third class lever. The top of the landing gear, where it attaches to the airplane, is the pivot point. The wheel and brake assembly at the bottom of the landing gear is the resistance. The hydraulic actuator that makes the gear retract is attached somewhere in the middle, and that is the applied effort.
+The fulcrum is at one end of the lever and the weight or resistance to be overcome is at the other end, with the effort applied at some point between. Third class levers are easily recognized because the effort is applied between the fulcrum and the resistance. The retractable main landing gear on an airplane is a good example of a third class lever. The top of the landing gear, where it attaches to the airplane, is the pivot point. The wheel and brake assembly at the bottom of the landing gear is the resistance. The hydraulic actuator that makes the gear retract is attached somewhere in the middle, and that is the applied effort.
 
 The Pulley Pulleys are simple machines in the form of a wheel mounted on a fixed axis and supported by a frame. The wheel, or disk, is normally grooved to accommodate a rope. The wheel is sometimes referred to as a “sheave,” or sometimes “sheaf.” The frame that supports the wheel is called a block. A block and tackle consists of a pair of blocks. Each block contains one or more pulleys and a rope connecting the pulley(s) of each block.
 
@@ -78,11 +72,9 @@ Mechanical Advantage = Force Out ÷ Force In = 300 lb ÷ 90 lb = 3.33, or 3.33 t
 
 #### Third Class Lever
 
-There are occasions when it is desirable to speed up the movement of the resistance even though a large amount of effort must be used. Levers that help accomplish this are third Resistance “R”
+There are occasions when it is desirable to speed up the movement of the resistance even though a large amount of effort must be used. Levers that help accomplish this are third class levers.
 
-Weight R EF Effort “E”
-
-is an increase in force, and ultimately torque. Bevel gears are used to change the plane of rotation, so that a shaft turning horizontally can make a vertical shaft rotate. The size of the gears and their number of teeth determine the mechanical advantage, and whether force is being increased or rpm is being increased. If each gear has the same number of teeth, there would be no change in force or rpm.
+The end result is an increase in force, and ultimately torque. Bevel gears are used to change the plane of rotation, so that a shaft turning horizontally can make a vertical shaft rotate. The size of the gears and their number of teeth determine the mechanical advantage, and whether force is being increased or rpm is being increased. If each gear has the same number of teeth, there would be no change in force or rpm.
 
 The worm gear has an extremely high mechanical advantage. The input force goes into the spiral worm gear, which drives the spur gear. One complete revolution of the worm gear only makes the spur gear move an amount equal to one tooth. The mechanical advantage is equal to the number of teeth on the spur gear, which in this case there are 25. This is a force gaining machine, to the tune of 25 times more output force.
 
@@ -124,9 +116,7 @@ A chisel is a good example of a wedge. A chisel might be 8 inches long and only 
 
 ### 机器的机械效益
 
-正如简单机器部分第 3 条和第 4 条所指出的，机器可用来倍增力，也可用来倍增速度。但它不能同时倍增力和速度。要得到其中一个的增益，就必须失去另一个。否则就意味着机器输出的功率大于输入的功率，（此处夹有一组标注文字，略）
-
-而那是做不到的。
+正如简单机器部分第 3 条和第 4 条所指出的，机器可用来倍增力，也可用来倍增速度。但它不能同时倍增力和速度。要得到其中一个的增益，就必须失去另一个。否则就意味着机器输出的功率大于输入的功率，而那是做不到的。
 
 就机器而言，机械效益是输出力与输入力之比，或输出距离与输入距离之比。如果在力上有机械效益，那么在距离上就会有分数劣势。以下公式可用来计算机械效益。
 
@@ -152,7 +142,7 @@ E × 60 in = 500 lb × 12 in E = 500 lb × 12 in ÷ 60 in E = 100 lb 本例中�
 
 机械效益 = 输出力 ÷ 输入力 = 500 lb ÷ 100 lb = 5，即 5 比 1 关于本例中的杠杆，有一点很有趣：如果施力点向下移动 10 英寸，另一端的重物只会上升 2 英寸。被举起的重物只移动了五分之一的距离。原因就在于此，（此处夹有一组标注文字，略）
 
-第三类杠杆。支点位于杠杆的一端，被克服的重量或阻力位于另一端，施力作用在两者之间的某处。第三类杠杆很容易辨认，因为施力点在支点与阻力之间。飞机上可收放的主起落架就是第三类杠杆的好例子。起落架顶部与飞机的连接处是支点；起落架底部的机轮和刹车组件是阻力；使起落架收放的液压作动筒连接在中部某处，这就是所施加的力。
+支点位于杠杆的一端，被克服的重量或阻力位于另一端，施力作用在两者之间的某处。第三类杠杆很容易辨认，因为施力点在支点与阻力之间。飞机上可收放的主起落架就是第三类杠杆的好例子。起落架顶部与飞机的连接处是支点；起落架底部的机轮和刹车组件是阻力；使起落架收放的液压作动筒连接在中部某处，这就是所施加的力。
 
 滑轮 滑轮是简单机器的一种，外形是一个装在固定轴上、由框架支撑的轮子。这个轮子（或圆盘）通常开有沟槽以容纳绳索。这个轮子有时称为“滑轮”（sheave），有时写作“sheaf”。支撑轮子的框架称为滑轮架。滑轮组由一对滑轮架组成。每个滑轮架内有一个或多个滑轮，以及一根连接两架滑轮的绳索。
 
@@ -180,11 +170,9 @@ E × 60 inches = 300 lb × 18 in E = 300 lb × 18 in ÷ 60 in E = 90 lb 本例�
 
 #### 第三类杠杆
 
-有时即使必须使用很大的力，也希望加快阻力的运动。有助于实现这一点的杠杆就是第三类杠杆。（此处夹有一组标注文字，略）
+有时即使必须使用很大的力，也希望加快阻力的运动。有助于实现这一点的杠杆就是第三类杠杆。
 
-重量 R EF 施力“E”
-
-这实际上是力的增加，并最终体现为扭矩的增加。锥齿轮用于改变旋转平面，使水平转动的轴能带动竖直的轴旋转。齿轮的大小和齿数决定机械效益，也决定是力在增大还是转速在增大。如果每个齿轮的齿数相同，则力或转速都不会改变。
+其最终结果是力的增加，并最终体现为扭矩的增加。锥齿轮用于改变旋转平面，使水平转动的轴能带动竖直的轴旋转。齿轮的大小和齿数决定机械效益，也决定是力在增大还是转速在增大。如果每个齿轮的齿数相同，则力或转速都不会改变。
 
 蜗轮蜗杆具有极高的机械效益。输入的力进入螺旋形的蜗杆，蜗杆驱动直齿轮。蜗杆每转一整圈，直齿轮只移动相当于一个齿的距离。机械效益等于直齿轮的齿数，此例中为 25。这是一种增力机器，输出力可增大到 25 倍。
 

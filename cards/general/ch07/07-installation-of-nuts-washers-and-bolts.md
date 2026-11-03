@@ -22,7 +22,7 @@ The fit of holes and bolts cannot be defined in terms of shaft and hole diameter
 
 Examine the markings on the bolt head to determine that each bolt is of the correct material. It is extremely important to use like bolts in replacement. In every case, refer to the applicable Maintenance Instructions Manual and Illustrated Parts Breakdown.
 
-Be sure that washers are used under both the heads of bolts and nuts unless their omission is specified. A washer guards against mechanical damage to the material being bolted and prevents corrosion of the structural members. An aluminum- alloy washer should be used under the head and nut of a steel bolt securing aluminum alloy or magnesium alloy members. Any corrosion that occurs attacks the washer rather than the members. Steel washers should be used when joining steel members with steel bolts.
+Be sure that washers are used under both the heads of bolts and nuts unless their omission is specified. A washer guards against mechanical damage to the material being bolted and prevents corrosion of the structural members. An aluminum-alloy washer should be used under the head and nut of a steel bolt securing aluminum alloy or magnesium alloy members. Any corrosion that occurs attacks the washer rather than the members. Steel washers should be used when joining steel members with steel bolts.
 
 Whenever possible, place the bolt with the head on top or in the forward position. This positioning tends to prevent the bolt from slipping out if the nut is accidentally lost.
 

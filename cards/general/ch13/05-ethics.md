@@ -34,7 +34,7 @@ The actual sequence of events is as follows:
 
 • The technician walked away.
 
-• The company inspector found someone else to compromise standards. The aircraft departed on time—illegally and unairworthy. This happens more often than one would like, is probably overlooked by many people, and, unfortunately, might be considered standard operating procedure (SOP) for some maintenance facilities. It is the responsibility of the mechanic to follow regulations and to question the actions of their supervisors if the policy is circumvented to make an on-time departure. This incident provides some valuable insights into how day- to-day events can lead to pressure to produce and ultimately compromise the decision-making.
+• The company inspector found someone else to compromise standards. The aircraft departed on time—illegally and unairworthy. This happens more often than one would like, is probably overlooked by many people, and, unfortunately, might be considered standard operating procedure (SOP) for some maintenance facilities. It is the responsibility of the mechanic to follow regulations and to question the actions of their supervisors if the policy is circumvented to make an on-time departure. This incident provides some valuable insights into how day-to-day events can lead to pressure to produce and ultimately compromise the decision-making.
 
 1. The incident occurred while working for a commercial airline. The pressure for getting the aircraft in the air is tremendous in this environment.
 
@@ -80,7 +80,7 @@ Most of these conflicts could have easily occurred in the maintenance realm if t
 
 • The existence of a company culture of intimidation and distrust transcends all lines of business.
 
-For a company to nurture a healthy ethical climate and long- term success, the element of trust is fundamental both inside and outside the organization. This trust boosts employee morale and usually boosts productivity and, therefore, profitability. It also aids and enhances long-term business relationships with customers and vendors. When differences of opinion do exist, ethical organizations pay close attention to those who are dissenting. Those companies that are committed to promoting an ethical climate encourage rather than punish dialogue and debate about policies and practices.
+For a company to nurture a healthy ethical climate and long-term success, the element of trust is fundamental both inside and outside the organization. This trust boosts employee morale and usually boosts productivity and, therefore, profitability. It also aids and enhances long-term business relationships with customers and vendors. When differences of opinion do exist, ethical organizations pay close attention to those who are dissenting. Those companies that are committed to promoting an ethical climate encourage rather than punish dialogue and debate about policies and practices.
 
 It is encouraging to note that more and more institutions of learning, whether business schools or technical colleges, are adding ethics courses into their required curriculum. More and more organizations are developing a corporate “code of ethics.” Some are using the following seven-step checklist to help employees deal with an ethical decision:
 

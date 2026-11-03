@@ -60,9 +60,7 @@ It can now be easily seen that the parallel circuit is a current divider. There 
 
 By Ohm’s Law, the current through any one of the branches can be written as:
 
-+ − + − + − + − R1 R2 A B R3ES IT IT I1 I3 + − + − + − + − A B ES I1=30 mA I3=20 mA I2=?
-
-IT=75 mA IT=75 mA + − + − + − A B ES I2=12 mA R2R1 IT=17 mA IT=17 mA I1=5 mA I X = ES/RX The voltage source appears across each of the parallel resistors and RX represents any one the resistors. The source voltage is equal to the total current times the total parallel resistance.
+IX = ES/RX. The voltage source appears across each of the parallel resistors and RX represents any one the resistors. The source voltage is equal to the total current times the total parallel resistance.
 
 E S = ITRT Substituting ITRT for ES ITRT RX IX = Rearranging RT RX IX = ( ) IT R2 RT I2 = ( ) IT And R1 RT I1 = ( ) IT This formula is the general current divider formula. The current through any branch equals the total parallel resistance divided by the individual branch resistance, multiplied by the total current.
 
@@ -124,9 +122,7 @@ I1 = 5 mA，I2 = 12 mA。流入节点 A 的总电流等于各支路电流之和�
 
 按欧姆定律，流过任一支路的电流可以写成：
 
-（原文此处为图注碎片，为由电压源 ES 供电的并联电路标示图：R1、R2、R3，节点 A 与 B，总电流 IT 及各支路电流 I1、I3，并有 30 mA、20 mA 等待求值的标注）
-
-（原文此处为图注碎片，为并联电路电流标示：节点 A 与 B、电源 ES、I2 = 12 mA、R1 与 R2、IT = 17 mA、I1 = 5 mA）IX = ES/RX。电压源出现在每一只并联电阻的两端，RX 代表其中的任一电阻。电源电压等于总电流乘以并联总电阻。
+IX = ES/RX。电压源出现在每一只并联电阻的两端，RX 代表其中的任一电阻。电源电压等于总电流乘以并联总电阻。
 
 ES = ITRT。用 ITRT 代换 ES：IX =（ITRT）/RX。整理得：IX =（RT/RX）IT。于是 R2 中：I2 =（RT/R2）IT；R1 中：I1 =（RT/R1）IT。这个公式就是通用的分流公式。任一支路中的电流等于并联总电阻除以该支路电阻，再乘以总电流。
 

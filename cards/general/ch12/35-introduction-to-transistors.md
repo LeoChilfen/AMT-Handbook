@@ -24,7 +24,7 @@ Rectifier diodes 35 ampere silicon rectifier Copper Lead Insulating washer Insul
 
 As discussed in the section on diodes, the movement of the electrons and holes can be considered current. Electron current moves in one direction, while hole current travels in the opposite direction. In transistors, both electrons and holes act as carriers of current.
 
-A forward biased PN junction is comparable to a low- resistance circuit element, because it passes a high current for a given voltage. On the other hand, a reverse-biased PN junction is comparable to a high-resistance circuit element. By using Ohm’s Law formula for power (P = I 2R) and assuming current is held constant through both junctions, it can be concluded that the power developed across the high resistance junction is greater than that developed across a low resistance junction. Therefore, if a crystal were to contain two PN junctions, one forward biased and the other reverse biased, and a low-power signal injected into the forward biased junction, a high-power signal could be produced at the reverse-biased junction.
+A forward biased PN junction is comparable to a low-resistance circuit element, because it passes a high current for a given voltage. On the other hand, a reverse-biased PN junction is comparable to a high-resistance circuit element. By using Ohm’s Law formula for power (P = I 2R) and assuming current is held constant through both junctions, it can be concluded that the power developed across the high resistance junction is greater than that developed across a low resistance junction. Therefore, if a crystal were to contain two PN junctions, one forward biased and the other reverse biased, and a low-power signal injected into the forward biased junction, a high-power signal could be produced at the reverse-biased junction.
 
 To use the transistor as an amplifier, some sort of external bias voltage must modify each of the junctions. The first PN junction (emitter-base) is biased in the forward direction. This produces a low resistance. The second junction, which is the collector-base junction, is reverse biased to produce a high resistance.
 
@@ -36,7 +36,7 @@ There are two batteries in the circuit used to bias the NPN transistor. Vbb is c
 
 Current within the external circuit is simply the movement of free electrons originating at the negative terminal of the battery and flowing to the N-material. As the electrons enter the N-material, they become the majority carrier and move through the N-material to the emitter-base PN junction. This emitter-base junction is forward biased at about 0.65 to 0.7 volts positive with respect to the emitter and presents no resistance to the flow of electrons from the emitter into the base, which is composed of P-material. As these electrons move into the base, they drop into available holes. For every electron that drops into a hole, another electron exits the base by way of the base lead and becomes the base current or Ib. Of course, when one electron leaves the base, a new hole is formed. From the standpoint of the collector, these electrons that drop into holes are lost and of no use. To reduce this loss of electrons, the transistor is designed so that the base is very thin in relation to the emitter and collector, and the base is lightly doped.
 
-Most of the electrons that move into the base fall under the influence of the reverse bias of the collector. While collector- base junction is reverse biased with respect to the majority carriers, it behaves as if it is forward biased to the electrons or minority carriers in this case. The electrons are accelerated through the collector-base junction and into the collector. The collector is comprised of the N-type material; therefore, the electrons once again become the majority carrier. Moving easily through the collector, the electrons return to the positive terminal of the collector supply battery Vcc, which is shown as Ic.
+Most of the electrons that move into the base fall under the influence of the reverse bias of the collector. While collector-base junction is reverse biased with respect to the majority carriers, it behaves as if it is forward biased to the electrons or minority carriers in this case. The electrons are accelerated through the collector-base junction and into the collector. The collector is comprised of the N-type material; therefore, the electrons once again become the majority carrier. Moving easily through the collector, the electrons return to the positive terminal of the collector supply battery Vcc, which is shown as Ic.
 
 Because of the way this device operates to transfer current (and its internal resistances) from the original conduction path to another, its name is a combination of the words “transfer” and “resistor”—transistor.
 
@@ -54,7 +54,7 @@ The collector lead in this case is identified by the wide space between it and t
 
 Another transistor design that has become more important than the bipolar transistor is the field-effect transistor (FET). The primary difference between the bipolar transistor and the FET is that the bipolar transistor has two PN junctions and P N PEmitter Collector Base PN junctions N P NEmitter Collector Base PN junctions P N P Emitter Collector Base N P N Base Emitter Collector Base Base
 
-is a current-controlled device, while the FET has only one PN junction and is a voltage-controlled device. Within the FET family, there are two general categories of components. One category is called the junction FET (JFET), which has only one PN junction. The other category is known as the enhancement-type or metal-oxide JET (MOSFET).
+The bipolar transistor is a current-controlled device, while the FET has only one PN junction and is a voltage-controlled device. Within the FET family, there are two general categories of components. One category is called the junction FET (JFET), which has only one PN junction. The other category is known as the enhancement-type or metal-oxide JET (MOSFET).
 
 It can be seen that the drain (D) and source (S) are connected to an N-type material, and the gate (G) is connected to the P-type material. With gate voltage Vgg set to 0 volts and drain voltage Vdd set to some positive voltage, a current flows between the source and the drain, through a narrow band of N-material. If then, Vgg is adjusted to some negative voltage, the PN junction is reverse biased, and a depletion zone (no charge carriers) is established at the PN junction. By reducing the region of noncarriers, it has the effect of reducing the dimensions of the N-channel, resulting in a reduction of source to drain current.
 
@@ -72,9 +72,7 @@ A transistor may be connected in one of three different configurations: common-e
 
 #### Common-Emitter (CE) Configuration
 
-This is the configuration most commonly used in amplifier + − + − Emitter Vcc = 6 volts CollectorReverse biased junction Hole [blue]
-
-lb Vbb = 1 volt Forward biased junction le lc N P N Base + − + − circuits because they provide good gains for voltage, current, and power. The input signal is applied to the base-emitter junction, which is forward biased (low resistance), and the output signal is taken off the collector-emitter junction, which is reverse biased (high resistance). Then the emitter is the common element to both input and output circuits.
+This is the configuration most commonly used in amplifier circuits because they provide good gains for voltage, current, and power. The input signal is applied to the base-emitter junction, which is forward biased (low resistance), and the output signal is taken off the collector-emitter junction, which is reverse biased (high resistance). Then the emitter is the common element to both input and output circuits.
 
 When the transistor is connected in a CE configuration, the input signal is injected between the base and emitter, which is a low-resistance, low-current circuit. As the input signal goes positive, it causes the base to go positive relative to the emitter. This causes a decrease in the forward bias, which in turn reduces the collector current IC and increases the collector voltage (EC being more negative). During the negative portion of the input signal, the voltage on the base is driven more negative relative to the emitter. This increases the forward bias and allows an increase in collector current IC and a decrease in collector voltage (EC being less negative and going positive). The collector current, which flows through the reverse-biased junction, also flows through a high-resistance load resulting in a high level of amplification.
 
@@ -92,13 +90,7 @@ The primary use of this configuration is for impedance matching because it has l
 
 In the CB circuit, the input signal is applied to the emitter and the output signal is taken from the collector. In this case, both the input and the output have the base as a common element. When an input signal is applied to the emitter, it causes the emitter-base junction to react in the same manner as that in the CE circuit. When an input adds to the bias, it increases the transistor current; conversely, when the signal opposes the bias, the current in the transistor decreases.
 
-The signal adds to the forward bias, since it is applied to the emitter, causing the collector current to increase. This increase in I C results in a greater voltage drop across the + Gate (G)
-
-ID IS VGG VDD Source (S)
-
-N-material P-material Charge free or depletion zone P-channelN-channel JFET symbol JFET construction Drain (D) Source (S)
-
-− + − + + − Color dot Color dot E E E BB C C B C E B C A B C D E E B load resistor RL, thus lowering the collector voltage E C. The collector voltage, in becoming less negative, swings in a positive direction and is therefore in phase with the incoming positive signal.
+The signal adds to the forward bias, since it is applied to the emitter, causing the collector current to increase. This increase in I C results in a greater voltage drop across the load resistor RL, thus lowering the collector voltage E C. The collector voltage, in becoming less negative, swings in a positive direction and is therefore in phase with the incoming positive signal.
 
 ## 2. 中文翻译
 
@@ -170,9 +162,7 @@ MOSFET 的偏置方式与 JFET 的基本相同。「增强」一词的由来是�
 
 #### 共发射极（CE）组态
 
-这是放大器中最常用的……
-
-……电路，因为它对电压、电流和功率都能提供良好的增益。输入信号加在正向偏置（低电阻）的基极-发射极结上，输出信号取自反向偏置（高电阻）的集电极-发射极结。于是发射极就是输入电路与输出电路共有的元件。
+这是放大器中最常用的……电路，因为它对电压、电流和功率都能提供良好的增益。输入信号加在正向偏置（低电阻）的基极-发射极结上，输出信号取自反向偏置（高电阻）的集电极-发射极结。于是发射极就是输入电路与输出电路共有的元件。
 
 当晶体管接成 CE 组态时，输入信号注入基极与发射极之间，这是一个低电阻、小电流的电路。当输入信号变正时，基极相对于发射极也变正。这使正向偏置减小，进而使集电极电流 IC 减小、集电极电压升高（EC 变得更负）。在输入信号的负半周，基极电压相对于发射极被推得更负。这使正向偏置增大，允许集电极电流 IC 增大、集电极电压降低（EC 变得不那么负，即向正方向变化）。流过反向偏置结的集电极电流也流过一个大电阻负载，从而获得很高的放大倍数。
 
@@ -190,13 +180,7 @@ MOSFET 的偏置方式与 JFET 的基本相同。「增强」一词的由来是�
 
 在 CB 电路中，输入信号加在发射极上，输出信号取自集电极。在这种情况下，输入和输出都以基极作为公共元件。当输入信号加在发射极上时，它使发射极-基极结的反应方式与 CE 电路相同。当输入信号与偏置叠加时，晶体管电流增大；反之，当信号与偏置相反时，晶体管中的电流减小。
 
-由于信号加在发射极上，它与正向偏置叠加，使集电极电流增大。I C 的这一增大使……
-
-（原文此处为图注碎片，无对应正文）
-
-（原文此处为图注碎片，无对应正文）
-
-……负载电阻 RL 上的电压降加大，从而使集电极电压 E C 降低。集电极电压因变得不那么负而向正方向摆动，因此与输入的正信号同相。
+由于信号加在发射极上，它与正向偏置叠加，使集电极电流增大。I C 的这一增大使负载电阻 RL 上的电压降加大，从而使集电极电压 E C 降低。集电极电压因变得不那么负而向正方向摆动，因此与输入的正信号同相。
 
 ## 3. 专业词汇
 

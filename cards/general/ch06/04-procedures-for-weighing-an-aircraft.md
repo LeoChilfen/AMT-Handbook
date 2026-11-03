@@ -12,19 +12,7 @@ Earlier in this chapter it was identified that the CG for an object is the point
 
 A more realistic way to find the CG for an object, especially an airplane, is to place it on a minimum of two scales and calculate the moment value for each scale reading. There is a plank that is 200" long, with the left end being the datum (zero arm), and 6 weights placed at various locations along the length of the plank.
 
-To calculate the CG for the object, the moments for all the weights need to be calculated and then summed, and the weights need to be summed. In the four-column table, the item, weight, and arm are listed in the first three columns, with the information coming from product of the weight and arm. The weight and moment Suspended from this point first, with red line dropping perpendicular to the ground Second suspension, with blue line dropping perpendicular to the ground 1 2 Center of gravity CG 0" 30" 60" 95" 200"
-
-50 lb 50 lb 125 lb 100 lb90 lb80 lb Weight (lb)
-
-50 125 80 50 90 100 495 Arm (inches)
-
-+30 +60 +95 +125 +145 +170 +106.9 Moment (in-lb)
-
-1,500 7,500 7,600 6,250 13,050 17,000 52,900 Item 50 pound weight 125 pound weight 80 pound weight 50 pound weight 90 pound weight 100 pound weight Total × = with datum at one end.
-
-columns are summed, with the CG being equal to the total moment divided by the total weight. The arm column is not summed. The number appearing at the bottom of that column is the CG.
-
-For this calculation, the total moment is 52,900 in-lb, and the total weight is 495 lb. The CG is calculated as follows:
+To calculate the CG for the object, the moments for all the weights need to be calculated and then summed, and the weights need to be summed. In the four-column table, the item, weight, and arm are listed in the first three columns, with the information coming from product of the weight and arm. The weight and moment columns are summed, with the CG being equal to the total moment divided by the total weight. The arm column is not summed. The number appearing at the bottom of that column is the CG.
 
 CG = Total Moment ÷ Total Weight = 52,900 in-lb ÷ 495 lb = 106.9" (106.87 rounded to tenths)
 
@@ -84,19 +72,7 @@ Some of the important weight and balance information found in a TCDS is as follo
 
 找出物体（尤其是飞机）重心更现实的办法，是把它放在至少两台秤台上，并算出每个秤台读数对应的力矩值。有一块长 200" 的木板，左端为基准（零力臂），6 个重量沿木板长度放在不同位置。当已知物体的各力臂和各重量时，重心就可以计算出来。
 
-要计算该物体的重心，需要先算出所有重量的力矩并求和，同时把各重量相加。在一个四列表格中，前三列分别列出项目、重量和力臂，第四列的信息由重量与力臂相乘得出。重量列与力矩列
-
-（原文此处为表格碎片，原文无正文）
-
-（原文此处为表格碎片，原文无正文）
-
-（原文此处为表格碎片，原文无正文）
-
-（原文此处为表格碎片，原文无正文）
-
-……各列分别求和，重心等于总力矩除以总重量。力臂列不求和；该列底部出现的数字就是重心。
-
-对于这一计算，总力矩为 52,900 in-lb，总重量为 495 lb。重心计算如下：
+要计算该物体的重心，需要先算出所有重量的力矩并求和，同时把各重量相加。在一个四列表格中，前三列分别列出项目、重量和力臂，第四列的信息由重量与力臂相乘得出。重量列与力矩列分别求和，重心等于总力矩除以总重量。力臂列不求和；该列底部出现的数字就是重心。
 
 CG = 总力矩 ÷ 总重量 = 52,900 in-lb ÷ 495 lb = 106.9"（106.87 取到十分位）
 

@@ -18,13 +18,13 @@ Commonly used screws are classified in four groups: 1. Structural screws, which 
 
 ### Structural Screws
 
-Structural screws are made of alloy steel, are properly heat- treated, and can be used as structural bolts. These screws are found in the NAS204 through NAS235 and AN509 and AN525 series. They have a definite grip and the same shear strength as a bolt of the same size. Shank tolerances are similar to AN hex head bolts, and the threads are National Fine. Structural screws are available with round, brazier, or countersunk heads. Either a Phillips or a Reed & Prince screwdriver drives the recessed head screws.
+Structural screws are made of alloy steel, are properly heat-treated, and can be used as structural bolts. These screws are found in the NAS204 through NAS235 and AN509 and AN525 series. They have a definite grip and the same shear strength as a bolt of the same size. Shank tolerances are similar to AN hex head bolts, and the threads are National Fine. Structural screws are available with round, brazier, or countersunk heads. Either a Phillips or a Reed & Prince screwdriver drives the recessed head screws.
 
 The AN509 (100°) flathead screw is used in countersunk holes where a flush surface is necessary.
 
 The AN525 washer head structural screw is used where raised heads are not objectionable. The washer head screw provides a large contact area.
 
-Machine screws are usually of the flathead (countersunk), roundhead, or washer head types. These are general purpose screws and are available in low-carbon steel, brass, corrosion- resistant steel, and aluminum alloy.
+Machine screws are usually of the flathead (countersunk), roundhead, or washer head types. These are general purpose screws and are available in low-carbon steel, brass, corrosion-resistant steel, and aluminum alloy.
 
 Roundhead screws, AN515 and AN520, have either slotted or recessed heads. The AN515 screw has coarse threads, and the AN520 has fine threads.
 

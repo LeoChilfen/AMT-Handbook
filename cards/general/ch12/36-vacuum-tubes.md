@@ -18,10 +18,6 @@ P-material MOSFET symbol MOSFET construction +− N-MOSFET Drain (D)Source (S)
 
 P-MOSFET Drain (D)Source (S)
 
-N N NPN Input Output PNP Input Output NPN Input Output NPN Input Output PNP Input Output PNP Input Output Common-emitter Common-collector Common-base MOSFET transistor.
-
-common-collector, common-base).
-
 ## 2. 中文翻译
 
 由于使用晶体管具有诸多优点，真空管在飞机电气与电子系统中的应用已迅速减少。然而，一些系统在特殊应用中仍使用真空管，而且可能还有一些仍在服役的老型号飞机装备了使用真空管的装置。虽然这些元件可能仍在服役，但它们出现得并不频繁，不值得详细讨论。
@@ -31,10 +27,6 @@ common-collector, common-base).
 当一块金属被加热时，金属中电子的速度会增大。如果把金属加热到足够高的温度，电子就会被加速到其中一部分实际离开金属表面的程度。在真空管中，电子由一块称为阴极的金属提供，阴极由电流加热。在一定范围内，阴极越热，它释放（发射）的电子数量就越多。
 
 为增加发射的电子数量，阴极通常涂覆有特殊的化合物。如果外部电场没有把已发射的电子拉走，它们就会在阴极周围形成一团带负电的云，称为空间电荷。发射体附近负电子的积聚排斥从发射体出来的其他电子。发射体如果被绝缘，就会因失去电子而带正电。这在负电子云与现在带正电的阴极之间建立起一个静电场。当只有恰好足够的电子从阴极流向其周围区域、以补充空间电荷扩散所造成的损失时，就达到了平衡。
-
-（原文此处为图注碎片，无对应正文）
-
-（原文此处为图注碎片，无对应正文）
 
 （原文此处为图注碎片，无对应正文）
 

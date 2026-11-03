@@ -32,7 +32,7 @@ Three types of dry disk rectifiers may be found in aircraft: the copper oxide re
 
 The selenium rectifier consists of an iron disk, similar to a washer, with one side coated with selenium. Its operation is similar to that of the copper oxide rectifier. Current flows from the selenium to the iron.
 
-The magnesium copper sulfide rectifier is made of washer- shaped magnesium disks coated with a layer of copper sulfide. The disks are arranged similarly to the other types. Current flows from the magnesium to the copper sulfide.
+The magnesium copper sulfide rectifier is made of washer-shaped magnesium disks coated with a layer of copper sulfide. The disks are arranged similarly to the other types. Current flows from the magnesium to the copper sulfide.
 
 Today, there are many varieties of diodes that can be grouped into one of several basic categories.
 
@@ -50,10 +50,6 @@ The unique characteristics of semiconductor material have allowed for the develo
 
 In a forward biased diode, electrons cross the junction and fall into holes. As the electrons fall into the valence band, they radiate energy. In a rectifier diode, this energy is dissipated as heat. However, in the light-emitting diode (LED), the energy is dissipated as light. By using elements such as gallium, arsenic, and phosphorous, an LED can be designed to radiate colors, such as red, green, yellow, blue, and infrared light. LEDs that are designed for the visible light portion of the spectrum are useful for instruments, indicators, and even cabin lighting. The advantages of the LED over the incandescent lamps are longer life, lower voltage, faster on and off operations, and less heat.
 
-A B A B RL Forward bias (Short circuit)
-
-+ + − − + − RL + + − − + − Reverse bias (Open circuit)
-
 V– V+ Time 120 v –120 v V– V+ Time 120 v V– V+ Time Input Signal Circuit Depiction Output Wave-form Across Load Resistor Half-wave Rectification 120v 90v 60v 30v 1v 2v 3v 4v 5v 60 mA 50 mA 40 mA 30 mA 20 mA 10 mA 600 Aμ 1200 Aμ Junction diode characteristics
 
 #### Liquid Crystal Displays (LCD)
@@ -62,7 +58,7 @@ The liquid crystal display (LCD) has an advantage over the LED in that it requir
 
 Thermal energy produces minority carriers in a diode. The higher the temperature, the greater the current in a reverse current diode. Light energy can also produce minority carriers. By using a small window to expose the PN junction, a photodiode can be built. When light falls upon the junction of a reverse-biased photodiode, electrons-hole pairs are created inside the depletion layer. The stronger the light, the greater the number of light-produced carriers, which in turn causes a greater magnitude of reverse-current. Because of this characteristic, the photodiode can be used in light detecting circuits.
 
-The varactor is simply a variable-capacitance diode. The reverse voltage applied controls the variable-capacitance of the diode. The transitional capacitance decreases as the reverse voltage is increasingly applied. In many D BA C RL D2D1 D3D4 + − + − RL D1 D3 + − + + +− − − RL D2 D4 + − + + + − − − V– V+ Time 120 v –120 v Input signal V– V+ Time 120 v 120 v Output wave-form Across load resistorCircuit depiction Current Current Current Current applications, the varactor has replaced the old mechanically tuned capacitors. Varactors can be placed in parallel with an inductor and provide a resonant tank circuit for a tuning circuit. By simply varying the reverse voltage across the varactor, the resonant frequency of the circuit can be adjusted.
+The varactor is simply a variable-capacitance diode. The reverse voltage applied controls the variable-capacitance of the diode. The transitional capacitance decreases as the reverse voltage is increasingly applied. In many applications, the varactor has replaced the old mechanically tuned capacitors. Varactors can be placed in parallel with an inductor and provide a resonant tank circuit for a tuning circuit. By simply varying the reverse voltage across the varactor, the resonant frequency of the circuit can be adjusted.
 
 #### Schottky Diodes
 
@@ -119,10 +115,6 @@ Typically manufacturers place some form of an identifier on the diode to indicat
 #### 发光二极管（LED）
 
 在正向偏置的二极管中，电子穿过结并落入空穴。当电子落入价带时，它们辐射能量。在整流二极管中，这部分能量以热的形式耗散。然而，在发光二极管（LED）中，能量以光的形式耗散。通过使用镓、砷、磷等元素，可以设计出辐射红光、绿光、黄光、蓝光及红外光的 LED。为可见光波段设计的 LED 可用于仪表、指示器，甚至客舱照明。与白炽灯相比，LED 的优点是寿命更长、电压更低、开闭更快、发热更少。
-
-（原文此处为图注碎片，无对应正文）
-
-（原文此处为图注碎片，无对应正文）
 
 （原文此处为图注碎片，无对应正文）
 

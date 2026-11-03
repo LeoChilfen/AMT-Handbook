@@ -22,9 +22,7 @@ One means of classification is by the type of excitation system used. In alterna
 
 ### Number of Phases
 
-Another method of classification is by the number of phases of output voltage. AC generators may be single-phase, two-phase, three-phase, or even six-phase and more. In the
-
-electrical systems of aircraft, the three-phase alternator is by far the most common.
+Another method of classification is by the number of phases of output voltage. AC generators may be single-phase, two-phase, three-phase, or even six-phase and more. In the electrical systems of aircraft, the three-phase alternator is by far the most common.
 
 ### Armature or Field Rotation
 
@@ -64,9 +62,7 @@ A three-phase stator can also be connected so that the phases are connected end 
 
 ### Alternator Rectifier Unit
 
-A type of alternator used in the electrical system of many aircraft weighing less than 12,500 pounds is shown in a DC generator, since it is used in DC systems. Although its output is a DC voltage, it is an alternator rectifier unit. This type of alternator rectifier is a self-excited unit but does not contain a permanent magnet. The excitation for starting is
-
-obtained from the battery; immediately after starting, the unit is self-exciting. Cooling air for the alternator is conducted into the unit by a blast air tube on the air inlet cover.
+A type of alternator used in the electrical system of many aircraft weighing less than 12,500 pounds is shown in a DC generator, since it is used in DC systems. Although its output is a DC voltage, it is an alternator rectifier unit. This type of alternator rectifier is a self-excited unit but does not contain a permanent magnet. The excitation for starting is obtained from the battery; immediately after starting, the unit is self-exciting. Cooling air for the alternator is conducted into the unit by a blast air tube on the air inlet cover.
 
 The alternator is directly coupled to the aircraft engine by means of a flexible drive coupling. The output of the alternator portion of the unit is three-phase alternating current, derived from a three-phase, delta connected system incorporating a three-phase, full-wave bridge rectifier. This unit operates in a speed range from 2,100 to 9,000 rpm, with a DC output voltage of 26–29 volts and 125 amperes.
 
@@ -86,15 +82,13 @@ V oltage regulation is accomplished by varying the strength of the AC exciter st
 
 Some alternators are cooled by circulating oil through steel tubes. The oil used for cooling is supplied from the constant speed drive assembly. Ports located in the flange connecting the generator and drive assemblies make oil flow between the constant speed drive and the generator possible.
 
-A B C A 0 +e –e B C Wye connection Delta connection RB RAAC B RC RBC RABAC B RAC A B output waveforms.
-
 V oltage is built up by using permanent magnet interpoles in the exciter stator. The permanent magnets assure a voltage buildup, precluding the necessity of field flashing. The rotor of the alternator may be removed without causing loss of the alternator’s residual magnetism.
 
 ### Alternator Frequency
 
 The frequency of the alternator voltage depends upon the speed of rotation of the rotor and the number of poles. The faster the speed, the higher the frequency; the lower the speed, the lower the frequency. The more poles on the rotor, the higher the frequency for a given speed. When a rotor has rotated through an angle so that two adjacent rotor poles (a North and a South pole) have passed one winding, the voltage induced in that winding has varied through one complete cycle. For a given frequency, the greater the number of pairs of poles, the lower the speed of rotation. A two-pole alternator rotates at twice the speed of a four-pole alternator for the same frequency of generated voltage. The frequency of the alternator in cycles per minute (cpm) is related to the number of poles and the speed, as expressed by the equation:
 
-F = × = P N PNN 60 120 Where: P is the number of poles per phase f is the frequency in cps N is the rated speed in rpm For example, a 2-pole, 3,600 rpm alternator has a frequency of:
+F = (P × N) / 120 Where: P is the number of poles per phase f is the frequency in cps N is the rated speed in rpm For example, a 2-pole, 3,600 rpm alternator has a frequency of:
 
 = 60 cps 2 × 3,600120 A 4-pole, 1,800 rpm alternator has the same frequency; a 6-pole, 500 rpm alternator has a frequency of:
 
@@ -202,9 +196,7 @@ Two other items used with generator control circuits are the overvoltage control
 
 ### 相数
 
-另一种分类方法是按输出电压的相数划分。交流发电机可以是单相、两相、三相，甚至六相及更多。在
-
-飞机的电气系统中，三相交流发电机是迄今为止最常见的。
+另一种分类方法是按输出电压的相数划分。交流发电机可以是单相、两相、三相，甚至六相及更多。在飞机的电气系统中，三相交流发电机是迄今为止最常见的。
 
 ### 电枢旋转或磁场旋转
 
@@ -244,9 +236,7 @@ Two other items used with generator control circuits are the overvoltage control
 
 ### 交流发电机整流器组件
 
-许多重量小于 12,500 磅的飞机的电气系统中使用的一种交流发电机，其结构与直流发电机相似，因为它用于直流系统。虽然其输出是直流电压，但它是一台交流发电机整流器组件。这种交流发电机整流器是自励式的，但不含永久磁铁。起动时的励磁
-
-取自蓄电池；起动后立即变为自励。交流发电机的冷却空气由进气口盖上的鼓风管引入机内。
+许多重量小于 12,500 磅的飞机的电气系统中使用的一种交流发电机，其结构与直流发电机相似，因为它用于直流系统。虽然其输出是直流电压，但它是一台交流发电机整流器组件。这种交流发电机整流器是自励式的，但不含永久磁铁。起动时的励磁取自蓄电池；起动后立即变为自励。交流发电机的冷却空气由进气口盖上的鼓风管引入机内。
 
 交流发电机通过柔性传动联轴器直接与飞机发动机相连。该组件中交流发电机部分的输出是三相交流电，来自采用三相全波桥式整流器的三角形连接三相系统。该组件在 2,100 至 9,000 rpm 的转速范围内工作，直流输出电压为 26–29 伏、125 安培。
 
@@ -265,8 +255,6 @@ Two other items used with generator control circuits are the overvoltage control
 电压调节是通过改变交流励磁机静止磁场的强度来实现的。由于没有电刷，消除了交流发电机的极性反转，并使无线电噪声降到最低。装在交流发电机上的噪声滤波器进一步降低任何已有的无线电噪声。发电机的旋转磁极结构由钢冲片叠成，包含全部六个磁极和一个连接轮毂段。这提供了最佳的磁性能和机械性能。
 
 有些交流发电机通过钢管中循环的滑油冷却。冷却用滑油来自恒速传动装置组件。连接发电机和传动装置组件的法兰上的油口，使滑油可以在恒速传动装置和发电机之间流动。
-
-（原文此处为图注碎片，原文无正文）
 
 电压的建立利用励磁机定子中的永久磁铁中间极。永久磁铁确保电压建立，免除了充磁的必要。交流发电机的转子可以拆下而不会使交流发电机的剩磁丢失。
 

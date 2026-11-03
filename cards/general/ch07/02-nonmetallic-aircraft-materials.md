@@ -110,7 +110,7 @@ Solid laminates are constructed of three or more layers of resin impregnated clo
 
 Sandwich-type laminates are constructed of two or more solid sheet facings or a molded shape enclosing a fiberglass honeycomb or foam-type core. Honeycomb cores are made of glass cloths impregnated with polyester or a combination of nylon and phenolic resins. The specific density and cell size of honeycomb cores varies over considerable latitude. Honeycomb cores are normally fabricated in blocks that are later cut to the desired thickness on a band saw.
 
-Foam-type cores are formulated from combinations of alkyd resins and metatoluene di-isocyanate. Sandwich- type fiberglass components filled with foam-type cores are manufactured to exceedingly close tolerances on overall thickness of the molded facing and core material. To achieve this accuracy, the resin is poured into a close tolerance, molded shape. The resin formulation immediately foams up to fill the void in the molded shape and forms a bond between the facing and the core.
+Foam-type cores are formulated from combinations of alkyd resins and metatoluene di-isocyanate. Sandwich-type fiberglass components filled with foam-type cores are manufactured to exceedingly close tolerances on overall thickness of the molded facing and core material. To achieve this accuracy, the resin is poured into a close tolerance, molded shape. The resin formulation immediately foams up to fill the void in the molded shape and forms a bond between the facing and the core.
 
 Rubber is used to prevent the entrance of dirt, water, or air, and to prevent the loss of fluids, gases, or air. It is also used to absorb vibration, reduce noise, and cushion impact loads.
 

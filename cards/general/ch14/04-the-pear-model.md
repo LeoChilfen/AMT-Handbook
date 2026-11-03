@@ -28,17 +28,15 @@ Aviation maintenance human factors programs focus on the people who perform the 
 
 Resources The final PEAR letter is “R” for “Resources.” It is sometimes difficult to separate resources from the other elements of PEAR. In general, the characteristics of the people, environment, and actions dictate the resources. Many resources are tangible, such as lifts, tools, test equipment, computers, technical manuals, and so forth. Other resources are less tangible. Examples include the number and qualifications of staff to complete a job, the amount of time allocated, and the level of communication among the crew, supervisors, vendors, and others. Resources should be viewed (and defined) from a broad perspective. A resource is anything a technician (or anyone else) needs to get the job done. For example, protective clothing is a resource. A mobile phone can be a resource. Rivets can be resources. What is important to the “Resource” element in PEAR is focusing on identifying the need for additional resources.
 
-Another major human factors tool for use in investigation of maintenance problems is the Boeing developed Maintenance Error Decision Aid (MEDA). This is based on the idea that errors result from a series of factors or incidents. The goal of using MEDA is to investigate errors, understand root causes, and prevent accidents, instead of simply placing blame on the maintenance personnel for the errors. Traditional efforts to investigate errors are often designed to identify the employee who made the error. In this situation, the actual factors that Physical The physical environment is obvious. It includes ranges of temperature, humidity, lighting, noise control, cleanliness, and workplace design. Companies must acknowledge these conditions and cooperate with the workforce to either accommodate or change the physical environment. It takes a corporate commitment to address the physical environment. This topic overlaps with the “Resources” component of PEAR when it comes to providing portable heaters, coolers, lighting, clothing, and good workplace and task design. Organizational The second, less tangible, environment is the organizational one. The important factors in an organizational environment are typically related to cooperation, communication, shared values, mutual respect, and the culture of the company. An excellent organizational environment is promoted with leadership, communication, and shared goals associated with safety, profitability, and other key factors. The best companies guide and support their people and foster a culture of safety. A safe culture is one where there is a shared value and attitude toward safety. In a safe culture, each person understands their individual role is contributing to overall mission safety.
+Another major human factors tool for use in investigation of maintenance problems is the Boeing developed Maintenance Error Decision Aid (MEDA). This is based on the idea that errors result from a series of factors or incidents. The goal of using MEDA is to investigate errors, understand root causes, and prevent accidents, instead of simply placing blame on the maintenance personnel for the errors. Traditional efforts to investigate errors are often designed to identify the employee who made the error. Physical The physical environment is obvious. It includes ranges of temperature, humidity, lighting, noise control, cleanliness, and workplace design. Companies must acknowledge these conditions and cooperate with the workforce to either accommodate or change the physical environment. It takes a corporate commitment to address the physical environment. This topic overlaps with the “Resources” component of PEAR when it comes to providing portable heaters, coolers, lighting, clothing, and good workplace and task design. Organizational The second, less tangible, environment is the organizational one. The important factors in an organizational environment are typically related to cooperation, communication, shared values, mutual respect, and the culture of the company. An excellent organizational environment is promoted with leadership, communication, and shared goals associated with safety, profitability, and other key factors. The best companies guide and support their people and foster a culture of safety. A safe culture is one where there is a shared value and attitude toward safety. In a safe culture, each person understands their individual role is contributing to overall mission safety.
 
-Successful human factors programs carefully analyze all the actions people must perform to complete a job efficiently and safely. Job task analysis (JTA) is the standard human factors approach to identify the knowledge, skills, and attitudes necessary to perform each task in a given job. The JTA helps identify what instructions, tools, and other
-
-are necessary. Adherence to the JTA helps ensure each worker is properly trained and each workplace has the necessary equipment and other resources to perform the Physical Organizational
+Successful human factors programs carefully analyze all the actions people must perform to complete a job efficiently and safely. Job task analysis (JTA) is the standard human factors approach to identify the knowledge, skills, and attitudes necessary to perform each task in a given job. The JTA helps identify what instructions, tools, and other resources are necessary. Adherence to the JTA helps ensure each worker is properly trained and each workplace has the necessary equipment and other resources.
 
 • Location inside/outside
 
 • Labor-management relations
 
-contributed to the errors or accident remain unchanged, and the mistake is likely to recur. In an effort to break this “blame and train” cycle, MEDA investigators learn to look for the factors that contributed to the error, instead of the employee who made the error. The MEDA concept is based on the following three principles:
+In this situation, the actual factors that contributed to the errors or accident remain unchanged, and the mistake is likely to recur. In an effort to break this “blame and train” cycle, MEDA investigators learn to look for the factors that contributed to the error, instead of the employee who made the error. The MEDA concept is based on the following three principles:
 
 • Positive employee intent (In other words, maintenance technicians want to do the best job possible and do not make intentional errors.)
 
@@ -58,7 +56,7 @@ When a company is willing to adopt these principles, then the MEDA process can b
 
 5. Feedback: the operator provides feedback to the maintenance workplace so technicians know that changes have been made to the maintenance system as a result of this MEDA process.
 
-The implantation and continuous use of MEDA is a long- term commitment and not a “quick fix.” However, airline operators and maintenance facilities frequently decide to use the MEDA approach to investigate serious, high visibility events which have caused significant cost to the company. The desire to do this is based upon the potential “payback” of such an investigation.
+The implantation and continuous use of MEDA is a long-term commitment and not a “quick fix.” However, airline operators and maintenance facilities frequently decide to use the MEDA approach to investigate serious, high visibility events which have caused significant cost to the company. The desire to do this is based upon the potential “payback” of such an investigation.
 
 This may ultimately be counterproductive because a highly visible event may not really be the best opportunity to investigate errors. Those involved in the process may be intimidated by the attention coming from upper management and various regulatory authorities.
 
@@ -134,17 +132,15 @@ SHEL Software • Hardware • Environment • Liveware A good place to start re
 
 资源 最后一个 PEAR 字母是「R」，代表「资源」（Resources）。有时很难把资源与 PEAR 的其他要素区分开来。一般来说，人、环境和动作的特征决定资源。许多资源是有形的，如升降设备、工具、测试设备、计算机、技术手册等。其他资源则不那么有形。例子包括完成工作所需员工的数量与资格、分配的时间，以及机组、主管、供应商和其他人之间的沟通水平。应从宽泛的角度看待（并定义）资源。资源是技术员（或任何其他人）完成工作所需的任何东西。例如，防护服是资源。手机可以是资源。铆钉可以是资源。PEAR 中「资源」要素的重要之处，在于着重识别对额外资源的需求。
 
-调查维修问题时使用的另一项重要人为因素工具，是波音公司开发的维修差错判定辅助工具（MEDA）。它基于这样的理念：差错源于一系列因素或事件。使用 MEDA 的目的是调查差错、理解根本原因并预防事故，而不是简单地把差错归咎于维修人员。传统的差错调查往往旨在找出犯错的员工。在这种情况下，真正起作用的因素……物理环境是显而易见的。它包括温度、湿度、照明、噪声控制、清洁度以及工作场所设计的范围。公司必须承认这些条件，并与员工合作，或适应、或改变物理环境。处理物理环境需要企业层面的承诺。在提供便携式加热器、冷却器、照明、服装以及良好的工作场所与任务设计方面，这一主题与 PEAR 的「资源」要素有重叠。组织 第二种不那么有形的环境是组织环境。组织环境中的重要因素通常与合作、沟通、共同价值观、相互尊重以及公司文化有关。卓越的组织环境靠领导力、沟通以及与安全、盈利和其他关键因素相关的共同目标来促进。最好的公司引导和支持自己的员工，并培育安全文化。安全文化是一种对安全有共同价值和态度的文化。在安全文化中，每个人都理解自己的个人角色有助于整体任务的安全。
+调查维修问题时使用的另一项重要人为因素工具，是波音公司开发的维修差错判定辅助工具（MEDA）。它基于这样的理念：差错源于一系列因素或事件。使用 MEDA 的目的是调查差错、理解根本原因并预防事故，而不是简单地把差错归咎于维修人员。传统的差错调查往往旨在找出犯错的员工。物理环境是显而易见的。它包括温度、湿度、照明、噪声控制、清洁度以及工作场所设计的范围。公司必须承认这些条件，并与员工合作，或适应、或改变物理环境。处理物理环境需要企业层面的承诺。在提供便携式加热器、冷却器、照明、服装以及良好的工作场所与任务设计方面，这一主题与 PEAR 的「资源」要素有重叠。组织 第二种不那么有形的环境是组织环境。组织环境中的重要因素通常与合作、沟通、共同价值观、相互尊重以及公司文化有关。卓越的组织环境靠领导力、沟通以及与安全、盈利和其他关键因素相关的共同目标来促进。最好的公司引导和支持自己的员工，并培育安全文化。安全文化是一种对安全有共同价值和态度的文化。在安全文化中，每个人都理解自己的个人角色有助于整体任务的安全。
 
-成功的人为因素计划会仔细分析人们为高效、安全地完成工作而必须执行的所有动作。工作分析（JTA）是标准的人为因素方法，用于确定完成给定工作中每项任务所需的知识、技能和态度。JTA 有助于确定需要哪些指令、工具和其他……
-
-……是必需的。遵循 JTA 有助于确保每名工人得到适当培训，并确保每个工作场所具备完成工作所需的设备和其他资源。
+成功的人为因素计划会仔细分析人们为高效、安全地完成工作而必须执行的所有动作。工作分析（JTA）是标准的人为因素方法，用于确定完成给定工作中每项任务所需的知识、技能和态度。JTA 有助于确定哪些指令、工具和其他资源是必需的。遵循 JTA 有助于确保每名工人得到适当培训，并确保每个工作场所具备完成工作所需的设备和其他资源。
 
 • 室内/室外位置
 
 • 劳资关系
 
-……导致差错或事故的因素仍未改变，错误很可能再次发生。为打破这种「责备—培训」循环，MEDA 调查人员学会寻找导致差错的因素，而不是寻找犯错的员工。MEDA 概念基于以下三项原则：
+在这种情况下，实际导致差错或事故的因素仍未改变，错误很可能再次发生。为打破这种「责备—培训」循环，MEDA 调查人员学会寻找导致差错的因素，而不是寻找犯错的员工。MEDA 概念基于以下三项原则：
 
 • 员工意图积极（换言之，维修技术员希望尽可能把工作做好，不会故意犯错。）
 

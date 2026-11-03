@@ -10,7 +10,7 @@ When the equipment in an aircraft is changed, such as the installation of a new 
 
 A small, twin-engine airplane has some new equipment installed and some of its existing equipment removed.
 
-To calculate the new empty weight and EWCG, a four- column chart is used. In evaluating the weight and balance calculation shown above, the following key points should be recognized.
+To calculate the new empty weight and EWCG, a four-column chart is used. In evaluating the weight and balance calculation shown above, the following key points should be recognized.
 
 • The weight of the equipment needs to be identified with a plus or minus to signify whether it is being installed or removed.
 

@@ -16,11 +16,7 @@ Lead-acid batteries used in aircraft are similar to automobile batteries. The le
 
 Between the plates are porous separators that keep the positive and negative plates from touching each other and shorting out the cell. The separators have vertical ribs on the side facing the positive plate. This construction permits the electrolyte to circulate freely around the plates. In addition, it provides a path for sediment to settle to the bottom of the cell.
 
-Each cell is seated in a hard rubber casing through the top of which are terminal posts and a hole into which a nonspill vent cap is screwed. The hole provides access for testing the strength of the electrolyte and adding water. The vent plug permits gases to escape from the cell with a minimum of leakage of electrolyte, regardless of the position the airplane might assume. In level flight, the lead weight R2 L1 Break R2 R1 L1 Break R2 R1 L1 Break circuit.
-
-R1 A B R2 R3 Break Open 30 Ω 30 Ω R130 V R2 30 Ω R3 ohmmeter reading.
-
-permits venting of gases through a small hole. In inverted flight, this hole is covered by the lead weight.
+Each cell is seated in a hard rubber casing through the top of which are terminal posts and a hole into which a nonspill vent cap is screwed. The hole provides access for testing the strength of the electrolyte and adding water. The vent plug permits gases to escape from the cell with a minimum of leakage of electrolyte, regardless of the position the airplane might assume. In level flight, the lead weight permits venting of gases through a small hole. In inverted flight, this hole is covered by the lead weight.
 
 The individual cells of the battery are connected in series by means of cell straps. The complete assembly is enclosed in an acid resisting metal container (battery box), which serves as electrical shielding and mechanical protection. The battery box has a removable top. It also has a vent tube nipple at each end. When the battery is installed in an airplane, a vent tube is attached to each nipple. One tube is the intake tube and is exposed to the slipstream. The other is the exhaust vent tube and is attached to the battery drain sump, which is a glass jar containing a felt pad moistened with a concentrated solution of sodium bicarbonate (baking soda). With this arrangement, the airstream is directed through the battery case where battery gases are picked up, neutralized in the sump, and then expelled overboard without damage to the airplane.
 
@@ -86,11 +82,7 @@ When a storage battery is being charged, it generates a certain amount of hydrog
 
 极板之间是多孔隔板，用于防止正、负极板相互接触而使单体电池短路。隔板朝向正极板的一侧有竖向肋条。这种结构允许电解液在极板周围自由循环。此外，它还为沉淀物沉降至单体电池底部提供了通路。
 
-每只单体电池安放在硬橡胶壳体中，壳体顶部有接线柱和一个孔，孔内拧入防溢通气帽。该孔便于检测电解液浓度并加水。通气塞允许气体从单体电池逸出，而电解液的泄漏极少，无论飞机处于何种姿态。
-
-（原文此处为图注碎片，无对应正文）
-
-……气体通过一个小孔排出。倒飞时，该孔被铅重块盖住。
+每只单体电池安放在硬橡胶壳体中，壳体顶部有接线柱和一个孔，孔内拧入防溢通气帽。该孔便于检测电解液浓度并加水。通气塞允许气体从单体电池逸出，而电解液的泄漏极少，无论飞机处于何种姿态。……气体通过一个小孔排出。倒飞时，该孔被铅重块盖住。
 
 蓄电池的各单体电池通过单体连接条串联连接。整个组件封装在耐酸的金属容器（电池箱）中，电池箱兼作电屏蔽和机械保护。电池箱有一个可拆卸的顶盖。它两端各有一个通气管接头。蓄电池安装到飞机上时，每个接头上接一根通气管。一根是进气管，暴露在气流中。另一根是排气管，接到蓄电池积液瓶上；积液瓶是一个玻璃瓶，内装浸过碳酸氢钠（小苏打）浓溶液的毛毡垫。在这种布置下，气流被导入蓄电池壳体内，在那里带走电池气体，气体在积液瓶中被中和，然后排到机外，不会损坏飞机。
 

@@ -1,7 +1,3 @@
-# Motion
-
-> 通用 Ch 05 · Motion · 原文 PDF 第 164 页
-
 ## 1. 原文
 
 The study of the relationship between the motion of bodies or objects and the forces acting on them is often called the study of “force and motion.” In a more specific sense, the relationship between velocity, acceleration, and distance is known as kinematics.
@@ -10,11 +6,7 @@ Motion may be defined as a continuing change of position or place, or as the pro
 
 ### Speed and Velocity
 
-In everyday conversation, speed and velocity are often used as if they mean the same thing. In physics, they have definite Tension stress CompressionRotation Wing top is under tension Wing bottom is under compression Force Clevis Bolt Torque applied to shaft Turbine blades applied force Shaft experiences torsion compression.
-
-to shear the bolt.
-
-and distinct meanings. Speed refers to how fast an object is moving, or how far the object will travel in a specific time. The speed of an object tells nothing about the direction an object is moving. For example, if the information is supplied that an airplane leaves New York City and travels 8 hours at a speed of 150 mph, this information tells nothing about the direction in which the airplane is moving. At the end of 8 hours, it might be in Kansas City, or if it traveled in a circular route, it could be back in New York City.
+In everyday conversation, speed and velocity are often used as if they mean the same thing. In physics, they have definite and distinct meanings. Speed refers to how fast an object is moving, or how far the object will travel in a specific time. The speed of an object tells nothing about the direction an object is moving. For example, if the information is supplied that an airplane leaves New York City and travels 8 hours at a speed of 150 mph, this information tells nothing about the direction in which the airplane is moving. At the end of 8 hours, it might be in Kansas City, or if it traveled in a circular route, it could be back in New York City.
 
 Velocity is that quantity in physics which denotes both the speed of an object and the direction in which the object moves. Velocity can be defined as the rate of motion in a particular direction. Velocity is also described as being a vector quantity, a vector being a line of specific length, having an arrow on one end or the other. The length of the line indicates the number value and the arrow indicates the direction in which that number is acting.
 
@@ -24,9 +16,7 @@ Imagine that an airplane is flying in a circular pattern at a constant speed. Th
 
 To calculate the speed of an object, the distance it travels is divided by the elapsed time. If the distance is measured in miles and the time in hours, the units of speed will be miles per hour (mph). If the distance is measured in feet and the time in seconds, the units of speed will be feet per second (fps). To convert mph to fps, divide by 1.467. Velocity is calculated the same way, the only difference being it must be recalculated every time the direction changes.
 
-Acceleration is defined as the rate of change of velocity. If the velocity of an object is increased from 20 mph to 30 mph, the object has been accelerated. If the increase in velocity is 10 mph in 5 seconds, the rate of change in velocity is 10 mph in 5 seconds, or 2 mph per second. If this were multiplied distortion.
-
-by 1.467, it could also be expressed as an acceleration of 2.93 feet per second per second (fps/s). By comparison, the acceleration due to gravity is 32.2 fps/s.
+Acceleration is defined as the rate of change of velocity. If the velocity of an object is increased from 20 mph to 30 mph, the object has been accelerated. If the increase in velocity is 10 mph in 5 seconds, the rate of change in velocity is 10 mph in 5 seconds, or 2 mph per second. If this were multiplied by 1.467, it could also be expressed as an acceleration of 2.93 feet per second per second (fps/s). By comparison, the acceleration due to gravity is 32.2 fps/s.
 
 To calculate acceleration, the following formula is used.
 
@@ -72,8 +62,6 @@ Centripetal Force = Mass (Velocity2) ÷ Radius For the formula above, mass would
 
 Example: What would the centripetal force be if a 10-pound weight was moving in a 3-ft radius circular path at a velocity of 500 fps?
 
-Centrifugal force Centripetal force B A WT “C”
-
 Centripetal Force = Mass (Velocity2) ÷ Radius Centripetal Force = 10 (5002) ÷ 32.2 (3)
 
 = 25,880 lb In the condition identified in the example, the object acts like it weighs 2,588 times more than it actually does. It can also be said that the object is experiencing 2,588 Gs, or force of gravity. The fan blades in a large turbofan engine, when the engine is operating at maximum rpm, are experiencing many thousands of Gs for the same reason.
@@ -86,11 +74,7 @@ Centripetal Force = Mass (Velocity2) ÷ Radius Centripetal Force = 10 (5002) ÷ 
 
 ### 速率与速度
 
-在日常交谈中，速率（speed）和速度（velocity）常被当作同一个意思使用。在物理学中，它们有明确的（此处夹有一大段标注文字：Tension stress、Compression、Rotation、Wing top is under tension、Wing bottom is under compression、Force、Clevis、Bolt、Torque applied to shaft、Turbine blades、applied force、Shaft experiences torsion）压缩。
-
-把螺栓剪断。
-
-而又彼此不同的含义。速率指物体运动得有多快，或者在特定时间内能走多远。物体的速率并不说明物体运动的方向。例如，如果只提供这样的信息：一架飞机离开纽约市，以 150 mph 的速率飞行 8 小时，那么这些信息完全不说明飞机朝哪个方向飞。8 小时之后，它可能在堪萨斯城；如果它绕环形航线飞，也可能又回到纽约市。
+在日常交谈中，速率（speed）和速度（velocity）常被当作同一个意思使用。在物理学中，它们有明确的而又彼此不同的含义。速率指物体运动得有多快，或者在特定时间内能走多远。物体的速率并不说明物体运动的方向。例如，如果只提供这样的信息：一架飞机离开纽约市，以 150 mph 的速率飞行 8 小时，那么这些信息完全不说明飞机朝哪个方向飞。8 小时之后，它可能在堪萨斯城；如果它绕环形航线飞，也可能又回到纽约市。
 
 速度是物理学中既表示物体速率、又表示物体运动方向的物理量。速度可以定义为在特定方向上的运动率。速度也被描述为矢量，所谓矢量就是一条具有特定长度的线，其一端带箭头。线的长度表示数值大小，箭头表示该数值作用的方向。
 
@@ -100,9 +84,7 @@ Centripetal Force = Mass (Velocity2) ÷ Radius Centripetal Force = 10 (5002) ÷ 
 
 计算物体的速率时，用它走过的距离除以所经过的时间。如果距离以英里计、时间以小时计，速率的单位就是英里每小时（mph）。如果距离以英尺计、时间以秒计，速率的单位就是英尺每秒（fps）。要把 mph 换算成 fps，除以 1.467。速度的计算方法相同，唯一的区别是每当方向改变时必须重新计算。
 
-加速度定义为速度的变化率。如果物体的速度从 20 mph 增加到 30 mph，该物体就被加速了。如果速度在 5 秒内增加 10 mph，那么速度的变化率就是 5 秒内增加 10 mph，即每秒 2 mph。如果把这个值乘以（此处夹有错位的标注文字，略）
-
-1.467，也可以表示成 2.93 英尺每秒每秒（fps/s）的加速度。作为对照，重力加速度为 32.2 fps/s。
+加速度定义为速度的变化率。如果物体的速度从 20 mph 增加到 30 mph，该物体就被加速了。如果速度在 5 秒内增加 10 mph，那么速度的变化率就是 5 秒内增加 10 mph，即每秒 2 mph。如果把这个值乘以（此处夹有错位的标注文字，略）1.467，也可以表示成 2.93 英尺每秒每秒（fps/s）的加速度。作为对照，重力加速度为 32.2 fps/s。
 
 计算加速度时使用以下公式。
 
@@ -147,8 +129,6 @@ F = 5,124 lb 推力（此处夹有一组标注文字：Vector C = 飞机的运�
 向心力 = 质量（速度²）÷ 半径 对于上面的公式，质量通常要换算成重量除以重力，速度以英尺每秒计，半径以英尺计。
 
 例：如果 10 lb 的重物以 500 fps 的速度沿半径 3 ft 的圆周路径运动，向心力是多少？
-
-（此处为标注文字：Centrifugal force、Centripetal force、B、A、WT、“C”）
 
 向心力 = 质量（速度²）÷ 半径 向心力 = 10（500²）÷ 32.2（3）
 

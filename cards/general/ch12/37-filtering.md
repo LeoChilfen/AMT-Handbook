@@ -42,19 +42,17 @@ An inductive low-pass filter inserts an inductor in series with the load, where 
 
 #### High-Pass Filter (HPF)
 
-A high-pass filter (HPF) is a filter that passes high frequencies well, but attenuates (reduces) frequencies lower than the cutoff frequency. The actual amount of attenuation for each frequency varies once again depending on filter design. In some cases, it is called a low-cut filter. A HPF is essentially the opposite of a low-pass filter.
+A high-pass filter (HPF) is a filter that passes high frequencies well, but attenuates (reduces) frequencies lower than the cutoff frequency. The actual amount of attenuation for each frequency varies once again depending on filter design. In some cases, it is called a low-cut filter. An HPF is essentially the opposite of a low-pass filter.
 
 It is useful as a filter to block any unwanted low frequency components of a signal while passing the desired higher frequencies. The figure illustrates this type of circuit and the frequency/current flow response.
 
 #### Band-Pass Filter
 
-A band-pass filter is basically a combination of a high- pass and a low-pass. There are some applications where a particular range of frequencies need to be singled out or filtered from a wider range of frequencies. Band-pass filter circuits are designed to accomplish this task by combining the properties of low-pass and high-pass into a single filter. The figure illustrates this type of circuit and the frequency/current flow response.
+A band-pass filter is basically a combination of a high-pass and a low-pass. There are some applications where a particular range of frequencies need to be singled out or filtered from a wider range of frequencies. Band-pass filter circuits are designed to accomplish this task by combining the properties of low-pass and high-pass into a single filter. The figure illustrates this type of circuit and the frequency/current flow response.
 
 #### Band-Stop Filter
 
-In signal processing, a band-stop filter or band-rejection filter is a filter that passes most frequencies unaltered, but attenuates those in a range to very low levels. It is the opposite of a band- pass filter. A notch filter is a band-stop filter with a narrow stopband (high Q factor). Notch filters are used in live sound reproduction (public address (PA) systems) and in instrument DC C1 R1 AC input Rectifier Voltage across C1 withlarge load circuit Voltage across C1 withsmall load circuit L1 R1 AC input Rectifier Load capacitor filter.
-
-amplifier (especially amplifiers or preamplifiers for acoustic instruments, such as acoustic guitar, mandolin, bass instrument amplifier, etc.) to reduce or prevent feedback, while having little noticeable effect on the rest of the frequency spectrum. Other names include “band limit filter,” “T-notch filter,” “band- elimination filter,” and “band-rejection filter.”
+In signal processing, a band-stop filter or band-rejection filter is a filter that passes most frequencies unaltered, but attenuates those in a range to very low levels. It is the opposite of a band-pass filter. A notch filter is a band-stop filter with a narrow stopband (high Q factor). Notch filters are used in live sound reproduction (public address (PA) systems) and in instrument amplifier (especially amplifiers or preamplifiers for acoustic instruments, such as acoustic guitar, mandolin, bass instrument amplifier, etc.) to reduce or prevent feedback, while having little noticeable effect on the rest of the frequency spectrum. Other names include “band limit filter,” “T-notch filter,” “band-elimination filter,” and “band-rejection filter.”
 
 Typically, the width of the stop-band is less than 1 to 2 decades (that is, the highest frequency attenuated is less than 10 to 100 times the lowest frequency attenuated). In the audio band, a notch filter uses high and low frequencies that may be only semitones apart.
 
@@ -110,9 +108,7 @@ LC 滤波器还可按电容和电感的位置来分类。电容输入滤波器�
 
 #### 带阻滤波器
 
-在信号处理中，带阻滤波器（band-stop filter）或称带除滤波器，是一种让大多数频率原样通过、而只把某一频段内的频率衰减到极低电平的滤波器。它是带通滤波器的对立面。陷波滤波器（notch filter）是阻带很窄（Q 值很高）的带阻滤波器。陷波滤波器用于现场扩声（public address（PA）系统）以及乐器（原文此处为图注碎片：DC C1 R1 AC input Rectifier Voltage across C1 withlarge load circuit Voltage across C1 withsmall load circuit L1 R1 AC input Rectifier Load capacitor filter，无对应正文）。
-
-放大器（尤其是原声吉他、曼陀林、贝司音箱等原声乐器所用的放大器或前置放大器）中，用来减少或防止回授，同时对频谱的其余部分几乎没有明显影响。其他名称还有“band limit filter（限带滤波器）”“T-notch filter（T 形陷波滤波器）”“band-elimination filter（带除滤波器）”和“band-rejection filter（带阻滤波器）”。
+在信号处理中，带阻滤波器（band-stop filter）或称带除滤波器，是一种让大多数频率原样通过、而只把某一频段内的频率衰减到极低电平的滤波器。它是带通滤波器的对立面。陷波滤波器（notch filter）是阻带很窄（Q 值很高）的带阻滤波器。陷波滤波器用于现场扩声（public address（PA）系统）以及乐器放大器（尤其是原声吉他、曼陀林、贝司音箱等原声乐器所用的放大器或前置放大器）中，用来减少或防止回授，同时对频谱的其余部分几乎没有明显影响。其他名称还有“band limit filter（限带滤波器）”“T-notch filter（T 形陷波滤波器）”“band-elimination filter（带除滤波器）”和“band-rejection filter（带阻滤波器）”。
 
 通常，阻带的宽度小于 1 到 2 个十倍频程（即被衰减的最高频率不到被衰减的最低频率的 10 到 100 倍）。在音频频段内，陷波滤波器所用的高、低频率可能只相差半音。
 

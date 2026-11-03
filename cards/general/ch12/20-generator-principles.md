@@ -50,9 +50,7 @@ A cycle is a repetition of a pattern. Whenever a voltage or current passes throu
 
 The frequency is the number of cycles of AC per second (1 second). The standard unit of frequency measurement is the hertz (Hz). In a generator, the voltage and current pass through a complete cycle of values each time a coil or conductor passes under a North and South pole of the magnet. The number of cycles for each revolution of the coil or conductor is equal to the number of pairs of poles. The frequency, then, is equal to the number of cycles in one revolution multiplied by the number of revolutions per second (rps). Expressed in equation form:
 
-F = ×2 60 Number of poles rpm where P⁄2 is the number of pairs of poles, and rpm/60 the number of revolutions per second. If in a 2-pole generator, the conductor is turning at 3,600 rpm, the revolutions per second are:
-
-rps = = 60 revolutions per second60 3,600 Since there are 2 poles, P⁄2 is 1, and the frequency is 60 cycles per second (cps). In a 4-pole generator with an armature speed of 1,800 rpm, substitute in the equation:
+F = ×2 60 Number of poles rpm where P⁄2 is the number of pairs of poles, and rpm/60 the number of revolutions per second. If in a 2-pole generator, the conductor is turning at 3,600 rpm, the revolutions per second are: rps = = 60 revolutions per second60 3,600 Since there are 2 poles, P⁄2 is 1, and the frequency is 60 cycles per second (cps). In a 4-pole generator with an armature speed of 1,800 rpm, substitute in the equation:
 
 F = × as follows2 60 P rpm F = × 2 60 4 1,800 F = 2 × 30 F = 60 cps
 
@@ -76,7 +74,7 @@ C1 C2 N S A C1 C2 0° 90° 180° 270° 360° Zero voltage Position 1 Rotating co
 
 Magnetic field 0° 90° 180° 270° 360° N S A Position 5 Zero voltage Full turn completed Conductor A has made one complete cycle and is in same position as in position A. The generator has generated one complete cycle of alternating voltage or current.
 
-characteristics of one to the phase characteristics of the other.
+It is possible to compare the phase characteristics of one to the phase characteristics of the other.
 
 #### In Phase Condition
 
@@ -184,9 +182,7 @@ Voltage source 1 0° 90° 180° 270° 360° Voltage source 2 A. Voltage and curr
 
 频率是交流电每秒的周波数（1 秒）。频率测量的标准单位是赫兹（Hz）。在发电机中，线圈或导体每经过磁铁的一个北（N）极和一个南（S）极下方，电压和电流就经历一个完整的周波变化。线圈或导体每转一周的周波数等于磁极对数。因此，频率等于一周的周波数乘以每秒转数（rps）。用公式表示：
 
-F =（极数⁄2）×（rpm⁄60）　式中 P⁄2 为极对数，rpm/60 为每秒转数。若为 2 极发电机，转子以 3,600 rpm 旋转，则每秒转数为：
-
-rps = 3,600 ÷ 60 = 60 转/秒　由于有 2 个磁极，P⁄2 为 1，频率即为 60 周波/秒（cps）。对于电枢转速为 1,800 rpm 的 4 极发电机，代入公式：
+F =（极数⁄2）×（rpm⁄60）　式中 P⁄2 为极对数，rpm/60 为每秒转数。若为 2 极发电机，转子以 3,600 rpm 旋转，则每秒转数为：rps = 3,600 ÷ 60 = 60 转/秒　由于有 2 个磁极，P⁄2 为 1，频率即为 60 周波/秒（cps）。对于电枢转速为 1,800 rpm 的 4 极发电机，代入公式：
 
 F =（P⁄2）×（rpm⁄60）　代入如下：F =（4⁄2）×（1,800⁄60）　F = 2 × 30　F = 60 cps
 

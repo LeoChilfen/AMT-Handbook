@@ -4,7 +4,7 @@
 
 ## 1. 原文
 
-The series circuit is the most basic electrical circuit and provides a good introduction to basic circuit analysis. The series circuit represents the first building block for all of the circuits to be studied and analyzed. This simple circuit has nothing more than a voltage source or battery, a conductor, and a resistor. This is classified as a series circuit because the components are connected end-to- end, so that the same current flows through each component equally. There is only one path for the current to take and the battery and resistor are in series with each other. Next is to make a few additions to the simple circuit.
+The series circuit is the most basic electrical circuit and provides a good introduction to basic circuit analysis. The series circuit represents the first building block for all of the circuits to be studied and analyzed. This simple circuit has nothing more than a voltage source or battery, a conductor, and a resistor. This is classified as a series circuit because the components are connected end-to-end, so that the same current flows through each component equally. There is only one path for the current to take and the battery and resistor are in series with each other. Next is to make a few additions to the simple circuit.
 
 An additional resistor and a little more detail are added to the circuit.
 
@@ -24,7 +24,7 @@ Magnetic field Common (C) or Arm Electromagnet pulls contact down NC NO NC NO X1
 
 N S + − + 12V 30Ω R2 10Ω R1 − Formula, E = I (R)
 
-Solve for current, ERI = The variables, E = 12 V and RT = 20 Ω Substitute variables, 12 V20 ΩI = Current in circuits, I = 0.6 A
+Solve for current, ERI = The variables, E = 12 V and RT = 20 Ω Substitute variables, 12 V20 ΩI = Current in circuits, I = 0.6 A.
 
 ### Voltage Drops & Further Application of Ohm’s Law
 

@@ -20,9 +20,7 @@ E I X R E I X R E I X R A B C To find I (amperes), place thumb over I and divide
 
 To find R (ohms), place thumb over R and divide as indicated.
 
-To find E (volts), place thumb over E and multiply as indicated.
-
-the two ends of the conductor that is 1 foot in length, and the resistance to the movement of free electrons is assumed to be 1 ohm, the current flow is limited to 1 ampere. If the same size conductor is doubled in length, the same electrons set in motion by the 1 volt applied now find twice the resistance; consequently, the current flow is reduced by one-half.
+To find E (volts), place thumb over E and multiply as indicated. The two ends of the conductor that is 1 foot in length, and the resistance to the movement of free electrons is assumed to be 1 ohm, the current flow is limited to 1 ampere. If the same size conductor is doubled in length, the same electrons set in motion by the 1 volt applied now find twice the resistance; consequently, the current flow is reduced by one-half.
 
 3. The resistance of a metallic conductor is inversely proportional to the cross-sectional area. This area may be triangular or even square, but is usually circular. If the cross-sectional area of a conductor is doubled, the resistance to current flow is reduced in half. This is true because of the increased area in which an electron can move without collision or capture by an atom. Thus, the resistance varies inversely with the cross-sectional area of a conductor.
 
@@ -46,11 +44,11 @@ Because it is known that the resistance of a conductor is directly proportional 
 
 (ρ × 1)AR = It can also be written:
 
-R1R2 = 1112 = A1A2 If we have a conductor that is 1 meter (m) long with a cross- sectional area of 1 (millimeter) mm2 and has a resistance of 0.017 ohm, what is the resistance of 50 m of wire from the same material but with a cross-sectional area of 0.25 mm2?
+R1R2 = 1112 = A1A2 If we have a conductor that is 1 meter (m) long with a cross-sectional area of 1 (millimeter) mm2 and has a resistance of 0.017 ohm, what is the resistance of 50 m of wire from the same material but with a cross-sectional area of 0.25 mm2?
 
 R1R2 = 1112 = A1A2 R 2 = 0.017 Ω × 50 m1 m × 1 mm20.25 mm2 = 3.4 Ω While the SI units are commonly used in the analysis of electric circuits, electrical conductors in North America are still being manufactured using the foot as the unit length and the mil (one thousandth of an inch) as the unit of diameter. Before using the equation R = (ρ × l)⁄A to calculate the resistance of a conductor of a given American wire gauge (AWG) size, the cross-sectional area in square meters must be determined using the conversion factor 1 mil = 0.0254 mm. The most convenient unit of wire length is the foot. Using these standards, the unit of size is the mil-foot. Thus, a wire has unit size if it has a diameter of 1 mil and length of 1 foot.
 
-In the case of using copper conductors, we are spared the task of tedious calculations by using a table as shown in the table are such that each decrease of one gauge number equals a 25 percent increase in the cross-sectional area. Because of this, a decrease of three gauge numbers represents an increase in cross-sectional area of approximately 2:1. Likewise, change of ten wire gauge numbers represents a 10:1 change in cross-sectional area—also, by doubling the cross- sectional area of the conductor, the resistance is cut in half. A decrease of three wire gauge numbers cuts the resistance of the conductor of a given length in half.
+In the case of using copper conductors, we are spared the task of tedious calculations by using a table as shown in the table are such that each decrease of one gauge number equals a 25 percent increase in the cross-sectional area. Because of this, a decrease of three gauge numbers represents an increase in cross-sectional area of approximately 2:1. Likewise, change of ten wire gauge numbers represents a 10:1 change in cross-sectional area—also, by doubling the cross-sectional area of the conductor, the resistance is cut in half. A decrease of three wire gauge numbers cuts the resistance of the conductor of a given length in half.
 
 #### Rectangular Conductors (Bus Bars)
 
@@ -74,9 +72,7 @@ R = 20 欧姆（恒定）
 
 要求 R（欧姆）时，把拇指盖在 R 上，按图示相除。
 
-要求 E（伏特）时，把拇指盖在 E 上，按图示相乘。
-
-该导体长 1 英尺，假定其对自由电子运动的阻力为 1 欧姆，则电流被限制在 1 安培。若把同规格导体的长度加倍，这 1 伏特所驱动的电子将遇到两倍的电阻，因此电流减小一半。
+要求 E（伏特）时，把拇指盖在 E 上，按图示相乘。该导体长 1 英尺，假定其对自由电子运动的阻力为 1 欧姆，则电流被限制在 1 安培。若把同规格导体的长度加倍，这 1 伏特所驱动的电子将遇到两倍的电阻，因此电流减小一半。
 
 3. 金属导体的电阻与截面积成反比。这一面积可以是三角形，甚至方形，但通常是圆形。若导体的截面积加倍，对电流的阻力减半。这是因为电子可在更大的面积内运动而不与其他原子碰撞或被俘获。因此，电阻与导体的截面积成反比变化。
 

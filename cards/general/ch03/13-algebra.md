@@ -8,9 +8,7 @@ Algebra is the branch of mathematics that uses letters or symbols to represent v
 
 For example, in the equation d = v × t, where distance = velocity × time, the variables are: d, v, and t.
 
-Algebraic equations are frequently used in aviation to show the relationship between two or more variables. Equations normally have an equals sign (=) in the expression. Example: The formula A = π × r2 shows the relationship between the area of a circle (A) and the length of the radius (r) of the circle. The area of a circle is equal to π (3.1416)
-
-times the radius squared. The larger the radius, the larger the area of the circle.
+Algebraic equations are frequently used in aviation to show the relationship between two or more variables. Equations normally have an equals sign (=) in the expression. Example: The formula A = π × r2 shows the relationship between the area of a circle (A) and the length of the radius (r) of the circle. The area of a circle is equal to π (3.1416) times the radius squared. The larger the radius, the larger the area of the circle.
 
 When solving for a variable in an equation, you can add, subtract, multiply, or divide the terms in the equation (you do the same to both sides of the equals sign) to get the variable onto one side of the equals sign.
 
@@ -54,9 +52,7 @@ X = 161 3⁄4 A commonly used acronym, PEMDAS, is used for remembering the order
 
 例如，在等式 d = v × t 中（其中 distance 表示距离、velocity 表示速度、time 表示时间），变量是 d、v 和 t。
 
-代数等式在航空领域常用于表示两个或多个变量之间的关系。等式通常含有等号（=）。例：公式 A = π × r2 表示圆的面积（A）与该圆半径长度（r）之间的关系（原文 r 上的平方指数在抽文中丢失，r2 即 r²）。圆的面积等于 π（3.1416）
-
-乘以半径的平方。半径越大，圆的面积越大。
+代数等式在航空领域常用于表示两个或多个变量之间的关系。等式通常含有等号（=）。例：公式 A = π × r2 表示圆的面积（A）与该圆半径长度（r）之间的关系（原文 r 上的平方指数在抽文中丢失，r2 即 r²）。圆的面积等于 π（3.1416） 乘以半径的平方。半径越大，圆的面积越大。
 
 要求在等式中解出某个变量时，可以对等式中的各项做加、减、乘、除（即对等号两边做同样的运算），把该变量移到等号的一边。
 

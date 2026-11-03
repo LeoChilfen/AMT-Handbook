@@ -8,7 +8,7 @@ The terminology, theory, and concepts of weight and balance that applies to airp
 
 ### Weight-Shift Control Aircraft
 
-and powered parachutes do not fall under the same Code of Federal Regulations that govern certified airplanes and helicopters and, therefore, do not have TCDS or the same type of FAA-mandated weight and balance reports. Weight and balance information and guidelines are left to the individual owners and the companies with which they work in acquiring this type of aircraft. Overall, the industry that is supplying these aircraft is regulating itself well, and the safety record is good for those aircraft being operated by experienced pilots.
+Weight-shift control aircraft and powered parachutes do not fall under the same Code of Federal Regulations that govern certified airplanes and helicopters and, therefore, do not have TCDS or the same type of FAA-mandated weight and balance reports. Weight and balance information and guidelines are left to the individual owners and the companies with which they work in acquiring this type of aircraft. Overall, the industry that is supplying these aircraft is regulating itself well, and the safety record is good for those aircraft being operated by experienced pilots.
 
 2,400 2,300 2,200 2,100 2,000 1,900 1,800 1,700 1,600 1,500 50 55 60 65 70 75 80 85 90 95 100 105 110 115 Load Aircraft Weight (lb)
 
@@ -34,7 +34,7 @@ Powered parachutes have many of the same characteristics as weight-shift aircraf
 
 ### 重量转移操纵飞机
 
-……以及动力伞，都不受管辖持证飞机和直升机的同一部《联邦法规》约束，因此没有型号合格证数据表（TCDS），也没有 FAA 强制要求的同类型重量与平衡报告。重量与平衡的信息和指南，交由航空器所有者本人以及协助他们购置这类航空器的公司负责。总体而言，提供这类航空器的行业自我管理良好，由有经验的驾驶员驾驶时，这类航空器的安全记录良好。
+重量转移操纵飞机以及动力伞，都不受管辖持证飞机和直升机的同一部《联邦法规》约束，因此没有型号合格证数据表（TCDS），也没有 FAA 强制要求的同类型重量与平衡报告。重量与平衡的信息和指南，交由航空器所有者本人以及协助他们购置这类航空器的公司负责。总体而言，提供这类航空器的行业自我管理良好，由有经验的驾驶员驾驶时，这类航空器的安全记录良好。
 
 装载飞机重量（lb）　2,400 2,300 2,200 2,100 2,000 1,900 1,800 1,700 1,600 1,500 50 55 60 65 70 75 80 85 90 95 100 105 110 115
 

@@ -26,13 +26,13 @@ The term “amplifier” is used for this arrangement because, by use of a few m
 
 ### Saturable-Core Reactor
 
-The same procedure can be used with the circuit shown in the figure. A saturable-core reactor is a magnetic- core coil whose reactance is controlled by changing the permeability of the core. Varying the unidirectional flux controls the permeability of the core.
+The same procedure can be used with the circuit shown in the figure. A saturable-core reactor is a magnetic-core coil whose reactance is controlled by changing the permeability of the core. Varying the unidirectional flux controls the permeability of the core.
 
 By controlling the extent of magnetization of the iron ring, it is possible to control the amount of current flowing to the load, since the amount of magnetization controls the impedance of the AC input winding. This type of magnetic amplifier is called a simple saturable reactor circuit.
 
 Adding a rectifier to such a circuit would remove half the cycle of the AC input and permit DC to flow to the load. The amount of DC flowing in the load circuit is controlled by a DC control winding (sometimes referred to as bias). This type of magnetic amplifier is referred to as being self-saturating.
 
-To use the full AC input power, a circuit such as that shown in the figure may be used. This circuit uses a full-wave bridge rectifier. The load receives a controlled DC by using the full AC input. This type of circuit is known as a self- saturating, full-wave magnetic amplifier.
+To use the full AC input power, a circuit such as that shown in the figure may be used. This circuit uses a full-wave bridge rectifier. The load receives a controlled DC by using the full AC input. This type of circuit is known as a self-saturating, full-wave magnetic amplifier.
 
 In the figure, it is assumed that the DC control winding is supplied by a variable source, such as a sensing circuit. To control such a source and use its variations to control the AC output, it is necessary to include another DC winding that has a constant value. This winding, referred to as the reference winding, magnetizes the magnetic core in one direction.
 

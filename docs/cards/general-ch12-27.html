@@ -1,9 +1,8 @@
 <h1 id="ac-measuring-instruments">AC Measuring Instruments</h1>
 <blockquote>通用 Ch 12 · AC Measuring Instruments · 原文 PDF 第 515 页</blockquote>
 <h2 id="1-原文">1. 原文</h2>
-<p>A DC meter, such as an ammeter, connected in an AC circuit indicates zero, because the meter movements used in a d’Arsonval type movement is restricted to DC. Since the field of a permanent magnet in the d’Arsonval type meter remains constant and in the same direction at all times, the moving coil follows the polarity of the current. The coil attempts to move in one direction during half of the AC cycle and in the reverse direction during the other half when the current reverses.</p>
-<p>The current reverses direction too rapidly for the coil to follow, causing the coil to assume an average position. Since</p>
-<p>the current is equal and opposite during each half of the AC cycle, the DC meter indicates zero, which is the average value. Thus, a meter with a permanent magnet cannot be used to measure alternating voltage and current. For AC measurements of current and voltage, additional circuitry is required. The additional circuitry has a rectifier, which converts AC to DC. There are two basic types of rectifiers: the half-wave rectifier and the full-wave rectifier.</p>
+<p>A direct-current (DC) meter, such as an ammeter, connected in an AC circuit indicates zero, because the meter movements used in a d’Arsonval type movement is restricted to DC. Since the field of a permanent magnet in the d’Arsonval type meter remains constant and in the same direction at all times, the moving coil follows the polarity of the current. The coil attempts to move in one direction during half of the AC cycle and in the reverse direction during the other half when the current reverses.</p>
+<p>The current reverses direction too rapidly for the coil to follow, causing the coil to assume an average position. Since the current is equal and opposite during each half of the AC cycle, the DC meter indicates zero, which is the average value. Thus, a meter with a permanent magnet cannot be used to measure alternating voltage and current. For AC measurements of current and voltage, additional circuitry is required. The additional circuitry has a rectifier, which converts AC to DC. There are two basic types of rectifiers: the half-wave rectifier and the full-wave rectifier.</p>
 <p>The figure also shows a simplified block diagram of an AC meter. In this depiction, the full-wave rectifier precedes the meter movement. The movement responds to the average value of the pulsating DC. The scale can then be calibrated to show anything the designer wants. In most cases, it is the root mean square (RMS) value or peak value.</p>
 <h3 id="electrodynamometer-meter-movement">Electrodynamometer Meter Movement</h3>
 <p>The electrodynamometer can be used to measure alternating or direct voltage and current. It operates on the same principles as the permanent magnet moving coil meter, except that the permanent magnet is replaced by an air core electromagnet. The field of the electrodynamometer is developed by the same current that flows through the moving coil.</p>
@@ -24,8 +23,7 @@
 <p>The iron vanes tend to line up with the magnetic lines regardless of the direction of current flow through the coil. Therefore, the inclined coil, iron vane meter can be used to measure either AC or DC. The aluminum disk and the drag magnets provide electromagnetic damping.</p>
 <p>Like the moving iron vane meter, the inclined coil type requires a relatively large amount of current for full-scale deflection and is seldom used in high-resistance low-power circuits.</p>
 <p>As in the moving iron vane instruments, the inclined coil instrument is wound with few turns of relatively large wire when used as an ammeter and with many turns of small wire when used as a voltmeter.</p>
-<p>Multiplying the volts by the amperes in an AC circuit gives the apparent power: the combination of the true power (which does the work) and the reactive power (which does no work and is returned to the line). Reactive power is measured in units of vars (volt-amperes reactive) or kilovars (kilovolt- amperes reactive (kV AR). When properly connected,</p>
-<p>s measure the reactive power. As such, they are called varmeters.</p>
+<p>Multiplying the volts by the amperes in an AC circuit gives the apparent power: the combination of the true power (which does the work) and the reactive power (which does no work and is returned to the line). Reactive power is measured in units of vars (volt-amperes reactive) or kilovars (kilovolt-amperes reactive (kV AR). When properly connected, they measure the reactive power. As such, they are called varmeters.</p>
 <p>Fixed coils Shunt Movable coils A A B C B C Pointer Control spring Cylindrical coil Moving iron segment Stationary iron segment movement. Moving iron vane meter.</p>
 <p>Wattmeter Electric power is measured by means of a wattmeter. Because electric power is the product of current and voltage, a wattmeter must have two elements, one for current and the other for voltage. For this reason, wattmeters are usually of the electrodynamometer type.</p>
 <p>The movable coil with a series resistance forms the voltage element, and the stationary coils constitute the current element. The strength of the field around the potential coil depends on the amount of current that flows through it. The current, in turn, depends on the load voltage applied across the coil and the high resistance in series with it. The strength of the field around the current coils depends on the amount of current flowing through the load. Thus, the meter deflection is proportional to the product of the voltage across the potential coil and the current through the current coils. The effect is almost the same (if the scale is properly calibrated) as if the voltage applied across the load and the current through the load were multiplied together.</p>
@@ -50,18 +48,14 @@
 <p>Controlling the flow of electrons onto the screen varies the intensity. Do not keep the intensity too high for extended testing or when the beam is motionless and forms a dot on the screen. This can damage the screen.</p>
 <p class="bullet">• Seconds/Division—a time-based control that sets the horizontal sweep rate. Basically, the switch is used to select the time interval that each division on the horizontal scale represents. These divisions can be seconds, milliseconds, or even microseconds. A simple example would be if the technician had the seconds/ division control set to 10 μS. If this technician is viewing a waveform that has a period of 4 divisions on the screen, then the period would be 40 μS. The frequency of this waveform can then be determined by taking the inverse of the period. In this case, 1⁄40 μS equals a frequency of 25 kHz.</p>
 <p class="bullet">• V olts/Division—used to select the voltage interval that each division on the vertical scale represents. For example, suppose each vertical division was set to equal 10 mV . If a waveform was measured and had a peak value of 4 divisions, then the peak value in voltage would be 40 mV .</p>
-<p class="bullet">• Trigger—The trigger control provides synchronization between the saw-tooth horizontal sweep and the applied signal on the vertical plates. The benefit is that the waveform on the screen appears to be stationary and fixed and not drifting across the screen. A triggering circuit is used to initiate the start of a sweep rather than</p>
-<p>Cathode (K) &amp; heater Control grid Vertical deflection plates (V)</p>
-<p>Accelerating anode (A3)</p>
-<p>the fixed saw-tooth sweep rate. In a typical oscilloscope, this triggering signal comes from the input signal itself at a selected point during the signal’s cycle. The horizontal signal goes through one sweep, retraces back to the left side and waits there until it is triggered again by the input signal to start another sweep.</p>
+<p class="bullet">• Trigger—The trigger control provides synchronization between the saw-tooth horizontal sweep and the applied signal on the vertical plates. The benefit is that the waveform on the screen appears to be stationary and fixed and not drifting across the screen. A triggering circuit is used to initiate the start of a sweep rather than the fixed saw-tooth sweep rate. In a typical oscilloscope, this triggering signal comes from the input signal itself at a selected point during the signal’s cycle. The horizontal signal goes through one sweep, retraces back to the left side and waits there until it is triggered again by the input signal to start another sweep.</p>
 <h3 id="flat-panel-color-displays-for-oscilloscopes">Flat Panel Color Displays for Oscilloscopes</h3>
 <p>While the standard CRT design of oscilloscope is still in service, the technology of display and control has evolved into use of the flat panel monitors. Furthermore, the newer oscilloscopes can even be integrated with the common personal computer (PC). Some of the features of this technology include easy data capture, data transfer, documentation, and data analysis. Hand-held oscilloscopes are now available that can perform the functions of larger bench type equipment but are mobile and great tools for trouble shooting.</p>
 <h3 id="digital-multimeter">Digital Multimeter</h3>
 <p>Traditionally, the meters that technicians have used have been the analog voltmeter, ammeter, and the ohmmeter. These have usually been combined into the same instrument and called a multimeter or a VOM (volt-ohm-milliammeter). This approach has been both convenient and economical. Digital multimeters (DMM) and digital voltmeters (DVM) are more common due to their ease of use. These meters are easier to read and provide greater accuracy when compared to the older analog units with needle movement. The multimeter’s single-coil movement requires a number of scales, which are not always easy to read accurately. In addition, the loading characteristics due to the internal resistance sometimes affect the circuit and the measurements. Not only does the DVM offer greater accuracy and less ambiguity, but also higher input resistance, which has less of a loading effect and influence on a circuit.</p>
 <h2 id="2-中文翻译">2. 中文翻译</h2>
 <p>把直流仪表，例如电流表，接在交流电路中会指示零，因为 d’Arsonval 型仪表所用的表头机构只限于直流。由于 d’Arsonval 型仪表中永久磁铁的磁场始终保持恒定、方向不变，可动线圈便跟随电流的极性。在交流周期的半个周期内线圈试图朝一个方向转动，在电流反转的另半个周期内则朝相反方向转动。</p>
-<p>电流反向太快，线圈来不及跟随，因而使线圈停在平均位置上。由于</p>
-<p>在交流周期的每一半中电流大小相等、方向相反，直流仪表便指示零，而零正是平均值。因此，带有永久磁铁的仪表不能用来测量交流电压和电流。要测量交流的电流和电压，还需要附加电路。附加电路中有一个整流器，它把交流电转换为直流电。整流器有两种基本类型：半波整流器和全波整流器。</p>
+<p>电流反向太快，线圈来不及跟随，因而使线圈停在平均位置上。由于在交流周期的每一半中电流大小相等、方向相反，直流仪表便指示零，而零正是平均值。因此，带有永久磁铁的仪表不能用来测量交流电压和电流。要测量交流的电流和电压，还需要附加电路。附加电路中有一个整流器，它把交流电转换为直流电。整流器有两种基本类型：半波整流器和全波整流器。</p>
 <p>图中还示出了交流仪表的简化框图。在这一图示中，全波整流器位于表头机构之前。表头机构响应脉动直流的平均值。于是刻度可以标定成设计者想要的任何量值。在多数情况下，所标定的是均方根（RMS）值或峰值。</p>
 <h3 id="电动式-电动力计-表头机构">电动式（电动力计）表头机构</h3>
 <p>电动力计可用于测量交流或直流电压和电流。它的工作原理与永久磁铁动圈式仪表相同，只是永久磁铁被空气芯电磁铁所取代。电动力计的磁场由流过可动线圈的同一电流产生。</p>
@@ -82,8 +76,7 @@
 <p>无论线圈中电流方向如何，铁片都趋向与磁力线对齐。因此，斜线圈动铁片式仪表既可测量交流也可测量直流。铝盘和阻尼磁铁提供电磁阻尼。</p>
 <p>与动铁片式仪表一样，斜线圈式仪表要达到满刻度偏转需要较大的电流，很少用于高电阻、低功率电路。</p>
 <p>与动铁片式仪表一样，斜线圈式仪表用作电流表时以直径较大、匝数较少的导线绕制，用作电压表时以细导线多匝绕制。</p>
-<p>在交流电路中，用伏特乘以安培得到视在功率：它是有功功率（做工作的功率）与无功功率（不做工作、并被送回线路的功率）的组合。无功功率以乏（vars，即无功伏安）或千乏（kilovars，即无功千伏安（kV AR））为单位计量。当正确接线时，</p>
-<p>它们便测量无功功率。因此，它们被称为无功功率表（varmeters）。</p>
+<p>在交流电路中，用伏特乘以安培得到视在功率：它是有功功率（做工作的功率）与无功功率（不做工作、并被送回线路的功率）的组合。无功功率以乏（vars，即无功伏安）或千乏（kilovars，即无功千伏安（kV AR））为单位计量。当正确接线时，它们便测量无功功率。因此，它们被称为无功功率表（varmeters）。</p>
 <p>（原文此处为图注碎片，原文无正文）</p>
 <p>功率表 电功率用功率表测量。由于电功率是电流与电压的乘积，功率表必须有两个元件，一个用于电流，另一个用于电压。因此，功率表通常采用电动力计式。</p>
 <p>带串联电阻的可动线圈构成电压元件，固定线圈构成电流元件。电位线圈（电压线圈）周围磁场的强度取决于流过它的电流大小。该电流又取决于加在线圈上的负载电压以及与之串联的高阻值电阻。电流线圈周围磁场的强度取决于流过负载的电流大小。因此，仪表的偏转与电压线圈两端的电压和通过电流线圈的电流的乘积成正比。如果刻度标定正确，其效果几乎就相当于把加在负载上的电压与流过负载的电流相乘。</p>
@@ -108,10 +101,7 @@
 <p>控制打到屏幕上的电子流量即可改变亮度。在进行长时间测试时，或当电子束静止并在屏幕上形成一个点时，不要使亮度保持过高。这会损坏屏幕。</p>
 <p class="bullet">• 秒／格——一种基于时间的控制装置，用于设定水平扫描速率。基本上，该开关用来选择水平刻度上每一格所代表的时间间隔。这些格可以是秒、毫秒，甚至微秒。一个简单的例子是：假设技术人员把秒／格控制装置置于 10 μS。如果该技术人员正在观察的波形在屏幕上占 4 格周期，那么周期就是 40 μS。此后可通过取周期的倒数确定该波形的频率。在此例中，1⁄40 μS 等于 25 kHz 的频率。</p>
 <p class="bullet">• 伏／格——用于选择垂直刻度上每一格所代表的电压间隔。例如，假设每一垂直格设定为等于 10 mV。若测得某波形的峰值为 4 格，则峰值电压为 40 mV。</p>
-<p class="bullet">• 触发——触发控制使锯齿波水平扫描与加在垂直板上的信号之间保持同步。其好处是屏幕上的波形看起来稳定固定，不会在屏幕上漂移。触发电路用来启动一次扫描，而不是</p>
-<p>（原文此处为图注碎片，原文无正文）</p>
-<p>（原文此处为图注碎片，原文无正文）</p>
-<p>采用固定的锯齿波扫描速率。在典型示波器中，这个触发信号来自输入信号本身，取自信号周期中选定的某一点。水平信号完成一次扫描，回扫到左侧后就在那里等待，直到再次被输入信号触发，才开始另一次扫描。</p>
+<p class="bullet">• 触发——触发控制使锯齿波水平扫描与加在垂直板上的信号之间保持同步。其好处是屏幕上的波形看起来稳定固定，不会在屏幕上漂移。触发电路用来启动一次扫描，而不是采用固定的锯齿波扫描速率。在典型示波器中，这个触发信号来自输入信号本身，取自信号周期中选定的某一点。水平信号完成一次扫描，回扫到左侧后就在那里等待，直到再次被输入信号触发，才开始另一次扫描。</p>
 <h3 id="示波器的平板彩色显示">示波器的平板彩色显示</h3>
 <p>虽然标准 CRT 式示波器仍在使用，但显示与控制技术已经发展到使用平板显示器的阶段。此外，较新的示波器甚至可以与普通个人计算机（PC）集成。这类技术的一些特点包括方便的数据采集、数据传输、记录归档和数据分析。现在已有手持式示波器，它们能履行为大型台式设备所设计的功能，而且便于携带，是排查故障的好工具。</p>
 <h3 id="数字万用表">数字万用表</h3>

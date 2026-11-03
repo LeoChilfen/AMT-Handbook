@@ -12,9 +12,7 @@ When the armature in a motor rotates in a magnetic field, a voltage is induced i
 
 Counter emf opposes the current, which causes the armature to rotate. The current flowing through the armature, therefore, decreases as the counter emf increases. The faster the armature rotates, the greater the counter emf. For this reason, a motor connected to a battery may draw a fairly high current on starting, but as the armature speed increases, the current flowing through the armature decreases. At rated speed, the counter emf may be only a few volts less than the battery voltage. Then, if the load on the motor is increased, the motor slows down, less counter emf is generated, and the current drawn from the external source increases. In a shunt motor, the counter emf affects only the current in the armature, since the field is connected in parallel across the power source. As the motor slows down and the counter emf decreases, more current flows through the armature, but the magnetism in the field is unchanged. When the series motor slows down, the counter EMF decreases and more current flows through the field and the armature, thereby strengthening their magnetic fields. Because of these characteristics, it is more difficult to stall a series motor than a shunt motor.
 
-Electric motors are called upon to operate under various conditions. Some motors are used for intermittent operation;
-
- others operate continuously. Motors built for intermittent duty can be operated for short periods only and, then, must be allowed to cool before being operated again. If such a motor is operated for long periods under full load, the motor becomes overheated. Motors built for continuous duty may be operated at rated power for long periods.
+Electric motors are called upon to operate under various conditions. Some motors are used for intermittent operation; others operate continuously. Motors built for intermittent duty can be operated for short periods only and, then, must be allowed to cool before being operated again. If such a motor is operated for long periods under full load, the motor becomes overheated. Motors built for continuous duty may be operated at rated power for long periods.
 
 ### Reversing Motor Direction
 
@@ -80,9 +78,7 @@ I = E/R = 28/0.1 = 280 安培。这样大的电流值不仅不切实际，而且
 
 反电动势阻碍电流，而正是电流使电枢旋转。因此，随着反电动势增大，流过电枢的电流减小。电枢转得越快，反电动势越大。由于这个原因，接在蓄电池上的电动机起动时可能吸取相当大的电流，但随着电枢转速升高，流过电枢的电流会减小。在额定转速下，反电动势可能只比蓄电池电压低几伏。此时若增加电动机负载，电动机转速下降，产生的反电动势减小，从外部电源吸取的电流增大。在并励电动机中，反电动势只影响电枢电流，因为励磁绕组与电源并联。当电动机转速下降、反电动势减小时，更多电流流过电枢，但磁场中的磁性不变。串励电动机转速下降时，反电动势减小，更多电流流过励磁绕组和电枢，从而增强二者的磁场。由于这些特性，使串励电动机堵转比使并励电动机堵转更困难。
 
-电动机需要在各种条件下运行。有些电动机用于间歇工作；
-
-另一些电动机则连续运行。为间歇工作制制造的电动机只能短时间运行，之后必须冷却才能再次运行。如果让这种电动机在满载下长时间运行，电动机就会过热。为连续工作制制造的电动机可以在额定功率下长时间运行。
+电动机需要在各种条件下运行。有些电动机用于间歇工作；另一些电动机则连续运行。为间歇工作制制造的电动机只能短时间运行，之后必须冷却才能再次运行。如果让这种电动机在满载下长时间运行，电动机就会过热。为连续工作制制造的电动机可以在额定功率下长时间运行。
 
 ### 改变电动机转向
 

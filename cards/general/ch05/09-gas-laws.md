@@ -1,7 +1,3 @@
-# Gas Laws
-
-> 通用 Ch 05 · Gas Laws · 原文 PDF 第 173 页
-
 ## 1. 原文
 
 The simple structure of gases makes them readily adaptable to mathematical analysis from which has evolved a detailed theory of the behavior of gases. This is called the kinetic theory of gases. The theory assumes that a body of gas is composed of identical molecules which behave like minute elastic spheres, spaced relatively far apart and continuously in motion.
@@ -32,9 +28,7 @@ P2 = 764.7 (600) ÷ 530 P2 = 865.7 psia P2 = 851 psig
 
 By combining Boyle’s and Charles’ laws, a single expression can be derived which states all the information contained in both. The formula which is used to express the general gas law is as follows:
 
-=Temperature 1 TemperaturePressure 2 (V olume 2)Pressure 1 (V olume 1)
-
-or P1 (V1) (T2) = P2 (V2) (T1)
+P1 (V1) ÷ T1 = P2 (V2) ÷ T2 or P1 (V1) (T2) = P2 (V2) (T1)
 
 When using the general gas law formula, temperature and pressure must be in the absolute.
 
@@ -78,9 +72,7 @@ P2 = 764.7 (600) ÷ 530　P2 = 865.7 psia　P2 = 851 psig
 
 把玻意耳定律和查理定律结合起来，可以推导出一个单独的表达式，它包含了这两条定律所表述的全部信息。用来表达通用气体定律的公式如下：
 
-（原文此处为通用气体定律分式公式的排版碎片，无正文）
-
-或 P1 (V1) (T2) = P2 (V2) (T1)
+P1 (V1) ÷ T1 = P2 (V2) ÷ T2，或 P1 (V1) (T2) = P2 (V2) (T1)
 
 使用通用气体定律公式时，温度和压力都必须取绝对值。
 

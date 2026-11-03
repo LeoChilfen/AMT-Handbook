@@ -6,13 +6,11 @@
 
 Because of their advantages, many types of aircraft motors are designed to operate on alternating current. In general, AC motors are less expensive than comparable DC motors. In many instances, AC motors do not use brushes and commutators so sparking at the brushes is avoided. AC motors are reliable and require little maintenance. They are also well suited for constant speed applications and certain types are manufactured that have, within limits, variable speed characteristics. Alternating current motors are designed to operate on polyphase or single-phase lines and at several voltage ratings.
 
-The speed of rotation of an AC motor depends upon the number of poles and the frequency of the electrical source of power:
-
-rpm = 120 × FrequencyNumber of poles Since airplane electrical systems typically operate at 400 cycles, an electric motor at this frequency operates at about seven times the speed of a 60-cycle commercial motor with the same number of poles. Because of this high speed of rotation, 400-cycle AC motors are suitable for operating small, high-speed rotors, through reduction gears, in lifting and moving heavy loads, such as the wing flaps, the retractable landing gear, and the starting of engines. The 400-cycle induction type motor operates at speeds ranging from 6,000 rpm to 24,000 rpm. Alternating current motors are rated in horsepower output, operating voltage, full load current, speed, number of phases, and frequency. Whether the motors operate continuously or intermittently (for short intervals) is also considered in the rating.
+The speed of rotation of an AC motor depends upon the number of poles and the frequency of the electrical source of power: rpm = 120 × FrequencyNumber of poles Since airplane electrical systems typically operate at 400 cycles, an electric motor at this frequency operates at about seven times the speed of a 60-cycle commercial motor with the same number of poles. Because of this high speed of rotation, 400-cycle AC motors are suitable for operating small, high-speed rotors, through reduction gears, in lifting and moving heavy loads, such as the wing flaps, the retractable landing gear, and the starting of engines. The 400-cycle induction type motor operates at speeds ranging from 6,000 rpm to 24,000 rpm. Alternating current motors are rated in horsepower output, operating voltage, full load current, speed, number of phases, and frequency. Whether the motors operate continuously or intermittently (for short intervals) is also considered in the rating.
 
 ### Types of AC Motors
 
-There are two general types of AC motors used in aircraft systems: induction motors and synchronous motors. Either type may be single-phase, two-phase, or three-phase. Three-phase induction motors are used where large amounts of power are required. They operate such devices as starters, flaps, landing gears, and hydraulic pumps. Single-phase induction motors are used to operate devices such as surface locks, intercooler shutters, and oil shutoff valves in which the power requirement is low. Three-phase synchronous motors operate at constant synchronous speeds and are commonly used to operate flux gate compasses and propeller synchronizer systems. Single- phase synchronous motors are common sources of power to operate electric clocks and other small, precision equipment. They require some auxiliary method to bring them up to synchronous speeds; that is, to start them. Usually the starting winding consists of an auxiliary stator winding.
+There are two general types of AC motors used in aircraft systems: induction motors and synchronous motors. Either type may be single-phase, two-phase, or three-phase. Three-phase induction motors are used where large amounts of power are required. They operate such devices as starters, flaps, landing gears, and hydraulic pumps. Single-phase induction motors are used to operate devices such as surface locks, intercooler shutters, and oil shutoff valves in which the power requirement is low. Three-phase synchronous motors operate at constant synchronous speeds and are commonly used to operate flux gate compasses and propeller synchronizer systems. Single-phase synchronous motors are common sources of power to operate electric clocks and other small, precision equipment. They require some auxiliary method to bring them up to synchronous speeds; that is, to start them. Usually the starting winding consists of an auxiliary stator winding.
 
 ### Three-Phase Induction Motor
 
@@ -48,9 +46,7 @@ The poles of the shaded pole motor resemble those of a DC motor.
 
 A low resistance, short-circuited coil or copper band is placed across one tip of each small pole from which the motor gets the name of shaded pole. The rotor of this motor is the squirrel cage type. As the current increases in the stator winding, the flux increases. A portion of this flux cuts the low resistance shading coil. This induces a current in the shading coil, and by Lenz’s Law, the current sets up a flux that opposes the flux inducing the current. Hence, most of the flux passes through the unshaded portion of the poles.
 
-When the current in the winding and the main flux reaches a maximum, the rate of change is zero; thus, no emf is induced in the shading coil. A little later, the shading coil current, which causes the induced emf to lag, reaches zero, and there is no opposing flux. Therefore, the main field flux
-
-passes through the shaded portion of the field pole. The main field flux, which is now decreasing, induces a current in the shading coil. This current sets up a flux that opposes the decrease of the main field flux in the shaded portion of the pole. The effect is to concentrate the lines of force in the shaded portion of the pole face. In effect, the shading coil retards, in time phase, the portion of the flux passing through the shaded part of the pole. This lag in time phase of the flux in the shaded tip causes the flux to produce the effect of sweeping across the face of the pole, from left to right in the direction of the shaded tip. This behaves like a very weak rotating magnetic field, and sufficient torque is produced to start a small motor. The starting torque of the shaded pole motor is exceedingly weak, and the power factor is low. Consequently, it is built in sizes suitable for driving such devices as small fans.
+When the current in the winding and the main flux reaches a maximum, the rate of change is zero; thus, no emf is induced in the shading coil. A little later, the shading coil current, which causes the induced emf to lag, reaches zero, and there is no opposing flux. Therefore, the main field flux passes through the shaded portion of the field pole. The main field flux, which is now decreasing, induces a current in the shading coil. This current sets up a flux that opposes the decrease of the main field flux in the shaded portion of the pole. The effect is to concentrate the lines of force in the shaded portion of the pole face. In effect, the shading coil retards, in time phase, the portion of the flux passing through the shaded part of the pole. This lag in time phase of the flux in the shaded tip causes the flux to produce the effect of sweeping across the face of the pole, from left to right in the direction of the shaded tip. This behaves like a very weak rotating magnetic field, and sufficient torque is produced to start a small motor. The starting torque of the shaded pole motor is exceedingly weak, and the power factor is low. Consequently, it is built in sizes suitable for driving such devices as small fans.
 
 ### Split-Phase Motor
 
@@ -106,11 +102,7 @@ To design a series motor for satisfactory operation on AC, the following changes
 
 4. The reactance of the armature is reduced by using a compensating winding embedded in the pole pieces. If the compensating winding is connected in series with the armature, the armature is conductively compensated.
 
-If the compensating winding is designed, the armature is inductively compensated. If the motor is designed for operation on both DC and AC circuits, the compensating winding is connected in series with the armature. The axis of the compensating winding is displaced from the main field axis by an angle of 90°. This arrangement is similar to the compensating winding used in some DC motors and generators to overcome armature reaction. The compensating winding establishes a counter magnetomotive force, neutralizing the effect of the armature magnetomotive force, preventing distortion of the main field flux, and reducing the armature reactance. The inductively compensated armature acts like the primary of a transformer, the secondary
-
-Winding 1 (Starting winding)
-
-of which is the shorted compensating winding. The shorted secondary receives an induced voltage by the action of the alternating armature flux, and the resulting current flowing through the turns of the compensating winding establishes the opposing magnetomotive force, neutralizing the armature reactance.
+If the compensating winding is designed, the armature is inductively compensated. If the motor is designed for operation on both DC and AC circuits, the compensating winding is connected in series with the armature. The axis of the compensating winding is displaced from the main field axis by an angle of 90°. This arrangement is similar to the compensating winding used in some DC motors and generators to overcome armature reaction. The compensating winding establishes a counter magnetomotive force, neutralizing the effect of the armature magnetomotive force, preventing distortion of the main field flux, and reducing the armature reactance. The inductively compensated armature acts like the primary of a transformer, the secondary of which is the shorted compensating winding. The shorted secondary receives an induced voltage by the action of the alternating armature flux, and the resulting current flowing through the turns of the compensating winding establishes the opposing magnetomotive force, neutralizing the armature reactance.
 
 5. Sparking at the commutator is reduced by the use of preventive leads P1, P2, P3, and so forth, When coils at A and B are shorted by the brushes, the induced current is limited by the relatively high resistance of the leads. Sparking at the brushes is also reduced by using armature coils having only a single turn and multipolar fields. High torque is obtained by having a large number of armature conductors and a large diameter armature. Thus, the commutator has a large number of very thin commutator bars and the armature voltage is limited to about 250 volts.
 
@@ -124,9 +116,7 @@ The inspection and maintenance of AC motors is very simple. The bearings may or 
 
 由于交流电动机的诸多优点，许多类型的飞机电动机被设计为使用交流电运行。一般来说，交流电动机比同类直流电动机便宜。在许多情况下，交流电动机不使用电刷和换向器，因此避免了电刷处的火花。交流电动机可靠且维护量小。它们还非常适合恒速应用，某些类型在允许范围内还具有变速特性。交流电动机被设计为可在多相或单相线路上运行，并有多种额定电压。
 
-交流电动机的转速取决于磁极数和电源频率：
-
-rpm = 120 × 频率/磁极数 由于飞机电气系统通常以 400 周运行，因此在该频率下，一台电动机的转速约为相同磁极数的 60 周商用电动机的七倍。由于转速很高，400 周的交流电动机适合通过减速齿轮驱动小型高速转子，用于升降和移动重载，如襟翼、可收放起落架以及发动机起动。400 周感应式电动机的转速范围为 6,000 rpm 至 24,000 rpm。交流电动机按输出马力、工作电压、满载电流、转速、相数和频率额定。电动机是连续运行还是间歇运行（短时间运行）也在额定考虑之内。
+交流电动机的转速取决于磁极数和电源频率：rpm = 120 × 频率/磁极数 由于飞机电气系统通常以 400 周运行，因此在该频率下，一台电动机的转速约为相同磁极数的 60 周商用电动机的七倍。由于转速很高，400 周的交流电动机适合通过减速齿轮驱动小型高速转子，用于升降和移动重载，如襟翼、可收放起落架以及发动机起动。400 周感应式电动机的转速范围为 6,000 rpm 至 24,000 rpm。交流电动机按输出马力、工作电压、满载电流、转速、相数和频率额定。电动机是连续运行还是间歇运行（短时间运行）也在额定考虑之内。
 
 ### 交流电动机的类型
 
@@ -166,9 +156,7 @@ P = 120 × 60 / 1,750 = 7,200/1,750 = 4.11 因此，该电动机每相有四个�
 
 在每个小磁极的一个端部跨接一个低电阻短路线圈或铜带，电动机由此得名罩极式。这种电动机的转子是鼠笼式。随着定子绕组中电流增大，磁通增大。一部分磁通切割低电阻的罩极线圈，在罩极线圈中感应出电流；根据楞次定律，该电流产生一个磁通，阻碍感应出该电流的磁通。因此，大部分磁通穿过磁极的未罩部分。
 
-当绕组中的电流和主磁通达到最大值时，变化率为零，因此罩极线圈中不感应电动势。稍后，使感应电动势滞后的罩极线圈电流降为零，不再有阻碍磁通。因此，主磁场磁通
-
-穿过磁极的罩极部分。现在正在减小的主磁场磁通在罩极线圈中感应出电流。这个电流产生的磁通阻碍磁极罩极部分中主磁场磁通的减小。其效果是把磁力线集中在磁极面的罩极部分。实际上，罩极线圈在时间相位上使穿过磁极罩极部分的那部分磁通滞后。罩极尖端磁通的这种时间相位滞后，使磁通产生扫过磁极面的效果，方向为从左到右、朝向罩极尖端。这就像很弱的旋转磁场，能产生足够的转矩来起动小型电动机。罩极式电动机的起动转矩极弱，功率因数低。因此，它被制成适合驱动小型风扇等装置的规格。
+当绕组中的电流和主磁通达到最大值时，变化率为零，因此罩极线圈中不感应电动势。稍后，使感应电动势滞后的罩极线圈电流降为零，不再有阻碍磁通。因此，主磁场磁通穿过磁极的罩极部分。现在正在减小的主磁场磁通在罩极线圈中感应出电流。这个电流产生的磁通阻碍磁极罩极部分中主磁场磁通的减小。其效果是把磁力线集中在磁极面的罩极部分。实际上，罩极线圈在时间相位上使穿过磁极罩极部分的那部分磁通滞后。罩极尖端磁通的这种时间相位滞后，使磁通产生扫过磁极面的效果，方向为从左到右、朝向罩极尖端。这就像很弱的旋转磁场，能产生足够的转矩来起动小型电动机。罩极式电动机的起动转矩极弱，功率因数低。因此，它被制成适合驱动小型风扇等装置的规格。
 
 ### 分相式电动机
 
@@ -224,11 +212,7 @@ P = 120 × 60 / 1,750 = 7,200/1,750 = 4.11 因此，该电动机每相有四个�
 
 4. 通过采用嵌入磁极的补偿绕组来减小电枢电抗。如果补偿绕组与电枢串联，则电枢得到传导补偿。
 
-如果补偿绕组按此方式设计，则电枢得到感应补偿。如果电动机设计为既可在直流也可在交流电路上运行，则补偿绕组与电枢串联。补偿绕组的轴线与主磁场轴线成 90° 角。这种安排类似于某些直流电动机和发电机中用来克服电枢反应的补偿绕组。补偿绕组建立反磁动势，抵消电枢磁动势的作用，防止主磁场磁通畸变，并减小电枢电抗。感应补偿的电枢如同变压器的初级，其次级
-
-（原文此处为图注碎片，原文无正文）
-
-其次级就是被短接的补偿绕组。被短接的次级在交变电枢磁通的作用下感应出电压，由此在补偿绕组各匝中流动的电流建立反向磁动势，抵消电枢电抗。
+如果补偿绕组按此方式设计，则电枢得到感应补偿。如果电动机设计为既可在直流也可在交流电路上运行，则补偿绕组与电枢串联。补偿绕组的轴线与主磁场轴线成 90° 角。这种安排类似于某些直流电动机和发电机中用来克服电枢反应的补偿绕组。补偿绕组建立反磁动势，抵消电枢磁动势的作用，防止主磁场磁通畸变，并减小电枢电抗。感应补偿的电枢如同变压器的初级，其次级就是被短接的补偿绕组。被短接的次级在交变电枢磁通的作用下感应出电压，由此在补偿绕组各匝中流动的电流建立反向磁动势，抵消电枢电抗。
 
 5. 通过使用预防引线 P1、P2、P3 等来减小换向器处的火花。当 A 处和 B 处的线圈被电刷短路时，感应电流受到引线相对较高电阻的限制。使用只有一匝的电枢线圈和多极磁场也能减小电刷处的火花。通过采用大量电枢导体和大直径电枢可获得大转矩。因此，换向器有很多很薄的换向片，电枢电压被限制在约 250 伏。
 

@@ -46,7 +46,7 @@ Although some large shops and certified repair stations may have a separate grou
 
 • What is the maximum number of aircraft that the system can handle?
 
-• Can the system handle both single- and multi-engine aircraft? Fixed and rotary wing? Piston and jet?
+• Can the system handle both single-engine and multi-engine aircraft? Fixed and rotary wing? Piston and jet?
 
 • Can an item removed from an aircraft be tracked?
 

@@ -4,11 +4,9 @@
 
 ## 1. 原文
 
-A DC meter, such as an ammeter, connected in an AC circuit indicates zero, because the meter movements used in a d’Arsonval type movement is restricted to DC. Since the field of a permanent magnet in the d’Arsonval type meter remains constant and in the same direction at all times, the moving coil follows the polarity of the current. The coil attempts to move in one direction during half of the AC cycle and in the reverse direction during the other half when the current reverses.
+A direct-current (DC) meter, such as an ammeter, connected in an AC circuit indicates zero, because the meter movements used in a d’Arsonval type movement is restricted to DC. Since the field of a permanent magnet in the d’Arsonval type meter remains constant and in the same direction at all times, the moving coil follows the polarity of the current. The coil attempts to move in one direction during half of the AC cycle and in the reverse direction during the other half when the current reverses.
 
-The current reverses direction too rapidly for the coil to follow, causing the coil to assume an average position. Since
-
-the current is equal and opposite during each half of the AC cycle, the DC meter indicates zero, which is the average value. Thus, a meter with a permanent magnet cannot be used to measure alternating voltage and current. For AC measurements of current and voltage, additional circuitry is required. The additional circuitry has a rectifier, which converts AC to DC. There are two basic types of rectifiers: the half-wave rectifier and the full-wave rectifier.
+The current reverses direction too rapidly for the coil to follow, causing the coil to assume an average position. Since the current is equal and opposite during each half of the AC cycle, the DC meter indicates zero, which is the average value. Thus, a meter with a permanent magnet cannot be used to measure alternating voltage and current. For AC measurements of current and voltage, additional circuitry is required. The additional circuitry has a rectifier, which converts AC to DC. There are two basic types of rectifiers: the half-wave rectifier and the full-wave rectifier.
 
 The figure also shows a simplified block diagram of an AC meter. In this depiction, the full-wave rectifier precedes the meter movement. The movement responds to the average value of the pulsating DC. The scale can then be calibrated to show anything the designer wants. In most cases, it is the root mean square (RMS) value or peak value.
 
@@ -50,9 +48,7 @@ Like the moving iron vane meter, the inclined coil type requires a relatively la
 
 As in the moving iron vane instruments, the inclined coil instrument is wound with few turns of relatively large wire when used as an ammeter and with many turns of small wire when used as a voltmeter.
 
-Multiplying the volts by the amperes in an AC circuit gives the apparent power: the combination of the true power (which does the work) and the reactive power (which does no work and is returned to the line). Reactive power is measured in units of vars (volt-amperes reactive) or kilovars (kilovolt- amperes reactive (kV AR). When properly connected,
-
-s measure the reactive power. As such, they are called varmeters.
+Multiplying the volts by the amperes in an AC circuit gives the apparent power: the combination of the true power (which does the work) and the reactive power (which does no work and is returned to the line). Reactive power is measured in units of vars (volt-amperes reactive) or kilovars (kilovolt-amperes reactive (kV AR). When properly connected, they measure the reactive power. As such, they are called varmeters.
 
 Fixed coils Shunt Movable coils A A B C B C Pointer Control spring Cylindrical coil Moving iron segment Stationary iron segment movement. Moving iron vane meter.
 
@@ -102,13 +98,7 @@ Controlling the flow of electrons onto the screen varies the intensity. Do not k
 
 • V olts/Division—used to select the voltage interval that each division on the vertical scale represents. For example, suppose each vertical division was set to equal 10 mV . If a waveform was measured and had a peak value of 4 divisions, then the peak value in voltage would be 40 mV .
 
-• Trigger—The trigger control provides synchronization between the saw-tooth horizontal sweep and the applied signal on the vertical plates. The benefit is that the waveform on the screen appears to be stationary and fixed and not drifting across the screen. A triggering circuit is used to initiate the start of a sweep rather than
-
-Cathode (K) & heater Control grid Vertical deflection plates (V)
-
-Accelerating anode (A3)
-
-the fixed saw-tooth sweep rate. In a typical oscilloscope, this triggering signal comes from the input signal itself at a selected point during the signal’s cycle. The horizontal signal goes through one sweep, retraces back to the left side and waits there until it is triggered again by the input signal to start another sweep.
+• Trigger—The trigger control provides synchronization between the saw-tooth horizontal sweep and the applied signal on the vertical plates. The benefit is that the waveform on the screen appears to be stationary and fixed and not drifting across the screen. A triggering circuit is used to initiate the start of a sweep rather than the fixed saw-tooth sweep rate. In a typical oscilloscope, this triggering signal comes from the input signal itself at a selected point during the signal’s cycle. The horizontal signal goes through one sweep, retraces back to the left side and waits there until it is triggered again by the input signal to start another sweep.
 
 ### Flat Panel Color Displays for Oscilloscopes
 
@@ -122,9 +112,7 @@ Traditionally, the meters that technicians have used have been the analog voltme
 
 把直流仪表，例如电流表，接在交流电路中会指示零，因为 d’Arsonval 型仪表所用的表头机构只限于直流。由于 d’Arsonval 型仪表中永久磁铁的磁场始终保持恒定、方向不变，可动线圈便跟随电流的极性。在交流周期的半个周期内线圈试图朝一个方向转动，在电流反转的另半个周期内则朝相反方向转动。
 
-电流反向太快，线圈来不及跟随，因而使线圈停在平均位置上。由于
-
-在交流周期的每一半中电流大小相等、方向相反，直流仪表便指示零，而零正是平均值。因此，带有永久磁铁的仪表不能用来测量交流电压和电流。要测量交流的电流和电压，还需要附加电路。附加电路中有一个整流器，它把交流电转换为直流电。整流器有两种基本类型：半波整流器和全波整流器。
+电流反向太快，线圈来不及跟随，因而使线圈停在平均位置上。由于在交流周期的每一半中电流大小相等、方向相反，直流仪表便指示零，而零正是平均值。因此，带有永久磁铁的仪表不能用来测量交流电压和电流。要测量交流的电流和电压，还需要附加电路。附加电路中有一个整流器，它把交流电转换为直流电。整流器有两种基本类型：半波整流器和全波整流器。
 
 图中还示出了交流仪表的简化框图。在这一图示中，全波整流器位于表头机构之前。表头机构响应脉动直流的平均值。于是刻度可以标定成设计者想要的任何量值。在多数情况下，所标定的是均方根（RMS）值或峰值。
 
@@ -166,9 +154,7 @@ Traditionally, the meters that technicians have used have been the analog voltme
 
 与动铁片式仪表一样，斜线圈式仪表用作电流表时以直径较大、匝数较少的导线绕制，用作电压表时以细导线多匝绕制。
 
-在交流电路中，用伏特乘以安培得到视在功率：它是有功功率（做工作的功率）与无功功率（不做工作、并被送回线路的功率）的组合。无功功率以乏（vars，即无功伏安）或千乏（kilovars，即无功千伏安（kV AR））为单位计量。当正确接线时，
-
-它们便测量无功功率。因此，它们被称为无功功率表（varmeters）。
+在交流电路中，用伏特乘以安培得到视在功率：它是有功功率（做工作的功率）与无功功率（不做工作、并被送回线路的功率）的组合。无功功率以乏（vars，即无功伏安）或千乏（kilovars，即无功千伏安（kV AR））为单位计量。当正确接线时，它们便测量无功功率。因此，它们被称为无功功率表（varmeters）。
 
 （原文此处为图注碎片，原文无正文）
 
@@ -218,13 +204,7 @@ Traditionally, the meters that technicians have used have been the analog voltme
 
 • 伏／格——用于选择垂直刻度上每一格所代表的电压间隔。例如，假设每一垂直格设定为等于 10 mV。若测得某波形的峰值为 4 格，则峰值电压为 40 mV。
 
-• 触发——触发控制使锯齿波水平扫描与加在垂直板上的信号之间保持同步。其好处是屏幕上的波形看起来稳定固定，不会在屏幕上漂移。触发电路用来启动一次扫描，而不是
-
-（原文此处为图注碎片，原文无正文）
-
-（原文此处为图注碎片，原文无正文）
-
-采用固定的锯齿波扫描速率。在典型示波器中，这个触发信号来自输入信号本身，取自信号周期中选定的某一点。水平信号完成一次扫描，回扫到左侧后就在那里等待，直到再次被输入信号触发，才开始另一次扫描。
+• 触发——触发控制使锯齿波水平扫描与加在垂直板上的信号之间保持同步。其好处是屏幕上的波形看起来稳定固定，不会在屏幕上漂移。触发电路用来启动一次扫描，而不是采用固定的锯齿波扫描速率。在典型示波器中，这个触发信号来自输入信号本身，取自信号周期中选定的某一点。水平信号完成一次扫描，回扫到左侧后就在那里等待，直到再次被输入信号触发，才开始另一次扫描。
 
 ### 示波器的平板彩色显示
 

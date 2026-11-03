@@ -62,7 +62,7 @@ Table 2–Aircraft Certification Office (ACO) Designators FAA Project Numbers wi
 
 • X is the one-letter designator for the Product Type – see Table 3 below As an example, TC00125AT-A would be a TC project assigned by the Atlanta ACO on a small airplane with the assigned number 00125.
 
-and special. FAA Form 8100-2, Standard Airworthiness Certificate, may be issued to allow operation of a type- certificated aircraft in one or more of the following categories:
+FAA Form 8100-2, Standard Airworthiness Certificate, may be issued to allow operation of a type-certificated aircraft in one or more of the following categories:
 
 • Manned free balloon
 
@@ -202,9 +202,7 @@ As the name clearly states, this form is to be used whenever major repairs or al
 
 • Item 4—If the repair or alteration is being done to the aircraft airframe, no entry is required since the data is identical to that in item 1. However, if the repair or alteration is being done to an engine, a propeller, or other appliance, entries must include the appropriate make, model, and serial number information.
 
-• Item 5 should have “X” marked in either the “Repair”
-
-or the “Alteration” column.
+• Item 5 should have “X” marked in either the “Repair” or the “Alteration” column.
 
 • Item 6—Enter appropriate data as specified and check the proper box in B. The technician is encouraged to carefully read the preprinted statement in subparagraph D prior to signing this section.
 
@@ -274,7 +272,7 @@ PM 零部件制造人批准（PMA）
 
 • X 为产品类型的一字母代码——见表 3。举例：TC00125AT-A 表示由亚特兰大 ACO 为小型飞机指派的、编号为 00125 的 TC 项目。
 
-以及特别类。FAA Form 8100-2《标准适航证书》可以签发给按型号合格审定的航空器，允许其在下列一个或多个类别下运行：
+FAA Form 8100-2《标准适航证书》可以签发给按型号合格审定的航空器，允许其在下列一个或多个类别下运行：
 
 • 有人驾驶自由气球
 
@@ -414,9 +412,7 @@ FSGA 96-06 是一份面向通用航空（FSGA）的飞行标准信息通告（FS
 
 • 第 4 项——如果修理或改装的对象是航空器机体，则无需填写，因为该数据与第 1 项相同。但如果修理或改装的对象是发动机、螺旋桨或其他附件，则必须填写相应的制造厂、型号和出厂序号信息。
 
-• 第 5 项应在「修理」
-
-或「改装」栏内标「X」。
+• 第 5 项应在「修理」 或「改装」栏内标「X」。
 
 • 第 6 项——按规定的数据填写，并勾选 B 项中相应的方框。建议技术人员在签署本节之前仔细阅读 D 小段中的预先印制声明。
 

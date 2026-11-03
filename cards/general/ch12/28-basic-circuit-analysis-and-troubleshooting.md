@@ -52,7 +52,7 @@ In many cases, the ohmmeter is not used for measuring the resistance of a compon
 
 ### Capacitance Measurement
 
-illustrates a basic test of a capacitor with an ohmmeter. There are usually two common modes of failure for a capacitor. One is a complete failure characterized by short circuit through the capacitor due to the dielectric breaking down or an open circuit. The more insidious failure occurs due to degradation, which is a gradual deterioration of the capacitor’s characteristics.
+The figure illustrates a basic test of a capacitor with an ohmmeter. There are usually two common modes of failure for a capacitor. One is a complete failure characterized by short circuit through the capacitor due to the dielectric breaking down or an open circuit. The more insidious failure occurs due to degradation, which is a gradual deterioration of the capacitor’s characteristics.
 
 If a problem is suspected, remove the capacitor from the circuit and check with an ohmmeter. The first step is to short the two leads of the capacitor to ensure that it is entirely discharged. Next, connect the two leads as shown across the capacitor and observe the needle movement. At first, the needle should indicate a short circuit. Then as the capacitor begins to charge, the needle should move to the left or infinity and eventually indicate an open circuit. The capacitor takes its charge from the internal battery of the ohmmeter. The greater the capacitance, the longer it takes to charge. If the capacitor is shorted, then the needle remains at a very low or shorted resistance. If there is some internal deterioration of the dielectric, then the needle never reaches a high resistance but some intermediate value, indicating a current.
 
@@ -142,13 +142,13 @@ Troubleshooting a series-parallel resistive circuit involves locating malfunctio
 
 1. In the circuit shown, an open has occurred in the series portion of the circuit. When the open occurs anywhere in the series portion of a series-parallel circuit, current flow in the entire circuit stops. In this case, the circuit does not function, and the lamp, L1, is not lit.
 
-2. If the open occurs in the parallel portion of a series- parallel circuit, as shown, part of the circuit continues to function. In this case, the lamp continues to burn, but its brightness diminishes, since the total resistance of the circuit has increased and the total current has decreased.
+2. If the open occurs in the parallel portion of a series-parallel circuit, as shown, part of the circuit continues to function. In this case, the lamp continues to burn, but its brightness diminishes, since the total resistance of the circuit has increased and the total current has decreased.
 
 3. If the open occurs in the branch containing the lamp, as shown, the circuit continues to function with increased resistance and decreased current, but the lamp does not light.
 
 ### Tracing Opens with the Voltmeter
 
-To explain how the voltmeter and ohmmeter can be used to troubleshoot series-parallel circuits, the circuit has been labeled at various points. A point- to-point description is listed below with expected results:
+To explain how the voltmeter and ohmmeter can be used to troubleshoot series-parallel circuits, the circuit has been labeled at various points. A point-to-point description is listed below with expected results:
 
 1. By connecting a voltmeter between points A and D, the battery and switch can be checked for opens.
 

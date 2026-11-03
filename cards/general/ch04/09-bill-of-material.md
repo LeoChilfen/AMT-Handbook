@@ -1,14 +1,10 @@
-# Bill of Material
-
-> 通用 Ch 04 · Bill of Material · 原文 PDF 第 131 页
-
 ## 1. 原文
 
-A list of the materials and parts necessary for the fabrication or assembly of a component or system is often included on the drawing. The list is usually in ruled columns that AA BB SECTION A-A SECTION B-B provide the part number, name of the part, material the part is to be constructed of, the quantity required, and the source of the part or material. On drawings that do not have a bill of material, the data may be indicated directly on the drawing. On assembly drawings, each item is identified by a number in a circle or square. An arrow connecting the number with the item assists in locating it in the bill of material.
+A list of the materials and parts necessary for the fabrication or assembly of a component or system is often included on the drawing. The list is usually in ruled columns that provide the part number, name of the part, material the part is to be constructed of, the quantity required, and the source of the part or material. On drawings that do not have a bill of material, the data may be indicated directly on the drawing. On assembly drawings, each item is identified by a number in a circle or square. An arrow connecting the number with the item assists in locating it in the bill of material.
 
 ## 2. 中文翻译
 
-制造或装配某个组件或系统所需的材料和零件清单，常常附在图纸上。该清单通常列在带格线的栏内（原文此处夹有「SECTION A-A」「SECTION B-B」等剖视标注的零散文字），依次给出零件编号、零件名称、制造该零件所用的材料、所需数量以及零件或材料的来源。在没有材料清单的图纸上，这些数据可以直接标注在图纸上。在装配图上，每个项目都用一个圆圈或方框内的编号来标识。用箭头把编号与该项目相连，有助于在材料清单中找到它。
+制造或装配某个组件或系统所需的材料和零件清单，常常附在图纸上。该清单通常列在带格线的栏内，依次给出零件编号、零件名称、制造该零件所用的材料、所需数量以及零件或材料的来源。在没有材料清单的图纸上，这些数据可以直接标注在图纸上。在装配图上，每个项目都用一个圆圈或方框内的编号来标识。用箭头把编号与该项目相连，有助于在材料清单中找到它。
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |

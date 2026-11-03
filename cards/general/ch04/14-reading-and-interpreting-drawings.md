@@ -1,7 +1,3 @@
-# Reading and Interpreting Drawings
-
-> 通用 Ch 04 · Reading and Interpreting Drawings · 原文 PDF 第 143 页
-
 ## 1. 原文
 
 Aircraft technicians do not necessarily need to be accomplished in making drawings. However, they must have a working knowledge of the information that is to be conveyed to them. They most frequently encounter drawings for construction and assembly of new aircraft and components, during modifications, and for making repairs.
@@ -12,9 +8,7 @@ Upon opening a drawing, read the drawing number and the description of the artic
 
 In reading a multiview drawing, first get a general idea of the shape of the object by scanning all the views. Then select one view for a more careful study. By referring back and forth to the adjacent view, it is possible to determine what each line represents.
 
-Each line on a view represents a change in the direction of a surface, but another view must be consulted to determine what the change is. For example, a circle on one view may mean either a hole or a protruding boss, as in the top view of the object. Looking at the top view, we see two circles. However, the other view must be consulted to GEAR DOOR OPEN LEFT NOSE RIGHT PROXIMITY DETECTOR PROXIMITY DETECTOR POWER SUPPLY 27 – 02 27 – 23 27 – 60 27 – 61 27 – 83 27 – 84 31 – 51 32 – 15 32 – 62 32 – 63 52 – 61 52 – 70 OTHER PROXIMITY UNIT SCHEMATICS RETARDED THROTTLE GROUND IS SEE 00 - 04 CLOSE TARGET • LOGIC "1" • LOW VOLTAGE (TEST POINTS ONLY)
-
-DOWN B LOCKED DOWN UP 2 1 1 UP DN LANDING GEAR HANDLE SWITCH S1 - 89 32 - 62 LANDING GEAR WARNING B1 - 187 AUTOSPOILER SWITCHING UNIT B5 - 70 27 - 61 LANDING GEAR POSITION INDICATOR 32 - 61 - 04 CENTRAL AURAL WARNING UNIT B5 - 71 SEE 32 - 63 FDAU UIO-206 31 - 31 B5 - 74 DIM & TEST UNIT-1 33 - 11 B5 - 76 DIM & TEST UNIT 3 33 - 11 ALTERNATE GEAR LEVER SWITCH S1 - 466 32 - 62 TURNS ON RED LIGHT PROXIMITY SWITCH ELECTRONICS UNIT 32 - 61 - OI B5 - 80 NOSE GEAR POS INTLK LEFT SWITCH L2-265 32-61-03 A G R TEST DIM G RUNSAFE DIM B TEST UNIT-2 B5-75 SAFE R2-262 D HDL HOT ON HDL ON SI-412 32-35 NOSE GEAR WARNED LIKE MAIN PRIOR TO 1,024 GEAR INTERLOCK SHIP 1,024 & SUBS OR S832 - 17B L2-632 G R TEST DIMU CC DD G Z B I Y A O F D P S 19 39 40 28 29 26 27 16 17 14 15 6 7 53 54 41 42 5 4 37 J1A R MAIN R GEAR UP & LATCHED 2B VDC - L L GEAR UP & LATCHED NOSE L MAIN A 19 GEAR HDL ON ONE NOT WIRED 36 RIGHT AFT RADIO RACK - SHELF 1 18 11 10 E B C D 9 8 20 28 30 28 30 28 30 34 27 29 27 29 27 29 33 44 51 56 57 61 62 24 1 2 3 50 49 47 34 46 6B 12B A9 43 20 18 2 2 1 3 3 3 1 2 1 2 1 32 – 61 – 00 27 – 61 – 11 WIRING DIAGRAM determine what each circle represents.
+Each line on a view represents a change in the direction of a surface, but another view must be consulted to determine what the change is. For example, a circle on one view may mean either a hole or a protruding boss, as in the top view of the object. Looking at the top view, we see two circles. However, the other view must be consulted to determine what each circle represents.
 
 A glance at the other view tells us that the smaller circle represents a hole, and the larger circle represents a protruding boss. In the same way, the top view must be consulted to determine the shape of the hole and the protruding boss.
 
@@ -39,8 +33,6 @@ To complete the reading of a drawing, read the general notes and the content of 
 阅读多视图图纸时，先浏览所有视图，对物体的形状形成一个总体概念。然后选定一个视图仔细研究。通过来回对照相邻的那个视图，就可以确定每条线代表什么。
 
 视图上的每条线都表示某一表面方向的变化，但要确定这个变化究竟是什么，必须查看另一个视图。例如，一个视图上的圆可能表示孔，也可能表示凸台，如该物体顶视图中的情形。看顶视图，我们看到两个圆。然而，必须查看另一个视图才能确定每个圆代表什么。
-
-（原文此处为起落架系统布线图的图面文字与器材编号碎片，无正文。）
 
 再看另一个视图就会发现，较小的那个圆表示孔，较大的那个圆表示凸台。同样，要确定孔和凸台的形状，必须查看顶视图。
 

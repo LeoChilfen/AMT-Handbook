@@ -28,29 +28,31 @@ Flexible hoses used for brake systems have sometimes a stainless steel wire brai
 
 #### Hose Identification
 
-Lay lines and identification markings consisting of lines, letters, and numbers are printed on the hose. Most hydraulic hose is marked to identify its type, the quarter and year of manufacture, and a 5-digit code identifying the manufacturer. These markings are in contrasting colored letters and numerals that indicate the Type of Failure Repair Method a. Make 1 or 2 cuts, as necessary, to remove damaged section. If 2 cuts are required, the distance between them shall not exceed 0.30". If distance is more than 0.30", go to repair method 2.
+Lay lines and identification markings consisting of lines, letters, and numbers are printed on the hose. Most hydraulic hose is marked to identify its type, the quarter and year of manufacture, and a 5-digit code identifying the manufacturer. These markings are in contrasting colored letters and numerals that indicate the type of failure and the repair method.
 
-b. Swage 1 tube-to-tube union in tube section under repair.
+• a. Make 1 or 2 cuts, as necessary, to remove damaged section. If 2 cuts are required, the distance between them shall not exceed 0.30". If distance is more than 0.30", go to repair method 2.
 
-a. Make 2 cuts to enable removal of damaged section.
+• b. Swage 1 tube-to-tube union in tube section under repair.
 
-b. Remove damaged section and duplicate.
+• a. Make 2 cuts to enable removal of damaged section.
 
-c. Swage replacement section into tubing under repair using 2 tube-to-tube unions.
+• b. Remove damaged section and duplicate.
 
-a. Cut out defective tee or elbow.
+• c. Swage replacement section into tubing under repair using 2 tube-to-tube unions.
 
-b. Duplicate tubing sections for each branch.
+• a. Cut out defective tee or elbow.
 
-c. Swage splice sections to tee or elbow.
+• b. Duplicate tubing sections for each branch.
 
-d. Connect each splice section to tubing under repair using a tube-to-tube union.
+• c. Swage splice sections to tee or elbow.
 
-a. Cut tubing to remove defective fitting.
+• d. Connect each splice section to tubing under repair using a tube-to-tube union.
 
-b. Swage appropriate end fitting to tube end.
+• a. Cut tubing to remove defective fitting.
 
-c. Connect new end fitting to mating connection, torquing nut as required.
+• b. Swage appropriate end fitting to tube end.
+
+• c. Connect new end fitting to mating connection, torquing nut as required.
 
 1. Pin hole leak or circumferential crack in tubing.
 
@@ -60,13 +62,13 @@ c. Connect new end fitting to mating connection, torquing nut as required.
 
 4. Leaking flared, flareless, or lipseal end fittings.
 
-natural lay (no twist) of the hose and are repeated at intervals of not more than 9 inches along the length of the hose. Code markings assist in replacing a hose with one of the same specifications or a recommended substitute. Hose suitable for use with phosphate ester base hydraulic fluid is marked Skydrol™ use. In some instances, several types of hose may be suitable for the same use. Therefore, to make the correct hose selection, always refer to the applicable aircraft maintenance or parts manual.
+These markings extend along the natural lay (no twist) of the hose and are repeated at intervals of not more than 9 inches along the length of the hose. Code markings assist in replacing a hose with one of the same specifications or a recommended substitute. Hose suitable for use with phosphate ester base hydraulic fluid is marked Skydrol™ use. In some instances, several types of hose may be suitable for the same use. Therefore, to make the correct hose selection, always refer to the applicable aircraft maintenance or parts manual.
 
-Teflon™ is the DuPont trade name for tetrafluoroethylene resin. It has a broad operating temperature range (−65 °F to +450 °F). It is compatible with nearly every substance or agent used. It offers little resistance to flow; sticky, viscous materials do not adhere to it. It has less volumetric expansion than rubber, and the shelf and service life is practically limitless. Teflon™ hose is flexible and designed to meet the requirements of higher operating temperatures and pressures in present aircraft systems. Generally, it may be used in the same manner as rubber hose. Teflon™ hose is processed and extruded into tube shape to a desired size. It is covered with stainless steel wire, which is braided over the tube for strength and protection. Teflon™ hose is unaffected by any known fuel, petroleum, or synthetic base oils, alcohol, coolants, or solvents commonly used in aircraft. Teflon™ hose has the distinct advantages of a practically unlimited storage time, greater operating temperature range, and broad usage (hydraulic, fuel, oil, coolant, water, alcohol, and pneumatic systems). Medium-pressure Teflon™ hose assemblies are sometimes preformed to clear obstructions and to make connections using the shortest possible hose length. Since preforming permits tighter bends that eliminate the need for
+Teflon™ is the DuPont trade name for tetrafluoroethylene resin. It has a broad operating temperature range (−65 °F to +450 °F). It is compatible with nearly every substance or agent used. It offers little resistance to flow; sticky, viscous materials do not adhere to it. It has less volumetric expansion than rubber, and the shelf and service life is practically limitless. Teflon™ hose is flexible and designed to meet the requirements of higher operating temperatures and pressures in present aircraft systems. Generally, it may be used in the same manner as rubber hose. Teflon™ hose is processed and extruded into tube shape to a desired size. It is covered with stainless steel wire, which is braided over the tube for strength and protection. Teflon™ hose is unaffected by any known fuel, petroleum, or synthetic base oils, alcohol, coolants, or solvents commonly used in aircraft. Teflon™ hose has the distinct advantages of a practically unlimited storage time, greater operating temperature range, and broad usage (hydraulic, fuel, oil, coolant, water, alcohol, and pneumatic systems). Medium-pressure Teflon™ hose assemblies are sometimes preformed to clear obstructions and to make connections using the shortest possible hose length. Since preforming permits tighter bends that eliminate the need for special elbows, preformed hose assemblies save space and weight.
 
 " Max. offset 3° Max. angular deviation MIL-H-8794: SIZE-6-2/90 Mfg Symbol Two cotton braids—impregnated with synthetic compound Hose number Hose size Synthetic inner tube Single wire braid Quarter and year of manufacturer (A) MIL-H-8794 Type Hose (D) MIL-H-27267 Type Hose (E) MIL-H-83797 Type Hose Mfg SymbolMIL-H-6000-SIZE-3-4/90 Quarter and year of manufacturer Hose size (B) MIL-H-6000 Type Hose (Views showing opposite side of hose)
 
-special elbows, preformed hose assemblies save space and weight. Never straighten a preformed hose assembly. Use a support wire if the hose is to be removed for maintenance.
+Never straighten a preformed hose assembly. Use a support wire if the hose is to be removed for maintenance.
 
 ### Flexible Hose Inspection
 
@@ -90,7 +92,7 @@ To make a hose assembly, select the proper size hose and end fitting. MS-type en
 
 NOTE: Hose assemblies fabricated per MIL-H-8790 must have the exposed wire braid coated with a special sealant.
 
-NOTE: Step 2 applies to high- pressure hose only.
+NOTE: Step 2 applies to high-pressure hose only.
 
 *CAUTION: Do not use any petroleum product with hose designed for synthetic fluids (Skydrol™ and/or HYJET product). For a lubricant during assembly, use a vegetable soap liquid.
 
@@ -160,7 +162,7 @@ The hose assembly must clear all other lines, equipment, and adjacent structure 
 
 Flexible hose should be installed so that it is subject to a minimum of flexing during operation. Although hose must be supported at least every 24 inches, closer supports are desirable. Flexible hose must never be stretched tightly between two fittings. If clamps do not seal at specified tightening, examine hose connections and replace parts as necessary. The above is for initial installation and should not be used for loose clamps. For retightening loose hose clamps in service, proceed as follows:
 
-• Non-self-sealing hose—if the clamp screw cannot be tightened with the fingers, do not disturb unless leakage is evident. If leakage is present, tighten one- fourth turn.
+• Non-self-sealing hose—if the clamp screw cannot be tightened with the fingers, do not disturb unless leakage is evident. If leakage is present, tighten one-fourth turn.
 
 • Self-sealing hose—if looser than finger-tight, tighten to finger-tight and add one-fourth turn.
 
@@ -186,7 +188,7 @@ Self-sealing hose approximately 15 in-lb All other aircraft hose approximately 2
 
 Clamps— radial and other type (28 threads per inch)
 
-To ensure proper sealing of hose connections and to prevent breaking hose clamps or damaging the hose, follow the hose clamp tightening instructions carefully. When available, use the hose clamp torque-limiting wrench. These wrenches are available in calibrations of 15 and 25 in-lb limits. In the absence of torque-limiting wrenches, follow the finger-tight- plus-turns method. Because of the variations in hose clamp design and hose structure, the values given are approximate. Therefore, use good judgment when tightening hose clamps by this method. Since hose connections are subject to “cold flow” or a setting process, a follow-up tightening check should be made for several days after installation.
+To ensure proper sealing of hose connections and to prevent breaking hose clamps or damaging the hose, follow the hose clamp tightening instructions carefully. When available, use the hose clamp torque-limiting wrench. These wrenches are available in calibrations of 15 and 25 in-lb limits. In the absence of torque-limiting wrenches, follow the finger-tight-plus-turns method. Because of the variations in hose clamp design and hose structure, the values given are approximate. Therefore, use good judgment when tightening hose clamps by this method. Since hose connections are subject to “cold flow” or a setting process, a follow-up tightening check should be made for several days after installation.
 
 Support clamps are used to secure the various lines to the airframe or powerplant assemblies. Several types of support clamps are used for this purpose. The most commonly used clamps are the rubber-cushioned and plain. The rubber-cushioned clamp is used to secure lines subject to vibration; the cushioning prevents chafing of the tubing. The plain clamp is used to secure lines in areas not subject to vibration.
 
@@ -224,29 +226,31 @@ Buna-N 是一种对石油类产品有优异耐受性的合成橡胶。不要与 
 
 #### 软管识别标识
 
-软管上印有标志线以及由线条、字母和数字组成的识别标记。大多数液压软管都标有类型、制造季度和年份以及 5 位制造商代码。这些标记使用对比色的字母和数字，用来标明故障类型与修理方法：a. 视需要切 1 或 2 刀，以去除损伤段。若需切 2 刀，两刀之间的距离不得超过 0.30 英寸。若距离超过 0.30 英寸，改用修理方法 2。
+软管上印有标志线以及由线条、字母和数字组成的识别标记。大多数液压软管都标有类型、制造季度和年份以及 5 位制造商代码。这些标记使用对比色的字母和数字，用来标明故障类型与修理方法。
 
-b. 在待修管段上压接 1 个管对管活接头。
+• a. 视需要切 1 或 2 刀，以去除损伤段。若需切 2 刀，两刀之间的距离不得超过 0.30 英寸。若距离超过 0.30 英寸，改用修理方法 2。
 
-a. 切 2 刀，以便去除损伤段。
+• b. 在待修管段上压接 1 个管对管活接头。
 
-b. 取下损伤段并照样复制一段。
+• a. 切 2 刀，以便去除损伤段。
 
-c. 用 2 个管对管活接头把更换段压接进待修导管。
+• b. 取下损伤段并照样复制一段。
 
-a. 切下失效的三通或弯头。
+• c. 用 2 个管对管活接头把更换段压接进待修导管。
 
-b. 照样复制各支路的导管段。
+• a. 切下失效的三通或弯头。
 
-c. 把各接续段压接到三通或弯头上。
+• b. 照样复制各支路的导管段。
 
-d. 用管对管活接头把每个接续段连接到待修导管上。
+• c. 把各接续段压接到三通或弯头上。
 
-a. 切开导管，去掉失效接头。
+• d. 用管对管活接头把每个接续段连接到待修导管上。
 
-b. 把合适的端接头压接到管端。
+• a. 切开导管，去掉失效接头。
 
-c. 把新端接头接到配对连接处，并按要求拧紧螺帽。
+• b. 把合适的端接头压接到管端。
+
+• c. 把新端接头接到配对连接处，并按要求拧紧螺帽。
 
 1. 导管上的针孔渗漏或周向裂纹。
 
@@ -258,11 +262,11 @@ c. 把新端接头接到配对连接处，并按要求拧紧螺帽。
 
 这些标记沿软管自然放置（不扭转）的方向延伸，并沿软管长度每隔不超过 9 英寸重复一次。代号标记有助于用相同规格或推荐替代件的软管更换旧软管。适用于磷酸酯基液压油的软管标有 Skydrol™ use 字样。有时几种软管都适用于同一用途。因此，要正确选择软管，务必查阅适用的飞机维修手册或零件手册。
 
-Teflon™ 是杜邦公司对聚四氟乙烯树脂的商品名称。它的工作温度范围很宽（−65 °F 至 +450 °F）。它几乎与所用的所有物质或介质相容。它对流动的阻力很小；黏稠物料不会附着在它上面。它的体积膨胀比橡胶小，储存寿命和使用寿命实际上不受限制。Teflon™ 软管柔软，是为满足现役飞机系统更高工作温度和压力的要求而设计的。一般来说，它可以像橡胶软管一样使用。Teflon™ 软管经挤出加工成所需尺寸的管状。它的外面包覆不锈钢丝编织层，以提供强度和保护。Teflon™ 软管不受飞机上常用的任何已知燃油、石油基或合成基油、酒精、冷却液或溶剂的影响。Teflon™ 软管的显著优点是储存时间实际上不受限制、工作温度范围更大、用途广泛（液压、燃油、滑油、冷却液、水、酒精和气动系统）。中压 Teflon™ 软管组件有时做成预成形件，以便避开障碍物并用尽可能短的软管长度完成连接。由于预成形允许采用更紧的弯曲，从而省去了对专用弯头的需要。
+Teflon™ 是杜邦公司对聚四氟乙烯树脂的商品名称。它的工作温度范围很宽（−65 °F 至 +450 °F）。它几乎与所用的所有物质或介质相容。它对流动的阻力很小；黏稠物料不会附着在它上面。它的体积膨胀比橡胶小，储存寿命和使用寿命实际上不受限制。Teflon™ 软管柔软，是为满足现役飞机系统更高工作温度和压力的要求而设计的。一般来说，它可以像橡胶软管一样使用。Teflon™ 软管经挤出加工成所需尺寸的管状。它的外面包覆不锈钢丝编织层，以提供强度和保护。Teflon™ 软管不受飞机上常用的任何已知燃油、石油基或合成基油、酒精、冷却液或溶剂的影响。Teflon™ 软管的显著优点是储存时间实际上不受限制、工作温度范围更大、用途广泛（液压、燃油、滑油、冷却液、水、酒精和气动系统）。中压 Teflon™ 软管组件有时做成预成形件，以便避开障碍物并用尽可能短的软管长度完成连接。由于预成形允许采用更紧的弯曲，从而省去了对专用弯头的需要。预成形软管组件可节省空间和重量。
 
 （原文此处为表格碎片，无对应正文）
 
-对于特殊的弯头，预成形软管组件可节省空间和重量。切勿把预成形软管组件拉直。如果软管要拆下维修，应使用支撑丝固定。
+切勿把预成形软管组件拉直。如果软管要拆下维修，应使用支撑丝固定。
 
 ### 软管检查
 

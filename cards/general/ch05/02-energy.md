@@ -1,7 +1,3 @@
-# Energy
-
-> 通用 Ch 05 · Energy · 原文 PDF 第 152 页
-
 ## 1. 原文
 
 Energy is typically defined as something that gives us the capacity to perform work. As individuals, saying that we feel full of energy is an indicator that we can perform a lot of work. Energy can be classified as one of two types: either as potential energy or kinetic energy.
@@ -16,7 +12,7 @@ Example: A Boeing 747 weighing 450,000 pounds needs to be raised 4 feet in the a
 
 Potential Ener gy = Weight × Height PE = 450,000 lb × 4 ft PE = 1,800,000 ft-lb As previously mentioned, aviation gasoline possesses potential energy because of its chemical nature. Gasoline has the potential to release heat energy, based on its British thermal unit (BTU) content. One pound of aviation gas contains 18,900 BTU of heat energy, and each BTU is capable of 778 ft-lb of work. So, when we multiply 778 by 18,900, we find that one pound of aviation gas is capable of 14,704,200 ft-lb of work. Imagine the potential energy in the completely serviced fuel tanks of an airplane.
 
-Kinetic energy is defined as being energy that is in motion. An airplane rolling down the runway or a rotating flywheel on an engine are both examples of kinetic energy. Kinetic energy has the same units as potential energy, namely foot- pounds or inch-pounds. To calculate the kinetic energy for something in motion, the following formula is used:
+Kinetic energy is defined as being energy that is in motion. An airplane rolling down the runway or a rotating flywheel on an engine are both examples of kinetic energy. Kinetic energy has the same units as potential energy, namely foot-pounds or inch-pounds. To calculate the kinetic energy for something in motion, the following formula is used:
 
 Kinetic Energy = 1⁄2 Mass × Velocity2 To use the formula, we will show the mass as weight divided by gravity and the velocity of the object will be in feet per second. This is necessary to end up with units in foot-pounds.
 

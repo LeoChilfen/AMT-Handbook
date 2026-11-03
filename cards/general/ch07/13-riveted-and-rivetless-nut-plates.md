@@ -20,11 +20,9 @@ The countersunk style Rivnut is made with two different head angles: the 100° w
 
 Open-end Rivnuts are the most widely used and are recommended in preference to the closed end type wherever possible. However, closed-end Rivnuts must be used in pressurized compartments.
 
-Rivnuts are manufactured in six grip ranges. The minimum U-type tinnerman nuts provide convenient anchor points for cowlings, fairings, and panels.
+Rivnuts are manufactured in six grip ranges. The minimum grip length is indicated by a plain head and the next higher grip length by one radial dash mark on the head. Each succeeding grip range is indicated by an additional radial dash mark until five marks indicate the maximum range. U-type tinnerman nuts provide convenient anchor points for cowlings, fairings, and panels.
 
 Anchor type tinnerman nuts are suitable for nonstructural applications. To reduce magnetic influences in the flightdeck, nonmagnetic mounting nuts secure instruments in a control panel.
-
-grip length is indicated by a plain head and the next higher grip length by one radial dash mark on the head. Each succeeding grip range is indicated by an additional radial dash mark until five marks indicate the maximum range.
 
 Notice that some part number codes consist of a “6,” an “8,” or a “10,” a “dash,” and two or three more numbers. In some, the letters “K” or “KB” replaces the dash. The first number indicates the machine screw size of the thread, and the last two or three numbers indicate the maximum grip length in thousandths of an inch. A dash between the figures indicates that the Rivnut has an open end and is keyless; a “B” in place of the dash means it has a closed end and is keyless; a “K” means it has an open end and has a key; and a “KB” indicates that it has a closed end and a key. If the last two or three numbers are divisible by five, the Rivnut has a flathead; if they are not divisible by five, the Rivnut has a countersunk head.
 
@@ -66,11 +64,9 @@ Rivnut 制有两种头部形式，每种又分两种端部：平头和埋头，�
 
 开口端 Rivnut 使用最广，凡条件允许都推荐优先于封闭端型。但在增压舱内必须使用封闭端 Rivnut。
 
-Rivnut 制有六个夹持长度范围。最小夹持长度……U 型 tinnerman 螺母可为整流罩、整流片和面板提供便利的固定点。
+Rivnut 制有六个夹持长度范围。最小夹持长度由平头表示，次一级夹持长度由头部上的一道径向刻线表示。其后每个夹持范围都增加一道径向刻线，直到五道刻线表示最大范围。U 型 tinnerman 螺母可为整流罩、整流片和面板提供便利的固定点。
 
 锚型 tinnerman 螺母适用于非结构应用。为减小驾驶舱内的磁性影响，非磁性安装螺母把仪表固定在控制面板上。
-
-夹持长度由平头表示，次一级夹持长度由头部上的一道径向刻线表示。其后每个夹持范围都增加一道径向刻线，直到五道刻线表示最大范围。
 
 注意，有些件号代码由「6」「8」或「10」、一个短横线以及两三个数字组成。有些则用字母「K」或「KB」代替短横线。第一个数字表示螺纹的机械螺钉规格，最后两三个数字表示以千分之一英寸计的最大夹持长度。数字之间的短横线表示 Rivnut 为开口端且无键；用「B」代替短横线表示封闭端且无键；「K」表示开口端且带键；「KB」表示封闭端且带键。如果最后两三个数字能被 5 整除，则 Rivnut 为平头；若不能被 5 整除，则为埋头。
 

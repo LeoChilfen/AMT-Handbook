@@ -6,7 +6,7 @@
 
 Magnets are either natural or artificial. Since naturally occurring magnets or lodestones have no practical use, all magnets considered in this chapter are artificial or manmade. Artificial magnets can be further classified as permanent magnets, which retain their magnetism long after the magnetizing force has been removed, and temporary magnets, which quickly lose most of their magnetism when the external magnetizing force is removed.
 
-not combine, but are rearranged into a distorted flux pattern.
+Lines of force from like poles do not combine, but are rearranged into a distorted flux pattern.
 
 The two bar magnets may be held in the hands and the North poles brought near each other to demonstrate the force of repulsion between like poles. In a similar manner, the two South poles can demonstrate this force. The force of attraction between unlike poles can be felt by bringing a South and a North end together.
 
@@ -16,7 +16,7 @@ Since the magnetic lines of force form a continuous loop, they form a magnetic c
 
 There is no known insulator for magnetic flux, or lines of force, since they pass through all materials. However, they do pass through some materials more easily than others. Thus, it is possible to shield items, such as instruments, from the effects of the flux by surrounding them with a material that offers an easier path for the lines of force. Consider an instrument surrounded by a path of soft iron, which offers very little opposition to magnetic flux. The lines of force take the easier path, the path of greater permeability, and are guided away from the instrument.
 
-Materials such as soft iron and other ferrous metals are said to have a high permeability, the measure of the ease with which magnetic flux can penetrate a material. The permeability scale is based on a perfect vacuum with a rating of one. Modern permanent magnets are made of special alloys that have been found through research to create increasingly better magnets. The most common categories of magnet materials are made out of aluminum-nickel-cobalt (alnicos), strontium-iron (ferrites, also known as ceramics), neodymium-iron-boron (neo magnets), and samarium- cobalt. Alnico, an alloy of iron, aluminum, nickel and cobalt, is considered one of the very best. Others with excellent magnetic qualities are alloys such as Remalloy™ and Permendur™.
+Materials such as soft iron and other ferrous metals are said to have a high permeability, the measure of the ease with which magnetic flux can penetrate a material. The permeability scale is based on a perfect vacuum with a rating of one. Modern permanent magnets are made of special alloys that have been found through research to create increasingly better magnets. The most common categories of magnet materials are made out of aluminum-nickel-cobalt (alnicos), strontium-iron (ferrites, also known as ceramics), neodymium-iron-boron (neo magnets), and samarium-cobalt. Alnico, an alloy of iron, aluminum, nickel and cobalt, is considered one of the very best. Others with excellent magnetic qualities are alloys such as Remalloy™ and Permendur™.
 
 The ability of a magnet to hold its magnetism varies greatly with the type of metal and is known as retentivity. Magnets made of soft iron are very easily magnetized but quickly lose most of their magnetism when the external magnetizing force is removed. The small amount of magnetism remaining, called residual magnetism, is of great importance in such electrical applications as generator operation.
 
