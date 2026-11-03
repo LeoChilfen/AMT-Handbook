@@ -34,9 +34,9 @@ Water extinguishers are the best type to use on Class A fires. Water has two eff
 
 Water fire extinguishers are operated in a variety of ways. Some are hand pumped, while others are pressurized. The pressurized types of extinguishers may have a gas charge stored in the container with the water, or it may contain a “soda-acid” container where acid is spilled into a container of soda inside the extinguisher. The chemical reaction of the soda and the acid causes pressure to build inside the fire extinguisher, forcing the water out.
 
-Carbon dioxide (CO2) extinguishers are used for Class A, B, and C fires, extinguishing the fire by depriving it of oxygen. Additionally, like water-type extinguishers, CO2 cools the burning material. Never use CO2 on Class D fires. As with water extinguishers, the cooling effect of CO 2 on the hot metal can cause explosive expansion of the metal. When using CO 2 fire extinguishers, all parts of the extinguisher can become extremely cold, and remain so for a short time after operation. Wear protective equipment or take other precautions to prevent cold injury, such as frostbite. Extreme caution must be used when operating CO2 fire extinguishers in closed or confined areas. Not only can the fire be deprived of oxygen, but so too can the operator.
+Carbon dioxide (CO₂) extinguishers are used for Class A, B, and C fires, extinguishing the fire by depriving it of oxygen. Additionally, like water-type extinguishers, CO₂ cools the burning material. Never use CO₂ on Class D fires. As with water extinguishers, the cooling effect of CO₂ on the hot metal can cause explosive expansion of the metal. When using CO₂ fire extinguishers, all parts of the extinguisher can become extremely cold, and remain so for a short time after operation. Wear protective equipment or take other precautions to prevent cold injury, such as frostbite. Extreme caution must be used when operating CO₂ fire extinguishers in closed or confined areas. Not only can the fire be deprived of oxygen, but so too can the operator.
 
-CO2 fire extinguishers generally use the self-expelling method of operation. This means that the CO2 has sufficient pressure at normal operating pressure to expel itself. This pressure is held inside the container by some type of seal or frangible disk that is broken or punctured by a firing mechanism, usually a pin. This means that once the seal or disk is broken, pressure in the container is released and the fire extinguisher is spent, requiring replacement.
+CO₂ fire extinguishers generally use the self-expelling method of operation. This means that the CO₂ has sufficient pressure at normal operating pressure to expel itself. This pressure is held inside the container by some type of seal or frangible disk that is broken or punctured by a firing mechanism, usually a pin. This means that once the seal or disk is broken, pressure in the container is released and the fire extinguisher is spent, requiring replacement.
 
 Halogenated hydrocarbon extinguishers are most effective on Class B and C fires. They can be used on Class A and D fires, but they are less effective. Halogenated hydrocarbon, commonly called Freon™ by the industry, are numbered according to chemical formulas with Halon™ numbers.
 
@@ -46,7 +46,7 @@ Methyl bromide (Halon 1001), chemical formula CH 3Br, is a liquefied gas with a 
 
 Bromochlorodifluoromethane (Halon 1211), chemical formula CBrClF2, is a liquefied gas with a UL toxicity rating of 5. It is colorless, noncorrosive, and evaporates rapidly leaving no residue. It does not freeze or cause cold burns and does not harm fabrics, metals, or other materials it contacts. Halon 1211 acts rapidly on fires by producing a heavy blanketing mist that eliminates oxygen from the fire source. More importantly, it interferes chemically with the combustion process of the fire. Furthermore, it has outstanding properties in preventing re- flash after the fire has been extinguished.
 
-Bromotrifluoromethane (Halon 1301), chemical formula CF3Br, is also a liquefied gas and has a UL toxicity rating of 6. It has all the characteristics of Halon 1211. The significant difference between the two is Halon 1211 forms a spray similar to CO2, while Halon 1301 has a vapor spray that is more difficult to direct.
+Bromotrifluoromethane (Halon 1301), chemical formula CF3Br, is also a liquefied gas and has a UL toxicity rating of 6. It has all the characteristics of Halon 1211. The significant difference between the two is Halon 1211 forms a spray similar to CO₂, while Halon 1301 has a vapor spray that is more difficult to direct.
 
 Note: The EPA has restricted Halon to its 1986 production level due to its effect on the ozone layer.
 
@@ -120,9 +120,9 @@ When using a fire extinguisher, ensure the correct type is used for the fire. Mo
 
 水型灭火器的操作方式多种多样。有些靠手动泵压，有些则是储压式。储压式灭火器可能把压缩气体与水一同封存在容器内，也可能装有一个“酸碱”式容器，其中的酸被倾入灭火器内部的碳酸氢钠（soda）容器。碳酸氢钠与酸发生化学反应后在灭火器内产生压力，把水压出。
 
-二氧化碳（CO2）灭火器用于扑救 A、B、C 类火，通过使火隔绝氧气来灭火。此外，与水型灭火器一样，CO2 也能冷却燃烧的材料。绝不要用 CO2 扑救 D 类火。与水的道理相同，CO2 对灼热金属的冷却作用会使金属发生爆炸性膨胀。使用 CO2 灭火器时，灭火器的所有部件都会变得极冷，并在操作结束后短时间内保持低温。应穿戴防护装备或采取其他预防措施，防止冻伤等低温伤害。在封闭或狭窄区域操作 CO2 灭火器时必须极其谨慎：不仅火可能缺氧，操作者本人也可能缺氧。
+二氧化碳（CO₂）灭火器用于扑救 A、B、C 类火，通过使火隔绝氧气来灭火。此外，与水型灭火器一样，CO₂ 也能冷却燃烧的材料。绝不要用 CO₂ 扑救 D 类火。与水的道理相同，CO₂ 对灼热金属的冷却作用会使金属发生爆炸性膨胀。使用 CO₂ 灭火器时，灭火器的所有部件都会变得极冷，并在操作结束后短时间内保持低温。应穿戴防护装备或采取其他预防措施，防止冻伤等低温伤害。在封闭或狭窄区域操作 CO₂ 灭火器时必须极其谨慎：不仅火可能缺氧，操作者本人也可能缺氧。
 
-CO2 灭火器一般采用自喷（self-expelling）式工作方式，即 CO2 在其正常工作压力下具有足以自行喷出的压力。容器内的压力由某种密封件或爆破片维持，该密封件或爆破片由击发机构（通常是一根销）打碎或刺破。这意味着，一旦密封件或爆破片被破坏，容器内的压力即被释放，灭火器随之报废，需要更换。
+CO₂ 灭火器一般采用自喷（self-expelling）式工作方式，即 CO₂ 在其正常工作压力下具有足以自行喷出的压力。容器内的压力由某种密封件或爆破片维持，该密封件或爆破片由击发机构（通常是一根销）打碎或刺破。这意味着，一旦密封件或爆破片被破坏，容器内的压力即被释放，灭火器随之报废，需要更换。
 
 卤代烃灭火器对 B 类和 C 类火最为有效。它们也可用于 A 类和 D 类火，但效果较差。卤代烃在工业界通常称为 Freon™（氟利昂），按化学式以 Halon™（哈龙）编号命名。
 
@@ -132,7 +132,7 @@ CO2 灭火器一般采用自喷（self-expelling）式工作方式，即 CO2 在
 
 溴氯二氟甲烷（Halon 1211），化学式 CBrClF2，是一种液化气体，UL 毒性等级为 5 级。它无色、无腐蚀性，且蒸发迅速、不留残渣。它不会冻结或造成冷灼伤，也不会损害其接触到的织物、金属或其他材料。Halon 1211 通过产生一层厚重的覆盖雾、使火源隔绝氧气而迅速灭火。更重要的是，它还能从化学上干扰火的燃烧过程。此外，它在火被扑灭后防止复燃方面性能卓越。
 
-溴三氟甲烷（Halon 1301），化学式 CF3Br，同样是一种液化气体，UL 毒性等级为 6 级。它具备 Halon 1211 的全部特性。两者最显著的区别在于：Halon 1211 喷出的是类似 CO2 的雾状喷射流，而 Halon 1301 喷出的是更难定向的蒸气雾。
+溴三氟甲烷（Halon 1301），化学式 CF3Br，同样是一种液化气体，UL 毒性等级为 6 级。它具备 Halon 1211 的全部特性。两者最显著的区别在于：Halon 1211 喷出的是类似 CO₂ 的雾状喷射流，而 Halon 1301 喷出的是更难定向的蒸气雾。
 
 注：由于哈龙对臭氧层的影响，EPA 已将其产量限制在 1986 年的水平。
 
@@ -185,7 +185,7 @@ CO2 灭火器一般采用自喷（self-expelling）式工作方式，即 CO2 在
 | energized | adj. | 带电的 | 修饰电气线路与设备，用于界定 C 类火 |
 | extinguisher | n. | 灭火器 | 按灭火剂分为水型、二氧化碳、卤代烃、干粉等，本节逐一说明适用性 |
 | soda-acid | adj. | 酸碱式的 | 水型灭火器的一种，酸与碳酸氢钠反应生压把水压出 |
-| frangible disk | n. | 爆破片（易碎密封片） | CO2 灭火器内维持压力的密封件，被击针刺破后整瓶泄压报废 |
+| frangible disk | n. | 爆破片（易碎密封片） | CO₂ 灭火器内维持压力的密封件，被击针刺破后整瓶泄压报废 |
 | halogenated hydrocarbon | n. | 卤代烃 | 即工业上俗称的 Freon™，按化学式以 Halon™ 编号 |
 | Halon | n. | 哈龙（卤代烷灭火剂） | 104、1001、1011、1202、1211、1301 等编号体系，EPA 限制其产量 |
 | toxicity rating | n. | 毒性等级 | UL 对灭火剂的 1～6 级评定，数字越大毒性越低 |

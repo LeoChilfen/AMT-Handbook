@@ -16,7 +16,7 @@ Before starting an aircraft engine:
 
 3. If external electrical power is used for starting, ensure that it can be removed safely, and it is sufficient for the total starting sequence.
 
-4. During any and all starting procedures, a “fireguard” equipped with a suitable fire extinguisher shall be stationed in an appropriate place. A fireguard is someone familiar with aircraft starting procedures. The fire extinguisher should be a CO 2 extinguisher of at least 5-pound capacity. The appropriate place is adjacent to the outboard side of the engine, in view of the pilot, and also where they can observe the engine/ aircraft for indication of starting problems.
+4. During any and all starting procedures, a “fireguard” equipped with a suitable fire extinguisher shall be stationed in an appropriate place. A fireguard is someone familiar with aircraft starting procedures. The fire extinguisher should be a CO₂ extinguisher of at least 5-pound capacity. The appropriate place is adjacent to the outboard side of the engine, in view of the pilot, and also where they can observe the engine/ aircraft for indication of starting problems.
 
 5. If the aircraft is turbine-engine powered, the area in front of the jet inlet must be kept clear of personnel, property, and/or debris (FOD).
 
@@ -56,7 +56,7 @@ Most aircraft reciprocating engines are air cooled and depend on the forward spe
 
 ### Extinguishing Engine Fires
 
-In all cases, a fireguard should stand by with a CO 2 fire extinguisher while the aircraft engine is being started. This is a necessary precaution against fire during the starting procedure. The fireguard must be familiar with the induction system of the engine so that in case of fire, they can direct the CO2 into the air intake of the engine to extinguish it. A fire could also occur in the exhaust system of the engine from liquid fuel being ignited in the cylinder and expelled during the normal rotation of the engine. If an engine fire develops during the starting procedure, the operator should continue cranking to start the engine and extinguish the fire. If the engine does not start and the fire continues to burn, discontinue the start attempt. The fireguard then extinguishes the fire using the available equipment. The fireguard must observe all safety practices at all times while standing by during the starting procedure.
+In all cases, a fireguard should stand by with a CO₂ fire extinguisher while the aircraft engine is being started. This is a necessary precaution against fire during the starting procedure. The fireguard must be familiar with the induction system of the engine so that in case of fire, they can direct the CO₂ into the air intake of the engine to extinguish it. A fire could also occur in the exhaust system of the engine from liquid fuel being ignited in the cylinder and expelled during the normal rotation of the engine. If an engine fire develops during the starting procedure, the operator should continue cranking to start the engine and extinguish the fire. If the engine does not start and the fire continues to burn, discontinue the start attempt. The fireguard then extinguishes the fire using the available equipment. The fireguard must observe all safety practices at all times while standing by during the starting procedure.
 
 ### Turboprop Engines
 
@@ -242,7 +242,9 @@ Taxi signals are usually given at night with the aid of illuminated wands attach
 
 2. 确认螺旋桨洗流或喷气尾流不会造成财产损失或人员伤害。
 
-3. 若起动使用外部电源，应确认该电源能被安全断开，且容量足以满足整个起动过程的需要。 4. 在任何一次起动程序中，都必须有一名配备适用灭火器的“消防警戒员”值守在适当位置。消防警戒员应熟悉航空器的起动程序。灭火器应为容量不小于 5 磅的 CO₂ 灭火器。所谓适当位置，是指发动机外侧（远离机身的一侧）紧邻处、处于驾驶员视野之内，并且能观察到发动机/航空器以判明起动异常迹象的位置。
+3. 若起动使用外部电源，应确认该电源能被安全断开，且容量足以满足整个起动过程的需要。
+
+4. 在任何一次起动程序中，都必须有一名配备适用灭火器的“消防警戒员”值守在适当位置。消防警戒员应熟悉航空器的起动程序。灭火器应为容量不小于 5 磅的 CO₂ 灭火器。所谓适当位置，是指发动机外侧（远离机身的一侧）紧邻处、处于驾驶员视野之内，并且能观察到发动机/航空器以判明起动异常迹象的位置。
 
 5. 若航空器由涡轮发动机驱动，喷气进气口前方的区域必须清除人员、物品和/或杂物（FOD）。
 
@@ -481,7 +483,7 @@ APU 一般是较小的涡轮发动机，在地面为起动发动机提供压缩�
 **要点**：手册用 must be + 过去分词表示“必须被（由人来）……”，把执行者隐去，突出动作本身；before/after 后接动名词而非不定式（before attempting，不写 before to attempt）。另外注意 protecting 是修饰 covers 的定语，不是谓语，去掉括号内容后主句仍然是 covers must be removed。
 
 ### ② while 引导的时间状语从句用进行时被动
-**原句**：In all cases, a fireguard should stand by with a CO 2 fire extinguisher while the aircraft engine is being started.
+**原句**：In all cases, a fireguard should stand by with a CO₂ fire extinguisher while the aircraft engine is being started.
 **拆解**：主句 a fireguard should stand by（should 表职责）+ with 短语说明携带器材；while 从句中 the aircraft engine 作主语，is being started 为现在进行时的被动式。
 **要点**：is being started 强调“起动正在进行”这一持续过程，与 fireguard 的“待命”同时发生；要表达“某事正在被做”用 be being + 过去分词，别漏掉 being 写成 is started（那是一次性动作）。should 在此不是“应该”的弱建议，而是程序性要求。
 
