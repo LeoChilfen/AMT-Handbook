@@ -14,7 +14,7 @@ Advantages of the magnetic amplifier are:
 
 If an AC voltage is applied to the primary winding of an iron core transformer, the iron core is magnetized and demagnetized at the same frequency as that of the applied voltage. This, in turn, induces a voltage in the transformers secondary winding. The output voltage across the terminals of the secondary depends on the relationship of the number of turns in the primary and the secondary of the transformer.
 
-The iron core of the transformer has a saturation point after which the application of a greater magnetic force produces no change in the intensity of magnetization. Hence, there is no change in transformer output, even if the input is greatly increased. The magnetic amplifier circuit in Figure 12-247 is used to explain how a simple magnetic amplifier functions.
+The iron core of the transformer has a saturation point after which the application of a greater magnetic force produces no change in the intensity of magnetization. Hence, there is no change in transformer output, even if the input is greatly increased. The magnetic amplifier circuit in the figure is used to explain how a simple magnetic amplifier functions.
 
 1. Assume that there is 1 ampere of current in coil A, which has 10 turns of wire. If coil B has 10 turns of wire, an output of 1 ampere is obtained if coil B is properly loaded.
 
@@ -26,40 +26,94 @@ The term “amplifier” is used for this arrangement because, by use of a few m
 
 ### Saturable-Core Reactor
 
-The same procedure can be used with the circuit shown in Figure 12-248. A saturable-core reactor is a magnetic- core coil whose reactance is controlled by changing the permeability of the core. Varying the unidirectional flux controls the permeability of the core.
+The same procedure can be used with the circuit shown in the figure. A saturable-core reactor is a magnetic- core coil whose reactance is controlled by changing the permeability of the core. Varying the unidirectional flux controls the permeability of the core.
 
 By controlling the extent of magnetization of the iron ring, it is possible to control the amount of current flowing to the load, since the amount of magnetization controls the impedance of the AC input winding. This type of magnetic amplifier is called a simple saturable reactor circuit.
 
 Adding a rectifier to such a circuit would remove half the cycle of the AC input and permit DC to flow to the load. The amount of DC flowing in the load circuit is controlled by a DC control winding (sometimes referred to as bias). This type of magnetic amplifier is referred to as being self-saturating.
 
-To use the full AC input power, a circuit such as that shown in Figure 12-249 may be used. This circuit uses a full-wave bridge rectifier. The load receives a controlled DC by using the full AC input. This type of circuit is known as a self- saturating, full-wave magnetic amplifier.
+To use the full AC input power, a circuit such as that shown in the figure may be used. This circuit uses a full-wave bridge rectifier. The load receives a controlled DC by using the full AC input. This type of circuit is known as a self- saturating, full-wave magnetic amplifier.
 
-In Figure 12-250, it is assumed that the DC control winding is supplied by a variable source, such as a sensing circuit. To control such a source and use its variations to control the AC output, it is necessary to include another DC winding that has a constant value. This winding, referred to as the reference winding, magnetizes the magnetic core in one direction.
+In the figure, it is assumed that the DC control winding is supplied by a variable source, such as a sensing circuit. To control such a source and use its variations to control the AC output, it is necessary to include another DC winding that has a constant value. This winding, referred to as the reference winding, magnetizes the magnetic core in one direction.
 
 The DC control winding, acting in opposition to the reference winding, either increases (degenerative) or decreases (regenerative) the magnetization of the core to change the amount of current flowing through the load. This is essentially a basic preamplifier.
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（17 段）。专业术语按行业惯例，数字与缩写保留。 -->
+磁放大器并不放大磁性，而是利用电磁作用来放大信号。从本质上说，磁放大器是一种频率响应非常有限的功率放大器。与磁放大器关系最密切的频率范围是 100 Hz 及以下，这使它落在音频范围内。从技术上说，磁放大器是一种低频放大器。
+
+磁放大器的优点是：
+
+1. 效率很高，大约可达 90%　　2. 可靠性高　　3. 十分坚固，能承受振动、潮湿和过载　　4. 无需预热时间　　磁放大器的一些缺点是：
+
+1. 无法处理低电压信号　　2. 不能用于高频应用　　3. 磁性效应带来时间延迟　　4. 保真度差　　磁放大器的基本工作原理相当简单。要记住，所有放大器都是电流控制器件。在这种特定的情况下，输送给负载的功率由一个可变电感来控制。
+
+如果把交流电压加到铁心变压器的初级绕组上，铁心就以与所加电压相同的频率被磁化和去磁。这又会在变压器的次级绕组中感应出电压。次级端钮上的输出电压，取决于变压器初级与次级匝数的关系。
+
+变压器的铁心有一个饱和点，超过这一点后，即使施加更大的磁力，磁化强度也不再变化。因此，即使输入大大增加，变压器的输出也不会改变。图中的磁放大器电路用来解释简单磁放大器是如何工作的。
+
+1. 假设线圈 A 中有 1 安培电流，A 绕有 10 匝导线。如果线圈 B 也绕有 10 匝导线，那么在线圈 B 上接有合适负载时，便可得到 1 安培的输出。
+
+2. 通过给线圈 C 通直流电，磁放大器线圈的铁心可以被进一步磁化。假设线圈 C 的匝数合适，并且在通入 30 毫安之后，铁心被磁化到这样的程度：线圈 A 上的 1 安培只在线圈 B 上产生 0.24 安培的输出（原文此处为图注碎片：Input Transformer coupled amplifier Output Q1 Q2T1 VCC Input Positive feedback Negative feedback Output Input Output，混入正文，无对应正文）。
+
+3. 通过把线圈 C 的直流输入做成从 0 到 30 毫安的连续可变量，并在线圈 A 上保持 1 安培的输入，在本例中就有可能把线圈 B 的输出控制到 0.24 安培至 1 安培之间的任意值。
+
+这里之所以把这种装置称为“放大器”，是因为只用几毫安就获得了对 1 安培或更大输出的控制。
+
+### 可饱和铁心电抗器
+
+同样的过程也适用于图所示的电路。可饱和铁心电抗器是一种磁性铁心线圈，其电抗通过改变铁心的磁导率来加以控制。改变单向磁通即可控制铁心的磁导率。
+
+通过控制铁环的磁化程度，就可以控制流向负载的电流大小，因为磁化程度控制着交流输入绕组的阻抗。这类磁放大器称为简单可饱和电抗器电路。
+
+在这种电路上加装一只整流器，就能去掉交流输入的半个周期，并让直流流向负载。负载电路中流过的直流大小由一个直流控制绕组（有时称为偏置）控制。这类磁放大器称为自饱和式磁放大器。
+
+为利用全部交流输入功率，可采用图所示那样的电路。该电路使用一只全波桥式整流器。负载利用全部交流输入获得受控的直流。这类电路称为自饱和全波磁放大器。
+
+在图所示电路中，假定直流控制绕组由一个可变电源（如传感电路）供电。要控制这样的电源并利用其变化来控制交流输出，就必须再接入一个数值恒定的直流绕组。这个绕组称为基准绕组，它沿一个方向磁化铁心。
+
+直流控制绕组与基准绕组的作用方向相反，它使铁心的磁化增强（衰减）或减弱（再生），从而改变流过负载的电流大小。这实质上是一个基本的前置放大器。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Ampere —— A unit of measure of the rate of electron flow or current in an electrical conductor. One ampere of current represents one coulomb of electrical charge (6.24 × 
-- Current —— The flow of electrical charge.
-- Direct current (DC) —— Electricity that flows in one direction at all times.
-- Force —— The intensity of an impetus, or the intensity of an input.
-- Frequency —— The number of cycles (on/off) completed per unit of time. Usually expressed in Hertz.
-- Inductance —— The ability of a coil or conductor to oppose a change in current flow.
-- Permeability —— Used to refer to the ease with which a magnetic flux can be established in a given magnetic circuit.
-- Power (exponent) —— A shorthand method of indicating how many times a number, called the base, is multiplied by itself. For example, in the number 43, 3 is the power, or exponent, 
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| magnetic amplifier | n.phr. | 磁放大器 | 本节主题：利用电磁作用而非放大磁性来放大信号的低频功率放大器 |
+| electromagnetism | n. | 电磁（作用） | 磁放大器放大信号所凭借的物理手段 |
+| frequency response | n.phr. | 频率响应 | 磁放大器频率响应很有限，主要在 100 Hz 及以下 |
+| efficiency | n. | 效率 | 磁放大器优点之一，可达约 90%，高于多数电子管放大器 |
+| saturation point | n.phr. | 饱和点 | 铁心磁化的极限，超过它再增大磁力也不改变磁化强度 |
+| magnetization | n. | 磁化（强度） | 由磁力决定；饱和后其强度不再随输入增加而变化 |
+| permeability | n. | 磁导率 | 改变铁心磁导率即可改变线圈电抗，从而控制输出 |
+| saturable-core reactor | n.phr. | 可饱和铁心电抗器 | 电抗受铁心磁导率控制的磁性铁心线圈 |
+| bias | n. | 偏置 | 直流控制绕组（有时称 bias）决定负载电流的大小 |
+| self-saturating | adj. | 自饱和的 | 加整流器后由直流控制绕组决定负载电流的电路类型 |
+| reference winding | n.phr. | 基准绕组 | 数值恒定、沿一个方向磁化铁心的直流绕组 |
+| preamplifier | n. | 前置放大器 | 基准绕组与直流控制绕组配合，本质上构成基本前置放大器 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① not…but… 并列 + 不定式表目的
+**原句**：Magnetic amplifiers do not amplify magnetism but use electromagnetism to amplify a signal.
+**拆解**：主语 Magnetic amplifiers + 并列谓语 do not amplify（宾语 magnetism）与 use（宾语 electromagnetism，不定式 to amplify a signal 作目的状语）；not…but… 连接两个对立的动作。
+**要点**：not…but… 表示“不是……而是……”，两个成分必须结构对等（此处都是动词 + 宾语）；不可写成 not…but also。不定式 to amplify 表目的，回答 use electromagnetism“用来做什么”，译成“利用电磁作用来放大信号”。
+### ② 过去分词短语作后置定语 + 非限定性 which
+**原句**：The frequency range most commonly associated with the magnetic amplifier is 100 Hz and less, which places it in the audio range.
+**拆解**：主语 The frequency range，most commonly associated with the magnetic amplifier 为过去分词短语作后置定语；谓语 is + 表语 100 Hz and less；逗号后 which 引导非限定性定语从句，指代前面“频率在 100 Hz 及以下”这一事实。
+**要点**：associate A with B 的被动形式 be associated with 作定语时须后置，等于 that is most commonly associated with…；which 前的逗号是关键，去掉逗号就变成限定性从句，会改变先行词的理解。places it in… 中 it 指 the frequency range，非限定性从句有自己的谓语，翻译时常独立成句“这使它……”。
+### ③ 祈使句 + that 宾语从句
+**原句**：Keep in mind that all amplifiers are current control devices.
+**拆解**：祈使句 Keep + 宾语 in mind；that all amplifiers are current control devices 为 that 引导的宾语从句，作 keep 的宾语（真正的宾语是 that 从句，in mind 为补足语）。
+**要点**：keep in mind that… 是“要记住……”的固定说法，that 不可省略（从句作宾语时口语可省，但技术文本一般保留）。翻译时可把祈使语气转为“要记住/请注意”。同类结构还有 bear in mind that、note that。
+### ④ “介词 + which”定语从句
+**原句**：The iron core of the transformer has a saturation point after which the application of a greater magnetic force produces no change in the intensity of magnetization.
+**拆解**：主语 The iron core（of the transformer 后置定语）+ 谓语 has + 宾语 a saturation point；after which 引导定语从句修饰 a saturation point，从句主语 the application（of a greater magnetic force 后置定语）+ 谓语 produces + 宾语 no change。
+**要点**：after which 相当于 and after that，是“介词 + 关系代词”结构，介词的选择由先行词与从句的语义关系决定；此处表示“在饱和点之后”。主句的 a saturation point 是单数，从句谓语 produces 用单数，与 the application 一致，不要误与 magnetic force 搭配。
+### ⑤ If 条件从句 + 被动语态 + as that of 替代
+**原句**：If an AC voltage is applied to the primary winding of an iron core transformer, the iron core is magnetized and demagnetized at the same frequency as that of the applied voltage.
+**拆解**：If 引导条件状语从句，an AC voltage 为从句主语，is applied to 为被动谓语；主句中 the iron core 为主语，is magnetized and demagnetized 为并列被动谓语；at the same frequency as that of the applied voltage 中 that 替代 the frequency，避免重复。
+**要点**：as that of 是“与……的相同”的替代结构，that 指代前面出现过的单数名词（the frequency），复数则用 those；不能写成 as of the applied voltage。条件从句用一般现在时被动表将来或一般规律，是技术说明文的常规时态配合。
+### ⑥ 动名词作主语 + would 虚拟 + permit sb to do
+**原句**：Adding a rectifier to such a circuit would remove half the cycle of the AC input and permit DC to flow to the load.
+**拆解**：动名词短语 Adding a rectifier to such a circuit 作主语；谓语为并列的 would remove（宾语 half the cycle of the AC input）与 permit（宾语 DC，不定式 to flow to the load 作宾语补足语）。would 表示假设条件下的结果。
+**要点**：动名词作主语时视为单数，谓语用 would remove 而非 would removes 之外的复数形式；permit 的句型是 permit sb/sth to do，不能接 that 从句。该句是“如果加装整流器，就会……”的假设陈述，翻译时可补出假设语气。

@@ -10,11 +10,11 @@ Electricity is often described as being either static or dynamic. The difference
 
 One of the most fundamental laws of static electricity, as well as magnetics, deals with attraction and repulsion. Like charges repel each other and unlike charges attract each other. All electrons possess a negative charge and as such repel each other. Similarly, all protons possess a positive charge and as such repel each other. Electrons (negative) and protons (positive) are opposite in their charge and attract each other.
 
-For example, if two pith balls are suspended, as shown in Figure 12-6, and each ball is touched with the charged glass rod, some of the charge from the rod is transferred to the balls. The balls now have similar charges and, consequently, repel each other as shown in part B of Figure 12-6. If a plastic rod is rubbed with fur, it becomes negatively charged and the fur is positively charged. By touching each ball with these differently charged sources, the balls obtain opposite charges and attract each other as shown in part C of Figure 12-6.
+For example, if two pith balls are suspended and each ball is touched with the charged glass rod, some of the charge from the rod is transferred to the balls. The balls now have similar charges and, consequently, repel each other. If a plastic rod is rubbed with fur, it becomes negatively charged and the fur is positively charged. By touching each ball with these differently charged sources, the balls obtain opposite charges and attract each other.
 
-Although most objects become charged with static electricity by means of friction, a charged substance can also influence objects near it by contact. [Figure 12-7] If a positively-charged rod touches an uncharged metal bar, it draws electrons from the uncharged bar to the point of contact. Some electrons enter the rod, leaving the metal bar with a deficiency of electrons (positively charged) and making the rod less positive than it was or, perhaps, even neutralizing its charge completely.
+Although most objects become charged with static electricity by means of friction, a charged substance can also influence objects near it by contact. If a positively-charged rod touches an uncharged metal bar, it draws electrons from the uncharged bar to the point of contact. Some electrons enter the rod, leaving the metal bar with a deficiency of electrons (positively charged) and making the rod less positive than it was or, perhaps, even neutralizing its charge completely.
 
-A method of charging a metal bar by induction is demonstrated in Figure 12-8. A positively-charged rod is brought near, but does not touch, an uncharged metal bar. Electrons in the metal bar are attracted to the end of the bar nearest the positively- charged rod, leaving a deficiency of electrons at the opposite end of the bar. If this positively-charged end is touched by a neutral object, electrons will flow into the metal bar and Number Prefix Symbol 1,000,000,000,000 tera t 1,000,000,000 giga g 1,000,000 mega M 1,000 kilo k 100 hecto h 10 deka dk 0.1 deci d 0.01 centi c 0.001 milli m 0.000001 micro µ 0.000000001 nano n 0.000000000001 pico pFigure 12-5. Prefixes and symbols for multiples of basic quantities.
+A positively-charged rod is brought near, but does not touch, an uncharged metal bar. Electrons in the metal bar are attracted to the end of the bar nearest the positively- charged rod, leaving a deficiency of electrons at the opposite end of the bar. If this positively-charged end is touched by a neutral object, electrons will flow into the metal bar and
 
 neutralize the charge. The metal bar is left with an overall excess of electrons.
 
@@ -22,17 +22,17 @@ neutralize the charge. The metal bar is left with an overall excess of electrons
 
 A field of force exists around a charged body. This field is an electrostatic field (sometimes called a dielectric field) and is represented by lines extending in all directions from the charged body and terminating where there is an equal and opposite charge.
 
-To explain the action of an electrostatic field, lines are used to represent the direction and intensity of the electric field of force. As illustrated in Figure 12-9, the intensity of the field is indicated by the number of lines per unit area, and the direction is shown by arrowheads on the lines pointing in the direction in which a small test charge would move (or tend to move) if acted upon by the field of force.
+To explain the action of an electrostatic field, lines are used to represent the direction and intensity of the electric field of force. The intensity of the field is indicated by the number of lines per unit area, and the direction is shown by arrowheads on the lines pointing in the direction in which a small test charge would move (or tend to move) if acted upon by the field of force.
 
-Either a positive or negative test charge can be used, but it has been arbitrarily agreed that a small positive charge is always used in determining the direction of the field. Thus, the direction of the field around a positive charge is always away from the charge because a positive test charge would be repelled. [Figure 12-9] On the other hand, the direction of the lines about a negative charge is toward the charge, since a positive test charge is attracted toward it.
+Either a positive or negative test charge can be used, but it has been arbitrarily agreed that a small positive charge is always used in determining the direction of the field. Thus, the direction of the field around a positive charge is always away from the charge because a positive test charge would be repelled. On the other hand, the direction of the lines about a negative charge is toward the charge, since a positive test charge is attracted toward it.
 
-Figure 12-10 illustrates the field around bodies having like charges. Positive charges are shown, but regardless of the type of charge, the lines of force would repel each other if the charges were alike. The lines terminate on material objects and always extend from a positive charge to a negative charge. These are imaginary lines used to show the direction a real force takes.
+Positive charges are shown, but regardless of the type of charge, the lines of force would repel each other if the charges were alike. The lines terminate on material objects and always extend from a positive charge to a negative charge. These are imaginary lines used to show the direction a real force takes.
 
-It is important to know how a charge is distributed on an object. Figure 12-11 shows a small metal disk on which a concentrated negative charge has been placed. By using an electrostatic detector, it can be shown that the charge is spread evenly over the entire surface of the disk. Since the metal disk provides uniform resistance everywhere on its surface, the mutual repulsion of electrons results in an even distribution over the entire surface.
+It is important to know how a charge is distributed on an object. Consider a small metal disk on which a concentrated negative charge has been placed. By using an electrostatic detector, it can be shown that the charge is spread evenly over the entire surface of the disk. Since the metal disk provides uniform resistance everywhere on its surface, the mutual repulsion of electrons results in an even distribution over the entire surface.
 
-Another example, shown in Figure 12-12, is the charge on a hollow sphere. Although the sphere is made of conducting material, the charge is evenly distributed over the outside surface. The inner surface is completely neutral. This phenomenon is used to safeguard operating personnel of the large Van de Graaff static generators used for atom smashing. The safest area for the operators is inside the large sphere, where millions of volts are being generated.
+Another example is the charge on a hollow sphere. Although the sphere is made of conducting material, the charge is evenly distributed over the outside surface. The inner surface is completely neutral. This phenomenon is used to safeguard operating personnel of the large Van de Graaff static generators used for atom smashing. The safest area for the operators is inside the large sphere, where millions of volts are being generated.
 
-The distribution of the charge on an irregularly-shaped object differs from that on a regularly-shaped object. Figure 12-13 shows that the charge on such objects is not evenly distributed. The greatest charge is at the points, or areas of sharpest curvature, of the objects.
+The distribution of the charge on an irregularly-shaped object differs from that on a regularly-shaped object. The charge on such objects is not evenly distributed. The greatest charge is at the points, or areas of sharpest curvature, of the objects.
 
 ### Electrostatic Discharge (ESD) Considerations
 
@@ -46,7 +46,7 @@ Other precautions that should be taken with working with electronic components a
 
 3. Ohmmeter ranges that require a current of more than one milliampere in the test circuit should not be used for testing transistors.
 
-A B C Pith balls Charge rod Repulsion Attraction Electrons are attracted by positive chargePositively-charged rod almost touching uncharged bar The rod is now less positively charged When rod touches bar, electrons enter rod Metal bar now has positive charge Electrons are attracted toward charged rod Rod is removed and excess electrons remain Electrons are attracted off finger and enter bar Finger is removed. Positive and negative charges are mostly neutralized 4. The heat applied to a diode or transistor, when soldering is required, should be kept to a minimum by using low-wattage soldering irons and heat sinks.
+4. The heat applied to a diode or transistor, when soldering is required, should be kept to a minimum by using low-wattage soldering irons and heat sinks.
 
 5. Do not pry components of a circuit board.
 
@@ -56,26 +56,101 @@ A B C Pith balls Charge rod Repulsion Attraction Electrons are attracted by posi
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（25 段）。专业术语按行业惯例，数字与缩写保留。 -->
+电通常被描述为静电或动电。两者的区别仅仅在于电子是处于静止状态（静电）还是运动状态（动电）。静电是物体表面积累的电荷。之所以被认为是「静电」，是因为没有像交流电（AC）或直流电（DC）中那样的电流流动。静电通常是由于橡胶、塑料或玻璃等非导电材料相互摩擦、引起电子转移而产生的，这导致两种材料之间的电荷不平衡。两种材料之间存在电荷不平衡这一事实，意味着物体会表现出吸引力或排斥力。
+
+### 吸引与排斥力
+
+静电学乃至磁学最基本的定律之一涉及吸引与排斥。同种电荷相互排斥，异种电荷相互吸引。所有电子都带负电，因此彼此排斥。同样，所有质子都带正电，因此彼此排斥。电子（负）与质子（正）电荷性质相反，因此相互吸引。
+
+例如，如果悬挂两个木髓球，并用带静电的玻璃棒分别接触每个球，棒上的一部分电荷就转移到球上。两球此时带有同种电荷，因而相互排斥。如果用毛皮摩擦塑料棒，棒带负电，毛皮带正电。用这些带不同电荷的物体分别接触两球，两球就带上相反的电荷，从而相互吸引。
+
+尽管大多数物体是通过摩擦带上静电的，带电物质也能通过接触影响附近的物体。如果带正电的棒接触一根不带电的金属棒，它会把电子从不带电的金属棒吸引到接触点。部分电子进入棒中，使金属棒缺少电子（带正电），并使棒本身的正电性比原来减弱，甚至可能完全中和其电荷。
+
+一根带正电的棒被移近但不接触一根不带电的金属棒。金属棒中的电子被吸引到靠近带正电棒的一端，使棒的另一端缺少电子。如果用中性物体接触带正电的这一端，电子就会流入金属棒并
+
+中和电荷。金属棒最终整体上带有过剩的电子。
+
+### 静电场
+
+带电体周围存在一个力场。这个场就是静电场（有时称为介质场），用从带电体向各个方向延伸、并在存在等量异种电荷处终止的线来表示。
+
+为了说明静电场的作用，人们用线来表示电场的强弱和方向。场的强度由单位面积内的线数表示，方向则由线上的箭头表示，箭头指向小试验电荷在受力场作用时会移动（或倾向于移动）的方向。
+
+正试验电荷和负试验电荷都可以使用，但人们已约定：判定场的方向时一律使用小的正电荷。因此，正电荷周围的场方向总是背离该电荷，因为正试验电荷会被排斥。另一方面，负电荷周围的线方向指向该电荷，因为正试验电荷会被吸引过去。
+
+正电荷被画了出来，但无论电荷属于何种类型，只要电荷相同，力线就会相互排斥。这些线终止于实物表面，并总是从正电荷延伸到负电荷。它们是一些假想的线，用来表示实际作用力的方向。
+
+了解电荷在物体上如何分布很重要。设想一个小金属圆盘，上面放置了一团集中的负电荷。用静电检测器可以显示，电荷均匀分布在圆盘的整个表面上。由于金属圆盘表面各处的电阻相同，电子之间的相互排斥使电荷均匀分布在整个表面上。
+
+另一个例子是空心球上的电荷。尽管球体由导电材料制成，电荷却均匀分布在球的外表面上。内表面完全不带电。这一现象被用来保护用于原子轰击的大型范德格拉夫静电发电机的操作人员。对操作者来说最安全的区域是产生数百万伏电压的大球内部。
+
+不规则形状物体上的电荷分布与规则形状物体不同。这类物体上的电荷分布并不均匀。电荷最多的地方是物体的尖端，即曲率最尖锐的部位。
+
+### 静电放电（ESD）注意事项
+
+对固态元件或集成电路造成损坏最常见的原因之一，是处理这些器件时由人体引起的静电放电（ESD）。对航线可更换单元（LRU）、电路卡和分立元件的不当处理，会导致不必要地耗时且昂贵的修理。如果技术员触摸到卡或盒的对接插针，这种损坏就可能发生。静电放电的其他来源还包括铺有地毯的工具箱顶部。通过触摸拆下盒体的机壳来释放身上的静电、佩戴接地腕带，以及对飞机上的元件采取良好的专业操作方式，可以避免这种损坏。这包括在敞开的连接器上盖上保护帽，以及不把对静电放电敏感的元件放在会造成损坏的环境中。对 ESD 敏感的零件通常装在专门设计用于保护元件免受静电损坏的包装袋中运输。
+
+处理电子元件时还应采取的其他预防措施包括：
+
+1. 在试图输入或监测信号之前，务必在测试设备与电路之间接好地线。
+
+2. 确保测试电压不超过电路元件和晶体管所允许的最高电压。
+
+3. 测试晶体管时，不得使用在测试电路中要求电流超过 1 毫安的欧姆表量程。
+
+4. 需要焊接时，施加在二极管或晶体管上的热量应通过使用低瓦数烙铁和散热器保持在最低限度。
+
+5. 不要撬动电路板上的元件。
+
+6. 更换元件前必须先切断电路电源。
+
+7. 在设备上使用测试探针、而测试点之间间隙很小时，应使引线裸露部分尽可能短，以防短路。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Current —— The flow of electrical charge.
-- Difference —— The answer to a subtraction problem.
-- Direct current (DC) —— Electricity that flows in one direction at all times.
-- Electrostatic field —— A field of force that exists around a charged body.
-- Force —— The intensity of an impetus, or the intensity of an input.
-- Friction —— The opposition to movement between objects.
-- Ohmmeter —— A current measuring instrument that provides its own source (self-excited) of power.
-- Power (exponent) —— A shorthand method of indicating how many times a number, called the base, is multiplied by itself. For example, in the number 43, 3 is the power, or exponent, 
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| static electricity | n.phr. | 静电 | 物体表面积累的电荷，没有电流流动 |
+| dynamic | adj. | 动电的 | 与静态相对，指电子处于运动状态 |
+| charge | n. | 电荷 | 物体上电的量，可分正负，决定吸引或排斥 |
+| repulsion | n. | 排斥 | 同种电荷之间的作用，如两木髓球相斥 |
+| attraction | n. | 吸引 | 异种电荷之间的作用，如带正电的棒吸电子 |
+| friction | n. | 摩擦 | 使非导电材料带静电的主要方式 |
+| contact | n. | 接触 | 带电体影响附近物体的方式之一 |
+| induction | n. | 感应 | 不接触而改变金属棒电荷分布的方式 |
+| electrostatic field | n.phr. | 静电场 | 带电体周围的力场，用线表示方向与强度 |
+| electrostatic discharge (ESD) | n.phr. | 静电放电 | 人体等向元件释放静电，是损坏集成电路的常见原因 |
+| ground | n. | 地、接地 | 测试设备与电路之间必须先行连接 |
+| heat sink | n.phr. | 散热器 | 焊接二极管、晶体管时用来限制热量的工具 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① due to the fact that + there be
+**原句**：It is considered “static” due to the fact that there is no current flowing as in alternate current (AC) or direct current (DC) electricity.
+**拆解**：主句 It is considered “static” 为被动；due to the fact that 引出的同位语从句中，there is no current flowing 为 there be 句型，现在分词 flowing 后置修饰 current，as in… 为比较省略结构（as is the case in AC or DC）。
+**要点**：due to the fact that 是书面语里把 because 名词化后的表达，比 because 更正式，也更容易与 due to + 名词混淆——判断看后面接的是从句还是名词短语。there be 的定语位置要分词后置：current flowing 而不是 flowing current。
+
+### ② when 状语从句 + causing 分词 + which 非限制性定语从句
+**原句**：Static electricity is usually caused when non-conductive materials, such as rubber, plastic, or glass, are rubbed together causing a transfer of electrons, which results in an imbalance of charges between the two materials.
+**拆解**：主句为被动 is caused；when 引导时间状语从句，such as… 为插入的举例成分；causing a transfer of electrons 为现在分词短语作结果状语；which 引导非限制性定语从句，指代整个前面的事实（摩擦致电子转移）。
+**要点**：which 前有逗号时为非限制性定语从句，可指代整句内容，译为「这导致……」；causing 前没有逗号时逻辑主语是最近的名词（materials），译时要判断动作发出者。
+
+### ③ Although 让步状语从句
+**原句**：Although most objects become charged with static electricity by means of friction, a charged substance can also influence objects near it by contact.
+**拆解**：Although 引导让步状语从句（become charged 为系表被动含义的短语），主句 a charged substance can also influence objects near it by contact；near it 为后置定语，by contact 为方式状语。
+**要点**：although 引导的从句不能再用 but，主句前也不加 yet 之外的连词；become charged with 是「带上……电荷」的固定搭配，with 引出的不是方式而是所带的电荷。
+
+### ④ The fact that 同位语从句 + means that 宾语从句
+**原句**：The fact that there is an imbalance of charges between the two materials means that the objects will exhibit an attractive or repulsive force.
+**拆解**：主干 The fact means that…；that there is an imbalance of charges… 为 fact 的同位语从句（说明 fact 的内容），means 后的 that 引导宾语从句，will exhibit 为从句谓语。
+**要点**：同位语从句的 that 不作成分、不能省略，而定语从句的 that 作成分；fact、idea、evidence 类名词后常接同位语从句，是技术文中解释「为什么」的常见手段。
+
+### ⑤ 形式主语 it + 现在完成被动 + agree that
+**原句**：Either a positive or negative test charge can be used, but it has been arbitrarily agreed that a small positive charge is always used in determining the direction of the field.
+**拆解**：but 连接两个并列分句；it has been arbitrarily agreed that… 中 it 为形式主语，that 引导的主语从句是真正主语，has been agreed 为现在完成被动；in determining… 为介词 + 动名词作状语。
+**要点**：it is agreed that… 是技术规范中表达「约定俗成」的固定句式，arbitrarily 并非贬义，而是「人为规定地」；介词 in + 动名词表示「在做……时／方面」，不能换成 to do。
+
+### ⑥ 定语从句 + 过去分词短语后置定语
+**原句**：Parts that are ESD sensitive are typically shipped in bags specially designed to protect components from electrostatic damage.
+**拆解**：主语 Parts 带 that are ESD sensitive 定语从句；谓语 are shipped 为一般现在时被动，in bags 为地点状语；specially designed to protect… 为过去分词短语后置修饰 bags，其逻辑主语是 bags。
+**要点**：过去分词短语作后置定语相当于 which are designed，被动含义明显；protect A from B 是「保护 A 免受 B」的固定搭配，from 不可换成 of。ESD sensitive 这种名词直接修饰形容词的写法是技术文里的复合定语（= sensitive to ESD）。

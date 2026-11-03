@@ -4,17 +4,17 @@
 
 ## 1. 原文
 
-Magnetism is defined as the property of an object to attract certain metallic substances. In general, these substances are ferrous materials; that is, materials composed of iron or iron Inside surface neutral Greatest charge charges.
+Magnetism is defined as the property of an object to attract certain metallic substances. In general, these substances are ferrous materials; that is, materials composed of iron or iron
 
 alloys, such as soft iron, steel, and alnico. These materials, sometimes called magnetic materials, include at least three nonferrous materials: nickel, cobalt, and gadolinium, which are magnetic to a limited degree. All other substances are considered nonmagnetic. A few of these non-magnetic substances can be classified as diamagnetic since they are repelled by both poles of a magnet.
 
-Magnetism is an invisible force, the ultimate nature of which has not been fully determined. It can best be described by the effects it produces. Examination of a simple bar magnet similar to that illustrated in Figure 12-14 discloses some basic characteristics of all magnets. If the magnet is suspended to swing freely, it aligns itself with the earth’s magnetic poles. One end is labeled “N,” meaning the North seeking end or pole of the magnet. If the “N” end of a compass or magnet is referred to as North seeking rather than North, there is no conflict in referring to the pole it seeks, which is the North magnetic pole. The opposite end of the magnet, marked “S” is the South seeking end and points to the South magnetic pole. Since the earth is a giant magnet, its poles attract the ends of the magnet. These poles are not located at the geographic poles.
+Magnetism is an invisible force, the ultimate nature of which has not been fully determined. It can best be described by the effects it produces. Examination of a simple bar magnet discloses some basic characteristics of all magnets. If the magnet is suspended to swing freely, it aligns itself with the earth’s magnetic poles. One end is labeled “N,” meaning the North seeking end or pole of the magnet. If the “N” end of a compass or magnet is referred to as North seeking rather than North, there is no conflict in referring to the pole it seeks, which is the North magnetic pole. The opposite end of the magnet, marked “S” is the South seeking end and points to the South magnetic pole. Since the earth is a giant magnet, its poles attract the ends of the magnet. These poles are not located at the geographic poles.
 
-The somewhat mysterious and completely invisible force of a magnet depends on a magnetic field that surrounds the magnet. [Figure 12-15] This field always exists between the poles of a magnet and arranges itself to conform to the shape of any magnet.
+The somewhat mysterious and completely invisible force of a magnet depends on a magnetic field that surrounds the magnet. This field always exists between the poles of a magnet and arranges itself to conform to the shape of any magnet.
 
-The theory that explains the action of a magnet holds that each molecule making up the iron bar is itself a tiny magnet, with both North and South poles as illustrated in Figure 12-16A. These molecular magnets each possess a magnetic field, but in an unmagnetized state, the molecules are arranged at random throughout the iron bar. If a magnetizing force, such as stroking with a lodestone, is applied to the unmagnetized North Pole South Pole Lines of force N S N S North pole.
+The theory that explains the action of a magnet holds that each molecule making up the iron bar is itself a tiny magnet, with both North and South poles. These molecular magnets each possess a magnetic field, but in an unmagnetized state, the molecules are arranged at random throughout the iron bar. If a magnetizing force, such as stroking with a lodestone, is applied to the unmagnetized
 
-bar, the molecular magnets rearrange themselves in line with the magnetic field of the lodestone, with all North ends of the magnets pointing in one direction and all South ends in the opposite direction. [Figure 12-16B] In such a configuration, the magnetic fields of the magnets combine to produce the total field of the magnetized bar.
+bar, the molecular magnets rearrange themselves in line with the magnetic field of the lodestone, with all North ends of the magnets pointing in one direction and all South ends in the opposite direction. In such a configuration, the magnetic fields of the magnets combine to produce the total field of the magnetized bar.
 
 When handling a magnet, avoid applying direct heat, hammering, or dropping it. Heating or sudden shock creates misalignment of the molecules, causing the strength of a magnet to decrease. When a magnet is to be stored, devices known as “keeper bars” are installed to provide an easy path for flux lines from one pole to the other. This promotes the retention of the molecules in their North-South alignment.
 
@@ -26,36 +26,95 @@ They are separate and individual forces, since one line will never cross another
 
 The demonstration with iron filings further shows that the magnetic field of a magnet is concentrated at the ends of the magnet. These areas of concentrated flux are called the North and South poles of the magnet. There is a limit to the number of lines of force that can be crowded into a magnet of a given size. When a magnetizing force is applied to a piece of magnetic material, a point is reached where no more lines of force can be induced or introduced. The material is then said to be saturated.
 
-The characteristics of the magnetic flux can be demonstrated by tracing the flux patterns of two bar magnets with like poles together. [Figure 12-18] The two like poles repel one another because the lines of force will not cross each other. As the arrows on the individual lines indicate, the lines turn aside as the two like poles are brought near each other and travel in a path parallel to each other. Lines moving in this manner repel each other, causing the magnets as a whole to repel each other.
+The characteristics of the magnetic flux can be demonstrated by tracing the flux patterns of two bar magnets with like poles together. The two like poles repel one another because the lines of force will not cross each other. As the arrows on the individual lines indicate, the lines turn aside as the two like poles are brought near each other and travel in a path parallel to each other. Lines moving in this manner repel each other, causing the magnets as a whole to repel each other.
 
-By reversing the position of one of the magnets, the attraction of unlike poles can be demonstrated. [Figure 12-19] As the unlike poles are brought near each other, the lines of force rearrange their paths and most of the flux leaving the North pole of one magnet enters the South pole of the other. The tendency of lines of force to repel each other is indicated by the bulging of the flux in the air gap between the two magnets.
+By reversing the position of one of the magnets, the attraction of unlike poles can be demonstrated. As the unlike poles are brought near each other, the lines of force rearrange their paths and most of the flux leaving the North pole of one magnet enters the South pole of the other. The tendency of lines of force to repel each other is indicated by the bulging of the flux in the air gap between the two magnets.
 
-To further demonstrate that lines of force do not cross one another, a bar magnet and a horseshoe magnet can be positioned to display a magnetic field similar to that of Unmagnetized Magnetized N S N S N S N S N S N S N S N S A B N S N S N S N SN S N S N S S N S N S N S N of one. The nonferrous metals with a permeability greater than one, such as nickel and cobalt, are called paramagnetic. The term ferromagnetic is applied to iron and its alloys, which have by far the greatest permeability. Any substance, such as bismuth, having a permeability of less than one, is considered diamagnetic.
+To further demonstrate that lines of force do not cross one another, a bar magnet and a horseshoe magnet can be positioned to display a magnetic field. The nonferrous metals with a permeability greater than one, such as nickel and cobalt, are called paramagnetic. The term ferromagnetic is applied to iron and its alloys, which have by far the greatest permeability. Any substance, such as bismuth, having a permeability of less than one, is considered diamagnetic.
 
-Reluctance, the measure of opposition to the lines of force through a material, can be compared to the resistance of an electrical circuit. The reluctance of soft iron, for instance, is much lower than that of air. Figure 12-24 demonstrates that a piece of soft iron placed near the field of a magnet can distort the lines of force, which follow the path of lowest reluctance through the soft iron.
+Reluctance, the measure of opposition to the lines of force through a material, can be compared to the resistance of an electrical circuit. The reluctance of soft iron, for instance, is much lower than that of air. A piece of soft iron placed near the field of a magnet can distort the lines of force, which follow the path of lowest reluctance through the soft iron.
 
 The magnetic circuit can be compared in many respects to an electrical circuit. The magnetomotive force, causing lines of force in the magnetic circuit, can be compared to the electromotive force (emf) or electrical pressure of an electrical circuit. The magnetomotive force is measured in gilberts, symbolized by the capital letter “F.” The symbol for the intensity of the lines of force, or flux, is the Greek letter phi, and the unit of field intensity is the gauss. An individual line of force, called a maxwell, in an area of one square centimeter produces a field intensity of one gauss. Using reluctance rather than permeability, the law for magnetic circuits can be stated: a magnetomotive force of one gilbert causes one maxwell, or line of force, to be set up in a material when the reluctance of the material is one.
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（16 段）。专业术语按行业惯例，数字与缩写保留。 -->
+磁性被定义为物体吸引某些金属物质的性质。一般来说，这些物质是含铁材料；也就是由铁或铁
+
+合金组成的材料，例如软铁、钢和阿尔尼科合金。这些材料有时称为磁性材料，其中至少包括三种非铁金属：镍、钴和钆，它们具有有限程度的磁性。所有其他物质都被视为非磁性物质。其中少数非磁性物质可归类为抗磁性物质，因为它们会被磁铁的两极排斥。
+
+磁性是一种看不见的力，其终极本质尚未被完全确定。对它最好的描述是它所产生的效应。考察一根简单的条形磁铁，可以揭示所有磁铁的一些基本特性。如果让磁铁自由摆动，它会自行对准地球的磁极。一端标为「N」，意为磁铁指北的一端或磁极。如果把罗盘或磁铁的「N」端称为指北端而不是北极，那么把它所指向的磁极（即北磁极）称为北极就不存在矛盾了。磁铁的另一端标为「S」，是指南端，指向南磁极。由于地球是一个巨大的磁铁，它的磁极吸引磁铁的两端。这些磁极并不位于地理极点。
+
+磁铁那种多少有些神秘、完全看不见的力，取决于环绕磁铁的磁场。这个场总是存在于磁铁的两极之间，并使自身顺应任何磁铁的形状。
+
+解释磁铁作用的学说认为，构成铁棒的每个分子本身都是一个小磁铁，既有北极也有南极。这些分子磁铁各自具有磁场，但在未磁化状态下，分子在整根铁棒中杂乱排列。如果把磁化力（例如用天然磁石沿一个方向摩擦）施加到未磁化的
+
+铁棒上，分子磁铁就会沿天然磁石的磁场重新排列，所有磁铁的北极朝向一个方向，所有南极朝向相反方向。在这种排列下，各磁铁的磁场组合起来，产生整根磁化铁棒的总磁场。
+
+拿取磁铁时，要避免直接加热、敲击或跌落。加热或突然的冲击会造成分子排列错乱，使磁铁的强度下降。存放磁铁时，要装上称为「保持条」的装置，为一端到另一端的磁通线提供一条容易通过的路径。这有助于分子保持其南北排列。
+
+磁铁周围磁力或磁场的存在，最好通过如下实验来演示：把一块玻璃板或有机玻璃（Lucite™）盖在条形磁铁上，再把铁屑慢慢撒在这块透明板上。如果轻轻敲击玻璃板或有机玻璃，铁屑就会围绕磁铁排成一定的图案，从铁棒的北端到南端形成一系列线条，显示出磁场的图案。
+
+如图所示，磁铁的场由许多单独的作用力构成，在铁屑演示中表现为线条。尽管它们并不是通常意义上的「线」，这个词仍被用来描述构成整个磁场的各个单独作用力的个体性质。这些力线也称为磁通。
+
+它们是彼此分离的个体作用力，因为一条线永远不会与另一条线相交；事实上，它们确实相互排斥。它们彼此保持平行，像被拉紧的橡皮筋，因为它们由磁铁内部的磁化力维持在铁棒周围的位置。
+
+铁屑演示还进一步表明，磁铁的磁场集中在其两端。这些磁通集中的区域称为磁铁的北极和南极。给定尺寸的磁铁能容纳的力线条数是有限的。当把磁化力施加到一块磁性材料上时，会达到一个再也无法感应或引入更多力线的点。此时就说该材料已饱和。
+
+磁通的特点可以通过描绘两根条形磁铁同极相对时的磁通图案来演示。两个同极相互排斥，因为力线不会彼此相交。正如各条线上的箭头所示，当两个同极彼此靠近时，线会转向一侧，并沿彼此平行的路径行进。这样运动的线相互排斥，使两根磁铁整体相互排斥。
+
+把其中一根磁铁的方向翻转，就可以演示异极的吸引。当异极彼此靠近时，力线重新调整路径，从一根磁铁北极出来的大部分磁通进入另一根磁铁的南极。力线相互排斥的倾向，表现为两根磁铁之间气隙中磁通的鼓出。
+
+为了进一步证明力线互不相交，可以把一根条形磁铁和一根马蹄形磁铁摆放成显示磁场的构型。磁导率大于 1 的非铁金属，例如镍和钴，称为顺磁性物质。铁及其合金称为铁磁性物质，它们的磁导率最大。任何磁导率小于 1 的物质，例如铋，都被视为抗磁性物质。
+
+磁阻是材料对力线通过的阻碍程度的量度，可以比作电路中的电阻。例如，软铁的磁阻比空气低得多。把一块软铁放在磁铁磁场附近，会使力线发生畸变，力线会沿磁阻最低的路径穿过软铁。
+
+磁路在许多方面可以与电路相比。在磁路中产生力线的磁通势，可以比作电路中的电动势（emf）或电压力。磁通势以吉伯为单位，用大写字母「F」表示。力线强度（即磁通）的符号是希腊字母 φ，场强度的单位是高斯。一条力线称为一个麦克斯韦，它在一平方厘米的面积内产生一高斯的场强度。用磁阻而不用磁导率来表述，磁路定律可以陈述为：当材料的磁阻为 1 时，一吉伯的磁通势会在该材料中建立起一个麦克斯韦，即一条力线。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Electromotive force (EMF) —— The pressure or force that causes electrons to flow in an electrical circuit.
-- Force —— The intensity of an impetus, or the intensity of an input.
-- Molecule —— The smallest particle of an element or compound that retains the chemical properties of the element or compound.
-- Permeability —— Used to refer to the ease with which a magnetic flux can be established in a given magnetic circuit.
-- Pressure —— The amount of force acting on a specific amount of surface area, typically measured in pounds per square inch or psi.
-- Resistance —— The opposition a device or material offers to the flow or current.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| magnetism | n. | 磁性 | 物体吸引某些金属物质的性质，本节的总主题 |
+| ferrous | adj. | 含铁的 | 指由铁或铁合金构成的材料，如软铁、钢 |
+| alloy | n. | 合金 | 铁与其它元素组成的材料，如钢、阿尔尼科 |
+| pole | n. | 磁极 | 磁铁南北两端，对同一根磁铁标为 N 与 S |
+| magnetic field | n.phr. | 磁场 | 环绕磁铁、两极之间存在、随磁铁形状变化的场 |
+| lines of force | n.phr. | 力线 | 表示磁场方向与强度的假想线，互不相交 |
+| flux | n. | 磁通 | 力线的另一称呼，集中处即为磁极 |
+| permeability | n. | 磁导率 | 材料建立磁通的容易程度，铁的数值最大 |
+| reluctance | n. | 磁阻 | 材料对力线通过的阻碍，软铁远低于空气 |
+| saturated | adj. | 饱和的 | 磁化到无法再引入更多力线的状态 |
+| magnetomotive force | n.phr. | 磁通势 | 磁路中产生力线的「压力」，单位吉伯 |
+| keeper bar | n.phr. | 保持条 | 存放磁铁时装上、为磁通提供通路的装置 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① be defined as + 不定式作后置定语
+**原句**：Magnetism is defined as the property of an object to attract certain metallic substances.
+**拆解**：主句被动 is defined as the property…；of an object 为 property 的后置定语，to attract certain metallic substances 为不定式短语，说明 property 的具体内容。
+**要点**：be defined as 是定义句的固定被动；property 后接不定式表示「做某事的性质」，此处 to attract 的逻辑主语是 an object 而不是 magnetism，翻译时应还原成「物体吸引……的性质」。
+
+### ② 过去分词插入语 + 冒号列举 + which 非限制性定语从句
+**原句**：These materials, sometimes called magnetic materials, include at least three nonferrous materials: nickel, cobalt, and gadolinium, which are magnetic to a limited degree.
+**拆解**：主句 These materials include…；sometimes called magnetic materials 为过去分词短语作插入语（相当于 which are sometimes called…）；冒号后三项为 materials 的同位列举；which 引导非限制性定语从句，修饰 nickel, cobalt, and gadolinium。
+**要点**：插入语用一对逗号与主句隔开，翻译时可前置作定语「又称磁性材料的这些材料」；冒号引出列举时，后面的 which 从句只修饰列举项，不修饰主句主语。
+
+### ③ the + 名词 + of which 定语从句
+**原句**：Magnetism is an invisible force, the ultimate nature of which has not been fully determined.
+**拆解**：主句为系表结构 Magnetism is an invisible force；逗号后 the ultimate nature of which has not been fully determined 为非限制性定语从句，of which 的先行词是 an invisible force，从句主语是 the ultimate nature。
+**要点**：of which 结构 = whose + 名词（the ultimate nature of which ≈ whose ultimate nature），在技术文中比 whose 更常见；注意从句谓语用单数 has，与 the nature 一致。
+
+### ④ Since 原因状语从句
+**原句**：Since the earth is a giant magnet, its poles attract the ends of the magnet.
+**拆解**：Since 引导原因状语从句（the earth is a giant magnet 为系表结构），主句 its poles attract the ends of the magnet，its 指 the earth。
+**要点**：since 引导原因时语气比 because 弱，多用于已知前提，译为「由于」；两句中的 pole 分别指地球磁极和磁铁磁极，代词 its 只回指 the earth，理解时不要混淆。
+
+### ⑤ 祈使句 + When + 动名词（状语从句省略）
+**原句**：When handling a magnet, avoid applying direct heat, hammering, or dropping it.
+**拆解**：When handling a magnet 为时间状语从句 When you handle a magnet 的省略形式（主语与主句祈使句的隐含主语 you 一致，故连同 be 一并省略）；主句为祈使句 avoid applying…，动名词 applying 后接三个并列宾语 direct heat、hammering、dropping it。
+**要点**：状语从句省略要求从句主语与主句主语一致；avoid 后必须接动名词，不能接不定式，这是与 try to do 类动词的重要区别。祈使句给出操作告诫，是维修手册的典型句式。
+
+### ⑥ 比较结构中的 that of 替代
+**原句**：The reluctance of soft iron, for instance, is much lower than that of air.
+**拆解**：主句主语 The reluctance of soft iron，for instance 为插入语；谓语 is much lower than…，比较对象用 that of air 替代 the reluctance of air，避免重复。
+**要点**：比较级中单数不可数名词用 that of 替代、复数用 those of，不能直接说 lower than air（那会变成拿磁阻比空气）；much 修饰比较级，不能换成 very。

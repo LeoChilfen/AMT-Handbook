@@ -14,23 +14,23 @@ Millimeter Fractional Number Decimal Equivalent Millimeter Fractional Number Dec
 
 Straight reamer (hand)
 
-Rules are manufactured in two basic styles — those divided or marked in common fractions and those divided or marked in decimals or divisions of one one-hundredth of an inch. A rule may be used either as a measuring tool or as a straightedge. [Figure 11-31]
+Rules are manufactured in two basic styles — those divided or marked in common fractions and those divided or marked in decimals or divisions of one one-hundredth of an inch. A rule may be used either as a measuring tool or as a straightedge.
 
 ### Combination Sets
 
-The combination set, as its name implies, is a tool that has several uses. It can be used for the same purposes as an ordinary tri-square, but it differs from the tri-square in that the head slides along the blade and can be clamped at any desired place. Combined with the square or stock head are a level and scriber. The head slides in a central groove on the blade or scale, which can be used separately as a rule. [Figure 11-32]
+The combination set, as its name implies, is a tool that has several uses. It can be used for the same purposes as an ordinary tri-square, but it differs from the tri-square in that the head slides along the blade and can be clamped at any desired place. Combined with the square or stock head are a level and scriber. The head slides in a central groove on the blade or scale, which can be used separately as a rule.
 
 The spirit level in the stock head makes it convenient to square a piece of material with a surface and at the same time tell whether one or the other is plumb or level. The head can be used alone as a simple level.
 
 The combination of square head and blade can also be used as a marking gauge to scribe lines at a 45° angle, as a depth gauge, or as a height gauge. A convenient scriber is held frictionally in the head by a small brass bushing.
 
-Adjusting screw Adjustable round split die Plain round split die Plug Bottoming Taper 100° 100° Cutter shaft Cutter Pilot Body Lock nut Stop Chip opening Fiber collarStop countersinkStandard countersink Proﬁle view Top view The center head is used to find the center of shafts or other cylindrical work. The protractor head can be used to check angles and also may be set at any desired angle to draw lines.
+The center head is used to find the center of shafts or other cylindrical work. The protractor head can be used to check angles and also may be set at any desired angle to draw lines.
 
-The scriber is designed to serve the aviation mechanic in the same way a pencil or pen serves a writer. In general, it is used to scribe or mark lines on metal surfaces. The scriber is made of tool steel, 4 to 12 inches long, and has two needle pointed ends. One end is bent at a 90° angle for reaching and marking through holes. [Figure 11-33]
+The scriber is designed to serve the aviation mechanic in the same way a pencil or pen serves a writer. In general, it is used to scribe or mark lines on metal surfaces. The scriber is made of tool steel, 4 to 12 inches long, and has two needle pointed ends. One end is bent at a 90° angle for reaching and marking through holes.
 
 Before using a scriber, always inspect the points for sharpness. Be sure the straightedge is flat on the metal and in position for scribing. Tilt the scriber slightly in the direction toward which it will be moved, holding it like a pencil. Keep the scriber’s point close to the guiding edge of the straightedge. The scribed line should be heavy enough to be visible, but no deeper than necessary to serve its purpose.
 
-Diestock Tap wrenches It is very important to use a scribe only where it is defining a line to be cut as scribed lines may introduce stress points where failures can occur.
+It is very important to use a scribe only where it is defining a line to be cut as scribed lines may introduce stress points where failures can occur.
 
 ### Dividers and Pencil Compasses
 
@@ -50,7 +50,7 @@ When using pencil compasses or dividers, the following procedures are suggested:
 
 5. On paper layouts, the pencil compasses are used for describing arcs and circles. Dividers should be used to transfer critical measurements because they are more accurate than a pencil compass.
 
-Calipers are used for measuring diameters and distances or for comparing distances and sizes. The three common types of calipers are inside, outside, and hermaphrodite calipers, such as gear tool calipers. [Figure 11-34]
+Calipers are used for measuring diameters and distances or for comparing distances and sizes. The three common types of calipers are inside, outside, and hermaphrodite calipers, such as gear tool calipers.
 
 Outside calipers are used for measuring outside dimensions— for example, the diameter of a piece of round stock. Inside calipers have outward curved legs for measuring inside diameters, such as diameters of holes, the distance between two surfaces, the width of slots, and other similar jobs. A hermaphrodite caliper is generally used as a marking gauge in layout work. It should not be used for precision measurement.
 
@@ -58,7 +58,7 @@ Outside calipers are used for measuring outside dimensions— for example, the d
 
 There are four types of micrometer calipers, each designed for a specific use: outside micrometer, inside micrometer, depth micrometer, and thread micrometer. Micrometers are available in a variety of sizes, either 0 to 1⁄2 inch, 0 to 1 inch, 1 to 2 inch, 2 to 3 inch, 3 to 4 inch, 4 to 5 inch, or 5 to 6 inch sizes. In addition to the micrometer inscribed with the measurement markings, micrometers equipped with electronic digital liquid crystal display (LCD) readouts are also in common use.
 
-The AMT uses the outside micrometer more often than any other type. It may be used to measure the outside dimensions of shafts, thickness of sheet metal stock, the diameter of drills, and for many other applications. [Figure 11-35]
+The AMT uses the outside micrometer more often than any other type. It may be used to measure the outside dimensions of shafts, thickness of sheet metal stock, the diameter of drills, and for many other applications.
 
 The smallest measurement that can be made with the use of the steel rule is one sixty-fourth of an inch in common fractions and one one-hundredth of an inch in decimal fractions. To measure more closely than this (in thousandths and ten-thousandths of an inch), a micrometer is used. If a dimension given in a common fraction is to be measured with the micrometer, the fraction must be converted to its decimal equivalent.
 
@@ -66,7 +66,7 @@ All four types of micrometers are read in the same way. The method of reading an
 
 ### Micrometer Parts
 
-The fixed parts of a micrometer are the frame, barrel, and anvil. The movable parts of a micrometer are the thimble and spindle. The thimble rotates the spindle, which moves in the threaded portion inside the barrel. Turning the thimble provides an National Coarse Thread Series Medium Fit Class 3 (NC)
+The fixed parts of a micrometer are the frame, barrel, and anvil. The movable parts of a micrometer are the thimble and spindle. The thimble rotates the spindle, which moves in the threaded portion inside the barrel.
 
 Size and Threads Diameter of Body for Thread Body Drill Preferred Diameter of Hole Nearest Standard Drill Size Tap Drill Size and Threads Diameter of Body for Thread Body Drill Preferred Diameter of Hole Nearest Standard Drill Size Tap Drill National Fine Thread Series Medium Fit Class 3 (NF)
 
@@ -90,11 +90,11 @@ Pitch Diameter Size and Threads Pipe OD (inches)
 
 Depth of Thread (inches)
 
-Size Drill Minor Diameter Small End of Pipe Tap Drill for Pipe Threads ¹⁄8 27 0.36351 0.37476 0.2638 0.180 0.405 0.02963 0.33388 R ¹⁄4 18 0.47739 0.48989 0.4018 0.200 0.540 0.04444 0.43294 ⁷⁄16 ³⁄8 18 0.61201 0.62701 0.4078 0.240 0.675 0.04444 0.56757 ³⁷⁄64 ¹⁄2 14 0.75843 0.77843 0.5337 0.320 0.840 0.05714 0.70129 ²³⁄32 ³⁄4 14 0.96768 0.98887 0.5457 0.339 1.050 0.5714 0.91054 ⁵⁹⁄64 1 11 ¹⁄2 1.21363 1.23863 0.6828 0.400 1.315 0.06957 1.14407 1 ⁵⁄32 1 ¹⁄4 11 ¹⁄2 1.55713 1.58338 0.7068 0.420 1.660 0.06957 1.48757 1 ¹⁄2 1 ¹⁄2 11 ¹⁄2 1.79609 1.82234 0.7235 0.420 1.900 0.06957 1.72652 1 ⁴⁷⁄64 2 11 ¹⁄2 2.26902 2.29627 0.7565 0.436 2.375 0.06957 2.19946 1 ⁷⁄32 2 ¹⁄2 8 2.71953 2.76216 1.1375 0.682 2.875 0.10000 2.61953 2 ⁵⁄8 3 8 3.34062 3.8850 1.2000 0.766 3.500 0.10000 3.24063 3 ¹⁄4 3 ¹⁄2 8 3.83750 3.88881 1.2500 0.821 4.000 0.10000 3.73750 3 ³⁄4 4 8 4.33438 4.38712 1.3000 0.844 4.500 0.10000 4.23438 4 ¹⁄4 ¹⁄32 ⁶⁄32 ¹⁄64 ³⁄64 ⁵⁄64 ⁷⁄64 ¹⁄8 ¹⁄16 ³⁄16 ⁵⁄16 ⁷⁄16 ⁹⁄16 ¹¹⁄16 ¹³⁄16 ¹⁵⁄16 ¹⁄4 ³⁄4 ⁷⁄8 1 1 12 ³⁄8 ⁵⁄8¹⁄2 ²⁄32 ⁵⁄32 ³⁄32 ⁴⁄32 Soft Metals 300 FPM Plastic and Hard Rubber 200 FPM Annealed Cast Iron 140 FPM Mild Steel 100 FPM Malleable Iron 90 FPM Hard Cast Iron 80 FPM Tool or Hard Steel 60 FPM Alloy Steel Cast Steel 40 FPM Diameter of Drill ¹⁄16 (No. 53 – 80) 18,320 12,217 8,554 6,111 5,500 4,889 3,667 2,445 ³⁄32 (No. 42 – 52) 12,212 8,142 5,702 4,071 3,666 3,258 2,442 1,649 ¹⁄8 (No. 31– 41) 9,160 6,112 4,278 3,056 2,750 2,445 1,833 1,222 ⁵⁄32 (No. 23 – 30) 7,328 4,888 3,420 2,444 2,198 1,954 1,465 977 ³⁄16 (No. 13 – 22) 6,106 4,075 2,852 2,037 1,833 1,630 1,222 815 ⁷⁄32 (No. 1– 12) 5,234 3,490 444 1,745 1,575 1,396 1,047 698 ¹⁄4 (A – F) 4,575 3,055 2,139 1,527 1,375 1,222 917 611 ⁹⁄32 (G – K) 4,071 2,715 1,900 1,356 1,222 1,084 814 542 ⁹⁄16 (L – N) 3,660 2,445 1,711 1,222 1,100 978 7,333 489 ¹¹⁄32 (O – R) 3,330 2,220 1,554 1,110 1,000 888 666 444 ³⁄8 (S – U) 3,050 2,037 1,426 1,018 917 815 611 407 ¹³⁄32 (V – Z) 2,818 1,878 1,316 939 846 752 563 376 ⁷⁄16 2,614 1,746 1,222 873 786 698 524 349 ¹⁵⁄32 2,442 1,628 1,140 814 732 652 488 326 ¹⁄2 2,287 1,528 1,070 764 688 611 458 306 ⁹⁄16 2,035 1,357 950 678 611 543 407 271 ³⁄8 1,830 1,222 856 611 550 489 367 244 1 ¹⁄16 1,665 1,110 777 555 500 444 333 222 ³⁄4 1,525 1,018 713 509 458 407 306 204 Spring outside calipers Firm joint screw adjusting outside calipers Firm joint screw adjusting inside calipers Hermaphrodite calipers Spring inside calipers 112 0 180 90 3 4 5 8 9 10 Scriber Stock head Center head Protractor headLevel opening between the anvil and the end of the spindle where the work is measured. The size of the work is indicated by the graduations on the barrel and thimble. [Figure 11-36]
+Size Drill Minor Diameter Small End of Pipe Tap Drill for Pipe Threads ¹⁄8 27 0.36351 0.37476 0.2638 0.180 0.405 0.02963 0.33388 R ¹⁄4 18 0.47739 0.48989 0.4018 0.200 0.540 0.04444 0.43294 ⁷⁄16 ³⁄8 18 0.61201 0.62701 0.4078 0.240 0.675 0.04444 0.56757 ³⁷⁄64 ¹⁄2 14 0.75843 0.77843 0.5337 0.320 0.840 0.05714 0.70129 ²³⁄32 ³⁄4 14 0.96768 0.98887 0.5457 0.339 1.050 0.5714 0.91054 ⁵⁹⁄64 1 11 ¹⁄2 1.21363 1.23863 0.6828 0.400 1.315 0.06957 1.14407 1 ⁵⁄32 1 ¹⁄4 11 ¹⁄2 1.55713 1.58338 0.7068 0.420 1.660 0.06957 1.48757 1 ¹⁄2 1 ¹⁄2 11 ¹⁄2 1.79609 1.82234 0.7235 0.420 1.900 0.06957 1.72652 1 ⁴⁷⁄64 2 11 ¹⁄2 2.26902 2.29627 0.7565 0.436 2.375 0.06957 2.19946 1 ⁷⁄32 2 ¹⁄2 8 2.71953 2.76216 1.1375 0.682 2.875 0.10000 2.61953 2 ⁵⁄8 3 8 3.34062 3.8850 1.2000 0.766 3.500 0.10000 3.24063 3 ¹⁄4 3 ¹⁄2 8 3.83750 3.88881 1.2500 0.821 4.000 0.10000 3.73750 3 ³⁄4 4 8 4.33438 4.38712 1.3000 0.844 4.500 0.10000 4.23438 4 ¹⁄4 ¹⁄32 ⁶⁄32 ¹⁄64 ³⁄64 ⁵⁄64 ⁷⁄64 ¹⁄8 ¹⁄16 ³⁄16 ⁵⁄16 ⁷⁄16 ⁹⁄16 ¹¹⁄16 ¹³⁄16 ¹⁵⁄16 ¹⁄4 ³⁄4 ⁷⁄8 1 1 12 ³⁄8 ⁵⁄8¹⁄2 ²⁄32 ⁵⁄32 ³⁄32 ⁴⁄32 Soft Metals 300 FPM Plastic and Hard Rubber 200 FPM Annealed Cast Iron 140 FPM Mild Steel 100 FPM Malleable Iron 90 FPM Hard Cast Iron 80 FPM Tool or Hard Steel 60 FPM Alloy Steel Cast Steel 40 FPM Diameter of Drill ¹⁄16 (No. 53 – 80) 18,320 12,217 8,554 6,111 5,500 4,889 3,667 2,445 ³⁄32 (No. 42 – 52) 12,212 8,142 5,702 4,071 3,666 3,258 2,442 1,649 ¹⁄8 (No. 31– 41) 9,160 6,112 4,278 3,056 2,750 2,445 1,833 1,222 ⁵⁄32 (No. 23 – 30) 7,328 4,888 3,420 2,444 2,198 1,954 1,465 977 ³⁄16 (No. 13 – 22) 6,106 4,075 2,852 2,037 1,833 1,630 1,222 815 ⁷⁄32 (No. 1– 12) 5,234 3,490 444 1,745 1,575 1,396 1,047 698 ¹⁄4 (A – F) 4,575 3,055 2,139 1,527 1,375 1,222 917 611 ⁹⁄32 (G – K) 4,071 2,715 1,900 1,356 1,222 1,084 814 542 ⁹⁄16 (L – N) 3,660 2,445 1,711 1,222 1,100 978 7,333 489 ¹¹⁄32 (O – R) 3,330 2,220 1,554 1,110 1,000 888 666 444 ³⁄8 (S – U) 3,050 2,037 1,426 1,018 917 815 611 407 ¹³⁄32 (V – Z) 2,818 1,878 1,316 939 846 752 563 376 ⁷⁄16 2,614 1,746 1,222 873 786 698 524 349 ¹⁵⁄32 2,442 1,628 1,140 814 732 652 488 326 ¹⁄2 2,287 1,528 1,070 764 688 611 458 306 ⁹⁄16 2,035 1,357 950 678 611 543 407 271 ³⁄8 1,830 1,222 856 611 550 489 367 244 1 ¹⁄16 1,665 1,110 777 555 500 444 333 222 ³⁄4 1,525 1,018 713 509 458 407 306 204 Spring outside calipers Firm joint screw adjusting outside calipers Firm joint screw adjusting inside calipers Hermaphrodite calipers Spring inside calipers 112 0 180 90 3 4 5 8 9 10 Scriber Stock head Center head Protractor headLevel opening between the anvil and the end of the spindle where the work is measured. The size of the work is indicated by the graduations on the barrel and thimble.
 
 ### Reading a Micrometer
 
-The lines on the barrel marked 1, 2, 3, 4, and so forth, indicate measurements of tenths, or 0.100 inch, 0.200 inch, 0.300 inch, 0.400 inch, respectively. [Figure 11-37]
+The lines on the barrel marked 1, 2, 3, 4, and so forth, indicate measurements of tenths, or 0.100 inch, 0.200 inch, 0.300 inch, 0.400 inch, respectively.
 
 Each of the sections between the tenths divisions (between 1, 2, 3, 4, and so forth) is divided into four parts of 0.025 inch each. One complete revolution of the thimble (from zero on the thimble around to the same zero) moves it one of these divisions (0.025 inch) along the barrel.
 
@@ -102,21 +102,21 @@ The bevel edge of the thimble is divided into 25 equal parts. Each of these part
 
 These divisions are marked for convenience at every five spaces by 0, 5, 10, 15, and 20. When 25 of these graduations have passed the horizontal line on the barrel, the spindle (having made one revolution) has moved 0.025 inch.
 
-The micrometer is read by first noting the last visible figure on the horizontal line of the barrel representing tenths of an inch. Add to this the length of barrel between the thimble and the previously noted number. (This is found by multiplying Anvil Spindle Barrel Thimble Ratchet stop Thimble cap Thread play adjusting nut Fixed nut Clamp ring Micrometer screw Frame Measuring faces the number of graduations by 0.025 inch.) Add to this the number of divisions on the bevel edge of the thimble that coincides with the line of the graduation. The total of the three figures equals the measurement. [Figure 11-38]
+The micrometer is read by first noting the last visible figure on the horizontal line of the barrel representing tenths of an inch. Add to this the length of barrel between the thimble and the previously noted number. (This is found by multiplying the number of graduations by 0.025 inch.) Add to this the number of divisions on the bevel edge of the thimble that coincides with the line of the graduation. The total of the three figures equals the measurement.
 
-Some micrometers are equipped with a vernier scale that makes it possible to directly read the fraction of a division that is indicated on the thimble scale. Typical examples of the vernier scale as it applies to the micrometer are shown in Figure 11-39.
+Some micrometers are equipped with a vernier scale that makes it possible to directly read the fraction of a division that is indicated on the thimble scale.
 
-All three scales on a micrometer are not fully visible without turning the micrometer, but the examples shown in Figure 11-38 are drawn as though the barrel and thimble of the micrometer were laid out flat so that all three scales can be seen at the same time. The barrel scale is the lower horizontal scale, the thimble scale is vertical on the right, and the long horizontal lines (0 through 9 and 0) make up the vernier scale.
+All three scales on a micrometer are not fully visible without turning the micrometer, but the examples shown in the illustration are drawn as though the barrel and thimble of the micrometer were laid out flat so that all three scales can be seen at the same time. The barrel scale is the lower horizontal scale, the thimble scale is vertical on the right, and the long horizontal lines (0 through 9 and 0) make up the vernier scale.
 
 In reading a micrometer, an excellent way to remember the relative scale values is to remember that the 0.025 inch barrel scale graduations are established by the lead screw (40 threads per inch). Next, the thimble graduations divide the 0.025 inch into 25 parts, each equal to 0.001 inch. Then, the vernier graduations divide the 0.001 inch into 10 equal parts, each equal to 0.0001 inch. Remembering the values of the various scale graduations, the barrel scale reading is noted. The thimble scale reading is added to it, then the vernier scale reading is added to get the final reading. The vernier scale line to be read is always the one aligned exactly with any thimble graduation.
 
-In the first example in Figure 11-39 , the barrel reads 0.275 inch and the thimble reads more than 0.019 inch. The number 1 graduation on the thimble is aligned exactly with the number 4 graduation on the vernier scale. Thus, the final reading is 0.2944 inch.
+In the first example, the barrel reads 0.275 inch and the thimble reads more than 0.019 inch. The number 1 graduation on the thimble is aligned exactly with the number 4 graduation on the vernier scale. Thus, the final reading is 0.2944 inch.
 
-In the second example in Figure 11-39, the barrel reads 0.275 = 0.150 0 5 20 0 0.100 0.025 0.025 0.100 0.025 0.025 = 0.151 0.150 in.
+In the second example, the barrel reads 0.275 in.
 
-A C D B 1 0 5 0.001 10 10 15 5 10 0 15 20 10 0.001 0.100 0.200 0.300 0 1 2 Barrel Thimble Horizontal line¹⁄10 of an inch inch, and the thimble reads more than 0.020 inch and less than 0.021 inch. On the Vernier scale, the number 0 graduation coincides closest with the line on the thimble. This means that the thimble reading would be 0.020 inch. Adding this to the barrel reading of 0.275 inch gives a total measurement of 0.2950 inch.
+inch, and the thimble reads more than 0.020 inch and less than 0.021 inch. On the Vernier scale, the number 0 graduation coincides closest with the line on the thimble. This means that the thimble reading would be 0.020 inch. Adding this to the barrel reading of 0.275 inch gives a total measurement of 0.2950 inch.
 
-The third and fourth examples in Figure 11-39 are additional readings that would require use of the Vernier scale for accurate readings to ten-thousandths of an inch.
+The third and fourth examples are additional readings that would require use of the Vernier scale for accurate readings to ten-thousandths of an inch.
 
 ### Using a Micrometer
 
@@ -124,40 +124,197 @@ The micrometer must be handled carefully. If it is dropped, its accuracy may be 
 
 To measure a piece of work with the micrometer, hold the frame of the micrometer in the palm of the hand with the little finger or third finger, whichever is more convenient. This allows the thumb and forefinger to be free to revolve the thimble for adjustment.
 
-A variation of the micrometer is the dial indicator, which measures variations in a surface by using an accurately machined probe mechanically-linked to a circular hand whose movement indicates thousandths of an inch or is displayed on a LCD screen. [Figure 11-40]
+A variation of the micrometer is the dial indicator, which measures variations in a surface by using an accurately machined probe mechanically-linked to a circular hand whose movement indicates thousandths of an inch or is displayed on a LCD screen.
 
-A typical example would be using a dial indicator to measure the amount of runout, or bend, in a shaft. If a bend is suspected, the part can be rotated while resting between a pair of machined V-blocks. A dial indicator is then clamped to a machine table stand, and the probe of the indicator is positioned so it lightly contacts the surface. The outer portion 30 1 2 5 0 20 09876543210 30 1 2 5 0 20 09876543210 0 1 2 15 0 20 09876543210 0 1 0 10 5 09876543210 Barrel scaleVernier Scale 0.2944 0.2950 0.2153 0.1002 Example 1 Example 2 Example 3 Example 4 of the dial is then rotated until the needle is pointed at zero. The part is then rotated, and the amount of bend, or run out, is displayed on the dial as the needle fluctuates. The total amount of the fluctuation is the runout.
+A typical example would be using a dial indicator to measure the amount of runout, or bend, in a shaft. If a bend is suspected, the part can be rotated while resting between a pair of machined V-blocks. A dial indicator is then clamped to a machine table stand, and the probe of the indicator is positioned so it lightly contacts the surface. The outer portion of the dial is then rotated until the needle is pointed at zero. The part is then rotated, and the amount of bend, or run out, is displayed on the dial as the needle fluctuates. The total amount of the fluctuation is the runout.
 
 Another common use for the dial indicator is to check for a warp in a rotating component, such as a brake disc. In some cases, this can be done with the brake disc installed on the airplane, with the base clamped to a stationary portion of the structure.
 
 In either case, it is imperative that the dial indicator be securely fastened so that movement of the indicator itself induces no errors in measurement.
 
-Often used to measure the length of an object, the slide caliper provides greater accuracy than the ruler. It can, by virtue of its specially formed jaws, measure both inside and outside dimensions. As the tool’s name implies, the slide caliper jaw is slid along a graduated scale, and its jaws then contact the inside or outside of the object to be measured. The measurement is then read on the scale located on the body of the caliper or on the LCD screen. [Figure 11-41] Some slide calipers also contain a depth gauge for measuring the depth of blind holes.
+Often used to measure the length of an object, the slide caliper provides greater accuracy than the ruler. It can, by virtue of its specially formed jaws, measure both inside and outside dimensions. As the tool’s name implies, the slide caliper jaw is slid along a graduated scale, and its jaws then contact the inside or outside of the object to be measured. The measurement is then read on the scale located on the body of the caliper or on the LCD screen. Some slide calipers also contain a depth gauge for measuring the depth of blind holes.
 
 Vernier caliper Digital caliper Dial caliper
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（66 段）。专业术语按行业惯例，数字与缩写保留。 -->
+布局与测量器具都是精密工具。它们经过仔细加工，刻线准确，而且很多由十分精密的零件构成。使用这些工具时，注意不要跌落、弯曲或划伤。成品的精度不会高于测量或布局的精度；因此，懂得如何读数、使用和保养这些工具非常重要。
+
+直尺由钢制成，分为刚性尺和柔性尺。柔性钢尺可以弯曲，但不应故意弯折，因为它很容易折断。在飞机作业中，最常用的测量单位是英寸。英寸可以用普通分数或小数分数分成更小的部分。
+
+英寸的分数刻度是把 1 英寸等分得到的：半（1⁄2）、四分之一（1⁄4）、八分之一（1⁄8）、十六分之一（1⁄16）、三十二分之一（1⁄32）和六十四分之一（1⁄64）。英寸的分数可以用小数表示，称为英寸的小数等值。例如，1⁄8 英寸表示成 0.0125（即一英寸的万分之一百二十五）。
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为图注碎片，原文无正文）
+
+直尺有两种基本型式——一种按普通分数分度或标注，另一种按小数或百分之一英寸分度或标注。直尺既可用作测量工具，也可用作划直线的靠尺。
+
+### 组合角尺
+
+组合角尺，顾名思义，是一种有多种用途的工具。它可以起到普通直角尺的作用，但与直角尺的不同之处在于：其尺头可沿尺身滑动，并能夹紧在任意所需位置。与直角尺头（尺座）组合在一起的还有水平仪和划线针。尺头在尺身（刻度尺）中央的槽中滑动，尺身可单独当作直尺使用。
+
+尺座内的水准泡便于把一块材料与某一表面找正成直角，同时还能判断两者中哪一个处于垂直或水平状态。尺头可单独作为一个简单的水平仪使用。
+
+直角尺头与尺身的组合还可用作划线的量规，以 45° 角划线；也可用作深度尺或高度尺。一支好用的划线针靠一个小黄铜衬套以摩擦方式固定在尺头中。
+
+中心尺头用于找出轴类或其他圆柱形工件的中心。量角器尺头可用于检查角度，也可设定成任意所需角度来划线。
+
+划线针之于航空机械师，如同铅笔或钢笔之于书写者。一般来说，它用于在金属表面上划出线条或做标记。划线针由工具钢制成，长 4 至 12 英寸，两端为针尖。一端弯成 90°，以便伸入孔中划线。
+
+使用划线针前，务必检查针尖是否锋利。要确保直尺平放在金属上并摆到便于划线的位置。像握铅笔那样，把划线针略向将要移动的方向倾斜。使针尖紧靠直尺的导向边。划出的线应足够重、看得清，但不要比满足需要更深。
+
+只在为将要切出的线定位时才使用划线针，这一点非常重要，因为划线会在材料上造成应力点，可能由此产生破坏。
+
+### 分规与铅笔圆规
+
+分规和铅笔圆规有两条腿，顶部用铰链连接。它们用于划圆和圆弧，以及把尺寸从直尺转移到工件上。
+
+铅笔圆规的一条腿逐渐收小成针尖，另一条腿装铅笔或铅芯。分规的两条腿都逐渐收小成针尖。
+
+使用铅笔圆规或分规时，建议按下列步骤：
+
+1. 检查两脚是否锋利。
+
+2. 调整分规或圆规时，把它拿住，使一条腿的脚尖落在直尺的刻度上。用拇指和食指转动调节螺母，调至另一条腿的脚尖落在直尺上给出所需尺寸的刻度处。
+
+3. 用铅笔圆规或分规画圆弧或圆时，用拇指和食指捏住顶部的拇指件。对两腿施加压力，顺时针方向旋转圆规，画出所需的圆弧或圆。
+
+4. 把圆规或分规朝其旋转方向倾斜，可避免两腿滑动的倾向。在金属上作业时，分规只用来划出随后会被切除的圆弧或圆。其他所有圆弧或圆都用铅笔圆规绘制，以免划伤材料。
+
+5. 在纸上布局时，用铅笔圆规画圆弧和圆。关键尺寸应用分规转移，因为分规比铅笔圆规精确。
+
+卡钳用于测量直径和距离，或用于比较距离和尺寸。常见的三种卡钳是内卡钳、外卡钳和异形卡钳（如齿轮工具卡钳）。
+
+外卡钳用于测量外部尺寸——例如圆棒料的直径。内卡钳的两腿向外弯曲，用于测量内径，如孔径、两平面之间的距离、槽宽以及其他类似作业。异形卡钳一般用作布局作业中的划线量规，不应把它用于精密测量。
+
+### 千分尺
+
+千分尺有四种，各为特定用途设计：外径千分尺、内径千分尺、深度千分尺和螺纹千分尺。千分尺有多种规格，如 0 至 1⁄2 英寸、0 至 1 英寸、1 至 2 英寸、2 至 3 英寸、3 至 4 英寸、4 至 5 英寸或 5 至 6 英寸。除了刻有测量标记的千分尺，装有电子数字液晶显示器（LCD）读数的千分尺也很常用。
+
+航空维修技术人员（AMT）使用外径千分尺比其他任何类型都多。它可用来测量轴的外径、金属板料的厚度、钻头直径，以及许多其他场合。
+
+用钢直尺所能做的最小量度，按普通分数是六十四分之一英寸，按小数分数是百分之一英寸。要测量得比这更精细（到千分之一和万分之一英寸），就使用千分尺。如果要测量的尺寸是用普通分数给出的，必须先把该分数换算成小数等值。
+
+四种千分尺的读数方法相同。外径千分尺的读数方法在本章后面讨论。
+
+### 千分尺的零件
+
+千分尺的固定部分是尺架、固定套筒和测砧。活动部分是微分筒和测微螺杆。微分筒带动测微螺杆旋转，螺杆在固定套筒内的螺纹部分中移动。
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+### 千分尺的读数
+
+固定套筒上标有 1、2、3、4 等的线，分别表示十分之一英寸，即 0.100 英寸、0.200 英寸、0.300 英寸、0.400 英寸。
+
+十分位刻度之间（1 与 2、2 与 3、3 与 4 等之间）的每一段又分成四小格，每格 0.025 英寸。微分筒完整转一周（从微分筒上的零转到同一零位），使它沿固定套筒移动上述一格（0.025 英寸）。
+
+微分筒的斜边分成 25 等份。这 25 份中的每一份，代表微分筒从一个 0.025 英寸刻度移到下一刻度时沿固定套筒移动距离的二十五分之一。因此，微分筒上的每一格代表千分之一（0.001）英寸。
+
+为方便起见，这些刻度每五格标出 0、5、10、15、20。当这些刻度中有 25 格越过固定套筒上的水平线时，测微螺杆（已转一周）移动了 0.025 英寸。
+
+千分尺的读数方法是：先记下固定套筒水平线上最后一条可见数字，它表示十分之一英寸。再加上微分筒与该数字之间固定套筒上的长度。（这由刻度数乘以 0.025 英寸求得。）再加上微分筒斜边上与刻线重合的格数。这三个数字之和即为测量值。
+
+有些千分尺装有游标尺，可以直接读出微分筒刻度上所指示的分度小数值。
+
+千分尺上的三条刻度不转动千分尺无法同时看全，但图中的示例是假定把固定套筒和微分筒展开铺平画出的，因此三条刻度能同时看到。固定套筒刻度是下方的水平刻度，微分筒刻度在右侧竖直，长的水平线（0 至 9 及 0）构成游标尺。
+
+读千分尺时，记住各刻度相对数值的一个好办法是：0.025 英寸的固定套筒刻度由丝杠（每英寸 40 牙）确定。其次，微分筒刻度把 0.025 英寸分成 25 份，每份等于 0.001 英寸。然后，游标刻度把 0.001 英寸分成 10 等份，每份等于 0.0001 英寸。记住各刻度的数值后，先读固定套筒刻度。加上微分筒刻度读数，再加游标刻度读数，得出最终读数。要读的游标刻度线，总是与某一微分筒刻度正好对齐的那一条。
+
+第一个例子中，固定套筒读数为 0.275 英寸，微分筒读数大于 0.019 英寸。微分筒上的 1 号刻度与游标尺上的 4 号刻度正好对齐。因此最终读数为 0.2944 英寸。
+
+第二个例子中，固定套筒读数为 0.275 英寸。
+
+英寸，并且微分筒读数大于 0.020 英寸、小于 0.021 英寸。在游标尺上，0 号刻度与微分筒上的刻线最接近重合。这意味着微分筒读数应为 0.020 英寸。把它加上固定套筒读数 0.275 英寸，总测量值为 0.2950 英寸。
+
+第三个和第四个例子是另外的读数，需要借助游标尺才能精确读到万分之一英寸。
+
+### 千分尺的使用
+
+千分尺必须小心拿放。如果跌落，其精度可能永久受损。不断让工件在测砧与测微螺杆之间滑动，会磨损测量面。如果螺杆拧得过紧，尺架可能永久变形，导致读数不准。无论如何，都要遵循制造商的校准程序，以及关于所用校准量规（如量块、量针或环规）的说明。
+
+要用千分尺测量工件，用手掌和小指或无名指（以更方便者为准）握住千分尺的尺架。这样拇指和食指就能空出来转动微分筒进行调节。
+
+千分尺的一个变型是百分表，它通过一个精密加工的测头测量表面的变化；测头与一个圆形指针机械相连，指针的移动指示千分之一英寸，或在 LCD 屏上显示。
+
+一个典型例子是用百分表测量轴的跳动量或弯曲量。如果怀疑有弯曲，可把零件放在一对已加工的 V 形块之间转动。然后把百分表夹在机床表架上，把表的测头调到轻轻接触表面。再把表盘的外圈转到指针指零。然后转动零件，弯曲量即跳动量就在表盘上随指针摆动显示出来。摆动的总量就是跳动量。
+
+百分表的另一个常见用途是检查旋转部件（如刹车盘）的翘曲。某些情况下，可在刹车盘装在飞机上的状态下进行，把表座夹在结构的固定部位。
+
+无论哪种情况，都必须把百分表牢固固定，使百分表本身的移动不会引入测量误差。
+
+滑动卡尺常用来测量物体的长度，其精度高于直尺。由于卡爪形状特殊，它能测量内、外两种尺寸。顾名思义，滑动卡尺的卡爪沿刻度尺滑动，随后让卡爪接触被测物体的内侧或外侧。然后在卡尺本体上的刻度或 LCD 屏上读数。有些滑动卡尺还带有深度尺，用于测量盲孔深度。
+
+（原文此处为图注碎片，原文无正文）
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Addition —— The process in which the value of one number is added to the value of another.
-- Countersink —— A tool that cuts a cone-shaped depression around a hole in order to allow a rivet or screw to set flush with the surface of the material.
-- Dial indicator —— Measures variations in a surface by using an accurately machined probe mechanically linked to a circular hand whose movement indicates thousandths of an inch, o
-- Diameter (circle) —— The length of a line passing directly through the center of a circle. Twice the radius of the circle.
-- Division —— The process of finding how many times one number (the divisor) is contained in another number (the dividend).
-- Fraction —— A number written in the form N⁄D in which N is the numerator and D is the denominator. For example, 5⁄16 is a fraction.
-- Hermaphrodite caliper —— Generally used as a marking gauge in layout work. It should not be used for precision measurement.
-- Inside calipers —— Calipers with outward curved legs for measuring inside diameters, such as diameters of holes.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| rule | n. | 直尺 | 钢制，分刚性尺与柔性尺，可测可作靠尺 |
+| scriber | n. | 划线针 | 工具钢制、4~12 英寸，一端弯 90° 以穿入孔划线 |
+| combination set | n. | 组合角尺 | 尺头可沿尺身滑动并夹紧，含水平仪与划线针 |
+| dividers | n. | 分规 | 两腿均为针尖，用于转移尺寸和划圆 |
+| caliper | n. | 卡钳 | 内卡钳、外卡钳与异形卡钳 |
+| micrometer | n. | 千分尺 | 外径、内径、深度、螺纹四种，读数方法相同 |
+| thimble | n. | 微分筒 | 斜边分 25 格，每格 0.001 英寸 |
+| barrel | n. | 固定套筒 | 水平刻度每格 0.100 英寸，每四小格 0.025 英寸 |
+| anvil | n. | 测砧 | 与测微螺杆之间的测量面之一 |
+| dial indicator | n. | 百分表 | 用测头测表面变化，可读跳动量、翘曲 |
+| vernier caliper | n. | 游标卡尺 | 借助游标尺可读到万分之一英寸 |
+| slide caliper | n. | 滑动卡尺 | 卡爪沿刻度尺滑动，可测内外尺寸，有的带深度尺 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① When + 现在分词作时间状语 + 否定不定式
+**原句**：When using these tools, be careful not to drop, bend, or scratch them.
+**拆解**：When using these tools 为时间状语，using 的逻辑主语是祈使句隐含的 you；主句 be careful 为祈使句的系表结构；not to drop, bend, or scratch them 为否定不定式短语作状语，三个动词由 or 并列。
+**要点**：be careful not to do 是手册里「注意不要……」的固定句式；or 在否定句中表「也不」，不能译成「或者」；分词状语在前、主句在后时，中文按「使用……时，注意……」的语序还原。
+
+### ② either … or … 并列结构
+**原句**：Rules are made of steel and are either rigid or flexible.
+**拆解**：主语 Rules + 并列谓语 are made of steel（被动）与 are either rigid or flexible（系表）；either … or … 连接两个表语 rigid 与 flexible。
+**要点**：either … or … 表二选一，译「要么……要么……」；此处两种直尺都可能，译「分为……和……」更合汉语习惯；注意 either 在句中的位置要紧贴所连接的成分。
+
+### ③ If 条件从句 + 过去分词后置定语 + be to do 被动
+**原句**：If a dimension given in a common fraction is to be measured with the micrometer, the fraction must be converted to its decimal equivalent.
+**拆解**：If 引导条件状语从句，从句主语 a dimension 带过去分词短语 given in a common fraction 作后置定语；从句谓语 is to be measured（be to do 的被动，表「将要/须被测量」）；主句 the fraction must be converted to its decimal equivalent 为情态被动。
+**要点**：given in a common fraction 展开为 that is given…，翻译时前置成「用普通分数给出的」；is to be measured 与 must be converted 都含义务语气，中文用「要……必须……」；equivalent 在此为名词「等值」。
+
+### ④ 动名词短语作主语
+**原句**：Continually sliding work between the anvil and spindle may wear the surfaces.
+**拆解**：主语是动名词短语 Continually sliding work between the anvil and spindle（副词 Continually 修饰 sliding，work 是 sliding 的宾语，between… 为地点状语）；谓语 may wear；宾语 the surfaces。
+**要点**：动名词作主语时谓语用单数；sliding 的宾语 work 是「工件」，不要误读成动词；这种「动作作主语」的句子中文常改写成「不断……会……」的条件句。
+
+### ⑤ be read by + 动名词：方式状语的被动表达
+**原句**：The micrometer is read by first noting the last visible figure on the horizontal line of the barrel representing tenths of an inch.
+**拆解**：主语 The micrometer + is read 被动谓语；by first noting… 为介词短语作方式状语，动名词 noting 的逻辑主语是操作者；the last visible figure 为宾语，on the horizontal line of the barrel 为后置定语，representing tenths of an inch 为现在分词短语修饰 figure。
+**要点**：by + 动名词在被动句中说明「通过……来读」，中文译「读法是先记下……」；现在分词 representing 作后置定语，相当于 which represents，翻译时另起短句更清楚。
+
+### ⑥ As 引导方式状语从句 + 被动 + 不定式作后置定语
+**原句**：As the tool’s name implies, the slide caliper jaw is slid along a graduated scale, and its jaws then contact the inside or outside of the object to be measured.
+**拆解**：As the tool’s name implies 为方式状语从句（as 作 implies 的宾语，意为「正如……所示」）；主句由 and 连接两个并列分句：the slide caliper jaw is slid along a graduated scale（被动）与 its jaws then contact the inside or outside of the object to be measured（to be measured 为不定式被动作后置定语）。
+**要点**：as 引导方式从句置于句首译「顾名思义」；is slid 是被动，动作执行者是使用者；to be measured 表「待测量的」，是技术文本常见的不定式被动定语。

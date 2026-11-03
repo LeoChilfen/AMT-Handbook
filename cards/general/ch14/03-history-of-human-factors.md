@@ -60,7 +60,7 @@ A detailed review of aviation literature published between 1976 and 1987 had ver
 | --- | --- | --- | --- |
 | anthropometry | n. | 人体测量学 | 达·芬奇最早研究、至今用于维修设计的学科 |
 | challenge-response system | n. | 挑战—应答系统 | Gilbreth 在手术室提出的复诵确认方法 |
-| human-machine compatibility | n. | 人机兼容性 | 一战前只能靠试错检验 |
+| aviation psychology | n. | 航空心理学 | 二战期间兴起的心理学分支 |
 | aeromedical | adj. | 航空医学的 | 一战带动航空医学研究需求 |
 | Hawthorne Effect | n. | 霍桑效应 | 照明实验发现的激励因素效应 |
 | ergonomics | n. | 人机工程学 | 对技术员的研究包含设备设计 |

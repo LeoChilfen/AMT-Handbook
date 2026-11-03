@@ -78,22 +78,118 @@ INCIDENT CAUSE INCIDENT CAUSE ACCIDENT CAUSE ACCIDENT CAUSE ACCIDENT CAUSE
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（36 段）。专业术语按行业惯例，数字与缩写保留。 -->
+以下是关于人为因素的良好信息来源的网站和参考文献清单。
+
+2001 年 3 月 20 日，一架汉莎航空的空中客车 A320 在起飞后不久因机长侧杆飞行控制装置的接线反接而险些坠毁。副驾驶的侧杆没有故障，他的迅速处置避免了一场坠毁。
+
+调查集中在汉莎技术公司在飞行前刚刚对机长操纵装置所做的维修。在前一次飞行中，两台升降舵/副翼计算机（ELAC）中的一台出现了问题。连接器中的一个电气插针被发现损坏并已更换。现已确认，修理过程中连接器内的两对插针被意外交叉。这改变了侧杆及相应控制通道的极性，从而「绕过」了控制单元，而控制单元本可能察觉该错误并触发警告。在飞行控制检查期间，飞行中的电子中央飞机监控（ECAM）屏幕上本可能看到线索，但飞行员往往只检查偏转指示，而不看方向。在飞机离开机库前，机械师进行了一次飞行控制检查，但只使用了副驾驶的侧杆。
+
+事件原因 锁销 阿拉斯加航空 261 号航班，一架麦克唐纳-道格拉斯 MD-83 飞机，于 2000 年 1 月 31 日在太平洋上发生致命事故。机上两名飞行员、三名乘务员和 83 名乘客遇难，飞机损毁。
+
+国家运输安全委员会（NTSB）随后的调查认定，维修不当导致一个关键飞行控制系统在飞行中过度磨损并发生灾难性失效。可能原因被表述为「飞机俯仰控制丧失，源于水平安定面配平系统起重螺杆组件的梯形螺母螺纹在飞行中失效。螺纹失效由过度磨损造成，而过度磨损源于阿拉斯加航空对起重螺杆组件的润滑不足。」
+
+事故原因 因飞行控制装置接线反接而坠毁。
+
+因起重螺杆组件润滑不足而坠毁。维修工卡 工号 A26 适航指令说明 第 1 页，共 2 页 -400 第 1 页，共 1 页 97471 FZE 1 区域 221-222 固态飞行数据记录器（如适用）
+
+MS 31-31-00-007-002-500（AMM 31-31-01）F1 SSFDR 数据复制 注：这是重复检查！
+
+执行和检查必须由两人完成。
+
+执行 = B1 检查 = B1 使用便携接口（PI）装置复制 FDR 数据 A 概述（1）本任务用便携接口（PI）装置，在飞行数据记录器（FDR）装在飞机上时复制其数据（a）PI 将数据存入可移除的 PC 卡（PCMCIA）。
+
+（b）随后可由相应的航空公司人员分析 PC 卡上的数据。
+
+1 0.00 0.00 SSFOR——便携接口装置 任务 4A D-4 FRAWB41 18.11.02 263 PAC UZ0030 说明每项维修任务的步骤。
+
+### 美国联邦航空管理局（FAA）
+
+FAA 内部有许多人为因素资源。航空维修人为因素最直接的链接是 FAA 人为因素网站 hf.faa.gov。它提供文档访问和服务，包括可追溯到 1988 年 FAA 维修人为因素研究与发展计划启动时的大多数 FAA 维修人为因素文档。新文档包括视频、PowerPoint 演示和其他媒体。
+
+#### FAA 维修疲劳部门
+
+FAA 资助了一个多学科主题专家工作组，成员来自行业、劳工、研究和政府，以调查与维修疲劳相关的问题，以及可用于管理疲劳风险的实用、基于科学的方法。欲了解更多信息，请访问网站 www.mxfatigue.com。
+
+（图内图表标签：技术原因、人为原因、1903 年至今、事故数、时间、航空事故）
+
+#### FAA 安全团队
+
+FAA 安全团队有一个专门网站，提供关于安全关切、即将举行的研讨会、特色课程和资源的最新信息。欲了解更多信息，请访问网站 www.faasafety.gov。
+
+#### 系统安全服务
+
+系统安全服务的使命是帮助客户开发满足其需求的最佳安全系统。他们拥有一支经验丰富、专业的团队，成员在航空和人为因素方面有多年的经验。该网站提供大量人为因素信息，包括文章、即将举行的活动、演示、安全视频、培训辅助材料和研讨会。欲了解更多信息，请访问其网站 www.system-safety.com。
+
+#### 人为因素与人机工程学学会（HFES）
+
+人为因素与人机工程学学会（HFES）是美国唯一专门致力于人为因素专业的组织。HFES 成立于 1957 年，通常保有约 5,000 名会员。欲了解更多信息，请访问其网站 www.hfes.org。
+
+#### 国际人机工程学协会（IEA）
+
+国际人机工程学协会（IEA）是一个由世界各地 40 多个人机工程学和人为因素学会组成的联合会。HFES 的所有成员也自动成为 IEA 的成员。IEA 内的主要联系渠道是通过其秘书长办公室。欲了解更多信息，请访问其网站 iea.cc。
+
+1993 年 8 月 26 日，一架 Excalibur Airways 的空中客车 A320 从伦敦盖特威克机场（LGW）起飞，起飞时出现非指令性的向右滚转，该状况一直持续到飞机 37 分钟后返回 LGW 降落。控制飞机全程都需要大幅向左压侧杆，飞行控制系统因扰流板控制丧失而性能降级。
+
+熟悉波音 757 襟翼更换程序的技术员，缺乏在空客飞机上于飞行前一天进行的襟翼更换工作中正确锁定扰流板所需的知识。向下一班技术员的交接加剧了问题。由于假定 A320 与 757 相同，没有人提到不正确的扰流板锁定程序。襟翼更换进行了运行检查，但扰流板仍被错误锁定，飞行机组在标准功能检查中未能发现。对空客程序缺乏了解被认为是这起事件的主要原因。
+
+2001 年 4 月 26 日，一架 Emery Worldwide Airlines 的 DC-8-71F 左主起落架在着陆时无法放下。
+
+可能原因是维修未安装正确的液压起落架放下部件，以及检查未遵守维修后测试程序。无人受伤。
+
+2002 年 5 月 25 日，中华航空 611 号航班一架波音 747 在空中解体并坠毁，机上 225 人全部遇难。
+
+这起事故是先前一次事件后维修不当造成金属疲劳的结果。
+
+2003 年 8 月 26 日，一架 Colgan Air 的 Beech 1900D 从马萨诸塞州海恩尼斯起飞后不久坠毁。两名飞行员遇难。
+
+前升降舵配平钢索更换不当，以及随后对所执行维修的功能检查不充分，导致升降舵配平系统反向，并在飞行中失去控制。相关因素包括飞行机组未遵循检查单程序，以及飞机制造商在维修手册中对升降舵配平鼓的错误描绘。
+
+2007 年 9 月 28 日，美国航空 1400 号航班一架 DC-9 从兰伯特-圣路易斯国际机场（STL）起飞爬升时发生飞行中发动机起火。在返回 STL 的过程中，前起落架无法放下，飞行机组执行了复飞，并在复飞期间使用应急程序放下了前起落架。飞行机组实施了紧急着陆，2 名飞行机组成员、3 名乘务员和 138 名乘客在跑道上撤离。据报无人员受伤，但飞机因火灾遭受严重损坏。
+
+美国航空维修人员使用了不适当的发动机起动手册程序，导致左发动机空气涡轮起动机活门非指令性打开，随后左发动机起火。
+
+（图内标签：事件原因、事件原因、事故原因、事故原因、事故原因）
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Maintenance —— This includes inspection, overhaul, repair, preservation, and the replacement of parts, but excludes preventive maintenance.
-- Matter —— Any substance that has mass and takes up space.
-- Pitch (aircraft maneuver) —— Rotation of an aircraft about its lateral axis. Pitch (rivet layout dimension). The distance between the centers of adjacent rivets installed in the same row. P
-- Repair —— The restoration of an aircraft component to its previous state.
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| reference | n. | 参考文献 | 人为因素信息的来源清单 |
+| sidestick | n. | 侧杆 | 空客 A320 的飞行控制输入装置 |
+| polarity | n. | 极性 | 接线反接后侧杆控制通道的极性改变 |
+| maintenance fatigue | n.phr. | 维修疲劳 | FAA 资助工作组研究的主题 |
+| ergonomics | n. | 人机工程学 | HFES、IEA 等组织的专业领域 |
+| federation | n. | 联合会 | IEA 由 40 多个学会组成 |
+| jackscrew assembly | n.phr. | 起重螺杆组件 | 阿拉斯加航空 261 号航班失效的部件 |
+| acme nut threads | n.phr. | 梯形螺母螺纹 | 因润滑不足而过度磨损的螺纹 |
+| spoiler | n. | 扰流板 | 空客 A320 襟翼更换中需正确锁定的部件 |
+| elevator trim | n.phr. | 升降舵配平 | 配平钢索装反导致系统反向 |
+| go-around | n. | 复飞 | 前起落架无法放下时采取的处置 |
+| turnover | n. | 交接 | 换班时把未完成的工作移交下一班 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① 完全倒装与定语从句
+**原句**：Following is a list of websites and references that are good sources of information on human factors.
+**拆解**：Following 作表语置于句首，构成完全倒装，正常语序为 A list of websites and references is following；that are good sources… 为修饰 websites and references 的定语从句。
+**要点**：介绍清单时常用 Following is… 或 The following is…；注意 following 在此不是「接下来的」修饰语，而是表语。
+
+### ② whose 引导非限制性定语从句
+**原句**：Quick action by the co-pilot, whose sidestick was not faulty, prevented a crash.
+**拆解**：主干 Quick action prevented a crash；by the co-pilot 为后置定语；whose sidestick was not faulty 是非限制性定语从句，修饰 the co-pilot。
+**要点**：whose 表示所属关系；两个逗号之间的从句去掉后主句仍完整，说明它是补充说明而非必要限定。
+
+### ③ It 形式主语与过去完成时被动
+**原句**：It has been confirmed that two pairs of pins inside the connector had accidentally been crossed during the repair.
+**拆解**：It 为形式主语，that 从句为真正主语；从句谓语 had been crossed 为过去完成时的被动语态；during the repair 为时间状语。
+**要点**：It has been confirmed that… 是调查报告中常见的客观表述；过去完成时表明交叉发生在「确认」之前。
+
+### ④ 现在分词短语作后置定语
+**原句**：The thread failure was caused by excessive wear resulting from Alaska Airlines’ insufficient lubrication of the jackscrew assembly.
+**拆解**：主干 The thread failure was caused by excessive wear；resulting from… 为现在分词短语，修饰 excessive wear；介词短语 of the jackscrew assembly 修饰 lubrication。
+**要点**：result from 表示「由……造成」，与 result in（导致）方向相反；此处分词短语相当于 which resulted from。
+
+### ⑤ 形容词短语与过去分词短语作后置定语
+**原句**：Technicians familiar with Boeing 757 flap change procedures lacked the knowledge required to correctly lock out the spoilers on the Airbus during the flap change work that was done the day before the flight.
+**拆解**：主语 Technicians 后接形容词短语 familiar with… 作后置定语；谓语 lacked；宾语 the knowledge 后接过去分词短语 required to… 作后置定语；that was done… 为修饰 work 的定语从句。
+**要点**：familiar with 作定语时必须后置；required to do 表示「为做……所需的」，是技术文本高频搭配。

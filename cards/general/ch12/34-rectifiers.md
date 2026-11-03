@@ -14,21 +14,21 @@ Off Gear, flap, spoiler switch Pilot’s audio Copilot’s map light Transceiver
 
 ### Half-Wave Rectifier
 
-Figure 12-215 illustrates the basic concept of a half-wave rectifier. When an AC signal is on a positive swing as shown in Figure 12-215A, the polarities across the diode and the load resistor are also positive. In this case, the diode is forward biased and can be replaced with a short circuit as shown in the figure. The positive portion of the input signal appears across the load resistor with no loss in potential across the series diode.
+When an AC signal is on a positive swing as shown, the polarities across the diode and the load resistor are also positive. In this case, the diode is forward biased and can be replaced with a short circuit as shown in the figure. The positive portion of the input signal appears across the load resistor with no loss in potential across the series diode.
 
-Figure 12-215B now shows the input signal being reversed. Note that the polarities across the diode and the load resistor are also reversed. In this case, the diode is now reverse biased and can be replaced with an equivalent open circuit. The current in the circuit is now 0 amperes and the voltage drop over the load resistor is 0 volts. The resulting waveform for a complete Si Si Si Si SiSi SiSiSi Si A B Electron movement Silicon atom showing one of the electrons in its valence shell Silicon atom in which one electron has broken out of its valence shell and left a hole Electron moving from one silicon atom to another and leaving a hole Hole movement N-typeP-type N-typeDepletion zone Represents electrostatic field P-type sinusoidal input can be seen at the far right of Figure 12-215. The output waveform is a reproduction of the input waveform minus the negative voltage swing of the wave. For this reason, this type of rectifier is called a half-wave rectifier.
+Note that the polarities across the diode and the load resistor are also reversed. In this case, the diode is now reverse biased and can be replaced with an equivalent open circuit. The current in the circuit is now 0 amperes and the voltage drop over the load resistor is 0 volts. The resulting waveform for a complete Si Si Si Si SiSi SiSiSi Si A B Electron movement Silicon atom showing one of the electrons in its valence shell Silicon atom in which one electron has broken out of its valence shell and left a hole Electron moving from one silicon atom to another and leaving a hole Hole movement N-typeP-type N-typeDepletion zone Represents electrostatic field P-type sinusoidal input can be seen. The output waveform is a reproduction of the input waveform minus the negative voltage swing of the wave. For this reason, this type of rectifier is called a half-wave rectifier.
 
 ### Full-Wave Rectifier
 
-Figure 12-216 illustrates a more common use of the diode as a rectifier. This type of a rectifier is called a full-wave bridge rectifier. The term “full-wave” indicates that the output is a continuous sequence of pulses rather than having gaps that appear in the half-wave rectifier.
+This type of a rectifier is called a full-wave bridge rectifier. The term “full-wave” indicates that the output is a continuous sequence of pulses rather than having gaps that appear in the half-wave rectifier.
 
-Figure 12-216C shows the initial condition, during which, a positive portion of the input signal is applied to the network. Note the polarities across the diodes. Diodes D2 and D4 are reverse biased and can be replaced with an open circuit. Diodes D1 and D3 are forward biased and act as an open circuit. The current path through the diodes is clear to see, and the resulting waveform is developed across the load resistor.
+Note the polarities across the diodes. Diodes D2 and D4 are reverse biased and can be replaced with an open circuit. Diodes D1 and D3 are forward biased and act as an open circuit. The current path through the diodes is clear to see, and the resulting waveform is developed across the load resistor.
 
-During the negative portion of the applied signal, the diodes reverse their polarity and bias states. The result is a network shown in Figure 12-216D. Current now passes through diodes D4 and D2, which are forward biased, while diodes D1 and D3 are essentially open circuits due to being reverse biased. Note that during both alternations of the input waveform, the current passes through the load resistor in the same direction. This results in the negative swing of the waveform being flipped up to the positive side of the time line.
+During the negative portion of the applied signal, the diodes reverse their polarity and bias states. The result is a network. Current now passes through diodes D4 and D2, which are forward biased, while diodes D1 and D3 are essentially open circuits due to being reverse biased. Note that during both alternations of the input waveform, the current passes through the load resistor in the same direction. This results in the negative swing of the waveform being flipped up to the positive side of the time line.
 
 Dry disk rectifiers operate on the principle that electric current flows through a junction of two dissimilar conducting materials more readily in one direction than it does in the opposite direction. This is true because the resistance to current flow in one direction is low, while in the other direction it is high. Depending on the materials used, several amperes may flow in the direction of low resistance but only N-type Narrow depletion zone P-type + – Holes Electrons Electron flow e – N-typeWide depletion zoneP-type +– a few milliamperes in the direction of high resistance.
 
-Three types of dry disk rectifiers may be found in aircraft: the copper oxide rectifier, the selenium rectifier, and the magnesium copper-sulfide rectifier. The copper oxide rectifier consists of a copper disk upon which a layer of copper oxide has been formed by heating. [Figure 12-217] It may also consist of a chemical copper oxide preparation spread evenly over the copper surface. Metal plates, usually lead plates, are pressed against the two opposite faces of the disk to form a good contact. Current flow is from the copper to the copper oxide.
+Three types of dry disk rectifiers may be found in aircraft: the copper oxide rectifier, the selenium rectifier, and the magnesium copper-sulfide rectifier. The copper oxide rectifier consists of a copper disk upon which a layer of copper oxide has been formed by heating. It may also consist of a chemical copper oxide preparation spread evenly over the copper surface. Metal plates, usually lead plates, are pressed against the two opposite faces of the disk to form a good contact. Current flow is from the copper to the copper oxide.
 
 The selenium rectifier consists of an iron disk, similar to a washer, with one side coated with selenium. Its operation is similar to that of the copper oxide rectifier. Current flows from the selenium to the iron.
 
@@ -38,13 +38,13 @@ Today, there are many varieties of diodes that can be grouped into one of severa
 
 #### Power Rectifier Diodes
 
-The rectifier diode is usually used in applications that require high current, such as power supplies. The range in which the diode can handle current can vary anywhere from one ampere to hundreds of amperes. One common example of diodes is the series of diodes, part numbers 1N4001 to 1N4007. The “1N” indicates that there is only one PN junction, or that the device is a diode. The average current carrying range for these rectifier diodes is about one ampere with a peak inverse voltage between 50 volts to 1,000 volts. Larger rectifier diodes can carry currents up to 300 amperes when forward biased and have a peak inverse voltage of 600 volts. A recognizable feature of the larger rectifier diodes is that they are encased in metal in order to provide a heat sink. [Figure 12-218]
+The rectifier diode is usually used in applications that require high current, such as power supplies. The range in which the diode can handle current can vary anywhere from one ampere to hundreds of amperes. One common example of diodes is the series of diodes, part numbers 1N4001 to 1N4007. The “1N” indicates that there is only one PN junction, or that the device is a diode. The average current carrying range for these rectifier diodes is about one ampere with a peak inverse voltage between 50 volts to 1,000 volts. Larger rectifier diodes can carry currents up to 300 amperes when forward biased and have a peak inverse voltage of 600 volts. A recognizable feature of the larger rectifier diodes is that they are encased in metal in order to provide a heat sink.
 
 Zener diodes (sometimes called “breakdown diodes”) are designed so that they break down (allow current to pass) when the circuit potential is equal to or in excess of the desired reverse bias voltage. The range of reverse bias breakdown-voltages commonly found can range from 2 volts to 200 volts depending on design. Once a specific reverse bias voltage has been reached, the diode conducts and behaves like a constant voltage source. Within the normal operating range, the zener functions as a voltage regulator, waveform clipper, and other related functions. Below the desired voltage, the zener blocks the circuit like any other diode biased in the reverse direction. Because the zener diode allows free flow in one direction when it is used in an AC circuit, two diodes connected in opposite directions must be used. This takes care of both alternations of current. Power ratings of these devices range from about 250 milliwatts to 50 watts.
 
 #### Special Purpose Diodes
 
-The unique characteristics of semiconductor material have allowed for the development of many specialized types of diodes. A short description of some of the more common diode types is given for general familiarization. [Figure 12-219]
+The unique characteristics of semiconductor material have allowed for the development of many specialized types of diodes. A short description of some of the more common diode types is given for general familiarization.
 
 #### Light-Emitting Diode (LED)
 
@@ -70,30 +70,116 @@ Schottky diodes are designed to have metal, such as gold, silver, or platinum, o
 
 #### Diode Identification
 
-Figure 12-218 illustrates a number of methods employed for identifying diodes. Typically manufacturers place some form of an identifier on the diode to indicate which end is the anode and which end is the cathode. Dots, bands, colored bands, the letter ‘k’ or unusual shapes indicate the cathode end of the diode.
+Typically manufacturers place some form of an identifier on the diode to indicate which end is the anode and which end is the cathode. Dots, bands, colored bands, the letter ‘k’ or unusual shapes indicate the cathode end of the diode.
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（34 段）。专业术语按行业惯例，数字与缩写保留。 -->
+飞机上的许多设备工作需要大电流、低电压的直流电。这种电力可以由发动机驱动的直流发电机、电动发电机机组、真空管整流器，或者干式圆片整流器或固态整流器提供。
+
+在采用交流电源系统的飞机上，不宜专门设置一台直流发电机，因为那样发动机附件传动部分就必须再驱动一件设备。由驱动直流发电机的风冷交流电动机组成的电动发电机机组消除了这一弊端，因为它们直接由交流电源系统工作。真空管整流器或各种类型的固态整流器提供了以低电流获得高压直流电的简便而高效的方法。另一方面，干式圆片整流器和固态整流器则是低压大电流的优良电源。
+
+整流器是通过限制或控制电流方向而把交流电转变为直流电的装置。整流器的主要类型是干式圆片整流器和固态整流器。固态整流器（即半导体整流器）已取代几乎所有其他类型；而且，由于干式圆片整流器和电动发电机机组大多只限于较老机型的飞机，整流器研究的绝大部分内容都集中在用于整流的固态器件上。本手册讨论的两种方法是……
+
+……半波整流器和全波整流器。
+
+### 半波整流器
+
+当交流信号处于正半周（如图所示）时，二极管和负载电阻两端的极性也为正。此时二极管正向偏置，可以用一个短路来代替（如图所示）。输入信号的正半部分出现在负载电阻两端，串联二极管上没有电压损失。
+
+请注意，二极管和负载电阻两端的极性也反了过来。此时二极管反向偏置，可以用一个等效开路来代替。电路中的电流现在为 0 安培，负载电阻上的电压降为 0 伏。完整正弦输入信号所得的波形即可看出。输出波形是输入波形的重现，只是去掉了波的负半周。因此，这种整流器称为半波整流器。
+
+### 全波整流器
+
+这种整流器称为全波桥式整流器。「全波」一词表示输出是一连串连续的脉冲，而不是半波整流器中出现的间断。
+
+注意各二极管两端的极性。二极管 D2 和 D4 反向偏置，可以用开路代替。二极管 D1 和 D3 正向偏置，并起到开路的作用。流过二极管的电流路径清晰可见，产生的波形出现在负载电阻两端。
+
+在输入信号的负半周，各二极管反转其极性和偏置状态。结果便得到一种网络。现在电流经过正向偏置的二极管 D4 和 D2，而二极管 D1 和 D3 因反向偏置而基本上是开路的。注意，在输入波形的两个半周内，电流都以相同方向流过负载电阻。其结果是波形的负半周被翻转到时间轴的正侧。
+
+干式圆片整流器的工作原理是：电流通过两种不同导电材料相接的接合面时，沿一个方向流动比沿相反方向容易。这是正确的，因为沿一个方向的电流阻力小，而沿另一个方向的阻力大。取决于所用的材料，沿低阻方向可能有几安培电流流过，而沿高阻方向只有几毫安。
+
+在飞机上可以找到三种类型的干式圆片整流器：氧化铜整流器、硒整流器和硫化铜镁整流器。氧化铜整流器由一片铜圆片构成，其表面经加热形成了一层氧化铜。它也可以由均匀涂布在铜表面上的化学氧化铜制剂构成。金属板（通常是铅板）压在圆片的两个相对表面上，以形成良好接触。电流从铜流向氧化铜。
+
+硒整流器由形似垫圈的铁圆片构成，一侧涂有硒。其工作原理与氧化铜整流器相似。电流从硒流向铁。
+
+硫化铜镁整流器由涂有一层硫化铜的垫圈状镁圆片制成。圆片的排列方式与其他类型相似。电流从镁流向硫化铜。
+
+如今，二极管有许多品种，可以归入若干基本类别之一。
+
+#### 功率整流二极管
+
+整流二极管通常用于需要大电流的场合，例如电源。二极管可承受的电流范围从 1 安培到数百安培不等。二极管的一个常见例子是 1N4001 至 1N4007 这一系列二极管。「1N」表示只有一个 PN 结，即该器件是一只二极管。这些整流二极管的平均载流范围约为 1 安培，峰值反向电压在 50 伏至 1000 伏之间。较大的整流二极管在正向偏置时可通过高达 300 安培的电流，峰值反向电压为 600 伏。较大整流二极管的一个可识别特征是，它们封装在金属壳内，以提供散热。
+
+齐纳二极管（有时称为「击穿二极管」）的设计使其在电路电位等于或超过所需的反向偏置电压时发生击穿（允许电流通过）。常见的反向击穿电压范围依设计而定，可从 2 伏到 200 伏。一旦达到某一特定的反向偏置电压，二极管就导通，其行为如同一个恒压源。在正常工作范围内，齐纳二极管起稳压、波形限幅及其他相关作用。低于所需电压时，齐纳二极管像任何反向偏置的二极管一样阻断电路。由于齐纳二极管用于交流电路时允许电流沿一个方向自由通过，因此必须使用两只反向连接的二极管。这样就能兼顾电流的两个半周。这类器件的额定功率约从 250 毫瓦到 50 瓦。
+
+#### 特殊用途二极管
+
+半导体材料的独特特性促成了许多专用二极管的开发。以下对几种较常见的二极管类型作简要介绍，以供一般性了解。
+
+#### 发光二极管（LED）
+
+在正向偏置的二极管中，电子穿过结并落入空穴。当电子落入价带时，它们辐射能量。在整流二极管中，这部分能量以热的形式耗散。然而，在发光二极管（LED）中，能量以光的形式耗散。通过使用镓、砷、磷等元素，可以设计出辐射红光、绿光、黄光、蓝光及红外光的 LED。为可见光波段设计的 LED 可用于仪表、指示器，甚至客舱照明。与白炽灯相比，LED 的优点是寿命更长、电压更低、开闭更快、发热更少。
+
+（原文此处为图注碎片，无对应正文）
+
+（原文此处为图注碎片，无对应正文）
+
+（原文此处为图注碎片，无对应正文）
+
+#### 液晶显示器（LCD）
+
+液晶显示器（LCD）相对于 LED 的优点在于工作所需功率更小。LED 通常在毫瓦级工作，而 LCD 在微瓦级工作。液晶封装在两块玻璃板之间。不向 LCD 施加电压时，显示是透明的。然而，施加电压后，结果是晶体原子的取向发生变化。入射光便朝不同方向反射。施加电压的区域会呈现霜状外观，从而使数值可以被分辨出来。
+
+热能在二极管中产生少数载流子。温度越高，反向电流二极管的电流越大。光能也能产生少数载流子。利用一个小窗口把 PN 结暴露出来，就可以制成光电二极管。当光照在反向偏置光电二极管的结上时，耗尽层内部会产生电子-空穴对。光越强，光生载流子数目越多，从而使反向电流的幅度越大。由于这一特性，光电二极管可用于光检测电路。
+
+变容二极管就是一种可变电容二极管。所加的反向电压控制二极管的可变电容。随着反向电压的增大，过渡电容减小。在许多应用中，变容二极管已取代了老式的机械调谐电容器。变容二极管可以与电感并联，从而为调谐电路提供一个谐振槽路。只要改变变容二极管两端的反向电压，就能调节电路的谐振频率。
+
+#### 肖特基二极管
+
+肖特基二极管的设计是在结的一侧采用金属（如金、银或铂），在结的另一侧采用掺杂硅（通常是 N 型）。这种二极管被认为是单极器件，因为结两侧的多数载流子都是自由电子。肖特基二极管没有耗尽区，也不存在电荷存储，这意味着其开关时间可高达 300 MHz。这一特性优于双极二极管。
+
+#### 二极管识别
+
+通常制造商会把某种形式的识别标记放在二极管上，以指出哪一端是阳极、哪一端是阴极。圆点、色带、彩色条带、字母「k」或特殊形状都表示二极管的阴极端。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Ampere —— A unit of measure of the rate of electron flow or current in an electrical conductor. One ampere of current represents one coulomb of electrical charge (6.24 × 
-- Capacitance (C) —— The property of an electric conductor that characterizes its ability to store an electric charge.
-- Current —— The flow of electrical charge.
-- Electrostatic field —— A field of force that exists around a charged body.
-- Energy —— The capacity of a physical system to perform work. There are two types of energy, kinetic and potential.
-- Frequency —— The number of cycles (on/off) completed per unit of time. Usually expressed in Hertz.
-- Inductor —— A coil of wire that produces inductance in an electrical circuit.
-- Power (exponent) —— A shorthand method of indicating how many times a number, called the base, is multiplied by itself. For example, in the number 43, 3 is the power, or exponent, 
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| rectifier | n. | 整流器 | 本节主题；把交流电转为直流电的装置 |
+| half-wave rectifier | n. | 半波整流器 | 只利用输入波形的一个半周，输出有间断 |
+| full-wave bridge rectifier | n. | 全波桥式整流器 | 由 D1–D4 四只二极管组成，输出为连续脉冲 |
+| dry disk rectifier | n. | 干式圆片整流器 | 老机型用的氧化铜、硒、硫化铜镁圆片整流器 |
+| solid-state rectifier | n. | 固态整流器 | 半导体整流器，已取代几乎所有其他类型 |
+| forward biased | adj. | 正向偏置 | 二极管导通、可用短路代替的状态 |
+| reverse biased | adj. | 反向偏置 | 二极管截止、可用开路代替的状态 |
+| peak inverse voltage | n. | 峰值反向电压 | 1N4001 系列为 50–1000 V，大功率管为 600 V |
+| zener diode | n. | 齐纳二极管 | 达到反向击穿电压后导通，起稳压作用，2–200 V |
+| LED | n. | 发光二极管 | 能量以光而非热耗散，寿命长、发热少 |
+| photodiode | n. | 光电二极管 | 开窗暴露 PN 结，反向电流随光照增强，用于光检测 |
+| varactor | n. | 变容二极管 | 反向电压控制电容，可替代机械调谐电容 |
+| Schottky diode | n. | 肖特基二极管 | 一侧金属一侧 N 型硅，无耗尽区，开关达 300 MHz |
+| anode / cathode | n. | 阳极 / 阴极 | 二极管两端；圆点、色带、字母 k 标出阴极端 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① since 原因从句 + it 形式主语 + for sb. to do
+**原句**：In aircraft with AC systems, a special DC generator is not desirable since it would be necessary for the engine accessory section to drive an additional piece of equipment.
+**拆解**：In aircraft with AC systems 为地点状语（with AC systems 是后置定语）；主句主语 a special DC generator，谓语 is not desirable；since 引导原因状语从句，从句中 it 为形式主语，真正主语是 for the engine accessory section to drive an additional piece of equipment，would be necessary 为系表结构。
+**要点**：it is necessary for sb./sth. to do 是「某方必须做某事」的固定句式，for 引出不定式的逻辑主语，不可省；since 在此表原因而非时间，与 because 相比语气更书面；主句的 not desirable 是「不可取」，不是「不令人满意」。
+### ② 分词短语作插入定语 + 定语从句 + because 从句
+**原句**：Motor generator sets, consisting of air-cooled AC motors that drive DC generators, eliminate this objection because they operate directly off the AC power system.
+**拆解**：主句 Motor generator sets … eliminate this objection；两个逗号之间的 consisting of air-cooled AC motors that drive DC generators 为现在分词短语作后置定语，其中 that 引导定语从句修饰 motors；because they operate directly off the AC power system 为原因状语从句。
+**要点**：现在分词短语作非限制性定语时用逗号隔开，相当于 which consist of…；operate off 意为「由……供电工作」，off 在此表动力来源，属于技术英语固定搭配；eliminate this objection 中 this 回指上句「不宜另设直流发电机」的顾虑，翻译时要补出指代内容。
+### ③ 定语从句 + by 动名词表手段
+**原句**：A rectifier is a device that transforms AC into DC by limiting or regulating the direction of current flow.
+**拆解**：主句 A rectifier is a device；that 引导定语从句修饰 device，从句谓语 transforms，宾语 AC，状语 into DC；by limiting or regulating the direction of current flow 为方式状语，介词 by 后接两个并列动名词，共同带宾语 the direction of current flow。
+**要点**：by + 动名词表示「通过做某事」，两个动名词共用 by 而不重复，也不能改写成 by limit；transform A into B 与 convert A into B 同义，介词均为 into；定语从句 that 作主语不可换成 which 之外的省略形式。
+### ④ that 宾语从句 + rather than + 定语从句
+**原句**：The term “full-wave” indicates that the output is a continuous sequence of pulses rather than having gaps that appear in the half-wave rectifier.
+**拆解**：主语 The term “full-wave”，谓语 indicates，that 引导宾语从句；从句为 the output is a continuous sequence of pulses rather than having gaps…，rather than 连接两个对等的名词性成分（a continuous sequence of pulses 与 having gaps），that appear in the half-wave rectifier 为定语从句修饰 gaps。
+**要点**：rather than 表示取舍对比，前后须保持同一语法形式，此处用动名词 having 与名词短语并列属于原文的松散文体，翻译时按「而不是」处理即可；在 half-wave rectifier 前用定冠词表示「前面提到的半波整流器这一类」；indicates that 是技术定义句的常用谓语。
+### ⑤ once 引导的时间状语 + 现在完成时被动
+**原句**：Once a specific reverse bias voltage has been reached, the diode conducts and behaves like a constant voltage source.
+**拆解**：Once 引导时间状语从句，从句主语 a specific reverse bias voltage，谓语 has been reached（现在完成时被动）；主句主语 the diode，两个并列谓语 conducts 与 behaves like a constant voltage source。
+**要点**：once 引导的从句用现在完成时强调「一旦完成」这一先决条件，主句用一般现在时描述由此产生的结果，构成「条件—结果」关系，不可换成 will conduct；behave like 意为「表现得像」，此处说明齐纳管击穿后近似恒压源；conducts 在此是不及物动词「导通」，不要译成「传导某物」。

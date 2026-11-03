@@ -18,9 +18,9 @@ When the signal that actives a circuit to a 1, true or high condition, has an el
 
 Active State: 1 or True = 0 VDC 0 or False = +5 VDC
 
-Figure 12-251 illustrates the positive and negative pulse in an idealized form. In both forms, the pulse is composed of two edges—one being the leading edge and the other the trailing edge. In the case of the positive pulse logic, the positive transition from a lower state to a higher state is the leading edge and the trailing edge is the opposite. In the case of the negative logic pulse, the negative transition from a higher state to a lower state is the leading edge while the rise from the lower state back to the higher state is the trailing edge.
+The figure illustrates the positive and negative pulse in an idealized form. In both forms, the pulse is composed of two edges—one being the leading edge and the other the trailing edge. In the case of the positive pulse logic, the positive transition from a lower state to a higher state is the leading edge and the trailing edge is the opposite. In the case of the negative logic pulse, the negative transition from a higher state to a lower state is the leading edge while the rise from the lower state back to the higher state is the trailing edge.
 
-Figure 12-251 is considered an ideal pulse because the rise and fall times are instantaneous. In reality, these changes take time, although in actual practice, the rise and fall can be assumed as instantaneous. Figure 12-252 shows the non- ideal pulse and its characteristics. The time required for a pulse to go from a low state to a high state is called the rise AC input AC output DC A B C Load AC input DC Load AC DC time, and the time required for the pulse to return to zero is called the fall time. It is common practice to measure the rise and fall time between 10 percent amplitude and 90 percent amplitude. The reason for taking the measurements in these points is due to the non-linear shape of the pulse in the first 10 percent and final 90 percent of the rise and fall amplitudes. The pulse width is defined as the duration of the pulse. To be more specific, it is the time between the 50 percent amplitude point on both the pulse rise and fall.
+The figure is considered an ideal pulse because the rise and fall times are instantaneous. In reality, these changes take time, although in actual practice, the rise and fall can be assumed as instantaneous. The figure shows the non- ideal pulse and its characteristics. The time required for a pulse to go from a low state to a high state is called the rise AC input AC output DC A B C Load AC input DC Load AC DC time, and the time required for the pulse to return to zero is called the fall time. It is common practice to measure the rise and fall time between 10 percent amplitude and 90 percent amplitude. The reason for taking the measurements in these points is due to the non-linear shape of the pulse in the first 10 percent and final 90 percent of the rise and fall amplitudes. The pulse width is defined as the duration of the pulse. To be more specific, it is the time between the 50 percent amplitude point on both the pulse rise and fall.
 
 ### Basic Logic Circuits
 
@@ -28,54 +28,129 @@ Boolean logic is a symbolic system used in representing the truth value of state
 
 #### The Inverter Logic
 
-The inverter circuit performs a basic logic function called inversion. The purpose of the inverter is to convert one logic state into the opposite state. In terms of a binary digit, this would be like converting a 1 to a 0 or a 0 to a 1. When a high voltage is applied to the inverter input, low voltage is the output. When a low voltage is applied to the input, a high voltage is on the output. This operation can be put into what is known as a logic or truth table. The standard logic symbol is shown in Figure 12-253. Figure 12-254 shows the possible logic states for this gate. This is the common symbol for an amplifier with a small circle on the output. This type of logic can also be considered a NOT gate.
+The inverter circuit performs a basic logic function called inversion. The purpose of the inverter is to convert one logic state into the opposite state. In terms of a binary digit, this would be like converting a 1 to a 0 or a 0 to a 1. When a high voltage is applied to the inverter input, low voltage is the output. When a low voltage is applied to the input, a high voltage is on the output. This operation can be put into what is known as a logic or truth table. The standard logic symbol is shown in the figure. The figure shows the possible logic states for this gate. This is the common symbol for an amplifier with a small circle on the output. This type of logic can also be considered a NOT gate.
 
-The AND gate is made up of two or more inputs and a single output. The logic symbol is shown in Figure 12-255. Inputs are on the left and the output is on the right in each of the depictions. Gates with two, three, and four inputs are shown; however, any number of inputs can be used in the AND logic as long as the number is greater than one. The operation of the AND gate is such that the output is high only when all of the inputs are high. If any of the inputs are low, the output is also low. Therefore, the basic purpose of an AND gate is to determine when certain conditions have been met at the same time. A high level on all inputs produces a high level on the output. Figure 12-256 shows a simplified diagram of the AND logic with two switches and a light bulb. Notice that both switches need to be closed in order for the light bulb to turn on. Any other combination of switch positions is an open circuit and the light does not turn on. An example of AND logic could possibly be engage logic found in an autopilot. In this case, the autopilot would not be allowed to be engaged unless certain conditions are first met. Such conditions could be: Vertical gyro is valid AND directional gyro is valid AND all autopilot control knobs are in detents AND servo circuits are operational. Only when these conditions are met does the Load AC DC Ref DC Control autopilot engage. [Figure 12-257]
+The AND gate is made up of two or more inputs and a single output. The logic symbol is shown in the figure. Inputs are on the left and the output is on the right in each of the depictions. Gates with two, three, and four inputs are shown; however, any number of inputs can be used in the AND logic as long as the number is greater than one. The operation of the AND gate is such that the output is high only when all of the inputs are high. If any of the inputs are low, the output is also low. Therefore, the basic purpose of an AND gate is to determine when certain conditions have been met at the same time. A high level on all inputs produces a high level on the output. The figure shows a simplified diagram of the AND logic with two switches and a light bulb. Notice that both switches need to be closed in order for the light bulb to turn on. Any other combination of switch positions is an open circuit and the light does not turn on. An example of AND logic could possibly be engage logic found in an autopilot. In this case, the autopilot would not be allowed to be engaged unless certain conditions are first met. Such conditions could be: Vertical gyro is valid AND directional gyro is valid AND all autopilot control knobs are in detents AND servo circuits are operational. Only when these conditions are met does the Load AC DC Ref DC Control autopilot engage.
 
-The OR gate has two or more inputs and one output and is normally represented by the standard logic symbol and truth table. [Figure 12-258] Note that the OR gate can have any number of inputs as long as it is greater than one. The operation of the OR gate is such that a high on any one of the inputs produces a high on the output. The only time that a low is produced on the output is if there are no high levels on any input. Figure 12-259 is a simplified circuit that illustrates the OR logic. The example used is a “DOOR UNSAFE” annunciator. Let’s say in this case that the plane has one cabin door and a baggage door. In order for the annunciator light on the master warning panel to extinguish, both doors must be closed and locked. If any one of the doors is not secured properly, the baggage door OR the cabin door, then the “DOOR UNSAFE” annunciator illuminates. In this case, two switches are in parallel with each other. If either one of the two switches is closed, the light bulb lights up. The lamp is off only when both switches are open.
+The OR gate has two or more inputs and one output and is normally represented by the standard logic symbol and truth table. Note that the OR gate can have any number of inputs as long as it is greater than one. The operation of the OR gate is such that a high on any one of the inputs produces a high on the output. The only time that a low is produced on the output is if there are no high levels on any input. The figure is a simplified circuit that illustrates the OR logic. The example used is a “DOOR UNSAFE” annunciator. Let’s say in this case that the plane has one cabin door and a baggage door. In order for the annunciator light on the master warning panel to extinguish, both doors must be closed and locked. If any one of the doors is not secured properly, the baggage door OR the cabin door, then the “DOOR UNSAFE” annunciator illuminates. In this case, two switches are in parallel with each other. If either one of the two switches is closed, the light bulb lights up. The lamp is off only when both switches are open.
 
-The term NAND is a combination of the NOT-AND gate and indicates an AND function with an inverted output. A standard logic symbol for a two input NAND gate is shown in Figure 12-260. Notice that an equivalent AND gate with an inverter is also shown. The logical operation of the NAND gate is such that a low output occurs only if all inputs are high. If any of the inputs are low, the output is high. An example of a two input NAND gate and its corresponding truth table are shown in Figure 12-261.
+The term NAND is a combination of the NOT-AND gate and indicates an AND function with an inverted output. A standard logic symbol for a two input NAND gate is shown in the figure. Notice that an equivalent AND gate with an inverter is also shown. The logical operation of the NAND gate is such that a low output occurs only if all inputs are high. If any of the inputs are low, the output is high. An example of a two input NAND gate and its corresponding truth table are shown in the figure.
 
-The term NOR is a combination of the NOT and OR and indicates an OR function with an inverted output. The standard logic symbol for a two-inputs NOR gate is shown in Figure 12-263. Notice that an equivalent AND gate with an inverter is also shown. The logical operation of the NOR gate is such that a low output happens when any of its inputs are high. Only when all of its inputs are low is the output high. The logic of this gate produces resultant outputs that are the opposite of the OR gate. In the NOR gate, the low output is the active output level. Figure 12-263 illustrates the logical operation of a two-input NOR gate for all of its possible combinations and the truth table.
+The term NOR is a combination of the NOT and OR and indicates an OR function with an inverted output. The standard logic symbol for a two-inputs NOR gate is shown in the figure. Notice that an equivalent AND gate with an inverter is also shown. The logical operation of the NOR gate is such that a low output happens when any of its inputs are high. Only when all of its inputs are low is the output high. The logic of this gate produces resultant outputs that are the opposite of the OR gate. In the NOR gate, the low output is the active output level. The figure illustrates the logical operation of a two-input NOR gate for all of its possible combinations and the truth table.
 
 #### Exclusive OR Gate
 
-The exclusive OR gate is a modified OR gate that produces a 1 output when only one of the inputs is a 1. The abbreviation often used is X-OR. It is different from the standard OR gate in that when both inputs are a 1, then the output remains at a 0. The standard symbol and truth table for the X-OR gate are shown in Figure 12-264.
+The exclusive OR gate is a modified OR gate that produces a 1 output when only one of the inputs is a 1. The abbreviation often used is X-OR. It is different from the standard OR gate in that when both inputs are a 1, then the output remains at a 0. The standard symbol and truth table for the X-OR gate are shown in the figure.
 
 #### Exclusive NOR Gate
 
-The exclusive NOR (X-NOR) gate is nothing more than an X-OR gate with an inverted output. It produces a 1 output when all inputs are 1s and also when all inputs are 0s. The standard symbol is shown in Figure 12-265.
+The exclusive NOR (X-NOR) gate is nothing more than an X-OR gate with an inverted output. It produces a 1 output when all inputs are 1s and also when all inputs are 0s. The standard symbol is shown in the figure.
 
 ### The Integrated Circuit
 
-All of the logic functions so far discussed plus many other components are available in some form of an integrated circuit. The digital systems found in today’s aircraft owe their existence to a large extent to the design of the integrated circuit (IC). In most cases, the IC has an advantage over the use of discrete components in that they are smaller, consume less power, are very reliable, and are inexpensive. The most noticeable characteristic of the IC is its size and in comparison to the discrete semiconductor component, can easily be on the order of thousands of times smaller. [Figure 12-266]\ A monolithic integrated circuit is an electronic circuit that is constructed entirely on a single chip or wafer of semiconductor material. All of the discrete components, such as resistors, transistors, diodes, and capacitors, can be constructed on these small pieces of semiconductor material and are an integral part of the chip. There are a number of levels of integration. Those levels are: small-scale integration, medium-scale integration, large- scale integration, and microprocessors. The small-scale integration is considered the least complex design of the digital ICs. These ICs contain the basic components, such as the AND, OR, NOT, NOR and NAND gates. [Figure 12-267] The medium-scale integration can contain High Leading edge Low Trailing edge Positive logic pulse Negative logic pulse Trailing edge High Leading edge Low Pulse width Pulse characteristic from a databus Rise time 50% 5 V Pulse amplitude (10 volts)
+All of the logic functions so far discussed plus many other components are available in some form of an integrated circuit. The digital systems found in today’s aircraft owe their existence to a large extent to the design of the integrated circuit (IC). In most cases, the IC has an advantage over the use of discrete components in that they are smaller, consume less power, are very reliable, and are inexpensive. The most noticeable characteristic of the IC is its size and in comparison to the discrete semiconductor component, can easily be on the order of thousands of times smaller.A monolithic integrated circuit is an electronic circuit that is constructed entirely on a single chip or wafer of semiconductor material. All of the discrete components, such as resistors, transistors, diodes, and capacitors, can be constructed on these small pieces of semiconductor material and are an integral part of the chip. There are a number of levels of integration. Those levels are: small-scale integration, medium-scale integration, large- scale integration, and microprocessors. The small-scale integration is considered the least complex design of the digital ICs. These ICs contain the basic components, such as the AND, OR, NOT, NOR and NAND gates. The medium-scale integration can contain High Leading edge Low Trailing edge Positive logic pulse Negative logic pulse Trailing edge High Leading edge Low Pulse width Pulse characteristic from a databus Rise time 50% 5 V Pulse amplitude (10 volts)
 
 90% 9 V 10% 1 V Fall time Input = 1 (High)
 
-A X X X B A B A B C C D Input Output High Low Low High the same components as found in the small-scale design but in larger numbers ranging from 12 to 100. The medium- scale designs are house circuits that are more complex, such as encoders, decoders, registers, counters, multiplexers, smaller memories, and arithmetic circuits. [Figure 12-268] The large-scale integrated circuits contain even more logic gates, larger memories than the medium-scale circuits, and in some cases microprocessors.
+A X X X B A B A B C C D Input Output High Low Low High the same components as found in the small-scale design but in larger numbers ranging from 12 to 100. The medium- scale designs are house circuits that are more complex, such as encoders, decoders, registers, counters, multiplexers, smaller memories, and arithmetic circuits. The large-scale integrated circuits contain even more logic gates, larger memories than the medium-scale circuits, and in some cases microprocessors.
 
 The microprocessor is a device that can be programmed to perform arithmetic and logical operations and other functions in a preordered sequence. The microprocessor is usually used as the central processing unit (CPU) in today’s computer systems when it is connected to other components, such as memory chips and input/output circuits. The basic arrangement and design of the circuits residing in the microprocessor is called the architecture.
 
 ## 2. 中文翻译
 
-<!-- TODO: 逐段翻译，段数与上面严格一一对应（26 段）。专业术语按行业惯例，数字与缩写保留。 -->
+逻辑被视为推理的科学——即根据已知信息得出合理结论。人的推理能力使我们明白：如果某些条件或前提为真，那么某些命题也就为真。主警告面板上某个信号牌点亮，就是命题的一个例子，而命题要么为真、要么为假。举例来说，主警告面板中的某个信号牌要点亮，必须先满足预先规定和设计好的条件。一个“液压压力低”的信号牌，可能只有一组简单的条件就能使它点亮。如果条件满足，例如液压油箱液位低导致管路压力低，那么逻辑为真，信号牌点亮。若干命题组合在一起，就构成一个逻辑函数。在上例中，如果 LED 没有烧坏且液压压力低，或者 LED 没有烧坏且正在执行信号牌测试，那么“液压压力低”信号牌就点亮。
+
+关于逻辑电路的本节只作为基本概念的介绍。技术人员在日常生活中会遇到许多（原文此处为图注碎片：Inputs Power supply requirements Output +VCC −VEE … Input/output requirements Feedback，混入正文，无对应正文）情况或问题，这些情况或问题可以用某种逻辑函数的形式来表达。许多问题和情形都可以归结为简单的是/否或真/假陈述，如果把这些陈述按逻辑排列起来，就能把问题逐步筛选到合理的答案。数字逻辑电路非常适合承担这项工作，并且已经应用于当今的集成电路中，而这些集成电路几乎存在于我们在现代飞机上习以为常的所有设备里。这些逻辑电路用来执行诸如导航和通信之类的逻辑功能。在航线可更换单元（LRU）和航空电子设备卡架中的复杂数字系统里，有几个基本元件构成了其构建模块。下面简要介绍这些元件是什么，以及它们处理哪些逻辑条件。由于数字逻辑系统所涉及的知识体系极其庞大，全面介绍它们远远超出本手册的范围。不过，本节可以作为入门，并且在某些有限的情况下，有助于阅读那些使用逻辑符号的系统框图，帮助技术人员理解给定电路是如何工作的。
+
+电脉冲可以表示两种逻辑状态，任何两个不同的电压都可以用于此目的。例如，正电压脉冲可以表示“真”或 1 状态，负电压脉冲则可以表示“假”或 0 逻辑状态。电压发生变化以表示“真”或 1 逻辑的状态称为逻辑极性。逻辑电路通常分为两大类：正极性和负极性。所用电压电平以及表明采用正逻辑还是负逻辑的说明，通常由原始设备制造商（OEM）提供的逻辑图中规定。
+
+当把电路激励到 1（真或高）状态的信号，其电平相对高于 0（假）状态时，就说逻辑极性为正。举例如下：
+
+有效状态：1 或真 = +5 伏直流（VDC）
+
+当把电路激励到 1（真或高）状态的信号，其电平相对低于 0（假）状态时，就说逻辑极性为负。举例如下：
+
+有效状态：1 或真 = 0 VDC　　0 或假 = +5 VDC
+
+该图以理想化的形式展示了正脉冲和负脉冲。两种形式的脉冲都由两个边沿构成——一个是前沿，另一个是后沿。就正脉冲逻辑而言，从低状态到高状态的正向跳变是前沿，后沿则相反。就负逻辑脉冲而言，从高状态到低状态的负向跳变是前沿，而从低状态回到高状态的上升沿则是后沿。
+
+该图被视为理想脉冲，因为其上升和下降时间是瞬时的。实际上这些变化需要时间，尽管在实际应用中可以把上升和下降视为瞬时。该图展示了非理想脉冲及其特性。脉冲从低状态到高状态所需的时间称为上升时间（原文此处为图注碎片：AC input AC output DC A B C Load AC input DC Load AC DC，混入正文，无对应正文），脉冲恢复到零所需的时间称为下降时间。通常的做法是在 10% 幅度到 90% 幅度之间测量上升时间和下降时间。之所以在这些点上测量，是因为脉冲在上升和下降幅度的最初 10% 和最后 90% 段内形状是非线性的。脉冲宽度定义为脉冲的持续时间。更具体地说，它是脉冲上升沿和下降沿上 50% 幅度点之间的时间。
+
+### 基本逻辑电路
+
+布尔逻辑是一种用于表示命题真值的符号系统。它被用于数字计算机所采用的二进制系统，主要因为仅有的两个真值（真和假）可以用二进制数字 1 和 0 表示。计算机存储器中的一个电路可以是断开的或闭合的，这取决于赋予它的值。布尔逻辑的基本运算（常称为布尔运算符）是“与”“或”和“非”；这些运算的组合又构成另外 13 种布尔运算符。本节讨论其中六种。
+
+#### 反相器逻辑
+
+反相器电路执行一种称为反相的基本逻辑功能。反相器的作用是把一个逻辑状态转换为相反的状态。就二进制数字而言，这相当于把 1 变成 0、把 0 变成 1。当高电压加到反相器输入端时，输出端为低电压；当低电压加到输入端时，输出端为高电压。这种操作可以列成所谓的逻辑表或真值表。标准逻辑符号如图所示。该图给出了这种门电路可能的逻辑状态。这是放大器在输出端带一个小圆圈的常用符号。这种逻辑也可以视为“非”门。
+
+与门由两个或更多个输入和一个输出构成。逻辑符号如图所示。在每种图示中，输入在左侧，输出在右侧。图中给出了二输入、三输入和四输入的门电路；不过在“与”逻辑中，只要输入个数大于 1，就可以使用任意多个输入。与门的操作方式是：只有当所有输入都为高时，输出才为高；只要有一个输入为低，输出也为低。因此，与门的基本用途是判定某些条件是否同时满足。所有输入均为高电平时，输出即为高电平。图中用两个开关和一只灯泡给出了与逻辑的简化示意图。注意，两个开关都必须闭合，灯泡才会点亮。开关位置的任何其他组合都是开路，灯泡不会点亮。与逻辑的一个例子可能是自动驾驶仪中的接通逻辑。在这种情况下，除非先满足某些条件，否则不允许接通自动驾驶仪。这些条件可以是：垂直陀螺有效“与”航向陀螺有效“与”所有自动驾驶仪控制旋钮都处于卡位“与”伺服电路工作正常。只有这些条件都满足时，自动驾驶仪才会接通（原文此处为图注碎片：Load AC DC Ref DC Control，混入正文，无对应正文）。
+
+或门有两个或更多个输入和一个输出，通常用标准逻辑符号和真值表表示。注意，或门可以有任意多个输入，只要大于 1 即可。或门的操作方式是：任意一个输入为高，输出即为高。只有在所有输入都没有高电平时，输出才为低。该图是一个说明或逻辑的简化电路。所用的例子是“舱门不安全”信号牌。假设本例中飞机有一个客舱门和一个行李舱门。要使主警告面板上的信号牌熄灭，两个门都必须关闭并锁定。如果任何一个门没有正确固定，无论是行李舱门还是客舱门，则“舱门不安全”信号牌点亮。在这种情况下，两个开关相互并联。只要两个开关中有一个闭合，灯泡就点亮。只有当两个开关都断开时，灯才熄灭。
+
+NAND 一词是“非-与”门的组合，表示输出被反相的“与”功能。二输入与非门（NAND）的标准逻辑符号如图所示。注意，图中还给出了一个等效的“与”门加反相器。与非门的逻辑操作方式是：只有当所有输入都为高时，输出才为低；只要有一个输入为低，输出就为高。图中给出了一个二输入与非门及其对应的真值表。
+
+NOR 一词是“非”与“或”的组合，表示输出被反相的“或”功能。二输入或非门（NOR）的标准逻辑符号如图所示。注意，图中还给出了一个等效的“与”门加反相器。或非门的逻辑操作方式是：只要任一输入为高，输出即为低。只有当所有输入都为低时，输出才为高。这种门电路产生的输出与或门相反。在或非门中，低电平输出才是有效输出电平。图中给出了二输入或非门在所有可能组合下的逻辑操作以及真值表。
+
+#### 异或门
+
+异或门是一种改进的或门，当且仅当其中一个输入为 1 时，它输出 1。常用的缩写为 X-OR。它与标准或门的不同之处在于：当两个输入都为 1 时，输出仍保持为 0。异或门（X-OR）的标准符号和真值表如图所示。
+
+#### 异或非门
+
+异或非门（X-NOR）不过是一个输出被反相的异或门。当所有输入都为 1 时，以及当所有输入都为 0 时，它都输出 1。标准符号如图所示。
+
+### 集成电路
+
+以上讨论的所有逻辑功能以及许多其他元件，都可以某种形式的集成电路提供。当今飞机上的数字系统在很大程度上要归功于集成电路（IC）的设计。大多数情况下，集成电路相比分立元件具有优势：体积更小、功耗更低、可靠性高且价格便宜。集成电路最显著的特征是体积小，与分立半导体元件相比，其尺寸很容易小到几千分之一。单片集成电路是完全在一片半导体芯片或晶圆上制成的电子电路。所有分立元件，如电阻器、晶体管、二极管和电容器，都可以制作在这些小块半导体材料上，成为芯片的组成部分。集成度有若干等级，分别是：小规模集成、中规模集成、大规模集成和微处理器。小规模集成被认为是数字集成电路中最不复杂的设计。这些集成电路包含基本元件，如与门、或门、非门、或非门和与非门（原文此处为图注碎片：High Leading edge Low Trailing edge Positive logic pulse Negative logic pulse … Pulse characteristic from a databus Rise time 50% 5 V Pulse amplitude 10 volts，混入正文，无对应正文）。
+
+（原文此处为图注碎片，90% 9 V 10% 1 V Fall time Input = 1 High，无对应正文）
+
+（原文此处为图注碎片：A X X X B A B A B C C D Input Output High Low Low High，混入正文，无对应正文）中型规模集成能容纳与小规模设计相同的元件，但数量更多，从 12 个到 100 个不等。中规模设计是更为复杂的专用电路，如编码器、译码器、寄存器、计数器、多路复用器、较小的存储器和算术电路。大规模集成电路包含更多的逻辑门、比中规模电路更大的存储器，某些情况下还包括微处理器。
+
+微处理器是一种可以通过编程按预定顺序执行算术运算、逻辑运算和其他功能的器件。微处理器通常用作当今计算机系统中的中央处理单元（CPU），此时它与其他元件（如存储芯片和输入/输出电路）相连。微处理器中电路的基本布局和设计称为体系结构。
 
 ## 3. 专业词汇
 
-<!-- TODO: 用表格 | 英文 | 词性 | 中文 | 本节语境 |，4~8 行。优先选下面 Glossary 里的词（本节原文出现过的）：
-- Block diagrams —— Used to show a simplified relationship of a more complex system of components.
-- Current —— The flow of electrical charge.
-- Direct current (DC) —— Electricity that flows in one direction at all times.
-- Power (exponent) —— A shorthand method of indicating how many times a number, called the base, is multiplied by itself. For example, in the number 43, 3 is the power, or exponent, 
-- Power —— Power is the time rate at which work is done or energy is transferred.
-- Semiconductor —— Any device based on either preferred conduction through a solid in one direction, as in rectifiers, or on a variation in conduction characteristics through a pa
--->
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| logic | n. | 逻辑 | 推理的科学，即根据已知信息得出合理结论 |
+| proposition | n. | 命题 | 非真即假的陈述，如主警告面板上某信号牌点亮 |
+| annunciator | n. | 信号牌 | 主警告面板上点亮显示某系统状态的指示灯 |
+| logic polarity | n.phr. | 逻辑极性 | 电压变化表示“真/1”时取正或取负的分类依据 |
+| truth table | n.phr. | 真值表 | 列出逻辑门各输入组合与对应输出的表格 |
+| Boolean logic | n.phr. | 布尔逻辑 | 用符号表示命题真值的系统，二进制 1/0 表示真/假 |
+| gate | n. | 门电路 | 实现与、或、非等基本逻辑功能的基本单元 |
+| inverter | n. | 反相器 | 把一个逻辑状态转换为相反状态的电路，即“非”门 |
+| rise time | n.phr. | 上升时间 | 脉冲由低到高所需时间，常按 10%~90% 幅度测取 |
+| fall time | n.phr. | 下降时间 | 脉冲恢复到零所需时间 |
+| pulse width | n.phr. | 脉冲宽度 | 脉冲持续时间，即上升沿与下降沿 50% 幅度点间隔 |
+| integrated circuit | n.phr. | 集成电路 | 在一片半导体芯片上制成的完整电子电路，简称 IC |
+| architecture | n. | 体系结构 | 微处理器内部电路的基本布局与设计 |
 
 ## 4. 语法解析
 
-<!-- TODO: 2~4 个语法点，格式：
-### ① 语法点名称
-**原句**：<必须逐字来自第 1 节原文>
-**拆解**：主/谓/宾、从句、非谓语等成分分析
-**要点**：为什么这样用、易错点、可迁移的搭配
--->
+### ① 破折号同位语 + 过去分词短语作定语
+**原句**：Logic is considered the science of reasoning—the development of a reasonable conclusion based on known information.
+**拆解**：主语 Logic + 被动谓语 is considered + 表语 the science（of reasoning 为后置定语）；破折号后 the development of a reasonable conclusion based on known information 是对 the science of reasoning 的同位解释，其中 based on known information 为过去分词短语作后置定语修饰 conclusion。
+**要点**：is considered 后接名词时不必加 to be，译作“被视为/被认为是”。破折号后的同位语不是新句子，不能当独立分句译成“这是……”，而应译成“即……”。based on 是过去分词短语，只能后置；它修饰的是 conclusion 而不是 development，翻译时要按语义就近处理。
+### ② 动名词复合结构作主语 + 非限定性 which 从句
+**原句**：An annunciator being lit in the master warning panel is an example of a proposition, which is either true or false.
+**拆解**：主语 An annunciator being lit in the master warning panel（动名词复合结构：名词 + 现在分词被动形式 being lit，逻辑主语为 annunciator）；谓语 is + 表语 an example of a proposition；逗号后 which 引导非限定性定语从句，指代 a proposition。
+**要点**：being lit 是动名词的被动形式，表示“被点亮”这一状态，作主语的动名词短语视为单数，故谓语用 is。which 前的逗号说明它补充说明 a proposition 的属性（非真即假），去掉逗号则变成限定性从句，句意侧重不同。这类结构翻译时 which 从句常另起一句“而命题要么真、要么假”。
+### ③ only 置于句首引起部分倒装
+**原句**：Only when all of its inputs are low is the output high.
+**拆解**：Only when all of its inputs are low 为状语从句前置；主句 the output 是主语、is 是谓语，因 Only 修饰的状语位于句首，主句发生部分倒装：is + 主语 the output + 表语 high。
+**要点**：only + 状语（when 从句、介词短语等）置于句首时，主句必须部分倒装（助动词/系动词提到主语前），从句本身用正常语序，不倒装；切勿写成 only when … the output is high。这是技术文本中常见的强调句型，译作“只有当……时，才……”。
+### ④ it 作形式主语 + 不定式真正主语 + 惯用表语
+**原句**：It is common practice to measure the rise and fall time between 10 percent amplitude and 90 percent amplitude.
+**拆解**：It 为形式主语，真正主语是不定式短语 to measure the rise and fall time between 10 percent amplitude and 90 percent amplitude；is common practice 为系表结构。
+**要点**：It is common practice to do sth 译作“通常的做法是……/习惯上……”，是技术文献的高频句型；同类有 It is necessary to、It is difficult to。measure … between A and B 中的 between 表示测量区间，不可换成 from…to 以外的介词。不定式较长时先译真正主语，再把 It is common practice 处理成“通常/习惯上”。
+### ⑤ in that 引导原因从句 + 并列谓语
+**原句**：In most cases, the IC has an advantage over the use of discrete components in that they are smaller, consume less power, are very reliable, and are inexpensive.
+**拆解**：主句 the IC has an advantage over the use of discrete components；in that 引导原因状语从句，从句主语 they 指代前文所说的多个集成电路（复数），谓语为四个并列动词：are smaller、consume less power、are very reliable、are inexpensive。
+**要点**：in that 意为“因为、在于”，是书面语原因连词，不能换成 in which。have an advantage over 是固定搭配“优于……”。注意 they 指 ICs（泛指集成电路这一类），虽前文用单数 the IC，但语义为复数，故谓语用 are；翻译时补出“集成电路”以避免歧义。
+### ⑥ as long as 条件状语从句 + 分号连接的转折
+**原句**：Gates with two, three, and four inputs are shown; however, any number of inputs can be used in the AND logic as long as the number is greater than one.
+**拆解**：前一分句为被动结构 Gates … are shown；however 连接转折分句，any number of inputs 作主语，can be used 为被动谓语，as long as the number is greater than one 为条件状语从句，number 指输入个数。
+**要点**：as long as 表示“只要”，引导条件状语从句，从句用一般现在时表将来/一般规律。however 作连接副词时必须用分号或句号与前句隔开，不能只用逗号连接两个句子。the number is greater than one 中的 number 与前文任何数词无关，翻译时应补成“输入个数大于 1”。
