@@ -24,23 +24,37 @@ The original equipment manufacturer (OEM) is usually the best source of informat
 
 • Basic operating information describing how the aircraft and its components are controlled
 
-• Servicing information with such detail as servicing parts, tank capacities, types of fluid to be used, applicable pressures for the various systems, access panels for inspection and servicing, lubrication points, and types of lubricants to be used The maintenance instructions must include the following data:
+• Servicing information with such detail as servicing parts, tank capacities, types of fluid to be used, applicable pressures for the various systems, access panels for inspection and servicing, lubrication points, and types of lubricants to be used
+
+The maintenance instructions must include the following data:
 
 • Recommended schedule for cleaning, inspecting, adjusting, testing, and lubricating the various parts
 
-• Applicable wear tolerances 1 FAA Aviation Safety SPECIAL AIRWORTHINESS INFORMATION BULLETIN SUBJ: FUSELAGE – Seat Belt Mounting Bracket SAIB: CE-15-13 Date: April 15, 2015 This is information only. Recommendations aren’t mandatory.
+• Applicable wear tolerances
 
-Introduction This Special Airworthiness Information Bulletin is to alert owners, operators, and maintenance technicians of an airworthiness concern with aluminum seat belt mounting brackets affecting all Cessna Models 120 and 140 airplanes. Textron Aviation has issued Service Bulletin SEB-25-03, dated February 17, 2015, to address this concern.
+Introduction
+
+This Special Airworthiness Information Bulletin is to alert owners, operators, and maintenance technicians of an airworthiness concern with aluminum seat belt mounting brackets affecting all Cessna Models 120 and 140 airplanes. Textron Aviation has issued Service Bulletin SEB-25-03, dated February 17, 2015, to address this concern.
 
 At this time, the airworthiness concern is not an unsafe condition that would warrant airworthiness directive (AD) action under Title 14 of the Code of Federal Regulations (14 CFR) part 39.
 
-Background On July 5, 2014, an accident occurred in Parma, New York where the pilot seat belt mounting bracket, part number (p/n) 0425132, failed after the airplane overturned following departure from the runway. Although cause of the failed bracket has not been determined and the investigation is ongoing, it was noted that the original Cessna seat belt installation had been replaced with a four-point Aero Fabricators harness per Supplemental Type Certificate (STC) SA1429GL in 2003. The failed bracket was made of aluminum. However, Cessna now only provides steel brackets as a replacement part for the aluminum brackets.
+Background
 
-Recommendations The FAA recommends that owners, operators, and maintenance personnel of the affected airplanes replace aluminum brackets with steel brackets following Cessna Service Bulletin SEB-25-03 dated February 17, 2015. To make the determination as to whether the bracket is made of aluminum or steel, a magnet may be used or look for evidence of iron oxide (rust). For Further Information Contact Gary D. Park, Aerospace Engineer, ACE-118W phone: (316) 946-4123; fax: (316) 946-4107; e-mail: gary.park@faa.gov.
+On July 5, 2014, an accident occurred in Parma, New York where the pilot seat belt mounting bracket, part number (p/n) 0425132, failed after the airplane overturned following departure from the runway. Although cause of the failed bracket has not been determined and the investigation is ongoing, it was noted that the original Cessna seat belt installation had been replaced with a four-point Aero Fabricators harness per Supplemental Type Certificate (STC) SA1429GL in 2003. The failed bracket was made of aluminum. However, Cessna now only provides steel brackets as a replacement part for the aluminum brackets.
 
-For Related Service Information Contact Cessna Aircraft Company, Customer Support Service, P.O. Box 7706, Wichita, Kansas; telephone: (316) 517-5800; fax: (316) 517-7271.
+Recommendations
 
-SAMPLE United States Of America Department of Transportation - Federal Aviation Administration Supplemental Type Certificate _____________________________________________________________________________________________________________________________________ Any alteration of this certificate is punishable by a fine of not exceeding $1,000, or imprisonment not exceeding 3 years, or both.
+The FAA recommends that owners, operators, and maintenance personnel of the affected airplanes replace aluminum brackets with steel brackets following Cessna Service Bulletin SEB-25-03 dated February 17, 2015. To make the determination as to whether the bracket is made of aluminum or steel, a magnet may be used or look for evidence of iron oxide (rust).
+
+For Further Information Contact
+
+Gary D. Park, Aerospace Engineer, ACE-118W phone: (316) 946-4123; fax: (316) 946-4107; e-mail: gary.park@faa.gov.
+
+For Related Service Information Contact
+
+Cessna Aircraft Company, Customer Support Service, P.O. Box 7706, Wichita, Kansas; telephone: (316) 517-5800; fax: (316) 517-7271.
+
+United States Of America Department of Transportation - Federal Aviation Administration Supplemental Type Certificate _____________________________________________________________________________________________________________________________________ Any alteration of this certificate is punishable by a fine of not exceeding $1,000, or imprisonment not exceeding 3 years, or both.
 
 _____________________________________________________________________________________________________________________________________ FAA Form 8110-2(10-68) Page 1 of 1 This certificate may be transferred in accordance with FAR 21.47.
 
@@ -64,7 +78,7 @@ Commander Premier Aircraft Corporation 20 Stanford Drive Farmington, CT 06032 A1
 
 Michele M. Owsley, Manager Airplane Certification Office, Southwest Region _______________________________________________________ ( Title)
 
-Date of application :February 09, 1990 Date of issuance :August 23, 1990 SAMPLE After 1978, the POHs generally took on both roles.
+After 1978, the POHs generally took on both roles.
 
 • Maintenance Manuals—These manuals are often referred to as Aircraft Maintenance Manual (AMM) or Component Maintenance Manual (CMM).
 
@@ -102,23 +116,37 @@ As the name implies, this manual carries detail information for the technician c
 
 • 基本使用信息，说明航空器及其各部件是如何操纵的
 
-• 勤务信息，其详细程度应涵盖勤务部件、油箱容量、所用油液种类、各系统的适用压力、用于检查和勤务的检查口盖、润滑点以及所用润滑剂种类。维修说明必须包括下列数据：
+• 勤务信息，其详细程度应涵盖勤务部件、油箱容量、所用油液种类、各系统的适用压力、用于检查和勤务的检查口盖、润滑点以及所用润滑剂种类。
+
+维修说明必须包括下列数据：
 
 • 清洁、检查、调整、测试和润滑各部件所建议的周期
 
-• 适用的磨损公差。1（其后接《FAA 航空安全特别适航信息通告》的抬头：主题——机身／安全带安装支架；SAIB 编号 CE-15-13；日期 2015 年 4 月 15 日；本通告仅供参考，其建议不具强制性。）
+• 适用的磨损公差
 
-引言　本《特别适航信息通告》旨在提醒所有者、运营人和维修技术人员注意一项适航问题：铝合金安全带安装支架影响所有 Cessna 120 型和 140 型飞机。Textron Aviation 已发布 2015 年 2 月 17 日的服务通告 SEB-25-03，以应对该问题。
+引言
+
+本《特别适航信息通告》旨在提醒所有者、运营人和维修技术人员注意一项适航问题：铝合金安全带安装支架影响所有 Cessna 120 型和 140 型飞机。Textron Aviation 已发布 2015 年 2 月 17 日的服务通告 SEB-25-03，以应对该问题。
 
 目前，该适航问题尚不构成不安全状况，因此还不足以需要依据《联邦法规汇编》第 14 编（14 CFR）part 39 采取适航指令（AD）措施。
 
-背景　2014 年 7 月 5 日，纽约州帕尔马发生一起事故：飞机在冲出跑道后翻覆，驾驶员安全带安装支架（件号 p/n 0425132）失效。虽然该支架失效的原因尚未确定、调查仍在进行，但已注意到原来的 Cessna 安全带安装已在 2003 年按补充型号合格证（STC）SA1429GL 更换为 Aero Fabricators 四点式安全带。失效的支架为铝合金制成，而 Cessna 现在只提供钢制支架，作为铝制支架的替换件。
+背景
 
-建议　FAA 建议受影响飞机的所有者、运营人和维修人员按 2015 年 2 月 17 日的 Cessna 服务通告 SEB-25-03，用钢制支架替换铝制支架。要判断支架是铝制还是钢制，可以使用磁铁，或查看有无氧化铁（锈）的迹象。如需进一步了解，请联系：Gary D. Park，航空航天工程师，ACE-118W；电话：(316) 946-4123；传真：(316) 946-4107；电子邮件：gary.park@faa.gov。
+2014 年 7 月 5 日，纽约州帕尔马发生一起事故：飞机在冲出跑道后翻覆，驾驶员安全带安装支架（件号 p/n 0425132）失效。虽然该支架失效的原因尚未确定、调查仍在进行，但已注意到原来的 Cessna 安全带安装已在 2003 年按补充型号合格证（STC）SA1429GL 更换为 Aero Fabricators 四点式安全带。失效的支架为铝合金制成，而 Cessna 现在只提供钢制支架，作为铝制支架的替换件。
 
-相关服务信息请联系：Cessna Aircraft Company，客户支持服务部，P.O. Box 7706，Wichita, Kansas；电话：(316) 517-5800；传真：(316) 517-7271。
+建议
 
-（样张）美利坚合众国　运输部——联邦航空管理局　补充型号合格证。任何涂改本证书的行为，可处以不超过 1,000 美元的罚金，或不超过 3 年的监禁，或两者并罚。
+FAA 建议受影响飞机的所有者、运营人和维修人员按 2015 年 2 月 17 日的 Cessna 服务通告 SEB-25-03，用钢制支架替换铝制支架。要判断支架是铝制还是钢制，可以使用磁铁，或查看有无氧化铁（锈）的迹象。
+
+如需进一步了解，请联系：
+
+Gary D. Park，航空航天工程师，ACE-118W；电话：(316) 946-4123；传真：(316) 946-4107；电子邮件：gary.park@faa.gov。
+
+相关服务信息请联系：
+
+Cessna Aircraft Company，客户支持服务部，P.O. Box 7706，Wichita, Kansas；电话：(316) 517-5800；传真：(316) 517-7271。
+
+美利坚合众国　运输部——联邦航空管理局　补充型号合格证。任何涂改本证书的行为，可处以不超过 1,000 美元的罚金，或不超过 3 年的监禁，或两者并罚。
 
 FAA Form 8110-2（10-68），第 1 页／共 1 页。本证书可依据 FAR 21.47 转让。
 
@@ -142,7 +170,7 @@ Commander Premier Aircraft Corporation，20 Stanford Drive，Farmington, CT 0603
 
 Michele M. Owsley，经理，西南地区飞机审定办公室。（职务）
 
-申请日期：1990 年 2 月 9 日。签发日期：1990 年 8 月 23 日。（样张）1978 年以后，POH 一般同时承担这两种角色。
+1978 年以后，POH 一般同时承担这两种角色。
 
 • 维修手册——这类手册常被称为航空器维修手册（AMM）或部件维修手册（CMM）。
 

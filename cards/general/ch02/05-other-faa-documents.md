@@ -10,13 +10,7 @@ AC refers to a type of publication offered by the FAA to provide guidance for co
 
 Unless incorporated into a regulation by reference, the content of ACs are not binding on the public. ACs are issued in a numbered-subject system corresponding to the subject areas of the FARs (14 CFR, Chapter 1, Federal Aviation Administration) and Chapter 3, Commercial Space Transportation, Federal Aviation Administration, Department of Transportation, Parts 400–450. An AC is issued to provide guidance and information in a designated subject area or to show a method acceptable to the Administrator for complying with a related federal aviation regulation.
 
-Because of their close relationship to the regulations, ACs are arranged in a numbered system that corresponds to the subject areas of the CFRs. In some series, consecutive numbers may Predecessor Regulations to the Federal Aviation Regulations (14 CFR)
-
-Aeronautical Bulletins 7A 7F 7G 7H 7J 14 14 26 Airworthiness Requirements for Aircraft Airworthiness Requirements for Aircraft Components and Accessories Airworthiness Requirements for Engines and Propellers Alteration and Repair of Aircraft Special Requirements for Air Line Aircraft Relative Lift Distribution in Any Biplane Requirements for Approved Type Certificates Design Information for Aircraft Civil Air Regulations (CAR)
-
-CAR 1 CAR 2 CAR 3 CAR 4a CAR 4b CAR 6 CAR 7 CAR 8 CAR 9 CAR 10 CAR 13 CAR 14 CAR 18 CAR 40 Special CAR 425-C Special CAR 406 Certification, Identification, and Marking of Aircraft and Related Products Aircraft Identification Mark Airplane Airworthiness—Normal, Utility, Acrobatic, and Restricted Purpose Categories Airplane Airworthiness Airplane Airworthiness: Transport Categories Rotorcraft Airworthiness: Normal Category Rotorcraft Airworthiness: Transport Categories Aircraft Airworthiness: Restricted Category Aircraft Airworthiness: Limited Category Certification and Approval of Import Aircraft and Related Products Aircraft Engine Airworthiness Aircraft Propeller Airworthiness Maintenance, Repair, and Alteration of Certificated Aircraft and of Aircraft Engines, Propellers and Instruments Scheduled Interstate Air Carrier Certification and Operation Rules Provisional Certification and Operation of Aircraft Application of Transport Category Performance Requirements to C-46 Type Aircraft Civil Aeronautics Manual (CAM)
-
-CAM 1 CAM 2 CAM 3 CAM 4a CAM 4b CAM 6 CAM 7 CAM 8 CAM 9 CAM 10 CAM 13 CAM 14 CAM 18 Certification, Identification, and Marking of Aircraft and Related Products Production Certificates Airplane Airworthiness: Normal, Utility, and Acrobatic Categories Airplane Airworthiness Airplane Airworthiness: Transport Categories Rotorcraft Airworthiness Rotorcraft Airworthiness: Transport Categories Aircraft Airworthiness: Restricted Category Aircraft Airworthiness: Limited Category Certification and Approval of Import Aircraft and Related Products Aircraft Engine Airworthiness Aircraft Propeller Airworthiness Maintenance, Repair, and Alteration of Airframes, Powerplants, Propellers, and Appliances be missing. These numbers were either assigned to ACs still in preparation that will be issued at a later date or were assigned to ACs that have been canceled.
+Because of their close relationship to the regulations, ACs are arranged in a numbered system that corresponds to the subject areas of the CFRs. In some series, consecutive numbers may be missing. These numbers were either assigned to ACs still in preparation that will be issued at a later date or were assigned to ACs that have been canceled.
 
 #### The AC Numbering System
 
@@ -40,7 +34,9 @@ Three types of ADs are issued:
 
 • Final Rule; Request for Comments
 
-• Emergency ADs The standard AD process is to issue an NPRM followed by a Final Rule. After an unsafe condition is discovered, a proposed solution is published as an NPRM and solicits public comment on the proposed action. After the comment period closes, the final rule is prepared, taking into account all substantive comments received with the rule perhaps being changed as warranted by the comments. The preamble to the final rule AD provides response to the substantive comments or states there were no comments received. In certain cases, the critical nature of an unsafe condition may warrant the immediate adoption of a rule without prior notice and solicitation of comments. This is an exception to the standard process. If time for the terminating action to be accomplished is too short to allow for public comment (that is, less than 60 days), then a finding of impracticability is justified for the terminating action, and it can be issued as an immediately adopted rule. The immediately adopted rule is published in the Federal Register with a request for comments. The Final Rule AD may be changed later if substantive comments are received.
+• Emergency ADs
+
+The standard AD process is to issue an NPRM followed by a Final Rule. After an unsafe condition is discovered, a proposed solution is published as an NPRM and solicits public comment on the proposed action. After the comment period closes, the final rule is prepared, taking into account all substantive comments received with the rule perhaps being changed as warranted by the comments. The preamble to the final rule AD provides response to the substantive comments or states there were no comments received. In certain cases, the critical nature of an unsafe condition may warrant the immediate adoption of a rule without prior notice and solicitation of comments. This is an exception to the standard process. If time for the terminating action to be accomplished is too short to allow for public comment (that is, less than 60 days), then a finding of impracticability is justified for the terminating action, and it can be issued as an immediately adopted rule. The immediately adopted rule is published in the Federal Register with a request for comments. The Final Rule AD may be changed later if substantive comments are received.
 
 An Emergency AD is issued when an unsafe condition exists that requires immediate action by an owner/operator. The intent of an Emergency AD is to rapidly correct an urgent safety deficiency. An Emergency AD may be distributed by fax, letter, or other methods. It is issued and effective to only the people who actually receive it. This is known as “actual notice.” All known owners and operators of affected U.S.-registered aircraft, or those aircraft that are known to have an affected product installed, are sent a copy of an Emergency AD. To make the AD effective to all persons, a follow up publication of the Final Rule AD in the Federal Register is critical. This Final Rule AD must be identical to the Emergency AD and is normally published in the Federal Register within 30 days of the Emergency AD issue.
 
@@ -88,57 +84,17 @@ Specifications were originated during implementation of the Air Commerce Act of 
 
 ### Supplemental Type Certificates (STC)
 
-When an aircraft is designed and that design is formally approved for manufacturing, the manufacturer is issued a Type Certificate (TC). The TC is issued by the FAA to signify the airworthiness of an aircraft design and may not be changed except by formal authorization of the FAA. This formal authorization supplements the original TC and is called the Supplemental Type Certificate (STC). Therefore, the STC issued by the FAA approves a product (aircraft, engine, or propeller) modification. The STC defines the product design change, states how the modification affects the existing type design, and lists serial number effectivity. It also identifies the certification basis listing specific regulatory compliance for the design change. Information contained in the certification basis is helpful for those applicants proposing subsequent product modifications and evaluating certification basis compatibility with other STC modifications. Advisory Circular Numbering System 1. General. The advisory circular numbers relate to the FAR subchapter title and correspond to the Parts, and when appropriate, to the specific sections of the Federal Aviation Regulations. 2. General and specific subject numbers. The subject numbers and related subject areas are as follows:
+When an aircraft is designed and that design is formally approved for manufacturing, the manufacturer is issued a Type Certificate (TC). The TC is issued by the FAA to signify the airworthiness of an aircraft design and may not be changed except by formal authorization of the FAA. This formal authorization supplements the original TC and is called the Supplemental Type Certificate (STC). Therefore, the STC issued by the FAA approves a product (aircraft, engine, or propeller) modification. The STC defines the product design change, states how the modification affects the existing type design, and lists serial number effectivity. It also identifies the certification basis listing specific regulatory compliance for the design change. Information contained in the certification basis is helpful for those applicants proposing subsequent product modifications and evaluating certification basis compatibility with other STC modifications.
 
-General Subject Number (1)
+Advisory Circular Numbering System
 
-Specific Subject Number (2) Subject General Subject Number (1)
+1. General. The advisory circular numbers relate to the FAR subchapter title and correspond to the Parts, and when appropriate, to the specific sections of the Federal Aviation Regulations.
 
-Specific Subject Number (2) Subject 00 GENERAL 1 Definitions and Abbreviations 10 PROCEDURAL RULES 11 General Rule-Making Procedures 13 Investigation and Enforcement Procedures 20 AIRCRAFT 21 Certification Procedures for Products and Parts 23 Airworthiness Standards: Normal, Utility, and Acrobatic Category Airplanes 25 Airworthiness Standards: Transport Category Airplanes 27 Airworthiness Standards: Normal Category Rotorcraft 29 Airworthiness Standards: Transport Category Rotorcraft 31 Airworthiness Standards: Manned Free Balloons 33 Airworthiness Standards: Aircraft Engines 34 Fuel Venting and Exhaust Emission Requirements for Turbine Engine Powered Airplanes 35 Airworthiness Standards: Propellers 36 Noise Standards: Aircraft Type and Airworthiness Certification 39 Airworthiness Directives 43 Maintenance, Preventive Maintenance, Rebuilding and Alteration 45 Identification and Registration Marking 47 Aircraft Registration 49 Recording of Aircraft Titles and Security Documents 60 AIRMEN 61 Certification: Pilots and Flight Instructors 63 Certification: Flight Crewmembers Other Than Pilots 65 Certification: Airmen Other Than Flight Crewmembers 67 Medical Standards and Certification 70 AIRSPACE 71 Designation of Federal Airways, Area Low Routes, Controlled Airspace, and Reporting Points 73 Special Use Airspace 75 Establishment of Jet Routes and Area High Routes 77 Objects Affecting Navigable Airspace 90 AIR TRAFFIC AND GENERAL OPERATING RULES 91 General Operating and Flight Rules 93 Special Air Traffic Rules and Airport Traffic Patterns 95 IFR Altitudes 97 Standard Instrument Approach Procedures 99 Security Control of Air Traffic 101 Moored Balloons, Kites, Unmanned Rockets and Unmanned Free Balloons 103 Ultralight Vehicles 105 Parachute Jumping 107 Airport Security 108 Airplane Operators Security 109 Indirect Air Carrier Security 119 CERTIFICATION: AIR CARRIERS AND COMMERCIAL OPERATORS 120 AIR CARRIERS, AIR TRAVEL CLUBS, AND OPERATORS FOR COMPENSATION OR HIRE: CERTIFICATION AND OPERATIONS 121 Certification and Operations: Domestic, Flag, and Supplemental Air Carriers and Commercial Operators of Large Aircraft 125 Certification and Operations: Airplanes Having a Seating Capacity of 20 or More Passengers or a Maximum Payload Capacity of 6,000 Pounds or More 127 Certification and Operations of Scheduled Air Carriers with Helicopters 129 Operations of Foreign Air Carriers 133 Rotorcraft External-Load Operations 135 Air Taxi Operators and Commercial Operators 137 Agricultural Aircraft Operations 139 Certification and Operations: Land Airports Serving CAB-Certificated Air Carriers 140 SCHOOLS AND OTHER CERTIFICATED AGENCIES 141 Pilot Schools 143 Ground Instructors 145 Repair Stations 147 Aviation Maintenance Technician Schools 150 AIRPORT NOISE COMPATIBILITY PLANNING 151 Federal Aid to Airports 152 Airport Aid Program Advisory Circular Numbering System 3. Within the General Subject Number Areas, Specific selectivity in advisory circular mail lists is available corresponding to the applicable FAR Parts. For example: under the 60 general subject area, separate mail lists for advisory circulars issued in the 61, 63, 65, or 67 series are available. An AC numbered “60” goes to all numbers in the 60 series. When the volume of circulars in a series warrants a sub-subject breakdown, the general number is followed by a slash and a sub-subject number. Material in the 150 series, Airports, is issued under the following sub-subjects:
+2. General and specific subject numbers. The subject numbers and related subject areas are as follows:
+
+3. Within the General Subject Number Areas, Specific selectivity in advisory circular mail lists is available corresponding to the applicable FAR Parts. For example: under the 60 general subject area, separate mail lists for advisory circulars issued in the 61, 63, 65, or 67 series are available. An AC numbered “60” goes to all numbers in the 60 series. When the volume of circulars in a series warrants a sub-subject breakdown, the general number is followed by a slash and a sub-subject number. Material in the 150 series, Airports, is issued under the following sub-subjects:
 
 4. Individual circular identification numbers. Each circular has a subject number followed either by a dash and a consecutive number (135-15) or a period with a specific FAR section number, followed by a dash and a consecutive number (135.169-2) identifying the individual circular. This consecutive number is not used again in the same subject series. Revised circulars have a letter A, B, C, etc., after the consecutive number to show complete revisions. Changes to circulars have Chg. 1, Chg. 2, Chg. 3, etc., after the identification number on pages that have been changed. The Date on a revised page is changed to the date of the Change transmittal.
-
-155 Release of Airport Property from Surplus Property Disposal Restrictions 156 State Block Grant Pilot Program 157 Notice of Construction, Alteration, Activation, and Deactivation of Airports 158 Passenger Facilities Charges 159 National Capital Airports 159/10 Washington National Airport 159/20 Dulles International Airport 161 Notice and Approval of Airport Noise and Access Restrictions 169 Expenditures of Federal Funds for Nonmilitary Airports or Air Navigational Facilities Thereon 170 NAVIGATIONAL FACILITIES 170 Establishment and Discontinuance Criteria for Airport Traffic Control Tower Facilities 171 Non-Federal Navigation Facilities 180 ADMINISTRATIVE REGULATIONS 183 Representatives of the Administrator 185 Testimony by Employees and Production of Records in Legal Proceedings 150/5000 Airport Planning.
-
-150/5020 Noise Control and Compatibility Planning for Airports.
-
-150/5100 Federal-aid Airport Program.
-
-150/5150 Surplus Airport Property Conveyance Programs.
-
-150/5190 Airport Compliance Program.
-
-150/5200 Airport Safety–General.
-
-150/5210 Airport Safety Operations (Recommended Training, Standards, Manning).
-
-150/5220 Airport Safety Equipment and Facilities.
-
-150/5230 Airport Ground Safety System.
-
-187 Fees 189 Use of Federal Aviation Administration Communication System 190 WITHHOLDING SECURITY INFORMATION 191 Withholding Security Information from Disclosure Under the Air Transportation Security Act of 1974 198 Aviation Insurance Program 210 FLIGHT INFORMATION 211 Aeronautical Charts and Flight Information Publications 212 Publication Specification: Charts and Publications 400 COMMERCIAL SPACE TRANSPORTATION 440 Financial Responsibility 1—Based on Federal Aviation Regulation Subchapter Titles (Excluding the 210 series).
-
-2—Based on Federal Aviation Regulation Part Titles (Excluding the 210 series).
-
-General Subject number (1)
-
-Specific Subject Number (2) Subject General Subject number (1)
-
-Specific Subject Number (2) Subject 150/5240 Civil Airports Emergency Preparedness.
-
-150/5325 Influence of Aircraft Performance on Aircraft Design.
-
-150/5335 Runway, Taxiway, and Apron Characteristics.
-
-150/5340 Airport Visual Aids.
-
-150/5345 Airport Lighting Equipment.
-
-150/5360 Airport Buildings.
-
-150/5370 Airport Construction.
-
-150/5380 Airport Maintenance.
 
 TCs and STCs are numbered.
 
@@ -158,13 +114,7 @@ AC 指 FAA 提供的一类出版物，用于就如何符合适航规章提供指
 
 除非通过引用被纳入某项规章，ACs 的内容对公众不具有约束力。ACs 以编号—主题体系发布，与 FARs（14 CFR 第 1 章联邦航空管理局，以及第 3 章商业航天运输、联邦航空管理局、运输部，Part 400–450）的主题领域相对应。发布 AC 是为在指定主题领域提供指导与信息，或展示局长可接受的、用于符合相关联邦航空规章的方法。
 
-由于与规章关系密切，ACs 按与 CFRs 主题领域相对应的编号体系编排。在某些系列中，连续编号可能出现缺号（该句在原文中被插入的表格打断，语义在下方续完）。
-
-（表格抽取内容，原文无对应正文：Aeronautical Bulletins 编号与名称名录。）
-
-（表格抽取内容，原文无对应正文：CAR 编号与名称对照表，自 CAR 1 至 Special CAR 406。）
-
-（表格抽取内容，原文无对应正文：CAM 编号与名称对照表。）表中缺号，要么分配给了尚在编制、日后才发布的 AC，要么分配给了已经取消的 AC。
+由于与规章关系密切，ACs 按与 CFRs 主题领域相对应的编号体系编排。在某些系列中，连续编号可能出现缺号。这些编号要么分配给了尚在编制、日后才发布的 AC，要么分配给了已经取消的 AC。
 
 #### AC 编号体系
 
@@ -188,7 +138,9 @@ AC 编号由三部分组成，例如 25-42-C。
 
 • 最终规则；征求意见
 
-• 紧急 ADs 标准的 AD 程序是先发布 NPRM，再发布最终规则。发现不安全状况后，拟定的解决方案以 NPRM 形式公布，并就拟议措施征求公众意见。意见征询期结束后即编制最终规则，其中考虑收到的所有实质性意见，规则也可能按意见的合理要求而作修改。最终规则 AD 的序言对实质性意见作出答复，或说明未收到任何意见。某些情况下，不安全状况的严重性可能要求不经事先通知和征求意见而立即采纳规则，这是对标准程序的例外。若完成终止性措施的时间太短、不足以进行公众评议（即少于 60 天），则可对该终止性措施作出不可行性的认定，并可作为立即采纳的规则发布。立即采纳的规则在《联邦公报》上发布并附征求意见的要求。若收到实质性意见，最终规则 AD 日后可能被修改。
+• 紧急 ADs
+
+标准的 AD 程序是先发布 NPRM，再发布最终规则。发现不安全状况后，拟定的解决方案以 NPRM 形式公布，并就拟议措施征求公众意见。意见征询期结束后即编制最终规则，其中考虑收到的所有实质性意见，规则也可能按意见的合理要求而作修改。最终规则 AD 的序言对实质性意见作出答复，或说明未收到任何意见。某些情况下，不安全状况的严重性可能要求不经事先通知和征求意见而立即采纳规则，这是对标准程序的例外。若完成终止性措施的时间太短、不足以进行公众评议（即少于 60 天），则可对该终止性措施作出不可行性的认定，并可作为立即采纳的规则发布。立即采纳的规则在《联邦公报》上发布并附征求意见的要求。若收到实质性意见，最终规则 AD 日后可能被修改。
 
 当存在需要机主/运营人立即采取行动的不安全状况时，即发布紧急 AD。紧急 AD 的目的是迅速纠正紧急的安全缺陷。紧急 AD 可通过传真、信函或其他方式分发，它只对实际收到的人发布并生效，这称为“实际通知”。所有已知的受影响美国登记航空器的机主和运营人，或已知装有受影响产品的航空器的机主和运营人，都会收到紧急 AD 的副本。要使 AD 对所有人有效，随后在《联邦公报》上发布最终规则 AD 至关重要。该最终规则 AD 必须与紧急 AD 内容完全相同，通常在紧急 AD 发布后 30 天内在《联邦公报》上公布。
 
@@ -236,57 +188,17 @@ AD 的主题行明确标出受该 AD 影响的航空器或产品的 TC 持有人
 
 ### 补充型号合格证（STC）
 
-航空器完成设计、且该设计被正式批准制造后，制造商会获得型号合格证（TC）。TC 由 FAA 颁发，用以表明某型航空器设计的适航性，除经 FAA 正式授权外不得更改。这种对原 TC 的正式补充授权称为补充型号合格证（STC）。因此，FAA 颁发的 STC 批准的是对产品（航空器、发动机或螺旋桨）的改装。STC 界定产品的设计更改，说明该改装如何影响既有型号设计，并列出适用的序列号范围。它还标明审定基础，列出该设计更改所符合的具体规章。审定基础中的信息，对拟进行后续产品改装、并评估审定基础与其他 STC 改装兼容性的申请人很有帮助。咨询通告编号体系如下：1. 总则。咨询通告的编号与 FAR 分章标题相关，与各 Part 对应，并在适当时对应联邦航空规章的具体条款。2. 一般主题号与具体主题号。主题号及相关的主题领域如下：
+航空器完成设计、且该设计被正式批准制造后，制造商会获得型号合格证（TC）。TC 由 FAA 颁发，用以表明某型航空器设计的适航性，除经 FAA 正式授权外不得更改。这种对原 TC 的正式补充授权称为补充型号合格证（STC）。因此，FAA 颁发的 STC 批准的是对产品（航空器、发动机或螺旋桨）的改装。STC 界定产品的设计更改，说明该改装如何影响既有型号设计，并列出适用的序列号范围。它还标明审定基础，列出该设计更改所符合的具体规章。审定基础中的信息，对拟进行后续产品改装、并评估审定基础与其他 STC 改装兼容性的申请人很有帮助。
 
-（表格抽取内容，原文无对应正文：首列表头“General Subject Number (1)”。）
+咨询通告编号体系如下：
 
-（表格抽取内容，原文无对应正文：表头“具体主题号（2）／主题　通用主题号（1）”。）
+1. 总则。咨询通告的编号与 FAR 分章标题相关，与各 Part 对应，并在适当时对应联邦航空规章的具体条款。
 
-（表格抽取内容，原文无对应正文：AC 主题编号总表，自 00 GENERAL 至 152，逐条列出主题号、规章名称及其对应 Part。）在通用主题号范围内，可按对应的 FAR Part 有选择地投递 AC。例如，在 60 这一通用主题领域下，可为 61、63、65、67 各系列的 AC 分别设投递清单；编号为“60”的 AC 则发给 60 系列的全部编号。当某系列的 AC 数量多到需要再细分时，在通用编号后加一斜杠和分主题号；150 系列（机场）的材料即按以下分主题发布：
+2. 一般主题号与具体主题号。主题号及相关的主题领域如下：
+
+3. 在通用主题号范围内，可按对应的 FAR Part 有选择地投递 AC。例如，在 60 这一通用主题领域下，可为 61、63、65、67 各系列的 AC 分别设投递清单；编号为“60”的 AC 则发给 60 系列的全部编号。当某系列的 AC 数量多到需要再细分时，在通用编号后加一斜杠和分主题号；150 系列（机场）的材料即按以下分主题发布：
 
 4. 单份通告的识别编号。每份通告有一个主题号，后接短横线加顺序号（135-15），或接句点加具体 FAR 条款号、再接短横线和顺序号（135.169-2），以标识该份通告。该顺序号在同一主题系列内不再重复使用。修订过的通告在顺序号后加字母 A、B、C 等，表示完整修订。通告的更改，则在被更改页面的识别编号后加 Chg. 1、Chg. 2、Chg. 3 等。修订页上的日期改填更改传递单的日期。
-
-（表格抽取内容，原文无对应正文：155 至 183 各主题号名录，以及机场规划等 AC 的标题。）
-
-150/5020 机场噪声控制与兼容性规划。
-
-150/5100 联邦补助机场计划。
-
-150/5150 剩余机场财产转让计划。
-
-150/5190 机场合规计划。
-
-150/5200 机场安全——总则。
-
-150/5210 机场安全运行（建议的培训、标准、人员配备）。
-
-150/5220 机场安全设备与设施。
-
-150/5230 机场地面安全系统。
-
-（表格抽取内容，原文无对应正文：187 至 440 各主题号名录。）1——按联邦航空规章分章标题编排（不含 210 系列）。
-
-2——按联邦航空规章 Part 标题编排（不含 210 系列）。
-
-（表格抽取内容，原文无对应正文：第二页表头“General Subject number (1)”。）
-
-（表格抽取内容，原文无对应正文：表头“具体主题号（2）／主题　通用主题号（1）”。）
-
-150/5240 民用机场应急准备。
-
-150/5325 航空器性能对航空器设计的影响。
-
-150/5335 跑道、滑行道与停机坪特性。
-
-150/5340 机场目视助航设施。
-
-150/5345 机场灯光设备。
-
-150/5360 机场建筑物。
-
-150/5370 机场施工。
-
-150/5380 机场维护。
 
 TCs 和 STCs 均编有编号。
 

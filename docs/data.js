@@ -2026,7 +2026,7 @@ window.AMT_CARDS = [
    {
     "slug": "general-ch02-01",
     "seq": "01",
-    "title": "Overview — Title 14 of the Code of Federal",
+    "title": "Overview — Title 14 of the Code of Federal Regulations (14 CFR)",
     "file": "01-overview-title-14-of-the-code-of-federal-regulations-14-cfr.md"
    },
    {

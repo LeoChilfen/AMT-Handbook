@@ -32,7 +32,9 @@ As the name implies, this specific regulation is the basis for the current 14 CF
 
 • E—Powerplant Installations—Reciprocating Engines
 
-• F—Equipment Some examples of CAR 3 aircraft are Piper PA 22, PA 28, PA 32, and Cessna 182, 195, and 310. Note: The “CAR” acronym actually has two interpretations: Civil Air Regulations and Canadian Aviation Regulations. The technician must clearly understand the difference and recognize when one or the other is appropriate.
+• F—Equipment
+
+Some examples of CAR 3 aircraft are Piper PA 22, PA 28, PA 32, and Cessna 182, 195, and 310. Note: The “CAR” acronym actually has two interpretations: Civil Air Regulations and Canadian Aviation Regulations. The technician must clearly understand the difference and recognize when one or the other is appropriate.
 
 ### CAR 4a—Airplane Airworthiness
 
@@ -48,25 +50,9 @@ This regulation was originated in 1936 and last amended on December 15, 1952. Th
 
 • G—Powerplant Installation
 
-• I—Miscellaneous Requirements Initially, this regulation was the basis for establishing the design requirements for virtually all produced aircraft in the 1930s, 1940s, and 1950s. Eventually CAR 3 evolved as the regulatory material specific to small aircraft, and CAR 4a and b focused on regulatory requirements for large aircraft.
+• I—Miscellaneous Requirements
 
-14 CFR 91.417 Maintenance Records Sections 91.411 and 91.413. paragraph (a): Retain for 2 years.
-
-Paragraph (d): FAA Form 337 for extended range fuel tanks in cabin or cargo. Keep on board A/C.
-
-Paragraph (a)(1): Maintenance, Preventive Maintenance, Alterations and all Inspections.
-
-Paragraph (a)(2): Records of total time in service for A/F, each engine, each propeller and each rotor. Currents status of life-limited parts of A/F engine, prop, rotor, or app. Paragraph (b)(3) List of defects furnished to the Owner/Operator in accordance with Section 43.11.
-
-Description of work.
-
-Signature and Certificate Number of person approving RTS.
-
-Time since last overhaul for items that are required to overhaul. Current inspection status. Current status of applicable ADs. Copies of Form 337.
-
-Retained until defects are repaired and the A/C is approved for RTS.
-
-Paragraph (b)(2): Retain and transfer with A/C.
+Initially, this regulation was the basis for establishing the design requirements for virtually all produced aircraft in the 1930s, 1940s, and 1950s. Eventually CAR 3 evolved as the regulatory material specific to small aircraft, and CAR 4a and b focused on regulatory requirements for large aircraft.
 
 It is very important to review the TCDS for each aircraft. For example, The Cessna 140 was certified as a landplane under CAR 3, but under CAR 4a as a ski-plane or seaplane. Another example of a more current and larger aircraft is the Gulfstream 1159 and 1159A. The former is certified under CAR 4b, but the latter is certified to 14 CFR part 25.
 
@@ -100,7 +86,9 @@ It is very important to review the TCDS for each aircraft. For example, The Cess
 
 • E——动力装置安装——往复式发动机
 
-• F——设备 属于 CAR 3 的航空器例子有 Piper PA 22、PA 28、PA 32 和 Cessna 182、195、310。注意：“CAR”这一缩写实际上有两种含义：民用航空规章（Civil Air Regulations）和加拿大航空规章（Canadian Aviation Regulations）。技术人员必须清楚理解两者的区别，并能判断在何种场合该用哪一个。
+• F——设备
+
+属于 CAR 3 的航空器例子有 Piper PA 22、PA 28、PA 32 和 Cessna 182、195、310。注意：“CAR”这一缩写实际上有两种含义：民用航空规章（Civil Air Regulations）和加拿大航空规章（Canadian Aviation Regulations）。技术人员必须清楚理解两者的区别，并能判断在何种场合该用哪一个。
 
 ### CAR 4a——飞机适航性
 
@@ -116,25 +104,9 @@ It is very important to review the TCDS for each aircraft. For example, The Cess
 
 • G——动力装置安装
 
-• I——杂项要求 起初，该规章是 20 世纪 30、40、50 年代几乎全部已生产航空器设计要求的依据。后来 CAR 3 逐渐演变为专门针对小型航空器的规章条文，而 CAR 4a 和 4b 则侧重于大型航空器的规章要求。
+• I——杂项要求
 
-14 CFR 91.417 维修记录，第 91.411 和 91.413 节。条款 (a)：保存 2 年。
-
-条款 (d)：装在客舱或货舱内的增程油箱需有 FAA Form 337，随机携带。
-
-条款 (a)(1)：维修、预防性维修、改装及所有检查。
-
-条款 (a)(2)：机体、每台发动机、每个螺旋桨和每个旋翼的总使用时间记录。机体、发动机、螺旋桨或附件上寿命件的当前状态。条款 (b)(3)：按第 43.11 节向机主/运营人提供的缺陷清单。
-
-工作内容说明。
-
-批准恢复使用（RTS）人员的签名和证书编号。
-
-对要求翻修的项目，距上次翻修的时间。当前检查状态。适用 AD 的当前状态。Form 337 的副本。
-
-保存至缺陷修复且航空器获准恢复使用为止。
-
-条款 (b)(2)：保存并随机转移。
+起初，该规章是 20 世纪 30、40、50 年代几乎全部已生产航空器设计要求的依据。后来 CAR 3 逐渐演变为专门针对小型航空器的规章条文，而 CAR 4a 和 4b 则侧重于大型航空器的规章要求。
 
 审查每架航空器的 TCDS 非常重要。例如，Cessna 140 按 CAR 3 审定为陆上飞机，但作为雪橇飞机或水上飞机时则按 CAR 4a 审定。另一个更现代、更大的航空器例子是 Gulfstream 1159 和 1159A：前者按 CAR 4b 审定，而后者则按 14 CFR part 25 审定。
 

@@ -18,7 +18,9 @@ These terms are not defined in 14 CFR part 1 and are given full explanation in t
 
 • Repaired, as necessary
 
-• Tested The key difference between the two terms is in determining how the item is tested. If it is “tested in accordance with approved standards acceptable to the Administration that have been developed and documented by the manufacturer, the item is said to be overhauled.” This is basically another way of describing “service limits,” a term frequently used to describe manufacturer specified acceptable limits for used parts. A “rebuilt item, on the other hand, must be tested to the same tolerances and limits as a new item.”
+• Tested
+
+The key difference between the two terms is in determining how the item is tested. If it is “tested in accordance with approved standards acceptable to the Administration that have been developed and documented by the manufacturer, the item is said to be overhauled.” This is basically another way of describing “service limits,” a term frequently used to describe manufacturer specified acceptable limits for used parts. A “rebuilt item, on the other hand, must be tested to the same tolerances and limits as a new item.”
 
 #### Section 43.3—Persons authorized to perform maintenance, preventive maintenance, rebuilding, and alterations
 
@@ -44,7 +46,9 @@ There are nine different persons who may perform maintenance: (Reminder: Per 14 
 
 • There is no certificated mechanic available.
 
-• The certificate holder has procedures to evaluate the work performed when a decision for airworthiness is required. The work done is listed in paragraph (c) of Appendix A of this chapter.
+• The certificate holder has procedures to evaluate the work performed when a decision for airworthiness is required.
+
+The work done is listed in paragraph (c) of Appendix A of this chapter.
 
 8. Holder of part 135 certificate may allow pilots of aircraft with nine or less passenger seats to remove and reinstall cabin seats and stretchers and cabin mounted medical oxygen bottles. These actions may only be accomplished under the following conditions:
 
@@ -56,9 +60,15 @@ There are nine different persons who may perform maintenance: (Reminder: Per 14 
 
 #### Section 43.5—Approval for return to service after maintenance, preventive maintenance, rebuilding, and alterations
 
-Approving an aircraft component for return to service after maintenance, preventive maintenance, rebuilding, or alteration must be done by creating an appropriate maintenance record entry as required by either 14 CFR part 43, section 43.9 or 43.11. This may include the use of FAA Form 337, Major Repair and Alteration, if the maintenance action was a major repair or a major alteration. Whenever a maintenance action is being planned, it is critical that the technician understands exactly: 1. What he/she is going to do. 2. How that work is classified by the FAA.
+Approving an aircraft component for return to service after maintenance, preventive maintenance, rebuilding, or alteration must be done by creating an appropriate maintenance record entry as required by either 14 CFR part 43, section 43.9 or 43.11. This may include the use of FAA Form 337, Major Repair and Alteration, if the maintenance action was a major repair or a major alteration. Whenever a maintenance action is being planned, it is critical that the technician understands exactly:
 
-3. What type of documentation is required to support this activity. First consider whether this a repair or an alteration. This should be a relatively simply decision since a repair basically returns the aircraft to its previous or unaltered condition (i.e., replacing magnetos, an exhaust system, tires, or brakes). Even replacing an entire engine (although it is a big job) is still a repair if it is the one properly specified for that aircraft. An alteration on the other hand, always changes or modifies the aircraft from its previous state (i.e., installing winglets, new avionics, or an engine that is not listed in the aircraft TCDS). The second question to consider is whether or not the work that to be performed constitutes a major or a minor maintenance action. A “major” action is typically one that might appreciably affect weight, balance, structural strength, performance, powerplant operation, flight characteristics, or other qualities affecting airworthiness and that are not done according to accepted practices or cannot be done by elementary operations. This is a much more complex question, but it is extremely important as it drives the final question concerning the substantiating documentation. Please refer to 14 CFR part 1 and part 43, appendix A, for additional clarification and examples.
+1. What he/she is going to do.
+
+2. How that work is classified by the FAA.
+
+3. What type of documentation is required to support this activity.
+
+First consider whether this a repair or an alteration. This should be a relatively simply decision since a repair basically returns the aircraft to its previous or unaltered condition (i.e., replacing magnetos, an exhaust system, tires, or brakes). Even replacing an entire engine (although it is a big job) is still a repair if it is the one properly specified for that aircraft. An alteration on the other hand, always changes or modifies the aircraft from its previous state (i.e., installing winglets, new avionics, or an engine that is not listed in the aircraft TCDS). The second question to consider is whether or not the work that to be performed constitutes a major or a minor maintenance action. A “major” action is typically one that might appreciably affect weight, balance, structural strength, performance, powerplant operation, flight characteristics, or other qualities affecting airworthiness and that are not done according to accepted practices or cannot be done by elementary operations. This is a much more complex question, but it is extremely important as it drives the final question concerning the substantiating documentation. Please refer to 14 CFR part 1 and part 43, appendix A, for additional clarification and examples.
 
 The third question deals with the type of documentation required to substantiate the work performed. Minor repairs and alterations need only to refer to “acceptable” data, such as manufacturers’ maintenance manuals or AC 43.13-1. The maintenance action can simply be recorded in the maintenance record as a logbook entry. Major repairs and alterations require “approved data.” Some examples of approved data are AD notes, STCs, TCDS, DER-specific delegations, and FAA-approved manufacturer Service Bulletins (SB). Sometimes the repair or alteration being performed does not have previously-approved data. In that case, the technician may request that the FAA accomplish a “Field Approval.” In this procedure, the technician completes the front side of Form 337 through block 6 (leaving block 3 open for later FAA approval) and then indicates in block 8 on the back what work is to be done and what the substantiating reference data is. Form 337 is then submitted to the local FAA FSDO office for review and approval by an ASI. If necessary, this ASI may seek input from other ASIs or FAA specialists to assist in the review of the data. If the data is found to comply with FAA regulations, the ASI enters one of the following statements in block 3, depending on whether the ASI has performed a review of the data only or has physically inspected the aircraft:
 
@@ -92,7 +102,9 @@ The first observation is that this section specifically excludes inspection entr
 
 • When—the date the work was completed
 
-• Who—the name of the person who did the work if other than the person who approves the RTS —the signature, certificate number, and type of certificate of the person who is approving the work for RTS Note: Frequently, logbooks have a statement entered that ends something like this: “ … and is hereby returned to service. Joe Fixer A&P, Certificate #123456789.” As this section of the regulation currently reads, that part of the record entry is not required. Title 14 of the CFR part 43, section 43.9 clearly states that “the signature constitutes the approval for return to service only for the work performed.” Furthermore, the technician is only signing off the work they have done. Later, 14 CFR part 43, section 43.11 explains that an inspection write-up usually carries a broader scope of responsibility. This section is very clear that the entry completed in accordance with this section only holds the technician responsible for the service maintenance action they entered.
+• Who—the name of the person who did the work if other than the person who approves the RTS —the signature, certificate number, and type of certificate of the person who is approving the work for RTS
+
+Note: Frequently, logbooks have a statement entered that ends something like this: “ … and is hereby returned to service. Joe Fixer A&P, Certificate #123456789.” As this section of the regulation currently reads, that part of the record entry is not required. Title 14 of the CFR part 43, section 43.9 clearly states that “the signature constitutes the approval for return to service only for the work performed.” Furthermore, the technician is only signing off the work they have done. Later, 14 CFR part 43, section 43.11 explains that an inspection write-up usually carries a broader scope of responsibility. This section is very clear that the entry completed in accordance with this section only holds the technician responsible for the service maintenance action they entered.
 
 If the maintenance accomplished was a major repair or alteration, the work must be documented on FAA Form 337 and requires supporting approved data. If the maintenance action was a major repair and it was done by a certificated repair station, a signed copy of the completed customer work order accompanied by a signed maintenance release may be used in lieu of the FAA Form 337.
 
@@ -122,7 +134,9 @@ When a life-limited part is removed, the person removing it from the type-certif
 
 6. Mutilation
 
-7. Any other method approved or accepted by the FAA When a life-limited part is transferred, the information concerning the life status of that part must be transferred with it. Although regulations already did exist that required the tracking of life-limited parts when they were installed on an aircraft, this regulation was generated to govern the disposition of such parts when they were removed from the aircraft.
+7. Any other method approved or accepted by the FAA
+
+When a life-limited part is transferred, the information concerning the life status of that part must be transferred with it. Although regulations already did exist that required the tracking of life-limited parts when they were installed on an aircraft, this regulation was generated to govern the disposition of such parts when they were removed from the aircraft.
 
 #### Section 43.11—Content, form, and disposition of records for inspections conducted under parts 91 and 125, and sections 135.411(a)(1) and 135.419 of this chapter
 
@@ -132,7 +146,9 @@ This section deals exclusively with inspection record entries; however, the requ
 
 • When—date of the inspection and the total time in service
 
-• Who—the signature, certificate number, and kind of certificate of the person approving or disapproving the RTS Since this is an inspection write-up and not a maintenance entry, it is quite possible that the inspecting technician could reject or disapprove the item being inspected for the RTS. When that situation occurs, the regulation states in paragraph (b) that a list of discrepancies must be given to the owner. A reference to this list and its delivery to the aircraft owner must be reflected in the record entry. Although the regulation neither specifies how those discrepancies can be cleared, nor who may do them, any appropriately-rated repair station or certificated technician can perform the required maintenance actions. When they are completed and the proper maintenance record entries are generated in accordance with 14 CFR part 43, section 43.9, the aircraft is approved for RTS. It is neither necessary to have an additional inspection, nor is it necessary to contact the disapproving inspector.
+• Who—the signature, certificate number, and kind of certificate of the person approving or disapproving the RTS
+
+Since this is an inspection write-up and not a maintenance entry, it is quite possible that the inspecting technician could reject or disapprove the item being inspected for the RTS. When that situation occurs, the regulation states in paragraph (b) that a list of discrepancies must be given to the owner. A reference to this list and its delivery to the aircraft owner must be reflected in the record entry. Although the regulation neither specifies how those discrepancies can be cleared, nor who may do them, any appropriately-rated repair station or certificated technician can perform the required maintenance actions. When they are completed and the proper maintenance record entries are generated in accordance with 14 CFR part 43, section 43.9, the aircraft is approved for RTS. It is neither necessary to have an additional inspection, nor is it necessary to contact the disapproving inspector.
 
 If the aircraft is on a progressive inspection program, the inspection statement changes slightly from the statement referenced earlier by adding the reference to both a “routine inspection” and a “detailed inspection.” Refer to explanatory text of 14 CFR part 43, section 43.15 for a definition of these terms. Inspections accomplished in accordance with other inspection program requirements must identify that particular program and that part of the program the inspection completed.
 
@@ -174,11 +190,11 @@ This section was significantly revised in 2005, as the result of a Bilateral Avi
 
 #### Appendix A—Major Alterations, Major Repairs, and Preventive Maintenance
 
-, and U.S. Department of Transportation Federal Aviation Administration Advisory Circular Subject: Acceptable Methods, Techniques, and Practices – Aircraft Alterations Date: 3/3/08 Initiated by: AFS-300 AC No: 43.13-2B 1. PURPOSE. This advisory circular (AC) contains methods, techniques, and practices acceptable to the Administrator for the inspection and alteration on non-pressurized areas of civil aircraft of 12,500 lbs gross weight or less. This AC is for use by mechanics, repair stations, and other certificated entities. This data generally pertains to minor alterations; however, the alteration data herein may be used as approved data for major alterations when the AC chapter, page, and paragraph are listed in block 8 of FAA Form 337 when the user has determined that it is: a. Appropriate to the product being altered, b. Directly applicable to the alteration being made, and c. Not contrary to manufacturer’s data. 2. CANCELLATION. AC 43.13-2A, Acceptable Methods, Techniques, and Practices― Aircraft Alterations, dated January 1, 1977, is canceled. 3. REFERENCE. Title 14 of the Code of Federal Regulations (14 CFR) part 43, § 43.13(a) states that each person performing maintenance, alteration, or preventive maintenance on an aircraft, engine, propeller, or appliance must use the methods, techniques, and practices prescribed in the current manufacturer’s maintenance manual or Instructions for Continued Airworthiness prepared by its manufacturer, or other methods, techniques, or practices acceptable to the Administrator, except as noted in § 43.16. FAA inspectors are prepared to answer questions that may arise in this regard. Persons engaged in the inspection and alteration of civil aircraft should be familiar with 14 CFR part 43, Maintenance, Preventive Maintenance, Rebuilding, and Alterations, and part 65, subparts A, D, and E of Certification: Airmen Other than Flight Crewmembers, and applicable airworthiness requirements under which the aircraft was type-certificated. 4. COMMENTS INVITED. Comments regarding this AC should be directed to DOT/FAA: ATTN: Aircraft Maintenance Division, 800 Independence Ave., SW., Washington, DC 20591, FAX (202) 267-5115.
+This appendix provides a comprehensive, but not exclusive, list of subjects. For instance, paragraph (a) is titled Major Alteration, and is further subdivided as follows:
 
-ORIGINAL SIGNED By James J. Ballough Director Flight Standards Service Preventive Maintenance This appendix provides a comprehensive, but not exclusive, list of subjects. For instance, paragraph (a) is titled Major Alteration, and is further subdivided as follows:
+• Appliance
 
-• Appliance This same subdivision is used in paragraph (b), Major Repairs. Paragraph (c), Preventive Maintenance, identifies those maintenance actions that are defined as preventive maintenance, provided the maintenance does not involve complex assembly operations. Preventive maintenance work may be accomplished by the holder of at least a private pilot certificate provided they are the owner or operator of that aircraft, and it is not operated under 14 CFR part 121, 129, or 135.
+This same subdivision is used in paragraph (b), Major Repairs. Paragraph (c), Preventive Maintenance, identifies those maintenance actions that are defined as preventive maintenance, provided the maintenance does not involve complex assembly operations. Preventive maintenance work may be accomplished by the holder of at least a private pilot certificate provided they are the owner or operator of that aircraft, and it is not operated under 14 CFR part 121, 129, or 135.
 
 #### Appendix B—Recording of Major Repairs and Major Alterations
 
@@ -234,7 +250,9 @@ Section 91.409—Inspections This paragraph identifies various types of inspecti
 
 2. An aircraft inspected in accordance with an approved aircraft inspection program under part 125 or 135 of this chapter and so identified by the registration number in the operations specifications of the certificate holder having the approved inspection program;
 
-3. An aircraft subject to the requirements of paragraph (d) or (e) of this section; or 4. Turbine-powered rotorcraft when the operator elects to inspect that rotorcraft in accordance with paragraph (e) of this section.
+3. An aircraft subject to the requirements of paragraph (d) or (e) of this section; or
+
+4. Turbine-powered rotorcraft when the operator elects to inspect that rotorcraft in accordance with paragraph (e) of this section.
 
 Annual inspections are usually the inspection method associated with small “general aviation” aircraft. If this same aircraft is used for hire (including flight instruction for hire), then the aircraft must also be inspected every 100 hours of time in service. This requirement for a 100-hour inspection to be conducted on an aircraft may be exceeded by as much as 10 hours if the aircraft is en route to reach a facility that will be conducting the inspection. Any time accrued between 100 and 110 hours is subtracted from the hours remaining before the next 100-hour inspection.
 
@@ -256,6 +274,7 @@ Note: Other than this paragraph, there is no requirement that the maintenance re
 
 Section 91.421—Rebuilt Engine Maintenance Records This section presents the term “zero time.” Although not truly given as a definition, the wording of the regulation is very clear that an aircraft engine, when rebuilt by the engine manufacturer or an agency approved by the manufacturer, may be given a new maintenance record showing no previous operating history. This new record must include a signed statement with the date it was rebuilt, any changes incorporated by compliance with AD notes, and compliance with any of the manufacturer’s SB.
 
+
 ## 2. 中文翻译
 
 ### 14 CFR part 43——维修、预防性维修、翻修与改装
@@ -272,7 +291,9 @@ Section 91.421—Rebuilt Engine Maintenance Records This section presents the te
 
 • 按需修理
 
-• 试验 这两个术语的关键差别在于判定该物件是如何试验的。如果它是“按经局长可接受、由制造商制定并形成文件的批准标准进行试验，则该物件称为已翻修（overhauled）”。这基本上是用另一种方式描述“使用极限”，这个词常用来指制造商规定的二手件可接受极限。相反，“重建（rebuilt）的物件必须按与新件相同的公差和极限进行试验”。
+• 试验
+
+这两个术语的关键差别在于判定该物件是如何试验的。如果它是“按经局长可接受、由制造商制定并形成文件的批准标准进行试验，则该物件称为已翻修（overhauled）”。这基本上是用另一种方式描述“使用极限”，这个词常用来指制造商规定的二手件可接受极限。相反，“重建（rebuilt）的物件必须按与新件相同的公差和极限进行试验”。
 
 #### 第 43.3 节——有权实施维修、预防性维修、翻修与改装的人员
 
@@ -298,7 +319,9 @@ Section 91.421—Rebuilt Engine Maintenance Records This section presents the te
 
 • 没有可用的持证维修人员。
 
-• 证书持有人具备在需要作出适航判定时评估已完成工作的程序。所实施的工作列于本章附录 A 的第（c）款。
+• 证书持有人具备在需要作出适航判定时评估已完成工作的程序。
+
+所实施的工作列于本章附录 A 的第（c）款。
 
 8. part 135 证书持有人可允许九座及以下航空器的驾驶员拆装客舱座椅、担架和客舱安装的医疗氧气瓶。这些操作只能在下列条件下完成：
 
@@ -310,9 +333,15 @@ Section 91.421—Rebuilt Engine Maintenance Records This section presents the te
 
 #### 第 43.5 节——维修、预防性维修、翻修与改装后恢复使用的批准
 
-维修、预防性维修、翻修或改装后对航空器部件作出恢复使用（RTS）的批准，必须通过按 14 CFR part 43 第 43.9 节或第 43.11 节的要求制作相应的维修记录条目来完成。若该维修活动属重大修理或重大改装，这可能包括使用 FAA Form 337（重大修理与改装）。无论规划何种维修活动，技术人员都必须确切了解：1. 自己将要做什么。2. 该工作被 FAA 归为哪一类。
+维修、预防性维修、翻修或改装后对航空器部件作出恢复使用（RTS）的批准，必须通过按 14 CFR part 43 第 43.9 节或第 43.11 节的要求制作相应的维修记录条目来完成。若该维修活动属重大修理或重大改装，这可能包括使用 FAA Form 337（重大修理与改装）。无论规划何种维修活动，技术人员都必须确切了解：
 
-3. 需要何种文件来支持这项活动。首先考虑这是修理还是改装。这应当是一个相对简单的判断，因为修理基本上是把航空器恢复到其先前或未改装的状态（即更换磁电机、排气系统、轮胎或刹车）。即使更换整台发动机（尽管工作量大），只要它是该航空器正确规定的发动机，仍属修理。另一方面，改装总是改变或修改航空器使其不同于先前状态（即加装翼梢小翼、新航电，或安装未列于该航空器 TCDS 的发动机）。要考虑的第二个问题是，将实施的作业是否构成重大或次要维修活动。“重大”活动通常指可能明显影响重量、平衡、结构强度、性能、动力装置运行、飞行特性或其他影响适航性的品质，且未按公认做法进行、或无法用基本操作完成的活动。这个问题复杂得多，但极为重要，因为它决定最后一个关于证实性文件的问题。更多说明和示例请参阅 14 CFR part 1 与 part 43 附录 A。
+1. 自己将要做什么。
+
+2. 该工作被 FAA 归为哪一类。
+
+3. 需要何种文件来支持这项活动。
+
+首先考虑这是修理还是改装。这应当是一个相对简单的判断，因为修理基本上是把航空器恢复到其先前或未改装的状态（即更换磁电机、排气系统、轮胎或刹车）。即使更换整台发动机（尽管工作量大），只要它是该航空器正确规定的发动机，仍属修理。另一方面，改装总是改变或修改航空器使其不同于先前状态（即加装翼梢小翼、新航电，或安装未列于该航空器 TCDS 的发动机）。要考虑的第二个问题是，将实施的作业是否构成重大或次要维修活动。“重大”活动通常指可能明显影响重量、平衡、结构强度、性能、动力装置运行、飞行特性或其他影响适航性的品质，且未按公认做法进行、或无法用基本操作完成的活动。这个问题复杂得多，但极为重要，因为它决定最后一个关于证实性文件的问题。更多说明和示例请参阅 14 CFR part 1 与 part 43 附录 A。
 
 第三个问题涉及证实所完成工作所需的文件类型。次要修理和改装只需引用“可接受（acceptable）”的数据，如制造商维修手册或 AC 43.13-1。该维修活动只需作为日志条目记入维修记录即可。重大修理和改装则要求“经批准（approved）的数据”。经批准数据的示例包括 AD notes、STCs、TCDS、DER 专项授权，以及 FAA 批准的制造商服务通告（SB）。有时所实施的修理或改装没有事先批准的数据。这种情况下，技术人员可请 FAA 实施“现场批准”（Field Approval）。在此程序中，技术人员填写 Form 337 正面直至第 6 栏（第 3 栏留空，供 FAA 日后批准），然后在背面第 8 栏说明要做什么工作以及证实所依据的参考数据。随后 Form 337 提交当地 FAA FSDO 办公室，由 ASI 审查批准。必要时，该 ASI 可征求其他 ASI 或 FAA 专家的意见以协助审查数据。若认定数据符合 FAA 规章，ASI 将根据其只是审查了数据还是实地检查了航空器，在第 3 栏填入下列语句之一：
 
@@ -346,7 +375,9 @@ Section 91.421—Rebuilt Engine Maintenance Records This section presents the te
 
 • 何时——工作完成的日期
 
-• 谁——若完成工作的人不是批准恢复使用者，则为其姓名——批准该工作恢复使用者的签名、证书编号和证书类型 注意：日志中常写有这样的语句，结尾类似：“……特此恢复使用。Joe Fixer A&P，证书号 #123456789。”按该节规章现行文本，记录条目的这一部分并非必需。CFR 第 14 编 part 43 第 43.9 节明确规定“签名仅对所完成的工作构成恢复使用的批准”。此外，技术人员只对自己完成的工作签字。后文 14 CFR part 43 第 43.11 节说明，检查记录通常承担更宽的责任范围。本节非常清楚：按本节完成的条目，只让技术人员对其录入的维修活动负责。
+• 谁——若完成工作的人不是批准恢复使用者，则为其姓名——批准该工作恢复使用者的签名、证书编号和证书类型
+
+注意：日志中常写有这样的语句，结尾类似：“……特此恢复使用。Joe Fixer A&P，证书号 #123456789。”按该节规章现行文本，记录条目的这一部分并非必需。CFR 第 14 编 part 43 第 43.9 节明确规定“签名仅对所完成的工作构成恢复使用的批准”。此外，技术人员只对自己完成的工作签字。后文 14 CFR part 43 第 43.11 节说明，检查记录通常承担更宽的责任范围。本节非常清楚：按本节完成的条目，只让技术人员对其录入的维修活动负责。
 
 若所完成的维修属重大修理或改装，该工作必须记录在 FAA Form 337 上，并要求有支持性的经批准数据。若该维修活动是重大修理且由持证修理站完成，则可用一份签署的完工客户工作单副本连同签署的维修放行单，代替 FAA Form 337。
 
@@ -376,7 +407,9 @@ Section 91.421—Rebuilt Engine Maintenance Records This section presents the te
 
 6. 损毁
 
-7. FAA 批准或接受的任何其他方法 寿命件转移时，有关该件寿命状态的信息必须随之转移。尽管早已有规章要求在寿命件装机时对其进行跟踪，但本规章的出台是为规范此类部件从航空器上拆下时的处置。
+7. FAA 批准或接受的任何其他方法
+
+寿命件转移时，有关该件寿命状态的信息必须随之转移。尽管早已有规章要求在寿命件装机时对其进行跟踪，但本规章的出台是为规范此类部件从航空器上拆下时的处置。
 
 #### 第 43.11 节——按 part 91、125 及本章第 135.411(a)(1) 节和第 135.419 节实施的检查的记录的内容、格式与处置
 
@@ -386,7 +419,9 @@ Section 91.421—Rebuilt Engine Maintenance Records This section presents the te
 
 • 何时——检查日期和总使用时间
 
-• 谁——批准或不批准恢复使用者的人员的签名、证书编号和证书种类 由于这是检查记录而非维修条目，实施检查的技术人员完全可能拒绝或不批准受检物件恢复使用。出现这种情况时，规章第（b）款规定必须向机主提供一份缺陷清单。记录条目中必须反映对该清单的引用及其向航空器机主的交付。尽管规章既未规定这些缺陷如何才能清除，也未规定谁可以清除，但任何具有相应等级的修理站或持证技术人员都可实施所需的维修工作。当这些工作完成，并按 14 CFR part 43 第 43.9 节制作了适当的维修记录条目后，航空器即被批准恢复使用。既不需要再做一次检查，也不需要联系当初不批准的检查员。
+• 谁——批准或不批准恢复使用者的人员的签名、证书编号和证书种类
+
+由于这是检查记录而非维修条目，实施检查的技术人员完全可能拒绝或不批准受检物件恢复使用。出现这种情况时，规章第（b）款规定必须向机主提供一份缺陷清单。记录条目中必须反映对该清单的引用及其向航空器机主的交付。尽管规章既未规定这些缺陷如何才能清除，也未规定谁可以清除，但任何具有相应等级的修理站或持证技术人员都可实施所需的维修工作。当这些工作完成，并按 14 CFR part 43 第 43.9 节制作了适当的维修记录条目后，航空器即被批准恢复使用。既不需要再做一次检查，也不需要联系当初不批准的检查员。
 
 若航空器处于渐进式检查大纲之下，检查语句与前述语句略有不同，需增加对“例行检查”和“详细检查”的引用。这两个术语的定义见 14 CFR part 43 第 43.15 节的说明文字。按其他检查大纲要求完成的检查，必须指明该特定大纲以及本次检查所完成的大纲部分。
 
@@ -428,11 +463,11 @@ Section 91.421—Rebuilt Engine Maintenance Records This section presents the te
 
 #### 附录 A——重大改装、重大修理与预防性维修
 
-，美国运输部　联邦航空管理局　咨询通告　主题：可接受的方法、技术与做法——航空器改装　日期：3/3/08　发起单位：AFS-300　AC No：43.13-2B 1. 目的。本咨询通告（AC）包含局长可接受的、用于最大全重 12,500 磅及以下民用航空器非增压区域检查与改装的方法、技术和做法。本 AC 供维修人员、修理站及其他持证主体使用。本数据主要针对次要改装；但若使用者认定下列条件成立，则在 FAA Form 337 第 8 栏填入 AC 的章、页、段号后，此处的改装数据可用作重大改装的经批准数据：a. 适合拟改装的产品，b. 直接适用于所实施的改装，且 c. 不违背制造商的数据。2. 取消。1977 年 1 月 1 日发布的 AC 43.13-2A《可接受的方法、技术与做法——航空器改装》予以取消。3. 参考。CFR 第 14 编（14 CFR）part 43 第 43.13(a) 节规定，对航空器、发动机、螺旋桨或机载设备实施维修、改装或预防性维修的每个人，都必须使用现行制造商维修手册或制造商编写的 ICA 中规定的方法、技术和做法，或局长可接受的其他方法、技术或做法，但第 43.16 节另有规定的除外。FAA 检查员已准备好回答这方面可能出现的问题。从事民用航空器检查与改装的人员，应熟悉 14 CFR part 43《维修、预防性维修、翻修与改装》，以及 part 65 第 A、D、E 分部《认证：非机组人员的航空人员》，并熟悉该航空器型号合格审定所依据的适用适航要求。4. 征求意见。对本 AC 的意见应寄至 DOT/FAA：ATTN：Aircraft Maintenance Division，800 Independence Ave., SW., Washington, DC 20591，传真 (202) 267-5115。
+本附录提供了一份全面但不排他的科目清单。例如，第（a）款标题为“重大改装”，并进一步细分如下：
 
-原签署人 James J. Ballough　局长　飞行标准服务处 预防性维修 本附录提供了一份全面但不排他的科目清单。例如，第（a）款标题为“重大改装”，并进一步细分如下：
+• 机载设备
 
-• 机载设备 同一细分方式也用于第（b）款“重大修理”。第（c）款“预防性维修”指明哪些维修活动被定义为预防性维修，条件是该维修不涉及复杂装配操作。只要持证人至少持有私用驾驶员执照、是该航空器的机主或运营人，且该航空器不按 14 CFR part 121、129 或 135 运行，预防性维修工作即可由其完成。
+同一细分方式也用于第（b）款“重大修理”。第（c）款“预防性维修”指明哪些维修活动被定义为预防性维修，条件是该维修不涉及复杂装配操作。只要持证人至少持有私用驾驶员执照、是该航空器的机主或运营人，且该航空器不按 14 CFR part 121、129 或 135 运行，预防性维修工作即可由其完成。
 
 #### 附录 B——重大修理与重大改装的记录
 
@@ -488,7 +523,9 @@ Section 91.421—Rebuilt Engine Maintenance Records This section presents the te
 
 2. 按本章 part 125 或 135 经批准的航空器检查大纲实施检查，并且其登记号已在持有该经批准检查大纲的证书持有人的运行规范中标明的航空器；
 
-3. 受本节第（d）或（e）款要求约束的航空器；或 4. 当运营人选择按本节第（e）款检查涡轮动力旋翼航空器时，该旋翼航空器。
+3. 受本节第（d）或（e）款要求约束的航空器；或
+
+4. 当运营人选择按本节第（e）款检查涡轮动力旋翼航空器时，该旋翼航空器。
 
 年度检查通常是与小型“通用航空”航空器相关联的检查方式。若同一航空器用于取酬（包括取酬的飞行训练），则该航空器还必须每使用 100 小时检查一次。若航空器正在飞往实施该检查的机构途中，100 小时检查的这一要求最多可超出 10 小时。100 至 110 小时之间累计的时间，从距下次 100 小时检查剩余的小时数中扣除。
 
@@ -509,6 +546,7 @@ TSO 合格的物件自其制造之日起即被视为“已测试并检查”。�
 注：除本款外，并不要求航空器维修记录随航空器携带。事实上，多数情况下不携带很有道理。两大顾虑是记录损坏或丢失。把日志保存在办公室的档案系统中要安全得多。把日志本复印或扫描并保存在另一地点也是很明智的做法，以防保存原始记录的场所发生灾难性事件（火灾、洪水、龙卷风、飓风等）。第 (a)(1) 小段随后列出那些在 (b)(1) 中被定义为保存 1 年、或保存至工作被重做或被取代的记录。第 (a)(2) 小段规定哪些是永久记录，并在 (b)(2) 中被指明为必须随航空器转移的记录。第（c）款要求，本节规定的全部维修记录，一经局长或 NTSB 任何授权代表要求，即须提供。此外，按第（d）款，每当在客舱或行李舱安装附加燃油箱时，机主/运营人必须在任何执法官员要求时提供要求随机携带的 Form 337。第 91.419 节——维修记录的转移 航空器出售时，记录随之转移是合理的。记录可用通俗语言或编码形式。买方可选择允许卖方保留实际记录；但若如此，买方（现机主/运营人）仍必须应要求向 FAA 或 NTSB 提供这些记录。
 
 第 91.421 节——重建发动机的维修记录 本节提出“零时间（zero time）”这一术语。虽然并未真正作为定义给出，但规章措辞非常清楚：航空器发动机由发动机制造商或制造商批准的机构重建后，可获得一份显示无先前运行历史的新的维修记录。该新记录必须包含一份签署的说明，写明重建日期、因符合 AD notes 而并入的任何更改，以及对制造商任何 SB 的符合情况。
+
 
 ## 3. 专业词汇
 
