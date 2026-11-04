@@ -188,13 +188,27 @@ In order to better understand the next three regulations discussed here (14 CFR 
 
 3. Is it a large or small aircraft?
 
-AC 120-12, as revised, provides the following definition regarding this criterion: A carrier becomes a common carrier when it “holds itself out” to the public, or to a segment of the public, as willing to furnish transportation within the limits of its facilities to any person who wants it. There are four elements in defining a common carrier: 1. A holding out of a willingness to 2. Transport persons or property 3. From place to place 4. For compensation
+AC 120-12, as revised, provides the following definition regarding this criterion: A carrier becomes a common carrier when it “holds itself out” to the public, or to a segment of the public, as willing to furnish transportation within the limits of its facilities to any person who wants it. There are four elements in defining a common carrier:
+
+1. A holding out of a willingness to
+
+2. Transport persons or property
+
+3. From place to place
+
+4. For compensation
 
 This “holding out” that makes a person a common carrier can be done in many ways, and it does not matter how it is done. Signs and advertising are the most direct means of “holding out,” but are not the only ones.
 
 Carriage for hire which does not involve "holding out" is private carriage. Private carriers for hire are sometimes called “contract carriers,” but the term is borrowed from the Interstate Commerce Act and legally inaccurate when used in connection with the Federal Aviation Act. Private carriage for hire is carriage for one or several selected customers, generally on a long-term basis. The number of contracts must not be too great; otherwise, it implies a willingness to make a contract with anybody. A carrier operating pursuant to 18 to 24 contracts has been held to be a common carrier, because it held itself out to serve the public generally to the extent of its facilities. Private carriage has been found in cases where three contracts have been the sole basis of the operator’s business.
 
-Operations that constitute common carriage are required to be conducted under 14 CFR part 121 or 135. Private carriage may be conducted under 14 CFR part 91 or 125. The term “for hire” is not defined in any of the FAA documents but is generally understood to mean that compensation for both direct and indirect expenses associated with the flight, as well as a profit margin for the operator, are collected from the person or persons benefiting from the flight operation. The determination of whether the aircraft is large or small is based upon the definition provided in 14 CFR part 1. If the aircraft has maximum certificated takeoff weight of 12,500 pounds or more, it is a large aircraft. All aircraft less than 12,500 maximum certificated takeoff weight are considered to be small aircraft. It may also help the reader understand when 14 CFR parts 121, 125, and 135 regulations apply, by taking a brief look at a list of flight operations where 14 CFR part 119 does not apply.
+Operations that constitute common carriage are required to be conducted under 14 CFR part 121 or 135. Private carriage may be conducted under 14 CFR part 91 or 125.
+
+The term “for hire” is not defined in any of the FAA documents but is generally understood to mean that compensation for both direct and indirect expenses associated with the flight, as well as a profit margin for the operator, are collected from the person or persons benefiting from the flight operation.
+
+The determination of whether the aircraft is large or small is based upon the definition provided in 14 CFR part 1. If the aircraft has maximum certificated takeoff weight of 12,500 pounds or more, it is a large aircraft. All aircraft less than 12,500 maximum certificated takeoff weight are considered to be small aircraft.
+
+It may also help the reader understand when 14 CFR parts 121, 125, and 135 regulations apply, by taking a brief look at a list of flight operations where 14 CFR part 119 does not apply.
 
 1. Student instruction
 
@@ -218,13 +232,21 @@ Operations that constitute common carriage are required to be conducted under 14
 
 #### 14 CFR Part 121—Operating Requirements: Domestic, Flag, and Supplemental Operations
 
-Title 14 CFR part 121 establishes the operational rules for air carriers flying for compensation or hire. A domestic operation is any scheduled operation (within the 48 contiguous states, the District of Columbia, or any territory or possession) conducted with either a turbo-jet aircraft, an airplane having 10 or more passenger seats, or a payload capacity greater than 7,500 pounds. A “flag” operation means any scheduled operation (operating in Alaska or Hawaii to any point outside of those states, or to any territory or possession of the United States, or from any point outside the United States to any point outside the United States) conducted with either a turbo-jet aircraft, an airplane having 10 or more passenger seats, or a payload capacity greater than 7,500 pounds. “Supplemental” operation means any common carriage operation conducted with airplanes having more than 30 passenger seats (if less than 30, the airplane must also be listed on the operations specifications of domestic and flag carriers), with a payload capacity of more than 7,500 pounds. Part 121 operators are required by 14 CFR part 119 to have the following personnel:
+Title 14 CFR part 121 establishes the operational rules for air carriers flying for compensation or hire. A domestic operation is any scheduled operation (within the 48 contiguous states, the District of Columbia, or any territory or possession) conducted with either a turbo-jet aircraft, an airplane having 10 or more passenger seats, or a payload capacity greater than 7,500 pounds.
+
+A “flag” operation means any scheduled operation (operating in Alaska or Hawaii to any point outside of those states, or to any territory or possession of the United States, or from any point outside the United States to any point outside the United States) conducted with either a turbo-jet aircraft, an airplane having 10 or more passenger seats, or a payload capacity greater than 7,500 pounds.
+
+“Supplemental” operation means any common carriage operation conducted with airplanes having more than 30 passenger seats (if less than 30, the airplane must also be listed on the operations specifications of domestic and flag carriers), with a payload capacity of more than 7,500 pounds.
+
+Part 121 operators are required by 14 CFR part 119 to have the following personnel:
 
 • Director of Safety
 
 • Director of Operations
 
 • Director of Maintenance
+
+• Chief Pilot
 
 • Chief Inspector
 
@@ -264,9 +286,17 @@ As the title of this section states, this regulation is applicable to short dist
 
 Aircraft operated under 14 CFR part 135 must be operated and maintained in accordance with the certificate holder’s operations manual. This manual, when accepted by the FAA, specifies how the flight crew, ground personnel, and maintenance technicians conduct their operations.
 
-A pivotal portion of this regulation is the first section in subpart J, 14 CFR part 135, section 135.411, Application. This section specifies that having a type certificated passenger seating configuration of nine or less may be maintained in accordance with the maintenance manual provided by the aircraft manufacturer. Those aircraft having a type certificated passenger seating configuration of 10 or more seats must be maintained in accordance with a maintenance manual written by the air carrier and must then be submitted to the FAA for approval. The requirements for the maintenance manual are specified in 14 CFR part 135, section 135.427. 14 CFR part 135, sections 135.415 through 135.417 and 135.423 through 135.443 specify additional maintenance requirements. 14 CFR part 135, sections 135.415 and 135.417 are applicable regardless of the number of seats in the aircraft. A major change in the “nine or less” aircraft maintenance requirements occurred in February of 2005 when section 135.422, Aging Aircraft, was incorporated into 14 CFR part 135. This new subpart (note the even number) to 14 CFR 135 specifically prohibits a certificate holder from operating certain aircraft unless the Administrator has completed the aging aircraft inspection and records review. This inspection requires the certificate holder to show the FAA that the maintenance of age sensitive parts and components has been adequate to ensure safety. This section only applies to multi-engine aircraft in scheduled operation with nine or fewer passenger seats. It does not apply to aircraft operating in Alaska. The required record review start date varies depending on the age of the aircraft.
+A pivotal portion of this regulation is the first section in subpart J, 14 CFR part 135, section 135.411, Application. This section specifies that having a type certificated passenger seating configuration of nine or less may be maintained in accordance with the maintenance manual provided by the aircraft manufacturer. Those aircraft having a type certificated passenger seating configuration of 10 or more seats must be maintained in accordance with a maintenance manual written by the air carrier and must then be submitted to the FAA for approval. The requirements for the maintenance manual are specified in 14 CFR part 135, section 135.427. 14 CFR part 135, sections 135.415 through 135.417 and 135.423 through 135.443 specify additional maintenance requirements. 14 CFR part 135, sections 135.415 and 135.417 are applicable regardless of the number of seats in the aircraft.
 
-However, once initiated, the repetitive inspection intervals are not to exceed 7 years. The certificate holder must make both the aircraft and the records available to the FAA for inspection and review. The certificate holder must notify the Administrator at least 60 days in advance of the availability of the aircraft and the records for review. The records must include the following information:
+A major change in the “nine or less” aircraft maintenance requirements occurred in February of 2005 when section 135.422, Aging Aircraft, was incorporated into 14 CFR part 135. This new subpart (note the even number) to 14 CFR 135 specifically prohibits a certificate holder from operating certain aircraft unless the Administrator has completed the aging aircraft inspection and records review. This inspection requires the certificate holder to show the FAA that the maintenance of age sensitive parts and components has been adequate to ensure safety.
+
+This section only applies to multi-engine aircraft in scheduled operation with nine or fewer passenger seats. It does not apply to aircraft operating in Alaska. The required record review start date varies depending on the age of the aircraft.
+
+However, once initiated, the repetitive inspection intervals are not to exceed 7 years.
+
+The certificate holder must make both the aircraft and the records available to the FAA for inspection and review. The certificate holder must notify the Administrator at least 60 days in advance of the availability of the aircraft and the records for review.
+
+The records must include the following information:
 
 1. Total years in service of the airplane
 
@@ -328,7 +358,9 @@ If both A&P ratings are offered, the combined total curriculum hours are 1,900. 
 
 #### 14 CFR Part 183—Representatives of the Administrator
 
-As the aviation industry grows and the design, manufacture, and testing of aircraft gets more complex, the FAA faces both budget constraints and personnel shortages. As early as 1962, the FAA began a program to allow private sector persons in various areas of industry to be “designees” or “representatives of the FAA Administrator.” These people are NOT FAA employees, but rather are designated by the FAA to act on their behalf. Regular doctors may serve as “aviation medical examiners,” skilled pilots can become “pilot examiners,” and experienced airframe and/or powerplant mechanics can become “designated mechanic examiners (DME)” to administer the oral and practical portion of the FAA testing. Other lesser known designees are the designated engineering representatives (DER), the designated manufacturing inspection representatives (DMIR), and the designated airworthiness representatives (DAR).
+As the aviation industry grows and the design, manufacture, and testing of aircraft gets more complex, the FAA faces both budget constraints and personnel shortages. As early as 1962, the FAA began a program to allow private sector persons in various areas of industry to be “designees” or “representatives of the FAA Administrator.” These people are NOT FAA employees, but rather are designated by the FAA to act on their behalf. Regular doctors may serve as “aviation medical examiners,” skilled pilots can become “pilot examiners,” and experienced airframe and/or powerplant mechanics can become “designated mechanic examiners (DME)” to administer the oral and practical portion of the FAA testing.
+
+Other lesser known designees are the designated engineering representatives (DER), the designated manufacturing inspection representatives (DMIR), and the designated airworthiness representatives (DAR).
 
 • DERs approve data based upon their engineering training and their knowledge of FAA regulations.
 
