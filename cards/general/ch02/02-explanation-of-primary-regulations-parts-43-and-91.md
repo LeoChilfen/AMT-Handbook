@@ -16,7 +16,13 @@ Conversely, sometimes during maintenance (especially STC modification—the STC 
 
 These terms are not defined in 14 CFR part 1 and are given full explanation in this subpart. Each term states that it may not be used to describe work done on an aircraft, airframe, aircraft engine, propeller, appliance, or component part unless that item has been:
 
+• Disassembled
+
+• Inspected
+
 • Repaired, as necessary
+
+• Reassembled
 
 • Tested
 
@@ -289,7 +295,13 @@ Section 91.421—Rebuilt Engine Maintenance Records This section presents the te
 
 这些术语在 14 CFR part 1 中没有定义，本分部对其作了完整解释。每个术语都规定：除该物件已完成下列工作外，不得用它来描述对航空器、机身、航空器发动机、螺旋桨、机载设备或部件所实施的作业：
 
+• 分解
+
+• 检查
+
 • 按需修理
+
+• 重新装配
 
 • 试验
 
