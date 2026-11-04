@@ -4,8 +4,6 @@
 <p>Troubleshooting is the systematic process of recognizing the symptoms of a problem, identifying the possible cause, and locating the failed component or conductor in the circuit. To be proficient at troubleshooting, the technician must understand how the circuit operates and know how to properly use the test equipment. There are many ways in which a system can fail and to cover all of the possibilities is beyond the scope of this handbook. However, there are some basic concepts that enable the technician to handle many of the common faults encountered in the aircraft.</p>
 <p>Before starting a discussion on basic circuits and troubleshooting, the following definitions are given.</p>
 <p class="bullet">• Short circuit—an unintentional low resistance path between two components in a circuit or between a Applied(0) volts (+) volts Horizontal deflection plates (H)</p>
-<p>Vertical deflection plates (V)</p>
-<p>(0) volts The horizontal beam position will depend on the applied saw-tooth voltage Voltage starts at a maximum negative value and increases to a maximum positive value, tracing the beam from the left to the right (−) volts Vertical deflection plates (v)</p>
 <p>Horizontal deflection plates (h)Screen Beam on center (0) volts (−) volts Electrons repelled down (−) volts Electrons repelled to left (0) volts (0) volts(0) volts (0) volts (+) volts Electrons attracted up (+) volts Electrons attracted to right (0) volts component/conductor and ground. It usually creates high current flow, which burns out or causes damage to the circuit conductor or components.</p>
 <p class="bullet">• Open circuit—a circuit that is not a complete or continuous path. An open circuit represents an infinitely large resistance. Switches are common devices used to open and close a circuit. Sometimes a circuit opens due to a component failure, such as a light bulb or a burned out resistor.</p>
 <p class="bullet">• Continuity—the state of being continuous, uninterrupted or connected together; the opposite of a circuit that is not broken or does not have an open.</p>
@@ -17,6 +15,8 @@
 <p>All meters have some resistance and will shunt some of the current. This has the effect of changing the characteristic of the circuit because of this change in current. This is typically more of a concern with older analog type meters. If there are any questions about the magnitude of the voltage across a component, then the meter should be set to measure on the highest voltage range. This prevents the meter from “pegging” and possible damage. The range should then be selected to low values until the measured voltage is read at the mid-scale deflection. Readings taken at mid-scale are the most accurate.</p>
 <h3 id="current-measurement">Current Measurement</h3>
 <p>Current is measured with the ammeter connected in the current path by opening or breaking the circuit and inserting the meter in series. Standard practice is for the red meter lead to be installed in the positive (+) jack and the black meter lead to be installed in the negative meter jack (−). The positive side of the meter is connected towards the positive voltage source. Ideally, the meter should not alter the current and influence the circuit and the measurements. However, the meter does have some effect because of its internal resistance that is connected with the rest of the circuit in series. The resistance is rather small and for most practical purposes, this can be neglected.</p>
+<p>Vertical deflection plates (V)</p>
+<p>(0) volts The horizontal beam position will depend on the applied saw-tooth voltage Voltage starts at a maximum negative value and increases to a maximum positive value, tracing the beam from the left to the right (−) volts Vertical deflection plates (v)</p>
 <h3 id="checking-resistance-in-a-circuit">Checking Resistance in a Circuit</h3>
 <p>The ohmmeter is used to measure the resistance. In its more basic form, the ohmmeter consists of a variable resistor in series with a meter movement and a voltage source. The meter must first be adjusted before use.</p>
 <p>When the meter leads are not connected (open), the needle points to the full left-hand position, indicating infinite resistance or and open circuit. With the lead placed together, the circuit is shorted as shown with the meter needle to the full right-hand position. When a connection is made, the internal battery is allowed to produce a current through the movement coil, causing a deflection of the needle in proportion to the value of the external resistance. In this case, the resistance is zero because the leads are shorted.</p>
@@ -38,13 +38,6 @@
 <p>If a voltmeter is connected across the lamp, as shown, the voltmeter reads zero. Since no current can flow in the circuit because of the open resistor, there is no voltage drop across the lamp indicating that the lamp is good.</p>
 <p>Next, the voltmeter is connected across the open resistor, as shown. The voltmeter has closed the circuit by shunting (paralleling) the burned out resistor, allowing current to flow. Current flows from the negative terminal of the battery, through the switch, through the voltmeter and the lamp, back to the positive terminal of the battery. However, the resistance of the voltmeter is so high that only a very small current flows in the circuit. The current is too small to light the lamp, but the voltmeter reads the battery voltage.</p>
 <h3 id="tracing-opens-with-the-voltmeter-2">Tracing Opens with the Voltmeter</h3>
-<p>To explain how the voltmeter and ohmmeter can be used to troubleshoot series-parallel circuits, the circuit has been labeled at various points. A point-to-point description is listed below with expected results:</p>
-<ol><li>By connecting a voltmeter between points A and D, the battery and switch can be checked for opens.</li></ol>
-<ol start="2"><li>By connecting the voltmeter between points A and B, the voltage drop across R 1 can be checked. This voltage drop is a portion of the applied voltage.</li></ol>
-<ol start="3"><li>If R1 is open, the reading between B and D is zero.</li></ol>
-<ol start="4"><li>By connecting a voltmeter between A and E, the continuity of the conductor between the positive terminal of the battery and point E, as well as the fuse, 30 Ω 30 Ω R130 V R2 30 Ω R3 A 2a Break 30 Ω 30 Ω R1 R2 30 Ω R3 Break can be checked. If the conductor or fuse is open, the voltmeter reads zero.</li></ol>
-<ol start="5"><li>If the lamp is burning, it is obvious that no open exists in the branch containing the lamp, and the voltmeter could be used to detect an open in the branch containing R2 by removing lamp, L1, from the circuit.</li></ol>
-<p>Troubleshooting the series portion of a series-parallel circuit presents no difficulties, but in the parallel portion of the circuit, misleading readings can be obtained.</p>
 <h3 id="tracing-opens-with-the-ohmmeter">Tracing Opens with the Ohmmeter</h3>
 <p>A simplified circuit, as shown, illustrates how to locate an open in a series circuit using the ohmmeter. A general rule to keep in mind when troubleshooting with an ohmmeter is: when an ohmmeter is properly connected across a circuit component and a resistance reading is obtained, the component has continuity and is not open.</p>
 <p>When an ohmmeter is used, the circuit component to be tested must be isolated and the power source removed from the circuit. In this case, these requirements can be met by opening the circuit switch as shown. The ohmmeter is zeroed and across all good components is zero. The voltage drop across the open component equals the total voltage across the series combination. This condition happens because the open component prevents current to pass through the series circuit. With there being no current, there can be no voltage drop across any of the good components. Because the current is zero, it can be determined by Ohm’s Law that E = IR = 0 volts across a component. The voltage is the same on both places across (in parallel with) the lamp. In this testing configuration, some value of resistance is read indicating that the lamp is in good condition and is not the source of the open in the circuit.</p>
@@ -80,12 +73,17 @@
 <ol><li>In the circuit shown, an open has occurred in the series portion of the circuit. When the open occurs anywhere in the series portion of a series-parallel circuit, current flow in the entire circuit stops. In this case, the circuit does not function, and the lamp, L1, is not lit.</li></ol>
 <ol start="2"><li>If the open occurs in the parallel portion of a series-parallel circuit, as shown, part of the circuit continues to function. In this case, the lamp continues to burn, but its brightness diminishes, since the total resistance of the circuit has increased and the total current has decreased.</li></ol>
 <ol start="3"><li>If the open occurs in the branch containing the lamp, as shown, the circuit continues to function with increased resistance and decreased current, but the lamp does not light.</li></ol>
+<p>To explain how the voltmeter and ohmmeter can be used to troubleshoot series-parallel circuits, the circuit has been labeled at various points. A point-to-point description is listed below with expected results:</p>
+<ol><li>By connecting a voltmeter between points A and D, the battery and switch can be checked for opens.</li></ol>
+<ol start="2"><li>By connecting the voltmeter between points A and B, the voltage drop across R 1 can be checked. This voltage drop is a portion of the applied voltage.</li></ol>
+<ol start="3"><li>If R1 is open, the reading between B and D is zero.</li></ol>
+<ol start="4"><li>By connecting a voltmeter between A and E, the continuity of the conductor between the positive terminal of the battery and point E, as well as the fuse, 30 Ω 30 Ω R130 V R2 30 Ω R3 A 2a Break 30 Ω 30 Ω R1 R2 30 Ω R3 Break can be checked. If the conductor or fuse is open, the voltmeter reads zero.</li></ol>
+<ol start="5"><li>If the lamp is burning, it is obvious that no open exists in the branch containing the lamp, and the voltmeter could be used to detect an open in the branch containing R2 by removing lamp, L1, from the circuit.</li></ol>
+<p>Troubleshooting the series portion of a series-parallel circuit presents no difficulties, but in the parallel portion of the circuit, misleading readings can be obtained.</p>
 <h2 id="2-中文翻译">2. 中文翻译</h2>
 <p>排故是识别问题征兆、确定可能原因并找出电路中失效元件或导线的系统化过程。要精通排故，技术人员必须了解电路如何工作，并知道如何正确使用测试设备。系统失效的方式有很多，要涵盖所有可能性超出了本手册的范围。不过，有一些基本概念能使技术人员处理飞机上遇到的许多常见故障。</p>
 <p>在开始讨论基本电路与排故之前，先给出以下定义。</p>
 <p class="bullet">• 短路——电路中两个元件之间或一个……</p>
-<p>（原文此处为图注碎片，无对应正文）</p>
-<p>（原文此处为图注碎片，无对应正文）</p>
 <p>……元件或导线与地之间无意的低阻通路。它通常造成大电流，从而烧毁或损坏电路导线或元件。</p>
 <p class="bullet">• 开路——不完整或不连续的通路。开路代表无限大的电阻。开关是用于接通和断开电路的常见器件。有时电路会因元件失效而断开，例如灯泡烧坏或电阻器烧毁。</p>
 <p class="bullet">• 连续性——连续、不中断或相互连通的状态；即电路未断开或不存在开路的状态。</p>
@@ -97,6 +95,8 @@
 <p>所有仪表都有一定电阻，会分流一部分电流。由于电流的这一变化，电路特性也随之改变。这在较老的模拟式仪表上更是常见的问题。如果对元件两端电压的大小有疑问，应把仪表置于最高电压量程测量。这样可以防止仪表「打表」及可能的损坏。然后应把量程逐档调低，直到所测电压在刻度中央偏转处读出。在刻度中央读取的读数最准确。</p>
 <h3 id="电流测量">电流测量</h3>
 <p>测量电流时，把电流表接入电流通路：断开电路并把仪表串联接入。标准做法是把红表笔插入正（+）插孔，黑表笔插入负（−）插孔。仪表正侧朝向正电压源。理想情况下，仪表不应改变电流、不应影响电路和测量结果。然而，由于仪表内阻与电路其余部分串联，它确实会有一些影响。该电阻相当小，在大多数实际应用中可忽略不计。</p>
+<p>（原文此处为图注碎片，无对应正文）</p>
+<p>（原文此处为图注碎片，无对应正文）</p>
 <h3 id="检查电路中的电阻">检查电路中的电阻</h3>
 <p>欧姆表用于测量电阻。在其较基本的形式中，欧姆表由可变电阻器、表头和电压源串联组成。使用前必须先调整仪表。</p>
 <p>当表笔不连接（开路）时，指针指向最左位置，表示电阻无穷大或开路。把两根表笔接在一起时，电路被短接，指针指向最右位置。接通后，内部电池通过表头线圈产生电流，使指针按外接电阻值成比例偏转。此时电阻为零，因为表笔处于短接状态。</p>
@@ -118,13 +118,6 @@
 <p>如果把电压表跨接在灯两端，电压表读数为零。由于电阻器开路，电路中没有电流，灯两端没有电压降，说明灯是好的。</p>
 <p>接下来，把电压表跨接在开路的电阻器两端。电压表通过旁路（并联）已烧坏的电阻器使电路闭合，从而使电流流过。电流从蓄电池负极出发，经开关、电压表、灯，回到蓄电池正极。然而电压表电阻极高，电路中只流过很小的电流。该电流太小，不能点亮灯，但电压表读数等于蓄电池电压。</p>
 <h3 id="用电压表追踪开路-2">用电压表追踪开路</h3>
-<p>为说明如何用电压表和欧姆表对串并联电路排故，已在电路的各点加了标记。下面按点逐项说明并给出预期结果：</p>
-<ol><li>把电压表接在 A 点与 D 点之间，可检查蓄电池和开关是否开路。</li></ol>
-<ol start="2"><li>把电压表接在 A 点与 B 点之间，可检查 R1 两端的电压降。该电压降是所加电压的一部分。</li></ol>
-<ol start="3"><li>如果 R1 开路，B 点与 D 点之间的读数为零。</li></ol>
-<ol start="4"><li>把电压表接在 A 点与 E 点之间，可检查蓄电池正极与 E 点之间导线的连续性以及保险丝。如果该导线或保险丝开路，电压表读数为零。</li></ol>
-<ol start="5"><li>如果灯在亮，显然含灯的支路中没有开路；此时可通过把灯 L1 从电路上拆下，用电压表检测含 R2 的支路是否开路。</li></ol>
-<p>对串并联电路的串联部分排故没有困难，但在电路的并联部分，可能得到误导性的读数。</p>
 <h3 id="用欧姆表追踪开路">用欧姆表追踪开路</h3>
 <p>一张简化电路图说明了如何用欧姆表在串联电路中定位开路。用欧姆表排故时应记住的一般规则是：当欧姆表正确跨接在电路元件上并得到电阻读数时，说明该元件连续，并未开路。</p>
 <p>使用欧姆表时，被测电路元件必须隔离，并断开电源。在本例中，可通过断开电路开关满足这些要求。把欧姆表校零，在所有良好元件上的读数均为零。开路元件两端的电压降等于串联组合上的总电压。发生这种情况是因为开路元件阻止电流通过串联电路。既然没有电流，任何良好元件两端就不可能有电压降。由于电流为零，根据欧姆定律可确定元件两端 E = IR = 0 伏。灯两端（并联于灯）两处的电压相同。在这种测试配置中，会读到某个电阻值，表明灯状况良好，不是电路中开路的来源。</p>
@@ -160,6 +153,13 @@
 <ol><li>在所示电路中，串联部分发生开路。当串并联电路的串联部分任何位置发生开路时，整个电路中的电流都会停止。此时电路不工作，灯 L1 不亮。</li></ol>
 <ol start="2"><li>如果开路发生在串并联电路的并联部分，如图所示，电路的一部分仍继续工作。此时灯继续点亮，但亮度减弱，因为电路总电阻增大、总电流减小。</li></ol>
 <ol start="3"><li>如果开路发生在包含灯的支路中，如图所示，电路继续工作，电阻增大、电流减小，但灯不亮。</li></ol>
+<p>为说明如何用电压表和欧姆表对串并联电路排故，已在电路的各点加了标记。下面按点逐项说明并给出预期结果：</p>
+<ol><li>把电压表接在 A 点与 D 点之间，可检查蓄电池和开关是否开路。</li></ol>
+<ol start="2"><li>把电压表接在 A 点与 B 点之间，可检查 R1 两端的电压降。该电压降是所加电压的一部分。</li></ol>
+<ol start="3"><li>如果 R1 开路，B 点与 D 点之间的读数为零。</li></ol>
+<ol start="4"><li>把电压表接在 A 点与 E 点之间，可检查蓄电池正极与 E 点之间导线的连续性以及保险丝。如果该导线或保险丝开路，电压表读数为零。</li></ol>
+<ol start="5"><li>如果灯在亮，显然含灯的支路中没有开路；此时可通过把灯 L1 从电路上拆下，用电压表检测含 R2 的支路是否开路。</li></ol>
+<p>对串并联电路的串联部分排故没有困难，但在电路的并联部分，可能得到误导性的读数。</p>
 <h2 id="3-专业词汇">3. 专业词汇</h2>
 <div class="table-wrap"><table>
 <thead><tr>

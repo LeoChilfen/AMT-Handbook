@@ -14,14 +14,6 @@ Most of the familiar types of nuts, including the plain nut, the castle nut, the
 
 LC Lockbolt collar C Material C = 24ST aluminum alloy (green color). Use with heat-treated alloy lockbolts only.
 
-F = 61ST aluminum alloy (plain color). Use with 75ST aluminum alloy lockbolts only.
-
-R = mild steel (cadmium plated). Use with heat-treated alloy steel lockbolts for high temperature applications only.
-
-N = non-hole filling (clearance fit)
-
-Pin Materials E = 75S-T6 aluminum alloy T = heat-treated alloy steel Body diameter in 32nds of an inch Grip length in 16ths of an inch 8 8 Pull-type lockbolt ALPP H T 8 8 BLBlind lockbolt Diameter in 32nds of an inch Grip length in 16ths of an inch, ± 1⁄32 inch 8 4 Blind-type lockbolt BL 8 4 The castle nut, AN310, is used with drilled shank AN hex head bolts, Clevis bolts, eyebolts, drilled head bolts, or studs. It is rugged and can withstand large tensional loads. Slots (called castellations) in the nut are designed to accommodate a cotter pin or lock wire for safety.
-
 The castellated shear nut, AN320, is designed for use with devices, such as drilled Clevis bolts and threaded taper pins, which are normally subjected to shearing stress only. Like the castle nut, it is castellated for safetying. Note, however, that the nut is not as deep or as strong as the castle nut; also, that the castellations are not as deep as those in the castle nut.
 
 The plain hex nut, AN315 and AN335 (fine and coarse thread), is of rugged construction. This makes it suitable for carrying large tensional loads. However, since it requires an auxiliary locking device, such as a check nut or lock washer, its use on aircraft structures is somewhat limited.
@@ -29,6 +21,10 @@ The plain hex nut, AN315 and AN335 (fine and coarse thread), is of rugged constr
 The light hex nut, AN340 and AN345 (fine and coarse thread), is a much lighter nut than the plain hex nut and must be locked by an auxiliary device. It is used for miscellaneous light tension requirements.
 
 The plain check nut, AN316, is employed as a locking device for plain nuts, set screws, threaded rod ends, and other devices.
+
+N = non-hole filling (clearance fit)
+
+Pin Materials E = 75S-T6 aluminum alloy T = heat-treated alloy steel Body diameter in 32nds of an inch Grip length in 16ths of an inch 8 8 Pull-type lockbolt ALPP H T 8 8 BLBlind lockbolt Diameter in 32nds of an inch Grip length in 16ths of an inch, ± 1⁄32 inch 8 4 Blind-type lockbolt BL 8 4 The castle nut, AN310, is used with drilled shank AN hex head bolts, Clevis bolts, eyebolts, drilled head bolts, or studs. It is rugged and can withstand large tensional loads. Slots (called castellations) in the nut are designed to accommodate a cotter pin or lock wire for safety.
 
 The wing nut, AN350, is intended for use where the desired tightness can be obtained by hand and where the assembly is frequently removed.
 
@@ -43,6 +39,10 @@ As their name implies, self-locking nuts need no auxiliary means of safetying bu
 • Attachment of rocker box covers and exhaust stacks Self-locking nuts are acceptable for use on certificated aircraft subject to the restrictions of the manufacturer. Self-locking nuts are used on aircraft to provide tight connections that do not shake loose under severe vibration. Do not use self-locking nuts at joints, which subject either the nut or bolt to rotation. They may be used with antifriction bearings and control pulleys, provided the inner race of the bearing is clamped to the supporting structure by the nut and bolt. Plates must be attached to the structure in a positive manner to eliminate rotation or misalignment when tightening the bolts or screws.
 
 Grip Number Grip Range Grip Number Grip Range Minimum MaximumMinimum Maximum 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 0.031 0.094 0.156 0.219 0.281 0.344 0.406 0.469 0.531 0.594 0.656 0.718 0.781 0.843 0.906 0.968 1.031 0.094 0.156 0.219 0.281 0.344 0.406 0.469 0.531 0.594 0.656 0.718 0.781 0.843 0.906 0.968 1.031 1.094 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 1.094 1.156 1.219 1.281 1.344 1.406 1.469 1.531 1.594 1.656 1.718 1.781 1.843 1.906 1.968 2.031 1.156 1.219 1.281 1.344 1.406 1.469 1.531 1.594 1.656 1.718 1.781 1.843 1.906 1.968 2.031 2.094 ¼" Diameter Grip Number Grip Range Grip Number Grip Range 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 0.031 0.094 0.156 0.219 0.281 0.344 0.406 0.469 0.531 0.594 0.656 0.718 0.781 0.843 0.906 0.968 1.031 1.094 1.156 1.219 1.281 1.344 1.406 1.469 1.531 0.094 0.156 0.219 0.281 0.344 0.406 0.469 0.531 0.594 0.656 0.718 0.781 0.843 0.906 0.968 1.031 1.094 1.156 1.219 1.281 1.343 1.406 1.460 0.156 0.219 0.281 0.344 0.406 0.469 0.531 0.594 0.656 0.718 0.781 0.843 0.906 0.968 1.031 1.094 1.156 1.219 1.281 1.343 1.406 1.469 1.531 0.094 0.156 0.219 0.281 0.344 0.406 0.469 0.531 0.594 0.656 0.718 0.781 0.843 0.906 0.968 1.031 1.094 1.156 1.219 1.281 1.343 1.406 1.469 1.531 1.594 Minimum MaximumMinimum Maximum Pin diameter Tolerance Below Above 0.079 to 0.032 0.079 to 0.050 0.079 to 0.050 0.079 to 0.060 The two general types of self-locking nuts currently in use are the all-metal type and the fiber lock type. For the sake of simplicity, only three typical kinds of self-locking nuts are considered in this handbook: the Boots self-locking and the stainless steel self-locking nuts, representing the all-metal types; and the elastic stop nut, representing the fiber insert type.
+
+F = 61ST aluminum alloy (plain color). Use with 75ST aluminum alloy lockbolts only.
+
+R = mild steel (cadmium plated). Use with heat-treated alloy steel lockbolts for high temperature applications only.
 
 Boots Self-Locking Nut The Boots self-locking nut is of one piece, all-metal construction designed to hold tight despite severe vibration. Note that it has two sections and is essentially two nuts in one: a locking nut and a load-carrying nut. The two sections are connected with a spring, which is an integral part of the nut.
 
@@ -118,14 +118,6 @@ AN350 = aircraft wing nut B = brass 10 = number 10 bolt 32 = threads per inch
 
 LC 锁栓套环 C 材料 C = 24ST 铝合金（绿色）。仅与热处理合金锁栓配合使用。
 
-F = 61ST 铝合金（本色）。仅与 75ST 铝合金锁栓配合使用。
-
-R = 低碳钢（镀镉）。仅与热处理合金钢锁栓配合，用于高温场合。
-
-N = 非填孔（间隙配合）
-
-槽形螺母 AN310 用于带钻孔杆部的 AN 六角头螺栓、叉耳螺栓、吊环螺栓、钻孔头螺栓或螺柱。它坚固耐用，能承受较大的拉伸载荷。螺母上的槽（称为槽齿）用于容纳开口销或保险丝以实现保险。
-
 槽形抗剪螺母 AN320 设计用于通常只承受剪切应力的装置，如钻孔叉耳螺栓和螺纹锥销。与槽形螺母一样，它也开有槽齿以便保险。但要注意，这种螺母的深度和强度都不如槽形螺母；另外，它的槽齿也不如槽形螺母的深。
 
 普通六角螺母 AN315 和 AN335（细牙和粗牙螺纹）结构坚固，因此适合承受较大的拉伸载荷。但由于它需要辅助锁紧装置（如锁紧螺母或锁紧垫圈），在飞机结构上的使用有一定限制。
@@ -133,6 +125,10 @@ N = 非填孔（间隙配合）
 轻六角螺母 AN340 和 AN345（细牙和粗牙螺纹）比普通六角螺母轻得多，必须用辅助装置锁紧。它用于各种轻拉伸要求的场合。
 
 普通锁紧螺母 AN316 用作普通螺母、紧定螺钉、螺纹杆端及其他装置的锁紧装置。
+
+N = 非填孔（间隙配合）
+
+槽形螺母 AN310 用于带钻孔杆部的 AN 六角头螺栓、叉耳螺栓、吊环螺栓、钻孔头螺栓或螺柱。它坚固耐用，能承受较大的拉伸载荷。螺母上的槽（称为槽齿）用于容纳开口销或保险丝以实现保险。
 
 蝶形螺母 AN350 用于所需紧度可用手获得、且组件需频繁拆卸的场合。
 
@@ -147,6 +143,10 @@ N = 非填孔（间隙配合）
 • 摇臂箱盖和排气管的连接 自锁螺母可在制造厂限制条件下用于合格审定飞机。飞机上使用自锁螺母是为了提供在剧烈振动下不会松脱的紧密连接。不得在会使螺母或螺栓旋转的接头处使用自锁螺母。只要轴承内圈被螺母和螺栓夹紧在支承结构上，自锁螺母就可以与防摩擦轴承和操纵滑轮配合使用。板件必须以可靠方式固定到结构上，以消除拧紧螺栓或螺钉时的转动或错位。
 
 目前使用的自锁螺母有两大类型：全金属型和纤维锁紧型。为简便起见，本手册只讨论三种典型的自锁螺母：代表全金属型的 Boots 自锁螺母和不锈钢自锁螺母，以及代表纤维嵌件型的弹性自锁螺母。
+
+F = 61ST 铝合金（本色）。仅与 75ST 铝合金锁栓配合使用。
+
+R = 低碳钢（镀镉）。仅与热处理合金钢锁栓配合，用于高温场合。
 
 Boots 自锁螺母 Boots 自锁螺母为整体式全金属结构，设计用于在剧烈振动下保持紧固。注意它有两个部分，实质上是合为一体的两个螺母：一个锁紧螺母和一个承载螺母。两部分由一根弹簧连接，弹簧是螺母的组成部分。
 

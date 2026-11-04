@@ -6,6 +6,18 @@
 
 A fraction is a number written in the form N⁄D where N is called the numerator and D is called the denominator. The fraction bar between the numerator and denominator shows that division is taking place. 17 , 2 , 5Some examples of fractions are: 18 3 8 The denominator of a fraction cannot be a zero. For example, the fraction 2⁄0 is not allowed, because dividing by zero is undefined. An improper fraction is a fraction in which the numerator is equal to or larger than the denominator. For example, 4⁄4 or 15⁄8 are examples of improper fractions.
 
+### Finding the Least Common Denominator
+
+To add or subtract fractions, they must have a common denominator. In math, the least common denominator (LCD) is generally used. One way to find the LCD is to list the multiples of each denominator and then choose the smallest number that they all have in common (can be divided by). Example: Add 1⁄5 + 1⁄10 by finding the LCD.
+
+Multiples of 5 are: 5, 10, 15, 20, 25, and so on. Multiples of 10 are: 10, 20, 30, 40, and so on. Notice that 10, 20, and 30 are in both lists, but 10 is the smallest or LCD. The advantage of finding the LCD is that the final answer should be in the simplest form.
+
+A common denominator can also be found for any group of fractions by multiplying all the denominators together. This number is not always the LCD, but it can still be used to add or subtract fractions. Example: Add 2⁄3 + 3⁄5 + 4⁄7 by finding a common denominator.
+
+A common denominator can be found by multiplying the denominators 3 × 5 × 7 to get 105.
+
+( 2 + 3 + 4 )=( 70 + 63 + 60 )= 193 = 1 88 3 5 7 105 105 105 105 105
+
 ### Addition of Fractions
 
 In order to add fractions, the denominators must be the same number. This is referred to as having “common denominators.” Example: Add 1⁄7 to 3⁄7 1 + 3 = 1 + 3 = 4 7 7 7 7 If the fractions do not have the same denominator, then one or all the denominators must be changed so that every fraction has a common denominator.
@@ -50,21 +62,21 @@ A fraction needs to be reduced when it is not in the simplest form or “lowest 
 
 6 = 6 ÷ 2 = 3 16 16 ÷ 2 8 Therefore, the travel in the opposite direction is 3⁄8 inch.
 
-### Finding the Least Common Denominator
-
-To add or subtract fractions, they must have a common denominator. In math, the least common denominator (LCD) is generally used. One way to find the LCD is to list the multiples of each denominator and then choose the smallest number that they all have in common (can be divided by). Example: Add 1⁄5 + 1⁄10 by finding the LCD.
-
-Multiples of 5 are: 5, 10, 15, 20, 25, and so on. Multiples of 10 are: 10, 20, 30, 40, and so on. Notice that 10, 20, and 30 are in both lists, but 10 is the smallest or LCD. The advantage of finding the LCD is that the final answer should be in the simplest form.
-
-A common denominator can also be found for any group of fractions by multiplying all the denominators together. This number is not always the LCD, but it can still be used to add or subtract fractions. Example: Add 2⁄3 + 3⁄5 + 4⁄7 by finding a common denominator.
-
-A common denominator can be found by multiplying the denominators 3 × 5 × 7 to get 105.
-
-( 2 + 3 + 4 )=( 70 + 63 + 60 )= 193 = 1 88 3 5 7 105 105 105 105 105
-
 ## 2. 中文翻译
 
 分数是写成 N⁄D 形式的数，其中 N 称为分子，D 称为分母。分子与分母之间的分数线表示进行的是除法。下面给出一些分数的例子：17⁄18、2⁄3、5⁄8（原文此处分式被抽排成上下两行，17、2、5 在上，18、3、8 在下）。分母不能为零。例如，分数 2⁄0 是不允许的，因为除以零没有定义。假分数是指分子等于或大于分母的分数。例如，4⁄4 或 15⁄8 都是假分数的例子。
+
+### 求最小公分母
+
+要相加或相减分数，它们必须有公分母。数学中通常使用最小公分母（LCD）。求 LCD 的一种方法是列出每个分母的倍数，然后选出它们共有的（即都能被其整除的）最小数。例：通过求 LCD 来计算 1⁄5 + 1⁄10。
+
+5 的倍数是：5、10、15、20、25，依此类推。10 的倍数是：10、20、30、40，依此类推。注意 10、20、30 在两个列表中都出现，但 10 是最小的，即 LCD。求 LCD 的好处是最终答案应当是最简形式。
+
+把全部分母相乘，也可以为任意一组分数求出公分母。这个数不一定是 LCD，但它仍然可以用来做分数的加法或减法。例：通过求公分母来计算 2⁄3 + 3⁄5 + 4⁄7。
+
+把分母 3 × 5 × 7 相乘，就得到公分母 105。
+
+（原文此处为通分运算的竖排分式，抽文中分数线与上下位置丢失：）( 2 + 3 + 4 )=( 70 + 63 + 60 )= 193 = 1 88 3 5 7 105 105 105 105 105
 
 ### 分数的加法
 
@@ -109,18 +121,6 @@ A common denominator can be found by multiplying the denominators 3 × 5 × 7 to
 13 – 7 = 13 – 7 = 6 16 16 16 16 分数 6⁄16 不是最简项，因为分子（6）和分母（16）有公因数 2。要对 6⁄16 约分，就把分子和分母都除以 2。最终约得的分数是 3⁄8，如下所示。
 
 6 = 6 ÷ 2 = 3 16 16 ÷ 2 8 因此，相反方向的行程是 3⁄8 英寸。
-
-### 求最小公分母
-
-要相加或相减分数，它们必须有公分母。数学中通常使用最小公分母（LCD）。求 LCD 的一种方法是列出每个分母的倍数，然后选出它们共有的（即都能被其整除的）最小数。例：通过求 LCD 来计算 1⁄5 + 1⁄10。
-
-5 的倍数是：5、10、15、20、25，依此类推。10 的倍数是：10、20、30、40，依此类推。注意 10、20、30 在两个列表中都出现，但 10 是最小的，即 LCD。求 LCD 的好处是最终答案应当是最简形式。
-
-把全部分母相乘，也可以为任意一组分数求出公分母。这个数不一定是 LCD，但它仍然可以用来做分数的加法或减法。例：通过求公分母来计算 2⁄3 + 3⁄5 + 4⁄7。
-
-把分母 3 × 5 × 7 相乘，就得到公分母 105。
-
-（原文此处为通分运算的竖排分式，抽文中分数线与上下位置丢失：）( 2 + 3 + 4 )=( 70 + 63 + 60 )= 193 = 1 88 3 5 7 105 105 105 105 105
 
 ## 3. 专业词汇
 

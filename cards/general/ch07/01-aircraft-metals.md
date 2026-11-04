@@ -6,22 +6,6 @@
 
 Knowledge and understanding of the uses, strengths, limitations, and other characteristics of structural metals is vital to properly construct and maintain any equipment, especially airframes. In aircraft maintenance and repair, even a slight deviation from design specification, or the substitution of inferior materials, may result in the loss of both lives and equipment. The use of unsuitable materials can readily erase the finest craftsmanship. The selection of the correct material for a specific repair job demands familiarity with the most common physical properties of various metals.
 
-### Ferrous Aircraft Metals
-
-Many different metals are required in the repair of aircraft. This is a result of the varying needs with respect to strength, weight, durability, and resistance to deterioration of specific structures or parts. In addition, the particular shape or form of the material plays an important role. In selecting materials for aircraft repair, these factors (plus many others) are considered in relation to the mechanical and physical properties. Among the common materials used are ferrous metals. The term “ferrous” applies to the group of metals having iron as their principal element.
-
-If carbon is added to iron in percentages ranging up to approximately 1 percent, the product is vastly superior to iron alone and is classified as carbon steel. Carbon steel forms the base of those alloy steels produced by combining carbon steel with other elements known to improve the properties of steel. A base metal (such as iron) to which small quantities of other metals have been added is called an alloy. The addition of other metals changes or improves the chemical or physical properties of the base metal for a particular use.
-
-### Nonferrous Aircraft Metals
-
-The term “nonferrous” refers to all metals that have elements other than iron as its base or principal constituent. This group includes metals, such as aluminum, titanium, copper, and magnesium, as well as alloyed metals, such as Monel and Babbitt.
-
-### Substitution of Aircraft Metals
-
-In selecting substitute metals for the repair and maintenance of aircraft, it is very important to check the appropriate structural repair manual. Aircraft manufacturers design structural members to meet a specific load requirement for an aircraft. The methods of repairing these members, apparently similar in construction, vary with different aircraft.
-
-Four requirements must be kept in mind when selecting substitute metals. The first and most important of these is maintaining the original strength of the structure. The other three are maintaining contour or aerodynamic smoothness; maintaining original weight, if possible, or keeping added weight to a minimum; and maintaining the original corrosion-resistant properties of the metal.
-
 ### Properties of Metals
 
 Of primary concern in aircraft maintenance are such general properties of metals and their alloys as hardness, malleability, ductility, elasticity, toughness, density, brittleness, fusibility, conductivity contraction and expansion, and so forth. These terms are explained to establish a basis for further discussion of structural metals.
@@ -46,80 +30,6 @@ Fusibility is the ability of a metal to become liquid by the application of heat
 
 Conductivity is the property that enables a metal to carry heat or electricity. The heat conductivity of a metal is especially important in welding, because it governs the amount of heat that is required for proper fusion. Conductivity of the metal, to a certain extent, determines the type of jig to be used to control expansion and contraction. In aircraft, electrical conductivity must also be considered in conjunction with bonding to eliminate radio interference.
 
-#### Hardness Identification
-
-Where used, the temper designation follows the alloy designation and is separated from it by a dash (i.e., 7075- T6, 2024-T4, and so forth). The temper designation consists of a letter indicating the basic temper, which may be more specifically defined by the addition of one or more digits. These designations are as follows:
-
-• O—annealed, recrystallized (wrought products only)
-
-• H—strain hardened Alloy Percentage of Alloying Elements Aluminum and normal impurities constitute remainder 1100 — — — — — — — — — 3003 — — 1.2 — — — — — — 2011 5.5 — — — — — — 0.5 0.5 2014 4.4 0.8 0.8 0.4 — — — — — 2017 4.0 — 0.5 0.5 — — — — — 2117 2.5 — — 0.3 — — — — — 2018 4.0 — — 0.5 — 2.0 — — — 2024 4.5 — 0.6 1.5 — — — — — 2025 4.5 0.8 0.8 — — — — — — 4032 0.9 12.5 — 1.0 — 0.9 — — — 6151 — 1.0 — 0.6 — — 0.25 — — 5052 — — — 2.5 — — 0.25 — — 6053 — 0.7 — 1.3 — — 0.25 — — 6061 0.25 0.6 — 1.0 — — 0.25 — — 7075 1.6 — — 2.5 5.6 — 0.3 — — Copper Silicon Manganese Magnesium Zinc Nickel Chromium Lead Bismuth
-
-• H1 (plus one or more digits)—strain hardened only
-
-• H2 (plus one or more digits)—strain hardened and partially annealed
-
-• H3 (plus one or more digits)—strain hardened and stabilized The digit following the designations H1, H2, and H3 indicates the degree of strain hardening, number 8 representing the ultimate tensile strength equal to that achieved by a cold reduction of approximately 75 percent following a full anneal, 0 representing the annealed state.
-
-### Hardness Testing
-
-Hardness testing is a method of determining the results of heat-treatment, as well as the state of a metal prior to heat-treatment. Since hardness values can be tied in with tensile strength values and, in part, with wear resistance. Hardness tests are a valuable check of heat-treat control and of material properties.
-
-Practically all hardness testing equipment now uses the resistance to penetration as a measure of hardness. Included among the better-known hardness testers are the Brinell and Rockwell, both of which are described and illustrated in this section. Also included is the Barcol tester, a popular portable-type hardness tester currently in use.
-
-The Brinell hardness tester uses a hardened spherical ball that is forced into the surface of the metal. This ball is 10 millimeters (0.3937 inch) in diameter. A pressure of 3,000 kilograms is used for ferrous metals and 500 kilograms for nonferrous metals. The pressure must be maintained at least 10 seconds for ferrous metals and at least 30 seconds for nonferrous metals. The load is applied by hydraulic pressure. A hand pump or an electric motor, depending on the model of tester, builds up the hydraulic pressure. A pressure gauge indicates the amount of pressure. There is a release mechanism for relieving the pressure after the test has been made, and a calibrated microscope is provided for measuring the diameter of the impression in millimeters. The machine has various shaped anvils for supporting the specimen and an elevating screw for bringing the specimen in contact with the ball penetrator. These are attachments for special tests.
-
-To determine the Brinell hardness number for a metal, measure the diameter of the impression using the calibrated microscope furnished with the tester. Then convert the measurement into the Brinell hardness number on the conversion table furnished with the tester.
-
-#### Rockwell Tester
-
-The Rockwell hardness tester measures the resistance to penetration, as does the Brinell tester. Instead of measuring the diameter of the impression, the Rockwell tester measures the depth, and the hardness is indicated directly on a dial attached to the machine. The dial numbers in the outer circle are black and the inner numbers are red. Rockwell hardness numbers are based on the difference between the depth of penetration at major and minor loads. The greater this difference, the lower the hardness number and the softer the material.
-
-Two types of penetrators are used with the Rockwell tester: a diamond cone and a hardened steel ball. The load, which forces the penetrator into the metal, is called the major load and is measured in kilograms. The results of each penetrator and load combination are reported on separate scales designated by letters. The penetrator, the major load, and the scale vary with the kind of metal being tested.
-
-For hardened steels, the diamond penetrator is used; the major load is 150 kilograms; and the hardness is read on the “C” scale. When this reading is recorded, the letter “C” must precede the number indicated by the pointer. The C-scale setup is used for testing metals ranging in hardness from C-20 to the hardest steel (usually about C-70). If the metal is softer than C-20, the B-scale setup is used. With this setup, the 1⁄16-inch ball is used as a penetrator; the major load is 100 kilograms; and the hardness is read on the B-scale.
-
-In addition to the C and B scales, there are other setups for special testing. The scales, penetrators, major loads, and dial numbers to be read are listed.
-
-The Rockwell tester is equipped with a weight pan, and two weights are supplied with the machine. One weight is marked in red. The other weight is marked in black. With no weight in the weight pan, the machine applies a major load of 60 kilograms. If the scale setup calls for a 100-kilogram load, the red weight is placed in the pan. For a 150-kilogram load, the black weight is added to the red weight. The black weight is always used with the red weight; it is never used alone.
-
-Practically all testing is done with either the B-scale setup or the C-scale setup. For these scales, the colors may be used as a guide in selecting the weight (or weights) and in reading the dial. For the B-scale test, use the red weight and read the red numbers. For a C-scale test, add the black weight to the red weight and read the black numbers.
-
-In setting up the Rockwell machine, use the diamond penetrator for testing materials known to be hard. If the hardness is unknown, try the diamond, since the steel ball may be deformed if used for testing hard materials. If the metal tests below C-22, then change to the steel ball.
-
-Use the steel ball for all soft materials, those testing less than B-100. Should an overlap occur at the top of the B-scale and the bottom of the C-scale, use the C-scale setup.
-
-Before the major load is applied, securely lock the test specimen in place to prevent slipping and to seat the anvil and penetrator properly. To do this, apply a load of 10 kilograms before the lever is tripped. This preliminary load is called the minor load. The minor load is 10 kilograms regardless of the scale setup.
-
-The metal to be tested in the Rockwell tester must be ground smooth on two opposite sides and be free of scratches and foreign matter. The surface should be perpendicular to the axis of penetration, and the two opposite ground surfaces should be parallel. If the specimen is tapered, the amount of error depends on the taper. A curved surface also causes a slight error in the hardness test. The amount of error depends Pressure gauge Hydraulic actuating unit Penetrator Elevating screw Hand pump Microscope 0 500 1000 1500 2000 3000 4000 4500 5000 3500 2500 ZEROMNDER FOR RAP TESTING c0 c50 90 80 70 60 10 20 30 40 cc c c c c c c B30 BB B B B B B B 4020 10 0 90 50 60 70 ZEROMNDER FOR RAP TESTING c0 c50 90 80 70 60 10 20 30 40 c c c c c c c c c B30 B B B B B B B B 40 20 10 0 90 50 60 70 Weights Weight pan Trip lever Zero adjuster Hand wheel Elevating screw Penetrator Specimen Anvil on the curvature (i.e., the smaller the radius of curvature, the greater the error). To eliminate such error, a small flat should be ground on the curved surface if possible.
-
-Clad aluminum alloy sheets cannot be tested directly with any accuracy with a Rockwell hardness tester. If the hardness value of the base metal is desired, the pure aluminum coating must be removed from the area to be checked prior to testing.
-
-The Barcol tester is a portable unit designed for testing aluminum alloys, copper, brass, or other relatively soft materials. It should not be used on aircraft steels. Approximate range of the tester is 25 to 100 Brinell. The unit can be used in any position and in any space that allows for the operator’s hand. It is of great value in the hardness testing of assembled or installed parts, especially to check for proper heat-treatment. The hardness is indicated on a dial conveniently divided into 100 graduations.
-
-The design of the Barcol tester is such that operating experience is not necessary. It is only necessary to exert a light pressure against the instrument to drive the spring-loaded indenter into the material to be tested. The hardness reading is instantly indicated on the dial.
-
-Several typical readings for aluminum alloys are listed in the Barcol number. To prevent damage to the point, avoid sliding or scraping when it is in contact with the material being tested. If the point should become damaged, it must be replaced with a new one. Do not attempt to grind the point.
-
-Each tester is supplied with a test disk for checking the condition of the point. To check the point, press the instrument down on the test disk. When the downward pressure brings the end of the lower plunger guide against the surface of the disk, the indicator reading should be within the range shown on the test disk.
-
-Forging is the process of forming a product by hammering or pressing. When the material is forged below the recrystallization temperature, it is called cold forged. When worked above the recrystallization temperature, it is referred A Diamond 60 Black B 100 Red C Diamond 150 Black D Diamond 100 Black E 100 Red F 60 Red G 150 Red H 60 Red K 150 Red Scale Symbol Penetrator MajorLoad (kg) DialColor⁄Number 0 50 10 90 20 80 30 70 40 60 to as hot forged. Drop forging is a hammering process that uses a hot ingot that is placed between a pair of formed dies in a machine called a drop hammer and a weight of several tons is dropped on the upper die. This results in the hot metal being forced to take the form of the dies. Because the process is very rapid, the grain structure of the metal is altered, resulting in a significant increase in the strength of the finished part.
-
-Melting the metal and pouring it into a mold of the desired shape forms casting. Since plastic deformation of the metal does not occur, no alteration of the grain shape or orientation is possible. The cooling rate, the alloys of the metal, and the thermal treatment can control the gain size of the metal. Castings are normally lower in strength and are more brittle than a wrought product of the same material. For intricate shapes or items with internal passages, such as turbine blades, casting may be the most economical process. Except for engine parts, most metal components found on an aircraft are wrought instead of cast.
-
-All metal products start in the form of casting. Wrought metals are converted from cast ingots by plastic deformation. For high-strength aluminum alloys, an 80 to 90 percent reduction (dimensional change in thickness) of the material is required to obtain the high mechanical properties of a fully wrought structure.
-
-Both iron and aluminum alloys are cast for aircraft uses. Cast iron contains 6 to 8 percent carbon and silicon.
-
-Cast iron is a hard un-malleable pig iron made by casting or pouring into a mold. Cast aluminum alloy has been heated to its molten state and poured into a mold to give it the desired shape.
-
-The extrusion process involves the forcing of metal through an opening in a die, thus causing the metal to take the shape of the die opening. The shape of the die will be the cross section of an angle, channel, tube, or some other shape. Some metals, such as lead, tin, and aluminum, may be extruded cold; however, most metals are heated before extrusion. The main advantage of the extrusion process is its flexibility. For example, because of its workability, aluminum can be economically extruded to more intricate shapes and larger sizes than is practical with other metals.
-
-Extruded shapes are produced in very simple, as well as extremely complex, sections. In this process, a cylinder of aluminum, for instance, is heated to 750–850 °F and is then forced through the opening of a die by a hydraulic ram. The opening is the shape desired for the cross section of the finished extrusion. The extrusion process forms many structural parts, such as channels, angles, T-sections, and Z-sections.
-
-Aluminum is the most extruded metal used in aircraft. Aluminum is extruded at a temperature of 700–900 °F (371–482 °C) and requires pressure of up to 80,000 psi (552 MPa). After extrusion, the product frequently is subjected to both thermal and mechanical processes to obtain the desired properties. Extrusion processes are limited to the more ductile materials.
-
-1/16" ball 1/16" ball 1/8" ball 1/8" ball 1/16" ball 1/8" ball Alloy and Temper Barcol Number 1100-O 35 3003-O 42 3003-H14 56 2024-O 60 5052-O 62 5052-H34 75 6061-T 78 2024-T 85
-
 ### Cold-Working/Hardening
 
 Cold-working applies to mechanical working performed at temperatures below the critical range. It results in a strain hardening of the metal. In fact, the metal often becomes so hard that it is difficult to continue the forming process without softening the metal by annealing.
@@ -141,6 +51,12 @@ In making seamless steel aircraft tubing, the tubing is cold drawn through a rin
 #### Thermal Expansion
 
 Thermal expansion refers to contraction and expansion that are reactions produced in metals as the result of heating or cooling. Heat applied to a metal causes it to expand or become larger. Cooling and heating affect the design of welding jigs, castings, and tolerances necessary for hot rolled material.
+
+### Ferrous Aircraft Metals
+
+Many different metals are required in the repair of aircraft. This is a result of the varying needs with respect to strength, weight, durability, and resistance to deterioration of specific structures or parts. In addition, the particular shape or form of the material plays an important role. In selecting materials for aircraft repair, these factors (plus many others) are considered in relation to the mechanical and physical properties. Among the common materials used are ferrous metals. The term “ferrous” applies to the group of metals having iron as their principal element.
+
+If carbon is added to iron in percentages ranging up to approximately 1 percent, the product is vastly superior to iron alone and is classified as carbon steel. Carbon steel forms the base of those alloy steels produced by combining carbon steel with other elements known to improve the properties of steel. A base metal (such as iron) to which small quantities of other metals have been added is called an alloy. The addition of other metals changes or improves the chemical or physical properties of the base metal for a particular use.
 
 #### Steel and Steel Alloys
 
@@ -196,6 +112,10 @@ Connect the alligator clip of the wiring assembly to the bare metal being tested
 
 Deposit one drop of 1.0 percent solution of reagent grade dimethylglyoxime in ethyl alcohol on the filter paper (same side that was in contact with the test metal). A bright, distinctly pink spot will appear within seconds on the filter paper if the metal being tested is Inconel. A brown spot will appear if the test metal is stainless steel. Some stainless-steel alloys may leave a very light pink color. However, the shade and depth of color will be far less than would appear for Inconel. For flat surfaces, the test spot will be circular while for curved surfaces, such as the outside of a tube or pipe, the test spot may appear as a streak. This procedure should not be used in the heat-affected zone of weldments or on nickel coated surfaces.
 
+### Nonferrous Aircraft Metals
+
+The term “nonferrous” refers to all metals that have elements other than iron as its base or principal constituent. This group includes metals, such as aluminum, titanium, copper, and magnesium, as well as alloyed metals, such as Monel and Babbitt.
+
 #### Aluminum & Aluminum Alloys
 
 Commercially pure aluminum is a white lustrous metal, which stands second in the scale of malleability, sixth in ductility, and ranks high in its resistance to corrosion. Aluminum combined with various percentages of other metals forms alloys, which are used in aircraft construction.
@@ -236,69 +156,13 @@ Forcing molten metal under pressure into a metallic die and allowing it to solid
 
 Die-castings are used where relatively large production of a given part is involved. Remember, any shape that can be forged, can be cast.
 
-#### Aluminum Alloys
-
-In the wrought form, commercially-pure aluminum is known as 1100. It has a high degree of resistance to corrosion and is easily formed into intricate shapes. It is relatively low in strength and does not have the properties required for structural aircraft parts. The process of alloying generally obtains high strengths. The resulting alloys are less easily formed and, with some exceptions, have lower resistance to corrosion than 1100 aluminum.
-
-Alloying is not the only method of increasing the strength of aluminum. Like other materials, aluminum becomes stronger and harder as it is rolled, formed, or otherwise cold-worked.
-
-Since the hardness depends on the amount of cold-working done, 1100 and some wrought aluminum alloys are available in several strain-hardened tempers. The soft or annealed condition is designated O. If the material is strain hardened, it is said to be in the H condition.
-
-The most widely used alloys in aircraft construction are hardened by heat-treatment rather than by cold-work. These alloys are designated by a somewhat different set of symbols: T4 and W indicate solution heat-treated and quenched but not aged, and T6 indicates an alloy in the heat-treated, hardened condition.
-
-• W—solution heat-treated, unstable temper
-
-• T—treated to produce stable tempers other than F, O, or H
-
-• T2—annealed (cast products only)
-
-• T3—solution heat-treated and then cold-worked
-
-• T4—solution heat-treated
-
-• T5—artificially aged only
-
-• T6—solution heat-treated and then artificially aged
-
-• T7—solution heat-treated and then stabilized
-
-• T8—solution heat-treated, cold-worked, and then artificially aged
-
-• T9—solution heat-treated, artificially aged, and then cold-worked
-
-• T10—artificially aged and then cold-worked Additional digits may be added to T1 through T10 to indicate a variation in treatment, which significantly alters the characteristics of the product.
-
-Aluminum-alloy sheets are marked with the specification number on approximately every square foot of material. If for any reason this identification is not on the material, it is possible to separate the heat-treatable alloys from the non-heat-treatable alloys by immersing a sample of the material in a 10 percent solution of caustic soda (sodium hydroxide). The heat-treatable alloys turn black due to the copper content, whereas the others remain bright. In the case of clad material, the surface remains bright, but there is a dark area in the middle when viewed from the edge.
-
-#### Alclad Aluminum
-
-The terms “Alclad and Pureclad” are used to designate sheets that consist of an aluminum-alloy core coated with a layer of pure aluminum to a depth of approximately 5 1⁄2 percent on each side. The pure aluminum coating affords a dual protection for the core, preventing contact with any corrosive agents, and protecting the core electrolytically by preventing any attack caused by scratching or from other abrasions.
-
-There are two types of heat-treatments applicable to aluminum alloys: solution heat-treatment and precipitation heat-treatment. Some alloys, such as 2017 and 2024, develop their full properties as a result of solution heat-treatment followed by about 4 days of aging at room temperature. Other alloys, such as 2014 and 7075, require both heat-treatments.
-
-The alloys that require precipitation heat-treatment (artificial aging) to develop their full strength also age to a limited extent at room temperature; the rate and amount of strengthening depends upon the alloy. Some reach their maximum natural or room temperature aging strength in a few days, and are designated as –T4 or –T3 temper. Others continue to age appreciably over a long period of time.
-
-Because of this natural aging, the –W designation is specified only when the period of aging is indicated, for example, 7075–W (1⁄2 hour). Thus, there is considerable difference in the mechanical and physical properties of freshly quenched (–W) material and material that is in the –T3 or –T4 temper.
-
-The hardening of an aluminum alloy by heat-treatment consists of four distinct steps:
-
-1. Heating to a predetermined temperature.
-
-2. Soaking at temperature for a specified length of time.
-
-3. Rapidly quenching to a relatively low temperature.
-
-4. Aging or precipitation-hardening either spontaneously at room temperature, or because of a low temperature thermal treatment.
-
-The first three steps above are known as solution heat-treatment, although it has become common practice to use the shorter term, “heat-treatment.” Room temperature hardening is known as natural aging, while hardening done at moderate temperatures is called artificial aging, or precipitation heat-treatment.
-
-#### Wrought Aluminum
-
 Wrought aluminum and wrought aluminum alloys are divided into two general classes: non-heat-treatable alloys and heat-treatable alloys.
 
 Non-heat-treatable alloys are those in which the mechanical properties are determined by the amount of cold-work introduced after the final annealing operation. The mechanical properties obtained by cold-working are destroyed by any subsequent heating and cannot be restored except by additional cold-working, which is not always possible. The “full hard” temper is produced by the maximum amount of cold-work that is commercially practicable. Metal in the “as fabricated” condition is produced from the ingot without any subsequent controlled amount of cold-working or thermal treatment. There is, consequently, a variable amount of strain hardening depending upon the thickness of the section.
 
 For heat-treatable aluminum alloys, the mechanical properties are obtained by heat-treating to a suitable temperature, holding at that temperature long enough to allow the alloying constituent to enter into solid solution, and then quenching to hold the constituent in solution. The metal is left in a supersaturated, unstable state and is then age hardened either by natural aging at room temperature or by artificial aging at some elevated temperature.
+
+#### Wrought Aluminum
 
 Wrought Aluminum Wrought aluminum and wrought aluminum alloys are designated by a four-digit index system. The system is broken into three distinct groups: 1xxx group, 2xxx through 8xxx group, and 9xxx group (which is currently unused).
 
@@ -318,26 +182,6 @@ In the 2xxx through 8xxx groups, the first digit indicates the major alloying el
 
 • 8xxx—other elements In the 2xxx through 8xxx alloy groups, the second digit in the alloy designation indicates alloy modifications. If the second digit is zero, it indicates the original alloy, while digits 1 through 9 indicate alloy modifications. The last two of the four digits in the designation identify the different alloys in the group.
 
-#### Solution Heat-Treatment
-
-Temperature The temperatures used for solution heat-treating vary with different alloys and range from 825 °F to 980 °F. As a rule, they must be controlled within a very narrow range (±10 °F) to obtain specified properties.
-
-If the temperature is too low, maximum strength is not obtained. When excessive temperatures are used, there is danger of melting the low melting constituents of some alloys with consequent lowering of the physical properties of the alloy. Even if melting does not occur, the use of higher than recommended temperatures promotes discoloration and increases quenching strains.
-
-Time at Temperature The time at temperature, referred to as soaking time, is measured from the time the coldest metal reaches the minimum limit of the desired temperature range. The soaking time varies, depending upon the alloy and thickness, from 10 minutes for thin sheets to approximately 12 hours for heavy forgings. For the heavy sections, the nominal soaking time is approximately 1 hour for each inch of cross-sectional thickness.
-
-Choose the minimum soaking time necessary to develop the required physical properties. The effect of an abbreviated soaking time is obvious. An excessive soaking period aggravates high-temperature oxidation. With clad material, prolonged heating results in excessive diffusion of copper and other soluble constituents into the protective cladding and may defeat the purpose of cladding.
-
-After the soluble constituents are in solid solution, the material is quenched to prevent or retard immediate re-precipitation. Three distinct quenching methods are employed. The one to be used in any instance depends upon the part, the alloy, and the properties desired.
-
-Cold Water Quenching Parts produced from sheet, extrusions, tubing, small forgings, and similar type material are generally quenched in a cold water bath. The temperature of the water before quenching should not exceed 85 °F.
-
-Using a sufficient quantity of water keeps the temperature rise under 20 °F. Such a drastic quench ensures maximum resistance to corrosion. This is particularly important when working with alloys, such as 2017, 2024, and 7075. This is the reason a drastic quench is preferred, even though a slower quench may produce the required mechanical properties.
-
-Hot Water Quenching Large forgings and heavy sections can be quenched in hot or boiling water. This type of quench minimizes distortion and alleviates cracking, which may be produced by the unequal temperatures obtained during the quench. The use of a hot water quench is permitted with these parts, because the temperature of the quench water does not critically affect the resistance to corrosion of the forging alloys. In addition, the resistance to corrosion of heavy sections is not as critical a factor as for thin sections.
-
-Spray Quenching High-velocity water sprays are useful for parts formed from clad sheet and for large sections of almost all alloys. This type of quench also minimizes distortion and alleviates quench cracking. However, many specifications forbid the use of spray quenching for bare 2017 and 2024 sheet materials because of the effect on their resistance to corrosion.
-
 #### Effect of Alloying Element
 
 1000 series: 99 percent aluminum or higher, excellent corrosion resistance, high thermal and electrical conductivity, low mechanical properties, excellent workability. Iron and silicon are major impurities.
@@ -354,6 +198,20 @@ Spray Quenching High-velocity water sprays are useful for parts formed from clad
 
 7000 series: Zinc is the principal alloying element. The most popular alloy of the series is 6061. When coupled with magnesium, it results in heat-treatable alloys of very high strength. It usually has copper and chromium added. The principal alloy of this group is 7075.
 
+#### Hardness Identification
+
+Where used, the temper designation follows the alloy designation and is separated from it by a dash (i.e., 7075- T6, 2024-T4, and so forth). The temper designation consists of a letter indicating the basic temper, which may be more specifically defined by the addition of one or more digits. These designations are as follows:
+
+• O—annealed, recrystallized (wrought products only)
+
+• H—strain hardened Alloy Percentage of Alloying Elements Aluminum and normal impurities constitute remainder 1100 — — — — — — — — — 3003 — — 1.2 — — — — — — 2011 5.5 — — — — — — 0.5 0.5 2014 4.4 0.8 0.8 0.4 — — — — — 2017 4.0 — 0.5 0.5 — — — — — 2117 2.5 — — 0.3 — — — — — 2018 4.0 — — 0.5 — 2.0 — — — 2024 4.5 — 0.6 1.5 — — — — — 2025 4.5 0.8 0.8 — — — — — — 4032 0.9 12.5 — 1.0 — 0.9 — — — 6151 — 1.0 — 0.6 — — 0.25 — — 5052 — — — 2.5 — — 0.25 — — 6053 — 0.7 — 1.3 — — 0.25 — — 6061 0.25 0.6 — 1.0 — — 0.25 — — 7075 1.6 — — 2.5 5.6 — 0.3 — — Copper Silicon Manganese Magnesium Zinc Nickel Chromium Lead Bismuth
+
+• H1 (plus one or more digits)—strain hardened only
+
+• H2 (plus one or more digits)—strain hardened and partially annealed
+
+• H3 (plus one or more digits)—strain hardened and stabilized The digit following the designations H1, H2, and H3 indicates the degree of strain hardening, number 8 representing the ultimate tensile strength equal to that achieved by a cold reduction of approximately 75 percent following a full anneal, 0 representing the annealed state.
+
 #### Magnesium & Magnesium Alloys
 
 Magnesium, the world’s lightest structural metal, is a silvery white material weighing only two-thirds as much as aluminum. Magnesium does not possess sufficient strength in its pure state for structural uses, but when alloyed with zinc, aluminum, and manganese, it produces an alloy having the highest strength-to-weight ratio of any of the commonly used metals.
@@ -365,18 +223,6 @@ Some of today’s aircraft require more than one-half ton of this metal for use 
 Magnesium alloys possess good casting characteristics. Their properties compare favorably with those of cast aluminum. In forging, hydraulic presses are ordinarily used, although, under certain conditions, forging can be accomplished in mechanical presses or with drop hammers.
 
 Magnesium alloys are subject to such treatments as annealing, quenching, solution heat-treatment, aging, and stabilizing. Sheet and plate magnesium are annealed at the rolling mill. The solution heat-treatment is used to put as much of the alloying ingredients as possible into solid solution, which results in high tensile strength and maximum ductility. Aging is applied to castings following heat-treatment where and liners, and miscellaneous hardware for turbine engines. Titanium, in appearance, is like stainless steel. One quick method used to identify titanium is the spark test. Titanium gives off a brilliant white trace ending in a brilliant white burst. Also, moistening the titanium and using it to draw a line on a piece of glass can accomplish identification. This leaves a dark line similar in appearance to a pencil mark.
-
-Titanium falls between aluminum and stainless steel in terms of elasticity, density, and elevated temperature strength. It has a melting point from 2,730 °F to 3,155 °F, low thermal conductivity, and a low coefficient of expansion. It is light, strong, and resistant to stress corrosion cracking. Titanium is approximately 60 percent heavier than aluminum and about 50 percent lighter than stainless steel.
-
-Because of the high melting point of titanium, high temperature properties are disappointing. The ultimate yield strength of titanium drops rapidly above 800 °F. The absorption of oxygen and nitrogen from the air at temperatures above 1,000 °F makes the metal so brittle on long exposure that it soon becomes worthless. However, titanium does have some merit for short time exposure up to 3,000 °F where strength is not important. Aircraft firewalls demand this requirement.
-
-Titanium is nonmagnetic and has an electrical resistance comparable to that of stainless steel. Some of the base alloys of titanium are quite hard. Heat-treating and alloying do not develop the hardness of titanium to the high levels of some of the heat-treated alloys of steel. It was only recently that a heat-treatable titanium alloy was developed. Prior to the development of this alloy, heating and rolling was the only method of forming that could be accomplished. However, it is possible to form the new alloy in the soft condition and heat-treat it for hardness.
-
-Iron, molybdenum, and chromium are used to stabilize titanium and produce alloys that quench-harden and age-harden. The addition of these metals also adds ductility. The fatigue resistance of titanium is greater than that of aluminum or steel.
-
-Titanium becomes softer as the degree of purity is increased. It is not practical to distinguish between the various grades of commercially pure or unalloyed titanium by chemical analysis; therefore, the grades are determined by mechanical properties.
-
-Titanium Designations The A-B-C classification of titanium alloys was established to provide a convenient and simple means of describing all titanium alloys. Titanium and titanium alloys possess three maximum hardness and yield strength are desired.
 
 Magnesium embodies fire hazards of an unpredictable nature. When in large sections, its high thermal conductivity makes it difficult to ignite and prevents it from burning. It does not burn until the melting point of 1,204 °F is reached. However, magnesium dust and fine chips are ignited easily. Precautions must be taken to avoid this if possible. Should a fire occur, it could be extinguished with an extinguishing powder, such as soapstone or graphite. Water or any standard liquid or foam fire extinguisher causes magnesium to burn more rapidly and can cause explosions.
 
@@ -394,23 +240,17 @@ The use of titanium is widespread. It is used in many commercial enterprises and
 
 Titanium is used for making compressor disks, spacer rings, compressor blades and vanes, through bolts, turbine housings currents on the surface of titanium and metallic couples are naturally restricted. This partly accounts for good resistance to many chemicals; also, the material may be used with some dissimilar metals with no harmful galvanic effect on either.
 
-#### Copper and Copper Alloys
+Titanium falls between aluminum and stainless steel in terms of elasticity, density, and elevated temperature strength. It has a melting point from 2,730 °F to 3,155 °F, low thermal conductivity, and a low coefficient of expansion. It is light, strong, and resistant to stress corrosion cracking. Titanium is approximately 60 percent heavier than aluminum and about 50 percent lighter than stainless steel.
 
-Copper is one of the most widely distributed metals. It is the only reddish-colored metal and is second only to silver in electrical conductivity. Its use as a structural material is limited because of its great weight. However, some of its outstanding characteristics, such as its high electrical and heat conductivity, in many cases overbalance the weight factor.
+Because of the high melting point of titanium, high temperature properties are disappointing. The ultimate yield strength of titanium drops rapidly above 800 °F. The absorption of oxygen and nitrogen from the air at temperatures above 1,000 °F makes the metal so brittle on long exposure that it soon becomes worthless. However, titanium does have some merit for short time exposure up to 3,000 °F where strength is not important. Aircraft firewalls demand this requirement.
 
-Because it is very malleable and ductile, copper is ideal for making wire. It is corroded by salt water but is not affected by fresh water. The ultimate tensile strength of copper varies greatly. For cast copper, the tensile strength is about 25,000 psi, and when cold rolled or cold drawn, its tensile strength increases to a range of 40,000 to 67,000 psi.
+Titanium is nonmagnetic and has an electrical resistance comparable to that of stainless steel. Some of the base alloys of titanium are quite hard. Heat-treating and alloying do not develop the hardness of titanium to the high levels of some of the heat-treated alloys of steel. It was only recently that a heat-treatable titanium alloy was developed. Prior to the development of this alloy, heating and rolling was the only method of forming that could be accomplished. However, it is possible to form the new alloy in the soft condition and heat-treat it for hardness.
 
-In aircraft, copper is used primarily in the electrical system for bus bars, bonding, and as lock wire.
+Iron, molybdenum, and chromium are used to stabilize titanium and produce alloys that quench-harden and age-harden. The addition of these metals also adds ductility. The fatigue resistance of titanium is greater than that of aluminum or steel.
 
-Beryllium copper is one of the most successful of all the copper base alloys. It is a recently developed alloy containing about 97 percent copper, 2 percent beryllium, and sufficient nickel to increase the percentage of elongation. The most valuable feature of this metal is that the physical properties can be greatly stepped up by heat-treatment, the tensile strength rising from 70,000 psi in the annealed state to 200,000 psi in the heat-treated state. The resistance of beryllium copper to fatigue and wear makes it suitable for diaphragms, precision bearings and bushings, ball cages, and spring washers.
+Titanium becomes softer as the degree of purity is increased. It is not practical to distinguish between the various grades of commercially pure or unalloyed titanium by chemical analysis; therefore, the grades are determined by mechanical properties.
 
-Brass is a copper alloy containing zinc and small amounts of aluminum, iron, lead, manganese, magnesium, nickel, phosphorous, and tin. Brass with a zinc content of 30 to 35 percent is very ductile, but that containing 45 percent has relatively high strength.
-
-Muntz metal is a brass composed of 60 percent copper and 40 percent zinc. It has excellent corrosion-resistant qualities in salt water. Its strength can be increased by heat-treatment. As cast, this metal has an ultimate tensile strength of 50,000 psi, and it can be elongated 18 percent. It is used in making bolts and nuts, as well as parts that come in contact with salt water.
-
-Red brass, sometimes termed “bronze” because of its tin content, is used in fuel and oil line fittings. This metal has good casting and finishing properties and machines freely.
-
-Bronzes are copper alloys containing tin. The true bronzes have up to 25 percent tin, but those with less than 11 percent are basic types of crystals: A (alpha), B (beta), and C (combined alpha and beta). Their characteristics are:
+Titanium Designations The A-B-C classification of titanium alloys was established to provide a convenient and simple means of describing all titanium alloys. Titanium and titanium alloys possess three maximum hardness and yield strength are desired.
 
 • A (alpha)—all-around performance; good weld ability; tough and strong both cold and hot; and resistant to oxidation.
 
@@ -429,6 +269,24 @@ Corrosion Characteristics The corrosion resistance of titanium deserves special 
 Corrosion of titanium is uniform. There is little evidence of pitting or other serious forms of localized attack. Normally, it is not subject to stress corrosion, corrosion fatigue, intergranular corrosion, or galvanic corrosion. Its corrosion resistance is equal or superior to 18-8 stainless steel.
 
 Laboratory tests with acid and saline solutions show titanium polarizes readily. The net effect, in general, is to decrease current flow in galvanic and corrosion cells. Corrosion most useful, especially for such items as tube fittings in aircraft.
+
+#### Copper and Copper Alloys
+
+Copper is one of the most widely distributed metals. It is the only reddish-colored metal and is second only to silver in electrical conductivity. Its use as a structural material is limited because of its great weight. However, some of its outstanding characteristics, such as its high electrical and heat conductivity, in many cases overbalance the weight factor.
+
+Because it is very malleable and ductile, copper is ideal for making wire. It is corroded by salt water but is not affected by fresh water. The ultimate tensile strength of copper varies greatly. For cast copper, the tensile strength is about 25,000 psi, and when cold rolled or cold drawn, its tensile strength increases to a range of 40,000 to 67,000 psi.
+
+In aircraft, copper is used primarily in the electrical system for bus bars, bonding, and as lock wire.
+
+Beryllium copper is one of the most successful of all the copper base alloys. It is a recently developed alloy containing about 97 percent copper, 2 percent beryllium, and sufficient nickel to increase the percentage of elongation. The most valuable feature of this metal is that the physical properties can be greatly stepped up by heat-treatment, the tensile strength rising from 70,000 psi in the annealed state to 200,000 psi in the heat-treated state. The resistance of beryllium copper to fatigue and wear makes it suitable for diaphragms, precision bearings and bushings, ball cages, and spring washers.
+
+Brass is a copper alloy containing zinc and small amounts of aluminum, iron, lead, manganese, magnesium, nickel, phosphorous, and tin. Brass with a zinc content of 30 to 35 percent is very ductile, but that containing 45 percent has relatively high strength.
+
+Muntz metal is a brass composed of 60 percent copper and 40 percent zinc. It has excellent corrosion-resistant qualities in salt water. Its strength can be increased by heat-treatment. As cast, this metal has an ultimate tensile strength of 50,000 psi, and it can be elongated 18 percent. It is used in making bolts and nuts, as well as parts that come in contact with salt water.
+
+Red brass, sometimes termed “bronze” because of its tin content, is used in fuel and oil line fittings. This metal has good casting and finishing properties and machines freely.
+
+Bronzes are copper alloys containing tin. The true bronzes have up to 25 percent tin, but those with less than 11 percent are basic types of crystals: A (alpha), B (beta), and C (combined alpha and beta). Their characteristics are:
 
 Among the copper alloys are the copper aluminum alloys, of which the aluminum bronzes rank very high in aircraft usage. They would find greater usefulness in structures if it were not for their strength-to-weight ratio as compared with alloy steels. Wrought aluminum bronzes are almost as strong and ductile as medium carbon steel, and they possess a high degree of resistance to corrosion by air, salt water, and chemicals. They are readily forged, hot or cold rolled, and many react to heat-treatment.
 
@@ -457,6 +315,12 @@ There are basically two nickel alloys used in aircraft: Monel and Inconel. Monel
 Inconel alloys of nickel produce a high strength, high temperature alloy containing approximately 80 percent nickel, 14 percent chromium, and small amounts of iron and other elements. The nickel Inconel alloys are frequently used in turbine engines because of their ability to maintain their strength and corrosion resistance under extremely high-temperature conditions.
 
 Inconel and stainless steel are similar in appearance and are frequently found in the same areas of the engine. Sometimes it is important to identify the difference between the metal samples. A common test is to apply one drop of cupric chloride and hydrochloric acid solution to the unknown metal and allow it to remain for 2 minutes. At the end of the soak period, a shiny spot indicates the material is nickel Inconel, and a copper-colored spot indicates stainless steel.
+
+### Substitution of Aircraft Metals
+
+In selecting substitute metals for the repair and maintenance of aircraft, it is very important to check the appropriate structural repair manual. Aircraft manufacturers design structural members to meet a specific load requirement for an aircraft. The methods of repairing these members, apparently similar in construction, vary with different aircraft.
+
+Four requirements must be kept in mind when selecting substitute metals. The first and most important of these is maintaining the original strength of the structure. The other three are maintaining contour or aerodynamic smoothness; maintaining original weight, if possible, or keeping added weight to a minimum; and maintaining the original corrosion-resistant properties of the metal.
 
 ### Metalworking Processes
 
@@ -590,6 +454,10 @@ The quenching tank should be of the proper size to handle the material being que
 
 Tank location in reference to the heat-treating furnace is very important. Situate the tank to permit rapid transfer of the part from the furnace to the quenching medium. A delay of more than a few seconds, in many instances, proves detrimental to the effectiveness of the heat-treatment. During transfer to the quench tank, employ guard sheets to retard the loss of heat when heat-treating material of thin section. Provide a rinse tank to remove all salt from the material after quenching if the salt is not adequately removed in the quenching tank.
 
+### Heat-Treatment of Ferrous Metals
+
+The first important consideration in the heat-treatment of a steel part is to know its chemical composition. This, in turn, determines its upper critical point. When the upper critical point is known, the next consideration is the rate of heating and cooling to be used. Carrying out these operations involves the use of uniform heating furnaces, proper temperature controls, and suitable quenching mediums.
+
 #### Behavior of Steel During Heating & Cooling
 
 Changing the internal structure of a ferrous metal is accomplished by heating to a temperature above its upper critical point, holding it at that temperature for a time sufficient to permit certain internal changes to occur, and then cooling to atmospheric temperature under predetermined, controlled conditions.
@@ -648,10 +516,6 @@ Because of the high internal stresses in the “as quenched” condition, steel 
 
 Hardening temperatures and quenching mediums for the various types of steel are listed.
 
-### Heat-Treatment of Ferrous Metals
-
-The first important consideration in the heat-treatment of a steel part is to know its chemical composition. This, in turn, determines its upper critical point. When the upper critical point is known, the next consideration is the rate of heating and cooling to be used. Carrying out these operations involves the use of uniform heating furnaces, proper temperature controls, and suitable quenching mediums.
-
 #### Hardening Precautions
 
 A variety of different shapes and sizes of tongs for handling hot steels is necessary. It should be remembered that cooling of the area contacted by the tongs is retarded and that such areas may not harden, particularly if the steel being treated is very shallow hardening. Small parts may be wired together or quenched in baskets made of wire mesh.
@@ -699,6 +563,82 @@ In nitriding, the part is placed in a special nitriding furnace and heated to a 
 Nitriding can be accomplished with a minimum of distortion, because of the low temperature at which parts are case hardened and because no quenching is required after exposure to the ammonia gas.
 
 ### Heat-Treatment of Nonferrous Metals
+
+#### Aluminum Alloys
+
+In the wrought form, commercially-pure aluminum is known as 1100. It has a high degree of resistance to corrosion and is easily formed into intricate shapes. It is relatively low in strength and does not have the properties required for structural aircraft parts. The process of alloying generally obtains high strengths. The resulting alloys are less easily formed and, with some exceptions, have lower resistance to corrosion than 1100 aluminum.
+
+Alloying is not the only method of increasing the strength of aluminum. Like other materials, aluminum becomes stronger and harder as it is rolled, formed, or otherwise cold-worked.
+
+Since the hardness depends on the amount of cold-working done, 1100 and some wrought aluminum alloys are available in several strain-hardened tempers. The soft or annealed condition is designated O. If the material is strain hardened, it is said to be in the H condition.
+
+The most widely used alloys in aircraft construction are hardened by heat-treatment rather than by cold-work. These alloys are designated by a somewhat different set of symbols: T4 and W indicate solution heat-treated and quenched but not aged, and T6 indicates an alloy in the heat-treated, hardened condition.
+
+• W—solution heat-treated, unstable temper
+
+• T—treated to produce stable tempers other than F, O, or H
+
+• T2—annealed (cast products only)
+
+• T3—solution heat-treated and then cold-worked
+
+• T4—solution heat-treated
+
+• T5—artificially aged only
+
+• T6—solution heat-treated and then artificially aged
+
+• T7—solution heat-treated and then stabilized
+
+• T8—solution heat-treated, cold-worked, and then artificially aged
+
+• T9—solution heat-treated, artificially aged, and then cold-worked
+
+• T10—artificially aged and then cold-worked Additional digits may be added to T1 through T10 to indicate a variation in treatment, which significantly alters the characteristics of the product.
+
+Aluminum-alloy sheets are marked with the specification number on approximately every square foot of material. If for any reason this identification is not on the material, it is possible to separate the heat-treatable alloys from the non-heat-treatable alloys by immersing a sample of the material in a 10 percent solution of caustic soda (sodium hydroxide). The heat-treatable alloys turn black due to the copper content, whereas the others remain bright. In the case of clad material, the surface remains bright, but there is a dark area in the middle when viewed from the edge.
+
+#### Alclad Aluminum
+
+The terms “Alclad and Pureclad” are used to designate sheets that consist of an aluminum-alloy core coated with a layer of pure aluminum to a depth of approximately 5 1⁄2 percent on each side. The pure aluminum coating affords a dual protection for the core, preventing contact with any corrosive agents, and protecting the core electrolytically by preventing any attack caused by scratching or from other abrasions.
+
+There are two types of heat-treatments applicable to aluminum alloys: solution heat-treatment and precipitation heat-treatment. Some alloys, such as 2017 and 2024, develop their full properties as a result of solution heat-treatment followed by about 4 days of aging at room temperature. Other alloys, such as 2014 and 7075, require both heat-treatments.
+
+The alloys that require precipitation heat-treatment (artificial aging) to develop their full strength also age to a limited extent at room temperature; the rate and amount of strengthening depends upon the alloy. Some reach their maximum natural or room temperature aging strength in a few days, and are designated as –T4 or –T3 temper. Others continue to age appreciably over a long period of time.
+
+Because of this natural aging, the –W designation is specified only when the period of aging is indicated, for example, 7075–W (1⁄2 hour). Thus, there is considerable difference in the mechanical and physical properties of freshly quenched (–W) material and material that is in the –T3 or –T4 temper.
+
+The hardening of an aluminum alloy by heat-treatment consists of four distinct steps:
+
+1. Heating to a predetermined temperature.
+
+2. Soaking at temperature for a specified length of time.
+
+3. Rapidly quenching to a relatively low temperature.
+
+4. Aging or precipitation-hardening either spontaneously at room temperature, or because of a low temperature thermal treatment.
+
+The first three steps above are known as solution heat-treatment, although it has become common practice to use the shorter term, “heat-treatment.” Room temperature hardening is known as natural aging, while hardening done at moderate temperatures is called artificial aging, or precipitation heat-treatment.
+
+#### Solution Heat-Treatment
+
+Temperature The temperatures used for solution heat-treating vary with different alloys and range from 825 °F to 980 °F. As a rule, they must be controlled within a very narrow range (±10 °F) to obtain specified properties.
+
+If the temperature is too low, maximum strength is not obtained. When excessive temperatures are used, there is danger of melting the low melting constituents of some alloys with consequent lowering of the physical properties of the alloy. Even if melting does not occur, the use of higher than recommended temperatures promotes discoloration and increases quenching strains.
+
+Time at Temperature The time at temperature, referred to as soaking time, is measured from the time the coldest metal reaches the minimum limit of the desired temperature range. The soaking time varies, depending upon the alloy and thickness, from 10 minutes for thin sheets to approximately 12 hours for heavy forgings. For the heavy sections, the nominal soaking time is approximately 1 hour for each inch of cross-sectional thickness.
+
+Choose the minimum soaking time necessary to develop the required physical properties. The effect of an abbreviated soaking time is obvious. An excessive soaking period aggravates high-temperature oxidation. With clad material, prolonged heating results in excessive diffusion of copper and other soluble constituents into the protective cladding and may defeat the purpose of cladding.
+
+After the soluble constituents are in solid solution, the material is quenched to prevent or retard immediate re-precipitation. Three distinct quenching methods are employed. The one to be used in any instance depends upon the part, the alloy, and the properties desired.
+
+Cold Water Quenching Parts produced from sheet, extrusions, tubing, small forgings, and similar type material are generally quenched in a cold water bath. The temperature of the water before quenching should not exceed 85 °F.
+
+Using a sufficient quantity of water keeps the temperature rise under 20 °F. Such a drastic quench ensures maximum resistance to corrosion. This is particularly important when working with alloys, such as 2017, 2024, and 7075. This is the reason a drastic quench is preferred, even though a slower quench may produce the required mechanical properties.
+
+Hot Water Quenching Large forgings and heavy sections can be quenched in hot or boiling water. This type of quench minimizes distortion and alleviates cracking, which may be produced by the unequal temperatures obtained during the quench. The use of a hot water quench is permitted with these parts, because the temperature of the quench water does not critically affect the resistance to corrosion of the forging alloys. In addition, the resistance to corrosion of heavy sections is not as critical a factor as for thin sections.
+
+Spray Quenching High-velocity water sprays are useful for parts formed from clad sheet and for large sections of almost all alloys. This type of quench also minimizes distortion and alleviates quench cracking. However, many specifications forbid the use of spray quenching for bare 2017 and 2024 sheet materials because of the effect on their resistance to corrosion.
 
 #### Lag Between Soaking & Quenching
 
@@ -824,25 +764,69 @@ Unalloyed titanium cannot be heat-treated, but the alloys commonly used in aircr
 
 The chemical activity of titanium and its rapid absorption of oxygen, nitrogen, and carbon at relatively low temperatures make case hardening advantageous for special applications. Nitriding, carburizing, or carbonitriding can be used to produce a wear-resistant case of 0.0001 to 0.0002 inch in depth.
 
+### Hardness Testing
+
+Hardness testing is a method of determining the results of heat-treatment, as well as the state of a metal prior to heat-treatment. Since hardness values can be tied in with tensile strength values and, in part, with wear resistance. Hardness tests are a valuable check of heat-treat control and of material properties.
+
+Practically all hardness testing equipment now uses the resistance to penetration as a measure of hardness. Included among the better-known hardness testers are the Brinell and Rockwell, both of which are described and illustrated in this section. Also included is the Barcol tester, a popular portable-type hardness tester currently in use.
+
+The Brinell hardness tester uses a hardened spherical ball that is forced into the surface of the metal. This ball is 10 millimeters (0.3937 inch) in diameter. A pressure of 3,000 kilograms is used for ferrous metals and 500 kilograms for nonferrous metals. The pressure must be maintained at least 10 seconds for ferrous metals and at least 30 seconds for nonferrous metals. The load is applied by hydraulic pressure. A hand pump or an electric motor, depending on the model of tester, builds up the hydraulic pressure. A pressure gauge indicates the amount of pressure. There is a release mechanism for relieving the pressure after the test has been made, and a calibrated microscope is provided for measuring the diameter of the impression in millimeters. The machine has various shaped anvils for supporting the specimen and an elevating screw for bringing the specimen in contact with the ball penetrator. These are attachments for special tests.
+
+To determine the Brinell hardness number for a metal, measure the diameter of the impression using the calibrated microscope furnished with the tester. Then convert the measurement into the Brinell hardness number on the conversion table furnished with the tester.
+
+#### Rockwell Tester
+
+The Rockwell hardness tester measures the resistance to penetration, as does the Brinell tester. Instead of measuring the diameter of the impression, the Rockwell tester measures the depth, and the hardness is indicated directly on a dial attached to the machine. The dial numbers in the outer circle are black and the inner numbers are red. Rockwell hardness numbers are based on the difference between the depth of penetration at major and minor loads. The greater this difference, the lower the hardness number and the softer the material.
+
+Two types of penetrators are used with the Rockwell tester: a diamond cone and a hardened steel ball. The load, which forces the penetrator into the metal, is called the major load and is measured in kilograms. The results of each penetrator and load combination are reported on separate scales designated by letters. The penetrator, the major load, and the scale vary with the kind of metal being tested.
+
+For hardened steels, the diamond penetrator is used; the major load is 150 kilograms; and the hardness is read on the “C” scale. When this reading is recorded, the letter “C” must precede the number indicated by the pointer. The C-scale setup is used for testing metals ranging in hardness from C-20 to the hardest steel (usually about C-70). If the metal is softer than C-20, the B-scale setup is used. With this setup, the 1⁄16-inch ball is used as a penetrator; the major load is 100 kilograms; and the hardness is read on the B-scale.
+
+In addition to the C and B scales, there are other setups for special testing. The scales, penetrators, major loads, and dial numbers to be read are listed.
+
+The Rockwell tester is equipped with a weight pan, and two weights are supplied with the machine. One weight is marked in red. The other weight is marked in black. With no weight in the weight pan, the machine applies a major load of 60 kilograms. If the scale setup calls for a 100-kilogram load, the red weight is placed in the pan. For a 150-kilogram load, the black weight is added to the red weight. The black weight is always used with the red weight; it is never used alone.
+
+Practically all testing is done with either the B-scale setup or the C-scale setup. For these scales, the colors may be used as a guide in selecting the weight (or weights) and in reading the dial. For the B-scale test, use the red weight and read the red numbers. For a C-scale test, add the black weight to the red weight and read the black numbers.
+
+In setting up the Rockwell machine, use the diamond penetrator for testing materials known to be hard. If the hardness is unknown, try the diamond, since the steel ball may be deformed if used for testing hard materials. If the metal tests below C-22, then change to the steel ball.
+
+Use the steel ball for all soft materials, those testing less than B-100. Should an overlap occur at the top of the B-scale and the bottom of the C-scale, use the C-scale setup.
+
+Before the major load is applied, securely lock the test specimen in place to prevent slipping and to seat the anvil and penetrator properly. To do this, apply a load of 10 kilograms before the lever is tripped. This preliminary load is called the minor load. The minor load is 10 kilograms regardless of the scale setup.
+
+The metal to be tested in the Rockwell tester must be ground smooth on two opposite sides and be free of scratches and foreign matter. The surface should be perpendicular to the axis of penetration, and the two opposite ground surfaces should be parallel. If the specimen is tapered, the amount of error depends on the taper. A curved surface also causes a slight error in the hardness test. The amount of error depends Pressure gauge Hydraulic actuating unit Penetrator Elevating screw Hand pump Microscope 0 500 1000 1500 2000 3000 4000 4500 5000 3500 2500 ZEROMNDER FOR RAP TESTING c0 c50 90 80 70 60 10 20 30 40 cc c c c c c c B30 BB B B B B B B 4020 10 0 90 50 60 70 ZEROMNDER FOR RAP TESTING c0 c50 90 80 70 60 10 20 30 40 c c c c c c c c c B30 B B B B B B B B 40 20 10 0 90 50 60 70 Weights Weight pan Trip lever Zero adjuster Hand wheel Elevating screw Penetrator Specimen Anvil on the curvature (i.e., the smaller the radius of curvature, the greater the error). To eliminate such error, a small flat should be ground on the curved surface if possible.
+
+Clad aluminum alloy sheets cannot be tested directly with any accuracy with a Rockwell hardness tester. If the hardness value of the base metal is desired, the pure aluminum coating must be removed from the area to be checked prior to testing.
+
+The Barcol tester is a portable unit designed for testing aluminum alloys, copper, brass, or other relatively soft materials. It should not be used on aircraft steels. Approximate range of the tester is 25 to 100 Brinell. The unit can be used in any position and in any space that allows for the operator’s hand. It is of great value in the hardness testing of assembled or installed parts, especially to check for proper heat-treatment. The hardness is indicated on a dial conveniently divided into 100 graduations.
+
+The design of the Barcol tester is such that operating experience is not necessary. It is only necessary to exert a light pressure against the instrument to drive the spring-loaded indenter into the material to be tested. The hardness reading is instantly indicated on the dial.
+
+Several typical readings for aluminum alloys are listed in the Barcol number. To prevent damage to the point, avoid sliding or scraping when it is in contact with the material being tested. If the point should become damaged, it must be replaced with a new one. Do not attempt to grind the point.
+
+Each tester is supplied with a test disk for checking the condition of the point. To check the point, press the instrument down on the test disk. When the downward pressure brings the end of the lower plunger guide against the surface of the disk, the indicator reading should be within the range shown on the test disk.
+
+Forging is the process of forming a product by hammering or pressing. When the material is forged below the recrystallization temperature, it is called cold forged. When worked above the recrystallization temperature, it is referred A Diamond 60 Black B 100 Red C Diamond 150 Black D Diamond 100 Black E 100 Red F 60 Red G 150 Red H 60 Red K 150 Red Scale Symbol Penetrator MajorLoad (kg) DialColor⁄Number 0 50 10 90 20 80 30 70 40 60 to as hot forged. Drop forging is a hammering process that uses a hot ingot that is placed between a pair of formed dies in a machine called a drop hammer and a weight of several tons is dropped on the upper die. This results in the hot metal being forced to take the form of the dies. Because the process is very rapid, the grain structure of the metal is altered, resulting in a significant increase in the strength of the finished part.
+
+Melting the metal and pouring it into a mold of the desired shape forms casting. Since plastic deformation of the metal does not occur, no alteration of the grain shape or orientation is possible. The cooling rate, the alloys of the metal, and the thermal treatment can control the gain size of the metal. Castings are normally lower in strength and are more brittle than a wrought product of the same material. For intricate shapes or items with internal passages, such as turbine blades, casting may be the most economical process. Except for engine parts, most metal components found on an aircraft are wrought instead of cast.
+
+All metal products start in the form of casting. Wrought metals are converted from cast ingots by plastic deformation. For high-strength aluminum alloys, an 80 to 90 percent reduction (dimensional change in thickness) of the material is required to obtain the high mechanical properties of a fully wrought structure.
+
+Both iron and aluminum alloys are cast for aircraft uses. Cast iron contains 6 to 8 percent carbon and silicon.
+
+Cast iron is a hard un-malleable pig iron made by casting or pouring into a mold. Cast aluminum alloy has been heated to its molten state and poured into a mold to give it the desired shape.
+
+The extrusion process involves the forcing of metal through an opening in a die, thus causing the metal to take the shape of the die opening. The shape of the die will be the cross section of an angle, channel, tube, or some other shape. Some metals, such as lead, tin, and aluminum, may be extruded cold; however, most metals are heated before extrusion. The main advantage of the extrusion process is its flexibility. For example, because of its workability, aluminum can be economically extruded to more intricate shapes and larger sizes than is practical with other metals.
+
+Extruded shapes are produced in very simple, as well as extremely complex, sections. In this process, a cylinder of aluminum, for instance, is heated to 750–850 °F and is then forced through the opening of a die by a hydraulic ram. The opening is the shape desired for the cross section of the finished extrusion. The extrusion process forms many structural parts, such as channels, angles, T-sections, and Z-sections.
+
+Aluminum is the most extruded metal used in aircraft. Aluminum is extruded at a temperature of 700–900 °F (371–482 °C) and requires pressure of up to 80,000 psi (552 MPa). After extrusion, the product frequently is subjected to both thermal and mechanical processes to obtain the desired properties. Extrusion processes are limited to the more ductile materials.
+
+1/16" ball 1/16" ball 1/8" ball 1/8" ball 1/16" ball 1/8" ball Alloy and Temper Barcol Number 1100-O 35 3003-O 42 3003-H14 56 2024-O 60 5052-O 62 5052-H34 75 6061-T 78 2024-T 85
+
 ## 2. 中文翻译
 
 了解并理解结构金属的用途、强度、局限性及其他特性，对于正确制造和维护任何设备（尤其是机体结构）至关重要。在飞机维修与修理中，即使与设计规范有细微偏差，或代用劣质材料，也可能造成人员与设备的双重损失。使用不合适的材料，足以使最精湛的工艺付诸东流。为某项具体修理工作选择正确的材料，要求熟悉各种金属最常见的物理性能。
-
-### 航空黑色金属
-
-修理飞机需要用到许多不同的金属。这是由于具体结构或零件在强度、重量、耐久性和抗劣化能力方面的需求各不相同。此外，材料的特定形状或形态也起着重要作用。在为飞机修理选择材料时，这些因素（以及许多其他因素）都要结合力学性能和物理性能来考虑。常用材料中包括黑色金属。“黑色金属”（ferrous）一词指以铁为主要元素的一类金属。
-
-如果向铁中加入碳，加入比例最高约为 1%，所得产品远优于纯铁，称为碳钢。碳钢是将碳钢与其他已知能改善钢性能的元素结合而生产的各种合金钢的基础。向基体金属（如铁）中加入少量其他金属所得的金属称为合金。加入其他金属会改变或改善基体金属的化学或物理性能，以适应特定用途。
-
-### 航空有色金属
-
-“有色金属”（nonferrous）一词指以铁以外的元素为基体或主要成分的所有金属。这一类包括铝、钛、铜、镁等金属，也包括蒙乃尔合金和巴氏合金等合金。
-
-### 航空金属的代用
-
-在选用代用金属进行飞机修理和维护时，查阅相应的结构修理手册非常重要。飞机制造商按飞机的特定载荷要求设计结构件。这些结构件的修理方法虽然构造上看似相似，但随机型不同而异。
-
-选择代用金属时必须牢记四项要求。第一项也是最重要的一项，是保持结构的原有强度。其余三项是：保持外形或气动光洁度；尽可能保持原有重量，或将增加的重量减到最小；保持金属原有的耐蚀性能。
 
 ### 金属的性能
 
@@ -868,80 +852,6 @@ The chemical activity of titanium and its rapid absorption of oxygen, nitrogen, 
 
 导热导电性是指金属能够传导热量或电的性能。金属的导热性在焊接中尤为重要，因为它决定实现良好熔合所需的热量。金属的导热性在一定程度上决定了用以控制膨胀和收缩的夹具类型。在飞机上，还必须结合搭接来考虑导电性，以消除无线电干扰。
 
-#### 硬度标识
-
-凡使用时，回火状态代号跟在合金牌号之后，并用短横线隔开（如 7075-T6、2024-T4 等）。回火代号由一个字母组成，表示基本回火状态，可通过加一位或多位数字作更具体的规定。这些代号如下：
-
-• O——退火、再结晶（仅变形产品）
-
-• H——应变硬化
-
-• H1（加一位或多位数字）——仅应变硬化
-
-• H2（加一位或多位数字）——应变硬化并部分退火
-
-• H3（加一位或多位数字）——应变硬化并稳定化。H1、H2、H3 代号后的数字表示应变硬化程度：数字 8 表示完全退火后经约 75% 冷压下所达到的极限抗拉强度，0 表示退火状态。
-
-### 硬度试验
-
-硬度试验是测定热处理结果以及金属热处理前状态的一种方法。由于硬度值可与抗拉强度值相关联，并部分地与耐磨性相关联，硬度试验是检验热处理控制和材料性能的有价值手段。
-
-目前几乎所有硬度试验设备都以抗压入能力作为硬度的量度。较著名的硬度试验机中包括布氏和洛氏试验机，本节将对二者加以说明和图示。此外还有巴柯尔试验机，这是一种目前广泛使用的便携式硬度试验机。
-
-布氏硬度试验机使用一个淬硬钢球压入金属表面。该球直径 10 毫米（0.3937 英寸）。黑色金属采用 3,000 公斤压力，有色金属采用 500 公斤压力。黑色金属的压力须保持至少 10 秒，有色金属至少 30 秒。载荷由液压施加。手泵或电动机（取决于试验机型号）建立液压。压力表指示压力大小。试验后有卸压机构，并配有校准显微镜以毫米为单位测量压痕直径。机器有各种形状的砧座用于支承试样，以及升降螺杆使试样与球压头接触。这些是用于特殊试验的附件。
-
-要确定金属的布氏硬度值，用试验机所带校准显微镜测量压痕直径，然后在试验机所带的换算表上将测量值换算为布氏硬度值。
-
-#### 洛氏试验机
-
-洛氏硬度试验机与布氏试验机一样测量抗压入能力。洛氏试验机不测量压痕直径，而是测量深度，硬度直接显示在机器所附刻度盘上。刻度盘外圈数字为黑色，内圈数字为红色。洛氏硬度值以主载荷与初载荷下压入深度之差为基础。差值越大，硬度值越低，材料越软。
-
-洛氏试验机使用两种压头：金刚石圆锥和淬硬钢球。使压头压入金属的载荷称为主载荷，以公斤计量。每种压头与载荷组合的结果分别在以字母标示的不同标尺上报告。压头、主载荷和标尺随所试金属种类而异。
-
-对于淬硬钢，使用金刚石压头，主载荷为 150 公斤，硬度在“C”标尺上读取。记录该读数时，字母“C”必须置于指针所示数字之前。C 标尺用于试验硬度从 C-20 到最硬钢（通常约 C-70）的金属。若金属比 C-20 软，则使用 B 标尺。该配置使用 1/16 英寸钢球作压头，主载荷为 100 公斤，硬度在 B 标尺上读取。
-
-除 C 和 B 标尺外，还有其他用于特殊试验的配置。各标尺、压头、主载荷及应读刻度盘数字列于相关数据表。
-
-洛氏试验机配有砝码盘，机器附有两个砝码。一个砝码标红色，另一个标黑色。砝码盘内不放砝码时，机器施加 60 公斤主载荷。若标尺配置要求 100 公斤载荷，则将红砝码放入盘中。若需 150 公斤载荷，则在红砝码上加黑砝码。黑砝码总是与红砝码一起使用，绝不单独使用。
-
-几乎所有试验都用 B 标尺或 C 标尺配置进行。对这些标尺，颜色可作为选择砝码和读取刻度盘的指南。B 标尺试验使用红砝码并读红色数字；C 标尺试验则在红砝码上加黑砝码并读黑色数字。
-
-设置洛氏试验机时，对已知为硬的材料使用金刚石压头。若硬度未知，先试用金刚石，因为用钢球试验硬材料可能使钢球变形。若金属试验值低于 C-22，则改用钢球。
-
-对所有软材料（试验值低于 B-100 者）使用钢球。若在 B 标尺上端与 C 标尺下端出现重叠，则使用 C 标尺配置。
-
-施加主载荷前，应将试样牢固锁定到位，以防滑动，并使砧座和压头正确就位。为此，在扳动杠杆前施加 10 公斤载荷。这一预载荷称为初载荷。无论标尺配置如何，初载荷均为 10 公斤。
-
-在洛氏试验机上试验的金属必须在两个相对面磨平，且无划痕和异物。表面应垂直于压入轴线，两个相对的磨光面应平行。若试样有锥度，误差大小取决于锥度。曲面也会使硬度试验产生轻微误差，误差大小取决于曲率（曲率半径越小，误差越大）。为消除这种误差，如有可能应在曲面上磨出一个小平面。
-
-包铝铝合金薄板不能用洛氏硬度试验机直接准确试验。若需要基体金属的硬度值，必须在试验前去除待检部位的纯铝包覆层。
-
-巴柯尔试验机是一种便携式仪器，用于试验铝合金、铜、黄铜或其他相对较软的材料。不应用于航空钢。该试验机的近似范围为 25 至 100 布氏硬度。该仪器可用于任何位置，以及能容纳操作者手部的任何空间。它在装配件或已安装零件的硬度试验中很有价值，尤其用于检查热处理是否正确。硬度显示在便于读数的、分为 100 格的刻度盘上。
-
-巴柯尔试验机的设计使操作者无需经验。只需对仪器施加轻微压力，将弹簧加载的压针压入待试材料，硬度读数即显示在刻度盘上。
-
-铝合金的若干典型读数以巴柯尔值列出。为防止损坏压针，在其接触被试材料时避免滑动或刮擦。若压针损坏，必须更换新针，切勿试图修磨压针。
-
-每台试验机都配有一个测试盘，用于检查压针状态。检查时，将仪器向下压到测试盘上。当向下的压力使下柱塞导套端部接触盘面时，指示读数应在测试盘所示范围内。
-
-锻造是通过锤击或压制使产品成形的工艺。材料在再结晶温度以下锻造时称为冷锻；在再结晶温度以上加工时称为热锻。落锤锻造是一种锤击工艺，将热钢锭放在落锤机的成对成形模具之间，数吨重的重锤落到上模上，使热金属被迫形成模具的形状。由于该过程非常迅速，金属晶粒组织发生改变，使成品零件的强度显著提高。
-
-铸造是将金属熔化并浇入所需形状的铸型而成形。由于金属不发生塑性变形，晶粒形状或取向不可能改变。冷却速度、金属的合金成分和热处理可控制金属的晶粒度。铸件通常比同材料的变形产品强度低、更脆。对于形状复杂或带有内部通道的零件（如涡轮叶片），铸造可能是最经济的工艺。除发动机零件外，飞机上大多数金属构件是变形件而非铸件。
-
-所有金属产品都以铸锭形式开始。变形金属是由铸锭经塑性变形转变而来。对于高强度铝合金，需要 80%～90% 的压下量（厚度尺寸变化）才能获得完全变形组织的高力学性能。
-
-铁合金和铝合金都用于航空铸造。铸铁含 6%～8% 的碳和硅。
-
-铸铁是一种硬而不可锻的生铁，通过浇入铸型制成。铸造铝合金经加热到熔融状态并浇入铸型以获得所需形状。
-
-挤压工艺是将金属从模具开口中挤出，使金属形成模具开口的形状。模具形状即角材、槽材、管材或其他形状的横截面。某些金属（如铅、锡和铝）可冷挤压，不过大多数金属在挤压前都要加热。挤压工艺的主要优点是灵活。例如，由于铝的加工性好，可以经济地挤压出比其他金属更复杂、尺寸更大的形状。
-
-挤压型材可制成非常简单以及极其复杂的截面。在此工艺中，例如将铝圆柱锭加热到 750～850 °F，然后由液压柱塞经模具开口挤出。开口形状即成品挤压件的横截面形状。挤压工艺可成形许多结构件，如槽材、角材、T 形件和 Z 形件。
-
-铝是飞机上挤压加工最多的金属。铝的挤压温度为 700～900 °F（371～482 °C），需要高达 80,000 psi（552 MPa）的压力。挤压后，产品常经热加工和机械加工以获得所需性能。挤压工艺限于延展性较好的材料。
-
-（原文此处为表格碎片，无对应正文）
-
 ### 冷作硬化
 
 冷作是指在临界温度范围以下进行的机械加工。它使金属产生应变硬化。事实上，金属常变得很硬，以致不经退火软化就难以继续成形。
@@ -963,6 +873,12 @@ The chemical activity of titanium and its rapid absorption of oxygen, nitrogen, 
 #### 热膨胀
 
 热膨胀是指金属受热或冷却时产生的收缩与膨胀反应。对金属加热会使其膨胀或变大。冷却与加热会影响焊接夹具、铸件的设计，以及热轧材料所需的公差。
+
+### 航空黑色金属
+
+修理飞机需要用到许多不同的金属。这是由于具体结构或零件在强度、重量、耐久性和抗劣化能力方面的需求各不相同。此外，材料的特定形状或形态也起着重要作用。在为飞机修理选择材料时，这些因素（以及许多其他因素）都要结合力学性能和物理性能来考虑。常用材料中包括黑色金属。“黑色金属”（ferrous）一词指以铁为主要元素的一类金属。
+
+如果向铁中加入碳，加入比例最高约为 1%，所得产品远优于纯铁，称为碳钢。碳钢是将碳钢与其他已知能改善钢性能的元素结合而生产的各种合金钢的基础。向基体金属（如铁）中加入少量其他金属所得的金属称为合金。加入其他金属会改变或改善基体金属的化学或物理性能，以适应特定用途。
 
 #### 钢与钢合金
 
@@ -1018,6 +934,10 @@ Inconel 是一种镍铬铁合金，外观与不锈钢（耐蚀钢，CRES）非�
 
 在滤纸上（与测试金属接触的同一面）滴一滴溶于乙醇的 1.0% 试剂级二甲基乙二醛肟溶液。若被测金属为 Inconel，滤纸上会在数秒内出现鲜明的粉红色斑点；若被测金属为不锈钢，则出现棕色斑点。某些不锈钢合金可能留下很淡的粉红色，但其色调和深度远不及 Inconel。对于平面，试验斑点呈圆形；对于管材或管道外壁等曲面，斑点可能呈条痕状。本方法不应用于焊接件的热影响区或镀镍表面。
 
+### 航空有色金属
+
+“有色金属”（nonferrous）一词指以铁以外的元素为基体或主要成分的所有金属。这一类包括铝、钛、铜、镁等金属，也包括蒙乃尔合金和巴氏合金等合金。
+
 #### 铝及铝合金
 
 工业纯铝是一种白色有光泽的金属，其可锻性居第二位、延展性居第六位，耐蚀性也名列前茅。铝与不同比例的其他金属结合即形成合金，用于飞机制造。
@@ -1058,69 +978,13 @@ Inconel 是一种镍铬铁合金，外观与不锈钢（耐蚀钢，CRES）非�
 
 压铸用于某种零件批量较大的生产。要记住，凡能锻造的形状都能铸造。
 
-#### 铝合金
-
-变形形式的工业纯铝称为 1100。它具有很高的耐蚀性，易于成形为复杂形状。其强度相对较低，不具备航空结构件所需的性能。合金化通常可获得高强度。所得合金较难成形，且除少数例外，耐蚀性低于 1100 铝。
-
-合金化并不是提高铝强度的唯一方法。与其他材料一样，铝在轧制、成形或其他冷作加工后会变得更强更硬。
-
-由于硬度取决于冷作量，1100 和一些变形铝合金有几种应变硬化状态可供选择。软态或退火态用 O 表示。若材料经应变硬化，则称为处于 H 状态。
-
-飞机制造中应用最广的合金是通过热处理而非冷作硬化的。这些合金用一套略有不同的符号表示：T4 和 W 表示固溶热处理并淬火但未时效，T6 表示处于热处理硬化状态的合金。
-
-• W——固溶热处理，不稳定状态
-
-• T——处理成除 F、O 或 H 以外的稳定状态
-
-• T2——退火（仅铸件）
-
-• T3——固溶热处理后冷作
-
-• T4——固溶热处理
-
-• T5——仅人工时效
-
-• T6——固溶热处理后人工时效
-
-• T7——固溶热处理后稳定化
-
-• T8——固溶热处理、冷作后人工时效
-
-• T9——固溶热处理、人工时效后冷作
-
-• T10——人工时效后冷作。可在 T1 至 T10 后加数字，表示显著改变产品特性的处理变型。
-
-铝合金薄板大约每平方英尺都标有规范号。若因故材料上没有此标识，可把材料样品浸入 10% 烧碱（氢氧化钠）溶液，以区分可热处理强化合金与不可热处理强化合金。可热处理强化合金因含铜而变黑，其他合金仍保持光亮。对于包铝材料，表面保持光亮，但从边缘观察时中部有暗区。
-
-#### 包铝铝合金
-
-“Alclad”和“Pureclad”这两个术语用于表示由铝合金芯部两面各包覆约 5.5% 厚度纯铝层而构成的薄板。纯铝包覆层对芯部提供双重保护：既防止与任何腐蚀介质接触，又通过防止划伤或其他擦伤引起的侵蚀而对芯部提供电解保护。
-
-适用于铝合金的热处理有两类：固溶热处理和析出热处理。某些合金（如 2017 和 2024）通过固溶热处理后在室温时效约 4 天即可获得全部性能。其他合金（如 2014 和 7075）需要两种热处理。
-
-需要析出热处理（人工时效）才能获得全部强度的合金，在室温下也会有一定程度的时效；强化速度和程度取决于合金。有些合金在几天内达到最大的自然（室温）时效强度，标记为 -T4 或 -T3 状态；另一些则在长时期内继续明显时效。
-
-由于存在这种自然时效，只有在注明时效时间时才使用 -W 代号，例如 7075-W（1/2 小时）。因此，新淬火（-W）材料与处于 -T3 或 -T4 状态的材料在力学和物理性能上有很大差异。
-
-铝合金通过热处理硬化包括四个不同步骤：
-
-1. 加热到预定温度。
-
-2. 在温度下保温规定时间。
-
-3. 快速淬火到相对较低的温度。
-
-4. 在室温自发时效，或通过低温热处理的时效（析出硬化）。
-
-上述前三个步骤称为固溶热处理，尽管通常简称为“热处理”。室温硬化称为自然时效，而在中等温度下进行的硬化称为人工时效或析出热处理。
-
-#### 变形铝
-
 变形铝及变形铝合金分为两大类：不可热处理强化合金和可热处理强化合金。
 
 不可热处理强化合金的力学性能由最终退火后所引入的冷作量决定。冷作获得的力学性能会被随后的任何加热破坏，且除了继续冷作之外无法恢复，而继续冷作并不总是可行。“全硬”状态由工业上可行的最大冷作量产生。“制造态”金属由铸锭直接制成，未经任何后续受控的冷作或热处理，因此根据截面厚度不同，存在程度不一的应变硬化。
 
 对于可热处理强化的铝合金，其力学性能是这样获得的：加热到适当温度，在该温度保温足够长时间使合金组元溶入固溶体，然后淬火把组元保持在固溶体中。金属处于过饱和的不稳定状态，随后通过室温自然时效或较高温度的人工时效进行时效硬化。
+
+#### 变形铝
 
 变形铝 变形铝及变形铝合金用四位数字索引体系表示。该体系分为三个不同的组：1xxx 组、2xxx 至 8xxx 组，以及 9xxx 组（目前尚未使用）。
 
@@ -1140,26 +1004,6 @@ Inconel 是一种镍铬铁合金，外观与不锈钢（耐蚀钢，CRES）非�
 
 • 8xxx——其他元素。在 2xxx 至 8xxx 合金组中，合金牌号的第二位数字表示合金变型：第二位为零表示原始合金，1 至 9 表示合金变型。牌号四位数字中的最后两位用来说明该组内不同的合金。
 
-#### 固溶热处理
-
-温度 固溶热处理所用温度随合金而异，范围为 825 °F 至 980 °F。一般来说，必须把温度控制在很窄的范围内（±10 °F）才能获得规定性能。
-
-温度太低则不能获得最大强度。温度过高则有熔化某些合金中低熔点组分的危险，从而使合金的物理性能下降。即使不发生熔化，使用高于推荐温度也会促进变色并增大淬火应变。
-
-保温时间 在温度下的时间称为保温时间，从最冷金属达到所需温度范围下限时算起。保温时间随合金和厚度而异，薄板为 10 分钟，重型锻件约为 12 小时。对于厚截面，名义保温时间约为每英寸横截面厚度 1 小时。
-
-应选择获得所需物理性能所需的最短保温时间。保温时间不足的后果是明显的；保温时间过长则会加剧高温氧化。对于包铝材料，长时间加热会使铜和其他可溶组分过度扩散到保护性包覆层中，可能使包覆失去作用。
-
-可溶组分进入固溶体后，材料即被淬火，以防止或延缓立即再析出。淬火方法有三种，具体采用哪一种取决于零件、合金和所需性能。
-
-冷水淬火 由薄板、挤压件、管材、小锻件及类似材料制成的零件一般在冷水槽中淬火。淬火前水温不应超过 85 °F。
-
-使用足够的水量可使温升保持在 20 °F 以内。这种剧烈淬火可确保最大的耐蚀性。加工 2017、2024 和 7075 等合金时这一点尤其重要。这就是为什么即使较慢的淬火也能产生所需的力学性能，仍优先采用剧烈淬火的原因。
-
-热水淬火 大型锻件和厚截面件可在热水或沸水中淬火。这种淬火可最大限度减少变形，并减轻淬火中因温度不均而产生的开裂。这些零件允许用热水淬火，因为淬火水温对锻件合金的耐蚀性没有关键影响。此外，厚截面的耐蚀性不如薄截面那样关键。
-
-喷液淬火 高速水喷适用于由包铝薄板制成的零件以及几乎所有合金的大型截面。这种淬火也能最大限度减少变形并减轻淬火开裂。不过，许多规范禁止对裸 2017 和 2024 薄板材料使用喷液淬火，因为会影响其耐蚀性。
-
 #### 合金元素的作用
 
 1000 系列：含铝 99% 或更高，耐蚀性优良，导热导电性高，力学性能低，可加工性优良。铁和硅是主要杂质。
@@ -1176,6 +1020,20 @@ Inconel 是一种镍铬铁合金，外观与不锈钢（耐蚀钢，CRES）非�
 
 7000 系列：锌是主要合金元素。该系列最常用的合金是 6061。与镁配合时可形成强度很高的可热处理强化合金。通常还加入铜和铬。该组的主要合金是 7075。
 
+#### 硬度标识
+
+凡使用时，回火状态代号跟在合金牌号之后，并用短横线隔开（如 7075-T6、2024-T4 等）。回火代号由一个字母组成，表示基本回火状态，可通过加一位或多位数字作更具体的规定。这些代号如下：
+
+• O——退火、再结晶（仅变形产品）
+
+• H——应变硬化
+
+• H1（加一位或多位数字）——仅应变硬化
+
+• H2（加一位或多位数字）——应变硬化并部分退火
+
+• H3（加一位或多位数字）——应变硬化并稳定化。H1、H2、H3 代号后的数字表示应变硬化程度：数字 8 表示完全退火后经约 75% 冷压下所达到的极限抗拉强度，0 表示退火状态。
+
 #### 镁及镁合金
 
 镁是世界上最轻的结构金属，呈银白色，重量仅为铝的三分之二。纯镁的强度不足以用作结构材料，但与锌、铝、锰合金化后，可得到常用金属中强度重量比最高的合金。
@@ -1187,18 +1045,6 @@ Inconel 是一种镍铬铁合金，外观与不锈钢（耐蚀钢，CRES）非�
 镁合金具有良好的铸造特性，其性能与铸铝相当。锻造时通常使用液压机，但在某些条件下也可用机械压力机或落锤进行锻造。
 
 镁合金可进行退火、淬火、固溶热处理、时效和稳定化等处理。镁板和镁片在轧制厂进行退火。固溶热处理用于使尽可能多的合金成分溶入固溶体，从而获得高抗拉强度和最大延展性。时效用于热处理后的铸件，在需要获得最高硬度和屈服强度时使用。
-
-钛在弹性、密度和高温强度方面介于铝和不锈钢之间。其熔点为 2,730 °F 至 3,155 °F，导热性低，膨胀系数小。它轻、强度高，并能抵抗应力腐蚀开裂。钛比铝约重 60%，比不锈钢约轻 50%。
-
-由于钛的熔点高，其高温性能反而令人失望。钛的极限屈服强度在 800 °F 以上迅速下降。在 1,000 °F 以上从空气中吸收氧和氮，会使金属在长时间暴露后变得很脆，很快报废。不过，在温度不超过 3,000 °F 且强度要求不高的短时使用场合，钛仍有一定价值。飞机防火墙就要求这一特性。
-
-钛无磁性，电阻与不锈钢相当。某些钛基合金相当硬。热处理和合金化不能使钛的硬度达到某些热处理钢合金那样的高水平。可热处理强化的钛合金只是最近才研制出来的。在这种合金出现之前，加热和轧制是唯一能进行的成形方法。不过，现在已可先将新合金在软态下成形，再通过热处理使其硬化。
-
-铁、钼和铬用于稳定钛，并产生可淬火硬化和时效硬化的合金。加入这些金属还能提高延展性。钛的抗疲劳性优于铝或钢。
-
-钛的纯度越高，质地越软。通过化学分析来区分各种工业纯钛或非合金钛并不实际，因此其牌号由力学性能确定。
-
-钛的牌号 钛合金的 A-B-C 分类法是为了提供一种方便而简单地描述所有钛合金的方法而建立的。钛及钛合金具有三种基本晶体类型：A（α）、B（β）和 C（α 与 β 混合）。
 
 镁具有难以预测的火灾危险性。大块镁的导热性高，难以点燃，也不易燃烧，直到达到 1,204 °F 的熔点才燃烧。但镁粉和细屑很容易点燃，应尽可能采取预防措施避免。若发生火灾，可用滑石粉或石墨等灭火粉扑灭。水或任何标准液体、泡沫灭火器都会使镁燃烧更快，并可能引起爆炸。
 
@@ -1216,23 +1062,17 @@ Inconel 是一种镍铬铁合金，外观与不锈钢（耐蚀钢，CRES）非�
 
 钛用于制造压气机盘、隔圈、压气机叶片和导向叶片、贯穿螺栓、涡轮机匣。钛表面的自然氧化膜以及金属间的电偶作用受到天然限制。这在一定程度上解释了它对多种化学品的良好耐蚀性；此外，该材料可与某些异种金属配合使用，而对双方都不产生有害的电偶效应。
 
-#### 铜及铜合金
+钛在弹性、密度和高温强度方面介于铝和不锈钢之间。其熔点为 2,730 °F 至 3,155 °F，导热性低，膨胀系数小。它轻、强度高，并能抵抗应力腐蚀开裂。钛比铝约重 60%，比不锈钢约轻 50%。
 
-铜是分布最广的金属之一。它是唯一呈红色的金属，导电性仅次于银。由于比重大，铜作为结构材料的用途有限。不过，其某些突出特性（如高导电性和高导热性）在许多场合下足以抵消重量因素。
+由于钛的熔点高，其高温性能反而令人失望。钛的极限屈服强度在 800 °F 以上迅速下降。在 1,000 °F 以上从空气中吸收氧和氮，会使金属在长时间暴露后变得很脆，很快报废。不过，在温度不超过 3,000 °F 且强度要求不高的短时使用场合，钛仍有一定价值。飞机防火墙就要求这一特性。
 
-由于铜的可锻性和延展性很好，非常适合制线。它会被海水腐蚀，但不受淡水影响。铜的极限抗拉强度变化很大：铸铜约为 25,000 psi，冷轧或冷拉后提高到 40,000～67,000 psi 的范围。
+钛无磁性，电阻与不锈钢相当。某些钛基合金相当硬。热处理和合金化不能使钛的硬度达到某些热处理钢合金那样的高水平。可热处理强化的钛合金只是最近才研制出来的。在这种合金出现之前，加热和轧制是唯一能进行的成形方法。不过，现在已可先将新合金在软态下成形，再通过热处理使其硬化。
 
-在飞机上，铜主要用于电气系统的汇流条、搭接和保险丝。
+铁、钼和铬用于稳定钛，并产生可淬火硬化和时效硬化的合金。加入这些金属还能提高延展性。钛的抗疲劳性优于铝或钢。
 
-铍铜是所有铜基合金中最成功的一种。它是一种新近开发的合金，含约 97% 铜、2% 铍，并含足够的镍以提高伸长率百分比。这种金属最有价值的特性是：通过热处理可使其物理性能大幅提高，抗拉强度从退火态的 70,000 psi 升至热处理态的 200,000 psi。铍铜的抗疲劳性和耐磨性使其适用于膜片、精密轴承和衬套、球保持架和弹簧垫圈。
+钛的纯度越高，质地越软。通过化学分析来区分各种工业纯钛或非合金钛并不实际，因此其牌号由力学性能确定。
 
-黄铜是含锌并含少量铝、铁、铅、锰、镁、镍、磷和锡的铜合金。含锌 30%～35% 的黄铜延展性很好，含锌 45% 的则强度相对较高。
-
-蒙茨金属（Muntz metal）是由 60% 铜和 40% 锌组成的黄铜。它在海水中具有优良的耐蚀性能。其强度可通过热处理提高。铸态时该金属的极限抗拉强度为 50,000 psi，伸长率可达 18%。它用于制造螺栓和螺母，以及接触海水的零件。
-
-红黄铜因含锡有时被称为“青铜”，用于燃油和滑油管路接头。这种金属具有良好的铸造和精加工性能，且易于切削。
-
-青铜是含锡的铜合金。真正的青铜含锡量可达 25%，但含锡低于 11% 的青铜具有三种基本晶体类型：A（α）、B（β）和 C（α 与 β 混合）。它们的特性如下：
+钛的牌号 钛合金的 A-B-C 分类法是为了提供一种方便而简单地描述所有钛合金的方法而建立的。钛及钛合金具有三种基本晶体类型：A（α）、B（β）和 C（α 与 β 混合）。
 
 • A（α）——综合性能好；焊接性良好；冷态和热态下均强韧；抗氧化。
 
@@ -1251,6 +1091,24 @@ A-110AT 型钛合金含 5% 铝和 2.5% 锡。它还具有高温下高的最小�
 钛的腐蚀是均匀的。几乎看不到点蚀或其他严重局部腐蚀的迹象。通常它不产生应力腐蚀、腐蚀疲劳、晶间腐蚀或电偶腐蚀。其耐蚀性等于或优于 18-8 不锈钢。
 
 酸和盐溶液的实验室试验表明钛容易极化，其净效应通常是降低电偶电池和腐蚀电池中的电流。钛在航空管路接头等零件上特别有用。
+
+#### 铜及铜合金
+
+铜是分布最广的金属之一。它是唯一呈红色的金属，导电性仅次于银。由于比重大，铜作为结构材料的用途有限。不过，其某些突出特性（如高导电性和高导热性）在许多场合下足以抵消重量因素。
+
+由于铜的可锻性和延展性很好，非常适合制线。它会被海水腐蚀，但不受淡水影响。铜的极限抗拉强度变化很大：铸铜约为 25,000 psi，冷轧或冷拉后提高到 40,000～67,000 psi 的范围。
+
+在飞机上，铜主要用于电气系统的汇流条、搭接和保险丝。
+
+铍铜是所有铜基合金中最成功的一种。它是一种新近开发的合金，含约 97% 铜、2% 铍，并含足够的镍以提高伸长率百分比。这种金属最有价值的特性是：通过热处理可使其物理性能大幅提高，抗拉强度从退火态的 70,000 psi 升至热处理态的 200,000 psi。铍铜的抗疲劳性和耐磨性使其适用于膜片、精密轴承和衬套、球保持架和弹簧垫圈。
+
+黄铜是含锌并含少量铝、铁、铅、锰、镁、镍、磷和锡的铜合金。含锌 30%～35% 的黄铜延展性很好，含锌 45% 的则强度相对较高。
+
+蒙茨金属（Muntz metal）是由 60% 铜和 40% 锌组成的黄铜。它在海水中具有优良的耐蚀性能。其强度可通过热处理提高。铸态时该金属的极限抗拉强度为 50,000 psi，伸长率可达 18%。它用于制造螺栓和螺母，以及接触海水的零件。
+
+红黄铜因含锡有时被称为“青铜”，用于燃油和滑油管路接头。这种金属具有良好的铸造和精加工性能，且易于切削。
+
+青铜是含锡的铜合金。真正的青铜含锡量可达 25%，但含锡低于 11% 的青铜具有三种基本晶体类型：A（α）、B（β）和 C（α 与 β 混合）。它们的特性如下：
 
 铜合金中包括铜铝合金，其中铝青铜在航空应用中的地位很高。若不是与合金钢相比强度重量比不占优势，它们在结构中会有更大用途。变形铝青铜的强度和延展性几乎与中碳钢相当，并且对空气、海水和化学品的腐蚀有很高的抵抗力。它们易于锻造、热轧或冷轧，许多还能对热处理作出响应。
 
@@ -1279,6 +1137,12 @@ K-蒙乃尔已成功用于飞机中承受腐蚀的齿轮和结构件。这种合
 Inconel 镍合金是一种高强度、高温合金，含约 80% 镍、14% 铬和少量铁及其他元素。镍 Inconel 合金因其在极高温度条件下保持强度和耐蚀性的能力，常用于涡轮发动机。
 
 Inconel 与不锈钢外观相似，且常出现在发动机的相同部位，因此有时需要辨识金属样品之间的差异。常用试验是在未知金属上滴一滴氯化铜和盐酸溶液，静置 2 分钟。浸泡结束时，出现发亮斑点表明材料是镍 Inconel，出现铜色斑点表明是不锈钢。
+
+### 航空金属的代用
+
+在选用代用金属进行飞机修理和维护时，查阅相应的结构修理手册非常重要。飞机制造商按飞机的特定载荷要求设计结构件。这些结构件的修理方法虽然构造上看似相似，但随机型不同而异。
+
+选择代用金属时必须牢记四项要求。第一项也是最重要的一项，是保持结构的原有强度。其余三项是：保持外形或气动光洁度；尽可能保持原有重量，或将增加的重量减到最小；保持金属原有的耐蚀性能。
 
 ### 金属加工工艺
 
@@ -1412,6 +1276,10 @@ Inconel 与不锈钢外观相似，且常出现在发动机的相同部位，因
 
 淬火槽相对于热处理炉的位置非常重要。应将槽布置在便于把零件从炉中迅速转移到淬火介质的位置。在很多情况下，延迟超过几秒钟就会损害热处理效果。向淬火槽转移时，对薄截面材料应使用护板以延缓热量损失。若淬火槽不能充分去除盐，应设置漂洗槽，在淬火后去除材料上的全部盐。
 
+### 黑色金属的热处理
+
+钢件热处理首先要考虑的是了解其化学成分，这又决定了它的上临界点。知道上临界点后，接下来要考虑的是加热和冷却速度。进行这些操作需要使用加热均匀的炉子、适当的温度控制和合适的淬火介质。
+
 #### 钢在加热与冷却中的行为
 
 改变黑色金属内部组织的方法是：将金属加热到上临界点以上，在该温度保持足够时间使某些内部变化发生，然后在预定的受控条件下冷却到大气温度。
@@ -1470,10 +1338,6 @@ Inconel 与不锈钢外观相似，且常出现在发动机的相同部位，因
 
 各类钢的淬火温度和淬火介质参见相关数据表。
 
-### 黑色金属的热处理
-
-钢件热处理首先要考虑的是了解其化学成分，这又决定了它的上临界点。知道上临界点后，接下来要考虑的是加热和冷却速度。进行这些操作需要使用加热均匀的炉子、适当的温度控制和合适的淬火介质。
-
 #### 淬火注意事项
 
 需要各种不同形状和尺寸的钳子来夹持热钢。应记住，钳子接触部位冷却较慢，这些部位可能淬不硬，尤其当处理的钢淬透性很浅时。小零件可捆扎在一起，或放在丝网篮中淬火。
@@ -1521,6 +1385,82 @@ Inconel 与不锈钢外观相似，且常出现在发动机的相同部位，因
 由于渗氮时零件表面硬化的温度低，且暴露于氨气后无需淬火，因此渗氮可在变形极小的情况下完成。
 
 ### 有色金属的热处理
+
+#### 铝合金
+
+变形形式的工业纯铝称为 1100。它具有很高的耐蚀性，易于成形为复杂形状。其强度相对较低，不具备航空结构件所需的性能。合金化通常可获得高强度。所得合金较难成形，且除少数例外，耐蚀性低于 1100 铝。
+
+合金化并不是提高铝强度的唯一方法。与其他材料一样，铝在轧制、成形或其他冷作加工后会变得更强更硬。
+
+由于硬度取决于冷作量，1100 和一些变形铝合金有几种应变硬化状态可供选择。软态或退火态用 O 表示。若材料经应变硬化，则称为处于 H 状态。
+
+飞机制造中应用最广的合金是通过热处理而非冷作硬化的。这些合金用一套略有不同的符号表示：T4 和 W 表示固溶热处理并淬火但未时效，T6 表示处于热处理硬化状态的合金。
+
+• W——固溶热处理，不稳定状态
+
+• T——处理成除 F、O 或 H 以外的稳定状态
+
+• T2——退火（仅铸件）
+
+• T3——固溶热处理后冷作
+
+• T4——固溶热处理
+
+• T5——仅人工时效
+
+• T6——固溶热处理后人工时效
+
+• T7——固溶热处理后稳定化
+
+• T8——固溶热处理、冷作后人工时效
+
+• T9——固溶热处理、人工时效后冷作
+
+• T10——人工时效后冷作。可在 T1 至 T10 后加数字，表示显著改变产品特性的处理变型。
+
+铝合金薄板大约每平方英尺都标有规范号。若因故材料上没有此标识，可把材料样品浸入 10% 烧碱（氢氧化钠）溶液，以区分可热处理强化合金与不可热处理强化合金。可热处理强化合金因含铜而变黑，其他合金仍保持光亮。对于包铝材料，表面保持光亮，但从边缘观察时中部有暗区。
+
+#### 包铝铝合金
+
+“Alclad”和“Pureclad”这两个术语用于表示由铝合金芯部两面各包覆约 5.5% 厚度纯铝层而构成的薄板。纯铝包覆层对芯部提供双重保护：既防止与任何腐蚀介质接触，又通过防止划伤或其他擦伤引起的侵蚀而对芯部提供电解保护。
+
+适用于铝合金的热处理有两类：固溶热处理和析出热处理。某些合金（如 2017 和 2024）通过固溶热处理后在室温时效约 4 天即可获得全部性能。其他合金（如 2014 和 7075）需要两种热处理。
+
+需要析出热处理（人工时效）才能获得全部强度的合金，在室温下也会有一定程度的时效；强化速度和程度取决于合金。有些合金在几天内达到最大的自然（室温）时效强度，标记为 -T4 或 -T3 状态；另一些则在长时期内继续明显时效。
+
+由于存在这种自然时效，只有在注明时效时间时才使用 -W 代号，例如 7075-W（1/2 小时）。因此，新淬火（-W）材料与处于 -T3 或 -T4 状态的材料在力学和物理性能上有很大差异。
+
+铝合金通过热处理硬化包括四个不同步骤：
+
+1. 加热到预定温度。
+
+2. 在温度下保温规定时间。
+
+3. 快速淬火到相对较低的温度。
+
+4. 在室温自发时效，或通过低温热处理的时效（析出硬化）。
+
+上述前三个步骤称为固溶热处理，尽管通常简称为“热处理”。室温硬化称为自然时效，而在中等温度下进行的硬化称为人工时效或析出热处理。
+
+#### 固溶热处理
+
+温度 固溶热处理所用温度随合金而异，范围为 825 °F 至 980 °F。一般来说，必须把温度控制在很窄的范围内（±10 °F）才能获得规定性能。
+
+温度太低则不能获得最大强度。温度过高则有熔化某些合金中低熔点组分的危险，从而使合金的物理性能下降。即使不发生熔化，使用高于推荐温度也会促进变色并增大淬火应变。
+
+保温时间 在温度下的时间称为保温时间，从最冷金属达到所需温度范围下限时算起。保温时间随合金和厚度而异，薄板为 10 分钟，重型锻件约为 12 小时。对于厚截面，名义保温时间约为每英寸横截面厚度 1 小时。
+
+应选择获得所需物理性能所需的最短保温时间。保温时间不足的后果是明显的；保温时间过长则会加剧高温氧化。对于包铝材料，长时间加热会使铜和其他可溶组分过度扩散到保护性包覆层中，可能使包覆失去作用。
+
+可溶组分进入固溶体后，材料即被淬火，以防止或延缓立即再析出。淬火方法有三种，具体采用哪一种取决于零件、合金和所需性能。
+
+冷水淬火 由薄板、挤压件、管材、小锻件及类似材料制成的零件一般在冷水槽中淬火。淬火前水温不应超过 85 °F。
+
+使用足够的水量可使温升保持在 20 °F 以内。这种剧烈淬火可确保最大的耐蚀性。加工 2017、2024 和 7075 等合金时这一点尤其重要。这就是为什么即使较慢的淬火也能产生所需的力学性能，仍优先采用剧烈淬火的原因。
+
+热水淬火 大型锻件和厚截面件可在热水或沸水中淬火。这种淬火可最大限度减少变形，并减轻淬火中因温度不均而产生的开裂。这些零件允许用热水淬火，因为淬火水温对锻件合金的耐蚀性没有关键影响。此外，厚截面的耐蚀性不如薄截面那样关键。
+
+喷液淬火 高速水喷适用于由包铝薄板制成的零件以及几乎所有合金的大型截面。这种淬火也能最大限度减少变形并减轻淬火开裂。不过，许多规范禁止对裸 2017 和 2024 薄板材料使用喷液淬火，因为会影响其耐蚀性。
 
 #### 保温与淬火之间的间隔
 
@@ -1645,6 +1585,66 @@ Inconel 与不锈钢外观相似，且常出现在发动机的相同部位，因
 非合金钛不能热处理，但飞机制造中常用的合金可通过热处理强化，通常要以延展性有所下降为代价。为获得最佳效果，建议自 1,450 °F 水淬，然后重新加热到 900 °F 保温 8 小时。
 
 钛的化学活性及其在相对较低温度下对氧、氮和碳的快速吸收，使表面硬化对某些特殊应用具有优势。可采用渗氮、渗碳或碳氮共渗，形成深度为 0.0001 至 0.0002 英寸的耐磨表层。
+
+### 硬度试验
+
+硬度试验是测定热处理结果以及金属热处理前状态的一种方法。由于硬度值可与抗拉强度值相关联，并部分地与耐磨性相关联，硬度试验是检验热处理控制和材料性能的有价值手段。
+
+目前几乎所有硬度试验设备都以抗压入能力作为硬度的量度。较著名的硬度试验机中包括布氏和洛氏试验机，本节将对二者加以说明和图示。此外还有巴柯尔试验机，这是一种目前广泛使用的便携式硬度试验机。
+
+布氏硬度试验机使用一个淬硬钢球压入金属表面。该球直径 10 毫米（0.3937 英寸）。黑色金属采用 3,000 公斤压力，有色金属采用 500 公斤压力。黑色金属的压力须保持至少 10 秒，有色金属至少 30 秒。载荷由液压施加。手泵或电动机（取决于试验机型号）建立液压。压力表指示压力大小。试验后有卸压机构，并配有校准显微镜以毫米为单位测量压痕直径。机器有各种形状的砧座用于支承试样，以及升降螺杆使试样与球压头接触。这些是用于特殊试验的附件。
+
+要确定金属的布氏硬度值，用试验机所带校准显微镜测量压痕直径，然后在试验机所带的换算表上将测量值换算为布氏硬度值。
+
+#### 洛氏试验机
+
+洛氏硬度试验机与布氏试验机一样测量抗压入能力。洛氏试验机不测量压痕直径，而是测量深度，硬度直接显示在机器所附刻度盘上。刻度盘外圈数字为黑色，内圈数字为红色。洛氏硬度值以主载荷与初载荷下压入深度之差为基础。差值越大，硬度值越低，材料越软。
+
+洛氏试验机使用两种压头：金刚石圆锥和淬硬钢球。使压头压入金属的载荷称为主载荷，以公斤计量。每种压头与载荷组合的结果分别在以字母标示的不同标尺上报告。压头、主载荷和标尺随所试金属种类而异。
+
+对于淬硬钢，使用金刚石压头，主载荷为 150 公斤，硬度在“C”标尺上读取。记录该读数时，字母“C”必须置于指针所示数字之前。C 标尺用于试验硬度从 C-20 到最硬钢（通常约 C-70）的金属。若金属比 C-20 软，则使用 B 标尺。该配置使用 1/16 英寸钢球作压头，主载荷为 100 公斤，硬度在 B 标尺上读取。
+
+除 C 和 B 标尺外，还有其他用于特殊试验的配置。各标尺、压头、主载荷及应读刻度盘数字列于相关数据表。
+
+洛氏试验机配有砝码盘，机器附有两个砝码。一个砝码标红色，另一个标黑色。砝码盘内不放砝码时，机器施加 60 公斤主载荷。若标尺配置要求 100 公斤载荷，则将红砝码放入盘中。若需 150 公斤载荷，则在红砝码上加黑砝码。黑砝码总是与红砝码一起使用，绝不单独使用。
+
+几乎所有试验都用 B 标尺或 C 标尺配置进行。对这些标尺，颜色可作为选择砝码和读取刻度盘的指南。B 标尺试验使用红砝码并读红色数字；C 标尺试验则在红砝码上加黑砝码并读黑色数字。
+
+设置洛氏试验机时，对已知为硬的材料使用金刚石压头。若硬度未知，先试用金刚石，因为用钢球试验硬材料可能使钢球变形。若金属试验值低于 C-22，则改用钢球。
+
+对所有软材料（试验值低于 B-100 者）使用钢球。若在 B 标尺上端与 C 标尺下端出现重叠，则使用 C 标尺配置。
+
+施加主载荷前，应将试样牢固锁定到位，以防滑动，并使砧座和压头正确就位。为此，在扳动杠杆前施加 10 公斤载荷。这一预载荷称为初载荷。无论标尺配置如何，初载荷均为 10 公斤。
+
+在洛氏试验机上试验的金属必须在两个相对面磨平，且无划痕和异物。表面应垂直于压入轴线，两个相对的磨光面应平行。若试样有锥度，误差大小取决于锥度。曲面也会使硬度试验产生轻微误差，误差大小取决于曲率（曲率半径越小，误差越大）。为消除这种误差，如有可能应在曲面上磨出一个小平面。
+
+包铝铝合金薄板不能用洛氏硬度试验机直接准确试验。若需要基体金属的硬度值，必须在试验前去除待检部位的纯铝包覆层。
+
+巴柯尔试验机是一种便携式仪器，用于试验铝合金、铜、黄铜或其他相对较软的材料。不应用于航空钢。该试验机的近似范围为 25 至 100 布氏硬度。该仪器可用于任何位置，以及能容纳操作者手部的任何空间。它在装配件或已安装零件的硬度试验中很有价值，尤其用于检查热处理是否正确。硬度显示在便于读数的、分为 100 格的刻度盘上。
+
+巴柯尔试验机的设计使操作者无需经验。只需对仪器施加轻微压力，将弹簧加载的压针压入待试材料，硬度读数即显示在刻度盘上。
+
+铝合金的若干典型读数以巴柯尔值列出。为防止损坏压针，在其接触被试材料时避免滑动或刮擦。若压针损坏，必须更换新针，切勿试图修磨压针。
+
+每台试验机都配有一个测试盘，用于检查压针状态。检查时，将仪器向下压到测试盘上。当向下的压力使下柱塞导套端部接触盘面时，指示读数应在测试盘所示范围内。
+
+锻造是通过锤击或压制使产品成形的工艺。材料在再结晶温度以下锻造时称为冷锻；在再结晶温度以上加工时称为热锻。落锤锻造是一种锤击工艺，将热钢锭放在落锤机的成对成形模具之间，数吨重的重锤落到上模上，使热金属被迫形成模具的形状。由于该过程非常迅速，金属晶粒组织发生改变，使成品零件的强度显著提高。
+
+铸造是将金属熔化并浇入所需形状的铸型而成形。由于金属不发生塑性变形，晶粒形状或取向不可能改变。冷却速度、金属的合金成分和热处理可控制金属的晶粒度。铸件通常比同材料的变形产品强度低、更脆。对于形状复杂或带有内部通道的零件（如涡轮叶片），铸造可能是最经济的工艺。除发动机零件外，飞机上大多数金属构件是变形件而非铸件。
+
+所有金属产品都以铸锭形式开始。变形金属是由铸锭经塑性变形转变而来。对于高强度铝合金，需要 80%～90% 的压下量（厚度尺寸变化）才能获得完全变形组织的高力学性能。
+
+铁合金和铝合金都用于航空铸造。铸铁含 6%～8% 的碳和硅。
+
+铸铁是一种硬而不可锻的生铁，通过浇入铸型制成。铸造铝合金经加热到熔融状态并浇入铸型以获得所需形状。
+
+挤压工艺是将金属从模具开口中挤出，使金属形成模具开口的形状。模具形状即角材、槽材、管材或其他形状的横截面。某些金属（如铅、锡和铝）可冷挤压，不过大多数金属在挤压前都要加热。挤压工艺的主要优点是灵活。例如，由于铝的加工性好，可以经济地挤压出比其他金属更复杂、尺寸更大的形状。
+
+挤压型材可制成非常简单以及极其复杂的截面。在此工艺中，例如将铝圆柱锭加热到 750～850 °F，然后由液压柱塞经模具开口挤出。开口形状即成品挤压件的横截面形状。挤压工艺可成形许多结构件，如槽材、角材、T 形件和 Z 形件。
+
+铝是飞机上挤压加工最多的金属。铝的挤压温度为 700～900 °F（371～482 °C），需要高达 80,000 psi（552 MPa）的压力。挤压后，产品常经热加工和机械加工以获得所需性能。挤压工艺限于延展性较好的材料。
+
+（原文此处为表格碎片，无对应正文）
 
 ## 3. 专业词汇
 

@@ -10,34 +10,6 @@ An aircraft, even though made of the best materials and strongest parts, would b
 
 Their specification number or trade name identifies most items of aircraft hardware. Threaded fasteners and rivets are identified by AN (Air Force-Navy) numbers, NAS (National Aircraft Standard) numbers, or MS (Military Standard) numbers. Quick-release fasteners are usually identified by factory trade names and size designations.
 
-#### Identification and Coding
-
-Bolts are manufactured in many shapes and varieties. A clear-cut method of classification is difficult. The shape of the head, method of securing, material used in fabrication, or the expected usage can identify bolts.
-
-AN-type aircraft bolts can be identified by the code markings on the bolt heads. The markings generally denote the bolt manufacturer, the material used to make the bolt, and whether the bolt is a standard AN-type or a special purpose bolt.
-
-• AN st andard steel bolts are marked with either a raised dash or asterisk or a single raised dash.
-
-• AN aluminum-alloy bolts are marked with two raised dashes to indicate corrosion-resistant steel.
-
-• Additional information, such as bolt diameter, bolt length, and grip length, may be obtained from the bolt part number.
-
-For example, in the bolt part number AN3DD5A,
-
-• The “AN” designates that it is an Air Force-Navy standard bolt.
-
-• The “3” indicates the diameter in sixteenths of an inch (3⁄16).
-
-• The “DD” indicates the material is 2024 aluminum alloy.
-
-• The letter “C” in place of the “DD” would indicate corrosion-resistant steel, and the absence of the letters would indicate cadmium-plated steel.
-
-• The “5” indicates the length in eighths of an inch (5⁄8).
-
-• the “A” indicates that the shank is undrilled. If the letter “H” preceded the “5” in addition to the “A” following it, the head would be drilled for safetying.
-
-Close tolerance NAS bolts are marked with either a raised or recessed triangle. The material markings for NAS bolts are the same as for AN bolts, except that they may be either raised or recessed. Bolts inspected magnetically (Magnaflux) or by fluorescent means (Zyglo) are identified by means of colored lacquer or a head marking of a distinctive type.
-
 ### Threaded Fasteners
 
 Various types of fastening devices allow quick dismantling or replacement of aircraft parts that must be taken apart and put back together at frequent intervals. Riveting or welding these parts each time they are serviced would soon weaken or ruin the joint. Furthermore, some joints require greater tensile strength and stiffness than rivets can provide. Bolts and screws are two types of fastening devices that give the required security of attachment and rigidity. Generally, bolts are used where great strength is required, and screws are used where strength is not the deciding factor. Bolts and screws are similar in many ways. They are both used for fastening or holding, and each has a head on one end and screw threads on the other. Regardless of these similarities, there are several distinct differences between the two types of fasteners. The threaded end of a bolt is always blunt while that of a screw may be either blunt or pointed.
@@ -94,6 +66,34 @@ Close tolerance bolts are machined more accurately than the general-purpose bolt
 
 Internal wrenching bolts, (MS-20004 through MS-20024 or NAS-495) are fabricated from high-strength steel and are suitable for use in both tension and shear applications. When they are used in steel parts, the bolt hole must be slightly countersunk to seat the large corner radius of the shank at the head. In Dural material, a special heat-treated washer must be used to provide an adequate bearing surface for the head. The head of the internal wrenching bolt is recessed to allow the insertion of an internal wrench when installing or removing the bolt. Special high-strength nuts are used on these bolts. Replace an internal wrenching bolt with another internal wrenching bolt. Standard AN hex head bolts and washers cannot be substituted for them, as they do not have the required strength.
 
+#### Identification and Coding
+
+Bolts are manufactured in many shapes and varieties. A clear-cut method of classification is difficult. The shape of the head, method of securing, material used in fabrication, or the expected usage can identify bolts.
+
+AN-type aircraft bolts can be identified by the code markings on the bolt heads. The markings generally denote the bolt manufacturer, the material used to make the bolt, and whether the bolt is a standard AN-type or a special purpose bolt.
+
+• AN st andard steel bolts are marked with either a raised dash or asterisk or a single raised dash.
+
+• AN aluminum-alloy bolts are marked with two raised dashes to indicate corrosion-resistant steel.
+
+• Additional information, such as bolt diameter, bolt length, and grip length, may be obtained from the bolt part number.
+
+For example, in the bolt part number AN3DD5A,
+
+• The “AN” designates that it is an Air Force-Navy standard bolt.
+
+• The “3” indicates the diameter in sixteenths of an inch (3⁄16).
+
+• The “DD” indicates the material is 2024 aluminum alloy.
+
+• The letter “C” in place of the “DD” would indicate corrosion-resistant steel, and the absence of the letters would indicate cadmium-plated steel.
+
+• The “5” indicates the length in eighths of an inch (5⁄8).
+
+• the “A” indicates that the shank is undrilled. If the letter “H” preceded the “5” in addition to the “A” following it, the head would be drilled for safetying.
+
+Close tolerance NAS bolts are marked with either a raised or recessed triangle. The material markings for NAS bolts are the same as for AN bolts, except that they may be either raised or recessed. Bolts inspected magnetically (Magnaflux) or by fluorescent means (Zyglo) are identified by means of colored lacquer or a head marking of a distinctive type.
+
 #### Special-Purpose Bolts
 
 Bolts designed for a particular application or use is classified as special-purpose bolts. Clevis bolts, eyebolts, Jo-bolts, and lockbolts are special-purpose bolts.
@@ -126,8 +126,6 @@ Orange-dyed magnetically inspected AN bolts and nuts. A special pneumatic “pul
 
 Stump Type Stump-type lockbolts, although they do not have the extended stem with pull grooves, are companion fasteners to pull-type lockbolts. They are used primarily where clearance does not permit installation of the pull-type lockbolt. A standard pneumatic riveting hammer (with a hammer set attached for swaging the collar into the pin locking grooves) and a bucking bar are tools necessary for the installation of stump-type lockbolts.
 
-Pull type Stump type Blind type Blind Type Blind-type lockbolts come as complete units or assemblies. They have exceptional strength and sheet pull-together characteristics. Blind lockbolts are used where only one side of the work is accessible and, generally, where it is difficult to drive a conventional rivet. This type of lockbolt is installed in the same manner as the pull-type lockbolt.
-
 Common Features Common features of the three types of lockbolts are the annular locking grooves on the pin and the locking collar, which is swaged into the pin’s lock grooves to lock the pin in tension. The pins of the pull-type and blind-type lockbolts are extended for pull installation. The extension is provided with pulling grooves and a tension breakoff groove.
 
 Composition The pins of pull-type and stump-type lockbolts are made of heat-treated alloy steel or high-strength aluminum alloy. Companion collars are made of aluminum alloy or mild steel. The blind lockbolt consists of a heat-treated alloy steel pin, blind sleeve and filler sleeve, mild steel collar, and carbon steel washer.
@@ -142,6 +140,8 @@ When installed, the lockbolt collar should be swaged substantially throughout th
 
 When removal of a lockbolt becomes necessary, remove the collar by splitting it axially with a sharp, cold chisel. Be careful not to break out or deform the hole. The use of a backup bar on the opposite side of the collar being split is recommended. The pin may then be driven out with a drift punch.
 
+Pull type Stump type Blind type Blind Type Blind-type lockbolts come as complete units or assemblies. They have exceptional strength and sheet pull-together characteristics. Blind lockbolts are used where only one side of the work is accessible and, generally, where it is difficult to drive a conventional rivet. This type of lockbolt is installed in the same manner as the pull-type lockbolt.
+
 ## 2. 中文翻译
 
 航空硬件是指用于飞机制造和修理的各种紧固件及杂项小件。航空硬件因尺寸小而常被忽视；然而，任何飞机的安全高效运行都在很大程度上取决于航空硬件的正确选择与使用。
@@ -149,34 +149,6 @@ When removal of a lockbolt becomes necessary, remove the collar by splitting it 
 一架飞机，即使由最好的材料和最强的零件制成，除非这些零件被牢固地连接在一起，否则其价值也是可疑的。连接金属零件有几种方法，包括铆接、螺栓连接、钎焊和焊接。所用工艺必须产生与所连接零件同等强度的连接。
 
 大多数航空硬件项目由其规范号或商品名来识别。螺纹紧固件和铆钉由 AN（空军-海军）号、NAS（国家航空标准）号或 MS（军用标准）号识别。快卸紧固件通常由工厂商品名和尺寸代号识别。
-
-#### 识别与编码
-
-螺栓的制造形状和品种繁多，难以采用清晰的分类方法。可通过头部形状、固定方式、制造材料或预期用途来识别螺栓。
-
-AN 型飞机螺栓可通过螺栓头上的编码标记识别。这些标记通常表示螺栓制造厂、制造螺栓所用材料，以及该螺栓是标准 AN 型还是专用螺栓。
-
-• AN 标准钢制螺栓标有一道凸起的短划或星号，或一道凸起的短划。
-
-• AN 铝合金螺栓标有两道凸起短划，以表示耐蚀钢。
-
-• 附加信息，如螺栓直径、螺栓长度和夹持长度，可从螺栓件号中获得。
-
-例如，在螺栓件号 AN3DD5A 中：
-
-• “AN”表示它是空军-海军标准螺栓。
-
-• “3”表示直径，单位为 1/16 英寸（3/16）。
-
-• “DD”表示材料为 2024 铝合金。
-
-• 若用字母“C”取代“DD”，则表示耐蚀钢；若完全没有字母，则表示镀镉钢。
-
-• “5”表示长度，单位为 1/8 英寸（5/8）。
-
-• “A”表示杆部未钻孔。若在“5”之前有字母“H”，而在其后有“A”，则头部会钻有保险孔。
-
-紧公差 NAS 螺栓标有凸起或凹下的三角形。NAS 螺栓的材料标记与 AN 螺栓相同，只是可以凸起或凹下。经磁力检查（Magnaflux）或荧光检查（Zyglo）的螺栓，用彩色漆或独特型式的头部标记来识别。
 
 ### 螺纹紧固件
 
@@ -234,6 +206,34 @@ AN-73 钻孔头螺栓与标准六角螺栓相似，但头部更深，并钻有�
 
 内扳手螺栓（MS-20004 至 MS-20024 或 NAS-495）由高强度钢制成，适用于拉伸和剪切两种场合。用于钢制零件时，螺栓孔必须略微锪窝，以使螺栓杆部靠近头部的大圆角贴合。在硬铝材料中，必须使用特殊的经热处理垫圈，为头部提供足够的支承面。内扳手螺栓的头部有凹槽，以便安装或拆卸时插入内扳手。这些螺栓使用特殊的高强度螺母。内扳手螺栓只能用另一个内扳手螺栓更换。标准 AN 六角头螺栓和垫圈不能替代它们，因为其强度不够。
 
+#### 识别与编码
+
+螺栓的制造形状和品种繁多，难以采用清晰的分类方法。可通过头部形状、固定方式、制造材料或预期用途来识别螺栓。
+
+AN 型飞机螺栓可通过螺栓头上的编码标记识别。这些标记通常表示螺栓制造厂、制造螺栓所用材料，以及该螺栓是标准 AN 型还是专用螺栓。
+
+• AN 标准钢制螺栓标有一道凸起的短划或星号，或一道凸起的短划。
+
+• AN 铝合金螺栓标有两道凸起短划，以表示耐蚀钢。
+
+• 附加信息，如螺栓直径、螺栓长度和夹持长度，可从螺栓件号中获得。
+
+例如，在螺栓件号 AN3DD5A 中：
+
+• “AN”表示它是空军-海军标准螺栓。
+
+• “3”表示直径，单位为 1/16 英寸（3/16）。
+
+• “DD”表示材料为 2024 铝合金。
+
+• 若用字母“C”取代“DD”，则表示耐蚀钢；若完全没有字母，则表示镀镉钢。
+
+• “5”表示长度，单位为 1/8 英寸（5/8）。
+
+• “A”表示杆部未钻孔。若在“5”之前有字母“H”，而在其后有“A”，则头部会钻有保险孔。
+
+紧公差 NAS 螺栓标有凸起或凹下的三角形。NAS 螺栓的材料标记与 AN 螺栓相同，只是可以凸起或凹下。经磁力检查（Magnaflux）或荧光检查（Zyglo）的螺栓，用彩色漆或独特型式的头部标记来识别。
+
 #### 专用螺栓
 
 为特定应用或用途设计的螺栓归类为专用螺栓。叉耳螺栓、吊环螺栓、Jo 螺栓和锁栓都是专用螺栓。
@@ -266,8 +266,6 @@ Jo 螺栓有三种头部型式：F（埋头）、P（六角头）和 FA（可铣
 
 短杆式 短杆式锁栓虽然没有带拉槽的加长杆，但它们是拉式锁栓的配套紧固件。它们主要用于间隙不允许安装拉式锁栓的场合。安装短杆式锁栓所需的工具是一把标准气动铆钉锤（配有一个用于将套环压入销锁槽的锤头）和一根顶铁。
 
-拉式 短杆式 盲式 盲式 盲式锁栓以完整单元或组件形式供应。它们具有极高的强度和夹紧板材的特性。盲式锁栓用于只能接触工件一侧的场合，一般用于难以打普通铆钉的地方。这类锁栓的安装方式与拉式锁栓相同。
-
 共同特点 三种锁栓的共同特点是销上有环形锁槽，以及一个套环，套环被压入销的锁槽中，将销以拉伸状态锁定。拉式和盲式锁栓的销为拉式安装而加长，加长部分设有拉槽和拉断槽。
 
 组成 拉式和短杆式锁栓的销由热处理合金钢或高强度铝合金制成。配套套环由铝合金或低碳钢制成。盲式锁栓由热处理合金钢销、盲套筒和填充套筒、低碳钢套环及碳钢垫圈组成。
@@ -281,6 +279,8 @@ Jo 螺栓有三种头部型式：F（埋头）、P（六角头）和 FA（可铣
 安装后，锁栓套环应在其全长上被充分压入。销断端相对套环顶面的公差必须在规定尺寸之内。
 
 当需要拆卸锁栓时，用锋利的冷凿将套环沿轴向劈开取下。注意不要使孔崩裂或变形。建议在劈开套环的对侧使用顶铁。然后可用冲子将销打出。
+
+拉式 短杆式 盲式 盲式 盲式锁栓以完整单元或组件形式供应。它们具有极高的强度和夹紧板材的特性。盲式锁栓用于只能接触工件一侧的场合，一般用于难以打普通铆钉的地方。这类锁栓的安装方式与拉式锁栓相同。
 
 ## 3. 专业词汇
 

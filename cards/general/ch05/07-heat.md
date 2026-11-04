@@ -88,8 +88,6 @@ When working with temperatures, always make sure which system of measurement is 
 
 Degrees Fahrenheit = (1.8 × Degrees Celsius) + 32 Degrees Celsius = (Degrees Fahrenheit – 32) × 5⁄9 Degrees Kelvin = Degrees Celsius + 273 Degrees Rankine = Degrees Fahrenheit + 460 For purposes of calculations, the Rankine scale is commonly used to convert Fahrenheit to absolute. For Fahrenheit readings above zero, 460° is added. Thus, 72 °F equals 460° plus 72°, or 532° absolute. If the Fahrenheit reading is below zero, it is subtracted from 460°. Thus −40 °F equals 460° minus 40°, or 420° absolute. It should be stressed that the Rankine scale does not indicate absolute temperature readings in accordance with the Kelvin scale, but these conversions may be used for the calculations of changes in Material Specific Heat Lead Mercury Brass Copper Iron or Steel Glass Alcohol Aluminum Water 0.031 0.033 0.094 0.095 0.113 0.195 0.547 0.712 1.000 100 0 −273 212 32 −460 373 273 0 672 492 0 Pure water boils Pure water freezes Celsius (centigrade)
 
-Kelvin RankineFahrenheit Molecular motion ceases at absolute zero the state of gases.
-
 The Kelvin and Centigrade scales are used more extensively in scientific work; therefore, some technical manuals may use these scales in giving directions and operating instructions. The Fahrenheit scale is commonly used in the United States, and most people are familiar with it. Therefore, the Fahrenheit scale is used in most areas of this book.
 
 ### Thermal Expansion/Contraction
@@ -105,6 +103,8 @@ If a steel rod measures exactly 9 ft at 21 °C, what is its length at 55 °C? Th
 Expansion = (1 1 × 10−6) × (9 feet) × 34° Expansion = 0.003366 feet This amount, when added to the original length of the rod, makes the rod 9.003366 ft long. Its length has only increased by 4⁄100 of an inch.
 
 The increase in the length of the rod is relatively small, but if the rod were placed where it could not expand freely, there would be a tremendous force exerted due to thermal expansion. Thus, thermal expansion must be taken into consideration when designing airframes, power plants, or related equipment.
+
+Kelvin RankineFahrenheit Molecular motion ceases at absolute zero the state of gases.
 
 ## 2. 中文翻译
 
@@ -192,8 +192,6 @@ Hp = 33,000 ft-lb/min　1.67 lb/min × 18,900 BTU/lb × 778 ft-lb/BTU　Hp = 744
 
 华氏度 = （1.8 × 摄氏度）+ 32 摄氏度 = （华氏度 − 32）× 5⁄9 开尔文 = 摄氏度 + 273 兰氏度 = 华氏度 + 460 为了计算方便，常用兰氏温标把华氏温度换算成绝对温度。华氏读数高于零时，加上 460°。因此，72 °F 等于 460° 加 72°，即 532° 绝对温度。如果华氏读数低于零，则从 460° 中减去。因此，−40 °F 等于 460° 减 40°，即 420° 绝对温度。应当强调，兰氏温标并不像开尔文温标那样指示绝对温度读数，但这些换算可用于计算（此处夹有表格数据：Material / Specific Heat——Lead 0.031、Mercury 0.033、Brass 0.094、Copper 0.095、Iron or Steel 0.113、Glass 0.195、Alcohol 0.547、Aluminum 0.712、Water 1.000；刻线数值 100、0、−273、212、32、−460、373、273、0、672、492、0；标注 Pure water boils、Pure water freezes、Celsius (centigrade)、Kelvin、Rankine、Fahrenheit）
 
-（此处为标注文字：Kelvin、Rankine、Fahrenheit、Molecular motion ceases at absolute zero）气体状态的变化。
-
 开尔文温标和摄氏温标在科学工作中使用得更广泛；因此，一些技术手册在给出说明和操作指示时可能使用这两种温标。华氏温标在美国普遍使用，大多数人都熟悉它。因此，本书大多数地方使用华氏温标。
 
 ### 热膨胀／热收缩
@@ -209,6 +207,8 @@ Hp = 33,000 ft-lb/min　1.67 lb/min × 18,900 BTU/lb × 778 ft-lb/BTU　Hp = 744
 膨胀量 = （11 × 10−6）×（9 英尺）× 34° 膨胀量 = 0.003366 英尺 把这个量加到棒的原始长度上，棒就变成 9.003366 ft 长。它的长度只增加了 4⁄100 英寸。
 
 棒的长度增加量相对很小，但如果把棒放在不能自由膨胀的位置，热膨胀就会产生巨大的力。因此，在设计机体、动力装置或相关设备时，必须考虑热膨胀。
+
+（此处为标注文字：Kelvin、Rankine、Fahrenheit、Molecular motion ceases at absolute zero）气体状态的变化。
 
 ## 3. 专业词汇
 

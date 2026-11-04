@@ -22,8 +22,6 @@ The resistor color code is made up of a group of colors, numbers, and tolerance 
 
 When the color code is used with the end-to-center band marking system, the resistor is normally marked with bands of color at one end of the resistor. The body or base color of the resistor has nothing to do with the color code, and in no way indicates a resistance value. To prevent confusion, this body is never the same color as any of the bands indicating resistance value.
 
-Resistor color code Color Number Tolerance Black 0 — Brown 1 1% Red 2 2% Orange 3 3% Yellow 4 4% Green 5 5% Blue 6 6% Violet 7 7% Gray 8 8% White 9 9% Gold — 5% Silver — 10% No color — 20%
-
 ### Color Band Decoding
 
 When the end-to-center band marking system is used, either three or four bands mark the resistor.
@@ -59,6 +57,8 @@ In this case, a zero number of zeros must be added to the first two digits; ther
 Silver 4 5 1% 10% Brown Black Gold (Multiplier)
 
 Red 1 0 10% 2% of the resistor is 0.45 ±10 percent ohms.
+
+Resistor color code Color Number Tolerance Black 0 — Brown 1 1% Red 2 2% Orange 3 3% Yellow 4 4% Green 5 5% Blue 6 6% Violet 7 7% Gray 8 8% White 9 9% Gold — 5% Silver — 10% No color — 20%
 
 Wire-wound resistors typically control large amounts of current and have high power ratings. Resistors of this type are constructed by winding a resistance wire around an insulating rod usually made of porcelain. The windings are coated with an insulation material for physical protection and heat conduction. Both ends of the windings are connected to terminals, which are used to connect the resistor to a circuit.
 
@@ -108,8 +108,6 @@ The photoconductive cell is similar to the thermistor. Like the thermistor, it h
 
 在端到中心色带标记体系下使用色码时，电阻器通常在一端标出色带。电阻器的本体或底色与色码无关，绝不用来表示电阻值。为避免混淆，本体颜色从不与表示电阻值的任何色带颜色相同。
 
-电阻器色码 颜色 数字 容差：黑 0 —；棕 1 1%；红 2 2%；橙 3 3%；黄 4 4%；绿 5 5%；蓝 6 6%；紫 7 7%；灰 8 8%；白 9 9%；金 — 5%；银 — 10%；无色 — 20%
-
 ### 色带解读
 
 使用端到中心色带标记体系时，电阻器上标有三条或四条色带。
@@ -145,6 +143,8 @@ The photoconductive cell is similar to the thermistor. Like the thermistor, it h
 （原文此处为表格碎片：银 4 5 1% 10%；棕 黑 金 =（乘数））
 
 红 1 0 10% 2%……该电阻器的阻值为 0.45 ±10 欧姆。
+
+电阻器色码 颜色 数字 容差：黑 0 —；棕 1 1%；红 2 2%；橙 3 3%；黄 4 4%；绿 5 5%；蓝 6 6%；紫 7 7%；灰 8 8%；白 9 9%；金 — 5%；银 — 10%；无色 — 20%
 
 线绕电阻器通常控制大电流，具有高功率额定值。这类电阻器是在通常由瓷制成的绝缘棒上绕制电阻丝制成的。绕组表面涂覆绝缘材料，以提供物理保护并导热。绕组两端接在端子上，端子用于把电阻器接入电路。
 

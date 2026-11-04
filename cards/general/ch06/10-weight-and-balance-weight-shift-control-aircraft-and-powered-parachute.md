@@ -4,17 +4,15 @@
 
 ## 1. 原文
 
+2,400 2,300 2,200 2,100 2,000 1,900 1,800 1,700 1,600 1,500 50 55 60 65 70 75 80 85 90 95 100 105 110 115 Load Aircraft Weight (lb)
+
+Loaded Aircraft Moment/1,000 (in-lb)
+
 The terminology, theory, and concepts of weight and balance that applies to airplanes also applies to weight-shift control aircraft and powered parachutes. Weight is still weight, and the balance point is still the balance point. However, there are a few differences that need to be discussed. Before reading about the specifics of weight and balance on weight-shift control aircraft and powered parachutes, be sure to read about their aerodynamic characteristics in Chapter 5, Physics.
 
 ### Weight-Shift Control Aircraft
 
 Weight-shift control aircraft and powered parachutes do not fall under the same Code of Federal Regulations that govern certified airplanes and helicopters and, therefore, do not have TCDS or the same type of FAA-mandated weight and balance reports. Weight and balance information and guidelines are left to the individual owners and the companies with which they work in acquiring this type of aircraft. Overall, the industry that is supplying these aircraft is regulating itself well, and the safety record is good for those aircraft being operated by experienced pilots.
-
-2,400 2,300 2,200 2,100 2,000 1,900 1,800 1,700 1,600 1,500 50 55 60 65 70 75 80 85 90 95 100 105 110 115 Load Aircraft Weight (lb)
-
-Loaded Aircraft Moment/1,000 (in-lb)
-
-Normal Category CG Location Aft Limit Forward Limit Utility Category 360 320 280 240 200 160 120 80 40 0 −2 0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 Load Weight (lb)
 
 Moment Index (Moment/1,000)
 
@@ -24,23 +22,23 @@ The most significant factor affecting the weight and balance of a trike is the w
 
 The wing attach point, with respect to the wing keel, is an adjustable location. The attach point can be loosened and moved slightly forward or slightly aft, depending on the weight of the occupants. For example, if the aircraft is flown by a person that weighs more, the attach point can be moved a little farther aft, bringing the wing forward, to compensate for the change in CG.
 
+Normal Category CG Location Aft Limit Forward Limit Utility Category 360 320 280 240 200 160 120 80 40 0 −2 0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 Load Weight (lb)
+
 ### Powered Parachutes
 
 Powered parachutes have many of the same characteristics as weight-shift aircraft when it comes to weight and balance. They have the same limited loading, with only one or two seats and a fuel tank. They also act like a pendulum, with the weight of the aircraft hanging beneath the inflated wing (parachute). The point at which the inflated wing attaches to the structure of the aircraft is adjustable to compensate for pilots and passengers of varying weights. With a very heavy pilot, the wing attach point would be moved forward to prevent the aircraft from being too nose heavy.
 
 ## 2. 中文翻译
 
+装载飞机重量（lb）　2,400 2,300 2,200 2,100 2,000 1,900 1,800 1,700 1,600 1,500 50 55 60 65 70 75 80 85 90 95 100 105 110 115
+
+装载飞机力矩/1,000（in-lb）
+
 适用于飞机的重量与平衡术语、理论和概念，也适用于重量转移操纵飞机和动力伞。重量仍然是重量，平衡点仍然是平衡点。不过，有几点差异需要讨论。在阅读重量转移操纵飞机和动力伞重量与平衡的具体内容之前，务必先阅读第 5 章“物理学”中关于它们空气动力特性的内容。
 
 ### 重量转移操纵飞机
 
 重量转移操纵飞机以及动力伞，都不受管辖持证飞机和直升机的同一部《联邦法规》约束，因此没有型号合格证数据表（TCDS），也没有 FAA 强制要求的同类型重量与平衡报告。重量与平衡的信息和指南，交由航空器所有者本人以及协助他们购置这类航空器的公司负责。总体而言，提供这类航空器的行业自我管理良好，由有经验的驾驶员驾驶时，这类航空器的安全记录良好。
-
-装载飞机重量（lb）　2,400 2,300 2,200 2,100 2,000 1,900 1,800 1,700 1,600 1,500 50 55 60 65 70 75 80 85 90 95 100 105 110 115
-
-装载飞机力矩/1,000（in-lb）
-
-正常类重心位置　后限　前限　实用类　360 320 280 240 200 160 120 80 40 0 −2 0 2 4 6 8 10 12 14 16 18 20 22 24 26 28　装载重量（lb）
 
 力矩指数（力矩/1,000）
 
@@ -49,6 +47,8 @@ Powered parachutes have many of the same characteristics as weight-shift aircraf
 对三角翼重量与平衡影响最大的因素是驾驶员体重；如果该航空器有两个座位，还必须考虑旅客体重。三角翼的行为有点像单旋翼直升机，因为航空器的重量像单摆一样悬挂在机翼下方。三角翼飞行时，航空器的重量悬挂在机翼连接点上。发动机和燃油的重量在此点之后，旅客几乎就在此点正下方，驾驶员则在此点之前。航空器的平衡由所有这些重量相互比较的结果决定。
 
 机翼连接点相对于机翼龙骨是一个可调整的位置。可以松开连接点，根据乘员体重将其稍微前移或稍后移。例如，如果驾驶该航空器的人体重较大，可以把连接点再往后移一点，使机翼前移，以补偿重心的变化。
+
+正常类重心位置　后限　前限　实用类　360 320 280 240 200 160 120 80 40 0 −2 0 2 4 6 8 10 12 14 16 18 20 22 24 26 28　装载重量（lb）
 
 ### 动力伞
 

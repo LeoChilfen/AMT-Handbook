@@ -10,14 +10,6 @@ Ultrasonic inspection is finding increasing application in aircraft bonded const
 
 • Different types and thickness of adhesives are used in bonded structures
 
-It is necessary that the frequency of the ultrasonic waves corresponding to a particular dial setting be accurately known. Checks should be made with standard test blocks to guard against possible drift of frequency. If the frequency of an ultrasonic wave is such that its wavelength is twice the thickness of a specimen (fundamental frequency), then the reﬂected wave will arrive back at the transducer in the same phase as the original transmission so that strengthening of the signal will occur. This results from constructive interference or a resonance and is shown as a high amplitude value on the indicating screen. If the frequency is increased such that three times the wavelength equals four times the thickness, the reﬂected signal will return completely out of phase with the transmitted signal and cancellation will occur. Further increase of the frequency causes the wavelength to be equal to the thickness again and gives a reﬂected signal in phase with the transmitted signal and a resonance once more.
-
-By starting at the fundamental frequency and gradually increasing the frequency, the successive cancellations and resonances can be noted and the readings used to check the fundamental frequency reading.
-
-In some instruments, the oscillator circuit contains a motor driven capacitor which changes the frequency of the oscillator. In other instruments, the frequency is changed by electronic means.
-
-The change in frequency is synchronized with the horizontal sweep of a CRT. The horizontal axis thus represents a frequency range. If the frequency range contains resonances, the circuitry is arranged to present these vertically. Calibrated transparent scales are then placed in front of the tube, and the thickness can be read directly. The instruments normally operate
-
 • Underlying structures contain differences in core material, cell size, thickness, height, back skin material and thickness, doublers (material and thickness), closure member attachments, foam adhesive, steps in skins, internal ribs, and laminates (number of layers, layer thickness, and layer material)
 
 • The top only or top and bottom skin of a bonded structure may be accessible
@@ -27,6 +19,8 @@ The change in frequency is synchronized with the horizontal sweep of a CRT. The 
 Defects can be separated into five general types to represent the various areas of bonded and laminate structures as follows:
 
 1. Type I—disbonds or voids in an outer skin-to-adhesive interface.
+
+It is necessary that the frequency of the ultrasonic waves corresponding to a particular dial setting be accurately known. Checks should be made with standard test blocks to guard against possible drift of frequency. If the frequency of an ultrasonic wave is such that its wavelength is twice the thickness of a specimen (fundamental frequency), then the reﬂected wave will arrive back at the transducer in the same phase as the original transmission so that strengthening of the signal will occur. This results from constructive interference or a resonance and is shown as a high amplitude value on the indicating screen. If the frequency is increased such that three times the wavelength equals four times the thickness, the reﬂected signal will return completely out of phase with the transmitted signal and cancellation will occur. Further increase of the frequency causes the wavelength to be equal to the thickness again and gives a reﬂected signal in phase with the transmitted signal and a resonance once more.
 
 2. Type II—disbonds or voids at the adhesive-to-core interface.
 
@@ -39,6 +33,12 @@ Defects can be separated into five general types to represent the various areas 
 ### Acoustic Emission Inspection
 
 Acoustic emission is an NDI technique that involves the placing of acoustic emission sensors at various locations on an aircraft structure and then applying a load or stress. The materials emit sound and stress waves that take the form of ultrasonic pulses. Cracks and areas of corrosion in the stressed airframe structure emit sound waves that are registered by the sensors. These acoustic emission bursts can be used to locate flaws and to evaluate their rate of growth as a function of applied stress. Acoustic emission testing has an advantage over other NDI methods in that it can detect and locate all of the activated flaws in a structure in one test. Because of the complexity of aircraft structures, application of acoustic emission testing to aircraft has required a new level of sophistication in testing technique and data interpretation.
+
+By starting at the fundamental frequency and gradually increasing the frequency, the successive cancellations and resonances can be noted and the readings used to check the fundamental frequency reading.
+
+In some instruments, the oscillator circuit contains a motor driven capacitor which changes the frequency of the oscillator. In other instruments, the frequency is changed by electronic means.
+
+The change in frequency is synchronized with the horizontal sweep of a CRT. The horizontal axis thus represents a frequency range. If the frequency range contains resonances, the circuitry is arranged to present these vertically. Calibrated transparent scales are then placed in front of the tube, and the thickness can be read directly. The instruments normally operate
 
 ### Magnetic Particle Inspection
 
@@ -168,24 +168,6 @@ Radiographic inspection techniques are used to locate defects or flaws in airfra
 
 Three major steps in the x-ray process discussed in subsequent paragraphs are: exposure to radiation, including preparation; processing of film; and interpretation of the radiograph.
 
-#### Radiographic Interpretation
-
-From the standpoint of quality assurance, radiographic interpretation is the most important phase of radiography. It is during this phase that an error in judgment can produce disastrous consequences. The efforts of the whole radiographic process are centered in this phase, where the part or structure is either accepted or rejected. Conditions of unsoundness or other defects that are overlooked, not understood, or improperly interpreted can destroy the purpose and efforts of radiography and can jeopardize the structural integrity of an entire aircraft. A particular danger is the false sense of security imparted by the acceptance of a part or structure based on improper interpretation.
-
-As a first impression, radiographic interpretation may seem simple, but a closer analysis of the problem soon dispels this impression. The subject of interpretation is so varied and complex that it cannot be covered adequately in this type of document. Instead, this chapter gives only a brief review of basic requirements for radiographic interpretation, including some descriptions of common defects.
-
-Experience has shown that, whenever possible, it is important to conduct radiographic interpretation close to the radiographic operation. When viewing radiographs, it is helpful to have access to the material being tested. The radiograph can thus be compared directly with the material being tested, and indications due to such things as surface condition or thickness variations can be immediately determined. The following paragraphs present several factors that must be considered when analyzing a radiograph.
-
-There are three basic categories of flaws: voids, inclusions, and dimensional irregularities. The last category, dimensional irregularities, is not pertinent to these discussions, because its prime factor is one of degree and radiography is not exact. V oids and inclusions may appear on the radiograph in a variety of forms ranging from a two-dimensional plane to a three-dimensional sphere. A crack, tear, or cold shut most nearly resembles a two-dimensional plane, whereas a cavity looks like a three-dimensional sphere. Other types of flaws, such as shrink, oxide inclusions, porosity, and so forth, fall somewhere between these two extremes of form.
-
-It is important to analyze the geometry of a flaw, especially for items such as the sharpness of terminal points. For example, in a crack-like flaw, the terminal points appear much sharper in a sphere-like flaw, such as a gas cavity. Also, material strength may be adversely affected by flaw shape. A flaw having sharp points could establish a source of localized stress concentration. Spherical flaws affect material strength to a far lesser degree than do sharp-pointed flaws. Specifications and reference standards usually stipulate that sharp-pointed flaws, such as cracks, cold shuts, and so forth, are cause for rejection.
-
-Material strength is also affected by flaw size. A metallic component of a given area is designed to carry a certain load plus a safety factor. Reducing this area by including a large flaw weakens the part and reduces the safety factor. Some flaws are often permitted in components due to these safety factors. In this case, the interpreter must determine the degree of tolerance or imperfection specified by the design engineer. Both flaw size and flaw shape are considered carefully, since small flaws with sharp points can be just as bad as large flaws with no sharp points.
-
-Another important consideration in flaw analysis is flaw location. Metallic components are subjected to numerous and varied forces during their effective service life. Generally, the distribution of these forces is not equal in the component or part, and certain critical areas may be rather highly stressed. The interpreter must pay special attention to these areas. Another aspect of flaw location is that certain types of discontinuities close to one another may potentially serve as a source of stress concentrations creating a situation that must be closely scrutinized.
-
-An inclusion is a type of flaw that contains entrapped material. Such flaws may be of greater or lesser density than the item being radiographed. The foregoing discussions on flaw shape, size, and location apply equally to inclusions and to voids. In addition, a flaw containing foreign material could become a source of corrosion.
-
 #### Preparation and Exposure
 
 The factors of radiographic exposure are so interdependent that it is necessary to consider all factors for any particular radiographic exposure. These factors include, but are not limited to, the following:
@@ -206,6 +188,24 @@ The factors of radiographic exposure are so interdependent that it is necessary 
 
 • Types of intensifying screen, if used Knowledge of the x-ray unit’s capabilities form a background for the other exposure factors. In addition to the unit rating in kilovoltage, the size, portability, ease of manipulation, and exposure particulars of the available equipment must be thoroughly understood. Previous experience on similar objects is also very helpful in the determination of the overall exposure techniques. A log or record of previous exposures provides specific data as a guide for future radiographs. After the latent image on the film is made permanently visible by processing it successively through a developer chemical solution, an acid bath, and a fixing bath, followed by a clear water wash.
 
+#### Radiographic Interpretation
+
+From the standpoint of quality assurance, radiographic interpretation is the most important phase of radiography. It is during this phase that an error in judgment can produce disastrous consequences. The efforts of the whole radiographic process are centered in this phase, where the part or structure is either accepted or rejected. Conditions of unsoundness or other defects that are overlooked, not understood, or improperly interpreted can destroy the purpose and efforts of radiography and can jeopardize the structural integrity of an entire aircraft. A particular danger is the false sense of security imparted by the acceptance of a part or structure based on improper interpretation.
+
+As a first impression, radiographic interpretation may seem simple, but a closer analysis of the problem soon dispels this impression. The subject of interpretation is so varied and complex that it cannot be covered adequately in this type of document. Instead, this chapter gives only a brief review of basic requirements for radiographic interpretation, including some descriptions of common defects.
+
+Experience has shown that, whenever possible, it is important to conduct radiographic interpretation close to the radiographic operation. When viewing radiographs, it is helpful to have access to the material being tested. The radiograph can thus be compared directly with the material being tested, and indications due to such things as surface condition or thickness variations can be immediately determined. The following paragraphs present several factors that must be considered when analyzing a radiograph.
+
+There are three basic categories of flaws: voids, inclusions, and dimensional irregularities. The last category, dimensional irregularities, is not pertinent to these discussions, because its prime factor is one of degree and radiography is not exact. V oids and inclusions may appear on the radiograph in a variety of forms ranging from a two-dimensional plane to a three-dimensional sphere. A crack, tear, or cold shut most nearly resembles a two-dimensional plane, whereas a cavity looks like a three-dimensional sphere. Other types of flaws, such as shrink, oxide inclusions, porosity, and so forth, fall somewhere between these two extremes of form.
+
+It is important to analyze the geometry of a flaw, especially for items such as the sharpness of terminal points. For example, in a crack-like flaw, the terminal points appear much sharper in a sphere-like flaw, such as a gas cavity. Also, material strength may be adversely affected by flaw shape. A flaw having sharp points could establish a source of localized stress concentration. Spherical flaws affect material strength to a far lesser degree than do sharp-pointed flaws. Specifications and reference standards usually stipulate that sharp-pointed flaws, such as cracks, cold shuts, and so forth, are cause for rejection.
+
+Material strength is also affected by flaw size. A metallic component of a given area is designed to carry a certain load plus a safety factor. Reducing this area by including a large flaw weakens the part and reduces the safety factor. Some flaws are often permitted in components due to these safety factors. In this case, the interpreter must determine the degree of tolerance or imperfection specified by the design engineer. Both flaw size and flaw shape are considered carefully, since small flaws with sharp points can be just as bad as large flaws with no sharp points.
+
+Another important consideration in flaw analysis is flaw location. Metallic components are subjected to numerous and varied forces during their effective service life. Generally, the distribution of these forces is not equal in the component or part, and certain critical areas may be rather highly stressed. The interpreter must pay special attention to these areas. Another aspect of flaw location is that certain types of discontinuities close to one another may potentially serve as a source of stress concentrations creating a situation that must be closely scrutinized.
+
+An inclusion is a type of flaw that contains entrapped material. Such flaws may be of greater or lesser density than the item being radiographed. The foregoing discussions on flaw shape, size, and location apply equally to inclusions and to voids. In addition, a flaw containing foreign material could become a source of corrosion.
+
 #### Radiation Hazards
 
 Radiation from x-ray units and radioisotope sources is destructive to living tissue. It is universally recognized that in the use of such equipment, adequate protection must be provided. Personnel must keep outside the primary x-ray beam at all times.
@@ -224,14 +224,6 @@ If the whole body is exposed to a very large dose of radiation, death could resu
 
 • 粘接结构中使用不同类型和厚度的胶粘剂
 
-必须准确知道刻度盘某一设定所对应的超声波频率。应用标准试块进行检查，以防频率漂移。如果超声波频率使其波长等于试件厚度的两倍（基频），反射波回到换能器时与原发射相位相同，信号因此增强。这是相长干涉（共振）的结果，在指示屏幕上表现为高幅值。如果提高频率，使三倍波长等于四倍厚度，反射信号返回时与发射信号完全反相，发生抵消。频率再提高，使波长又等于厚度时，反射信号又与发射信号同相，再次出现共振。
-
-从基频开始逐渐提高频率，便可记下相继出现的抵消和共振，并用这些读数来核对基频读数。
-
-有些仪器的振荡电路中有一个电机驱动的电容器，用来改变振荡器频率。另一些仪器则用电子方式改变频率。
-
-频率的变化与 CRT 的水平扫描同步。横轴因此代表一个频率范围。如果该频率范围内含有共振，电路就安排把这些共振竖直显示出来。校准过的透明刻度尺放在管子前面，即可直接读出厚度。仪器通常工作在……
-
 • 下层结构在芯材材料、蜂窝格尺寸、厚度、高度、下蒙皮材料与厚度、加强板（材料与厚度）、封闭件连接、泡沫胶粘剂、蒙皮台阶、内部翼肋以及层压件（层数、层厚与各层材料）等方面各不相同
 
 • 粘接结构可能只有上面板可及，也可能上、下两面板都可及
@@ -241,6 +233,8 @@ If the whole body is exposed to a very large dose of radiation, death could resu
 为表示粘接结构和层压结构的各个区域，缺陷可分为以下五个大类：
 
 1. I 类——外蒙皮与胶粘剂界面处的脱粘或空洞。
+
+必须准确知道刻度盘某一设定所对应的超声波频率。应用标准试块进行检查，以防频率漂移。如果超声波频率使其波长等于试件厚度的两倍（基频），反射波回到换能器时与原发射相位相同，信号因此增强。这是相长干涉（共振）的结果，在指示屏幕上表现为高幅值。如果提高频率，使三倍波长等于四倍厚度，反射信号返回时与发射信号完全反相，发生抵消。频率再提高，使波长又等于厚度时，反射信号又与发射信号同相，再次出现共振。
 
 2. II 类——胶粘剂与芯材界面处的脱粘或空洞。
 
@@ -253,6 +247,12 @@ If the whole body is exposed to a very large dose of radiation, death could resu
 ### 声发射检查
 
 声发射是一种 NDI 技术，其做法是在航空器结构的各个部位放置声发射传感器，然后施加荷载或应力。材料会发出声波和应力波，其形式为超声脉冲。受力机体结构中的裂纹和腐蚀区域会发出声波，由传感器记录下来。这些声发射脉冲可用于定位缺陷，并评价其随施加应力增长的速率。声发射检测相对于其他 NDI 方法的优点是，它能在一次检测中查出并定位结构中的所有活动缺陷。由于航空器结构复杂，把声发射检测用于航空器，在检测技术和数据判读方面都要求达到一个新的精细水平。
+
+从基频开始逐渐提高频率，便可记下相继出现的抵消和共振，并用这些读数来核对基频读数。
+
+有些仪器的振荡电路中有一个电机驱动的电容器，用来改变振荡器频率。另一些仪器则用电子方式改变频率。
+
+频率的变化与 CRT 的水平扫描同步。横轴因此代表一个频率范围。如果该频率范围内含有共振，电路就安排把这些共振竖直显示出来。校准过的透明刻度尺放在管子前面，即可直接读出厚度。仪器通常工作在……
 
 ### 磁粉检测
 
@@ -382,24 +382,6 @@ Magnaglo 检查与前一种方法相似，不同之处在于使用荧光磁粉�
 
 下面几段讨论的 X 射线过程有三大步骤：包括准备在内的曝光、胶片处理，以及射线照片判读。
 
-#### 射线照片判读
-
-从质量保证的角度看，射线照片判读是射线照相中最重要的阶段。正是在这个阶段，判断上的错误可能造成灾难性后果。整个射线照相过程的努力都集中在这一阶段，零件或结构在此被接收或拒收。被忽略、未被理解或判读不当的不健全状况或其他缺陷，会使射线照相的目的和努力落空，并可能危及整架飞机的结构完整性。一种特别的危险，是因判读不当而接收了零件或结构所带来的虚假安全感。
-
-乍看之下，射线照片判读似乎很简单，但只要稍加分析，这种印象很快就会消除。判读这一课题既多样又复杂，无法在本书这类文件中充分涵盖。因此，本章只简要回顾射线照片判读的基本要求，并描述一些常见缺陷。
-
-经验表明，只要有可能，就应当在射线照相作业现场附近进行判读。观察射线照片时，能接触到被检材料是很有帮助的。这样就可把射线照片直接与被检材料对照，并能立即判定由表面状况或厚度变化之类原因造成的指示。以下几段说明分析射线照片时必须考虑的几个因素。
-
-缺陷有三大类：空洞、夹杂和尺寸不规则。最后一类（尺寸不规则）与本章讨论无关，因为其主要因素是程度问题，而射线照相并不精确。空洞和夹杂在射线照片上可能呈现从二维平面到三维球体的各种形态。裂纹、撕裂或冷隔最接近于二维平面，而空腔看起来像三维球体。收缩、氧化物夹杂、疏松等其他类型的缺陷，则处于这两种形态之间的某处。
-
-分析缺陷的几何形状很重要，特别是对于端点尖锐程度这类项目。例如，在裂纹状缺陷中，端点看起来比球状缺陷（如气孔）中的端点尖锐得多。此外，缺陷形状也可能对材料强度产生不利影响。带尖角的缺陷可能形成局部应力集中的源头。球状缺陷对材料强度的影响，远小于尖角缺陷。规范和参考标准通常规定，裂纹、冷隔之类带尖角的缺陷应予拒收。
-
-材料强度也受缺陷尺寸的影响。给定截面积的金属构件，是按承受一定载荷并留有安全系数设计的。因存在大缺陷而使该截面积减小，就会削弱零件并降低安全系数。由于有这些安全系数，构件中往往允许存在某些缺陷。在这种情况下，判读人员必须确定设计工程师所规定的容差或允许不完善程度。缺陷尺寸和缺陷形状都要仔细考虑，因为带尖角的小缺陷可能与不带尖角的大缺陷同样有害。
-
-缺陷分析中另一个重要考虑是缺陷位置。金属构件在其有效使用寿命中要承受众多且多变的力。一般来说，这些力在构件或零件中的分布并不均匀，某些关键区域可能受力相当高。判读人员必须特别注意这些区域。缺陷位置的另一个方面是，某些彼此靠近的同类不连续可能成为应力集中的源头，从而造成必须仔细审查的情况。
-
-夹杂是一类含有夹入物的缺陷。这类缺陷的密度可能大于或小于被射线照相的物品。上述关于缺陷形状、尺寸和位置的讨论，同样适用于夹杂和空洞。此外，含有外来物质的缺陷还可能成为腐蚀源。
-
 #### 准备与曝光
 
 射线曝光的各项因素相互依赖程度很高，因此对任何一次具体的射线曝光都必须通盘考虑所有因素。这些因素包括但不限于下列各项：
@@ -419,6 +401,24 @@ Magnaglo 检查与前一种方法相似，不同之处在于使用荧光磁粉�
 • 胶片特性
 
 • 所用增感屏的类型（如使用）　了解 X 射线机的性能，是掌握其他曝光因素的背景。除设备的千伏额定值外，还必须透彻了解现有设备的尺寸、便携性、操作便利程度和曝光细节。以往在类似物体上的经验，对确定总体曝光技术也很有帮助。以往曝光的记录可作为具体数据，指导今后的射线照相。曝光之后，胶片上的潜像要经显影液、酸浴和定影浴依次处理，再用清水冲洗，才能永久显现出来。
+
+#### 射线照片判读
+
+从质量保证的角度看，射线照片判读是射线照相中最重要的阶段。正是在这个阶段，判断上的错误可能造成灾难性后果。整个射线照相过程的努力都集中在这一阶段，零件或结构在此被接收或拒收。被忽略、未被理解或判读不当的不健全状况或其他缺陷，会使射线照相的目的和努力落空，并可能危及整架飞机的结构完整性。一种特别的危险，是因判读不当而接收了零件或结构所带来的虚假安全感。
+
+乍看之下，射线照片判读似乎很简单，但只要稍加分析，这种印象很快就会消除。判读这一课题既多样又复杂，无法在本书这类文件中充分涵盖。因此，本章只简要回顾射线照片判读的基本要求，并描述一些常见缺陷。
+
+经验表明，只要有可能，就应当在射线照相作业现场附近进行判读。观察射线照片时，能接触到被检材料是很有帮助的。这样就可把射线照片直接与被检材料对照，并能立即判定由表面状况或厚度变化之类原因造成的指示。以下几段说明分析射线照片时必须考虑的几个因素。
+
+缺陷有三大类：空洞、夹杂和尺寸不规则。最后一类（尺寸不规则）与本章讨论无关，因为其主要因素是程度问题，而射线照相并不精确。空洞和夹杂在射线照片上可能呈现从二维平面到三维球体的各种形态。裂纹、撕裂或冷隔最接近于二维平面，而空腔看起来像三维球体。收缩、氧化物夹杂、疏松等其他类型的缺陷，则处于这两种形态之间的某处。
+
+分析缺陷的几何形状很重要，特别是对于端点尖锐程度这类项目。例如，在裂纹状缺陷中，端点看起来比球状缺陷（如气孔）中的端点尖锐得多。此外，缺陷形状也可能对材料强度产生不利影响。带尖角的缺陷可能形成局部应力集中的源头。球状缺陷对材料强度的影响，远小于尖角缺陷。规范和参考标准通常规定，裂纹、冷隔之类带尖角的缺陷应予拒收。
+
+材料强度也受缺陷尺寸的影响。给定截面积的金属构件，是按承受一定载荷并留有安全系数设计的。因存在大缺陷而使该截面积减小，就会削弱零件并降低安全系数。由于有这些安全系数，构件中往往允许存在某些缺陷。在这种情况下，判读人员必须确定设计工程师所规定的容差或允许不完善程度。缺陷尺寸和缺陷形状都要仔细考虑，因为带尖角的小缺陷可能与不带尖角的大缺陷同样有害。
+
+缺陷分析中另一个重要考虑是缺陷位置。金属构件在其有效使用寿命中要承受众多且多变的力。一般来说，这些力在构件或零件中的分布并不均匀，某些关键区域可能受力相当高。判读人员必须特别注意这些区域。缺陷位置的另一个方面是，某些彼此靠近的同类不连续可能成为应力集中的源头，从而造成必须仔细审查的情况。
+
+夹杂是一类含有夹入物的缺陷。这类缺陷的密度可能大于或小于被射线照相的物品。上述关于缺陷形状、尺寸和位置的讨论，同样适用于夹杂和空洞。此外，含有外来物质的缺陷还可能成为腐蚀源。
 
 #### 辐射危害
 

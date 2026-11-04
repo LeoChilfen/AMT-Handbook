@@ -6,6 +6,52 @@
 
 During the service life of an aircraft, occasions may arise when something out of the ordinary care and use of an aircraft could possibly affect its airworthiness. When these situations are encountered, special inspection procedures, also called conditional inspections, are followed to determine if damage to the aircraft structure has occurred. The procedures annual and 100-hour inspections. Appendix D to Part 43—Scope and Detail of Items (as Applicable to the Particular Aircraft) To Be Included in Annual and 100-Hour Inspections condition, defects, and insecure attachment.
 
+(b) Each person performing an annual or 100-hour inspection shall inspect (where applicable) the following components of the fuselage and hull group:
+
+(1) Fabric and skin—for deterioration, distortion, other evidence of failure, and defective or insecure attachment of fittings.
+
+(2) Systems and components—for improper installation, apparent defects, and unsatisfactory operation.
+
+(3) Envelope, gas bags, ballast tanks, and related parts—for poor condition.
+
+(c) Each person performing an annual or 100-hour inspection shall inspect (where applicable) the following components of the cabin and cockpit group:
+
+(1) Generally—for uncleanliness and loose equipment that might foul the controls.
+
+(2) Seats and safety belts—for poor condition and apparent defects.
+
+(3) Windows and windshields—for deterioration and breakage.
+
+(4) Instruments—for poor condition, mounting, marking, and (where practicable) improper operation.
+
+(5) Flight and engine controls—for improper installation and improper operation.
+
+(6) Batteries—for improper installation and improper charge.
+
+(7) All systems—for improper installation, poor general condition, apparent and obvious defects, and insecurity of attachment.
+
+(d) Each person performing an annual or 100-hour inspection shall inspect (where applicable) components of the engine and nacelle group as follows:
+
+(1) Engine section—for visual evidence of excessive oil, fuel, or hydraulic leaks, and sources of such leaks.
+
+(2) Studs and nuts—for improper torquing and obvious defects.
+
+(3) Internal engine—for cylinder compression and for metal particles or foreign matter on screens and sump drain plugs. If there is weak cylinder compression, for improper internal condition and improper internal tolerances.
+
+(4) Engine mount—for cracks, looseness of mounting, and looseness of engine to mount.
+
+(5) Flexible vibration dampeners—for poor condition and deterioration.
+
+(6) Engine controls—for defects, improper travel, and improper safetying.
+
+(7) Lines, hoses, and clamps—for leaks, improper condition and looseness.
+
+(8) Exhaust stacks—for cracks, defects, and improper attachment.
+
+(9) Accessories—for apparent defects in security of mounting.
+
+(10) All systems—for improper installation, poor general § 91.409 Inspections.
+
 (11) Cowling—for cracks, and defects.
 
 (e) Each person performing an annual or 100-hour inspection shall inspect (where applicable) the following components of the landing gear group:
@@ -56,56 +102,6 @@ During the service life of an aircraft, occasions may arise when something out o
 
 (j) Each person performing an annual or 100-hour inspection shall inspect (where applicable) each installed miscellaneous item that is not otherwise covered by this listing for improper installation and improper operation. (a) Each person performing an annual or 100-hour inspection shall, before that inspection, remove or open all necessary inspection plates, access doors, fairing, and cowling. He shall thoroughly clean the aircraft and aircraft engine.
 
-(b) Each person performing an annual or 100-hour inspection shall inspect (where applicable) the following components of the fuselage and hull group:
-
-(1) Fabric and skin—for deterioration, distortion, other evidence of failure, and defective or insecure attachment of fittings.
-
-(2) Systems and components—for improper installation, apparent defects, and unsatisfactory operation.
-
-(3) Envelope, gas bags, ballast tanks, and related parts—for poor condition.
-
-(c) Each person performing an annual or 100-hour inspection shall inspect (where applicable) the following components of the cabin and cockpit group:
-
-(1) Generally—for uncleanliness and loose equipment that might foul the controls.
-
-(2) Seats and safety belts—for poor condition and apparent defects.
-
-(3) Windows and windshields—for deterioration and breakage.
-
-(4) Instruments—for poor condition, mounting, marking, and (where practicable) improper operation.
-
-(5) Flight and engine controls—for improper installation and improper operation.
-
-(6) Batteries—for improper installation and improper charge.
-
-(7) All systems—for improper installation, poor general condition, apparent and obvious defects, and insecurity of attachment.
-
-(d) Each person performing an annual or 100-hour inspection shall inspect (where applicable) components of the engine and nacelle group as follows:
-
-(1) Engine section—for visual evidence of excessive oil, fuel, or hydraulic leaks, and sources of such leaks.
-
-(2) Studs and nuts—for improper torquing and obvious defects.
-
-(3) Internal engine—for cylinder compression and for metal particles or foreign matter on screens and sump drain plugs. If there is weak cylinder compression, for improper internal condition and improper internal tolerances.
-
-(4) Engine mount—for cracks, looseness of mounting, and looseness of engine to mount.
-
-(5) Flexible vibration dampeners—for poor condition and deterioration.
-
-(6) Engine controls—for defects, improper travel, and improper safetying.
-
-(7) Lines, hoses, and clamps—for leaks, improper condition and looseness.
-
-(8) Exhaust stacks—for cracks, defects, and improper attachment.
-
-(9) Accessories—for apparent defects in security of mounting.
-
-(10) All systems—for improper installation, poor general § 91.409 Inspections.
-
-(3) Enough housing and equipment for necessary disassembly and proper inspection of the aircraft; and (4) Appropriate current technical information for the aircraft.
-
-The frequency and detail of the progressive inspection shall provide for the complete inspection of the aircraft within each 12 calendar months and be consistent with the manufacturer's recommendations, field service experience, and the kind of operation in which the aircraft is engaged. The progressive inspection schedule must ensure that the aircraft, at all times, will be airworthy and will conform to all applicable FAA aircraft specifications, type certificate data sheets, airworthiness directives, and other approved data. If the progressive inspection is discontinued, the owner or operator shall immediately notify the local FAA Flight Standards district office, in writing, of the discontinuance. After the discontinuance, the first annual inspection under §91.409(a)(1) is due within 12 calendar months after the last complete inspection of the aircraft under the progressive inspection. The 100-hour inspection under §91.409(b) is due within 100 hours after that complete inspection. A complete inspection of the aircraft, for the purpose of determining when the annual and 100-hour inspections are due, requires a detailed inspection of the aircraft and all its components in accordance with the progressive inspection. A routine inspection of the aircraft and a detailed inspection of several components is not considered to be a complete inspection.
-
 (d) Progressive inspection. Each registered owner or operator of an aircraft desiring to use a progressive inspection program must submit a written request to the FAA Flight Standards district office having jurisdiction over the area in which the applicant is located, and shall provide— (1) A certificated mechanic holding an inspection authorization, a certificated airframe repair station, or the manufacturer of the aircraft to supervise or conduct the progressive inspection;
 
 (2) A current inspection procedures manual available and readily understandable to pilot and maintenance personnel containing, in detail— (i) An explanation of the progressive inspection, including the continuity of inspection responsibility, the making of reports, and the keeping of records and technical reference material;
@@ -120,6 +116,10 @@ The procedures outlined on the following pages are general in nature and are int
 
 The structural stress induced by a landing depends not only upon the gross weight at the time, but also upon the severity of impact. The hard landing inspection is for hard landings at or below the maximum design landing limits. An overweight landing inspection must be performed when an airplane lands at a weight above the maximum design landing weight. However, because of the difficulty in estimating vertical velocity at the time of contact, it is hard to judge whether or not a landing has been sufficiently severe to cause structural damage. For this reason, a special inspection is performed after a landing is made at a weight known to exceed the design landing weight or after a rough landing, even though the latter may have occurred when the aircraft did not exceed the design landing weight.
 
+(3) Enough housing and equipment for necessary disassembly and proper inspection of the aircraft; and (4) Appropriate current technical information for the aircraft.
+
+The frequency and detail of the progressive inspection shall provide for the complete inspection of the aircraft within each 12 calendar months and be consistent with the manufacturer's recommendations, field service experience, and the kind of operation in which the aircraft is engaged. The progressive inspection schedule must ensure that the aircraft, at all times, will be airworthy and will conform to all applicable FAA aircraft specifications, type certificate data sheets, airworthiness directives, and other approved data. If the progressive inspection is discontinued, the owner or operator shall immediately notify the local FAA Flight Standards district office, in writing, of the discontinuance. After the discontinuance, the first annual inspection under §91.409(a)(1) is due within 12 calendar months after the last complete inspection of the aircraft under the progressive inspection. The 100-hour inspection under §91.409(b) is due within 100 hours after that complete inspection. A complete inspection of the aircraft, for the purpose of determining when the annual and 100-hour inspections are due, requires a detailed inspection of the aircraft and all its components in accordance with the progressive inspection. A routine inspection of the aircraft and a detailed inspection of several components is not considered to be a complete inspection.
+
 Wrinkled wing skin is the most easily detected sign of an excessive load having been imposed during a landing. Another indication easily detected is fuel leakage along riveted seams. Other possible locations of damage are spar webs, bulkheads, nacelle skin and attachments, firewall skin, and wing and fuselage stringers. If none of these areas show adverse effects, it is reasonable to assume that no serious damage has occurred. If damage is detected, a more extensive inspection and alignment check may be necessary.
 
 ### Severe Turbulence Inspection/Over “G”
@@ -128,15 +128,15 @@ Wrinkled wing skin is the most easily detected sign of an excessive load having 
 
 A special inspection is performed after a flight through severe turbulence. Emphasis is placed upon inspecting the upper and lower wing surfaces for excessive buckles or wrinkles with permanent set. Where wrinkles have occurred, remove a few rivets and examine the rivet shanks to determine if the rivets have sheared or were highly loaded in shear.
 
-ATA iSpec 2200 Systems Sample Systems Subsystems Title 21 AIR CONDITIONING 21 -00 General 21 -10 Compression 21 -20 Distribution 21 -30 Pressurization Control 21 -40 Heating 21 -50 Cooling 21 -60 Temperature Control 21 -70 Moisture/Air Contaminate Control 22 AUTO FLIGHT 23 COMMUNICATIONS 24 ELECTRICAL POWER 25 EQUIPMENT/FURNISHINGS 26 FIRE PROTECTION 27 FLIGHT CONTROLS 28 FUEL 29 HYDRAULIC POWER 30 ICE AND RAIN PROTECTION 31 INDICATING/RECORDING SYSTEMS 32 LANDING GEAR 33 LIGHTS 34 NAVIGATION 35 OXYGEN 36 PNEUMATIC 37 VACUUM 38 WATER/WASTE Systems Subsystems Title 42 INTEGRATED MODULAR AVIONICS 51 STANDARD PRACTICES AND STRUCTURES - GENERAL 52 DOORS 53 FUSELAGE 54 NACELLES/PYLONS 55 STABILIZERS 56 WINDOWS 57 WINGS 60 STANDARD PR ACTICES - PROPELLER/ROTOR 61 PROPELLERS/PROPULSION 62 ROTOR(S)
-
-71 POWER PLANT 72 ENGINE TURBINE/TURBOPROP DUCTED FAN/UNDUCTED FAN 72 -20 AIR INLET SECTION 73 ENGINE FUEL AND CONTROL 74 IGNITION 75 AIR 76 ENGINE CONTROLS 77 ENGINE INDICATING 78 EXHAUST 79 OIL 80 STARTING 81 TURBINES 82 WATER INJECTION 83 ACCESSORY GEAR-BOXES It is not all-encompassing and should be viewed as a learning aid to understand the numbering method of the ATA iSpec 2200 System. Consult the specific aircraft maintenance manuals or Airlines for America (A4A) for a complete description of the systems and subsystems.
-
 Through the inspection doors and other accessible openings, inspect all spar webs from the fuselage to the tip. Check for buckling, wrinkles, and sheared attachments. Inspect for buckling in the area around the nacelles and in the nacelle skin, particularly at the wing leading edge. Check for fuel leaks. Any sizeable fuel leak is an indication that an area may have received overloads that have broken the sealant and opened the seams.
+
+ATA iSpec 2200 Systems Sample Systems Subsystems Title 21 AIR CONDITIONING 21 -00 General 21 -10 Compression 21 -20 Distribution 21 -30 Pressurization Control 21 -40 Heating 21 -50 Cooling 21 -60 Temperature Control 21 -70 Moisture/Air Contaminate Control 22 AUTO FLIGHT 23 COMMUNICATIONS 24 ELECTRICAL POWER 25 EQUIPMENT/FURNISHINGS 26 FIRE PROTECTION 27 FLIGHT CONTROLS 28 FUEL 29 HYDRAULIC POWER 30 ICE AND RAIN PROTECTION 31 INDICATING/RECORDING SYSTEMS 32 LANDING GEAR 33 LIGHTS 34 NAVIGATION 35 OXYGEN 36 PNEUMATIC 37 VACUUM 38 WATER/WASTE Systems Subsystems Title 42 INTEGRATED MODULAR AVIONICS 51 STANDARD PRACTICES AND STRUCTURES - GENERAL 52 DOORS 53 FUSELAGE 54 NACELLES/PYLONS 55 STABILIZERS 56 WINDOWS 57 WINGS 60 STANDARD PR ACTICES - PROPELLER/ROTOR 61 PROPELLERS/PROPULSION 62 ROTOR(S)
 
 If the landing gear was lowered during a period of severe turbulence, inspect the surrounding surfaces carefully for loose rivets, cracks, or buckling. The interior of the wheel well may give further indications of excessive gust conditions. Inspect the top and bottom fuselage skin. An excessive bending moment may have left wrinkles of a diagonal nature in these areas.
 
 Inspect the surface of the empennage for wrinkles, buckling, or sheared attachments. Also, inspect the area of attachment of the empennage to the fuselage. These inspections cover the critical areas. If excessive damage is noted in any of the areas mentioned, the inspection must be continued until all damage is detected.
+
+71 POWER PLANT 72 ENGINE TURBINE/TURBOPROP DUCTED FAN/UNDUCTED FAN 72 -20 AIR INLET SECTION 73 ENGINE FUEL AND CONTROL 74 IGNITION 75 AIR 76 ENGINE CONTROLS 77 ENGINE INDICATING 78 EXHAUST 79 OIL 80 STARTING 81 TURBINES 82 WATER INJECTION 83 ACCESSORY GEAR-BOXES It is not all-encompassing and should be viewed as a learning aid to understand the numbering method of the ATA iSpec 2200 System. Consult the specific aircraft maintenance manuals or Airlines for America (A4A) for a complete description of the systems and subsystems.
 
 ### Lightning Strike
 
@@ -157,6 +157,52 @@ Two primary factors that make inspecting these aircraft different from other air
 ## 2. 中文翻译
 
 在航空器的使用寿命期内，可能出现这样的情况：超出正常维护与使用范围的某些事件可能会影响其适航性。遇到这些情况时，应按特别检查程序（也称条件检查）执行检查，以确定航空器结构是否发生了损伤。这些程序……年度检查与 100 小时检查。Part 43 附录 D——年度检查和 100 小时检查应包含的项目（按具体航空器的适用情况）的范围与细节……状况、缺陷和安装不牢。
+
+(b) 执行年度检查或 100 小时检查的每个人，应（在适用时）检查机身和船体组的下列部件：
+
+(1) 蒙布和蒙皮——劣化、变形、其他失效迹象，以及接头的缺陷或安装不牢。
+
+(2) 系统和部件——安装不当、明显缺陷和工作不良。
+
+(3) 气囊、气袋、压载箱及相关零件——状况不良。
+
+(c) 执行年度检查或 100 小时检查的每个人，应（在适用时）检查客舱和驾驶舱组的下列部件：
+
+(1) 总则——不清洁，以及可能卡住操纵机构的松散设备。
+
+(2) 座椅和安全带——状况不良和明显缺陷。
+
+(3) 窗户和风挡——劣化和破损。
+
+(4) 仪表——状况不良、安装、标记，以及（可行时）工作不正常。
+
+(5) 飞行和发动机操纵机构——安装不当和工作不正常。
+
+(6) 蓄电池——安装不当和充电不当。
+
+(7) 所有系统——安装不当、总体状况不良、明显和显而易见的缺陷，以及安装不牢。
+
+(d) 执行年度检查或 100 小时检查的每个人，应（在适用时）按如下要求检查发动机和短舱组的部件：
+
+(1) 发动机舱段——油、燃油或液压油过量渗漏的目视迹象，以及这类渗漏的来源。
+
+(2) 螺柱和螺母——拧紧力矩不当和明显缺陷。
+
+(3) 发动机内部——气缸压缩压力，以及滤网和油底壳放油螺塞上的金属颗粒或外来物。如果气缸压缩压力偏低，则查内部状况不当和内部公差不当。
+
+(4) 发动机安装架——裂纹、安装松动，以及发动机相对安装架的松动。
+
+(5) 柔性减振器——状况不良和劣化。
+
+(6) 发动机操纵机构——缺陷、行程不当和保险不当。
+
+(7) 管路、软管和卡箍——渗漏、状况不当和松动。
+
+(8) 排气总管——裂纹、缺陷和安装不当。
+
+(9) 附件——安装固定方面的明显缺陷。
+
+(10) 所有系统——安装不当、总体状况不良 § 91.409 检查。
 
 (11) 整流罩——检查裂纹和缺陷。
 
@@ -208,56 +254,6 @@ Two primary factors that make inspecting these aircraft different from other air
 
 (j) 执行年度检查或 100 小时检查的每个人，应（在适用时）检查本清单未另行覆盖的每一已装杂项，查其安装不当和工作不正常。(a) 执行年度检查或 100 小时检查的每个人，应在该检查之前拆下或打开所有必要的检查口盖、检修门、整流罩和发动机罩。他应彻底清洁航空器和航空器发动机。
 
-(b) 执行年度检查或 100 小时检查的每个人，应（在适用时）检查机身和船体组的下列部件：
-
-(1) 蒙布和蒙皮——劣化、变形、其他失效迹象，以及接头的缺陷或安装不牢。
-
-(2) 系统和部件——安装不当、明显缺陷和工作不良。
-
-(3) 气囊、气袋、压载箱及相关零件——状况不良。
-
-(c) 执行年度检查或 100 小时检查的每个人，应（在适用时）检查客舱和驾驶舱组的下列部件：
-
-(1) 总则——不清洁，以及可能卡住操纵机构的松散设备。
-
-(2) 座椅和安全带——状况不良和明显缺陷。
-
-(3) 窗户和风挡——劣化和破损。
-
-(4) 仪表——状况不良、安装、标记，以及（可行时）工作不正常。
-
-(5) 飞行和发动机操纵机构——安装不当和工作不正常。
-
-(6) 蓄电池——安装不当和充电不当。
-
-(7) 所有系统——安装不当、总体状况不良、明显和显而易见的缺陷，以及安装不牢。
-
-(d) 执行年度检查或 100 小时检查的每个人，应（在适用时）按如下要求检查发动机和短舱组的部件：
-
-(1) 发动机舱段——油、燃油或液压油过量渗漏的目视迹象，以及这类渗漏的来源。
-
-(2) 螺柱和螺母——拧紧力矩不当和明显缺陷。
-
-(3) 发动机内部——气缸压缩压力，以及滤网和油底壳放油螺塞上的金属颗粒或外来物。如果气缸压缩压力偏低，则查内部状况不当和内部公差不当。
-
-(4) 发动机安装架——裂纹、安装松动，以及发动机相对安装架的松动。
-
-(5) 柔性减振器——状况不良和劣化。
-
-(6) 发动机操纵机构——缺陷、行程不当和保险不当。
-
-(7) 管路、软管和卡箍——渗漏、状况不当和松动。
-
-(8) 排气总管——裂纹、缺陷和安装不当。
-
-(9) 附件——安装固定方面的明显缺陷。
-
-(10) 所有系统——安装不当、总体状况不良 § 91.409 检查。
-
-(3) 对航空器进行必要分解和正确检查所需的足够机库与设备；以及 (4) 适用于该航空器的现行适当技术资料。
-
-渐进式检查的频次和详细程度，应保证在每个 12 个日历月内对航空器完成一次完整检查，并与制造商的建议、外场使用经验以及该航空器所从事的运行种类相一致。渐进式检查计划必须确保航空器在任何时候都适航，并符合所有适用的 FAA 航空器规范、型号合格证数据表、适航指令和其他经批准的资料。如果中止渐进式检查，所有人或运营人应立即以书面形式将中止一事通知当地 FAA 飞行标准地区办公室。中止之后，按 §91.409(a)(1) 的首次年度检查应在航空器按渐进式检查完成的最后一次完整检查之后 12 个日历月内到期。按 §91.409(b) 的 100 小时检查应在该次完整检查之后 100 小时内到期。就确定年度检查和 100 小时检查何时到期而言，对航空器的完整检查要求按渐进式检查对航空器及其所有部件作详细检查。对航空器的例行检查再加上对若干部件的详细检查，不算一次完整检查。
-
 (d) 渐进式检查。希望采用渐进式检查计划的每一位航空器登记所有人或运营人，必须向对其所在地区有管辖权的 FAA 飞行标准地区办公室提交书面请求，并应提供——(1) 持有检查授权的持证机械员、持证机体修理站，或航空器制造商，以监督或实施渐进式检查；
 
 (2) 一份现行检查程序手册，可供驾驶员和维修人员取用且通俗易懂，其中详细包含——(i) 渐进式检查的说明，包括检查责任的连续性、报告的编写，以及记录和技术参考资料的保存；
@@ -272,6 +268,10 @@ Two primary factors that make inspecting these aircraft different from other air
 
 着陆所引起的结构应力，不仅取决于当时的全重，还取决于撞击的剧烈程度。重着陆检查针对的是以最大设计着陆限制或低于该限制着陆的重着陆。当飞机以超过最大设计着陆重量的重量着陆时，必须进行超重着陆检查。然而，由于难以估计接地瞬间的垂直速度，很难判断一次着陆是否严重到足以造成结构损伤。因此，在已知超过设计着陆重量的重量下着陆之后，或在粗暴着陆之后——即使后者发生时航空器并未超过设计着陆重量——都要实施一次特别检查。
 
+(3) 对航空器进行必要分解和正确检查所需的足够机库与设备；以及 (4) 适用于该航空器的现行适当技术资料。
+
+渐进式检查的频次和详细程度，应保证在每个 12 个日历月内对航空器完成一次完整检查，并与制造商的建议、外场使用经验以及该航空器所从事的运行种类相一致。渐进式检查计划必须确保航空器在任何时候都适航，并符合所有适用的 FAA 航空器规范、型号合格证数据表、适航指令和其他经批准的资料。如果中止渐进式检查，所有人或运营人应立即以书面形式将中止一事通知当地 FAA 飞行标准地区办公室。中止之后，按 §91.409(a)(1) 的首次年度检查应在航空器按渐进式检查完成的最后一次完整检查之后 12 个日历月内到期。按 §91.409(b) 的 100 小时检查应在该次完整检查之后 100 小时内到期。就确定年度检查和 100 小时检查何时到期而言，对航空器的完整检查要求按渐进式检查对航空器及其所有部件作详细检查。对航空器的例行检查再加上对若干部件的详细检查，不算一次完整检查。
+
 机翼蒙皮起皱，是着陆过程中施加了过大载荷最容易发现的迹象。另一个容易发现的迹象是铆接缝处的燃油渗漏。其他可能的损伤部位是翼梁腹板、隔框、短舱蒙皮及其连接件、防火墙蒙皮，以及机翼和机身长桁。如果这些部位都没有不良影响，可以合理地认为未发生严重损伤。如果发现了损伤，则可能需要更广泛的检查和结构对合检查。
 
 ### 严重湍流检查／超“G”检查
@@ -280,15 +280,15 @@ Two primary factors that make inspecting these aircraft different from other air
 
 在飞越严重湍流之后要实施一次特别检查。重点检查机翼上下表面有无带永久变形的过度鼓胀或起皱。凡出现起皱处，拆下几颗铆钉并检查铆钉杆，判断铆钉是否被剪断，或在剪切中承受了很高的载荷。
 
-ATA iSpec 2200 系统 示例系统 分系统 标题 21 空调 21-00 总则 21-10 压缩 21-20 分配 21-30 增压控制 21-40 加热 21-50 冷却 21-60 温度控制 21-70 湿气／空气污染物控制 22 自动飞行 23 通信 24 电源 25 设备／内饰 26 防火 27 飞行操纵 28 燃油 29 液压 30 防冰与防雨 31 指示／记录系统 32 起落架 33 灯光 34 导航 35 氧气 36 气动 37 真空 38 水／废水 42 综合模块化航电 51 标准做法与结构——总则 52 舱门 53 机身 54 短舱／吊挂 55 安定面 56 窗 57 机翼 60 标准做法——螺旋桨／旋翼 61 螺旋桨／推进 62 旋翼
-
-71 动力装置 72 发动机 涡轮／涡桨 涵道风扇／非涵道风扇 72-20 进气段 73 发动机燃油与控制 74 点火 75 空气 76 发动机操纵 77 发动机指示 78 排气 79 滑油 80 起动 81 涡轮 82 喷水 83 附件齿轮箱。它并不包罗一切，应视为帮助理解 ATA iSpec 2200 系统编号方法的学习辅助材料。系统和分系统的完整说明，请查阅具体航空器维修手册或美国航空公司协会（A4A）。
-
 通过检查门和其他可触及的开口，检查从机身到翼尖的所有翼梁腹板。检查有无鼓胀、起皱和被剪断的连接件。检查短舱周围区域和短舱蒙皮有无鼓胀，尤其是机翼前缘处。检查有无燃油渗漏。任何明显的燃油渗漏都表明该区域可能承受过超载，使密封胶破裂、接缝张开。
+
+ATA iSpec 2200 系统 示例系统 分系统 标题 21 空调 21-00 总则 21-10 压缩 21-20 分配 21-30 增压控制 21-40 加热 21-50 冷却 21-60 温度控制 21-70 湿气／空气污染物控制 22 自动飞行 23 通信 24 电源 25 设备／内饰 26 防火 27 飞行操纵 28 燃油 29 液压 30 防冰与防雨 31 指示／记录系统 32 起落架 33 灯光 34 导航 35 氧气 36 气动 37 真空 38 水／废水 42 综合模块化航电 51 标准做法与结构——总则 52 舱门 53 机身 54 短舱／吊挂 55 安定面 56 窗 57 机翼 60 标准做法——螺旋桨／旋翼 61 螺旋桨／推进 62 旋翼
 
 如果在严重湍流期间放下了起落架，应仔细检查周围表面有无铆钉松动、裂纹或鼓胀。轮舱内部可能进一步显示过度阵风的情况。检查机身蒙皮的上下表面。过大的弯矩可能在这些区域留下斜向的皱褶。
 
 检查尾翼表面有无皱褶、鼓胀或被剪断的连接件。还要检查尾翼与机身的连接区域。这些检查覆盖了关键部位。如果在上述任何部位发现过度损伤，必须继续检查，直到查明全部损伤。
+
+71 动力装置 72 发动机 涡轮／涡桨 涵道风扇／非涵道风扇 72-20 进气段 73 发动机燃油与控制 74 点火 75 空气 76 发动机操纵 77 发动机指示 78 排气 79 滑油 80 起动 81 涡轮 82 喷水 83 附件齿轮箱。它并不包罗一切，应视为帮助理解 ATA iSpec 2200 系统编号方法的学习辅助材料。系统和分系统的完整说明，请查阅具体航空器维修手册或美国航空公司协会（A4A）。
 
 ### 雷击
 

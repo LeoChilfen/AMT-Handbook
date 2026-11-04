@@ -40,9 +40,13 @@ Page No. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Rev No. 18 14 12 12 12 12 15 
 
 Rudder (±1°) Left 35° Right 35° Stabilator Trim Tab (±1°) Down 10.5° Up 6.5° (Stabilator neutral) Wing Flaps (±2°) Up 0° Down 40° Rudder Trim Tab (±1°) Left 25° Right 25° (Rudder neutral)
 
+Rudder (±1°) Left 35° Right 35° Stabilator Trim Tab (±1°) Down 10.5° Up 6.5° (Stabilator neutral) Wing Flaps (±2°) Up 0° Down 40° Rudder Trim Tab (±1°) Left 17° Right 22° (Rudder neutral)
+
+Rudder (±1°) Left 35° Right 35° Stabilator Trim Tab (±1°) Down 10.5° Up 6.5° (Stabilator neutral) Wing Flaps Up 0° (±1°) Down 40° (±2°)
+
 Nose Wheel Travel (±1°) Left 27° Right 27° Manufacturer's Serial Number 34-7570001 through 34-8170092 (See NOTE 7). IIIA. - Model PA-34-220T (Seneca III), 7 PCLM (Normal Category), Approved December 17, 1980. Same as model PA-34-200T series except engines, windshield, instrument panel, landing gear, maximum gross weight and other minor changes. Engines 1 Teledyne Continental TSIO-360-KB (left engine), 1 Teledyne Continental LTSIO-360-KB (right engine). Fuel 100/100LL minimum grade aviation gasoline Engine Limits Takeoff, 5 minutes, 2800 r.p.m. and 40" Hg. ma nifold pressure (220 hp) Max. Continuous, 2600 r.p.m. and 40" Hg. manifold pressure (200 hp) Propeller and Propeller Limits Left Engine 1 Hartzell, Hub Model BHC-C2 YF-2 ( ) UF, Blade Model FC8459-8R. Right Engine 1 Hartzell, Hub Model BHC-C2YF-2 ( )L ( )UF, Blade Model FJC8459-8R. Page No. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 Rev No. 18 14 12 12 12 12 15 15 18 16 15 18 18 16 18 16 18 DEPARTMENT OF TRANSPORTATION FEDERAL AVIATION ADMINISTRATION A7SO Revision 19 Piper Aircraft, Inc PA-34-200 PA-34-200T PA-34-220T May 2, 2013 TYPE CERTIFICATE DATA SHEET NO. A7SO This data sheet which is a part of type certificate No. A7SO, prescribes conditions and limitations under which the product for which the type certificate was issued meets the airworthiness requirements of the Federal Aviation Regulations. Type Certificate Holder Piper Aircraft, Inc. 2926 Piper Drive Vero Beach, Florida 32960 Type Certificate Holder Record The New Piper Aircraft, Inc transferred TC A7SO to Piper Aircraft, Inc on August 7, 2006 I. - Model PA-34-200 (Seneca), 7 PCLM (Normal Category), Approved 7 May 1971. Engines S/N 34-E4, 34-7250001 through 34-7250214: 1 Lycoming LIO-360-C1E6 with fuel injector, Lycoming P/N: LW-10409 or LW-12586 (right side); and 1 Lycoming IO-360-C1E6 with fuel injector, Lycoming P/N: LW-10409 or LW 12586 (left side). S/N 34-7250215 through 34-7450220: 1 Lycoming LIO-360-C1E6 with fuel injector, Lycoming P/N: LW-12586 (right side); and 1 Lycoming IO-360-C1E6 with fuel injector, Lycoming P/N: LW-12586 (left side). Fuel 100/130 minimum grade aviation gasoline Engine Limits For all operations, 2700 r.p.m. (200 hp) Propeller and Propeller Limits Left Engine 1 Hartzell, Hub Model HC-C2YK-2 ( ) E, Blade Model C7666A-0; 1 Hartzell, Hub Model HC-C2YK-2 ( ) EU, Blade Model C7666A-0; 1 Hartzell, Hub Model HC-C2YK-2 ( ) EF, Blade Model FC7666A-0; 1 Hartzell, Hub Model HC-C2YK-2 ( ) EFU, Blade Model FC7666A-0; 1 Hartzell, Hub Model HC-C2YK-2CG (F), Blade Model (F) C7666A (This model includes the Hartzell damper); or 1 Hartzell, Hub Model HC-C2YK-2CGU (F), Blade Model (F) C7666A (This model includes the Hartzell damper). Note: HC-( )2YK-( ) may be substituted by HC-( )2YR-( ) per Hartzell Service Advisory 61. A7SO 2 of 17 Propeller and Propeller Limits Right Engine (continued) 1 Hartzell, Hub Mode l HC-C2YK-2 ( ) LE, Blade Model JC7666A-0; 1 Hartzell, Hub Model HC-C2 YK-2 ( ) LEU, Blade Model JC7666A-0; 1 Hartzell, Hub Model HC-C2 YK-2 ( ) LEF, Blade Model FJC7666A-0; 1 Hartzell, Hub Model HC-C2 YK-2 ( ) LEFU, Blade Model FJC7666A-0; 1 Hartzell, Hub Model HC -C2YK-2CLG (F), Blade Model (F) JC7666A (This model includes the Hartzell damper); or 1 Hartzell, Hub Model HC-C2 YK-2CLGU (F), Blade Model (F) JC7666A (This model includes the Hartzell dam per). Note: HC-( )2YK-( ) may be substituted by HC-( )2YR-( ) per Hartzell Service Advisory 61. Pitch setting: High 79 ° to 81°, Low 13.5° at 30" station. Diameter: Not over 76", not under 74". No fur ther reduction permitted. Spinner: Piper P/N 96388 Spin ner Assembly and P/N 96836 Cap Assembly, or P/N 78359-0 Spinner A ssembly and P/N 96836-2 Cap Assembly (See NOTE 4) Governor Assembly: 1 Hartzell hydraulic governor, Model F-6-18AL (Right); 1 Hartzell hydraulic governor, Model F-6-18A (Left). Avoid continuous operation bet ween 2200 and 2400 r.p.m. unless aircraft is equipped with Hartzell propellers which incorporates Hartzell damper on both left and right engine as noted ab ove. Airspeed Limits VNE (Never exceed) 217 m.p.h. (188 knots) VNO (Maximum structural cruise) 190 m.p.h (165 knots) VA (Maneuvering, 4200 lb.) 146 m.p.h. (127 knots ) VA (Maneuvering, 4000 lb.) 146 m.p.h. (127 knots) VA (Maneuvering, 2743 lb.) 133 m.p.h (115 knots) VFE (Flaps extended) 125 m.p.h (109 knots) VLO (Landing gear operating) Extension 150 m.p.h. (130 knots) Retract 125 m.p.h. (109 knots) VLE (Landing gear extended) 150 m.p.h (130 knots) VMC (Minimum control speed) 80 m.p.h. ( 69 knots) C.G. Range (Gear Extended) S/N 34-E4, 34-7250001 throug h 34-7250214 (See NOTE 3): (+86.4) to (+94.6) at 4000 lb. (+82.0) to (+94.6) at 3400 lb. (+80.7) to (+94.6) at 2780 lb. S/N 34-7250215 through 34- 7450220: (+87.9) to (+94.6) at 4200 l b. (+82.0) to (+94.6) at 3400 lb. (+80.7) to (+94.6) at 2780 lb. Straight line variation between po ints given. Moment change due to gear retra cting landing gear (-32 in.-lb.) Empty Weight C.G. Range None Maximum Weight S/N 34-E4, 34-7250001 through 34-7250214: 4000 lb.- Takeoff 4000 lb. - Landing See NOTE 3. A 3 of 17 A7SO Maximum Weight S/N 34-7250215 through 34-7450220: 4200 lb. - Takeoff 4000 lb. - Landing No. of Seats 7 (2 at +85.5, 3 at +118.1 , 2 at +155.7) Maximum Baggage 200 lb. (100 lb . at +22.5, 100 lb. at +178.7) Fuel Capacity 98 gallons (2 wing t anks) at (+93.6) (93 gallons usable) See NOTE 1 for data on syst em fuel. Oil Capacity 8 qts. per engi ne (6 qts. per engine usable) See NOTE 1 for data on sys tem oil. Control Surface Movements Ailerons (±2°) Up 30° Down 15° Stabilator Up 12.5° (+0, −1°) Down 7.5° (±1°)
 
-Rudder (±1°) Left 35° Right 35° Stabilator Trim Tab (±1°) Down 10.5° Up 6.5° (Stabilator neutral) Wing Flaps (±2°) Up 0° Down 40° Rudder Trim Tab (±1°) Left 17° Right 22° (Rudder neutral)
+Left 27° Right 27° Manufacturer's Serial Number 3449001 and up. DATA PERTINENT TO ALL MODELS Datum 78.4" forward of wing leading edge from the inboard edge of the inboard fuel tank. Leveling Means Two screws le ft side fuselage below window. Certification Basis Type Certificate No. A7SO issued May 7, 1971, obtained by the manufacturer under the delegation option authorization. Date of Type Certificate application July 23, 1968. Model PA-34-200 (Seneca I): FAR 23 as amended by Amendmen t 23-6 effective August 1, 1967; FAR 23.959 as amended by Amendment 23- 7 effective September 14, 1969; and FAR 23.1557(c)(1) as amended by Amendment 23-18 effective May 2, 1977. Compliance with FAR 23.1419 as am ended by Amendment 23-14 effective December 20, 1973, has been esta blished with optional ice protection provisions. Model PA-34-200T (Seneca II): FAR 23 as amended by Amendmen t 23-6 effective August 1, 1967; FAR 23.901, 23.909, 23.959, 23.1041, 23.1043, 23.1047, 23.1143, 23.1305(b)(c)(h)(p) and 23.1527(b) as amended by Amendm ent 23-7 effective September 14, 1969; and FAR 23.1557(c)(1) as amended by Amendment 23-18 effective May 2, 1977. Model PA-34-220T (Seneca III and IV): FAR 23 as amended by Amendmen t 23-6 effective August 1, 1967; FAR 23.207, 23.901, 23.909, 23.959, 23.1041, 23.1043, 23.1047, 23.1143, 23.1305(b)(c)(h)(p) and 23.1527 as am ended by Amendment 23-7 effective September 14, 1969; FAR 23.201 and 23.203 as amended by Amendment 23-14 effective December 20, 1973; FAR 23.1557(c)(1) as amended by Amendment 23-18 effective May 2, 1977; FAR 23.175(a) and 23.1581(b)(2) as amended by Amendment 23-21 effec tive March 1, 1978; FAR 23.1545(a) as amended by Amendment 23-23 effective December 1, 1978; and FAR 36 through Amendment 36-9 effective January 15, 1979.
 
 Nose Wheel S/N 34-E4, 34-7250001 through 34-7350353: Travel (±1°) Left 21° Right 21° Nose Wheel S/N 34-7450001 through 34-7450220: Travel (±1°) Left 27° Right 27° Manufacturer's Serial Number 34-E4, 34-7250001 through 3 4-7450220 (See NOTE 7). II. - Model PA-34-200T (Seneca II), 7 PCLM (Normal Category), Approved July 18, 1974. Same as Model PA-34-200 series except engine installation, maximum gross weight, and other minor changes. Engines 1 Teledyne Continent al TSIO-360-E or TSIO-360-EB (left engine), 1 Teledyne Continental LT SIO-360-E or LTSIO-360-EB (right engine). Fuel 100/130 minimum grade aviation gasoline Engine Limits For all ope rations, 2575 r.p.m. and 40" Hg. Manifold pressure, 200 hp @ S.L. and 215 hp @ 12,000 ft. Propeller and Propeller Limits Left engine 1 Hartzell, Hub Model BHC-C2YF-2 ( )F (See NOTE 10) or BHC-C2YF-2 ( )UF; Blade Model FC8459-8R or FC8459B-8R. Right engine 1 Hartzell, Hub Model BHC- C2YF-2 ( )L ( )F (See NOTE 10) or BHC-C2YF-2 ( )L ( )U F; Blade Model FJC8459-8R or FJC8459B-8R. Pitch setting at 30" station: Hub Serial Numbers prior t o AN3943: High 79.3° ± 2.0°, Low 14.4° ± 0.2° or High 80.0° to 81.5°, Low 14.4° ± 0.2°.
 
@@ -52,19 +56,15 @@ Hub Serial Numbers AN3943 an d subsequent: High 80.0° to 81.5°, Low 14.4° ± 
 
 POH VB-2186 9/2/2010 3449410 and up when Garmin G600 System is installed POH VB-2193 9/10/2010 3449410 and up when Piper Kit 766-632 (or equivalent 88247-{ }) and Garmin G600 System is installed. POH VB-2230 4/30/2013 3449459, 3449467 and up when the Garmin G1000 system is installed NOTE 1 Current Weight and Balanc e Report, including list of equipment included in certificated empty weight, and loading i nstructions when necessary, must be provided for each aircraft at the time of original certificatio n. The certificated emp ty weight and corresponding center of gravity locations must include undrainable system oi l (not included in oil capacity) and unusable fuel as noted below: Fuel: 30.0 lb. at (+103.0) for PA-34 series, except Model PA-34-220T (Sen eca V), S/N 3449001 and up Fuel: 36.0 lb. at (+103.0) for Model PA-34-220T (Seneca V), S/N 3449001 and up Oil: 6.2 lb. a t (+ 39.6) for Model PA-34-200 Oil: 12.0 lb. at (+ 43.7) for Models PA-34-200T and PA-34-220T NOTE 2 All placards required in the approved Airplane Flight Manual or Pilot's Operating Handbook and approved Airplane Fligh t Manual of Pilot's Operating Handbook supplements must be 11 of 17 A7SO Control Surface Movements Ailerons (±2°) Up 35° Down 20° Stabilator Up 12.5° (+0°, −1°) Down 7.5° (±1°)
 
-Rudder (±1°) Left 35° Right 35° Stabilator Trim Tab (±1°) Down 10.5° Up 6.5° (Stabilator neutral) Wing Flaps Up 0° (±1°) Down 40° (±2°)
+Always follow the aircraft manufacturer’s weighing and leveling procedures and processes. All aircraft need to be in a flight level attitude when they are weighed unless the manufacturer’s manual specifically allows it or has a formula in the manual to use accordingly.
+
+Before an aircraft can be weighed and reliable readings obtained, it must be in a level flight attitude. One method that can be used to check for a level condition is to use a spirit level, sometimes thought of as a carpenter’s level, by placing it on or against a specified place on the aircraft. Spirit levels consist of a vial full of liquid, except for a small air bubble. When the air bubble is centered between the two black lines, a level condition is indicated. By looking in the TCDS, it is determined that the leveling means is two screws on the left side of the airplane fuselage, in line with the trailing edge of the wing.
 
 Rudder Trim Tab (±1°) Left 26° Right 26° (Rudder neutral)
 
 Nose Wheel Travel (Maximum)
 
-Left 27° Right 27° Manufacturer's Serial Number 3449001 and up. DATA PERTINENT TO ALL MODELS Datum 78.4" forward of wing leading edge from the inboard edge of the inboard fuel tank. Leveling Means Two screws le ft side fuselage below window. Certification Basis Type Certificate No. A7SO issued May 7, 1971, obtained by the manufacturer under the delegation option authorization. Date of Type Certificate application July 23, 1968. Model PA-34-200 (Seneca I): FAR 23 as amended by Amendmen t 23-6 effective August 1, 1967; FAR 23.959 as amended by Amendment 23- 7 effective September 14, 1969; and FAR 23.1557(c)(1) as amended by Amendment 23-18 effective May 2, 1977. Compliance with FAR 23.1419 as am ended by Amendment 23-14 effective December 20, 1973, has been esta blished with optional ice protection provisions. Model PA-34-200T (Seneca II): FAR 23 as amended by Amendmen t 23-6 effective August 1, 1967; FAR 23.901, 23.909, 23.959, 23.1041, 23.1043, 23.1047, 23.1143, 23.1305(b)(c)(h)(p) and 23.1527(b) as amended by Amendm ent 23-7 effective September 14, 1969; and FAR 23.1557(c)(1) as amended by Amendment 23-18 effective May 2, 1977. Model PA-34-220T (Seneca III and IV): FAR 23 as amended by Amendmen t 23-6 effective August 1, 1967; FAR 23.207, 23.901, 23.909, 23.959, 23.1041, 23.1043, 23.1047, 23.1143, 23.1305(b)(c)(h)(p) and 23.1527 as am ended by Amendment 23-7 effective September 14, 1969; FAR 23.201 and 23.203 as amended by Amendment 23-14 effective December 20, 1973; FAR 23.1557(c)(1) as amended by Amendment 23-18 effective May 2, 1977; FAR 23.175(a) and 23.1581(b)(2) as amended by Amendment 23-21 effec tive March 1, 1978; FAR 23.1545(a) as amended by Amendment 23-23 effective December 1, 1978; and FAR 36 through Amendment 36-9 effective January 15, 1979.
-
 Plumb Bob A plumb bob is a heavy metal object, cylinder or cone shape, with a sharp point at one end and a string attached to the other end. If the string is attached to a given point on an aircraft, and the plumb bob can hang down so the tip just touches the ground, the point where the tip touches will be perpendicular to where the string is attached. An example of the use of a plumb bob would be measuring the distance from an aircraft’s datum to the center of the main landing gear axle. If the leading edge of the wing was the datum, a plumb bob could be dropped from the leading edge and a chalk mark made on the hangar floor.
-
-Always follow the aircraft manufacturer’s weighing and leveling procedures and processes. All aircraft need to be in a flight level attitude when they are weighed unless the manufacturer’s manual specifically allows it or has a formula in the manual to use accordingly.
-
-Before an aircraft can be weighed and reliable readings obtained, it must be in a level flight attitude. One method that can be used to check for a level condition is to use a spirit level, sometimes thought of as a carpenter’s level, by placing it on or against a specified place on the aircraft. Spirit levels consist of a vial full of liquid, except for a small air bubble. When the air bubble is centered between the two black lines, a level condition is indicated. By looking in the TCDS, it is determined that the leveling means is two screws on the left side of the airplane fuselage, in line with the trailing edge of the wing.
 
 The plumb bob could also be dropped from the center of the axle on the main landing gear, and a chalk mark made on the floor. With a tape measure, the distance between the two chalk marks could be determined, and the arm for the main landing gear would be known. Plumb bobs can also be used to level an aircraft, as described in the Helicopter Weight and Balance section of this chapter.
 
@@ -160,12 +160,6 @@ The red line represents the forward limit up to a weight of 2,780 lb. The blue a
 
 For some aircraft, a CG range is given for the aircraft in the empty weight condition in the TCDS. This practice is not very common with airplanes, but is often done for helicopters. This range would only be listed for an airplane if the fuel tanks, seats, and baggage compartments are so located that changes in the fuel or occupant load have a very limited effect on the balance of the aircraft. If the EWCG of an aircraft falls within the EWCG limits, it is impossible to legally load the aircraft so that its loaded CG falls outside of its allowable range. If the TCDS lists an EWCG range and, after a repair or alteration is completed, the EWCG falls within this range, then there is no need to compute a fore and aft check for adverse loading. But if the TCDS lists the EWCG range as “None” (and most of them do), a check must be made to determine whether it is possible by any combination of legal loading to cause the aircraft CG to move outside of either its forward or aft limits.
 
-S/N 34-E4, 34-7250001 through 34-7250214 (See NOTE 3)
-
-(+86.4") to (+94.6") at 4,000 lb (+82.0") to (+94.6") at 3,400 lb (+80.7") to (+94.6") at 2,780 lb Straight line variation between points given.
-
-Moment change due to gear retracting landing gear (–32 in-lb)
-
 #### Operating CG Range
 
 All aircraft have CG limits identified for the operational condition, with the aircraft loaded and ready for flight. If an aircraft can operate in more than one category, such as normal and utility, more than one set of limits might be listed. As shown earlier for the Piper Seneca airplane, the limits can change as the weight of the aircraft increases. To legally fly, the CG for the aircraft must fall within the CG limits.
@@ -197,6 +191,12 @@ By analyzing the data identified for the airplane being weighed, the following i
 To calculate the airplane’s empty weight and EWCG, a six-column chart is used.
 
 Based on the calculation shown in the chart, the CG is at +50.1", which means it is 50.1" aft of the datum. This places the CG forward of the main landing gear, which must be the case for a tricycle gear airplane. This number is the result of dividing the total moment of 66,698 in-lb by the total weight of 1,331.5 lb.
+
+S/N 34-E4, 34-7250001 through 34-7250214 (See NOTE 3)
+
+(+86.4") to (+94.6") at 4,000 lb (+82.0") to (+94.6") at 3,400 lb (+80.7") to (+94.6") at 2,780 lb Straight line variation between points given.
+
+Moment change due to gear retracting landing gear (–32 in-lb)
 
 The EWCG can be quickly calculated by using the following formulas. There are four possible conditions and formulas that relate the location of the CG to the datum. Notice that the formula for each condition first determines the moment of the nose F × LW wheel or tail R × LW wheel and then divides it by the total weight of the airplane. The arm is then added to or subtracted from the distance between the main wheels and the datum (distance D). Formula 1 Nosewheel airplanes with datum forward of the main wheels.
 
@@ -262,15 +262,15 @@ The distance (D) between the datum of the airplane and the main-gear weighing po
 
 Datum D = 128.0 114.8 100.0 L = 78.0 13.2 50.0 edge.
 
-Datum 153.0 88.2 D =75.0 L = 78.0 trailing edge.
-
-CG = D + (R × L) / W = 7.5 + (67 × 222) / 1,218 = 19.7 The CG is 19.7 inches behind the datum.
-
 Datum Aft of the Main Wheels–Tail Wheel Landing Gear The datum of the airplane is located at the intersection of the wing root trailing edge and the fuselage. This places the arm of the main gear (D) at –80". The net weight of the tail wheel (R) is 67 lb, the distance between the main wheels and the tail wheel (L) is 222", and the total net weight (W) of the airplane is 1,218 lb.
 
 Since the datum is aft of the main wheels, use the formula:
 
 CG = –D + (R × L) / W = –80 + (67 × 222) / 1,218 = –67.8 The CG is 67.8" forward of the datum, or 12.2" aft of the main-gear weighing points. The CG is in the same location relative to the main wheels, regardless of where the datum is located.
+
+Datum 153.0 88.2 D =75.0 L = 78.0 trailing edge.
+
+CG = D + (R × L) / W = 7.5 + (67 × 222) / 1,218 = 19.7 The CG is 19.7 inches behind the datum.
 
 ## 2. 中文翻译
 
@@ -316,25 +316,25 @@ CG = –D + (R × L) / W = –80 + (67 × 222) / 1,218 = –67.8 The CG is 67.8"
 
 （原文此处为表格碎片，原文无正文）
 
-（原文此处为表格碎片，原文无正文）
-
-（原文此处为表格碎片，原文无正文）
-
-（原文此处为表格碎片，原文无正文）
-
-（原文此处为表格碎片，原文无正文）
-
-（原文此处为表格碎片，原文无正文）
-
-（原文此处为表格碎片，原文无正文）
-
 左 27° 右 27° 制造商序列号 3449001 及以后。适用于所有型号的数据 基准：位于机翼前缘前方 78.4"，自内侧燃油箱的内侧边缘量起。调平手段：机身左侧、窗口下方的两颗螺钉。取证依据：A7SO 号型号合格证于 1971 年 5 月 7 日签发，由制造商按授权委托选项取得。型号合格证申请日期为 1968 年 7 月 23 日。Model PA-34-200（Seneca I）： （原文此处为表格碎片，原文无正文）
 
-铅垂 铅垂是一个沉重的金属物体，呈圆柱形或圆锥形，一端有尖头，另一端系有细绳。如果把细绳系在飞机上的某一点，让铅垂下垂到尖端刚好触地，尖端所触的点就与细绳所系的点处于同一铅垂线上。铅垂的用法之一，是测量从飞机基准到主起落架轮轴中心的距离。如果机翼前缘是基准，就可以从机翼前缘放下铅垂，并在地坪上做粉笔记号。
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
 
 始终遵循飞机制造商的称重与调平程序和方法。所有飞机称重时都必须处于水平飞行姿态，除非制造商手册中专门允许，或手册中给出了可相应使用的公式。
 
 在飞机能够称重并获得可靠读数之前，它必须处于水平飞行姿态。检查水平状态的一种方法，是把水平仪（有时被看作是木工水平尺）放在或贴在飞机上的指定位置。水平仪由一个装满液体的玻璃管构成，其中只留有一个小气泡。当气泡在两条黑线之间居中时，即表示处于水平状态。查阅 TCDS 可以确定，该机的调平手段是机身左侧、与机翼后缘齐平的两颗螺钉。
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+铅垂 铅垂是一个沉重的金属物体，呈圆柱形或圆锥形，一端有尖头，另一端系有细绳。如果把细绳系在飞机上的某一点，让铅垂下垂到尖端刚好触地，尖端所触的点就与细绳所系的点处于同一铅垂线上。铅垂的用法之一，是测量从飞机基准到主起落架轮轴中心的距离。如果机翼前缘是基准，就可以从机翼前缘放下铅垂，并在地坪上做粉笔记号。
 
 铅垂也可以从主起落架轮轴中心放下，在地坪上做记号。用卷尺量出两个粉笔记号之间的距离，主起落架的力臂就确定了。铅垂还可用于调平飞机，本章「直升机重量与平衡」一节对此有说明。
 
@@ -430,12 +430,6 @@ CG = –D + (R × L) / W = –80 + (67 × 222) / 1,218 = –67.8 The CG is 67.8"
 
 对于某些飞机，TCDS 中会给出空重状态下的重心范围。这种做法在飞机上不很常见，但在直升机上常用。只有当燃油箱、座椅和行李舱的位置使得燃油或乘员载荷的变化对飞机平衡的影响很小时，才会为飞机列出这一范围。如果飞机的空重重心落在空重重心限制之内，就不可能通过合法装载使装载重心落到允许范围之外。如果 TCDS 列出了空重重心范围，且在完成修理或改装后空重重心仍落在该范围内，就不必再做前后不利装载检查。但如果 TCDS 把空重重心范围列为「None」（大多数如此），则必须进行检查，判断是否存在某种合法装载组合会使飞机的重心移出其前限或后限。
 
-（原文此处为表格碎片，原文无正文）
-
-（原文此处为表格碎片，原文无正文）
-
-起落架收起引起的力矩变化（–32 in-lb）
-
 #### 使用重心范围
 
 所有飞机都规定了使用状态下的重心限制，即飞机装载完毕、准备飞行时的状态。如果一架飞机可以在一个以上类别下运行，例如正常类和实用类，可能会列出多于一组限制。如前面对 Piper Seneca 飞机所示，限制会随飞机重量增加而变化。要合法飞行，飞机的重心必须落在重心限制之内。
@@ -467,6 +461,12 @@ CG = –D + (R × L) / W = –80 + (67 × 222) / 1,218 = –67.8 The CG is 67.8"
 为算出该飞机的空重和空重重心，使用一个六列表格。
 
 根据表中所作的计算，重心位于 +50.1"，即基准之后 50.1"。这使得重心位于主起落架之前，对前三点式飞机来说必然如此。这个数字是用总力矩 66,698 in-lb 除以总重量 1,331.5 lb 得到的。
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+起落架收起引起的力矩变化（–32 in-lb）
 
 用下列公式可以快速算出空重重心。重心位置与基准的关系有四种可能的情况和公式。注意每个公式都先求出前轮 F × LW 或尾轮 R × LW 的力矩，再除以飞机总重量，然后把得到的力臂与主轮和基准之间的距离（距离 D）相加或相减。公式 1 基准在主轮之前的前三点式飞机。
 
@@ -532,15 +532,15 @@ CG = –(D + (F × L) / W) = –(75 + (340 × 78) / 2,006) = –88.2 重心位�
 
 （原文此处为图表碎片，原文无正文）
 
-（原文此处为图表碎片，原文无正文）
-
-CG = D + (R × L) / W = 7.5 + (67 × 222) / 1,218 = 19.7 重心位于基准之后 19.7 inches。
-
 基准在主轮之后——后三点式起落架 该飞机的基准设在机翼翼根后缘与机身的交点处。这使得主起落架的力臂（D）为 –80"。尾轮净重（R）为 67 lb，主轮与尾轮之间的距离（L）为 222"，飞机的总净重（W）为 1,218 lb。
 
 由于基准在主轮之后，使用下列公式：
 
 CG = –D + (R × L) / W = –80 + (67 × 222) / 1,218 = –67.8 重心位于基准之前 67.8"，或主起落架称重点之后 12.2"。无论基准设在哪里，重心相对于主轮的位置都相同。
+
+（原文此处为图表碎片，原文无正文）
+
+CG = D + (R × L) / W = 7.5 + (67 × 222) / 1,218 = 19.7 重心位于基准之后 19.7 inches。
 
 ## 3. 专业词汇
 

@@ -80,8 +80,6 @@ Flammable liquids should be handled only in approved containers or safety cans a
 
 #### Fire Prevention Precautions
 
-During aircraft cleaning or refurbishing operations where flammable or combustible liquids are used, the following general safeguards are recommended:
-
 1. Aircraft cabins are to be provided with ventilation sufficient at all times to prevent the accumulation of flammable vapors. To accomplish this, doors to cabins shall be open to secure maximum advantage of natural ventilation. Where such natural ventilation is not sufficient, approved mechanical ventilation equipment shall be provided and used. The accumulation of flammable vapors above 25 percent of the lower flammability limit of the particular vapor being used, measured at a point 5 feet from the location of use, shall result in emergency revisions of operations in progress.
 
 2. All open flame and spark producing equipment or devices that may be brought within the vapor hazard area must be shut down and not operated during the period when flammable vapors may exist.
@@ -94,17 +92,19 @@ During aircraft cleaning or refurbishing operations where flammable or combustib
 
 #### Fire Protection Recommendations
 
+During aircraft cleaning or refurbishing operations where flammable or combustible liquids are used, the following general safeguards are recommended:
+
 During aircraft cleaning or refurbishing operations where flammable liquids are used, the following general fire protection safeguards are recommended:
 
 1. Aircraft undergoing such cleaning or refurbishing must preferably be located outside of the hangar buildings when weather conditions permit. This provides for added natural ventilation and normally assures easier access to the aircraft in the event of fire.
-
-3. Aircraft undergoing such cleaning or refurbishing where the work is to be done under cover must be in hangars equipped with automatic fire protection equipment.
 
 2. It is recommended that during such cleaning or refurbishing operations in an aircraft outside of the hangar that portable fire extinguishers be provided at cabin entrances having a minimum rating of 20-B. Additionally, at minimum, a booster hose line with an adjustable water spray nozzle capable of reaching the cabin area for use pending the arrival of airport fire equipment must be available. As an alternate to the previous recommendations, a Class A fire extinguisher having a minimum rating of 4-A plus or a Class B fire extinguisher having a minimum rating of 20-B must be placed at aircraft cabin doors for immediate use if required.
 
 NOTE 1: All-purpose ABC (dry chemical) type extinguishers are not to be used in situations where aluminum corrosion is a problem, if the extinguisher is used.
 
 NOTE 2: Portable and semi-portable fire detection and extinguishing equipment has been developed, tested, and installed to provide protection to aircraft during construction and maintenance operations. Operators are urged to investigate the feasibility of utilizing such equipment during aircraft cabin cleaning and refurbishing operations.
+
+3. Aircraft undergoing such cleaning or refurbishing where the work is to be done under cover must be in hangars equipped with automatic fire protection equipment.
 
 ## 2. 中文翻译
 
@@ -184,8 +184,6 @@ NOTE 2: Portable and semi-portable fire detection and extinguishing equipment ha
 
 #### 防火预防措施
 
-在使用易燃或可燃液体的飞机清洁或翻修作业期间，建议采取以下一般防护措施：
-
 1. 飞机客舱应始终提供足够的通风，以防止易燃蒸气积聚。为此，客舱门应敞开，以最大限度地利用自然通风。在自然通风不足的地方，应提供并使用经批准的机械通风设备。在使用点 5 英尺处测量，若易燃蒸气积聚超过所用特定蒸气燃烧下限的 25%，则应立即对进行中的作业作出紧急调整。
 
 2. 所有可能被带入蒸气危险区域的明火和产生火花的设备或装置，在可能存在易燃蒸气期间必须关闭，不得运行。
@@ -198,17 +196,19 @@ NOTE 2: Portable and semi-portable fire detection and extinguishing equipment ha
 
 #### 消防建议
 
+在使用易燃或可燃液体的飞机清洁或翻修作业期间，建议采取以下一般防护措施：
+
 在使用易燃液体的飞机清洁或翻修作业期间，建议采取以下一般消防防护措施：
 
 1. 天气条件允许时，进行此类清洁或翻修的飞机最好停放在机库建筑之外。这样可增加自然通风，通常还能确保发生火灾时更容易接近飞机。
-
-3. 如果此类清洁或翻修作业要在有遮蔽的条件下进行，则受作业的飞机必须停放在配备自动消防设备的机库内。
 
 2. 建议在机库外对飞机进行此类清洁或翻修作业时，在客舱入口处配备额定值至少为 20-B 的手提式灭火器。此外，至少必须备有带可调水雾喷嘴、能够伸及客舱区域的增压软管水带，以便在机场消防设备到达前使用。作为上述建议的替代方案，必须在飞机客舱门口放置额定值至少为 4-A 的 A 类灭火器或额定值至少为 20-B 的 B 类灭火器，以备需要时立即使用。
 
 注 1：在铝腐蚀成为问题的场合，如果使用灭火器，不得使用通用 ABC（干粉）型灭火器。
 
 注 2：已开发、试验并安装了便携式和半便携式火警探测与灭火设备，用于在建造和维修作业期间为飞机提供保护。敦促运营人研究在飞机客舱清洁和翻修作业期间使用此类设备的可行性。
+
+3. 如果此类清洁或翻修作业要在有遮蔽的条件下进行，则受作业的飞机必须停放在配备自动消防设备的机库内。
 
 ## 3. 专业词汇
 

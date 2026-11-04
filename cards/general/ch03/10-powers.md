@@ -18,12 +18,6 @@ A number with a negative power equals its reciprocal with the same power made po
 
 2-3 = 1 23 = 1 2 × 2 × 2 = 1 8 When using a calculator to raise a negative number to a power, always place parentheses around the negative number (before raising it to a power) so that the entire number gets raised to the power.
 
-### Fractional Powers
-
-Another way to write a root is to use a fraction as the power (or exponent) instead of the radical sign. The square root of a number is written with a 1⁄2 as the exponent instead of a radical sign. The cube root of a number is written with an exponent of 1⁄3 and the fourth root with an exponent of 1⁄4 and so on.
-
-Example: 31 = 31 1⁄2 3 125 = 1251⁄3 4 16 = 161⁄4
-
 ### Law of Exponents
 
 When multiplying numbers with powers, the powers can be added as long as the bases are the same. Example:
@@ -40,6 +34,14 @@ The square root of 25, written as 25, equals 5. That is, when the number 5 is sq
 
 Example: Find the square root of 31. Since 31 falls between the two perfect roots 25 and 36, we know that must be between 25 and 36. Therefore, 31 must be greater than 5 and less than 6 because 25 = 5 and 36 = 6. If you estimate the square root of 31 at 5.5, you are close to the correct answer. The square root of 31 is actually 5.568.
 
+The cube root of 125, written as 3 125, equals 5. That is, when the number 5 is cubed (5 multiplied by itself then multiplying the product (25) by 5 again), it produces the number 125. It is common to confuse the “cube” of a number with the “cube root” of a number. For clarification, the cube of 27 = 273 = 27 × 27 × 27 = 19,683. However, the cube root of 27 = 3 27 = 3.
+
+### Fractional Powers
+
+Another way to write a root is to use a fraction as the power (or exponent) instead of the radical sign. The square root of a number is written with a 1⁄2 as the exponent instead of a radical sign. The cube root of a number is written with an exponent of 1⁄3 and the fourth root with an exponent of 1⁄4 and so on.
+
+Example: 31 = 31 1⁄2 3 125 = 1251⁄3 4 16 = 161⁄4
+
 Powers of Ten Expansion Value Positive Exponents 106 105 104 103 102 101 100 1,000,000 100,000 10,000 1,000 100 10 1 10 x 10 x 10 x 10 x 10 x 10 10 x 10 x 10 x 10 x 10 10 x 10 x 10 x 10 10 x 10 x 10 10 x 10 10 Negative Exponents 1/10=0.1 1/100=0.01 1/1,000=0.001 1/10,000=0.0001 1/100,000=0.00001 1/1,000,000=0.000001 1/10 1/(10 x 10)
 
 1/(10 x 10 x 10 x 10)
@@ -47,8 +49,6 @@ Powers of Ten Expansion Value Positive Exponents 106 105 104 103 102 101 100 1,0
 1/(10 x 10 x 10 x 10 x 10)
 
 1/(10 x 10 x 10 x 10 x 10 x 10)
-
-The cube root of 125, written as 3 125, equals 5. That is, when the number 5 is cubed (5 multiplied by itself then multiplying the product (25) by 5 again), it produces the number 125. It is common to confuse the “cube” of a number with the “cube root” of a number. For clarification, the cube of 27 = 273 = 27 × 27 × 27 = 19,683. However, the cube root of 27 = 3 27 = 3.
 
 ## 2. 中文翻译
 
@@ -66,12 +66,6 @@ The cube root of 125, written as 3 125, equals 5. That is, when the number 5 is 
 
 （原文此处为分式竖式，2⁻³ = 1⁄2³ = 1⁄(2 × 2 × 2) = 1⁄8，抽文中分数线与上标丢失：）2-3 = 1 23 = 1 2 × 2 × 2 = 1 8 用计算器把负数乘方时，务必在负数外加一对括号（在乘方之前），使整个数都被乘方。
 
-### 分数幂
-
-写根的另一种方法是用分数作幂（或指数），而不用根号。一个数的平方根写成指数 1⁄2 的形式，而不用根号。一个数的立方根写成指数 1⁄3，四次方根写成指数 1⁄4，依此类推。
-
-例：（原文此处为根式与分数幂的对照，根号与分数线在抽文中丢失：）31 = 31 1⁄2 3 125 = 1251⁄3 4 16 = 161⁄4
-
 ### 指数定律
 
 相乘带幂的数时，只要底数相同，幂就可以相加。例如：
@@ -88,6 +82,14 @@ The cube root of 125, written as 3 125, equals 5. That is, when the number 5 is 
 
 例：求 31 的平方根。因为 31 落在两个完全平方根 25 和 36 之间，可知其平方根必在 25 和 36 之间。因此，31 的平方根必大于 5 且小于 6，因为 25 = 5 且 36 = 6（原文此处根号丢失，25 = 5 实为 √25 = 5）。如果你把 31 的平方根估为 5.5，就接近正确答案了。31 的平方根实际是 5.568。
 
+125 的立方根写作 3 125，等于 5。也就是说，当数 5 立方（5 自乘，再把积 25 乘以 5），得到数 125。人们常把一个数的「立方」与一个数的「立方根」混淆。为澄清起见，27 的立方 = 273 = 27 × 27 × 27 = 19,683。而 27 的立方根 = 3 27 = 3。（原文此处 ∛125、27³、∛27 的根号与上标在抽文中被排平。）
+
+### 分数幂
+
+写根的另一种方法是用分数作幂（或指数），而不用根号。一个数的平方根写成指数 1⁄2 的形式，而不用根号。一个数的立方根写成指数 1⁄3，四次方根写成指数 1⁄4，依此类推。
+
+例：（原文此处为根式与分数幂的对照，根号与分数线在抽文中丢失：）31 = 31 1⁄2 3 125 = 1251⁄3 4 16 = 161⁄4
+
 （原文此处为 10 的幂次展开表，抽文已抽平，原文无正文：）Powers of Ten Expansion Value Positive Exponents 106 105 104 103 102 101 100 1,000,000 100,000 10,000 1,000 100 10 1 10 x 10 x 10 x 10 x 10 x 10 10 x 10 x 10 x 10 x 10 10 x 10 x 10 x 10 10 x 10 x 10 10 x 10 10 Negative Exponents 1/10=0.1 1/100=0.01 1/1,000=0.001 1/10,000=0.0001 1/100,000=0.00001 1/1,000,000=0.000001 1/10 1/(10 x 10)
 
 （原文此处为表格数据：1/(10 x 10 x 10 x 10)）
@@ -95,8 +97,6 @@ The cube root of 125, written as 3 125, equals 5. That is, when the number 5 is 
 （原文此处为表格数据：1/(10 x 10 x 10 x 10 x 10)）
 
 （原文此处为表格数据：1/(10 x 10 x 10 x 10 x 10)）
-
-125 的立方根写作 3 125，等于 5。也就是说，当数 5 立方（5 自乘，再把积 25 乘以 5），得到数 125。人们常把一个数的「立方」与一个数的「立方根」混淆。为澄清起见，27 的立方 = 273 = 27 × 27 × 27 = 19,683。而 27 的立方根 = 3 27 = 3。（原文此处 ∛125、27³、∛27 的根号与上标在抽文中被排平。）
 
 ## 3. 专业词汇
 

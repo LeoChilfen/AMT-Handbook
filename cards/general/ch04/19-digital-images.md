@@ -10,15 +10,15 @@ To provide information about the extent of the damage, a measurement scale, or o
 
 7.5 7.0 6.5 6.0 5.5 −40 −30 −20 −10 0 10 20 30 40 Specific Weight (lb/US gal)
 
-Aviation Gasoline Grade 100/130 Aviation Kerosene Jet A & Jet A1 Jet B (JP-4)
-
-NOTE: The fuel quantity indicator is calibrated for correct indication when using Aviation Kerosene Jet A and Jet A1. When using other fuels, multiply the indicated fuel quantity in pounds by 0.99 for Jet B (JP-4) or by 0.98 for Aviation Gasoline (100/130) to obtain actual fuel quantity in pounds.
+Density Variation of Aviation Fuel Based on Average Specific Gravity
 
 Fuel Aviation Kerosene Jet A and Jet A1 Jet B (JP-4)
 
 AV Gas Grade 100/130 0.785 0.812 0.703 Average Specific Gravity at 15 °C (59 °F)
 
-Density Variation of Aviation Fuel Based on Average Specific Gravity
+NOTE: The fuel quantity indicator is calibrated for correct indication when using Aviation Kerosene Jet A and Jet A1. When using other fuels, multiply the indicated fuel quantity in pounds by 0.99 for Jet B (JP-4) or by 0.98 for Aviation Gasoline (100/130) to obtain actual fuel quantity in pounds.
+
+Aviation Gasoline Grade 100/130 Aviation Kerosene Jet A & Jet A1 Jet B (JP-4)
 
 ## 2. 中文翻译
 
@@ -28,15 +28,15 @@ Density Variation of Aviation Fuel Based on Average Specific Gravity
 
 （原文此处为坐标轴刻度数字，无正文。）
 
-航空汽油 100/130 号　航空煤油 Jet A 和 Jet A1　Jet B（JP-4）
-
-注：燃油量指示器是按使用航空煤油 Jet A 和 Jet A1 时能正确指示来校准的。使用其他燃油时，把以磅为单位指示的燃油量乘以 0.99（对 Jet B，即 JP-4），或乘以 0.98（对航空汽油 100/130），即可得到以磅为单位的实际燃油量。
+基于平均比重的航空燃油密度变化
 
 燃油　航空煤油 Jet A 和 Jet A1　Jet B（JP-4）
 
 航空汽油 100/130 号　0.785　0.812　0.703　15 °C（59 °F）时的平均比重
 
-基于平均比重的航空燃油密度变化
+注：燃油量指示器是按使用航空煤油 Jet A 和 Jet A1 时能正确指示来校准的。使用其他燃油时，把以磅为单位指示的燃油量乘以 0.99（对 Jet B，即 JP-4），或乘以 0.98（对航空汽油 100/130），即可得到以磅为单位的实际燃油量。
+
+航空汽油 100/130 号　航空煤油 Jet A 和 Jet A1　Jet B（JP-4）
 
 ## 3. 专业词汇
 

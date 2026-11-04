@@ -6,29 +6,29 @@
 
 Solvent and water emulsion compounds are used in general aircraft cleaning. Solvent emulsions are particularly useful in the removal of heavy deposits, such as carbon, grease, oil, or tar. When used in accordance with instructions, these solvent emulsions do not affect good paint coatings or organic finishes.
 
+### Water Emulsion Cleaner
+
+Material available under Specification MIL-C-22543A is a water emulsion cleaning compound intended for use on both painted and unpainted aircraft surfaces. This material is also acceptable for cleaning fluorescent painted surfaces and is safe for use on acrylics. However, these properties vary with the material available. A sample application must be checked carefully before general uncontrolled use.
+
 ### Solvent Emulsion Cleaners
 
 One type of solvent emulsion cleaner is nonphenolic and can be safely used on painted surfaces without softening the base paint. Repeated use may soften acrylic nitrocellulose lacquers. It is effective, however, in softening and lifting heavy preservative coatings. Persistent materials are to be given a second or third treatment as necessary.
 
 Another type of solvent emulsion cleaner has a phenolic base that is more effective for heavy-duty application, but it also tends to soften paint coatings. It must be used with care around rubber, plastics, or other nonmetallic materials. Wear rubber gloves and goggles for protection when working with phenolic base cleaners.
 
-### Water Emulsion Cleaner
-
-Material available under Specification MIL-C-22543A is a water emulsion cleaning compound intended for use on both painted and unpainted aircraft surfaces. This material is also acceptable for cleaning fluorescent painted surfaces and is safe for use on acrylics. However, these properties vary with the material available. A sample application must be checked carefully before general uncontrolled use.
-
 ## 2. 中文翻译
 
 溶剂乳化剂和水乳化剂用于飞机的一般清洁。溶剂乳化剂在去除厚重沉积物（如积碳、润滑脂、油或焦油）时特别有用。按说明使用时，这些溶剂乳化剂不会影响完好的漆层或有机涂层。
+
+### 水乳化清洗剂
+
+按 MIL-C-22543A 规范供应的材料是一种水乳化清洁剂，拟用于涂漆和未涂漆的飞机表面。这种材料也可用于清洁荧光漆表面，并可安全用于丙烯酸塑料。然而，这些性能因所供材料而异。在未加控制地普遍使用之前，必须仔细检查样件试用情况。
 
 ### 溶剂乳化清洗剂
 
 一种溶剂乳化清洗剂不含酚，可安全用于涂漆表面而不会软化底层漆。反复使用可能软化丙烯酸硝基漆。不过，它能有效软化和剥离厚重的防腐涂层。对顽固材料，可视需要处理第二次或第三次。
 
 另一种溶剂乳化清洗剂以酚为基料，重负荷使用时更有效，但也容易软化漆层。在橡胶、塑料或其他非金属材料附近必须小心使用。使用酚基清洁剂作业时，要戴橡胶手套和护目镜进行防护。
-
-### 水乳化清洗剂
-
-按 MIL-C-22543A 规范供应的材料是一种水乳化清洁剂，拟用于涂漆和未涂漆的飞机表面。这种材料也可用于清洁荧光漆表面，并可安全用于丙烯酸塑料。然而，这些性能因所供材料而异。在未加控制地普遍使用之前，必须仔细检查样件试用情况。
 
 ## 3. 专业词汇
 

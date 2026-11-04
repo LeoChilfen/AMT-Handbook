@@ -72,6 +72,10 @@ Protruding head (tension)
 
 100° Oversize tension head (1⁄64 oversize bolt) 2 Sleeve Part Number Bolt Size Sleeve Length 8 8 10 10 12 16 16 16 1⁄8 #6 5⁄32 #8 #10 ¼ 5⁄16 3⁄8 JK5511( )04( )( )
 
+“L” at end of part number indicates cetyl alcohol lubricant. A. Drill out corrosion or damage to existing hole to 1/64 oversize.
+
+A286 Stainless steel (passivate) C B A Part Number Breakdown JK5511 A 04 N 08 L JK5511 A 04 N 08 L Basic part number Material code 1 Fastener s hank diameter in 32nds Surface finish N = No finish C = C hemical film per MIL-C -554 Length in sixteenth inch increments (Required installation length by breaking off at proper groove)
+
 JK5512 JK5516( )45( )( )
 
 Sleeve Part Number Bolt Size Sleeve Length Acres Sleeve for 1⁄64 Oversize Bolt JK5533( )06( )( )
@@ -80,15 +84,11 @@ Sleeve Part Number Bolt Size Sleeve Length Acres Sleeve for 1⁄64 Oversize Bolt
 
 Acres sleeve, JK5533 1⁄64 oversize available in A286 ste el only Acres sleeve length in sixteenth-inch increments 1 2 Material Material Code 5052 Aluminum alloy ½ hard 6061 Aluminum alloy (T6 condition)
 
-A286 Stainless steel (passivate) C B A Part Number Breakdown JK5511 A 04 N 08 L JK5511 A 04 N 08 L Basic part number Material code 1 Fastener s hank diameter in 32nds Surface finish N = No finish C = C hemical film per MIL-C -554 Length in sixteenth inch increments (Required installation length by breaking off at proper groove)
-
-“L” at end of part number indicates cetyl alcohol lubricant. A. Drill out corrosion or damage to existing hole to 1/64 oversize.
+Installation Procedure 1/8 #6 5/32 #8 #10 ¼ 5/16 3/8 9/64 23 11/64 15 5 14 21/64 25/64 0.1406 0.1540 0.1719 0.1800 0.2055 0.2660 0.3281 0.3908 28 24 18 16 6 17/64 0.1405 0.1520 0.1695 0.1770 0.2040 0.2656 Bolt Size Standard Fit Close Fit Drill Number Drill Diameter Drill Number Drill Diameter Hole Preparation 7/32 9/32 11/32 13/32 13/64 17/64 21/64 25/64 0.2187 0.2812 0.3437 0.4062 Bolt Size Drill N umber Drill Diameter Hole Preparation for 1⁄64 Oversize Bolt Existing fastener Acres sleeve Structure1/64 Oversize hole Acres sleeve installation 1/8 — 3/8 diameter 7 x 19 1/16 — 3/32 diameter 7 x 7 MS20663 Double shank ball end terminal MS20664 Single shank ball end terminal AN665 Rod end terminal AN666 Threaded cable terminal MS20667 Fork end cable terminal AN668/MS20668 Eye end cable terminal Pin eyeSwaged terminal Barrel Length (threads ﬂush with ends of barrel)
 
 B. Select proper type and length acres sleeve for existing fastener.
 
 C. Bond sleeve in structure hole with MIL-S-8802 class A ½ sealant.
-
-Installation Procedure 1/8 #6 5/32 #8 #10 ¼ 5/16 3/8 9/64 23 11/64 15 5 14 21/64 25/64 0.1406 0.1540 0.1719 0.1800 0.2055 0.2660 0.3281 0.3908 28 24 18 16 6 17/64 0.1405 0.1520 0.1695 0.1770 0.2040 0.2656 Bolt Size Standard Fit Close Fit Drill Number Drill Diameter Drill Number Drill Diameter Hole Preparation 7/32 9/32 11/32 13/32 13/64 17/64 21/64 25/64 0.2187 0.2812 0.3437 0.4062 Bolt Size Drill N umber Drill Diameter Hole Preparation for 1⁄64 Oversize Bolt Existing fastener Acres sleeve Structure1/64 Oversize hole Acres sleeve installation 1/8 — 3/8 diameter 7 x 19 1/16 — 3/32 diameter 7 x 7 MS20663 Double shank ball end terminal MS20664 Single shank ball end terminal AN665 Rod end terminal AN666 Threaded cable terminal MS20667 Fork end cable terminal AN668/MS20668 Eye end cable terminal Pin eyeSwaged terminal Barrel Length (threads ﬂush with ends of barrel)
 
 ## 2. 中文翻译
 
@@ -160,23 +160,23 @@ Acres 紧固件套筒是带外翻端的薄壁管状件。套筒装入孔中，�
 
 （原文此处为表格碎片，无对应正文）
 
-（原文此处为表格碎片，无对应正文）
-
-（原文此处为表格碎片，无对应正文）
-
-（原文此处为表格碎片，无对应正文）
-
-（原文此处为表格碎片，无对应正文）
-
-（原文此处为表格碎片，无对应正文）
-
 件号末尾的「L」表示采用十六烷醇润滑剂。A. 把现有孔上的腐蚀或损伤钻大到 1⁄64 加大尺寸。
+
+（原文此处为表格碎片，无对应正文）
+
+（原文此处为表格碎片，无对应正文）
+
+（原文此处为表格碎片，无对应正文）
+
+（原文此处为表格碎片，无对应正文）
+
+（原文此处为表格碎片，无对应正文）
+
+（原文此处为表格碎片，无对应正文）
 
 B. 为现有紧固件选择类型和长度合适的 Acres 套筒。
 
 C. 用 MIL-S-8802 A 类 ½ 密封胶把套筒粘接在结构孔中。
-
-（原文此处为表格碎片，无对应正文）
 
 ## 3. 专业词汇
 

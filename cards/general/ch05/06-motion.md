@@ -8,6 +8,30 @@ The study of the relationship between the motion of bodies or objects and the fo
 
 Motion may be defined as a continuing change of position or place, or as the process in which a body undergoes displacement. When an object is at different points in space at different times, that object is said to be in motion, and if the distance the object moves remains the same for a given period of time, the motion may be described as uniform. Thus, an object in uniform motion always has a constant speed.
 
+### Speed and Velocity
+
+In everyday conversation, speed and velocity are often used as if they mean the same thing. In physics, they have definite and distinct meanings. Speed refers to how fast an object is moving, or how far the object will travel in a specific time. The speed of an object tells nothing about the direction an object is moving. For example, if the information is supplied that an airplane leaves New York City and travels 8 hours at a speed of 150 mph, this information tells nothing about the direction in which the airplane is moving. At the end of 8 hours, it might be in Kansas City, or if it traveled in a circular route, it could be back in New York City.
+
+Velocity is that quantity in physics which denotes both the speed of an object and the direction in which the object moves. Velocity can be defined as the rate of motion in a particular direction. Velocity is also described as being a vector quantity, a vector being a line of specific length, having an arrow on one end or the other. The length of the line indicates the number value and the arrow indicates the direction in which that number is acting.
+
+Two velocity vectors, such as one representing the velocity of an airplane and one representing the velocity of the wind, can be added together in what is called vector analysis. This is demonstrated with vectors “A” and “B” representing the velocity of the airplane and the wind, and vector “C” being the resultant. With no wind, the speed and direction of the airplane would be that shown by vector “A.” When accounting for the wind direction and speed, the airplane ends up flying at the speed and direction shown by vector “C.”
+
+Imagine that an airplane is flying in a circular pattern at a constant speed. The airplane is constantly changing direction because of the circular pattern, which means the airplane is constantly changing velocity. The reason for this is the fact that velocity includes direction.
+
+To calculate the speed of an object, the distance it travels is divided by the elapsed time. If the distance is measured in miles and the time in hours, the units of speed will be miles per hour (mph). If the distance is measured in feet and the time in seconds, the units of speed will be feet per second (fps). To convert mph to fps, divide by 1.467. Velocity is calculated the same way, the only difference being it must be recalculated every time the direction changes.
+
+Acceleration is defined as the rate of change of velocity. If the velocity of an object is increased from 20 mph to 30 mph, the object has been accelerated. If the increase in velocity is 10 mph in 5 seconds, the rate of change in velocity is 10 mph in 5 seconds, or 2 mph per second. If this were multiplied by 1.467, it could also be expressed as an acceleration of 2.93 feet per second per second (fps/s). By comparison, the acceleration due to gravity is 32.2 fps/s.
+
+To calculate acceleration, the following formula is used.
+
+Velocity Final (Vf) − Velocity Initial (Vi)
+
+Acceleration (A) = Time (t)
+
+Example: An Air Force F-15 fighter is cruising at 400 mph. The pilot advances the throttles to full afterburner and accelerates to 1,200 mph in 20 seconds. What is the average acceleration in mph/s and fps/s?
+
+A = tVf − Vi A = 201200 − 400 A = 40 mph⁄s, or multiplying by 1.467, 58.7 fps⁄s In the example just shown, the acceleration was found to be 58.7 fps/s. Since 32.2 fps/s is equal to the acceleration due to gravity, divide the F-15’s acceleration by 32.2 to find out how many G forces the pilot is experiencing. In this case, it would be 1.82 Gs.
+
 ### Newton’s Law of Motion
 
 When a magician snatches a tablecloth from a table and leaves a full setting of dishes undisturbed, he is not displaying a mystic art; he is actually demonstrating the principle of inertia. Inertia is responsible for the discomfort felt when an airplane is brought to a sudden halt in the parking area and the passengers are thrown forward in their seats. Inertia is a property of matter. This property of matter is described by Newton’s first law of motion, which states:
@@ -40,41 +64,41 @@ Centripetal force is inversely proportional to the radius of the circle in which
 
 Centripetal Force = Mass (Velocity2) ÷ Radius For the formula above, mass would typically be converted to weight divided by gravity, velocity would be in feet per second, and the radius would be in feet.
 
-Example: What would the centripetal force be if a 10-pound weight was moving in a 3-ft radius circular path at a velocity of 500 fps?
-
 Centripetal Force = Mass (Velocity2) ÷ Radius Centripetal Force = 10 (5002) ÷ 32.2 (3)
 
+Example: What would the centripetal force be if a 10-pound weight was moving in a 3-ft radius circular path at a velocity of 500 fps?
+
 = 25,880 lb In the condition identified in the example, the object acts like it weighs 2,588 times more than it actually does. It can also be said that the object is experiencing 2,588 Gs, or force of gravity. The fan blades in a large turbofan engine, when the engine is operating at maximum rpm, are experiencing many thousands of Gs for the same reason.
-
-### Speed and Velocity
-
-In everyday conversation, speed and velocity are often used as if they mean the same thing. In physics, they have definite and distinct meanings. Speed refers to how fast an object is moving, or how far the object will travel in a specific time. The speed of an object tells nothing about the direction an object is moving. For example, if the information is supplied that an airplane leaves New York City and travels 8 hours at a speed of 150 mph, this information tells nothing about the direction in which the airplane is moving. At the end of 8 hours, it might be in Kansas City, or if it traveled in a circular route, it could be back in New York City.
-
-Velocity is that quantity in physics which denotes both the speed of an object and the direction in which the object moves. Velocity can be defined as the rate of motion in a particular direction. Velocity is also described as being a vector quantity, a vector being a line of specific length, having an arrow on one end or the other. The length of the line indicates the number value and the arrow indicates the direction in which that number is acting.
-
-Two velocity vectors, such as one representing the velocity of an airplane and one representing the velocity of the wind, can be added together in what is called vector analysis. This is demonstrated with vectors “A” and “B” representing the velocity of the airplane and the wind, and vector “C” being the resultant. With no wind, the speed and direction of the airplane would be that shown by vector “A.” When accounting for the wind direction and speed, the airplane ends up flying at the speed and direction shown by vector “C.”
-
-Imagine that an airplane is flying in a circular pattern at a constant speed. The airplane is constantly changing direction because of the circular pattern, which means the airplane is constantly changing velocity. The reason for this is the fact that velocity includes direction.
-
-To calculate the speed of an object, the distance it travels is divided by the elapsed time. If the distance is measured in miles and the time in hours, the units of speed will be miles per hour (mph). If the distance is measured in feet and the time in seconds, the units of speed will be feet per second (fps). To convert mph to fps, divide by 1.467. Velocity is calculated the same way, the only difference being it must be recalculated every time the direction changes.
-
-Acceleration is defined as the rate of change of velocity. If the velocity of an object is increased from 20 mph to 30 mph, the object has been accelerated. If the increase in velocity is 10 mph in 5 seconds, the rate of change in velocity is 10 mph in 5 seconds, or 2 mph per second. If this were multiplied by 1.467, it could also be expressed as an acceleration of 2.93 feet per second per second (fps/s). By comparison, the acceleration due to gravity is 32.2 fps/s.
-
-To calculate acceleration, the following formula is used.
-
-Acceleration (A) = Time (t)
-
-Velocity Final (Vf) − Velocity Initial (Vi)
-
-Example: An Air Force F-15 fighter is cruising at 400 mph. The pilot advances the throttles to full afterburner and accelerates to 1,200 mph in 20 seconds. What is the average acceleration in mph/s and fps/s?
-
-A = tVf − Vi A = 201200 − 400 A = 40 mph⁄s, or multiplying by 1.467, 58.7 fps⁄s In the example just shown, the acceleration was found to be 58.7 fps/s. Since 32.2 fps/s is equal to the acceleration due to gravity, divide the F-15’s acceleration by 32.2 to find out how many G forces the pilot is experiencing. In this case, it would be 1.82 Gs.
 
 ## 2. 中文翻译
 
 研究物体运动与作用其上的力之间关系的学问，通常称为「力与运动」的研究。更具体地说，速度、加速度和距离之间的关系称为运动学。
 
 运动可以定义为位置或地点持续不断的变化，也可以定义为物体发生位移的过程。当物体在不同时刻处于空间中的不同位置时，就说该物体在运动；如果在给定时间内物体移动的距离保持不变，这种运动就可以描述为匀速运动。因此，做匀速运动的物体总是具有恒定的速率。
+
+### 速率与速度
+
+在日常交谈中，速率（speed）和速度（velocity）常被当作同一个意思使用。在物理学中，它们有明确的而又彼此不同的含义。速率指物体运动得有多快，或者在特定时间内能走多远。物体的速率并不说明物体运动的方向。例如，如果只提供这样的信息：一架飞机离开纽约市，以 150 mph 的速率飞行 8 小时，那么这些信息完全不说明飞机朝哪个方向飞。8 小时之后，它可能在堪萨斯城；如果它绕环形航线飞，也可能又回到纽约市。
+
+速度是物理学中既表示物体速率、又表示物体运动方向的物理量。速度可以定义为在特定方向上的运动率。速度也被描述为矢量，所谓矢量就是一条具有特定长度的线，其一端带箭头。线的长度表示数值大小，箭头表示该数值作用的方向。
+
+两个速度矢量——例如一个表示飞机的速度、一个表示风的速度——可以相加，这种运算称为矢量分析。矢量“A”和“B”分别表示飞机和风的速度，矢量“C”是合成结果，以此来演示这一运算。无风时，飞机的速率和方向就是矢量“A”所示的那样。考虑风向和风速之后，飞机最终以矢量“C”所示的速率和方向飞行。
+
+设想一架飞机以恒定速率做圆周飞行。由于圆形的航迹，飞机不断改变方向，这意味着飞机的速度不断改变。原因在于速度包含方向。
+
+计算物体的速率时，用它走过的距离除以所经过的时间。如果距离以英里计、时间以小时计，速率的单位就是英里每小时（mph）。如果距离以英尺计、时间以秒计，速率的单位就是英尺每秒（fps）。要把 mph 换算成 fps，除以 1.467。速度的计算方法相同，唯一的区别是每当方向改变时必须重新计算。
+
+加速度定义为速度的变化率。如果物体的速度从 20 mph 增加到 30 mph，该物体就被加速了。如果速度在 5 秒内增加 10 mph，那么速度的变化率就是 5 秒内增加 10 mph，即每秒 2 mph。如果把这个值乘以（此处夹有错位的标注文字，略）1.467，也可以表示成 2.93 英尺每秒每秒（fps/s）的加速度。作为对照，重力加速度为 32.2 fps/s。
+
+计算加速度时使用以下公式。
+
+末速度（Vf）− 初速度（Vi）
+
+加速度（A）= 时间（t）
+
+例：一架空军 F-15 战斗机以 400 mph 巡航。飞行员把油门推到全加力位置，在 20 秒内加速到 1,200 mph。以 mph/s 和 fps/s 计的平均加速度是多少？
+
+A = （Vf − Vi）÷ t　A = （1200 − 400）÷ 20　A = 40 mph⁄s，或乘以 1.467 得 58.7 fps⁄s 在上面这个例子中，求得的加速度为 58.7 fps/s。由于 32.2 fps/s 等于重力加速度，把 F-15 的加速度除以 32.2，即可求出飞行员承受多少个 G 力。此例中为 1.82 G。
 
 ### 牛顿运动定律
 
@@ -108,35 +132,11 @@ F = 5,124 lb 推力（此处夹有一组标注文字：Vector C = 飞机的运�
 
 向心力 = 质量（速度²）÷ 半径 对于上面的公式，质量通常要换算成重量除以重力，速度以英尺每秒计，半径以英尺计。
 
-例：如果 10 lb 的重物以 500 fps 的速度沿半径 3 ft 的圆周路径运动，向心力是多少？
-
 向心力 = 质量（速度²）÷ 半径 向心力 = 10（500²）÷ 32.2（3）
 
+例：如果 10 lb 的重物以 500 fps 的速度沿半径 3 ft 的圆周路径运动，向心力是多少？
+
 = 25,880 lb 在例子所指的条件下，物体表现得比其实际重量重 2,588 倍。也可以说，该物体承受着 2,588 G，即 2,588 倍重力。大型涡扇发动机的叶片在发动机以最大转速工作时，出于同样的原因要承受数千个 G。
-
-### 速率与速度
-
-在日常交谈中，速率（speed）和速度（velocity）常被当作同一个意思使用。在物理学中，它们有明确的而又彼此不同的含义。速率指物体运动得有多快，或者在特定时间内能走多远。物体的速率并不说明物体运动的方向。例如，如果只提供这样的信息：一架飞机离开纽约市，以 150 mph 的速率飞行 8 小时，那么这些信息完全不说明飞机朝哪个方向飞。8 小时之后，它可能在堪萨斯城；如果它绕环形航线飞，也可能又回到纽约市。
-
-速度是物理学中既表示物体速率、又表示物体运动方向的物理量。速度可以定义为在特定方向上的运动率。速度也被描述为矢量，所谓矢量就是一条具有特定长度的线，其一端带箭头。线的长度表示数值大小，箭头表示该数值作用的方向。
-
-两个速度矢量——例如一个表示飞机的速度、一个表示风的速度——可以相加，这种运算称为矢量分析。矢量“A”和“B”分别表示飞机和风的速度，矢量“C”是合成结果，以此来演示这一运算。无风时，飞机的速率和方向就是矢量“A”所示的那样。考虑风向和风速之后，飞机最终以矢量“C”所示的速率和方向飞行。
-
-设想一架飞机以恒定速率做圆周飞行。由于圆形的航迹，飞机不断改变方向，这意味着飞机的速度不断改变。原因在于速度包含方向。
-
-计算物体的速率时，用它走过的距离除以所经过的时间。如果距离以英里计、时间以小时计，速率的单位就是英里每小时（mph）。如果距离以英尺计、时间以秒计，速率的单位就是英尺每秒（fps）。要把 mph 换算成 fps，除以 1.467。速度的计算方法相同，唯一的区别是每当方向改变时必须重新计算。
-
-加速度定义为速度的变化率。如果物体的速度从 20 mph 增加到 30 mph，该物体就被加速了。如果速度在 5 秒内增加 10 mph，那么速度的变化率就是 5 秒内增加 10 mph，即每秒 2 mph。如果把这个值乘以（此处夹有错位的标注文字，略）1.467，也可以表示成 2.93 英尺每秒每秒（fps/s）的加速度。作为对照，重力加速度为 32.2 fps/s。
-
-计算加速度时使用以下公式。
-
-加速度（A）= 时间（t）
-
-末速度（Vf）− 初速度（Vi）
-
-例：一架空军 F-15 战斗机以 400 mph 巡航。飞行员把油门推到全加力位置，在 20 秒内加速到 1,200 mph。以 mph/s 和 fps/s 计的平均加速度是多少？
-
-A = （Vf − Vi）÷ t　A = （1200 − 400）÷ 20　A = 40 mph⁄s，或乘以 1.467 得 58.7 fps⁄s 在上面这个例子中，求得的加速度为 58.7 fps/s。由于 32.2 fps/s 等于重力加速度，把 F-15 的加速度除以 32.2，即可求出飞行员承受多少个 G 力。此例中为 1.82 G。
 
 ## 3. 专业词汇
 

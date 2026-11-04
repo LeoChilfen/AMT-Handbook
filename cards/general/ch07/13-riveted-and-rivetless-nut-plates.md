@@ -22,15 +22,11 @@ Open-end Rivnuts are the most widely used and are recommended in preference to t
 
 Rivnuts are manufactured in six grip ranges. The minimum grip length is indicated by a plain head and the next higher grip length by one radial dash mark on the head. Each succeeding grip range is indicated by an additional radial dash mark until five marks indicate the maximum range. U-type tinnerman nuts provide convenient anchor points for cowlings, fairings, and panels.
 
+An example of a part number code is: 10KB106 10 = Grip length KB = Closed end and key 106 = Screw and thread size
+
 Anchor type tinnerman nuts are suitable for nonstructural applications. To reduce magnetic influences in the flightdeck, nonmagnetic mounting nuts secure instruments in a control panel.
 
 Notice that some part number codes consist of a “6,” an “8,” or a “10,” a “dash,” and two or three more numbers. In some, the letters “K” or “KB” replaces the dash. The first number indicates the machine screw size of the thread, and the last two or three numbers indicate the maximum grip length in thousandths of an inch. A dash between the figures indicates that the Rivnut has an open end and is keyless; a “B” in place of the dash means it has a closed end and is keyless; a “K” means it has an open end and has a key; and a “KB” indicates that it has a closed end and a key. If the last two or three numbers are divisible by five, the Rivnut has a flathead; if they are not divisible by five, the Rivnut has a countersunk head.
-
-An example of a part number code is: 10KB106 10 = Grip length KB = Closed end and key 106 = Screw and thread size
-
-### Sealing Nut Plates
-
-When securing nut plates in pressurized aircraft and in fuel cells, a sealing nut plate is used instead of the open-ended variety previously described. Care must be taken to use exactly the correct length of bolt or screw. If a bolt or screw is too short, there is not enough threads to hold the device in place. If the bolt or screw is too long, it penetrates the back side of the nut plate and compromises the seal. Normally, a sealant is also used to ensure complete sealing of the nut plate. Check the manufacturer’s specifications for the acceptable sealant to be used for sealing nut plates.
 
 ### Dill Lok-Skrus and Dill Lok-Rivets
 
@@ -45,6 +41,10 @@ This rivet is a high-strength blind rivet used on late model aircraft. It has a 
 The Deutsch rivet is available in diameters of 3⁄16, 1⁄4, or 3⁄8 inch. Grip lengths for this rivet range from 3⁄16 to 1 inch. Some variation is allowed in grip length when installing the rivet. For example, a rivet with a grip length of 3⁄16 inch can be used where the total thickness of materials is between 0.198 and 0.228 inch.
 
 When driving a Deutsch rivet, an ordinary hammer or a pneumatic rivet gun and a flathead set are used. The rivet is seated in the previously drilled hole, and then the pin is driven into the sleeve. The driving action causes the pin to exert pressure against the sleeve and forces the sides of the sleeve out. This stretching forms a shop head on the end of the rivet and provides positive fastening. The ridge on the top of the rivet head locks the pin into the rivet as the last few blows are struck.
+
+### Sealing Nut Plates
+
+When securing nut plates in pressurized aircraft and in fuel cells, a sealing nut plate is used instead of the open-ended variety previously described. Care must be taken to use exactly the correct length of bolt or screw. If a bolt or screw is too short, there is not enough threads to hold the device in place. If the bolt or screw is too long, it penetrates the back side of the nut plate and compromises the seal. Normally, a sealant is also used to ensure complete sealing of the nut plate. Check the manufacturer’s specifications for the acceptable sealant to be used for sealing nut plates.
 
 ## 2. 中文翻译
 
@@ -66,15 +66,11 @@ Rivnut 制有两种头部形式，每种又分两种端部：平头和埋头，�
 
 Rivnut 制有六个夹持长度范围。最小夹持长度由平头表示，次一级夹持长度由头部上的一道径向刻线表示。其后每个夹持范围都增加一道径向刻线，直到五道刻线表示最大范围。U 型 tinnerman 螺母可为整流罩、整流片和面板提供便利的固定点。
 
+件号代码的一个例子是：10KB106　10 = 夹持长度　KB = 封闭端并带键　106 = 螺钉与螺纹规格
+
 锚型 tinnerman 螺母适用于非结构应用。为减小驾驶舱内的磁性影响，非磁性安装螺母把仪表固定在控制面板上。
 
 注意，有些件号代码由「6」「8」或「10」、一个短横线以及两三个数字组成。有些则用字母「K」或「KB」代替短横线。第一个数字表示螺纹的机械螺钉规格，最后两三个数字表示以千分之一英寸计的最大夹持长度。数字之间的短横线表示 Rivnut 为开口端且无键；用「B」代替短横线表示封闭端且无键；「K」表示开口端且带键；「KB」表示封闭端且带键。如果最后两三个数字能被 5 整除，则 Rivnut 为平头；若不能被 5 整除，则为埋头。
-
-件号代码的一个例子是：10KB106　10 = 夹持长度　KB = 封闭端并带键　106 = 螺钉与螺纹规格
-
-### 密封托板螺母
-
-在增压飞机和燃油箱内固定托板螺母时，使用密封托板螺母，而不是前面所述的开口型。必须注意选用长度完全正确的螺栓或螺钉。如果螺栓或螺钉太短，螺纹不足以把器件固定到位；如果太长，则会穿透托板螺母的背面，破坏密封。通常还要使用密封胶，以确保托板螺母完全密封。密封托板螺母应使用何种密封胶，请查阅制造商的规范。
 
 ### Dill Lok-Skru 与 Dill Lok-Rivet
 
@@ -89,6 +85,10 @@ Lok-Skru 的主要零件是套筒、头部和安装螺钉。套筒由铝合金�
 Deutsch 铆钉有 3⁄16、1⁄4 或 3⁄8 英寸直径。该铆钉的夹持长度为 3⁄16 至 1 英寸。安装时夹持长度允许有一定变化。例如，夹持长度为 3⁄16 英寸的铆钉可用于材料总厚度在 0.198 至 0.228 英寸之间的部位。
 
 镦打 Deutsch 铆钉时，使用普通锤子或气动铆枪加平头冲模（flathead set）。先把铆钉放入已钻好的孔中，然后把销打入套筒。镦打动作使销对套筒施加压力，把套筒两侧挤开。这种拉伸在铆钉端部形成工厂头（shop head），实现可靠的紧固。最后几下敲击时，铆钉头顶部的凸脊把销锁紧在铆钉内。
+
+### 密封托板螺母
+
+在增压飞机和燃油箱内固定托板螺母时，使用密封托板螺母，而不是前面所述的开口型。必须注意选用长度完全正确的螺栓或螺钉。如果螺栓或螺钉太短，螺纹不足以把器件固定到位；如果太长，则会穿透托板螺母的背面，破坏密封。通常还要使用密封胶，以确保托板螺母完全密封。密封托板螺母应使用何种密封胶，请查阅制造商的规范。
 
 ## 3. 专业词汇
 

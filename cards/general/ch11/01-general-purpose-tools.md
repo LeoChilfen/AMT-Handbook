@@ -66,11 +66,11 @@ Never use a prick punch or center punch to remove objects from holes because the
 
 The transfer punch is usually about 4 inches long. It has a point that tapers and then turns straight for a short distance in order to fit a drill locating hole in a template. The tip has a point similar to that of a prick punch. As its name implies, the transfer punch is used to transfer the location of holes through the template or pattern to the material.
 
-Auto center punch Prick punch Starting punch Pin punch Aligning punch Drift pin Drive punch Center punch Diagonal cutter Duckbill Needle-nose Roundnose
-
 The wrenches most often used in aircraft maintenance are classified as open-end, box-end, socket, adjustable, ratcheting and special wrenches. The Allen wrench, although seldom used, is required on one special type of recessed screw. One of the most widely used metals for making wrenches is chrome-vanadium steel. Wrenches made of this metal are almost indestructible. Solid, nonadjustable wrenches with open parallel jaws on one or both ends are known as open-end wrenches. These wrenches may have their jaws parallel to the handle or at an angle up to 90°; most are set at an angle of 15°. The wrenches are designed to fit a nut, bolt head, or other object, which makes it possible to exert a turning action.
 
 Box-end wrenches are popular tools because of their usefulness in close quarters. They are called box wrenches since they box, or completely surround, the nut or bolt head. Practically all well-manufactured box-end wrenches are made with 12 points so they can be used in places having as little as 15° swing. In the illustration, point A on the illustrated double-broached hexagon wrench is nearer the centerline of the head and the wrench handle than point B and also the centerline of nut C. If the wrench is inverted and installed on nut C, point A will be centered over side “Y” instead of side “X.” The centerline of the handle will now be in the dotted line position. It is by reversing (turning the wrench over) the position of the wrench that a 15° arc may be made with the wrench handle.
+
+Auto center punch Prick punch Starting punch Pin punch Aligning punch Drift pin Drive punch Center punch Diagonal cutter Duckbill Needle-nose Roundnose
 
 Although box-end wrenches are ideal to break loose tight nuts or pull tight nuts tighter, time is lost turning the nut off the bolt once the nut is broken loose. Only when there is sufficient clearance to rotate the wrench in a complete circle can this tedious process be avoided.
 
@@ -168,11 +168,11 @@ In certain applications, the use of an impact driver may be required. Struck wit
 
 转移冲通常长约 4 英寸。它的冲尖先呈锥形，然后有一段直的，以便插入样板上的钻孔定位孔。其尖端与尖冲相似。顾名思义，转移冲用于把孔的位置透过样板或纸样转移到材料上。
 
-（原文此处为图注碎片，原文无正文）
-
 飞机维修中最常用的扳手分为开口扳手、梅花扳手、套筒扳手、活扳手、棘轮扳手和专用扳手。内六角扳手虽然很少使用，但有一种特殊型式的内六角螺钉需要它。制造扳手最常用的金属之一是铬钒钢。用这种金属制成的扳手几乎不会损坏。在一端或两端带有平行开口钳口的整体式不可调扳手称为开口扳手。这类扳手的钳口可与手柄平行，也可与手柄成最大 90° 的角；大多数做成 15°。扳手设计成能套住螺母、螺栓头或其他物件，从而可以施加转动作用。
 
 梅花扳手因在狭窄处好用而受欢迎。它们被称为 box 扳手，是因为它们把螺母或螺栓头整个围住（box）。几乎所有制造良好的梅花扳手都做成 12 个角，因此能在摆动量小到 15° 的地方使用。图中，所示双六角梅花扳手上的 A 点比 B 点更靠近头部与手柄的中心线，也更靠近螺母 C 的中心线。如果把扳手翻转过来装到螺母 C 上，A 点就会位于“Y”边的中线上，而不是“X”边的中线上。此时手柄的中心线将处于虚线位置。正是通过调换（把扳手翻过来）扳手的安装方向，手柄才能做出 15° 的动作弧。
+
+（原文此处为图注碎片，原文无正文）
 
 尽管梅花扳手是松开紧螺母或把螺母拧得更紧的理想工具，但一旦螺母被松开，把螺母从螺栓上旋下就浪费时间。只有间隙足够让扳手整圈转动时，才能避免这种费时的过程。
 

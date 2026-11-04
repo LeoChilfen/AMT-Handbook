@@ -14,10 +14,6 @@ The primary aspect of the operation of a coil is its property to oppose any chan
 
 At the starting instant, the countering emf nearly equals the applied voltage, resulting in a small current flow. However, as the lines of force move outward, the number of lines cutting the conductor per second becomes progressively smaller, resulting in a diminished counter emf. Eventually, the counter emf drops to zero and the only voltage in the circuit is the applied voltage and the current is at its maximum value.
 
-### Units of Inductance
-
-The henry is the basic unit of inductance and is symbolized with the letter H. An electric circuit has an inductance of one henry when current changing at the rate of one ampere per second induces a voltage of one volt into the circuit. In many practical applications, millihenries (mH) and microhenries (μH) are more common units. The typical symbol for an inductor is shown in the figure.
-
 ### The RL Time Constant
 
 Because the inductors basic action is to oppose a change in its current, it then follows that the current cannot change instantaneously in the inductor. A certain time is required for the current to make a change from one value to another. The rate at which the current changes is determined by a time constant represented by the Greek letter τ. The time constant for the RL circuit is:
@@ -51,6 +47,10 @@ Inductors are classified by the type of core and the method of winding them. The
 63% 100% 90% 80% 70% 60% 50% 40% 30% 20% 10% 86% 95% 98% Applied voltage Current 1t Counter emf Current, counter emf, and applied voltage in an inductive circuit.
 
 2t 3t 4t 5t 99% Opposing magnetic fields Combined magnetic fields Coils with some separationA Coils without separationB Strong magnetic field in a coilC Current eee eee Current eee eee Current eee eee SouthNorth
+
+### Units of Inductance
+
+The henry is the basic unit of inductance and is symbolized with the letter H. An electric circuit has an inductance of one henry when current changing at the rate of one ampere per second induces a voltage of one volt into the circuit. In many practical applications, millihenries (mH) and microhenries (μH) are more common units. The typical symbol for an inductor is shown in the figure.
 
 ### Inductors in Series
 
@@ -98,10 +98,6 @@ The total reactance of inductors connected in parallel is found the same way as 
 
 在起始瞬间，反向电动势几乎等于所加电压，因此电流很小。然而，随着磁力线向外移动，每秒切割导体的磁力线数量逐渐减少，反向电动势随之减弱。最终，反向电动势降为零，电路中唯一的电压就是所加电压，电流达到最大值。
 
-### 电感量的单位
-
-亨利是电感量的基本单位，用字母 H 表示。当电流以每秒 1 安培的速率变化、在电路中感应出 1 伏电压时，该电路的电感量就是 1 亨利。在许多实际应用中，毫亨（mH）和微亨（μH）是更常用的单位。电感器的典型符号如图所示。
-
 ### RL 时间常数
 
 由于电感器的基本作用是阻碍自身电流的变化，因此可以推知：电感器中的电流不能瞬时改变。电流从一个值变化到另一个值需要一定的时间。电流变化的速率由时间常数决定，时间常数用希腊字母 τ 表示。RL 电路的时间常数是：
@@ -135,6 +131,10 @@ The total reactance of inductors connected in parallel is found the same way as 
 （原文此处为图注碎片，原文无正文）
 
 （原文此处为图注碎片，原文无正文）
+
+### 电感量的单位
+
+亨利是电感量的基本单位，用字母 H 表示。当电流以每秒 1 安培的速率变化、在电路中感应出 1 伏电压时，该电路的电感量就是 1 亨利。在许多实际应用中，毫亨（mH）和微亨（μH）是更常用的单位。电感器的典型符号如图所示。
 
 ### 电感器的串联
 

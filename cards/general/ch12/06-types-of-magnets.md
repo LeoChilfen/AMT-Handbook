@@ -4,10 +4,6 @@
 
 ## 1. 原文
 
-Magnets are either natural or artificial. Since naturally occurring magnets or lodestones have no practical use, all magnets considered in this chapter are artificial or manmade. Artificial magnets can be further classified as permanent magnets, which retain their magnetism long after the magnetizing force has been removed, and temporary magnets, which quickly lose most of their magnetism when the external magnetizing force is removed.
-
-Lines of force from like poles do not combine, but are rearranged into a distorted flux pattern.
-
 The two bar magnets may be held in the hands and the North poles brought near each other to demonstrate the force of repulsion between like poles. In a similar manner, the two South poles can demonstrate this force. The force of attraction between unlike poles can be felt by bringing a South and a North end together.
 
 If the bar magnet is cut or broken into pieces, each piece immediately becomes a magnet itself, with a North and South pole. This feature supports the theory that each molecule is a magnet, since each successive division of the magnet produces more magnets.
@@ -17,6 +13,10 @@ Since the magnetic lines of force form a continuous loop, they form a magnetic c
 There is no known insulator for magnetic flux, or lines of force, since they pass through all materials. However, they do pass through some materials more easily than others. Thus, it is possible to shield items, such as instruments, from the effects of the flux by surrounding them with a material that offers an easier path for the lines of force. Consider an instrument surrounded by a path of soft iron, which offers very little opposition to magnetic flux. The lines of force take the easier path, the path of greater permeability, and are guided away from the instrument.
 
 Materials such as soft iron and other ferrous metals are said to have a high permeability, the measure of the ease with which magnetic flux can penetrate a material. The permeability scale is based on a perfect vacuum with a rating of one. Modern permanent magnets are made of special alloys that have been found through research to create increasingly better magnets. The most common categories of magnet materials are made out of aluminum-nickel-cobalt (alnicos), strontium-iron (ferrites, also known as ceramics), neodymium-iron-boron (neo magnets), and samarium-cobalt. Alnico, an alloy of iron, aluminum, nickel and cobalt, is considered one of the very best. Others with excellent magnetic qualities are alloys such as Remalloy™ and Permendur™.
+
+Magnets are either natural or artificial. Since naturally occurring magnets or lodestones have no practical use, all magnets considered in this chapter are artificial or manmade. Artificial magnets can be further classified as permanent magnets, which retain their magnetism long after the magnetizing force has been removed, and temporary magnets, which quickly lose most of their magnetism when the external magnetizing force is removed.
+
+Lines of force from like poles do not combine, but are rearranged into a distorted flux pattern.
 
 The ability of a magnet to hold its magnetism varies greatly with the type of metal and is known as retentivity. Magnets made of soft iron are very easily magnetized but quickly lose most of their magnetism when the external magnetizing force is removed. The small amount of magnetism remaining, called residual magnetism, is of great importance in such electrical applications as generator operation.
 
@@ -30,10 +30,6 @@ S N Soft iron N N N S S S N S
 
 ## 2. 中文翻译
 
-磁铁有天然磁铁与人造磁铁之分。由于天然生成的磁铁（天然磁石）没有实用价值，本章所讨论的磁铁都是人造的。人造磁铁又可分为永磁铁和暂时磁铁：永磁铁在磁化力撤去后仍能长期保持磁性，暂时磁铁在外部磁化力撤去后很快失去大部分磁性。
-
-不会结合，而是重新排列成畸变的磁通图案。
-
 这两根条形磁铁可以拿在手中，让两个北极彼此靠近，以演示同极之间的排斥力。用类似的方式，两个南极也能演示这种力。把一端南极与一端北极靠在一起，就能感觉到异极之间的吸引力。
 
 如果把条形磁铁切开或打断成几块，每一块立即自身成为一块磁铁，有北极也有南极。这一特点支持了每个分子都是一个磁铁的理论，因为磁铁每被分割一次，就产生更多的磁铁。
@@ -43,6 +39,10 @@ S N Soft iron N N N S S S N S
 目前还不知道有什么能隔绝磁通（力线）的绝缘体，因为力线能穿过所有材料。不过，它们穿过某些材料确实比穿过另一些材料容易。因此，可以用一种为力线提供较容易路径的材料把仪表等物件包围起来，使其免受磁通的影响。设想一台仪表被一条软铁路径所包围，软铁对磁通的阻碍很小。力线走较容易的路径，即磁导率较大的路径，从而被引导离开仪表。
 
 软铁等含铁金属被称为具有高磁导率，磁导率是衡量磁通穿过某种材料的容易程度的量。磁导率的标度以一个额定值为 1 的理想真空为基准。现代永磁铁由经过研究发现的、能造出越来越好磁铁的特殊合金制成。最常见的磁铁材料类别有铝镍钴（阿尔尼科）、锶铁氧体（铁氧体，又称陶瓷）、钕铁硼（钕磁铁）和钐钴。阿尔尼科是铁、铝、镍和钴的合金，被认为是最好的磁铁材料之一。另一些磁性能优异的材料是 Remalloy™ 和 Permendur™ 等合金。
+
+磁铁有天然磁铁与人造磁铁之分。由于天然生成的磁铁（天然磁石）没有实用价值，本章所讨论的磁铁都是人造的。人造磁铁又可分为永磁铁和暂时磁铁：永磁铁在磁化力撤去后仍能长期保持磁性，暂时磁铁在外部磁化力撤去后很快失去大部分磁性。
+
+不会结合，而是重新排列成畸变的磁通图案。
 
 磁铁保持磁性的能力随金属种类不同而有很大差异，这种能力称为顽磁。软铁制成的磁铁很容易磁化，但在外部磁化力撤去后会很快失去大部分磁性。所剩下的少量磁性称为剩磁，在发电机运行等电气应用中非常重要。
 

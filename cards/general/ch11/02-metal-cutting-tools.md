@@ -34,6 +34,10 @@ The pitch of a blade indicates the number of teeth per inch. Pitches of 14, 18, 
 
 7. After the first few strokes, make each stroke as long as the hacksaw frame allows. This prevents the blade from overheating.
 
+8. After completing the cut, remove chips from the blade, loosen tension on the blade, and return the hacksaw to its proper place. Chisels A chisel is a hard steel cutting tool that can be used for cutting and chipping any metal softer than the chisel itself. It can be used in restricted areas and for such work as shearing rivets, or splitting seized or damaged nuts from bolts.
+
+The size of a flat cold chisel is determined by the width of the cutting edge. Lengths vary, but chisels are seldom under 5 inches or over 8 inches long.
+
 Chisels are usually made of eight-sided tool steel bar stock, carefully hardened and tempered. Since the cutting edge is slightly convex, the center portion receives the greatest shock when cutting, and the weaker corners are protected. The cutting angle should be 60° to 70° for general use, such as for cutting wire, strap iron, or small bars and rods. When using a chisel, hold it firmly in one hand. With the other hand, strike the chisel head squarely with a ball peen hammer.
 
 When cutting square corners or slots, a special cold chisel called a cape chisel should be used. It is like a flat chisel except the cutting edge is very narrow. It has the same cutting angle and is held and used in the same manner as any other chisel.
@@ -55,16 +59,6 @@ Files have three distinguishing features:
 3. Their cut, such as a single-cut or double-cut file.
 
 Files are usually made in two types of cuts: single cut and double cut. The single cut file has a single row of teeth extending across the face at an angle of 65° to 85° with the length of the file. The size of the cuts depends on the coarseness of the file. The double cut file has two rows of teeth that cross each other. For general work, the angle of the first row is 40° to 45°. The first row is generally referred to as “overcut,” and the second row as “upcut;” the upcut is forward stroke to cause each tooth to remove a small amount of metal. The strokes should be long and steady with a speed not more than 40 to 50 strokes per minute.
-
-8. After completing the cut, remove chips from the blade, loosen tension on the blade, and return the hacksaw to its proper place. Chisels A chisel is a hard steel cutting tool that can be used for cutting and chipping any metal softer than the chisel itself. It can be used in restricted areas and for such work as shearing rivets, or splitting seized or damaged nuts from bolts.
-
-The size of a flat cold chisel is determined by the width of the cutting edge. Lengths vary, but chisels are seldom under 5 inches or over 8 inches long.
-
-Half-Round Files These files cut on both the flat and round sides. They may be single or double cut. Their shape permits them to be used where other files would be unsatisfactory.
-
-Lead-Float Files These are especially designed for use on soft metals. They are single cut and are made in various lengths.
-
-Warding File Rectangular in section and tapers to narrow point in width. This file is used for narrow space filing where other files somewhat finer than and not as deep as the overcut.
 
 Files and rasps are catalogued in three ways:
 
@@ -91,6 +85,12 @@ Round or Rattail Files These are circular in cross section and may be either tap
 Triangular and Three Square Files These files are triangular in cross section. Triangular files are single cut and are used for filing the gullet between saw teeth. Three square files, which are double cut, may be used for filing internal angles, clearing out corners, and filing taps and cutters.
 
 Length Tang Heel Face Edge Point Hand—taper width, parallel thickness Mill—taper width, parallel thickness Pillar—taper thickness, parallel width Warding—much taper width, parallel thickness Square, round, and three–square—taper Half–round—taper Knife—taper Vixen—parallel edges and sides cannot be used.
+
+Half-Round Files These files cut on both the flat and round sides. They may be single or double cut. Their shape permits them to be used where other files would be unsatisfactory.
+
+Lead-Float Files These are especially designed for use on soft metals. They are single cut and are made in various lengths.
+
+Warding File Rectangular in section and tapers to narrow point in width. This file is used for narrow space filing where other files somewhat finer than and not as deep as the overcut.
 
 Knife File Knife blade section. This file is used by tool and die makers on work having acute angles.
 
@@ -140,14 +140,6 @@ The twist drill should be sharpened at the first sign of dullness. For most dril
 
 Typical procedures for sharpening drills are as follows:
 
-Square shank (used in brace)
-
-Taper shank Size stamped here Straight shank Point Margin Flute Lip clearance (125° – 135°)
-
-ShankBody Lip or cutting edge Heel angle (12° – 15°)
-
-Lip angle (normally 59°)
-
 1. Adjust the grinder tool rest to a convenient height for resting the back of the hand while grinding.
 
 2. Hold the drill between the thumb and index finger of the right or left hand. Grasp the body of the drill near the shank with the other hand.
@@ -165,6 +157,14 @@ Reamers are used to smooth and enlarge holes to exact size. Hand reamers have sq
 A hole that is to be reamed to exact size must be drilled about 0.003 to 0.007 inch undersize. A cut that removes more than 0.007 inch places too much load on the reamer and should not be attempted.
 
 Reamers are made of either carbon tool steel or high-speed steel. The cutting blades of a high-speed steel reamer lose their original keenness sooner than those of a carbon steel reamer; however, after the first super keenness is gone, they are still serviceable. The high-speed reamer usually lasts much longer than the carbon steel type. Reamer blades are hardened to the point of being brittle and must be handled carefully to avoid chipping them. When reaming a hole, rotate the reamer in the cutting direction only. Do not back a reamer out of a hole by rotating it opposite the cutting direction. Turn the reamer steadily and evenly to prevent chattering, or marking and scoring of the hole walls.
+
+Lip angle (normally 59°)
+
+Square shank (used in brace)
+
+Taper shank Size stamped here Straight shank Point Margin Flute Lip clearance (125° – 135°)
+
+ShankBody Lip or cutting edge Heel angle (12° – 15°)
 
 Reamers are available in any standard size. The straight fluted reamer is less expensive than the spiral fluted reamer, but the spiral type has less tendency to chatter. Both types are tapered for a short distance back of the end to aid in starting. Bottoming reamers have no taper and are used to complete the reaming of blind holes.
 
@@ -210,6 +210,10 @@ When using a countersink, care must be taken not to remove an excessive amount o
 
 7. 起锯几下之后，每个行程都应尽量用足锯架允许的长度。这可以防止锯条过热。
 
+8. 锯割完成后，清除锯条上的切屑，放松锯条张力，把钢锯放回原处。錾子 錾子是一种硬钢切削工具，可用来切削和錾削任何比錾子本身软的金属。它可用于受限制的区域，也可用于剪断铆钉、把咬死或损坏的螺母从螺栓上劈开等作业。
+
+扁冷錾的规格由刃口宽度决定。长度各不相同，但錾子很少短于 5 英寸或长于 8 英寸。
+
 这类錾子通常由八棱工具钢棒料制成，经过仔细淬火和回火。由于刃口略呈凸形，切削时中部承受最大冲击，较弱的棱角因而得到保护。用于一般作业（如錾断铁丝、扁铁或小棒料、小圆杆）时，切削角应为 60° 至 70°。使用錾子时，一只手把錾子握稳，另一只手用圆头锤正对錾子头部敲击。
 
 切割方角或键槽时，应使用一种称为窄錾的专用冷錾。它除刃口很窄外，与扁錾相似。它的切削角相同，握持和使用方法与其他錾子一样。
@@ -231,16 +235,6 @@ When using a countersink, care must be taken not to remove an excessive amount o
 3. 锉纹，如单纹锉或双纹锉。
 
 锉刀通常有两种锉纹：单纹和双纹。单纹锉有一排锉齿，横过锉面，与锉刀长度方向成 65° 至 85° 角。锉纹的粗细取决于锉刀的粗度。双纹锉有两排相互交叉的锉齿。用于一般工作时，第一排齿的角度为 40° 至 45°。第一排齿通常称为“横切纹”，第二排齿称为“上切纹”；上切纹在推程中起作用，使每个齿切下少量金属。行程应长而平稳，速度不超过每分钟 40 至 50 次。
-
-8. 锯割完成后，清除锯条上的切屑，放松锯条张力，把钢锯放回原处。錾子 錾子是一种硬钢切削工具，可用来切削和錾削任何比錾子本身软的金属。它可用于受限制的区域，也可用于剪断铆钉、把咬死或损坏的螺母从螺栓上劈开等作业。
-
-扁冷錾的规格由刃口宽度决定。长度各不相同，但錾子很少短于 5 英寸或长于 8 英寸。
-
-半圆锉 这种锉刀在平面和圆面两侧都切削。它可以是单纹或双纹。其形状使它能在其他锉刀不适用的地方使用。
-
-铅浮锉 这种锉刀是专为软金属设计的。它为单纹，有多种长度。
-
-Warding 锉 截面为矩形，宽度方向逐渐收窄成尖。这种锉刀用于狭窄部位的锉削，其他锉刀在这种地方派不上用场。
 
 锉刀和木锉按三种方式编目：
 
@@ -267,6 +261,12 @@ Warding 锉 截面为矩形，宽度方向逐渐收窄成尖。这种锉刀用�
 三角锉与三棱方锉 这类锉刀截面为三角形。三角锉为单纹，用于锉锯齿间的齿槽。三棱方锉为双纹，可用于锉内角、清角，以及锉削丝锥和刀具。
 
 （原文此处为图注碎片，原文无正文）
+
+半圆锉 这种锉刀在平面和圆面两侧都切削。它可以是单纹或双纹。其形状使它能在其他锉刀不适用的地方使用。
+
+铅浮锉 这种锉刀是专为软金属设计的。它为单纹，有多种长度。
+
+Warding 锉 截面为矩形，宽度方向逐渐收窄成尖。这种锉刀用于狭窄部位的锉削，其他锉刀在这种地方派不上用场。
 
 刀锉 刀片形截面。这种锉刀供工具与模具制造者用于锐角部位。
 
@@ -316,14 +316,6 @@ Warding 锉 截面为矩形，宽度方向逐渐收窄成尖。这种锉刀用�
 
 刃磨钻头的典型步骤如下：
 
-（原文此处为图注碎片，原文无正文）
-
-（原文此处为图注碎片，原文无正文）
-
-（原文此处为图注碎片，原文无正文）
-
-（原文此处为图注碎片，原文无正文）
-
 1. 把砂轮机的托架调整到方便手背倚靠的高度，以便刃磨。
 
 2. 用右手或左手的拇指和食指捏住钻头。另一只手在靠近柄部处握住钻体。
@@ -341,6 +333,14 @@ Warding 锉 截面为矩形，宽度方向逐渐收窄成尖。这种锉刀用�
 要铰到精确尺寸的孔，钻孔时应比公称尺寸小约 0.003 至 0.007 英寸。一次切除超过 0.007 英寸会使铰刀负荷过大，不应尝试。
 
 铰刀由碳素工具钢或高速钢制成。高速钢铰刀的刀刃比碳钢铰刀更早失去原有的锋利；不过在最初的极度锋利消失之后，它们仍然可用。高速钢铰刀通常比碳钢铰刀耐用得多。铰刀刀片淬硬到发脆的程度，必须小心拿放，以免崩刃。铰孔时只沿切削方向转动铰刀。不要朝切削相反方向转动铰刀把它从孔中退出。要平稳均匀地转动铰刀，以防颤振，或防止在孔壁上留下痕迹和划伤。
+
+（原文此处为图注碎片，原文无正文）
+
+（原文此处为图注碎片，原文无正文）
+
+（原文此处为图注碎片，原文无正文）
+
+（原文此处为图注碎片，原文无正文）
 
 铰刀可提供任何标准规格。直槽铰刀比螺旋槽铰刀便宜，但螺旋槽型不易颤振。两种铰刀在端部之后一小段都做成锥形，以便起铰。齐底铰刀没有锥度，用于把盲孔铰完。
 

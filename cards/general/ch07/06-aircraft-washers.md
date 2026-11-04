@@ -16,8 +16,6 @@ Lock washers, both the AN935 and AN936, are used with machine screws or bolts wh
 
 Lock washers should never be used under the following conditions:
 
-Boots aircraft channel assembly Elastic stopnut channel assembly
-
 • With fasteners to primary or secondary structures
 
 • With fasteners on any part of the aircraft where failure might result in damage or danger to the aircraft or personnel
@@ -36,6 +34,8 @@ Shake-proof lock washers can withstand higher heat than other methods of safetyi
 
 The ball socket and seat washers, AC950 and AC955, are special washers used where a bolt is installed at an angle to a surface or where perfect alignment with a surface is required. These washers are used together.
 
+Boots aircraft channel assembly Elastic stopnut channel assembly
+
 The NAS143 and MS20002 washers are used for internal wrenching bolts of the NAS144 through NAS158 series. This washer is either plain or countersunk. The countersunk washer (designated as NAS143C and MS20002C) is used to seat the bolt head shank radius, and the plain washer is used under the nut.
 
 ## 2. 中文翻译
@@ -51,8 +51,6 @@ AN970 钢垫圈比 AN960 垫圈提供更大的支承面积，用于木结构上�
 锁紧垫圈（AN935 和 AN936）用于不宜采用自锁螺母或槽形螺母的机械螺钉或螺栓。垫圈（AN935）的弹簧作用提供足够的摩擦，防止螺母因振动而松动。
 
 在下列情况下绝不应使用锁紧垫圈：
-
-Boots 飞机槽道组件 弹性自锁螺母槽道组件
 
 • 用于主结构或次结构的紧固件
 
@@ -71,6 +69,8 @@ Boots 飞机槽道组件 弹性自锁螺母槽道组件
 防振锁紧垫圈比其他保险方法能耐更高的温度，可安全地用于高振动条件。它们只应使用一次，因为凸耳第二次弯折时容易折断。
 
 球窝垫圈和座垫圈（AC950 和 AC955）是特殊垫圈，用于螺栓与表面成一定角度安装的场合，或要求与表面完全对正的场合。这两种垫圈配套使用。
+
+Boots 飞机槽道组件 弹性自锁螺母槽道组件
 
 NAS143 和 MS20002 垫圈用于 NAS144 至 NAS158 系列的内扳手螺栓。这种垫圈有平型和沉头型。沉头垫圈（代号 NAS143C 和 MS20002C）用于贴合螺栓头杆部圆角，平垫圈则用于螺母下方。
 

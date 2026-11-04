@@ -6,13 +6,13 @@
 
 The weight and balance computation system, commonly called the loading graph and CG envelope system, is an excellent and rapid method for determining the CG location for various loading arrangements. This method can be applied to any make and model of aircraft, but is more often seen with small GA aircraft.
 
+The loading graph and CG envelope are for an airplane with the following specifications and weight and balance data.
+
 Aircraft manufacturers using this method of weight and balance computation prepare graphs for each make and model aircraft at the time of original certification. The graphs become a permanent part of the aircraft records and are typically found in the AFM/POH. These graphs, used in conjunction with the empty weight and EWCG data found in the weight and balance report, allow the pilot to plot the CG for the loaded aircraft.
 
 The loading graph is used to determine the index number (moment value) of any item or weight that may be involved in loading the aircraft. To use this graph, find the point on the vertical scale that represents the known weight. Project a horizontal line to the point where it intersects the proper diagonal weight line (i.e., pilot, copilot, baggage). Where the horizontal line intersects the diagonal, project a vertical line downward to determine the loaded moment (index number) for the weight being added.
 
 After the moment for each item of weight has been determined, all weights are added and all moments are added. The total weight and moment is then plotted on the CG envelope. The total weight is plotted on the vertical scale of the graph, with a horizontal line projected out from that point. The total moment is plotted on the horizontal scale of the graph, with a vertical line projected up from that point. Where the horizontal and vertical plot lines intersect on the graph is the CG for the loaded aircraft. If the point where the plot lines intersect falls inside the CG envelope, the aircraft CG is within limits. There are two CG envelopes, one for the aircraft in the Normal Category and one for the aircraft in the Utility Category.
-
-The loading graph and CG envelope are for an airplane with the following specifications and weight and balance data.
 
 • Number of seats: 4
 
@@ -24,23 +24,23 @@ The loading graph and CG envelope are for an airplane with the following specifi
 
 • Empty weight moment: 53,900 in-lb An example of loading the airplane for flight and calculating the total loaded weight and the total loaded moment is shown 360 320 280 240 200 160 120 80 40 0 −2 0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 Load Weight (lb)
 
+The total loaded weight of the airplane is 2,258 lb and the total loaded moment is 99,400 in-lb. These two numbers can now be plotted on the CG envelope to see if the airplane is within CG limits. The CG location shown falls within the normal category envelope, so the airplane is within CG limits for this category. It is interesting to note that the lines that form the CG envelope are graphic plots of the forward and aft CG limits. In the figure, the red line is a graphic plot of the forward limit, and the blue and green lines are graphic plots of the aft limit for the two different categories.
+
 Moment Index (Moment/1,000)
 
 Pilot & Front Passenger Rear Passenger Fuel Oil Baggage. The use of the loading graph to determine the moment for each of the useful load items is shown below. The color used for each useful load item matches the color used for the plot on the loading graph.
 
-The total loaded weight of the airplane is 2,258 lb and the total loaded moment is 99,400 in-lb. These two numbers can now be plotted on the CG envelope to see if the airplane is within CG limits. The CG location shown falls within the normal category envelope, so the airplane is within CG limits for this category. It is interesting to note that the lines that form the CG envelope are graphic plots of the forward and aft CG limits. In the figure, the red line is a graphic plot of the forward limit, and the blue and green lines are graphic plots of the aft limit for the two different categories.
-
 ## 2. 中文翻译
 
 重量与平衡计算方法通常称为装载图和重心包线法，是确定各种装载方案下重心位置的一种极好而快速的方法。该方法可应用于任何制造厂和型号的飞机，但在小型通用航空飞机上更为常见。
+
+该装载图和重心包线所对应的飞机具有以下技术规格和重量与平衡数据。
 
 使用这种重量与平衡计算方法的飞机制造厂，会在飞机原始取证时为每一种制造厂和型号的飞机制作图表。这些图表成为飞机记录的永久组成部分，通常载于飞机飞行手册/驾驶员操作手册（AFM/POH）中。这些图表与重量与平衡报告中的空重和空重重心数据配合使用，使驾驶员能够标出装载后飞机的重心。
 
 装载图用于确定装载飞机时可能涉及的任一项目或重量的指数（力矩值）。使用该图时，先在垂直刻度上找到代表已知重量的点，再由此引一条水平线到它与相应斜向重量线（即驾驶员、副驾驶、行李）相交的点。在水平线与斜线相交处，向下作一条垂线，即可确定所加重量对应的装载力矩（指数）。
 
 确定每一项重量的力矩后，将所有重量相加、所有力矩相加。然后把总重量和总力矩标绘到重心包线上。总重量标在图的垂直刻度上，并从该点引出一条水平线；总力矩标在图的水平刻度上，并从该点向上引出一条垂线。两条标绘线在图上相交之处，即为装载后飞机的重心。如果标绘线的交点落在重心包线之内，则飞机重心在限制范围内。该图中有两个重心包线，一个用于正常类别的飞机，另一个用于实用类别的飞机。
-
-该装载图和重心包线所对应的飞机具有以下技术规格和重量与平衡数据。
 
 • 座位数：4
 
@@ -52,11 +52,11 @@ The total loaded weight of the airplane is 2,258 lb and the total loaded moment 
 
 • 空重力矩：53,900 in-lb　以下是装载飞机飞行、计算总装载重量和总装载力矩的一个示例。
 
+飞机的总装载重量为 2,258 lb，总装载力矩为 99,400 in-lb。现在可以把这两个数标绘到重心包线上，看飞机是否在重心限制之内。所示的重心位置落在正常类包线之内，因此该飞机对这一类别而言在重心限制之内。值得注意的是，构成重心包线的线条就是前、后重心限制的图形标绘。该图中红线是前限的图形标绘，而蓝线和绿线是两个不同类别的后限的图形标绘。
+
 （原文此处为表格碎片，原文无正文）
 
 驾驶员及前座旅客　后座旅客　燃油　滑油　行李。下面示出用装载图确定各有效载重项目力矩的方法。各有效载重项目所用的颜色与装载图上标绘所用的颜色相对应。
-
-飞机的总装载重量为 2,258 lb，总装载力矩为 99,400 in-lb。现在可以把这两个数标绘到重心包线上，看飞机是否在重心限制之内。所示的重心位置落在正常类包线之内，因此该飞机对这一类别而言在重心限制之内。值得注意的是，构成重心包线的线条就是前、后重心限制的图形标绘。该图中红线是前限的图形标绘，而蓝线和绿线是两个不同类别的后限的图形标绘。
 
 ## 3. 专业词汇
 

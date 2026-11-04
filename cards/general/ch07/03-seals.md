@@ -14,8 +14,6 @@ Seals are used to prevent fluid from passing a certain point, as well as to keep
 
 • Type motion (rotary or reciprocating), if any Seals are divided into three main classes: packings, gaskets, and wipers.
 
-Y ear Threads Color 2000 2 Black 2001 2 Green 2002 2 Red 2003 2 Blue 2004 2 Yellow 2005 2 Black 2006 2 Green 2007 2 Red 2008 2 Blue 2009 2 Yellow 2010 2 Black Quarter Marking Quarter Threads Color January, February, March 1 Red April, May, June 1 Blue July, August, September 1 Green October, November, December 1 Yellow
-
 Packings are made of synthetic or natural rubber. They are generally used as “running seals,” that is, in units that contain moving parts, such as actuating cylinders, pumps, selector valves, and so forth. Packings are made in the form of O-rings, V-rings, and U-rings, each designed for a specific purpose.
 
 #### O-Ring Packings
@@ -37,6 +35,8 @@ The coding on some rings is not permanent. On others it may be omitted due to ma
 Because of the difficulties with color-coding, O-rings are available in individual hermetically-sealed envelopes labeled with all pertinent data. When selecting an O-ring for installation, the basic part number on the sealed envelope provides the most reliable compound identification.
 
 Although an O-ring may appear perfect at first glance, slight surface flaws may exist. These flaws are often capable of preventing satisfactory O-ring performance under the variable operating pressures of aircraft systems; therefore, O-rings U-ring V-ring Male O-ring U-cup Female should be rejected for flaws that affect their performance. Such flaws are difficult to detect, and one aircraft manufacturer recommends using a 4-power magnifying glass with adequate lighting to inspect each ring before it is installed.
+
+Y ear Threads Color 2000 2 Black 2001 2 Green 2002 2 Red 2003 2 Blue 2004 2 Yellow 2005 2 Black 2006 2 Green 2007 2 Red 2008 2 Blue 2009 2 Yellow 2010 2 Black Quarter Marking Quarter Threads Color January, February, March 1 Red April, May, June 1 Blue July, August, September 1 Green October, November, December 1 Yellow
 
 By rolling the ring on an inspection cone or dowel, the inner diameter surface can also be checked for small cracks, particles of foreign material, or other irregularities that cause leakage or shorten the life of the O-ring. The slight stretching of the ring when it is rolled inside out helps to reveal some defects not otherwise visible.
 
@@ -102,8 +102,6 @@ Sealant must be cured to a tack-free condition before applying brush top coating
 
 • 运动类型（旋转或往复），如果有的话 密封件分为三大类：填料、垫片和刮尘圈。
 
-（原文此处为表格碎片，无对应正文）
-
 填料由合成橡胶或天然橡胶制成。它们一般用作“动密封”，即用于含有运动部件的装置，如作动筒、泵、选择阀等。填料制成 O 形圈、V 形圈和 U 形圈的形式，各有特定用途。
 
 #### O 形圈填料
@@ -125,6 +123,8 @@ O 形圈所用材料已针对各种工作条件、温度和液体进行过配方
 由于颜色编码存在困难，O 形圈以单独的气密封袋供应，袋上标注所有相关数据。选择 O 形圈安装时，密封袋上的基本件号是最可靠的配方识别依据。
 
 虽然 O 形圈乍看可能完美无缺，但可能存在细微的表面缺陷。这些缺陷在飞机系统变化的工作压力下往往足以使 O 形圈无法正常发挥作用；因此，凡影响其使用性能的缺陷，O 形圈都应拒收。这类缺陷难以发现，一家飞机制造商建议在安装每个环之前，用 4 倍放大镜在充足照明下检查。
+
+（原文此处为表格碎片，无对应正文）
 
 将环在检查锥或圆棒上滚动，还能检查内径表面有无细小裂纹、异物颗粒或其他导致泄漏或缩短 O 形圈寿命的不规则处。环被里外翻转滚动时的轻微拉伸，有助于显露某些原本看不见的缺陷。
 

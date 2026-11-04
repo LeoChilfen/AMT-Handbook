@@ -106,6 +106,16 @@ The hand beading tool is used with tubing having 1⁄4" to 1" outside diameter. 
 
 Other methods and types of beading tools and machines are available, but the hand beading tool is used most often. As a rule, beading machines are limited to use with large diameter tubing, over 115⁄16", unless special rollers are supplied. The grip-die method of beading is confined to small tubing.
 
+### Fluid Line Identification
+
+Fluid lines in aircraft are often identified by markers made up of color codes, words, and geometric symbols. These markers identify each line’s function, content, and primary hazard.
+
+Fluid lines are marked, in most instances, with 1" tape or decals. On lines 4" in diameter (or larger), lines in oily environment, hot lines, and on some cold lines, steel tags may be used in place of tape or decals. Paint is used on lines in engine compartments where there is the possibility of tapes, decals, or tags being drawn into the engine induction system.
+
+In addition to the above-mentioned markings, certain lines may be further identified regarding specific function within a system (e.g., drain, vent, pressure, or return). Lines conveying fuel may be marked FLAM; lines containing toxic materials are marked TOXIC in place of FLAM. Lines containing physically dangerous materials, such as oxygen, nitrogen, or FreonTM, may be marked PHDAN.
+
+Aircraft and engine manufacturers are responsible for the original installation of identification markers, but the aviation mechanic is responsible for the replacement when it becomes necessary. Tapes and decals are generally placed on both ends of a line and at least once in each compartment through which lines run. In addition, identification markers are placed immediately adjacent to each valve, regulator, filter, or other accessories within a line. Where paint or tags are used, location requirements are the same as for tapes and decals.
+
 ### Fluid Line End Fittings
 
 Depending on the type and use, fittings have either pipe threads or machine threads. Pipe threads are similar to those used in ordinary plumbing and are tapered, both internal and external. External threads are referred to as male threads and internal threads are female threads. When two fittings are joined, a male into a female, the thread taper forms a seal. Some form of pipe thread lubricant approved for particular fluid application should be used when joining pipe threads to prevent seizing and high-pressure leakage. Use care when applying thread lubricant so that the lubricant does not enter and contaminate the system. Do not use lubricants on oxygen lines. Oxygen reacts with petroleum products and can ignite (special lubricants are available or oxygen systems).
@@ -130,12 +140,6 @@ Standard AN fittings are identified by their black or blue color. All AN steel f
 
 A swaged fitting is a permanent connection that is virtually maintenance free. Swaged fittings are used to join hydraulic lines in areas where routine disconnections are not required and are often used with titanium and corrosion-resistant steel tubing. The fittings are installed with portable hydraulically-powered tooling, which is compact enough to be used in tight spaces. If the fittings need to be disconnected, cut the tubing with a tube cutter. Special installation tooling is available in portable kits. Always use the manufacturer’s instructions to install swaged fittings.
 
-One of the latest developments is the Permalite™ fitting. Permalite™ is a tube fitting that is mechanically attached to the tube by axial swaging. Permalite™ works by deforming the fitting into the tube being joined by moving a ring, a component of the Permalite™ fitting, axially along the fitting length using a Permaswage™ Axial swage tool.
-
-#### Cryofit Fittings
-
-Many transport category aircraft use Cryofit fittings to join hydraulic lines in areas where routine disconnections are not required. Cryofit fittings are standard fittings with a cryogenic sleeve. The sleeve is made of a shape memory alloy, Tinel™. additional information on sizes, torques, and bend radii. AN flared fittings are different from MS flareless fittings and they are not interchangeable. AN flared fittings are easily recognized, because they have a cone at the end of the fitting while the MS flareless fitting has a straight end.
-
 ### MS Flareless Fittings
 
 MS flareless fittings are designed primarily for high-pressure (3,000 psi) hydraulic systems that may be subjected to severe vibration or fluctuating pressure. Using this type of fitting eliminates all tube flaring, yet provides a safe and strong, dependable tube connection. The fitting consists of three parts: a body, a sleeve, and a nut. The internal design of the body causes the sleeve to cut into the outside of the tube when the body and nut are joined. The counterbore shoulder within the body is designed with a reverse angle of 15° for steel connectors and 45° for aluminum fittings. This reverse angle prevents inward collapse of the tubing when tightened and provides a partial sealing force to be exerted against the periphery of the body counterbore.
@@ -144,15 +148,11 @@ MS flareless fittings are designed primarily for high-pressure (3,000 psi) hydra
 
 A popular repair system for connecting and repairing hydraulic lines on transport category aircraft is the use of Permaswage™ fittings. Swaged fittings create a permanent
 
-### Fluid Line Identification
+One of the latest developments is the Permalite™ fitting. Permalite™ is a tube fitting that is mechanically attached to the tube by axial swaging. Permalite™ works by deforming the fitting into the tube being joined by moving a ring, a component of the Permalite™ fitting, axially along the fitting length using a Permaswage™ Axial swage tool.
 
-Fluid lines in aircraft are often identified by markers made up of color codes, words, and geometric symbols. These markers identify each line’s function, content, and primary hazard.
+#### Cryofit Fittings
 
-Fluid lines are marked, in most instances, with 1" tape or decals. On lines 4" in diameter (or larger), lines in oily environment, hot lines, and on some cold lines, steel tags may be used in place of tape or decals. Paint is used on lines in engine compartments where there is the possibility of tapes, decals, or tags being drawn into the engine induction system.
-
-In addition to the above-mentioned markings, certain lines may be further identified regarding specific function within a system (e.g., drain, vent, pressure, or return). Lines conveying fuel may be marked FLAM; lines containing toxic materials are marked TOXIC in place of FLAM. Lines containing physically dangerous materials, such as oxygen, nitrogen, or FreonTM, may be marked PHDAN.
-
-Aircraft and engine manufacturers are responsible for the original installation of identification markers, but the aviation mechanic is responsible for the replacement when it becomes necessary. Tapes and decals are generally placed on both ends of a line and at least once in each compartment through which lines run. In addition, identification markers are placed immediately adjacent to each valve, regulator, filter, or other accessories within a line. Where paint or tags are used, location requirements are the same as for tapes and decals.
+Many transport category aircraft use Cryofit fittings to join hydraulic lines in areas where routine disconnections are not required. Cryofit fittings are standard fittings with a cryogenic sleeve. The sleeve is made of a shape memory alloy, Tinel™. additional information on sizes, torques, and bend radii. AN flared fittings are different from MS flareless fittings and they are not interchangeable. AN flared fittings are easily recognized, because they have a cone at the end of the fitting while the MS flareless fitting has a straight end.
 
 ### Rigid Tubing Installation and Inspection
 
@@ -162,7 +162,7 @@ Before installing a line assembly in an aircraft, inspect the line carefully. Re
 
 Never apply compound to the faces of the fitting or the flare, as it destroys the metal-to-metal contact between the fitting and flare, a contact which is necessary to produce the seal. Be sure that the line assembly is properly aligned before tightening the fittings. Do not pull the installation into place with torque on the nut. Remember that these torque values are for flared-type fittings only. Always tighten fittings to the correct torque value when installing a tube assembly. Overtightening a fitting may badly The sleeve is manufactured 3 percent smaller, frozen in liquid nitrogen, and expanded to 5 percent larger than the line. During installation, the fitting is removed from the liquid nitrogen and inserted onto the tube. During a 10 to 15 second warming up period, the fitting contracts to its original size (3 percent smaller), biting down on the tube, forming a permanent seal. Cryofit fittings can only be removed by cutting the tube at the sleeve, though this leaves enough room to replace it with a swaged fitting without replacing the hydraulic line. It is frequently used with titanium tubing. The shape memory technology is also used for end fittings, flared fittings, and flareless fittings.
 
-ELBOW AN821 ELBOW AN823 TEE AN825 ELBOW AN822 TEE AN824 TEE AN826 CROSS AN827 UNION AN832 ELBOW AN833 TEE AN834 ELBOW AN837 ELBOW AN838 ELBOW AN839 TEE AN804 PLUG AN814 PLUG AN806 UNION AN815 NUT AN817 NUT AN818 SLEEVE AN819 CAP AN820NIPPLE AN816ADAPTOR AN807 BOLT AN774 BOLT AN775 ELBOW AN776 ELBOW AN777 ELBOW AN778 TEE AN779 AN744 to AN932 Material:
+Overtightening a fitting may damage or completely cut off the tube flare, or it may ruin the sleeve or fitting nut. Failure to tighten sufficiently also may be serious, as this condition may allow the line to blow out of the assembly or to leak under system pressure. The use of torque wrenches and the prescribed torque values prevents overtightening or undertightening. If a tube fitting assembly is tightened properly, it may be removed and retightened many times before reflaring is necessary.
 
 Aluminum alloy........................................................................................................................................... (code D)
 
@@ -182,7 +182,7 @@ Steel Tubing, Bolt Fitting, or Nut Torque (in–lb)
 
 Hose End Fittings and Hose Assemblies MS28740 or Equivalent End Fitting Minimum Bend Radii (inches)
 
-Overtightening a fitting may damage or completely cut off the tube flare, or it may ruin the sleeve or fitting nut. Failure to tighten sufficiently also may be serious, as this condition may allow the line to blow out of the assembly or to leak under system pressure. The use of torque wrenches and the prescribed torque values prevents overtightening or undertightening. If a tube fitting assembly is tightened properly, it may be removed and retightened many times before reflaring is necessary.
+ELBOW AN821 ELBOW AN823 TEE AN825 ELBOW AN822 TEE AN824 TEE AN826 CROSS AN827 UNION AN832 ELBOW AN833 TEE AN834 ELBOW AN837 ELBOW AN838 ELBOW AN839 TEE AN804 PLUG AN814 PLUG AN806 UNION AN815 NUT AN817 NUT AN818 SLEEVE AN819 CAP AN820NIPPLE AN816ADAPTOR AN807 BOLT AN774 BOLT AN775 ELBOW AN776 ELBOW AN777 ELBOW AN778 TEE AN779 AN744 to AN932 Material:
 
 #### Flareless Tube Installation
 
@@ -308,6 +308,16 @@ When replacing rigid tubing, ensure that the layout of the new line is the same 
 
 还有其他方法以及不同类型的手动滚压凸缘工具和机器，但手动滚压凸缘工具使用最普遍。一般来说，滚压凸缘机仅限于加工直径较大（超过 115⁄16 英寸）的导管，除非配有专用滚轮。夹持模滚压法只适用于小导管。
 
+### 流体管路识别
+
+飞机上的流体管路常用由色标、文字和几何符号组成的标记来识别。这些标记标明每条管路的功能、所含介质和主要危害。
+
+在多数情况下，流体管路用 1 英寸宽的胶带或贴标标记。对直径 4 英寸（或更大）的管路、油污环境中的管路、热管路以及某些冷管路，可用钢制标牌代替胶带或贴标。在发动机舱内，由于胶带、贴标或标牌有可能被吸入发动机进气系统，因此对那里的管路采用涂漆标记。
+
+除上述标记外，某些管路还可进一步标明其在系统中的具体功能（例如排放、通气、压力或回油）。输送燃油的管路可标记 FLAM；含有毒物质的管路用 TOXIC 代替 FLAM。含有氧气、氮气或 FreonTM 之类有生理危害物质的管路，可标记 PHDAN。
+
+飞机和发动机制造商负责最初安装识别标记，但在需要更换时，由航空维修人员负责。胶带和贴标一般贴在管路的两端，并在管路经过的每一舱段内至少贴一处。此外，识别标记还贴在管路内每个活门、调节器、滤子或其他附件紧邻的位置。使用涂漆或标牌时，位置要求与胶带和贴标相同。
+
 ### 流体管路端接头
 
 接头的螺纹有管螺纹和机螺纹两种，取决于其类型和用途。管螺纹与普通水暖管件上所用的螺纹相似，内、外都是锥螺纹。外螺纹称为阳螺纹，内螺纹称为阴螺纹。两个接头（一阳一阴）连接时，螺纹的锥度形成密封。连接管螺纹时，应使用经批准、适用于特定流体场合的某种管螺纹润滑剂，以防止咬死和高压渗漏。涂敷螺纹润滑剂时要小心，不要让润滑剂进入并污染系统。氧气管道上不得使用润滑剂。氧会与石油产品发生反应并可能起火（氧气系统有专用润滑剂可供使用）。
@@ -332,12 +342,6 @@ When replacing rigid tubing, ensure that the layout of the new line is the same 
 
 压接式接头是一种永久连接，这种连接实际上几乎不需要维护。压接式接头用于在不需要例行拆卸的部位连接液压管路，并且常与钛合金和耐蚀钢导管配用。这种接头用便携式液压工具安装，该工具结构紧凑，可在狭窄空间内使用。如果需要拆开接头，用切管器把导管切断。专用安装工具装在便携式工具箱中供应。安装压接式接头时务必遵循制造商的说明。
 
-最新发展的产品之一是 Permalite™ 接头。Permalite™ 是一种通过轴向压接机械连接到导管上的管接头。Permalite™ 的工作原理是：用 Permaswage™ 轴向压接工具沿接头长度方向轴向移动 Permalite™ 接头上的一个环状部件，使接头变形并压入所连接的导管中。
-
-#### Cryofit 接头
-
-许多运输类飞机在不需要例行拆卸的部位使用 Cryofit 接头连接液压管路。Cryofit 接头是带低温衬套的标准接头。该衬套由形状记忆合金 Tinel™ 制成。关于尺寸、扭矩和弯曲半径的补充信息。AN 扩口接头与 MS 无扩口接头不同，两者不可互换。AN 扩口接头很容易辨认，因为它的接头端部有一个锥面，而 MS 无扩口接头的端部是直的。
-
 ### MS 无扩口接头
 
 MS 无扩口接头主要设计用于可能承受剧烈振动或压力波动的高压（3,000 psi）液压系统。使用这类接头可以免去所有导管扩口作业，同时提供安全、牢固、可靠的导管连接。该接头由三部分组成：本体、衬套和螺帽。本体的内部结构使衬套在本体与螺帽连接时切入导管外表面。本体内孔的沉孔台肩设计有反向角：钢接头为 15°，铝接头为 45°。这一反向角可防止拧紧时导管向内压瘪，并在本体沉孔周边产生部分密封力。
@@ -346,15 +350,11 @@ MS 无扩口接头主要设计用于可能承受剧烈振动或压力波动的�
 
 在运输类飞机上连接和修理液压管路时，一种常用的修理方案是使用 Permaswage™ 接头。压接式接头形成永久
 
-### 流体管路识别
+最新发展的产品之一是 Permalite™ 接头。Permalite™ 是一种通过轴向压接机械连接到导管上的管接头。Permalite™ 的工作原理是：用 Permaswage™ 轴向压接工具沿接头长度方向轴向移动 Permalite™ 接头上的一个环状部件，使接头变形并压入所连接的导管中。
 
-飞机上的流体管路常用由色标、文字和几何符号组成的标记来识别。这些标记标明每条管路的功能、所含介质和主要危害。
+#### Cryofit 接头
 
-在多数情况下，流体管路用 1 英寸宽的胶带或贴标标记。对直径 4 英寸（或更大）的管路、油污环境中的管路、热管路以及某些冷管路，可用钢制标牌代替胶带或贴标。在发动机舱内，由于胶带、贴标或标牌有可能被吸入发动机进气系统，因此对那里的管路采用涂漆标记。
-
-除上述标记外，某些管路还可进一步标明其在系统中的具体功能（例如排放、通气、压力或回油）。输送燃油的管路可标记 FLAM；含有毒物质的管路用 TOXIC 代替 FLAM。含有氧气、氮气或 FreonTM 之类有生理危害物质的管路，可标记 PHDAN。
-
-飞机和发动机制造商负责最初安装识别标记，但在需要更换时，由航空维修人员负责。胶带和贴标一般贴在管路的两端，并在管路经过的每一舱段内至少贴一处。此外，识别标记还贴在管路内每个活门、调节器、滤子或其他附件紧邻的位置。使用涂漆或标牌时，位置要求与胶带和贴标相同。
+许多运输类飞机在不需要例行拆卸的部位使用 Cryofit 接头连接液压管路。Cryofit 接头是带低温衬套的标准接头。该衬套由形状记忆合金 Tinel™ 制成。关于尺寸、扭矩和弯曲半径的补充信息。AN 扩口接头与 MS 无扩口接头不同，两者不可互换。AN 扩口接头很容易辨认，因为它的接头端部有一个锥面，而 MS 无扩口接头的端部是直的。
 
 ### 刚性导管安装与检查
 
@@ -364,7 +364,7 @@ MS 无扩口接头主要设计用于可能承受剧烈振动或压力波动的�
 
 绝不要在接头或扩口的配合面上涂抹密封膏，因为这会破坏接头与扩口之间的金属对金属接触，而这一接触是形成密封所必需的。拧紧接头之前，要确保管路组件已正确对正。不要靠拧螺帽的扭矩把安装件硬拉到位。记住，这些扭矩值仅适用于扩口式接头。安装导管组件时，务必把接头拧到正确的扭矩值。过度拧紧接头可能严重……衬套加工得比管路尺寸小 3%，在液氮中冷冻后膨胀到比管路大 5%。安装时，把接头从液氮中取出并套到导管上。在 10 至 15 秒的回温过程中，接头收缩回原尺寸（比管路小 3%），咬紧导管，形成永久密封。Cryofit 接头只能通过在衬套处切断导管来拆除，不过这样仍留有足够空间，可用压接式接头替换它而不必更换液压管路。它常与钛合金导管配用。这种形状记忆技术也用于端接头、扩口式接头和无扩口式接头。
 
-（原文此处为表格碎片，无对应正文）
+拧紧过度可能损伤甚至完全切断导管扩口，还可能损坏衬套或接头螺帽。拧紧不足同样可能造成严重后果，因为这种情况可能使管路从组件中脱出，或在系统压力下渗漏。使用扭矩扳手并按规定扭矩值拧紧，可防止过拧或拧紧不足。如果导管接头组件拧紧得当，可以在需要重新扩口之前多次拆卸和重新拧紧。
 
 铝合金……（代码 D）
 
@@ -384,7 +384,7 @@ AN 编号后面的短横线编号表示该接头所配导管（或软管）的�
 
 （原文此处为表格碎片，无对应正文）
 
-拧紧过度可能损伤甚至完全切断导管扩口，还可能损坏衬套或接头螺帽。拧紧不足同样可能造成严重后果，因为这种情况可能使管路从组件中脱出，或在系统压力下渗漏。使用扭矩扳手并按规定扭矩值拧紧，可防止过拧或拧紧不足。如果导管接头组件拧紧得当，可以在需要重新扩口之前多次拆卸和重新拧紧。
+（原文此处为表格碎片，无对应正文）
 
 #### 无扩口导管安装
 

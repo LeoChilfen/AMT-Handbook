@@ -34,8 +34,6 @@ The electrons move toward the junction and the right end of the diode becomes sl
 
 When electrons on the N-type side approach the junction, they recombine with holes. Basically, electrons are flowing into the right end of the diode, while the bulk of the electrons in the N-type material move toward the junctions. The left edge of this moving front of electrons disappears by dropping into holes at the junction. In this way, there is a continuous current of electrons from the battery moving toward the junction.
 
-Housing, stator and coil assembly ArmatureResistor Head assembly Fan Yoke assembly Resistor Brush assembly Commutator Condenser Brush retainer cap Rotor When the electrons hit the junction, they then become valence electrons. Once a valence electron, they can then move through the holes in the P-type material. When the valence electrons move through the P-type material from the right to the left, a similar movement is occurring with the holes by moving from the left side of the P-type material to the right. Once the valence electron reaches the end of the diode, it then flows back into the positive terminal of the battery.
-
 1. Electron leaves negative terminal of the battery and enters the right end (N-type material) of the diode.
 
 2. Electron then travels through the N-type material.
@@ -45,6 +43,8 @@ Housing, stator and coil assembly ArmatureResistor Head assembly Fan Yoke assemb
 4. The electron now travels through the P-type material as a valence electron.
 
 5. The electron then leaves the diode and flows back to the positive terminal of the battery.
+
+Housing, stator and coil assembly ArmatureResistor Head assembly Fan Yoke assembly Resistor Brush assembly Commutator Condenser Brush retainer cap Rotor When the electrons hit the junction, they then become valence electrons. Once a valence electron, they can then move through the holes in the P-type material. When the valence electrons move through the P-type material from the right to the left, a similar movement is occurring with the holes by moving from the left side of the P-type material to the right. Once the valence electron reaches the end of the diode, it then flows back into the positive terminal of the battery.
 
 ### Reverse Biased Diode
 
@@ -88,8 +88,6 @@ P 型半导体是掺杂了 P 型（受主）杂质的半导体。硼、铝、镓
 
 当 N 型侧的电子接近结时，它们与空穴复合。从根本上说，电子流入二极管的右端，而 N 型材料中的大部分电子向结移动。这个运动的电子前锋的左边缘在结处落入空穴而消失。这样，从电池出发的电子便形成连续电流流向结。
 
-当电子撞击结时，它们就变成价电子。一旦成为价电子，它们就能通过 P 型材料中的空穴移动。当价电子在 P 型材料中从右向左移动时，空穴也发生类似的运动，即从 P 型材料的左侧移向右侧。一旦价电子到达二极管的末端，它便流回电池的正极。
-
 1. 电子离开电池负极，进入二极管的右端（N 型材料）。
 
 2. 电子随后穿过 N 型材料。
@@ -99,6 +97,8 @@ P 型半导体是掺杂了 P 型（受主）杂质的半导体。硼、铝、镓
 4. 电子现在作为价电子穿过 P 型材料。
 
 5. 电子随后离开二极管，流回电池正极。
+
+当电子撞击结时，它们就变成价电子。一旦成为价电子，它们就能通过 P 型材料中的空穴移动。当价电子在 P 型材料中从右向左移动时，空穴也发生类似的运动，即从 P 型材料的左侧移向右侧。一旦价电子到达二极管的末端，它便流回电池的正极。
 
 ### 反向偏置二极管
 

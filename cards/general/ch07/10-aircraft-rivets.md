@@ -34,6 +34,8 @@ The 5056 rivet is used for riveting magnesium-alloy structures because of its co
 
 Mild steel rivets are used for riveting steel parts. The corrosion-resistant steel rivets are for riveting corrosion-resistant steels in firewalls, exhaust stack brackets, and similar structures.
 
+Corrosion Resistant Steel Monel Heating Time—Air Furnace Rivet Alloy Time atTemperature Heat-TreatingTemperature 910 °F–930 °F 925 °F–950 °F 2024 2017 1 hour 1 hour Heating Time—Salt Bath 2024 2017 30 minutes 30 minutes Rivet Alloy Time atTemperature Heat-TreatingTemperature 910 °F–930 °F 925 °F–950 °F Group A 1100 3003 5052 6053 Group B 2117 2017 2124 7075
+
 Monel rivets are used for riveting nickel-steel alloys. They can be substituted for those made of corrosion-resistant steel in some cases.
 
 The use of copper rivets in aircraft repair is limited. Copper rivets can be used only on copper alloys or nonmetallic materials, such as leather.
@@ -77,8 +79,6 @@ The flathead rivet, like the roundhead rivet, is used on interior structures. It
 The universal head rivet is a combination of the roundhead, flathead, and brazier head. It is used in aircraft construction and repair in both interior and exterior locations. When replacement is necessary for protruding head rivets— roundhead, flathead, or brazier head—they can be replaced by universal head rivets.
 
 The countersunk head rivet is flat topped and beveled toward the shank so that it fits into a countersunk or dimpled hole and is flush with the material’s surface. The angle at which the head slopes may vary from 78° to 120°. The 100° rivet is the most commonly used type. These rivets are used to fasten sheets over which other sheets must fit. They are also used on exterior surfaces of the aircraft, because they offer only slight resistance to the slipstream and help to minimize turbulent airflow.
-
-Corrosion Resistant Steel Monel Heating Time—Air Furnace Rivet Alloy Time atTemperature Heat-TreatingTemperature 910 °F–930 °F 925 °F–950 °F 2024 2017 1 hour 1 hour Heating Time—Salt Bath 2024 2017 30 minutes 30 minutes Rivet Alloy Time atTemperature Heat-TreatingTemperature 910 °F–930 °F 925 °F–950 °F Group A 1100 3003 5052 6053 Group B 2117 2017 2124 7075
 
 The markings on the heads of rivets indicate the material of which they are made and, therefore, their strength. Although there are three materials indicated by a plain head, it is possible to distinguish their difference by color. The 1100 is an aluminum color; the mild steel is a typical steel color; and the copper rivet is a copper color. Any head marking can appear on any head style of the same material.
 
@@ -134,6 +134,8 @@ For use in such places, special rivets have been designed that can be bucked fro
 
 低碳钢铆钉用于铆接钢制零件。耐蚀钢铆钉用于铆接防火墙、排气管支架及类似结构上的耐蚀钢。
 
+（原文此处为热处理温度与加热时间的表格碎片，含耐蚀钢、蒙乃尔的空气炉加热时间，2024、2017 在 910 °F–930 °F 与 925 °F–950 °F 下的保温时间、盐浴 30 分钟，以及 A 组 1100、3003、5052、6053 与 B 组 2117、2017、2124、7075 的牌号）
+
 蒙乃尔（Monel）铆钉用于铆接镍钢合金。在某些情况下，它们可以代替耐蚀钢铆钉。
 
 铜铆钉在飞机修理中的使用有限。铜铆钉只能用于铜合金或非金属材料，如皮革。
@@ -177,8 +179,6 @@ For use in such places, special rivets have been designed that can be bucked fro
 通用头铆钉是圆头、平头和扁圆头的结合体。它用于飞机制造和修理中的内部与外部部位。当凸头铆钉（圆头、平头或扁圆头）需要更换时，可用通用头铆钉代用。
 
 埋头铆钉顶部为平面，向杆部倾斜，以便装入埋头孔或压窝孔，并与材料表面齐平。头部斜面角度可为 78° 至 120°。100° 铆钉是最常用的类型。这种铆钉用于固定其上还要再装其他板件的板件。它们也用于飞机外表面，因为它们对流过的气流阻力很小，有助于把湍流减到最小。
-
-（原文此处为热处理温度与加热时间的表格碎片，含耐蚀钢、蒙乃尔的空气炉加热时间，2024、2017 在 910 °F–930 °F 与 925 °F–950 °F 下的保温时间、盐浴 30 分钟，以及 A 组 1100、3003、5052、6053 与 B 组 2117、2017、2124、7075 的牌号）
 
 铆钉头上的标记表示铆钉是用什么材料制成的，因而也表示其强度。虽然光面头部可能对应三种材料，但可以通过颜色区分它们的差别。1100 为铝的本色；低碳钢为典型的钢色；铜铆钉为铜色。任何一种头部标记都可以出现在同一种材料的任何一种头型上。
 

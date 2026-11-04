@@ -28,6 +28,8 @@ Engine Lycoming O-320-E1C or O-320-E1F Fuel 80/87 minimum grade aviation gasolin
 
 Propeller and Hartzell HC-C2YL-1B/7663A-6 propeller limits Diameter: 70 in. no further reduction permitted Pitch setting at 30 in. radius: High 27° Low 12°12'
 
+Propeller and Hartzell HC-C2YL-1B/7663A-6 propeller limits Diameter: 70 in. no further reduction permitted Pitch setting at 30 in. radius: High 27° Low 14°57'
+
 Spinner: MBB P/N 209-61056 Governor: Woodward P/N T210452 or P/N 210681 2 A27EU Airspeed limits (CAS) Normal and Utility Category Never exceed 173 knots (199 m.p.h.)
 
 Maximum structural cruising 135 knots (155 m.p.h.)
@@ -57,8 +59,6 @@ See NOTE 1 for unusable fuel and undrainable oil data.
 II - Model BO-209-160 FV and RV, 2 PCLM (Normal and Utility Category), approved 9 July 1971 (FV model has fixed nose L.g.; RV model has retractable nose L.g.).
 
 Engine Lycoming IO-320-D1A or IO-320-D1B Fuel 100/130 minimum grade aviation gasoline Engine limits For all operations, 2700 r.p.m. (160 hp.)
-
-Propeller and Hartzell HC-C2YL-1B/7663A-6 propeller limits Diameter: 70 in. no further reduction permitted Pitch setting at 30 in. radius: High 27° Low 14°57'
 
 Spinner: MBB P/N 209-61056 Governor: Woodward P/N T210452 or P/N 210681 Airspeed limits (CAS) Normal and Utility Category Never exceed 173 knots (199 m.p.h.)
 
@@ -232,6 +232,8 @@ I - 型号 BO-209-150 FV 和 RV，2 PCLM（正常类与实用类），1971 年 7
 
 螺旋桨：Hartzell HC-C2YL-1B/7663A-6。螺旋桨限制：直径 70 in.，不允许进一步减小；30 in. 半径处的桨距设定：高距 27°，低距 12°12'。
 
+螺旋桨：Hartzell HC-C2YL-1B/7663A-6。螺旋桨限制：直径 70 in.，不允许进一步减小；30 in. 半径处的桨距设定：高距 27°，低距 14°57'。
+
 整流锥：MBB P/N 209-61056；调速器：Woodward P/N T210452 或 P/N 210681。2 A27EU 空速限制（CAS）——正常类与实用类：不可超过 173 节（199 m.p.h.）
 
 最大结构巡航速度 135 节（155 m.p.h.）
@@ -261,8 +263,6 @@ I - 型号 BO-209-150 FV 和 RV，2 PCLM（正常类与实用类），1971 年 7
 II - 型号 BO-209-160 FV 和 RV，2 PCLM（正常类与实用类），1971 年 7 月 9 日批准（FV 型为固定式前起落架；RV 型为可收放式前起落架）。
 
 发动机：Lycoming IO-320-D1A 或 IO-320-D1B。燃油：最低等级 100/130 航空汽油。发动机限制：所有运行状态下 2700 r.p.m.（160 hp）。
-
-螺旋桨：Hartzell HC-C2YL-1B/7663A-6。螺旋桨限制：直径 70 in.，不允许进一步减小；30 in. 半径处的桨距设定：高距 27°，低距 14°57'。
 
 整流锥：MBB P/N 209-61056；调速器：Woodward P/N T210452 或 P/N 210681。空速限制（CAS）——正常类与实用类：不可超过 173 节（199 m.p.h.）
 

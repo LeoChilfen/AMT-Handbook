@@ -108,6 +108,16 @@ The success and reliability of a penetrant inspection depends upon the thoroughn
 
 • Minimum part preparation Disadvantages
 
+4. The smaller the defect, the longer the penetrating time.
+
+Fine crack-like apertures require a longer penetrating time than defects such as pores.
+
+5. When the part to be inspected is made of a material susceptible to magnetism, it should be inspected by a magnetic particle inspection method if the equipment is available.
+
+6. V isible penetrant-type developer, when applied to the surface of a part, dries to a smooth, white coating.
+
+As the developer dries, bright red indications appear where there are surface defects. If no red indications appear, there are no surface defects. 7. When conducting the fluorescent penetrant-type inspection, the defects show up (under black light) as a brilliant yellow-green color and the sound areas appear deep blue-violet.
+
 • Surface discontinuities only
 
 • Generally only large discontinuities
@@ -134,15 +144,9 @@ The success and reliability of a penetrant inspection depends upon the thoroughn
 
 • Part preparation required (removal of finishes and sealant, etc.)
 
-• Electrically conductive materials
-
 • Semi-directional requiring general orientation of field to discontinuity
 
-• Skill and training required
-
 • Ferro-magnetic materials only
-
-• Time consuming for large areas
 
 • Part must be demagnetized after test
 
@@ -150,11 +154,19 @@ The success and reliability of a penetrant inspection depends upon the thoroughn
 
 • Surface must be accessible to probe
 
+• Electrically conductive materials
+
+• Skill and training required
+
+• Time consuming for large areas
+
 • Highly sensitive to sound beam discontinuity orientation
 
 • High degree of skill and experience required for exposure and interpretation
 
 • Depth of discontinuity not indicated
+
+• Depth of discontinuity not indicated fine, are seldom difficult to detect with the penetrant inspection.
 
 • Very expensive (slow process)
 
@@ -169,18 +181,6 @@ The success and reliability of a penetrant inspection depends upon the thoroughn
 • Highly directional, sensitive to flaw orientation
 
 • High degree of skill and experience required for exposure and interpretation
-
-• Depth of discontinuity not indicated fine, are seldom difficult to detect with the penetrant inspection.
-
-4. The smaller the defect, the longer the penetrating time.
-
-Fine crack-like apertures require a longer penetrating time than defects such as pores.
-
-5. When the part to be inspected is made of a material susceptible to magnetism, it should be inspected by a magnetic particle inspection method if the equipment is available.
-
-6. V isible penetrant-type developer, when applied to the surface of a part, dries to a smooth, white coating.
-
-As the developer dries, bright red indications appear where there are surface defects. If no red indications appear, there are no surface defects. 7. When conducting the fluorescent penetrant-type inspection, the defects show up (under black light) as a brilliant yellow-green color and the sound areas appear deep blue-violet.
 
 8. It is possible to examine an indication of a defect and to determine its cause as well as its extent. Such an appraisal can be made if something is known about the manufacturing processes that the part has been subjected to.
 
@@ -366,6 +366,16 @@ Inspection with ultrasonics is limited to the part in contact with the transduce
 
 • 零件准备最少　缺点
 
+4. 缺陷越小，渗透时间越长。
+
+细窄的裂纹状开口，比气孔之类的缺陷需要更长的渗透时间。
+
+5. 如果被检零件由易受磁化的材料制成，且设备可用，则应采用磁粉检测方法进行检查。
+
+6. 着色渗透型显像剂涂到零件表面后，会干燥成一层光滑的白色涂层。
+
+显像剂干燥时，有表面缺陷处会出现鲜红色的指示。如果没有红色指示出现，就没有表面缺陷。7. 进行荧光渗透型检查时，缺陷在（黑光下）呈现明亮的黄绿色，而无缺陷区域呈深蓝紫色。
+
 • 仅限于表面不连续
 
 • 一般只能发现较大的不连续
@@ -392,15 +402,9 @@ Inspection with ultrasonics is limited to the part in contact with the transduce
 
 • 需要零件准备（去除涂层和密封胶等）
 
-• 仅适用于导电材料
-
 • 半方向性，需使磁场与不连续大致取向
 
-• 需要技能和培训
-
 • 仅适用于铁磁性材料
-
-• 大面积检测耗时长
 
 • 检测后零件必须退磁
 
@@ -408,11 +412,19 @@ Inspection with ultrasonics is limited to the part in contact with the transduce
 
 • 表面必须能让探头接触
 
+• 仅适用于导电材料
+
+• 需要技能和培训
+
+• 大面积检测耗时长
+
 • 对声束与不连续的取向高度敏感
 
 • 曝光和判读要求很高的技能与经验
 
 • 不显示不连续的深度
+
+• 不显示不连续的深度　无论多细，用渗透检测通常都不难发现。
 
 • 非常昂贵（过程缓慢）
 
@@ -427,18 +439,6 @@ Inspection with ultrasonics is limited to the part in contact with the transduce
 • 方向性极强，对缺陷取向敏感
 
 • 曝光和判读要求很高的技能与经验
-
-• 不显示不连续的深度　无论多细，用渗透检测通常都不难发现。
-
-4. 缺陷越小，渗透时间越长。
-
-细窄的裂纹状开口，比气孔之类的缺陷需要更长的渗透时间。
-
-5. 如果被检零件由易受磁化的材料制成，且设备可用，则应采用磁粉检测方法进行检查。
-
-6. 着色渗透型显像剂涂到零件表面后，会干燥成一层光滑的白色涂层。
-
-显像剂干燥时，有表面缺陷处会出现鲜红色的指示。如果没有红色指示出现，就没有表面缺陷。7. 进行荧光渗透型检查时，缺陷在（黑光下）呈现明亮的黄绿色，而无缺陷区域呈深蓝紫色。
 
 8. 可以检查缺陷指示，并判定其成因和范围。如果能对零件所经历过的制造过程有所了解，就可以作出这样的评定。
 

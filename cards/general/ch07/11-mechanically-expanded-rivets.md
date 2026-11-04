@@ -38,8 +38,6 @@ If the rivet is to be installed on an aerodynamically smooth surface, or if clea
 
 Material composition of the rivet shank depends upon the type of material being riveted. Aluminum alloy 2117 shank rivets can be used on most aluminum alloys. Aluminum alloy 5056 shank rivets should be used when the material being riveted is magnesium. Steel rivets should always be selected for riveting assemblies fabricated from steel.
 
-The thickness of the material being riveted determines the overall length of the shank of the rivet. As a general rule, the shank of the rivet should extend beyond the material thickness approximately 3⁄64 inch to 1⁄8 inch before the stem is pulled.
-
 ### Pull-Thru Rivets
 
 Several companies manufacture the pull-thru blind rivets. The same general basic information about their fabrication, composition, uses, selection, installation, inspection, and removal procedures apply to all of them.
@@ -64,15 +62,13 @@ Each company that manufactures pull-thru rivets has a code number to help users 
 
 Self-plugging (mechanical lock) rivets are like self-plugging (friction lock) rivets, except for the way the stem is retained in the rivet sleeve. This type of rivet has a positive mechanical locking collar to resist vibrations that cause the friction lock rivets to loosen and possibly fall out. Also, the mechanical locking-type rivet stem breaks off flush with the head and usually does not require further stem trimming when properly installed. Self-plugging (mechanical lock) rivets display all the strength characteristics of solid shank rivets and, in most cases, can be substituted rivet for rivet.
 
+Self-plugging (mechanical lock) rivets are fabricated with C A B A = Thickness of material (grip range) B = 3⁄64 –1⁄8"
+
 Bulbed CherryLOCK® Rivets The large blind head of this fastener introduced the word “bulb” to blind rivet terminology. In conjunction with the unique residual preload developed by the high stem break load, its proven fatigue strength makes it the only blind rivet interchangeable structurally with solid rivets.
 
 Wiredraw CherryLOCK® Rivets There is a wide range of sizes, materials, and strength levels from which to select. This fastener is especially suited for sealing applications and joints requiring an excessive amount of sheet take-up.
 
 Huck® Mechanical Locked Rivets Self-plugging (mechanical lock) rivets are fabricated in two sections: a head and shank (including a conical recess and locking collar in the head) and a serrated stem that extends through the shank. Unlike the friction lock rivet, the Huck® mechanical lock rivet has a locking collar that forms a positive lock for retention of the stem in the shank of the rivet. This collar is seated in position during the installation of the rivet.
-
-Self-plugging (mechanical lock) rivets are fabricated with C A B A = Thickness of material (grip range) B = 3⁄64 –1⁄8"
-
-C = Total rivet shank length Protruding headCountersunk head sleeves (rivet shanks) of 2017 and 5056 aluminum alloys, Monel, or stainless steel.
 
 The mechanical lock type of self-plugging rivet can be used in the same applications as the friction lock type of rivet. In addition, because of its greater stem retention characteristic, installation in areas subject to considerable vibration is recommended.
 
@@ -90,19 +86,25 @@ To determine the proper grip rivet to use, measure the material thickness with a
 
 The thickness of the material being riveted determines the overall length of the shank of the rivet. As a general rule, the shank of the rivet should extend beyond the material thickness approximately 3⁄64 inch to 1⁄8 inch before the stem is pulled.
 
+The thickness of the material being riveted determines the overall length of the shank of the rivet. As a general rule, the shank of the rivet should extend beyond the material thickness approximately 3⁄64 inch to 1⁄8 inch before the stem is pulled.
+
+C = Total rivet shank length Protruding headCountersunk head sleeves (rivet shanks) of 2017 and 5056 aluminum alloys, Monel, or stainless steel.
+
+C = Total rivet shank length (Minimum grip illustrated)
+
+C = Total rivet shank length 9SP-B Head Style 9SP-B = brazier or universal head 9SP-100 = 100º countersunk head Material composition of shank A = 2017 aluminum alloy B = 5056 aluminum alloy R = mild steel Shank diameter in 32nds of an inch:
+
 ### Rivet Identification
 
 Each company that manufactures self-plugging (friction lock) rivets has a code number to help users obtain the correct rivet for the grip range or material thickness of a particular installation. In addition, MS numbers are used for identification purposes.
 
 C A B A = Thickness of material (grip range)
 
-C = Total rivet shank length (Minimum grip illustrated)
-
-Before installation After installation Many special fasteners produce high strength with lightweight and can be used in place of conventional AN bolts and nuts. When AN bolts are tightened with the nut, the bolt stretches, narrowing the diameter and then the bolt is no longer tight in the hole. Special fasteners eliminate this loose fit, because they are held in place by a collar that is squeezed into position. These fasteners are not under the same tensile loads as a bolt during installation. Special fasteners are also used extensively for light sport aircraft (LSA). Always follow the aircraft manufacturer’s recommendations.
-
 Pin (Hi-Shear) rivets are classified as special rivets but are not of the blind type. Access to both sides of the material is required to install this type of rivet. Pin rivets have the same shear strength as bolts of equal diameters, are about 40 percent of the weight of a bolt, and require only about one-fifth as much time for installation as a bolt, nut, and washer combination. They are approximately three times as strong as solid shank rivets.
 
 Pin rivets are essentially threadless bolts. The pin is headed at one end and is grooved about the circumference at the other. A metal collar is swaged onto the grooved end effecting a firm, tight fit. Pin rivets are fabricated in a variety of materials but should be used only in shear applications. They should never be used where the grip length is less than the shank diameter.
+
+Before installation After installation Many special fasteners produce high strength with lightweight and can be used in place of conventional AN bolts and nuts. When AN bolts are tightened with the nut, the bolt stretches, narrowing the diameter and then the bolt is no longer tight in the hole. Special fasteners eliminate this loose fit, because they are held in place by a collar that is squeezed into position. These fasteners are not under the same tensile loads as a bolt during installation. Special fasteners are also used extensively for light sport aircraft (LSA). Always follow the aircraft manufacturer’s recommendations.
 
 Part numbers for pin rivets can be interpreted to give the diameter and grip length of the individual rivets. A typical part number breakdown would be:
 
@@ -110,9 +112,21 @@ NAS177-14-17 Before pulling begins1 Stem is pulled into rivet sleeve and starts 
 
 2 Formation of blind head and hole filling are completed. Shear ring now begins to shear from stem cone to allow stem to pull further into rivet.
 
+NAS = National Aircraft Standard 177 = 100° countersunk head rivet OR 178 = flathead rivet 14 = Nominal diameter in 32nds of an inch 17 = Maximum grip length in 16ths of an inch
+
+Taper-Loks are the strongest special fasteners used in aircraft construction. The Taper-Lok exerts a force on the walls of the hole because of its tapered shape. The Taper-Lok is designed to completely fill the hole, but unlike the rivet, it fills the hole without deforming the shank. Instead, the washer head nut squeezes the metal with tremendous force against the tapered walls of the hole. This creates radial compression around the shank and vertical compression lines as the metals are squeezed together. The combination of these forces generates strength unequaled by any other fastener.
+
 4 Completely installed bulbedCherryLOCK® rivet6 Clamp-up completed as stem continues to bulb out blind head.
 
 3 Shear ring has moved down stem cone until pulling head automatically stops stem break notch flush with top of rivet head.
+
+Blind side bulbed head (In minimum grip, shear ring may not shear)
+
+### HI-LOK™ Fastening System
+
+The threaded end of the HI-LOK™ two-piece fastener contains a hexagonal shaped recess. The hex tip of an Allen wrench engages the recess to prevent rotation of the pin while the collar is being installed. The pin is designed in two basic head styles. For shear applications, the pin is made in countersunk style and in a compact protruding head style. For tension applications, the MS24694 countersunk and regular protruding head styles are available. The self-locking, threaded HI-LOK™ collar has an internal counterbore at the base to accommodate variations in material thickness. At the opposite end of the collar is a wrenching device that is torqued by the driving tool until it shears off during installation, leaving the lower portion of the collar seated with the proper torque without additional torque inspection. This shear-off point occurs when a predetermined preload or clamp-up is attained in the fastener during installation.
+
+Note: For these fasteners, “Preload” is defined as the maximum tensile load experienced by a fastener in a joint during the fastener installation sequence. Consequently, the 100° Countersunk (MS20426)
 
 Pulling head has inserted locking collar, and stem has fractured ﬂush with rivet head.
 
@@ -124,21 +138,7 @@ Locking collar is now ready to be inserted.
 
 Rivet head ﬁrmly seated Blind side bulb head is formed below minimum grip.
 
-Blind side bulbed head (In minimum grip, shear ring may not shear)
-
-NAS = National Aircraft Standard 177 = 100° countersunk head rivet OR 178 = flathead rivet 14 = Nominal diameter in 32nds of an inch 17 = Maximum grip length in 16ths of an inch
-
-Taper-Loks are the strongest special fasteners used in aircraft construction. The Taper-Lok exerts a force on the walls of the hole because of its tapered shape. The Taper-Lok is designed to completely fill the hole, but unlike the rivet, it fills the hole without deforming the shank. Instead, the washer head nut squeezes the metal with tremendous force against the tapered walls of the hole. This creates radial compression around the shank and vertical compression lines as the metals are squeezed together. The combination of these forces generates strength unequaled by any other fastener.
-
-### HI-LOK™ Fastening System
-
-The threaded end of the HI-LOK™ two-piece fastener contains a hexagonal shaped recess. The hex tip of an Allen wrench engages the recess to prevent rotation of the pin while the collar is being installed. The pin is designed in two basic head styles. For shear applications, the pin is made in countersunk style and in a compact protruding head style. For tension applications, the MS24694 countersunk and regular protruding head styles are available. The self-locking, threaded HI-LOK™ collar has an internal counterbore at the base to accommodate variations in material thickness. At the opposite end of the collar is a wrenching device that is torqued by the driving tool until it shears off during installation, leaving the lower portion of the collar seated with the proper torque without additional torque inspection. This shear-off point occurs when a predetermined preload or clamp-up is attained in the fastener during installation.
-
-Note: For these fasteners, “Preload” is defined as the maximum tensile load experienced by a fastener in a joint during the fastener installation sequence. Consequently, the 100° Countersunk (MS20426)
-
 For countersunk applications 100° Countersunk NAS 1097 For thin top sheet machine countersunk applications Universal (MS20470)
-
-For protruding head applications Unisink A combination of ﬂush and protruding head for use in very thin top sheets. Eliminates need for double-dimpling. Not covered by NAS Standard.
 
 156° Countersunk NAS 1097 A large diameter, shallow countersunk head providing wide area for honeycomb applications. Not covered by NAS Standard.
 
@@ -148,9 +148,13 @@ The advantages of HI-LOK™ two-piece fastener include its lightweight, high fat
 
 Grip 4 4 4 Diameter 3/16 "
 
+For protruding head applications Unisink A combination of ﬂush and protruding head for use in very thin top sheets. Eliminates need for double-dimpling. Not covered by NAS Standard.
+
 Rivet grip number to be used: −04 Read 2 4 6 8 Read 269C3 Gauge C A B A = Thickness of material (grip range)
 
-C = Total rivet shank length 9SP-B Head Style 9SP-B = brazier or universal head 9SP-100 = 100º countersunk head Material composition of shank A = 2017 aluminum alloy B = 5056 aluminum alloy R = mild steel Shank diameter in 32nds of an inch:
+### HI-TIGUE™ Fastening System
+
+The HI-TIGUE™ fastener offers all the benefits of the HI-LOK™ fastening system along with a unique radius contour on the thread lead-in, or a raised bead design that enhances the fatigue performance of the structure making it ideal for situations that require a controlled interference fit. The HI-TIGUE™ fastener assembly consists of a pin and Preload Manufacturing head Washer nut Radial compression Lines of force Pin Driven collar Collar Military Standard Type of rivet and head style:
 
 Grip range (material thickness) in 16ths of an inch A 6 3 Huck Manufacturing Company 9S P-B A 6 3 RV Manufacturer Olympic Screw and Rivet Corporation Rivet type 2 = self plugging (friction lock)
 
@@ -161,10 +165,6 @@ Grip range in 16ths of an inch 2 0 0 4 2 Olympic Screw and Rivet Corporation RV 
 Grip range (material thickness):
 
 Knob stem in 32nds of an inch; serrated stem in 16ths of an inch 163 6 6 Townsend Company, Cherry Rivet Division CR 163 6 6 to the hole. The HI-LOK™ pin has a slight radius under its head to increase fatigue life. After drilling, deburr the edge of the hole to allow the head to seat fully in the hole. The HI-LOK™ is typically installed in interference fit holes for aluminum structure and a clearance fit for steel, titanium, and composite materials.
-
-### HI-TIGUE™ Fastening System
-
-The HI-TIGUE™ fastener offers all the benefits of the HI-LOK™ fastening system along with a unique radius contour on the thread lead-in, or a raised bead design that enhances the fatigue performance of the structure making it ideal for situations that require a controlled interference fit. The HI-TIGUE™ fastener assembly consists of a pin and Preload Manufacturing head Washer nut Radial compression Lines of force Pin Driven collar Collar Military Standard Type of rivet and head style:
 
 20600 = self-plugging (friction lock) protruding head 20600 = self-plugging (friction lock) 100º countersunk head Material composition of sleeve:
 
@@ -206,8 +206,6 @@ The stud and grommet are installed in the removable portion; the receptacle is r
 
 A quarter turn (clockwise) of the stud locks the fastener. The fastener can be unlocked only by turning the stud DZUS 6½ F 0.50 F = flush head 61/2= body diameter in 16ths of an inch 0.50 = length (50⁄100 of an inch)
 
-Stud assembly Grommet Receptacle counterclockwise.
-
 ### Airloc Fasteners
 
 The Airloc fastener consists of three parts: a stud, a cross pin, and a stud receptacle. The studs are manufactured from steel and case hardened to prevent excessive wear. The stud hole is reamed for a press fit of the cross pin.
@@ -217,6 +215,8 @@ The total amount of material thickness to be secured with the Airloc fastener mu
 The cross pin is manufactured from chrome-vanadium steel and heat-treated to provide maximum strength, wear, and holding power. It should never be used the second time; once removed from the stud, replace it with a new pin.
 
 Receptacles for Airloc fasteners are manufactured in two types: rigid and floating. Number—No. 2, No. 5, and No. 7, classifies sizes. They are also classified by the center-to-center distance between the rivet holes of the receptacle: No. 2 is 3⁄4 inch; No. 5 is 1 inch; and No. 7 is 13⁄8 inch. Receptacles are fabricated from high-carbon, heat-treated steel. An upper wing assures ejection of the stud when unlocked and enables the cross pin to be held in a locked position between the upper wing, cam, stop, and wing detent, regardless of the tension to which the receptacle is subjected.
+
+Stud assembly Grommet Receptacle counterclockwise.
 
 ## 2. 中文翻译
 
@@ -254,8 +254,6 @@ Receptacles for Airloc fasteners are manufactured in two types: rigid and floati
 
 铆钉杆的材料成分取决于被铆材料的类型。2117 铝合金杆铆钉可用于大多数铝合金。被铆材料为镁时，应使用 5056 铝合金杆铆钉。铆接钢制组件时，总是应选用钢铆钉。
 
-被铆材料的厚度决定铆钉杆的总长度。一般规则是：拉拔芯杆之前，铆钉杆伸出材料厚度约 3/64 英寸至 1/8 英寸。
-
 ### 抽拉式铆钉
 
 有几家公司生产抽拉式盲铆钉。关于其制造、组成、用途、选择、安装、检查与拆卸程序，相同的基本信息适用于所有这类铆钉。
@@ -280,15 +278,13 @@ Receptacles for Airloc fasteners are manufactured in two types: rigid and floati
 
 自填塞（机械锁）铆钉与自填塞（摩擦锁）铆钉相似，只是芯杆保持在铆钉套筒中的方式不同。这类铆钉有一个可靠的机械锁紧环，可抵抗会使摩擦锁铆钉松动甚至脱落的振动。此外，机械锁型铆钉的芯杆与头部齐平断开，安装得当时通常不需要再修整芯杆。自填塞（机械锁）铆钉具有实心杆铆钉的全部强度特性，在大多数情况下可以逐颗替换。
 
+（原文此处为夹持范围示意图的标注碎片：C、A、B；A = 材料厚度（夹持范围），B = 3/64 至 1/8 英寸）
+
 球头 CherryLOCK® 铆钉　这种紧固件的大盲头给盲铆钉术语带来了“球头（bulb）”一词。加之高芯杆断载荷所产生的独特残余预紧力，其经证实的疲劳强度使它成为唯一能在结构上与实心铆钉互换的盲铆钉。
 
 拉丝（Wiredraw）CherryLOCK® 铆钉　其尺寸、材料和强度等级的选择范围很广。这种紧固件特别适用于密封场合以及需要大量板件贴合的接头。
 
 Huck® 机械锁铆钉　自填塞（机械锁）铆钉由两部分制成：头部与杆部（包括头部内的锥形凹窝和锁紧环），以及穿过杆部的锯齿状芯杆。与摩擦锁铆钉不同，Huck® 机械锁铆钉有一个锁紧环，形成可靠的锁紧，把芯杆保持在铆钉杆内。安装铆钉时，该锁紧环就位。
-
-（原文此处为夹持范围示意图的标注碎片：C、A、B；A = 材料厚度（夹持范围），B = 3/64 至 1/8 英寸）
-
-（原文此处为示意图标注碎片：C = 铆钉杆总长度；凸头、埋头头；套筒（铆钉杆）材料为 2017 和 5056 铝合金、蒙乃尔或不锈钢）
 
 机械锁型自填塞铆钉可用于与摩擦锁型铆钉相同的场合。此外，由于其芯杆保持性更好，推荐用于振动较大的部位。
 
@@ -306,19 +302,25 @@ Huck® 机械锁铆钉　自填塞（机械锁）铆钉由两部分制成：头�
 
 被铆材料的厚度决定铆钉杆的总长度。一般规则是：拉拔芯杆之前，铆钉杆伸出材料厚度约 3/64 英寸至 1/8 英寸。
 
+被铆材料的厚度决定铆钉杆的总长度。一般规则是：拉拔芯杆之前，铆钉杆伸出材料厚度约 3/64 英寸至 1/8 英寸。
+
+（原文此处为示意图标注碎片：C = 铆钉杆总长度；凸头、埋头头；套筒（铆钉杆）材料为 2017 和 5056 铝合金、蒙乃尔或不锈钢）
+
+（原文此处为注解碎片：C = 铆钉杆总长度（图为最小夹持状态））
+
+（原文此处为件号说明碎片：C = 铆钉杆总长度；9SP-B 头型；9SP-B = 扁圆头或通用头；9SP-100 = 100º 埋头头；杆部材料成分 A = 2017 铝合金、B = 5056 铝合金、R = 低碳钢；杆径以 1/32 英寸计：）
+
 ### 铆钉识别
 
 每家生产自填塞（摩擦锁）铆钉的公司都有代号，帮助使用者为特定安装的夹持范围或材料厚度取得正确的铆钉。此外还使用 MS 编号进行标识。
 
 （原文此处为夹持范围示意图的标注碎片：C、A、B；A = 材料厚度（夹持范围））
 
-（原文此处为注解碎片：C = 铆钉杆总长度（图为最小夹持状态））
-
-（原文此处为“安装前／安装后”示意图的标注碎片）许多特种紧固件能兼顾高强度与轻重量，可代替常规 AN 螺栓和螺母。用螺母拧紧 AN 螺栓时，螺栓会被拉伸、直径变细，螺栓在孔中就不再紧贴。特种紧固件消除了这种松动配合，因为它们由一个被挤压到位的锁环固定。安装时，这类紧固件不像螺栓那样承受同样的拉伸载荷。特种紧固件还广泛用于轻型运动飞机（LSA）。始终遵循飞机制造商的建议。
-
 销式（Hi-Shear）铆钉归类为特种铆钉，但不属于盲铆钉。安装这类铆钉需要能接近材料两面。销式铆钉的剪切强度与同直径螺栓相同，重量约为螺栓的 40%，安装所需时间仅为螺栓、螺母和垫圈组合的约五分之一。其强度约为实心杆铆钉的三倍。
 
 销式铆钉本质上是无螺纹螺栓。销一端制有头，另一端沿圆周开有槽。一个金属锁环被挤压到带槽端上，形成牢固的紧配合。
+
+（原文此处为“安装前／安装后”示意图的标注碎片）许多特种紧固件能兼顾高强度与轻重量，可代替常规 AN 螺栓和螺母。用螺母拧紧 AN 螺栓时，螺栓会被拉伸、直径变细，螺栓在孔中就不再紧贴。特种紧固件消除了这种松动配合，因为它们由一个被挤压到位的锁环固定。安装时，这类紧固件不像螺栓那样承受同样的拉伸载荷。特种紧固件还广泛用于轻型运动飞机（LSA）。始终遵循飞机制造商的建议。
 
 销式铆钉的件号可以解读出单颗铆钉的直径和夹持长度。典型件号分解如下：
 
@@ -326,9 +328,21 @@ NAS177-14-17　（原文此处夹入安装步骤示意图的标注）1 开始拉
 
 2 盲头形成与填孔完成。剪切环开始从芯杆锥部剪切，使芯杆能继续被拉入铆钉。
 
+（原文此处为件号说明碎片：NAS = 国家飞机标准；177 = 100° 埋头铆钉，或 178 = 平头铆钉；14 = 公称直径（以 1/32 英寸计）；17 = 最大夹持长度（以 1/16 英寸计））
+
+锥形锁（Taper-Lok）是飞机制造中使用的最强特种紧固件。由于其锥形形状，Taper-Lok 对孔壁施加作用力。锥形锁设计成完全填满孔，但与铆钉不同，它填满孔而不会使杆部变形。相反，垫圈头螺母以极大的力把金属挤压到孔的锥形壁上。随着金属被挤压到一起，这在杆部周围产生径向压缩，并产生竖向压缩线。这些力的组合产生了任何其他紧固件都无法比拟的强度。
+
 4 完全装好的球头 CherryLOCK® 铆钉；6 芯杆继续把盲头鼓出时，夹紧完成。
 
 3 剪切环沿芯杆锥部下移，直到拉拔头自动使芯杆断槽与铆钉头顶面齐平。
+
+（原文此处为示意图标注碎片：盲侧球状头（在最小夹持时，剪切环可能不剪切））
+
+### HI-LOK™ 紧固系统
+
+HI-LOK™ 两件式紧固件的螺纹端有一个六角形凹槽。内六角扳手的六角尖端嵌入该凹槽，在安装锁环时防止销转动。销有两种基本头型。用于剪切场合的销制成埋头式和紧凑凸头式。用于拉伸场合的有 MS24694 埋头式和普通凸头式。自锁螺纹的 HI-LOK™ 锁环底部有一个内沉孔，以容纳材料厚度的变化。锁环另一端是扳拧装置，由驱动工具施加扭矩，安装时被剪断，使锁环下部以正确的扭矩就位，而无需另行检查扭矩。当安装过程中紧固件达到预定的预紧力或夹紧力时，即在该剪切点断开。
+
+注：对这些紧固件，“预紧力”定义为在紧固件安装过程中，接头中紧固件所承受的最大拉伸载荷。因此（原文此处句子中断，紧接 100° 埋头（MS20426）的选型说明，原文无完整句）
 
 拉拔头已装入锁紧环，芯杆已在铆钉头处齐平断开。
 
@@ -340,21 +354,7 @@ NAS177-14-17　（原文此处夹入安装步骤示意图的标注）1 开始拉
 
 （原文此处为示意图标注碎片：铆钉头牢固就位；盲侧球状头在最小夹持以下形成。）
 
-（原文此处为示意图标注碎片：盲侧球状头（在最小夹持时，剪切环可能不剪切））
-
-（原文此处为件号说明碎片：NAS = 国家飞机标准；177 = 100° 埋头铆钉，或 178 = 平头铆钉；14 = 公称直径（以 1/32 英寸计）；17 = 最大夹持长度（以 1/16 英寸计））
-
-锥形锁（Taper-Lok）是飞机制造中使用的最强特种紧固件。由于其锥形形状，Taper-Lok 对孔壁施加作用力。锥形锁设计成完全填满孔，但与铆钉不同，它填满孔而不会使杆部变形。相反，垫圈头螺母以极大的力把金属挤压到孔的锥形壁上。随着金属被挤压到一起，这在杆部周围产生径向压缩，并产生竖向压缩线。这些力的组合产生了任何其他紧固件都无法比拟的强度。
-
-### HI-LOK™ 紧固系统
-
-HI-LOK™ 两件式紧固件的螺纹端有一个六角形凹槽。内六角扳手的六角尖端嵌入该凹槽，在安装锁环时防止销转动。销有两种基本头型。用于剪切场合的销制成埋头式和紧凑凸头式。用于拉伸场合的有 MS24694 埋头式和普通凸头式。自锁螺纹的 HI-LOK™ 锁环底部有一个内沉孔，以容纳材料厚度的变化。锁环另一端是扳拧装置，由驱动工具施加扭矩，安装时被剪断，使锁环下部以正确的扭矩就位，而无需另行检查扭矩。当安装过程中紧固件达到预定的预紧力或夹紧力时，即在该剪切点断开。
-
-注：对这些紧固件，“预紧力”定义为在紧固件安装过程中，接头中紧固件所承受的最大拉伸载荷。因此（原文此处句子中断，紧接 100° 埋头（MS20426）的选型说明，原文无完整句）
-
 （原文此处为 HI-LOK™ 选型说明碎片：用于埋头场合——100° 埋头 NAS 1097；用于薄上面板机加工埋头场合——通用头（MS20470））
-
-（原文此处为头型说明碎片：用于凸头场合——Unisink，埋头与凸头的组合，用于很薄的上面板，可省去双面压窝；不属 NAS 标准范围）
 
 （原文此处为头型说明碎片：156° 埋头 NAS 1097，大直径浅埋头头，为蜂窝结构提供较大的承压面积；不属 NAS 标准范围）
 
@@ -364,9 +364,13 @@ HI-LOK™ 两件式紧固件的优点包括重量轻、抗疲劳性高、强度�
 
 （原文此处为尺寸标注碎片：夹持、4 4 4、直径、3/16 英寸）
 
+（原文此处为头型说明碎片：用于凸头场合——Unisink，埋头与凸头的组合，用于很薄的上面板，可省去双面压窝；不属 NAS 标准范围）
+
 （原文此处为夹持规读数示意图的标注碎片：应使用的铆钉夹持号：-04；读数 2、4、6、8；读数 269C3 规；C、A、B；A = 材料厚度（夹持范围））
 
-（原文此处为件号说明碎片：C = 铆钉杆总长度；9SP-B 头型；9SP-B = 扁圆头或通用头；9SP-100 = 100º 埋头头；杆部材料成分 A = 2017 铝合金、B = 5056 铝合金、R = 低碳钢；杆径以 1/32 英寸计：）
+### HI-TIGUE™ 紧固系统
+
+HI-TIGUE™ 紧固件具备 HI-LOK™ 紧固系统的全部优点，此外在螺纹导入端有独特的圆角轮廓，或采用凸起棱纹设计，可增强结构的疲劳性能，使其非常适合需要控制干涉配合的场合。HI-TIGUE™ 紧固件组件由销和一个（原文此处夹入安装示意图标注碎片：预紧力、制造头、垫圈螺母、径向压缩、力线、销、驱动锁环、锁环、军用标准编号、铆钉与头型：）
 
 （原文此处为件号说明碎片：夹持范围（材料厚度）以 1/16 英寸计；Huck Manufacturing Company；9S P-B；A 6 3；RV；制造商 Olympic Screw and Rivet Corporation；铆钉类型）
 
@@ -377,10 +381,6 @@ HI-LOK™ 两件式紧固件的优点包括重量轻、抗疲劳性高、强度�
 （原文此处为标注碎片：夹持范围（材料厚度）：）
 
 （原文此处为件号说明碎片：凸结芯杆以 1/32 英寸计、锯齿芯杆以 1/16 英寸计；163 6 6；Townsend Company, Cherry Rivet Division；CR 163 6 6）与孔之间。HI-LOK™ 销在头下有一小段圆角，以提高疲劳寿命。钻孔后应去毛刺，使头部完全坐入孔中。HI-LOK™ 通常对铝结构采用干涉配合孔安装，对钢、钛和复合材料采用间隙配合。
-
-### HI-TIGUE™ 紧固系统
-
-HI-TIGUE™ 紧固件具备 HI-LOK™ 紧固系统的全部优点，此外在螺纹导入端有独特的圆角轮廓，或采用凸起棱纹设计，可增强结构的疲劳性能，使其非常适合需要控制干涉配合的场合。HI-TIGUE™ 紧固件组件由销和一个（原文此处夹入安装示意图标注碎片：预紧力、制造头、垫圈螺母、径向压缩、力线、销、驱动锁环、锁环、军用标准编号、铆钉与头型：）
 
 （原文此处为件号说明碎片：20600 = 自填塞（摩擦锁）凸头；20600 = 自填塞（摩擦锁）100º 埋头头；套筒材料成分：）
 
@@ -422,8 +422,6 @@ Camloc 紧固件用于固定飞机整流罩和包皮。它由三部分组成：�
 
 把销转四分之一圈（顺时针）即锁住紧固件。只有逆时针转动销才能打开紧固件（原文此处夹入 Dzus 件号碎片：DZUS 6½ F 0.50；F = 齐平头；6½ = 杆径（以 1/16 英寸计）；0.50 = 长度（0.50 英寸），原文句子中断）
 
-（原文此处为标注碎片：销组件、护圈、座）逆时针。
-
 ### Airloc 紧固件
 
 Airloc 紧固件由三部分组成：销、横销和销座。销由钢制造并经表面硬化处理，以防止过度磨损。销孔经铰削，以供横销压入配合。
@@ -433,6 +431,8 @@ Airloc 紧固件由三部分组成：销、横销和销座。销由钢制造并�
 横销由铬钒钢制造，并经热处理，以提供最大强度、耐磨性和保持力。绝不应重复使用；一旦从销上拆下，就应更换新横销。
 
 Airloc 紧固件的座有两种：刚性座和浮动座。编号（2 号、5 号和 7 号）区分尺寸。它们还按座上铆钉孔的中心距分类：2 号为 3/4 英寸；5 号为 1 英寸；7 号为 13/8 英寸。座由高碳热处理钢制成。上翼确保解锁时弹出销，并能使横销在上翼、凸轮、止动件和翼定位凹槽之间保持锁定位置，无论座承受多大张力。
+
+（原文此处为标注碎片：销组件、护圈、座）逆时针。
 
 ## 3. 专业词汇
 

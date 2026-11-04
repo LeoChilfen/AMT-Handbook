@@ -12,21 +12,21 @@ Rust first appears on bolt heads, hold-down nuts, or other unprotected aircraft 
 
 The most practicable means of controlling the corrosion of steel is the complete removal of corrosion products by mechanical means and restoring corrosion preventive coatings. Except on highly-stressed steel surfaces, the use of abrasive papers and compounds, small power buffers and buffing compounds, hand wire brushing, or steel wool are all acceptable cleanup procedures. However, it should be recognized that in any such use of abrasives, residual rust ACCEPTABLENOT ACCEPTABLE CROSS SECTION TOP VIEW TRUE PERSPECTIVE Location of corrosion pits Width of cleaned up area (10 times depth min)
 
-Length of cleaned up area (20 times depth min) Depth of cleaned up of corrosion LONGITUDINAL CORROSION DAMAGE BEFORE REWORK Pit has been cleaned up to the extent that all loose corrosion products have been removed.
-
-Rough edges have been smoothed and all corrosion has been removed. However, depression has not been shaped.
-
-Dish-out after blending usually remains in the bottom of small pits and other crevices. It is practically impossible to remove all corrosion products by abrasive or polishing methods alone. As a result, once a part cleaned in such a manner has rusted, it usually corrodes again more easily than it did the first time.
-
 The introduction of variations of the nonwoven abrasive pad has also increased the options available for the removal of surface rust. Flap wheels, pads intended for use with rotary or oscillating power tools, and hand-held nonwoven abrasive pads all can be used alone or with light oils to remove corrosion from ferrous components.
 
 ### Chemical Removal of Rust
 
 As environmental concerns have been addressed in recent years, interest in noncaustic chemical rust removal has increased. A variety of commercial products that actively remove the iron oxide without chemically etching the base metal are available and can be considered for use. If at all possible, the steel part is removed from the airframe for treatment, as it can be nearly impossible to remove all residue. The use of any caustic rust removal product requires the isolation of the part from any nonferrous metals during treatment and probably inspection for proper dimensions.
 
+Rough edges have been smoothed and all corrosion has been removed. However, depression has not been shaped.
+
+Dish-out after blending usually remains in the bottom of small pits and other crevices. It is practically impossible to remove all corrosion products by abrasive or polishing methods alone. As a result, once a part cleaned in such a manner has rusted, it usually corrodes again more easily than it did the first time.
+
 ### Chemical Surface Treatment of Steel
 
 There are approved methods for converting active rust to phosphates and other protective coatings. Other commercial preparations are effective rust converters where tolerances are not critical and where thorough rinsing and neutralizing of residual acid is possible. These situations are generally not applicable to assembled aircraft, and the use of chemical Damage removed and surface smoothed with shallow elliptical dish-out Bottom of depression after corrosion removal Corrosion damage before removal LONGITUDINAL TRANSVERSE 5D MIN 10D MIN inhibitors on installed steel parts is not only undesirable, but also very dangerous. The danger of entrapment of corrosive solutions and the resulting uncontrolled attack, that could occur when such materials are used under field conditions, outweigh any advantages to be gained from their use.
+
+Length of cleaned up area (20 times depth min) Depth of cleaned up of corrosion LONGITUDINAL CORROSION DAMAGE BEFORE REWORK Pit has been cleaned up to the extent that all loose corrosion products have been removed.
 
 ### Removal of Corrosion from Highly Stressed Steel Parts
 
@@ -42,21 +42,21 @@ Any corrosion on the surface of a highly-stressed steel part is potentially dang
 
 控制钢腐蚀最实际可行的手段，是用机械方法完全清除腐蚀产物，并恢复防腐蚀涂层。除高应力钢表面外，使用砂纸和研磨膏、小型电动抛光机与抛光膏、手工钢丝刷或钢丝绵，都是可接受的清理方法。然而，应当认识到，在任何此类使用磨料的过程中，残留的锈……（原文此处夹有图注碎片，非正文）
 
-（原文此处为图注碎片，原文无正文）
-
-（原文此处为图注碎片，原文无正文）
-
-研磨后的小凹坑通常仍留在小蚀坑及其他缝隙的底部。仅靠磨料或抛光方法，实际上不可能清除全部腐蚀产物。因此，零件一旦用这种方式清理过后又生了锈，通常比第一次更容易再次腐蚀。
-
 无纺磨料垫各种变型的出现，也为清除表面锈提供了更多选择。翼片轮、配用于旋转式或摆动式电动工具的磨料垫，以及手持无纺磨料垫，都可以单独使用，或配合轻质油使用，以清除黑色金属部件的腐蚀。
 
 ### 锈的化学清除
 
 近年来随着环境问题受到重视，人们对非苛性化学除锈的兴趣有所增加。市场上有多种能主动去除氧化铁而不会对基体金属产生化学蚀刻的商品可供选用。只要有可能，就应把钢件从机体上拆下再行处理，因为要把残留物完全清除几乎是不可能的。使用任何苛性除锈产品时，都要求在处理期间把该零件与所有非铁金属隔离，并且很可能还要检查尺寸是否合适。
 
+（原文此处为图注碎片，原文无正文）
+
+研磨后的小凹坑通常仍留在小蚀坑及其他缝隙的底部。仅靠磨料或抛光方法，实际上不可能清除全部腐蚀产物。因此，零件一旦用这种方式清理过后又生了锈，通常比第一次更容易再次腐蚀。
+
 ### 钢的化学表面处理
 
 有一些经批准的方法可以把活性锈转化为磷酸盐和其他防护涂层。其他商品化制剂在公差要求不严、并且能够对残留酸彻底冲洗和中和的情况下，是有效的锈转化剂。这些情形一般并不适用于组装好的飞机，而且在已安装的钢件上使用化学缓蚀剂不仅不可取，而且非常危险。在野外条件下使用此类材料时，可能发生腐蚀性溶液滞留以及由此引起的失控侵蚀，这种危险超过使用它们可能带来的任何好处。（原文此处夹有图注碎片，非正文）
+
+（原文此处为图注碎片，原文无正文）
 
 ### 高应力钢件的腐蚀清除
 

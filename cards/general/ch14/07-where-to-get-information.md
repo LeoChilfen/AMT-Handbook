@@ -20,6 +20,10 @@ The aircraft crashed due to insufficient lubrication of the jackscrew assembly. 
 
 MS 31-31-00-007-002-500 (AMM 31-31-01)F1 SSFDR DATA COPY Note: This is a duplicate inspection!
 
+### Federal Aviation Administration (FAA)
+
+There are a number of human factors resources within the FAA. The most direct link for aviation maintenance human factors is the FAA Human Factors website at hf.faa.gov. It offers document access and services, including most of the FAA maintenance human factors documents dating back to the 1988 start of FAA’s maintenance human factors research and development program. New documents include videos, PowerPoint presentations, and other media.
+
 PERFORMANCE AND INSPECTION MUST BE DONE BY TWO PERSONS.
 
 PERFORMANCE = B1 INSPECTION = B1 Make a copy of the FDR data with the portable interface (PI) unit A General (1) This taskwork the hand-hold portable interface (PI) unit to make a copy of the data from the flight data recorder (FDR) when the FDR is in the airplane (a) The PI puts the data on a removable PC card (PCMCIA).
@@ -27,10 +31,6 @@ PERFORMANCE = B1 INSPECTION = B1 Make a copy of the FDR data with the portable i
 (b) The data on the PC card can then be analyzed by the applicable airline personnel.
 
 1 0.00 0.00 SSFOR - PORTABLE INTERFACE UNIT JOB 4A D-4 FRAWB41 18.11.02 263 PAC UZ0030 explains the steps of each maintenance task.
-
-### Federal Aviation Administration (FAA)
-
-There are a number of human factors resources within the FAA. The most direct link for aviation maintenance human factors is the FAA Human Factors website at hf.faa.gov. It offers document access and services, including most of the FAA maintenance human factors documents dating back to the 1988 start of FAA’s maintenance human factors research and development program. New documents include videos, PowerPoint presentations, and other media.
 
 #### FAA’s Maintenance Fatigue Section
 
@@ -94,6 +94,10 @@ INCIDENT CAUSE INCIDENT CAUSE ACCIDENT CAUSE ACCIDENT CAUSE ACCIDENT CAUSE
 
 MS 31-31-00-007-002-500（AMM 31-31-01）F1 SSFDR 数据复制 注：这是重复检查！
 
+### 美国联邦航空管理局（FAA）
+
+FAA 内部有许多人为因素资源。航空维修人为因素最直接的链接是 FAA 人为因素网站 hf.faa.gov。它提供文档访问和服务，包括可追溯到 1988 年 FAA 维修人为因素研究与发展计划启动时的大多数 FAA 维修人为因素文档。新文档包括视频、PowerPoint 演示和其他媒体。
+
 执行和检查必须由两人完成。
 
 执行 = B1 检查 = B1 使用便携接口（PI）装置复制 FDR 数据 A 概述（1）本任务用便携接口（PI）装置，在飞行数据记录器（FDR）装在飞机上时复制其数据（a）PI 将数据存入可移除的 PC 卡（PCMCIA）。
@@ -101,10 +105,6 @@ MS 31-31-00-007-002-500（AMM 31-31-01）F1 SSFDR 数据复制 注：这是重�
 （b）随后可由相应的航空公司人员分析 PC 卡上的数据。
 
 1 0.00 0.00 SSFOR——便携接口装置 任务 4A D-4 FRAWB41 18.11.02 263 PAC UZ0030 说明每项维修任务的步骤。
-
-### 美国联邦航空管理局（FAA）
-
-FAA 内部有许多人为因素资源。航空维修人为因素最直接的链接是 FAA 人为因素网站 hf.faa.gov。它提供文档访问和服务，包括可追溯到 1988 年 FAA 维修人为因素研究与发展计划启动时的大多数 FAA 维修人为因素文档。新文档包括视频、PowerPoint 演示和其他媒体。
 
 #### FAA 维修疲劳部门
 

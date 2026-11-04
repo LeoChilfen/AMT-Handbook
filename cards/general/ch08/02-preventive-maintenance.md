@@ -4,14 +4,6 @@
 
 ## 1. 原文
 
-Much has been done to improve the corrosion resistance of aircraft, such as improvements in materials, surface treatments, insulation, and modern protective finishes. All of these have been aimed at reducing the overall maintenance effort, as well as improving reliability. In spite of these improvements, corrosion and its control is a very real problem that requires continuous preventive maintenance. During any corrosion control maintenance, consult the Safety Data Sheet (SDS) for information on any chemicals used in the process. Corrosion preventive maintenance includes the following specific functions:
-
-1. Adequate cleaning
-
-2. Thorough periodic lubrication
-
-3. Detailed inspection for corrosion and failure of below the fatigue limit of an uncorroded part, even though the amount of corrosion is relatively small.
-
 #### Galvanic Corrosion
 
 Galvanic corrosion occurs when two dissimilar metals make electrical contact in the presence of an electrolyte. The rate which corrosion occurs depends on the difference in the activities. The greater the difference in activity, the faster corrosion occurs. The rate of galvanic corrosion also depends on the size of the parts in contact. If the surface area of the corroding metal is smaller than the surface area of the less active metal, corrosion is rapid and severe. When the corroding metal is larger than the less active metal, corrosion is slow and superficial.
@@ -26,15 +18,15 @@ Substances that cause corrosion of metals are called corrosive agents. The most 
 
 • Salts—most salt solutions are good electrolytes and can promote corrosive attack. Some stainless-steel alloys are resistant to attack by salt solutions but aluminum alloy, magnesium alloys, and other steels are protective systems 4. Prompt treatment of corrosion and touch up of damaged paint areas 5. Accurate record keeping and reporting of material or design deficiencies to the manufacturer and the FAA 6. Use of appropriate materials, equipment, technical publications, and adequately-training personnel 7. Maintenance of the basic finish systems 8. Keeping drain holes free of obstructions 9. Daily draining of fuel cell sumps 10. Daily wipe down of exposed critical areas 11. Sealing of aircraft against water during foul weather and proper ventilation on warm, sunny days 12. Replacing deteriorated or damaged gaskets and sealants to avoid water intrusion and/or entrapment 13. Maximum use of protective covers on parked aircraft After any period where regular corrosion preventive maintenance is interrupted, the amount of maintenance required to repair accumulated corrosion damage and bring the aircraft back up to standard is usually quite high.
 
+Much has been done to improve the corrosion resistance of aircraft, such as improvements in materials, surface treatments, insulation, and modern protective finishes. All of these have been aimed at reducing the overall maintenance effort, as well as improving reliability. In spite of these improvements, corrosion and its control is a very real problem that requires continuous preventive maintenance. During any corrosion control maintenance, consult the Safety Data Sheet (SDS) for information on any chemicals used in the process. Corrosion preventive maintenance includes the following specific functions:
+
+1. Adequate cleaning
+
+2. Thorough periodic lubrication
+
+3. Detailed inspection for corrosion and failure of below the fatigue limit of an uncorroded part, even though the amount of corrosion is relatively small.
+
 ## 2. 中文翻译
-
-为提高飞机的耐腐蚀性已经做了大量工作，例如改进材料、表面处理、绝缘和现代防护涂层。所有这一切都旨在减少总体维护工作量，同时提高可靠性。尽管有这些改进，腐蚀及其控制仍是一个非常现实的问题，需要持续进行预防性维护。在进行任何腐蚀控制维护时，都应查阅安全数据表（SDS），了解该过程中所用任何化学品的信息。腐蚀预防性维护包括下列具体工作：
-
-1. 充分清洁
-
-2. 彻底定期润滑
-
-3. 详细检查腐蚀与失效：即使腐蚀量相对较小，零件的疲劳极限也会低于未腐蚀的零件
 
 #### 电偶腐蚀
 
@@ -49,6 +41,14 @@ Substances that cause corrosion of metals are called corrosive agents. The most 
 • 碱——作为一类物质，碱的腐蚀性不如酸。除非溶液中含有缓蚀剂，铝合金和镁合金极易受到许多碱性溶液的腐蚀侵蚀。对铝腐蚀性特别强的物质是洗涤碱、钾碱（木灰）和石灰（水泥粉尘）。氨是一种碱，但它是个例外，因为铝合金对氨具有很强的耐蚀性。
 
 • 盐——大多数盐溶液都是良好的电解质，能促进腐蚀侵蚀。有些不锈钢合金能耐盐溶液的侵蚀，但铝合金、镁合金和其他钢则……防护系统 4. 及时处理腐蚀并补涂受损的漆面 5. 准确记录并报告材料或设计缺陷，通报制造商和 FAA 6. 使用适当的材料、设备、技术出版物和经过充分培训的人员 7. 保持基本涂层系统 8. 保持排水孔畅通无阻 9. 每日排放燃油箱集水槽 10. 每日擦拭暴露的关键部位 11. 在恶劣天气时对飞机密封防水，在温暖晴朗的天气保持适当通风 12. 更换老化或损坏的垫圈和密封胶，防止进水或积水 13. 在停放飞机时最大限度使用防护罩。在常规腐蚀预防性维护被中断的任何时期之后，修复累积的腐蚀损伤并使飞机恢复到标准状态所需的维护量通常相当大。
+
+为提高飞机的耐腐蚀性已经做了大量工作，例如改进材料、表面处理、绝缘和现代防护涂层。所有这一切都旨在减少总体维护工作量，同时提高可靠性。尽管有这些改进，腐蚀及其控制仍是一个非常现实的问题，需要持续进行预防性维护。在进行任何腐蚀控制维护时，都应查阅安全数据表（SDS），了解该过程中所用任何化学品的信息。腐蚀预防性维护包括下列具体工作：
+
+1. 充分清洁
+
+2. 彻底定期润滑
+
+3. 详细检查腐蚀与失效：即使腐蚀量相对较小，零件的疲劳极限也会低于未腐蚀的零件
 
 ## 3. 专业词汇
 

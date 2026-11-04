@@ -58,130 +58,6 @@ Relative W ind The relative wind is a relationship between the direction of airf
 
 Therefore, the relative wind is parallel to the flightpath, and travels in the opposite direction.
 
-#### High-Speed Airfoils
-
-Transonic flight is the most difficult flight regime for an airplane, because part of the wing is experiencing subsonic airflow and part is experiencing supersonic airflow. For a subsonic airfoil, the aerodynamic center, or the point of support, is approximately 25 percent of the way back from the wing leading edge. In supersonic flight, the aerodynamic center moves back to 50 percent of the wing’s chord, causing some significant changes in the airplane’s control and stability. If an airplane designed to fly subsonic, perhaps at a Mach number of 0.80, flies too fast and enters transonic flight, some noticeable changes will take place with respect to the airflow over the wing. The six stages, with the Mach number getting higher at each stage, are as follows:
-
-A. The Mach number is fairly low, and the entire wing is experiencing subsonic airflow.
-
-B. The velocity has reached the critical Mach number, where the airflow over the top of the wing is reaching Mach 1 velocity. C. The velocity has surpassed the critical Mach number , and a normal shock wave has formed on the top of the wing. Some airflow separation starts to occur behind the shock wave.
-
-D. The velocity has continued to increase beyond the critical Mach number, and the normal shock wave has moved far enough aft that serious airflow separation is occurring. A normal shock wave is now forming on the bottom of the wing as well. Behind the normal shock waves, the velocity of the air is subsonic and the static pressure has increased.
-
-E. T he velocity has increased to the point that both shock waves on the wing, top and bottom, have moved to the back of the wing and attached to the trailing edge.
-
-Some airflow separation is still occurring.
-
-F. T he forward velocity of the airfoil is greater than Mach 1, and a new shock wave has formed just forward of the leading edge of the wing. If the wing has a sharp leading edge, the shock wave will attach itself to the sharp edge.
-
-The airfoil is not properly designed to handle supersonic airflow. The bow wave in front of the wing leading edge would be attached to the leading edge, if the wing was a double wedge or biconvex design.
-
-#### Helicopter Structures and Airfoils
-
-The main parts that make up a helicopter are the cabin, landing gear, tail boom, power plant, transmission, main rotor, and tail rotor.
-
-Main Rotor Systems In the fully articulated rotor system, the blades are attached to the hub multiple times. The blades are hinged in a way that allows them to move up and down and fore and aft, and bearings provide for motion around the pitch change axis. Rotor systems using this type of arrangement typically have three or more blades. The hinge that allows the blades to move up and down is called the flap hinge, and movement around this hinge is called flap. The hinge that allows the blades to move fore and aft is called a drag or lag hinge. Movement around this hinge is called dragging, lead/lag, or hunting. The main rotor head of a Eurocopter model 725 has the drag hinge and pitch change rods visible.
-
-The semi-rigid rotor system is used with a two-blade main rotor. The blades are rigidly attached to the hub, with the hub and blades able to teeter like a seesaw. The teetering action allows the blades to flap, with one blade dropping down while the other blade rises. The blades are able to change pitch independently of each other. A Bell Jet Ranger helicopter in flight uses a semi-rigid rotor system, which is evident because the rotor is tilted forward when the helicopter is in forward flight.
-
-With a rigid rotor system, the blades are not hinged for movement up and down, or flapping, or for movement fore and aft, or drag. The blades are able to move around the pitch change axis, with each blade being able to independently change its blade angle. The rigid rotor system uses blades that are very strong and yet flexible. They are flexible enough to bend when they need to, without the use of hinges or a teetering rotor, to compensate for the uneven lift that occurs in forward flight. The Eurocopter model 135 uses a rigid rotor system.
-
-Anti-Torque Systems Any time a force is applied to make an object rotate; there will be equal force acting in the opposite direction. If the helicopter’s main rotor system rotates clockwise when viewed from the top, the helicopter will try to rotate counterclockwise. Earlier in this chapter, it was discovered that torque is what tries to make something rotate. For this reason, a helicopter uses what is called an anti-torque system to counteract the force trying to make it rotate.
-
-One method that is used on a helicopter to counteract torque is to place a spinning set of blades at the end of the tail boom. These blades are called a tail rotor or anti-torque rotor, and their purpose is to create a force, or thrust that acts in the opposite direction of the way the helicopter is trying to rotate. The tail rotor force, in pounds, multiplied by the distance from the tail rotor to the main rotor, in feet, creates a torque in pound-feet that counteracts the main rotor torque.
-
-An Aerospatiale AS-315B helicopter has a three-bladed tail rotor. This tail rotor has open tipped blades that are variable pitch, and the helicopter’s anti-torque pedals that are positioned like rudder pedals on an airplane, control the amount of thrust they create. Some potential problems with this tail rotor system are as follows:
-
-• The spinning blades are deadly if someone walks into them.
-
-• When the helicopter is in forward flight and a vertical fin may be in use to counteract torque, the tail rotor robs engine power and creates drag.
-
-An alternative to the tail rotor is a type of anti-torque rotor known as a fenestron, or “fan-in-tail” design. The rotating blades present less of a hazard to personnel on the ground and they create less drag in flight, because they are enclosed in a shroud.
-
-A third method of counteracting the torque of the helicopter’s main rotor is a technique called the “no tail rotor” system, or NOTAR. This system uses a high volume of air at low pressure, which comes from a fan driven by the helicopter’s engine. The fan forces air into the tail boom, where a portion of it exits out of slots on the right side of the boom and, in conjunction with the main rotor downwash, creates a phenomenon called the “Coanda effect.” The air coming out of the slots on the right side of the boom causes a higher velocity, and therefore lower pressure, on that side of the boom. The higher pressure on the left side of the boom creates the primary force that counteracts the torque of the main rotor.
-
-The remainder of the air travels back to a controllable rotating nozzle in the helicopter’s tail. The air exits the nozzle at a high velocity, and creates an additional force, or thrust, that helps counteracts the torque of the main rotor.
-
-For helicopters with two main rotors, such as the Chinook that has a main rotor at each end, no anti-torque rotor is needed. For this type of helicopter, the two main rotors turn in opposite directions, and each one cancels out the torque of the other.
-
-#### Helicopter Axes of Flight
-
-Helicopters, like airplanes, have a vertical, lateral, and longitudinal axis that passes through the helicopter’s center of gravity. Helicopters yaw around the vertical axis, pitch around the lateral axis, and rotate around the longitudinal axis. The three axes of a helicopter relate to the helicopter’s movement. All three axes will intersect at the helicopter’s center of gravity, and the helicopter pivots around this point. Notice that the vertical axis passes almost through the center of the main rotor, because the helicopter’s center of gravity needs to be very close to this point.
-
-Control Around the Vertical Axis For a single main rotor helicopter, control around the vertical axis is handled by the anti-torque rotor, or tail rotor, or from the fan’s airflow on a NOTAR type helicopter. Like in an airplane, rotation around this axis is known as yaw. The pilot controls yaw by pushing on the anti-torque pedals located on the cockpit floor, in the same way the airplane pilot controls yaw by pushing on the rudder pedals. To make the nose of the helicopter yaw to the right, the pilot pushes on the right anti-torque pedal. When viewed from the top, if the helicopter tries to spin in a counterclockwise direction because of the torque of the main rotor, the pilot will also push on the right anti-torque pedal to counteract the main rotor torque. By using the anti-torque pedals, the pilot can intentionally make the helicopter rotate in either direction around the vertical axis.
-
-Some helicopters have a vertical stabilizer. In forward flight, the vertical stabilizer creates a force that helps counteract the torque of the main rotor, thereby reducing the power needed to drive the anti-torque system located at the end of the tail boom.
-
-Control Around the Longitudinal and Lateral Axes Movement around the longitudinal and lateral axes is handled by the helicopter’s main rotor. In the cockpit, there are two levers that control the main rotor, known as the collective and cyclic pitch controls. The collective pitch lever is on the side of the pilot’s seat, and the cyclic pitch lever is at the front of the seat in the middle.
-
-When the collective pitch control lever is raised, the blade angle of all the rotor blades increases uniformly and they create the lift that allows the helicopter to take off vertically. The grip on the end of the collective pitch control is the throttle for the engine, which is rotated to increase engine power as the lever is raised. On many helicopters, the throttle automatically rotates and increases engine power as the collective lever is raised. The collective pitch lever may have adjustable friction built into it, so the pilot does not have to hold upward pressure on it during flight.
-
-The cyclic pitch control lever, like the yoke of an airplane, can be pulled back or pushed forward, and can be moved left and right. When the cyclic pitch lever is pushed forward, the rotor blades create more lift as they pass through the back half of their rotation and less lift as they pass through the front half. The difference in lift is caused by changing the blade angle, or pitch, of the rotor blades. The pitch change rods mentioned earlier are controlled by the cyclic pitch lever and they are what change the pitch of the rotor blades. The increased lift in the back either causes the main rotor to tilt forward, the nose of the helicopter to tilt downward, or both. The end result is the helicopter moves in the forward direction. If the cyclic pitch lever is pulled back, the rotor blade lift will be greater in the front and the helicopter will back up.
-
-If the cyclic pitch lever is moved to the left or the right, the helicopter will bank left or bank right. For the helicopter to bank to the right, the main rotor blades must create more lift as they pass by the left side of the helicopter. Just the opposite is true if the helicopter is banking to the left. By creating more lift in the back than in the front, and more lift on the left than on the right, the helicopter can be in forward flight and banking to the right. An Agusta A-109 is in forward flight and banking to the right. The rotor blade in the rear and the one on the left are both in an upward raised position, meaning they have both experienced the condition called flap.
-
-Some helicopters use a horizontal stabilizer, similar to what is seen on an airplane, to help provide additional stability around the lateral axis. The Agusta A-109 has a horizontal stabilizer.
-
-#### Helicopters in Flight
-
-Hovering For a helicopter, hovering means that it is in flight at a constant altitude, with no forward, aft, or sideways movement. In order to hover, a helicopter must be producing enough lift in its main rotor blades to equal the weight of the aircraft. The engine of the helicopter must be producing enough power to drive the main rotor, and also to drive whatever type of anti-torque system is being used. The ability of a helicopter to hover is affected by many things, including whether or not it is in ground effect, the density altitude of the air, the available power from the engine, and how heavily loaded it is. For a helicopter to experience ground effect, it typically needs to be no higher off the ground than one half of its main rotor system diameter. If a helicopter has a main rotor diameter of 40 ft., it will be in ground effect up to an altitude of approximately 20 ft. Being close to the ground affects the velocity of the air through the rotor blades, causing the effective angle of attack of the blades to increase and the lift to increase. So, if a helicopter is in ground effect, it can hover at a higher gross weight than it can when out of ground effect. On a windy day, the positive influence of ground effect is lessened, and at a forward speed of 5 to 10 mph the positive influence becomes less. An Air Force CH-53 in a hover has all the rotor blades flapping up as a result of creating equal lift.
-
-Forward Flight In the early days of helicopter development, the ability to hover was mastered before there was success in attaining forward flight. The early attempts at forward flight resulted in the helicopter rolling over when it tried to depart from the hover and move in any direction. The cause of the rollover is what we now refer to as dissymmetry of lift.
-
-When a helicopter is in a hover, all the rotor blades are experiencing the same velocity of airflow and the velocity of the airflow seen by the rotor blades changes when the helicopter starts to move. For helicopters built in the United States, the main rotor blades turn in a counterclockwise direction when viewed from the top. Viewed from the top, as the blades move around the right side of the helicopter, they are moving toward the nose; as they move around the left side of the helicopter, they are moving toward the tail. When the helicopter starts moving forward, the blade on the right side is moving toward the relative wind, and the blade on the left side is moving away from the relative wind. This causes the blade on the right side to create more lift and the blade on the left side to create less lift.
-
-Blade number 2 would be called the advancing blade, and blade number 1 would be called the retreating blade. The advancing blade is moving toward the relative wind, and therefore experiences a greater velocity of airflow. The increased lift created by the blade on the right side will try to roll the helicopter to the left. If this condition is allowed to exist, it will ultimately lead to the helicopter crashing.
-
-Blade Flapping To solve the problem of dissymmetry of lift, helicopter designers came up with a hinged design that allows the rotor blade to flap up when it experiences increased lift, and to flap down when it experiences decreased lift. When a rotor blade advances toward the front of the helicopter and experiences an increased velocity of airflow, the increase in lift causes the blade to flap up. This upward motion of the blade changes the direction of the relative wind in relation to the chord line of the blade, and causes the angle of attack to decrease. The decrease in the angle of attack decreases the lift on the blade. The retreating blade experiences a reduced velocity of airflow and reduced lift, and flaps down. By flapping down, the retreating blade ends up with an increased angle of attack and an increase in lift. The end result is the lift on the blades is equalized, and the tendency for the helicopter to roll never materializes.
-
-The semi-rigid and fully articulated rotor systems have flapping hinges that automatically allow the blades to move up or down with changes in lift.
-
-The rigid type of rotor system has blades that are flexible enough to bend up or down with changes in lift.
-
-Advancing Blade and Retreating Blade Problems The blade advancing toward the relative wind sees the airflow at an ever increasing velocity as a helicopter flies forward at higher and higher speeds. Eventually, the velocity of the air over the rotor blade will reach sonic velocity, much like the critical Mach number for the wing of an airplane. When this happens, a shock wave will form and the air will separate from the rotor blade, resulting in a high-speed stall.
-
-As the helicopters forward speed increases, the relative wind over the retreating blade decreases, resulting in a loss of lift. The loss of lift causes the blade to flap down and the effective angle of attack to increase. At a high enough forward speed, the angle of attack will increase to a point that the rotor blade stalls. The tip of the blade stalls first, and then progresses in toward the blade root.
-
-When approximately 25 percent of the rotor system is stalled, due to the problems with the advancing and retreating blades, control of the helicopter will be lost. Conditions that will lead to the rotor blades stalling include high forward speed, heavy gross weight, turbulent air, high-density altitude, and steep or abrupt turns.
-
-Autorotation The engine on a helicopter drives the main rotor system by way of a clutch and a transmission. The clutch allows the engine to be running and the rotor system not to be turning, while the helicopter is on the ground, and it also allows the rotor system to disconnect from the engine while in flight, if the engine fails. Having the rotor system disconnect from the engine in the event of an engine failure is necessary if the helicopter is to be capable of a flight condition called autorotation.
-
-Autorotation is a flight condition where the main rotor blades are driven by the force of the relative wind passing through the blades, rather than by the engine. This flight condition is similar to an airplane gliding if its engine fails while in flight. As long as the helicopter maintains forward airspeed, while decreasing altitude and the pilot lowers the blade angle on the blades with the collective pitch, the rotor blades will continue to rotate. The altitude of the helicopter, which equals potential energy, is given up in order to have enough energy, which will then be kinetic energy, to keep the rotor blades turning. As the helicopter nears the ground, the cyclic pitch control is used to slow the forward speed and to flare the helicopter for landing. With the airspeed bled off, and the helicopter now close to the ground, the final step is to use the collective pitch control to cushion the landing. The airflow through the rotor blades differs in normal forward flight and in an autorotation flight condition. A Bell Jet Ranger approaches the ground in the final stage of an autorotation.
-
-### Weight-Shift Control, Flexible Wing Aircraft Aerodynamics
-
-A weight-shift control, flexible wing type aircraft consists of a fabric-covered wing, often referred to as the sail, attached to a tubular structure that has wheels, seats, and an engine and propeller. The wing structure is also tubular, with the fabric covering creating the airfoil shape. The shape of the wing varies among the different models of weight-shift control aircraft being produced, but a delta shaped wing is a very popular design. Within the weight-shift control aircraft community, these aircraft are typically referred to as trikes.
-
-The trike’s mast is attached to the wing at the hang point on the keel of the wing with a hang point bolt and safety cable. There is also a support tube, known as a king post, extending up from the top of the wing, with cables running down and secured to the tubular wing structure. The cables running down from the king post as part of the upper rigging are there to support the wing when the aircraft is on the ground, and to handle negative loads when in flight. The lines that run from the king post to the trailing edge of the wing are known as reflex cables. These cables maintain the shape of the wing when it is in a stalled state by holding the trailing edge of the wing up which helps raise the nose during recovery from the stall. If the aircraft goes into an inadvertent stall, having the trailing edge of the wing in a slightly raised position helps raise the nose of the aircraft and get it out of the dive. The passenger seat is centered under the wing’s aerodynamic center, with the weight of the pilot being forward of this point and the weight of the engine and propeller being aft.
-
-Unlike a traditional airplane, the trike does not have a rudder, elevator, or ailerons. Instead, it has a wing that can be pivoted forward or aft, and left or right. The pilot’s hand is on a control bar that is connected to a pivot point just forward of where the wing attaches. There are cables attached to the ends of the bar that extend up to the wing’s leading and trailing edge, and to the left and right side of the cross bar. Running from the wing leading edge to trailing edge are support pieces known as battens. The battens fit into pockets, and they give the wing its cambered shape. The names of some of the primary parts of the trike will be referred to when the flight characteristics of the trike are described in the paragraphs that follow.
-
-In order to fly the trike, engine power is applied to get the aircraft moving. As the groundspeed of the aircraft reaches a point where flight is possible, the pilot pushes forward on the control bar, which causes the wing to pivot where it attaches to the mast and the leading edge of the wing tilts up. When the leading edge of the wing tilts up, the angle of attack and the lift of the wing increase. With sufficient lift, the trike rotates and starts climbing. Pulling back on the bar reduces the angle of attack, and allows the aircraft to stop climbing and to fly straight and level. Once the trike is in level flight, airspeed can be increased or decreased by adding engine power or taking away engine power by use of the throttle.
-
-Stability in flight along the longitudinal axis, which is a nose to tail measurement, for a typical airplane, is achieved by having the horizontal stabilizer and elevator generate a force that balances out the airplane’s nose heavy tendency. It must create stability along the longitudinal axis in a different way because the trike does not have a horizontal stabilizer or elevator. The trike has a sweptback delta wing, with the trailing edge of the wingtips located well aft of the aircraft center of gravity. Pressure acting on the tips of the delta wing creates the force that balances out the nose heavy tendency. The wings of weight-shift control aircraft are designed in a way that allows them to change their shape when subjected to an external force. This is possible because the frame leading edges and the sail are flexible, which is why they are sometimes referred to as flexible wing aircraft. This produces somewhat different aerodynamic effects when compared with a normal fixed-wing aircraft. A traditional small airplane, like a Cessna 172, turns or banks by using the ailerons, effectively altering the camber of the wing and thereby generating differential lift. By comparison, weight shift on a trike actually causes the wing to twist, which changes the angle of attack on the wing and causes the differential lift to exist that banks the trike. The cross-bar, or wing spreader, of the wing frame is allowed to float slightly with respect to the keel, and this, along with some other geometric considerations allows the sail to “billow shift.” Billow shift can be demonstrated on the ground by grabbing the trailing edge of one end of the wing and lifting up on it. If this was done, the fabric on the other end of the wing would become slightly flatter and tighter, and the wing’s angle of attack would increase.
-
-If the pilot pushes the bar to the right, the wing pivots with the left wingtip dropping down and the right wingtip rising up, causing the aircraft to bank to the left. This motion is the same for a hang glider. The shift in weight to the left increases the wing loading on the left, and lessens it on the right. The increased loading on the left wing increases its washout and reduces its angle of attack and lift. The increased load on the left wing causes the left wing to billow, which causes the fabric to tighten on the right wing and the angle of attack and lift to increase. The change in lift is what banks the aircraft to the left.
-
-Shifting weight to the right causes the aircraft to bank right. The weight of the trike and its occupants acts like a pendulum, and helps keep the aircraft stable in flight. Pushing or pulling on the bar while in flight causes the weight hanging below the wing to shift its position relative to the wing, which is why the trike is referred to as a weight-shift aircraft.
-
-Once the trike is in flight and flying straight and level, the pilot only needs to keep light pressure on the bar that controls the wing. If the trike is properly balanced and there is no air turbulence, the aircraft will remain stable even if the pilot’s hands are removed from the bar. The same as with any airplane, increasing engine power will make the aircraft climb and decreasing power will make it descend. The throttle is typically controlled with a foot pedal, like a gas pedal in an automobile.
-
-A trike lands in a manner very similar to an airplane. When it is time to land, the pilot reduces engine power with the foot-operated throttle; causing airspeed and wing lift to decrease. As the trike descends, the rate of descent can be controlled by pushing forward or pulling back on the bar, and varying engine power. When the trike is almost to the point of touchdown, the engine power will be reduced and the angle of attack of the wing will be increased, to cushion the descent and provide a smooth landing. If the aircraft is trying to land in a very strong crosswind, the landing may not be so smooth. When landing in a cross wind, the pilot will land in a crab to maintain direction down the runway. Touchdown is done with the back wheels first, then letting the front wheel down. A trike getting ready to touch down can be seen, and the support mast and the cables on top of the wing, including the luff lines, can also be seen.
-
-### Powered Parachute Aerodynamics
-
-A powered parachute has a carriage very similar to the weight-shift control aircraft. Its wing, however, has no support structure or rigidity and only takes on the shape of an airfoil when it is inflated by the blast of air from the propeller and the forward speed of the aircraft. A powered parachute on its approach to land has its wing fully inflated and rising up above the aircraft. Each colored section of the inflated wing is made up of cells that are open in the front to allow air to ram in, and closed in the back to keep the air trapped inside. In between all the cells there are holes that allow the air to flow from one cell to the next, in order to equalize the pressure within the inflated wing. The wing is attached to the carriage of the aircraft by a large number of nylon or Kevlar lines that run from the tips of the wing all the way to the center. The weight of the aircraft acting on these lines and their individual lengths cause the inflated wing to take its shape. The lines attach to the body of the aircraft at a location very close to where the center of gravity is located, and this attachment point is adjustable to account for balance changes with occupants of varying weights.
-
-As in weight-shift control aircraft, the powered parachute does not have the traditional flight controls of a fixed-wing airplane. When the wing of the aircraft is inflated and the aircraft starts moving forward, the wing starts generating lift. Once the groundspeed is sufficient for the wing’s lift greater than the weight of the aircraft, the aircraft lifts off the ground.
-
-Unlike an airplane, where the pilot has a lot of control over when the airplane rotates by deciding when to pull back on the yoke, the powered parachute will not take off until it reaches a specific airspeed. The powered parachute will typically lift off the ground at a speed somewhere between 28 and 30 mph, and will have airspeed in flight of approximately 30 mph.
-
-Once the powered parachute is in flight, control over climbing and descending is handled with engine power. Advancing the throttle makes the aircraft climb, and retarding the throttle makes it descend. The inflated wing creates a lot of drag in flight, so reducing the engine power creates a very controllable descent of the aircraft. The throttle, for controlling engine power, is typically located on the right-hand side of the pilot.
-
-Turning of the powered parachute in flight is handled by foot-operated pedals, or steering bars, located at the front of the aircraft. Each foot-operated pedal controls a set of lines, usually made from nylon that runs up to the trailing edge of each wingtip. When the right foot pedal is pushed, the line pulls down on the tailing edge of the 8 wingtip. As the trailing edge of the right wing drop downs, drag is increased on the right side and the aircraft turns right. When pressure is taken off the foot pedal, the drag in the entire airfoil equalizes and the aircraft resumes its straight-and-level flight.
-
-To land a powered parachute, the first action the pilot takes is to reduce engine power and allow the aircraft to descend. With the power reduced to idle, the aircraft will descend at a rate of approximately 5 to 10 fps. As the aircraft approaches the ground, the descent rate can be lessened by increasing the engine power. Just before touchdown, the pilot pushes on both foot-operated pedals to drop the trailing edges on both sides of the wing. This action increases the drag on the wing uniformly, causing the wing to pivot aft, which raises the wing leading edge and increases the angle of attack and lift. The pilot is pushing on both foot pedals and the left and right wing trailing edges are deflected downward. The aircraft has just touched down and the wing is trailing behind the aircraft, caused by the high angle of attack and the additional drag on the wing. The increase in lift reduces the descent rate to almost nothing, and provides for a gentle landing. If the pilot pushes on the foot pedals too soon, the wing may pivot too far aft before touchdown resulting in an unacceptable descent rate. In that case, it might be a relatively hard landing.
-
 #### Angle of Attack
 
 The angle between the chord line and the relative wind is the angle of attack. As the angle of attack increases, the lift on the wing increases. If the angle of attack becomes too great, the airflow can separate from the wing and the liftwill be destroyed. When this occurs, a condition known as a stall takes place. There are a number of different shapes, known as planforms that a wing can have. A wing in the shape of a rectangle is very common on small general aviation airplanes. An elliptical shape or tapered wing can also be used, but these do not have as desirable a stall characteristic. For airplanes that operate at high subsonic speeds, sweptback wings are common, and for supersonic flight, a delta shape might be used.
@@ -344,6 +220,24 @@ Oblique Shock Wave An airplane that is designed to fly supersonic will have very
 
 Expansion Wave Earlier in the discussion of high-speed aerodynamics, it was stated that air at supersonic speed acts like a compressible fluid. For this reason, supersonic air, when given the opportunity, wants to expand outward. When supersonic air is flowing over the top of a wing, and the wing surface turns away from the direction of flow, the air will expand and follow the new direction. An expansion wave will occur at the point where the direction of flow changes. Behind the expansion wave the velocity increases, and the static pressure and density decrease. An expansion wave is not a shock wave. An expansion wave forms on a supersonic airfoil.
 
+#### High-Speed Airfoils
+
+Transonic flight is the most difficult flight regime for an airplane, because part of the wing is experiencing subsonic airflow and part is experiencing supersonic airflow. For a subsonic airfoil, the aerodynamic center, or the point of support, is approximately 25 percent of the way back from the wing leading edge. In supersonic flight, the aerodynamic center moves back to 50 percent of the wing’s chord, causing some significant changes in the airplane’s control and stability. If an airplane designed to fly subsonic, perhaps at a Mach number of 0.80, flies too fast and enters transonic flight, some noticeable changes will take place with respect to the airflow over the wing. The six stages, with the Mach number getting higher at each stage, are as follows:
+
+A. The Mach number is fairly low, and the entire wing is experiencing subsonic airflow.
+
+B. The velocity has reached the critical Mach number, where the airflow over the top of the wing is reaching Mach 1 velocity. C. The velocity has surpassed the critical Mach number , and a normal shock wave has formed on the top of the wing. Some airflow separation starts to occur behind the shock wave.
+
+D. The velocity has continued to increase beyond the critical Mach number, and the normal shock wave has moved far enough aft that serious airflow separation is occurring. A normal shock wave is now forming on the bottom of the wing as well. Behind the normal shock waves, the velocity of the air is subsonic and the static pressure has increased.
+
+E. T he velocity has increased to the point that both shock waves on the wing, top and bottom, have moved to the back of the wing and attached to the trailing edge.
+
+Some airflow separation is still occurring.
+
+F. T he forward velocity of the airfoil is greater than Mach 1, and a new shock wave has formed just forward of the leading edge of the wing. If the wing has a sharp leading edge, the shock wave will attach itself to the sharp edge.
+
+The airfoil is not properly designed to handle supersonic airflow. The bow wave in front of the wing leading edge would be attached to the leading edge, if the wing was a double wedge or biconvex design.
+
 #### Aerodynamic Heating
 
 One of the problems with airplanes and high-speed flight is the heat that builds up on the airplane’s surface because of air friction. When the SR-71 Blackbird airplane is cruising at Mach 3.5, skin temperatures on its surface range from 450 °F to over 1,000 °F. To withstand this high temperature, the airplane was constructed of titanium alloy, instead of the traditional aluminum alloy. The supersonic transport Concorde was originally designed to cruise at Mach 2.2, but its cruise speed was reduced to Mach 2.0 because of structural problems that started to occur because of aerodynamic heating. If airplanes capable of hypersonic flight are going to be built in the future, one of the obstacles that will have to be overcome is the stress on the airplane’s structure caused by heat.
@@ -351,6 +245,112 @@ One of the problems with airplanes and high-speed flight is the heat that builds
 ### Helicopter Aerodynamics
 
 The helicopter, as we know it today, falls under the classification known as rotorcraft. Rotorcraft is also known as rotary wing aircraft, because instead of their wing being fixed like it is on an airplane, the wing rotates. The rotating wing of a rotorcraft can be thought of as a lift producing device, like the wing of an airplane, or as a thrust producing device, like the propeller on a piston engine.
+
+#### Helicopter Structures and Airfoils
+
+The main parts that make up a helicopter are the cabin, landing gear, tail boom, power plant, transmission, main rotor, and tail rotor.
+
+Main Rotor Systems In the fully articulated rotor system, the blades are attached to the hub multiple times. The blades are hinged in a way that allows them to move up and down and fore and aft, and bearings provide for motion around the pitch change axis. Rotor systems using this type of arrangement typically have three or more blades. The hinge that allows the blades to move up and down is called the flap hinge, and movement around this hinge is called flap. The hinge that allows the blades to move fore and aft is called a drag or lag hinge. Movement around this hinge is called dragging, lead/lag, or hunting. The main rotor head of a Eurocopter model 725 has the drag hinge and pitch change rods visible.
+
+The semi-rigid rotor system is used with a two-blade main rotor. The blades are rigidly attached to the hub, with the hub and blades able to teeter like a seesaw. The teetering action allows the blades to flap, with one blade dropping down while the other blade rises. The blades are able to change pitch independently of each other. A Bell Jet Ranger helicopter in flight uses a semi-rigid rotor system, which is evident because the rotor is tilted forward when the helicopter is in forward flight.
+
+With a rigid rotor system, the blades are not hinged for movement up and down, or flapping, or for movement fore and aft, or drag. The blades are able to move around the pitch change axis, with each blade being able to independently change its blade angle. The rigid rotor system uses blades that are very strong and yet flexible. They are flexible enough to bend when they need to, without the use of hinges or a teetering rotor, to compensate for the uneven lift that occurs in forward flight. The Eurocopter model 135 uses a rigid rotor system.
+
+Anti-Torque Systems Any time a force is applied to make an object rotate; there will be equal force acting in the opposite direction. If the helicopter’s main rotor system rotates clockwise when viewed from the top, the helicopter will try to rotate counterclockwise. Earlier in this chapter, it was discovered that torque is what tries to make something rotate. For this reason, a helicopter uses what is called an anti-torque system to counteract the force trying to make it rotate.
+
+One method that is used on a helicopter to counteract torque is to place a spinning set of blades at the end of the tail boom. These blades are called a tail rotor or anti-torque rotor, and their purpose is to create a force, or thrust that acts in the opposite direction of the way the helicopter is trying to rotate. The tail rotor force, in pounds, multiplied by the distance from the tail rotor to the main rotor, in feet, creates a torque in pound-feet that counteracts the main rotor torque.
+
+An Aerospatiale AS-315B helicopter has a three-bladed tail rotor. This tail rotor has open tipped blades that are variable pitch, and the helicopter’s anti-torque pedals that are positioned like rudder pedals on an airplane, control the amount of thrust they create. Some potential problems with this tail rotor system are as follows:
+
+• The spinning blades are deadly if someone walks into them.
+
+• When the helicopter is in forward flight and a vertical fin may be in use to counteract torque, the tail rotor robs engine power and creates drag.
+
+An alternative to the tail rotor is a type of anti-torque rotor known as a fenestron, or “fan-in-tail” design. The rotating blades present less of a hazard to personnel on the ground and they create less drag in flight, because they are enclosed in a shroud.
+
+A third method of counteracting the torque of the helicopter’s main rotor is a technique called the “no tail rotor” system, or NOTAR. This system uses a high volume of air at low pressure, which comes from a fan driven by the helicopter’s engine. The fan forces air into the tail boom, where a portion of it exits out of slots on the right side of the boom and, in conjunction with the main rotor downwash, creates a phenomenon called the “Coanda effect.” The air coming out of the slots on the right side of the boom causes a higher velocity, and therefore lower pressure, on that side of the boom. The higher pressure on the left side of the boom creates the primary force that counteracts the torque of the main rotor.
+
+The remainder of the air travels back to a controllable rotating nozzle in the helicopter’s tail. The air exits the nozzle at a high velocity, and creates an additional force, or thrust, that helps counteracts the torque of the main rotor.
+
+For helicopters with two main rotors, such as the Chinook that has a main rotor at each end, no anti-torque rotor is needed. For this type of helicopter, the two main rotors turn in opposite directions, and each one cancels out the torque of the other.
+
+#### Helicopter Axes of Flight
+
+Helicopters, like airplanes, have a vertical, lateral, and longitudinal axis that passes through the helicopter’s center of gravity. Helicopters yaw around the vertical axis, pitch around the lateral axis, and rotate around the longitudinal axis. The three axes of a helicopter relate to the helicopter’s movement. All three axes will intersect at the helicopter’s center of gravity, and the helicopter pivots around this point. Notice that the vertical axis passes almost through the center of the main rotor, because the helicopter’s center of gravity needs to be very close to this point.
+
+Control Around the Vertical Axis For a single main rotor helicopter, control around the vertical axis is handled by the anti-torque rotor, or tail rotor, or from the fan’s airflow on a NOTAR type helicopter. Like in an airplane, rotation around this axis is known as yaw. The pilot controls yaw by pushing on the anti-torque pedals located on the cockpit floor, in the same way the airplane pilot controls yaw by pushing on the rudder pedals. To make the nose of the helicopter yaw to the right, the pilot pushes on the right anti-torque pedal. When viewed from the top, if the helicopter tries to spin in a counterclockwise direction because of the torque of the main rotor, the pilot will also push on the right anti-torque pedal to counteract the main rotor torque. By using the anti-torque pedals, the pilot can intentionally make the helicopter rotate in either direction around the vertical axis.
+
+Some helicopters have a vertical stabilizer. In forward flight, the vertical stabilizer creates a force that helps counteract the torque of the main rotor, thereby reducing the power needed to drive the anti-torque system located at the end of the tail boom.
+
+Control Around the Longitudinal and Lateral Axes Movement around the longitudinal and lateral axes is handled by the helicopter’s main rotor. In the cockpit, there are two levers that control the main rotor, known as the collective and cyclic pitch controls. The collective pitch lever is on the side of the pilot’s seat, and the cyclic pitch lever is at the front of the seat in the middle.
+
+When the collective pitch control lever is raised, the blade angle of all the rotor blades increases uniformly and they create the lift that allows the helicopter to take off vertically. The grip on the end of the collective pitch control is the throttle for the engine, which is rotated to increase engine power as the lever is raised. On many helicopters, the throttle automatically rotates and increases engine power as the collective lever is raised. The collective pitch lever may have adjustable friction built into it, so the pilot does not have to hold upward pressure on it during flight.
+
+The cyclic pitch control lever, like the yoke of an airplane, can be pulled back or pushed forward, and can be moved left and right. When the cyclic pitch lever is pushed forward, the rotor blades create more lift as they pass through the back half of their rotation and less lift as they pass through the front half. The difference in lift is caused by changing the blade angle, or pitch, of the rotor blades. The pitch change rods mentioned earlier are controlled by the cyclic pitch lever and they are what change the pitch of the rotor blades. The increased lift in the back either causes the main rotor to tilt forward, the nose of the helicopter to tilt downward, or both. The end result is the helicopter moves in the forward direction. If the cyclic pitch lever is pulled back, the rotor blade lift will be greater in the front and the helicopter will back up.
+
+If the cyclic pitch lever is moved to the left or the right, the helicopter will bank left or bank right. For the helicopter to bank to the right, the main rotor blades must create more lift as they pass by the left side of the helicopter. Just the opposite is true if the helicopter is banking to the left. By creating more lift in the back than in the front, and more lift on the left than on the right, the helicopter can be in forward flight and banking to the right. An Agusta A-109 is in forward flight and banking to the right. The rotor blade in the rear and the one on the left are both in an upward raised position, meaning they have both experienced the condition called flap.
+
+Some helicopters use a horizontal stabilizer, similar to what is seen on an airplane, to help provide additional stability around the lateral axis. The Agusta A-109 has a horizontal stabilizer.
+
+#### Helicopters in Flight
+
+Hovering For a helicopter, hovering means that it is in flight at a constant altitude, with no forward, aft, or sideways movement. In order to hover, a helicopter must be producing enough lift in its main rotor blades to equal the weight of the aircraft. The engine of the helicopter must be producing enough power to drive the main rotor, and also to drive whatever type of anti-torque system is being used. The ability of a helicopter to hover is affected by many things, including whether or not it is in ground effect, the density altitude of the air, the available power from the engine, and how heavily loaded it is. For a helicopter to experience ground effect, it typically needs to be no higher off the ground than one half of its main rotor system diameter. If a helicopter has a main rotor diameter of 40 ft., it will be in ground effect up to an altitude of approximately 20 ft. Being close to the ground affects the velocity of the air through the rotor blades, causing the effective angle of attack of the blades to increase and the lift to increase. So, if a helicopter is in ground effect, it can hover at a higher gross weight than it can when out of ground effect. On a windy day, the positive influence of ground effect is lessened, and at a forward speed of 5 to 10 mph the positive influence becomes less. An Air Force CH-53 in a hover has all the rotor blades flapping up as a result of creating equal lift.
+
+Forward Flight In the early days of helicopter development, the ability to hover was mastered before there was success in attaining forward flight. The early attempts at forward flight resulted in the helicopter rolling over when it tried to depart from the hover and move in any direction. The cause of the rollover is what we now refer to as dissymmetry of lift.
+
+When a helicopter is in a hover, all the rotor blades are experiencing the same velocity of airflow and the velocity of the airflow seen by the rotor blades changes when the helicopter starts to move. For helicopters built in the United States, the main rotor blades turn in a counterclockwise direction when viewed from the top. Viewed from the top, as the blades move around the right side of the helicopter, they are moving toward the nose; as they move around the left side of the helicopter, they are moving toward the tail. When the helicopter starts moving forward, the blade on the right side is moving toward the relative wind, and the blade on the left side is moving away from the relative wind. This causes the blade on the right side to create more lift and the blade on the left side to create less lift.
+
+Blade number 2 would be called the advancing blade, and blade number 1 would be called the retreating blade. The advancing blade is moving toward the relative wind, and therefore experiences a greater velocity of airflow. The increased lift created by the blade on the right side will try to roll the helicopter to the left. If this condition is allowed to exist, it will ultimately lead to the helicopter crashing.
+
+Blade Flapping To solve the problem of dissymmetry of lift, helicopter designers came up with a hinged design that allows the rotor blade to flap up when it experiences increased lift, and to flap down when it experiences decreased lift. When a rotor blade advances toward the front of the helicopter and experiences an increased velocity of airflow, the increase in lift causes the blade to flap up. This upward motion of the blade changes the direction of the relative wind in relation to the chord line of the blade, and causes the angle of attack to decrease. The decrease in the angle of attack decreases the lift on the blade. The retreating blade experiences a reduced velocity of airflow and reduced lift, and flaps down. By flapping down, the retreating blade ends up with an increased angle of attack and an increase in lift. The end result is the lift on the blades is equalized, and the tendency for the helicopter to roll never materializes.
+
+The semi-rigid and fully articulated rotor systems have flapping hinges that automatically allow the blades to move up or down with changes in lift.
+
+The rigid type of rotor system has blades that are flexible enough to bend up or down with changes in lift.
+
+Advancing Blade and Retreating Blade Problems The blade advancing toward the relative wind sees the airflow at an ever increasing velocity as a helicopter flies forward at higher and higher speeds. Eventually, the velocity of the air over the rotor blade will reach sonic velocity, much like the critical Mach number for the wing of an airplane. When this happens, a shock wave will form and the air will separate from the rotor blade, resulting in a high-speed stall.
+
+As the helicopters forward speed increases, the relative wind over the retreating blade decreases, resulting in a loss of lift. The loss of lift causes the blade to flap down and the effective angle of attack to increase. At a high enough forward speed, the angle of attack will increase to a point that the rotor blade stalls. The tip of the blade stalls first, and then progresses in toward the blade root.
+
+When approximately 25 percent of the rotor system is stalled, due to the problems with the advancing and retreating blades, control of the helicopter will be lost. Conditions that will lead to the rotor blades stalling include high forward speed, heavy gross weight, turbulent air, high-density altitude, and steep or abrupt turns.
+
+Autorotation The engine on a helicopter drives the main rotor system by way of a clutch and a transmission. The clutch allows the engine to be running and the rotor system not to be turning, while the helicopter is on the ground, and it also allows the rotor system to disconnect from the engine while in flight, if the engine fails. Having the rotor system disconnect from the engine in the event of an engine failure is necessary if the helicopter is to be capable of a flight condition called autorotation.
+
+Autorotation is a flight condition where the main rotor blades are driven by the force of the relative wind passing through the blades, rather than by the engine. This flight condition is similar to an airplane gliding if its engine fails while in flight. As long as the helicopter maintains forward airspeed, while decreasing altitude and the pilot lowers the blade angle on the blades with the collective pitch, the rotor blades will continue to rotate. The altitude of the helicopter, which equals potential energy, is given up in order to have enough energy, which will then be kinetic energy, to keep the rotor blades turning. As the helicopter nears the ground, the cyclic pitch control is used to slow the forward speed and to flare the helicopter for landing. With the airspeed bled off, and the helicopter now close to the ground, the final step is to use the collective pitch control to cushion the landing. The airflow through the rotor blades differs in normal forward flight and in an autorotation flight condition. A Bell Jet Ranger approaches the ground in the final stage of an autorotation.
+
+### Weight-Shift Control, Flexible Wing Aircraft Aerodynamics
+
+A weight-shift control, flexible wing type aircraft consists of a fabric-covered wing, often referred to as the sail, attached to a tubular structure that has wheels, seats, and an engine and propeller. The wing structure is also tubular, with the fabric covering creating the airfoil shape. The shape of the wing varies among the different models of weight-shift control aircraft being produced, but a delta shaped wing is a very popular design. Within the weight-shift control aircraft community, these aircraft are typically referred to as trikes.
+
+The trike’s mast is attached to the wing at the hang point on the keel of the wing with a hang point bolt and safety cable. There is also a support tube, known as a king post, extending up from the top of the wing, with cables running down and secured to the tubular wing structure. The cables running down from the king post as part of the upper rigging are there to support the wing when the aircraft is on the ground, and to handle negative loads when in flight. The lines that run from the king post to the trailing edge of the wing are known as reflex cables. These cables maintain the shape of the wing when it is in a stalled state by holding the trailing edge of the wing up which helps raise the nose during recovery from the stall. If the aircraft goes into an inadvertent stall, having the trailing edge of the wing in a slightly raised position helps raise the nose of the aircraft and get it out of the dive. The passenger seat is centered under the wing’s aerodynamic center, with the weight of the pilot being forward of this point and the weight of the engine and propeller being aft.
+
+Unlike a traditional airplane, the trike does not have a rudder, elevator, or ailerons. Instead, it has a wing that can be pivoted forward or aft, and left or right. The pilot’s hand is on a control bar that is connected to a pivot point just forward of where the wing attaches. There are cables attached to the ends of the bar that extend up to the wing’s leading and trailing edge, and to the left and right side of the cross bar. Running from the wing leading edge to trailing edge are support pieces known as battens. The battens fit into pockets, and they give the wing its cambered shape. The names of some of the primary parts of the trike will be referred to when the flight characteristics of the trike are described in the paragraphs that follow.
+
+In order to fly the trike, engine power is applied to get the aircraft moving. As the groundspeed of the aircraft reaches a point where flight is possible, the pilot pushes forward on the control bar, which causes the wing to pivot where it attaches to the mast and the leading edge of the wing tilts up. When the leading edge of the wing tilts up, the angle of attack and the lift of the wing increase. With sufficient lift, the trike rotates and starts climbing. Pulling back on the bar reduces the angle of attack, and allows the aircraft to stop climbing and to fly straight and level. Once the trike is in level flight, airspeed can be increased or decreased by adding engine power or taking away engine power by use of the throttle.
+
+Stability in flight along the longitudinal axis, which is a nose to tail measurement, for a typical airplane, is achieved by having the horizontal stabilizer and elevator generate a force that balances out the airplane’s nose heavy tendency. It must create stability along the longitudinal axis in a different way because the trike does not have a horizontal stabilizer or elevator. The trike has a sweptback delta wing, with the trailing edge of the wingtips located well aft of the aircraft center of gravity. Pressure acting on the tips of the delta wing creates the force that balances out the nose heavy tendency. The wings of weight-shift control aircraft are designed in a way that allows them to change their shape when subjected to an external force. This is possible because the frame leading edges and the sail are flexible, which is why they are sometimes referred to as flexible wing aircraft. This produces somewhat different aerodynamic effects when compared with a normal fixed-wing aircraft. A traditional small airplane, like a Cessna 172, turns or banks by using the ailerons, effectively altering the camber of the wing and thereby generating differential lift. By comparison, weight shift on a trike actually causes the wing to twist, which changes the angle of attack on the wing and causes the differential lift to exist that banks the trike. The cross-bar, or wing spreader, of the wing frame is allowed to float slightly with respect to the keel, and this, along with some other geometric considerations allows the sail to “billow shift.” Billow shift can be demonstrated on the ground by grabbing the trailing edge of one end of the wing and lifting up on it. If this was done, the fabric on the other end of the wing would become slightly flatter and tighter, and the wing’s angle of attack would increase.
+
+If the pilot pushes the bar to the right, the wing pivots with the left wingtip dropping down and the right wingtip rising up, causing the aircraft to bank to the left. This motion is the same for a hang glider. The shift in weight to the left increases the wing loading on the left, and lessens it on the right. The increased loading on the left wing increases its washout and reduces its angle of attack and lift. The increased load on the left wing causes the left wing to billow, which causes the fabric to tighten on the right wing and the angle of attack and lift to increase. The change in lift is what banks the aircraft to the left.
+
+Shifting weight to the right causes the aircraft to bank right. The weight of the trike and its occupants acts like a pendulum, and helps keep the aircraft stable in flight. Pushing or pulling on the bar while in flight causes the weight hanging below the wing to shift its position relative to the wing, which is why the trike is referred to as a weight-shift aircraft.
+
+Once the trike is in flight and flying straight and level, the pilot only needs to keep light pressure on the bar that controls the wing. If the trike is properly balanced and there is no air turbulence, the aircraft will remain stable even if the pilot’s hands are removed from the bar. The same as with any airplane, increasing engine power will make the aircraft climb and decreasing power will make it descend. The throttle is typically controlled with a foot pedal, like a gas pedal in an automobile.
+
+A trike lands in a manner very similar to an airplane. When it is time to land, the pilot reduces engine power with the foot-operated throttle; causing airspeed and wing lift to decrease. As the trike descends, the rate of descent can be controlled by pushing forward or pulling back on the bar, and varying engine power. When the trike is almost to the point of touchdown, the engine power will be reduced and the angle of attack of the wing will be increased, to cushion the descent and provide a smooth landing. If the aircraft is trying to land in a very strong crosswind, the landing may not be so smooth. When landing in a cross wind, the pilot will land in a crab to maintain direction down the runway. Touchdown is done with the back wheels first, then letting the front wheel down. A trike getting ready to touch down can be seen, and the support mast and the cables on top of the wing, including the luff lines, can also be seen.
+
+### Powered Parachute Aerodynamics
+
+A powered parachute has a carriage very similar to the weight-shift control aircraft. Its wing, however, has no support structure or rigidity and only takes on the shape of an airfoil when it is inflated by the blast of air from the propeller and the forward speed of the aircraft. A powered parachute on its approach to land has its wing fully inflated and rising up above the aircraft. Each colored section of the inflated wing is made up of cells that are open in the front to allow air to ram in, and closed in the back to keep the air trapped inside. In between all the cells there are holes that allow the air to flow from one cell to the next, in order to equalize the pressure within the inflated wing. The wing is attached to the carriage of the aircraft by a large number of nylon or Kevlar lines that run from the tips of the wing all the way to the center. The weight of the aircraft acting on these lines and their individual lengths cause the inflated wing to take its shape. The lines attach to the body of the aircraft at a location very close to where the center of gravity is located, and this attachment point is adjustable to account for balance changes with occupants of varying weights.
+
+As in weight-shift control aircraft, the powered parachute does not have the traditional flight controls of a fixed-wing airplane. When the wing of the aircraft is inflated and the aircraft starts moving forward, the wing starts generating lift. Once the groundspeed is sufficient for the wing’s lift greater than the weight of the aircraft, the aircraft lifts off the ground.
+
+Unlike an airplane, where the pilot has a lot of control over when the airplane rotates by deciding when to pull back on the yoke, the powered parachute will not take off until it reaches a specific airspeed. The powered parachute will typically lift off the ground at a speed somewhere between 28 and 30 mph, and will have airspeed in flight of approximately 30 mph.
+
+Once the powered parachute is in flight, control over climbing and descending is handled with engine power. Advancing the throttle makes the aircraft climb, and retarding the throttle makes it descend. The inflated wing creates a lot of drag in flight, so reducing the engine power creates a very controllable descent of the aircraft. The throttle, for controlling engine power, is typically located on the right-hand side of the pilot.
+
+Turning of the powered parachute in flight is handled by foot-operated pedals, or steering bars, located at the front of the aircraft. Each foot-operated pedal controls a set of lines, usually made from nylon that runs up to the trailing edge of each wingtip. When the right foot pedal is pushed, the line pulls down on the tailing edge of the 8 wingtip. As the trailing edge of the right wing drop downs, drag is increased on the right side and the aircraft turns right. When pressure is taken off the foot pedal, the drag in the entire airfoil equalizes and the aircraft resumes its straight-and-level flight.
+
+To land a powered parachute, the first action the pilot takes is to reduce engine power and allow the aircraft to descend. With the power reduced to idle, the aircraft will descend at a rate of approximately 5 to 10 fps. As the aircraft approaches the ground, the descent rate can be lessened by increasing the engine power. Just before touchdown, the pilot pushes on both foot-operated pedals to drop the trailing edges on both sides of the wing. This action increases the drag on the wing uniformly, causing the wing to pivot aft, which raises the wing leading edge and increases the angle of attack and lift. The pilot is pushing on both foot pedals and the left and right wing trailing edges are deflected downward. The aircraft has just touched down and the wing is trailing behind the aircraft, caused by the high angle of attack and the additional drag on the wing. The increase in lift reduces the descent rate to almost nothing, and provides for a gentle landing. If the pilot pushes on the foot pedals too soon, the wing may pivot too far aft before touchdown resulting in an unacceptable descent rate. In that case, it might be a relatively hard landing.
 
 ## 2. 中文翻译
 
@@ -407,130 +407,6 @@ The helicopter, as we know it today, falls under the classification known as rot
 • 如果航迹向前并向下，则相对风向后并向上。
 
 因此，相对风与航迹平行，且方向相反。
-
-#### 高速翼型
-
-跨音速飞行是飞机最困难的飞行范围，因为机翼一部分处于亚音速气流中，一部分处于超音速气流中。对于亚音速翼型，气动中心（即支撑点）大约位于机翼前缘之后 25% 弦长处。在超音速飞行中，气动中心后移到 50% 弦长处，导致飞机的操纵性和稳定性发生显著变化。如果一架为亚音速飞行（比如马赫数 0.80）设计的飞机飞得太快而进入跨音速，机翼上的气流会发生一些明显变化。机翼上马赫数依次升高的六个阶段情形如下：
-
-A. 马赫数相当低，整个机翼都处于亚音速气流中。
-
-B. 速度已达到临界马赫数，机翼上表面的气流速度达到马赫 1。C. 速度已超过临界马赫数，机翼上表面形成了一道正激波，激波后方开始出现一些气流分离。
-
-D. 速度继续增大、超过临界马赫数，正激波已后移得足够远，出现严重的气流分离。机翼下表面此时也在形成一道正激波。正激波后方，气流为亚音速，静压已升高。
-
-E. 速度已增大到机翼上、下表面的两道激波都移到机翼后部并附着在后缘上的程度。
-
-仍存在一些气流分离。
-
-F. 翼型的前进速度超过马赫 1，在机翼前缘之前刚形成一道新的激波。如果机翼具有尖前缘，激波会附着在尖锐边缘上。
-
-该翼型并非为承受超音速气流而正确设计。如果机翼采用双楔形或双凸形设计，机翼前缘前方的弓形波就会附着在前缘上。
-
-#### 直升机结构与翼型
-
-构成直升机的主要部件有座舱、起落架、尾梁、动力装置、传动装置、主旋翼和尾桨。
-
-**主旋翼系统** 在全铰接式旋翼系统中，桨叶通过多个铰与桨毂相连。桨叶的铰接方式使其能够上下运动和前后运动，轴承则允许其绕变距轴运动。采用这种布置的旋翼系统通常有三片或更多桨叶。允许桨叶上下运动的铰称为挥舞铰，绕该铰的运动称为挥舞。允许桨叶前后运动的铰称为阻力铰或摆振铰。绕该铰的运动称为摆振、超前/滞后或追逐。某型直升机的主旋翼桨毂上可以看到阻力铰和变距拉杆。
-
-半刚性旋翼系统用于两片桨叶的主旋翼。桨叶与桨毂刚性连接，桨毂和桨叶能像跷跷板一样上下摇摆。这种摇摆动作使桨叶能够挥舞，一片桨叶下降时另一片上升。两片桨叶可以各自独立地改变桨距。一架飞行中的 Bell Jet Ranger 直升机采用半刚性旋翼系统，这一点从直升机前飞时旋翼整体前倾的姿态就可以看出来。
-
-在刚性旋翼系统中，桨叶既没有用于上下运动（挥舞）的铰，也没有用于前后运动（摆振）的铰。桨叶能绕变距轴运动，每片桨叶都能独立改变桨叶角。刚性旋翼系统的桨叶非常结实，同时又具有柔性。它们的柔性足以在不使用铰或摇摆式旋翼的情况下按需要弯曲，以补偿前飞中出现的不均匀升力。某型直升机采用刚性旋翼系统。
-
-**反扭矩系统** 每当施加一个力使物体旋转，就会有大小相等、方向相反的力起作用。如果从上方看直升机主旋翼顺时针旋转，直升机就会力图逆时针旋转。本章前面已经讨论过，正是扭矩力图使某物旋转。因此，直升机采用所谓反扭矩系统来抵消这个力图使其旋转的力。
-
-直升机上用来抵消扭矩的一种方法，是在尾梁末端安装一组旋转的桨叶。这组桨叶称为尾桨或反扭矩旋翼，其作用是产生一个力（推力），作用方向与直升机企图旋转的方向相反。尾桨的力（磅）乘以尾桨到主旋翼的距离（英尺），产生一个以磅-英尺计的扭矩，抵消主旋翼扭矩。
-
-Aerospatiale AS-315B 直升机装有三叶尾桨。该尾桨的桨叶为开口桨尖、可变桨距，由布置得与飞机方向舵脚蹬相似的直升机反扭矩脚蹬控制其产生的推力大小。这种尾桨系统存在的一些潜在问题如下：
-
-• 人若走进旋转的桨叶，是会致命的。
-
-• 当直升机处于前飞、且可能用垂直安定面来抵消扭矩时，尾桨会消耗发动机功率并产生阻力。
-
-尾桨的另一种方案，是一种称为涵道尾桨（“涵道风扇尾桨”）的反扭矩旋翼。由于桨叶被包在涵道内，它们对地面人员的危险性较小，飞行中产生的阻力也较小。
-
-抵消直升机主旋翼扭矩的第三种方法，是一种称为“无尾桨”系统（NOTAR）的技术。该系统利用由直升机发动机驱动的风扇产生的低压大流量空气。风扇把空气压入尾梁，其中一部分从尾梁右侧的缝口流出，与主旋翼下洗气流共同作用，产生一种称为“柯恩达效应”的现象。从尾梁右侧缝口流出的空气使该侧流速较高、因此压力较低。尾梁左侧较高的压力产生抵消主旋翼扭矩的主要力。
-
-其余空气向后流到直升机尾部一个可操纵的旋转喷口。空气从该喷口高速喷出，产生一个附加的力（推力），有助于抵消主旋翼扭矩。
-
-对于装有两副主旋翼的直升机，如两端各有一副主旋翼的 Chinook，就不需要反扭矩旋翼。这类直升机的两副主旋翼转向相反，彼此抵消对方的扭矩。
-
-#### 直升机的飞行坐标轴
-
-直升机与飞机一样，有通过其重心的立轴、横轴和纵轴。直升机绕立轴偏航、绕横轴俯仰、绕纵轴滚转。直升机的三个坐标轴与其运动密切相关。三个轴都相交于直升机重心，直升机绕该点转动。注意立轴几乎穿过主旋翼中心，因为直升机的重心必须非常接近这一点。
-
-**绕立轴的操纵** 对单主旋翼直升机来说，绕立轴的操纵由反扭矩旋翼（尾桨）完成，NOTAR 型直升机则由风扇气流完成。与飞机一样，绕该轴的运动称为偏航。驾驶员通过踩驾驶舱地板上的反扭矩脚蹬来控制偏航，方式与飞机驾驶员踩方向舵脚蹬控制偏航相同。要使直升机机头向右偏航，驾驶员踩右脚蹬。从上方看，如果直升机因主旋翼扭矩而企图逆时针旋转，驾驶员同样要踩右脚蹬来抵消主旋翼扭矩。利用反扭矩脚蹬，驾驶员可以有意识地让直升机绕立轴向任一方向旋转。
-
-有些直升机装有垂直安定面。前飞时，垂直安定面产生一个有助于抵消主旋翼扭矩的力，从而减小驱动尾梁末端反扭矩系统所需的功率。
-
-**绕纵轴和横轴的操纵** 绕纵轴和横轴的运动由直升机的主旋翼控制。座舱里有两根操纵主旋翼的杆，称为总距杆和周期变距杆。总距杆位于驾驶员座椅侧面，周期变距杆位于座椅前方中间。
-
-上提总距杆时，所有旋翼桨叶的桨叶角均匀增大，产生使直升机垂直起飞的升力。总距杆末端的手柄就是发动机油门，上提杆的同时转动手柄即可增大发动机功率。在许多直升机上，上提总距杆时油门会自动转动并增大发动机功率。总距杆内可能设有可调摩擦，这样驾驶员在飞行中不必一直向上扶着它。
-
-周期变距杆与飞机的驾驶盘一样，可以向后拉或向前推，也可以左右移动。向前推周期变距杆时，旋翼桨叶在旋转的后半圈产生较大升力，在前半圈产生较小升力。升力差是通过改变旋翼桨叶的桨叶角（桨距）实现的。前面提到的变距拉杆由周期变距杆控制，正是它们改变旋翼桨叶的桨距。后部升力增大，会使主旋翼前倾、直升机机头下垂，或两者兼有。最终结果是直升机向前运动。如果向后拉周期变距杆，前部桨叶升力增大，直升机就会后退。
-
-如果把周期变距杆向左或向右移动，直升机就会左倾或右倾。要使直升机向右倾斜，主旋翼桨叶经过直升机左侧时就必须产生更大升力。直升机向左倾斜时情况正好相反。通过使后部升力大于前部、左侧升力大于右侧，直升机就能处于前飞并向右倾斜的状态。一架 A-109 直升机在前飞中向右倾斜。后部的桨叶和左侧的桨叶都处于向上抬起的位置，说明它们都出现了称为挥舞的状态。
-
-有些直升机采用与飞机上类似的水平安定面，以在绕横轴方向提供附加稳定性。A-109 直升机上装有水平安定面。
-
-#### 飞行中的直升机
-
-**悬停** 对直升机而言，悬停是指在恒定高度飞行，没有前、后或横向移动。要悬停，直升机主旋翼桨叶必须产生等于航空器重量的升力。直升机发动机必须产生足够的功率来驱动主旋翼，同时驱动所用的任何形式的反扭矩系统。直升机的悬停能力受许多因素影响，包括是否处于地面效应之中、空气的密度高度、发动机可用功率以及载荷大小。直升机要处于地面效应中，通常离地高度不得超过主旋翼系统直径的一半。如果一架直升机主旋翼直径为 40 英尺，那么它在约 20 英尺高度以内都处于地面效应中。靠近地面会影响流过旋翼桨叶的空气速度，使桨叶的有效迎角增大、升力增大。因此，处于地面效应中的直升机，其可悬停的总重比在地面效应之外更大。有风时，地面效应的有利影响会减弱；前飞速度达到 5 至 10 mph 时，这一有利影响进一步减小。一架 CH-53 直升机悬停时，所有旋翼桨叶都因产生相等升力而向上挥舞。
-
-**前飞** 在直升机发展的早期，悬停能力先被掌握，而后才成功实现前飞。早期尝试前飞时，直升机一旦试图脱离悬停向任一方向移动就会侧翻。侧翻的原因就是我们今天所称的升力不对称。
-
-直升机悬停时，所有旋翼桨叶经历的气流速度相同；而直升机一开始移动，旋翼桨叶所经历的气流速度就会改变。美国制造的直升机，从上方看主旋翼桨叶逆时针旋转。从上方看，桨叶经过直升机右侧时朝机头方向运动，经过左侧时朝机尾方向运动。当直升机开始前飞时，右侧桨叶迎着相对风运动，左侧桨叶背离相对风运动。这就使右侧桨叶产生的升力较大，左侧桨叶产生的升力较小。
-
-2 号桨叶称为前进桨叶，1 号桨叶称为后退桨叶。前进桨叶迎着相对风运动，因而经历更大的气流速度。右侧桨叶产生的升力增大，会力图使直升机向左滚转。如果允许这种状态存在，最终会导致直升机坠毁。
-
-**桨叶挥舞** 为解决升力不对称问题，直升机设计者提出了一种铰接设计，使旋翼桨叶在升力增大时向上挥舞，在升力减小时向下挥舞。当旋翼桨叶向直升机前方前进、经历的气流速度增大时，升力的增大使桨叶向上挥舞。桨叶的这一向上运动改变了相对风相对于桨叶弦线的方向，使迎角减小。迎角减小使桨叶上的升力减小。后退桨叶经历的气流速度减小、升力减小，于是向下挥舞。通过向下挥舞，后退桨叶最终获得更大的迎角和更大的升力。最终结果是桨叶上的升力趋于相等，直升机滚转的趋势就不会出现。
-
-半刚性和全铰接式旋翼系统都有挥舞铰，能自动允许桨叶随升力变化上下运动。
-
-刚性旋翼系统的桨叶则有足够的柔性，能随升力变化向上或向下弯曲。
-
-**前进桨叶与后退桨叶的问题** 随着直升机前飞速度越来越大，前进桨叶所见的相对风速度不断增大。最终，旋翼桨叶上的气流速度将达到声速，很像飞机机翼的临界马赫数。一旦出现这种情况，就会形成激波，气流从旋翼桨叶上分离，导致高速失速。
-
-随着直升机前飞速度增大，后退桨叶上的相对风减小，导致升力损失。升力损失使桨叶向下挥舞，有效迎角增大。当前飞速度足够高时，迎角会增大到使旋翼桨叶失速的程度。桨尖先失速，然后向桨根方向扩展。
-
-当由于前进桨叶和后退桨叶的问题而使约 25% 的旋翼系统失速时，直升机就会失去操纵。会导致旋翼桨叶失速的状况包括：前飞速度大、总重大、气流湍流、密度高度高，以及急陡或突然的转弯。
-
-**自转下滑** 直升机上的发动机通过离合器和传动装置驱动主旋翼系统。离合器使直升机在地面时发动机可以运转而旋翼系统不转，也使飞行中发动机一旦失效时旋翼系统能与发动机脱开。发动机失效时让旋翼系统与发动机脱开，是直升机能够进入称为自转下滑这一飞行状态所必需的。
-
-自转下滑是一种飞行状态，此时主旋翼桨叶由流过桨叶的相对风的力驱动，而不是由发动机驱动。这种飞行状态类似飞机在飞行中发动机失效后的滑翔。只要直升机保持前飞空速、同时下降高度，并且驾驶员用总距杆减小桨叶角，旋翼桨叶就会继续旋转。直升机的高度相当于势能，这部分势能被让出，以获得足够的能量（随后成为动能）来维持旋翼桨叶转动。当直升机接近地面时，用周期变距杆减小前飞速度并使直升机拉平接地。空速卸掉、直升机已接近地面时，最后一步是用总距杆缓冲着陆。正常前飞和自转下滑状态下流过旋翼桨叶的气流并不相同。一架 Bell Jet Ranger 在自转下滑末段接近地面。
-
-### 重心操纵式柔性翼航空器的空气动力学
-
-重心操纵式柔性翼航空器由蒙布机翼（常称为帆布）和管状结构组成，管状结构上装有轮子、座椅、发动机和螺旋桨。机翼结构也是管状的，蒙布形成翼型形状。各型重心操纵式航空器的机翼形状不同，但三角翼是一种非常流行的设计。在重心操纵式航空器圈内，这类航空器通常被称为 trike（三角翼小车）。
-
-trike 的桅杆用挂点螺栓和安全钢索连接到机翼龙骨上的挂点。机翼上方还伸出一根称为王柱的支撑管，钢索从王柱向下固定在管状机翼结构上。从王柱向下延伸、构成上部索具的钢索，用于在地面支撑机翼、在飞行中承受负载荷。从王柱连到机翼后缘的绳索称为反曲线钢索。这些钢索在机翼失速时保持机翼形状，方法是把机翼后缘抬起，从而有助于在改出失速时抬起机头。如果航空器进入意外失速，机翼后缘略微抬起的状态有助于抬起机头并改出俯冲。乘员座椅位于机翼气动中心正下方，驾驶员的重量在该点之前，发动机和螺旋桨的重量在该点之后。
-
-与传统飞机不同，trike 没有方向舵、升降舵或副翼。它有一副可以前后、左右转动的机翼。驾驶员的手放在操纵杆上，操纵杆连接到机翼连接点稍前方的转轴。操纵杆两端连有钢索，向上延伸到机翼前缘和后缘，以及横杆的左右两侧。从机翼前缘通到后缘的支撑件称为翼肋条。翼肋条插入布套中，使机翼具有弯度。trike 一些主要部件的名称，后面叙述 trike 飞行特性时会用到这些名称。
-
-要驾驶 trike 飞行，先加大发动机功率使航空器动起来。当地速达到可以飞行的程度时，驾驶员向前推操纵杆，使机翼绕与桅杆的连接点转动，机翼前缘上仰。机翼前缘上仰时，迎角增大、机翼升力增大。升力足够时，trike 抬头并开始爬升。向后拉杆则减小迎角，使航空器停止爬升、平飞。trike 进入平飞后，用油门增大或减小发动机功率即可增大或减小空速。
-
-对典型飞机而言，绕纵轴（即从机头到机尾的方向）的飞行稳定性，是靠水平安定面和升降舵产生一个力来平衡飞机机头偏重的趋势而获得的。由于 trike 没有水平安定面和升降舵，它必须以另一种方式获得绕纵轴的稳定性。trike 具有后掠三角翼，翼尖后缘远在航空器重心之后。作用在三角翼翼尖上的压力产生平衡机头偏重趋势的力。重心操纵式航空器的机翼设计成在外力作用下可以改变形状。之所以能做到这一点，是因为骨架前缘和蒙布是柔性的，这也是它们有时被称为柔性翼航空器的原因。与普通固定翼飞机相比，这会产生一些不同的气动效应。像 Cessna 172 这样的传统小型飞机，通过副翼转弯或倾斜，实际上改变了机翼弯度，从而产生升力差。相比之下，trike 上的重心移动实际上使机翼扭转，从而改变机翼迎角，产生使 trike 倾斜的升力差。机翼骨架的横杆（或称展向撑杆）允许相对于龙骨略微浮动，加上其他一些几何因素，使蒙布能够“鼓胀偏移”。鼓胀偏移可以在地面演示：抓住机翼一端的后缘向上提。这样做的结果是，另一端蒙布略微变平、绷紧，机翼迎角增大。
-
-如果驾驶员把杆向右推，机翼转动，左翼尖下沉、右翼尖抬起，使航空器向左倾斜。这一运动与悬挂滑翔机的情形相同。重心左移增大了左翼载荷、减小了右翼载荷。左翼载荷增大会增大其扭转洗出，减小其迎角和升力。左翼载荷增大会使左翼鼓胀，进而使右翼蒙布绷紧、迎角和升力增大。正是升力的这种变化使航空器向左倾斜。
-
-重心右移则使航空器向右倾斜。trike 及其乘员的重量像摆锤一样起作用，有助于保持飞行稳定。飞行中推杆或拉杆会使吊在机翼下方的重量相对机翼移动位置，这也是 trike 被称为重心操纵式航空器的原因。
-
-trike 升空并保持直线平飞后，驾驶员只需对控制机翼的操纵杆保持轻微压力。如果 trike 配平良好且没有气流扰动，即使驾驶员松开双手，航空器也会保持稳定。与任何飞机一样，增大发动机功率会使航空器爬升，减小功率则会使其下降。油门通常用脚踏板控制，就像汽车上的油门踏板。
-
-trike 的着陆方式与飞机非常相似。到该着陆时，驾驶员用脚踏油门减小发动机功率，空速和机翼升力随之减小。trike 下降时，可通过向前推杆或向后拉杆以及改变发动机功率来控制下降率。当 trike 快到接地时，减小发动机功率并增大机翼迎角，以缓冲下降、实现柔和着陆。如果航空器要在很强的侧风中着陆，着陆可能不那么柔和。侧风着陆时，驾驶员以偏流姿态进场，以保持沿跑道的方向。接地时后轮先着地，然后放下前轮。一架 trike 正准备接地，还可以看到支撑桅杆和机翼顶部的钢索，包括上缘索。
-
-### 动力伞空气动力学
-
-动力伞的车架与重心操纵式航空器非常相似。但它的机翼没有支撑结构或刚性，只有在被螺旋桨气流和航空器前飞速度充气时才呈现翼型形状。一架动力伞进场着陆时，机翼完全充气并高高升在航空器上方。充气机翼的每个彩色分区都由若干气室组成，气室前方开口让空气冲入，后方封闭把空气留在里面。所有气室之间都有孔，让空气从一个气室流到另一个气室，以使充气机翼内的压力均衡。机翼通过大量尼龙或 Kevlar 绳索连接到航空器车架上，绳索从翼尖一直通到中心。航空器的重量作用在这些绳索上，加上各根绳索各自的长度，使充气机翼形成其形状。绳索连接到航空器机体上非常靠近重心位置的地方，该连接点可以调整，以适应不同体重乘员带来的配重变化。
-
-与重心操纵式航空器一样，动力伞没有固定翼飞机的传统飞行操纵装置。当机翼充气、航空器开始向前运动时，机翼开始产生升力。一旦地速足够、机翼升力大于航空器重量，航空器便离地升空。
-
-与飞机不同（飞机驾驶员可以通过决定何时后拉驾驶盘来掌握抬轮时机），动力伞不到特定空速就不会起飞。动力伞通常在 28 至 30 mph 之间的速度离地，飞行空速约为 30 mph。
-
-动力伞升空后，爬升和下降由发动机功率控制。加大油门使航空器爬升，收油门使其下降。充气机翼在飞行中产生很大阻力，因此减小发动机功率可形成非常可控的下降。控制发动机功率的油门通常位于驾驶员右手侧。
-
-动力伞飞行中的转弯由位于航空器前部的脚踏板（操纵杆）控制。每只脚踏板控制一组绳索，通常用尼龙制成，通到各侧翼尖后缘。踩右脚蹬时，绳索向下拉右翼尖后缘。右翼后缘下垂时，右侧阻力增大，航空器向右转。松开脚踏板压力时，整个翼型的阻力趋于均衡，航空器恢复直线平飞。
-
-要让动力伞着陆，驾驶员首先要减小发动机功率，让航空器下降。功率减到慢车时，航空器将以约 5 至 10 fps 的速率下降。航空器接近地面时，可通过增大发动机功率减小下降率。接地前，驾驶员同时踩下两只脚踏板，使机翼两侧后缘下垂。这一动作均匀增大机翼阻力，使机翼向后转动，从而抬起机翼前缘、增大迎角和升力。驾驶员正踩着两只脚踏板，左右机翼后缘向下偏转。航空器刚刚接地，机翼拖在航空器后面，这是由大迎角和机翼附加阻力造成的。升力增大使下降率几乎降到零，从而实现柔和着陆。如果驾驶员踩脚踏板过早，机翼可能在接地前向后转过太多，造成不可接受的下降率。那样的话，着陆可能相对较重。
 
 #### 迎角
 
@@ -694,6 +570,24 @@ trike 的着陆方式与飞机非常相似。到该着陆时，驾驶员用脚�
 
 **膨胀波** 在高速空气动力学的前面讨论中曾指出，超音速空气表现得像可压缩流体。由于这个原因，超音速空气一有机会就力图向外膨胀。超音速空气流过机翼上表面、而机翼表面朝远离流动方向转折时，空气就会膨胀并沿新的方向流动。在流动方向改变处会出现膨胀波。膨胀波后方的速度增大，静压和密度降低。膨胀波不是激波。超音速翼型上会出现膨胀波。
 
+#### 高速翼型
+
+跨音速飞行是飞机最困难的飞行范围，因为机翼一部分处于亚音速气流中，一部分处于超音速气流中。对于亚音速翼型，气动中心（即支撑点）大约位于机翼前缘之后 25% 弦长处。在超音速飞行中，气动中心后移到 50% 弦长处，导致飞机的操纵性和稳定性发生显著变化。如果一架为亚音速飞行（比如马赫数 0.80）设计的飞机飞得太快而进入跨音速，机翼上的气流会发生一些明显变化。机翼上马赫数依次升高的六个阶段情形如下：
+
+A. 马赫数相当低，整个机翼都处于亚音速气流中。
+
+B. 速度已达到临界马赫数，机翼上表面的气流速度达到马赫 1。C. 速度已超过临界马赫数，机翼上表面形成了一道正激波，激波后方开始出现一些气流分离。
+
+D. 速度继续增大、超过临界马赫数，正激波已后移得足够远，出现严重的气流分离。机翼下表面此时也在形成一道正激波。正激波后方，气流为亚音速，静压已升高。
+
+E. 速度已增大到机翼上、下表面的两道激波都移到机翼后部并附着在后缘上的程度。
+
+仍存在一些气流分离。
+
+F. 翼型的前进速度超过马赫 1，在机翼前缘之前刚形成一道新的激波。如果机翼具有尖前缘，激波会附着在尖锐边缘上。
+
+该翼型并非为承受超音速气流而正确设计。如果机翼采用双楔形或双凸形设计，机翼前缘前方的弓形波就会附着在前缘上。
+
 #### 气动加热
 
 飞机高速飞行的难题之一，是因空气摩擦而在飞机表面聚集的热量。SR-71 黑鸟以马赫 3.5 巡航时，其表面蒙皮温度从 450 °F 到 1,000 °F 以上。为承受这样的高温，该机采用钛合金而非传统的铝合金制造。超音速运输机 Concorde 最初设计为以马赫 2.2 巡航，但由于气动加热开始造成结构问题，其巡航速度降到马赫 2.0。如果将来要制造能够高超音速飞行的飞机，必须克服的障碍之一就是高温给飞机结构造成的应力。
@@ -701,6 +595,112 @@ trike 的着陆方式与飞机非常相似。到该着陆时，驾驶员用脚�
 ### 直升机空气动力学
 
 我们今天所知的直升机，属于旋翼航空器这一类。旋翼航空器又称旋转机翼航空器，因为它的机翼不像飞机那样固定，而是旋转的。旋翼航空器的旋转机翼，既可以看作产生升力的装置，像飞机的机翼那样；也可以看作产生推力的装置，像活塞发动机上的螺旋桨那样。
+
+#### 直升机结构与翼型
+
+构成直升机的主要部件有座舱、起落架、尾梁、动力装置、传动装置、主旋翼和尾桨。
+
+**主旋翼系统** 在全铰接式旋翼系统中，桨叶通过多个铰与桨毂相连。桨叶的铰接方式使其能够上下运动和前后运动，轴承则允许其绕变距轴运动。采用这种布置的旋翼系统通常有三片或更多桨叶。允许桨叶上下运动的铰称为挥舞铰，绕该铰的运动称为挥舞。允许桨叶前后运动的铰称为阻力铰或摆振铰。绕该铰的运动称为摆振、超前/滞后或追逐。某型直升机的主旋翼桨毂上可以看到阻力铰和变距拉杆。
+
+半刚性旋翼系统用于两片桨叶的主旋翼。桨叶与桨毂刚性连接，桨毂和桨叶能像跷跷板一样上下摇摆。这种摇摆动作使桨叶能够挥舞，一片桨叶下降时另一片上升。两片桨叶可以各自独立地改变桨距。一架飞行中的 Bell Jet Ranger 直升机采用半刚性旋翼系统，这一点从直升机前飞时旋翼整体前倾的姿态就可以看出来。
+
+在刚性旋翼系统中，桨叶既没有用于上下运动（挥舞）的铰，也没有用于前后运动（摆振）的铰。桨叶能绕变距轴运动，每片桨叶都能独立改变桨叶角。刚性旋翼系统的桨叶非常结实，同时又具有柔性。它们的柔性足以在不使用铰或摇摆式旋翼的情况下按需要弯曲，以补偿前飞中出现的不均匀升力。某型直升机采用刚性旋翼系统。
+
+**反扭矩系统** 每当施加一个力使物体旋转，就会有大小相等、方向相反的力起作用。如果从上方看直升机主旋翼顺时针旋转，直升机就会力图逆时针旋转。本章前面已经讨论过，正是扭矩力图使某物旋转。因此，直升机采用所谓反扭矩系统来抵消这个力图使其旋转的力。
+
+直升机上用来抵消扭矩的一种方法，是在尾梁末端安装一组旋转的桨叶。这组桨叶称为尾桨或反扭矩旋翼，其作用是产生一个力（推力），作用方向与直升机企图旋转的方向相反。尾桨的力（磅）乘以尾桨到主旋翼的距离（英尺），产生一个以磅-英尺计的扭矩，抵消主旋翼扭矩。
+
+Aerospatiale AS-315B 直升机装有三叶尾桨。该尾桨的桨叶为开口桨尖、可变桨距，由布置得与飞机方向舵脚蹬相似的直升机反扭矩脚蹬控制其产生的推力大小。这种尾桨系统存在的一些潜在问题如下：
+
+• 人若走进旋转的桨叶，是会致命的。
+
+• 当直升机处于前飞、且可能用垂直安定面来抵消扭矩时，尾桨会消耗发动机功率并产生阻力。
+
+尾桨的另一种方案，是一种称为涵道尾桨（“涵道风扇尾桨”）的反扭矩旋翼。由于桨叶被包在涵道内，它们对地面人员的危险性较小，飞行中产生的阻力也较小。
+
+抵消直升机主旋翼扭矩的第三种方法，是一种称为“无尾桨”系统（NOTAR）的技术。该系统利用由直升机发动机驱动的风扇产生的低压大流量空气。风扇把空气压入尾梁，其中一部分从尾梁右侧的缝口流出，与主旋翼下洗气流共同作用，产生一种称为“柯恩达效应”的现象。从尾梁右侧缝口流出的空气使该侧流速较高、因此压力较低。尾梁左侧较高的压力产生抵消主旋翼扭矩的主要力。
+
+其余空气向后流到直升机尾部一个可操纵的旋转喷口。空气从该喷口高速喷出，产生一个附加的力（推力），有助于抵消主旋翼扭矩。
+
+对于装有两副主旋翼的直升机，如两端各有一副主旋翼的 Chinook，就不需要反扭矩旋翼。这类直升机的两副主旋翼转向相反，彼此抵消对方的扭矩。
+
+#### 直升机的飞行坐标轴
+
+直升机与飞机一样，有通过其重心的立轴、横轴和纵轴。直升机绕立轴偏航、绕横轴俯仰、绕纵轴滚转。直升机的三个坐标轴与其运动密切相关。三个轴都相交于直升机重心，直升机绕该点转动。注意立轴几乎穿过主旋翼中心，因为直升机的重心必须非常接近这一点。
+
+**绕立轴的操纵** 对单主旋翼直升机来说，绕立轴的操纵由反扭矩旋翼（尾桨）完成，NOTAR 型直升机则由风扇气流完成。与飞机一样，绕该轴的运动称为偏航。驾驶员通过踩驾驶舱地板上的反扭矩脚蹬来控制偏航，方式与飞机驾驶员踩方向舵脚蹬控制偏航相同。要使直升机机头向右偏航，驾驶员踩右脚蹬。从上方看，如果直升机因主旋翼扭矩而企图逆时针旋转，驾驶员同样要踩右脚蹬来抵消主旋翼扭矩。利用反扭矩脚蹬，驾驶员可以有意识地让直升机绕立轴向任一方向旋转。
+
+有些直升机装有垂直安定面。前飞时，垂直安定面产生一个有助于抵消主旋翼扭矩的力，从而减小驱动尾梁末端反扭矩系统所需的功率。
+
+**绕纵轴和横轴的操纵** 绕纵轴和横轴的运动由直升机的主旋翼控制。座舱里有两根操纵主旋翼的杆，称为总距杆和周期变距杆。总距杆位于驾驶员座椅侧面，周期变距杆位于座椅前方中间。
+
+上提总距杆时，所有旋翼桨叶的桨叶角均匀增大，产生使直升机垂直起飞的升力。总距杆末端的手柄就是发动机油门，上提杆的同时转动手柄即可增大发动机功率。在许多直升机上，上提总距杆时油门会自动转动并增大发动机功率。总距杆内可能设有可调摩擦，这样驾驶员在飞行中不必一直向上扶着它。
+
+周期变距杆与飞机的驾驶盘一样，可以向后拉或向前推，也可以左右移动。向前推周期变距杆时，旋翼桨叶在旋转的后半圈产生较大升力，在前半圈产生较小升力。升力差是通过改变旋翼桨叶的桨叶角（桨距）实现的。前面提到的变距拉杆由周期变距杆控制，正是它们改变旋翼桨叶的桨距。后部升力增大，会使主旋翼前倾、直升机机头下垂，或两者兼有。最终结果是直升机向前运动。如果向后拉周期变距杆，前部桨叶升力增大，直升机就会后退。
+
+如果把周期变距杆向左或向右移动，直升机就会左倾或右倾。要使直升机向右倾斜，主旋翼桨叶经过直升机左侧时就必须产生更大升力。直升机向左倾斜时情况正好相反。通过使后部升力大于前部、左侧升力大于右侧，直升机就能处于前飞并向右倾斜的状态。一架 A-109 直升机在前飞中向右倾斜。后部的桨叶和左侧的桨叶都处于向上抬起的位置，说明它们都出现了称为挥舞的状态。
+
+有些直升机采用与飞机上类似的水平安定面，以在绕横轴方向提供附加稳定性。A-109 直升机上装有水平安定面。
+
+#### 飞行中的直升机
+
+**悬停** 对直升机而言，悬停是指在恒定高度飞行，没有前、后或横向移动。要悬停，直升机主旋翼桨叶必须产生等于航空器重量的升力。直升机发动机必须产生足够的功率来驱动主旋翼，同时驱动所用的任何形式的反扭矩系统。直升机的悬停能力受许多因素影响，包括是否处于地面效应之中、空气的密度高度、发动机可用功率以及载荷大小。直升机要处于地面效应中，通常离地高度不得超过主旋翼系统直径的一半。如果一架直升机主旋翼直径为 40 英尺，那么它在约 20 英尺高度以内都处于地面效应中。靠近地面会影响流过旋翼桨叶的空气速度，使桨叶的有效迎角增大、升力增大。因此，处于地面效应中的直升机，其可悬停的总重比在地面效应之外更大。有风时，地面效应的有利影响会减弱；前飞速度达到 5 至 10 mph 时，这一有利影响进一步减小。一架 CH-53 直升机悬停时，所有旋翼桨叶都因产生相等升力而向上挥舞。
+
+**前飞** 在直升机发展的早期，悬停能力先被掌握，而后才成功实现前飞。早期尝试前飞时，直升机一旦试图脱离悬停向任一方向移动就会侧翻。侧翻的原因就是我们今天所称的升力不对称。
+
+直升机悬停时，所有旋翼桨叶经历的气流速度相同；而直升机一开始移动，旋翼桨叶所经历的气流速度就会改变。美国制造的直升机，从上方看主旋翼桨叶逆时针旋转。从上方看，桨叶经过直升机右侧时朝机头方向运动，经过左侧时朝机尾方向运动。当直升机开始前飞时，右侧桨叶迎着相对风运动，左侧桨叶背离相对风运动。这就使右侧桨叶产生的升力较大，左侧桨叶产生的升力较小。
+
+2 号桨叶称为前进桨叶，1 号桨叶称为后退桨叶。前进桨叶迎着相对风运动，因而经历更大的气流速度。右侧桨叶产生的升力增大，会力图使直升机向左滚转。如果允许这种状态存在，最终会导致直升机坠毁。
+
+**桨叶挥舞** 为解决升力不对称问题，直升机设计者提出了一种铰接设计，使旋翼桨叶在升力增大时向上挥舞，在升力减小时向下挥舞。当旋翼桨叶向直升机前方前进、经历的气流速度增大时，升力的增大使桨叶向上挥舞。桨叶的这一向上运动改变了相对风相对于桨叶弦线的方向，使迎角减小。迎角减小使桨叶上的升力减小。后退桨叶经历的气流速度减小、升力减小，于是向下挥舞。通过向下挥舞，后退桨叶最终获得更大的迎角和更大的升力。最终结果是桨叶上的升力趋于相等，直升机滚转的趋势就不会出现。
+
+半刚性和全铰接式旋翼系统都有挥舞铰，能自动允许桨叶随升力变化上下运动。
+
+刚性旋翼系统的桨叶则有足够的柔性，能随升力变化向上或向下弯曲。
+
+**前进桨叶与后退桨叶的问题** 随着直升机前飞速度越来越大，前进桨叶所见的相对风速度不断增大。最终，旋翼桨叶上的气流速度将达到声速，很像飞机机翼的临界马赫数。一旦出现这种情况，就会形成激波，气流从旋翼桨叶上分离，导致高速失速。
+
+随着直升机前飞速度增大，后退桨叶上的相对风减小，导致升力损失。升力损失使桨叶向下挥舞，有效迎角增大。当前飞速度足够高时，迎角会增大到使旋翼桨叶失速的程度。桨尖先失速，然后向桨根方向扩展。
+
+当由于前进桨叶和后退桨叶的问题而使约 25% 的旋翼系统失速时，直升机就会失去操纵。会导致旋翼桨叶失速的状况包括：前飞速度大、总重大、气流湍流、密度高度高，以及急陡或突然的转弯。
+
+**自转下滑** 直升机上的发动机通过离合器和传动装置驱动主旋翼系统。离合器使直升机在地面时发动机可以运转而旋翼系统不转，也使飞行中发动机一旦失效时旋翼系统能与发动机脱开。发动机失效时让旋翼系统与发动机脱开，是直升机能够进入称为自转下滑这一飞行状态所必需的。
+
+自转下滑是一种飞行状态，此时主旋翼桨叶由流过桨叶的相对风的力驱动，而不是由发动机驱动。这种飞行状态类似飞机在飞行中发动机失效后的滑翔。只要直升机保持前飞空速、同时下降高度，并且驾驶员用总距杆减小桨叶角，旋翼桨叶就会继续旋转。直升机的高度相当于势能，这部分势能被让出，以获得足够的能量（随后成为动能）来维持旋翼桨叶转动。当直升机接近地面时，用周期变距杆减小前飞速度并使直升机拉平接地。空速卸掉、直升机已接近地面时，最后一步是用总距杆缓冲着陆。正常前飞和自转下滑状态下流过旋翼桨叶的气流并不相同。一架 Bell Jet Ranger 在自转下滑末段接近地面。
+
+### 重心操纵式柔性翼航空器的空气动力学
+
+重心操纵式柔性翼航空器由蒙布机翼（常称为帆布）和管状结构组成，管状结构上装有轮子、座椅、发动机和螺旋桨。机翼结构也是管状的，蒙布形成翼型形状。各型重心操纵式航空器的机翼形状不同，但三角翼是一种非常流行的设计。在重心操纵式航空器圈内，这类航空器通常被称为 trike（三角翼小车）。
+
+trike 的桅杆用挂点螺栓和安全钢索连接到机翼龙骨上的挂点。机翼上方还伸出一根称为王柱的支撑管，钢索从王柱向下固定在管状机翼结构上。从王柱向下延伸、构成上部索具的钢索，用于在地面支撑机翼、在飞行中承受负载荷。从王柱连到机翼后缘的绳索称为反曲线钢索。这些钢索在机翼失速时保持机翼形状，方法是把机翼后缘抬起，从而有助于在改出失速时抬起机头。如果航空器进入意外失速，机翼后缘略微抬起的状态有助于抬起机头并改出俯冲。乘员座椅位于机翼气动中心正下方，驾驶员的重量在该点之前，发动机和螺旋桨的重量在该点之后。
+
+与传统飞机不同，trike 没有方向舵、升降舵或副翼。它有一副可以前后、左右转动的机翼。驾驶员的手放在操纵杆上，操纵杆连接到机翼连接点稍前方的转轴。操纵杆两端连有钢索，向上延伸到机翼前缘和后缘，以及横杆的左右两侧。从机翼前缘通到后缘的支撑件称为翼肋条。翼肋条插入布套中，使机翼具有弯度。trike 一些主要部件的名称，后面叙述 trike 飞行特性时会用到这些名称。
+
+要驾驶 trike 飞行，先加大发动机功率使航空器动起来。当地速达到可以飞行的程度时，驾驶员向前推操纵杆，使机翼绕与桅杆的连接点转动，机翼前缘上仰。机翼前缘上仰时，迎角增大、机翼升力增大。升力足够时，trike 抬头并开始爬升。向后拉杆则减小迎角，使航空器停止爬升、平飞。trike 进入平飞后，用油门增大或减小发动机功率即可增大或减小空速。
+
+对典型飞机而言，绕纵轴（即从机头到机尾的方向）的飞行稳定性，是靠水平安定面和升降舵产生一个力来平衡飞机机头偏重的趋势而获得的。由于 trike 没有水平安定面和升降舵，它必须以另一种方式获得绕纵轴的稳定性。trike 具有后掠三角翼，翼尖后缘远在航空器重心之后。作用在三角翼翼尖上的压力产生平衡机头偏重趋势的力。重心操纵式航空器的机翼设计成在外力作用下可以改变形状。之所以能做到这一点，是因为骨架前缘和蒙布是柔性的，这也是它们有时被称为柔性翼航空器的原因。与普通固定翼飞机相比，这会产生一些不同的气动效应。像 Cessna 172 这样的传统小型飞机，通过副翼转弯或倾斜，实际上改变了机翼弯度，从而产生升力差。相比之下，trike 上的重心移动实际上使机翼扭转，从而改变机翼迎角，产生使 trike 倾斜的升力差。机翼骨架的横杆（或称展向撑杆）允许相对于龙骨略微浮动，加上其他一些几何因素，使蒙布能够“鼓胀偏移”。鼓胀偏移可以在地面演示：抓住机翼一端的后缘向上提。这样做的结果是，另一端蒙布略微变平、绷紧，机翼迎角增大。
+
+如果驾驶员把杆向右推，机翼转动，左翼尖下沉、右翼尖抬起，使航空器向左倾斜。这一运动与悬挂滑翔机的情形相同。重心左移增大了左翼载荷、减小了右翼载荷。左翼载荷增大会增大其扭转洗出，减小其迎角和升力。左翼载荷增大会使左翼鼓胀，进而使右翼蒙布绷紧、迎角和升力增大。正是升力的这种变化使航空器向左倾斜。
+
+重心右移则使航空器向右倾斜。trike 及其乘员的重量像摆锤一样起作用，有助于保持飞行稳定。飞行中推杆或拉杆会使吊在机翼下方的重量相对机翼移动位置，这也是 trike 被称为重心操纵式航空器的原因。
+
+trike 升空并保持直线平飞后，驾驶员只需对控制机翼的操纵杆保持轻微压力。如果 trike 配平良好且没有气流扰动，即使驾驶员松开双手，航空器也会保持稳定。与任何飞机一样，增大发动机功率会使航空器爬升，减小功率则会使其下降。油门通常用脚踏板控制，就像汽车上的油门踏板。
+
+trike 的着陆方式与飞机非常相似。到该着陆时，驾驶员用脚踏油门减小发动机功率，空速和机翼升力随之减小。trike 下降时，可通过向前推杆或向后拉杆以及改变发动机功率来控制下降率。当 trike 快到接地时，减小发动机功率并增大机翼迎角，以缓冲下降、实现柔和着陆。如果航空器要在很强的侧风中着陆，着陆可能不那么柔和。侧风着陆时，驾驶员以偏流姿态进场，以保持沿跑道的方向。接地时后轮先着地，然后放下前轮。一架 trike 正准备接地，还可以看到支撑桅杆和机翼顶部的钢索，包括上缘索。
+
+### 动力伞空气动力学
+
+动力伞的车架与重心操纵式航空器非常相似。但它的机翼没有支撑结构或刚性，只有在被螺旋桨气流和航空器前飞速度充气时才呈现翼型形状。一架动力伞进场着陆时，机翼完全充气并高高升在航空器上方。充气机翼的每个彩色分区都由若干气室组成，气室前方开口让空气冲入，后方封闭把空气留在里面。所有气室之间都有孔，让空气从一个气室流到另一个气室，以使充气机翼内的压力均衡。机翼通过大量尼龙或 Kevlar 绳索连接到航空器车架上，绳索从翼尖一直通到中心。航空器的重量作用在这些绳索上，加上各根绳索各自的长度，使充气机翼形成其形状。绳索连接到航空器机体上非常靠近重心位置的地方，该连接点可以调整，以适应不同体重乘员带来的配重变化。
+
+与重心操纵式航空器一样，动力伞没有固定翼飞机的传统飞行操纵装置。当机翼充气、航空器开始向前运动时，机翼开始产生升力。一旦地速足够、机翼升力大于航空器重量，航空器便离地升空。
+
+与飞机不同（飞机驾驶员可以通过决定何时后拉驾驶盘来掌握抬轮时机），动力伞不到特定空速就不会起飞。动力伞通常在 28 至 30 mph 之间的速度离地，飞行空速约为 30 mph。
+
+动力伞升空后，爬升和下降由发动机功率控制。加大油门使航空器爬升，收油门使其下降。充气机翼在飞行中产生很大阻力，因此减小发动机功率可形成非常可控的下降。控制发动机功率的油门通常位于驾驶员右手侧。
+
+动力伞飞行中的转弯由位于航空器前部的脚踏板（操纵杆）控制。每只脚踏板控制一组绳索，通常用尼龙制成，通到各侧翼尖后缘。踩右脚蹬时，绳索向下拉右翼尖后缘。右翼后缘下垂时，右侧阻力增大，航空器向右转。松开脚踏板压力时，整个翼型的阻力趋于均衡，航空器恢复直线平飞。
+
+要让动力伞着陆，驾驶员首先要减小发动机功率，让航空器下降。功率减到慢车时，航空器将以约 5 至 10 fps 的速率下降。航空器接近地面时，可通过增大发动机功率减小下降率。接地前，驾驶员同时踩下两只脚踏板，使机翼两侧后缘下垂。这一动作均匀增大机翼阻力，使机翼向后转动，从而抬起机翼前缘、增大迎角和升力。驾驶员正踩着两只脚踏板，左右机翼后缘向下偏转。航空器刚刚接地，机翼拖在航空器后面，这是由大迎角和机翼附加阻力造成的。升力增大使下降率几乎降到零，从而实现柔和着陆。如果驾驶员踩脚踏板过早，机翼可能在接地前向后转过太多，造成不可接受的下降率。那样的话，着陆可能相对较重。
 
 ## 3. 专业词汇
 

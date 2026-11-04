@@ -18,12 +18,6 @@ To understand balance, it is necessary to have a working knowledge of the princi
 
 Center of gravity arms.
 
-Datum 40" forward of the firewall Radio (5 lb)
-
-Center of gravity Moment = Weight (arm)
-
-= 400 in-lb sum of the moments on each side of the balance point must be equal. Therefore, the same weight that is different distances (in inches) from the datum have greater moments.
-
 A 5 lb radio located 80" from the datum would have a moment of 400 in-lb (5 lb × 80"). A 10-pound radio located 12" from the datum would have a moment of 120 in-lb. Whether the moment is preceded by a positive (+) or negative (−) sign depends on its location in relation to the datum. The moment ends up being a positive number because the weight and arm are both positive.
 
 The algebraic sign of the moment, based on the datum location and whether weight is being installed or removed, would be as follows:
@@ -54,13 +48,11 @@ The maximum weight is the maximum authorized weight of the aircraft and its cont
 
 • Maximum Zero Fuel Weight—the heaviest weight an aircraft can be loaded to without having any usable fuel in the fuel tanks. Any weight loaded above this value must be in the form of fuel.
 
-Weight + + – – Arm + – + – Moment + – – + Rotation Noseup Nosedown Nosedown Noseup arms, and moments.
+Datum 40" forward of the firewall Radio (5 lb)
 
-Force Force Moment = 700 lb (90")
+Center of gravity Moment = Weight (arm)
 
-= 63,000 in-lb Moment = 900 lb (70")
-
-= 63,000 in-lb Fulcrum and CG
+= 400 in-lb sum of the moments on each side of the balance point must be equal. Therefore, the same weight that is different distances (in inches) from the datum have greater moments.
 
 The empty weight of an aircraft includes all operating equipment that has a fixed location and is actually installed in the aircraft. It includes the weight of the airframe, powerplant, required equipment, optional or special equipment, fixed ballast, hydraulic fluid, and residual fuel and oil. Residual fuel and oil are the fluids that do not normally drain out because they are trapped in the fuel lines, oil lines, and tanks. They must be included in the aircraft’s empty weight. For most aircraft certified after 1978, the full capacity of the engine oil system is also included in the empty weight. Information regarding residual fluids in aircraft systems that must be included in the empty weight, and whether or not full oil is included, will be indicated in the Aircraft Specifications or TCDS.
 
@@ -69,6 +61,14 @@ Other terms that are used when describing empty weight include basic empty weigh
 ### Empty Weight Center of Gravity (EWCG)
 
 The EWCG for an aircraft is the point at which it balances when it is in an empty weight condition. The concepts of empty weight and CG were discussed earlier in this chapter, and now they are being combined into a single concept. One of the most important reasons for weighing an aircraft is to determine its EWCG. All other weight and balance calculations, including loading the aircraft for flight, performing an equipment change calculation, and performing an adverse condition check, begin with knowing the empty weight and EWCG. This crucial information is part of what is contained in the aircraft weight and balance report.
+
+Weight + + – – Arm + – + – Moment + – – + Rotation Noseup Nosedown Nosedown Noseup arms, and moments.
+
+Force Force Moment = 700 lb (90")
+
+= 63,000 in-lb Moment = 900 lb (70")
+
+= 63,000 in-lb Fulcrum and CG
 
 To determine the useful load of an aircraft, subtract the empty weight from the maximum allowable gross weight. For aircraft certificated in both normal and utility categories, there may be two useful loads listed in the aircraft weight and balance records. An aircraft with an empty weight of 3,100 lb may have a useful load of 850 lb, if the normal category maximum weight is listed as 3,950 lb. When the aircraft is operated in the utility category, the maximum gross weight may be reduced to 3,700 lb, with a corresponding decrease in the useful load to 600 lb. Some aircraft have the same useful load regardless of the category in which they are certificated.
 
@@ -97,12 +97,6 @@ When aircraft are placed on scales and weighed, it is sometimes necessary to use
 要理解平衡，就必须对力矩原理有实用性的了解。对于不熟悉重量与平衡术语的人来说，moment（力矩）一词就是力或重量与距离的乘积。计算力矩所用的距离称为力臂（arm 或 moment arm），通常以英寸表示。要计算力矩，必须知道力和距离。将重量乘以到基准的距离，所得结果就是力矩，以英寸-磅（in-lb）表示，力矩即力作用的那一点。为了说明问题，可以把飞机比作跷跷板。与跷跷板一样，飞机要保持平衡（即平衡状态），则
 
 （原文此处为图注碎片，原文无正文）
-
-（原文此处为图注碎片，原文无正文）
-
-（原文此处为图注碎片，原文无正文）
-
-平衡点两侧的力矩之和必须相等。因此，同一个重量若距基准的距离（以英寸计）不同，其力矩大小也就不同。
 
 位于距基准 80" 处的一台 5 磅电台，其力矩为 400 in-lb（5 lb × 80"）。位于距基准 12" 处的一台 10 磅电台，其力矩为 120 in-lb。力矩前面取正（+）号还是负（−）号，取决于它相对基准的位置。由于重量和力臂都是正值，该力矩最终为正数。
 
@@ -134,13 +128,11 @@ When aircraft are placed on scales and weighed, it is sometimes necessary to use
 
 • 最大无燃油重量——油箱内没有任何可用燃油时飞机可装载到的最重重量。超过这一数值装载的任何重量都必须以燃油的形式存在。
 
-（原文此处为表格碎片，原文无正文）
-
 （原文此处为图注碎片，原文无正文）
 
 （原文此处为图注碎片，原文无正文）
 
-（原文此处为图注碎片，原文无正文）
+平衡点两侧的力矩之和必须相等。因此，同一个重量若距基准的距离（以英寸计）不同，其力矩大小也就不同。
 
 飞机的空重包括所有位置固定、实际安装在飞机上的运行设备。它包括机体、动力装置、必备设备、选装或专用设备、固定配重、液压油，以及残余燃油和滑油。残余燃油和滑油是通常排不出来、滞留在燃油管路、滑油管路和油箱中的液体，必须计入飞机空重。对于 1978 年以后合格审定的大多数飞机，发动机滑油系统的满容量也计入空重。关于飞机各系统中必须计入空重的残余液体、以及是否计入满油量的信息，会在 Aircraft Specifications 或 TCDS 中标明。
 
@@ -149,6 +141,14 @@ When aircraft are placed on scales and weighed, it is sometimes necessary to use
 ### 空重重心（EWCG）
 
 飞机的空重重心是其在空重状态下取得平衡的那一点。空重与重心的概念已在本章前面讨论过，现在把它们合并为一个概念。对飞机称重最重要的原因之一，就是确定其空重重心。所有其他的重量与平衡计算，包括为飞行装载飞机、进行设备变更计算以及进行不利状态检查，都以已知空重和空重重心为起点。这项关键信息是飞机重量与平衡报告所包含内容的一部分。
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为图注碎片，原文无正文）
+
+（原文此处为图注碎片，原文无正文）
+
+（原文此处为图注碎片，原文无正文）
 
 要确定飞机的有效载重，用最大允许全重减去空重。对于同时按正常类和实用类合格审定的飞机，其重量与平衡记录中可能列出两个有效载重。若正常类的最大重量列为 3,950 lb，则空重为 3,100 lb 的飞机可以有 850 lb 的有效载重。当该机按实用类运行时，最大全重可能降至 3,700 lb，有效载重也相应减为 600 lb。有些飞机无论按哪个类别审定，有效载重都相同。
 

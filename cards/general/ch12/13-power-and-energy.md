@@ -8,8 +8,6 @@
 
 This section covers power in the DC circuit and energy consumption. Whether referring to mechanical or electrical systems, power is defined as the rate of energy consumption AWG Number Diameter in mils Ohms per 1,000 ft.
 
-0000 460.0 0.04901 000 409.6 0.06180 00 364.8 0.07793 0 324.9 0.09827 1 289.3 0.1239 2 257.6 0.1563 3 229.4 0.1970 4 204.3 0.2485 5 181.9 0.3133 6 162.0 0.3951 8 128.5 0.6282 10 101.9 0.9989 12 80.81 1.588 14 64.08 2.525 16 50.82 4.016 18 40.30 6.385 20 31.96 10.15 22 25.35 16.14 24 20.10 25.67 26 15.94 40.81 28 12.64 64.9 30 10.03 103.2 or conversion within that system—that is, the amount of energy used or converted in a given amount of time.
-
 From the scientific discipline of physics, the fundamental expression for power is:
 
 E tP = Where P = power measured in watts (W)
@@ -29,6 +27,8 @@ General formula energytimeP = 300 J 10 sP = P = 30 W The watt is named for James
 When current flows through a resistive circuit, energy is dissipated in the form of heat. Recall that voltage can be expressed in the terms of energy and charge as given in the expression:
 
 EQE = Where E = potential difference in volts E = energy expanded or absorbed in joules (J)
+
+0000 460.0 0.04901 000 409.6 0.06180 00 364.8 0.07793 0 324.9 0.09827 1 289.3 0.1239 2 257.6 0.1563 3 229.4 0.1970 4 204.3 0.2485 5 181.9 0.3133 6 162.0 0.3951 8 128.5 0.6282 10 101.9 0.9989 12 80.81 1.588 14 64.08 2.525 16 50.82 4.016 18 40.30 6.385 20 31.96 10.15 22 25.35 16.14 24 20.10 25.67 26 15.94 40.81 28 12.64 64.9 30 10.03 103.2 or conversion within that system—that is, the amount of energy used or converted in a given amount of time.
 
 Q = charge measured in coulombs Current I, can also be expressed in terms of charge and time as given by the expression:
 
@@ -112,8 +112,6 @@ A few examples of the more common wire types that the technician encounters in s
 
 本节介绍直流电路中的功率与能量消耗。无论指机械系统还是电气系统，功率都被定义为能量消耗的速率（原文此处为表格碎片，为 AWG 线号、以密耳计的直径与每 1,000 英尺电阻的表头）。
 
-0000 460.0 0.04901　000 409.6 0.06180　00 364.8 0.07793　0 324.9 0.09827　1 289.3 0.1239　2 257.6 0.1563　3 229.4 0.1970　4 204.3 0.2485　5 181.9 0.3133　6 162.0 0.3951　8 128.5 0.6282　10 101.9 0.9989　12 80.81 1.588　14 64.08 2.525　16 50.82 4.016　18 40.30 6.385　20 31.96 10.15　22 25.35 16.14　24 20.10 25.67　26 15.94 40.81　28 12.64 64.9　30 10.03 103.2　——或该系统内部的转换，即在给定时间内使用或转换的能量。
-
 从物理学这一学科来看，功率的基本表达式为：
 
 P = E/t。式中 P = 功率，单位为瓦特（W）
@@ -133,6 +131,8 @@ E = 能量（E 为手写体 E），单位为焦耳（J）t = 时间，单位为�
 电流流过电阻性电路时，能量以热的形式耗散。回想一下，电压可以用能量和电荷表示，如以下表达式所示：
 
 E = 能量/电荷。式中 E = 电位差，单位为伏特；E = 消耗或吸收的能量，单位为焦耳（J）
+
+0000 460.0 0.04901　000 409.6 0.06180　00 364.8 0.07793　0 324.9 0.09827　1 289.3 0.1239　2 257.6 0.1563　3 229.4 0.1970　4 204.3 0.2485　5 181.9 0.3133　6 162.0 0.3951　8 128.5 0.6282　10 101.9 0.9989　12 80.81 1.588　14 64.08 2.525　16 50.82 4.016　18 40.30 6.385　20 31.96 10.15　22 25.35 16.14　24 20.10 25.67　26 15.94 40.81　28 12.64 64.9　30 10.03 103.2　——或该系统内部的转换，即在给定时间内使用或转换的能量。
 
 Q = 电荷，单位为库仑。电流 I 也可以用电荷与时间表示，如以下表达式所示：
 
