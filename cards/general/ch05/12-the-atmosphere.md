@@ -22,22 +22,6 @@ The atmosphere is divided into concentric layers or levels. Transition through t
 
 The troposphere extends from the earth’s surface to about 35,000 ft at middle latitudes, but varies from 28,000 ft at the poles to about 54,000 ft at the equator. The troposphere is characterized by large changes in temperature and humidity and by generally turbulent conditions. Nearly all cloud formations are within the troposphere. Approximately three-fourths of the total weight of the atmosphere is within the troposphere. The stratosphere extends from the upper limits of the troposphere and the tropopause to an average altitude of 60 miles. The ionosphere ranges from the 50-mile level to a level of 300 to 600 miles. Little is known about the characteristics of the ionosphere, but it is thought that many electrical phenomena occur there. Basically, this layer is characterized by the presence of ions and free electrons, and the ionization seems to increase with altitude and in successive layers. The exosphere, or mesosphere, is the outer layer of the atmosphere. It begins at an altitude of 600 miles and extends to the limits of the atmosphere. In this layer, the temperature is fairly constant at 2,500° Kelvin, and propagation of sound is thought to be impossible due to lack of molecular substance.
 
-### Atmospheric Pressure
-
-The human body is under pressure, since it exists at the bottom of a sea of air. This pressure is due to the weight of the atmosphere. On a standard day at sea level, if a 1-in2 column of air extending to the top of the atmosphere was weighed, it would weigh 14.7 lb. That is why standard day atmospheric pressure is said to be 14.7 pounds per square inch (14.7 psi).
-
-Since atmospheric pressure at any altitude is due to the weight of air above it, pressure decreases with increased altitude. Obviously, the total weight of air above an area at 15,000 ft would be less than the total weight of the air above an area at 10,000 ft.
-
-Atmospheric pressure is often measured by a mercury barometer. A glass tube somewhat over 30 inches in length is sealed at one end and then filled with mercury. It is then inverted and the open end placed in a dish of mercury. Immediately, the mercury level in the inverted tube will drop a short distance, leaving a small volume of mercury vapor at nearly zero absolute pressure in the tube just above the top of the liquid mercury column. Gravity acting on the mercury in the tube will try to make the mercury run out. Atmospheric pressure pushing down on the mercury in the open container tries to make the mercury stay in the tube. At some point these two forces (gravity and atmospheric pressure) will equilibrate out and the mercury will stabilize at a certain height in the tube. Under standard day atmospheric conditions, the air in a 1 square inch column extending to the top of the atmosphere would weigh 14.7 lb. A 1-in2 column of mercury, 29.92 inches tall, would also weigh 14.7 lb. That is why 14.7 psi is equal to 29.92 "Hg.
-
-A second means of measuring atmospheric pressure is with an aneroid barometer. This mechanical instrument is a much better choice than a mercury barometer for use on airplanes. Aneroid barometers, or altimeters, are used to indicate altitude in flight. The calibrations are made in thousands of feet rather than in psi or inches of mercury. For example, the standard pressure at sea level is 29.92 "Hg, or 14.7 psi. At 10,000 feet above sea level, standard pressure is 20.58 "Hg, or 10.10 psi. Altimeters are calibrated so that if the pressure exerted by the atmosphere is 10.10 psi, the altimeter will point to 10,000 ft.
-
-### Atmospheric Density
-
-Since both temperature and pressure decrease with altitude, it might appear that the density of the atmosphere would remain fairly constant with increased altitude. This is not true, however, because pressure drops more rapidly with increased altitude than does the temperature. The result is that density decreases with increased altitude.
-
-By use of the general gas law, studied earlier, it can be shown that for a particular gas, pressure and temperature determine the density. Since standard pressure and temperatures have been associated with each altitude, the density of the air at these standard temperatures and pressures must also be considered standard. Thus, a particular atmospheric density is associated with each altitude. This gives rise to the expression “density altitude,” symbolized “Hd.” A density altitude of 15,000 ft is the altitude at which the density is the same as that considered standard for 15,000 ft. Remember, however, that density altitude is not necessarily true altitude. For example, on a day when the atmospheric pressure is higher than standard and the temperature is lower than standard, the density which is standard at 10,000 ft might occur at 12,000 ft. In this case, at an actual altitude of 12,000 ft, we have air that has the same density as standard air at 10,000 ft. Density altitude is a calculated altitude obtained by correcting pressure altitude for temperature.
-
 ### Water Content of the Atmosphere
 
 In the troposphere, the air is rarely completely dry. It contains water vapor in one of two forms: (1) fog or (2) water vapor. Fog consists of minute droplets of water held in suspension by the air. Clouds are composed of fog. The height to which some clouds extend is a good indication of the presence of water in the atmosphere almost up to the stratosphere. The presence of water vapor in the air is quite evident, with a military F-18 doing a high-speed fly-by at nearly Mach 1. The temperature and pressure changes that occur as the airplane approaches supersonic flight cause the water vapor in the air to condense and form the vapor cloud that is visible.
@@ -53,6 +37,22 @@ The reduction in power that can be expected from humidity is usually given in ch
 The effect of fog on the performance of an engine is very noticeable, particularly on engines with high compression ratios. Normally, some detonation will occur during acceleration, due to the high BMEP, which stands for brake mean effective pressures, developed. However, on a foggy day it is difficult to cause detonation to occur. The explanation of this lies in the fact that fog consists of particles of water that have not vaporized. When these particles enter the cylinders, they absorb a tremendous amount of heat energy in the process of vaporizing. The temperature is thus lowered, and the decrease is sufficient to prevent detonation.
 
 Fog will generally cause a decrease in horsepower output. However, with a supercharged engine, it will be possible to use higher manifold pressures without danger of detonation.
+
+### Atmospheric Pressure
+
+The human body is under pressure, since it exists at the bottom of a sea of air. This pressure is due to the weight of the atmosphere. On a standard day at sea level, if a 1-in2 column of air extending to the top of the atmosphere was weighed, it would weigh 14.7 lb. That is why standard day atmospheric pressure is said to be 14.7 pounds per square inch (14.7 psi).
+
+Since atmospheric pressure at any altitude is due to the weight of air above it, pressure decreases with increased altitude. Obviously, the total weight of air above an area at 15,000 ft would be less than the total weight of the air above an area at 10,000 ft.
+
+Atmospheric pressure is often measured by a mercury barometer. A glass tube somewhat over 30 inches in length is sealed at one end and then filled with mercury. It is then inverted and the open end placed in a dish of mercury. Immediately, the mercury level in the inverted tube will drop a short distance, leaving a small volume of mercury vapor at nearly zero absolute pressure in the tube just above the top of the liquid mercury column. Gravity acting on the mercury in the tube will try to make the mercury run out. Atmospheric pressure pushing down on the mercury in the open container tries to make the mercury stay in the tube. At some point these two forces (gravity and atmospheric pressure) will equilibrate out and the mercury will stabilize at a certain height in the tube. Under standard day atmospheric conditions, the air in a 1 square inch column extending to the top of the atmosphere would weigh 14.7 lb. A 1-in2 column of mercury, 29.92 inches tall, would also weigh 14.7 lb. That is why 14.7 psi is equal to 29.92 "Hg.
+
+A second means of measuring atmospheric pressure is with an aneroid barometer. This mechanical instrument is a much better choice than a mercury barometer for use on airplanes. Aneroid barometers, or altimeters, are used to indicate altitude in flight. The calibrations are made in thousands of feet rather than in psi or inches of mercury. For example, the standard pressure at sea level is 29.92 "Hg, or 14.7 psi. At 10,000 feet above sea level, standard pressure is 20.58 "Hg, or 10.10 psi. Altimeters are calibrated so that if the pressure exerted by the atmosphere is 10.10 psi, the altimeter will point to 10,000 ft.
+
+### Atmospheric Density
+
+Since both temperature and pressure decrease with altitude, it might appear that the density of the atmosphere would remain fairly constant with increased altitude. This is not true, however, because pressure drops more rapidly with increased altitude than does the temperature. The result is that density decreases with increased altitude.
+
+By use of the general gas law, studied earlier, it can be shown that for a particular gas, pressure and temperature determine the density. Since standard pressure and temperatures have been associated with each altitude, the density of the air at these standard temperatures and pressures must also be considered standard. Thus, a particular atmospheric density is associated with each altitude. This gives rise to the expression “density altitude,” symbolized “Hd.” A density altitude of 15,000 ft is the altitude at which the density is the same as that considered standard for 15,000 ft. Remember, however, that density altitude is not necessarily true altitude. For example, on a day when the atmospheric pressure is higher than standard and the temperature is lower than standard, the density which is standard at 10,000 ft might occur at 12,000 ft. In this case, at an actual altitude of 12,000 ft, we have air that has the same density as standard air at 10,000 ft. Density altitude is a calculated altitude obtained by correcting pressure altitude for temperature.
 
 #### Absolute Humidity
 
@@ -94,22 +94,6 @@ Pressure at 0 altitude (P0) = 29.92 "Hg Temperature at 0 altitude (T0) = 15 °C 
 
 在中纬度地区，对流层从地球表面延伸到约 35,000 ft，但在两极约为 28,000 ft，在赤道约为 54,000 ft。对流层的特征是温度与湿度变化大，且通常气流湍乱。几乎所有的云都在对流层之内。大气总重量的大约四分之三集中在对流层内。平流层从对流层上限和对流层顶起，延伸到平均 60 英里的高度。电离层从 50 英里高度延伸到 300 至 600 英里。人们对电离层的特性知之甚少，但认为那里会发生许多电学现象。这一层的基本特征是存在离子和自由电子，电离程度似乎随高度以及逐层递增。外逸层（又称中间层）是大气的最外层，始于 600 英里高度，延伸到大气的边界。在这一层，温度相当恒定，约为 2,500 K；由于缺乏分子物质，声音被认为无法传播。
 
-### 大气压力
-
-人体处于压力之下，因为它存在于一片空气海洋的底部。这一压力来自大气的重量。在标准日的海平面，若把一根截面积 1 in2、一直延伸到大气顶部的空气柱称重，它重 14.7 lb。这就是为什么标准日的大气压力被说成 14.7 磅每平方英寸（14.7 psi）。
-
-既然任何高度上的大气压力都来自其上方空气的重量，压力便随高度上升而减小。显然，15,000 ft 处某一区域上方的空气总重量，小于 10,000 ft 处同一区域上方的空气总重量。
-
-大气压力常用水银气压计测量。一根长度略超过 30 英寸的玻璃管，一端封死，然后灌满水银。接着把它倒过来，开口端插入一盘水银中。倒置管中的水银面会立刻下降一小段，在水银柱顶端上方留下一小段体积、绝对压力几乎为零的水银蒸气。作用在管中水银上的重力力图使水银流出；压在开口容器水银面上的大气压力则力图使水银留在管内。到某一点，这两个力（重力和大气压力）达到平衡，水银便在管内某一高度稳定下来。在标准日大气条件下，一根截面积 1 平方英寸、延伸到大气顶部的空气柱重 14.7 lb；一根截面积 1 in2、高 29.92 英寸的水银柱同样重 14.7 lb。这就是 14.7 psi 等于 29.92 "Hg 的原因。
-
-测量大气压力的第二种手段是无液气压计。这种机械式仪器用在飞机上，比水银气压计合适得多。无液气压计，也就是高度表，在飞行中用来指示高度。其刻度以千英尺为单位，而不是以 psi 或英寸水银柱为单位。例如，海平面的标准压力为 29.92 "Hg，即 14.7 psi；海拔 10,000 ft 处的标准压力为 20.58 "Hg，即 10.10 psi。高度表的校准使得：若大气施加的压力为 10.10 psi，高度表就指向 10,000 ft。
-
-### 大气密度
-
-由于温度和压力都随高度上升而下降，看起来大气密度会随高度上升而保持相当恒定。然而事实并非如此，因为压力随高度上升下降得比温度更快。结果是密度随高度上升而减小。
-
-运用前面学过的通用气体定律可以证明，对于某种特定气体，压力和温度决定密度。既然每一高度都对应着标准压力与标准温度，那么在这些标准温度与标准压力下的空气密度也必须视为标准密度。于是，每一高度都对应一个特定的大气密度，由此产生了“密度高度”这一说法，记作“Hd”。15,000 ft 的密度高度，是指该高度上的密度与 15,000 ft 的标准密度相同。但要记住，密度高度不一定就是真实高度。例如，在某天大气压力高于标准、温度低于标准时，10,000 ft 处的标准密度可能出现在 12,000 ft。这种情况下，在 12,000 ft 的实际高度上，空气的密度与 10,000 ft 处的标准空气相同。密度高度是用温度对压力高度进行修正后算出的高度。
-
 ### 大气中的水汽含量
 
 在对流层中，空气很少是完全干燥的。它以两种形式之一含有水蒸气：(1) 雾，或 (2) 水蒸气。雾由悬浮在空气中的微小水滴构成。云由雾组成。某些云所能伸展的高度，很好地说明大气中几乎直到平流层都有水存在。空气中存在水蒸气这一点相当明显：一架军方 F-18 以接近马赫 1 的速度作高速低空通过。航空器接近超音速飞行时发生的温度与压力变化，使空气中的水蒸气凝结，形成可见的蒸气云。
@@ -125,6 +109,22 @@ Pressure at 0 altitude (P0) = 29.92 "Hg Temperature at 0 altitude (T0) = 15 °C 
 雾对发动机性能的影响十分明显，尤其是在压缩比高的发动机上。正常情况下，加速时由于产生很高的平均有效制动压力（BMEP，brake mean effective pressure），会发生一定程度的爆震。然而在雾天，却很难引起爆震。对此的解释在于：雾由尚未汽化的水滴构成。这些水滴进入气缸后，在汽化过程中吸收大量热能。温度因此降低，而降低幅度足以阻止爆震。
 
 雾通常会使马力输出下降。不过，对于增压发动机，可以在没有爆震危险的情况下使用更高的进气歧管压力。
+
+### 大气压力
+
+人体处于压力之下，因为它存在于一片空气海洋的底部。这一压力来自大气的重量。在标准日的海平面，若把一根截面积 1 in2、一直延伸到大气顶部的空气柱称重，它重 14.7 lb。这就是为什么标准日的大气压力被说成 14.7 磅每平方英寸（14.7 psi）。
+
+既然任何高度上的大气压力都来自其上方空气的重量，压力便随高度上升而减小。显然，15,000 ft 处某一区域上方的空气总重量，小于 10,000 ft 处同一区域上方的空气总重量。
+
+大气压力常用水银气压计测量。一根长度略超过 30 英寸的玻璃管，一端封死，然后灌满水银。接着把它倒过来，开口端插入一盘水银中。倒置管中的水银面会立刻下降一小段，在水银柱顶端上方留下一小段体积、绝对压力几乎为零的水银蒸气。作用在管中水银上的重力力图使水银流出；压在开口容器水银面上的大气压力则力图使水银留在管内。到某一点，这两个力（重力和大气压力）达到平衡，水银便在管内某一高度稳定下来。在标准日大气条件下，一根截面积 1 平方英寸、延伸到大气顶部的空气柱重 14.7 lb；一根截面积 1 in2、高 29.92 英寸的水银柱同样重 14.7 lb。这就是 14.7 psi 等于 29.92 "Hg 的原因。
+
+测量大气压力的第二种手段是无液气压计。这种机械式仪器用在飞机上，比水银气压计合适得多。无液气压计，也就是高度表，在飞行中用来指示高度。其刻度以千英尺为单位，而不是以 psi 或英寸水银柱为单位。例如，海平面的标准压力为 29.92 "Hg，即 14.7 psi；海拔 10,000 ft 处的标准压力为 20.58 "Hg，即 10.10 psi。高度表的校准使得：若大气施加的压力为 10.10 psi，高度表就指向 10,000 ft。
+
+### 大气密度
+
+由于温度和压力都随高度上升而下降，看起来大气密度会随高度上升而保持相当恒定。然而事实并非如此，因为压力随高度上升下降得比温度更快。结果是密度随高度上升而减小。
+
+运用前面学过的通用气体定律可以证明，对于某种特定气体，压力和温度决定密度。既然每一高度都对应着标准压力与标准温度，那么在这些标准温度与标准压力下的空气密度也必须视为标准密度。于是，每一高度都对应一个特定的大气密度，由此产生了“密度高度”这一说法，记作“Hd”。15,000 ft 的密度高度，是指该高度上的密度与 15,000 ft 的标准密度相同。但要记住，密度高度不一定就是真实高度。例如，在某天大气压力高于标准、温度低于标准时，10,000 ft 处的标准密度可能出现在 12,000 ft。这种情况下，在 12,000 ft 的实际高度上，空气的密度与 10,000 ft 处的标准空气相同。密度高度是用温度对压力高度进行修正后算出的高度。
 
 #### 绝对湿度
 

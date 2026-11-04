@@ -124,6 +124,8 @@ Max. Proof Pressure (PSI)
 
 Min. Bend Radius (inches)
 
+Min. Bend Radius (inches)
+
 Tube Size OD (inches)
 
 Hose Size ID (inches)
@@ -136,8 +138,6 @@ Min. Burst Pressure (PSI)
 
 Max. Proof Pressure (PSI)
 
-Min. Bend Radius (inches)
-
 Multiple Wire Braid Rubber Covered Construction: Seamless synthetic rubber inner tube reinforced with one fiber braid, one braid of high tensile steel wire and covered with an oil resistant rubber impregnated fiber braid.
 
 Identification: Hose is identified by specification number, size number, quarter year and year, hose manufacturer’s identification.
@@ -146,6 +146,8 @@ Uses: Hose is approved for use in aircraft hydraulic, pneumatic, coolant, fuel, 
 
 Operating Temperatures:
 
+Operating Temperatures: − 65 °F to + 200 °F Socket Nipple Spur Reinforcement Sheath stripe running along its length. This stripe should not spiral around the hose.
+
 Sizes 3 through 12: − 65 °F to + 250 °F Sizes 16 through 48: − 40 °F to + 275 °F Note: Maximum temperatures and pressures should not be used simultaneously.
 
 Construction: Seamless synthetic rubber inner tube reinforced with one fiber braid, two or more steel wire braids, and covered with synthetic rubber cover (for gas applications request perforated cover).
@@ -153,8 +155,6 @@ Construction: Seamless synthetic rubber inner tube reinforced with one fiber bra
 Identification: Hose is identified by specification number, size number, quarter year and year, hose manufacturer’s identification.
 
 Uses: High pressure hydraulic, pneumatic, coolant, fuel and oil.
-
-Operating Temperatures: − 65 °F to + 200 °F Socket Nipple Spur Reinforcement Sheath stripe running along its length. This stripe should not spiral around the hose.
 
 To avoid sharp bends in the hose assembly, use elbow fittings, hose with elbow-type end fittings, or the appropriate bend radii. Bends that are too sharp reduce the bursting pressure of flexible hose considerably below its rated value.
 
@@ -344,6 +344,8 @@ Teflon™ 是杜邦公司对聚四氟乙烯树脂的商品名称。它的工作�
 
 工作温度：
 
+工作温度：−65 °F 至 +200 °F。护套条纹沿软管长度方向延伸，该条纹不应呈螺旋状缠绕在软管上。
+
 规格 3 至 12：−65 °F 至 +250 °F；规格 16 至 48：−40 °F 至 +275 °F。注：不得同时使用最高温度和最高压力。
 
 结构：无缝合成橡胶内管，用一层纤维编织层、两层或更多钢丝编织层加强，外包合成橡胶外皮（用于气体时要求带穿孔外皮）。
@@ -351,8 +353,6 @@ Teflon™ 是杜邦公司对聚四氟乙烯树脂的商品名称。它的工作�
 识别：软管用规范号、规格号、制造季度与年份以及软管制造商标识来识别。
 
 用途：高压液压、气动、冷却液、燃油和滑油系统。
-
-工作温度：−65 °F 至 +200 °F。护套条纹沿软管长度方向延伸，该条纹不应呈螺旋状缠绕在软管上。
 
 为避免软管组件出现急弯，应使用弯头接头、带弯头型端接头的软管或合适的弯曲半径。过急的弯曲会使软管的爆破压力大大低于其额定值。
 

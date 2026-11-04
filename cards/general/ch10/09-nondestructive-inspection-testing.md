@@ -128,27 +128,27 @@ The success and reliability of a penetrant inspection depends upon the thoroughn
 
 • Rough surfaces interfere with test
 
+• Rough surfaces interfere with test
+
+• Rough surfaces interfere with test
+
 • Part preparation required (removal of finishes and sealant, etc.)
+
+• Electrically conductive materials
 
 • Semi-directional requiring general orientation of field to discontinuity
 
+• Skill and training required
+
 • Ferro-magnetic materials only
+
+• Time consuming for large areas
 
 • Part must be demagnetized after test
 
 • Surface must be accessible to probe
 
-• Rough surfaces interfere with test
-
-• Electrically conductive materials
-
-• Skill and training required
-
-• Time consuming for large areas
-
 • Surface must be accessible to probe
-
-• Rough surfaces interfere with test
 
 • Highly sensitive to sound beam discontinuity orientation
 
@@ -386,27 +386,27 @@ Inspection with ultrasonics is limited to the part in contact with the transduce
 
 • 粗糙表面会干扰检测
 
+• 粗糙表面会干扰检测
+
+• 粗糙表面会干扰检测
+
 • 需要零件准备（去除涂层和密封胶等）
+
+• 仅适用于导电材料
 
 • 半方向性，需使磁场与不连续大致取向
 
+• 需要技能和培训
+
 • 仅适用于铁磁性材料
+
+• 大面积检测耗时长
 
 • 检测后零件必须退磁
 
 • 表面必须能让探头接触
 
-• 粗糙表面会干扰检测
-
-• 仅适用于导电材料
-
-• 需要技能和培训
-
-• 大面积检测耗时长
-
 • 表面必须能让探头接触
-
-• 粗糙表面会干扰检测
 
 • 对声束与不连续的取向高度敏感
 

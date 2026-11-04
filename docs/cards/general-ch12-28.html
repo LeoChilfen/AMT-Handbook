@@ -37,6 +37,14 @@
 <p>A general procedure to follow in this case is to measure the voltage drop across each component in the circuit, keeping in mind the following points. If there is an open in a series circuit, then the voltage drops on sides of the component. In this case, the total voltage must appear across the open resistor as per Kirchhoff’s V oltage Law.</p>
 <p>If a voltmeter is connected across the lamp, as shown, the voltmeter reads zero. Since no current can flow in the circuit because of the open resistor, there is no voltage drop across the lamp indicating that the lamp is good.</p>
 <p>Next, the voltmeter is connected across the open resistor, as shown. The voltmeter has closed the circuit by shunting (paralleling) the burned out resistor, allowing current to flow. Current flows from the negative terminal of the battery, through the switch, through the voltmeter and the lamp, back to the positive terminal of the battery. However, the resistance of the voltmeter is so high that only a very small current flows in the circuit. The current is too small to light the lamp, but the voltmeter reads the battery voltage.</p>
+<h3 id="tracing-opens-with-the-voltmeter-2">Tracing Opens with the Voltmeter</h3>
+<p>To explain how the voltmeter and ohmmeter can be used to troubleshoot series-parallel circuits, the circuit has been labeled at various points. A point-to-point description is listed below with expected results:</p>
+<ol><li>By connecting a voltmeter between points A and D, the battery and switch can be checked for opens.</li></ol>
+<ol start="2"><li>By connecting the voltmeter between points A and B, the voltage drop across R 1 can be checked. This voltage drop is a portion of the applied voltage.</li></ol>
+<ol start="3"><li>If R1 is open, the reading between B and D is zero.</li></ol>
+<ol start="4"><li>By connecting a voltmeter between A and E, the continuity of the conductor between the positive terminal of the battery and point E, as well as the fuse, 30 Ω 30 Ω R130 V R2 30 Ω R3 A 2a Break 30 Ω 30 Ω R1 R2 30 Ω R3 Break can be checked. If the conductor or fuse is open, the voltmeter reads zero.</li></ol>
+<ol start="5"><li>If the lamp is burning, it is obvious that no open exists in the branch containing the lamp, and the voltmeter could be used to detect an open in the branch containing R2 by removing lamp, L1, from the circuit.</li></ol>
+<p>Troubleshooting the series portion of a series-parallel circuit presents no difficulties, but in the parallel portion of the circuit, misleading readings can be obtained.</p>
 <h3 id="tracing-opens-with-the-ohmmeter">Tracing Opens with the Ohmmeter</h3>
 <p>A simplified circuit, as shown, illustrates how to locate an open in a series circuit using the ohmmeter. A general rule to keep in mind when troubleshooting with an ohmmeter is: when an ohmmeter is properly connected across a circuit component and a resistance reading is obtained, the component has continuity and is not open.</p>
 <p>When an ohmmeter is used, the circuit component to be tested must be isolated and the power source removed from the circuit. In this case, these requirements can be met by opening the circuit switch as shown. The ohmmeter is zeroed and across all good components is zero. The voltage drop across the open component equals the total voltage across the series combination. This condition happens because the open component prevents current to pass through the series circuit. With there being no current, there can be no voltage drop across any of the good components. Because the current is zero, it can be determined by Ohm’s Law that E = IR = 0 volts across a component. The voltage is the same on both places across (in parallel with) the lamp. In this testing configuration, some value of resistance is read indicating that the lamp is in good condition and is not the source of the open in the circuit.</p>
@@ -72,14 +80,6 @@
 <ol><li>In the circuit shown, an open has occurred in the series portion of the circuit. When the open occurs anywhere in the series portion of a series-parallel circuit, current flow in the entire circuit stops. In this case, the circuit does not function, and the lamp, L1, is not lit.</li></ol>
 <ol start="2"><li>If the open occurs in the parallel portion of a series-parallel circuit, as shown, part of the circuit continues to function. In this case, the lamp continues to burn, but its brightness diminishes, since the total resistance of the circuit has increased and the total current has decreased.</li></ol>
 <ol start="3"><li>If the open occurs in the branch containing the lamp, as shown, the circuit continues to function with increased resistance and decreased current, but the lamp does not light.</li></ol>
-<h3 id="tracing-opens-with-the-voltmeter-2">Tracing Opens with the Voltmeter</h3>
-<p>To explain how the voltmeter and ohmmeter can be used to troubleshoot series-parallel circuits, the circuit has been labeled at various points. A point-to-point description is listed below with expected results:</p>
-<ol><li>By connecting a voltmeter between points A and D, the battery and switch can be checked for opens.</li></ol>
-<ol start="2"><li>By connecting the voltmeter between points A and B, the voltage drop across R 1 can be checked. This voltage drop is a portion of the applied voltage.</li></ol>
-<ol start="3"><li>If R1 is open, the reading between B and D is zero.</li></ol>
-<ol start="4"><li>By connecting a voltmeter between A and E, the continuity of the conductor between the positive terminal of the battery and point E, as well as the fuse, 30 Ω 30 Ω R130 V R2 30 Ω R3 A 2a Break 30 Ω 30 Ω R1 R2 30 Ω R3 Break can be checked. If the conductor or fuse is open, the voltmeter reads zero.</li></ol>
-<ol start="5"><li>If the lamp is burning, it is obvious that no open exists in the branch containing the lamp, and the voltmeter could be used to detect an open in the branch containing R2 by removing lamp, L1, from the circuit.</li></ol>
-<p>Troubleshooting the series portion of a series-parallel circuit presents no difficulties, but in the parallel portion of the circuit, misleading readings can be obtained.</p>
 <h2 id="2-中文翻译">2. 中文翻译</h2>
 <p>排故是识别问题征兆、确定可能原因并找出电路中失效元件或导线的系统化过程。要精通排故，技术人员必须了解电路如何工作，并知道如何正确使用测试设备。系统失效的方式有很多，要涵盖所有可能性超出了本手册的范围。不过，有一些基本概念能使技术人员处理飞机上遇到的许多常见故障。</p>
 <p>在开始讨论基本电路与排故之前，先给出以下定义。</p>
@@ -117,6 +117,14 @@
 <p>这种情况下应遵循的一般程序是测量电路中每个元件两端的电压降，同时注意以下几点。如果串联电路中存在开路，则电压降出现在元件两侧。此时，根据基尔霍夫电压定律，全部电压必定出现在开路电阻器两端。</p>
 <p>如果把电压表跨接在灯两端，电压表读数为零。由于电阻器开路，电路中没有电流，灯两端没有电压降，说明灯是好的。</p>
 <p>接下来，把电压表跨接在开路的电阻器两端。电压表通过旁路（并联）已烧坏的电阻器使电路闭合，从而使电流流过。电流从蓄电池负极出发，经开关、电压表、灯，回到蓄电池正极。然而电压表电阻极高，电路中只流过很小的电流。该电流太小，不能点亮灯，但电压表读数等于蓄电池电压。</p>
+<h3 id="用电压表追踪开路-2">用电压表追踪开路</h3>
+<p>为说明如何用电压表和欧姆表对串并联电路排故，已在电路的各点加了标记。下面按点逐项说明并给出预期结果：</p>
+<ol><li>把电压表接在 A 点与 D 点之间，可检查蓄电池和开关是否开路。</li></ol>
+<ol start="2"><li>把电压表接在 A 点与 B 点之间，可检查 R1 两端的电压降。该电压降是所加电压的一部分。</li></ol>
+<ol start="3"><li>如果 R1 开路，B 点与 D 点之间的读数为零。</li></ol>
+<ol start="4"><li>把电压表接在 A 点与 E 点之间，可检查蓄电池正极与 E 点之间导线的连续性以及保险丝。如果该导线或保险丝开路，电压表读数为零。</li></ol>
+<ol start="5"><li>如果灯在亮，显然含灯的支路中没有开路；此时可通过把灯 L1 从电路上拆下，用电压表检测含 R2 的支路是否开路。</li></ol>
+<p>对串并联电路的串联部分排故没有困难，但在电路的并联部分，可能得到误导性的读数。</p>
 <h3 id="用欧姆表追踪开路">用欧姆表追踪开路</h3>
 <p>一张简化电路图说明了如何用欧姆表在串联电路中定位开路。用欧姆表排故时应记住的一般规则是：当欧姆表正确跨接在电路元件上并得到电阻读数时，说明该元件连续，并未开路。</p>
 <p>使用欧姆表时，被测电路元件必须隔离，并断开电源。在本例中，可通过断开电路开关满足这些要求。把欧姆表校零，在所有良好元件上的读数均为零。开路元件两端的电压降等于串联组合上的总电压。发生这种情况是因为开路元件阻止电流通过串联电路。既然没有电流，任何良好元件两端就不可能有电压降。由于电流为零，根据欧姆定律可确定元件两端 E = IR = 0 伏。灯两端（并联于灯）两处的电压相同。在这种测试配置中，会读到某个电阻值，表明灯状况良好，不是电路中开路的来源。</p>
@@ -152,14 +160,6 @@
 <ol><li>在所示电路中，串联部分发生开路。当串并联电路的串联部分任何位置发生开路时，整个电路中的电流都会停止。此时电路不工作，灯 L1 不亮。</li></ol>
 <ol start="2"><li>如果开路发生在串并联电路的并联部分，如图所示，电路的一部分仍继续工作。此时灯继续点亮，但亮度减弱，因为电路总电阻增大、总电流减小。</li></ol>
 <ol start="3"><li>如果开路发生在包含灯的支路中，如图所示，电路继续工作，电阻增大、电流减小，但灯不亮。</li></ol>
-<h3 id="用电压表追踪开路-2">用电压表追踪开路</h3>
-<p>为说明如何用电压表和欧姆表对串并联电路排故，已在电路的各点加了标记。下面按点逐项说明并给出预期结果：</p>
-<ol><li>把电压表接在 A 点与 D 点之间，可检查蓄电池和开关是否开路。</li></ol>
-<ol start="2"><li>把电压表接在 A 点与 B 点之间，可检查 R1 两端的电压降。该电压降是所加电压的一部分。</li></ol>
-<ol start="3"><li>如果 R1 开路，B 点与 D 点之间的读数为零。</li></ol>
-<ol start="4"><li>把电压表接在 A 点与 E 点之间，可检查蓄电池正极与 E 点之间导线的连续性以及保险丝。如果该导线或保险丝开路，电压表读数为零。</li></ol>
-<ol start="5"><li>如果灯在亮，显然含灯的支路中没有开路；此时可通过把灯 L1 从电路上拆下，用电压表检测含 R2 的支路是否开路。</li></ol>
-<p>对串并联电路的串联部分排故没有困难，但在电路的并联部分，可能得到误导性的读数。</p>
 <h2 id="3-专业词汇">3. 专业词汇</h2>
 <div class="table-wrap"><table>
 <thead><tr>

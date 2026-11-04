@@ -98,13 +98,13 @@ During aircraft cleaning or refurbishing operations where flammable liquids are 
 
 1. Aircraft undergoing such cleaning or refurbishing must preferably be located outside of the hangar buildings when weather conditions permit. This provides for added natural ventilation and normally assures easier access to the aircraft in the event of fire.
 
+3. Aircraft undergoing such cleaning or refurbishing where the work is to be done under cover must be in hangars equipped with automatic fire protection equipment.
+
 2. It is recommended that during such cleaning or refurbishing operations in an aircraft outside of the hangar that portable fire extinguishers be provided at cabin entrances having a minimum rating of 20-B. Additionally, at minimum, a booster hose line with an adjustable water spray nozzle capable of reaching the cabin area for use pending the arrival of airport fire equipment must be available. As an alternate to the previous recommendations, a Class A fire extinguisher having a minimum rating of 4-A plus or a Class B fire extinguisher having a minimum rating of 20-B must be placed at aircraft cabin doors for immediate use if required.
 
 NOTE 1: All-purpose ABC (dry chemical) type extinguishers are not to be used in situations where aluminum corrosion is a problem, if the extinguisher is used.
 
 NOTE 2: Portable and semi-portable fire detection and extinguishing equipment has been developed, tested, and installed to provide protection to aircraft during construction and maintenance operations. Operators are urged to investigate the feasibility of utilizing such equipment during aircraft cabin cleaning and refurbishing operations.
-
-3. Aircraft undergoing such cleaning or refurbishing where the work is to be done under cover must be in hangars equipped with automatic fire protection equipment.
 
 ## 2. 中文翻译
 
@@ -202,13 +202,13 @@ NOTE 2: Portable and semi-portable fire detection and extinguishing equipment ha
 
 1. 天气条件允许时，进行此类清洁或翻修的飞机最好停放在机库建筑之外。这样可增加自然通风，通常还能确保发生火灾时更容易接近飞机。
 
+3. 如果此类清洁或翻修作业要在有遮蔽的条件下进行，则受作业的飞机必须停放在配备自动消防设备的机库内。
+
 2. 建议在机库外对飞机进行此类清洁或翻修作业时，在客舱入口处配备额定值至少为 20-B 的手提式灭火器。此外，至少必须备有带可调水雾喷嘴、能够伸及客舱区域的增压软管水带，以便在机场消防设备到达前使用。作为上述建议的替代方案，必须在飞机客舱门口放置额定值至少为 4-A 的 A 类灭火器或额定值至少为 20-B 的 B 类灭火器，以备需要时立即使用。
 
 注 1：在铝腐蚀成为问题的场合，如果使用灭火器，不得使用通用 ABC（干粉）型灭火器。
 
 注 2：已开发、试验并安装了便携式和半便携式火警探测与灭火设备，用于在建造和维修作业期间为飞机提供保护。敦促运营人研究在飞机客舱清洁和翻修作业期间使用此类设备的可行性。
-
-3. 如果此类清洁或翻修作业要在有遮蔽的条件下进行，则受作业的飞机必须停放在配备自动消防设备的机库内。
 
 ## 3. 专业词汇
 

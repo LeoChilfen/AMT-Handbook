@@ -14,29 +14,9 @@ Example: Express the fraction 5⁄8 as a percentage.
 
 This is the most common type of percentage calculation. Here are two methods to solve percentage problems: using algebra or using proportions. Each method is shown next to find a percent of a given number. Example: In a shipment of 80 wingtip lights, 15% of the lights were defective. How many of the lights were defective?
 
-#### Algebraic Method
-
-15% of 80 lights = N (number of defective lights)
-
-0.15 × 80 = N 12 = N Therefore, 12 defective lights were in the shipment.
-
-#### Proportion Method
-
-N 80 = 15100 To solve for N: N × 100 = 80 × 15 N × 100 = 1,200 N = 1,200 ÷ 100 N = 12 or N = (80 × 15) ÷ 100 N = 12
-
 ### Finding What Percentage One Number is of Another
 
 Example: A small engine rated at 12 horsepower is found to be delivering only 10.75 horsepower. What is the motor efficiency expressed as a percent?
-
-#### Algebraic Method
-
-N% of 12 rated horsepower = 10.75 actual horsepower N% × 12 = 10.75 N% = 10.75 ÷ 12 N% = 0.8958 N = 89.58 Therefore, the motor efficiency is 89.58%.
-
-#### Proportion Method
-
-10.75 12 = N100 Solve for G: (750 × 24) ÷ 300 = 60 Therefore, to fly 750 miles, 60 gallons of gasoline is required.
-
-Percentage Percentage means “parts out of one hundred.” The percentage sign is “%.” Ninety percent is expressed as 90% (= 90 parts out of 100). The decimal 0.90 equals 90⁄100, or 90 out of 100, or 90%.
 
 ### Expressing a Decimal Number as a Percentage
 
@@ -64,7 +44,27 @@ Example: Eighty ohms represents 52% of a microphone’s total resistance. Find t
 
 #### Algebraic Method
 
+15% of 80 lights = N (number of defective lights)
+
+0.15 × 80 = N 12 = N Therefore, 12 defective lights were in the shipment.
+
+#### Algebraic Method
+
+N% of 12 rated horsepower = 10.75 actual horsepower N% × 12 = 10.75 N% = 10.75 ÷ 12 N% = 0.8958 N = 89.58 Therefore, the motor efficiency is 89.58%.
+
+#### Algebraic Method
+
 52% of N = 80 ohms 52% × N = 80 N = 80 ÷ 0.52 N = 153.846 The total resistance of the microphone is 153.846 ohms.
+
+#### Proportion Method
+
+N 80 = 15100 To solve for N: N × 100 = 80 × 15 N × 100 = 1,200 N = 1,200 ÷ 100 N = 12 or N = (80 × 15) ÷ 100 N = 12
+
+#### Proportion Method
+
+10.75 12 = N100 Solve for G: (750 × 24) ÷ 300 = 60 Therefore, to fly 750 miles, 60 gallons of gasoline is required.
+
+Percentage Percentage means “parts out of one hundred.” The percentage sign is “%.” Ninety percent is expressed as 90% (= 90 parts out of 100). The decimal 0.90 equals 90⁄100, or 90 out of 100, or 90%.
 
 #### Proportion Method
 
@@ -82,29 +82,9 @@ Example: Eighty ohms represents 52% of a microphone’s total resistance. Find t
 
 这是最常见的百分数计算类型。解百分数问题有两种方法：用代数或用比例。下面逐一演示用每种方法求某数的百分之几。例：一批 80 个翼尖灯中，有 15% 是次品。有多少个灯是次品？
 
-#### 代数法
-
-80 个灯的 15% = N（次品灯的数量）
-
-0.15 × 80 = N 12 = N 因此，这批货中有 12 个次品灯。
-
-#### 比例法
-
-（原文此处比例式被抽平，N 80 = 15100 即 N⁄80 = 15⁄100）要求 N：N × 100 = 80 × 15 N × 100 = 1,200 N = 1,200 ÷ 100 N = 12 或 N = (80 × 15) ÷ 100 N = 12
-
 ### 求一个数是另一个数的百分之几
 
 例：一台额定功率为 12 马力的小型发动机，实测只输出 10.75 马力。以百分数表示的电动机效率是多少？
-
-#### 代数法
-
-12 额定马力的 N% = 10.75 实际马力 N% × 12 = 10.75 N% = 10.75 ÷ 12 N% = 0.8958 N = 89.58 因此，电动机效率是 89.58%。
-
-#### 比例法
-
-（原文此处比例式被抽平：10.75 12 = N100，即 10.75⁄12 = N⁄100）求 G：(750 × 24) ÷ 300 = 60（原文此处混入了另一例题的算式）因此，飞行 750 英里需要 60 加仑汽油。
-
-百分数 百分数的意思是「每一百份中的份数」。百分号是「%」。百分之九十表示为 90%（= 100 份中的 90 份）。小数 0.90 等于 90⁄100，即 100 份中的 90 份，也就是 90%。
 
 ### 把小数表示成百分数
 
@@ -132,7 +112,27 @@ Example: Eighty ohms represents 52% of a microphone’s total resistance. Find t
 
 #### 代数法
 
+80 个灯的 15% = N（次品灯的数量）
+
+0.15 × 80 = N 12 = N 因此，这批货中有 12 个次品灯。
+
+#### 代数法
+
+12 额定马力的 N% = 10.75 实际马力 N% × 12 = 10.75 N% = 10.75 ÷ 12 N% = 0.8958 N = 89.58 因此，电动机效率是 89.58%。
+
+#### 代数法
+
 N 的 52% = 80 欧姆 52% × N = 80 N = 80 ÷ 0.52 N = 153.846 话筒的总电阻是 153.846 欧姆。
+
+#### 比例法
+
+（原文此处比例式被抽平，N 80 = 15100 即 N⁄80 = 15⁄100）要求 N：N × 100 = 80 × 15 N × 100 = 1,200 N = 1,200 ÷ 100 N = 12 或 N = (80 × 15) ÷ 100 N = 12
+
+#### 比例法
+
+（原文此处比例式被抽平：10.75 12 = N100，即 10.75⁄12 = N⁄100）求 G：(750 × 24) ÷ 300 = 60（原文此处混入了另一例题的算式）因此，飞行 750 英里需要 60 加仑汽油。
+
+百分数 百分数的意思是「每一百份中的份数」。百分号是「%」。百分之九十表示为 90%（= 100 份中的 90 份）。小数 0.90 等于 90⁄100，即 100 份中的 90 份，也就是 90%。
 
 #### 比例法
 

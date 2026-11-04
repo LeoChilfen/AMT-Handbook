@@ -46,89 +46,9 @@ The most active metals (those that lose electrons easily), such as magnesium and
 
 The environmental conditions that an aircraft is maintained and operated under greatly affects corrosion characteristics. In a predominately marine environment (with exposure to sea water and salt air), moisture-laden air is considerably more detrimental to an aircraft than it would be if all operations were conducted in a dry climate. Temperature considerations are important, because the speed of electrochemical attack is increased in a hot, moist climate.
 
-#### Geographical Location
-
-The flight routes and bases of operation expose some airplanes to more corrosive conditions than others. The operational environment of an aircraft may be categorized as mild, moderate, or severe with respect to the corrosion severity of the operational environment. The corrosion severity of the operational environments in North America are identified. Additional maps for other locations around the world are published in AC 43-4. The corrosion severity of any particular area may be increased by many factors, including airborne industrial pollutants, chemicals used on runways and taxiways to prevent ice formation, humidity, temperatures, prevailing winds from a corrosive environment, etc. Suggested intervals for cleaning, inspection, lubrication, and preservation when located in mild zones are every 90 days, moderate zones every 45 days, and severe zones every 15 days.
-
-#### Foreign Material
-
-Among the controllable factors that affect the onset and spread of corrosive attack is foreign material that adheres to the metal surfaces. Such foreign material includes:
-
-• Soil and atmospheric dust
-
-• Oil, grease, and engine exhaust residues
-
-• Salt water and salt moisture condensation
-
-• Spilled battery acids and caustic cleaning solutions
-
-• Welding and brazing flux residues
-
-#### Micro-organisms
-
-Slimes, molds, fungi and other living organisms (some microscopic) can grow on damp surfaces. Once they are established, the area tends to remain damp, increasing the possibility of corrosion.
-
-#### Manufacturing Processes
-
-Manufacturing processes, such as machining, forming, welding, or heat-treatment, can leave stresses in aircraft parts. The residual stress can cause cracking in a corrosive environment when the threshold for stress corrosion is exceeded.
-
-It is important that aircraft be kept clean. How often and to what extent an aircraft must be cleaned depends on several factors, including geographic location, model of aircraft, and type of operation.
-
 ### Types of Corrosion
 
 There are two general classifications of corrosion that cover most of the specific forms: direct chemical attack and electrochemical attack. In both types of corrosion, the metal is converted into a metallic compound, such as an oxide, hydroxide, or sulfate. The corrosion process involves two simultaneous changes: the metal that is attacked or oxidized suffers what is called anodic change, and the corrosive agent is reduced and is considered as undergoing cathodic change.
-
-#### Direct Chemical Attack
-
-Direct chemical attack, or pure chemical corrosion, is an attack resulting from direct exposure of a bare surface to caustic liquid or gaseous agents. Unlike electrochemical attack where anodic and cathodic changes take place a measurable distance apart, the changes in direct chemical attack occur simultaneously at the same point. The most common agents causing direct chemical attack on aircraft are: spilled battery acid or fumes from batteries; residual flux deposits resulting from inadequately cleaned, welded, brazed, or soldered joints; and entrapped caustic cleaning solutions.
-
-With the introduction of sealed lead-acid batteries and the use of nickel-cadmium batteries, spilled battery acid is becoming less of a problem. The use of these closed units lessens the hazards of acid spillage and battery fumes.
-
-Many types of fluxes used in brazing, soldering, and welding Alloy Type of attack to which alloy is susceptible Highly susceptible to pitting Surface oxidation and pitting, surface, and intergranular Surface pitting, intergranular, exfoliation stress– corrosion and fatigue cracking, and fretting Highly corrosion resistant; extended or repeated contact with chlorinated solvents may result in degradation of the metal’s structural properties at high temperature Uniform surface corrosion; used as sacrificial plating to protect steel Crevice corrosion; some pitting in marine environments; corrosion cracking; intergranular corrosion (300 series); surface corrosion (400 series)
-
-Generally has good corrosion resistant qualities; susceptible to pitting in sea water Surface and intergranular corrosion Pitting (promotes rusting of steel where pits occur in plating)
-
-Will tarnish in the presence of sulfur Highly corrosion resistant Subject to whisker growth Magnesium Low alloy steel (4,000–8,000 series)
-
-Aluminum Titanium Cadmium Stainless steels (300–400 series)
-
-Nickel–base (Inconel, Monel)
-
-Copper–base Brass, Bronze Chromium (Plate)
-
-Silver Gold Tin Appearance of corrosion product White, powdery, snow-like mounds and white spots on surface Reddish–brown oxide (rust)
-
-White–to–grey powder No visible corrosion products at low temperature. Colored surface oxides develop above 700 °F (370 °C)
-
-From white powdery deposit to brown or black mottling of the surface Rough surface; sometimes a uniform red, brown, stain Green powdery deposit Blue or blue–green powdery deposit No visible corrosion products; blistering of plating due to rusting and lifting Brown–to–black film Deposits cause darkening of reflective surfaces Whisker–like deposit are corrosive, chemically attacking the metals or alloys that they are used with. Therefore, it is important to remove residual flux from the metal surface immediately after the joining operation. Flux residues are hygroscopic in nature, absorbing moisture, and unless carefully removed, tend to cause severe pitting.
-
-Caustic cleaning solutions in concentrated form are kept tightly capped and as far from aircraft as possible. Some cleaning solutions used in corrosion removal are, in themselves, potentially corrosive agents. Therefore, particular attention must be directed toward their complete removal after use on aircraft. Where entrapment of the cleaning solution is likely to occur, use a noncorrosive cleaning agent, even though it is less efficient.
-
-#### Electrochemical Attack
-
-Corrosion is a natural occurrence that attacks metal by chemical or electrochemical action, converting it back to a metallic compound. The following four conditions must exist before electrochemical corrosion can occur.
-
-1. A metal subject to corrosion (anode)
-
-2. A dissimilar conductive material (cathode) that has less tendency to corrode
-
-3. Presence of a continuous, conductive liquid path (electrolyte)
-
-4. Electrical contact between the anode and the cathode (usually in the form of metal to metal contact, such as rivets, bolts, and corrosion)
-
-Elimination of any one of these conditions stops electrochemical corrosion.
-
-NOTE: Paint can mask the initial stages of corrosion. Since corrosion products occupy more volume than the original metal, painted surfaces must be inspected often for irregularities, such as blisters, flakes, chips, and lumps. An electrochemical attack may be likened chemically to the electrolytic reaction that takes place in electroplating, anodizing, or in a dry cell battery. The reaction in this corrosive attack requires a medium, usually water, that is capable of conducting a tiny current of electricity. When a metal comes in contact with a corrosive agent and is also connected by a liquid or gaseous path that electrons flow through, corrosion begins as the metal decays by oxidation. During the attack, the quantity of corrosive agent is reduced and, if not renewed or removed, may completely react with the CORROSION SEVERITY ZONE MILD MODERATE SEVERE ANCHORAGE FAIRBANKS MONTREAL NEW YORK ATLANTA MIAMI HAVANA JAMAICA HAITI ST. DOMINGO PUERTO RICO CHICAGO DENVER SEATTLE LOS ANGELES MEXICO HOUSTON DALLAS metal becoming neutralized. Different areas of the same metal surface have varying levels of electrical potential and, if connected by a conductor such as salt water, sets up a series of corrosion cells and corrosion will commence. All metals and alloys are electrically active and have a specific electrical potential in a given chemical environment. This potential is commonly referred to as the metal’s “nobility.” The less noble a metal is, the more easily it can be corroded. The metals chosen for use in aircraft structures are a studied compromise with strength, weight, corrosion resistance, workability, and cost balanced against the structure’s needs.
-
-The constituents in an alloy also have specific electrical potentials that are generally different from each other. Exposure of the alloy surface to a conductive, corrosive medium causes the more active metal to become anodic and the less active metal to become cathodic, thereby establishing conditions for corrosion. These are called local cells. The greater the difference in electrical potential between the two metals, the greater the severity of a corrosive attack if the proper conditions are allowed to develop.
-
-Anodic area Cathodic area Simplified corrosion cell showing conditions that must exist for electrochemical corrosion.
-
-Elimination of corrosion by application of an organic film to metal surface.
-
-Anodic area Cathodic area No contact between electrolyte and anode and cathode Continuous liquid path (electrolyte) Current flow Continuous liquid path (electrolyte)
-
-Electron flow Electron conductor metal Electron conductor metal Unbroken paint film The conditions for these corrosion reactions are the presence of a conductive fluid and metals having a difference in potential. If, by regular cleaning and surface refinishing, the medium is removed and the minute electrical circuit eliminated, corrosion cannot occur. This is the basis for effective corrosion control. The electrochemical attack is responsible for most forms of corrosion on aircraft structure and component parts.
 
 ### Forms of Corrosion
 
@@ -226,6 +146,86 @@ Fatigue corrosion involves cyclic stress and a corrosive extremely vulnerable. E
 
 • Water—the corrosiveness of water depends on the type and quantity of dissolved mineral and organic impurities and dissolved gasses (particularly oxygen) in the water. One characteristic of water that determines its corrosiveness is the conductivity or ability to act as an electrolyte and conduct a current. Physical factors, such as water temperature and velocity, also have a direct bearing on its corrosiveness.
 
+#### Geographical Location
+
+The flight routes and bases of operation expose some airplanes to more corrosive conditions than others. The operational environment of an aircraft may be categorized as mild, moderate, or severe with respect to the corrosion severity of the operational environment. The corrosion severity of the operational environments in North America are identified. Additional maps for other locations around the world are published in AC 43-4. The corrosion severity of any particular area may be increased by many factors, including airborne industrial pollutants, chemicals used on runways and taxiways to prevent ice formation, humidity, temperatures, prevailing winds from a corrosive environment, etc. Suggested intervals for cleaning, inspection, lubrication, and preservation when located in mild zones are every 90 days, moderate zones every 45 days, and severe zones every 15 days.
+
+#### Foreign Material
+
+Among the controllable factors that affect the onset and spread of corrosive attack is foreign material that adheres to the metal surfaces. Such foreign material includes:
+
+• Soil and atmospheric dust
+
+• Oil, grease, and engine exhaust residues
+
+• Salt water and salt moisture condensation
+
+• Spilled battery acids and caustic cleaning solutions
+
+• Welding and brazing flux residues
+
+#### Micro-organisms
+
+Slimes, molds, fungi and other living organisms (some microscopic) can grow on damp surfaces. Once they are established, the area tends to remain damp, increasing the possibility of corrosion.
+
+#### Manufacturing Processes
+
+Manufacturing processes, such as machining, forming, welding, or heat-treatment, can leave stresses in aircraft parts. The residual stress can cause cracking in a corrosive environment when the threshold for stress corrosion is exceeded.
+
+It is important that aircraft be kept clean. How often and to what extent an aircraft must be cleaned depends on several factors, including geographic location, model of aircraft, and type of operation.
+
+#### Direct Chemical Attack
+
+Direct chemical attack, or pure chemical corrosion, is an attack resulting from direct exposure of a bare surface to caustic liquid or gaseous agents. Unlike electrochemical attack where anodic and cathodic changes take place a measurable distance apart, the changes in direct chemical attack occur simultaneously at the same point. The most common agents causing direct chemical attack on aircraft are: spilled battery acid or fumes from batteries; residual flux deposits resulting from inadequately cleaned, welded, brazed, or soldered joints; and entrapped caustic cleaning solutions.
+
+With the introduction of sealed lead-acid batteries and the use of nickel-cadmium batteries, spilled battery acid is becoming less of a problem. The use of these closed units lessens the hazards of acid spillage and battery fumes.
+
+Many types of fluxes used in brazing, soldering, and welding Alloy Type of attack to which alloy is susceptible Highly susceptible to pitting Surface oxidation and pitting, surface, and intergranular Surface pitting, intergranular, exfoliation stress– corrosion and fatigue cracking, and fretting Highly corrosion resistant; extended or repeated contact with chlorinated solvents may result in degradation of the metal’s structural properties at high temperature Uniform surface corrosion; used as sacrificial plating to protect steel Crevice corrosion; some pitting in marine environments; corrosion cracking; intergranular corrosion (300 series); surface corrosion (400 series)
+
+Generally has good corrosion resistant qualities; susceptible to pitting in sea water Surface and intergranular corrosion Pitting (promotes rusting of steel where pits occur in plating)
+
+Will tarnish in the presence of sulfur Highly corrosion resistant Subject to whisker growth Magnesium Low alloy steel (4,000–8,000 series)
+
+Aluminum Titanium Cadmium Stainless steels (300–400 series)
+
+Nickel–base (Inconel, Monel)
+
+Copper–base Brass, Bronze Chromium (Plate)
+
+Silver Gold Tin Appearance of corrosion product White, powdery, snow-like mounds and white spots on surface Reddish–brown oxide (rust)
+
+White–to–grey powder No visible corrosion products at low temperature. Colored surface oxides develop above 700 °F (370 °C)
+
+From white powdery deposit to brown or black mottling of the surface Rough surface; sometimes a uniform red, brown, stain Green powdery deposit Blue or blue–green powdery deposit No visible corrosion products; blistering of plating due to rusting and lifting Brown–to–black film Deposits cause darkening of reflective surfaces Whisker–like deposit are corrosive, chemically attacking the metals or alloys that they are used with. Therefore, it is important to remove residual flux from the metal surface immediately after the joining operation. Flux residues are hygroscopic in nature, absorbing moisture, and unless carefully removed, tend to cause severe pitting.
+
+Caustic cleaning solutions in concentrated form are kept tightly capped and as far from aircraft as possible. Some cleaning solutions used in corrosion removal are, in themselves, potentially corrosive agents. Therefore, particular attention must be directed toward their complete removal after use on aircraft. Where entrapment of the cleaning solution is likely to occur, use a noncorrosive cleaning agent, even though it is less efficient.
+
+#### Electrochemical Attack
+
+Corrosion is a natural occurrence that attacks metal by chemical or electrochemical action, converting it back to a metallic compound. The following four conditions must exist before electrochemical corrosion can occur.
+
+1. A metal subject to corrosion (anode)
+
+2. A dissimilar conductive material (cathode) that has less tendency to corrode
+
+3. Presence of a continuous, conductive liquid path (electrolyte)
+
+4. Electrical contact between the anode and the cathode (usually in the form of metal to metal contact, such as rivets, bolts, and corrosion)
+
+Elimination of any one of these conditions stops electrochemical corrosion.
+
+NOTE: Paint can mask the initial stages of corrosion. Since corrosion products occupy more volume than the original metal, painted surfaces must be inspected often for irregularities, such as blisters, flakes, chips, and lumps. An electrochemical attack may be likened chemically to the electrolytic reaction that takes place in electroplating, anodizing, or in a dry cell battery. The reaction in this corrosive attack requires a medium, usually water, that is capable of conducting a tiny current of electricity. When a metal comes in contact with a corrosive agent and is also connected by a liquid or gaseous path that electrons flow through, corrosion begins as the metal decays by oxidation. During the attack, the quantity of corrosive agent is reduced and, if not renewed or removed, may completely react with the CORROSION SEVERITY ZONE MILD MODERATE SEVERE ANCHORAGE FAIRBANKS MONTREAL NEW YORK ATLANTA MIAMI HAVANA JAMAICA HAITI ST. DOMINGO PUERTO RICO CHICAGO DENVER SEATTLE LOS ANGELES MEXICO HOUSTON DALLAS metal becoming neutralized. Different areas of the same metal surface have varying levels of electrical potential and, if connected by a conductor such as salt water, sets up a series of corrosion cells and corrosion will commence. All metals and alloys are electrically active and have a specific electrical potential in a given chemical environment. This potential is commonly referred to as the metal’s “nobility.” The less noble a metal is, the more easily it can be corroded. The metals chosen for use in aircraft structures are a studied compromise with strength, weight, corrosion resistance, workability, and cost balanced against the structure’s needs.
+
+The constituents in an alloy also have specific electrical potentials that are generally different from each other. Exposure of the alloy surface to a conductive, corrosive medium causes the more active metal to become anodic and the less active metal to become cathodic, thereby establishing conditions for corrosion. These are called local cells. The greater the difference in electrical potential between the two metals, the greater the severity of a corrosive attack if the proper conditions are allowed to develop.
+
+Anodic area Cathodic area Simplified corrosion cell showing conditions that must exist for electrochemical corrosion.
+
+Elimination of corrosion by application of an organic film to metal surface.
+
+Anodic area Cathodic area No contact between electrolyte and anode and cathode Continuous liquid path (electrolyte) Current flow Continuous liquid path (electrolyte)
+
+Electron flow Electron conductor metal Electron conductor metal Unbroken paint film The conditions for these corrosion reactions are the presence of a conductive fluid and metals having a difference in potential. If, by regular cleaning and surface refinishing, the medium is removed and the minute electrical circuit eliminated, corrosion cannot occur. This is the basis for effective corrosion control. The electrochemical attack is responsible for most forms of corrosion on aircraft structure and component parts.
+
 ## 2. 中文翻译
 
 许多飞机结构由金属制成，而对这类结构最具隐蔽性的损害形式就是腐蚀。金属自制造之日起，就必须受到保护，免受周围环境的有害影响。这种保护可以是在基体金属中引入某些元素，形成耐蚀合金，也可以是增加一层化学转化膜、金属或漆膜的表面覆盖层。在使用过程中，还可以在表面施加附加的阻水屏障，例如黏稠的润滑剂和保护剂。
@@ -270,89 +270,9 @@ Fatigue corrosion involves cyclic stress and a corrosive extremely vulnerable. E
 
 飞机维护和运行所处的环境条件会极大地影响腐蚀特性。在以海洋环境为主的情况下（接触海水和含盐空气），潮湿空气对飞机的危害远大于全部运行都在干燥气候中进行的情况。温度因素很重要，因为在炎热潮湿的气候中，电化学侵蚀的速度会加快。
 
-#### 地理位置
-
-飞行航线和运行基地会使某些飞机比其他飞机暴露于更具腐蚀性的条件。就运行环境的腐蚀严重程度而言，飞机的运行环境可划分为轻度、中度和重度。北美各运行环境的腐蚀严重程度已予标定。世界其他地区的地图另见 AC 43-4。任何特定区域的腐蚀严重程度都可能因许多因素而加剧，包括空气中的工业污染物、用于防止跑道和滑行道结冰的化学剂、湿度、温度、来自腐蚀性环境的盛行风等。位于轻度区域的建议清洁、检查、润滑和防护周期为每 90 天一次，中度区域每 45 天一次，重度区域每 15 天一次。
-
-#### 外来物质
-
-在可控制的影响腐蚀起始与扩展的因素中，有一种是附着在金属表面上的外来物质。此类外来物质包括：
-
-• 泥土和大气尘埃
-
-• 油、润滑脂和发动机排气残留物
-
-• 盐水和含盐湿气凝结水
-
-• 溢出的电瓶酸和碱性清洗液
-
-• 焊接和钎焊的钎剂残留物
-
-#### 微生物
-
-黏液、霉菌、真菌和其他活的有机体（有些是显微的）可以在潮湿表面上生长。一旦它们在此立足，该区域就倾向于保持潮湿，从而增加腐蚀的可能性。
-
-#### 制造工艺
-
-制造工艺，如机加工、成形、焊接或热处理，会在飞机零件中留下应力。在腐蚀性环境中，当应力腐蚀的阈值被超过时，残余应力就会引起开裂。
-
-保持飞机清洁很重要。飞机清洁的频率和程度取决于若干因素，包括地理位置、飞机型号和运行类型。
-
 ### 腐蚀的类型
 
 腐蚀的两大分类涵盖了大多数具体形式：直接化学侵蚀和电化学侵蚀。在这两类腐蚀中，金属都被转化为金属化合物，例如氧化物、氢氧化物或硫酸盐。腐蚀过程涉及两个同时发生的变化：被侵蚀或被氧化的金属遭受所谓阳极变化，而腐蚀性介质被还原，被视为发生阴极变化。
-
-#### 直接化学侵蚀
-
-直接化学侵蚀，即纯化学腐蚀，是裸露表面直接暴露于苛性液体或气体介质而引起的侵蚀。与阳极和阴极变化发生在可测量距离之外的电化学侵蚀不同，直接化学侵蚀中的这些变化在同一点同时发生。造成飞机直接化学侵蚀的最常见介质有：溢出的电瓶酸或电瓶酸雾；清洗不充分的焊接、钎焊或锡焊接头所残留的钎剂；以及滞留的碱性清洗液。
-
-随着密封铅酸电瓶的引入和镍镉电瓶的使用，溢出的电瓶酸正日益不成问题。使用这些封闭式电瓶可降低酸液溢出和电瓶酸雾的危害。
-
-钎焊、锡焊和焊接中使用的多种钎剂……（原文此处为表格碎片，原文无正文）
-
-（原文此处为表格碎片，原文无正文）
-
-（原文此处为表格碎片，原文无正文）
-
-（原文此处为表格碎片，原文无正文）
-
-（原文此处为表格碎片，原文无正文）
-
-（原文此处为表格碎片，原文无正文）
-
-（原文此处为表格碎片，原文无正文）
-
-（原文此处为表格碎片，原文无正文）
-
-（原文此处为表格碎片，原文无正文）……具有腐蚀性，会化学侵蚀与之配合使用的金属或合金。因此，在连接工序之后，必须立即从金属表面去除残留钎剂。钎剂残留物本身具有吸湿性，会吸收水分，如果不仔细清除，往往会引起严重点蚀。
-
-苛性清洗液应以浓缩形式存放，盖紧盖子，并尽可能远离飞机。用于去除腐蚀的某些清洗液本身可能就是潜在的腐蚀介质。因此，在使用后必须特别注意将其彻底清除。在清洗液可能滞留的地方，即使效力较低，也应使用无腐蚀性的清洗剂。
-
-#### 电化学侵蚀
-
-腐蚀是一种自然现象，它通过化学或电化学作用侵蚀金属，使金属重新转化为金属化合物。电化学腐蚀发生之前，必须同时具备以下四个条件。
-
-1. 易受腐蚀的金属（阳极）
-
-2. 腐蚀倾向较小的异种导电材料（阴极）
-
-3. 存在连续的导电液体通路（电解质）
-
-4. 阳极与阴极之间的电接触（通常表现为金属与金属的直接接触，如铆钉、螺栓，以及腐蚀产物）
-
-消除其中任何一个条件，即可终止电化学腐蚀。
-
-注：漆层会掩盖腐蚀的初期阶段。由于腐蚀产物的体积大于原金属，因此必须经常检查涂漆表面有无异常，如起泡、起皮、破损和凸起。电化学侵蚀在化学上可类比于电镀、阳极氧化或干电池中所发生的电解反应。这种腐蚀侵蚀中的反应需要一种介质，通常是水，它能够传导微小的电流。当金属与腐蚀性介质接触，同时又由电子可从中流动的液体或气体通路相连时，腐蚀便随金属因氧化而衰变而开始。在侵蚀过程中，腐蚀性介质的量减少，若不补充或清除，可能完全与金属反应而使其中和（原文此处夹有大幅地图标注碎片，非正文）。同一金属表面的不同区域具有不同的电位水平，如果由盐水之类的导体相连，就会建立一系列腐蚀电池，腐蚀随之开始。所有金属和合金都具有电活性，在给定的化学环境中具有特定的电位。这种电位通常被称为金属的「电位序」。金属的电位序越低，就越容易腐蚀。用于飞机结构的金属，是在强度、重量、耐蚀性、可加工性和成本之间与结构需求相权衡后经过研究确定的折中选择。
-
-合金中的各组分也各自具有特定的电位，通常互不相同。合金表面暴露于导电的腐蚀性介质时，较活泼的金属成为阳极，较不活泼的金属成为阴极，从而为腐蚀创造了条件。这些称为局部电池。两种金属之间的电位差越大，在条件充分发展的情况下，腐蚀侵蚀就越严重。
-
-（原文此处为图注碎片，原文无正文）
-
-（原文此处为图注碎片，原文无正文）
-
-（原文此处为图注碎片，原文无正文）
-
-（原文此处为图注碎片，原文无正文）……这些腐蚀反应的条件是：存在导电液体，以及具有电位差的金属。如果通过定期清洁和表面修补去除该介质，并消除微小的电路，腐蚀就不会发生。这就是有效腐蚀控制的基础。电化学侵蚀是飞机结构及零部件上大多数腐蚀形式的成因。
 
 ### 腐蚀的形式
 
@@ -449,6 +369,86 @@ Fatigue corrosion involves cyclic stress and a corrosive extremely vulnerable. E
 • 大气——主要的空气腐蚀性介质是氧和空气中的水分。腐蚀常由大气中的氧和水分对金属的直接作用引起，而额外水分的存在往往会加速腐蚀侵蚀，尤其是对铁基合金。然而，大气中也可能含有其他腐蚀性气体和污染物，特别是工业和海洋盐雾。
 
 • 水——水的腐蚀性取决于水中溶解的矿物和有机杂质的类型与数量，以及溶解气体（特别是氧）的含量。决定水的腐蚀性的一个特性是导电性，即作为电解质传导电流的能力。水温、流速等物理因素也直接影响其腐蚀性。
+
+#### 地理位置
+
+飞行航线和运行基地会使某些飞机比其他飞机暴露于更具腐蚀性的条件。就运行环境的腐蚀严重程度而言，飞机的运行环境可划分为轻度、中度和重度。北美各运行环境的腐蚀严重程度已予标定。世界其他地区的地图另见 AC 43-4。任何特定区域的腐蚀严重程度都可能因许多因素而加剧，包括空气中的工业污染物、用于防止跑道和滑行道结冰的化学剂、湿度、温度、来自腐蚀性环境的盛行风等。位于轻度区域的建议清洁、检查、润滑和防护周期为每 90 天一次，中度区域每 45 天一次，重度区域每 15 天一次。
+
+#### 外来物质
+
+在可控制的影响腐蚀起始与扩展的因素中，有一种是附着在金属表面上的外来物质。此类外来物质包括：
+
+• 泥土和大气尘埃
+
+• 油、润滑脂和发动机排气残留物
+
+• 盐水和含盐湿气凝结水
+
+• 溢出的电瓶酸和碱性清洗液
+
+• 焊接和钎焊的钎剂残留物
+
+#### 微生物
+
+黏液、霉菌、真菌和其他活的有机体（有些是显微的）可以在潮湿表面上生长。一旦它们在此立足，该区域就倾向于保持潮湿，从而增加腐蚀的可能性。
+
+#### 制造工艺
+
+制造工艺，如机加工、成形、焊接或热处理，会在飞机零件中留下应力。在腐蚀性环境中，当应力腐蚀的阈值被超过时，残余应力就会引起开裂。
+
+保持飞机清洁很重要。飞机清洁的频率和程度取决于若干因素，包括地理位置、飞机型号和运行类型。
+
+#### 直接化学侵蚀
+
+直接化学侵蚀，即纯化学腐蚀，是裸露表面直接暴露于苛性液体或气体介质而引起的侵蚀。与阳极和阴极变化发生在可测量距离之外的电化学侵蚀不同，直接化学侵蚀中的这些变化在同一点同时发生。造成飞机直接化学侵蚀的最常见介质有：溢出的电瓶酸或电瓶酸雾；清洗不充分的焊接、钎焊或锡焊接头所残留的钎剂；以及滞留的碱性清洗液。
+
+随着密封铅酸电瓶的引入和镍镉电瓶的使用，溢出的电瓶酸正日益不成问题。使用这些封闭式电瓶可降低酸液溢出和电瓶酸雾的危害。
+
+钎焊、锡焊和焊接中使用的多种钎剂……（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）
+
+（原文此处为表格碎片，原文无正文）……具有腐蚀性，会化学侵蚀与之配合使用的金属或合金。因此，在连接工序之后，必须立即从金属表面去除残留钎剂。钎剂残留物本身具有吸湿性，会吸收水分，如果不仔细清除，往往会引起严重点蚀。
+
+苛性清洗液应以浓缩形式存放，盖紧盖子，并尽可能远离飞机。用于去除腐蚀的某些清洗液本身可能就是潜在的腐蚀介质。因此，在使用后必须特别注意将其彻底清除。在清洗液可能滞留的地方，即使效力较低，也应使用无腐蚀性的清洗剂。
+
+#### 电化学侵蚀
+
+腐蚀是一种自然现象，它通过化学或电化学作用侵蚀金属，使金属重新转化为金属化合物。电化学腐蚀发生之前，必须同时具备以下四个条件。
+
+1. 易受腐蚀的金属（阳极）
+
+2. 腐蚀倾向较小的异种导电材料（阴极）
+
+3. 存在连续的导电液体通路（电解质）
+
+4. 阳极与阴极之间的电接触（通常表现为金属与金属的直接接触，如铆钉、螺栓，以及腐蚀产物）
+
+消除其中任何一个条件，即可终止电化学腐蚀。
+
+注：漆层会掩盖腐蚀的初期阶段。由于腐蚀产物的体积大于原金属，因此必须经常检查涂漆表面有无异常，如起泡、起皮、破损和凸起。电化学侵蚀在化学上可类比于电镀、阳极氧化或干电池中所发生的电解反应。这种腐蚀侵蚀中的反应需要一种介质，通常是水，它能够传导微小的电流。当金属与腐蚀性介质接触，同时又由电子可从中流动的液体或气体通路相连时，腐蚀便随金属因氧化而衰变而开始。在侵蚀过程中，腐蚀性介质的量减少，若不补充或清除，可能完全与金属反应而使其中和（原文此处夹有大幅地图标注碎片，非正文）。同一金属表面的不同区域具有不同的电位水平，如果由盐水之类的导体相连，就会建立一系列腐蚀电池，腐蚀随之开始。所有金属和合金都具有电活性，在给定的化学环境中具有特定的电位。这种电位通常被称为金属的「电位序」。金属的电位序越低，就越容易腐蚀。用于飞机结构的金属，是在强度、重量、耐蚀性、可加工性和成本之间与结构需求相权衡后经过研究确定的折中选择。
+
+合金中的各组分也各自具有特定的电位，通常互不相同。合金表面暴露于导电的腐蚀性介质时，较活泼的金属成为阳极，较不活泼的金属成为阴极，从而为腐蚀创造了条件。这些称为局部电池。两种金属之间的电位差越大，在条件充分发展的情况下，腐蚀侵蚀就越严重。
+
+（原文此处为图注碎片，原文无正文）
+
+（原文此处为图注碎片，原文无正文）
+
+（原文此处为图注碎片，原文无正文）
+
+（原文此处为图注碎片，原文无正文）……这些腐蚀反应的条件是：存在导电液体，以及具有电位差的金属。如果通过定期清洁和表面修补去除该介质，并消除微小的电路，腐蚀就不会发生。这就是有效腐蚀控制的基础。电化学侵蚀是飞机结构及零部件上大多数腐蚀形式的成因。
 
 ## 3. 专业词汇
 

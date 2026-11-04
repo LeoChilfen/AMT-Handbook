@@ -76,6 +76,22 @@ If a voltmeter is connected across the lamp, as shown, the voltmeter reads zero.
 
 Next, the voltmeter is connected across the open resistor, as shown. The voltmeter has closed the circuit by shunting (paralleling) the burned out resistor, allowing current to flow. Current flows from the negative terminal of the battery, through the switch, through the voltmeter and the lamp, back to the positive terminal of the battery. However, the resistance of the voltmeter is so high that only a very small current flows in the circuit. The current is too small to light the lamp, but the voltmeter reads the battery voltage.
 
+### Tracing Opens with the Voltmeter
+
+To explain how the voltmeter and ohmmeter can be used to troubleshoot series-parallel circuits, the circuit has been labeled at various points. A point-to-point description is listed below with expected results:
+
+1. By connecting a voltmeter between points A and D, the battery and switch can be checked for opens.
+
+2. By connecting the voltmeter between points A and B, the voltage drop across R 1 can be checked. This voltage drop is a portion of the applied voltage.
+
+3. If R1 is open, the reading between B and D is zero.
+
+4. By connecting a voltmeter between A and E, the continuity of the conductor between the positive terminal of the battery and point E, as well as the fuse, 30 Ω 30 Ω R130 V R2 30 Ω R3 A 2a Break 30 Ω 30 Ω R1 R2 30 Ω R3 Break can be checked. If the conductor or fuse is open, the voltmeter reads zero.
+
+5. If the lamp is burning, it is obvious that no open exists in the branch containing the lamp, and the voltmeter could be used to detect an open in the branch containing R2 by removing lamp, L1, from the circuit.
+
+Troubleshooting the series portion of a series-parallel circuit presents no difficulties, but in the parallel portion of the circuit, misleading readings can be obtained.
+
 ### Tracing Opens with the Ohmmeter
 
 A simplified circuit, as shown, illustrates how to locate an open in a series circuit using the ohmmeter. A general rule to keep in mind when troubleshooting with an ohmmeter is: when an ohmmeter is properly connected across a circuit component and a resistance reading is obtained, the component has continuity and is not open.
@@ -145,22 +161,6 @@ Troubleshooting a series-parallel resistive circuit involves locating malfunctio
 2. If the open occurs in the parallel portion of a series-parallel circuit, as shown, part of the circuit continues to function. In this case, the lamp continues to burn, but its brightness diminishes, since the total resistance of the circuit has increased and the total current has decreased.
 
 3. If the open occurs in the branch containing the lamp, as shown, the circuit continues to function with increased resistance and decreased current, but the lamp does not light.
-
-### Tracing Opens with the Voltmeter
-
-To explain how the voltmeter and ohmmeter can be used to troubleshoot series-parallel circuits, the circuit has been labeled at various points. A point-to-point description is listed below with expected results:
-
-1. By connecting a voltmeter between points A and D, the battery and switch can be checked for opens.
-
-2. By connecting the voltmeter between points A and B, the voltage drop across R 1 can be checked. This voltage drop is a portion of the applied voltage.
-
-3. If R1 is open, the reading between B and D is zero.
-
-4. By connecting a voltmeter between A and E, the continuity of the conductor between the positive terminal of the battery and point E, as well as the fuse, 30 Ω 30 Ω R130 V R2 30 Ω R3 A 2a Break 30 Ω 30 Ω R1 R2 30 Ω R3 Break can be checked. If the conductor or fuse is open, the voltmeter reads zero.
-
-5. If the lamp is burning, it is obvious that no open exists in the branch containing the lamp, and the voltmeter could be used to detect an open in the branch containing R2 by removing lamp, L1, from the circuit.
-
-Troubleshooting the series portion of a series-parallel circuit presents no difficulties, but in the parallel portion of the circuit, misleading readings can be obtained.
 
 ## 2. 中文翻译
 
@@ -236,6 +236,22 @@ Troubleshooting the series portion of a series-parallel circuit presents no diff
 
 接下来，把电压表跨接在开路的电阻器两端。电压表通过旁路（并联）已烧坏的电阻器使电路闭合，从而使电流流过。电流从蓄电池负极出发，经开关、电压表、灯，回到蓄电池正极。然而电压表电阻极高，电路中只流过很小的电流。该电流太小，不能点亮灯，但电压表读数等于蓄电池电压。
 
+### 用电压表追踪开路
+
+为说明如何用电压表和欧姆表对串并联电路排故，已在电路的各点加了标记。下面按点逐项说明并给出预期结果：
+
+1. 把电压表接在 A 点与 D 点之间，可检查蓄电池和开关是否开路。
+
+2. 把电压表接在 A 点与 B 点之间，可检查 R1 两端的电压降。该电压降是所加电压的一部分。
+
+3. 如果 R1 开路，B 点与 D 点之间的读数为零。
+
+4. 把电压表接在 A 点与 E 点之间，可检查蓄电池正极与 E 点之间导线的连续性以及保险丝。如果该导线或保险丝开路，电压表读数为零。
+
+5. 如果灯在亮，显然含灯的支路中没有开路；此时可通过把灯 L1 从电路上拆下，用电压表检测含 R2 的支路是否开路。
+
+对串并联电路的串联部分排故没有困难，但在电路的并联部分，可能得到误导性的读数。
+
 ### 用欧姆表追踪开路
 
 一张简化电路图说明了如何用欧姆表在串联电路中定位开路。用欧姆表排故时应记住的一般规则是：当欧姆表正确跨接在电路元件上并得到电阻读数时，说明该元件连续，并未开路。
@@ -305,22 +321,6 @@ RT = 30 Ω ÷ 3 = 10 Ω。现在可用欧姆定律确定电路的总电流：IT 
 2. 如果开路发生在串并联电路的并联部分，如图所示，电路的一部分仍继续工作。此时灯继续点亮，但亮度减弱，因为电路总电阻增大、总电流减小。
 
 3. 如果开路发生在包含灯的支路中，如图所示，电路继续工作，电阻增大、电流减小，但灯不亮。
-
-### 用电压表追踪开路
-
-为说明如何用电压表和欧姆表对串并联电路排故，已在电路的各点加了标记。下面按点逐项说明并给出预期结果：
-
-1. 把电压表接在 A 点与 D 点之间，可检查蓄电池和开关是否开路。
-
-2. 把电压表接在 A 点与 B 点之间，可检查 R1 两端的电压降。该电压降是所加电压的一部分。
-
-3. 如果 R1 开路，B 点与 D 点之间的读数为零。
-
-4. 把电压表接在 A 点与 E 点之间，可检查蓄电池正极与 E 点之间导线的连续性以及保险丝。如果该导线或保险丝开路，电压表读数为零。
-
-5. 如果灯在亮，显然含灯的支路中没有开路；此时可通过把灯 L1 从电路上拆下，用电压表检测含 R2 的支路是否开路。
-
-对串并联电路的串联部分排故没有困难，但在电路的并联部分，可能得到误导性的读数。
 
 ## 3. 专业词汇
 

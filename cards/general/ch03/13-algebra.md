@@ -16,6 +16,20 @@ Examples: Solve the following equations for the value N.
 
 3N = 21 To solve for N, divide both sides by 3. 3N ÷ 3 = 21 ÷ 3 N = 7 N + 17 = 59 To solve for N, subtract 17 from both sides. N + 17 – 17 = 59 – 17 N = 42 N – 22 = 100 To solve for N, add 22 to both sides. N – 22 + 22 = 100 + 22 N = 122 N 5 = 50 To solve for N, multiply both sides by 5. N × 5 = 50 × 5 N = 250
 
+### Order of Operation for Algebraic Equations
+
+1. Parentheses
+
+2. Exponents
+
+3. Multiplication
+
+4. Division
+
+5. Addition
+
+6. Subtraction
+
 ### Solving for a Variable
 
 Another application of algebra is to solve an equation for a given variable.
@@ -42,20 +56,6 @@ N = 64 + 36 – 4 + 39 + 5 + 21 + 3⁄4 4. Addition and Subtraction. Evaluate th
 
 X = 161 3⁄4 A commonly used acronym, PEMDAS, is used for remembering the order of operation in algebra. PEMDAS is an acronym for parentheses, exponents, multiplication, division, addition, and subtraction. To remember it, many use the sentence, “Please Excuse My Dear Aunt Sally.” Always remember, however, to multiply/divide or add/subtract in one sweep from left to right, not separately.
 
-### Order of Operation for Algebraic Equations
-
-1. Parentheses
-
-2. Exponents
-
-3. Multiplication
-
-4. Division
-
-5. Addition
-
-6. Subtraction
-
 ## 2. 中文翻译
 
 代数是数学的一个分支，它用字母或符号在公式和等式中表示变量。
@@ -69,6 +69,20 @@ X = 161 3⁄4 A commonly used acronym, PEMDAS, is used for remembering the order
 例：解下列方程，求 N 的值。
 
 3N = 21。为求 N，两边同除以 3：3N ÷ 3 = 21 ÷ 3，N = 7。N + 17 = 59。为求 N，两边同减 17：N + 17 – 17 = 59 – 17，N = 42。N – 22 = 100。为求 N，两边同加 22：N – 22 + 22 = 100 + 22，N = 122。N 5 = 50（原文此处为分数 N⁄5，分数线在抽文中丢失）。为求 N，两边同乘 5：N × 5 = 50 × 5，N = 250。
+
+### 代数等式的运算顺序
+
+1. 括号
+
+2. 指数
+
+3. 乘法
+
+4. 除法
+
+5. 加法
+
+6. 减法
 
 ### 解出某个变量
 
@@ -95,20 +109,6 @@ N = 64 + 36 – 4 + 3 × 13 + 5 + 84 ÷ 4 + 3⁄4。3. 乘法和除法。从左�
 N = 64 + 36 – 4 + 39 + 5 + 21 + 3⁄4。4. 加法和减法。从左到右依次算出所有的加法和减法。与上面一样，加减要在一步中从左到右完成。完成式中的加减后得：
 
 X = 161 3⁄4。PEMDAS 是常用的首字母缩写，用来记住代数中的运算顺序。PEMDAS 分别是括号、指数、乘法、除法、加法、减法六个英文词的首字母。为便于记忆，许多人用“Please Excuse My Dear Aunt Sally”这句话。但始终要记住：乘除或加减都要从左到右一次做完，不能分开做。
-
-### 代数等式的运算顺序
-
-1. 括号
-
-2. 指数
-
-3. 乘法
-
-4. 除法
-
-5. 加法
-
-6. 减法
 
 ## 3. 专业词汇
 

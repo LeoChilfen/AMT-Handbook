@@ -4,20 +4,6 @@
 
 ## 1. 原文
 
-### Making Maintenance Record Entries
-
-Title 14 of the CFR part 43, sections 43.9 and 43.11 require the technician to make appropriate entries of maintenance actions or inspection results in the aircraft maintenance record. How long those records must be kept is defined in 14 CFR part 91, section 91.417.
-
-Whenever maintenance, preventive maintenance, rebuilding, or alteration work occurs on an aircraft, airframe, aircraft engine, propeller, appliance, or component part, a maintenance record entry must be created. The importance of compliance with this requirement cannot be overemphasized. Complete and organized maintenance logs for an aircraft can have significant (and usually positive) effect during the buy/ sell negotiations of an aircraft. On the other hand, poorly organized and incomplete logs can have a detrimental effect upon the selling price of an aircraft.
-
-### Temporary Records—14 CFR Part 91 Section 91.417(a)(1) and (b)(1)
-
-These are records that must be kept by the owner until the work is repeated, superseded, or 1 year has transpired since the work was performed. These are typically records referring to maintenance, preventive maintenance, alteration, and all inspections. They include a description of the work performed (or reference to the FAA-accepted data); the date of completion; and the name, signature and certificate number of the person doing the RTS.
-
-### Permanent Records—14 CFR Part 91, Section 91.417(a)(2) and (b)(2)
-
-These records must be retained by the owner during the time they operate the aircraft. They are transferred with the aircraft at the time of sale. Typically, these are documents relating to total time in service, current status of life-limited parts, time since last overhaul, current inspection status, current status of applicable AD notes, and major alteration forms as required by 14 CFR part 43, section 43.9.
-
 ### Electronic Records
 
 During the last 25 years, the field of aviation maintenance has seen a significant change in the documentation requirements for aircraft and related parts. Nowhere is that change seen as revolutionary as the introduction of electronic data and record retention. Just as the arrival of the personal computer placed the possibility of the power and versatility of a computer in the hands of the average person, it made it available to the maintenance technician. Initially some technicians developed their own programs for listing data (TCDS, AD notes, and so forth), but soon commercially available programs were developed. Basically, these were developed by either one of the following two groups:
@@ -58,21 +44,21 @@ Although some large shops and certified repair stations may have a separate grou
 
 Since no program can be considered the best, the technician must learn all they can about the numerous systems that exist. Exposure to the pros and cons of these different systems can be one of the benefits of attending various trade shows, maintenance seminars, or IA renewal sessions. Continuous learning and personal improvement is the goal of every professional maintenance technician.
 
+### Making Maintenance Record Entries
+
+Title 14 of the CFR part 43, sections 43.9 and 43.11 require the technician to make appropriate entries of maintenance actions or inspection results in the aircraft maintenance record. How long those records must be kept is defined in 14 CFR part 91, section 91.417.
+
+Whenever maintenance, preventive maintenance, rebuilding, or alteration work occurs on an aircraft, airframe, aircraft engine, propeller, appliance, or component part, a maintenance record entry must be created. The importance of compliance with this requirement cannot be overemphasized. Complete and organized maintenance logs for an aircraft can have significant (and usually positive) effect during the buy/ sell negotiations of an aircraft. On the other hand, poorly organized and incomplete logs can have a detrimental effect upon the selling price of an aircraft.
+
+### Temporary Records—14 CFR Part 91 Section 91.417(a)(1) and (b)(1)
+
+These are records that must be kept by the owner until the work is repeated, superseded, or 1 year has transpired since the work was performed. These are typically records referring to maintenance, preventive maintenance, alteration, and all inspections. They include a description of the work performed (or reference to the FAA-accepted data); the date of completion; and the name, signature and certificate number of the person doing the RTS.
+
+### Permanent Records—14 CFR Part 91, Section 91.417(a)(2) and (b)(2)
+
+These records must be retained by the owner during the time they operate the aircraft. They are transferred with the aircraft at the time of sale. Typically, these are documents relating to total time in service, current status of life-limited parts, time since last overhaul, current inspection status, current status of applicable AD notes, and major alteration forms as required by 14 CFR part 43, section 43.9.
+
 ## 2. 中文翻译
-
-### 填写维修记录条目
-
-《联邦法规汇编》第 14 编 part 43 第 43.9 条和第 43.11 条要求技术人员在航空器维修记录中对维修措施或检查结果作出适当记录。这些记录必须保存多久，由 14 CFR part 91 第 91.417 条规定。
-
-每当对航空器、机体、航空器发动机、螺旋桨、附件或零部件实施维修、预防性维修、翻修或改装，都必须建立维修记录条目。遵守这一要求的重要性，怎么强调都不为过。一架航空器完整而条理清晰的维修记录册，在买卖谈判中能产生重大（且通常是正面的）影响；反之，条理差、不完整的记录册则会对航空器售价产生不利影响。
-
-### 临时记录——14 CFR part 91 第 91.417(a)(1) 和 (b)(1) 条
-
-这类记录须由所有人保存，直至该工作被重复、被取代，或自工作完成起满 1 年。这类记录通常涉及维修、预防性维修、改装以及全部检查。记录内容包括所完成工作的说明（或对 FAA 认可数据的引用）、完成日期，以及实施恢复使用（RTS）人员的姓名、签名和证书编号。
-
-### 永久记录——14 CFR part 91 第 91.417(a)(2) 和 (b)(2) 条
-
-这类记录必须由所有人在其运行该航空器的期间保存，并在出售时随航空器一并移交。通常，这些文件涉及总使用时间、寿命限制件的当前状态、上次大修以来的时间、当前检查状态、适用 AD 通告的当前状态，以及 14 CFR part 43 第 43.9 条所要求的重大改装表格。
 
 ### 电子记录
 
@@ -113,6 +99,20 @@ Since no program can be considered the best, the technician must learn all they 
 • 它能否预告到期需维修或检查的项目？
 
 由于没有哪个程序可以算是最好的，技术人员必须尽可能多地了解现有的众多系统。接触这些不同系统的优缺点，可以是参加各类行业展会、维修研讨会或 IA 复训班的一项收获。持续学习和个人提升是每一位专业维修技术人员的目标。
+
+### 填写维修记录条目
+
+《联邦法规汇编》第 14 编 part 43 第 43.9 条和第 43.11 条要求技术人员在航空器维修记录中对维修措施或检查结果作出适当记录。这些记录必须保存多久，由 14 CFR part 91 第 91.417 条规定。
+
+每当对航空器、机体、航空器发动机、螺旋桨、附件或零部件实施维修、预防性维修、翻修或改装，都必须建立维修记录条目。遵守这一要求的重要性，怎么强调都不为过。一架航空器完整而条理清晰的维修记录册，在买卖谈判中能产生重大（且通常是正面的）影响；反之，条理差、不完整的记录册则会对航空器售价产生不利影响。
+
+### 临时记录——14 CFR part 91 第 91.417(a)(1) 和 (b)(1) 条
+
+这类记录须由所有人保存，直至该工作被重复、被取代，或自工作完成起满 1 年。这类记录通常涉及维修、预防性维修、改装以及全部检查。记录内容包括所完成工作的说明（或对 FAA 认可数据的引用）、完成日期，以及实施恢复使用（RTS）人员的姓名、签名和证书编号。
+
+### 永久记录——14 CFR part 91 第 91.417(a)(2) 和 (b)(2) 条
+
+这类记录必须由所有人在其运行该航空器的期间保存，并在出售时随航空器一并移交。通常，这些文件涉及总使用时间、寿命限制件的当前状态、上次大修以来的时间、当前检查状态、适用 AD 通告的当前状态，以及 14 CFR part 43 第 43.9 条所要求的重大改装表格。
 
 ## 3. 专业词汇
 

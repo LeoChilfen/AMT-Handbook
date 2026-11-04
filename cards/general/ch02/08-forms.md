@@ -4,30 +4,6 @@
 
 ## 1. 原文
 
-### Airworthiness Certificates
-
-In addition to the registration certificate that indicates the ownership of an aircraft, an airworthiness certificate indicates the airworthiness of the aircraft. AC 21-12, Application for U.S. Airworthiness Certificate, FAA Form 8130-6, is a comprehensive guide for the completion of the application form for this certificate. There are two certificates: standard and special.
-
-• Recommended overhaul periods
-
-• Details for an inspection program that identifies both the frequency and the extent of the inspections necessary to provide for continued airworthiness
-
-• Troubleshooting information
-
-• The order and method for proper removal and replacement of parts
-
-• Procedures for system testing during ground operations
-
-• Diagrams for structural access plates
-
-• Details for application of special inspection techniques
-
-• Information concerning the application of protective treatments after inspection
-
-• Information relative to the structural fasteners
-
-• List of any special tools needed
-
 ### Airworthiness Limitations
 
 The ICA must contain a separate and clearly distinguishable section titled “Airworthiness Limitations.” Within this section are mandatory replacement times, structural inspection interval, and related inspection procedures.
@@ -53,6 +29,30 @@ FAA Form 8130-7, Special Airworthiness Certificate, may be issued to authorize t
 • Provisional
 
 Airworthiness certificates may be issued by either FAA personnel or FAA designees. Refer to 14 CFR part 183, sections 183.31 and 183.33. The certificate must not only be on board the aircraft (14 CFR part 91, section 91.203(a)(1)), but must also be “displayed at the cabin or flight deck entrance so that it is legible to the passengers or crew” 14 CFR part 91, (section 91.203(b)). Since the ability to obtain this certificate is based upon the requirement to inspect the aircraft to determine that it conforms to type design and is in condition for safe operation, it can also be revoked by the FAA if either of those two requirements ceases to exist.
+
+### Airworthiness Certificates
+
+In addition to the registration certificate that indicates the ownership of an aircraft, an airworthiness certificate indicates the airworthiness of the aircraft. AC 21-12, Application for U.S. Airworthiness Certificate, FAA Form 8130-6, is a comprehensive guide for the completion of the application form for this certificate. There are two certificates: standard and special.
+
+• Recommended overhaul periods
+
+• Details for an inspection program that identifies both the frequency and the extent of the inspections necessary to provide for continued airworthiness
+
+• Troubleshooting information
+
+• The order and method for proper removal and replacement of parts
+
+• Procedures for system testing during ground operations
+
+• Diagrams for structural access plates
+
+• Details for application of special inspection techniques
+
+• Information concerning the application of protective treatments after inspection
+
+• Information relative to the structural fasteners
+
+• List of any special tools needed
 
 ### Aircraft Registration
 
@@ -98,30 +98,6 @@ The form must be completed at least in duplicate, with the original provided to 
 
 ## 2. 中文翻译
 
-### 适航证书
-
-除表明航空器所有权的登记证书外，适航证书表明航空器的适航性。AC 21-12《美国适航证书申请》（申请表为 FAA Form 8130-6）是填写该证书申请表的完整指南。该证书分两类：标准类和特别类。
-
-• 建议的大修周期
-
-• 检查大纲的详细内容，既规定检查频次，也规定为保持持续适航所必需的检查范围
-
-• 故障排除信息
-
-• 正确拆卸与更换部件的顺序和方法
-
-• 地面运行期间的系统测试程序
-
-• 结构检查口盖的示意图
-
-• 应用特殊检查技术的详细说明
-
-• 检查后施加防护处理的有关信息
-
-• 有关结构紧固件的信息
-
-• 所需专用工具的清单
-
 ### 适航限制
 
 ICA 必须包含一个单独且清晰可辨的章节，标题为「适航限制」。该章节内载有强制性更换时间、结构检查间隔及相关检查程序。
@@ -147,6 +123,30 @@ FAA Form 8130-7《特殊适航证书》可以签发给航空器，授权其在�
 • 临时适航证书
 
 适航证书可由 FAA 人员或 FAA 委任代表签发。参见 14 CFR part 183 第 183.31 条和第 183.33 条。该证书不仅必须随机携带（14 CFR part 91 第 91.203(a)（1）），还必须「张贴在客舱或驾驶舱入口处，使乘客或机组可读」（14 CFR part 91 第 91.203(b) 条）。由于取得该证书的前提是对航空器实施检查，确认其符合型号设计并处于安全运行状态，一旦这两项要求中有任何一项不再成立，FAA 也可以吊销该证书。
+
+### 适航证书
+
+除表明航空器所有权的登记证书外，适航证书表明航空器的适航性。AC 21-12《美国适航证书申请》（申请表为 FAA Form 8130-6）是填写该证书申请表的完整指南。该证书分两类：标准类和特别类。
+
+• 建议的大修周期
+
+• 检查大纲的详细内容，既规定检查频次，也规定为保持持续适航所必需的检查范围
+
+• 故障排除信息
+
+• 正确拆卸与更换部件的顺序和方法
+
+• 地面运行期间的系统测试程序
+
+• 结构检查口盖的示意图
+
+• 应用特殊检查技术的详细说明
+
+• 检查后施加防护处理的有关信息
+
+• 有关结构紧固件的信息
+
+• 所需专用工具的清单
 
 ### 航空器登记
 

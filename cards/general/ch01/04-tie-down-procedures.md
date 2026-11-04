@@ -4,35 +4,7 @@
 
 ## 1. 原文
 
-### Preparation of Aircraft
-
-Aircraft are to be tied down after each flight to prevent damage from sudden storms. The direction that aircraft are to be parked and tied down is determined by prevailing or forecast wind direction.
-
-Aircraft are to be headed into the wind, depending on the locations of the parking area’s fixed tie-down points. Spacing of tie-downs need to allow for ample wingtip clearance. After the aircraft is properly located, lock the nosewheel or the tail wheel in the fore-and-aft position.
-
 ### Tie-Down Procedures for Land Planes
-
-#### Securing Light Aircraft
-
-Light aircraft are most often secured with ropes tied only at the aircraft tie-down rings provided for securing purposes. Rope is never to be tied to a lift strut, since this practice can bend a strut if the rope slips to a point where there is no slack. Since manila rope shrinks when wet, about 1 inch (1") of slack needs to be provided for movement. Too much slack, however, allows the aircraft to jerk against the ropes. Tight tie-down ropes put inverted flight stresses on the aircraft and many are not designed to take such loads.
-
-A tie-down rope holds no better than the knot. Anti-slip knots, such as the bowline, are quickly tied and are easy to untie. Aircraft not equipped with tie-down fittings must be secured in accordance with the manufacturer’s instructions. Ropes are to be tied to outer ends of struts on high-wing monoplanes and suitable rings provided where structural conditions permit, if the manufacturer has not already provided them.
-
-#### Securing Heavy Aircraft
-
-The normal tie-down procedure for heavy aircraft can be accomplished with rope or cable tie-down. The number of tie-downs are governed by anticipated weather conditions.
-
-Most heavy aircraft are equipped with surface control locks that are engaged or installed when the aircraft is secured. Since the method of locking controls vary on different types of aircraft, check the manufacturer’s instructions for proper installation or engaging procedures. If high winds are anticipated, control surface battens can also be installed to prevent damage.
-
-The normal tie-down procedure for heavy aircraft includes the following:
-
-1. Head aircraft into prevailing wind whenever possible.
-
-2. Install control locks, all covers, and guards.
-
-3. Chock all wheels fore and aft.
-
-4. Attach tie-down reels to aircraft tie-down loops, tie-down anchors, or tie-down stakes. Use tie-down stakes for temporary tie-down only. If tie-down reels are not available, 1⁄4" wire cable or 1 1⁄2" manila line may be used.
 
 ### Tie-Down Procedures for Seaplanes
 
@@ -62,6 +34,34 @@ Typical mooring procedures are as follows:
 
 5. Fasten the tie-down ropes or cables to the forward and aft landing gear cross tubes and secure to ground stakes or tie-down rings.
 
+### Preparation of Aircraft
+
+Aircraft are to be tied down after each flight to prevent damage from sudden storms. The direction that aircraft are to be parked and tied down is determined by prevailing or forecast wind direction.
+
+Aircraft are to be headed into the wind, depending on the locations of the parking area’s fixed tie-down points. Spacing of tie-downs need to allow for ample wingtip clearance. After the aircraft is properly located, lock the nosewheel or the tail wheel in the fore-and-aft position.
+
+#### Securing Light Aircraft
+
+Light aircraft are most often secured with ropes tied only at the aircraft tie-down rings provided for securing purposes. Rope is never to be tied to a lift strut, since this practice can bend a strut if the rope slips to a point where there is no slack. Since manila rope shrinks when wet, about 1 inch (1") of slack needs to be provided for movement. Too much slack, however, allows the aircraft to jerk against the ropes. Tight tie-down ropes put inverted flight stresses on the aircraft and many are not designed to take such loads.
+
+A tie-down rope holds no better than the knot. Anti-slip knots, such as the bowline, are quickly tied and are easy to untie. Aircraft not equipped with tie-down fittings must be secured in accordance with the manufacturer’s instructions. Ropes are to be tied to outer ends of struts on high-wing monoplanes and suitable rings provided where structural conditions permit, if the manufacturer has not already provided them.
+
+#### Securing Heavy Aircraft
+
+The normal tie-down procedure for heavy aircraft can be accomplished with rope or cable tie-down. The number of tie-downs are governed by anticipated weather conditions.
+
+Most heavy aircraft are equipped with surface control locks that are engaged or installed when the aircraft is secured. Since the method of locking controls vary on different types of aircraft, check the manufacturer’s instructions for proper installation or engaging procedures. If high winds are anticipated, control surface battens can also be installed to prevent damage.
+
+The normal tie-down procedure for heavy aircraft includes the following:
+
+1. Head aircraft into prevailing wind whenever possible.
+
+2. Install control locks, all covers, and guards.
+
+3. Chock all wheels fore and aft.
+
+4. Attach tie-down reels to aircraft tie-down loops, tie-down anchors, or tie-down stakes. Use tie-down stakes for temporary tie-down only. If tie-down reels are not available, 1⁄4" wire cable or 1 1⁄2" manila line may be used.
+
 ### Procedures for Securing Weight-Shift-Control
 
 There are many types of weight-shift-controlled aircraft— engine powered and non-powered. These types of aircraft are very susceptible to wind damage. The wings can be secured in a similar manner as a conventional aircraft in light winds. In high winds, the mast can be disconnected from the wing and the wing placed close to the ground and secured. This type of aircraft can also be partially disassembled or moved into a hangar for protection.
@@ -72,35 +72,7 @@ When securing powered parachutes, pack the parachute in a bag to prevent the chu
 
 ## 2. 中文翻译
 
-### 飞机准备
-
-每次飞行后都应系留飞机，以防突发风暴造成损坏。飞机停放和系留的方向由主导风向或预报风向确定。
-
-飞机机头应迎风，具体取决于停机坪固定系留点的位置。系留点间距应留出充足的翼尖间隙。飞机就位后，将前轮或尾轮锁定在前后（纵向）位置。
-
 ### 陆上飞机的系留程序
-
-#### 轻型飞机的系留
-
-轻型飞机通常只用绳索系留，且绳索只系在飞机上专为系留设置的系留环处。绳索绝不能系在升力支柱上，因为一旦绳索滑到没有余量的位置，这种做法会把支柱拉弯。马尼拉绳受潮后会收缩，因此需留出约 1 英寸（1"）的松弛量供其活动。但松弛量过大，飞机会在绳索之间猛烈晃动。系留绳绷得过紧会给飞机施加倒飞应力，而许多飞机并非按承受这类载荷设计的。
-
-系留绳牢固与否，全看绳结打得如何。防滑绳结（如单套结）打起来快，也容易解开。未装系留附件的飞机必须按制造商的说明进行系留。对于上单翼飞机，若制造商尚未提供系留点，绳索应系在支柱外端；在结构条件允许处，应设置合适的系留环。
-
-#### 重型飞机的系留
-
-重型飞机的常规系留程序可用绳索或钢索系留完成。系留点数量取决于预计的天气条件。
-
-大多数重型飞机装有操纵面锁，在系留飞机时接合或安装到位。由于不同机型的操纵面锁定方法不同，应查阅制造商说明以了解正确的安装或接合程序。若预计有大风，还可安装操纵面夹板以防损坏。
-
-重型飞机的常规系留程序包括以下步骤：
-
-1. 尽可能使飞机机头迎主导风。
-
-2. 安装操纵面锁、所有盖罩和护罩。
-
-3. 在所有机轮的前后加轮挡。
-
-4. 将系留绞盘（系留索卷盘）连接到飞机系留环、地锚或系留桩上。系留桩仅用于临时系留。若无系留绞盘，可使用 1/4" 钢丝绳或 1 1/2" 马尼拉绳。
 
 ### 水上飞机的系留程序
 
@@ -129,6 +101,34 @@ When securing powered parachutes, pack the parachute in a bag to prevent the chu
 4. 按直升机制造商规定的方位对齐桨叶并安装系留组件。系带应系紧但不受拉力；潮湿天气时需留出一定松弛量，以免系带收缩，给飞机和/或其旋翼系统带来过大应力。
 
 5. 将系留绳或钢索固定到前、后起落架横管上，并固定到地桩或系留环上。
+
+### 飞机准备
+
+每次飞行后都应系留飞机，以防突发风暴造成损坏。飞机停放和系留的方向由主导风向或预报风向确定。
+
+飞机机头应迎风，具体取决于停机坪固定系留点的位置。系留点间距应留出充足的翼尖间隙。飞机就位后，将前轮或尾轮锁定在前后（纵向）位置。
+
+#### 轻型飞机的系留
+
+轻型飞机通常只用绳索系留，且绳索只系在飞机上专为系留设置的系留环处。绳索绝不能系在升力支柱上，因为一旦绳索滑到没有余量的位置，这种做法会把支柱拉弯。马尼拉绳受潮后会收缩，因此需留出约 1 英寸（1"）的松弛量供其活动。但松弛量过大，飞机会在绳索之间猛烈晃动。系留绳绷得过紧会给飞机施加倒飞应力，而许多飞机并非按承受这类载荷设计的。
+
+系留绳牢固与否，全看绳结打得如何。防滑绳结（如单套结）打起来快，也容易解开。未装系留附件的飞机必须按制造商的说明进行系留。对于上单翼飞机，若制造商尚未提供系留点，绳索应系在支柱外端；在结构条件允许处，应设置合适的系留环。
+
+#### 重型飞机的系留
+
+重型飞机的常规系留程序可用绳索或钢索系留完成。系留点数量取决于预计的天气条件。
+
+大多数重型飞机装有操纵面锁，在系留飞机时接合或安装到位。由于不同机型的操纵面锁定方法不同，应查阅制造商说明以了解正确的安装或接合程序。若预计有大风，还可安装操纵面夹板以防损坏。
+
+重型飞机的常规系留程序包括以下步骤：
+
+1. 尽可能使飞机机头迎主导风。
+
+2. 安装操纵面锁、所有盖罩和护罩。
+
+3. 在所有机轮的前后加轮挡。
+
+4. 将系留绞盘（系留索卷盘）连接到飞机系留环、地锚或系留桩上。系留桩仅用于临时系留。若无系留绞盘，可使用 1/4" 钢丝绳或 1 1/2" 马尼拉绳。
 
 ### 重量转移操纵飞机的固定程序
 

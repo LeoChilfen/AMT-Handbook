@@ -176,10 +176,6 @@ Current transformers are used in AC power supply systems to sense generator line
 
 The current transformer is a ring-type transformer using a current carrying power lead as a primary (either the power lead or the ground lead of the AC generator). The current in the primary induces a current in the secondary by magnetic induction. The sides of all current transformers are marked “H1” and “H2” on the unit base. The transformers must be installed with the “H1” side toward the generator in the circuit in order to have proper polarity. The secondary of the transformer should never be left open while the system is being operated; to do so could cause dangerously high voltages and could overheat the transformer. Therefore, the transformer output connections should always be connected with a jumper when the transformer is not being used but is left in the system.
 
-### Transformer Losses
-
-In addition to the power loss caused by imperfect coupling, transformers are subject to “copper” and “iron” losses. The resistance of the conductor comprising the turns of the coil causes copper loss. The iron losses are of two types: hysteresis loss and eddy current loss. Hysteresis loss is the electrical energy required to magnetize the transformer core, first in one direction and then in the other, in step with the applied alternating voltage. Eddy current loss is caused by electric currents (eddy currents) induced in the transformer core by the varying magnetic fields. To reduce eddy current losses, cores are made of laminations coated with an insulation, which reduces the circulation of induced currents.
-
 ### Power in Transformers
 
 Since a transformer does not add any electricity to the circuit but merely changes or transforms the electricity that already exists in the circuit from one voltage to another, the total amount of energy in a circuit must remain the same. If it were possible to construct a perfect transformer, there would be no loss of power in it; power would be transferred undiminished from one voltage to another.
@@ -187,6 +183,10 @@ Since a transformer does not add any electricity to the circuit but merely chang
 Since power is the product of volts times amperes, an increase in voltage by the transformer must result in a decrease in current and vice versa. There cannot be more power in the secondary side of a transformer than there is in the primary. The product of amperes times volts remains the same.
 
 The transmission of power over long distances is accomplished by using transformers. At the power source, the voltage is stepped up in order to reduce the line loss during transmission. At the point of utilization, the voltage is stepped down, since it is not feasible to use high voltage to operate motors, lights, or other electrical appliances.
+
+### Transformer Losses
+
+In addition to the power loss caused by imperfect coupling, transformers are subject to “copper” and “iron” losses. The resistance of the conductor comprising the turns of the coil causes copper loss. The iron losses are of two types: hysteresis loss and eddy current loss. Hysteresis loss is the electrical energy required to magnetize the transformer core, first in one direction and then in the other, in step with the applied alternating voltage. Eddy current loss is caused by electric currents (eddy currents) induced in the transformer core by the varying magnetic fields. To reduce eddy current losses, cores are made of laminations coated with an insulation, which reduces the circulation of induced currents.
 
 ## 2. 中文翻译
 
@@ -362,10 +362,6 @@ E2 = E1 N2 N1　最常用的电压变压器类型有：
 
 电流互感器是一种环形变压器，用一根载流电源线作为一次侧（交流发电机的电源线或接地线）。一次侧电流通过磁感应，在二次侧感应出电流。所有电流互感器的底座上都标有「H1」和「H2」。安装时必须使「H1」一侧朝向电路中的发电机，以获得正确的极性。系统运行时，绝不能让互感器的二次侧开路；否则可能产生危险的高压，并可能使互感器过热。因此，当互感器不使用时仍留在系统中，其输出端应始终用跨接线短接。
 
-### 变压器的损耗
-
-除了耦合不完善引起的功率损耗之外，变压器还会发生「铜损」和「铁损」。构成线圈各匝的导体的电阻引起铜损。铁损有两种：磁滞损耗和涡流损耗。磁滞损耗是使变压器铁芯随所加交变电压先向一个方向、再向另一个方向磁化所需的电能。涡流损耗是由变化磁场在变压器铁芯中感应的电流（涡流）引起的。为减小涡流损耗，铁芯用涂有绝缘层的叠片制成，从而减小感应电流的环流。
-
 ### 变压器中的功率
 
 由于变压器并不给电路增加任何电能，而只是把电路中已有的电能从一种电压改变或变换为另一种电压，所以电路中的总能量必定保持不变。如果能够造出理想的变压器，其中就没有功率损耗；功率会不减地从一个电压传递到另一个电压。
@@ -373,6 +369,10 @@ E2 = E1 N2 N1　最常用的电压变压器类型有：
 由于功率是伏特与安培的乘积，变压器升高电压必然导致电流减小，反之亦然。变压器二次侧的功率不可能大于一次侧的功率。安培与伏特的乘积保持不变。
 
 远距离输电是借助变压器实现的。在电源处升高电压，以减小输电过程中的线路损耗。在使用地点再降低电压，因为用高压来驱动电动机、照明或其他电器是不现实的。
+
+### 变压器的损耗
+
+除了耦合不完善引起的功率损耗之外，变压器还会发生「铜损」和「铁损」。构成线圈各匝的导体的电阻引起铜损。铁损有两种：磁滞损耗和涡流损耗。磁滞损耗是使变压器铁芯随所加交变电压先向一个方向、再向另一个方向磁化所需的电能。涡流损耗是由变化磁场在变压器铁芯中感应的电流（涡流）引起的。为减小涡流损耗，铁芯用涂有绝缘层的叠片制成，从而减小感应电流的环流。
 
 ## 3. 专业词汇
 

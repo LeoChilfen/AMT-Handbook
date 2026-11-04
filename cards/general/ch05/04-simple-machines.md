@@ -54,14 +54,6 @@ The fulcrum is at one end of the lever and the weight or resistance to be overco
 
 The Pulley Pulleys are simple machines in the form of a wheel mounted on a fixed axis and supported by a frame. The wheel, or disk, is normally grooved to accommodate a rope. The wheel is sometimes referred to as a “sheave,” or sometimes “sheaf.” The frame that supports the wheel is called a block. A block and tackle consists of a pair of blocks. Each block contains one or more pulleys and a rope connecting the pulley(s) of each block.
 
-#### Single Fixed Pulley
-
-A single fixed pulley is really a first class lever with equal arms. The arm from point “R” to point “F” is equal to the arm from point “F” to point “E,” with both distances being equal to the radius of the pulley. When a first class lever has equal arms, the mechanical advantage is 1. Thus, the force of the pull on the rope must be equal to the weight of the object being lifted. The only advantage of a single fixed pulley is to change the direction of the force, or pull on the rope.
-
-#### Single Movable Pulley
-
-A single pulley can be used to magnify the force exerted. The pulley is movable, and both ropes extending up from the pulley are sharing in the support of the weight. This single, movable pulley will act like a second class lever. The effort arm (EF) being the diameter of this pulley and the resistance arm (FR) being the radius of this pulley. This type of pulley would have a mechanical advantage of two because the diameter of the pulley is double the radius of the pulley. In use, if someone pulled in 4 ft of the effort rope, the weight would only rise off the floor 2 ft. If the weight was 100 lb, the effort concept of work. If it allows you to lift 5 times more weight, you will only move it 1⁄5 as far as you move the effort, because a lever cannot have more work output than input.
-
 #### Second Class Lever
 
 The second class lever has the fulcrum at one end and the effort is applied at the other end. The resistance is somewhere between these points. A wheelbarrow is a good example of a second class lever, with the wheel at one end being the fulcrum, the handles at the opposite end being the applied effort, and the bucket in the middle being where the weight or resistance is placed.
@@ -85,6 +77,14 @@ The end result is an increase in force, and ultimately torque. Bevel gears are u
 The worm gear has an extremely high mechanical advantage. The input force goes into the spiral worm gear, which drives the spur gear. One complete revolution of the worm gear only makes the spur gear move an amount equal to one tooth. The mechanical advantage is equal to the number of teeth on the spur gear, which in this case there are 25. This is a force gaining machine, to the tune of 25 times more output force.
 
 The planetary sun gear system is typical of what would be found in a propeller reduction gearbox. The power output shaft of the engine would drive the sun gear in the middle, applied would only need to be 50 lb. With this type of pulley, the effort will always be one-half of the weight being lifted.
+
+#### Single Fixed Pulley
+
+A single fixed pulley is really a first class lever with equal arms. The arm from point “R” to point “F” is equal to the arm from point “F” to point “E,” with both distances being equal to the radius of the pulley. When a first class lever has equal arms, the mechanical advantage is 1. Thus, the force of the pull on the rope must be equal to the weight of the object being lifted. The only advantage of a single fixed pulley is to change the direction of the force, or pull on the rope.
+
+#### Single Movable Pulley
+
+A single pulley can be used to magnify the force exerted. The pulley is movable, and both ropes extending up from the pulley are sharing in the support of the weight. This single, movable pulley will act like a second class lever. The effort arm (EF) being the diameter of this pulley and the resistance arm (FR) being the radius of this pulley. This type of pulley would have a mechanical advantage of two because the diameter of the pulley is double the radius of the pulley. In use, if someone pulled in 4 ft of the effort rope, the weight would only rise off the floor 2 ft. If the weight was 100 lb, the effort concept of work. If it allows you to lift 5 times more weight, you will only move it 1⁄5 as far as you move the effort, because a lever cannot have more work output than input.
 
 #### Block and Tackle
 
@@ -154,14 +154,6 @@ E × 60 in = 500 lb × 12 in E = 500 lb × 12 in ÷ 60 in E = 100 lb 本例中�
 
 滑轮 滑轮是简单机器的一种，外形是一个装在固定轴上、由框架支撑的轮子。这个轮子（或圆盘）通常开有沟槽以容纳绳索。这个轮子有时称为“滑轮”（sheave），有时写作“sheaf”。支撑轮子的框架称为滑轮架。滑轮组由一对滑轮架组成。每个滑轮架内有一个或多个滑轮，以及一根连接两架滑轮的绳索。
 
-#### 单定滑轮
-
-单定滑轮实际上就是臂长相等的第一类杠杆。从“R”点到“F”点的臂等于从“F”点到“E”点的臂，两者都等于滑轮的半径。当第一类杠杆的两臂相等时，机械效益为 1。因此，绳上拉力的大小必须等于被吊起物体的重量。单定滑轮的唯一优点是改变力的方向，即改变绳上拉力的方向。
-
-#### 单动滑轮
-
-单个滑轮可用来放大所施加的力。滑轮是可动的，从滑轮向上伸出的两根绳子共同承担支撑重量。这个单动滑轮的作用如同第二类杠杆：施力臂（EF）是该滑轮的直径，阻力臂（FR）是该滑轮的半径。这类滑轮的机械效益为 2，因为滑轮的直径是其半径的两倍。使用时，如果拉进 4 ft 的施力绳，重物只会离地上升 2 ft。如果重物为 100 lb，所需的力就……（此处夹有错位的文字，排在本卡靠后）……功的概念。如果它能让你举起 5 倍重的物体，你就只能把它移动你所移动施力距离的 1/5，因为杠杆的功输出不可能大于输入。
-
 #### 第二类杠杆
 
 第二类杠杆的支点在一端，施力施加在另一端，阻力位于这两点之间。手推车是第二类杠杆的好例子：一端的轮子是支点，另一端的手柄是所施加的力，中间的斗是放置重量或阻力之处。
@@ -185,6 +177,14 @@ E × 60 inches = 300 lb × 18 in E = 300 lb × 18 in ÷ 60 in E = 90 lb 本例�
 蜗轮蜗杆具有极高的机械效益。输入的力进入螺旋形的蜗杆，蜗杆驱动直齿轮。蜗杆每转一整圈，直齿轮只移动相当于一个齿的距离。机械效益等于直齿轮的齿数，此例中为 25。这是一种增力机器，输出力可增大到 25 倍。
 
 行星太阳齿轮系统是螺旋桨减速齿轮箱中的典型结构。发动机的动力输出轴驱动位于中间的太阳轮，……（此处夹有前一段滑轮内容的错位文字）……用这种滑轮时，作用力总是被吊起重量的一半。
+
+#### 单定滑轮
+
+单定滑轮实际上就是臂长相等的第一类杠杆。从“R”点到“F”点的臂等于从“F”点到“E”点的臂，两者都等于滑轮的半径。当第一类杠杆的两臂相等时，机械效益为 1。因此，绳上拉力的大小必须等于被吊起物体的重量。单定滑轮的唯一优点是改变力的方向，即改变绳上拉力的方向。
+
+#### 单动滑轮
+
+单个滑轮可用来放大所施加的力。滑轮是可动的，从滑轮向上伸出的两根绳子共同承担支撑重量。这个单动滑轮的作用如同第二类杠杆：施力臂（EF）是该滑轮的直径，阻力臂（FR）是该滑轮的半径。这类滑轮的机械效益为 2，因为滑轮的直径是其半径的两倍。使用时，如果拉进 4 ft 的施力绳，重物只会离地上升 2 ft。如果重物为 100 lb，所需的力就……（此处夹有错位的文字，排在本卡靠后）……功的概念。如果它能让你举起 5 倍重的物体，你就只能把它移动你所移动施力距离的 1/5，因为杠杆的功输出不可能大于输入。
 
 #### 滑轮组
 

@@ -28,6 +28,10 @@ Notice that some part number codes consist of a “6,” an “8,” or a “10,
 
 An example of a part number code is: 10KB106 10 = Grip length KB = Closed end and key 106 = Screw and thread size
 
+### Sealing Nut Plates
+
+When securing nut plates in pressurized aircraft and in fuel cells, a sealing nut plate is used instead of the open-ended variety previously described. Care must be taken to use exactly the correct length of bolt or screw. If a bolt or screw is too short, there is not enough threads to hold the device in place. If the bolt or screw is too long, it penetrates the back side of the nut plate and compromises the seal. Normally, a sealant is also used to ensure complete sealing of the nut plate. Check the manufacturer’s specifications for the acceptable sealant to be used for sealing nut plates.
+
 ### Dill Lok-Skrus and Dill Lok-Rivets
 
 Dill “Lok-Skru” and “Lok-Rivet” are trade names for internally-threaded rivets. They are used for blind attachment of accessories, such as fairings, fillets, access door covers, door and window frames, floor panels, and the like. Lok- Skrus and Lok-Rivets are like the Rivnut in appearance and application; however, they come in two parts and require more clearance on the blind side than the Rivnut to accommodate the barrel.
@@ -41,10 +45,6 @@ This rivet is a high-strength blind rivet used on late model aircraft. It has a 
 The Deutsch rivet is available in diameters of 3⁄16, 1⁄4, or 3⁄8 inch. Grip lengths for this rivet range from 3⁄16 to 1 inch. Some variation is allowed in grip length when installing the rivet. For example, a rivet with a grip length of 3⁄16 inch can be used where the total thickness of materials is between 0.198 and 0.228 inch.
 
 When driving a Deutsch rivet, an ordinary hammer or a pneumatic rivet gun and a flathead set are used. The rivet is seated in the previously drilled hole, and then the pin is driven into the sleeve. The driving action causes the pin to exert pressure against the sleeve and forces the sides of the sleeve out. This stretching forms a shop head on the end of the rivet and provides positive fastening. The ridge on the top of the rivet head locks the pin into the rivet as the last few blows are struck.
-
-### Sealing Nut Plates
-
-When securing nut plates in pressurized aircraft and in fuel cells, a sealing nut plate is used instead of the open-ended variety previously described. Care must be taken to use exactly the correct length of bolt or screw. If a bolt or screw is too short, there is not enough threads to hold the device in place. If the bolt or screw is too long, it penetrates the back side of the nut plate and compromises the seal. Normally, a sealant is also used to ensure complete sealing of the nut plate. Check the manufacturer’s specifications for the acceptable sealant to be used for sealing nut plates.
 
 ## 2. 中文翻译
 
@@ -72,6 +72,10 @@ Rivnut 制有六个夹持长度范围。最小夹持长度由平头表示，次�
 
 件号代码的一个例子是：10KB106　10 = 夹持长度　KB = 封闭端并带键　106 = 螺钉与螺纹规格
 
+### 密封托板螺母
+
+在增压飞机和燃油箱内固定托板螺母时，使用密封托板螺母，而不是前面所述的开口型。必须注意选用长度完全正确的螺栓或螺钉。如果螺栓或螺钉太短，螺纹不足以把器件固定到位；如果太长，则会穿透托板螺母的背面，破坏密封。通常还要使用密封胶，以确保托板螺母完全密封。密封托板螺母应使用何种密封胶，请查阅制造商的规范。
+
 ### Dill Lok-Skru 与 Dill Lok-Rivet
 
 Dill「Lok-Skru」和「Lok-Rivet」是内螺纹铆钉的商名。它们用于从盲侧连接附件，例如整流片、整流包角（fillet）、检修门口盖、门窗框、地板等。Lok-Skru 和 Lok-Rivet 在外观与用途上与 Rivnut 相似；但它们由两个零件组成，盲侧所需间隙比 Rivnut 大，以容纳套筒（barrel）。
@@ -85,10 +89,6 @@ Lok-Skru 的主要零件是套筒、头部和安装螺钉。套筒由铝合金�
 Deutsch 铆钉有 3⁄16、1⁄4 或 3⁄8 英寸直径。该铆钉的夹持长度为 3⁄16 至 1 英寸。安装时夹持长度允许有一定变化。例如，夹持长度为 3⁄16 英寸的铆钉可用于材料总厚度在 0.198 至 0.228 英寸之间的部位。
 
 镦打 Deutsch 铆钉时，使用普通锤子或气动铆枪加平头冲模（flathead set）。先把铆钉放入已钻好的孔中，然后把销打入套筒。镦打动作使销对套筒施加压力，把套筒两侧挤开。这种拉伸在铆钉端部形成工厂头（shop head），实现可靠的紧固。最后几下敲击时，铆钉头顶部的凸脊把销锁紧在铆钉内。
-
-### 密封托板螺母
-
-在增压飞机和燃油箱内固定托板螺母时，使用密封托板螺母，而不是前面所述的开口型。必须注意选用长度完全正确的螺栓或螺钉。如果螺栓或螺钉太短，螺纹不足以把器件固定到位；如果太长，则会穿透托板螺母的背面，破坏密封。通常还要使用密封胶，以确保托板螺母完全密封。密封托板螺母应使用何种密封胶，请查阅制造商的规范。
 
 ## 3. 专业词汇
 

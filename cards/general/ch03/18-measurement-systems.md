@@ -4,14 +4,6 @@
 
 ## 1. 原文
 
-### Conventional (U.S. or English) System
-
-Our conventional (U.S. or English) system of measurement is part of our cultural heritage from the days when the thirteen colonies were under British rule. It started as a collection of Anglo-Saxon, Roman, and Norman-French weights and measures. For example, the inch represents the width of the thumb and the foot is from the length of the human foot. Tradition holds that King Henry I decreed that the yard should be the distance from the tip of his nose to the end of his thumb. Since medieval times, commissions appointed by various English monarchs have reduced the chaos of measurement by setting specific standards for some of the most important units. Some of the conventional units of measure are: inches, feet, yards, miles, ounces, pints, gallons, and pounds. Because the conventional system was not set up systematically, it contains a random collection of conversions. For example, 1 mile = 5,280 feet and 1 foot = 12 inches.
-
-The metric system, also known as the International System of Units (SI), is the dominant language of measurement used today. Its standardization and decimal features make it well-suited for engineering and aviation work. The metric system was first envisioned by Gabriel Mouton, Vicar of St. Paul’s Church in Lyons, France. The meter is the unit of length in the metric system, and it is equal to one ten-millionth of the distance from the equator to the North Pole. The liter is the unit of volume and is equal to one cubic decimeter. The gram is the unit of mass and is equal to one cubic centimeter of water.
-
-All of the metric units follow a consistent naming scheme, which consists of attaching a prefix to the unit. For example, since kilo stands for 1,000, one kilometer equals 1,000 meters. Centi is the prefix for one hundredth, so one meter equals one hundred centimeters. Milli is the prefix for one thousandths and one gram equals one thousand milligrams.
-
 ### Measurement Systems & Conversions
 
 The United States primarily uses the conventional (U.S. or English) system, although it is slowly integrating the metric system (SI). A recommendation to transition to the metric system within ten years was initiated in the 1970s. However, this movement lost momentum, and the United States continues to use both measurement systems. Therefore, information to convert between the conventional (U.S. or English) system and the metric (SI) system has been included in Applied Mathematics Formula Sheet. Examples of its use are as follows:
@@ -20,15 +12,15 @@ To convert inches to millimeters, multiply the number of inches by 25.4. Example
 
 Example: 12 ounces = 12 × 28.35 = 340.2 grams Prefix Multiplier(Exponential) Multiplier(Numerical) MeaningSymbol exa (1018) giga (109) mega (106) quintillion quadrillion trillion billion million thousand hundred ten tenth hundredth thousandth millionth billionth trillionth quadrillionth quintillionth 1,000,000,000,000,000,000 1,000,000,000,000,000 1,000,000,000,000 1,000,000,000 1,000,000 1,000 100 10 0.1 0.01 0.001 0.000,001 0.000,000,001 0.000,000,000,001 0.000,000,000,000,001 0.000,000,000,000,000,001 E P T G M k h da 1 d c m µ n p f a Less Than 1 Greater Than 1
 
+### Conventional (U.S. or English) System
+
+Our conventional (U.S. or English) system of measurement is part of our cultural heritage from the days when the thirteen colonies were under British rule. It started as a collection of Anglo-Saxon, Roman, and Norman-French weights and measures. For example, the inch represents the width of the thumb and the foot is from the length of the human foot. Tradition holds that King Henry I decreed that the yard should be the distance from the tip of his nose to the end of his thumb. Since medieval times, commissions appointed by various English monarchs have reduced the chaos of measurement by setting specific standards for some of the most important units. Some of the conventional units of measure are: inches, feet, yards, miles, ounces, pints, gallons, and pounds. Because the conventional system was not set up systematically, it contains a random collection of conversions. For example, 1 mile = 5,280 feet and 1 foot = 12 inches.
+
+The metric system, also known as the International System of Units (SI), is the dominant language of measurement used today. Its standardization and decimal features make it well-suited for engineering and aviation work. The metric system was first envisioned by Gabriel Mouton, Vicar of St. Paul’s Church in Lyons, France. The meter is the unit of length in the metric system, and it is equal to one ten-millionth of the distance from the equator to the North Pole. The liter is the unit of volume and is equal to one cubic decimeter. The gram is the unit of mass and is equal to one cubic centimeter of water.
+
+All of the metric units follow a consistent naming scheme, which consists of attaching a prefix to the unit. For example, since kilo stands for 1,000, one kilometer equals 1,000 meters. Centi is the prefix for one hundredth, so one meter equals one hundred centimeters. Milli is the prefix for one thousandths and one gram equals one thousand milligrams.
+
 ## 2. 中文翻译
-
-### 英制（美国或英国）计量制
-
-我们所用的英制（美国或英国）计量制是文化传承的一部分，源自十三个殖民地在英国统治下的那段时期。它最初是盎格鲁-撒克逊、罗马和诺曼-法国度量衡的汇总。例如，英寸代表拇指的宽度，英尺则取自人脚的长度。传统上认为，亨利一世国王曾下令，一码应等于从他的鼻尖到他拇指末端的距离。自中世纪以来，多位英国君主委任的委员会为一些最重要的单位设定了具体标准，从而减少了计量上的混乱。英制的一些常用单位有：英寸、英尺、码、英里、盎司、品脱、加仑和磅。由于英制并非系统地建立起来，其中的换算关系是零散拼凑的。例如，1 英里 = 5,280 英尺，1 英尺 = 12 英寸。
-
-公制又称国际单位制（SI），是当今计量的主流语言。它的标准化与十进制特点使其非常适合工程和航空工作。公制最早由法国里昂圣保罗教堂的牧师加布里埃尔·穆顿（Gabriel Mouton）提出设想。米是公制中的长度单位，等于赤道到北极距离的一千万分之一。升是体积单位，等于一立方分米。克是质量单位，等于一立方厘米水的质量。
-
-所有公制单位都遵循一致的命名方式，即在单位前加一个词头。例如，由于 kilo 表示 1,000，所以一千米等于 1,000 米。centi 是百分之一的词头，因此一米等于一百厘米。milli 是千分之一的词头，一克等于一千毫克。
 
 ### 计量制与换算
 
@@ -37,6 +29,14 @@ Example: 12 ounces = 12 × 28.35 = 340.2 grams Prefix Multiplier(Exponential) Mu
 要把英寸换算为毫米，用英寸数乘以 25.4。例：20 英寸 = 20 × 25.4 = 508 mm 要把盎司换算为克，用盎司数乘以 28.35。
 
 例：12 盎司 = 12 × 28.35 = 340.2 克（原文此处混入表格表头与首行碎片：Prefix、Multiplier(Exponential)、Multiplier(Numerical)、Meaning、Symbol、exa (1018)，原文无完整句子。） （原文此处为词头表碎片：giga (109)、mega (106)，原文无正文。） （原文此处为词头表主体：quintillion、quadrillion、trillion、billion、million、thousand、hundred、ten、tenth、hundredth、thousandth、millionth、billionth、trillionth、quadrillionth、quintillionth，以及 1,000,000,000,000,000,000 至 0.000,000,000,000,000,001 的对应数值，符号栏为 E、P、T、G、M、k、h、da、1、d、c、m、µ、n、p、f、a，并标注 Less Than 1（小于 1）与 Greater Than 1（大于 1），原文无正文。）
+
+### 英制（美国或英国）计量制
+
+我们所用的英制（美国或英国）计量制是文化传承的一部分，源自十三个殖民地在英国统治下的那段时期。它最初是盎格鲁-撒克逊、罗马和诺曼-法国度量衡的汇总。例如，英寸代表拇指的宽度，英尺则取自人脚的长度。传统上认为，亨利一世国王曾下令，一码应等于从他的鼻尖到他拇指末端的距离。自中世纪以来，多位英国君主委任的委员会为一些最重要的单位设定了具体标准，从而减少了计量上的混乱。英制的一些常用单位有：英寸、英尺、码、英里、盎司、品脱、加仑和磅。由于英制并非系统地建立起来，其中的换算关系是零散拼凑的。例如，1 英里 = 5,280 英尺，1 英尺 = 12 英寸。
+
+公制又称国际单位制（SI），是当今计量的主流语言。它的标准化与十进制特点使其非常适合工程和航空工作。公制最早由法国里昂圣保罗教堂的牧师加布里埃尔·穆顿（Gabriel Mouton）提出设想。米是公制中的长度单位，等于赤道到北极距离的一千万分之一。升是体积单位，等于一立方分米。克是质量单位，等于一立方厘米水的质量。
+
+所有公制单位都遵循一致的命名方式，即在单位前加一个词头。例如，由于 kilo 表示 1,000，所以一千米等于 1,000 米。centi 是百分之一的词头，因此一米等于一百厘米。milli 是千分之一的词头，一克等于一千毫克。
 
 ## 3. 专业词汇
 

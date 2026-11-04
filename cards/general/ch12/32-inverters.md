@@ -12,6 +12,26 @@ There are two basic types of inverters: the rotary and the static. Either type c
 
 There are many sizes, types, and configurations of rotary inverters. Such inverters are essentially AC generators and DC motors in one housing. The generator field, or armature, and the motor field, or armature, are mounted on a common shaft that rotates within the housing. One common type of rotary inverter is the permanent magnet inverter.
 
+### Static Inverters
+
+In many applications where continuous DC voltage must be converted to alternating voltage, static inverters are used in place of rotary inverters or motor generator sets. The rapid progress made by the semiconductor industry is extending the range of applications of such equipment into voltage and power ranges that would have been impractical a few years ago. Some such applications are power supplies for frequency sensitive military and commercial AC equipment, aircraft emergency AC systems, and conversion of wide frequency range power to precise frequency power. The use of static inverters in small aircraft also has increased rapidly in the last few years, and the technology has advanced to the point that static inverters are available for any requirement filled by rotary inverters. For example, 250 V A emergency AC supplies operated from aircraft batteries are in production, as are 2,500 V A main AC supplies operated from a varying frequency generator supply. This type of equipment has certain advantages for aircraft applications, particularly the absence of moving parts and the adaptability to conduction cooling.
+
+Static inverters, referred to as solid-state inverters, are manufactured in a wide range of types and models that can be classified by the shape of the AC output waveform and the power output capabilities. One of the most commonly used static inverters produces a regulated sine wave output. This inverter converts a low DC voltage into higher AC voltage. The AC output voltage is held to a very small voltage tolerance, a typical variation of less than 1 percent with a full input load change. Output taps are normally provided to permit selection of various voltages; for example, taps may be provided for 105, 115, and 125 volt AC outputs. Frequency regulation is typically within a range of one cycle for a 0–100 percent load change. Variations of this type of static inverter are available, many of which provide a square wave output.
+
+Since static inverters use solid-state components, they are considerably smaller, more compact, and much lighter in weight than rotary inverters. Depending on the output power rating required, static inverters that are no larger than a typical airspeed indicator can be used in aircraft systems. Some of the features of static inverters are:
+
+1. High efficiency
+
+2. Low maintenance, long life
+
+3. No warmup period required
+
+4. Capable of starting under load
+
+5. Extremely quiet operation
+
+6. Fast response to load changes Static inverters are commonly used to provide power for such frequency sensitive instruments as the attitude gyro and directional gyro. They also provide power for autosyn and magnesyn indicators and transmitters, rate gyros, radar, and other airborne applications.
+
 ### Permanent Magnet Rotary Inverter
 
 A permanent magnet inverter is composed of a DC motor and a permanent magnet AC generator assembly. Each has a separate stator mounted within a common housing. The motor armature is mounted on a rotor and connected to the DC supply through a commutator and brush assembly. The motor field windings are mounted on the housing and connected directly to the DC supply. A permanent magnet rotor is mounted at the opposite end of the same shaft as the motor armature, and the stator windings are mounted on the housing, allowing AC to be taken from the inverter without the use of brushes. The generator rotor has six poles, magnetized to provide alternate North and South poles about its circumference.
@@ -36,26 +56,6 @@ The number of poles and the speed of the motor determine the frequency of this t
 
 The figure is a simplified diagram of a typical aircraft AC power distribution system, utilizing a main and a standby rotary inverter system.
 
-### Static Inverters
-
-In many applications where continuous DC voltage must be converted to alternating voltage, static inverters are used in place of rotary inverters or motor generator sets. The rapid progress made by the semiconductor industry is extending the range of applications of such equipment into voltage and power ranges that would have been impractical a few years ago. Some such applications are power supplies for frequency sensitive military and commercial AC equipment, aircraft emergency AC systems, and conversion of wide frequency range power to precise frequency power. The use of static inverters in small aircraft also has increased rapidly in the last few years, and the technology has advanced to the point that static inverters are available for any requirement filled by rotary inverters. For example, 250 V A emergency AC supplies operated from aircraft batteries are in production, as are 2,500 V A main AC supplies operated from a varying frequency generator supply. This type of equipment has certain advantages for aircraft applications, particularly the absence of moving parts and the adaptability to conduction cooling.
-
-Static inverters, referred to as solid-state inverters, are manufactured in a wide range of types and models that can be classified by the shape of the AC output waveform and the power output capabilities. One of the most commonly used static inverters produces a regulated sine wave output. This inverter converts a low DC voltage into higher AC voltage. The AC output voltage is held to a very small voltage tolerance, a typical variation of less than 1 percent with a full input load change. Output taps are normally provided to permit selection of various voltages; for example, taps may be provided for 105, 115, and 125 volt AC outputs. Frequency regulation is typically within a range of one cycle for a 0–100 percent load change. Variations of this type of static inverter are available, many of which provide a square wave output.
-
-Since static inverters use solid-state components, they are considerably smaller, more compact, and much lighter in weight than rotary inverters. Depending on the output power rating required, static inverters that are no larger than a typical airspeed indicator can be used in aircraft systems. Some of the features of static inverters are:
-
-1. High efficiency
-
-2. Low maintenance, long life
-
-3. No warmup period required
-
-4. Capable of starting under load
-
-5. Extremely quiet operation
-
-6. Fast response to load changes Static inverters are commonly used to provide power for such frequency sensitive instruments as the attitude gyro and directional gyro. They also provide power for autosyn and magnesyn indicators and transmitters, rate gyros, radar, and other airborne applications.
-
 ## 2. 中文翻译
 
 逆变器用于某些飞机系统，把飞机直流电的一部分转换为交流电。这种交流电主要用于仪表、无线电、雷达、照明及其他附件。这些逆变器通常制造成以 400 cps 的频率供电，但有些设计成能提供一种以上电压；例如，一个绕组输出 26 V 交流，另一个绕组输出 115 V。
@@ -65,6 +65,26 @@ Since static inverters use solid-state components, they are considerably smaller
 ### 旋转式逆变器
 
 旋转式逆变器有许多尺寸、类型和结构形式。这类逆变器实质上是把交流发电机和直流电动机装在同一壳体内。发电机的励磁绕组（或电枢）与电动机的励磁绕组（或电枢）装在同一根轴上，该轴在壳体内旋转。一种常见的旋转式逆变器是永磁式逆变器。
+
+### 静止式逆变器
+
+在许多需要把连续直流电压转换为交流电压的应用中，都使用静止式逆变器代替旋转式逆变器或电动发电机组。半导体工业的迅速发展正把此类设备的应用范围扩展到几年前还很不现实的电压和功率范围。此类应用包括：为对频率敏感的军用和商用交流设备供电的电源、飞机应急交流系统，以及把宽频范围的电源转换为精确频率电源。近几年来，静止式逆变器在小型飞机上的使用也迅速增加，技术已进步到静止式逆变器可以满足原先由旋转式逆变器承担的任何要求。例如，由飞机蓄电池供电的 250 V A 应急交流电源已投入生产，由变频发电机电源供电的 2,500 V A 主交流电源也是如此。这类设备在飞机应用上具有某些优点，特别是没有运动部件，并且易于采用传导冷却。
+
+静止式逆变器又称固态逆变器，其类型和型号繁多，可按交流输出波形的形状和输出功率能力分类。最常用的一种静止式逆变器产生经调节的正弦波输出。这种逆变器把低直流电压转换为较高的交流电压。交流输出电压保持在很小的电压容差范围内，在输入负载全变时典型变化小于 1%。通常设有输出抽头，以便选择各种电压；例如，可为 105、115 和 125 V 交流输出设置抽头。在负载变化 0–100% 时，频率调节典型地在一个周期的范围内。这类静止式逆变器还有多种变型，其中许多提供方波输出。
+
+由于静止式逆变器使用固态元件，它们比旋转式逆变器小得多、紧凑得多，重量也轻得多。视所需的输出功率额定值而定，尺寸不大于典型空速表的静止式逆变器即可用于飞机系统。静止式逆变器的部分特点是：
+
+1. 效率高
+
+2. 维护量小、寿命长
+
+3. 无需预热时间
+
+4. 能在带载情况下启动
+
+5. 运行极为安静
+
+6. 对负载变化响应快 静止式逆变器通常用于为姿态陀螺仪和航向陀螺仪等对频率敏感的仪表供电。它们也为自整角（autosyn）和磁同步（magnesyn）指示器与传感器、速率陀螺、雷达及其他机载应用供电。
 
 ### 永磁旋转式逆变器
 
@@ -89,26 +109,6 @@ Since static inverters use solid-state components, they are considerably smaller
 磁极数和电动机转速决定这种逆变器的频率。直流定子励磁电流则控制电压。
 
 是一幅典型飞机交流电源配电系统的简化图，该系统采用一台主用和一台备用旋转式逆变器。
-
-### 静止式逆变器
-
-在许多需要把连续直流电压转换为交流电压的应用中，都使用静止式逆变器代替旋转式逆变器或电动发电机组。半导体工业的迅速发展正把此类设备的应用范围扩展到几年前还很不现实的电压和功率范围。此类应用包括：为对频率敏感的军用和商用交流设备供电的电源、飞机应急交流系统，以及把宽频范围的电源转换为精确频率电源。近几年来，静止式逆变器在小型飞机上的使用也迅速增加，技术已进步到静止式逆变器可以满足原先由旋转式逆变器承担的任何要求。例如，由飞机蓄电池供电的 250 V A 应急交流电源已投入生产，由变频发电机电源供电的 2,500 V A 主交流电源也是如此。这类设备在飞机应用上具有某些优点，特别是没有运动部件，并且易于采用传导冷却。
-
-静止式逆变器又称固态逆变器，其类型和型号繁多，可按交流输出波形的形状和输出功率能力分类。最常用的一种静止式逆变器产生经调节的正弦波输出。这种逆变器把低直流电压转换为较高的交流电压。交流输出电压保持在很小的电压容差范围内，在输入负载全变时典型变化小于 1%。通常设有输出抽头，以便选择各种电压；例如，可为 105、115 和 125 V 交流输出设置抽头。在负载变化 0–100% 时，频率调节典型地在一个周期的范围内。这类静止式逆变器还有多种变型，其中许多提供方波输出。
-
-由于静止式逆变器使用固态元件，它们比旋转式逆变器小得多、紧凑得多，重量也轻得多。视所需的输出功率额定值而定，尺寸不大于典型空速表的静止式逆变器即可用于飞机系统。静止式逆变器的部分特点是：
-
-1. 效率高
-
-2. 维护量小、寿命长
-
-3. 无需预热时间
-
-4. 能在带载情况下启动
-
-5. 运行极为安静
-
-6. 对负载变化响应快 静止式逆变器通常用于为姿态陀螺仪和航向陀螺仪等对频率敏感的仪表供电。它们也为自整角（autosyn）和磁同步（magnesyn）指示器与传感器、速率陀螺、雷达及其他机载应用供电。
 
 ## 3. 专业词汇
 

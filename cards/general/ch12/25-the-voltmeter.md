@@ -12,6 +12,10 @@ The meter movement drops 50 mV at a full-scale deflection of 50 μA. The multipl
 
 RM = = 19k Ω 950 mV50 μA Therefore, for 1 volt full-scale deflection, the total resistance of the voltmeter is 20k Ω. That is, the multiplier resistance and the coil resistance.
 
+### Influence of the Voltmeter in the Circuit
+
+When a voltmeter is connected across two points in a circuit, current is shunted. If the voltmeter has low resistance, it draws off a significant amount of current. This lowers the effective resistance of the circuit and change the voltage readings. When making a voltage measurement, use a high resistance voltmeter to prevent shunting of the circuit.
+
 ### Voltmeter Sensitivity
 
 V oltmeter sensitivity is defined in terms of resistance per volt (Ω/V). The meter used in the previous example has a sensitivity of 20k Ω and a full-scale deflection of 1 volt.
@@ -30,10 +34,6 @@ Closed air chamber Light vane swinging in chamber with small clearance 1mA, 50 o
 
 When voltmeters are used, they are connected in parallel with a circuit. If unsure about the voltage to be measured, take the first reading at the high value on the meter and then progressively move down through the range until a suitable read is obtained. Observe that the polarity is correct before connecting the meter to the circuit or damage occurs by driving the movement backwards.
 
-### Influence of the Voltmeter in the Circuit
-
-When a voltmeter is connected across two points in a circuit, current is shunted. If the voltmeter has low resistance, it draws off a significant amount of current. This lowers the effective resistance of the circuit and change the voltage readings. When making a voltage measurement, use a high resistance voltmeter to prevent shunting of the circuit.
-
 ## 2. 中文翻译
 
 电压表使用的表头机构与电流表相同，但采用一种接在表头机构外部、与电流表不同的电路。
@@ -43,6 +43,10 @@ When a voltmeter is connected across two points in a circuit, current is shunted
 表头机构在 50 μA 满刻度偏转时电压降为 50 mV。倍增电阻 RM 必须承担剩余的电压 1 V − 50 mV = 950 mV。由于 RM 与表头机构串联，它在满刻度时也通过 50 μA 的电流。
 
 RM = 950 mV/50 μA = 19k Ω　因此，对于 1 伏的满刻度偏转，电压表的总电阻为 20k Ω，即倍增电阻与线圈电阻之和。
+
+### 电压表对电路的影响
+
+当把电压表跨接在电路的两点之间时，会有电流被分流。如果电压表电阻低，它就会分走相当多的电流。这会降低电路的有效电阻，并改变电压读数。进行电压测量时，应使用高电阻的电压表，以防电路被分流。
 
 ### 电压表灵敏度
 
@@ -61,10 +65,6 @@ RM = 950 mV/50 μA = 19k Ω　因此，对于 1 伏的满刻度偏转，电压�
 ### 电压表的接线
 
 使用电压表时，应将其与电路并联。如果不确定待测电压的大小，先以仪表上的高值量程读数，然后逐步下调量程，直到获得合适的读数。接线前要确认极性正确，否则会使表头反向驱动而造成损坏。
-
-### 电压表对电路的影响
-
-当把电压表跨接在电路的两点之间时，会有电流被分流。如果电压表电阻低，它就会分走相当多的电流。这会降低电路的有效电阻，并改变电压读数。进行电压测量时，应使用高电阻的电压表，以防电路被分流。
 
 ## 3. 专业词汇
 

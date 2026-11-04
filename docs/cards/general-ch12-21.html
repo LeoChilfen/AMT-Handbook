@@ -2,6 +2,14 @@
 <blockquote>通用 Ch 12 · Capacitance · 原文 PDF 第 492 页</blockquote>
 <h2 id="1-原文">1. 原文</h2>
 <p>Another important property in AC circuits, besides resistance and inductance, is capacitance. While inductance is represented in a circuit by a coil, capacitance is represented by a capacitor. In its most basic form, the capacitor is constructed of two parallel plates separated by a nonconductor called a dielectric. In an electrical circuit, a capacitor serves as a reservoir or storehouse for electricity.</p>
+<h3 id="units-of-capacitance">Units of Capacitance</h3>
+<p>Electrical charge, which is symbolized by the letter Q, is measured in units of coulombs. The coulomb is given by the letter C, as with capacitance. Unfortunately, this can be confusing. One coulomb of charge is defined as a charge having 6.28 × 1018 electrons. The basic unit of capacitance is the farad and is given by the letter f. By definition, one farad is one coulomb of charge stored with one volt across the plates of the capacitor. The general formula for capacitance in terms of charge and voltage is:</p>
+<p>Where C = E Q C = capacitance measured in farads E = applied voltage measured in volts Q = charge measured in coulombs In practical terms, one farad is a large amount of capacitance. Typically, in electronics, much smaller units are used. The two more common smaller units are the microfarad (μF), which is 10-6 farad, and the picofarad (pF), which is 10-12 farad.</p>
+<h3 id="factors-affecting-capacitance">Factors Affecting Capacitance</h3>
+<ol><li>The capacitance of parallel plates is directly proportional to their area. A larger plate area produces a larger capacitance and a smaller area produces less capacitance. If we double the area of the plates, there is room for twice as much charge. The charge that a capacitor can hold at a given potential difference is doubled, and since C = Q/E, the capacitance is doubled.</li></ol>
+<ol start="2"><li>The capacitance of parallel plates is inversely proportional to their spacing.</li></ol>
+<ol start="3"><li>The dielectric material affects the capacitance of parallel plates. The dielectric constant of a vacuum is defined as 1, and that of air is very close to 1. These values are used as a reference, and all other materials have values specified in relation to air (vacuum).</li></ol>
+<p>The strength of some commonly used dielectric materials is listed in the figure. The voltage rating also depends on frequency because the losses, and the resultant heating effect, increase as the frequency increases.</p>
 <h3 id="capacitors-in-direct-current">Capacitors in Direct Current</h3>
 <p>When a capacitor is connected across a source of DC, such as a storage battery in the circuit shown in the figure, and the switch is then closed, the plate marked B becomes positively charged, and the A plate negatively charged. Current flows in the external circuit during the time the electrons are moving from B to A. The current flow in the circuit is at a maximum the instant the switch is closed, but continually decreases thereafter until it reaches zero. The current becomes zero as soon as the difference in voltage of A and B becomes the same as the voltage of the battery. If the switch is opened as shown in the figure, the plates remain charged. Once the capacitor is shorted, it discharges quickly as shown in the figure.</p>
 <p>It should be clear that during the time the capacitor is being charged or discharged, there is current in the circuit, even though the circuit is broken by the gap between the capacitor plates. Current is present only during the time of charge and discharge, and this period of time is usually short.</p>
@@ -10,18 +18,10 @@
 <p>When a capacitor charges or discharges through a resistance, a certain amount of time is required for a full charge or discharge. The voltage across the capacitor does not change instantaneously. The rate of charging or discharging is determined by the time constant of the circuit. The time constant of a series resistor/capacitor (RC) circuit is a time interval that equals the product of the resistance in ohms and the capacitance in farad and is symbolized by the Greek letter tau (τ).</p>
 <p>τ = RC The time in the formula is the time required to charge to 63 percent of the voltage of the source. The time required to bring the charge to about 99 percent of the source voltage is approximately 5 τ. The measure of a capacitor’s ability to store charge is its capacitance. The symbol used for capacitance is the letter C.</p>
 <p>As can be seen from the figure, there can be no continuous movement of DC through a capacitor. A good capacitor blocks DC and passes the effects of pulsing DC or AC.</p>
-<h3 id="units-of-capacitance">Units of Capacitance</h3>
-<p>Electrical charge, which is symbolized by the letter Q, is measured in units of coulombs. The coulomb is given by the letter C, as with capacitance. Unfortunately, this can be confusing. One coulomb of charge is defined as a charge having 6.28 × 1018 electrons. The basic unit of capacitance is the farad and is given by the letter f. By definition, one farad is one coulomb of charge stored with one volt across the plates of the capacitor. The general formula for capacitance in terms of charge and voltage is:</p>
-<p>Where C = E Q C = capacitance measured in farads E = applied voltage measured in volts Q = charge measured in coulombs In practical terms, one farad is a large amount of capacitance. Typically, in electronics, much smaller units are used. The two more common smaller units are the microfarad (μF), which is 10-6 farad, and the picofarad (pF), which is 10-12 farad.</p>
 <h3 id="voltage-rating-of-a-capacitor">Voltage Rating of a Capacitor</h3>
 <p>Capacitors have their limits as to how much voltage can be applied across the plates. The aircraft technician must be aware of the voltage rating, which specifies the maximum DC voltage that can be applied without the risk of damage to the device. This voltage rating is typically called the breakdown voltage, the working voltage, or simply the voltage rating. If the voltage applied across the plates is too great, the dielectric breaks down and arcing occurs between the plates. The capacitor is then short circuited, and the possible flow of DC through it can cause damage to other parts of the equipment.</p>
 <p>A capacitor that can be safely charged to 500 volts DC cannot be safely subjected to AC or pulsating DC whose effective values are 500 volts. An alternating voltage of 500 volts (RMS) has a peak voltage of 707 volts, and a capacitor to which it is applied should have a working voltage of at least 750 volts. The capacitor should be selected so that its working voltage is at least 50 percent greater than the highest voltage to be applied.</p>
 <p>The voltage rating of the capacitor is a factor in determining the actual capacitance, because capacitance decreases as the thickness of the dielectric increases. A high-voltage capacitor that has a thick dielectric must have a larger plate area in order to have the same capacitance as a similar low voltage capacitor having a thin dielectric.</p>
-<h3 id="factors-affecting-capacitance">Factors Affecting Capacitance</h3>
-<ol><li>The capacitance of parallel plates is directly proportional to their area. A larger plate area produces a larger capacitance and a smaller area produces less capacitance. If we double the area of the plates, there is room for twice as much charge. The charge that a capacitor can hold at a given potential difference is doubled, and since C = Q/E, the capacitance is doubled.</li></ol>
-<ol start="2"><li>The capacitance of parallel plates is inversely proportional to their spacing.</li></ol>
-<ol start="3"><li>The dielectric material affects the capacitance of parallel plates. The dielectric constant of a vacuum is defined as 1, and that of air is very close to 1. These values are used as a reference, and all other materials have values specified in relation to air (vacuum).</li></ol>
-<p>The strength of some commonly used dielectric materials is listed in the figure. The voltage rating also depends on frequency because the losses, and the resultant heating effect, increase as the frequency increases.</p>
 <h3 id="types-of-capacitors">Types of Capacitors</h3>
 <p>Capacitors come in all shapes and sizes and are usually marked with their value in farads. They may also be divided into two groups: fixed and variable. The fixed capacitors, which have approximately constant capacitance, may then be further divided according to the type of dielectric used. Some varieties are: paper, oil, mica, electrolytic and ceramic capacitors. The figure shows the schematic symbols for a fixed and variable capacitor.</p>
 <h4 id="fixed-capacitors">Fixed Capacitors</h4>
@@ -70,6 +70,14 @@
 <p>In a circuit containing only capacitance, the current reaches its maximum value ahead of the voltage and the current leads the voltage by 90°, or one-fourth cycle. The amount the current lags or leads the voltage in a circuit depends on the relative amounts of resistance, inductance, and capacitance in the circuit.</p>
 <h2 id="2-中文翻译">2. 中文翻译</h2>
 <p>除电阻和电感之外，交流电路中另一个重要特性是电容量。电感在电路中用电感线圈表示，电容量则用电容器表示。电容器最基本的形式是由两块平行极板构成，极板之间隔着一层称为电介质的非导体。在电路中，电容器起着储存电荷的「蓄水池」或「仓库」的作用。</p>
+<h3 id="电容量的单位">电容量的单位</h3>
+<p>电荷用字母 Q 表示，以库仑为单位计量。库仑也用字母 C 表示，与电容量的符号相同，这很容易混淆。1 库仑电荷定义为具有 6.28 × 1018 个电子的电荷。电容量的基本单位是法拉，用字母 f 表示。按定义，1 法拉就是极板两端加 1 伏电压时所储存的 1 库仑电荷。用电荷和电压表示电容量的通用公式是：</p>
+<p>式中 C = E⁄Q　C = 电容量，单位法拉　E = 所加电压，单位伏特　Q = 电荷，单位库仑　实际上一法拉是很大的电容量。在电子设备中通常使用小得多的单位，较常用的两个较小单位是微法（μF），即 10-6 法拉，以及皮法（pF），即 10-12 法拉。</p>
+<h3 id="影响电容量的因素">影响电容量的因素</h3>
+<ol><li>平行板电容器的电容量与极板面积成正比。面积越大，电容量越大；面积越小，电容量越小。如果把极板面积加倍，可容纳的电荷也就加倍。在给定电位差下电容器能容纳的电荷加倍，而由 C = Q/E 可知电容量也随之加倍。</li></ol>
+<ol start="2"><li>平行板电容器的电容量与极板间距成反比。</li></ol>
+<ol start="3"><li>电介质材料会影响平行板电容器的电容量。真空的电介质常数定义为 1，空气的数值非常接近 1。这些数值用作基准，其他所有材料的数值都以空气（真空）为参照给出。</li></ol>
+<p>一些常用电介质材料的强度列于图中。额定电压还取决于频率，因为损耗以及由此产生的发热会随频率升高而增大。</p>
 <h3 id="直流电中的电容器">直流电中的电容器</h3>
 <p>当把电容器接在直流电源（如蓄电池）两端——如图中电路所示——然后合上开关时，标记为 B 的极板带正电，A 极板带负电。在电子从 B 向 A 移动的那段时间里，外电路中有电流流动。合上开关的瞬间，电路中的电流最大，此后不断减小，直至为零。当 A、B 之间的电压差与电池电压相等时，电流随即变为零。如果像图中那样断开开关，两块极板仍保持带电。一旦把电容器短接，它就会像图中那样迅速放电。</p>
 <p>应当明确：在电容器充电或放电期间，电路中是有电流的，尽管电容器两极板之间的间隙把电路断开了。电流只存在于充电和放电的那段时间内，而这段时间通常很短。</p>
@@ -78,18 +86,10 @@
 <p>当电容器通过电阻充电或放电时，充满或放完需要一定的时间。电容器两端的电压不会瞬时改变。充电或放电的速率由电路的时间常数决定。串联电阻/电容（RC）电路的时间常数是一个时间间隔，等于以欧姆为单位的电阻与以法拉为单位的电容之积，用希腊字母 tau（τ）表示。</p>
 <p>τ = RC　公式中的时间是指充电到电源电压 63% 所需的时间。把电荷充到约 99% 电源电压所需的时间约为 5τ。电容器储存电荷的能力用它的电容量来度量，电容量的符号是字母 C。</p>
 <p>从图中可以看出，直流电不可能持续通过电容器。良好的电容器能阻断直流电，而让脉动直流或交流电的作用通过。</p>
-<h3 id="电容量的单位">电容量的单位</h3>
-<p>电荷用字母 Q 表示，以库仑为单位计量。库仑也用字母 C 表示，与电容量的符号相同，这很容易混淆。1 库仑电荷定义为具有 6.28 × 1018 个电子的电荷。电容量的基本单位是法拉，用字母 f 表示。按定义，1 法拉就是极板两端加 1 伏电压时所储存的 1 库仑电荷。用电荷和电压表示电容量的通用公式是：</p>
-<p>式中 C = E⁄Q　C = 电容量，单位法拉　E = 所加电压，单位伏特　Q = 电荷，单位库仑　实际上一法拉是很大的电容量。在电子设备中通常使用小得多的单位，较常用的两个较小单位是微法（μF），即 10-6 法拉，以及皮法（pF），即 10-12 法拉。</p>
 <h3 id="电容器的额定电压">电容器的额定电压</h3>
 <p>电容器两端能加多大电压是有限度的。航空维修人员必须了解额定电压，它规定了为避免器件损坏所能施加的最大直流电压。这个额定值通常称为击穿电压、工作电压，或简称额定电压。如果加在极板上的电压过大，电介质就会被击穿，极板之间发生打火。电容器随之短路，可能流过它的直流电会损坏设备的其他部分。</p>
 <p>能安全充到 500 伏直流电的电容器，并不能安全地承受有效值为 500 伏的交流或脉动直流。500 伏（RMS）的交流电压峰值为 707 伏，因此施加该电压的电容器工作电压至少应为 750 伏。选择电容器时，其工作电压至少应比将要施加的最高电压大 50%。</p>
 <p>电容器的额定电压是决定实际电容量大小的一项因素，因为电介质越厚，电容量越小。电介质较厚的高压电容器，若要具有与电介质较薄的同类低压电容器相同的电容量，就必须有更大的极板面积。</p>
-<h3 id="影响电容量的因素">影响电容量的因素</h3>
-<ol><li>平行板电容器的电容量与极板面积成正比。面积越大，电容量越大；面积越小，电容量越小。如果把极板面积加倍，可容纳的电荷也就加倍。在给定电位差下电容器能容纳的电荷加倍，而由 C = Q/E 可知电容量也随之加倍。</li></ol>
-<ol start="2"><li>平行板电容器的电容量与极板间距成反比。</li></ol>
-<ol start="3"><li>电介质材料会影响平行板电容器的电容量。真空的电介质常数定义为 1，空气的数值非常接近 1。这些数值用作基准，其他所有材料的数值都以空气（真空）为参照给出。</li></ol>
-<p>一些常用电介质材料的强度列于图中。额定电压还取决于频率，因为损耗以及由此产生的发热会随频率升高而增大。</p>
 <h3 id="电容器的类型">电容器的类型</h3>
 <p>电容器形状、尺寸各异，通常标有以法拉为单位的数值。它们也可以分为两类：固定电容器和可变电容器。电容量近似恒定的固定电容器，还可以按所用介质的类型进一步划分，常见的有：纸介、油浸、云母、电解和陶瓷电容器。图中示出了固定电容器和可变电容器的电路符号。</p>
 <h4 id="固定电容器">固定电容器</h4>

@@ -150,18 +150,6 @@ Subpart E—Maintenance, Preventive Maintenance, and Alterations (Sections 91.40
 
 This is the section of most interest to the technician. They must be familiar with it, because it does carry some (indirect) responsibility for the technician. This is because section 91.403(b) states, “No person may perform maintenance, preventive maintenance, or alterations on an aircraft other than as prescribed in this subpart and other applicable regulations, including part 43 of this chapter.” A more complete discussion of this regulation, especially Subpart E—Maintenance, Preventive Maintenance, and Alterations is presented later in this chapter.
 
-#### 14 CFR Part 119—Certification: Air Carriers and Commercial Operators
-
-In order to better understand the next three regulations discussed here (14 CFR parts 121, 125, and 135) a brief overview of 14 CFR part 119 is beneficial. There are more than 50 Advisory Circulars (ACs) in the 120 series alone providing additional non-regulatory information concerning the variety of procedures involved with these operations. There are basically three different criteria that must be analyzed in order to properly determine the regulation that applies. These are:
-
-1. Is the service provided for Private Carriage or Common Carriage?
-
-2. Is the aircraft For Hire or is it Not for Hire?
-
-3. Is it a large or small aircraft?
-
-AC 120-12, as revised, provides the following definition regarding this criterion: A carrier becomes a common carrier when it “holds itself out” to the public, or to a segment of the public, as willing to furnish transportation within the limits of its facilities to any person who wants it. There are four elements in defining a common carrier: 1. A holding out of a willingness to 2. Transport persons or property 3. From place to place 4. For compensation
-
 #### 14 CFR Part 47—Aircraft Registration
 
 This regulation provides the requirements for registering aircraft. It includes procedures for both owner and dealer registration of aircraft.
@@ -189,6 +177,18 @@ Note: SFAR 100-2. Relief for U.S. Military and Civilian Personnel who are assign
 This is the final regulation of the three major regulations identified earlier in this chapter. Although it is an operational regulation that is focused toward the owner, operator, and/or pilot of the aircraft, the maintenance technician must have an awareness of this regulation. Two examples of these maintenance related issues are:
 
 1. Section 91.207—Emergency Locator Transmitters Paragraph (c)(2)—battery replacement interval and requirement for a logbook entry indicating the expiration date of the new battery.
+
+#### 14 CFR Part 119—Certification: Air Carriers and Commercial Operators
+
+In order to better understand the next three regulations discussed here (14 CFR parts 121, 125, and 135) a brief overview of 14 CFR part 119 is beneficial. There are more than 50 Advisory Circulars (ACs) in the 120 series alone providing additional non-regulatory information concerning the variety of procedures involved with these operations. There are basically three different criteria that must be analyzed in order to properly determine the regulation that applies. These are:
+
+1. Is the service provided for Private Carriage or Common Carriage?
+
+2. Is the aircraft For Hire or is it Not for Hire?
+
+3. Is it a large or small aircraft?
+
+AC 120-12, as revised, provides the following definition regarding this criterion: A carrier becomes a common carrier when it “holds itself out” to the public, or to a segment of the public, as willing to furnish transportation within the limits of its facilities to any person who wants it. There are four elements in defining a common carrier: 1. A holding out of a willingness to 2. Transport persons or property 3. From place to place 4. For compensation
 
 #### 14 CFR Part 121—Operating Requirements: Domestic, Flag, and Supplemental Operations
 
@@ -486,18 +486,6 @@ CFR 第 14 编 part 45 包括对航空器、发动机、螺旋桨、某些更换
 
 这是维修技术员最关心的一节。他们必须熟悉这一节，因为它确实为技术员带来了一些（间接的）责任。这是因为第 91.403(b) 节规定：“任何人不得以本分部及其他适用规章（包括本章 part 43）规定以外的方式对航空器实施维修、预防性维修或改装。”本章后文将对该规章、特别是分部 E——维修、预防性维修与改装作更完整的讨论。
 
-#### 14 CFR part 119——审定：航空承运人与商业运营人
-
-为了更好地理解接下来讨论的三部规章（14 CFR parts 121、125 和 135），先简要了解 14 CFR part 119 是有益的。仅在 120 系列中就有 50 多部咨询通告（AC），提供与这些运行所涉各类程序有关的附加非规章性信息。基本上有三种不同的判断标准需要分析，才能正确确定适用哪部规章。它们是：
-
-1. 该服务属于私用运输还是公共运输？
-
-2. 该航空器是用于“有偿（for hire）”还是“无偿（not for hire）”？
-
-3. 该航空器是大型还是小型？
-
-经修订的 AC 120-12 就这一标准给出如下定义：当承运人向公众或公众中的某一部分“公开表明（holds itself out）”其愿意在其设施能力范围内向任何有需求的人提供运输时，它就成为公共承运人。界定公共承运人有四个要素：1. 公开表明愿意 2. 运输人员或财物 3. 从一地到另一地 4. 获取报酬
-
 #### 14 CFR part 47——航空器登记
 
 本规章规定了航空器登记的要求，其中包括机主登记与经销商登记两套程序。
@@ -525,6 +513,18 @@ CFR 第 14 编 part 45 包括对航空器、发动机、螺旋桨、某些更换
 这是本章前面提到的三部主要规章中的最后一部。虽然它是一部面向航空器机主、运营人和/或驾驶员、侧重运行的规章，但维修技术员也必须对其有所了解。此类与维修有关的问题有两个例子：
 
 1. 第 91.207 节——应急定位发射机 第（c）（2）款——电瓶更换间隔，以及要求日志记载以表明新电瓶的到期日期。
+
+#### 14 CFR part 119——审定：航空承运人与商业运营人
+
+为了更好地理解接下来讨论的三部规章（14 CFR parts 121、125 和 135），先简要了解 14 CFR part 119 是有益的。仅在 120 系列中就有 50 多部咨询通告（AC），提供与这些运行所涉各类程序有关的附加非规章性信息。基本上有三种不同的判断标准需要分析，才能正确确定适用哪部规章。它们是：
+
+1. 该服务属于私用运输还是公共运输？
+
+2. 该航空器是用于“有偿（for hire）”还是“无偿（not for hire）”？
+
+3. 该航空器是大型还是小型？
+
+经修订的 AC 120-12 就这一标准给出如下定义：当承运人向公众或公众中的某一部分“公开表明（holds itself out）”其愿意在其设施能力范围内向任何有需求的人提供运输时，它就成为公共承运人。界定公共承运人有四个要素：1. 公开表明愿意 2. 运输人员或财物 3. 从一地到另一地 4. 获取报酬
 
 #### 14 CFR part 121——运行要求：国内、旗标与补充运行
 

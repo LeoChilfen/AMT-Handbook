@@ -12,6 +12,10 @@ The speed of rotation of an AC motor depends upon the number of poles and the fr
 
 There are two general types of AC motors used in aircraft systems: induction motors and synchronous motors. Either type may be single-phase, two-phase, or three-phase. Three-phase induction motors are used where large amounts of power are required. They operate such devices as starters, flaps, landing gears, and hydraulic pumps. Single-phase induction motors are used to operate devices such as surface locks, intercooler shutters, and oil shutoff valves in which the power requirement is low. Three-phase synchronous motors operate at constant synchronous speeds and are commonly used to operate flux gate compasses and propeller synchronizer systems. Single-phase synchronous motors are common sources of power to operate electric clocks and other small, precision equipment. They require some auxiliary method to bring them up to synchronous speeds; that is, to start them. Usually the starting winding consists of an auxiliary stator winding.
 
+### Maintenance of AC Motors
+
+The inspection and maintenance of AC motors is very simple. The bearings may or may not need frequent lubrication. If they are the sealed type, lubricated at the factory, they require no further attention. Be sure the coils are kept dry and free from oil or other abuse. The temperature of a motor is usually its only limiting operating factor. A good rule of thumb is that a temperature too hot for the hand is too high for safety. Next to the temperature, the sound of a motor or generator is the best trouble indicator. When operating properly, it should hum evenly. If it is overloaded it “grunts.” A three-phase motor with one lead disconnected refuses to turn and “growls.” A knocking sound generally indicates a loose armature coil, a shaft out of alignment, or armature dragging because of worn bearings. In all cases, the inspection and maintenance of all AC motors should be performed in accordance with the applicable manufacturer’s instructions.
+
 ### Three-Phase Induction Motor
 
 The three-phase AC induction motor is also called a squirrel cage motor. Both single-phase and three-phase motors operate on the principle of a rotating magnetic field. A horseshoe magnet held over a compass needle is a simple illustration of the principle of the rotating field. The needle takes a position parallel to the magnetic flux passing between the two poles of the magnet. If the magnet is rotated, the compass needle follows. A rotating magnetic field can be produced by a two-or three-phase current flowing through two or more groups of coils wound on inwardly projecting poles of an iron frame. The coils on each group of poles are wound alternately in opposite directions to produce opposite polarity, and each group is connected to a separate phase of voltage. The operating principle depends on a revolving, or rotating, magnetic field to produce torque. The key to understanding the induction motor is a thorough understanding of the rotating magnetic field.
@@ -108,10 +112,6 @@ If the compensating winding is designed, the armature is inductively compensated
 
 Fractional horsepower AC series motors are called universal motors. They do not have compensating windings or preventive leads. They are used extensively to operate fans and portable tools, such as drills, grinders, and saws.
 
-### Maintenance of AC Motors
-
-The inspection and maintenance of AC motors is very simple. The bearings may or may not need frequent lubrication. If they are the sealed type, lubricated at the factory, they require no further attention. Be sure the coils are kept dry and free from oil or other abuse. The temperature of a motor is usually its only limiting operating factor. A good rule of thumb is that a temperature too hot for the hand is too high for safety. Next to the temperature, the sound of a motor or generator is the best trouble indicator. When operating properly, it should hum evenly. If it is overloaded it “grunts.” A three-phase motor with one lead disconnected refuses to turn and “growls.” A knocking sound generally indicates a loose armature coil, a shaft out of alignment, or armature dragging because of worn bearings. In all cases, the inspection and maintenance of all AC motors should be performed in accordance with the applicable manufacturer’s instructions.
-
 ## 2. 中文翻译
 
 由于交流电动机的诸多优点，许多类型的飞机电动机被设计为使用交流电运行。一般来说，交流电动机比同类直流电动机便宜。在许多情况下，交流电动机不使用电刷和换向器，因此避免了电刷处的火花。交流电动机可靠且维护量小。它们还非常适合恒速应用，某些类型在允许范围内还具有变速特性。交流电动机被设计为可在多相或单相线路上运行，并有多种额定电压。
@@ -121,6 +121,10 @@ The inspection and maintenance of AC motors is very simple. The bearings may or 
 ### 交流电动机的类型
 
 飞机系统中使用的交流电动机主要有两大类：感应电动机和同步电动机。两类都可能是单相、两相或三相。三相感应电动机用于需要大功率的场合，驱动起动器、襟翼、起落架和液压泵等装置。单相感应电动机用于驱动功率需求较低的装置，如舱门锁、中冷器百叶窗和滑油关断活门。三相同步电动机以恒定的同步转速运行，常用于驱动磁通门罗盘和螺旋桨同步系统。单相同步电动机是驱动电钟和其他小型精密设备的常见动力源。它们需要某种辅助方法把转速提高到同步转速；也就是说，需要起动。通常起动绕组由辅助定子绕组构成。
+
+### 交流电动机的维护
+
+交流电动机的检查和维护非常简单。轴承可能需要也可能不需要经常润滑。如果是工厂加注润滑的密封型，则无需进一步维护。务必保持线圈干燥、无油污和其他损害。电动机的温度通常是其唯一的限制运行因素。一条经验法则是：手感觉太烫的温度就高得不安全。除温度外，电动机或发电机的声音是最好的故障指示。正常运行时，它应均匀地嗡嗡作响。如果过载，它会发出“哼哼”声。三相电动机断开一根引线时拒绝转动，并发出“咆哮”声。敲击声通常表明电枢线圈松动、轴不对中，或轴承磨损导致电枢拖擦。在所有情况下，所有交流电动机的检查和维护都应按照适用的制造商说明进行。
 
 ### 三相感应电动机
 
@@ -217,10 +221,6 @@ P = 120 × 60 / 1,750 = 7,200/1,750 = 4.11 因此，该电动机每相有四个�
 5. 通过使用预防引线 P1、P2、P3 等来减小换向器处的火花。当 A 处和 B 处的线圈被电刷短路时，感应电流受到引线相对较高电阻的限制。使用只有一匝的电枢线圈和多极磁场也能减小电刷处的火花。通过采用大量电枢导体和大直径电枢可获得大转矩。因此，换向器有很多很薄的换向片，电枢电压被限制在约 250 伏。
 
 分马力交流串励电动机称为通用电动机。它们没有补偿绕组或预防引线。它们广泛用于驱动风扇和便携式工具，如钻、磨床和锯。
-
-### 交流电动机的维护
-
-交流电动机的检查和维护非常简单。轴承可能需要也可能不需要经常润滑。如果是工厂加注润滑的密封型，则无需进一步维护。务必保持线圈干燥、无油污和其他损害。电动机的温度通常是其唯一的限制运行因素。一条经验法则是：手感觉太烫的温度就高得不安全。除温度外，电动机或发电机的声音是最好的故障指示。正常运行时，它应均匀地嗡嗡作响。如果过载，它会发出“哼哼”声。三相电动机断开一根引线时拒绝转动，并发出“咆哮”声。敲击声通常表明电枢线圈松动、轴不对中，或轴承磨损导致电枢拖擦。在所有情况下，所有交流电动机的检查和维护都应按照适用的制造商说明进行。
 
 ## 3. 专业词汇
 

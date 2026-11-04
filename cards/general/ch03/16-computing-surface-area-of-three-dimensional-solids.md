@@ -10,23 +10,23 @@ The surface area of a three-dimensional solid is the sum of the areas of the fac
 
 The formula for the surface area of a rectangular solid is given as:
 
+The formula for the surface area of a cube is given as:
+
 Surface area = 2 × [(width × length) + (width × height) + (length × height)]
 
 = 2 × [(w × l) + (w × h) + (l × h)]
-
-The formula for the surface area of a cube is given as:
 
 Surface area = 6 × (side × side) = 6 × s2 Example: What is the surface area of a cube with a side measure of 8 inches? Surface area = 6 × (side × side) = 6 × S2 = 6 × 82 = 6 × 64 = 384 square inches
 
 The formula for the surface area of a cylinder is given as:
 
-Surface area = 2 × π × radius2 + π × diameter × height = 2 × π × r2 + π × d × h
-
 The formula for the surface area of a sphere is given as:
 
-Surface area = 4 × π × radius2 = 4 × π × r2
-
 The formula for the surface area of a right circular cone is given as:
+
+Surface area = 2 × π × radius2 + π × diameter × height = 2 × π × r2 + π × d × h
+
+Surface area = 4 × π × radius2 = 4 × π × r2
 
 Surface area = π × radius × [radius + √(radius2 + height2)] = π × r × [r + √(r2 + h2)]
 
@@ -40,23 +40,23 @@ The formulas for computing the volume and surface area of three-dimensional soli
 
 长方体的表面积公式为：
 
+立方体的表面积公式为：
+
 Surface area = 2 × [(width × length) + (width × height) + (length × height)]
 
 = 2 × [(w × l) + (w × h) + (l × h)]
-
-立方体的表面积公式为：
 
 Surface area = 6 × (side × side) = 6 × s2 例：边长为 8 英寸的立方体，其表面积是多少？Surface area = 6 × (side × side) = 6 × S2 = 6 × 82 = 6 × 64 = 384 平方英寸
 
 圆柱体的表面积公式为：
 
-Surface area = 2 × π × radius2 + π × diameter × height = 2 × π × r2 + π × d × h
-
 球体的表面积公式为：
 
-Surface area = 4 × π × radius2 = 4 × π × r2
-
 正圆锥的表面积公式为：
+
+Surface area = 2 × π × radius2 + π × diameter × height = 2 × π × r2 + π × d × h
+
+Surface area = 4 × π × radius2 = 4 × π × r2
 
 Surface area = π × radius × [radius + √(radius2 + height2)] = π × r × [r + √(r2 + h2)]
 

@@ -10,6 +10,34 @@ An aircraft, even though made of the best materials and strongest parts, would b
 
 Their specification number or trade name identifies most items of aircraft hardware. Threaded fasteners and rivets are identified by AN (Air Force-Navy) numbers, NAS (National Aircraft Standard) numbers, or MS (Military Standard) numbers. Quick-release fasteners are usually identified by factory trade names and size designations.
 
+#### Identification and Coding
+
+Bolts are manufactured in many shapes and varieties. A clear-cut method of classification is difficult. The shape of the head, method of securing, material used in fabrication, or the expected usage can identify bolts.
+
+AN-type aircraft bolts can be identified by the code markings on the bolt heads. The markings generally denote the bolt manufacturer, the material used to make the bolt, and whether the bolt is a standard AN-type or a special purpose bolt.
+
+• AN st andard steel bolts are marked with either a raised dash or asterisk or a single raised dash.
+
+• AN aluminum-alloy bolts are marked with two raised dashes to indicate corrosion-resistant steel.
+
+• Additional information, such as bolt diameter, bolt length, and grip length, may be obtained from the bolt part number.
+
+For example, in the bolt part number AN3DD5A,
+
+• The “AN” designates that it is an Air Force-Navy standard bolt.
+
+• The “3” indicates the diameter in sixteenths of an inch (3⁄16).
+
+• The “DD” indicates the material is 2024 aluminum alloy.
+
+• The letter “C” in place of the “DD” would indicate corrosion-resistant steel, and the absence of the letters would indicate cadmium-plated steel.
+
+• The “5” indicates the length in eighths of an inch (5⁄8).
+
+• the “A” indicates that the shank is undrilled. If the letter “H” preceded the “5” in addition to the “A” following it, the head would be drilled for safetying.
+
+Close tolerance NAS bolts are marked with either a raised or recessed triangle. The material markings for NAS bolts are the same as for AN bolts, except that they may be either raised or recessed. Bolts inspected magnetically (Magnaflux) or by fluorescent means (Zyglo) are identified by means of colored lacquer or a head marking of a distinctive type.
+
 ### Threaded Fasteners
 
 Various types of fastening devices allow quick dismantling or replacement of aircraft parts that must be taken apart and put back together at frequent intervals. Riveting or welding these parts each time they are serviced would soon weaken or ruin the joint. Furthermore, some joints require greater tensile strength and stiffness than rivets can provide. Bolts and screws are two types of fastening devices that give the required security of attachment and rigidity. Generally, bolts are used where great strength is required, and screws are used where strength is not the deciding factor. Bolts and screws are similar in many ways. They are both used for fastening or holding, and each has a head on one end and screw threads on the other. Regardless of these similarities, there are several distinct differences between the two types of fasteners. The threaded end of a bolt is always blunt while that of a screw may be either blunt or pointed.
@@ -65,34 +93,6 @@ Close tolerance bolts are machined more accurately than the general-purpose bolt
 #### Internal Wrenching Bolts
 
 Internal wrenching bolts, (MS-20004 through MS-20024 or NAS-495) are fabricated from high-strength steel and are suitable for use in both tension and shear applications. When they are used in steel parts, the bolt hole must be slightly countersunk to seat the large corner radius of the shank at the head. In Dural material, a special heat-treated washer must be used to provide an adequate bearing surface for the head. The head of the internal wrenching bolt is recessed to allow the insertion of an internal wrench when installing or removing the bolt. Special high-strength nuts are used on these bolts. Replace an internal wrenching bolt with another internal wrenching bolt. Standard AN hex head bolts and washers cannot be substituted for them, as they do not have the required strength.
-
-#### Identification and Coding
-
-Bolts are manufactured in many shapes and varieties. A clear-cut method of classification is difficult. The shape of the head, method of securing, material used in fabrication, or the expected usage can identify bolts.
-
-AN-type aircraft bolts can be identified by the code markings on the bolt heads. The markings generally denote the bolt manufacturer, the material used to make the bolt, and whether the bolt is a standard AN-type or a special purpose bolt.
-
-• AN st andard steel bolts are marked with either a raised dash or asterisk or a single raised dash.
-
-• AN aluminum-alloy bolts are marked with two raised dashes to indicate corrosion-resistant steel.
-
-• Additional information, such as bolt diameter, bolt length, and grip length, may be obtained from the bolt part number.
-
-For example, in the bolt part number AN3DD5A,
-
-• The “AN” designates that it is an Air Force-Navy standard bolt.
-
-• The “3” indicates the diameter in sixteenths of an inch (3⁄16).
-
-• The “DD” indicates the material is 2024 aluminum alloy.
-
-• The letter “C” in place of the “DD” would indicate corrosion-resistant steel, and the absence of the letters would indicate cadmium-plated steel.
-
-• The “5” indicates the length in eighths of an inch (5⁄8).
-
-• the “A” indicates that the shank is undrilled. If the letter “H” preceded the “5” in addition to the “A” following it, the head would be drilled for safetying.
-
-Close tolerance NAS bolts are marked with either a raised or recessed triangle. The material markings for NAS bolts are the same as for AN bolts, except that they may be either raised or recessed. Bolts inspected magnetically (Magnaflux) or by fluorescent means (Zyglo) are identified by means of colored lacquer or a head marking of a distinctive type.
 
 #### Special-Purpose Bolts
 
@@ -150,6 +150,34 @@ When removal of a lockbolt becomes necessary, remove the collar by splitting it 
 
 大多数航空硬件项目由其规范号或商品名来识别。螺纹紧固件和铆钉由 AN（空军-海军）号、NAS（国家航空标准）号或 MS（军用标准）号识别。快卸紧固件通常由工厂商品名和尺寸代号识别。
 
+#### 识别与编码
+
+螺栓的制造形状和品种繁多，难以采用清晰的分类方法。可通过头部形状、固定方式、制造材料或预期用途来识别螺栓。
+
+AN 型飞机螺栓可通过螺栓头上的编码标记识别。这些标记通常表示螺栓制造厂、制造螺栓所用材料，以及该螺栓是标准 AN 型还是专用螺栓。
+
+• AN 标准钢制螺栓标有一道凸起的短划或星号，或一道凸起的短划。
+
+• AN 铝合金螺栓标有两道凸起短划，以表示耐蚀钢。
+
+• 附加信息，如螺栓直径、螺栓长度和夹持长度，可从螺栓件号中获得。
+
+例如，在螺栓件号 AN3DD5A 中：
+
+• “AN”表示它是空军-海军标准螺栓。
+
+• “3”表示直径，单位为 1/16 英寸（3/16）。
+
+• “DD”表示材料为 2024 铝合金。
+
+• 若用字母“C”取代“DD”，则表示耐蚀钢；若完全没有字母，则表示镀镉钢。
+
+• “5”表示长度，单位为 1/8 英寸（5/8）。
+
+• “A”表示杆部未钻孔。若在“5”之前有字母“H”，而在其后有“A”，则头部会钻有保险孔。
+
+紧公差 NAS 螺栓标有凸起或凹下的三角形。NAS 螺栓的材料标记与 AN 螺栓相同，只是可以凸起或凹下。经磁力检查（Magnaflux）或荧光检查（Zyglo）的螺栓，用彩色漆或独特型式的头部标记来识别。
+
 ### 螺纹紧固件
 
 各种紧固装置可让必须频繁分解和重新装配的飞机零件实现快速拆卸或更换。若每次维护都对这些零件进行铆接或焊接，接合处很快就会被削弱或损坏。此外，有些接头需要比铆钉所能提供的更高的抗拉强度和刚度。螺栓和螺钉是两种能提供所需连接安全性和刚性的紧固装置。一般来说，需要很大强度的地方使用螺栓，强度不是决定因素的地方使用螺钉。螺栓和螺钉在许多方面相似：二者都用于紧固或固定，一端有头，另一端有螺纹。尽管有这些相似之处，两类紧固件之间仍有几点明显区别。螺栓的螺纹端总是钝的，而螺钉的螺纹端可以是钝的或尖的。
@@ -205,34 +233,6 @@ AN-73 钻孔头螺栓与标准六角螺栓相似，但头部更深，并钻有�
 #### 内扳手螺栓
 
 内扳手螺栓（MS-20004 至 MS-20024 或 NAS-495）由高强度钢制成，适用于拉伸和剪切两种场合。用于钢制零件时，螺栓孔必须略微锪窝，以使螺栓杆部靠近头部的大圆角贴合。在硬铝材料中，必须使用特殊的经热处理垫圈，为头部提供足够的支承面。内扳手螺栓的头部有凹槽，以便安装或拆卸时插入内扳手。这些螺栓使用特殊的高强度螺母。内扳手螺栓只能用另一个内扳手螺栓更换。标准 AN 六角头螺栓和垫圈不能替代它们，因为其强度不够。
-
-#### 识别与编码
-
-螺栓的制造形状和品种繁多，难以采用清晰的分类方法。可通过头部形状、固定方式、制造材料或预期用途来识别螺栓。
-
-AN 型飞机螺栓可通过螺栓头上的编码标记识别。这些标记通常表示螺栓制造厂、制造螺栓所用材料，以及该螺栓是标准 AN 型还是专用螺栓。
-
-• AN 标准钢制螺栓标有一道凸起的短划或星号，或一道凸起的短划。
-
-• AN 铝合金螺栓标有两道凸起短划，以表示耐蚀钢。
-
-• 附加信息，如螺栓直径、螺栓长度和夹持长度，可从螺栓件号中获得。
-
-例如，在螺栓件号 AN3DD5A 中：
-
-• “AN”表示它是空军-海军标准螺栓。
-
-• “3”表示直径，单位为 1/16 英寸（3/16）。
-
-• “DD”表示材料为 2024 铝合金。
-
-• 若用字母“C”取代“DD”，则表示耐蚀钢；若完全没有字母，则表示镀镉钢。
-
-• “5”表示长度，单位为 1/8 英寸（5/8）。
-
-• “A”表示杆部未钻孔。若在“5”之前有字母“H”，而在其后有“A”，则头部会钻有保险孔。
-
-紧公差 NAS 螺栓标有凸起或凹下的三角形。NAS 螺栓的材料标记与 AN 螺栓相同，只是可以凸起或凹下。经磁力检查（Magnaflux）或荧光检查（Zyglo）的螺栓，用彩色漆或独特型式的头部标记来识别。
 
 #### 专用螺栓
 

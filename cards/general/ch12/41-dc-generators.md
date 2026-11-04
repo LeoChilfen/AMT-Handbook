@@ -4,6 +4,52 @@
 
 ## 1. 原文
 
+### Construction Features of DC Generators
+
+Generators used on aircraft may differ somewhat in design, since various manufacturers make them. All, however, are of the same general construction and operate similarly. The major parts, or assemblies, of a DC generator are a field frame (or yoke), a rotating armature, and a brush assembly. The parts of a typical aircraft generator are shown in the figure.
+
+The field frame is also called the yoke, which is the foundation or frame for the generator. The frame has two functions: It completes the magnetic circuit between the poles and acts as a mechanical support for the other parts of the generator. In the figure, the frame for a two-pole generator is shown in a cross-sectional view. A four-pole generator frame is shown in the figure.
+
+In small generators, the frame is made of one piece of iron, but in larger generators, it is usually made up of two parts bolted together. The frame has high magnetic properties and, together with the pole pieces, forms the major part of the magnetic circuit. The field poles are bolted to the inside of the frame and form a core on which the field coil windings are mounted. The poles are usually laminated to reduce eddy current losses and serve the same purpose as the iron core of an electromagnet; that is, they concentrate the lines of force produced by the field coils. The entire frame, including field poles, is made from high-quality magnetic iron or sheet steel.
+
+A practical DC generator uses electromagnets instead of permanent magnets. To produce a magnetic field of the necessary strength with permanent magnets would greatly increase the physical size of the generator.
+
+The field coils are made up of many turns of insulated wire and are usually wound on a form that fits over the iron core of the pole to which it is securely fastened. The exciting current, which is used to produce the magnetic field and which flows through the field coils, is obtained from an external source or from the generated DC of the machine. No electrical connection exists between the windings of the field coils and the pole pieces.
+
+Most field coils are connected so that the poles show alternate polarity. Since there is always one North pole for each South pole, there must always be an even number of poles in any generator.
+
+Note that the pole pieces project from the frame. Because air offers a great amount of reluctance to the magnetic field, this design reduces the length of the air gap between the poles and the rotating armature and increases the efficiency of the generator. When the pole pieces are made to project they are called salient poles.
+
+A B C D E 0 1/4 1/2 3/4 1Induced EMF Revolutions S N A B in the voltage.
+
+The armature assembly of a generator consists of many armature coils wound on an iron core, a commutator, and associated mechanical parts. These additional loops of wire are actually called windings and are evenly spaced around the armature so that the distance between each winding is the same. Mounted on a shaft, it rotates through the magnetic field produced by the field coils. The core of the armature acts as an iron conductor in the magnetic field and, for this reason, is laminated to prevent the circulation of eddy currents.
+
+### Types of DC Generators
+
+There are three types of DC generators: series wound, shunt wound, and shunt series or compound wound. The difference in type depends on the relationship of the field winding to the external circuit.
+
+#### Series Wound DC Generators
+
+The field winding of a series generator is connected in series with the external circuit called the load. The field coils are composed of a few turns of large wire; the magnetic field strength depends more on the current flow rather than the number of turns in the coil. Series generators have very poor voltage regulation under changing load, since the greater the current through the field coils to the external circuit, the greater the induced emf and the greater the terminal or output voltage. Therefore, when the load is increased, the voltage increases; likewise, when the load is decreased, the voltage Mica V-ring Front V-ring Commutator bar Mica Iron shell Back V-ring with mica inner and outer rings for insulationSlots Tightening nut Iron ring Commutator bars Mica insulation between bars Commutator Slots Shaft Coils decreases. The output voltage of a series wound generator may be controlled by a rheostat in parallel with the field windings. Since the series wound generator has such poor regulation, it is never employed as an airplane generator. Generators in airplanes have field windings, which are connected either in shunt or in compound.
+
+#### Shunt Wound DC Generators
+
+A generator having a field winding connected in parallel with the external circuit is called a shunt generator. The field coils of a shunt generator contain many turns of small wire; the magnetic strength is derived from the large number of turns rather than the current strength through the coils. If a constant voltage is desired, the shunt wound generator is not suitable for rapidly fluctuating loads. Any increase in load causes a decrease in the terminal or output voltage, and any decrease in load causes an increase in terminal voltage; since the armature and the load are connected in series, all current flowing in the external circuit passes through the armature winding. Because of the resistance in the armature winding, there is a voltage drop (IR drop = current × resistance). As the load increases, the armature current increases and the IR drop in the armature increases. The voltage delivered to the terminals is the difference between the induced voltage and the voltage drop; therefore, there is a decrease in terminal voltage. This decrease in voltage causes a decrease in field strength, because the current in the field coils decreases in proportion to the decrease in terminal voltage; with a weaker field, the voltage is further decreased. When the load decreases, the output voltage increases accordingly, and a larger current flows in the windings. This action is cumulative, so the output voltage continues to rise to a point called field saturation, after which there is no further increase in output voltage.
+
+The terminal voltage of a shunt generator can be controlled by means of a rheostat inserted in series with the field windings. As the resistance is increased, the field current is reduced; consequently, the generated voltage is reduced also. For a given setting of the field rheostat, the terminal voltage at the armature brushes is approximately equal to the generated voltage minus the IR N S Rotation + + + + a b Neutral plane Rotation ++ + + + + + + + ++ S N N S Rotation + + + + + + + + + + + ++++ a b A B C Field excited, armature unexcited Armature excited, field unexcited Both field and armature excited drop produced by the load current in the armature; thus, the voltage at the terminals of the generator drops as the load is applied. Certain voltage sensitive devices are available that automatically adjust the field rheostat to compensate for variations in load. When these devices are used, the terminal voltage remains essentially constant.
+
+#### Compound Wound DC Generators
+
+A compound wound generator combines a series winding and a shunt winding in such a way that the characteristics of each are used to advantage. The series field coils are made of a relatively small number of turns of large copper conductor, either circular or rectangular in cross section, and are connected in series with the armature circuit. These coils are mounted on the same poles on which the shunt field coils are mounted and, therefore, contribute a magnetomotive force which influences the main field flux of the generator. A diagrammatic and a schematic illustration of a compound wound generator is shown in the figure.
+
+If the ampere turns of the series field act in the same direction as those of the shunt field, the combined magnetomotive force is equal to the sum of the series and shunt field components. Load is added to a compound generator in the same manner in which load is added to a shunt generator, by increasing the number of parallel paths across the generator terminals. Thus, the decrease in total load resistance with added load is accompanied by an increase in armature circuit and series field circuit current. The effect of the additive series field is that of increased field flux with increased load. The extent of the increased field flux depends on the degree of saturation of the field as determined by the shunt field current. Thus, the terminal voltage of the generator may increase or decrease with load, depending on the influence of the series field coils. This influence is referred to as the degree of compounding. A flat compound generator is one in which the no load and full load voltages have the same value; whereas an under compound generator has a full load voltage less than the no load value, and an over compound generator has a full load voltage which is higher than the no load value. Changes in terminal voltage with increasing load depend upon the degree of compounding.
+
+If the series field aids the shunt field, the generator is said to be cumulative compounded. If the series field opposes the shunt field, the machine is said to be differentially compounded or is called a differential generator. Compound generators are usually designed to be overcompounded. This feature permits varied degrees of compounding by connecting a variable shunt across the series field. Such a shunt is sometimes called a diverter. Compound generators are used where voltage regulation is of prime importance.
+
+Differential generators have somewhat the same characteristics as series generators in that they are essentially constant current generators. However, they generate rated voltage at no load, the voltage dropping materially as the load current increases. Constant current generators are ideally suited as power sources for electric arc welders and are used almost universally in electric arc welding.
+
+If the shunt field of a compound generator is connected across both the armature and the series field, it is known as a long shunt connection, but if the shunt field is connected across the armature alone, it is called a short shunt connection. These connections produce essentially the same generator characteristics. A summary of the characteristics of the various types of generators discussed is shown in the figure.
+
 ### Theory of Operation
 
 In the study of alternating current, basic generator principles were introduced to explain the generation of an AC voltage by a coil rotating in a magnetic field. Since this is the basis for all generator operation, it is necessary to review the principles of generation of electrical energy.
@@ -46,26 +92,6 @@ The voltage induced in a single turn loop is small. Increasing the number of loo
 
 An AC generator, or alternator, and a DC generator are identical as far as the method of generating voltage in the rotating loop is concerned. However, if the current is taken from the loop by slip rings, it is an alternating current, and the generator is called an AC generator, or alternator. If the current is collected by a commutator, it is direct current, and the generator is called a DC generator.
 
-### Construction Features of DC Generators
-
-Generators used on aircraft may differ somewhat in design, since various manufacturers make them. All, however, are of the same general construction and operate similarly. The major parts, or assemblies, of a DC generator are a field frame (or yoke), a rotating armature, and a brush assembly. The parts of a typical aircraft generator are shown in the figure.
-
-The field frame is also called the yoke, which is the foundation or frame for the generator. The frame has two functions: It completes the magnetic circuit between the poles and acts as a mechanical support for the other parts of the generator. In the figure, the frame for a two-pole generator is shown in a cross-sectional view. A four-pole generator frame is shown in the figure.
-
-In small generators, the frame is made of one piece of iron, but in larger generators, it is usually made up of two parts bolted together. The frame has high magnetic properties and, together with the pole pieces, forms the major part of the magnetic circuit. The field poles are bolted to the inside of the frame and form a core on which the field coil windings are mounted. The poles are usually laminated to reduce eddy current losses and serve the same purpose as the iron core of an electromagnet; that is, they concentrate the lines of force produced by the field coils. The entire frame, including field poles, is made from high-quality magnetic iron or sheet steel.
-
-A practical DC generator uses electromagnets instead of permanent magnets. To produce a magnetic field of the necessary strength with permanent magnets would greatly increase the physical size of the generator.
-
-The field coils are made up of many turns of insulated wire and are usually wound on a form that fits over the iron core of the pole to which it is securely fastened. The exciting current, which is used to produce the magnetic field and which flows through the field coils, is obtained from an external source or from the generated DC of the machine. No electrical connection exists between the windings of the field coils and the pole pieces.
-
-Most field coils are connected so that the poles show alternate polarity. Since there is always one North pole for each South pole, there must always be an even number of poles in any generator.
-
-Note that the pole pieces project from the frame. Because air offers a great amount of reluctance to the magnetic field, this design reduces the length of the air gap between the poles and the rotating armature and increases the efficiency of the generator. When the pole pieces are made to project they are called salient poles.
-
-A B C D E 0 1/4 1/2 3/4 1Induced EMF Revolutions S N A B in the voltage.
-
-The armature assembly of a generator consists of many armature coils wound on an iron core, a commutator, and associated mechanical parts. These additional loops of wire are actually called windings and are evenly spaced around the armature so that the distance between each winding is the same. Mounted on a shaft, it rotates through the magnetic field produced by the field coils. The core of the armature acts as an iron conductor in the magnetic field and, for this reason, is laminated to prevent the circulation of eddy currents.
-
 #### Gramme-Ring Armature
 
 There are two general kinds of armatures: the ring and the drum. The figure shows a ring-type armature made up of an iron core, an eight-section winding, and an eight-segment commutator. The disadvantage of this arrangement is that the windings, located on the inner side of the iron ring, cut few lines of flux. As a result, they have very little voltage induced in them. For this reason, the Gramme ring armature is not widely used.
@@ -102,32 +128,6 @@ An interpole is a pole placed between the main poles of a generator. An example 
 
 An interpole has the same polarity as the next main pole in the direction of rotation. The magnetic flux produced by an interpole causes the current in the armature to change direction as an armature winding passes under it. This cancels the electromagnetic fields about the armature windings. The magnetic strength of the interpoles varies with the load on the generator; and since field distortion varies with the load, the magnetic field of the interpoles counteracts the effects of the field set up around the armature windings and minimizes field distortion. Thus, the interpole tends to keep the neutral plane in the same position for all loads on the generator; therefore, field distortion is reduced by the interpoles, and the efficiency, output, and service life of the brushes are improved.
 
-### Types of DC Generators
-
-There are three types of DC generators: series wound, shunt wound, and shunt series or compound wound. The difference in type depends on the relationship of the field winding to the external circuit.
-
-#### Series Wound DC Generators
-
-The field winding of a series generator is connected in series with the external circuit called the load. The field coils are composed of a few turns of large wire; the magnetic field strength depends more on the current flow rather than the number of turns in the coil. Series generators have very poor voltage regulation under changing load, since the greater the current through the field coils to the external circuit, the greater the induced emf and the greater the terminal or output voltage. Therefore, when the load is increased, the voltage increases; likewise, when the load is decreased, the voltage Mica V-ring Front V-ring Commutator bar Mica Iron shell Back V-ring with mica inner and outer rings for insulationSlots Tightening nut Iron ring Commutator bars Mica insulation between bars Commutator Slots Shaft Coils decreases. The output voltage of a series wound generator may be controlled by a rheostat in parallel with the field windings. Since the series wound generator has such poor regulation, it is never employed as an airplane generator. Generators in airplanes have field windings, which are connected either in shunt or in compound.
-
-#### Shunt Wound DC Generators
-
-A generator having a field winding connected in parallel with the external circuit is called a shunt generator. The field coils of a shunt generator contain many turns of small wire; the magnetic strength is derived from the large number of turns rather than the current strength through the coils. If a constant voltage is desired, the shunt wound generator is not suitable for rapidly fluctuating loads. Any increase in load causes a decrease in the terminal or output voltage, and any decrease in load causes an increase in terminal voltage; since the armature and the load are connected in series, all current flowing in the external circuit passes through the armature winding. Because of the resistance in the armature winding, there is a voltage drop (IR drop = current × resistance). As the load increases, the armature current increases and the IR drop in the armature increases. The voltage delivered to the terminals is the difference between the induced voltage and the voltage drop; therefore, there is a decrease in terminal voltage. This decrease in voltage causes a decrease in field strength, because the current in the field coils decreases in proportion to the decrease in terminal voltage; with a weaker field, the voltage is further decreased. When the load decreases, the output voltage increases accordingly, and a larger current flows in the windings. This action is cumulative, so the output voltage continues to rise to a point called field saturation, after which there is no further increase in output voltage.
-
-The terminal voltage of a shunt generator can be controlled by means of a rheostat inserted in series with the field windings. As the resistance is increased, the field current is reduced; consequently, the generated voltage is reduced also. For a given setting of the field rheostat, the terminal voltage at the armature brushes is approximately equal to the generated voltage minus the IR N S Rotation + + + + a b Neutral plane Rotation ++ + + + + + + + ++ S N N S Rotation + + + + + + + + + + + ++++ a b A B C Field excited, armature unexcited Armature excited, field unexcited Both field and armature excited drop produced by the load current in the armature; thus, the voltage at the terminals of the generator drops as the load is applied. Certain voltage sensitive devices are available that automatically adjust the field rheostat to compensate for variations in load. When these devices are used, the terminal voltage remains essentially constant.
-
-#### Compound Wound DC Generators
-
-A compound wound generator combines a series winding and a shunt winding in such a way that the characteristics of each are used to advantage. The series field coils are made of a relatively small number of turns of large copper conductor, either circular or rectangular in cross section, and are connected in series with the armature circuit. These coils are mounted on the same poles on which the shunt field coils are mounted and, therefore, contribute a magnetomotive force which influences the main field flux of the generator. A diagrammatic and a schematic illustration of a compound wound generator is shown in the figure.
-
-If the ampere turns of the series field act in the same direction as those of the shunt field, the combined magnetomotive force is equal to the sum of the series and shunt field components. Load is added to a compound generator in the same manner in which load is added to a shunt generator, by increasing the number of parallel paths across the generator terminals. Thus, the decrease in total load resistance with added load is accompanied by an increase in armature circuit and series field circuit current. The effect of the additive series field is that of increased field flux with increased load. The extent of the increased field flux depends on the degree of saturation of the field as determined by the shunt field current. Thus, the terminal voltage of the generator may increase or decrease with load, depending on the influence of the series field coils. This influence is referred to as the degree of compounding. A flat compound generator is one in which the no load and full load voltages have the same value; whereas an under compound generator has a full load voltage less than the no load value, and an over compound generator has a full load voltage which is higher than the no load value. Changes in terminal voltage with increasing load depend upon the degree of compounding.
-
-If the series field aids the shunt field, the generator is said to be cumulative compounded. If the series field opposes the shunt field, the machine is said to be differentially compounded or is called a differential generator. Compound generators are usually designed to be overcompounded. This feature permits varied degrees of compounding by connecting a variable shunt across the series field. Such a shunt is sometimes called a diverter. Compound generators are used where voltage regulation is of prime importance.
-
-Differential generators have somewhat the same characteristics as series generators in that they are essentially constant current generators. However, they generate rated voltage at no load, the voltage dropping materially as the load current increases. Constant current generators are ideally suited as power sources for electric arc welders and are used almost universally in electric arc welding.
-
-If the shunt field of a compound generator is connected across both the armature and the series field, it is known as a long shunt connection, but if the shunt field is connected across the armature alone, it is called a short shunt connection. These connections produce essentially the same generator characteristics. A summary of the characteristics of the various types of generators discussed is shown in the figure.
-
 ### Generator Ratings
 
 A generator is rated in power output. Since a generator is designed to operate at a specified voltage, the rating usually is given as the number of amperes the generator can safely supply at its rated voltage. Generator rating and performance data are stamped on the nameplate attached to the generator. When replacing a generator, it is important to choose one of the proper rating.
@@ -141,6 +141,52 @@ The speed of an aircraft engine varies from idle rpm to takeoff rpm; however, du
 On most large 24-volt generators, electrical connections are made to terminals marked B, A, and E. The positive armature lead in the generator connects to the B terminal. The negative armature lead connects to the E terminal. The positive end of the shunt field winding connects to terminal A, and the opposite end connects to the negative terminal brush. Terminal A receives current from the negative generator brush through the shunt field winding. This current passes through the voltage regulator and back to the armature through the positive brush. Load current, which leaves the armature through the negative brushes, comes out of the E lead and passes through the load before returning to the armature through the positive brushes.
 
 ## 2. 中文翻译
+
+### 直流发电机的结构特点
+
+飞机上使用的发电机因各制造商不同，在设计上可能有所差异。但所有发电机的总体结构相同，工作方式也相似。直流发电机的主要部件（或组件）有磁场机架（或称磁轭）、旋转电枢和电刷组件。典型飞机发电机的零件如图所示。
+
+磁场机架也称为磁轭，是发电机的底座或骨架。机架有两个作用：它构成磁极之间的磁路，并作为发电机其他部件的机械支撑。图中以横截面视图给出了两极发电机的机架。四极发电机的机架如图所示。
+
+在小发电机中，机架由一整块铁制成，而在较大的发电机中，机架通常由用螺栓连在一起的两部分组成。机架具有良好的磁性能，与磁极铁心一起构成磁路的主要部分。磁场磁极用螺栓固定在机架内侧，形成安装励磁线圈绕组的铁心。磁极通常做成叠片，以减少涡流损耗，其作用与电磁铁的铁心相同，即集中励磁线圈产生的磁力线。整个机架（包括磁场磁极）由优质磁性铁或薄钢板制成。
+
+实际的直流发电机使用电磁铁而不是永久磁铁。要用永久磁铁产生所需强度的磁场，会使发电机的物理尺寸大大增加。
+
+励磁线圈由许多匝绝缘导线绕成，通常绕在套于磁极铁心上的骨架上，并牢固地固定在该铁心上。用来产生磁场的励磁电流流过励磁线圈，它由外部电源或电机自身发出的直流电提供。励磁线圈的绕组与磁极铁心之间没有电连接。
+
+大多数励磁线圈的连接方式使各磁极呈现交替的极性。由于每一个南极总对应一个北极，因此任何发电机的磁极数必定是偶数。
+
+注意，磁极铁心从机架上凸出。由于空气对磁场呈现很大的磁阻，这种设计缩短了磁极与旋转电枢之间的气隙长度，提高了发电机的效率。磁极铁心做成凸出形状时称为凸极。
+
+（原文此处为图注碎片：A B C D E、Induced EMF、Revolutions，无对应正文）
+
+发电机的电枢组件由绕在铁心上的许多电枢线圈、换向器以及相关的机械部件组成。这些附加的导线回路实际上称为绕组，它们沿电枢均匀分布，使各绕组之间的间距相同。电枢装在轴上，在励磁线圈产生的磁场中旋转。电枢铁心在磁场中起铁导体作用，因此做成叠片式，以防止涡流环流。
+
+### 直流发电机的类型
+
+直流发电机有三种类型：串励、并励以及并串联（复励）。类型的区别取决于励磁绕组与外电路的关系。
+
+#### 串励直流发电机
+
+串励发电机的励磁绕组与外电路（称为负载）串联。励磁线圈由少量大截面导线的匝组成；磁场强度更多取决于电流大小，而不是线圈的匝数。串励发电机在负载变化时电压调整率很差，因为通过励磁线圈流向外部电路的电流越大，感应电动势越大，端电压或输出电压也越高。因此，负载增加时电压升高；同样，负载减小时电压（原文此处为图注碎片：Mica V-ring、Commutator bar、Tightening nut、Coils，混入正文，无对应正文）降低。串励发电机的输出电压可以用与励磁绕组并联的变阻器来控制。由于串励发电机的电压调整率很差，它从不作为飞机发电机使用。飞机上的发电机都带励磁绕组，绕组接成并励或复励。
+
+#### 并励直流发电机
+
+励磁绕组与外电路并联的发电机称为并励发电机。并励发电机的励磁线圈包含许多匝细导线；磁场强度来自匝数多，而不是线圈中电流大。如果要求电压恒定，并励发电机不适合快速波动的负载。负载的任何增加都会使端电压或输出电压下降，负载的任何减小都会使端电压上升；由于电枢与负载串联，外电路中的全部电流都流过电枢绕组。由于电枢绕组有电阻，会产生电压降（IR 降 = 电流 × 电阻）。负载增加时，电枢电流增大，电枢中的 IR 降增大。送到端钮的电压是感应电压与电压降之差；因此端电压下降。这个电压下降又使磁场强度减弱，因为励磁线圈中的电流随端电压下降而成比例减小；磁场变弱，电压又进一步降低。负载减小时，输出电压相应升高，绕组中流过更大的电流。这种作用是累积性的，所以输出电压继续上升，直到称为磁场饱和的一点，此后输出电压不再增加。
+
+并励发电机的端电压可以通过串接在励磁绕组中的变阻器来控制。电阻增大时，励磁电流减小，于是产生的电压也随之降低。对于磁场变阻器的某一给定位置，电枢电刷处的端电压大致等于产生的电压减去负载电流在电枢中产生的 IR 降（原文此处为图注碎片：Neutral plane、Both field and armature excited，混入正文，无对应正文）；因此，加上负载时发电机的端电压下降。有一些电压敏感器件可以自动调节磁场变阻器，以补偿负载变化。使用这些器件时，端电压基本保持恒定。
+
+#### 复励直流发电机
+
+复励发电机把串励绕组和并励绕组组合起来，使两者的特性都能得到有利利用。串励磁场线圈由数量相对较少的几匝大截面铜导体绕成（截面可为圆形或矩形），并与电枢电路串联。这些线圈装在并励磁场线圈所在的同一磁极上，因此产生一个磁动势，影响发电机的主磁场磁通。图中给出了复励发电机的原理图和接线图。
+
+如果串励磁场的安匝与并励磁场方向相同，则合成的磁动势等于串励与并励磁场分量之和。给复励发电机加负载的方式与给并励发电机加负载相同，即增加跨接在发电机端钮上的并联支路数。因此，随着负载增加，总负载电阻减小，同时电枢电路和串励磁场电路中的电流增大。附加串励磁场的作用是使磁场磁通随负载增加而增加。磁场磁通增加的幅度取决于并励电流所决定的磁场饱和程度。因此，发电机的端电压可能随负载升高或降低，取决于串励磁场线圈的影响。这种影响称为复励程度。平复励发电机是空载电压与满载电压相同的一种发电机；而欠复励发电机的满载电压低于空载值，过复励发电机的满载电压则高于空载值。端电压随负载增加的变化取决于复励程度。
+
+如果串励磁场助磁并励磁场，则称该发电机为积复励。如果串励磁场去磁并励磁场，则称该电机为差复励，或称为差复励发电机。复励发电机通常设计成过复励。这一特点允许通过在串励磁场上并联可变分流器来获得不同的复励程度。这种分流器有时称为分流电阻。复励发电机用于电压调整率至关重要的场合。
+
+差复励发电机具有与串励发电机大致相同的特性，因为它们本质上都是恒流发电机。不过，它们在空载时就能产生额定电压，而随着负载电流增加，电压显著下降。恒流发电机非常适合作电弧焊机的电源，几乎普遍用于电弧焊接。
+
+如果复励发电机的并励磁场跨接在电枢和串励磁场两端，则称为长并励连接；如果并励磁场仅跨接在电枢两端，则称为短并励连接。这两种连接产生的发电机特性基本相同。图中给出了所讨论的各种发电机特性的汇总。
 
 ### 工作原理
 
@@ -184,26 +230,6 @@ On most large 24-volt generators, electrical connections are made to terminals m
 
 就旋转回路中产生电压的方法而言，交流发电机（或交流电机）与直流发电机完全相同。但是，如果电流通过滑环从回路引出，那就是交流电，该发电机称为交流发电机。如果电流通过换向器收集，那就是直流电，该发电机称为直流发电机。
 
-### 直流发电机的结构特点
-
-飞机上使用的发电机因各制造商不同，在设计上可能有所差异。但所有发电机的总体结构相同，工作方式也相似。直流发电机的主要部件（或组件）有磁场机架（或称磁轭）、旋转电枢和电刷组件。典型飞机发电机的零件如图所示。
-
-磁场机架也称为磁轭，是发电机的底座或骨架。机架有两个作用：它构成磁极之间的磁路，并作为发电机其他部件的机械支撑。图中以横截面视图给出了两极发电机的机架。四极发电机的机架如图所示。
-
-在小发电机中，机架由一整块铁制成，而在较大的发电机中，机架通常由用螺栓连在一起的两部分组成。机架具有良好的磁性能，与磁极铁心一起构成磁路的主要部分。磁场磁极用螺栓固定在机架内侧，形成安装励磁线圈绕组的铁心。磁极通常做成叠片，以减少涡流损耗，其作用与电磁铁的铁心相同，即集中励磁线圈产生的磁力线。整个机架（包括磁场磁极）由优质磁性铁或薄钢板制成。
-
-实际的直流发电机使用电磁铁而不是永久磁铁。要用永久磁铁产生所需强度的磁场，会使发电机的物理尺寸大大增加。
-
-励磁线圈由许多匝绝缘导线绕成，通常绕在套于磁极铁心上的骨架上，并牢固地固定在该铁心上。用来产生磁场的励磁电流流过励磁线圈，它由外部电源或电机自身发出的直流电提供。励磁线圈的绕组与磁极铁心之间没有电连接。
-
-大多数励磁线圈的连接方式使各磁极呈现交替的极性。由于每一个南极总对应一个北极，因此任何发电机的磁极数必定是偶数。
-
-注意，磁极铁心从机架上凸出。由于空气对磁场呈现很大的磁阻，这种设计缩短了磁极与旋转电枢之间的气隙长度，提高了发电机的效率。磁极铁心做成凸出形状时称为凸极。
-
-（原文此处为图注碎片：A B C D E、Induced EMF、Revolutions，无对应正文）
-
-发电机的电枢组件由绕在铁心上的许多电枢线圈、换向器以及相关的机械部件组成。这些附加的导线回路实际上称为绕组，它们沿电枢均匀分布，使各绕组之间的间距相同。电枢装在轴上，在励磁线圈产生的磁场中旋转。电枢铁心在磁场中起铁导体作用，因此做成叠片式，以防止涡流环流。
-
 #### 环形电枢（Gramme 环）
 
 电枢一般有两种：环形和鼓形。图中给出一个环形电枢，它由铁心、八段绕组和八片换向器组成。这种结构的缺点是，位于铁环内侧的绕组切割的磁力线很少，因此其中感应的电压很小。由于这个原因，Gramme 环形电枢没有得到广泛应用。
@@ -239,32 +265,6 @@ On most large 24-volt generators, electrical connections are made to terminals m
 换向极是装在发电机主磁极之间的磁极。图中给出换向极布置的一个例子。这是一台带两个换向极的简单两极发电机。
 
 换向极的极性与旋转方向上相邻的主磁极相同。换向极产生的磁通使电枢绕组经过其下方时电枢中的电流改变方向。这抵消了电枢绕组周围的电磁场。换向极的磁性强弱随发电机负载变化；由于磁场畸变随负载变化，换向极的磁场抵消电枢绕组周围建立的磁场的影响，使磁场畸变减到最小。因此，换向极在所有负载下都趋向于使中性面保持同一位置；所以换向极减小了磁场畸变，提高了效率、输出和电刷的使用寿命。
-
-### 直流发电机的类型
-
-直流发电机有三种类型：串励、并励以及并串联（复励）。类型的区别取决于励磁绕组与外电路的关系。
-
-#### 串励直流发电机
-
-串励发电机的励磁绕组与外电路（称为负载）串联。励磁线圈由少量大截面导线的匝组成；磁场强度更多取决于电流大小，而不是线圈的匝数。串励发电机在负载变化时电压调整率很差，因为通过励磁线圈流向外部电路的电流越大，感应电动势越大，端电压或输出电压也越高。因此，负载增加时电压升高；同样，负载减小时电压（原文此处为图注碎片：Mica V-ring、Commutator bar、Tightening nut、Coils，混入正文，无对应正文）降低。串励发电机的输出电压可以用与励磁绕组并联的变阻器来控制。由于串励发电机的电压调整率很差，它从不作为飞机发电机使用。飞机上的发电机都带励磁绕组，绕组接成并励或复励。
-
-#### 并励直流发电机
-
-励磁绕组与外电路并联的发电机称为并励发电机。并励发电机的励磁线圈包含许多匝细导线；磁场强度来自匝数多，而不是线圈中电流大。如果要求电压恒定，并励发电机不适合快速波动的负载。负载的任何增加都会使端电压或输出电压下降，负载的任何减小都会使端电压上升；由于电枢与负载串联，外电路中的全部电流都流过电枢绕组。由于电枢绕组有电阻，会产生电压降（IR 降 = 电流 × 电阻）。负载增加时，电枢电流增大，电枢中的 IR 降增大。送到端钮的电压是感应电压与电压降之差；因此端电压下降。这个电压下降又使磁场强度减弱，因为励磁线圈中的电流随端电压下降而成比例减小；磁场变弱，电压又进一步降低。负载减小时，输出电压相应升高，绕组中流过更大的电流。这种作用是累积性的，所以输出电压继续上升，直到称为磁场饱和的一点，此后输出电压不再增加。
-
-并励发电机的端电压可以通过串接在励磁绕组中的变阻器来控制。电阻增大时，励磁电流减小，于是产生的电压也随之降低。对于磁场变阻器的某一给定位置，电枢电刷处的端电压大致等于产生的电压减去负载电流在电枢中产生的 IR 降（原文此处为图注碎片：Neutral plane、Both field and armature excited，混入正文，无对应正文）；因此，加上负载时发电机的端电压下降。有一些电压敏感器件可以自动调节磁场变阻器，以补偿负载变化。使用这些器件时，端电压基本保持恒定。
-
-#### 复励直流发电机
-
-复励发电机把串励绕组和并励绕组组合起来，使两者的特性都能得到有利利用。串励磁场线圈由数量相对较少的几匝大截面铜导体绕成（截面可为圆形或矩形），并与电枢电路串联。这些线圈装在并励磁场线圈所在的同一磁极上，因此产生一个磁动势，影响发电机的主磁场磁通。图中给出了复励发电机的原理图和接线图。
-
-如果串励磁场的安匝与并励磁场方向相同，则合成的磁动势等于串励与并励磁场分量之和。给复励发电机加负载的方式与给并励发电机加负载相同，即增加跨接在发电机端钮上的并联支路数。因此，随着负载增加，总负载电阻减小，同时电枢电路和串励磁场电路中的电流增大。附加串励磁场的作用是使磁场磁通随负载增加而增加。磁场磁通增加的幅度取决于并励电流所决定的磁场饱和程度。因此，发电机的端电压可能随负载升高或降低，取决于串励磁场线圈的影响。这种影响称为复励程度。平复励发电机是空载电压与满载电压相同的一种发电机；而欠复励发电机的满载电压低于空载值，过复励发电机的满载电压则高于空载值。端电压随负载增加的变化取决于复励程度。
-
-如果串励磁场助磁并励磁场，则称该发电机为积复励。如果串励磁场去磁并励磁场，则称该电机为差复励，或称为差复励发电机。复励发电机通常设计成过复励。这一特点允许通过在串励磁场上并联可变分流器来获得不同的复励程度。这种分流器有时称为分流电阻。复励发电机用于电压调整率至关重要的场合。
-
-差复励发电机具有与串励发电机大致相同的特性，因为它们本质上都是恒流发电机。不过，它们在空载时就能产生额定电压，而随着负载电流增加，电压显著下降。恒流发电机非常适合作电弧焊机的电源，几乎普遍用于电弧焊接。
-
-如果复励发电机的并励磁场跨接在电枢和串励磁场两端，则称为长并励连接；如果并励磁场仅跨接在电枢两端，则称为短并励连接。这两种连接产生的发电机特性基本相同。图中给出了所讨论的各种发电机特性的汇总。
 
 ### 发电机的额定值
 

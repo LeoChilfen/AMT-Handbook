@@ -168,6 +168,24 @@ Radiographic inspection techniques are used to locate defects or flaws in airfra
 
 Three major steps in the x-ray process discussed in subsequent paragraphs are: exposure to radiation, including preparation; processing of film; and interpretation of the radiograph.
 
+#### Radiographic Interpretation
+
+From the standpoint of quality assurance, radiographic interpretation is the most important phase of radiography. It is during this phase that an error in judgment can produce disastrous consequences. The efforts of the whole radiographic process are centered in this phase, where the part or structure is either accepted or rejected. Conditions of unsoundness or other defects that are overlooked, not understood, or improperly interpreted can destroy the purpose and efforts of radiography and can jeopardize the structural integrity of an entire aircraft. A particular danger is the false sense of security imparted by the acceptance of a part or structure based on improper interpretation.
+
+As a first impression, radiographic interpretation may seem simple, but a closer analysis of the problem soon dispels this impression. The subject of interpretation is so varied and complex that it cannot be covered adequately in this type of document. Instead, this chapter gives only a brief review of basic requirements for radiographic interpretation, including some descriptions of common defects.
+
+Experience has shown that, whenever possible, it is important to conduct radiographic interpretation close to the radiographic operation. When viewing radiographs, it is helpful to have access to the material being tested. The radiograph can thus be compared directly with the material being tested, and indications due to such things as surface condition or thickness variations can be immediately determined. The following paragraphs present several factors that must be considered when analyzing a radiograph.
+
+There are three basic categories of flaws: voids, inclusions, and dimensional irregularities. The last category, dimensional irregularities, is not pertinent to these discussions, because its prime factor is one of degree and radiography is not exact. V oids and inclusions may appear on the radiograph in a variety of forms ranging from a two-dimensional plane to a three-dimensional sphere. A crack, tear, or cold shut most nearly resembles a two-dimensional plane, whereas a cavity looks like a three-dimensional sphere. Other types of flaws, such as shrink, oxide inclusions, porosity, and so forth, fall somewhere between these two extremes of form.
+
+It is important to analyze the geometry of a flaw, especially for items such as the sharpness of terminal points. For example, in a crack-like flaw, the terminal points appear much sharper in a sphere-like flaw, such as a gas cavity. Also, material strength may be adversely affected by flaw shape. A flaw having sharp points could establish a source of localized stress concentration. Spherical flaws affect material strength to a far lesser degree than do sharp-pointed flaws. Specifications and reference standards usually stipulate that sharp-pointed flaws, such as cracks, cold shuts, and so forth, are cause for rejection.
+
+Material strength is also affected by flaw size. A metallic component of a given area is designed to carry a certain load plus a safety factor. Reducing this area by including a large flaw weakens the part and reduces the safety factor. Some flaws are often permitted in components due to these safety factors. In this case, the interpreter must determine the degree of tolerance or imperfection specified by the design engineer. Both flaw size and flaw shape are considered carefully, since small flaws with sharp points can be just as bad as large flaws with no sharp points.
+
+Another important consideration in flaw analysis is flaw location. Metallic components are subjected to numerous and varied forces during their effective service life. Generally, the distribution of these forces is not equal in the component or part, and certain critical areas may be rather highly stressed. The interpreter must pay special attention to these areas. Another aspect of flaw location is that certain types of discontinuities close to one another may potentially serve as a source of stress concentrations creating a situation that must be closely scrutinized.
+
+An inclusion is a type of flaw that contains entrapped material. Such flaws may be of greater or lesser density than the item being radiographed. The foregoing discussions on flaw shape, size, and location apply equally to inclusions and to voids. In addition, a flaw containing foreign material could become a source of corrosion.
+
 #### Preparation and Exposure
 
 The factors of radiographic exposure are so interdependent that it is necessary to consider all factors for any particular radiographic exposure. These factors include, but are not limited to, the following:
@@ -187,24 +205,6 @@ The factors of radiographic exposure are so interdependent that it is necessary 
 • Film characteristics
 
 • Types of intensifying screen, if used Knowledge of the x-ray unit’s capabilities form a background for the other exposure factors. In addition to the unit rating in kilovoltage, the size, portability, ease of manipulation, and exposure particulars of the available equipment must be thoroughly understood. Previous experience on similar objects is also very helpful in the determination of the overall exposure techniques. A log or record of previous exposures provides specific data as a guide for future radiographs. After the latent image on the film is made permanently visible by processing it successively through a developer chemical solution, an acid bath, and a fixing bath, followed by a clear water wash.
-
-#### Radiographic Interpretation
-
-From the standpoint of quality assurance, radiographic interpretation is the most important phase of radiography. It is during this phase that an error in judgment can produce disastrous consequences. The efforts of the whole radiographic process are centered in this phase, where the part or structure is either accepted or rejected. Conditions of unsoundness or other defects that are overlooked, not understood, or improperly interpreted can destroy the purpose and efforts of radiography and can jeopardize the structural integrity of an entire aircraft. A particular danger is the false sense of security imparted by the acceptance of a part or structure based on improper interpretation.
-
-As a first impression, radiographic interpretation may seem simple, but a closer analysis of the problem soon dispels this impression. The subject of interpretation is so varied and complex that it cannot be covered adequately in this type of document. Instead, this chapter gives only a brief review of basic requirements for radiographic interpretation, including some descriptions of common defects.
-
-Experience has shown that, whenever possible, it is important to conduct radiographic interpretation close to the radiographic operation. When viewing radiographs, it is helpful to have access to the material being tested. The radiograph can thus be compared directly with the material being tested, and indications due to such things as surface condition or thickness variations can be immediately determined. The following paragraphs present several factors that must be considered when analyzing a radiograph.
-
-There are three basic categories of flaws: voids, inclusions, and dimensional irregularities. The last category, dimensional irregularities, is not pertinent to these discussions, because its prime factor is one of degree and radiography is not exact. V oids and inclusions may appear on the radiograph in a variety of forms ranging from a two-dimensional plane to a three-dimensional sphere. A crack, tear, or cold shut most nearly resembles a two-dimensional plane, whereas a cavity looks like a three-dimensional sphere. Other types of flaws, such as shrink, oxide inclusions, porosity, and so forth, fall somewhere between these two extremes of form.
-
-It is important to analyze the geometry of a flaw, especially for items such as the sharpness of terminal points. For example, in a crack-like flaw, the terminal points appear much sharper in a sphere-like flaw, such as a gas cavity. Also, material strength may be adversely affected by flaw shape. A flaw having sharp points could establish a source of localized stress concentration. Spherical flaws affect material strength to a far lesser degree than do sharp-pointed flaws. Specifications and reference standards usually stipulate that sharp-pointed flaws, such as cracks, cold shuts, and so forth, are cause for rejection.
-
-Material strength is also affected by flaw size. A metallic component of a given area is designed to carry a certain load plus a safety factor. Reducing this area by including a large flaw weakens the part and reduces the safety factor. Some flaws are often permitted in components due to these safety factors. In this case, the interpreter must determine the degree of tolerance or imperfection specified by the design engineer. Both flaw size and flaw shape are considered carefully, since small flaws with sharp points can be just as bad as large flaws with no sharp points.
-
-Another important consideration in flaw analysis is flaw location. Metallic components are subjected to numerous and varied forces during their effective service life. Generally, the distribution of these forces is not equal in the component or part, and certain critical areas may be rather highly stressed. The interpreter must pay special attention to these areas. Another aspect of flaw location is that certain types of discontinuities close to one another may potentially serve as a source of stress concentrations creating a situation that must be closely scrutinized.
-
-An inclusion is a type of flaw that contains entrapped material. Such flaws may be of greater or lesser density than the item being radiographed. The foregoing discussions on flaw shape, size, and location apply equally to inclusions and to voids. In addition, a flaw containing foreign material could become a source of corrosion.
 
 #### Radiation Hazards
 
@@ -382,6 +382,24 @@ Magnaglo 检查与前一种方法相似，不同之处在于使用荧光磁粉�
 
 下面几段讨论的 X 射线过程有三大步骤：包括准备在内的曝光、胶片处理，以及射线照片判读。
 
+#### 射线照片判读
+
+从质量保证的角度看，射线照片判读是射线照相中最重要的阶段。正是在这个阶段，判断上的错误可能造成灾难性后果。整个射线照相过程的努力都集中在这一阶段，零件或结构在此被接收或拒收。被忽略、未被理解或判读不当的不健全状况或其他缺陷，会使射线照相的目的和努力落空，并可能危及整架飞机的结构完整性。一种特别的危险，是因判读不当而接收了零件或结构所带来的虚假安全感。
+
+乍看之下，射线照片判读似乎很简单，但只要稍加分析，这种印象很快就会消除。判读这一课题既多样又复杂，无法在本书这类文件中充分涵盖。因此，本章只简要回顾射线照片判读的基本要求，并描述一些常见缺陷。
+
+经验表明，只要有可能，就应当在射线照相作业现场附近进行判读。观察射线照片时，能接触到被检材料是很有帮助的。这样就可把射线照片直接与被检材料对照，并能立即判定由表面状况或厚度变化之类原因造成的指示。以下几段说明分析射线照片时必须考虑的几个因素。
+
+缺陷有三大类：空洞、夹杂和尺寸不规则。最后一类（尺寸不规则）与本章讨论无关，因为其主要因素是程度问题，而射线照相并不精确。空洞和夹杂在射线照片上可能呈现从二维平面到三维球体的各种形态。裂纹、撕裂或冷隔最接近于二维平面，而空腔看起来像三维球体。收缩、氧化物夹杂、疏松等其他类型的缺陷，则处于这两种形态之间的某处。
+
+分析缺陷的几何形状很重要，特别是对于端点尖锐程度这类项目。例如，在裂纹状缺陷中，端点看起来比球状缺陷（如气孔）中的端点尖锐得多。此外，缺陷形状也可能对材料强度产生不利影响。带尖角的缺陷可能形成局部应力集中的源头。球状缺陷对材料强度的影响，远小于尖角缺陷。规范和参考标准通常规定，裂纹、冷隔之类带尖角的缺陷应予拒收。
+
+材料强度也受缺陷尺寸的影响。给定截面积的金属构件，是按承受一定载荷并留有安全系数设计的。因存在大缺陷而使该截面积减小，就会削弱零件并降低安全系数。由于有这些安全系数，构件中往往允许存在某些缺陷。在这种情况下，判读人员必须确定设计工程师所规定的容差或允许不完善程度。缺陷尺寸和缺陷形状都要仔细考虑，因为带尖角的小缺陷可能与不带尖角的大缺陷同样有害。
+
+缺陷分析中另一个重要考虑是缺陷位置。金属构件在其有效使用寿命中要承受众多且多变的力。一般来说，这些力在构件或零件中的分布并不均匀，某些关键区域可能受力相当高。判读人员必须特别注意这些区域。缺陷位置的另一个方面是，某些彼此靠近的同类不连续可能成为应力集中的源头，从而造成必须仔细审查的情况。
+
+夹杂是一类含有夹入物的缺陷。这类缺陷的密度可能大于或小于被射线照相的物品。上述关于缺陷形状、尺寸和位置的讨论，同样适用于夹杂和空洞。此外，含有外来物质的缺陷还可能成为腐蚀源。
+
 #### 准备与曝光
 
 射线曝光的各项因素相互依赖程度很高，因此对任何一次具体的射线曝光都必须通盘考虑所有因素。这些因素包括但不限于下列各项：
@@ -401,24 +419,6 @@ Magnaglo 检查与前一种方法相似，不同之处在于使用荧光磁粉�
 • 胶片特性
 
 • 所用增感屏的类型（如使用）　了解 X 射线机的性能，是掌握其他曝光因素的背景。除设备的千伏额定值外，还必须透彻了解现有设备的尺寸、便携性、操作便利程度和曝光细节。以往在类似物体上的经验，对确定总体曝光技术也很有帮助。以往曝光的记录可作为具体数据，指导今后的射线照相。曝光之后，胶片上的潜像要经显影液、酸浴和定影浴依次处理，再用清水冲洗，才能永久显现出来。
-
-#### 射线照片判读
-
-从质量保证的角度看，射线照片判读是射线照相中最重要的阶段。正是在这个阶段，判断上的错误可能造成灾难性后果。整个射线照相过程的努力都集中在这一阶段，零件或结构在此被接收或拒收。被忽略、未被理解或判读不当的不健全状况或其他缺陷，会使射线照相的目的和努力落空，并可能危及整架飞机的结构完整性。一种特别的危险，是因判读不当而接收了零件或结构所带来的虚假安全感。
-
-乍看之下，射线照片判读似乎很简单，但只要稍加分析，这种印象很快就会消除。判读这一课题既多样又复杂，无法在本书这类文件中充分涵盖。因此，本章只简要回顾射线照片判读的基本要求，并描述一些常见缺陷。
-
-经验表明，只要有可能，就应当在射线照相作业现场附近进行判读。观察射线照片时，能接触到被检材料是很有帮助的。这样就可把射线照片直接与被检材料对照，并能立即判定由表面状况或厚度变化之类原因造成的指示。以下几段说明分析射线照片时必须考虑的几个因素。
-
-缺陷有三大类：空洞、夹杂和尺寸不规则。最后一类（尺寸不规则）与本章讨论无关，因为其主要因素是程度问题，而射线照相并不精确。空洞和夹杂在射线照片上可能呈现从二维平面到三维球体的各种形态。裂纹、撕裂或冷隔最接近于二维平面，而空腔看起来像三维球体。收缩、氧化物夹杂、疏松等其他类型的缺陷，则处于这两种形态之间的某处。
-
-分析缺陷的几何形状很重要，特别是对于端点尖锐程度这类项目。例如，在裂纹状缺陷中，端点看起来比球状缺陷（如气孔）中的端点尖锐得多。此外，缺陷形状也可能对材料强度产生不利影响。带尖角的缺陷可能形成局部应力集中的源头。球状缺陷对材料强度的影响，远小于尖角缺陷。规范和参考标准通常规定，裂纹、冷隔之类带尖角的缺陷应予拒收。
-
-材料强度也受缺陷尺寸的影响。给定截面积的金属构件，是按承受一定载荷并留有安全系数设计的。因存在大缺陷而使该截面积减小，就会削弱零件并降低安全系数。由于有这些安全系数，构件中往往允许存在某些缺陷。在这种情况下，判读人员必须确定设计工程师所规定的容差或允许不完善程度。缺陷尺寸和缺陷形状都要仔细考虑，因为带尖角的小缺陷可能与不带尖角的大缺陷同样有害。
-
-缺陷分析中另一个重要考虑是缺陷位置。金属构件在其有效使用寿命中要承受众多且多变的力。一般来说，这些力在构件或零件中的分布并不均匀，某些关键区域可能受力相当高。判读人员必须特别注意这些区域。缺陷位置的另一个方面是，某些彼此靠近的同类不连续可能成为应力集中的源头，从而造成必须仔细审查的情况。
-
-夹杂是一类含有夹入物的缺陷。这类缺陷的密度可能大于或小于被射线照相的物品。上述关于缺陷形状、尺寸和位置的讨论，同样适用于夹杂和空洞。此外，含有外来物质的缺陷还可能成为腐蚀源。
 
 #### 辐射危害
 

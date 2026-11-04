@@ -18,6 +18,12 @@ A number with a negative power equals its reciprocal with the same power made po
 
 2-3 = 1 23 = 1 2 × 2 × 2 = 1 8 When using a calculator to raise a negative number to a power, always place parentheses around the negative number (before raising it to a power) so that the entire number gets raised to the power.
 
+### Fractional Powers
+
+Another way to write a root is to use a fraction as the power (or exponent) instead of the radical sign. The square root of a number is written with a 1⁄2 as the exponent instead of a radical sign. The cube root of a number is written with an exponent of 1⁄3 and the fourth root with an exponent of 1⁄4 and so on.
+
+Example: 31 = 31 1⁄2 3 125 = 1251⁄3 4 16 = 161⁄4
+
 ### Law of Exponents
 
 When multiplying numbers with powers, the powers can be added as long as the bases are the same. Example:
@@ -44,12 +50,6 @@ Powers of Ten Expansion Value Positive Exponents 106 105 104 103 102 101 100 1,0
 
 The cube root of 125, written as 3 125, equals 5. That is, when the number 5 is cubed (5 multiplied by itself then multiplying the product (25) by 5 again), it produces the number 125. It is common to confuse the “cube” of a number with the “cube root” of a number. For clarification, the cube of 27 = 273 = 27 × 27 × 27 = 19,683. However, the cube root of 27 = 3 27 = 3.
 
-### Fractional Powers
-
-Another way to write a root is to use a fraction as the power (or exponent) instead of the radical sign. The square root of a number is written with a 1⁄2 as the exponent instead of a radical sign. The cube root of a number is written with an exponent of 1⁄3 and the fourth root with an exponent of 1⁄4 and so on.
-
-Example: 31 = 31 1⁄2 3 125 = 1251⁄3 4 16 = 161⁄4
-
 ## 2. 中文翻译
 
 一个数的幂（或指数）是一种简写方法，用来表示一个数（称为底数）自身相乘多少次。例如，3 4 读作「3 的 4 次幂」。也就是说，3 自身相乘 4 次。这里的 3 是底数，4 是幂（原文此处 3⁴ 的上标在抽文中被排到同一行，失去上标位置，下同）。例：23 = 2 × 2 × 2 = 8 −5 −4 −3 −2 −1 0 +1 +2 +3 +4 +5 读作「二的三次方等于 8」。
@@ -65,6 +65,12 @@ Example: 31 = 31 1⁄2 3 125 = 1251⁄3 4 16 = 161⁄4
 带负幂的数等于其倒数的同次正幂。例：数 2 -3 读作「2 的负 3 次幂」，其计算方法如下：
 
 （原文此处为分式竖式，2⁻³ = 1⁄2³ = 1⁄(2 × 2 × 2) = 1⁄8，抽文中分数线与上标丢失：）2-3 = 1 23 = 1 2 × 2 × 2 = 1 8 用计算器把负数乘方时，务必在负数外加一对括号（在乘方之前），使整个数都被乘方。
+
+### 分数幂
+
+写根的另一种方法是用分数作幂（或指数），而不用根号。一个数的平方根写成指数 1⁄2 的形式，而不用根号。一个数的立方根写成指数 1⁄3，四次方根写成指数 1⁄4，依此类推。
+
+例：（原文此处为根式与分数幂的对照，根号与分数线在抽文中丢失：）31 = 31 1⁄2 3 125 = 1251⁄3 4 16 = 161⁄4
 
 ### 指数定律
 
@@ -91,12 +97,6 @@ Example: 31 = 31 1⁄2 3 125 = 1251⁄3 4 16 = 161⁄4
 （原文此处为表格数据：1/(10 x 10 x 10 x 10 x 10)）
 
 125 的立方根写作 3 125，等于 5。也就是说，当数 5 立方（5 自乘，再把积 25 乘以 5），得到数 125。人们常把一个数的「立方」与一个数的「立方根」混淆。为澄清起见，27 的立方 = 273 = 27 × 27 × 27 = 19,683。而 27 的立方根 = 3 27 = 3。（原文此处 ∛125、27³、∛27 的根号与上标在抽文中被排平。）
-
-### 分数幂
-
-写根的另一种方法是用分数作幂（或指数），而不用根号。一个数的平方根写成指数 1⁄2 的形式，而不用根号。一个数的立方根写成指数 1⁄3，四次方根写成指数 1⁄4，依此类推。
-
-例：（原文此处为根式与分数幂的对照，根号与分数线在抽文中丢失：）31 = 31 1⁄2 3 125 = 1251⁄3 4 16 = 161⁄4
 
 ## 3. 专业词汇
 

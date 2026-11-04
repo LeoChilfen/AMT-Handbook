@@ -106,16 +106,6 @@ The hand beading tool is used with tubing having 1⁄4" to 1" outside diameter. 
 
 Other methods and types of beading tools and machines are available, but the hand beading tool is used most often. As a rule, beading machines are limited to use with large diameter tubing, over 115⁄16", unless special rollers are supplied. The grip-die method of beading is confined to small tubing.
 
-### Fluid Line Identification
-
-Fluid lines in aircraft are often identified by markers made up of color codes, words, and geometric symbols. These markers identify each line’s function, content, and primary hazard.
-
-Fluid lines are marked, in most instances, with 1" tape or decals. On lines 4" in diameter (or larger), lines in oily environment, hot lines, and on some cold lines, steel tags may be used in place of tape or decals. Paint is used on lines in engine compartments where there is the possibility of tapes, decals, or tags being drawn into the engine induction system.
-
-In addition to the above-mentioned markings, certain lines may be further identified regarding specific function within a system (e.g., drain, vent, pressure, or return). Lines conveying fuel may be marked FLAM; lines containing toxic materials are marked TOXIC in place of FLAM. Lines containing physically dangerous materials, such as oxygen, nitrogen, or FreonTM, may be marked PHDAN.
-
-Aircraft and engine manufacturers are responsible for the original installation of identification markers, but the aviation mechanic is responsible for the replacement when it becomes necessary. Tapes and decals are generally placed on both ends of a line and at least once in each compartment through which lines run. In addition, identification markers are placed immediately adjacent to each valve, regulator, filter, or other accessories within a line. Where paint or tags are used, location requirements are the same as for tapes and decals.
-
 ### Fluid Line End Fittings
 
 Depending on the type and use, fittings have either pipe threads or machine threads. Pipe threads are similar to those used in ordinary plumbing and are tapered, both internal and external. External threads are referred to as male threads and internal threads are female threads. When two fittings are joined, a male into a female, the thread taper forms a seal. Some form of pipe thread lubricant approved for particular fluid application should be used when joining pipe threads to prevent seizing and high-pressure leakage. Use care when applying thread lubricant so that the lubricant does not enter and contaminate the system. Do not use lubricants on oxygen lines. Oxygen reacts with petroleum products and can ignite (special lubricants are available or oxygen systems).
@@ -153,6 +143,16 @@ MS flareless fittings are designed primarily for high-pressure (3,000 psi) hydra
 #### Swaged Fittings
 
 A popular repair system for connecting and repairing hydraulic lines on transport category aircraft is the use of Permaswage™ fittings. Swaged fittings create a permanent
+
+### Fluid Line Identification
+
+Fluid lines in aircraft are often identified by markers made up of color codes, words, and geometric symbols. These markers identify each line’s function, content, and primary hazard.
+
+Fluid lines are marked, in most instances, with 1" tape or decals. On lines 4" in diameter (or larger), lines in oily environment, hot lines, and on some cold lines, steel tags may be used in place of tape or decals. Paint is used on lines in engine compartments where there is the possibility of tapes, decals, or tags being drawn into the engine induction system.
+
+In addition to the above-mentioned markings, certain lines may be further identified regarding specific function within a system (e.g., drain, vent, pressure, or return). Lines conveying fuel may be marked FLAM; lines containing toxic materials are marked TOXIC in place of FLAM. Lines containing physically dangerous materials, such as oxygen, nitrogen, or FreonTM, may be marked PHDAN.
+
+Aircraft and engine manufacturers are responsible for the original installation of identification markers, but the aviation mechanic is responsible for the replacement when it becomes necessary. Tapes and decals are generally placed on both ends of a line and at least once in each compartment through which lines run. In addition, identification markers are placed immediately adjacent to each valve, regulator, filter, or other accessories within a line. Where paint or tags are used, location requirements are the same as for tapes and decals.
 
 ### Rigid Tubing Installation and Inspection
 
@@ -308,16 +308,6 @@ When replacing rigid tubing, ensure that the layout of the new line is the same 
 
 还有其他方法以及不同类型的手动滚压凸缘工具和机器，但手动滚压凸缘工具使用最普遍。一般来说，滚压凸缘机仅限于加工直径较大（超过 115⁄16 英寸）的导管，除非配有专用滚轮。夹持模滚压法只适用于小导管。
 
-### 流体管路识别
-
-飞机上的流体管路常用由色标、文字和几何符号组成的标记来识别。这些标记标明每条管路的功能、所含介质和主要危害。
-
-在多数情况下，流体管路用 1 英寸宽的胶带或贴标标记。对直径 4 英寸（或更大）的管路、油污环境中的管路、热管路以及某些冷管路，可用钢制标牌代替胶带或贴标。在发动机舱内，由于胶带、贴标或标牌有可能被吸入发动机进气系统，因此对那里的管路采用涂漆标记。
-
-除上述标记外，某些管路还可进一步标明其在系统中的具体功能（例如排放、通气、压力或回油）。输送燃油的管路可标记 FLAM；含有毒物质的管路用 TOXIC 代替 FLAM。含有氧气、氮气或 FreonTM 之类有生理危害物质的管路，可标记 PHDAN。
-
-飞机和发动机制造商负责最初安装识别标记，但在需要更换时，由航空维修人员负责。胶带和贴标一般贴在管路的两端，并在管路经过的每一舱段内至少贴一处。此外，识别标记还贴在管路内每个活门、调节器、滤子或其他附件紧邻的位置。使用涂漆或标牌时，位置要求与胶带和贴标相同。
-
 ### 流体管路端接头
 
 接头的螺纹有管螺纹和机螺纹两种，取决于其类型和用途。管螺纹与普通水暖管件上所用的螺纹相似，内、外都是锥螺纹。外螺纹称为阳螺纹，内螺纹称为阴螺纹。两个接头（一阳一阴）连接时，螺纹的锥度形成密封。连接管螺纹时，应使用经批准、适用于特定流体场合的某种管螺纹润滑剂，以防止咬死和高压渗漏。涂敷螺纹润滑剂时要小心，不要让润滑剂进入并污染系统。氧气管道上不得使用润滑剂。氧会与石油产品发生反应并可能起火（氧气系统有专用润滑剂可供使用）。
@@ -355,6 +345,16 @@ MS 无扩口接头主要设计用于可能承受剧烈振动或压力波动的�
 #### 压接式接头
 
 在运输类飞机上连接和修理液压管路时，一种常用的修理方案是使用 Permaswage™ 接头。压接式接头形成永久
+
+### 流体管路识别
+
+飞机上的流体管路常用由色标、文字和几何符号组成的标记来识别。这些标记标明每条管路的功能、所含介质和主要危害。
+
+在多数情况下，流体管路用 1 英寸宽的胶带或贴标标记。对直径 4 英寸（或更大）的管路、油污环境中的管路、热管路以及某些冷管路，可用钢制标牌代替胶带或贴标。在发动机舱内，由于胶带、贴标或标牌有可能被吸入发动机进气系统，因此对那里的管路采用涂漆标记。
+
+除上述标记外，某些管路还可进一步标明其在系统中的具体功能（例如排放、通气、压力或回油）。输送燃油的管路可标记 FLAM；含有毒物质的管路用 TOXIC 代替 FLAM。含有氧气、氮气或 FreonTM 之类有生理危害物质的管路，可标记 PHDAN。
+
+飞机和发动机制造商负责最初安装识别标记，但在需要更换时，由航空维修人员负责。胶带和贴标一般贴在管路的两端，并在管路经过的每一舱段内至少贴一处。此外，识别标记还贴在管路内每个活门、调节器、滤子或其他附件紧邻的位置。使用涂漆或标牌时，位置要求与胶带和贴标相同。
 
 ### 刚性导管安装与检查
 
