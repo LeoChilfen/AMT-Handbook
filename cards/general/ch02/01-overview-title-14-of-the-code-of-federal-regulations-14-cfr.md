@@ -12,7 +12,19 @@ The Federal Aviation Administration (FAA) regulations that govern today’s airc
 
 These regulations can be separated into the following three categories:
 
-1. Administrative 2. Airworthiness Certification 3. Airworthiness Operation Since 1958, these rules have typically been referred to as “FARs,” short for Federal Aviation Regulations. However, another set of regulations, Title 48, is titled “Federal Acquisitions Regulations,” and this has led to confusion with the use of the acronym “FAR.” Therefore, the FAA began to refer to specific regulations by the term “14 CFR part XX.” Most regulations and the sections within are odd numbered, because the FAA realized in 1958 when the Civil Aeronautics Regulations were recodified into the Federal Aviation Regulations that it would be necessary to add regulations later. Over the years, the FAA has sometimes seen the need to issue Special Federal Aviation Regulations (SFAR). These are frequently focused very specifically on a unique situation and are usually given a limited length of time for effectiveness. Note that the SFAR number is purely a sequential number and has no relevance to the regulation it is addressing or attached to. The remainder of this handbook focuses only on those regulations relative to airworthiness certification. It is fundamentally important that the definition of the term “airworthy” be clearly understood. Only recently did the FAA actually define the term “airworthy” in a regulation. (Refer to the 14 CFR part 3 excerpt following this paragraph.) Prior to this definition in part 3, the term could be implied from reading part 21, section 21.183. The term was defined in other non-regulatory FAA publications, and could also be implied from the text found in block 5 of FAA Form 8100-2, Standard Airworthiness Certificate. This certificate is required to be visibly placed on board each civil aircraft. (Refer to “Forms” presented later in this chapter.)
+1. Administrative
+
+2. Airworthiness Certification
+
+3. Airworthiness Operation
+
+Since 1958, these rules have typically been referred to as “FARs,” short for Federal Aviation Regulations. However, another set of regulations, Title 48, is titled “Federal Acquisitions Regulations,” and this has led to confusion with the use of the acronym “FAR.” Therefore, the FAA began to refer to specific regulations by the term “14 CFR part XX.” Most regulations and the sections within are odd numbered, because the FAA realized in 1958 when the Civil Aeronautics Regulations were recodified into the Federal Aviation Regulations that it would be necessary to add regulations later.
+
+Over the years, the FAA has sometimes seen the need to issue Special Federal Aviation Regulations (SFAR). These are frequently focused very specifically on a unique situation and are usually given a limited length of time for effectiveness. Note that the SFAR number is purely a sequential number and has no relevance to the regulation it is addressing or attached to.
+
+The remainder of this handbook focuses only on those regulations relative to airworthiness certification. It is fundamentally important that the definition of the term “airworthy” be clearly understood.
+
+Only recently did the FAA actually define the term “airworthy” in a regulation. (Refer to the 14 CFR part 3 excerpt following this paragraph.) Prior to this definition in part 3, the term could be implied from reading part 21, section 21.183. The term was defined in other non-regulatory FAA publications, and could also be implied from the text found in block 5 of FAA Form 8100-2, Standard Airworthiness Certificate. This certificate is required to be visibly placed on board each civil aircraft. (Refer to “Forms” presented later in this chapter.)
 
 ### Title 14 CFR Part 3—General Requirements
 
@@ -26,19 +38,15 @@ Definitions. The following terms have the stated meanings when used in 14 CFR pa
 
 Airworthiness can be divided into two areas: original airworthiness and recurrent airworthiness. There are three primary regulations that govern the airworthiness of an aircraft:
 
-Comment: Civil Aeronautics Manual (CAMs) contain both regulations and advisory material in the same document.
+1. 14 CFR part 21—Certification Procedures for Products and Parts
 
-HISTORICAL BACKGROUND OF 14 CFR PARTS 23, 25, 27, AND 29 Event Regulating Agency Rules and Regulations CAR 3 CAR 4b CAR 4b Large A/C, CAR 4T Transport CAR 4b CAR 3 CAR 4a-T, SR 422 Jets SR 422A SR 422B PART 25 PART 29 PART 27 PART 23 Civil Air Regulation CAR Part 04 Bulletin 7 Bulletin 7-A, CAR 04 <12,500 lb CAR 4a Small A/C, CAR 4a-T >12,500 lb CAR Part 6 Rotorcraft Part 7 Transport Rotorcraft >6,000 lb 1956 Part 6 Normal Rotorcraft 1956 Department of Commerce Aeronautics Branch 1926 Air Commerce Act Bureau of Air Commerce Civil Aeronautics Administration Federal Aviation Agency Federal Aviation Administration 1934 Consolidation of Functions 1935 Cutting Air Crash 1938 Civil Aeronautics Act 1946 First Helicopter Certificated 1958 Federal Aviation Act 1965 Codification of CARs to FARs 1966 Agency becomes Administration under DOT 1. 14 CFR part 21—Certification Procedures for Products and Parts 2. 14 CFR part 43—Maintenance, Preventive Maintenance, Rebuilding, and Alterations 3. 14 CFR part 91—General Operating and Flight Rules Although the history section that opens this chapter discusses the FAA as if it was a single unit, it is important to understand that there are various subgroups within the FAA, and each have different responsibilities of oversight in the aviation industry. These may vary by organizational chart or geographic location.
+2. 14 CFR part 43—Maintenance, Preventive Maintenance, Rebuilding, and Alterations
+
+3. 14 CFR part 91—General Operating and Flight Rules
+
+Although the history section that opens this chapter discusses the FAA as if it was a single unit, it is important to understand that there are various subgroups within the FAA, and each have different responsibilities of oversight in the aviation industry. These may vary by organizational chart or geographic location.
 
 The maintenance technician interacts mostly with FAA personnel from the Flight Standards Service (AFS) and the Flight Standards District Office (FSDO) but may also have some interaction with FAA personnel from the Aircraft Certification Service (AIR).
-
-Volume 1 Chapter I Parts 1–59 FAA, DOT Volume 2 Chapter I Parts 60–109 FAA, DOT Volume 3 Chapter I Parts 110–199 FAA, DOT Volume 4 Chapter II Parts 200–399 Office of Secretary, DOT Volume 5 Chapter V Parts 1200–1299 NASA Subchapter D Airmen Parts 60, 61, 63, 65, 67, 68 Subchapter E Airspace Parts 71, 73, 75, 77 Subchapter F Air Traffic and General Operating Rules Parts 91, 93, 95, 97, 99, 101, 103, 105, 107 Subchapter G Air Carriers and Operators Parts 110, 117, 119, 120, 121, 125, 129, 133, 135, 136, 137, 139 Subchapter H Schools and Other Certificated Agencies Parts 141, 142, 145, 147 Subchapter I Airports Parts 150, 151, 152, 153, 155, 156, 157, 158, 161, 169 Subchapter J Navigational Facilities Parts 170, 171 Subchapter K Administrative Regulations Parts 183, 185, 187, 189, 193 Subchapter L–M Reserved Subchapter N War Risk Insurance Parts 198, 199 Subchapter A Economic Regulations Parts 200–298 Subchapter B Procedural Regulations Parts 300–331 Subchapter C Reserved Subchapter D Special Regulations Parts 372–383 Subchapter E Organization Parts 385, 389 Subchapter F Policy Statements Parts 398, 399 Subchapter A Definitions and Abbreviations Parts 1, 3, 5 Subchapter B Procedural Rules Parts 11, 13, 14, 15, 16, 17 Subchapter C Aircraft Parts 21, 23, 25, 26, 27, 29, 31, 33, 34, 35, 36, 39, 43, 45, 47, 48, 49 Title 49 Transportation Congressional Act (Acts of Congress are Public Law)
-
-Code of Federal Regulations (CFR)
-
-Public Law Basis for Title 14 is PL 103-272 Title 14 Aeronautics and Space (Five Volumes)
-
-Subchapter A General Parts 400, 401 Subchapter B Procedure Parts 404, 405, 406 Subchapter C Licensing Parts 411–1199 Subchapter A Office of Management and Budget Part 1300 Subchapter B Air Transportation Stabilization Board Parts 1310–1399 Chapter III Parts 400–1199 Commercial Space Transportation, FAA Chapter VI Parts 1300–1399 Air Transportation System Stabilization
 
 ### Maintenance-Related Regulations
 
