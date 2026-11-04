@@ -144,12 +144,6 @@ The manufacturer of a life-limited part must either provide marking instructions
 
 Nationality and registration marks (commonly known as the N-number for U.S.-registered aircraft) can vary in size, depending on the year that the aircraft was built and whether or not the aircraft has been repainted. The most common size is at least 12 inches in height. Small aircraft built at least 30 years ago, or replicas of these, or experimental exhibition or amateur-built aircraft may use letters at least 2 inches in height. Only a few aircraft are authorized to display registration markings of at least 3 inches.
 
-2. Section 91.213—Inoperative Instruments and Equipment Paragraph (a)(2)—a letter of authorization from the FSDO authorizing the operation of the aircraft under a Minimum Equipment List (MEL) constitutes a STC and must be carried in the aircraft during flight.
-
-Subpart E—Maintenance, Preventive Maintenance, and Alterations (Sections 91.401 through 91.421)
-
-This is the section of most interest to the technician. They must be familiar with it, because it does carry some (indirect) responsibility for the technician. This is because section 91.403(b) states, “No person may perform maintenance, preventive maintenance, or alterations on an aircraft other than as prescribed in this subpart and other applicable regulations, including part 43 of this chapter.” A more complete discussion of this regulation, especially Subpart E—Maintenance, Preventive Maintenance, and Alterations is presented later in this chapter.
-
 #### 14 CFR Part 47—Aircraft Registration
 
 This regulation provides the requirements for registering aircraft. It includes procedures for both owner and dealer registration of aircraft.
@@ -178,6 +172,12 @@ This is the final regulation of the three major regulations identified earlier i
 
 1. Section 91.207—Emergency Locator Transmitters Paragraph (c)(2)—battery replacement interval and requirement for a logbook entry indicating the expiration date of the new battery.
 
+2. Section 91.213—Inoperative Instruments and Equipment Paragraph (a)(2)—a letter of authorization from the FSDO authorizing the operation of the aircraft under a Minimum Equipment List (MEL) constitutes a STC and must be carried in the aircraft during flight.
+
+Subpart E—Maintenance, Preventive Maintenance, and Alterations (Sections 91.401 through 91.421)
+
+This is the section of most interest to the technician. They must be familiar with it, because it does carry some (indirect) responsibility for the technician. This is because section 91.403(b) states, “No person may perform maintenance, preventive maintenance, or alterations on an aircraft other than as prescribed in this subpart and other applicable regulations, including part 43 of this chapter.” A more complete discussion of this regulation, especially Subpart E—Maintenance, Preventive Maintenance, and Alterations is presented later in this chapter.
+
 #### 14 CFR Part 119—Certification: Air Carriers and Commercial Operators
 
 In order to better understand the next three regulations discussed here (14 CFR parts 121, 125, and 135) a brief overview of 14 CFR part 119 is beneficial. There are more than 50 Advisory Circulars (ACs) in the 120 series alone providing additional non-regulatory information concerning the variety of procedures involved with these operations. There are basically three different criteria that must be analyzed in order to properly determine the regulation that applies. These are:
@@ -189,12 +189,6 @@ In order to better understand the next three regulations discussed here (14 CFR 
 3. Is it a large or small aircraft?
 
 AC 120-12, as revised, provides the following definition regarding this criterion: A carrier becomes a common carrier when it “holds itself out” to the public, or to a segment of the public, as willing to furnish transportation within the limits of its facilities to any person who wants it. There are four elements in defining a common carrier: 1. A holding out of a willingness to 2. Transport persons or property 3. From place to place 4. For compensation
-
-#### 14 CFR Part 121—Operating Requirements: Domestic, Flag, and Supplemental Operations
-
-Title 14 CFR part 121 establishes the operational rules for air carriers flying for compensation or hire. A domestic operation is any scheduled operation (within the 48 contiguous states, the District of Columbia, or any territory or possession) conducted with either a turbo-jet aircraft, an airplane having 10 or more passenger seats, or a payload capacity greater than 7,500 pounds. A “flag” operation means any scheduled operation (operating in Alaska or Hawaii to any point outside of those states, or to any territory or possession of the United States, or from any point outside the United States to any point outside the United States) conducted with either a turbo-jet aircraft, an airplane having 10 or more passenger seats, or a payload capacity greater than 7,500 pounds. “Supplemental” operation means any common carriage operation conducted with airplanes having more than 30 passenger seats (if less than 30, the airplane must also be listed on the operations specifications of domestic and flag carriers), with a payload capacity of more than 7,500 pounds. Part 121 operators are required by 14 CFR part 119 to have the following personnel:
-
-• Director of Safety
 
 This “holding out” that makes a person a common carrier can be done in many ways, and it does not matter how it is done. Signs and advertising are the most direct means of “holding out,” but are not the only ones.
 
@@ -221,6 +215,12 @@ Operations that constitute common carriage are required to be conducted under 14
 9. Parachute operations on nonstop flights within 25 NM from the departure airport
 
 10. Fractional ownership in accordance with 14 CFR part 91, subpart K
+
+#### 14 CFR Part 121—Operating Requirements: Domestic, Flag, and Supplemental Operations
+
+Title 14 CFR part 121 establishes the operational rules for air carriers flying for compensation or hire. A domestic operation is any scheduled operation (within the 48 contiguous states, the District of Columbia, or any territory or possession) conducted with either a turbo-jet aircraft, an airplane having 10 or more passenger seats, or a payload capacity greater than 7,500 pounds. A “flag” operation means any scheduled operation (operating in Alaska or Hawaii to any point outside of those states, or to any territory or possession of the United States, or from any point outside the United States to any point outside the United States) conducted with either a turbo-jet aircraft, an airplane having 10 or more passenger seats, or a payload capacity greater than 7,500 pounds. “Supplemental” operation means any common carriage operation conducted with airplanes having more than 30 passenger seats (if less than 30, the airplane must also be listed on the operations specifications of domestic and flag carriers), with a payload capacity of more than 7,500 pounds. Part 121 operators are required by 14 CFR part 119 to have the following personnel:
+
+• Director of Safety
 
 • Director of Operations
 
@@ -370,8 +370,6 @@ As the aviation industry grows and the design, manufacture, and testing of aircr
 
 适航可分为两个方面：原始适航与持续（循环）适航。管辖航空器适航的主要规章有三部：
 
-评注：《民用航空手册》（CAMs）在同一份文件中同时载有规章与咨询性材料。
-
 1. 14 CFR part 21——产品与部件的审定程序
 
 2. 14 CFR part 43——维修、预防性维修、翻修与改装
@@ -399,6 +397,8 @@ As the aviation industry grows and the design, manufacture, and testing of aircr
 该 part 规定了必须满足的适航标准，制造商才能取得 TC，航空器才能取得适航证。part 23 航空器指最大审定起飞重量为 12,500 磅或以下的航空器，但通勤类航空器除外；通勤类航空器的最大审定起飞重量上限提高到 19,000 磅或以下。
 
 part 23 共有七个分部，其中六个分部给出这类航空器设计的详细准则。第一个分部，即分部 A，规定本规章的适用范围。其余分部为：
+
+• 分部 B——飞行
 
 • 分部 C——结构
 
@@ -478,14 +478,6 @@ CFR 第 14 编 part 45 包括对航空器、发动机、螺旋桨、某些更换
 
 国籍与登记标志（美国登记航空器通常称为 N 号）的高低尺寸会因航空器建造年份以及是否重新喷漆而不同。最常见的尺寸是高度至少 12 英寸。建造于至少 30 年前的航空器，或其复制品，或实验类展示用或业余制造的航空器，可以使用高度至少 2 英寸的字母。只有少数航空器被批准显示高度至少 3 英寸的登记标记。
 
-“上述航空器或部件的重大改装所附的修订/新版持续适航说明（日期______）已获 FAA 接受，取代原持续适航说明（日期______）。”修订获接受后，将在 FAA Form 337 上作出维修记录记载，注明该修订、其位置和日期。
-
-2. 第 91.213 节——不工作的仪表与设备 第（a）（2）款——飞行标准地区办公室（FSDO）授权航空器按最低设备清单（MEL）运行的授权书构成一项 STC，且飞行中必须随机携带。
-
-分部 E——维修、预防性维修与改装（第 91.401 至 91.421 节）
-
-这是维修技术员最关心的一节。他们必须熟悉这一节，因为它确实为技术员带来了一些（间接的）责任。这是因为第 91.403(b) 节规定：“任何人不得以本分部及其他适用规章（包括本章 part 43）规定以外的方式对航空器实施维修、预防性维修或改装。”本章后文将对该规章、特别是分部 E——维修、预防性维修与改装作更完整的讨论。
-
 #### 14 CFR part 47——航空器登记
 
 本规章规定了航空器登记的要求，其中包括机主登记与经销商登记两套程序。
@@ -514,6 +506,12 @@ CFR 第 14 编 part 45 包括对航空器、发动机、螺旋桨、某些更换
 
 1. 第 91.207 节——应急定位发射机 第（c）（2）款——电瓶更换间隔，以及要求日志记载以表明新电瓶的到期日期。
 
+2. 第 91.213 节——不工作的仪表与设备 第（a）（2）款——飞行标准地区办公室（FSDO）授权航空器按最低设备清单（MEL）运行的授权书构成一项 STC，且飞行中必须随机携带。
+
+分部 E——维修、预防性维修与改装（第 91.401 至 91.421 节）
+
+这是维修技术员最关心的一节。他们必须熟悉这一节，因为它确实为技术员带来了一些（间接的）责任。这是因为第 91.403(b) 节规定：“任何人不得以本分部及其他适用规章（包括本章 part 43）规定以外的方式对航空器实施维修、预防性维修或改装。”本章后文将对该规章、特别是分部 E——维修、预防性维修与改装作更完整的讨论。
+
 #### 14 CFR part 119——审定：航空承运人与商业运营人
 
 为了更好地理解接下来讨论的三部规章（14 CFR parts 121、125 和 135），先简要了解 14 CFR part 119 是有益的。仅在 120 系列中就有 50 多部咨询通告（AC），提供与这些运行所涉各类程序有关的附加非规章性信息。基本上有三种不同的判断标准需要分析，才能正确确定适用哪部规章。它们是：
@@ -525,12 +523,6 @@ CFR 第 14 编 part 45 包括对航空器、发动机、螺旋桨、某些更换
 3. 该航空器是大型还是小型？
 
 经修订的 AC 120-12 就这一标准给出如下定义：当承运人向公众或公众中的某一部分“公开表明（holds itself out）”其愿意在其设施能力范围内向任何有需求的人提供运输时，它就成为公共承运人。界定公共承运人有四个要素：1. 公开表明愿意 2. 运输人员或财物 3. 从一地到另一地 4. 获取报酬
-
-#### 14 CFR part 121——运行要求：国内、旗标与补充运行
-
-14 CFR part 121 确立了以获取报酬或出租方式运行的航空承运人的运行规则。国内运行指使用涡轮喷气航空器、座位数 10 个及以上的飞机或商载能力大于 7,500 磅的飞机，在美国本土 48 州、哥伦比亚特区或任何领地、属地范围内实施的任何定期运行。“旗标”运行指使用涡轮喷气航空器、座位数 10 个及以上的飞机或商载能力大于 7,500 磅的飞机实施的任何定期运行（在阿拉斯加或夏威夷至这些州以外任何地点之间运行，或至美国任何领地、属地，或从美国境外任何地点至美国境外任何地点）。“补充”运行指使用座位数超过 30 个（若少于 30 个，该飞机还必须列入国内与旗标承运人的运行规范）、商载能力大于 7,500 磅的飞机实施的任何公共运输运行。14 CFR part 119 要求 part 121 运营人配备下列人员：
-
-• 安全主管
 
 使某人成为公共承运人的这种“公开表明”可以通过多种方式进行，至于如何做并不重要。招牌和广告是最直接的“公开表明”手段，但并非唯一手段。
 
@@ -557,6 +549,12 @@ CFR 第 14 编 part 45 包括对航空器、发动机、螺旋桨、某些更换
 9. 在距起飞机场 25 海里以内的直达航班上进行的跳伞作业
 
 10. 按 14 CFR part 91 分部 K 的分时共有
+
+#### 14 CFR part 121——运行要求：国内、旗标与补充运行
+
+14 CFR part 121 确立了以获取报酬或出租方式运行的航空承运人的运行规则。国内运行指使用涡轮喷气航空器、座位数 10 个及以上的飞机或商载能力大于 7,500 磅的飞机，在美国本土 48 州、哥伦比亚特区或任何领地、属地范围内实施的任何定期运行。“旗标”运行指使用涡轮喷气航空器、座位数 10 个及以上的飞机或商载能力大于 7,500 磅的飞机实施的任何定期运行（在阿拉斯加或夏威夷至这些州以外任何地点之间运行，或至美国任何领地、属地，或从美国境外任何地点至美国境外任何地点）。“补充”运行指使用座位数超过 30 个（若少于 30 个，该飞机还必须列入国内与旗标承运人的运行规范）、商载能力大于 7,500 磅的飞机实施的任何公共运输运行。14 CFR part 119 要求 part 121 运营人配备下列人员：
+
+• 安全主管
 
 • 运行主管
 
