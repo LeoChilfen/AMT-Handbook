@@ -1,8 +1,6 @@
-# Overview — Title 14 of the Code of Federal
-Regulations (14 CFR)
+# Overview — Title 14 of the Code of Federal Regulations (14 CFR)
 
-> 通用 Ch 02 · Overview — Title 14 of the Code of Federal
-Regulations (14 CFR) · 原文 PDF 第 51 页
+> 通用 Ch 02 · Overview — Title 14 of the Code of Federal Regulations (14 CFR) · 原文 PDF 第 51 页
 
 ## 1. 原文
 
@@ -18,13 +16,7 @@ These regulations can be separated into the following three categories:
 
 3. Airworthiness Operation
 
-Since 1958, these rules have typically been referred to as “FARs,” short for Federal Aviation Regulations. However, another set of regulations, Title 48, is titled “Federal Acquisitions Regulations,” and this has led to confusion with the use of the acronym “FAR.” Therefore, the FAA began to refer to specific regulations by the term “14 CFR part XX.” Most regulations and the sections within are odd numbered, because the FAA realized in 1958 when the Civil Aeronautics Regulations were recodified into the Federal Aviation Regulations that it would be necessary to add regulations later.
-
-Over the years, the FAA has sometimes seen the need to issue Special Federal Aviation Regulations (SFAR). These are frequently focused very specifically on a unique situation and are usually given a limited length of time for effectiveness. Note that the SFAR number is purely a sequential number and has no relevance to the regulation it is addressing or attached to.
-
-The remainder of this handbook focuses only on those regulations relative to airworthiness certification. It is fundamentally important that the definition of the term “airworthy” be clearly understood.
-
-Only recently did the FAA actually define the term “airworthy” in a regulation. (Refer to the 14 CFR part 3 excerpt following this paragraph.) Prior to this definition in part 3, the term could be implied from reading part 21, section 21.183. The term was defined in other non-regulatory FAA publications, and could also be implied from the text found in block 5 of FAA Form 8100-2, Standard Airworthiness Certificate. This certificate is required to be visibly placed on board each civil aircraft. (Refer to “Forms” presented later in this chapter.)
+Since 1958, these rules have typically been referred to as “FARs,” short for Federal Aviation Regulations. However, another set of regulations, Title 48, is titled “Federal Acquisitions Regulations,” and this has led to confusion with the use of the acronym “FAR.” Therefore, the FAA began to refer to specific regulations by the term “14 CFR part XX.” Most regulations and the sections within are odd numbered, because the FAA realized in 1958 when the Civil Aeronautics Regulations were recodified into the Federal Aviation Regulations that it would be necessary to add regulations later. Over the years, the FAA has sometimes seen the need to issue Special Federal Aviation Regulations (SFAR). These are frequently focused very specifically on a unique situation and are usually given a limited length of time for effectiveness. Note that the SFAR number is purely a sequential number and has no relevance to the regulation it is addressing or attached to. The remainder of this handbook focuses only on those regulations relative to airworthiness certification. It is fundamentally important that the definition of the term “airworthy” be clearly understood. Only recently did the FAA actually define the term “airworthy” in a regulation. (Refer to the 14 CFR part 3 excerpt following this paragraph.) Prior to this definition in part 3, the term could be implied from reading part 21, section 21.183. The term was defined in other non-regulatory FAA publications, and could also be implied from the text found in block 5 of FAA Form 8100-2, Standard Airworthiness Certificate. This certificate is required to be visibly placed on board each civil aircraft. (Refer to “Forms” presented later in this chapter.)
 
 ### Title 14 CFR Part 3—General Requirements
 
@@ -37,6 +29,8 @@ Definitions. The following terms have the stated meanings when used in 14 CFR pa
 • Record means any writing, drawing, map, recording, tape, film, photograph or other documentary material by which information is preserved or conveyed in any format, including, but not limited to, paper, microfilm, identification plates, stamped marks, bar codes or electronic format, and can either be separate from, attached to or inscribed on any product, part, appliance or material.
 
 Airworthiness can be divided into two areas: original airworthiness and recurrent airworthiness. There are three primary regulations that govern the airworthiness of an aircraft:
+
+Comment: Civil Aeronautics Manual (CAMs) contain both regulations and advisory material in the same document.
 
 1. 14 CFR part 21—Certification Procedures for Products and Parts
 
@@ -56,9 +50,7 @@ This section is a very comprehensive, but certainly not all inclusive, list of d
 
 #### 14 CFR Part 21—Certification Procedures for Products and Articles
 
-This regulation, the first of the three, identifies the requirements of and the procedures for obtaining type Special Federal Aviation Regulations SFAR No Title Appears in 14 CFR Table of Contents Special Federal Aviation Regulation No. 23 Fuel venting and exhaust emission requirements for turbine engine powered airplanes. Special Flight rules in the Vicinity of the Grand Canyon National Park, AZ Removal of this SFAR effective 10/8/2004 - Prohibition Against Certain Flights Between the United States and Libya Special Operating Rules for Air Tour Operators in the State of Hawaii Robinson R-22/R-44 Special Training and Experience Requirements Prohibition Against Certain Flights Within the Territory and Airspace of Iraq Prohibition Against Certain Flights Within the Flight Information Region of the Democratic People's Republic of Korea Prohibition Against Certain Flights within the Territory and Airspace of Sudan Prohibition Against Certain Flights Within the Territory and Airspace of Serbia-Montenegro Airspace and Flight Operations Requirement for the Kodak Albuquerque International Balloon Fiesta; Albuquerque, NM Fuel Tank System Fault Tolerance Evaluation Requirements Special Federal Aviation Regulation No. 97 - Special Operating Rules for the Conduct of Instrument Flight Rules (IFR) Area Navigation (RNAV) Operations using Global Positioning Systems (GPS) in Alaska Construction or Alteration in the Vicinity of the Private Residence of the President of the United States Relief for U.S. Military and Civilian Personnel Who Are Assigned Outside the United States in Support of U.S. Armed Forces Operations Process for Requesting Waiver of Mandatory Separation Age for Certain Federal Aviation Administration (FAA) Air Traffic Control Specialists Prohibition Against Certain Flights by Syrian Air Carriers to the United States Special Federal Aviation Regulation No. 108 - Mitsubishi MU-2B Series Airplane Special Training, Experience, and Operating Requirements Special Requirements for Private Use Transport Category Airplanes Prohibition Against Certain Flights Within the Tripoli (HLLL) Flight Information Region (FIR)
-
-Part 25 Part 23 Part 11 Part 91 Part 91 Part 91 Part 61 Part 91 Part 91 Part 91 Part 91 Part 91 Parts 21, 25, 91, 121, 125, 129 Parts 71, 91, 95, 121, 125, 129, 135 Part 77 Parts 61, 63, 65 Part 65 Part 91 Part 91 Parts 21, 25, 119 Part 91 13 23 71 73 77 79 82 84 86 88 97 98 103 104 108 109 112 certificates (TCs), supplemental type certificates (STCs), production certificates, airworthiness certificates, and import and export approvals. Some of the other major areas covered in this part are the procedures for obtaining a Part Manufacture Approval (PMA) or an authorization related to producing a Technical Standard Order (TSO) part. Note that part 21’s greatest significance is in the original airworthiness phase, although it has minor application in recurrent airworthiness. One of the most important sections of this regulation is section 21.50, “Instructions for continued airworthiness and manufacturer’s maintenance manuals having airworthiness limitations sections.” When an aircraft is delivered new from the manufacturer, it comes with maintenance manuals that define the inspection and maintenance actions necessary to maintain the aircraft in airworthy condition. Also, any STC modification that was developed after 1981 must have, as part of the STC documentation, a complete set of instructions for continued airworthiness (ICA). This ICA contains inspection and maintenance information intended to be used by the technician in maintaining that part of the aircraft that has been altered since it was new. This ICA is comprised of 16 specific subjects. An ICA developed in accordance with this checklist should be acceptable to the Aviation Safety Inspector (ASI) reviewing a major alteration.
+This regulation, the first of the three, identifies the requirements of and the procedures for obtaining type certificates (TCs), supplemental type certificates (STCs), production certificates, airworthiness certificates, and import and export approvals. Some of the other major areas covered in this part are the procedures for obtaining a Part Manufacture Approval (PMA) or an authorization related to producing a Technical Standard Order (TSO) part. Note that part 21’s greatest significance is in the original airworthiness phase, although it has minor application in recurrent airworthiness. One of the most important sections of this regulation is section 21.50, “Instructions for continued airworthiness and manufacturer’s maintenance manuals having airworthiness limitations sections.” When an aircraft is delivered new from the manufacturer, it comes with maintenance manuals that define the inspection and maintenance actions necessary to maintain the aircraft in airworthy condition. Also, any STC modification that was developed after 1981 must have, as part of the STC documentation, a complete set of instructions for continued airworthiness (ICA). This ICA contains inspection and maintenance information intended to be used by the technician in maintaining that part of the aircraft that has been altered since it was new. This ICA is comprised of 16 specific subjects. An ICA developed in accordance with this checklist should be acceptable to the Aviation Safety Inspector (ASI) reviewing a major alteration.
 
 #### 14 CFR Part 23—Airworthiness Standards: Normal, Utility, Acrobatic, and Commuter Category Airplanes
 
@@ -76,7 +68,9 @@ Part 23 has seven subparts, six of them providing detailed criteria for the desi
 
 • Subpart F—Equipment
 
-• Subpart G—Flightcrew Interface and Other Information Within each of these subparts are numerous sections that specify details, such as center of gravity (CG), gust load factors, removable fasteners, the shape of certain flight deck controls, engine and propeller requirements, fuel tank markings, flight deck instrumentation marking and placards, cabin aisle width, and flammability resistant standards.
+• Subpart G—Flightcrew Interface and Other Information
+
+Within each of these subparts are numerous sections that specify details, such as center of gravity (CG), gust load factors, removable fasteners, the shape of certain flight deck controls, engine and propeller requirements, fuel tank markings, flight deck instrumentation marking and placards, cabin aisle width, and flammability resistant standards.
 
 #### 14 CFR Part 25—Airworthiness Standards: Transport Category Airplanes
 
@@ -89,32 +83,6 @@ This regulation deals with the small rotor wing aircraft and is consistent with 
 #### 14 CFR Part 29—Airworthiness Standards: Transport Category Rotorcraft
 
 This section specifies those standards applicable to helicopters with a maximum certified weight greater than 7,000 pounds. However, it also includes additional parameters based upon seating capacity and an additional weight limit. Those parameters are passenger seating, (nine or less, ten or more) and whether the helicopter is over or under a maximum weight of 20,000 pounds. The design subparts of part 29 are similar to those in 14 CFR parts 23, 25, and 27.
-
-13 23 25 27 29 31 33 34 35 36 39 21 Certification Procedures for Products and Parts 91 General Operating and Flight Rules 14 CFR §91.319 14 CFR §91.409 Fuel Venting and Exhaust Emission Requirements for Turbine Engine Powered Airplanes Noise Standards:
-
-Aircraft Type and Airworthiness Certification Airworthiness Standards: Normal, Utility, Acrobatic, and Commuter Category Airplanes Investigative and Enforcement Procedures Airworthiness Standards: Transport Category Airplanes 26 Continued Airworthiness and Safety Improvements for Transport Category Airplanes Airworthiness Standards: Normal Category Rotorcraft Airworthiness Standards: Transport Category Rotorcraft Airworthiness Standards: Manned Free Balloons Airworthiness Standards: Aircraft Engines Airworthiness Standards: Propellers Airworthiness Directives 45 Identification and Registration Marking 47 Aircraft Registration 183 Representatives of the Administrator Manufacturer 43.3(j)
-
-8110.37 DER Guidance Handbook DMIR DER DAR DAS DAR DPE DME DPRE §21.9(a)(5)
-
-Owner Operator Built Parts TC STC TSOA PMA §21.8(d)
-
-8110.42 Parts Manufacturing Approval Original Airworthiness Aircraft Certification Office (ACO) Certificate Management Office (CMO) Manufacturing Inspection District Office (MIDO)
-
-Aircraft Certification Service (AIR)— FAA ORDERS:
-
-8100.7, ACSEP 8110.4, Type Certification 8120.2, Production Approvals 8100.8 Designee Management Handbook 8130.2 Airworthiness Certification Suspected Unapproved Parts Program 2150.3 Compliance & Enforcement 8132.2 Designee Airworthiness Certification FAA ORDERS:
-
-8900.1 FSIMS 91 General Operating and Flight Rules 21 Certification Procedures for Products and Parts Subpart H, L, K 43 Maintenance, Preventive Maintenance, Rebuilding, and Alteration 119 Certification:
-
-Air Carriers and Commercial Operators 61 Certification: Pilots and Flight Instructors 63 Certification:
-
-Flight Crewmembers Other Than Pilots 120Drug and AlcoholTesting Program 45 Identification and Registration Marking 47 Aircraft Registration 183 Representatives of the Administrator § 43.5 No person may approve for return to service, unless...
-
-§ 43.5 Maintenance record entry required by §43.9 or §43.11, as appropriate § 43.13a Methods, techniques, and practices in current manufacturer’s maintenance manuals § 43.13b Work and materials of such a quality that condition will be at least equal to the original or property altered condition 145Repair Stations Operating Specifications Repair Station Manual 125 Certification and Operations: Airplanes Having a Seating Capacity of 20 or More Passengers or a Maximum Payload Capacity of 6,000 Pounds or More 8400.10 Deviation 8100.8 Designee Management Handbook 8130.2 Airworthiness Certification Suspected Unapproved Parts Program 2150.3 Compliance & Enforcement 8132.2 Designee Airworthiness Certification Recurrent Airworthiness Certificate Management Office (CMO) Flight Standards District Office (FSDO) International Field Office (IFO)
-
-135Air Taxi Operators and Commercial Operators 9 or Less 10 or More 121 Certification and Operation: Domestic, Flag, and Supplemental Air Carriers and Commercial Operators of Large Aircraft 8110.37 DER Guidance Handbook 14 CFR 43 Appendix B; FAA Form 337 DMIR DER DAR ODA DAR DPE DME DPRE Flight Standards Service (AFS)— 65 Certification:
-
-Airmen Other Than Flight Crewmembers A&P, IA Repairman Parachute Rigger Dispatcher
 
 #### 14 CFR Part 33—Airworthiness Standards: Aircraft Engines
 
@@ -148,7 +116,13 @@ Title 14 of the CFR part 45 includes the requirements for the identification of 
 
 5. Production certificate number (if any)
 
-6. For aircraft engines, the established rating 7. Reference to compliance or exemption to 14 CFR Part 34, Fuel Venting and Exhaust Emission Requirements for Turbine Engine Powered Airplanes 8. Any other information that the FAA determines to be appropriate Replacement and modification parts are produced in accordance with a Parts Manufacturer Approvals (PMA) (14 CFR part 21, section 21.303) and must have the following information permanently and legibly marked:
+6. For aircraft engines, the established rating
+
+7. Reference to compliance or exemption to 14 CFR Part 34, Fuel Venting and Exhaust Emission Requirements for Turbine Engine Powered Airplanes
+
+8. Any other information that the FAA determines to be appropriate
+
+Replacement and modification parts are produced in accordance with a Parts Manufacturer Approvals (PMA) (14 CFR part 21, section 21.303) and must have the following information permanently and legibly marked:
 
 1. The letters “FAA-PMA”
 
@@ -156,19 +130,21 @@ Title 14 of the CFR part 45 includes the requirements for the identification of 
 
 3. The part number
 
-4. The name and model designation for each type certificated product it can be installed on If a part has a specified replacement time, inspection interval, or other related procedure specification in the maintenance manual or ICA, that part must have a part number and a serial number (or the equivalent of each).
+4. The name and model designation for each type certificated product it can be installed on
+
+If a part has a specified replacement time, inspection interval, or other related procedure specification in the maintenance manual or ICA, that part must have a part number and a serial number (or the equivalent of each).
 
 The manufacturer of a life-limited part must either provide marking instructions for that part, or state that the part cannot be marked without a compromise to its integrity. Exceptions are made for the identification of parts that are too small to be practical to mark the required data.
 
-Nationality and registration marks (commonly known as the N-number for U.S.-registered aircraft) can vary in size, depending on the year that the aircraft was built and whether or not the aircraft has been repainted. The most common size is at least 12 inches in height. Small aircraft built at least 30 ITEM SUBJECT 1. Introduction: Briefly describes the aircraft, engine, propeller, or component that has been altered. Include any other information regarding the content, scope, purpose, arrangement, applicability, definitions, abbreviations, precautions, units of measurement, list of parts used, referenced publications, and distribution of the ICA, as applicable. 2. Description: Of the major alteration and its functions, including an explanation of its interface with other systems, if any. 3. Control, operation information: Or special procedures, if any. 4. Servicing information: Such as types of fluids used, servicing points, and location of access panels, as appropriate. 5. Maintenance instructions: Such as recommended inspection/maintenance periods in which each of the major alteration components are inspected, cleaned, lubricated, adjusted, and tested, including applicable wear tolerances and work recommended at each scheduled maintenance period. This section can refer to the manufacturers’ instructions for the equipment installed where appropriate (e.g., functional checks, repairs, inspections). It should also include any special notes, cautions, or warnings, as applicable. 6. Troubleshooting information: Describes probable malfunctions, how to recognize those malfunctions, and the remedial actions to take. 7. Removal and replacement information: Describes the order and method of removing and replacing products or parts, and any necessary precautions. This section should also describe or refer to manufacturer’s instructions to make required tests, checks, alignment, calibrations, center of gravity changes, lifting, or shoring, etc., if any. 8. Diagrams: Of access plates and information, if needed, to gain access for inspection. 9. Special inspection requirements: Such as X-ray, ultrasonic testing, or magnetic particle inspection, if required. 10. Application of protective treatments: To the affected area after inspection and/or maintenance, if any. 11. Data: Relative to structural fasteners such as type, torque, and installation requirements, if any. 12. List of special tools: Special tools that are required, if any. 13. For commuter category aircraft: Provide the following additional information, as applicable: A. Electrical loads B. Methods of balancing flight controls C. Identification of primary and secondary structures D. Special repair methods applicable to the aircraft 14. Recommended overhaul periods: Required to be noted on the ICA when an overhaul period has been established by the manufacturer of a component or equipment. If no overhaul period exists, the ICA should state for item 14, “No additional overhaul time limitations.” 15. Airworthiness limitation section: Includes any “approved” airworthiness limitations identified by the manufacturer or FAA Type Certificate Holding Office (e.g., An STC incorporated in a larger field-approved major alteration may have an airworthiness limitation). The FAA inspector should not establish, alter, or cancel airworthiness limitations without coordinating with the appropriate FAA Type Certificate Holding Office. If no changes are made to the airworthiness limitations, the ICA should state for item 15, “No additional airworthiness limitations” or “Not Applicable.” 16. Revision: Includes information on how to revise the ICA. For example, a letter will be submitted to the local FAA Office with a copy of the revised FAA Form 337 and revised ICA. The FAA inspector accepts the change by signing block 3 and including the following statement:
+Nationality and registration marks (commonly known as the N-number for U.S.-registered aircraft) can vary in size, depending on the year that the aircraft was built and whether or not the aircraft has been repainted. The most common size is at least 12 inches in height. Small aircraft built at least 30 years ago, or replicas of these, or experimental exhibition or amateur-built aircraft may use letters at least 2 inches in height. Only a few aircraft are authorized to display registration markings of at least 3 inches.
 
 “The attached revised/new Instructions for Continued Airworthiness (date______) for the above aircraft or component major alteration have been accepted by the FAA, superseding the Instructions for Continued Airworthiness (date______).” After the revision has been accepted, a maintenance record entry will be made, identifying the revision, its location, and date on the FAA Form 337.
 
-SAMPLE expiration date of the new battery.
-
 2. Section 91.213—Inoperative Instruments and Equipment Paragraph (a)(2)—a letter of authorization from the FSDO authorizing the operation of the aircraft under a Minimum Equipment List (MEL) constitutes a STC and must be carried in the aircraft during flight.
 
-Subpart E—Maintenance, Preventive Maintenance, and Alterations (Sections 91.401 through 91.421) This is the section of most interest to the technician. They must be familiar with it, because it does carry some (indirect) responsibility for the technician. This is because section 91.403(b) states, “No person may perform maintenance, preventive maintenance, or alterations on an aircraft other than as prescribed in this subpart and other applicable regulations, including part 43 of this chapter.” A more complete discussion of this regulation, especially Subpart E—Maintenance, Preventive Maintenance, and Alterations is presented later in this chapter.
+Subpart E—Maintenance, Preventive Maintenance, and Alterations (Sections 91.401 through 91.421)
+
+This is the section of most interest to the technician. They must be familiar with it, because it does carry some (indirect) responsibility for the technician. This is because section 91.403(b) states, “No person may perform maintenance, preventive maintenance, or alterations on an aircraft other than as prescribed in this subpart and other applicable regulations, including part 43 of this chapter.” A more complete discussion of this regulation, especially Subpart E—Maintenance, Preventive Maintenance, and Alterations is presented later in this chapter.
 
 #### 14 CFR Part 119—Certification: Air Carriers and Commercial Operators
 
@@ -178,7 +154,9 @@ In order to better understand the next three regulations discussed here (14 CFR 
 
 2. Is the aircraft For Hire or is it Not for Hire?
 
-3. Is it a large or small aircraft? AC 120-12, as revised, provides the following definition regarding this criterion: A carrier becomes a common carrier when it “holds itself out” to the public, or to a segment of the public, as willing to furnish transportation within the limits of its facilities to any person who wants it. There are four elements in defining a common carrier: 1. A holding out of a willingness to 2. Transport persons or property 3. From place to place 4. For compensation years ago, or replicas of these, or experimental exhibition or amateur-built aircraft may use letters at least 2 inches in height. Only a few aircraft are authorized to display registration markings of at least 3 inches.
+3. Is it a large or small aircraft?
+
+AC 120-12, as revised, provides the following definition regarding this criterion: A carrier becomes a common carrier when it “holds itself out” to the public, or to a segment of the public, as willing to furnish transportation within the limits of its facilities to any person who wants it. There are four elements in defining a common carrier: 1. A holding out of a willingness to 2. Transport persons or property 3. From place to place 4. For compensation
 
 #### 14 CFR Part 47—Aircraft Registration
 
@@ -196,7 +174,9 @@ Pilots, flight instructors, and ground instructors are certificated under 14 CFR
 
 • Subpart E—Repairmen
 
-• Subpart F—Parachute Riggers A more detailed discussion of this chapter with a special emphasis on mechanics is included in Chapter 15, The Mechanic Certificate.
+• Subpart F—Parachute Riggers
+
+A more detailed discussion of this chapter with a special emphasis on mechanics is included in Chapter 15, The Mechanic Certificate.
 
 Note: SFAR 100-2. Relief for U.S. Military and Civilian Personnel who are assigned outside the United States in support of U.S. Armed Forces Operations is a good example of the specific nature and limited time frame that are part of a SFAR.
 
@@ -204,23 +184,47 @@ Note: SFAR 100-2. Relief for U.S. Military and Civilian Personnel who are assign
 
 This is the final regulation of the three major regulations identified earlier in this chapter. Although it is an operational regulation that is focused toward the owner, operator, and/or pilot of the aircraft, the maintenance technician must have an awareness of this regulation. Two examples of these maintenance related issues are:
 
-1. Section 91.207—Emergency Locator Transmitters Paragraph (c)(2)—battery replacement interval and requirement for a logbook entry indicating the 14 CFR Part 119 Applicability of Regulations Large A/C Small A/C Large A/C Small A/C 135 12112591 Large A/CLarge A/C For Hire Common Carriage Not for Hire All Other A/C 91, 125, 135, 121 Private Carriage CFR Part 91, Section 91.501(b)(5) CFR Part 119, Section 119.5 9. Parachute operations on nonstop flights within 25 NM from the departure airport 10. Fractional ownership in accordance with 14 CFR part 91, subpart K
+1. Section 91.207—Emergency Locator Transmitters Paragraph (c)(2)—battery replacement interval and requirement for a logbook entry indicating the expiration date of the new battery.
 
 #### 14 CFR Part 121—Operating Requirements: Domestic, Flag, and Supplemental Operations
 
 Title 14 CFR part 121 establishes the operational rules for air carriers flying for compensation or hire. A domestic operation is any scheduled operation (within the 48 contiguous states, the District of Columbia, or any territory or possession) conducted with either a turbo-jet aircraft, an airplane having 10 or more passenger seats, or a payload capacity greater than 7,500 pounds. A “flag” operation means any scheduled operation (operating in Alaska or Hawaii to any point outside of those states, or to any territory or possession of the United States, or from any point outside the United States to any point outside the United States) conducted with either a turbo-jet aircraft, an airplane having 10 or more passenger seats, or a payload capacity greater than 7,500 pounds. “Supplemental” operation means any common carriage operation conducted with airplanes having more than 30 passenger seats (if less than 30, the airplane must also be listed on the operations specifications of domestic and flag carriers), with a payload capacity of more than 7,500 pounds. Part 121 operators are required by 14 CFR part 119 to have the following personnel:
 
-• Director of Safety This “holding out” that makes a person a common carrier can be done in many ways, and it does not matter how it is done. Signs and advertising are the most direct means of “holding out,” but are not the only ones.
+• Director of Safety
+
+This “holding out” that makes a person a common carrier can be done in many ways, and it does not matter how it is done. Signs and advertising are the most direct means of “holding out,” but are not the only ones.
 
 Carriage for hire which does not involve "holding out" is private carriage. Private carriers for hire are sometimes called “contract carriers,” but the term is borrowed from the Interstate Commerce Act and legally inaccurate when used in connection with the Federal Aviation Act. Private carriage for hire is carriage for one or several selected customers, generally on a long-term basis. The number of contracts must not be too great; otherwise, it implies a willingness to make a contract with anybody. A carrier operating pursuant to 18 to 24 contracts has been held to be a common carrier, because it held itself out to serve the public generally to the extent of its facilities. Private carriage has been found in cases where three contracts have been the sole basis of the operator’s business.
 
-Operations that constitute common carriage are required to be conducted under 14 CFR part 121 or 135. Private carriage may be conducted under 14 CFR part 91 or 125. The term “for hire” is not defined in any of the FAA documents but is generally understood to mean that compensation for both direct and indirect expenses associated with the flight, as well as a profit margin for the operator, are collected from the person or persons benefiting from the flight operation. The determination of whether the aircraft is large or small is based upon the definition provided in 14 CFR part 1. If the aircraft has maximum certificated takeoff weight of 12,500 pounds or more, it is a large aircraft. All aircraft less than 12,500 maximum certificated takeoff weight are considered to be small aircraft. It may also help the reader understand when 14 CFR parts 121, 125, and 135 regulations apply, by taking a brief look at a list of flight operations where 14 CFR part 119 does not apply. 1. Student instruction 2. Nonstop sightseeing flights with less than 30 seats and less than 25 nautical miles (NM) from the departure airport 3. Ferry or training flights 4. Crop dusting or other agricultural operations 5. Banner towing 6. Aerial photography or surveying 7. Fire fighting 8. Powerline or pipeline patrol
+Operations that constitute common carriage are required to be conducted under 14 CFR part 121 or 135. Private carriage may be conducted under 14 CFR part 91 or 125. The term “for hire” is not defined in any of the FAA documents but is generally understood to mean that compensation for both direct and indirect expenses associated with the flight, as well as a profit margin for the operator, are collected from the person or persons benefiting from the flight operation. The determination of whether the aircraft is large or small is based upon the definition provided in 14 CFR part 1. If the aircraft has maximum certificated takeoff weight of 12,500 pounds or more, it is a large aircraft. All aircraft less than 12,500 maximum certificated takeoff weight are considered to be small aircraft. It may also help the reader understand when 14 CFR parts 121, 125, and 135 regulations apply, by taking a brief look at a list of flight operations where 14 CFR part 119 does not apply.
+
+1. Student instruction
+
+2. Nonstop sightseeing flights with less than 30 seats and less than 25 nautical miles (NM) from the departure airport
+
+3. Ferry or training flights
+
+4. Crop dusting or other agricultural operations
+
+5. Banner towing
+
+6. Aerial photography or surveying
+
+7. Fire fighting
+
+8. Powerline or pipeline patrol
+
+9. Parachute operations on nonstop flights within 25 NM from the departure airport
+
+10. Fractional ownership in accordance with 14 CFR part 91, subpart K
 
 • Director of Operations
 
 • Director of Maintenance
 
-• Chief Inspector There are 28 subparts and 16 appendices in this regulation. However, only subparts J and L are of concern for the mechanic. Subpart J—Maintenance, Preventive Maintenance, and Alterations, identifies Special Airworthiness Requirements that deals with many of the mechanical aspects of a passenger or cargo aircraft. Subpart L—Maintenance, Preventive Maintenance, and Alterations, requires that a part 121 operator have an operational manual that contains the following information:
+• Chief Inspector
+
+There are 28 subparts and 16 appendices in this regulation. However, only subparts J and L are of concern for the mechanic. Subpart J—Maintenance, Preventive Maintenance, and Alterations, identifies Special Airworthiness Requirements that deals with many of the mechanical aspects of a passenger or cargo aircraft. Subpart L—Maintenance, Preventive Maintenance, and Alterations, requires that a part 121 operator have an operational manual that contains the following information:
 
 • Organizational chart
 
@@ -228,7 +232,9 @@ Operations that constitute common carriage are required to be conducted under 14
 
 • Company maintenance, preventive maintenance, or alterations
 
-• A system to both preserve and retrieve maintenance and inspection related information Also, 14 CFR part 121, section 121.1105, establishes the requirement for conducting inspections on aging aircraft.
+• A system to both preserve and retrieve maintenance and inspection related information
+
+Also, 14 CFR part 121, section 121.1105, establishes the requirement for conducting inspections on aging aircraft.
 
 #### 14 CFR Part 125—Certification and Operations: Airplanes Having a Seating Capacity of 20 or More Passengers or a Maximum Payload Capacity of 6,000 Pounds or More; and Rules Governing Persons on Board Such Aircraft
 
@@ -244,7 +250,9 @@ This regulation applies to private and noncommon carriage when such operations a
 
 • Procedures for the control of weight and balance of airplanes
 
-• Any other item that the administrator determines is necessary Just as in 14 CFR part 121, subpart E identifies special airworthiness requirements dealing mostly with the mechanical devices of the aircraft.
+• Any other item that the administrator determines is necessary
+
+Just as in 14 CFR part 121, subpart E identifies special airworthiness requirements dealing mostly with the mechanical devices of the aircraft.
 
 #### 14 CFR Part 135—Operating Requirements: Commuter and On-Demand Operations and Rules Governing Persons on Board Such Aircraft
 
@@ -296,7 +304,9 @@ This regulation underwent a major rewrite released in 2004 and was the most comp
 
 • Procedures for revising the repair station manual
 
-• Description of the system to identify and control the sections of the manual All records from repair station maintenance activity must be kept a minimum of 2 years. Domestic repair station certificates are effective until they are surrendered, suspended, or revoked. The certificates of foreign repair stations expire, usually after 1 or 2 years and must be renewed.
+• Description of the system to identify and control the sections of the manual
+
+All records from repair station maintenance activity must be kept a minimum of 2 years. Domestic repair station certificates are effective until they are surrendered, suspended, or revoked. The certificates of foreign repair stations expire, usually after 1 or 2 years and must be renewed.
 
 #### 14 CFR Part 147—Aviation Maintenance Technician Schools
 
@@ -330,7 +340,13 @@ As the aviation industry grows and the design, manufacture, and testing of aircr
 
 这些规章可分为以下三类：
 
-1. 行政类 2. 适航审定类 3. 适航运行类 自 1958 年起，这些规则通常被称为“FAR”，即“联邦航空规章”（Federal Aviation Regulations）的缩写。然而，另有一套第 48 编的规章题为“联邦采购规章”（Federal Acquisitions Regulations），这使得“FAR”这一缩写容易引起混淆。因此，FAA 开始改用“14 CFR part XX”来特指某部规章。多数规章及其中的节号都采用奇数编号，因为 FAA 在 1958 年把《民用航空规章》重新编纂为《联邦航空规章》时就已经意识到，日后必然还要增补规章。多年来，FAA 有时认为有必要发布《特别联邦航空规章》（SFAR）。这类规章往往针对某一独特情形，规定得非常具体，且通常只在一定期限内有效。要注意，SFAR 的编号只是顺序号，与它所针对或所属的规章毫无关系。本手册其余部分只讨论与适航审定有关的规章。清楚理解“airworthy（适航）”一词的定义至关重要。FAA 直到最近才真正在规章中给出“airworthy”的定义。（参见紧随本段的 14 CFR part 3 摘录。）在 part 3 给出该定义之前，这一术语可以从 part 21 第 21.183 节的阅读中推断出来。该术语也在 FAA 其他非规章性出版物中作过定义，还可以从 FAA Form 8100-2《标准适航证》第 5 栏的文字中推断出来。该证书必须醒目地置于每一架民用航空器上。（参见本章后文“表格”部分。）
+1. 行政类
+
+2. 适航审定类
+
+3. 适航运行类
+
+自 1958 年起，这些规则通常被称为“FAR”，即“联邦航空规章”（Federal Aviation Regulations）的缩写。然而，另有一套第 48 编的规章题为“联邦采购规章”（Federal Acquisitions Regulations），这使得“FAR”这一缩写容易引起混淆。因此，FAA 开始改用“14 CFR part XX”来特指某部规章。多数规章及其中的节号都采用奇数编号，因为 FAA 在 1958 年把《民用航空规章》重新编纂为《联邦航空规章》时就已经意识到，日后必然还要增补规章。多年来，FAA 有时认为有必要发布《特别联邦航空规章》（SFAR）。这类规章往往针对某一独特情形，规定得非常具体，且通常只在一定期限内有效。要注意，SFAR 的编号只是顺序号，与它所针对或所属的规章毫无关系。本手册其余部分只讨论与适航审定有关的规章。清楚理解“airworthy（适航）”一词的定义至关重要。FAA 直到最近才真正在规章中给出“airworthy”的定义。（参见紧随本段的 14 CFR part 3 摘录。）在 part 3 给出该定义之前，这一术语可以从 part 21 第 21.183 节的阅读中推断出来。该术语也在 FAA 其他非规章性出版物中作过定义，还可以从 FAA Form 8100-2《标准适航证》第 5 栏的文字中推断出来。该证书必须醒目地置于每一架民用航空器上。（参见本章后文“表格”部分。）
 
 ### 14 CFR part 3——一般要求
 
@@ -346,17 +362,15 @@ As the aviation industry grows and the design, manufacture, and testing of aircr
 
 评注：《民用航空手册》（CAMs）在同一份文件中同时载有规章与咨询性材料。
 
-14 CFR parts 23、25、27、29 的历史沿革——事件、规章制定机构、规则与规章：CAR 3、CAR 4b、CAR 4b（大型航空器）、CAR 4T（运输类）、CAR 4b、CAR 3、CAR 4a-T、SR 422（喷气机）、SR 422A、SR 422B、PART 25、PART 29、PART 27、PART 23、《民用航空规章》CAR Part 04、Bulletin 7、Bulletin 7-A、CAR 04（<12,500 lb）、CAR 4a（小型航空器）、CAR 4a-T（>12,500 lb）、CAR Part 6（旋翼机）、Part 7（运输类旋翼机 >6,000 lb）、1956 Part 6（正常类旋翼机）、1956 商务部航空处、1926 商业航空法、航空商务局、民用航空管理局、联邦航空局、联邦航空管理局、1934 职能合并、1935 削减空难、1938 民用航空法、1946 首架直升机取证、1958 联邦航空法、1965 将 CAR 编纂为 FAR、1966 该机构在运输部之下改称“管理局”。1. 14 CFR part 21——产品与部件的审定程序 2. 14 CFR part 43——维修、预防性维修、翻修与改装 3. 14 CFR part 91——一般运行与飞行规则 尽管本章开篇的历史部分把 FAA 当作一个整体来讨论，但重要的是要理解，FAA 内部设有多个下属部门，每个部门在航空业中承担不同的监管职责；这些职责可能因组织机构图或地理位置而异。
+1. 14 CFR part 21——产品与部件的审定程序
+
+2. 14 CFR part 43——维修、预防性维修、翻修与改装
+
+3. 14 CFR part 91——一般运行与飞行规则
+
+尽管本章开篇的历史部分把 FAA 当作一个整体来讨论，但重要的是要理解，FAA 内部设有多个下属部门，每个部门在航空业中承担不同的监管职责；这些职责可能因组织机构图或地理位置而异。
 
 维修技术员主要与来自飞行标准服务处（AFS）和飞行标准地区办公室（FSDO）的 FAA 人员打交道，但也可能与航空器审定服务处（AIR）的 FAA 人员有一些往来。
-
-第 1 卷 第 I 章 parts 1–59 FAA（运输部） 第 2 卷 第 I 章 parts 60–109 FAA（运输部） 第 3 卷 第 I 章 parts 110–199 FAA（运输部） 第 4 卷 第 II 章 parts 200–399 运输部长办公室 第 5 卷 第 V 章 parts 1200–1299 NASA 分章 D 飞行人员 parts 60、61、63、65、67、68 分章 E 空域 parts 71、73、75、77 分章 F 空中交通与一般运行规则 parts 91、93、95、97、99、101、103、105、107 分章 G 航空承运人与运营人 parts 110、117、119、120、121、125、129、133、135、136、137、139 分章 H 学校与其他持证机构 parts 141、142、145、147 分章 I 机场 parts 150、151、152、153、155、156、157、158、161、169 分章 J 导航设施 parts 170、171 分章 K 行政规章 parts 183、185、187、189、193 分章 L–M 保留 分章 N 战争风险保险 parts 198、199 分章 A 经济规章 parts 200–298 分章 B 程序规章 parts 300–331 分章 C 保留 分章 D 特别规章 parts 372–383 分章 E 组织机构 parts 385、389 分章 F 政策声明 parts 398、399 分章 A 定义与缩写 parts 1、3、5 分章 B 程序规则 parts 11、13、14、15、16、17 分章 C 航空器 parts 21、23、25、26、27、29、31、33、34、35、36、39、43、45、47、48、49 第 49 编 运输 国会法案（国会法案即公法）
-
-《联邦法规汇编》（CFR）
-
-公法依据 第 14 编的依据为 PL 103-272 第 14 编 航空与航天（共五卷）
-
-分章 A 一般规定 parts 400、401 分章 B 程序 parts 404、405、406 分章 C 许可 parts 411–1199 分章 A 管理与预算办公室 part 1300 分章 B 航空运输稳定委员会 parts 1310–1399 第 III 章 parts 400–1199 商业航天运输（FAA） 第 VI 章 parts 1300–1399 航空运输系统稳定化
 
 ### 与维修相关的规章
 
@@ -366,9 +380,7 @@ As the aviation industry grows and the design, manufacture, and testing of aircr
 
 #### 14 CFR part 21——产品与物品的审定程序
 
-这部规章是三部规章中的第一部，它规定了取得型号——以下是特别联邦航空规章（SFAR）的编号、标题及其在 14 CFR 目录中的对应位置：特别联邦航空规章第 23 号，涡轮发动机动力飞机的燃油排放与排气排放要求；亚利桑那州大峡谷国家公园附近的特别飞行规则；本 SFAR 于 2004 年 10 月 8 日撤销——禁止在美国与利比亚之间的特定飞行；夏威夷州空中游览运营人的特别运行规则；Robinson R-22/R-44 的特别训练与经历要求；禁止在伊拉克领土与空域内的特定飞行；禁止在朝鲜民主主义人民共和国飞行情报区内的特定飞行；禁止在苏丹领土与空域内的特定飞行；禁止在塞尔维亚—黑山领土与空域内的特定飞行；新墨西哥州阿尔伯克基柯达国际热气球节的空域与飞行运行要求；燃油箱系统容错评估要求；特别联邦航空规章第 97 号——在阿拉斯加使用全球定位系统（GPS）实施仪表飞行规则（IFR）区域导航（RNAV）运行的特别运行规则；美国总统私人住宅附近的建造或改装；对驻美国境外支援美军作战的美军与文职人员给予的宽免；为某些 FAA 空中交通管制专家申请强制退休年龄豁免的程序；禁止叙利亚航空承运人飞往美国的特定飞行；特别联邦航空规章第 108 号——三菱 MU-2B 系列飞机的特别训练、经历与运行要求；私用运输类飞机的特别要求；禁止在的黎波里（HLLL）飞行情报区（FIR）内的特定飞行。
-
-（上段所列各 SFAR 在 14 CFR 中出现的对应位置：）Part 25、Part 23、Part 11、Part 91、Part 91、Part 91、Part 61、Part 91、Part 91、Part 91、Part 91、Part 91、Parts 21、25、91、121、125、129、Parts 71、91、95、121、125、129、135、Part 77、Parts 61、63、65、Part 65、Part 91、Part 91、Parts 21、25、119、Part 91；13、23、71、73、77、79、82、84、86、88、97、98、103、104、108、109、112。合格证（TC）、补充型号合格证（STC）、生产许可证、适航证以及进出口批准的程序。本 part 涵盖的其他主要领域还包括：取得零部件制造人批准（PMA）的程序，或与生产技术标准规定（TSO）件有关的授权程序。要注意，part 21 的最大意义在于原始适航阶段，尽管它在持续适航中也有少量应用。这部规章最重要的条款之一是第 21.50 节“持续适航说明与含适航限制部分的制造商维修手册”。航空器从制造商出厂交付时，会随机提供维修手册，其中规定了保持航空器处于适航状态所必需的检查与维修措施。此外，1981 年之后开发的任何 STC 改装，其 STC 文件中都必须包含一整套持续适航说明（ICA）。该 ICA 载有供技术员维护航空器自新机以来被改装部分时使用的检查与维修信息。该 ICA 由 16 个具体项目组成。按这份清单编制的 ICA，应当能为审查重大改装的航空安全监察员（ASI）所接受。
+这部规章是三部规章中的第一部，它规定了取得型号合格证（TC）、补充型号合格证（STC）、生产许可证、适航证以及进出口批准的程序。本 part 涵盖的其他主要领域还包括：取得零部件制造人批准（PMA）的程序，或与生产技术标准规定（TSO）件有关的授权程序。要注意，part 21 的最大意义在于原始适航阶段，尽管它在持续适航中也有少量应用。这部规章最重要的条款之一是第 21.50 节“持续适航说明与含适航限制部分的制造商维修手册”。航空器从制造商出厂交付时，会随机提供维修手册，其中规定了保持航空器处于适航状态所必需的检查与维修措施。此外，1981 年之后开发的任何 STC 改装，其 STC 文件中都必须包含一整套持续适航说明（ICA）。该 ICA 载有供技术员维护航空器自新机以来被改装部分时使用的检查与维修信息。该 ICA 由 16 个具体项目组成。按这份清单编制的 ICA，应当能为审查重大改装的航空安全监察员（ASI）所接受。
 
 #### 14 CFR part 23——适航标准：正常类、实用类、特技类和通勤类飞机
 
@@ -386,7 +398,9 @@ part 23 共有七个分部，其中六个分部给出这类航空器设计的详
 
 • 分部 F——设备
 
-• 分部 G——飞行机组界面与其他信息 上述各分部中都有大量条款规定细节，例如重心（CG）、突风载荷系数、可拆卸紧固件、某些驾驶舱操纵件的形状、发动机与螺旋桨要求、燃油箱标记、驾驶舱仪表标记与标牌、客舱过道宽度以及阻燃标准。
+• 分部 G——飞行机组界面与其他信息
+
+上述各分部中都有大量条款规定细节，例如重心（CG）、突风载荷系数、可拆卸紧固件、某些驾驶舱操纵件的形状、发动机与螺旋桨要求、燃油箱标记、驾驶舱仪表标记与标牌、客舱过道宽度以及阻燃标准。
 
 #### 14 CFR part 25——适航标准：运输类飞机
 
@@ -399,32 +413,6 @@ part 23 共有七个分部，其中六个分部给出这类航空器设计的详
 #### 14 CFR part 29——适航标准：运输类旋翼机
 
 本节规定了适用于最大审定重量超过 7,000 磅的直升机的标准。不过，它还根据座位数和另一档重量限制增设了附加参数。这些参数是：旅客座位数（9 个或更少、10 个或更多），以及直升机最大重量是否超过 20,000 磅。part 29 的设计分部与 14 CFR parts 23、25、27 中的设计分部类似。
-
-13、23、25、27、29、31、33、34、35、36、39；part 21 产品与部件审定程序；part 91 一般运行与飞行规则；14 CFR §91.319；14 CFR §91.409；涡轮发动机动力飞机的燃油排放与排气排放要求；噪声标准：
-
-航空器型号与适航审定；适航标准：正常类、实用类、特技类和通勤类飞机；调查与执法程序；适航标准：运输类飞机；part 26 运输类飞机的持续适航与安全改进；适航标准：正常类旋翼机；适航标准：运输类旋翼机；适航标准：载人自由气球；适航标准：航空发动机；适航标准：螺旋桨；适航指令；part 45 识别与登记标记；part 47 航空器登记；part 183 局长代表；制造商 43.3(j)
-
-8110.37《DER 指南手册》；DMIR、DER、DAR、DAS、DAR、DPE、DME、DPRE；§21.9(a)(5)
-
-机主、运营人、自制件；TC、STC、TSOA、PMA；§21.8(d)
-
-8110.42 零部件制造人批准；原始适航；航空器审定办公室（ACO）；证书管理办公室（CMO）；制造检查地区办公室（MIDO）
-
-航空器审定服务处（AIR）——FAA 指令：
-
-8100.7，ACSEP；8110.4，型号审定；8120.2，生产批准；8100.8《委任代表管理手册》；8130.2 适航审定；可疑非批准件计划；2150.3 合规与执法；8132.2 委任代表适航审定；FAA 指令：
-
-8900.1 FSIMS；part 91 一般运行与飞行规则；part 21 产品与部件审定程序，分部 H、L、K；part 43 维修、预防性维修、翻修与改装；part 119 审定：
-
-航空承运人与商业运营人；part 61 审定：驾驶员与飞行教员；part 63 审定：
-
-驾驶员以外的飞行机组成员；part 120 药物与酒精检测计划；part 45 识别与登记标记；part 47 航空器登记；part 183 局长代表；§ 43.5 任何人不得批准恢复使用，除非……
-
-§ 43.5 按 §43.9 或 §43.11 的要求作出维修记录记载（视情况而定） § 43.13a 采用现行制造商维修手册中的方法、技术和做法 § 43.13b 工作与材料的质量应使状态至少等于原始状态或正确改装后的状态 145 维修站 运行规范 维修站手册 125 审定与运行：座位数 20 个及以上或最大商载 6,000 磅及以上的飞机 8400.10 偏离 8100.8《委任代表管理手册》 8130.2 适航审定 可疑非批准件计划 2150.3 合规与执法 8132.2 委任代表适航审定 持续适航 证书管理办公室（CMO） 飞行标准地区办公室（FSDO） 国际现场办公室（IFO）
-
-135 空中出租运营人与商业运营人，9 个或更少、10 个或更多 121 审定与运行：大型航空器的国内、旗标与补充航空承运人和商业运营人 8110.37《DER 指南手册》 14 CFR 43 附录 B FAA Form 337 DMIR、DER、DAR、ODA、DAR、DPE、DME、DPRE 飞行标准服务处（AFS）——65 审定：
-
-飞行机组成员以外的航空人员；A&P、IA、修理人员、降落伞折叠员、签派员
 
 #### 14 CFR part 33——适航标准：航空发动机
 
@@ -458,7 +446,13 @@ CFR 第 14 编 part 45 包括对航空器、发动机、螺旋桨、某些更换
 
 5. 生产许可证编号（如有）
 
-6. 航空发动机的既定额定值 7. 表明符合或豁免 14 CFR part 34《涡轮发动机动力飞机的燃油排放与排气排放要求》的引用 8. FAA 认为适当的任何其他信息 更换件与改装件按零部件制造人批准（PMA）（14 CFR part 21 第 21.303 节）生产，且必须永久、清晰地标记下列信息：
+6. 航空发动机的既定额定值
+
+7. 表明符合或豁免 14 CFR part 34《涡轮发动机动力飞机的燃油排放与排气排放要求》的引用
+
+8. FAA 认为适当的任何其他信息
+
+更换件与改装件按零部件制造人批准（PMA）（14 CFR part 21 第 21.303 节）生产，且必须永久、清晰地标记下列信息：
 
 1. 字母“FAA-PMA”
 
@@ -466,19 +460,21 @@ CFR 第 14 编 part 45 包括对航空器、发动机、螺旋桨、某些更换
 
 3. 件号
 
-4. 该件可安装于其上的每一型号合格审定产品的名称与型号标识 若某部件在维修手册或 ICA 中规定了更换时间、检查间隔或其他相关程序规范，则该部件必须带有件号和序号（或各自的等效标识）。
+4. 该件可安装于其上的每一型号合格审定产品的名称与型号标识
+
+若某部件在维修手册或 ICA 中规定了更换时间、检查间隔或其他相关程序规范，则该部件必须带有件号和序号（或各自的等效标识）。
 
 寿命限定件的制造商必须为该件提供标记说明，或者声明该件在不损害其完整性的情况下无法标记。对于尺寸过小、标记所需数据不现实的部件，其识别可作例外处理。
 
-国籍与登记标志（美国登记航空器通常称为 N 号）的高低尺寸会因航空器建造年份以及是否重新喷漆而不同。最常见的尺寸是高度至少 12 英寸。建造于至少 30 年前的航空器 项目 主题 1. 引言：简要描述被改装的航空器、发动机、螺旋桨或部件。酌情包括有关 ICA 的内容、范围、目的、编排、适用性、定义、缩写、注意事项、计量单位、所用部件清单、引用出版物以及分发情况的任何其他信息。2. 说明：重大改装及其功能，包括与其他系统的接口说明（如有）。3. 控制与操作信息：或特殊程序（如有）。4. 保养维护信息：例如所用液体种类、保养点以及接近口盖位置（视适用情况）。5. 维修说明：例如建议的检查/维修周期，在每一周期内对各重大改装部件进行检查、清洁、润滑、调整和测试，包括适用的磨损容差以及各计划维修周期建议的工作。本节可酌情引用所装设备的制造商说明（如功能检查、修理、检查）。还应酌情包括任何特别说明、注意或警告。6. 故障排除信息：说明可能的故障、如何识别这些故障以及应采取的纠正措施。7. 拆卸与更换信息：说明拆卸与更换产品或部件的顺序和方法，以及必要的预防措施。本节还应说明或引用制造商说明，以进行所需的测试、检查、校准、重心变化、起吊或支撑等（如有）。8. 图示：接近板以及为进行检查而进入所需的信息（如有）。9. 特殊检查要求：如射线照相、超声检测或磁粉检测（如有要求）。10. 防护处理的应用：检查或维修后对受影响区域的处理（如有）。11. 数据：与结构紧固件有关的类型、扭矩和安装要求等（如有）。12. 专用工具清单：所需的专用工具（如有）。13. 通勤类航空器：酌情提供以下附加信息：A. 电负载 B. 飞行操纵装置的平衡方法 C. 主结构与次结构的识别 D. 适用于该航空器的特别修理方法。14. 建议翻修周期：当部件或设备的制造商确定了翻修周期时，须在 ICA 上注明。若不存在翻修周期，ICA 应在第 14 项写明“无附加翻修时间限制”。15. 适航限制部分：包括制造商或 FAA 型号合格证持有办公室认定的任何“经批准”的适航限制（例如，并入更大的现场批准重大改装中的 STC 可能带有适航限制）。FAA 监察员不得在未与相应的 FAA 型号合格证持有办公室协调的情况下设定、更改或取消适航限制。若适航限制未作更改，ICA 应在第 15 项写明“无附加适航限制”或“不适用”。16. 修订：包括如何修订 ICA 的信息。例如，将向当地 FAA 办公室提交一封信函，并附上修订后的 FAA Form 337 副本和修订后的 ICA。FAA 监察员通过在第 3 栏签字并附上以下声明的方式接受该更改：
+国籍与登记标志（美国登记航空器通常称为 N 号）的高低尺寸会因航空器建造年份以及是否重新喷漆而不同。最常见的尺寸是高度至少 12 英寸。建造于至少 30 年前的航空器，或其复制品，或实验类展示用或业余制造的航空器，可以使用高度至少 2 英寸的字母。只有少数航空器被批准显示高度至少 3 英寸的登记标记。
 
 “上述航空器或部件的重大改装所附的修订/新版持续适航说明（日期______）已获 FAA 接受，取代原持续适航说明（日期______）。”修订获接受后，将在 FAA Form 337 上作出维修记录记载，注明该修订、其位置和日期。
 
-示例：新电瓶的到期日期。
-
 2. 第 91.213 节——不工作的仪表与设备 第（a）（2）款——飞行标准地区办公室（FSDO）授权航空器按最低设备清单（MEL）运行的授权书构成一项 STC，且飞行中必须随机携带。
 
-分部 E——维修、预防性维修与改装（第 91.401 至 91.421 节） 这是维修技术员最关心的一节。他们必须熟悉这一节，因为它确实为技术员带来了一些（间接的）责任。这是因为第 91.403(b) 节规定：“任何人不得以本分部及其他适用规章（包括本章 part 43）规定以外的方式对航空器实施维修、预防性维修或改装。”本章后文将对该规章、特别是分部 E——维修、预防性维修与改装作更完整的讨论。
+分部 E——维修、预防性维修与改装（第 91.401 至 91.421 节）
+
+这是维修技术员最关心的一节。他们必须熟悉这一节，因为它确实为技术员带来了一些（间接的）责任。这是因为第 91.403(b) 节规定：“任何人不得以本分部及其他适用规章（包括本章 part 43）规定以外的方式对航空器实施维修、预防性维修或改装。”本章后文将对该规章、特别是分部 E——维修、预防性维修与改装作更完整的讨论。
 
 #### 14 CFR part 119——审定：航空承运人与商业运营人
 
@@ -488,7 +484,9 @@ CFR 第 14 编 part 45 包括对航空器、发动机、螺旋桨、某些更换
 
 2. 该航空器是用于“有偿（for hire）”还是“无偿（not for hire）”？
 
-3. 该航空器是大型还是小型？经修订的 AC 120-12 就这一标准给出如下定义：当承运人向公众或公众中的某一部分“公开表明（holds itself out）”其愿意在其设施能力范围内向任何有需求的人提供运输时，它就成为公共承运人。界定公共承运人有四个要素：1. 公开表明愿意 2. 运输人员或财物 3. 从一地到另一地 4. 获取报酬 建造于至少 30 年前的航空器，或其复制品，或实验类展示用或业余制造的航空器，可以使用高度至少 2 英寸的字母。只有少数航空器被批准显示高度至少 3 英寸的登记标记。
+3. 该航空器是大型还是小型？
+
+经修订的 AC 120-12 就这一标准给出如下定义：当承运人向公众或公众中的某一部分“公开表明（holds itself out）”其愿意在其设施能力范围内向任何有需求的人提供运输时，它就成为公共承运人。界定公共承运人有四个要素：1. 公开表明愿意 2. 运输人员或财物 3. 从一地到另一地 4. 获取报酬
 
 #### 14 CFR part 47——航空器登记
 
@@ -506,7 +504,9 @@ CFR 第 14 编 part 45 包括对航空器、发动机、螺旋桨、某些更换
 
 • 分部 E——修理人员
 
-• 分部 F——降落伞折叠员 关于本章更详细的讨论（特别侧重维修人员）见第 15 章“维修人员执照”。
+• 分部 F——降落伞折叠员
+
+关于本章更详细的讨论（特别侧重维修人员）见第 15 章“维修人员执照”。
 
 注：SFAR 100-2《对驻美国境外支援美军作战的美军与文职人员给予的宽免》，是 SFAR 具有特定针对性且期限有限的良好例证。
 
@@ -514,23 +514,47 @@ CFR 第 14 编 part 45 包括对航空器、发动机、螺旋桨、某些更换
 
 这是本章前面提到的三部主要规章中的最后一部。虽然它是一部面向航空器机主、运营人和/或驾驶员、侧重运行的规章，但维修技术员也必须对其有所了解。此类与维修有关的问题有两个例子：
 
-1. 第 91.207 节——应急定位发射机 第（c）（2）款——电瓶更换间隔，以及要求日志记载以表明已完成更换 14 CFR part 119 规章的适用性 大型航空器 小型航空器 大型航空器 小型航空器 135 121 125 91 大型航空器 大型航空器 有偿 公共运输 无偿 其他所有航空器 91、125、135、121 私用运输 CFR part 91 第 91.501(b)(5) 节 CFR part 119 第 119.5 节 9. 在距起飞机场 25 海里以内的直达航班上进行的跳伞作业 10. 按 14 CFR part 91 分部 K 的分时共有
+1. 第 91.207 节——应急定位发射机 第（c）（2）款——电瓶更换间隔，以及要求日志记载以表明新电瓶的到期日期。
 
 #### 14 CFR part 121——运行要求：国内、旗标与补充运行
 
 14 CFR part 121 确立了以获取报酬或出租方式运行的航空承运人的运行规则。国内运行指使用涡轮喷气航空器、座位数 10 个及以上的飞机或商载能力大于 7,500 磅的飞机，在美国本土 48 州、哥伦比亚特区或任何领地、属地范围内实施的任何定期运行。“旗标”运行指使用涡轮喷气航空器、座位数 10 个及以上的飞机或商载能力大于 7,500 磅的飞机实施的任何定期运行（在阿拉斯加或夏威夷至这些州以外任何地点之间运行，或至美国任何领地、属地，或从美国境外任何地点至美国境外任何地点）。“补充”运行指使用座位数超过 30 个（若少于 30 个，该飞机还必须列入国内与旗标承运人的运行规范）、商载能力大于 7,500 磅的飞机实施的任何公共运输运行。14 CFR part 119 要求 part 121 运营人配备下列人员：
 
-• 安全主管 使某人成为公共承运人的这种“公开表明”可以通过多种方式进行，至于如何做并不重要。招牌和广告是最直接的“公开表明”手段，但并非唯一手段。
+• 安全主管
+
+使某人成为公共承运人的这种“公开表明”可以通过多种方式进行，至于如何做并不重要。招牌和广告是最直接的“公开表明”手段，但并非唯一手段。
 
 不涉及“公开表明”的有偿运输即为私用运输。从事有偿运输的私用承运人有时被称为“合同承运人”，但该词源自《州际商法》，在与《联邦航空法》相关的情形下使用在法律上并不准确。私用有偿运输是为一个或若干特定客户提供的运输，一般建立在长期基础上。合同数量不得过多，否则就意味着愿意与任何人订约。依照 18 至 24 份合同运营的承运人曾被判定为公共承运人，因为其已就其设施能力向公众普遍公开表明愿意提供服务；而在仅有 3 份合同构成运营人业务唯一基础的情形中，则曾被认定为私用运输。
 
-构成公共运输的运行必须按 14 CFR part 121 或 135 实施。私用运输可按 14 CFR part 91 或 125 实施。“有偿（for hire）”一词在 FAA 任何文件中均无定义，但一般理解为：从该次飞行运行的受益方收取的费用，既包括与飞行相关的直接和间接费用，也包括运营人的利润。“大型”还是“小型”航空器的判定，依据 14 CFR part 1 中给出的定义：若航空器最大审定起飞重量为 12,500 磅或以上，即为大型航空器；所有最大审定起飞重量小于 12,500 磅的航空器均视为小型航空器。简要浏览一下 14 CFR part 119 不适用的飞行运行清单，可能也有助于读者理解 14 CFR parts 121、125、135 何时适用。1. 学员训练 2. 座位少于 30 个、距起飞机场少于 25 海里（NM）的直达观光飞行 3. 转场或训练飞行 4. 喷洒农药或其他农业作业 5. 拖曳横幅 6. 航空摄影或测绘 7. 消防 8. 电力线或管线巡查
+构成公共运输的运行必须按 14 CFR part 121 或 135 实施。私用运输可按 14 CFR part 91 或 125 实施。“有偿（for hire）”一词在 FAA 任何文件中均无定义，但一般理解为：从该次飞行运行的受益方收取的费用，既包括与飞行相关的直接和间接费用，也包括运营人的利润。“大型”还是“小型”航空器的判定，依据 14 CFR part 1 中给出的定义：若航空器最大审定起飞重量为 12,500 磅或以上，即为大型航空器；所有最大审定起飞重量小于 12,500 磅的航空器均视为小型航空器。简要浏览一下 14 CFR part 119 不适用的飞行运行清单，可能也有助于读者理解 14 CFR parts 121、125、135 何时适用。
+
+1. 学员训练
+
+2. 座位少于 30 个、距起飞机场少于 25 海里（NM）的直达观光飞行
+
+3. 转场或训练飞行
+
+4. 喷洒农药或其他农业作业
+
+5. 拖曳横幅
+
+6. 航空摄影或测绘
+
+7. 消防
+
+8. 电力线或管线巡查
+
+9. 在距起飞机场 25 海里以内的直达航班上进行的跳伞作业
+
+10. 按 14 CFR part 91 分部 K 的分时共有
 
 • 运行主管
 
 • 维修主管
 
-• 总检查员 本规章共有 28 个分部和 16 个附录，但只有分部 J 和 L 与维修人员有关。分部 J——维修、预防性维修与改装，规定了涉及客机或货机许多机械方面的特别适航要求。分部 L——维修、预防性维修与改装，要求 part 121 运营人备有一份运行手册，其中包含下列信息：
+• 总检查员
+
+本规章共有 28 个分部和 16 个附录，但只有分部 J 和 L 与维修人员有关。分部 J——维修、预防性维修与改装，规定了涉及客机或货机许多机械方面的特别适航要求。分部 L——维修、预防性维修与改装，要求 part 121 运营人备有一份运行手册，其中包含下列信息：
 
 • 组织机构图
 
@@ -538,7 +562,9 @@ CFR 第 14 编 part 45 包括对航空器、发动机、螺旋桨、某些更换
 
 • 公司维修、预防性维修或改装（说明）
 
-• 既能保存又能检索维修与检查相关信息的系统 此外，14 CFR part 121 第 121.1105 节确立了实施老龄航空器检查的要求。
+• 既能保存又能检索维修与检查相关信息的系统
+
+此外，14 CFR part 121 第 121.1105 节确立了实施老龄航空器检查的要求。
 
 #### 14 CFR part 125——审定与运行：座位数 20 个及以上或最大商载 6,000 磅及以上的飞机，以及机上人员管理规则
 
@@ -554,7 +580,9 @@ CFR 第 14 编 part 45 包括对航空器、发动机、螺旋桨、某些更换
 
 • 控制飞机重量与平衡的程序
 
-• 局长认为必要的任何其他项目 与 14 CFR part 121 一样，分部 E 规定了特别适航要求，主要涉及航空器的机械装置。
+• 局长认为必要的任何其他项目
+
+与 14 CFR part 121 一样，分部 E 规定了特别适航要求，主要涉及航空器的机械装置。
 
 #### 14 CFR part 135——运行要求：通勤与按需运行，以及机上人员管理规则
 
@@ -606,7 +634,9 @@ CFR 第 14 编 part 45 包括对航空器、发动机、螺旋桨、某些更换
 
 • 修订维修站手册的程序
 
-• 识别与控制手册各部分的系统说明 维修站维修活动的所有记录必须至少保存 2 年。国内维修站证书在被交回、暂停或吊销之前一直有效。国外维修站的证书则到期失效，通常为 1 年或 2 年，必须换证。
+• 识别与控制手册各部分的系统说明
+
+维修站维修活动的所有记录必须至少保存 2 年。国内维修站证书在被交回、暂停或吊销之前一直有效。国外维修站的证书则到期失效，通常为 1 年或 2 年，必须换证。
 
 #### 14 CFR part 147——航空维修技术员学校
 
