@@ -24,7 +24,9 @@ As the name of the rotary inverter indicates, it has a revolving armature in the
 
 The DC motor in this inverter is a four pole, compound wound motor. The four field coils consist of many turns of fine wire, with a few turns of heavy wire placed on top. The fine wire is the shunt field, connected to the DC source through a filter and to ground through a centrifugal governor. The heavy wire is the series field, which is connected in series with the motor armature. The centrifugal governor controls the speed by shunting a resistor that is in series with the shunt field when the motor reaches a certain speed.
 
-The alternator is a three-phase, four-pole, star-connected AC generator. The DC input is supplied to the generator field coils and connected to ground through a voltage regulator. The output is taken off the armature through three slip rings to provide three-phase power. The inverter would be a single-phase inverter if it had a single armature winding and one slip ring. The frequency of this type unit is determined by the speed of the motor and the number of generator poles.
+The alternator is a three-phase, four-pole, star-connected AC generator. The DC input is supplied to the generator field coils and connected to ground through a voltage regulator.
+
+The output is taken off the armature through three slip rings to provide three-phase power. The inverter would be a single-phase inverter if it had a single armature winding and one slip ring. The frequency of this type unit is determined by the speed of the motor and the number of generator poles.
 
 ### Inductor-Type Rotary Inverter
 
@@ -78,7 +80,9 @@ Since static inverters use solid-state components, they are considerably smaller
 
 这种逆变器中的直流电动机是一台四极复励电动机。四个励磁线圈由许多匝细导线组成，上面绕有几匝粗导线。细导线是并励绕组，通过一个滤波器接到直流电源，并通过离心调节器接地。粗导线是串励绕组，与电动机电枢串联。离心调节器在电动机达到某一转速时，把与并励绕组串联的一个电阻短路，以此控制转速。
 
-该交流发电机是一台三相、四极、星形连接的交流发电机。直流输入送到发电机的励磁线圈，并通过一个电压调节器接地。输出通过三个滑环从电枢上取出，以提供三相电源。如果只有一组电枢绕组和一个滑环，该逆变器就会是单相逆变器。这种机组的频率由电动机转速和发电机磁极数决定。
+该交流发电机是一台三相、四极、星形连接的交流发电机。直流输入送到发电机的励磁线圈，并通过一个电压调节器接地。
+
+输出通过三个滑环从电枢上取出，以提供三相电源。如果只有一组电枢绕组和一个滑环，该逆变器就会是单相逆变器。这种机组的频率由电动机转速和发电机磁极数决定。
 
 ### 电感式旋转式逆变器
 

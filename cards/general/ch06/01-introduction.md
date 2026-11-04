@@ -10,7 +10,9 @@ The maximum weight of an aircraft is based on the amount of lift the wings or ro
 
 Aircraft balance is also a significant factor in determining if the aircraft is safe to operate. An aircraft that does not have good balance can exhibit poor maneuverability and controllability, making it difficult or impossible to fly. This could result in an accident, causing damage to the aircraft and injury to the people on board. Safety is the primary reason for concern about an aircraft’s weight and balance.
 
-Another important reason for concern about weight and balance is the efficiency of the aircraft. Improper loading reduces the efficiency of an aircraft from the standpoint of ceiling, maneuverability, rate of climb, speed, and fuel consumption. If an airplane is loaded in such a way that it is extremely nose heavy, higher than normal forces are exerted at the tail to keep the airplane in level flight. The higher than normal forces at the tail create additional drag, which requires additional engine power and therefore additional fuel flow to maintain airspeed. The most efficient condition for an aircraft is to have the point where it balances fall close to, or exactly at, the aircraft’s center of lift. If this were the case, little or no flight control force would be needed to keep the aircraft flying straight and level. In terms of stability and safety, however, this perfectly balanced condition might not be desirable. All factors that affect aircraft safety and efficiency, in terms of its weight and balance, are discussed in detail in this chapter.
+Another important reason for concern about weight and balance is the efficiency of the aircraft. Improper loading reduces the efficiency of an aircraft from the standpoint of ceiling, maneuverability, rate of climb, speed, and fuel consumption. If an airplane is loaded in such a way that it is extremely nose heavy, higher than normal forces are exerted at the tail to keep the airplane in level flight. The higher than normal forces at the tail create additional drag, which requires additional engine power and therefore additional fuel flow to maintain airspeed.
+
+The most efficient condition for an aircraft is to have the point where it balances fall close to, or exactly at, the aircraft’s center of lift. If this were the case, little or no flight control force would be needed to keep the aircraft flying straight and level. In terms of stability and safety, however, this perfectly balanced condition might not be desirable. All factors that affect aircraft safety and efficiency, in terms of its weight and balance, are discussed in detail in this chapter.
 
 ## 2. 中文翻译
 
@@ -20,7 +22,9 @@ Another important reason for concern about weight and balance is the efficiency 
 
 飞机平衡同样是判断飞机能否安全运行的重要因素。平衡不良的飞机可能表现出很差的机动性和操纵性，使其难以或无法飞行。这可能造成事故，导致飞机损坏、机上人员受伤。安全，是人们关注飞机重量与平衡的首要原因。
 
-关注重量与平衡的另一个重要原因，是飞机的效率。装载不当会从升限、机动性、爬升率、速度和燃油消耗等方面降低飞机的效率。如果飞机装载得头重极为严重，尾部就要承受高于正常的力来保持飞机平飞。尾部高于正常的力会产生额外阻力，而额外阻力需要额外的发动机功率，因而需要额外的燃油流量来维持空速。对飞机而言，最高效的状态是使其平衡点落在接近、甚至正好位于飞机升力中心的位置。如果真是这样，保持飞机直线平飞就几乎或完全不需要飞行操纵力。不过，从稳定性和安全性的角度看，这种完全平衡的状态未必可取。本章将详细讨论与飞机重量和平衡有关的、影响飞机安全与效率的所有因素。
+关注重量与平衡的另一个重要原因，是飞机的效率。装载不当会从升限、机动性、爬升率、速度和燃油消耗等方面降低飞机的效率。如果飞机装载得头重极为严重，尾部就要承受高于正常的力来保持飞机平飞。尾部高于正常的力会产生额外阻力，而额外阻力需要额外的发动机功率，因而需要额外的燃油流量来维持空速。
+
+对飞机而言，最高效的状态是使其平衡点落在接近、甚至正好位于飞机升力中心的位置。如果真是这样，保持飞机直线平飞就几乎或完全不需要飞行操纵力。不过，从稳定性和安全性的角度看，这种完全平衡的状态未必可取。本章将详细讨论与飞机重量和平衡有关的、影响飞机安全与效率的所有因素。
 
 ## 3. 专业词汇
 

@@ -104,7 +104,9 @@ The TCDS is separated into one or more sections. Each section is identified by a
 
 16. Information concerning required placards.
 
-It is not within the scope of this handbook to list all the items that can be shown on the TCDS. Those items listed above serve only to acquaint aviation mechanics with the type of information generally included on the data sheets. TCDS may be many pages in length. When conducting a required or routine inspection, it is necessary to ensure that the aircraft and all the major items on it are as defined in the TCDS. The inspector ensures that all installed aircraft equipment conforms to the TCDS. This is called a conformity check and verifies that the aircraft conforms to the specifications of the aircraft as it was originally certified. Sometimes alterations are made that are not specified or authorized in the TCDS. When that condition exists, a supplemental type certificate (STC) is issued. STCs are considered a part of the permanent records of an aircraft and should be maintained as part of that aircraft’s logs.
+It is not within the scope of this handbook to list all the items that can be shown on the TCDS. Those items listed above serve only to acquaint aviation mechanics with the type of information generally included on the data sheets. TCDS may be many pages in length.
+
+When conducting a required or routine inspection, it is necessary to ensure that the aircraft and all the major items on it are as defined in the TCDS. The inspector ensures that all installed aircraft equipment conforms to the TCDS. This is called a conformity check and verifies that the aircraft conforms to the specifications of the aircraft as it was originally certified. Sometimes alterations are made that are not specified or authorized in the TCDS. When that condition exists, a supplemental type certificate (STC) is issued. STCs are considered a part of the permanent records of an aircraft and should be maintained as part of that aircraft’s logs.
 
 ## 2. 中文翻译
 
@@ -208,7 +210,9 @@ TCDS 分为一节或多节。每一节以一个罗马数字标识，其后是该
 
 16. 有关必备标牌的信息。
 
-本手册的范围不包括列出 TCDS 上可能出现的所有项目。上面列出的项目只是为了让航空维修人员了解数据表上通常包含的信息类型。TCDS 的篇幅可能有很多页。在进行规定检查或例行检查时，必须确认飞机及其上的所有主要项目都符合 TCDS 的规定。检查员要确保所有装机设备都符合 TCDS。这称为符合性检查，用以核实飞机符合其最初取得审定时的规范。有时会进行未在 TCDS 中规定或未获授权的改装。出现这种情况时，应颁发补充型号合格证（STC）。STC 被视为飞机永久记录的一部分，应作为该飞机履历的一部分加以保存。
+本手册的范围不包括列出 TCDS 上可能出现的所有项目。上面列出的项目只是为了让航空维修人员了解数据表上通常包含的信息类型。TCDS 的篇幅可能有很多页。
+
+在进行规定检查或例行检查时，必须确认飞机及其上的所有主要项目都符合 TCDS 的规定。检查员要确保所有装机设备都符合 TCDS。这称为符合性检查，用以核实飞机符合其最初取得审定时的规范。有时会进行未在 TCDS 中规定或未获授权的改装。出现这种情况时，应颁发补充型号合格证（STC）。STC 被视为飞机永久记录的一部分，应作为该飞机履历的一部分加以保存。
 
 ## 3. 专业词汇
 

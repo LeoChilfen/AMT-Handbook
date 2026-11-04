@@ -4,7 +4,9 @@
 
 ## 1. 原文
 
-Pressure is the amount of force acting on a specific amount of surface area. The force is typically measured in pounds and the surface area in square inches, making the units of pressure pounds per square inch or psi. If a 100-lb weight was placed on top of a block with a surface area of 10 in 2, the average weight distribution would be 10 lb for each of the square inches (100 ÷ 10), or 10 psi. When atmospheric pressure is being measured, in addition to psi, other means of pressure measurement can be used. These include inches or millimeters of mercury, and millibars. Standard day atmospheric pressure is equal to 14.7 psi, 29.92 inches of mercury ("Hg), 760 millimeters of mercury (mm hg), or 1013.2 millibars. The relationship between these units of measure is as follows:
+Pressure is the amount of force acting on a specific amount of surface area. The force is typically measured in pounds and the surface area in square inches, making the units of pressure pounds per square inch or psi. If a 100-lb weight was placed on top of a block with a surface area of 10 in 2, the average weight distribution would be 10 lb for each of the square inches (100 ÷ 10), or 10 psi.
+
+When atmospheric pressure is being measured, in addition to psi, other means of pressure measurement can be used. These include inches or millimeters of mercury, and millibars. Standard day atmospheric pressure is equal to 14.7 psi, 29.92 inches of mercury ("Hg), 760 millimeters of mercury (mm hg), or 1013.2 millibars. The relationship between these units of measure is as follows:
 
 1 psi = 2.04 "Hg 1 psi = 51.7 mm Hg 1 psi = 68.9 millibars The concept behind measuring pressure in inches of mercury Substance Coefficient of Expansion Per Degree Centigrade Aluminum Brass or Bronze Brick Copper Glass (Plate)
 
@@ -22,7 +24,9 @@ Differential pressure, or psid, is the difference between pressures being read a
 
 ## 2. 中文翻译
 
-压力是作用在一定表面积上的力的大小。力通常用磅来度量，表面积用平方英寸来度量，因此压力的单位是磅每平方英寸，即 psi。如果把一个 100 lb 的重物放在表面积为 10 in2 的物块上，平均的重量分布就是每平方英寸 10 lb（100 ÷ 10），即 10 psi。测量大气压力时，除 psi 以外还可以采用其他压力计量方式，其中包括英寸汞柱或毫米汞柱，以及毫巴。标准日大气压力等于 14.7 psi、29.92 英寸汞柱（"Hg）、760 毫米汞柱（mm Hg）或 1013.2 毫巴。这些计量单位之间的关系如下：
+压力是作用在一定表面积上的力的大小。力通常用磅来度量，表面积用平方英寸来度量，因此压力的单位是磅每平方英寸，即 psi。如果把一个 100 lb 的重物放在表面积为 10 in2 的物块上，平均的重量分布就是每平方英寸 10 lb（100 ÷ 10），即 10 psi。
+
+测量大气压力时，除 psi 以外还可以采用其他压力计量方式，其中包括英寸汞柱或毫米汞柱，以及毫巴。标准日大气压力等于 14.7 psi、29.92 英寸汞柱（"Hg）、760 毫米汞柱（mm Hg）或 1013.2 毫巴。这些计量单位之间的关系如下：
 
 1 psi = 2.04 "Hg　1 psi = 51.7 mm Hg　1 psi = 68.9 毫巴。用英寸汞柱来测量压力的原理如下：（原文此处为物质每摄氏度膨胀系数表的表头与材料名称碎片，无正文）
 

@@ -4,7 +4,9 @@
 
 ## 1. 原文
 
-A fraction is a number written in the form N⁄D where N is called the numerator and D is called the denominator. The fraction bar between the numerator and denominator shows that division is taking place. 17 , 2 , 5Some examples of fractions are: 18 3 8 The denominator of a fraction cannot be a zero. For example, the fraction 2⁄0 is not allowed, because dividing by zero is undefined. An improper fraction is a fraction in which the numerator is equal to or larger than the denominator. For example, 4⁄4 or 15⁄8 are examples of improper fractions.
+A fraction is a number written in the form N⁄D where N is called the numerator and D is called the denominator. The fraction bar between the numerator and denominator shows that division is taking place. 17 , 2 , 5Some examples of fractions are: 18 3 8 The denominator of a fraction cannot be a zero. For example, the fraction 2⁄0 is not allowed, because dividing by zero is undefined.
+
+An improper fraction is a fraction in which the numerator is equal to or larger than the denominator. For example, 4⁄4 or 15⁄8 are examples of improper fractions.
 
 ### Finding the Least Common Denominator
 
@@ -64,7 +66,9 @@ A fraction needs to be reduced when it is not in the simplest form or “lowest 
 
 ## 2. 中文翻译
 
-分数是写成 N⁄D 形式的数，其中 N 称为分子，D 称为分母。分子与分母之间的分数线表示进行的是除法。下面给出一些分数的例子：17⁄18、2⁄3、5⁄8（原文此处分式被抽排成上下两行，17、2、5 在上，18、3、8 在下）。分母不能为零。例如，分数 2⁄0 是不允许的，因为除以零没有定义。假分数是指分子等于或大于分母的分数。例如，4⁄4 或 15⁄8 都是假分数的例子。
+分数是写成 N⁄D 形式的数，其中 N 称为分子，D 称为分母。分子与分母之间的分数线表示进行的是除法。下面给出一些分数的例子：17⁄18、2⁄3、5⁄8（原文此处分式被抽排成上下两行，17、2、5 在上，18、3、8 在下）。分母不能为零。
+
+例如，分数 2⁄0 是不允许的，因为除以零没有定义。假分数是指分子等于或大于分母的分数。例如，4⁄4 或 15⁄8 都是假分数的例子。
 
 ### 求最小公分母
 

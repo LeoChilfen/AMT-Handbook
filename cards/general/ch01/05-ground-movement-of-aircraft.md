@@ -26,7 +26,11 @@ Before starting an aircraft engine:
 
 ### Reciprocating Engines
 
-The following procedures are typical of those used to start reciprocating engines. There are, however, wide variations in the procedures for the many reciprocating engines. Do not attempt to use the methods presented here for actually starting an engine. Instead, always refer to the procedures contained in the applicable manufacturer’s instructions. Reciprocating engines are capable of starting in fairly low temperatures without the use of engine heating or oil dilution, depending on the grade of oil used. The various covers (wing, tail, flight deck, wheel, and so forth) protecting the aircraft must be removed before attempting to turn the engine. Use external sources of electrical power when starting engines equipped with electric starters, if possible or needed. This eliminates an excessive burden on the aircraft battery. Leave all unnecessary electrical equipment off until the generators are furnishing electrical power to the aircraft power bus. Before starting a radial engine that has been shut down for more than 30 minutes, check the ignition switch for off. Turn the propeller three or four complete revolutions by hand to detect a hydraulic lock, if one is present. Any liquid present in a cylinder is indicated by the abnormal effort required to rotate the propeller or by the propeller stopping abruptly during rotation. Never use force to turn the propeller when a hydraulic lock is detected. Sufficient force can be exerted on the crankshaft to bend or break a connecting rod if a lock is present. To eliminate a lock, remove either the front or rear spark plug from the lower cylinders and pull the propeller through. Never attempt to clear the hydraulic lock by pulling the propeller through in the direction opposite to normal rotation. This tends to inject the liquid from the cylinder into the intake pipe. The liquid is drawn back into the cylinder with the possibility of complete or partial lock occurring on the subsequent start.
+The following procedures are typical of those used to start reciprocating engines. There are, however, wide variations in the procedures for the many reciprocating engines. Do not attempt to use the methods presented here for actually starting an engine. Instead, always refer to the procedures contained in the applicable manufacturer’s instructions. Reciprocating engines are capable of starting in fairly low temperatures without the use of engine heating or oil dilution, depending on the grade of oil used.
+
+The various covers (wing, tail, flight deck, wheel, and so forth) protecting the aircraft must be removed before attempting to turn the engine. Use external sources of electrical power when starting engines equipped with electric starters, if possible or needed. This eliminates an excessive burden on the aircraft battery. Leave all unnecessary electrical equipment off until the generators are furnishing electrical power to the aircraft power bus. Before starting a radial engine that has been shut down for more than 30 minutes, check the ignition switch for off. Turn the propeller three or four complete revolutions by hand to detect a hydraulic lock, if one is present. Any liquid present in a cylinder is indicated by the abnormal effort required to rotate the propeller or by the propeller stopping abruptly during rotation. Never use force to turn the propeller when a hydraulic lock is detected. Sufficient force can be exerted on the crankshaft to bend or break a connecting rod if a lock is present.
+
+To eliminate a lock, remove either the front or rear spark plug from the lower cylinders and pull the propeller through. Never attempt to clear the hydraulic lock by pulling the propeller through in the direction opposite to normal rotation. This tends to inject the liquid from the cylinder into the intake pipe. The liquid is drawn back into the cylinder with the possibility of complete or partial lock occurring on the subsequent start.
 
 To start the engine, proceed as follows:
 
@@ -48,9 +52,15 @@ To start the engine, proceed as follows:
 
 ### Hand Cranking Engines
 
-If the aircraft has no self-starter, start the engine by turning the propeller by hand (hand propping the propeller). The person who is turning the propeller calls: “Fuel on, switch off, throttle closed, brakes on.” The person operating the engine checks these items and repeats the phrase. The switch and throttle must not be touched again until the person swinging the prop calls “contact.” The operator repeats “contact” and then turns on the switch. Never turn on the switch and then call “contact.” A few simple precautions help to avoid accidents when hand propping the engine. While touching a propeller, always assume that the ignition is on. The switches that control the magnetos operate on the principle of short-circuiting the current to turn the ignition off. If the switch is faulty, it can be in the “off” position and still permit current to flow in the magneto primary circuit. This condition could allow the engine to start when the switch is off. Be sure the ground is firm. Slippery grass, mud, grease, or loose gravel can lead to a fall into or under the propeller. Never allow any portion of your body to get in the way of the propeller. This applies even when the engine is not being cranked.
+If the aircraft has no self-starter, start the engine by turning the propeller by hand (hand propping the propeller). The person who is turning the propeller calls: “Fuel on, switch off, throttle closed, brakes on.” The person operating the engine checks these items and repeats the phrase. The switch and throttle must not be touched again until the person swinging the prop calls “contact.” The operator repeats “contact” and then turns on the switch. Never turn on the switch and then call “contact.”
 
-Stand close enough to the propeller to be able to step away as it is pulled down. Stepping away after cranking is a safeguard in case the brakes fail. Do not stand in a position that requires leaning toward the propeller to reach it. This throws the body off balance and could cause a fall into the blades when the engine starts. In swinging the prop, always move the blade downward by pushing with the palms of the hands. Do not grip the blade with the fingers curled over the edge, since “kickback” may break them or draw your body in the blade path. Excessive throttle opening after the engine has fired is the principal cause of backfiring during starting. Gradual opening of the throttle, while the engine is cold, reduces the potential for backfiring. Slow, smooth movement of the throttle assures correct engine operation.
+A few simple precautions help to avoid accidents when hand propping the engine. While touching a propeller, always assume that the ignition is on. The switches that control the magnetos operate on the principle of short-circuiting the current to turn the ignition off. If the switch is faulty, it can be in the “off” position and still permit current to flow in the magneto primary circuit. This condition could allow the engine to start when the switch is off.
+
+Be sure the ground is firm. Slippery grass, mud, grease, or loose gravel can lead to a fall into or under the propeller. Never allow any portion of your body to get in the way of the propeller. This applies even when the engine is not being cranked.
+
+Stand close enough to the propeller to be able to step away as it is pulled down. Stepping away after cranking is a safeguard in case the brakes fail. Do not stand in a position that requires leaning toward the propeller to reach it. This throws the body off balance and could cause a fall into the blades when the engine starts.
+
+In swinging the prop, always move the blade downward by pushing with the palms of the hands. Do not grip the blade with the fingers curled over the edge, since “kickback” may break them or draw your body in the blade path. Excessive throttle opening after the engine has fired is the principal cause of backfiring during starting. Gradual opening of the throttle, while the engine is cold, reduces the potential for backfiring. Slow, smooth movement of the throttle assures correct engine operation.
 
 Avoid over priming the engine before it is turned over by the starter. This can result in fires, scored or scuffed cylinders and pistons, or engine failures due to hydraulic lock. If the engine is inadvertently flooded or over primed, turn the ignition switch off and move the throttle to the “full open” position. To rid the engine of the excess fuel, turn it over by hand or by the starter. If excessive force is needed to turn over the engine, stop immediately. Do not force rotation of the engine. If in doubt, remove the lower cylinder spark plugs.
 
@@ -60,17 +70,23 @@ Most aircraft reciprocating engines are air cooled and depend on the forward spe
 
 ### Extinguishing Engine Fires
 
-In all cases, a fireguard should stand by with a CO₂ fire extinguisher while the aircraft engine is being started. This is a necessary precaution against fire during the starting procedure. The fireguard must be familiar with the induction system of the engine so that in case of fire, they can direct the CO₂ into the air intake of the engine to extinguish it. A fire could also occur in the exhaust system of the engine from liquid fuel being ignited in the cylinder and expelled during the normal rotation of the engine. If an engine fire develops during the starting procedure, the operator should continue cranking to start the engine and extinguish the fire. If the engine does not start and the fire continues to burn, discontinue the start attempt. The fireguard then extinguishes the fire using the available equipment. The fireguard must observe all safety practices at all times while standing by during the starting procedure.
+In all cases, a fireguard should stand by with a CO₂ fire extinguisher while the aircraft engine is being started. This is a necessary precaution against fire during the starting procedure. The fireguard must be familiar with the induction system of the engine so that in case of fire, they can direct the CO₂ into the air intake of the engine to extinguish it. A fire could also occur in the exhaust system of the engine from liquid fuel being ignited in the cylinder and expelled during the normal rotation of the engine.
+
+If an engine fire develops during the starting procedure, the operator should continue cranking to start the engine and extinguish the fire. If the engine does not start and the fire continues to burn, discontinue the start attempt. The fireguard then extinguishes the fire using the available equipment. The fireguard must observe all safety practices at all times while standing by during the starting procedure.
 
 ### Turboprop Engines
 
-The starting of any turbine engine consists of three steps that must be carried out in the correct sequence. The starter turns the main compressor to provide airflow though the engine. At the correct speed that provides enough airflow, the igniters are turned on and provide a hot spark to light the fuel that is engaged next. As the engine accelerates, it reaches a self-sustaining speed and the starter is disengaged. The various covers protecting the aircraft must be removed. Carefully inspect the engine exhaust areas for the presence of fuel or oil. Make a close visual inspection of all accessible parts of the engines and engine controls, followed by an inspection of all nacelle areas to determine that all inspection and access plates are secured. Check sumps for water. Inspect air inlet areas for general condition and foreign material. Check the compressor for free rotation, when the installation permits, by reaching in and turning the blades by hand.
+The starting of any turbine engine consists of three steps that must be carried out in the correct sequence. The starter turns the main compressor to provide airflow though the engine. At the correct speed that provides enough airflow, the igniters are turned on and provide a hot spark to light the fuel that is engaged next. As the engine accelerates, it reaches a self-sustaining speed and the starter is disengaged.
+
+The various covers protecting the aircraft must be removed. Carefully inspect the engine exhaust areas for the presence of fuel or oil. Make a close visual inspection of all accessible parts of the engines and engine controls, followed by an inspection of all nacelle areas to determine that all inspection and access plates are secured. Check sumps for water. Inspect air inlet areas for general condition and foreign material. Check the compressor for free rotation, when the installation permits, by reaching in and turning the blades by hand.
 
 The following procedures are typical of those used to start turboprop engines. There are, however, wide variations in the procedures applicable to the many turboprop engines. Therefore, do not attempt to use these procedures in the actual starting of a turboprop engine. These procedures are presented only as a general guide for familiarization with typical procedures and methods. For starting of all turboprop engines, refer to the detailed procedures contained in the applicable manufacturer’s instructions or their approved equivalent.
 
 Turboprop engines are usually fixed turbine or free turbine. The propeller is connected to the engine directly in a fixed turbine, resulting in the propeller being turned as the engine starts. This provides extra drag that must be overcome during starting. If the propeller is not at the “start” position, difficulty may be encountered in making a start due to high loads. The propeller is in flat pitch at shut down and subsequently in flat pitch during start because of this.
 
-The free turbine engine has no mechanical connection between the gas generator and the power turbine that is connected to the propeller. In this type of engine, the propeller remains in the feather position during starting and only turns as the gas generator accelerates. Instrumentation for turbine engines varies according to the type of turbine engine. Turboprop engines use the normal instruments—oil pressure, oil temperature, inter-turbine temperature (ITT), and fuel flow. They also use instruments to measure gas generator speed, propeller speed, and torque produced by the propeller. A typical turboprop uses a set of engine controls, such as power levelers (throttle), propeller levers, and condition levers.
+The free turbine engine has no mechanical connection between the gas generator and the power turbine that is connected to the propeller. In this type of engine, the propeller remains in the feather position during starting and only turns as the gas generator accelerates.
+
+Instrumentation for turbine engines varies according to the type of turbine engine. Turboprop engines use the normal instruments—oil pressure, oil temperature, inter-turbine temperature (ITT), and fuel flow. They also use instruments to measure gas generator speed, propeller speed, and torque produced by the propeller. A typical turboprop uses a set of engine controls, such as power levelers (throttle), propeller levers, and condition levers.
 
 The first step in starting a turbine engine is to provide an adequate source of power for the starter. On smaller turbine engines, the starter is an electric motor that turns the engine through electrical power. Larger engines need a much more powerful starter. Electric motors would be limited by current flow and weight. Air turbine starters were developed that were lighter and produced sufficient power to turn the engine at the correct speed for starting. When an air turbine starter is used, the starting air supply may be obtained from an APU onboard the aircraft, an external source (ground air cart), or an engine cross-bleed operation. In some limited cases, a low-pressure, large-volume tank can provide the air for starting an engine. Many smaller turboprop engines are started using the starter/generator, that is both the engine starter and the generator.
 
@@ -138,7 +154,13 @@ Check the aircraft fuel sumps for water or ice. Inspect the engine air inlet for
 
 ### Starting a Turbofan Engine
 
-The following procedures are typical of those used to start many turbine engines. There are, however, wide variations in the starting procedures used for turbine engines, and no attempts are to be made to use these procedures in the actual starting of an engine. These procedures are presented only as a general guide for familiarization with typical procedures and methods. In the starting of all turbine engines, refer to the detailed procedures contained in the applicable manufacturer’s instructions or their approved equivalent. Most turbofan engines can be started by either air turbine or electrical starters. Air-turbine starters use compressed air from an external source as discussed earlier. Fuel is turned on either by moving the start lever to “idle/start” position or by opening a fuel shutoff valve. If an air turbine starter is used, the engine “lights off” within a predetermined time after the fuel is turned on. This time interval, if exceeded, indicates a malfunction has occurred and the start must be discontinued. Most turbofan engine controls consist of a power lever, reversing levers, and start levers. Newer aircraft have replaced the start levers with a fuel switch. Turbofan engines also use all the normal instruments speeds, (percent of total rpm) exhaust gas temperature, fuel flow, oil pressure, and temperature. An instrument that measures the amount of thrust being delivered is the engine pressure ratio. This measures the ratio between the inlet pressures to the outlet pressure of the turbine. The following procedures are useful only as a general guide and are included to show the sequence of events in starting a turbofan engine.
+The following procedures are typical of those used to start many turbine engines. There are, however, wide variations in the starting procedures used for turbine engines, and no attempts are to be made to use these procedures in the actual starting of an engine. These procedures are presented only as a general guide for familiarization with typical procedures and methods. In the starting of all turbine engines, refer to the detailed procedures contained in the applicable manufacturer’s instructions or their approved equivalent.
+
+Most turbofan engines can be started by either air turbine or electrical starters. Air-turbine starters use compressed air from an external source as discussed earlier. Fuel is turned on either by moving the start lever to “idle/start” position or by opening a fuel shutoff valve. If an air turbine starter is used, the engine “lights off” within a predetermined time after the fuel is turned on. This time interval, if exceeded, indicates a malfunction has occurred and the start must be discontinued.
+
+Most turbofan engine controls consist of a power lever, reversing levers, and start levers. Newer aircraft have replaced the start levers with a fuel switch. Turbofan engines also use all the normal instruments speeds, (percent of total rpm) exhaust gas temperature, fuel flow, oil pressure, and temperature. An instrument that measures the amount of thrust being delivered is the engine pressure ratio. This measures the ratio between the inlet pressures to the outlet pressure of the turbine.
+
+The following procedures are useful only as a general guide and are included to show the sequence of events in starting a turbofan engine.
 
 1. If the engine is so equipped, place the power lever in the “idle” position.
 
@@ -198,7 +220,9 @@ Some tow bars are designed for towing various types of aircraft. However, other 
 
 When towing the aircraft, the towing vehicle speed must be reasonable, and all persons involved in the operation must be alert. When the aircraft is stopped, do not rely upon the brakes of the towing vehicle alone to stop the aircraft. The person in the flight deck must coordinate the use of the aircraft brakes with those of the towing vehicle.
 
-The attachment of the tow bar varies on different types of aircraft. Aircraft equipped with tail wheels are generally towed forward by attaching the tow bar to the main landing gear. In most cases, it is permissible to tow the aircraft in reverse by attaching the tow bar to the tail wheel axle. Any time an aircraft equipped with a tail wheel is towed, the tail wheel must be unlocked or the tail wheel locking mechanism may damage or break. Aircraft equipped with tricycle landing gear are generally towed forward by attaching a tow bar to the axle of the nosewheel. They may also be towed forward or backward by attaching a towing bridle or specially designed towing bar to the towing lugs on the main landing gear. When an aircraft is towed in this manner, a steering bar is attached to the nosewheel to steer the aircraft. The following towing and parking procedures are typical of one type of operation. They are examples and not necessarily suited to every type of operation. Aircraft ground-handling personnel must be thoroughly familiar with all procedures pertaining to the types of aircraft being towed and local operation standards governing ground handling of aircraft. Competent persons that have been properly checked out direct the aircraft towing team.
+The attachment of the tow bar varies on different types of aircraft. Aircraft equipped with tail wheels are generally towed forward by attaching the tow bar to the main landing gear. In most cases, it is permissible to tow the aircraft in reverse by attaching the tow bar to the tail wheel axle. Any time an aircraft equipped with a tail wheel is towed, the tail wheel must be unlocked or the tail wheel locking mechanism may damage or break. Aircraft equipped with tricycle landing gear are generally towed forward by attaching a tow bar to the axle of the nosewheel. They may also be towed forward or backward by attaching a towing bridle or specially designed towing bar to the towing lugs on the main landing gear. When an aircraft is towed in this manner, a steering bar is attached to the nosewheel to steer the aircraft.
+
+The following towing and parking procedures are typical of one type of operation. They are examples and not necessarily suited to every type of operation. Aircraft ground-handling personnel must be thoroughly familiar with all procedures pertaining to the types of aircraft being towed and local operation standards governing ground handling of aircraft. Competent persons that have been properly checked out direct the aircraft towing team.
 
 1. The towing vehicle driver is responsible for operating the vehicle in a safe manner and obeying emergency stop instructions given by any team member.
 
@@ -270,7 +294,11 @@ Taxi signals are usually given at night with the aid of illuminated wands attach
 
 ### 活塞式发动机
 
-以下程序是起动活塞式发动机时的典型做法。不过，众多活塞式发动机的起动程序差异很大。不要试图用这里介绍的方法去实际起动发动机，而应始终参照适用制造商说明中的程序。活塞式发动机能在相当低的温度下起动；根据所用滑油的等级，可不采用发动机加温或滑油稀释。在试图转动发动机之前，必须拆下保护航空器的各种布罩（机翼、尾翼、驾驶舱、机轮等）。起动装电动起动机的发动机时，如可能或需要，应使用外部电源。这样可避免航空器电瓶负担过重。所有不必要的用电设备应保持关闭，直到发电机开始向航空器汇流条供电。起动停机超过 30 分钟的星形发动机之前，检查点火开关是否在“关”位。用手转动螺旋桨三至四整圈，以探测是否存在液锁。若气缸内有液体，表现为转动螺旋桨时阻力异常，或螺旋桨在转动中突然停住。一旦发现液锁，绝不可用力去扳螺旋桨。若存在液锁，作用在曲轴上的力足以使连杆弯曲或折断。要排除液锁，可从下方气缸拆下前或后火花塞，然后拉动螺旋桨转过去。绝不可朝与正常转动相反的方向拉动螺旋桨来排除液锁。那样会把气缸内的液体压入进气管，液体随后又被吸回气缸，使下一次起动时可能发生完全或部分液锁。
+以下程序是起动活塞式发动机时的典型做法。不过，众多活塞式发动机的起动程序差异很大。不要试图用这里介绍的方法去实际起动发动机，而应始终参照适用制造商说明中的程序。活塞式发动机能在相当低的温度下起动；根据所用滑油的等级，可不采用发动机加温或滑油稀释。
+
+在试图转动发动机之前，必须拆下保护航空器的各种布罩（机翼、尾翼、驾驶舱、机轮等）。起动装电动起动机的发动机时，如可能或需要，应使用外部电源。这样可避免航空器电瓶负担过重。所有不必要的用电设备应保持关闭，直到发电机开始向航空器汇流条供电。起动停机超过 30 分钟的星形发动机之前，检查点火开关是否在“关”位。用手转动螺旋桨三至四整圈，以探测是否存在液锁。若气缸内有液体，表现为转动螺旋桨时阻力异常，或螺旋桨在转动中突然停住。一旦发现液锁，绝不可用力去扳螺旋桨。若存在液锁，作用在曲轴上的力足以使连杆弯曲或折断。
+
+要排除液锁，可从下方气缸拆下前或后火花塞，然后拉动螺旋桨转过去。绝不可朝与正常转动相反的方向拉动螺旋桨来排除液锁。那样会把气缸内的液体压入进气管，液体随后又被吸回气缸，使下一次起动时可能发生完全或部分液锁。
 
 起动发动机的步骤如下：
 
@@ -292,9 +320,15 @@ Taxi signals are usually given at night with the aid of illuminated wands attach
 
 ### 手扳螺旋桨起动发动机
 
-若航空器没有自起动装置，就用手转动螺旋桨来起动发动机（即手扳螺旋桨）。扳桨的人喊：“燃油开、开关关、油门收、刹车刹住。”操作发动机的人核对这些项目并复述一遍。在扳桨人喊“接触”（contact）之前，任何人不得再碰开关和油门。操作者复述“接触”，然后才打开开关。绝不可先打开开关再喊“接触”。几个简单的预防措施有助于避免手扳螺旋桨时发生事故。手接触螺旋桨时，始终假定点火是接通的。控制磁电机的开关依据短接电流的原理工作，即靠短路来关闭点火。若开关有故障，它可能处于“关”位却仍让电流在磁电机初级电路中流动，这种情况会使发动机在开关处于“关”位时起动。要确认地面坚实。湿滑的草地、泥地、油污或松散的砾石都可能导致人跌向或跌到螺旋桨下方。绝不要让身体的任何部位处于螺旋桨的来路之上，即使发动机并未在摇转时也是如此。
+若航空器没有自起动装置，就用手转动螺旋桨来起动发动机（即手扳螺旋桨）。扳桨的人喊：“燃油开、开关关、油门收、刹车刹住。”操作发动机的人核对这些项目并复述一遍。在扳桨人喊“接触”（contact）之前，任何人不得再碰开关和油门。操作者复述“接触”，然后才打开开关。绝不可先打开开关再喊“接触”。
 
-站位要离螺旋桨足够近，以便在向下扳桨时能侧身退开。扳桨后退开，是为刹车失效时留的保险。不要站在需要向螺旋桨俯身才能够到它的位置，那会使身体失去平衡，发动机起动时可能跌入桨叶。扳桨时始终用手掌向下推桨叶。不要用手指扣住桨叶边缘去抓，因为“反弹”（kickback）可能弄断手指，或把身体带进桨叶扫过的路径。发动机着火后油门开得过大，是起动中回火的主要原因。发动机冷态时缓慢开油门，可降低回火的可能性。油门动作缓慢平稳，才能保证发动机工作正常。
+几个简单的预防措施有助于避免手扳螺旋桨时发生事故。手接触螺旋桨时，始终假定点火是接通的。控制磁电机的开关依据短接电流的原理工作，即靠短路来关闭点火。若开关有故障，它可能处于“关”位却仍让电流在磁电机初级电路中流动，这种情况会使发动机在开关处于“关”位时起动。要确认地面坚实。
+
+湿滑的草地、泥地、油污或松散的砾石都可能导致人跌向或跌到螺旋桨下方。绝不要让身体的任何部位处于螺旋桨的来路之上，即使发动机并未在摇转时也是如此。
+
+站位要离螺旋桨足够近，以便在向下扳桨时能侧身退开。扳桨后退开，是为刹车失效时留的保险。不要站在需要向螺旋桨俯身才能够到它的位置，那会使身体失去平衡，发动机起动时可能跌入桨叶。
+
+扳桨时始终用手掌向下推桨叶。不要用手指扣住桨叶边缘去抓，因为“反弹”（kickback）可能弄断手指，或把身体带进桨叶扫过的路径。发动机着火后油门开得过大，是起动中回火的主要原因。发动机冷态时缓慢开油门，可降低回火的可能性。油门动作缓慢平稳，才能保证发动机工作正常。
 
 在起动机转动发动机之前，避免注油过量。注油过量可能导致起火、气缸与活塞拉伤或擦伤，或因液锁导致发动机失效。如果发动机不慎淹缸或注油过量，关闭点火开关，把油门移到“全开”位。为排出多余燃油，用手或起动机转动发动机。若转动发动机需要过大的力，立即停止，不可强行转动。若有疑问，拆下下方气缸的火花塞。
 
@@ -304,17 +338,23 @@ Taxi signals are usually given at night with the aid of illuminated wands attach
 
 ### 扑灭发动机火情
 
-在任何情况下，起动航空器发动机时都应有一名消防警戒员手持 CO₂ 灭火器待命。这是起动过程中防范火灾的必要措施。消防警戒员必须熟悉发动机的进气系统，以便发生火情时能把 CO₂ 喷入发动机进气道将火扑灭。发动机排气系统也可能起火，原因是气缸内的液体燃油被点燃并在发动机正常转动时被排出。若起动过程中发动机起火，操作者应继续摇转以起动发动机并灭火。若发动机不能起动而火继续燃烧，则终止起动尝试，由消防警戒员用现有器材灭火。消防警戒员在起动过程中待命时，必须始终遵守各项安全操作规范。
+在任何情况下，起动航空器发动机时都应有一名消防警戒员手持 CO₂ 灭火器待命。这是起动过程中防范火灾的必要措施。消防警戒员必须熟悉发动机的进气系统，以便发生火情时能把 CO₂ 喷入发动机进气道将火扑灭。发动机排气系统也可能起火，原因是气缸内的液体燃油被点燃并在发动机正常转动时被排出。
+
+若起动过程中发动机起火，操作者应继续摇转以起动发动机并灭火。若发动机不能起动而火继续燃烧，则终止起动尝试，由消防警戒员用现有器材灭火。消防警戒员在起动过程中待命时，必须始终遵守各项安全操作规范。
 
 ### 涡桨发动机
 
-任何涡轮发动机的起动都包含三个必须按正确顺序执行的步骤。起动机带动主压气机转动，使空气流过发动机。当转速达到能提供足够气流的正确值时，接通点火器，产生强火花点燃随后引入的燃油。随着发动机加速，达到自持转速，起动机脱开。必须拆下保护航空器的各种布罩。仔细检查发动机排气区域有无燃油或滑油。对所有可接近的发动机部件和发动机操纵机构做仔细目视检查，随后检查各短舱区域，确认所有检查口盖和检修口盖都已固定。检查各集油槽有无积水。检查进气口区域的总状态和有无外来物。在安装条件允许时，伸手进去用手转动压气机叶片，检查压气机能否自由转动。
+任何涡轮发动机的起动都包含三个必须按正确顺序执行的步骤。起动机带动主压气机转动，使空气流过发动机。当转速达到能提供足够气流的正确值时，接通点火器，产生强火花点燃随后引入的燃油。随着发动机加速，达到自持转速，起动机脱开。
+
+必须拆下保护航空器的各种布罩。仔细检查发动机排气区域有无燃油或滑油。对所有可接近的发动机部件和发动机操纵机构做仔细目视检查，随后检查各短舱区域，确认所有检查口盖和检修口盖都已固定。检查各集油槽有无积水。检查进气口区域的总状态和有无外来物。在安装条件允许时，伸手进去用手转动压气机叶片，检查压气机能否自由转动。
 
 以下程序是起动涡桨发动机时的典型做法。不过，众多涡桨发动机适用的程序差异很大。因此，不要在实际起动涡桨发动机时使用这些程序。这些程序只是作为熟悉典型程序与方法的通用指南给出。起动任何涡桨发动机，都应参照适用制造商说明或其经批准的等效文件中的详细程序。
 
 涡桨发动机通常分为固定涡轮式或自由涡轮式。固定涡轮式的螺旋桨与发动机直接相连，因此发动机起动时螺旋桨随之转动，这带来额外的阻力，起动过程中必须克服。若螺旋桨不在“起动”位置，可能因载荷过大而难以起动。由于这一原因，螺旋桨在停车时处于平桨距，起动过程中也处于平桨距。
 
-自由涡轮式发动机的燃气发生器与带动螺旋桨的动力涡轮之间没有机械连接。这类发动机起动时螺旋桨保持在顺桨位置，只有在燃气发生器加速时才转动。涡轮发动机的仪表随涡轮发动机型式不同而异。涡桨发动机使用常规仪表——滑油压力、滑油温度、涡轮间温度（ITT）和燃油流量。它们还用仪表测量燃气发生器转速、螺旋桨转速和螺旋桨产生的扭矩。典型的涡桨发动机使用一套发动机操纵机构，如功率杆（油门）、螺旋桨杆和状态杆。
+自由涡轮式发动机的燃气发生器与带动螺旋桨的动力涡轮之间没有机械连接。这类发动机起动时螺旋桨保持在顺桨位置，只有在燃气发生器加速时才转动。
+
+涡轮发动机的仪表随涡轮发动机型式不同而异。涡桨发动机使用常规仪表——滑油压力、滑油温度、涡轮间温度（ITT）和燃油流量。它们还用仪表测量燃气发生器转速、螺旋桨转速和螺旋桨产生的扭矩。典型的涡桨发动机使用一套发动机操纵机构，如功率杆（油门）、螺旋桨杆和状态杆。
 
 起动涡轮发动机的第一步是为起动机提供足够的动力源。较小的涡轮发动机上，起动机是一台电动机，通过电能带动发动机。较大的发动机需要功率大得多的起动机。电动机受电流和重量的限制。为此研制了空气涡轮起动机，它更轻，并能提供足够的功率把发动机带到起动所需的正确转速。使用空气涡轮起动机时，起动气源可来自机上 APU、外部气源（地面气源车）或发动机交输引气。在少数情况下，低压大容量气瓶也可提供起动发动机所需的空气。许多较小的涡桨发动机用起动/发电机起动，它既是发动机起动机又是发电机。
 
@@ -382,7 +422,13 @@ Taxi signals are usually given at night with the aid of illuminated wands attach
 
 ### 起动涡扇发动机
 
-以下程序是起动许多涡轮发动机时的典型做法。不过，涡轮发动机所用的起动程序差异很大，不得把这些程序用于实际起动发动机。这些程序只是作为熟悉典型程序与方法的通用指南给出。起动任何涡轮发动机，都应参照适用制造商说明或其经批准的等效文件中的详细程序。大多数涡扇发动机可用空气涡轮起动机或电动起动机起动。空气涡轮起动机使用如前所述的外部压缩空气。燃油的接通，或靠把起动杆移到“慢车/起动”位，或靠打开燃油关断活门。若使用空气涡轮起动机，发动机在燃油接通后的预定时间内“点亮”（light off）。若超过这一时间间隔，表明已发生故障，必须中止起动。大多数涡扇发动机的操纵机构包括功率杆、反推杆和起动杆。较新的航空器已用燃油开关取代起动杆。涡扇发动机也使用全部常规仪表——转速（占总转速的百分比）、排气温度、燃油流量、滑油压力和温度。测量所输出推力量值的仪表是发动机压比表，它测量进气压力与涡轮出口压力之比。以下程序只作为通用指南使用，用以说明起动涡扇发动机的事件顺序。
+以下程序是起动许多涡轮发动机时的典型做法。不过，涡轮发动机所用的起动程序差异很大，不得把这些程序用于实际起动发动机。这些程序只是作为熟悉典型程序与方法的通用指南给出。起动任何涡轮发动机，都应参照适用制造商说明或其经批准的等效文件中的详细程序。大多数涡扇发动机可用空气涡轮起动机或电动起动机起动。
+
+空气涡轮起动机使用如前所述的外部压缩空气。燃油的接通，或靠把起动杆移到“慢车/起动”位，或靠打开燃油关断活门。若使用空气涡轮起动机，发动机在燃油接通后的预定时间内“点亮”（light off）。若超过这一时间间隔，表明已发生故障，必须中止起动。
+
+大多数涡扇发动机的操纵机构包括功率杆、反推杆和起动杆。较新的航空器已用燃油开关取代起动杆。涡扇发动机也使用全部常规仪表——转速（占总转速的百分比）、排气温度、燃油流量、滑油压力和温度。测量所输出推力量值的仪表是发动机压比表，它测量进气压力与涡轮出口压力之比。
+
+以下程序只作为通用指南使用，用以说明起动涡扇发动机的事件顺序。
 
 1. 若发动机有此装备，把功率杆置于“慢车”位。
 
@@ -442,7 +488,9 @@ APU 一般是较小的涡轮发动机，在地面为起动发动机提供压缩�
 
 牵引航空器时，牵引车速度必须合理，参与作业的所有人员必须保持警觉。航空器需要停下时，不要单靠牵引车的刹车来停住航空器。驾驶舱内的人员必须把航空器刹车的使用与牵引车刹车协调起来。
 
-拖杆的连接方式因航空器类型而异。装有尾轮的航空器，一般把拖杆接到主起落架上向前牵引；多数情况下，把拖杆接到尾轮轴上向后牵引也是允许的。凡牵引装有尾轮的航空器，尾轮都必须解锁，否则尾轮锁定机构可能损坏或折断。装前三点式起落架的航空器，一般把拖杆接到前轮轴上向前牵引；也可把牵引索或专门设计的牵引杆接到主起落架的牵引耳上，向前或向后牵引。以这种方式牵引时，要在前轮上装转向杆来操纵航空器转向。以下牵引和停放程序是某一种作业的典型做法，只是示例，未必适用于所有类型的作业。航空器地面保障人员必须全面熟悉与被牵引航空器机型有关的所有程序，以及管辖航空器地面保障的当地作业标准。牵引作业由经过正规考核的合格人员指挥。
+拖杆的连接方式因航空器类型而异。装有尾轮的航空器，一般把拖杆接到主起落架上向前牵引；多数情况下，把拖杆接到尾轮轴上向后牵引也是允许的。凡牵引装有尾轮的航空器，尾轮都必须解锁，否则尾轮锁定机构可能损坏或折断。装前三点式起落架的航空器，一般把拖杆接到前轮轴上向前牵引；也可把牵引索或专门设计的牵引杆接到主起落架的牵引耳上，向前或向后牵引。以这种方式牵引时，要在前轮上装转向杆来操纵航空器转向。
+
+以下牵引和停放程序是某一种作业的典型做法，只是示例，未必适用于所有类型的作业。航空器地面保障人员必须全面熟悉与被牵引航空器机型有关的所有程序，以及管辖航空器地面保障的当地作业标准。牵引作业由经过正规考核的合格人员指挥。
 
 1. 牵引车驾驶员负责安全操作车辆，并服从任何作业组成员发出的紧急停车指令。
 

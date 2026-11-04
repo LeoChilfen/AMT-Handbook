@@ -4,11 +4,15 @@
 
 ## 1. 原文
 
-The practice of recording drawings, parts catalogs, and maintenance and overhaul manuals on microfilms was utilized extensively in the past. Microfilm is available as regular 16 mm or 35 mm film. Since 35 mm film is larger, it provides a better reproduction of drawings. Microfiche is a card with pages laid out in a grid format. Microfilm and microfiche require use of special devices for both reading and printing the information. Most modern aircraft manufacturers have replaced microfilm and microfiche with digital storage methods utilizing CDs, DVDs, and other data storage devices. A great deal of service and repair information for older aircraft has been transferred to digital storage devices. However, there may still be a need to access information using the old methods. A well-equipped shop should have available, both the old microfilm and microfiche equipment, as well as new computer equipment.
+The practice of recording drawings, parts catalogs, and maintenance and overhaul manuals on microfilms was utilized extensively in the past. Microfilm is available as regular 16 mm or 35 mm film. Since 35 mm film is larger, it provides a better reproduction of drawings. Microfiche is a card with pages laid out in a grid format. Microfilm and microfiche require use of special devices for both reading and printing the information.
+
+Most modern aircraft manufacturers have replaced microfilm and microfiche with digital storage methods utilizing CDs, DVDs, and other data storage devices. A great deal of service and repair information for older aircraft has been transferred to digital storage devices. However, there may still be a need to access information using the old methods. A well-equipped shop should have available, both the old microfilm and microfiche equipment, as well as new computer equipment.
 
 ## 2. 中文翻译
 
-过去，把图纸、零件目录以及维修和大修手册记录在缩微胶片上的做法曾被广泛采用。缩微胶片有常规的 16 mm 或 35 mm 胶片规格。由于 35 mm 胶片尺寸较大，它对图纸的复制效果更好。缩微平片是一张卡片，其上的页面按网格格式排布。缩微胶片和缩微平片都需要使用专门的设备来阅读和打印信息。大多数现代飞机制造商已用光盘、DVD 及其他数据存储设备等数字存储方式，取代了缩微胶片和缩微平片。大量老式飞机的使用和修理信息已转入数字存储设备。然而，可能仍然需要用老办法来获取信息。设备齐全的修理车间应当同时备有老式的缩微胶片和缩微平片设备以及新的计算机设备。
+过去，把图纸、零件目录以及维修和大修手册记录在缩微胶片上的做法曾被广泛采用。缩微胶片有常规的 16 mm 或 35 mm 胶片规格。由于 35 mm 胶片尺寸较大，它对图纸的复制效果更好。缩微平片是一张卡片，其上的页面按网格格式排布。
+
+缩微胶片和缩微平片都需要使用专门的设备来阅读和打印信息。大多数现代飞机制造商已用光盘、DVD 及其他数据存储设备等数字存储方式，取代了缩微胶片和缩微平片。大量老式飞机的使用和修理信息已转入数字存储设备。然而，可能仍然需要用老办法来获取信息。设备齐全的修理车间应当同时备有老式的缩微胶片和缩微平片设备以及新的计算机设备。
 
 ## 3. 专业词汇
 

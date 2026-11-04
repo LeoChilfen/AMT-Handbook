@@ -6,13 +6,29 @@
 
 Inspection for corrosion is a continuing problem and must be handled daily. Overemphasizing a particular corrosion problem when it is discovered and then forgetting about corrosion until the next crisis is an unsafe, costly, and troublesome practice. Most scheduled maintenance checklists are complete enough to cover all parts of the aircraft or engine, thus no part of the aircraft goes uninspected. Use these checklists as a general guide when an area is to be inspected for corrosion. Through experience, one learns that most aircraft have trouble areas where, despite routine inspection and maintenance, corrosion still sets in.
 
-All corrosion inspections start with a thorough cleaning of the area to be inspected. A general visual inspection of the area follows using a flashlight, inspection mirror, and a 5– l0X magnifying glass. The general inspection is to look for obvious defects and suspected areas. A detailed inspection of damage or suspected areas found during the general inspection follows. Visual inspection is the most widely used technique and is an effective method for the detection and evaluation of corrosion. Visual inspection employs the eyes to look directly at an aircraft surface or at a low angle of incidence to detect corrosion. Using the sense of touch is also an effective inspection method for the detection of hidden, well-developed corrosion. Other tools used during the visual inspection are mirrors, optical micrometers, and depth gauges. Sometimes the inspection areas are obscured by structural members, equipment installations, or for some reason are awkward to check visually. Adequate access for inspection must be obtained by removing access panels and adjacent equipment, cleaning the area as necessary, and removing loose or cracked sealants and paints. Mirrors, borescopes, and fiber optics are useful in providing the means of observing obscure areas. In addition to visual inspection, there are several NDI methods, such as liquid penetrant, magnetic particle, eddy current, x-ray, ultrasonic, and acoustical emission, that may be of value in the detection of corrosion. These methods have limitations and must be performed only by qualified and certified NDI personnel. Eddy current, x-ray, and ultrasonic inspection methods require properly calibrated (each time used) equipment and a controlling reference standard to obtain reliable results. In addition to routine maintenance inspections, amphibians or seaplanes must be checked daily and critical areas cleaned or treated, as necessary.
+All corrosion inspections start with a thorough cleaning of the area to be inspected. A general visual inspection of the area follows using a flashlight, inspection mirror, and a 5– l0X magnifying glass. The general inspection is to look for obvious defects and suspected areas. A detailed inspection of damage or suspected areas found during the general inspection follows.
+
+Visual inspection is the most widely used technique and is an effective method for the detection and evaluation of corrosion. Visual inspection employs the eyes to look directly at an aircraft surface or at a low angle of incidence to detect corrosion. Using the sense of touch is also an effective inspection method for the detection of hidden, well-developed corrosion. Other tools used during the visual inspection are mirrors, optical micrometers, and depth gauges.
+
+Sometimes the inspection areas are obscured by structural members, equipment installations, or for some reason are awkward to check visually. Adequate access for inspection must be obtained by removing access panels and adjacent equipment, cleaning the area as necessary, and removing loose or cracked sealants and paints. Mirrors, borescopes, and fiber optics are useful in providing the means of observing obscure areas.
+
+In addition to visual inspection, there are several NDI methods, such as liquid penetrant, magnetic particle, eddy current, x-ray, ultrasonic, and acoustical emission, that may be of value in the detection of corrosion. These methods have limitations and must be performed only by qualified and certified NDI personnel. Eddy current, x-ray, and ultrasonic inspection methods require properly calibrated (each time used) equipment and a controlling reference standard to obtain reliable results.
+
+In addition to routine maintenance inspections, amphibians or seaplanes must be checked daily and critical areas cleaned or treated, as necessary.
 
 ## 2. 中文翻译
 
 腐蚀检查是一个持续存在的问题，必须每天进行。发现某一腐蚀问题时就过度强调，随后又把它置诸脑后，直到下一次危机爆发才想起腐蚀，这种做法不安全、代价高昂而且麻烦不断。大多数计划维护检查单足够完整，能覆盖飞机或发动机的所有部位，因此飞机的任何部位都不会漏检。对某个区域进行腐蚀检查时，应把这些检查单用作总体指南。凭经验可以体会到，大多数飞机都有一些易出问题的区域，尽管进行了例行检查和维护，腐蚀仍会在那里发生。
 
-所有腐蚀检查都从彻底清洁待检查区域开始。随后用手电筒、检查镜和 5~10 倍放大镜对该区域进行一般目视检查。一般检查的目的是寻找明显缺陷和可疑区域。一般检查中发现损伤或可疑区域后，再对其做详细检查。目视检查是使用最广泛的技术，也是探测和评估腐蚀的有效方法：它借助眼睛直接观察飞机表面，或以很小的入射角观察，从而发现腐蚀。触觉同样是探测隐蔽且已充分发展的腐蚀的有效检查手段。目视检查中使用的其他工具有镜子、光学千分尺和深度尺。有时检查区域被结构件、设备安装遮挡，或因某种原因难以目视检查。必须通过拆下检查口盖和邻近设备、按需清洁该区域、清除松动或开裂的密封胶和漆层，来获得充分的检查通道。镜子、内窥镜和光纤有助于观察到难以接近的区域。除目视检查外，还有多种无损检测（NDI）方法，如液体渗透、磁粉、涡流、X 射线、超声和声发射检测，它们对探测腐蚀可能有价值。这些方法都有局限性，必须只由合格且持证的 NDI 人员实施。涡流、X 射线和超声检测方法都要求配备经过正确校准（每次使用前）的设备和控制用参考标准，才能获得可靠的结果。除例行维护检查外，水陆两栖飞机或水上飞机必须每天检查，并视需要对关键区域进行清洁或处理。
+所有腐蚀检查都从彻底清洁待检查区域开始。随后用手电筒、检查镜和 5~10 倍放大镜对该区域进行一般目视检查。一般检查的目的是寻找明显缺陷和可疑区域。一般检查中发现损伤或可疑区域后，再对其做详细检查。
+
+目视检查是使用最广泛的技术，也是探测和评估腐蚀的有效方法：它借助眼睛直接观察飞机表面，或以很小的入射角观察，从而发现腐蚀。触觉同样是探测隐蔽且已充分发展的腐蚀的有效检查手段。目视检查中使用的其他工具有镜子、光学千分尺和深度尺。
+
+有时检查区域被结构件、设备安装遮挡，或因某种原因难以目视检查。必须通过拆下检查口盖和邻近设备、按需清洁该区域、清除松动或开裂的密封胶和漆层，来获得充分的检查通道。镜子、内窥镜和光纤有助于观察到难以接近的区域。
+
+除目视检查外，还有多种无损检测（NDI）方法，如液体渗透、磁粉、涡流、X 射线、超声和声发射检测，它们对探测腐蚀可能有价值。这些方法都有局限性，必须只由合格且持证的 NDI 人员实施。涡流、X 射线和超声检测方法都要求配备经过正确校准（每次使用前）的设备和控制用参考标准，才能获得可靠的结果。
+
+除例行维护检查外，水陆两栖飞机或水上飞机必须每天检查，并视需要对关键区域进行清洁或处理。
 
 ## 3. 专业词汇
 

@@ -60,7 +60,9 @@ Other terms that are used when describing empty weight include basic empty weigh
 
 ### Empty Weight Center of Gravity (EWCG)
 
-The EWCG for an aircraft is the point at which it balances when it is in an empty weight condition. The concepts of empty weight and CG were discussed earlier in this chapter, and now they are being combined into a single concept. One of the most important reasons for weighing an aircraft is to determine its EWCG. All other weight and balance calculations, including loading the aircraft for flight, performing an equipment change calculation, and performing an adverse condition check, begin with knowing the empty weight and EWCG. This crucial information is part of what is contained in the aircraft weight and balance report.
+The EWCG for an aircraft is the point at which it balances when it is in an empty weight condition. The concepts of empty weight and CG were discussed earlier in this chapter, and now they are being combined into a single concept.
+
+One of the most important reasons for weighing an aircraft is to determine its EWCG. All other weight and balance calculations, including loading the aircraft for flight, performing an equipment change calculation, and performing an adverse condition check, begin with knowing the empty weight and EWCG. This crucial information is part of what is contained in the aircraft weight and balance report.
 
 Weight + + – – Arm + – + – Moment + – – + Rotation Noseup Nosedown Nosedown Noseup arms, and moments.
 
@@ -78,7 +80,13 @@ A reduction in the weight of an item, where possible, may be necessary to remain
 
 Many modern aircraft have multiple rows of seats and often more than one baggage compartment. The weight and balance extreme conditions represent the maximum forward and rearward CG position for the aircraft. An aircraft has certain fixed points, fore and aft, beyond which the CG should not be permitted at any time during flight. A check should be made to ensure that the CG will not shift out of limits when crew, passengers, cargo, and expendable weights are added or removed. If the limits are exceeded and the aircraft is flown in this condition, it may lead to insufficient stability, with resulting difficulty in controlling the aircraft. After any repair or alteration that changes the weight and balance, the Airframe and Powerplant (A&P) mechanic or repairman must ensure that no legal condition of loading can move the CG outside of its allowable limits. To determine this, the mechanic will deliberately attempt to calculate the aircraft loading in such a manner as to place the CG outside the limits of the aircraft. This is called an adverse-loading check.
 
-For example, in a forward adverse-loaded CG check, all useful load in front of the forward CG limit is loaded, and all useful load behind this limit is left empty. An exception to leaving it empty is the fuel tank. If the fuel tank is located behind the forward CG limit, it cannot be left empty because the aircraft cannot fly without fuel. In this case, an amount of fuel is accounted for, which is known as minimum fuel. Minimum fuel is the amount needed for 30 minutes of flight at cruise power. For weight and balance purposes, the minimum fuel is no more than the quantity needed for one half hour of operation at rated maximum continuous power. This is 1⁄12 gallon for each maximum except takeoff (METO) horsepower (hp). Because aviation gasoline (Avgas) weighs 6 pounds per gallon (lb/gal), determine the number of pounds of the minimum fuel by dividing the METO hp by 2. For instance, an aircraft having a METO hp of 200 hp will have a minimum fuel of 16.65 gallons or 99.99 pounds. An even simpler way is to take the METO hp divided by 2, which is 100 pounds. Both methods in determining minimum fuel are valued and result in essentially the same answer. In the latter computation, a piston engine in cruise flight burns 1 lb of fuel per hour for each hp, or 1⁄2 lb for 30 minutes, hence dividing the METO by 2. For example, if a forward adverse-loaded CG check was performed on a piston engine aircraft, with the engine having a METO hp of 200, the minimum fuel would be 100 lb (200 METO hp ÷ 2). For turbine engine-powered aircraft, minimum fuel is not based on engine hp. If an adverse-loaded CG check is being performed on a turbine engine-powered aircraft, the aircraft manufacturer would need to supply information on minimum fuel.
+For example, in a forward adverse-loaded CG check, all useful load in front of the forward CG limit is loaded, and all useful load behind this limit is left empty. An exception to leaving it empty is the fuel tank. If the fuel tank is located behind the forward CG limit, it cannot be left empty because the aircraft cannot fly without fuel. In this case, an amount of fuel is accounted for, which is known as minimum fuel. Minimum fuel is the amount needed for 30 minutes of flight at cruise power.
+
+For weight and balance purposes, the minimum fuel is no more than the quantity needed for one half hour of operation at rated maximum continuous power. This is 1⁄12 gallon for each maximum except takeoff (METO) horsepower (hp). Because aviation gasoline (Avgas) weighs 6 pounds per gallon (lb/gal), determine the number of pounds of the minimum fuel by dividing the METO hp by 2. For instance, an aircraft having a METO hp of 200 hp will have a minimum fuel of 16.65 gallons or 99.99 pounds. An even simpler way is to take the METO hp divided by 2, which is 100 pounds. Both methods in determining minimum fuel are valued and result in essentially the same answer. In the latter computation, a piston engine in cruise flight burns 1 lb of fuel per hour for each hp, or 1⁄2 lb for 30 minutes, hence dividing the METO by 2.
+
+For example, if a forward adverse-loaded CG check was performed on a piston engine aircraft, with the engine having a METO hp of 200, the minimum fuel would be 100 lb (200 METO hp ÷ 2).
+
+For turbine engine-powered aircraft, minimum fuel is not based on engine hp. If an adverse-loaded CG check is being performed on a turbine engine-powered aircraft, the aircraft manufacturer would need to supply information on minimum fuel.
 
 When aircraft are placed on scales and weighed, it is sometimes necessary to use support equipment to aid in the weighing process. For example, to weigh a tail dragger airplane, it is necessary to raise the tail to get the airplane level. To level the airplane, a jack might be placed on the scale and used to raise the tail. Unfortunately, the scale is now absorbing the weight of the jack in addition to the weight of the airplane. This extra weight is known as tare weight and must be subtracted from the scale reading. Other examples of tare weight are wheel chocks placed on the scales and ground locks left in place on retractable landing gear.
 
@@ -140,7 +148,9 @@ When aircraft are placed on scales and weighed, it is sometimes necessary to use
 
 ### 空重重心（EWCG）
 
-飞机的空重重心是其在空重状态下取得平衡的那一点。空重与重心的概念已在本章前面讨论过，现在把它们合并为一个概念。对飞机称重最重要的原因之一，就是确定其空重重心。所有其他的重量与平衡计算，包括为飞行装载飞机、进行设备变更计算以及进行不利状态检查，都以已知空重和空重重心为起点。这项关键信息是飞机重量与平衡报告所包含内容的一部分。
+飞机的空重重心是其在空重状态下取得平衡的那一点。空重与重心的概念已在本章前面讨论过，现在把它们合并为一个概念。
+
+对飞机称重最重要的原因之一，就是确定其空重重心。所有其他的重量与平衡计算，包括为飞行装载飞机、进行设备变更计算以及进行不利状态检查，都以已知空重和空重重心为起点。这项关键信息是飞机重量与平衡报告所包含内容的一部分。
 
 （原文此处为表格碎片，原文无正文）
 
@@ -158,7 +168,13 @@ When aircraft are placed on scales and weighed, it is sometimes necessary to use
 
 许多现代飞机有多排座椅，而且往往不止一个行李舱。重量与平衡极端状态代表飞机重心最靠前和最靠后的位置。飞机在前后方向上都有固定的界限点，飞行中的任何时刻都不允许重心越过这些点。应当进行检查，以确认在增减机组、乘客、货物和消耗性重量时，重心不会移出限制范围。如果超出限制而飞机仍在此状态下飞行，可能导致稳定性不足，进而难以控制飞机。在任何改变重量与平衡的修理或改装之后，机体与动力装置（A&P）维修人员或修理人员必须确保，没有任何合法的装载状态会使重心移出其允许范围。为确定这一点，维修人员会刻意按使重心落在飞机限制范围之外的方式去计算飞机的装载。这称为不利装载检查（adverse-loading check）。
 
-例如，在前不利装载重心检查中，位于前重心限制之前的所有有效载重都装上，而该限制之后的所有有效载重都空着。空着这一做法有一个例外，就是油箱。如果油箱位于前重心限制之后，就不能让它空着，因为没有燃油飞机无法飞行。这种情况下要计入一定数量的燃油，称为最小燃油。最小燃油是在巡航功率下飞行 30 分钟所需的油量。就重量与平衡而言，最小燃油不超过在额定最大连续功率下运行半小时所需的油量，即每 1 最大除起飞（METO）马力（hp）对应 1/12 加仑。由于航空汽油（Avgas）每加仑重 6 磅（lb/gal），将 METO 马力除以 2 即可得出最小燃油的磅数。例如，METO 功率为 200 hp 的飞机，其最小燃油为 16.65 加仑或 99.99 磅。还有一种更简单的算法，直接把 METO 马力除以 2，即 100 磅。确定最小燃油的这两种方法都有价值，结果基本相同。后一种算法的依据是：活塞发动机在巡航飞行中每马力每小时消耗 1 磅燃油，半小时即 1/2 磅，故将 METO 除以 2。例如，若对一架活塞发动机飞机进行前不利装载重心检查，发动机 METO 功率为 200 hp，则最小燃油为 100 lb（200 METO hp ÷ 2）。对于涡轮发动机飞机，最小燃油不按发动机马力计算。若要对涡轮发动机飞机做不利装载重心检查，需要由飞机制造商提供有关最小燃油的资料。
+例如，在前不利装载重心检查中，位于前重心限制之前的所有有效载重都装上，而该限制之后的所有有效载重都空着。空着这一做法有一个例外，就是油箱。如果油箱位于前重心限制之后，就不能让它空着，因为没有燃油飞机无法飞行。这种情况下要计入一定数量的燃油，称为最小燃油。最小燃油是在巡航功率下飞行 30 分钟所需的油量。
+
+就重量与平衡而言，最小燃油不超过在额定最大连续功率下运行半小时所需的油量，即每 1 最大除起飞（METO）马力（hp）对应 1/12 加仑。由于航空汽油（Avgas）每加仑重 6 磅（lb/gal），将 METO 马力除以 2 即可得出最小燃油的磅数。例如，METO 功率为 200 hp 的飞机，其最小燃油为 16.65 加仑或 99.99 磅。还有一种更简单的算法，直接把 METO 马力除以 2，即 100 磅。确定最小燃油的这两种方法都有价值，结果基本相同。后一种算法的依据是：活塞发动机在巡航飞行中每马力每小时消耗 1 磅燃油，半小时即 1/2 磅，故将 METO 除以 2。
+
+例如，若对一架活塞发动机飞机进行前不利装载重心检查，发动机 METO 功率为 200 hp，则最小燃油为 100 lb（200 METO hp ÷ 2）。
+
+对于涡轮发动机飞机，最小燃油不按发动机马力计算。若要对涡轮发动机飞机做不利装载重心检查，需要由飞机制造商提供有关最小燃油的资料。
 
 当飞机被放上秤台称重时，有时需要使用辅助设备来帮助完成称重。例如，给一架后三点式飞机称重时，必须抬起尾部使飞机水平。为使飞机水平，可以把一台千斤顶放在秤台上，用来抬起尾部。不幸的是，此时秤台除承受飞机重量之外，还在承受千斤顶的重量。这部分额外的重量称为皮重，必须从秤台读数中减去。皮重的其他例子有放在秤台上的轮挡，以及留在可收放起落架上的地面锁。
 

@@ -10,7 +10,9 @@ When cleaning an engine, open or remove the cowling as much as possible. Beginni
 
 Fresh water, soap, and approved cleaning solvents may be used for cleaning propeller and rotor blades. Except in the process of etching, caustic material must not be used on a propeller. Scrapers, power buffers, steel brushes, or any tool or substances that mar or scratch the surface must not be used on propeller blades, except as recommended for etching and repair.
 
-Water spray, rain, or other airborne abrasive material strikes a whirling propeller blade with such force that small pits are formed in the blade’s leading edge. If preventive measures are not taken, corrosion causes these pits to rapidly grow larger. The pits may become so large that it is necessary to file the blade’s leading edge until it is smooth. Steel propeller blades have more resistance to abrasion and corrosion than aluminum alloy blades. Steel blades, if rubbed down with oil after each flight, retain a smooth surface for a long time.
+Water spray, rain, or other airborne abrasive material strikes a whirling propeller blade with such force that small pits are formed in the blade’s leading edge. If preventive measures are not taken, corrosion causes these pits to rapidly grow larger. The pits may become so large that it is necessary to file the blade’s leading edge until it is smooth.
+
+Steel propeller blades have more resistance to abrasion and corrosion than aluminum alloy blades. Steel blades, if rubbed down with oil after each flight, retain a smooth surface for a long time.
 
 Examine the propellers regularly, because cracks in steel or aluminum alloy blades can become filled with oil that tends to oxidize. This can readily be seen when the blade is inspected.
 
@@ -28,7 +30,9 @@ In special cases where a high polish is desired, the use of a good grade of meta
 
 可使用淡水、肥皂和经批准的清洁溶剂清洁螺旋桨和旋翼桨叶。除蚀刻工序外，不得在螺旋桨上使用苛性材料。除蚀刻和修理所建议者外，不得在螺旋桨桨叶上使用刮刀、电动抛光机、钢丝刷或任何会损伤或划伤表面的工具或物质。
 
-水雾、雨水或其他空气中的磨蚀性物质以很大的力冲击旋转的螺旋桨桨叶，在桨叶前缘形成小凹坑。如果不采取预防措施，腐蚀会使这些凹坑迅速扩大。凹坑可能大到必须锉平桨叶前缘的程度。钢制螺旋桨桨叶比铝合金桨叶更耐磨损和腐蚀。钢制桨叶如果每次飞行后都涂油擦拭，能长时间保持光滑表面。
+水雾、雨水或其他空气中的磨蚀性物质以很大的力冲击旋转的螺旋桨桨叶，在桨叶前缘形成小凹坑。如果不采取预防措施，腐蚀会使这些凹坑迅速扩大。凹坑可能大到必须锉平桨叶前缘的程度。
+
+钢制螺旋桨桨叶比铝合金桨叶更耐磨损和腐蚀。钢制桨叶如果每次飞行后都涂油擦拭，能长时间保持光滑表面。
 
 要定期检查螺旋桨，因为钢制或铝合金桨叶中的裂纹可能充满趋于氧化的油。检查桨叶时很容易看到这种情况。
 

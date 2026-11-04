@@ -4,11 +4,15 @@
 
 ## 1. 原文
 
-Mathematics is woven into many areas of everyday life. Performing mathematical calculations with success requires an understanding of the correct methods, procedures, practice, and review of these principles. Mathematics may be thought of as a set of tools. The aviation mechanic needs these tools to successfully complete the maintenance, repair, installation, or certification of aircraft equipment. Many examples of using mathematical principles by the aviation mechanic are available. Tolerances in turbine engine components are critical, making it necessary to measure within a ten-thousandth of an inch. Because of these close tolerances, it is important that the aviation mechanic can make accurate measurements and mathematical calculations. An aviation mechanic working on aircraft fuel systems also uses mathematical principles to calculate volumes and capacities of fuel tanks. The use of fractions and surface area calculations are required to perform sheet metal repair on aircraft structures.
+Mathematics is woven into many areas of everyday life. Performing mathematical calculations with success requires an understanding of the correct methods, procedures, practice, and review of these principles. Mathematics may be thought of as a set of tools. The aviation mechanic needs these tools to successfully complete the maintenance, repair, installation, or certification of aircraft equipment.
+
+Many examples of using mathematical principles by the aviation mechanic are available. Tolerances in turbine engine components are critical, making it necessary to measure within a ten-thousandth of an inch. Because of these close tolerances, it is important that the aviation mechanic can make accurate measurements and mathematical calculations. An aviation mechanic working on aircraft fuel systems also uses mathematical principles to calculate volumes and capacities of fuel tanks. The use of fractions and surface area calculations are required to perform sheet metal repair on aircraft structures.
 
 ## 2. 中文翻译
 
-数学渗透在日常生活的许多领域。要成功地进行数学计算，需要理解正确的方法、步骤，并加以练习和对这些原理的复习。数学可以看作是一套工具。航空维修技师需要这些工具，才能顺利完成飞机设备的维修、修理、安装或认证工作。航空维修技师运用数学原理的例子有很多。涡轮发动机部件的公差要求非常严格，必须测量到万分之一英寸以内。由于这些公差很紧，航空维修技师能够进行精确的测量和数学计算就十分重要。从事飞机燃油系统工作的航空维修技师也要运用数学原理来计算油箱的容积和容量。对飞机结构进行钣金修理时，需要用到分数和表面积计算。
+数学渗透在日常生活的许多领域。要成功地进行数学计算，需要理解正确的方法、步骤，并加以练习和对这些原理的复习。数学可以看作是一套工具。航空维修技师需要这些工具，才能顺利完成飞机设备的维修、修理、安装或认证工作。
+
+航空维修技师运用数学原理的例子有很多。涡轮发动机部件的公差要求非常严格，必须测量到万分之一英寸以内。由于这些公差很紧，航空维修技师能够进行精确的测量和数学计算就十分重要。从事飞机燃油系统工作的航空维修技师也要运用数学原理来计算油箱的容积和容量。对飞机结构进行钣金修理时，需要用到分数和表面积计算。
 
 ## 3. 专业词汇
 

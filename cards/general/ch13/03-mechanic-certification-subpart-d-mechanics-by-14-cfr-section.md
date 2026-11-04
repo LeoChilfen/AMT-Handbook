@@ -20,7 +20,9 @@ If a technician has one of the ratings and desires to add the other, they must m
 
 ### Section 65.73, Ratings
 
-The FAA recognizes two ratings: airframe and powerplant. These may be attained by a person upon successful application and testing either individually or as a combined certificate. Any person holding an aircraft (A) or aircraft engine (E) certificate prior to June 15, 1952, and which was valid on that date, may exchange it for the corresponding current certificate. If both ratings were held, the A & E certificate may be exchanged for an Airframe and Powerplant (A&P).
+The FAA recognizes two ratings: airframe and powerplant. These may be attained by a person upon successful application and testing either individually or as a combined certificate.
+
+Any person holding an aircraft (A) or aircraft engine (E) certificate prior to June 15, 1952, and which was valid on that date, may exchange it for the corresponding current certificate. If both ratings were held, the A & E certificate may be exchanged for an Airframe and Powerplant (A&P).
 
 ### Section 65.75, Knowledge Requirements
 
@@ -54,7 +56,9 @@ In addition to having the proper documentation, the mechanic is required by this
 
 ### Section 65.85, Airframe Rating: Additional Privileges
 
-A mechanic who holds an airframe rating may approve and return to service an airframe, an appliance, or any related part after they have performed, supervised, or inspected minor repairs or alterations. They may also perform the maintenance actions required for a major repair or alteration, and should initiate the appropriate form (FAA Form 337, Major Repair and Alteration) associated with that work. However, the return to service action must be accomplished by a certificated A&P technician holding an Inspection Authorization (IA). (Refer to 14 CFR section 65.95.) The airframe mechanic is also authorized to perform the 100-hour inspection (if required per 14 CFR part 91 section 91.409) on the airframe. A certificated mechanic with an airframe rating can approve and return to service the airframe of an aircraft with a special airworthiness certificate, in the light-sport category (refer to 14 CFR part 21, section 21.190) after performing and inspecting a major repair or major alteration. The work must have been done on products that are not produced under FAA approval (i.e., are not type certificated) and must have been performed in accordance with instructions developed by the manufacturer or person acceptable to the FAA.
+A mechanic who holds an airframe rating may approve and return to service an airframe, an appliance, or any related part after they have performed, supervised, or inspected minor repairs or alterations. They may also perform the maintenance actions required for a major repair or alteration, and should initiate the appropriate form (FAA Form 337, Major Repair and Alteration) associated with that work. However, the return to service action must be accomplished by a certificated A&P technician holding an Inspection Authorization (IA). (Refer to 14 CFR section 65.95.) The airframe mechanic is also authorized to perform the 100-hour inspection (if required per 14 CFR part 91 section 91.409) on the airframe.
+
+A certificated mechanic with an airframe rating can approve and return to service the airframe of an aircraft with a special airworthiness certificate, in the light-sport category (refer to 14 CFR part 21, section 21.190) after performing and inspecting a major repair or major alteration. The work must have been done on products that are not produced under FAA approval (i.e., are not type certificated) and must have been performed in accordance with instructions developed by the manufacturer or person acceptable to the FAA.
 
 ### Section 65.87, Powerplant Rating: Additional Privileges
 
@@ -84,7 +88,9 @@ Once a technician receives their mechanic certificate, the certificate must be k
 
 ### 第 65.73 条 等级
 
-FAA 认可两种等级：机体和动力装置。个人在成功申请并通过考试后，可单独取得其中之一，也可取得合并的合格证。任何在 1952 年 6 月 15 日之前持有飞机（A）或飞机发动机（E）合格证、且该证在该日有效的个人，均可将其换发为相应的现行合格证。如同时持有两种等级，则 A & E 合格证可换发为机体与动力装置（A&P）合格证。
+FAA 认可两种等级：机体和动力装置。个人在成功申请并通过考试后，可单独取得其中之一，也可取得合并的合格证。
+
+任何在 1952 年 6 月 15 日之前持有飞机（A）或飞机发动机（E）合格证、且该证在该日有效的个人，均可将其换发为相应的现行合格证。如同时持有两种等级，则 A & E 合格证可换发为机体与动力装置（A&P）合格证。
 
 ### 第 65.75 条 知识要求
 
@@ -118,7 +124,9 @@ FAA 认可两种等级：机体和动力装置。个人在成功申请并通过�
 
 ### 第 65.85 条 机体等级：附加权限
 
-持有机体等级的维修人员，在实施、监督或检查了小修或小改装之后，可批准机体、附件或任何相关零件并对其实施放行。他们也可实施大修或重大改装所需的维修工作，并应填写与该工作相应的表格（FAA 表格 337《大修与重大改装》）。但是，放行行为必须由持有检验授权（IA）的持证 A&P 技术人员完成。（参见 14 CFR 第 65.95 条。）机体维修人员还获准对机体实施 100 小时检查（如 14 CFR 第 91 部第 91.409 条要求）。持有机体等级的持证维修人员，可在对轻型运动类（参见 14 CFR 第 21 部第 21.190 条）特殊适航证航空器实施并检查了大修或重大改装之后，批准该航空器的机体并对其实施放行。该工作必须是在非经 FAA 批准生产的产品（即非型号合格产品）上完成的，且必须按照制造商或 FAA 认可的人员制定的说明完成。
+持有机体等级的维修人员，在实施、监督或检查了小修或小改装之后，可批准机体、附件或任何相关零件并对其实施放行。他们也可实施大修或重大改装所需的维修工作，并应填写与该工作相应的表格（FAA 表格 337《大修与重大改装》）。但是，放行行为必须由持有检验授权（IA）的持证 A&P 技术人员完成。（参见 14 CFR 第 65.95 条。）机体维修人员还获准对机体实施 100 小时检查（如 14 CFR 第 91 部第 91.409 条要求）。
+
+持有机体等级的持证维修人员，可在对轻型运动类（参见 14 CFR 第 21 部第 21.190 条）特殊适航证航空器实施并检查了大修或重大改装之后，批准该航空器的机体并对其实施放行。该工作必须是在非经 FAA 批准生产的产品（即非型号合格产品）上完成的，且必须按照制造商或 FAA 认可的人员制定的说明完成。
 
 ### 第 65.87 条 动力装置等级：附加权限
 

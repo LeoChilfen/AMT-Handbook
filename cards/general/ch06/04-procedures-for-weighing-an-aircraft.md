@@ -20,7 +20,9 @@ An interesting characteristic exists for this problem. If the datum (zero arm) f
 
 CG = Total Moment ÷ Total Weight = 3,400 in-lb ÷ 495 lb = 6.9" (6.87 rounded to tenths)
 
-In the new calculation, the CG is 6.9" to the right of the plank’s center. Even though the arm is not the same number, in the original calculation the CG is also 6.9" to the right of center (CG location of 106.9 with the center being 100). Because both problems are the same except for the datum location, the CG must be the same. The definition for CG states that it is the point about which all the moments are equal. We can prove that the CG for the object is correct by showing that the total moments on either side of this point are equal. Using 6.87 as the CG location for slightly greater accuracy, instead of the rounded off 6.9 number, the moments to the left of the CG are calculated, and the moments to the right of the CG would be calculated in the same way.
+In the new calculation, the CG is 6.9" to the right of the plank’s center. Even though the arm is not the same number, in the original calculation the CG is also 6.9" to the right of center (CG location of 106.9 with the center being 100). Because both problems are the same except for the datum location, the CG must be the same.
+
+The definition for CG states that it is the point about which all the moments are equal. We can prove that the CG for the object is correct by showing that the total moments on either side of this point are equal. Using 6.87 as the CG location for slightly greater accuracy, instead of the rounded off 6.9 number, the moments to the left of the CG are calculated, and the moments to the right of the CG would be calculated in the same way.
 
 Disregarding the slightly different decimal value, the moment in both previous calculations is 10,651 in-lb. Showing that the moments are equal is a good way of proving that the CG has been properly calculated.
 
@@ -100,7 +102,9 @@ CG = 总力矩 ÷ 总重量 = 52,900 in-lb ÷ 495 lb = 106.9"（106.87 取到十
 
 CG = 总力矩 ÷ 总重量 = 3,400 in-lb ÷ 495 lb = 6.9"（6.87 取到十分位）
 
-在新的计算中，重心位于木板中心以右 6.9"。尽管力臂不是同一个数值，在原计算中重心同样位于中心以右 6.9"（重心位置为 106.9，而中心为 100）。这两个问题除了基准位置不同之外完全相同，因此重心必定相同。重心的定义指出，它是使所有力矩相等的那一点。我们可以通过说明该点两侧的总力矩相等，来证明物体的重心算得正确。为稍精确一些，用 6.87 而不是取整后的 6.9 作为重心位置，即可算出重心左侧的力矩，重心右侧的力矩也以同样方式算出。
+在新的计算中，重心位于木板中心以右 6.9"。尽管力臂不是同一个数值，在原计算中重心同样位于中心以右 6.9"（重心位置为 106.9，而中心为 100）。这两个问题除了基准位置不同之外完全相同，因此重心必定相同。
+
+重心的定义指出，它是使所有力矩相等的那一点。我们可以通过说明该点两侧的总力矩相等，来证明物体的重心算得正确。为稍精确一些，用 6.87 而不是取整后的 6.9 作为重心位置，即可算出重心左侧的力矩，重心右侧的力矩也以同样方式算出。
 
 忽略小数上的微小差别，上面两次计算得到的力矩都是 10,651 in-lb。说明两侧力矩相等，是证明重心计算正确的好办法。
 

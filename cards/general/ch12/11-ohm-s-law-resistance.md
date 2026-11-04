@@ -6,7 +6,9 @@
 
 The two fundamental properties of current and voltage are related by a third property known as resistance. In any electrical circuit, when voltage is applied to it, a current results. The resistance of the conductor determines the amount of current that flows under the given voltage. In most cases, the greater the circuit resistance, the less the current. If the resistance is reduced, then the current increases. This relation is linear in nature and is known as Ohm’s Law.
 
-By having a linearly proportional characteristic, it is meant that if one unit in the relationship increases or decreases by a certain percentage, the other variables in the relationship increase or decrease by the same percentage. An example would be if the voltage across a resistor is doubled, then the current through the resistor doubles. It should be added that this relationship is true only if the resistance in the circuit remains constant. If the resistance changes, current also changes. A graph of this relationship is shown, which uses a constant resistance of 20Ω. The relationship between voltage and current in this example shows voltage plotted horizontally along the X axis in values from 0 to 120 volts, and the corresponding values of current are plotted vertically in values from 0 to 6.0 amperes along the Y axis. A straight line drawn through all the points where the voltage and current lines meet represents the equation I = E⁄20 and is called a linear relationship. If E = 10 V Then 10 V20 Ω = 0.5 A If E = 60 V Then 60 V20 Ω = 3 A If E = 120 V Then 120V20 Ω = 6 A Ohm’s Law may be expressed as an equation, as follows:
+By having a linearly proportional characteristic, it is meant that if one unit in the relationship increases or decreases by a certain percentage, the other variables in the relationship increase or decrease by the same percentage. An example would be if the voltage across a resistor is doubled, then the current through the resistor doubles. It should be added that this relationship is true only if the resistance in the circuit remains constant. If the resistance changes, current also changes. A graph of this relationship is shown, which uses a constant resistance of 20Ω. The relationship between voltage and current in this example shows voltage plotted horizontally along the X axis in values from 0 to 120 volts, and the corresponding values of current are plotted vertically in values from 0 to 6.0 amperes along the Y axis. A straight line drawn through all the points where the voltage and current lines meet represents the equation I = E⁄20 and is called a linear relationship.
+
+If E = 10 V Then 10 V20 Ω = 0.5 A If E = 60 V Then 60 V20 Ω = 3 A If E = 120 V Then 120V20 Ω = 6 A Ohm’s Law may be expressed as an equation, as follows:
 
 Equation 1 I = ER I = current in amperes (A)
 
@@ -28,7 +30,9 @@ The triangles containing E, R, and I are divided into two parts, with E above th
 
 电流和电压这两个基本特性，通过称为电阻的第三个特性相联系。在任何电路中，施加电压就会产生电流。导体的电阻决定在给定电压下流过电流的大小。大多数情况下，电路电阻越大，电流越小。若电阻减小，电流则增大。这种关系本质上是线性的，称为欧姆定律。
 
-所谓具有线性比例特性，是指该关系中的一个量按某一百分比增大或减小时，关系中的其他变量也按相同百分比增大或减小。举例来说，若电阻器两端的电压加倍，则通过电阻器的电流也加倍。还应补充说明，这一关系只有在电路电阻保持不变时才成立。若电阻变化，电流也随之变化。这种关系的曲线如图所示，该图取 20Ω 的恒定电阻。在此例中，电压与电流的关系为：电压沿 X 轴水平标绘，取值 0 到 120 伏；相应的电流沿 Y 轴垂直标绘，取值 0 到 6.0 安培。连接电压线与电流线各交点绘出的直线代表方程 I = E⁄20，称为线性关系。若 E = 10 V，则 10 V/20 Ω = 0.5 A；若 E = 60 V，则 60 V/20 Ω = 3 A；若 E = 120 V，则 120 V/20 Ω = 6 A。欧姆定律可用方程表示如下：
+所谓具有线性比例特性，是指该关系中的一个量按某一百分比增大或减小时，关系中的其他变量也按相同百分比增大或减小。举例来说，若电阻器两端的电压加倍，则通过电阻器的电流也加倍。还应补充说明，这一关系只有在电路电阻保持不变时才成立。若电阻变化，电流也随之变化。这种关系的曲线如图所示，该图取 20Ω 的恒定电阻。在此例中，电压与电流的关系为：电压沿 X 轴水平标绘，取值 0 到 120 伏；相应的电流沿 Y 轴垂直标绘，取值 0 到 6.0 安培。连接电压线与电流线各交点绘出的直线代表方程 I = E⁄20，称为线性关系。若 E = 10 V，则 10 V/20 Ω = 0.5 A；若 E = 60 V，则 60 V/20 Ω = 3 A；
+
+若 E = 120 V，则 120 V/20 Ω = 6 A。欧姆定律可用方程表示如下：
 
 方程 1 I = E/R，I = 以安培（A）为单位的电流
 

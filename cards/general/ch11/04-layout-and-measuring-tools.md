@@ -56,7 +56,9 @@ Outside calipers are used for measuring outside dimensions— for example, the d
 
 ### Micrometer Calipers
 
-There are four types of micrometer calipers, each designed for a specific use: outside micrometer, inside micrometer, depth micrometer, and thread micrometer. Micrometers are available in a variety of sizes, either 0 to 1⁄2 inch, 0 to 1 inch, 1 to 2 inch, 2 to 3 inch, 3 to 4 inch, 4 to 5 inch, or 5 to 6 inch sizes. In addition to the micrometer inscribed with the measurement markings, micrometers equipped with electronic digital liquid crystal display (LCD) readouts are also in common use.
+There are four types of micrometer calipers, each designed for a specific use: outside micrometer, inside micrometer, depth micrometer, and thread micrometer.
+
+Micrometers are available in a variety of sizes, either 0 to 1⁄2 inch, 0 to 1 inch, 1 to 2 inch, 2 to 3 inch, 3 to 4 inch, 4 to 5 inch, or 5 to 6 inch sizes. In addition to the micrometer inscribed with the measurement markings, micrometers equipped with electronic digital liquid crystal display (LCD) readouts are also in common use.
 
 The AMT uses the outside micrometer more often than any other type. It may be used to measure the outside dimensions of shafts, thickness of sheet metal stock, the diameter of drills, and for many other applications.
 
@@ -188,7 +190,9 @@ Vernier caliper Digital caliper Dial caliper
 
 ### 千分尺
 
-千分尺有四种，各为特定用途设计：外径千分尺、内径千分尺、深度千分尺和螺纹千分尺。千分尺有多种规格，如 0 至 1⁄2 英寸、0 至 1 英寸、1 至 2 英寸、2 至 3 英寸、3 至 4 英寸、4 至 5 英寸或 5 至 6 英寸。除了刻有测量标记的千分尺，装有电子数字液晶显示器（LCD）读数的千分尺也很常用。
+千分尺有四种，各为特定用途设计：外径千分尺、内径千分尺、深度千分尺和螺纹千分尺。
+
+千分尺有多种规格，如 0 至 1⁄2 英寸、0 至 1 英寸、1 至 2 英寸、2 至 3 英寸、3 至 4 英寸、4 至 5 英寸或 5 至 6 英寸。除了刻有测量标记的千分尺，装有电子数字液晶显示器（LCD）读数的千分尺也很常用。
 
 航空维修技术人员（AMT）使用外径千分尺比其他任何类型都多。它可用来测量轴的外径、金属板料的厚度、钻头直径，以及许多其他场合。
 

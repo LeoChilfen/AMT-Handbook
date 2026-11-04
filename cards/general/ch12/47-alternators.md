@@ -138,7 +138,9 @@ Vibrating-type regulators cannot be used with generators, which require a high-f
 
 ### Three Unit Regulators
 
-Many light aircraft employ a three unit regulator for their generator systems. This type of regulator includes a current limiter and a reverse current cut-out in addition to a voltage regulator. The action of the voltage regulator unit is similar to the vibrating-type regulator described earlier. The second of the three units is a current regulator to limit the output current of the generator. The third unit is a reverse current cut-out that disconnects the battery from the generator. If the battery is not disconnected, it discharges through the generator armature when the generator voltage falls below that of the battery, thus driving the generator as a motor. This action is called “motoring” the generator and, unless it is prevented, it discharges the battery in a short time.
+Many light aircraft employ a three unit regulator for their generator systems. This type of regulator includes a current limiter and a reverse current cut-out in addition to a voltage regulator.
+
+The action of the voltage regulator unit is similar to the vibrating-type regulator described earlier. The second of the three units is a current regulator to limit the output current of the generator. The third unit is a reverse current cut-out that disconnects the battery from the generator. If the battery is not disconnected, it discharges through the generator armature when the generator voltage falls below that of the battery, thus driving the generator as a motor. This action is called “motoring” the generator and, unless it is prevented, it discharges the battery in a short time.
 
 The operation of a three unit regulator is described in the following paragraphs.
 
@@ -312,7 +314,9 @@ F = P × N / 120 式中：P 为每相极数，f 为频率（cps），N 为额定
 
 ### 三单元调节器
 
-许多轻型飞机的发电机系统采用三单元调节器。这种调节器除电压调节器外，还包括电流限制器和逆流断流器。电压调节器单元的作用与前面所述的振动式调节器相似。三个单元中的第二个是电流调节器，用于限制发电机的输出电流。第三个单元是逆流断流器，用于把蓄电池与发电机断开。如果蓄电池不断开，当发电机电压低于蓄电池电压时，蓄电池就会通过发电机电枢放电，从而把发电机当作电动机驱动。这种作用称为发电机的“电动运行”；如果不加防止，蓄电池很快就会被放光。
+许多轻型飞机的发电机系统采用三单元调节器。这种调节器除电压调节器外，还包括电流限制器和逆流断流器。
+
+电压调节器单元的作用与前面所述的振动式调节器相似。三个单元中的第二个是电流调节器，用于限制发电机的输出电流。第三个单元是逆流断流器，用于把蓄电池与发电机断开。如果蓄电池不断开，当发电机电压低于蓄电池电压时，蓄电池就会通过发电机电枢放电，从而把发电机当作电动机驱动。这种作用称为发电机的“电动运行”；如果不加防止，蓄电池很快就会被放光。
 
 三单元调节器的工作过程在以下各段中说明。
 

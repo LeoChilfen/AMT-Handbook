@@ -146,7 +146,9 @@ Date of Application for Type Certificate: 11 May 1970.
 
 The Luftfahrt Bundesamt originally type certificated this aircraft under its type certificate Number 680. The FAA validated this product under U.S. Type Certificate Number A27EU. Effective September 28, 2003, the European Aviation Safety Agency (EASA) began oversight of this product on behalf of Germany. The EASA type certificate for the BO-209 models is EASA.A.357.
 
-Import Requirements The FAA can issue a U.S. airworthiness certificate based on an NAA Export Certificate of Airworthiness (Export C of A) signed by a representative of the Luftfahrt Bundesamt on behalf of the European Community. The Export C of A should contain the following statement: ‘The aircraft covered by this certificate has been examined, tested, and found to comply with U.S. airworthiness regulations 14 CFR Part 23 approved under U.S. Type Certificate No. A27EU and to be in a condition for safe operation.’ Service Information Each of the documents listed below must state that it is approved by the European Aviation Safety Agency (EASA) or – for approvals made before September 28, 2003 – by the Luftfahrt Bundesamt.
+Import Requirements The FAA can issue a U.S. airworthiness certificate based on an NAA Export Certificate of Airworthiness (Export C of A) signed by a representative of the Luftfahrt Bundesamt on behalf of the European Community. The Export C of A should contain the following statement: ‘The aircraft covered by this certificate has been examined, tested, and found to comply with U.S. airworthiness regulations 14 CFR Part 23 approved under U.S. Type Certificate No. A27EU and to be in a condition for safe operation.’
+
+Service Information Each of the documents listed below must state that it is approved by the European Aviation Safety Agency (EASA) or – for approvals made before September 28, 2003 – by the Luftfahrt Bundesamt.
 
 • Service bulletins,
 
@@ -162,7 +164,9 @@ The FAA accepts such documents and considers them FAA-approved unless one of the
 
 •The documents make an acoustical or emissions changes to this product’s U.S. type certificate as defined in 14 CFR § 21.93.
 
-5 A27EU Service Information, cont'd The FAA uses the post type validation procedures to approve these documents. The FAA may delegate on case-by-case to EASA to approve on behalf of the FAA for the U.S. type certificate. If this is the case it will be noted on the document. Equipment The basic required equipment as prescribed in the applicable airworthiness regulations (see Certification Basis) must be installed in the aircraft for certification. In addition, the following items of equipment are required: 1. Stall Warning System.
+5 A27EU Service Information, cont'd The FAA uses the post type validation procedures to approve these documents. The FAA may delegate on case-by-case to EASA to approve on behalf of the FAA for the U.S. type certificate. If this is the case it will be noted on the document.
+
+Equipment The basic required equipment as prescribed in the applicable airworthiness regulations (see Certification Basis) must be installed in the aircraft for certification. In addition, the following items of equipment are required: 1. Stall Warning System.
 
 2. LBA-approved Model BO-209 Approved Flight Manual, Ref. No.LF 37E-7/71 dated July 1971 or later LBA-approved revision.
 
@@ -200,7 +204,9 @@ Each registered owner or operator of an aircraft desiring to use a progressive i
 
 Continuous inspection programs are similar to progressive inspection programs, except that they apply to large or turbine-powered aircraft and are therefore more complicated.
 
-Like progressive inspection programs, they require approval by the FAA Administrator. The approval may be sought based upon the type of operation and the CFR parts that the aircraft is operated under. The maintenance program for commercially operated aircraft must be detailed in the approved operations specifications (OpSpecs) of the commercial certificate holder. Airlines utilize a continuous maintenance program that includes both routine and detailed inspections. However, the detailed inspections may include different levels of detail. Often referred to as “checks,” the A-checks, B-checks, C-checks, and D-checks involve increasing levels of detail. A-checks are the least comprehensive and occur frequently. D-checks, on the other hand, are extremely comprehensive, involving major disassembly, removal, overhaul, and inspection of systems and components. They might occur only three to six times during the service life of an aircraft.
+Like progressive inspection programs, they require approval by the FAA Administrator. The approval may be sought based upon the type of operation and the CFR parts that the aircraft is operated under. The maintenance program for commercially operated aircraft must be detailed in the approved operations specifications (OpSpecs) of the commercial certificate holder.
+
+Airlines utilize a continuous maintenance program that includes both routine and detailed inspections. However, the detailed inspections may include different levels of detail. Often referred to as “checks,” the A-checks, B-checks, C-checks, and D-checks involve increasing levels of detail. A-checks are the least comprehensive and occur frequently. D-checks, on the other hand, are extremely comprehensive, involving major disassembly, removal, overhaul, and inspection of systems and components. They might occur only three to six times during the service life of an aircraft.
 
 ### Altimeter & Transponder Inspections
 
@@ -350,7 +356,9 @@ III - 型号 BO-209-150 FF，2 PCLM（正常类与实用类），1971 年 7 月 
 
 Luftfahrt Bundesamt 最初按第 680 号型号合格证对该飞机进行了型号合格审定。FAA 按美国型号合格证编号 A27EU 对该产品予以认可。自 2003 年 9 月 28 日起，欧洲航空安全局（EASA）代表德国开始对该产品实施监督。BO-209 各型号的 EASA 型号合格证为 EASA.A.357。
 
-进口要求：FAA 可以依据由 Luftfahrt Bundesamt 代表欧洲共同体签署的 NAA 出口适航证（Export C of A）颁发美国适航证。该出口适航证应包含以下声明：『本证所涵盖的航空器已经检查、试验，并查明符合美国适航法规 14 CFR 第 23 部（按美国型号合格证编号 A27EU 批准），且处于可安全运行的状态。』服务信息：下列文件中的每一份都必须说明其已获欧洲航空安全局（EASA）批准，或者在 2003 年 9 月 28 日之前取得的批准由 Luftfahrt Bundesamt 批准。
+进口要求：FAA 可以依据由 Luftfahrt Bundesamt 代表欧洲共同体签署的 NAA 出口适航证（Export C of A）颁发美国适航证。该出口适航证应包含以下声明：『本证所涵盖的航空器已经检查、试验，并查明符合美国适航法规 14 CFR 第 23 部（按美国型号合格证编号 A27EU 批准），且处于可安全运行的状态。』
+
+服务信息：下列文件中的每一份都必须说明其已获欧洲航空安全局（EASA）批准，或者在 2003 年 9 月 28 日之前取得的批准由 Luftfahrt Bundesamt 批准。
 
 • 服务通告，
 
@@ -366,7 +374,9 @@ FAA 接受此类文件并将其视为 FAA 批准，除非存在下列条件之�
 
 •文件对该产品的美国型号合格证作出 14 CFR § 21.93 所定义的噪声或排放方面的更改。
 
-5 A27EU 服务信息（续）FAA 采用型号验证后的程序来批准这些文件。FAA 可以逐案委托 EASA 代表 FAA 为该美国型号合格证进行批准。如属这种情况，将在文件上注明。设备：适用适航法规（见审定基础）所规定的基本必备设备必须装机方可取得审定。此外还要求配备下列设备：1. 失速警告系统。
+5 A27EU 服务信息（续）FAA 采用型号验证后的程序来批准这些文件。FAA 可以逐案委托 EASA 代表 FAA 为该美国型号合格证进行批准。
+
+如属这种情况，将在文件上注明。设备：适用适航法规（见审定基础）所规定的基本必备设备必须装机方可取得审定。此外还要求配备下列设备：1. 失速警告系统。
 
 2. LBA 批准的 BO-209 型号批准飞行手册，编号 LF 37E-7/71，日期为 1971 年 7 月或 LBA 批准的更晚版本。
 
@@ -404,7 +414,9 @@ Donauworth、Laupheim，德意志联邦共和国（Messerschmitt-Bolkow-Blohm �
 
 连续检查方案与分阶段检查方案相似，只是它适用于大型或涡轮动力航空器，因此更为复杂。
 
-与分阶段检查方案一样，连续检查方案须经 FAA 局长批准。可以根据运行类型以及航空器运行所依据的 CFR 各部来申请批准。商业运行航空器的维修方案必须详载于商业证书持有人经批准的运行规范（OpSpecs）中。航空公司采用包含例行检查和详细检查的连续维修方案。不过，详细检查可能包含不同的详细程度。常被称为「检」（checks）的 A 检、B 检、C 检和 D 检，其详细程度逐级提高。A 检综合性最低、实施最频繁。另一方面，D 检综合性极高，涉及系统和部件的大量拆解、拆卸、翻修和检查。D 检在一架航空器的使用寿命期内可能只进行三至六次。
+与分阶段检查方案一样，连续检查方案须经 FAA 局长批准。可以根据运行类型以及航空器运行所依据的 CFR 各部来申请批准。商业运行航空器的维修方案必须详载于商业证书持有人经批准的运行规范（OpSpecs）中。
+
+航空公司采用包含例行检查和详细检查的连续维修方案。不过，详细检查可能包含不同的详细程度。常被称为「检」（checks）的 A 检、B 检、C 检和 D 检，其详细程度逐级提高。A 检综合性最低、实施最频繁。另一方面，D 检综合性极高，涉及系统和部件的大量拆解、拆卸、翻修和检查。D 检在一架航空器的使用寿命期内可能只进行三至六次。
 
 ### 高度表与应答机检查
 

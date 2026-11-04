@@ -386,7 +386,9 @@ An alloy in the form of a mechanical mixture at ordinary temperatures may change
 
 #### Heat-Treating Equipment
 
-Successful heat-treating requires close control over all factors affecting the heating and cooling of metals. Such control is possible only when the proper equipment is available and the equipment is selected to fit the job. Thus, the furnace must be of the proper size and type and must be controlled so that temperatures are kept within the limits prescribed for each operation. Even the atmosphere within the furnace affects the condition of the part being heat-treated. Further, the quenching equipment and the quenching medium must be selected to fit the metal and the heat-treating operation. Finally, there must be equipment for handling parts and materials, for cleaning metals, and for straightening parts.
+Successful heat-treating requires close control over all factors affecting the heating and cooling of metals. Such control is possible only when the proper equipment is available and the equipment is selected to fit the job. Thus, the furnace must be of the proper size and type and must be controlled so that temperatures are kept within the limits prescribed for each operation. Even the atmosphere within the furnace affects the condition of the part being heat-treated. Further, the quenching equipment and the quenching medium must be selected to fit the metal and the heat-treating operation.
+
+Finally, there must be equipment for handling parts and materials, for cleaning metals, and for straightening parts.
 
 Furnaces & Salt Baths There are many different types and sizes of furnaces used in heat-treatment. As a rule, furnaces are designed to operate in certain specific temperature ranges and attempted use in other ranges frequently results in work of inferior quality.
 
@@ -1208,7 +1210,9 @@ Inconel 与不锈钢外观相似，且常出现在发动机的相同部位，因
 
 #### 热处理设备
 
-成功的热处理要求对影响金属加热和冷却的所有因素进行严格控制。只有具备合适的设备并按工作选择设备，这种控制才可能实现。因此，炉子必须尺寸和类型合适，且温度应保持在每种操作规定的范围内。甚至炉内气氛也会影响被处理零件的状态。此外，淬火设备和淬火介质必须按金属和热处理操作来选择。最后，还必须有零件和材料的搬运设备、金属清理设备以及零件校直设备。
+成功的热处理要求对影响金属加热和冷却的所有因素进行严格控制。只有具备合适的设备并按工作选择设备，这种控制才可能实现。因此，炉子必须尺寸和类型合适，且温度应保持在每种操作规定的范围内。甚至炉内气氛也会影响被处理零件的状态。此外，淬火设备和淬火介质必须按金属和热处理操作来选择。
+
+最后，还必须有零件和材料的搬运设备、金属清理设备以及零件校直设备。
 
 炉子与盐浴 热处理中使用许多不同类型和尺寸的炉子。一般来说，炉子设计为在特定的温度范围内工作，试图在其他范围使用常导致工件质量低劣。
 

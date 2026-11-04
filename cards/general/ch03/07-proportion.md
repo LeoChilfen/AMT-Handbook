@@ -8,7 +8,9 @@ A proportion is a statement of equality between two or more ratios. For example,
 
 ### Extremes and Means
 
-The first and last terms of the proportion (the 3 and 8 in this example) are called the extremes. The second and third terms (the 4 and 6 in this example) are called the means. In any proportion, the product of the extremes is equal to the product of the means. In the proportion 2:3 = 4:6, the product of the extremes, 2 × 6, is 12; the product of the means, 3 × 4, is also 12. An inspection of any proportion shows this to be true.
+The first and last terms of the proportion (the 3 and 8 in this example) are called the extremes. The second and third terms (the 4 and 6 in this example) are called the means. In any proportion, the product of the extremes is equal to the product of the means.
+
+In the proportion 2:3 = 4:6, the product of the extremes, 2 × 6, is 12; the product of the means, 3 × 4, is also 12. An inspection of any proportion shows this to be true.
 
 ### Solving Proportions
 
@@ -28,7 +30,9 @@ Miles Gallons 300 24 = 750 G Fraction Decimal MM 1/64 1/32 3/64 1/16 5/64 3/32 7
 
 ### 外项与内项
 
-比例的第一项和最后一项（本例中的 3 和 8）称为外项。第二项和第三项（本例中的 4 和 6）称为内项。在任何比例中，外项之积等于内项之积。在比例 2:3 = 4:6 中，外项之积 2 × 6 为 12；内项之积 3 × 4 也是 12。对任何比例作一番查看，都会表明这一点成立。
+比例的第一项和最后一项（本例中的 3 和 8）称为外项。第二项和第三项（本例中的 4 和 6）称为内项。在任何比例中，外项之积等于内项之积。在比例 2:3 = 4:6 中，外项之积 2 × 6 为 12；
+
+内项之积 3 × 4 也是 12。对任何比例作一番查看，都会表明这一点成立。
 
 ### 解比例
 

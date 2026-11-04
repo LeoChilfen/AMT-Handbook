@@ -34,7 +34,9 @@ Detail View A detail view shows only a part of the object, but in greater detail
 
 A pictorial drawing is like a photograph. It shows an object as it appears to the eye, but it is not satisfactory for showing complex forms and shapes. Pictorial drawings are useful in showing the general appearance of an object and are used extensively with orthographic projection drawings. Pictorial drawings are used in Aircraft Maintenance Manuals (AMM), Structural Repair Manuals (SRM), and Illustrated Parts Catalogues (IPC). Four types of pictorial drawings used frequently by aircraft engineers and technicians are: perspective, isometric, oblique, and exploded view.
 
-Perspective Drawings A perspective view shows an object as it appears to an observer. It most closely resembles the way an object would look in a photograph. Because of perspective, some of the lines of an object are not parallel and therefore the actual angles and dimensions are not accurate. Isometric Drawings An isometric view uses a combination of the views of an orthographic projection and tilts the object forward so that portions of all three views can be seen in one view. This provides the observer with a three-dimensional view of the object. Unlike a perspective drawing where lines converge and dimensions are not true, lines in an isometric drawing are parallel and dimensioned as they are in an orthographic projection.
+Perspective Drawings A perspective view shows an object as it appears to an observer. It most closely resembles the way an object would look in a photograph. Because of perspective, some of the lines of an object are not parallel and therefore the actual angles and dimensions are not accurate.
+
+Isometric Drawings An isometric view uses a combination of the views of an orthographic projection and tilts the object forward so that portions of all three views can be seen in one view. This provides the observer with a three-dimensional view of the object. Unlike a perspective drawing where lines converge and dimensions are not true, lines in an isometric drawing are parallel and dimensioned as they are in an orthographic projection.
 
 Oblique Drawings An oblique view is like an isometric view, except for one distinct difference. In an oblique drawing, two of the three drawing axes are always at right angles to each other.
 
@@ -48,7 +50,9 @@ Installation Diagrams The illustration is an example of an installation diagram.
 
 Schematic Diagrams Schematic diagrams do not indicate the location of the individual components in the aircraft nor do they show the actual size and shape of the components, but rather locate components with respect to each other within the system. Schematics show the principle of operation of an aircraft system and are often used for troubleshooting and training purposes.
 
-The illustration shows a schematic diagram of an aircraft air conditioning system. High-speed bleed air from the engine is combined with cold air in the mixing chamber and distributed via a manifold to various parts of the aircraft. Note that each line is coded for ease of reading and tracing the flow. Each component is identified by name, and its location within the system can be ascertained by noting the lines that lead into and out of the unit. Schematic diagrams and installation diagrams are used extensively in aircraft manuals.
+The illustration shows a schematic diagram of an aircraft air conditioning system. High-speed bleed air from the engine is combined with cold air in the mixing chamber and distributed via a manifold to various parts of the aircraft.
+
+Note that each line is coded for ease of reading and tracing the flow. Each component is identified by name, and its location within the system can be ascertained by noting the lines that lead into and out of the unit. Schematic diagrams and installation diagrams are used extensively in aircraft manuals.
 
 Block Diagrams Block diagrams are used to show a simplified relationship of a more complex system of components. Individual components are drawn as a rectangle (block) with lines connecting it to other components (blocks) that it interfaces with during operation.
 
@@ -94,7 +98,9 @@ Logic Flowchart Another type of flowchart, developed specifically for analysis o
 
 立体图像一张照片。它显示物体在人眼中所呈现的样子，但在表现复杂形态和形状方面并不理想。立体图在显示物体总体外观方面很有用，常与正投影图配合使用。立体图用于飞机维修手册（AMM）、结构修理手册（SRM）和图解零件目录（IPC）。飞机工程师和技术人员常用的立体图有四种：透视图、正等测图、斜视图和分解图。
 
-透视图 透视图显示物体在观察者眼中所呈现的样子。它最接近物体在照片中的观感。由于透视的缘故，物体有些线条并不平行，因此实际角度和尺寸并不准确。正等测图 正等测图把正投影的若干视图组合起来，并把物体向前倾斜，使三个视图的部分都能在同一视图中看到。这给观察者提供了物体的三维视图。与线条汇聚、尺寸失真的透视图不同，正等测图中的线条相互平行，并按正投影中的方式标注尺寸。
+透视图 透视图显示物体在观察者眼中所呈现的样子。它最接近物体在照片中的观感。由于透视的缘故，物体有些线条并不平行，因此实际角度和尺寸并不准确。
+
+正等测图 正等测图把正投影的若干视图组合起来，并把物体向前倾斜，使三个视图的部分都能在同一视图中看到。这给观察者提供了物体的三维视图。与线条汇聚、尺寸失真的透视图不同，正等测图中的线条相互平行，并按正投影中的方式标注尺寸。
 
 斜视图 斜视图与正等测图相似，但有一处明显不同。在斜视图中，三个绘图轴中的两个始终互成直角。
 
@@ -108,7 +114,9 @@ Logic Flowchart Another type of flowchart, developed specifically for analysis o
 
 原理图 原理图既不标出各个部件在飞机上的位置，也不显示部件的实际尺寸和形状，而是确定各部件在系统内彼此的相对位置。原理图显示飞机系统的工作原理，常用于排故和培训。
 
-飞机空调系统原理图见另图。来自发动机的高速引气在混合室中与冷空气混合，再经集气管分配到飞机的各个部分。图中每条管路都做了编码，以便阅读和追踪气流；每个部件都标有名称，其在系统中的位置可通过查看进出该部件的管路来确定。原理图和安装图在飞机手册中使用得十分广泛。
+飞机空调系统原理图见另图。来自发动机的高速引气在混合室中与冷空气混合，再经集气管分配到飞机的各个部分。
+
+图中每条管路都做了编码，以便阅读和追踪气流；每个部件都标有名称，其在系统中的位置可通过查看进出该部件的管路来确定。原理图和安装图在飞机手册中使用得十分广泛。
 
 方框图用于显示由众多部件组成的较复杂系统的简化关系。各部件画成矩形（方框），并用线条把它与运行中与之交界的其他部件（方框）连接起来。
 

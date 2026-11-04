@@ -124,7 +124,9 @@ Blind side bulbed head (In minimum grip, shear ring may not shear)
 
 ### HI-LOK™ Fastening System
 
-The threaded end of the HI-LOK™ two-piece fastener contains a hexagonal shaped recess. The hex tip of an Allen wrench engages the recess to prevent rotation of the pin while the collar is being installed. The pin is designed in two basic head styles. For shear applications, the pin is made in countersunk style and in a compact protruding head style. For tension applications, the MS24694 countersunk and regular protruding head styles are available. The self-locking, threaded HI-LOK™ collar has an internal counterbore at the base to accommodate variations in material thickness. At the opposite end of the collar is a wrenching device that is torqued by the driving tool until it shears off during installation, leaving the lower portion of the collar seated with the proper torque without additional torque inspection. This shear-off point occurs when a predetermined preload or clamp-up is attained in the fastener during installation.
+The threaded end of the HI-LOK™ two-piece fastener contains a hexagonal shaped recess. The hex tip of an Allen wrench engages the recess to prevent rotation of the pin while the collar is being installed. The pin is designed in two basic head styles. For shear applications, the pin is made in countersunk style and in a compact protruding head style. For tension applications, the MS24694 countersunk and regular protruding head styles are available.
+
+The self-locking, threaded HI-LOK™ collar has an internal counterbore at the base to accommodate variations in material thickness. At the opposite end of the collar is a wrenching device that is torqued by the driving tool until it shears off during installation, leaving the lower portion of the collar seated with the proper torque without additional torque inspection. This shear-off point occurs when a predetermined preload or clamp-up is attained in the fastener during installation.
 
 Note: For these fasteners, “Preload” is defined as the maximum tensile load experienced by a fastener in a joint during the fastener installation sequence. Consequently, the 100° Countersunk (MS20426)
 
@@ -144,7 +146,9 @@ For countersunk applications 100° Countersunk NAS 1097 For thin top sheet machi
 
 The term “Residual Tension” is defined as the remaining tensile load experienced by a fastener in a joint after the fastener installation sequence is complete, and after any residual relaxation of the joint assembly.
 
-The advantages of HI-LOK™ two-piece fastener include its lightweight, high fatigue resistance, high strength, and its inability to be over-torqued. The pins, made from alloy steel, corrosion-resistant steel, nickel, or titanium alloy, come in many standard and oversized shank diameters. The collars are made of aluminum alloy, corrosion-resistant steel, titanium, or alloy steel. The collars have wrenching flats, fracture point, threads, and a recess. The wrenching flats are used to install the collar. The fracture point has been designed to allow the wrenching flats to shear when the proper torque has been reached. The threads match the threads of the pins and have been formed into an ellipse that is distorted to provide the locking action. The recess serves as a built-in washer. This area contains a portion of the shank and the transition area of the fastener. The hole shall typically be prepared so that the maximum interference fit does not exceed 0.002-inch. This avoids build up of excessive internal stresses in the work adjacent ¼"
+The advantages of HI-LOK™ two-piece fastener include its lightweight, high fatigue resistance, high strength, and its inability to be over-torqued. The pins, made from alloy steel, corrosion-resistant steel, nickel, or titanium alloy, come in many standard and oversized shank diameters. The collars are made of aluminum alloy, corrosion-resistant steel, titanium, or alloy steel. The collars have wrenching flats, fracture point, threads, and a recess. The wrenching flats are used to install the collar. The fracture point has been designed to allow the wrenching flats to shear when the proper torque has been reached. The threads match the threads of the pins and have been formed into an ellipse that is distorted to provide the locking action. The recess serves as a built-in washer. This area contains a portion of the shank and the transition area of the fastener.
+
+The hole shall typically be prepared so that the maximum interference fit does not exceed 0.002-inch. This avoids build up of excessive internal stresses in the work adjacent ¼"
 
 Grip 4 4 4 Diameter 3/16 "
 
@@ -340,7 +344,9 @@ NAS177-14-17　（原文此处夹入安装步骤示意图的标注）1 开始拉
 
 ### HI-LOK™ 紧固系统
 
-HI-LOK™ 两件式紧固件的螺纹端有一个六角形凹槽。内六角扳手的六角尖端嵌入该凹槽，在安装锁环时防止销转动。销有两种基本头型。用于剪切场合的销制成埋头式和紧凑凸头式。用于拉伸场合的有 MS24694 埋头式和普通凸头式。自锁螺纹的 HI-LOK™ 锁环底部有一个内沉孔，以容纳材料厚度的变化。锁环另一端是扳拧装置，由驱动工具施加扭矩，安装时被剪断，使锁环下部以正确的扭矩就位，而无需另行检查扭矩。当安装过程中紧固件达到预定的预紧力或夹紧力时，即在该剪切点断开。
+HI-LOK™ 两件式紧固件的螺纹端有一个六角形凹槽。内六角扳手的六角尖端嵌入该凹槽，在安装锁环时防止销转动。销有两种基本头型。用于剪切场合的销制成埋头式和紧凑凸头式。用于拉伸场合的有 MS24694 埋头式和普通凸头式。
+
+自锁螺纹的 HI-LOK™ 锁环底部有一个内沉孔，以容纳材料厚度的变化。锁环另一端是扳拧装置，由驱动工具施加扭矩，安装时被剪断，使锁环下部以正确的扭矩就位，而无需另行检查扭矩。当安装过程中紧固件达到预定的预紧力或夹紧力时，即在该剪切点断开。
 
 注：对这些紧固件，“预紧力”定义为在紧固件安装过程中，接头中紧固件所承受的最大拉伸载荷。因此（原文此处句子中断，紧接 100° 埋头（MS20426）的选型说明，原文无完整句）
 
@@ -360,7 +366,9 @@ HI-LOK™ 两件式紧固件的螺纹端有一个六角形凹槽。内六角扳�
 
 “残余张力”一词定义为安装顺序完成后、以及接头组件发生任何残余松弛之后，紧固件在接头中剩余承受的拉伸载荷。
 
-HI-LOK™ 两件式紧固件的优点包括重量轻、抗疲劳性高、强度高以及不可能被超拧。销由合金钢、耐蚀钢、镍或钛合金制成，有多种标准杆径和加大杆径。锁环由铝合金、耐蚀钢、钛或合金钢制成。锁环有扳拧平面、断裂点、螺纹和一个凹槽。扳拧平面用于安装锁环。断裂点设计成在达到正确扭矩时让扳拧平面剪断。螺纹与销的螺纹相配，并被制成椭圆形变形以提供锁紧作用。凹槽起内置垫圈的作用。该区域包含杆部的一部分和紧固件的过渡区。通常孔的制备应使最大干涉配合不超过 0.002 英寸。这样可以避免在工件中靠近（原文此处夹入尺寸标注碎片：1/4 英寸，原文句子中断）
+HI-LOK™ 两件式紧固件的优点包括重量轻、抗疲劳性高、强度高以及不可能被超拧。销由合金钢、耐蚀钢、镍或钛合金制成，有多种标准杆径和加大杆径。锁环由铝合金、耐蚀钢、钛或合金钢制成。锁环有扳拧平面、断裂点、螺纹和一个凹槽。扳拧平面用于安装锁环。断裂点设计成在达到正确扭矩时让扳拧平面剪断。螺纹与销的螺纹相配，并被制成椭圆形变形以提供锁紧作用。凹槽起内置垫圈的作用。该区域包含杆部的一部分和紧固件的过渡区。通常孔的制备应使最大干涉配合不超过 0.002 英寸。
+
+这样可以避免在工件中靠近（原文此处夹入尺寸标注碎片：1/4 英寸，原文句子中断）
 
 （原文此处为尺寸标注碎片：夹持、4 4 4、直径、3/16 英寸）
 

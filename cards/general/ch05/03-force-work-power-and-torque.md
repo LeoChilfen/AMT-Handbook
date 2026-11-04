@@ -14,7 +14,9 @@ Work, in the mechanical sense of the term, is done when a resistance is overcome
 
 Work = Force (F) × distance (d)
 
-In the English system, the force will be identified in pounds and the distance either in feet or inches, so the units will be foot-pounds or inch-pounds. Notice these are the same units that were used for potential and kinetic energy. In the metric system, the force is identified in newtons (N) and the distance in meters, with the resultant units being joules. One pound of force is equal to 4.448 N and one meter is equal to 3.28 feet. One joule is equal to 0.74 ft-lb.
+In the English system, the force will be identified in pounds and the distance either in feet or inches, so the units will be foot-pounds or inch-pounds. Notice these are the same units that were used for potential and kinetic energy.
+
+In the metric system, the force is identified in newtons (N) and the distance in meters, with the resultant units being joules. One pound of force is equal to 4.448 N and one meter is equal to 3.28 feet. One joule is equal to 0.74 ft-lb.
 
 Example: How much work is accomplished by jacking a 150,000-lb Airbus A-320 airplane a vertical height of 4 ft? Work = Force × Distance = 150,000 lb × 4 ft = 600,000 ft-lb Example: How much work is accomplished when a tow tractor is hooked up to a tow bar and a Boeing 737-800 airplane weighing 130,000 lb is pushed 80 ft. into the hangar? The force on the tow bar is 5,000 lb. Work = Force × Distance = 5,000 lb × 80 ft = 400,000 ft-lb In this last example, notice the force does not equal the weight of the airplane. This is because the airplane is being moved horizontally and not lifted vertically. In almost all cases, it takes less work to move something horizontally than it does to lift it vertically. Most people can push their car a short distance if it runs out of gas, but they cannot get under their car and lift it off the ground.
 
@@ -68,7 +70,9 @@ Hp = 38,000 ft-lb/min. ÷ 33,000 ft-lb/min.
 
 Hp = 1.15 The hoist that will be used to raise this engine into position will need to be powered by an electric motor because the average person will not be able to generate 1.15 hp in their arms for the necessary 2 minutes.
 
-Torque is a very interesting concept and occurrence, and it is definitely something that needs to be discussed in conjunction with work and power. Whereas work is described as force acting through a distance, torque is described as force acting along a distance. Torque is something that creates twisting and tries to make something rotate. If we push on an object with a force of 10 lb and it moves 10 inches in a straight line, we have done 100 in-lb of work. By comparison, if we have a wrench 10 inches long that is on a bolt, and we push down on it with a force of 10 lb, a torque of 100 lb-in is applied to the bolt. If the bolt was already tight and did not move as we pushed down on the wrench, the torque of 100 lb-in would still exist. The formula for torque is: Torque = Force × distance Even though this formula looks the same as the other formula for calculating work, recognize that the distance value in this formula is not the linear distance an object moves, but rather the distance along which the force is applied.
+Torque is a very interesting concept and occurrence, and it is definitely something that needs to be discussed in conjunction with work and power. Whereas work is described as force acting through a distance, torque is described as force acting along a distance. Torque is something that creates twisting and tries to make something rotate.
+
+If we push on an object with a force of 10 lb and it moves 10 inches in a straight line, we have done 100 in-lb of work. By comparison, if we have a wrench 10 inches long that is on a bolt, and we push down on it with a force of 10 lb, a torque of 100 lb-in is applied to the bolt. If the bolt was already tight and did not move as we pushed down on the wrench, the torque of 100 lb-in would still exist. The formula for torque is: Torque = Force × distance Even though this formula looks the same as the other formula for calculating work, recognize that the distance value in this formula is not the linear distance an object moves, but rather the distance along which the force is applied.
 
 Notice that with torque nothing had to move, because the force is being applied along a distance and not through a distance. Notice also that although the units of work and torque appear to be the same, they are not. The units of work were inch-pounds and the units of torque were pound-inches, and that is what differentiates the two.
 
@@ -94,7 +98,9 @@ Torque = Horsepower × 5,252 ÷ rpm Example: A Cessna 172R has a Lycoming IO-360
 
 功 = 力（F）× 距离（d）
 
-在英制中，力用磅表示，距离用英尺或英寸表示，因此单位是英尺-磅或英寸-磅。注意，这些也正是势能和动能所用的单位。在公制中，力用牛顿（N）表示，距离用米表示，所得单位为焦耳。1 磅力等于 4.448 N，1 米等于 3.28 英尺。1 焦耳等于 0.74 ft-lb。
+在英制中，力用磅表示，距离用英尺或英寸表示，因此单位是英尺-磅或英寸-磅。注意，这些也正是势能和动能所用的单位。
+
+在公制中，力用牛顿（N）表示，距离用米表示，所得单位为焦耳。1 磅力等于 4.448 N，1 米等于 3.28 英尺。1 焦耳等于 0.74 ft-lb。
 
 例：用千斤顶把一架重 150,000 lb 的空客 A-320 飞机垂直顶升 4 ft，做了多少功？功 = 力 × 距离 = 150,000 lb × 4 ft = 600,000 ft-lb。例：当牵引车挂上牵引杆，把一架重 130,000 lb 的波音 737-800 飞机推进机库 80 ft 时，做了多少功？牵引杆上的力为 5,000 lb。功 = 力 × 距离 = 5,000 lb × 80 ft = 400,000 ft-lb。在最后一个例子中要注意，这个力并不等于飞机的重量。这是因为飞机是水平移动，而不是垂直提升。几乎在所有情况下，水平移动物体都比垂直提升它所做的功少。多数人在汽车没油时能把它推出一段距离，却无法钻到车下把车抬离地面。
 
@@ -148,7 +154,9 @@ Hp = 38,000 ft-lb/min ÷ 33,000 ft-lb/min。
 
 Hp = 1.15 用来把发动机吊起就位的起重设备必须由电动机驱动，因为普通人的双臂无法在所需的 2 分钟内持续输出 1.15 hp。
 
-扭矩是一个很有趣的概念和现象，确实需要与功和功率一起讨论。功被描述为力通过一段距离作用，而扭矩被描述为力沿一段距离作用。扭矩是产生扭转、试图使物体旋转的东西。如果我们用 10 lb 的力推一个物体，使它沿直线移动 10 英寸，我们就做了 100 in-lb 的功。相比之下，如果有一个 10 英寸长的扳手卡在螺栓上，我们用 10 lb 的力向下压，就对螺栓施加了 100 lb-in 的扭矩。如果螺栓本来就很紧，在我们下压扳手时并没有移动，那么 100 lb-in 的扭矩依然存在。扭矩的公式是：扭矩 = 力 × 距离 尽管这个公式看起来与计算功的另一个公式相同，但要认识到，本公式中的距离值不是物体移动的直线距离，而是力所沿作用的距离。
+扭矩是一个很有趣的概念和现象，确实需要与功和功率一起讨论。功被描述为力通过一段距离作用，而扭矩被描述为力沿一段距离作用。扭矩是产生扭转、试图使物体旋转的东西。如果我们用 10 lb 的力推一个物体，使它沿直线移动 10 英寸，我们就做了 100 in-lb 的功。
+
+相比之下，如果有一个 10 英寸长的扳手卡在螺栓上，我们用 10 lb 的力向下压，就对螺栓施加了 100 lb-in 的扭矩。如果螺栓本来就很紧，在我们下压扳手时并没有移动，那么 100 lb-in 的扭矩依然存在。扭矩的公式是：扭矩 = 力 × 距离 尽管这个公式看起来与计算功的另一个公式相同，但要认识到，本公式中的距离值不是物体移动的直线距离，而是力所沿作用的距离。
 
 注意，就扭矩而言，什么也不必移动，因为力是沿一段距离作用，而不是通过一段距离作用。还要注意，虽然功和扭矩的单位看起来相同，其实并不相同。功的单位是英寸-磅，扭矩的单位是磅-英寸，这正是两者的区别。
 

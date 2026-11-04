@@ -116,7 +116,9 @@ Magnaglo inspection is similar to the preceding method, but differs in that a fl
 
 Fixed (Nonportable) General Purpose Unit A fixed, general purpose unit provides direct current (DC) for wet, continuous, or residual magnetization procedures. Circular or longitudinal magnetization may be used, and it may be powered with rectified AC, as well as DC. The contact heads provide the electrical terminals for circular magnetization. One head is fixed in position with its contact plate mounted on a shaft surrounded by a pressure spring so that the plate may be moved longitudinally. The plate is maintained in the extended position by the spring until pressure transmitted through the work from the movable head forces it back.
 
-The motor-driven movable head slides horizontally in longitudinal guides and is controlled by a switch. The spring allows sufficient overrun of the motor-driven head to avoid jamming it and also provides pressure on the ends of the work to ensure good electrical contact. A plunger-operated switch in the fixed head cuts out the forward motion circuit of the movable head motor when the spring has been properly compressed. In some units, the movable head is hand operated, and the contact plate is sometimes arranged for operation by an air ram. Both contact plates are fitted with various fixtures for supporting the work.
+The motor-driven movable head slides horizontally in longitudinal guides and is controlled by a switch. The spring allows sufficient overrun of the motor-driven head to avoid jamming it and also provides pressure on the ends of the work to ensure good electrical contact.
+
+A plunger-operated switch in the fixed head cuts out the forward motion circuit of the movable head motor when the spring has been properly compressed. In some units, the movable head is hand operated, and the contact plate is sometimes arranged for operation by an air ram. Both contact plates are fitted with various fixtures for supporting the work.
 
 The magnetizing circuit is closed by depressing a pushbutton on the front of the unit. It is set to open automatically, usually after about one-half second. The strength of the magnetizing current may be set manually to the desired value by means of the rheostat or increased to the capacity of the unit by the rheostat short circuiting switch. The current utilized is indicated on the ammeter. Longitudinal magnetization is produced by the solenoid that moves in the same guide rail as the movable head and is connected in the electrical circuit by means of a switch.
 
@@ -330,7 +332,9 @@ Magnaglo 检查与前一种方法相似，不同之处在于使用荧光磁粉�
 
 固定式（非便携式）通用设备　固定式通用设备为湿法、连续法或剩磁法磁化提供直流电（DC）。可使用周向或纵向磁化，除 DC 外，也可用整流交流电供电。接触头为周向磁化提供电气端子。一个接触头的位置固定，其接触板装在一根由压紧弹簧包围的心轴上，因此接触板可作纵向移动。弹簧使接触板保持在伸出位置，直到通过工件传来的可动头压力把它压回。
 
-电机驱动的可动头在纵向导轨中水平滑动，由开关控制。弹簧允许电机驱动的可动头有足够的超程，以免卡住，同时也对工件两端施加压力，以保证良好电接触。当弹簧被压缩到适当程度时，固定头中的柱塞式开关会切断可动头电机的正向运动电路。有些设备的可动头是手动操作的，接触板有时由气动顶杆操纵。两个接触板都装有各种夹具以支承工件。
+电机驱动的可动头在纵向导轨中水平滑动，由开关控制。弹簧允许电机驱动的可动头有足够的超程，以免卡住，同时也对工件两端施加压力，以保证良好电接触。
+
+当弹簧被压缩到适当程度时，固定头中的柱塞式开关会切断可动头电机的正向运动电路。有些设备的可动头是手动操作的，接触板有时由气动顶杆操纵。两个接触板都装有各种夹具以支承工件。
 
 按下设备前面的按钮即可接通磁化电路。该电路通常设定在约半秒后自动断开。磁化电流的强度可用变阻器手动调到所需值，也可通过变阻器短路开关调到设备的额定容量。所用电流由电流表指示。纵向磁化由螺线管产生，螺线管与可动头在同一导轨中移动，并通过开关接入电路。
 

@@ -28,7 +28,11 @@ Conversion Large Numbers with Positive Powers of 10 Small Numbers with Negative 
 
 In algebraic equations, parentheses are used to group numbers or symbols together. The use of parentheses helps us to identify the order in which we should apply mathematical operations. The operations inside the parentheses are always performed first in algebraic equations.
 
-Example: Solve the algebraic equation X = (4 + 3) 2. First, perform the operation inside the parentheses, which is, 4 + 3 = 7. Then complete the exponent calculation X = (7)2 = 7 × 7 = 49. When using more complex equations, which may combine several terms and use multiple operations, grouping the terms together helps organize the equation. Parentheses, ( ), are most commonly used in grouping, but you may also see brackets, [ ]. When a term or expression is inside one of these grouping symbols, it means that any operation indicated to be done on the group is done to the entire term or expression. Example: Solve the equation N = 2 × [(9 ÷ 3) + (4 + 3) 2]. Start with the operations inside the parentheses ( ), then perform the operations inside the brackets [ ]. N = 2 × [(9 ÷ 3) + (4 + 3)2] N = 2 × [3 + (7)2] First, complete the operations inside the parentheses ( ). N = 2 × [3 + 49] N = 2 × [52] Second, complete the operations inside the brackets [ ]. N = 104
+Example: Solve the algebraic equation X = (4 + 3) 2. First, perform the operation inside the parentheses, which is, 4 + 3 = 7. Then complete the exponent calculation X = (7)2 = 7 × 7 = 49.
+
+When using more complex equations, which may combine several terms and use multiple operations, grouping the terms together helps organize the equation. Parentheses, ( ), are most commonly used in grouping, but you may also see brackets, [ ]. When a term or expression is inside one of these grouping symbols, it means that any operation indicated to be done on the group is done to the entire term or expression.
+
+Example: Solve the equation N = 2 × [(9 ÷ 3) + (4 + 3) 2]. Start with the operations inside the parentheses ( ), then perform the operations inside the brackets [ ]. N = 2 × [(9 ÷ 3) + (4 + 3)2] N = 2 × [3 + (7)2] First, complete the operations inside the parentheses ( ). N = 2 × [3 + 49] N = 2 × [52] Second, complete the operations inside the brackets [ ]. N = 104
 
 ### Order of Operation
 
@@ -82,7 +86,11 @@ X = 161 3⁄4 A commonly used acronym, PEMDAS, is used for remembering the order
 
 在代数等式中，圆括号用于把数字或符号归成一组。使用圆括号有助于确定运算的先后次序。在代数等式中，括号内的运算总是最先进行。
 
-例：解代数等式 X = (4 + 3) 2（原文此处括号外的 2 为上标，即求平方，下同）。先做括号内的运算，即 4 + 3 = 7，然后完成指数运算：X = (7)2 = 7 × 7 = 49。使用较复杂的等式时（这类等式可能合并若干项并含多种运算），把各项分组有助于理清等式的结构。分组最常用的是圆括号 ( )，但也可能见到方括号 [ ]。当某一项或表达式处在这样的分组符号内时，意思是对该组所示的任何运算都要作用于整个项或整个表达式。例：解等式 N = 2 × [(9 ÷ 3) + (4 + 3) 2]。先做圆括号 ( ) 内的运算，再做方括号 [ ] 内的运算：N = 2 × [(9 ÷ 3) + (4 + 3)2]，N = 2 × [3 + (7)2]。首先完成圆括号 ( ) 内的运算：N = 2 × [3 + 49]，N = 2 × [52]；其次完成方括号 [ ] 内的运算：N = 104。
+例：解代数等式 X = (4 + 3) 2（原文此处括号外的 2 为上标，即求平方，下同）。先做括号内的运算，即 4 + 3 = 7，然后完成指数运算：X = (7)2 = 7 × 7 = 49。
+
+使用较复杂的等式时（这类等式可能合并若干项并含多种运算），把各项分组有助于理清等式的结构。分组最常用的是圆括号 ( )，但也可能见到方括号 [ ]。当某一项或表达式处在这样的分组符号内时，意思是对该组所示的任何运算都要作用于整个项或整个表达式。例：解等式 N = 2 × [(9 ÷ 3) + (4 + 3) 2]。
+
+先做圆括号 ( ) 内的运算，再做方括号 [ ] 内的运算：N = 2 × [(9 ÷ 3) + (4 + 3)2]，N = 2 × [3 + (7)2]。首先完成圆括号 ( ) 内的运算：N = 2 × [3 + 49]，N = 2 × [52]；其次完成方括号 [ ] 内的运算：N = 104。
 
 ### 运算顺序
 

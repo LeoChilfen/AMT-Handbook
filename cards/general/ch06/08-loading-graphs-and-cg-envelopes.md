@@ -24,7 +24,9 @@ After the moment for each item of weight has been determined, all weights are ad
 
 • Empty weight moment: 53,900 in-lb An example of loading the airplane for flight and calculating the total loaded weight and the total loaded moment is shown 360 320 280 240 200 160 120 80 40 0 −2 0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 Load Weight (lb)
 
-The total loaded weight of the airplane is 2,258 lb and the total loaded moment is 99,400 in-lb. These two numbers can now be plotted on the CG envelope to see if the airplane is within CG limits. The CG location shown falls within the normal category envelope, so the airplane is within CG limits for this category. It is interesting to note that the lines that form the CG envelope are graphic plots of the forward and aft CG limits. In the figure, the red line is a graphic plot of the forward limit, and the blue and green lines are graphic plots of the aft limit for the two different categories.
+The total loaded weight of the airplane is 2,258 lb and the total loaded moment is 99,400 in-lb. These two numbers can now be plotted on the CG envelope to see if the airplane is within CG limits. The CG location shown falls within the normal category envelope, so the airplane is within CG limits for this category.
+
+It is interesting to note that the lines that form the CG envelope are graphic plots of the forward and aft CG limits. In the figure, the red line is a graphic plot of the forward limit, and the blue and green lines are graphic plots of the aft limit for the two different categories.
 
 Moment Index (Moment/1,000)
 
@@ -52,7 +54,9 @@ Pilot & Front Passenger Rear Passenger Fuel Oil Baggage. The use of the loading 
 
 • 空重力矩：53,900 in-lb　以下是装载飞机飞行、计算总装载重量和总装载力矩的一个示例。
 
-飞机的总装载重量为 2,258 lb，总装载力矩为 99,400 in-lb。现在可以把这两个数标绘到重心包线上，看飞机是否在重心限制之内。所示的重心位置落在正常类包线之内，因此该飞机对这一类别而言在重心限制之内。值得注意的是，构成重心包线的线条就是前、后重心限制的图形标绘。该图中红线是前限的图形标绘，而蓝线和绿线是两个不同类别的后限的图形标绘。
+飞机的总装载重量为 2,258 lb，总装载力矩为 99,400 in-lb。现在可以把这两个数标绘到重心包线上，看飞机是否在重心限制之内。所示的重心位置落在正常类包线之内，因此该飞机对这一类别而言在重心限制之内。
+
+值得注意的是，构成重心包线的线条就是前、后重心限制的图形标绘。该图中红线是前限的图形标绘，而蓝线和绿线是两个不同类别的后限的图形标绘。
 
 （原文此处为表格碎片，原文无正文）
 

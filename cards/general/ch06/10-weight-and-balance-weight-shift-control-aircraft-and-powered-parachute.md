@@ -26,7 +26,9 @@ Normal Category CG Location Aft Limit Forward Limit Utility Category 360 320 280
 
 ### Powered Parachutes
 
-Powered parachutes have many of the same characteristics as weight-shift aircraft when it comes to weight and balance. They have the same limited loading, with only one or two seats and a fuel tank. They also act like a pendulum, with the weight of the aircraft hanging beneath the inflated wing (parachute). The point at which the inflated wing attaches to the structure of the aircraft is adjustable to compensate for pilots and passengers of varying weights. With a very heavy pilot, the wing attach point would be moved forward to prevent the aircraft from being too nose heavy.
+Powered parachutes have many of the same characteristics as weight-shift aircraft when it comes to weight and balance. They have the same limited loading, with only one or two seats and a fuel tank. They also act like a pendulum, with the weight of the aircraft hanging beneath the inflated wing (parachute).
+
+The point at which the inflated wing attaches to the structure of the aircraft is adjustable to compensate for pilots and passengers of varying weights. With a very heavy pilot, the wing attach point would be moved forward to prevent the aircraft from being too nose heavy.
 
 ## 2. 中文翻译
 
@@ -52,7 +54,9 @@ Powered parachutes have many of the same characteristics as weight-shift aircraf
 
 ### 动力伞
 
-就重量与平衡而言，动力伞具有与重量转移操纵航空器许多相同的特性。它们的装载同样有限，只有一两个座位和一个油箱。它们同样像单摆一样工作，航空器的重量悬挂在充气机翼（伞）下方。充气机翼与航空器结构的连接点可以调整，以补偿体重各异的驾驶员和旅客。如果驾驶员很重，应把机翼连接点前移，以防航空器过于头重。
+就重量与平衡而言，动力伞具有与重量转移操纵航空器许多相同的特性。它们的装载同样有限，只有一两个座位和一个油箱。它们同样像单摆一样工作，航空器的重量悬挂在充气机翼（伞）下方。
+
+充气机翼与航空器结构的连接点可以调整，以补偿体重各异的驾驶员和旅客。如果驾驶员很重，应把机翼连接点前移，以防航空器过于头重。
 
 ## 3. 专业词汇
 

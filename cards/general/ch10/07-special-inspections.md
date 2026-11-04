@@ -152,7 +152,9 @@ Because they operate in an environment that accelerates corrosion, seaplanes mus
 
 ### Aerial Application Aircraft
 
-Two primary factors that make inspecting these aircraft different from other aircraft are the corrosive nature of some of the chemicals used and the typical flight profile. Damaging effects of corrosion may be detected in a much shorter period of time than normal use aircraft. Chemicals may soften the fabric or loosen the fabric tapes of fabric-covered aircraft. Metal aircraft may need to have the paint stripped, cleaned, and repainted and corrosion treated annually. Leading edges of wings and other areas may require protective coatings or tapes. Hardware may require more frequent replacement. During peak use, these aircraft may fly up to 50 cycles (takeoffs and landings) or more in a day, most likely from an unimproved or grass runway. This can greatly accelerate the failure of normal fatigue items. Landing gear and related items require frequent inspections. Because these aircraft operate almost continuously at very low altitudes, air filters tend to become obstructed more rapidly.
+Two primary factors that make inspecting these aircraft different from other aircraft are the corrosive nature of some of the chemicals used and the typical flight profile. Damaging effects of corrosion may be detected in a much shorter period of time than normal use aircraft. Chemicals may soften the fabric or loosen the fabric tapes of fabric-covered aircraft. Metal aircraft may need to have the paint stripped, cleaned, and repainted and corrosion treated annually. Leading edges of wings and other areas may require protective coatings or tapes. Hardware may require more frequent replacement.
+
+During peak use, these aircraft may fly up to 50 cycles (takeoffs and landings) or more in a day, most likely from an unimproved or grass runway. This can greatly accelerate the failure of normal fatigue items. Landing gear and related items require frequent inspections. Because these aircraft operate almost continuously at very low altitudes, air filters tend to become obstructed more rapidly.
 
 ## 2. 中文翻译
 
@@ -304,7 +306,9 @@ ATA iSpec 2200 系统 示例系统 分系统 标题 21 空调 21-00 总则 21-10
 
 ### 农业喷洒航空器
 
-使这类航空器的检查与其他航空器不同的两个主要因素，是所用某些化学品的腐蚀性和典型的飞行剖面。腐蚀的破坏效应可能在比正常使用的航空器短得多的时间内被发现。化学品可能使蒙布变软，或使蒙布航空器的蒙布带松开。金属航空器可能每年都需要脱漆、清洁、重新喷漆并进行防腐处理。机翼前缘和其他区域可能需要保护涂层或胶带。五金件可能需要更频繁地更换。在使用高峰时，这类航空器一天可飞 50 个循环（起飞和着陆）以上，而且大多从简易跑道或草地跑道起飞。这会大大加速正常疲劳件的失效。起落架及相关部件需要频繁检查。由于这类航空器几乎一直在极低空连续运行，空气滤清器往往更快堵塞。
+使这类航空器的检查与其他航空器不同的两个主要因素，是所用某些化学品的腐蚀性和典型的飞行剖面。腐蚀的破坏效应可能在比正常使用的航空器短得多的时间内被发现。化学品可能使蒙布变软，或使蒙布航空器的蒙布带松开。金属航空器可能每年都需要脱漆、清洁、重新喷漆并进行防腐处理。机翼前缘和其他区域可能需要保护涂层或胶带。五金件可能需要更频繁地更换。
+
+在使用高峰时，这类航空器一天可飞 50 个循环（起飞和着陆）以上，而且大多从简易跑道或草地跑道起飞。这会大大加速正常疲劳件的失效。起落架及相关部件需要频繁检查。由于这类航空器几乎一直在极低空连续运行，空气滤清器往往更快堵塞。
 
 ## 3. 专业词汇
 

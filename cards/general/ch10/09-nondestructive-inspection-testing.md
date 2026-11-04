@@ -196,7 +196,9 @@ False indications may also be created where parts press fit to each other. If a 
 
 ### Eddy Current Inspection
 
-Electromagnetic analysis is a term describing the broad spectrum of electronic test methods involving the intersection of magnetic fields and circulatory currents. The most widely used technique is the eddy current. Eddy currents are composed of free electrons under the influence of an induced electromagnetic field that are made to “drift” through metal. Eddy current is used to detect surface cracks, pits, subsurface cracks, corrosion on inner surfaces, and to determine alloy and heat-treat condition. Eddy current is used in aircraft maintenance to inspect jet engine turbine shafts and vanes, wing skins, wheels, bolt holes, and spark plug bores for cracks, heat, or frame damage. Eddy current may also be used in repair of aluminum aircraft damaged by fire or excessive heat. Different meter readings are seen when the same metal is in different hardness states. Readings in the affected area are compared with identical materials in known unaffected areas for comparison. A difference in readings indicates a difference in the hardness state of the affected area. In aircraft manufacturing plants, eddy current is used to inspect castings, stampings, machine parts, forgings, and extrusions.
+Electromagnetic analysis is a term describing the broad spectrum of electronic test methods involving the intersection of magnetic fields and circulatory currents. The most widely used technique is the eddy current. Eddy currents are composed of free electrons under the influence of an induced electromagnetic field that are made to “drift” through metal. Eddy current is used to detect surface cracks, pits, subsurface cracks, corrosion on inner surfaces, and to determine alloy and heat-treat condition.
+
+Eddy current is used in aircraft maintenance to inspect jet engine turbine shafts and vanes, wing skins, wheels, bolt holes, and spark plug bores for cracks, heat, or frame damage. Eddy current may also be used in repair of aluminum aircraft damaged by fire or excessive heat. Different meter readings are seen when the same metal is in different hardness states. Readings in the affected area are compared with identical materials in known unaffected areas for comparison. A difference in readings indicates a difference in the hardness state of the affected area. In aircraft manufacturing plants, eddy current is used to inspect castings, stampings, machine parts, forgings, and extrusions.
 
 #### Basic Principles
 
@@ -210,7 +212,9 @@ Eddy currents are induced in a test article when an AC is applied to a test coil
 
 Flaws in or thickness changes of the test-piece influence the flow of eddy currents and change the impedance of the coil accordingly. Instruments display the impedance changes either by impedance plane plots or by needle deflection.
 
-The specimen is either placed in or passed through the field of an electromagnetic induction coil, and its effect on the impedance of the coil or on the voltage output of one or more test coils is observed. The process that involves electric fields made to explore a test piece for various conditions involves the transmission of energy through the specimen much like the transmission of x-rays, heat, or ultrasound. Eddy current inspection can frequently be performed without removing the surface coatings, such as primer, paint, and anodized films. It can be effective in detecting surface and subsurface corrosion, pots, and heat-treat condition.
+The specimen is either placed in or passed through the field of an electromagnetic induction coil, and its effect on the impedance of the coil or on the voltage output of one or more test coils is observed. The process that involves electric fields made to explore a test piece for various conditions involves the transmission of energy through the specimen much like the transmission of x-rays, heat, or ultrasound.
+
+Eddy current inspection can frequently be performed without removing the surface coatings, such as primer, paint, and anodized films. It can be effective in detecting surface and subsurface corrosion, pots, and heat-treat condition.
 
 ### Eddy Current Instruments
 
@@ -244,7 +248,9 @@ Through-transmission inspection uses two transducers, one to generate the pulse 
 
 This system differs from the pulse method in that the frequency of transmission may be continuously varied. The resonance method is used principally for thickness measurements when the two sides of the material being tested are smooth and parallel and the backside is inaccessible. The point where the frequency matches the resonance point of the material being tested is the thickness determining factor.
 
-It is necessary that the frequency of the ultrasonic waves corresponding to a particular dial setting be accurately known. Checks are made with standard test blocks to guard against possible drift of frequency. If the frequency of an ultrasonic wave is such that its wavelength is twice the thickness of a specimen (fundamental frequency), then the reflected wave arrives back at the transducer in the same phase as the original transmission so that strengthening of the signal occurs. This results from constructive interference or a resonance and is shown as a high amplitude value on the indicating screen. If the frequency is increased such that three times the wavelength equals four times the thickness, the reflected signal returns completely out of phase with the transmitted signal and cancellation occurs. Further increase of the frequency causes the wavelength to be equal to the thickness again and gives a reflected signal in phase with the transmitted signal and a resonance once more. By starting at the fundamental frequency and gradually increasing the frequency, the successive cancellations and resonances can be noted and the readings used to check the fundamental frequency reading.
+It is necessary that the frequency of the ultrasonic waves corresponding to a particular dial setting be accurately known. Checks are made with standard test blocks to guard against possible drift of frequency.
+
+If the frequency of an ultrasonic wave is such that its wavelength is twice the thickness of a specimen (fundamental frequency), then the reflected wave arrives back at the transducer in the same phase as the original transmission so that strengthening of the signal occurs. This results from constructive interference or a resonance and is shown as a high amplitude value on the indicating screen. If the frequency is increased such that three times the wavelength equals four times the thickness, the reflected signal returns completely out of phase with the transmitted signal and cancellation occurs. Further increase of the frequency causes the wavelength to be equal to the thickness again and gives a reflected signal in phase with the transmitted signal and a resonance once more. By starting at the fundamental frequency and gradually increasing the frequency, the successive cancellations and resonances can be noted and the readings used to check the fundamental frequency reading.
 
 In some instruments, the oscillator circuit contains a motor-driven capacitor that changes the frequency of the oscillator. In other instruments, the frequency is changed by electronic means. The change in frequency is synchronized with the horizontal sweep of a CRT. The horizontal axis represents a frequency range. If the frequency range contains resonances, the circuitry is arranged to present these vertically. Calibrated transparent scales are then placed in front of the tube and the thickness can be read directly. The instruments normally operate between 0.25 millicycle (mc) and 10 mc in four or five bands.
 
@@ -454,7 +460,9 @@ Inspection with ultrasonics is limited to the part in contact with the transduce
 
 ### 涡流检测
 
-电磁分析是一个术语，用来描述涉及磁场与环流相交的一类广泛的电子检测方法。其中使用最广的技术是涡流。涡流由在感应电磁场作用下“漂移”通过金属的自由电子组成。涡流用于检测表面裂纹、点蚀、亚表面裂纹、内表面腐蚀，并用于判定合金状态和热处理状态。涡流在航空维修中用于检查喷气发动机涡轮轴和导向叶片、机翼蒙皮、机轮、螺栓孔和火花塞孔，以查明裂纹、受热或框架损伤。涡流也可用于因火灾或过热而受损的铝制航空器的修理。同一种金属处于不同硬度状态时，会看到不同的表头读数。把受影响区域的读数与已知未受影响区域的同种材料读数相比较。读数不同，就表明受影响区域的硬度状态不同。在航空器制造厂，涡流用于检查铸件、冲压件、机加工零件、锻件和挤压件。
+电磁分析是一个术语，用来描述涉及磁场与环流相交的一类广泛的电子检测方法。其中使用最广的技术是涡流。涡流由在感应电磁场作用下“漂移”通过金属的自由电子组成。涡流用于检测表面裂纹、点蚀、亚表面裂纹、内表面腐蚀，并用于判定合金状态和热处理状态。
+
+涡流在航空维修中用于检查喷气发动机涡轮轴和导向叶片、机翼蒙皮、机轮、螺栓孔和火花塞孔，以查明裂纹、受热或框架损伤。涡流也可用于因火灾或过热而受损的铝制航空器的修理。同一种金属处于不同硬度状态时，会看到不同的表头读数。把受影响区域的读数与已知未受影响区域的同种材料读数相比较。读数不同，就表明受影响区域的硬度状态不同。在航空器制造厂，涡流用于检查铸件、冲压件、机加工零件、锻件和挤压件。
 
 #### 基本原理
 
@@ -468,7 +476,9 @@ Inspection with ultrasonics is limited to the part in contact with the transduce
 
 试件的缺陷或厚度变化会影响涡流的流动，从而相应改变线圈的阻抗。仪器以阻抗平面图或指针偏转的方式显示阻抗变化。
 
-把试件放入电磁感应线圈的磁场中，或使其穿过该磁场，然后观察它对线圈阻抗或对一个或多个检测线圈输出电压的影响。借助电场探查试件各种状况的方法，涉及让能量穿过试件，很像 X 射线、热或超声的透射。涡流检测常常无需去除表面涂层（如底漆、油漆和阳极氧化膜）即可进行。它能有效地发现表面和亚表面腐蚀、凹坑和热处理状态。
+把试件放入电磁感应线圈的磁场中，或使其穿过该磁场，然后观察它对线圈阻抗或对一个或多个检测线圈输出电压的影响。借助电场探查试件各种状况的方法，涉及让能量穿过试件，很像 X 射线、热或超声的透射。
+
+涡流检测常常无需去除表面涂层（如底漆、油漆和阳极氧化膜）即可进行。它能有效地发现表面和亚表面腐蚀、凹坑和热处理状态。
 
 ### 涡流检测仪器
 
@@ -502,7 +512,9 @@ Inspection with ultrasonics is limited to the part in contact with the transduce
 
 该系统与脉冲法的不同之处在于，发射频率可以连续变化。共振法主要用于厚度测量，适用于被检材料两面光滑平行、且背面无法触及的情况。频率与被检材料共振点相合的那一点，就是决定厚度的因素。
 
-必须准确知道刻度盘某一设定所对应的超声波频率。用标准试块进行检查，以防频率漂移。如果超声波频率使其波长等于试件厚度的两倍（基频），反射波回到换能器时与原发射相位相同，信号因此增强。这是相长干涉（共振）的结果，在指示屏幕上表现为高幅值。如果提高频率，使三倍波长等于四倍厚度，反射信号返回时与发射信号完全反相，发生抵消。频率再提高，使波长又等于厚度时，反射信号又与发射信号同相，再次出现共振。从基频开始逐渐提高频率，便可记下相继出现的抵消和共振，并用这些读数来核对基频读数。
+必须准确知道刻度盘某一设定所对应的超声波频率。用标准试块进行检查，以防频率漂移。
+
+如果超声波频率使其波长等于试件厚度的两倍（基频），反射波回到换能器时与原发射相位相同，信号因此增强。这是相长干涉（共振）的结果，在指示屏幕上表现为高幅值。如果提高频率，使三倍波长等于四倍厚度，反射信号返回时与发射信号完全反相，发生抵消。频率再提高，使波长又等于厚度时，反射信号又与发射信号同相，再次出现共振。从基频开始逐渐提高频率，便可记下相继出现的抵消和共振，并用这些读数来核对基频读数。
 
 有些仪器的振荡电路中有一个电机驱动的电容器，用来改变振荡器频率。另一些仪器则用电子方式改变频率。频率的变化与 CRT 的水平扫描同步。横轴代表一个频率范围。如果该频率范围内含有共振，电路就安排把这些共振竖直显示出来。校准过的透明刻度尺放在管子前面，即可直接读出厚度。仪器通常在 0.25 兆周（mc）到 10 兆周之间分四或五个频段工作。
 

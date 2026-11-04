@@ -36,7 +36,9 @@ Tube forming consists of four processes: cutting, bending, flaring, and beading.
 
 When cutting tubing, it is important to produce a square end, free of burrs. Tubing may be cut with a tube cutter or a hacksaw. The cutter can be used with any soft metal tubing, such as copper, aluminum, or aluminum alloy. Special chipless cutters are available for cutting aluminum 6061-T6, corrosion-resistant steel, and titanium tubing.
 
-A new piece of tubing should be cut approximately 10 percent longer than the tube to be replaced to provide for minor variations in bending. Place the tube in the cutting tool with the cutting wheel at the point where the cut is to be made. Rotate the cutter around the tubing, applying light pressure to the cutting wheel by intermittently twisting the thumbscrew. Too much pressure on the cutting wheel at one time could deform the tubing or cause excessive burring. After cutting the tubing, carefully remove any burrs from inside and outside the tube. Use a knife or the burring edge attached to the tube cutter. The deburring operation can be accomplished by the use of a deburring tool. This tool is capable of removing both the inside and outside burrs by just turning the tool end for end.
+A new piece of tubing should be cut approximately 10 percent longer than the tube to be replaced to provide for minor variations in bending. Place the tube in the cutting tool with the cutting wheel at the point where the cut is to be made. Rotate the cutter around the tubing, applying light pressure to the cutting wheel by intermittently twisting the thumbscrew.
+
+Too much pressure on the cutting wheel at one time could deform the tubing or cause excessive burring. After cutting the tubing, carefully remove any burrs from inside and outside the tube. Use a knife or the burring edge attached to the tube cutter. The deburring operation can be accomplished by the use of a deburring tool. This tool is capable of removing both the inside and outside burrs by just turning the tool end for end.
 
 When performing the deburring operation, use extreme care that the wall thickness of the end of the tubing is not reduced or fractured. Very slight damage of this type can lead to fractured flares or defective flares, which do not seal properly. Use a fine-tooth file to file the end square and smooth.
 
@@ -102,7 +104,9 @@ After presetting the sleeve, disconnect the tubing from the fitting and check th
 
 Tubing may be beaded with a hand beading tool, with machine beading rolls, or with grip dies. The method to be used depends on the diameter and wall thickness of the tube and the material from which it was made.
 
-The hand beading tool is used with tubing having 1⁄4" to 1" outside diameter. The bead is formed by using the beader frame with the proper rollers attached. The inside and outside of the tube is lubricated with light oil to reduce the friction between the rollers during beading. The sizes, marked in sixteenths of an inch on the rollers, are for the outside diameter of the tubing that can be beaded with the rollers. Separate rollers are required for the inside of each tubing size, and care must be taken to use the correct parts when beading. The hand beading tool works somewhat like the tube cutter in that the roller is screwed down intermittently while rotating the beading tool around the tubing. In addition, a small vise (tube holder) is furnished with the kit.
+The hand beading tool is used with tubing having 1⁄4" to 1" outside diameter. The bead is formed by using the beader frame with the proper rollers attached. The inside and outside of the tube is lubricated with light oil to reduce the friction between the rollers during beading. The sizes, marked in sixteenths of an inch on the rollers, are for the outside diameter of the tubing that can be beaded with the rollers.
+
+Separate rollers are required for the inside of each tubing size, and care must be taken to use the correct parts when beading. The hand beading tool works somewhat like the tube cutter in that the roller is screwed down intermittently while rotating the beading tool around the tubing. In addition, a small vise (tube holder) is furnished with the kit.
 
 Other methods and types of beading tools and machines are available, but the hand beading tool is used most often. As a rule, beading machines are limited to use with large diameter tubing, over 115⁄16", unless special rollers are supplied. The grip-die method of beading is confined to small tubing.
 
@@ -118,7 +122,9 @@ Aircraft and engine manufacturers are responsible for the original installation 
 
 ### Fluid Line End Fittings
 
-Depending on the type and use, fittings have either pipe threads or machine threads. Pipe threads are similar to those used in ordinary plumbing and are tapered, both internal and external. External threads are referred to as male threads and internal threads are female threads. When two fittings are joined, a male into a female, the thread taper forms a seal. Some form of pipe thread lubricant approved for particular fluid application should be used when joining pipe threads to prevent seizing and high-pressure leakage. Use care when applying thread lubricant so that the lubricant does not enter and contaminate the system. Do not use lubricants on oxygen lines. Oxygen reacts with petroleum products and can ignite (special lubricants are available or oxygen systems).
+Depending on the type and use, fittings have either pipe threads or machine threads. Pipe threads are similar to those used in ordinary plumbing and are tapered, both internal and external. External threads are referred to as male threads and internal threads are female threads.
+
+When two fittings are joined, a male into a female, the thread taper forms a seal. Some form of pipe thread lubricant approved for particular fluid application should be used when joining pipe threads to prevent seizing and high-pressure leakage. Use care when applying thread lubricant so that the lubricant does not enter and contaminate the system. Do not use lubricants on oxygen lines. Oxygen reacts with petroleum products and can ignite (special lubricants are available or oxygen systems).
 
 Machine threads have no sealing capability and are similar to those used on common nuts and bolts. This type of fitting is used only to draw connections together or for attachment through bulkheads. A flared tube connection, a crush washer, or a synthetic seal is used to make the connection fluid tight. Machine threads have no taper and do not form a fluid-tight seal. The size of these fittings is given in dash numbers, which equal the nominal outside diameter in sixteenths of an inch.
 
@@ -238,7 +244,9 @@ When replacing rigid tubing, ensure that the layout of the new line is the same 
 
 切割导管时，切出方正且无毛刺的端面很重要。导管可用切管器或钢锯切割。切管器可用于任何软金属导管，例如铜、铝或铝合金。切割 6061-T6 铝合金、耐蚀钢和钛合金导管时，可使用专用无屑切管器。
 
-新导管的下料长度应比要更换的导管长约 10%，以留出弯曲时的微小差异。把导管装入切割工具，使切割轮对准要下刀的位置。绕导管旋转切管器，同时通过间断地拧动滚花螺钉对切割轮施加轻微压力。一次对切割轮施加过大压力可能使导管变形或产生过多毛刺。切断导管后，要仔细清除管内、外的毛刺。可用刀具或切管器上附带的去毛刺刀口。去毛刺作业也可使用去毛刺工具完成。这种工具只需调头使用，就能同时去掉内、外毛刺。
+新导管的下料长度应比要更换的导管长约 10%，以留出弯曲时的微小差异。把导管装入切割工具，使切割轮对准要下刀的位置。绕导管旋转切管器，同时通过间断地拧动滚花螺钉对切割轮施加轻微压力。
+
+一次对切割轮施加过大压力可能使导管变形或产生过多毛刺。切断导管后，要仔细清除管内、外的毛刺。可用刀具或切管器上附带的去毛刺刀口。去毛刺作业也可使用去毛刺工具完成。这种工具只需调头使用，就能同时去掉内、外毛刺。
 
 进行去毛刺作业时，要格外小心，不要使导管端部的壁厚减薄或产生裂纹。这种极轻微的损伤也可能导致扩口开裂或产生有缺陷的扩口，从而密封不良。用细齿锉把端面锉平、锉光。
 
@@ -304,7 +312,9 @@ When replacing rigid tubing, ensure that the layout of the new line is the same 
 
 导管可用手动滚压凸缘工具、机器滚压轮或夹持模滚压凸缘。采用哪种方法取决于导管的直径、壁厚以及制造导管的材料。
 
-手动滚压凸缘工具用于外径 1⁄4 英寸至 1 英寸的导管。使用装有合适滚轮的滚压凸缘机架即可滚压出凸缘。滚压前用轻质油润滑导管内外，以减小滚压时滚轮之间的摩擦。滚轮上以十六分之一英寸标注的尺寸，是指可用该滚轮滚压凸缘的导管外径。每种导管尺寸的内侧都需要专用滚轮，滚压时必须注意选用正确的零件。手动滚压凸缘工具的操作与切管器有些相似：一边绕导管旋转滚压工具，一边间断地压下滚轮。此外，工具套件中还配有一个小台虎钳（导管夹持器）。
+手动滚压凸缘工具用于外径 1⁄4 英寸至 1 英寸的导管。使用装有合适滚轮的滚压凸缘机架即可滚压出凸缘。滚压前用轻质油润滑导管内外，以减小滚压时滚轮之间的摩擦。滚轮上以十六分之一英寸标注的尺寸，是指可用该滚轮滚压凸缘的导管外径。
+
+每种导管尺寸的内侧都需要专用滚轮，滚压时必须注意选用正确的零件。手动滚压凸缘工具的操作与切管器有些相似：一边绕导管旋转滚压工具，一边间断地压下滚轮。此外，工具套件中还配有一个小台虎钳（导管夹持器）。
 
 还有其他方法以及不同类型的手动滚压凸缘工具和机器，但手动滚压凸缘工具使用最普遍。一般来说，滚压凸缘机仅限于加工直径较大（超过 115⁄16 英寸）的导管，除非配有专用滚轮。夹持模滚压法只适用于小导管。
 
@@ -320,7 +330,9 @@ When replacing rigid tubing, ensure that the layout of the new line is the same 
 
 ### 流体管路端接头
 
-接头的螺纹有管螺纹和机螺纹两种，取决于其类型和用途。管螺纹与普通水暖管件上所用的螺纹相似，内、外都是锥螺纹。外螺纹称为阳螺纹，内螺纹称为阴螺纹。两个接头（一阳一阴）连接时，螺纹的锥度形成密封。连接管螺纹时，应使用经批准、适用于特定流体场合的某种管螺纹润滑剂，以防止咬死和高压渗漏。涂敷螺纹润滑剂时要小心，不要让润滑剂进入并污染系统。氧气管道上不得使用润滑剂。氧会与石油产品发生反应并可能起火（氧气系统有专用润滑剂可供使用）。
+接头的螺纹有管螺纹和机螺纹两种，取决于其类型和用途。管螺纹与普通水暖管件上所用的螺纹相似，内、外都是锥螺纹。外螺纹称为阳螺纹，内螺纹称为阴螺纹。
+
+两个接头（一阳一阴）连接时，螺纹的锥度形成密封。连接管螺纹时，应使用经批准、适用于特定流体场合的某种管螺纹润滑剂，以防止咬死和高压渗漏。涂敷螺纹润滑剂时要小心，不要让润滑剂进入并污染系统。氧气管道上不得使用润滑剂。氧会与石油产品发生反应并可能起火（氧气系统有专用润滑剂可供使用）。
 
 机螺纹没有密封能力，与普通螺帽和螺栓上的螺纹相似。这类接头只用于把连接件拉紧，或用于穿过隔框的安装。连接处的液密性靠扩口导管连接、压紧垫圈或合成密封件来实现。机螺纹没有锥度，不能形成液密密封。这类接头的尺寸用短横线编号表示，该编号等于以十六分之一英寸计的公称外径。
 

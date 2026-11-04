@@ -86,9 +86,13 @@ The adjustable wrench is a handy utility tool that has smooth jaws and is design
 
 The category of special wrenches includes the crowfoot, flare nut, spanner, torque, and Allen wrenches.
 
-The crowfoot wrench is normally used when accessing nuts that must be removed from studs or bolts that cannot be accessed using other tools. The flare nut wrench has the appearance of a box-end wrench that has been cut open on one end. This opening allows the wrench to be used on the B-nut of a fuel, hydraulic, or oxygen line. Since it mounts using the standard square adapter, like the crowfoot wrench, it can be used in conjunction with a torque wrench.
+The crowfoot wrench is normally used when accessing nuts that must be removed from studs or bolts that cannot be accessed using other tools.
 
-The hook spanner is for a round nut with a series of notches cut in the outer edge. This wrench has a curved arm with a hook on the end that fits into one of the notches on the nut. The hook is placed in one of these notches with the handle pointing in the direction the nut is to be turned. Some hook spanner wrenches are adjustable and fit nuts of various diameters. U-shaped hook spanners have two lugs on the face of the wrench to fit notches cut in the face of the nut or screw plug. End spanners resemble a socket wrench, but have a series of lugs that fit into corresponding notches in a nut or plug. Pin spanners have a pin in place of a lug, and the pin fits into a round hole in the edge of a nut. Face pin spanners are similar to the U-shaped hook spanners except that they have pins instead of lugs.
+The flare nut wrench has the appearance of a box-end wrench that has been cut open on one end. This opening allows the wrench to be used on the B-nut of a fuel, hydraulic, or oxygen line. Since it mounts using the standard square adapter, like the crowfoot wrench, it can be used in conjunction with a torque wrench.
+
+The hook spanner is for a round nut with a series of notches cut in the outer edge. This wrench has a curved arm with a hook on the end that fits into one of the notches on the nut. The hook is placed in one of these notches with the handle pointing in the direction the nut is to be turned.
+
+Some hook spanner wrenches are adjustable and fit nuts of various diameters. U-shaped hook spanners have two lugs on the face of the wrench to fit notches cut in the face of the nut or screw plug. End spanners resemble a socket wrench, but have a series of lugs that fit into corresponding notches in a nut or plug. Pin spanners have a pin in place of a lug, and the pin fits into a round hole in the edge of a nut. Face pin spanners are similar to the U-shaped hook spanners except that they have pins instead of lugs.
 
 Most headless setscrews are the hex-head Allen type and must be installed and removed with an Allen wrench. Allen wrenches are six-sided bars in the shape of an L, or they can be hex-shaped bars mounted in adapters for use with hand ratchets. They range in size from 3⁄64 to 1⁄2 inch and fit into a hexagonal recess in the setscrew.
 
@@ -188,9 +192,13 @@ In certain applications, the use of an impact driver may be required. Struck wit
 
 专用扳手这一类包括爪形扳手、油管螺母扳手、圆螺母扳手、扭矩扳手和内六角扳手。
 
-爪形扳手通常用于接近那些必须从螺柱或螺栓上卸下、而用其他工具无法接近的螺母。油管螺母扳手的外形像一端被剖开的梅花扳手。这个开口使扳手能用在燃油、液压或氧气导管的 B 形螺母上。由于它和爪形扳手一样通过标准方孔接头安装，因此可与扭矩扳手配用。
+爪形扳手通常用于接近那些必须从螺柱或螺栓上卸下、而用其他工具无法接近的螺母。
 
-钩形扳手用于外缘上开有一系列缺口的圆螺母。这种扳手有一个弯臂，臂端带钩，钩嵌入螺母上的一个缺口。把钩放入其中一个缺口，手柄指向螺母应转动的方向。有些钩形扳手是可调的，能配合各种直径的螺母。U 形钩扳手在扳手端面上有两个凸爪，用来配合螺母或螺塞端面上切出的缺口。端面扳手类似套筒扳手，但带有一系列凸爪，嵌入螺母或螺塞上相应的缺口。销式扳手用销代替凸爪，销插入螺母边缘的圆孔中。端面销式扳手与 U 形钩扳手相似，只是用销代替了凸爪。
+油管螺母扳手的外形像一端被剖开的梅花扳手。这个开口使扳手能用在燃油、液压或氧气导管的 B 形螺母上。由于它和爪形扳手一样通过标准方孔接头安装，因此可与扭矩扳手配用。
+
+钩形扳手用于外缘上开有一系列缺口的圆螺母。这种扳手有一个弯臂，臂端带钩，钩嵌入螺母上的一个缺口。把钩放入其中一个缺口，手柄指向螺母应转动的方向。
+
+有些钩形扳手是可调的，能配合各种直径的螺母。U 形钩扳手在扳手端面上有两个凸爪，用来配合螺母或螺塞端面上切出的缺口。端面扳手类似套筒扳手，但带有一系列凸爪，嵌入螺母或螺塞上相应的缺口。销式扳手用销代替凸爪，销插入螺母边缘的圆孔中。端面销式扳手与 U 形钩扳手相似，只是用销代替了凸爪。
 
 大多数无头紧定螺钉是内六角头的 Allen 型，必须用内六角扳手安装和拆卸。内六角扳手是 L 形的六方棒，也可以是装在接头中、供手动棘轮使用的六方棒。其规格从 3/64 到 1/2 英寸，插入紧定螺钉上的六角凹孔。
 

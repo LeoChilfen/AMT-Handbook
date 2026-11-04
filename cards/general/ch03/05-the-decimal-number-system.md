@@ -32,13 +32,17 @@ To multiply decimal numbers, vertical alignment of the decimal point is not requ
 
 After multiplying the numbers, count the total number of decimal places in both numbers. For this example, 6.03 has 2 decimal places and 0.2 has 1 decimal place. Together there are a total of 3 decimal places. The decimal point for the answer is placed 3 decimal places from the right. Therefore, the answer is 1.206.
 
-6.03 2 decimal places × 0.2 1 decimal place 1.206 3 decimal places Example: Using the formula watts = amperes × voltage, what is the wattage of an electric drill that uses 9.45 amperes from a 120-volt source? Align the numbers to the right and multiply. After multiplying the numbers, count the total number of decimal places in both numbers. For this example, 9.45 has 2 decimal places and 120 has no decimal place. Together there are 2 decimal places. The decimal point for the answer is placed 2 decimal places from the right. Therefore, the answer is 1,134.00 watts, or simplified to 1,134 watts. 9.45 2 decimal places × 120 no decimal place 000 1890 + 945 1,134.00 2 decimal places
+6.03 2 decimal places × 0.2 1 decimal place 1.206 3 decimal places Example: Using the formula watts = amperes × voltage, what is the wattage of an electric drill that uses 9.45 amperes from a 120-volt source? Align the numbers to the right and multiply.
+
+After multiplying the numbers, count the total number of decimal places in both numbers. For this example, 9.45 has 2 decimal places and 120 has no decimal place. Together there are 2 decimal places. The decimal point for the answer is placed 2 decimal places from the right. Therefore, the answer is 1,134.00 watts, or simplified to 1,134 watts. 9.45 2 decimal places × 120 no decimal place 000 1890 + 945 1,134.00 2 decimal places
 
 ### Division of Decimal Numbers
 
 Division of decimal numbers is performed the same way as whole numbers, unless the divisor is a decimal. quotient divisor dividend When the divisor is a decimal, it must be changed to a whole number before dividing. To do this, move the decimal in the divisor to the right until there are no decimal places. At the same time, move the decimal point in the dividend to the right the same number of places. Then divide. The decimal in the quotient is placed directly above the decimal in the dividend.
 
-Example: Divide 0.144 by 0.12 1.2 0.12 0.144 = 12. 14.4 – 12 24 – 24 0 Move the decimal in the divisor (0.12) two places to the right. The result is 12.0. Next, move the decimal in the dividend (0.144) two places to the right. The result is 14.4. Now divide. The result is 1.2. Example: The wing area of an airplane is 262.6 square feet and its span is 40.4 feet. Find the mean chord of its wing using the formula: area ÷ span = mean chord.
+Example: Divide 0.144 by 0.12 1.2 0.12 0.144 = 12. 14.4 – 12 24 – 24 0 Move the decimal in the divisor (0.12) two places to the right. The result is 12.0. Next, move the decimal in the dividend (0.144) two places to the right. The result is 14.4. Now divide. The result is 1.2.
+
+Example: The wing area of an airplane is 262.6 square feet and its span is 40.4 feet. Find the mean chord of its wing using the formula: area ÷ span = mean chord.
 
 6.5 40.4 262.6 = 404. 2626.0 – 2424 2020 – 2020 0 Move the decimal in the divisor (40.4) one place to the right. Next, move the decimal in the dividend (262.6) one place to the right. Then divide. The mean chord length is 6.5 feet.
 
@@ -126,13 +130,17 @@ RT = 2.34 + 37.5 + 0.09 把各电阻值排成一列，使小数点对齐，然�
 
 乘完两数后，数出两个数的小数位总数。本例中，6.03 有 2 位小数，0.2 有 1 位小数，合计 3 位小数。答案的小数点从右往左数第 3 位。因此，答案是 1.206。
 
-6.03 2 位小数 × 0.2 1 位小数 1.206 3 位小数 例：用公式 瓦特 = 安培 × 电压，求一台从 120 伏电源取用 9.45 安培的电钻的功率。把数字向右对齐并相乘。乘完后，数出两数的小数位总数。本例中，9.45 有 2 位小数，120 没有小数位，合计 2 位小数。答案的小数点从右往左数第 2 位。因此，答案是 1,134.00 瓦，化简为 1,134 瓦。9.45 2 位小数 × 120 无小数位 000 1890 + 945 1,134.00 2 位小数
+6.03 2 位小数 × 0.2 1 位小数 1.206 3 位小数 例：用公式 瓦特 = 安培 × 电压，求一台从 120 伏电源取用 9.45 安培的电钻的功率。把数字向右对齐并相乘。
+
+乘完后，数出两数的小数位总数。本例中，9.45 有 2 位小数，120 没有小数位，合计 2 位小数。答案的小数点从右往左数第 2 位。因此，答案是 1,134.00 瓦，化简为 1,134 瓦。9.45 2 位小数 × 120 无小数位 000 1890 + 945 1,134.00 2 位小数
 
 ### 小数的除法
 
 小数的除法与整数的除法做法相同，除非除数是小数。商 除数 被除数 当除数是小数时，必须先把它变成整数才能相除。做法是把除数的小数点向右移，直到没有小数位为止。同时，把被除数的小数点也向右移同样多的位数。然后相除。商的小数点直接放在被除数小数点的正上方。
 
-例：用 0.144 除以 0.12 1.2 0.12 0.144 = 12. 14.4 – 12 24 – 24 0 把除数（0.12）的小数点向右移两位，结果是 12.0。接着，把被除数（0.144）的小数点向右移两位，结果是 14.4。现在相除，结果是 1.2。例：一架飞机的机翼面积是 262.6 平方英尺，翼展是 40.4 英尺。用公式 面积 ÷ 翼展 = 平均弦长 求机翼的平均弦长。
+例：用 0.144 除以 0.12 1.2 0.12 0.144 = 12. 14.4 – 12 24 – 24 0 把除数（0.12）的小数点向右移两位，结果是 12.0。接着，把被除数（0.144）的小数点向右移两位，结果是 14.4。
+
+现在相除，结果是 1.2。例：一架飞机的机翼面积是 262.6 平方英尺，翼展是 40.4 英尺。用公式 面积 ÷ 翼展 = 平均弦长 求机翼的平均弦长。
 
 6.5 40.4 262.6 = 404. 2626.0 – 2424 2020 – 2020 0 把除数（40.4）的小数点向右移一位。接着把被除数（262.6）的小数点向右移一位。然后相除。平均弦长为 6.5 英尺。
 

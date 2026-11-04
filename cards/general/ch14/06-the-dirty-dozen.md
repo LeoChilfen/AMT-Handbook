@@ -10,7 +10,9 @@ Due to a large number of maintenance-related aviation accidents and incidents th
 
 Lack of communication is a key human factor that can result in suboptimal, incorrect, or faulty maintenance. Communication occurs between the AMT and many people (i.e., management, pilots, parts suppliers, aircraft servicers). Each exchange holds the potential for misunderstanding or omission. But communication between AMTs may be the most important of all. Lack of communication between technicians could lead to a maintenance error and result in an aircraft accident. This is especially true during procedures where more than one technician performs the work on the aircraft. It is critical that accurate, complete information be exchanged to ensure that all work is completed without any step being omitted. Knowledge and speculation about a task must be clarified and not confused. Each step of the maintenance procedure must be performed according to approved instructions as though only a single technician did the work.
 
-Lack of communication is a serious risk of human error. A common scenario where communication is critical and a lack thereof can cause problems, is during shift change in an airline or fixed base operator (FBO) operation. A partially completed job is transferred from the technician finishing their workday to the technician coming on duty. Many steps in a maintenance procedure are not able to be seen or verified once completed due to the installation of components hiding the work. No steps in the procedure can be omitted and some steps still to be performed may be contingent on the work already completed. The departing technician must thoroughly explain what has occurred so that the arriving technician can correctly complete the job. A recounting of critical steps and any difficulties encountered gives insight. A lack of communication at this juncture could result in the work being continued without certain required operations having been performed. The approved steps of a maintenance procedure must be signed off by the technician doing the work as it is performed. Continuing a job that has been started by someone else should only occur after a face-to-face meeting of technicians. The applicable paperwork should be reviewed, the completed work discussed, and attention drawing to the next step. Absence of either a written or oral turnover serves as warning that an error could occur.
+Lack of communication is a serious risk of human error. A common scenario where communication is critical and a lack thereof can cause problems, is during shift change in an airline or fixed base operator (FBO) operation. A partially completed job is transferred from the technician finishing their workday to the technician coming on duty. Many steps in a maintenance procedure are not able to be seen or verified once completed due to the installation of components hiding the work. No steps in the procedure can be omitted and some steps still to be performed may be contingent on the work already completed. The departing technician must thoroughly explain what has occurred so that the arriving technician can correctly complete the job. A recounting of critical steps and any difficulties encountered gives insight. A lack of communication at this juncture could result in the work being continued without certain required operations having been performed.
+
+The approved steps of a maintenance procedure must be signed off by the technician doing the work as it is performed. Continuing a job that has been started by someone else should only occur after a face-to-face meeting of technicians. The applicable paperwork should be reviewed, the completed work discussed, and attention drawing to the next step. Absence of either a written or oral turnover serves as warning that an error could occur.
 
 It is vital that work not be continued on a project without both oral and written communication between the technician who started the job and the technician continuing it. Work should always be done in accordance with the approved written procedure and all of the performed steps should bear the signature of the technician who accomplishes the work. If necessary, a phone call can be made to obtain an oral turnover when technicians cannot meet face-to-face at the work area. In general, the technician must see their role as part of a greater system focused on safe aircraft operation and must communicate well with all those in that system to be effective.
 
@@ -24,7 +26,11 @@ A lack of knowledge when performing aircraft maintenance can result in a faulty 
 
 Lack of Communication MITIGATING THE RISK Properly use logbooks and worksheets to communicate work accomplishments.
 
-Distraction A distraction while performing maintenance on an aircraft may disrupt the procedure. When work resumes, it is possible that the technician skips over a detail that needs attention. It is estimated that 15 percent of maintenance related errors are caused by distractions. Distractions can be mental or physical in nature. They can occur when the work is located on the aircraft or in the hangar. They can also occur in the psyche of the technician independent of the work environment. Something as simple as a cell phone call or a new aircraft being pushed into the hangar can disrupt the technician’s concentration on a job. Less visible is a difficult family or financial matter or other personal issues that may occupy the technician’s thought process as work is performed. This can make performance of the required maintenance less effective. Whatever their nature, numerous distractions can occur during the course of maintaining an aircraft. The technician must recognize when attention to the job at hand is being diverted and assure that work continues correctly. A good practice is to go back three steps in the work procedure from when distraction occurred and resume the job from that point. Using of a detailed step-by-step written procedure and signing off each step only after it is completed also helps. Incomplete work can be marked or tagged, especially when the technician is pulled from the work by a distraction, and it is unknown when work will be resumed and by whom. Disconnect any connector and leave it plainly visible if an installation is not complete. There is a tendency to think a job is finished when a component is “hooked up.” Similarly, when a step in the maintenance procedure is complete, be sure to immediately lock wire or torque the fasteners if required. This can be used as an indication that all is well up to that point in the procedure.
+Distraction A distraction while performing maintenance on an aircraft may disrupt the procedure. When work resumes, it is possible that the technician skips over a detail that needs attention. It is estimated that 15 percent of maintenance related errors are caused by distractions.
+
+Distractions can be mental or physical in nature. They can occur when the work is located on the aircraft or in the hangar. They can also occur in the psyche of the technician independent of the work environment. Something as simple as a cell phone call or a new aircraft being pushed into the hangar can disrupt the technician’s concentration on a job. Less visible is a difficult family or financial matter or other personal issues that may occupy the technician’s thought process as work is performed. This can make performance of the required maintenance less effective.
+
+Whatever their nature, numerous distractions can occur during the course of maintaining an aircraft. The technician must recognize when attention to the job at hand is being diverted and assure that work continues correctly. A good practice is to go back three steps in the work procedure from when distraction occurred and resume the job from that point. Using of a detailed step-by-step written procedure and signing off each step only after it is completed also helps. Incomplete work can be marked or tagged, especially when the technician is pulled from the work by a distraction, and it is unknown when work will be resumed and by whom. Disconnect any connector and leave it plainly visible if an installation is not complete. There is a tendency to think a job is finished when a component is “hooked up.” Similarly, when a step in the maintenance procedure is complete, be sure to immediately lock wire or torque the fasteners if required. This can be used as an indication that all is well up to that point in the procedure.
 
 THE DIRTY DOZEN Twelve human factors for aircraft maintenance proficiency Lack of Teamwork Fatigue Lack of Resources Pressure Lack of Assertiveness Stress Lack of Awareness Norms Complacency Lack of Knowledge Distraction Lack of Communication MITIGATING THE RISK Ensure that the pressure is not self-induced.
 
@@ -50,7 +56,9 @@ A lack of teamwork may also contribute to errors in aircraft maintenance. Closel
 
 The technician primarily deals with the physical aspect of the aircraft and its airworthiness. Others in the organization perform their roles and the entire company functions as a team. Teams can win or lose depending on how well everyone in the organization works together toward a common objective. A lack of teamwork makes all jobs more difficult and, in maintenance, could result in a miscommunication that affects the airworthiness of the aircraft.
 
-Fatigue is a major human factor that has contributed to many maintenance errors resulting in accidents. Fatigue can be mental or physical in nature. Emotional fatigue also exists and affects mental and physical performance. A person is said to be fatigued when a reduction or impairment in any of the following occurs: cognitive ability, decision-making, reaction time, coordination, speed, strength, or balance. Fatigue reduces alertness and often reduces a person’s ability to focus on the task being performed. Symptoms of fatigue can also include short-term memory problems, channeled concentration on unimportant issues while neglecting more important ones, and failure to maintain a situational overview. A fatigued person may be easily distracted or may be nearly impossible to distract. They may experience abnormal mood swings. Fatigue results in an increase in mistakes, poor judgment, and poor decisions or perhaps no decisions at all. A fatigued person may also lower their standards.
+Fatigue is a major human factor that has contributed to many maintenance errors resulting in accidents. Fatigue can be mental or physical in nature. Emotional fatigue also exists and affects mental and physical performance. A person is said to be fatigued when a reduction or impairment in any of the following occurs: cognitive ability, decision-making, reaction time, coordination, speed, strength, or balance. Fatigue reduces alertness and often reduces a person’s ability to focus on the task being performed.
+
+Symptoms of fatigue can also include short-term memory problems, channeled concentration on unimportant issues while neglecting more important ones, and failure to maintain a situational overview. A fatigued person may be easily distracted or may be nearly impossible to distract. They may experience abnormal mood swings. Fatigue results in an increase in mistakes, poor judgment, and poor decisions or perhaps no decisions at all. A fatigued person may also lower their standards.
 
 Tiredness is a symptom of fatigue. However, sometimes a fatigued person may feel wide awake and engaged in a task. The primary cause of fatigue is a lack of sleep. Good restful sleep, free from drugs or alcohol is a human necessity to prevent fatigue. Fatigue can also be caused by stress and overworking. A person’s mental and physical state also naturally cycles through various levels of performance each day. Variables such as body temperature, blood pressure, heart rate, blood chemistry, alertness, and attention rise and fall in a pattern daily. This is known as circadian rhythm. A person’s ability to work (and rest) rises and falls during this cycle, and performance counter to circadian rhythm can be difficult. Until it becomes extreme, a person may be unaware that they are fatigued. It is easier recognized by another person or in the results of tasks being performed. This is particularly dangerous in aviation maintenance since the lives of people depend on maintenance procedures performed at a high level of proficiency. Working alone when fatigued is particularly dangerous.
 
@@ -70,7 +78,9 @@ The technician must be aware that shift work is the norm in THE DIRTY DOZEN Twel
 
 In a world of ever-changing technology, maintainers must remain up to date on current equipment and how to fix it.
 
-Fatigue is a significant issue in aviation maintenance. Avoidance of fatigue is part of the job. Title 14 of the Code of Federal Regulations (14 CFR) part 121, section 377, only requires 24 hours time off during a week of work. Since this is obviously not enough, it is up to companies and technicians to regulate shift work and time off to reduce the potential for errors. Most importantly, each technician must monitor and control their sleep habits to avoid fatigue. Lack of Resources A lack of resources can interfere with a person’s ability to complete a task because of a lack of supplies and support. Low quality products also affect one’s ability to complete a task. Aviation maintenance demands proper tools and parts to maintain a fleet of aircraft. Any lack of resources to safely carry out a maintenance task can cause both non-fatal and fatal accidents. For example, if an aircraft is dispatched without a functioning system that is typically nonessential for flight but suddenly becomes needed, this could create a problem.
+Fatigue is a significant issue in aviation maintenance. Avoidance of fatigue is part of the job. Title 14 of the Code of Federal Regulations (14 CFR) part 121, section 377, only requires 24 hours time off during a week of work. Since this is obviously not enough, it is up to companies and technicians to regulate shift work and time off to reduce the potential for errors. Most importantly, each technician must monitor and control their sleep habits to avoid fatigue.
+
+Lack of Resources A lack of resources can interfere with a person’s ability to complete a task because of a lack of supplies and support. Low quality products also affect one’s ability to complete a task. Aviation maintenance demands proper tools and parts to maintain a fleet of aircraft. Any lack of resources to safely carry out a maintenance task can cause both non-fatal and fatal accidents. For example, if an aircraft is dispatched without a functioning system that is typically nonessential for flight but suddenly becomes needed, this could create a problem.
 
 Ensure that the maintenance manual you are using is up to date.
 
@@ -104,7 +114,11 @@ Always look out for co-workers with safety in mind.
 
 Occupations that require an individual to work long hours or stay up overnight can lead to fatigue. Fatigue can cause a decreased attentiveness and a decreased level of consciousness, which can be very dangerous when conducting maintenance.
 
-If tools or equipment are in need of repair or calibration, or missing, they need to be repaired, calibrated, or found as soon as possible. Technical documentation is another critical resource that can lead to problems in aviation maintenance. When trying to find out more about the task at hand or how to troubleshoot and repair a system, the needed information often cannot be found because the manuals or diagrams are not available. If the information is unavailable, personnel should ask a supervisor or speak with a technical representative or technical publications department at the appropriate aircraft manufacturer. Most manuals are in a constant state of revision and, if organizations do not identify missing information in the manuals, then nothing is done to correct the documentation. Resources such as publications departments and manufacturers’ technical support are available and should be used rather than ignoring the problem. Another valuable resource that the maintenance department should rely on is the flight crew. Organizations should encourage open communication between flight crews and maintenance crews. The flight crew can provide valuable information when dealing with a defective part or problem.
+If tools or equipment are in need of repair or calibration, or missing, they need to be repaired, calibrated, or found as soon as possible.
+
+Technical documentation is another critical resource that can lead to problems in aviation maintenance. When trying to find out more about the task at hand or how to troubleshoot and repair a system, the needed information often cannot be found because the manuals or diagrams are not available. If the information is unavailable, personnel should ask a supervisor or speak with a technical representative or technical publications department at the appropriate aircraft manufacturer. Most manuals are in a constant state of revision and, if organizations do not identify missing information in the manuals, then nothing is done to correct the documentation. Resources such as publications departments and manufacturers’ technical support are available and should be used rather than ignoring the problem.
+
+Another valuable resource that the maintenance department should rely on is the flight crew. Organizations should encourage open communication between flight crews and maintenance crews. The flight crew can provide valuable information when dealing with a defective part or problem.
 
 Forfeit complex tasks if you know you are exhausted.
 
@@ -112,7 +126,13 @@ Eating healthy, exercising and maintaining regular sleep patterns can prevent fa
 
 When the proper resources are available for the task at hand, there is a much higher probability that maintenance will do a better, more efficient job and higher likelihood that the job will be done correctly the first time. Organizations must learn to use all of the resources that are available and, if the correct resources are not available, make the necessary arrangements to get them in a timely manner. The end result saves time and money, and enables organizations to complete the task knowing the aircraft is airworthy.
 
-Pressure Aviation maintenance tasks require individuals to perform in an environment with constant pressure to do things better and faster without making mistakes and letting things fall through the cracks. Unfortunately, these types of job pressures can affect the capabilities of maintenance workers to get the job done right. Airlines have strict financial guidelines, as well as tight flight schedules, that pressure mechanics to identify and repair mechanical problems quickly so that the airline industry can keep moving. Most important, aircraft mechanics are responsible for the overall safety of everyone who uses flying as a mode of transportation. Organizations must be aware of the time pressures that are put on aircraft mechanics and help them manage all of the tasks that need to be completed so that all repairs, while done in a timely manner, are completed correctly with safety being the ultimate goal. Sacrificing quality and safety for the sake of time should not be tolerated or accepted. Likewise, AMTs need to recognize on their own when time pressures are clouding their judgments and causing them to make unnecessary mistakes. Self-induced pressures are those occasions where one takes ownership of a situation that was not of their doing. In an effort to combat self-induced pressure, technicians should ask for help if they feel overwhelmed and under a time constraint to complete a repair. Another method is to have someone check the repair thoroughly to ensure that all maintenance tasks were completed correctly. Lastly, if given a repair with a specific time limitation that you feel is unrealistic or compromises safety, bring it to the attention of the organization’s management and openly discuss a different course of action.
+Pressure Aviation maintenance tasks require individuals to perform in an environment with constant pressure to do things better and faster without making mistakes and letting things fall through the cracks. Unfortunately, these types of job pressures can affect the capabilities of maintenance workers to get the job done right. Airlines have strict financial guidelines, as well as tight flight schedules, that pressure mechanics to identify and repair mechanical problems quickly so that the airline industry can keep moving. Most important, aircraft mechanics are responsible for the overall safety of everyone who uses flying as a mode of transportation.
+
+Organizations must be aware of the time pressures that are put on aircraft mechanics and help them manage all of the tasks that need to be completed so that all repairs, while done in a timely manner, are completed correctly with safety being the ultimate goal. Sacrificing quality and safety for the sake of time should not be tolerated or accepted. Likewise, AMTs need to recognize on their own when time pressures are clouding their judgments and causing them to make unnecessary mistakes. Self-induced pressures are those occasions where one takes ownership of a situation that was not of their doing.
+
+In an effort to combat self-induced pressure, technicians should ask for help if they feel overwhelmed and under a time constraint to complete a repair. Another method is to have someone check the repair thoroughly to ensure that all maintenance tasks were completed correctly.
+
+Lastly, if given a repair with a specific time limitation that you feel is unrealistic or compromises safety, bring it to the attention of the organization’s management and openly discuss a different course of action.
 
 Lack of Assertiveness Assertiveness is the ability to express your feelings, opinions, beliefs, and needs in a positive, productive manner and should not be confused with being aggressive. It is important for AMTs to be assertive in issues relating to aviation repair rather than choosing not to or not being allowed to voice their concerns and opinions. Not being assertive could ultimately cost people their lives. The following are examples of how a lack of assertiveness can be offset:
 
@@ -140,7 +160,9 @@ Example: “John, what do you think?”
 
 When being assertive with co-workers or management, deal with one issue at a time rather than trying to tackle a number of problems at once. It is also important to have documentation and facts to back up your argument, which can give people a visual account of what you are trying to explain. A lack of assertiveness in failing to speak up when things do not seem right has resulted in many fatal accidents. This can easily be changed by promoting good communication When and where did the event occur?
 
-Stress Aviation maintenance is a stressful task due to many factors. Aircraft must be functional and flying in order for airlines to make money, which means that maintenance must be done within a short timeframe to avoid flight delays and cancellations. Fast-paced technology that is always changing can add stress to technicians. This demands that AMTs stay trained on the latest equipment. Other stressors include working in dark, tight spaces, lack of resources to get the repair done correctly, and long hours. The ultimate stress of aviation maintenance is knowing that the work they do, if not done correctly, could result in tragedy. Everyone handles stress differently and particular situations can bring about different degrees of difficulty for different people. For example, working under a strict timeline can be a stressor for one person and normal for another. The causes of stress are referred to as “stressors” and are categorized as physical, psychological, or physiological. Following is a list of each and how they may affect maintenance.
+Stress Aviation maintenance is a stressful task due to many factors. Aircraft must be functional and flying in order for airlines to make money, which means that maintenance must be done within a short timeframe to avoid flight delays and cancellations. Fast-paced technology that is always changing can add stress to technicians. This demands that AMTs stay trained on the latest equipment. Other stressors include working in dark, tight spaces, lack of resources to get the repair done correctly, and long hours. The ultimate stress of aviation maintenance is knowing that the work they do, if not done correctly, could result in tragedy.
+
+Everyone handles stress differently and particular situations can bring about different degrees of difficulty for different people. For example, working under a strict timeline can be a stressor for one person and normal for another. The causes of stress are referred to as “stressors” and are categorized as physical, psychological, or physiological. Following is a list of each and how they may affect maintenance.
 
 #### Physical Stressors
 
@@ -202,7 +224,9 @@ Lack of assertiveness in failing to alert others when something does not seem ri
 
 People cope with stress in many different ways. Specialists say that the first step is to identify stressors and the symptoms that occur after exposure to those stressors. Other recommendations involve development or maintenance of a healthy lifestyle with adequate rest and exercise, a healthy diet, limited consumption of alcoholic drinks, and avoidance of tobacco products.
 
-Lack of Awareness Lack of awareness is defined as a failure to recognize all the consequences of an action or lack of foresight. In aviation maintenance, it is not unusual to perform the same maintenance tasks repeatedly. After completing the same task multiple times, it is easy for technicians to become less vigilant and develop a lack of awareness of what they are doing and what is around them. Each time a task is completed it must be treated as if it were the first time. Norms Norms is short for “normal,” or the way things are normally done. They are unwritten rules that are followed or tolerated by most organizations. Negative norms can detract from the established safety standard and cause an accident to occur. Norms are usually developed to solve problems that have ambiguous solutions. When faced with an ambiguous situation, an individual may use another’s behavior as a frame of reference around which to form their own reactions. As this process continues, group norms develop and stabilize. Newcomers to the situation are then accepted into the group based on adherence to norms. Very rarely do newcomers initiate change in a group with established norms.
+Lack of Awareness Lack of awareness is defined as a failure to recognize all the consequences of an action or lack of foresight. In aviation maintenance, it is not unusual to perform the same maintenance tasks repeatedly. After completing the same task multiple times, it is easy for technicians to become less vigilant and develop a lack of awareness of what they are doing and what is around them. Each time a task is completed it must be treated as if it were the first time.
+
+Norms Norms is short for “normal,” or the way things are normally done. They are unwritten rules that are followed or tolerated by most organizations. Negative norms can detract from the established safety standard and cause an accident to occur. Norms are usually developed to solve problems that have ambiguous solutions. When faced with an ambiguous situation, an individual may use another’s behavior as a frame of reference around which to form their own reactions. As this process continues, group norms develop and stabilize. Newcomers to the situation are then accepted into the group based on adherence to norms. Very rarely do newcomers initiate change in a group with established norms.
 
 Allow co-workers to give their opinions and always accept corrective criticisms.
 
@@ -256,7 +280,9 @@ Be aware that just because it seems normal does not make it correct.
 
 沟通不足是一项关键的人为因素，可能导致不理想、不正确或有缺陷的维修。沟通发生在维修技术员与许多人之间（即管理层、飞行员、零件供应商、飞机保障人员）。每一次交流都有可能产生误解或遗漏。但维修技术员之间的沟通可能是其中最重要的。技术员之间沟通不足可能导致维修差错，并造成飞机事故。在由一名以上技术员在飞机上执行工作的程序中，这一点尤其如此。必须交换准确、完整的信息，以确保所有工作都已完成且没有任何步骤被遗漏。关于任务的知识和推测必须澄清，不能混淆。维修程序的每个步骤都必须按照经批准的指令执行，就好像只有一名技术员在做这项工作一样。
 
-沟通不足是人为差错的严重风险。沟通至关重要而沟通不足会引发问题的一个常见情形，是航空公司或固定基地运营商（FBO）运行中的交接班。一项完成了一半的工作要从结束当天工作的技术员移交给接班的技术员。由于部件安装后会遮住已完成的工作，维修程序中的许多步骤一经完成便无法看到或核实。程序中的任何步骤都不能遗漏，而一些尚未执行的步骤可能取决于已经完成的工作。离岗技术员必须彻底说明已发生了什么，以便接班技术员能正确完成这项工作。复述关键步骤和遇到的任何困难能提供有用的信息。在此时刻沟通不足，可能导致工作在未执行某些必要操作的情况下被继续下去。维修程序的经批准步骤必须由执行工作的技术员在完成时签署确认。继续别人已经开始的工作，只应在技术员面对面会面之后进行。应审阅相关文书，讨论已完成的工作，并把注意力引向下一步。无论是书面还是口头交接的缺失，都是差错可能发生的警示。
+沟通不足是人为差错的严重风险。沟通至关重要而沟通不足会引发问题的一个常见情形，是航空公司或固定基地运营商（FBO）运行中的交接班。一项完成了一半的工作要从结束当天工作的技术员移交给接班的技术员。由于部件安装后会遮住已完成的工作，维修程序中的许多步骤一经完成便无法看到或核实。程序中的任何步骤都不能遗漏，而一些尚未执行的步骤可能取决于已经完成的工作。离岗技术员必须彻底说明已发生了什么，以便接班技术员能正确完成这项工作。复述关键步骤和遇到的任何困难能提供有用的信息。在此时刻沟通不足，可能导致工作在未执行某些必要操作的情况下被继续下去。
+
+维修程序的经批准步骤必须由执行工作的技术员在完成时签署确认。继续别人已经开始的工作，只应在技术员面对面会面之后进行。应审阅相关文书，讨论已完成的工作，并把注意力引向下一步。无论是书面还是口头交接的缺失，都是差错可能发生的警示。
 
 至关重要的是，在开始工作的技术员与继续工作的技术员之间没有口头和书面沟通的情况下，不得继续一项工作的作业。工作应始终按照经批准的书面程序进行，所有已执行的步骤都应带有完成该工作的技术员的签名。如有必要，当技术员无法在工作区域面对面会面时，可以打电话获得口头交接。一般来说，技术员必须把自己的角色视为以飞机安全运行为核心的更大系统的一部分，并必须与该系统中的所有人良好沟通，才能有效发挥作用。
 
@@ -270,7 +296,11 @@ Be aware that just because it seems normal does not make it correct.
 
 【降低风险】正确使用记录本和工作单来沟通工作完成情况。
 
-分心 在执行飞机维修时，分心可能打断程序。工作恢复时，技术员可能跳过需要注意的细节。据估计，15% 的维修相关差错由分心引起。分心可以是精神上的，也可以是身体上的。它们可能发生在飞机上的工作地点，也可能发生在机库中。它们还可能发生在技术员的内心，与工作环境无关。像一通手机来电，或一架新飞机被推进机库这样简单的事，都可能打断技术员对工作的专注。更不易察觉的是困难的家庭或财务问题，或其他个人问题，它们可能在执行工作时占据技术员的思维。这会使所需维修的执行效果下降。无论性质如何，在维护一架飞机的过程中都可能出现大量分心。技术员必须认识到对当前工作的注意力何时被转移，并确保工作正确继续。一个良好做法是从分心发生时起，在工作程序中往回退三步，从那里重新开始工作。使用详细的、逐步的书面程序，并在每一步完成后才签署确认，也有帮助。未完成的工作可以标记或挂牌，尤其是当技术员因分心而被从工作中拉走、且不知道工作何时由谁恢复时。如果某个安装未完成，应断开所有连接器并使其清晰可见。人们往往在部件「接好」后就认为工作已完成。同样，当维修程序中的某个步骤完成时，如需要，务必立即打保险丝或拧紧紧固件。这可以作为程序进行到该点时一切正常的标志。
+分心 在执行飞机维修时，分心可能打断程序。工作恢复时，技术员可能跳过需要注意的细节。据估计，15% 的维修相关差错由分心引起。分心可以是精神上的，也可以是身体上的。
+
+它们可能发生在飞机上的工作地点，也可能发生在机库中。它们还可能发生在技术员的内心，与工作环境无关。像一通手机来电，或一架新飞机被推进机库这样简单的事，都可能打断技术员对工作的专注。更不易察觉的是困难的家庭或财务问题，或其他个人问题，它们可能在执行工作时占据技术员的思维。这会使所需维修的执行效果下降。
+
+无论性质如何，在维护一架飞机的过程中都可能出现大量分心。技术员必须认识到对当前工作的注意力何时被转移，并确保工作正确继续。一个良好做法是从分心发生时起，在工作程序中往回退三步，从那里重新开始工作。使用详细的、逐步的书面程序，并在每一步完成后才签署确认，也有帮助。未完成的工作可以标记或挂牌，尤其是当技术员因分心而被从工作中拉走、且不知道工作何时由谁恢复时。如果某个安装未完成，应断开所有连接器并使其清晰可见。人们往往在部件「接好」后就认为工作已完成。同样，当维修程序中的某个步骤完成时，如需要，务必立即打保险丝或拧紧紧固件。这可以作为程序进行到该点时一切正常的标志。
 
 【降低风险】确保压力不是自己造成的。
 
@@ -296,7 +326,9 @@ Be aware that just because it seems normal does not make it correct.
 
 技术员主要处理飞机的物理层面及其适航性。组织中的其他人履行各自的职责，整个公司作为一个团队运作。团队可以赢也可以输，取决于组织中每个人为共同目标协作得如何。团队协作不足会使所有工作都更加困难，在维修中，可能导致影响飞机适航性的沟通失误。
 
-疲劳是一项重要的人为因素，已导致许多维修差错并造成事故。疲劳可以是精神上的，也可以是身体上的。还存在情绪疲劳，它会影响精神和身体的表现。当以下任何一项出现下降或受损时，就可以说一个人处于疲劳状态：认知能力、决策能力、反应时间、协调性、速度、力量或平衡。疲劳会降低警觉性，并常常降低一个人专注于所执行任务的能力。疲劳的症状还可能包括短期记忆问题、把注意力局限在不重要的问题上而忽视更重要的问题，以及无法保持对全局情景的把握。疲劳的人可能容易分心，也可能几乎无法被分散注意力。他们可能经历异常的情绪波动。疲劳会导致错误增多、判断力差，决策不佳，或者根本不做决定。疲劳的人还可能降低自己的标准。
+疲劳是一项重要的人为因素，已导致许多维修差错并造成事故。疲劳可以是精神上的，也可以是身体上的。还存在情绪疲劳，它会影响精神和身体的表现。当以下任何一项出现下降或受损时，就可以说一个人处于疲劳状态：认知能力、决策能力、反应时间、协调性、速度、力量或平衡。疲劳会降低警觉性，并常常降低一个人专注于所执行任务的能力。
+
+疲劳的症状还可能包括短期记忆问题、把注意力局限在不重要的问题上而忽视更重要的问题，以及无法保持对全局情景的把握。疲劳的人可能容易分心，也可能几乎无法被分散注意力。他们可能经历异常的情绪波动。疲劳会导致错误增多、判断力差，决策不佳，或者根本不做决定。疲劳的人还可能降低自己的标准。
 
 倦怠是疲劳的一种症状。然而，有时疲劳的人可能感觉十分清醒并投入到任务中。疲劳的主要原因是睡眠不足。不受药物或酒精影响的良好、安稳的睡眠，是预防疲劳的人体必需条件。疲劳也可能由应激和过度工作引起。人的精神和身体状态每天也自然地循环经历各种表现水平。体温、血压、心率、血液化学、警觉性和注意力等变量每天按一定模式升降。这被称为昼夜节律。人在这一周期中工作（和休息）的能力也随之升降，违背昼夜节律行事可能很困难。在疲劳变得极端之前，人可能并未意识到自己已经疲劳。旁人或者任务执行的结果更容易识别出这一点。这在航空维修中尤其危险，因为人的生命依赖于以高熟练水平执行的维修程序。疲劳时独自工作尤其危险。
 
@@ -316,7 +348,9 @@ Be aware that just because it seems normal does not make it correct.
 
 在技术不断变化的世界里，维修人员必须掌握当前设备及其修理方法的最新知识。
 
-疲劳是航空维修中一个重要问题。避免疲劳是工作的一部分。美国联邦法规第 14 编（14 CFR）第 121 部第 377 节只要求一周工作中休息 24 小时。由于这显然不够，规范倒班和休息时间以降低差错可能性，就取决于公司和维修技术员自己。最重要的是，每名技术员都必须监控并控制自己的睡眠习惯，以避免疲劳。资源不足 资源不足会因缺少供应和支持而妨碍一个人完成任务的能力。低质量产品也会影响一个人完成任务的能力。航空维修需要适当的工具和零件来维护一支机队。任何缺少安全执行维修任务所需资源的情况都可能造成非致命和致命事故。例如，如果一架飞机在没有某个通常非必要但突然变得需要的功能系统的情况下被放行，这就可能造成问题。
+疲劳是航空维修中一个重要问题。避免疲劳是工作的一部分。美国联邦法规第 14 编（14 CFR）第 121 部第 377 节只要求一周工作中休息 24 小时。由于这显然不够，规范倒班和休息时间以降低差错可能性，就取决于公司和维修技术员自己。最重要的是，每名技术员都必须监控并控制自己的睡眠习惯，以避免疲劳。
+
+资源不足 资源不足会因缺少供应和支持而妨碍一个人完成任务的能力。低质量产品也会影响一个人完成任务的能力。航空维修需要适当的工具和零件来维护一支机队。任何缺少安全执行维修任务所需资源的情况都可能造成非致命和致命事故。例如，如果一架飞机在没有某个通常非必要但突然变得需要的功能系统的情况下被放行，这就可能造成问题。
 
 确保你使用的维修手册是最新的。
 
@@ -350,7 +384,11 @@ Be aware that just because it seems normal does not make it correct.
 
 需要个人长时间工作或熬夜的职业可能导致疲劳。疲劳会造成注意力下降和意识水平下降，这在进行维修时可能非常危险。
 
-如果工具或设备需要修理或校准，或者缺失，就需要尽快修复、校准或找回。技术文件是另一种可能在航空维修中导致问题的关键资源。当想进一步了解手头的任务，或如何排故和修理某个系统时，往往找不到所需信息，因为手册或图纸不可用。如果信息不可用，人员应询问主管，或与相应飞机制造商的技术代表或技术出版物部门联系。大多数手册都处于不断修订的状态，如果组织不指出手册中缺失的信息，就不会采取任何措施来更正文件。出版物部门和制造商技术支持等资源是可用的，应当加以利用，而不是忽视问题。维修部门应当依靠的另一种宝贵资源是飞行机组。组织应鼓励飞行机组与维修机组之间开放沟通。在应对有缺陷的部件或问题时，飞行机组能够提供宝贵的信息。
+如果工具或设备需要修理或校准，或者缺失，就需要尽快修复、校准或找回。
+
+技术文件是另一种可能在航空维修中导致问题的关键资源。当想进一步了解手头的任务，或如何排故和修理某个系统时，往往找不到所需信息，因为手册或图纸不可用。如果信息不可用，人员应询问主管，或与相应飞机制造商的技术代表或技术出版物部门联系。大多数手册都处于不断修订的状态，如果组织不指出手册中缺失的信息，就不会采取任何措施来更正文件。出版物部门和制造商技术支持等资源是可用的，应当加以利用，而不是忽视问题。
+
+维修部门应当依靠的另一种宝贵资源是飞行机组。组织应鼓励飞行机组与维修机组之间开放沟通。在应对有缺陷的部件或问题时，飞行机组能够提供宝贵的信息。
 
 如果你知道自己已筋疲力尽，就放弃复杂任务。
 
@@ -358,7 +396,13 @@ Be aware that just because it seems normal does not make it correct.
 
 当手头任务有适当的资源可用时，维修做得更好、更高效的可能性要高得多，一次就把工作做对的概率也更高。组织必须学会利用所有可用的资源；如果没有正确的资源，就要做出必要安排及时获取。最终结果是节省时间和金钱，并使组织在完成任务时确信飞机是适航的。
 
-压力 航空维修任务要求个人在持续的压力下工作：把工作做得更好、更快，同时不犯错、不让事情被遗漏。不幸的是，这类工作压力会影响维修人员正确完成工作的能力。航空公司有严格的财务准则和紧凑的航班时刻表，迫使机械师快速发现并修复机械问题，以便航空业继续运转。最重要的是，飞机机械师对把所有以飞行为交通方式的人的整体安全负有责任。组织必须意识到加在飞机机械师身上的时间压力，并帮助他们管理所有需要完成的任务，使所有修理既及时又正确完成，并以安全为最终目标。不应容忍或接受为了时间而牺牲质量和安全。同样，维修技术员需要自己认识到时间压力何时在模糊他们的判断、使他们犯下不必要的错误。自加压力是指一个人把并非由自己造成的情况揽到自己身上。为对抗自加压力，技术员如果感到不堪重负且完成修理的时间受限，就应寻求帮助。另一种方法是让人彻底检查修理，以确保所有维修任务都正确完成。最后，如果交给你的修理有具体的时限，而你觉得这不现实或损害安全，就提请组织管理层注意，并公开讨论不同的行动方案。
+压力 航空维修任务要求个人在持续的压力下工作：把工作做得更好、更快，同时不犯错、不让事情被遗漏。不幸的是，这类工作压力会影响维修人员正确完成工作的能力。航空公司有严格的财务准则和紧凑的航班时刻表，迫使机械师快速发现并修复机械问题，以便航空业继续运转。最重要的是，飞机机械师对把所有以飞行为交通方式的人的整体安全负有责任。
+
+组织必须意识到加在飞机机械师身上的时间压力，并帮助他们管理所有需要完成的任务，使所有修理既及时又正确完成，并以安全为最终目标。不应容忍或接受为了时间而牺牲质量和安全。同样，维修技术员需要自己认识到时间压力何时在模糊他们的判断、使他们犯下不必要的错误。自加压力是指一个人把并非由自己造成的情况揽到自己身上。
+
+为对抗自加压力，技术员如果感到不堪重负且完成修理的时间受限，就应寻求帮助。另一种方法是让人彻底检查修理，以确保所有维修任务都正确完成。
+
+最后，如果交给你的修理有具体的时限，而你觉得这不现实或损害安全，就提请组织管理层注意，并公开讨论不同的行动方案。
 
 果断表达不足 果断表达是以积极、有成效的方式表达自己的感受、意见、信念和需求的能力，不应与咄咄逼人相混淆。维修技术员在与航空修理相关的问题上果断表达很重要，而不是选择不发声或不被允许表达自己的关切和意见。不果断表达最终可能让人付出生命的代价。以下是应对果断表达不足的示例：
 
@@ -386,7 +430,9 @@ Be aware that just because it seems normal does not make it correct.
 
 在与同事或管理层果断表达时，一次处理一个问题，而不是试图一次解决多个问题。重要的是还要有文档和事实来支持你的论点，这可以让人们直观地了解你想说明的内容。当事情似乎不对却未能发声，这种果断表达不足已导致许多致命事故。只要促进良好沟通就能轻易改变……事件发生在何时何地？
 
-应激 航空维修由于许多因素而成为一项充满应激的任务。飞机必须可用并飞行，航空公司才能赚钱，这意味着维修必须在较短时间内完成，以避免航班延误和取消。不断变化的快节奏技术会给技术员增加应激。这要求维修技术员持续接受最新设备的培训。其他应激源包括在黑暗、狭窄的空间中工作，缺少正确完成修理所需的资源，以及长时间工作。航空维修的终极应激是知道他们所做的工作若未正确完成可能导致悲剧。每个人应对应激的方式不同，特定情况对不同的人可能带来不同程度的困难。例如，在严格的时间表下工作对一个人可能是应激源，对另一个人则很正常。应激的原因被称为「应激源」，分为身体性、心理性或生理性。以下是每一类的清单及其如何影响维修。
+应激 航空维修由于许多因素而成为一项充满应激的任务。飞机必须可用并飞行，航空公司才能赚钱，这意味着维修必须在较短时间内完成，以避免航班延误和取消。不断变化的快节奏技术会给技术员增加应激。这要求维修技术员持续接受最新设备的培训。其他应激源包括在黑暗、狭窄的空间中工作，缺少正确完成修理所需的资源，以及长时间工作。航空维修的终极应激是知道他们所做的工作若未正确完成可能导致悲剧。
+
+每个人应对应激的方式不同，特定情况对不同的人可能带来不同程度的困难。例如，在严格的时间表下工作对一个人可能是应激源，对另一个人则很正常。应激的原因被称为「应激源」，分为身体性、心理性或生理性。以下是每一类的清单及其如何影响维修。
 
 #### 身体性应激源
 
@@ -448,7 +494,9 @@ Be aware that just because it seems normal does not make it correct.
 
 人们以许多不同方式应对应激。专家说，第一步是识别应激源以及接触这些应激源后出现的症状。其他建议包括养成或保持健康的生活方式，保证充足的休息和锻炼、健康的饮食、限制酒精饮料的摄入，并避免使用烟草制品。
 
-情景意识不足 情景意识不足被定义为未能认识到某一行动的所有后果，或缺乏先见之明。在航空维修中，重复执行相同的维修任务并不罕见。在多次完成同一任务后，技术员很容易变得不那么警觉，对自己正在做什么以及周围有什么缺乏意识。每次完成任务都必须当作第一次来做。惯例 惯例是「正常」（normal）的简称，即事情通常的做法。惯例是大多数组织遵循或容忍的不成文规则。负面惯例会削弱既定的安全标准，并可能导致事故发生。惯例通常是为了解决没有明确答案的问题而形成的。面对模糊情形时，个人可能以他人的行为作为参照框架，据此形成自己的反应。随着这一过程持续，群体惯例便形成并稳定下来。新加入者随后因遵守惯例而被该群体接纳。新加入者极少会在已有惯例的群体中发起改变。
+情景意识不足 情景意识不足被定义为未能认识到某一行动的所有后果，或缺乏先见之明。在航空维修中，重复执行相同的维修任务并不罕见。在多次完成同一任务后，技术员很容易变得不那么警觉，对自己正在做什么以及周围有什么缺乏意识。每次完成任务都必须当作第一次来做。
+
+惯例 惯例是「正常」（normal）的简称，即事情通常的做法。惯例是大多数组织遵循或容忍的不成文规则。负面惯例会削弱既定的安全标准，并可能导致事故发生。惯例通常是为了解决没有明确答案的问题而形成的。面对模糊情形时，个人可能以他人的行为作为参照框架，据此形成自己的反应。随着这一过程持续，群体惯例便形成并稳定下来。新加入者随后因遵守惯例而被该群体接纳。新加入者极少会在已有惯例的群体中发起改变。
 
 允许同事发表意见，并始终接受纠正性的批评。
 

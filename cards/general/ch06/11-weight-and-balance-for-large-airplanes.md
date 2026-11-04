@@ -8,7 +8,9 @@ Weight and balance for large airplanes is almost identical to what it is for sma
 
 ### Built-In Electronic Weighing
 
-One difference that may be found with large airplanes is the incorporation of electronic load cells in the aircraft’s landing gear. With this type of system, the airplane can weigh itself as it sits on the tarmac. The load cells are built into the axles of the landing gear, or the landing gear strut, and they work in the same manner as load cells used with jacks. This system is currently in use on the Boeing 747-400, Boeing 777, Boeing 787, McDonnell Douglas MD-11, and the wide body Airbus airplanes like the A-330, A-340, and A-380. The Boeing 777 utilizes two independent systems that provide information to the airplane’s flight management system (FMS). If the two systems agree on the weight and CG of the airplane, the data being provided are considered accurate and the airplane can be dispatched based on that information. The flight crew has access to the information on the flight deck by accessing the FMS and bringing up the weight and balance page.
+One difference that may be found with large airplanes is the incorporation of electronic load cells in the aircraft’s landing gear. With this type of system, the airplane can weigh itself as it sits on the tarmac. The load cells are built into the axles of the landing gear, or the landing gear strut, and they work in the same manner as load cells used with jacks. This system is currently in use on the Boeing 747-400, Boeing 777, Boeing 787, McDonnell Douglas MD-11, and the wide body Airbus airplanes like the A-330, A-340, and A-380.
+
+The Boeing 777 utilizes two independent systems that provide information to the airplane’s flight management system (FMS). If the two systems agree on the weight and CG of the airplane, the data being provided are considered accurate and the airplane can be dispatched based on that information. The flight crew has access to the information on the flight deck by accessing the FMS and bringing up the weight and balance page.
 
 ### Mean Aerodynamic Chord
 
@@ -98,7 +100,9 @@ CG in inches = % MAC ÷ 100 × MAC + LEMAC For the airplane shown above, if the 
 
 CG in inches = % MAC ÷ 100 × MAC + LEMAC = 32.5 ÷ 100 × 180 + 900 = 958.5 Weight & Balance Records When a technician gets involved with the weight and balance of an aircraft, it almost always involves a calculation of the aircraft’s empty weight and EWCG. Only on rare occasions are technicians involved in calculating adverse-loading CG checks, how much ballast is needed, or the loaded weight and balance of the aircraft. Calculating the empty weight and EWCG might involve putting the aircraft on scales and weighing it, or a pencil and paper exercise after installing a new piece of equipment.
 
-The FAA requires that a current and accurate empty weight and EWCG be known for an aircraft. This information must be included in the weight and balance report, which is a part of the aircraft permanent records. The weight and balance report must be in the aircraft when it is being flown. There is no required format for this report, but the form below is a good example of recording the data obtained from weighing an aircraft. As it is currently laid out, the form would accommodate either a tricycle gear or tail dragger airplane. Depending on the gear type, either the nose or the tail row would be used. If an airplane is being weighed using jacks and load cells, or if a helicopter is being weighed, the Aircraft Weight and Balance Report Results of Aircraft Weighing Make Model Serial # N# Datum Location Leveling Means Scale Arms: Nose Tail Left Main Right Main Scale Weights: Nose Tail Left Main Right Main Tare Weights: Nose Tail Left Main Right Main Weight and Balance Calculation Aircraft Current Empty Weight:
+The FAA requires that a current and accurate empty weight and EWCG be known for an aircraft. This information must be included in the weight and balance report, which is a part of the aircraft permanent records. The weight and balance report must be in the aircraft when it is being flown.
+
+There is no required format for this report, but the form below is a good example of recording the data obtained from weighing an aircraft. As it is currently laid out, the form would accommodate either a tricycle gear or tail dragger airplane. Depending on the gear type, either the nose or the tail row would be used. If an airplane is being weighed using jacks and load cells, or if a helicopter is being weighed, the Aircraft Weight and Balance Report Results of Aircraft Weighing Make Model Serial # N# Datum Location Leveling Means Scale Arms: Nose Tail Left Main Right Main Scale Weights: Nose Tail Left Main Right Main Tare Weights: Nose Tail Left Main Right Main Weight and Balance Calculation Aircraft Current Empty Weight:
 
 Aircraft Current Empty Weight CG:
 
@@ -122,7 +126,9 @@ If an equipment change is being done on an aircraft, and the new weight and bala
 
 ### 内置电子称重
 
-大型飞机上可能见到的一项差异，是把电子称重传感器（load cell）内置于飞机的起落架上。采用这类系统，飞机停在停机坪上即可自行称重。称重传感器内置于起落架轮轴或起落架支柱中，其工作方式与配千斤顶使用的称重传感器相同。该系统目前用于波音 747-400、波音 777、波音 787、麦克唐纳-道格拉斯 MD-11，以及 A-330、A-340、A-380 等宽体空客飞机。波音 777 采用两套相互独立的系统，向飞机的飞行管理系统（FMS）提供信息。如果两套系统对飞机的重量和重心判断一致，则认为所提供的数据准确，飞机可据此放行。飞行机组可在驾驶舱内进入 FMS，调出重量与平衡页面来获取这些信息。
+大型飞机上可能见到的一项差异，是把电子称重传感器（load cell）内置于飞机的起落架上。采用这类系统，飞机停在停机坪上即可自行称重。称重传感器内置于起落架轮轴或起落架支柱中，其工作方式与配千斤顶使用的称重传感器相同。该系统目前用于波音 747-400、波音 777、波音 787、麦克唐纳-道格拉斯 MD-11，以及 A-330、A-340、A-380 等宽体空客飞机。
+
+波音 777 采用两套相互独立的系统，向飞机的飞行管理系统（FMS）提供信息。如果两套系统对飞机的重量和重心判断一致，则认为所提供的数据准确，飞机可据此放行。飞行机组可在驾驶舱内进入 FMS，调出重量与平衡页面来获取这些信息。
 
 ### 平均空气动力弦
 
@@ -212,7 +218,9 @@ CG（英寸）= %MAC ÷ 100 × MAC + LEMAC　对上面所示的飞机，如果�
 
 以英寸表示的重心 = %MAC ÷ 100 × MAC + LEMAC = 32.5 ÷ 100 × 180 + 900 = 958.5　重量与平衡记录　当技术人员涉及飞机的重量与平衡工作时，几乎总涉及飞机空重和空重重心的计算。只有在少数情况下，技术人员才参与计算不利装载的重心检查、需要多少配重，或飞机的装载重量与平衡。计算空重和空重重心，可能要把飞机放上秤称重，也可能是安装新设备后用纸笔计算。
 
-FAA 要求飞机的空重和空重重心必须是现行且准确的。该信息必须载入重量与平衡报告，而重量与平衡报告是飞机永久记录的一部分。飞机飞行时，机上必须携带重量与平衡报告。该报告没有规定的格式，但下面所示的表格是记录称重所得数据的一个好范例。按目前的版式，该表格既适用于前三点式起落架飞机，也适用于后三点式飞机。根据起落架型式，使用机头行或机尾行。如果用千斤顶和称重传感器给飞机称重，或者给直升机称重，则……飞机重量与平衡报告　飞机称重结果　制造厂　型号　序号　N 号　基准位置　调平方法　秤力臂：机头　机尾　左主　右主　秤读数：机头　机尾　左主　右主　皮重：机头　机尾　左主　右主　重量与平衡计算　飞机当前空重：
+FAA 要求飞机的空重和空重重心必须是现行且准确的。该信息必须载入重量与平衡报告，而重量与平衡报告是飞机永久记录的一部分。飞机飞行时，机上必须携带重量与平衡报告。
+
+该报告没有规定的格式，但下面所示的表格是记录称重所得数据的一个好范例。按目前的版式，该表格既适用于前三点式起落架飞机，也适用于后三点式飞机。根据起落架型式，使用机头行或机尾行。如果用千斤顶和称重传感器给飞机称重，或者给直升机称重，则……飞机重量与平衡报告　飞机称重结果　制造厂　型号　序号　N 号　基准位置　调平方法　秤力臂：机头　机尾　左主　右主　秤读数：机头　机尾　左主　右主　皮重：机头　机尾　左主　右主　重量与平衡计算　飞机当前空重：
 
 飞机当前空重重心：
 

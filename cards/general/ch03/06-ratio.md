@@ -16,7 +16,13 @@ Aspect ratio is the ratio of the length (or span) of an airfoil to its width (or
 
 Air-fuel ratio is the ratio of the weight of the air to the weight of fuel in the mixture being fed into the cylinders of a reciprocating engine. For example, a typical air-fuel ratio might be 14.3:1 (or 14.3 to 1).
 
-Glide ratio is the ratio of the forward distance traveled to the vertical distance descended when an aircraft is operating without power. For example, if an aircraft descends 1,000 feet while it travels through the air for two linear miles (10,560 feet), it has a glide ratio of 10,560:1,000 which can be reduced to 10.56: 1 (or 10.56 to 1). Gear ratio is the number of teeth each gear represents when two gears are used in an aircraft component. The pinion gear has 8 teeth and a spur gear has 28 teeth. The gear ratio is 8:28. Using 7 as the LCD, 8:28 becomes 2:7. Speed ratio is when two gears are used in an aircraft component; the rotational speed of each gear is represented as a speed ratio. As the number of teeth in a gear decreases, the rotational speed of that gear increases, and vice-versa. Therefore, the speed ratio of two gears is the inverse (or opposite) of the gear ratio. If two gears have a gear ratio of 2:9, then their speed ratio is 9:2. Example: A pinion gear with 10 teeth is driving a spur gear with 40 teeth. The spur gear is rotating at 160 rpm. Calculate the speed of the pinion gear.
+Glide ratio is the ratio of the forward distance traveled to the vertical distance descended when an aircraft is operating without power. For example, if an aircraft descends 1,000 feet while it travels through the air for two linear miles (10,560 feet), it has a glide ratio of 10,560:1,000 which can be reduced to 10.56: 1 (or 10.56 to 1).
+
+Gear ratio is the number of teeth each gear represents when two gears are used in an aircraft component. The pinion gear has 8 teeth and a spur gear has 28 teeth. The gear ratio is 8:28. Using 7 as the LCD, 8:28 becomes 2:7.
+
+Speed ratio is when two gears are used in an aircraft component; the rotational speed of each gear is represented as a speed ratio. As the number of teeth in a gear decreases, the rotational speed of that gear increases, and vice-versa. Therefore, the speed ratio of two gears is the inverse (or opposite) of the gear ratio. If two gears have a gear ratio of 2:9, then their speed ratio is 9:2.
+
+Example: A pinion gear with 10 teeth is driving a spur gear with 40 teeth. The spur gear is rotating at 160 rpm. Calculate the speed of the pinion gear.
 
 Teeth in Pinion Gear = Speed of Spur Gear Teeth in Spur Gear Speed of Pinion Gear 10 teeth = 160 rpm 40 teeth SP (speed of pinion gear)
 
@@ -44,7 +50,13 @@ R = 9 5 = ? 1 Since 9 ÷ 5 = 1.8, then 9 5 = 1.8 1 Therefore, 9:5 is the same ra
 
 油气比是送入往复式发动机气缸的混合气中空气重量与燃油重量之比。例如，典型的油气比可能是 14.3:1（或 14.3 比 1）。
 
-滑翔比是飞机在无动力状态下前飞距离与下降垂直距离之比。例如，如果飞机在空气中前飞两个线性英里（10,560 英尺）的同时下降 1,000 英尺，其滑翔比就是 10,560:1,000，可约简为 10.56:1（或 10.56 比 1）。传动比是飞机部件中使用两个齿轮时每个齿轮所代表的齿数。小齿轮有 8 个齿，正齿轮有 28 个齿。传动比是 8:28。以 7 作为 LCD，8:28 变为 2:7。转速比是指飞机部件中使用两个齿轮时，每个齿轮的转速以转速比表示。齿轮的齿数减少时，该齿轮的转速就增加，反之亦然。因此，两个齿轮的转速比是传动比的倒数（或相反值）。如果两个齿轮的传动比为 2:9，那么它们的转速比就是 9:2。例：一个有 10 个齿的小齿轮驱动一个有 40 个齿的正齿轮。正齿轮以 160 rpm 的转速旋转。计算小齿轮的转速。
+滑翔比是飞机在无动力状态下前飞距离与下降垂直距离之比。例如，如果飞机在空气中前飞两个线性英里（10,560 英尺）的同时下降 1,000 英尺，其滑翔比就是 10,560:1,000，可约简为 10.56:1（或 10.56 比 1）。
+
+传动比是飞机部件中使用两个齿轮时每个齿轮所代表的齿数。小齿轮有 8 个齿，正齿轮有 28 个齿。传动比是 8:28。
+
+以 7 作为 LCD，8:28 变为 2:7。转速比是指飞机部件中使用两个齿轮时，每个齿轮的转速以转速比表示。齿轮的齿数减少时，该齿轮的转速就增加，反之亦然。因此，两个齿轮的转速比是传动比的倒数（或相反值）。如果两个齿轮的传动比为 2:9，那么它们的转速比就是 9:2。
+
+例：一个有 10 个齿的小齿轮驱动一个有 40 个齿的正齿轮。正齿轮以 160 rpm 的转速旋转。计算小齿轮的转速。
 
 （原文此处为比例式，抽文中分子与分母被抽平：）小齿轮齿数 ∕ 正齿轮齿数 = 正齿轮转速 ∕ 小齿轮转速 10 齿 = 160 rpm 40 齿 SP（小齿轮的转速）
 

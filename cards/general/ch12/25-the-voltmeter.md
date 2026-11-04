@@ -20,7 +20,9 @@ V oltmeter sensitivity is defined in terms of resistance per volt (Ω/V). The me
 
 The simplified voltmeter in the figure has only one range (1 volt), which means that it can measure voltages from 0 volts to 1 volt. In order for the meter to be more useful, additional multiplier resistors must be used. One resistor must be used for each desired range.
 
-For a 50 μA movement, the total resistance required is 20k Ω for each volt of full-scale reading. In other words, the sensitivity for a 50 μA movement is always 20k Ω regardless of the selected range. The full-scale meter current is 50 μA at any range selection. To find the total meter resistance, multiply the sensitivity by the full-scale voltage for that particular range. For example for a 10 volt range, RT = (20k Ω/V) (10V) = 200k Ω. The total resistance for the 1 volt range is 20k Ω, so RM for a 10 V range is 200k Ω − 20k Ω = 180k Ω.
+For a 50 μA movement, the total resistance required is 20k Ω for each volt of full-scale reading. In other words, the sensitivity for a 50 μA movement is always 20k Ω regardless of the selected range. The full-scale meter current is 50 μA at any range selection. To find the total meter resistance, multiply the sensitivity by the full-scale voltage for that particular range.
+
+For example for a 10 volt range, RT = (20k Ω/V) (10V) = 200k Ω. The total resistance for the 1 volt range is 20k Ω, so RM for a 10 V range is 200k Ω − 20k Ω = 180k Ω.
 
 Closed air chamber Light vane swinging in chamber with small clearance 1mA, 50 ohm movement [+]
 
@@ -52,7 +54,9 @@ RM = 950 mV/50 μA = 19k Ω　因此，对于 1 伏的满刻度偏转，电压�
 
 图中的简化电压表只有一个量程（1 伏），这意味着它只能测量 0 伏到 1 伏的电压。为了使仪表更有用，必须采用附加的倍增电阻。每个所需量程都必须用一个电阻。
 
-对于 50 μA 的表头，满刻度读数每伏所需的总电阻为 20k Ω。换句话说，对于 50 μA 的表头，无论选择哪个量程，灵敏度总是 20k Ω。在任何量程选择下，满刻度表头电流都是 50 μA。要求仪表的总电阻，就把灵敏度乘以该量程的满刻度电压。例如对于 10 伏量程，RT = (20k Ω/V)(10V) = 200k Ω。1 伏量程的总电阻为 20k Ω，所以 10 V 量程的 RM 为 200k Ω − 20k Ω = 180k Ω。
+对于 50 μA 的表头，满刻度读数每伏所需的总电阻为 20k Ω。换句话说，对于 50 μA 的表头，无论选择哪个量程，灵敏度总是 20k Ω。在任何量程选择下，满刻度表头电流都是 50 μA。要求仪表的总电阻，就把灵敏度乘以该量程的满刻度电压。例如对于 10 伏量程，RT = (20k Ω/V)(10V) = 200k Ω。
+
+1 伏量程的总电阻为 20k Ω，所以 10 V 量程的 RM 为 200k Ω − 20k Ω = 180k Ω。
 
 （原文此处为图注碎片，原文无正文）
 

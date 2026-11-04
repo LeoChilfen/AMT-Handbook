@@ -12,7 +12,9 @@ An A&P mechanic who has held their certificate for at least 3 years, and has bee
 
 • Available equipment, facilities, and inspection data necessary to properly inspect the airframe, powerplants, propellers, or any related part or appliance they are approving for return to service.
 
-The applicant who meets all the above criteria must then pass a written test (or computerized version of the test) to determine their ability to inspect the airworthiness of an aircraft following either a major repair or alteration action or the performance of an annual or progressive inspection. The minimum passing score for the computer test is 70 percent. If the applicant fails the test, retesting cannot be attempted until a minimum of 90 days have elapsed from the failure date. Unlike the A&P test, there is no reduction in this time if the applicant receives additional training.
+The applicant who meets all the above criteria must then pass a written test (or computerized version of the test) to determine their ability to inspect the airworthiness of an aircraft following either a major repair or alteration action or the performance of an annual or progressive inspection.
+
+The minimum passing score for the computer test is 70 percent. If the applicant fails the test, retesting cannot be attempted until a minimum of 90 days have elapsed from the failure date. Unlike the A&P test, there is no reduction in this time if the applicant receives additional training.
 
 ### Section 65.92, Inspection Authorization: Duration
 
@@ -66,7 +68,9 @@ The IA must keep their certificate available for inspection by any one of the fo
 
 • 为正确检验其拟批准放行的机体、动力装置、螺旋桨或任何相关零件或附件所必需的可用设备、设施和检验数据。
 
-符合上述全部条件的申请人随后必须通过一次笔试（或该考试的计算机化版本），以测定其在完成大修或改装之后、或在实施年度检查或渐进式检查之后检验航空器适航性的能力。计算机考试的最低及格分数为 70 分。如申请人考试不合格，则自不合格之日起至少满 90 天方可重考。与 A&P 考试不同，即使申请人接受补充培训，这一时限也不缩短。
+符合上述全部条件的申请人随后必须通过一次笔试（或该考试的计算机化版本），以测定其在完成大修或改装之后、或在实施年度检查或渐进式检查之后检验航空器适航性的能力。
+
+计算机考试的最低及格分数为 70 分。如申请人考试不合格，则自不合格之日起至少满 90 天方可重考。与 A&P 考试不同，即使申请人接受补充培训，这一时限也不缩短。
 
 ### 第 65.92 条 检验授权：有效期
 

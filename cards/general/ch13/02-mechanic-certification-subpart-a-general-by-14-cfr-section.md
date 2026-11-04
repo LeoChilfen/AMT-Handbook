@@ -90,7 +90,9 @@ P.O. Box 25082 Oklahoma City, OK 73125
 
 ### Refusal to Submit to a Drug or Alcohol Test
 
-Any technician who refuses to submit to a drug test, which is required by 14 CFR part 120, section 120.15, is subject to denial by the FAA of any application for additional certification or ratings, as well as suspension or revocation of any existing certificate or rating they currently hold. Part 120, section 120.117, Implementing a Drug Testing Program, requires a urine sample from the employee. Part 120, section 120.37, Misuse of Alcohol, requires that the employee submit to a breath test. Each section contains a “Definitions” section and a section titled “Employees who must be tested.” Persons involved with “Aircraft maintenance or preventative maintenance duties” are listed in both sections. There are various types (or rather times) when testing is required:
+Any technician who refuses to submit to a drug test, which is required by 14 CFR part 120, section 120.15, is subject to denial by the FAA of any application for additional certification or ratings, as well as suspension or revocation of any existing certificate or rating they currently hold. Part 120, section 120.117, Implementing a Drug Testing Program, requires a urine sample from the employee. Part 120, section 120.37, Misuse of Alcohol, requires that the employee submit to a breath test. Each section contains a “Definitions” section and a section titled “Employees who must be tested.”
+
+Persons involved with “Aircraft maintenance or preventative maintenance duties” are listed in both sections. There are various types (or rather times) when testing is required:
 
 • Testing based upon reasonable cause
 
@@ -186,7 +188,9 @@ P.O. Box 25082 Oklahoma City, OK 73125
 
 ### 拒绝接受药物或酒精检测
 
-任何拒绝接受 14 CFR 第 120 部第 120.15 条所要求的药物检测的技术人员，FAA 可拒绝其任何附加合格证或等级的申请，并可暂停或吊销其目前持有的任何现有合格证或等级。第 120 部第 120.117 条《实施药物检测方案》要求雇员提供尿样。第 120 部第 120.37 条《酒精滥用》要求雇员接受呼气检测。每一条都包含一个“定义”部分和一个题为“必须接受检测的雇员”的部分。从事“航空器维修或预防性维修职责”的人员在两个部分中都被列出。要求进行检测的情形有多种类型（或者说是多个时点）：
+任何拒绝接受 14 CFR 第 120 部第 120.15 条所要求的药物检测的技术人员，FAA 可拒绝其任何附加合格证或等级的申请，并可暂停或吊销其目前持有的任何现有合格证或等级。第 120 部第 120.117 条《实施药物检测方案》要求雇员提供尿样。第 120 部第 120.37 条《酒精滥用》要求雇员接受呼气检测。每一条都包含一个“定义”部分和一个题为“必须接受检测的雇员”的部分。
+
+从事“航空器维修或预防性维修职责”的人员在两个部分中都被列出。要求进行检测的情形有多种类型（或者说是多个时点）：
 
 • 基于合理理由的检测
 

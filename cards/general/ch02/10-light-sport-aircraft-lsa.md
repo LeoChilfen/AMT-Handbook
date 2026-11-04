@@ -90,7 +90,9 @@ The minimum level of certification necessary to accomplish line maintenance is L
 
 • Repair or alteration of components when specific instructions are provided in the maintenance manual – Patching a hole in the fabric – Installation of a strobe light kit
 
-Heavy maintenance, repairs, and alterations must be accomplished by either a certified mechanic (A or P or A&P) or an LSA repairman—maintenance who has received additional “task specific” training. Some examples of this would be the removal and replacement of complete engine, cylinder, piston and valve assemblies; primary flight controls; and landing gear. Heavy repair of components or structure can be accomplished when instructions are provided in the maintenance manual or other service directed instructions. A few examples of this activity are:
+Heavy maintenance, repairs, and alterations must be accomplished by either a certified mechanic (A or P or A&P) or an LSA repairman—maintenance who has received additional “task specific” training. Some examples of this would be the removal and replacement of complete engine, cylinder, piston and valve assemblies; primary flight controls; and landing gear.
+
+Heavy repair of components or structure can be accomplished when instructions are provided in the maintenance manual or other service directed instructions. A few examples of this activity are:
 
 • Repainting of control surfaces
 
@@ -104,7 +106,13 @@ Overhaul of components can be performed only by the manufacturer (or someone aut
 
 ### Major Repairs & Alterations
 
-Another major difference between LSA maintenance and traditional aircraft maintenance is that FAA Form 337, Major Repair and Alteration, is not required to document major repairs and alterations. Instead, any major repair or alteration that is accomplished after the LSA has gone through production acceptance testing must be evaluated relative to the applicable ASTM requirements. After this evaluation has been accomplished (either by the manufacturer or an entity approved by them), a written affidavit must be provided attesting that the LSA still meets the requirements of the applicable ASTMs. The manufacturer (or other approved entity) must provide written instructions defining the level of certification necessary to perform the maintenance and also include any ground test or flight testing necessary to verify that the LSA complies with the original LSA acceptance test standards, and is in condition for safe operation. Proper documentation of this maintenance activity is required to be entered in the LSA records and is also defined by the manufacturer. Task specific training is not required to be FAA approved. This is solely the responsibility of the manufacturer. Some examples of this are an engine manufacturer’s overhaul school or the EAA Sport Air fabric covering school. Safety directives are issued against an LSA or component and are not issued by the FAA, but rather by the original aircraft manufacturer. Note: If the LSA includes a product that is TC’d by the FAA, the manufacturer is required to issue a safety directive. Typical instructions within a safety directive include:
+Another major difference between LSA maintenance and traditional aircraft maintenance is that FAA Form 337, Major Repair and Alteration, is not required to document major repairs and alterations. Instead, any major repair or alteration that is accomplished after the LSA has gone through production acceptance testing must be evaluated relative to the applicable ASTM requirements. After this evaluation has been accomplished (either by the manufacturer or an entity approved by them), a written affidavit must be provided attesting that the LSA still meets the requirements of the applicable ASTMs.
+
+The manufacturer (or other approved entity) must provide written instructions defining the level of certification necessary to perform the maintenance and also include any ground test or flight testing necessary to verify that the LSA complies with the original LSA acceptance test standards, and is in condition for safe operation. Proper documentation of this maintenance activity is required to be entered in the LSA records and is also defined by the manufacturer.
+
+Task specific training is not required to be FAA approved. This is solely the responsibility of the manufacturer. Some examples of this are an engine manufacturer’s overhaul school or the EAA Sport Air fabric covering school.
+
+Safety directives are issued against an LSA or component and are not issued by the FAA, but rather by the original aircraft manufacturer. Note: If the LSA includes a product that is TC’d by the FAA, the manufacturer is required to issue a safety directive. Typical instructions within a safety directive include:
 
 • List of tools required for the task
 
@@ -208,7 +216,9 @@ ASTM 制定了一份供制造商、监管机构、维修单位、LSA 所有人�
 
 • 在维修手册给出具体说明时修理或改装部件——修补蒙布上的破洞——加装频闪灯组件
 
-深度维修、修理和改装必须由持证机务人员（A 照、P 照或 A&P）或接受过额外「任务专项」培训的 LSA 维修人员（维修类）完成。这方面的例子包括整体发动机、气缸、活塞与气门组件的拆装，一次飞行操纵系统的拆装，以及起落架的拆装。当维修手册或其他服务指导性说明给出说明时，可以进行部件或结构的深度修理。这类活动的几个例子是：
+深度维修、修理和改装必须由持证机务人员（A 照、P 照或 A&P）或接受过额外「任务专项」培训的 LSA 维修人员（维修类）完成。这方面的例子包括整体发动机、气缸、活塞与气门组件的拆装，一次飞行操纵系统的拆装，以及起落架的拆装。
+
+当维修手册或其他服务指导性说明给出说明时，可以进行部件或结构的深度修理。这类活动的几个例子是：
 
 • 操纵面的重新喷漆
 
@@ -222,7 +232,13 @@ ASTM 制定了一份供制造商、监管机构、维修单位、LSA 所有人�
 
 ### 重大修理与改装
 
-LSA 维修与传统航空器维修的另一个重大差别是：重大修理和改装不需要用 FAA Form 337《重大修理与改装》来记录。取而代之的是，LSA 通过生产验收测试后所实施的任何重大修理或改装，都必须对照适用的 ASTM 要求进行评估。评估完成后（由制造商或其批准的实体实施），必须提供书面宣誓声明，证明该 LSA 仍然满足适用 ASTM 的要求。制造商（或其他经批准的实体）必须提供书面说明，规定实施维修所需的证书等级，并包含为验证该 LSA 符合原 LSA 验收测试标准且处于安全运行状态所必需的任何地面试验或飞行试验。此类维修活动必须按规定记入 LSA 记录，具体规定同样由制造商给出。任务专项培训不需要 FAA 批准，这完全是制造商的责任。这方面的例子有发动机制造商的大修学校，或 EAA 运动航空蒙布培训学校。安全指令针对 LSA 或其部件发布，并非由 FAA 发布，而是由原航空器制造商发布。注：如果 LSA 包含 FAA 已颁发 TC 的产品，则制造商必须发布安全指令。安全指令中的典型内容有：
+LSA 维修与传统航空器维修的另一个重大差别是：重大修理和改装不需要用 FAA Form 337《重大修理与改装》来记录。取而代之的是，LSA 通过生产验收测试后所实施的任何重大修理或改装，都必须对照适用的 ASTM 要求进行评估。评估完成后（由制造商或其批准的实体实施），必须提供书面宣誓声明，证明该 LSA 仍然满足适用 ASTM 的要求。
+
+制造商（或其他经批准的实体）必须提供书面说明，规定实施维修所需的证书等级，并包含为验证该 LSA 符合原 LSA 验收测试标准且处于安全运行状态所必需的任何地面试验或飞行试验。此类维修活动必须按规定记入 LSA 记录，具体规定同样由制造商给出。
+
+任务专项培训不需要 FAA 批准，这完全是制造商的责任。这方面的例子有发动机制造商的大修学校，或 EAA 运动航空蒙布培训学校。
+
+安全指令针对 LSA 或其部件发布，并非由 FAA 发布，而是由原航空器制造商发布。注：如果 LSA 包含 FAA 已颁发 TC 的产品，则制造商必须发布安全指令。安全指令中的典型内容有：
 
 • 完成任务所需工具的清单
 

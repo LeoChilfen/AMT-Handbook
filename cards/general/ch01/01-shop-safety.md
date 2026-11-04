@@ -4,7 +4,9 @@
 
 ## 1. 原文
 
-Keeping the shop, hangars, and flight line clean is essential to safety and efficient maintenance. The highest standards of orderly work arrangements and cleanliness must be observed during the maintenance of aircraft. Where continuous work shifts are established, the outgoing shift removes and properly stores personal tools, rollaway boxes, work stands, maintenance stands, hoses, electrical cords, hoists, crates, and boxes that were needed for the work to be accomplished. Signs are posted to indicate dangerous equipment or hazardous conditions. Additionally, there are signs that provide the location of first aid and fire equipment. Safety lanes, pedestrian walkways, and fire lanes are painted around the perimeter inside the hangars. This is a safety measure to prevent accidents and to keep pedestrian traffic out of work areas.
+Keeping the shop, hangars, and flight line clean is essential to safety and efficient maintenance. The highest standards of orderly work arrangements and cleanliness must be observed during the maintenance of aircraft. Where continuous work shifts are established, the outgoing shift removes and properly stores personal tools, rollaway boxes, work stands, maintenance stands, hoses, electrical cords, hoists, crates, and boxes that were needed for the work to be accomplished.
+
+Signs are posted to indicate dangerous equipment or hazardous conditions. Additionally, there are signs that provide the location of first aid and fire equipment. Safety lanes, pedestrian walkways, and fire lanes are painted around the perimeter inside the hangars. This is a safety measure to prevent accidents and to keep pedestrian traffic out of work areas.
 
 Safety is everyone’s business. However, technicians and supervisors must watch for their own safety and for the safety of others working around them. Communication is key to ensuring everyone’s safety. If other personnel are conducting their actions in an unsafe manner, communicate with them, reminding them of their safety and that of others around them.
 
@@ -145,7 +147,9 @@ Welding on an aircraft should be performed outside, if possible. If welding in t
 
 ## 2. 中文翻译
 
-保持车间、机库和停机坪的清洁，对安全和高效维修至关重要。在飞机维修过程中，必须遵守作业安排井然有序、场地清洁卫生的最高标准。在实行连续倒班的场所，交班的班组应将完成该项工作所需的个人工具、带轮工具柜、工作梯、维修台架、软管、电缆、起重设备、板条箱和箱子收走并妥善存放。应设置标牌，标示危险设备或危险状况。此外，还应有标牌标明急救设备和消防设备的位置。机库内四周地面上用油漆划出安全通道、人行通道和消防通道。这是一项防止事故、使人员行走不进入作业区的安全措施。
+保持车间、机库和停机坪的清洁，对安全和高效维修至关重要。在飞机维修过程中，必须遵守作业安排井然有序、场地清洁卫生的最高标准。在实行连续倒班的场所，交班的班组应将完成该项工作所需的个人工具、带轮工具柜、工作梯、维修台架、软管、电缆、起重设备、板条箱和箱子收走并妥善存放。
+
+应设置标牌，标示危险设备或危险状况。此外，还应有标牌标明急救设备和消防设备的位置。机库内四周地面上用油漆划出安全通道、人行通道和消防通道。这是一项防止事故、使人员行走不进入作业区的安全措施。
 
 安全是每个人的事。然而，技术人员和主管都必须关注自身的安全，也要关注在其周围工作的其他人的安全。沟通是保障所有人安全的关键。如果其他人员作业方式不安全，要同他们沟通，提醒他们注意自身以及周围人员的安全。
 

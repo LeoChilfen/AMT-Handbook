@@ -156,7 +156,9 @@ Reamers are used to smooth and enlarge holes to exact size. Hand reamers have sq
 
 A hole that is to be reamed to exact size must be drilled about 0.003 to 0.007 inch undersize. A cut that removes more than 0.007 inch places too much load on the reamer and should not be attempted.
 
-Reamers are made of either carbon tool steel or high-speed steel. The cutting blades of a high-speed steel reamer lose their original keenness sooner than those of a carbon steel reamer; however, after the first super keenness is gone, they are still serviceable. The high-speed reamer usually lasts much longer than the carbon steel type. Reamer blades are hardened to the point of being brittle and must be handled carefully to avoid chipping them. When reaming a hole, rotate the reamer in the cutting direction only. Do not back a reamer out of a hole by rotating it opposite the cutting direction. Turn the reamer steadily and evenly to prevent chattering, or marking and scoring of the hole walls.
+Reamers are made of either carbon tool steel or high-speed steel. The cutting blades of a high-speed steel reamer lose their original keenness sooner than those of a carbon steel reamer; however, after the first super keenness is gone, they are still serviceable. The high-speed reamer usually lasts much longer than the carbon steel type.
+
+Reamer blades are hardened to the point of being brittle and must be handled carefully to avoid chipping them. When reaming a hole, rotate the reamer in the cutting direction only. Do not back a reamer out of a hole by rotating it opposite the cutting direction. Turn the reamer steadily and evenly to prevent chattering, or marking and scoring of the hole walls.
 
 Lip angle (normally 59°)
 
@@ -332,7 +334,9 @@ Warding 锉 截面为矩形，宽度方向逐渐收窄成尖。这种锉刀用�
 
 要铰到精确尺寸的孔，钻孔时应比公称尺寸小约 0.003 至 0.007 英寸。一次切除超过 0.007 英寸会使铰刀负荷过大，不应尝试。
 
-铰刀由碳素工具钢或高速钢制成。高速钢铰刀的刀刃比碳钢铰刀更早失去原有的锋利；不过在最初的极度锋利消失之后，它们仍然可用。高速钢铰刀通常比碳钢铰刀耐用得多。铰刀刀片淬硬到发脆的程度，必须小心拿放，以免崩刃。铰孔时只沿切削方向转动铰刀。不要朝切削相反方向转动铰刀把它从孔中退出。要平稳均匀地转动铰刀，以防颤振，或防止在孔壁上留下痕迹和划伤。
+铰刀由碳素工具钢或高速钢制成。高速钢铰刀的刀刃比碳钢铰刀更早失去原有的锋利；不过在最初的极度锋利消失之后，它们仍然可用。高速钢铰刀通常比碳钢铰刀耐用得多。
+
+铰刀刀片淬硬到发脆的程度，必须小心拿放，以免崩刃。铰孔时只沿切削方向转动铰刀。不要朝切削相反方向转动铰刀把它从孔中退出。要平稳均匀地转动铰刀，以防颤振，或防止在孔壁上留下痕迹和划伤。
 
 （原文此处为图注碎片，原文无正文）
 

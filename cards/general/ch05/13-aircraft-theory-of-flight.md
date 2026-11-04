@@ -28,7 +28,9 @@ A converging shape is one whose cross-sectional area gets progressively smaller 
 
 In a diverging duct, just the opposite would happen. From the entry point to the exit point, the duct is spreading out and the area is getting larger. With the increase in cross-sectional area, the velocity of the air decreases and the static pressure increases. The total energy in the air has not changed. What has been lost in velocity, which is kinetic energy, is gained in static pressure, which is potential energy.
 
-In the discussion of Bernoulli’s principle earlier in this chapter, a venturi was shown. Consider a venturi again, only this time a wing is tucked up into the recess where the venturi’s converging shape is. In the converging part of the venturi, velocity would increase and static pressure would decrease. The same thing would happen to the air flowing around the wing, with the velocity over the top increasing and static pressure decreasing.
+In the discussion of Bernoulli’s principle earlier in this chapter, a venturi was shown. Consider a venturi again, only this time a wing is tucked up into the recess where the venturi’s converging shape is.
+
+In the converging part of the venturi, velocity would increase and static pressure would decrease. The same thing would happen to the air flowing around the wing, with the velocity over the top increasing and static pressure decreasing.
 
 The air reaching the leading edge of the wing separates into two separate flows. Some of the air goes over the top of the wing and some travels along the bottom. The air going over the top, because of the curvature, has farther to travel. With a greater distance to travel, the air going over the top must move at a greater velocity. The higher velocity on the top causes the static pressure on the top to be less than it is on the bottom, and this difference in static pressures is what creates lift.
 
@@ -60,7 +62,9 @@ Therefore, the relative wind is parallel to the flightpath, and travels in the o
 
 #### Angle of Attack
 
-The angle between the chord line and the relative wind is the angle of attack. As the angle of attack increases, the lift on the wing increases. If the angle of attack becomes too great, the airflow can separate from the wing and the liftwill be destroyed. When this occurs, a condition known as a stall takes place. There are a number of different shapes, known as planforms that a wing can have. A wing in the shape of a rectangle is very common on small general aviation airplanes. An elliptical shape or tapered wing can also be used, but these do not have as desirable a stall characteristic. For airplanes that operate at high subsonic speeds, sweptback wings are common, and for supersonic flight, a delta shape might be used.
+The angle between the chord line and the relative wind is the angle of attack. As the angle of attack increases, the lift on the wing increases. If the angle of attack becomes too great, the airflow can separate from the wing and the liftwill be destroyed. When this occurs, a condition known as a stall takes place.
+
+There are a number of different shapes, known as planforms that a wing can have. A wing in the shape of a rectangle is very common on small general aviation airplanes. An elliptical shape or tapered wing can also be used, but these do not have as desirable a stall characteristic. For airplanes that operate at high subsonic speeds, sweptback wings are common, and for supersonic flight, a delta shape might be used.
 
 The aspect ratio of a wing is the relationship between its span, or a wingtip to wingtip measurement, and the chord of the wing. If a wing has a long span and a very narrow chord, it is said to have a high aspect ratio. A higher aspect ratio produces less drag for a given flight speed, and is typically found on glider type aircraft.
 
@@ -78,7 +82,9 @@ One way of keeping the boundary layer air under control, or lessening its negati
 
 Other methods of controlling boundary layer air include wing leading edge slots, air suction through small holes on the wing’s upper surface, and the use of devices called vortex generators.
 
-A wing leading edge slot is a duct that allows air to flow from the bottom of the wing, through the duct, to the top of the wing. As the air flows to the top of the wing, it is directed along the wing’s surface at a high velocity and helps keep the boundary layer from becoming turbulent and separating from the wing’s surface. Another way of controlling boundary layer air is to create suction on the top of the wing through a large number of small holes. The suction on the top of the wing draws away the slow-moving turbulent air, and helps keep the remainder of the airflow in contact with the wing.
+A wing leading edge slot is a duct that allows air to flow from the bottom of the wing, through the duct, to the top of the wing. As the air flows to the top of the wing, it is directed along the wing’s surface at a high velocity and helps keep the boundary layer from becoming turbulent and separating from the wing’s surface.
+
+Another way of controlling boundary layer air is to create suction on the top of the wing through a large number of small holes. The suction on the top of the wing draws away the slow-moving turbulent air, and helps keep the remainder of the airflow in contact with the wing.
 
 V ortex generators are used on airplanes that fly at high subsonic speed, where the velocity of the air on the top of the wing can reach Mach 1. As the air reaches Mach 1 velocity, a shock wave forms on the top of the wing, and the subsequent shock wave causes the air to separate from the wing’s upper surface. V ortex generators are short airfoils, arranged in pairs, located on the wing’s upper surface. They are positioned such that they pull high-energy air down into the boundary layer region and prevent airflow separation.
 
@@ -140,9 +146,13 @@ The purpose of flight controls is to allow the pilot to maneuver the airplane, a
 
 The lateral axis of an airplane is a line that runs below the wing, from wingtip to wingtip, passing through the airplane’s center of gravity. Movement around this axis is called pitch, and control around this axis is called longitudinal control. The flight control that handles this job is the elevator attached to the horizontal stabilizer, a fully moving horizontal stabilizer, or on a v-tail configured airplane, it is called ruddervators. A Cessna 182 has an elevator. A Piper Cherokee Cruiser PA-28-140 has a fully moving horizontal stabilizer, known as a stabilator, and a Beechcraft Bonanza has a ruddervator.
 
-Depending on the airplane being discussed, movement around the lateral axis happens as a result of the pilot moving control wheel or yoke, the control stick, or on some airplanes, a side stick. These airplanes use a control wheel or yoke. On the Cessna 182, pulling back on the control wheel causes the trailing edge of the elevator to deflect upward, causing an increased downward force that raises the nose of the airplane. Movement of the elevator causes the nose of the airplane to pitch up or pitch down by rotating around the lateral axis.
+Depending on the airplane being discussed, movement around the lateral axis happens as a result of the pilot moving control wheel or yoke, the control stick, or on some airplanes, a side stick. These airplanes use a control wheel or yoke.
 
-On the Piper Cherokee Cruiser PA-28-140, pulling back on the control wheel causes the entire horizontal surface, or stabilator, to move, with the trailing edge deflecting upward. The anti-servo tab seen on the Cherokee provides a control feel similar to what would be experienced by moving an elevator. Without this tab, the stabilator might be too easy to move and a pilot could overcontrol the airplane. The ruddervators on the Beechcraft Bonanza are also moved by the control wheel, with their trailing edges deflecting upward when the control wheel is pulled back. As the name implies, these surfaces also act as the rudder for this airplane.
+On the Cessna 182, pulling back on the control wheel causes the trailing edge of the elevator to deflect upward, causing an increased downward force that raises the nose of the airplane. Movement of the elevator causes the nose of the airplane to pitch up or pitch down by rotating around the lateral axis.
+
+On the Piper Cherokee Cruiser PA-28-140, pulling back on the control wheel causes the entire horizontal surface, or stabilator, to move, with the trailing edge deflecting upward. The anti-servo tab seen on the Cherokee provides a control feel similar to what would be experienced by moving an elevator. Without this tab, the stabilator might be too easy to move and a pilot could overcontrol the airplane.
+
+The ruddervators on the Beechcraft Bonanza are also moved by the control wheel, with their trailing edges deflecting upward when the control wheel is pulled back. As the name implies, these surfaces also act as the rudder for this airplane.
 
 #### Flight Controls and the Longitudinal Axis
 
@@ -152,7 +162,9 @@ The ailerons move as a result of the pilot rotating the control wheel to the lef
 
 #### Flight Controls and the Vertical Axis
 
-The vertical axis of an airplane runs from top to bottom through the middle of the airplane, passing through the center of gravity. Movement around this axis is known as yaw, and control around this axis is called directional control. Movement around this axis is controlled by the rudder, or in the case of the Beechcraft Bonanza, by the ruddervators. The feet of the pilot are on the rudder pedals, and pushing on the left or right rudder pedal makes the rudder move left or right. The trailing edge of the rudder moves to the right, and the nose of the airplane yaws to the right, when the right rudder pedal is pushed.
+The vertical axis of an airplane runs from top to bottom through the middle of the airplane, passing through the center of gravity. Movement around this axis is known as yaw, and control around this axis is called directional control. Movement around this axis is controlled by the rudder, or in the case of the Beechcraft Bonanza, by the ruddervators.
+
+The feet of the pilot are on the rudder pedals, and pushing on the left or right rudder pedal makes the rudder move left or right. The trailing edge of the rudder moves to the right, and the nose of the airplane yaws to the right, when the right rudder pedal is pushed.
 
 Even though the rudder of the airplane will make the nose yaw to the left or the right, the rudder is not what turns the airplane. For what is called a coordinated turn to occur, both the ailerons and rudder come into play. Let’s say we want to turn the airplane to the right. We start by turning the control wheel to the right, which raises the right aileron and lowers the left aileron and initiates the banking turn. The increased lift on the left wing also increases the induced drag on the left wing, which tries to make the nose of the airplane yaw to the left. To counteract this, when the control wheel is moved to the right, a small amount of right rudder is used to keep the nose of the airplane from yawing to the left. Once the nose of the airplane is pointing in the right direction, pressure on the rudder is no longer needed.
 
@@ -162,7 +174,9 @@ A very common flight control to find fitted with a trim tab is the elevator. In 
 
 Anti-servo Tab Some airplanes, like a Piper Cherokee Arrow, do not have a fixed horizontal stabilizer and movable elevator. The Cherokee uses a moving horizontal surface known as a stabilator. Because of the location of the pivot point for this movable surface, it has a tendency to be extremely sensitive to pilot input. To reduce the sensitivity, a full length anti-servo tab is installed on the trailing edge of the stabilator. As the trailing edge of the stabilator moves down, the anti-servo tab moves down and creates a force trying to raise the trailing edge. With this force acting against the movement of the stabilator, it reduces the sensitivity to pilot input. A Piper Cherokee Arrow has an anti-servo tab on the stabilator.
 
-Balance Tab On some airplanes, the force needed to move the flight controls can be excessive. In these cases, a balance tab can be used to generate a force that assists in the movement of the flight control. Just the opposite of anti-servo tabs, balance tabs move in the opposite direction of the flight control’s trailing edge, providing a force that helps the flight control move. Servo Tab On large airplanes, because the force needed to move the flight controls is beyond the capability of the pilot, hydraulic actuators are used to provide the necessary force. In the event of a hydraulic system malfunction or failure, some of these airplanes have servo tabs on the trailing edge of the primary flight controls. When the control wheel is pulled back in an attempt to move the elevator, the servo tab moves and creates enough aerodynamic force to move the elevator. The servo tab is acting like a balance tab, but rather than assisting the normal force that moves the elevator, it becomes the sole force that makes the elevator move. Like the balance tab, the servo tab moves in the opposite direction of the flight control’s trailing edge. The Boeing 727 has servo tabs that back up the hydraulic system in the event of a failure. During normal flight, the servo tabs act like balance tabs.
+Balance Tab On some airplanes, the force needed to move the flight controls can be excessive. In these cases, a balance tab can be used to generate a force that assists in the movement of the flight control. Just the opposite of anti-servo tabs, balance tabs move in the opposite direction of the flight control’s trailing edge, providing a force that helps the flight control move.
+
+Servo Tab On large airplanes, because the force needed to move the flight controls is beyond the capability of the pilot, hydraulic actuators are used to provide the necessary force. In the event of a hydraulic system malfunction or failure, some of these airplanes have servo tabs on the trailing edge of the primary flight controls. When the control wheel is pulled back in an attempt to move the elevator, the servo tab moves and creates enough aerodynamic force to move the elevator. The servo tab is acting like a balance tab, but rather than assisting the normal force that moves the elevator, it becomes the sole force that makes the elevator move. Like the balance tab, the servo tab moves in the opposite direction of the flight control’s trailing edge. The Boeing 727 has servo tabs that back up the hydraulic system in the event of a failure. During normal flight, the servo tabs act like balance tabs.
 
 #### Supplemental Lift-Modifying Devices
 
@@ -206,7 +220,11 @@ Sound, in reference to airplanes and their movement through the air, is nothing 
 
 #### Subsonic, Transonic, and Supersonic Flight
 
-When an airplane is flying at subsonic speed, all of the air flowing around the airplane is at a velocity of less than the speed of sound, which is known as Mach 1. Keep in mind that the air accelerates when it flows over certain parts of the airplane, like the top of the wing, so an airplane flying at 500 mph could have air over the top of the wing reach a speed of 600 mph. How fast an airplane can fly and still be considered in subsonic flight varies with the design of the wing, but as a Mach number, it will typically be just over Mach 0.8. When an airplane is flying at transonic speed, part of the airplane is experiencing subsonic airflow and part is experiencing supersonic airflow. Over the top of the wing, probably about halfway back, the velocity of the air will reach Mach 1 and a shock wave will form. The shock wave forms 90 degrees to the airflow and is known as a normal shock wave. Stability problems can be encountered during transonic flight, because the shock wave can cause the airflow to separate from the wing. The shock wave also causes the center of lift to shift aft, causing the nose to pitch down. The speed at which the shock wave forms is known as the critical Mach number. Transonic speed is typically between Mach 0.80 and 1.20.
+When an airplane is flying at subsonic speed, all of the air flowing around the airplane is at a velocity of less than the speed of sound, which is known as Mach 1. Keep in mind that the air accelerates when it flows over certain parts of the airplane, like the top of the wing, so an airplane flying at 500 mph could have air over the top of the wing reach a speed of 600 mph. How fast an airplane can fly and still be considered in subsonic flight varies with the design of the wing, but as a Mach number, it will typically be just over Mach 0.8.
+
+When an airplane is flying at transonic speed, part of the airplane is experiencing subsonic airflow and part is experiencing supersonic airflow. Over the top of the wing, probably about halfway back, the velocity of the air will reach Mach 1 and a shock wave will form. The shock wave forms 90 degrees to the airflow and is known as a normal shock wave. Stability problems can be encountered during transonic flight, because the shock wave can cause the airflow to separate from the wing. The shock wave also causes the center of lift to shift aft, causing the nose to pitch down.
+
+The speed at which the shock wave forms is known as the critical Mach number. Transonic speed is typically between Mach 0.80 and 1.20.
 
 When an airplane is flying at supersonic speed, the entire airplane is experiencing supersonic airflow. At this speed, the shock wave which formed on top of the wing during transonic flight has moved all the way aft and has attached itself to the wing trailing edge. Supersonic speed is from Mach 1.20 to 5.0. If an airplane flies faster than Mach 5, it is said to be in hypersonic flight.
 
@@ -222,7 +240,9 @@ Expansion Wave Earlier in the discussion of high-speed aerodynamics, it was stat
 
 #### High-Speed Airfoils
 
-Transonic flight is the most difficult flight regime for an airplane, because part of the wing is experiencing subsonic airflow and part is experiencing supersonic airflow. For a subsonic airfoil, the aerodynamic center, or the point of support, is approximately 25 percent of the way back from the wing leading edge. In supersonic flight, the aerodynamic center moves back to 50 percent of the wing’s chord, causing some significant changes in the airplane’s control and stability. If an airplane designed to fly subsonic, perhaps at a Mach number of 0.80, flies too fast and enters transonic flight, some noticeable changes will take place with respect to the airflow over the wing. The six stages, with the Mach number getting higher at each stage, are as follows:
+Transonic flight is the most difficult flight regime for an airplane, because part of the wing is experiencing subsonic airflow and part is experiencing supersonic airflow. For a subsonic airfoil, the aerodynamic center, or the point of support, is approximately 25 percent of the way back from the wing leading edge. In supersonic flight, the aerodynamic center moves back to 50 percent of the wing’s chord, causing some significant changes in the airplane’s control and stability.
+
+If an airplane designed to fly subsonic, perhaps at a Mach number of 0.80, flies too fast and enters transonic flight, some noticeable changes will take place with respect to the airflow over the wing. The six stages, with the Mach number getting higher at each stage, are as follows:
 
 A. The Mach number is fairly low, and the entire wing is experiencing subsonic airflow.
 
@@ -294,7 +314,9 @@ Some helicopters use a horizontal stabilizer, similar to what is seen on an airp
 
 #### Helicopters in Flight
 
-Hovering For a helicopter, hovering means that it is in flight at a constant altitude, with no forward, aft, or sideways movement. In order to hover, a helicopter must be producing enough lift in its main rotor blades to equal the weight of the aircraft. The engine of the helicopter must be producing enough power to drive the main rotor, and also to drive whatever type of anti-torque system is being used. The ability of a helicopter to hover is affected by many things, including whether or not it is in ground effect, the density altitude of the air, the available power from the engine, and how heavily loaded it is. For a helicopter to experience ground effect, it typically needs to be no higher off the ground than one half of its main rotor system diameter. If a helicopter has a main rotor diameter of 40 ft., it will be in ground effect up to an altitude of approximately 20 ft. Being close to the ground affects the velocity of the air through the rotor blades, causing the effective angle of attack of the blades to increase and the lift to increase. So, if a helicopter is in ground effect, it can hover at a higher gross weight than it can when out of ground effect. On a windy day, the positive influence of ground effect is lessened, and at a forward speed of 5 to 10 mph the positive influence becomes less. An Air Force CH-53 in a hover has all the rotor blades flapping up as a result of creating equal lift.
+Hovering For a helicopter, hovering means that it is in flight at a constant altitude, with no forward, aft, or sideways movement. In order to hover, a helicopter must be producing enough lift in its main rotor blades to equal the weight of the aircraft. The engine of the helicopter must be producing enough power to drive the main rotor, and also to drive whatever type of anti-torque system is being used. The ability of a helicopter to hover is affected by many things, including whether or not it is in ground effect, the density altitude of the air, the available power from the engine, and how heavily loaded it is.
+
+For a helicopter to experience ground effect, it typically needs to be no higher off the ground than one half of its main rotor system diameter. If a helicopter has a main rotor diameter of 40 ft., it will be in ground effect up to an altitude of approximately 20 ft. Being close to the ground affects the velocity of the air through the rotor blades, causing the effective angle of attack of the blades to increase and the lift to increase. So, if a helicopter is in ground effect, it can hover at a higher gross weight than it can when out of ground effect. On a windy day, the positive influence of ground effect is lessened, and at a forward speed of 5 to 10 mph the positive influence becomes less. An Air Force CH-53 in a hover has all the rotor blades flapping up as a result of creating equal lift.
 
 Forward Flight In the early days of helicopter development, the ability to hover was mastered before there was success in attaining forward flight. The early attempts at forward flight resulted in the helicopter rolling over when it tried to depart from the hover and move in any direction. The cause of the rollover is what we now refer to as dissymmetry of lift.
 
@@ -328,7 +350,9 @@ Unlike a traditional airplane, the trike does not have a rudder, elevator, or ai
 
 In order to fly the trike, engine power is applied to get the aircraft moving. As the groundspeed of the aircraft reaches a point where flight is possible, the pilot pushes forward on the control bar, which causes the wing to pivot where it attaches to the mast and the leading edge of the wing tilts up. When the leading edge of the wing tilts up, the angle of attack and the lift of the wing increase. With sufficient lift, the trike rotates and starts climbing. Pulling back on the bar reduces the angle of attack, and allows the aircraft to stop climbing and to fly straight and level. Once the trike is in level flight, airspeed can be increased or decreased by adding engine power or taking away engine power by use of the throttle.
 
-Stability in flight along the longitudinal axis, which is a nose to tail measurement, for a typical airplane, is achieved by having the horizontal stabilizer and elevator generate a force that balances out the airplane’s nose heavy tendency. It must create stability along the longitudinal axis in a different way because the trike does not have a horizontal stabilizer or elevator. The trike has a sweptback delta wing, with the trailing edge of the wingtips located well aft of the aircraft center of gravity. Pressure acting on the tips of the delta wing creates the force that balances out the nose heavy tendency. The wings of weight-shift control aircraft are designed in a way that allows them to change their shape when subjected to an external force. This is possible because the frame leading edges and the sail are flexible, which is why they are sometimes referred to as flexible wing aircraft. This produces somewhat different aerodynamic effects when compared with a normal fixed-wing aircraft. A traditional small airplane, like a Cessna 172, turns or banks by using the ailerons, effectively altering the camber of the wing and thereby generating differential lift. By comparison, weight shift on a trike actually causes the wing to twist, which changes the angle of attack on the wing and causes the differential lift to exist that banks the trike. The cross-bar, or wing spreader, of the wing frame is allowed to float slightly with respect to the keel, and this, along with some other geometric considerations allows the sail to “billow shift.” Billow shift can be demonstrated on the ground by grabbing the trailing edge of one end of the wing and lifting up on it. If this was done, the fabric on the other end of the wing would become slightly flatter and tighter, and the wing’s angle of attack would increase.
+Stability in flight along the longitudinal axis, which is a nose to tail measurement, for a typical airplane, is achieved by having the horizontal stabilizer and elevator generate a force that balances out the airplane’s nose heavy tendency.
+
+It must create stability along the longitudinal axis in a different way because the trike does not have a horizontal stabilizer or elevator. The trike has a sweptback delta wing, with the trailing edge of the wingtips located well aft of the aircraft center of gravity. Pressure acting on the tips of the delta wing creates the force that balances out the nose heavy tendency. The wings of weight-shift control aircraft are designed in a way that allows them to change their shape when subjected to an external force. This is possible because the frame leading edges and the sail are flexible, which is why they are sometimes referred to as flexible wing aircraft. This produces somewhat different aerodynamic effects when compared with a normal fixed-wing aircraft. A traditional small airplane, like a Cessna 172, turns or banks by using the ailerons, effectively altering the camber of the wing and thereby generating differential lift. By comparison, weight shift on a trike actually causes the wing to twist, which changes the angle of attack on the wing and causes the differential lift to exist that banks the trike. The cross-bar, or wing spreader, of the wing frame is allowed to float slightly with respect to the keel, and this, along with some other geometric considerations allows the sail to “billow shift.” Billow shift can be demonstrated on the ground by grabbing the trailing edge of one end of the wing and lifting up on it. If this was done, the fabric on the other end of the wing would become slightly flatter and tighter, and the wing’s angle of attack would increase.
 
 If the pilot pushes the bar to the right, the wing pivots with the left wingtip dropping down and the right wingtip rising up, causing the aircraft to bank to the left. This motion is the same for a hang glider. The shift in weight to the left increases the wing loading on the left, and lessens it on the right. The increased loading on the left wing increases its washout and reduces its angle of attack and lift. The increased load on the left wing causes the left wing to billow, which causes the fabric to tighten on the right wing and the angle of attack and lift to increase. The change in lift is what banks the aircraft to the left.
 
@@ -336,7 +360,9 @@ Shifting weight to the right causes the aircraft to bank right. The weight of th
 
 Once the trike is in flight and flying straight and level, the pilot only needs to keep light pressure on the bar that controls the wing. If the trike is properly balanced and there is no air turbulence, the aircraft will remain stable even if the pilot’s hands are removed from the bar. The same as with any airplane, increasing engine power will make the aircraft climb and decreasing power will make it descend. The throttle is typically controlled with a foot pedal, like a gas pedal in an automobile.
 
-A trike lands in a manner very similar to an airplane. When it is time to land, the pilot reduces engine power with the foot-operated throttle; causing airspeed and wing lift to decrease. As the trike descends, the rate of descent can be controlled by pushing forward or pulling back on the bar, and varying engine power. When the trike is almost to the point of touchdown, the engine power will be reduced and the angle of attack of the wing will be increased, to cushion the descent and provide a smooth landing. If the aircraft is trying to land in a very strong crosswind, the landing may not be so smooth. When landing in a cross wind, the pilot will land in a crab to maintain direction down the runway. Touchdown is done with the back wheels first, then letting the front wheel down. A trike getting ready to touch down can be seen, and the support mast and the cables on top of the wing, including the luff lines, can also be seen.
+A trike lands in a manner very similar to an airplane. When it is time to land, the pilot reduces engine power with the foot-operated throttle; causing airspeed and wing lift to decrease. As the trike descends, the rate of descent can be controlled by pushing forward or pulling back on the bar, and varying engine power. When the trike is almost to the point of touchdown, the engine power will be reduced and the angle of attack of the wing will be increased, to cushion the descent and provide a smooth landing. If the aircraft is trying to land in a very strong crosswind, the landing may not be so smooth. When landing in a cross wind, the pilot will land in a crab to maintain direction down the runway. Touchdown is done with the back wheels first, then letting the front wheel down.
+
+A trike getting ready to touch down can be seen, and the support mast and the cables on top of the wing, including the luff lines, can also be seen.
 
 ### Powered Parachute Aerodynamics
 
@@ -378,7 +404,9 @@ To land a powered parachute, the first action the pilot takes is to reduce engin
 
 在扩张管道中，情况正好相反。从入口到出口，管道逐渐张开，面积变大。随着截面积增大，空气速度降低，静压升高。空气中的总能量并未改变。速度上失去的东西（即动能），在静压上（即势能）得到了补偿。
 
-在本章前面讨论伯努利原理时，曾出现过一个文丘里管。这里再次展示文丘里管，只是这一次在文丘里管收敛形状的凹处嵌入了一只机翼。在文丘里管的收敛部分，速度会增大，静压会降低。环绕机翼流动的空气也会发生同样的情况：翼上表面的速度增大，静压降低。
+在本章前面讨论伯努利原理时，曾出现过一个文丘里管。这里再次展示文丘里管，只是这一次在文丘里管收敛形状的凹处嵌入了一只机翼。
+
+在文丘里管的收敛部分，速度会增大，静压会降低。环绕机翼流动的空气也会发生同样的情况：翼上表面的速度增大，静压降低。
 
 到达机翼前缘的空气分成两股独立的气流。一部分流过机翼上表面，一部分沿下表面流过。由于翼型的弯度，流经上表面的空气要走更长的距离。距离更长，上表面的空气就必须以更大的速度运动。上表面速度较高，使其静压低于下表面，而正是这一静压差产生了升力。
 
@@ -410,7 +438,9 @@ To land a powered parachute, the first action the pilot takes is to reduce engin
 
 #### 迎角
 
-弦线与相对风之间的夹角就是迎角。迎角增大时，机翼上的升力增大。如果迎角过大，气流会从机翼上分离，升力就会被破坏。发生这种情况时，就出现所谓失速的状态。机翼可以有多种不同的平面形状。矩形机翼在小型通用航空飞机上很常见。椭圆形或锥形机翼也可以使用，但它们的失速特性不那么理想。对于在高亚音速下运行的飞机，后掠翼很常见；对于超音速飞行，则可能采用三角翼。
+弦线与相对风之间的夹角就是迎角。迎角增大时，机翼上的升力增大。如果迎角过大，气流会从机翼上分离，升力就会被破坏。发生这种情况时，就出现所谓失速的状态。
+
+机翼可以有多种不同的平面形状。矩形机翼在小型通用航空飞机上很常见。椭圆形或锥形机翼也可以使用，但它们的失速特性不那么理想。对于在高亚音速下运行的飞机，后掠翼很常见；对于超音速飞行，则可能采用三角翼。
 
 机翼的展弦比，是指其翼展（即翼尖到翼尖的距离）与弦长之间的关系。如果机翼展长而弦很短，就称为大展弦比。在给定飞行速度下，展弦比越大，阻力越小，这种机翼通常见于滑翔机类航空器。
 
@@ -428,7 +458,9 @@ To land a powered parachute, the first action the pilot takes is to reduce engin
 
 控制边界层气流的方法还有：机翼前缘缝口、通过机翼上表面小孔吸气，以及使用称为涡流发生器的装置。
 
-机翼前缘缝口是一条管道，允许空气从机翼下表面经管道流到上表面。空气流到上表面时，以高速沿机翼表面导出，有助于防止边界层变成湍流并从机翼表面分离。控制边界层气流的另一种办法，是通过大量小孔在机翼上表面造成吸力。上表面的吸力把移动缓慢的湍流空气吸走，有助于使其余气流保持与机翼接触。
+机翼前缘缝口是一条管道，允许空气从机翼下表面经管道流到上表面。空气流到上表面时，以高速沿机翼表面导出，有助于防止边界层变成湍流并从机翼表面分离。
+
+控制边界层气流的另一种办法，是通过大量小孔在机翼上表面造成吸力。上表面的吸力把移动缓慢的湍流空气吸走，有助于使其余气流保持与机翼接触。
 
 涡流发生器用于高亚音速飞行的飞机，这类飞机机翼上表面的气流速度可达到马赫 1。当气流达到马赫 1 的速度时，机翼上表面形成一道激波，随后激波使气流从机翼上表面分离。涡流发生器是成对布置在机翼上表面的短小翼型。它们的位置安排得能把高能空气引入边界层区域，防止气流分离。
 
@@ -490,9 +522,13 @@ To land a powered parachute, the first action the pilot takes is to reduce engin
 
 飞机的横轴是一条从翼下穿过、从翼尖到翼尖、并经过飞机重心的直线。绕此轴的运动称为俯仰，绕此轴的操纵称为纵向操纵。承担这一任务的操纵面，是装在水平安定面上的升降舵、可全动水平安定面，或在 V 尾布局飞机上称为升降方向舵的舵面。一架 Cessna 182 上装有升降舵。一架 Piper Cherokee Cruiser PA-28-140 上装有称为全动平尾的全可动水平安定面，Beechcraft Bonanza 上则装有升降方向舵。
 
-根据所讨论的机型不同，绕横轴的运动由驾驶员移动驾驶盘或驾驶杆、中央操纵杆，或在某些飞机上使用侧杆来实现。这两架飞机使用驾驶盘或驾驶杆。在 Cessna 182 上，向后拉驾驶盘会使升降舵后缘向上偏转，产生增大的向下力，从而抬起机头。升降舵的运动使机头绕横轴上仰或下俯。
+根据所讨论的机型不同，绕横轴的运动由驾驶员移动驾驶盘或驾驶杆、中央操纵杆，或在某些飞机上使用侧杆来实现。
 
-在 Piper Cherokee Cruiser PA-28-140 上，向后拉驾驶盘会使整个水平面（即全动平尾）运动，其后缘向上偏转。Cherokee 上的反伺服片提供了一种与操纵升降舵相似的操纵感。没有这个调整片，全动平尾可能太容易移动，驾驶员可能操纵过量。Beechcraft Bonanza 上的升降方向舵也由驾驶盘驱动，向后拉驾驶盘时其后缘向上偏转。顾名思义，这些舵面同时兼作该机的方向舵。
+这两架飞机使用驾驶盘或驾驶杆。在 Cessna 182 上，向后拉驾驶盘会使升降舵后缘向上偏转，产生增大的向下力，从而抬起机头。升降舵的运动使机头绕横轴上仰或下俯。
+
+在 Piper Cherokee Cruiser PA-28-140 上，向后拉驾驶盘会使整个水平面（即全动平尾）运动，其后缘向上偏转。Cherokee 上的反伺服片提供了一种与操纵升降舵相似的操纵感。没有这个调整片，全动平尾可能太容易移动，驾驶员可能操纵过量。
+
+Beechcraft Bonanza 上的升降方向舵也由驾驶盘驱动，向后拉驾驶盘时其后缘向上偏转。顾名思义，这些舵面同时兼作该机的方向舵。
 
 #### 飞行操纵与纵轴
 
@@ -502,7 +538,9 @@ To land a powered parachute, the first action the pilot takes is to reduce engin
 
 #### 飞行操纵与立轴
 
-飞机的立轴从上到下穿过飞机中部，经过重心。绕此轴的运动称为偏航，绕此轴的操纵称为方向操纵。绕此轴的运动由方向舵控制，在 Beechcraft Bonanza 的情况下则由升降方向舵控制。驾驶员的脚踩在方向舵脚蹬上，踩左或右方向舵脚蹬使方向舵向左或向右运动。踩右方向舵脚蹬时，方向舵后缘向右偏，机头向右偏航。
+飞机的立轴从上到下穿过飞机中部，经过重心。绕此轴的运动称为偏航，绕此轴的操纵称为方向操纵。绕此轴的运动由方向舵控制，在 Beechcraft Bonanza 的情况下则由升降方向舵控制。
+
+驾驶员的脚踩在方向舵脚蹬上，踩左或右方向舵脚蹬使方向舵向左或向右运动。踩右方向舵脚蹬时，方向舵后缘向右偏，机头向右偏航。
 
 尽管飞机的方向舵会使机头向左或向右偏航，但方向舵并不是使飞机转弯的装置。要形成所谓协调转弯，副翼和方向舵都要起作用。假设我们要让飞机右转。先向右转动驾驶盘，这使右副翼上抬、左副翼下放，开始进入倾斜转弯。左翼升力增大，同时也增大了左翼的诱导阻力，这会使机头向左偏航。为了抵消这一趋势，在驾驶盘向右移动时，要施加少量右方向舵，防止机头向左偏航。一旦机头指向正确的方向，就不需要再蹬方向舵了。
 
@@ -512,7 +550,9 @@ To land a powered parachute, the first action the pilot takes is to reduce engin
 
 **反伺服片** 有些飞机，如 Piper Cherokee Arrow，没有固定的水平安定面和可动的升降舵。Cherokee 使用一块称为全动平尾的活动水平面。由于这块可动面支点的位置，它对驾驶员输入极为敏感。为降低敏感性，在全动平尾的后缘安装了全长反伺服片。全动平尾后缘向下运动时，反伺服片也向下运动，产生一个力图抬起后缘的力。这个力与全动平尾的运动相反，从而降低了对驾驶员输入的敏感性。Piper Cherokee Arrow 的全动平尾上装有反伺服片。
 
-**平衡片** 在某些飞机上，移动操纵面所需的力可能过大。这种情况下可以使用平衡片来产生辅助操纵面运动的力。与反伺服片正好相反，平衡片的运动方向与操纵面后缘相反，从而提供帮助操纵面运动的力。**伺服片** 在大型飞机上，由于移动操纵面所需的力超出驾驶员的能力，使用液压作动筒提供必要的力。一旦液压系统发生故障或失效，其中一些飞机的操纵面后缘上装有伺服片。向后拉驾驶盘试图移动升降舵时，伺服片随之运动并产生足够的气动力来移动升降舵。伺服片的作用像平衡片，但它不是协助正常的操纵力，而是成为使升降舵运动的唯一动力。与平衡片一样，伺服片的运动方向与操纵面后缘相反。Boeing 727 装有伺服片，在失效时作为液压系统的备份。正常飞行时，伺服片起平衡片的作用。
+**平衡片** 在某些飞机上，移动操纵面所需的力可能过大。这种情况下可以使用平衡片来产生辅助操纵面运动的力。与反伺服片正好相反，平衡片的运动方向与操纵面后缘相反，从而提供帮助操纵面运动的力。
+
+**伺服片** 在大型飞机上，由于移动操纵面所需的力超出驾驶员的能力，使用液压作动筒提供必要的力。一旦液压系统发生故障或失效，其中一些飞机的操纵面后缘上装有伺服片。向后拉驾驶盘试图移动升降舵时，伺服片随之运动并产生足够的气动力来移动升降舵。伺服片的作用像平衡片，但它不是协助正常的操纵力，而是成为使升降舵运动的唯一动力。与平衡片一样，伺服片的运动方向与操纵面后缘相反。Boeing 727 装有伺服片，在失效时作为液压系统的备份。正常飞行时，伺服片起平衡片的作用。
 
 #### 附加的增升装置
 
@@ -556,7 +596,11 @@ To land a powered parachute, the first action the pilot takes is to reduce engin
 
 #### 亚音速、跨音速与超音速飞行
 
-飞机以亚音速飞行时，环绕飞机的全部空气速度都低于声速，声速即马赫 1。要记住，空气流过飞机某些部位（如机翼上表面）时会加速，因此一架以 500 mph 飞行的飞机，其机翼上表面的气流速度可能达到 600 mph。一架飞机飞多快仍算亚音速飞行，随其机翼设计而不同，但用马赫数表示，通常刚超过马赫 0.8。飞机以跨音速飞行时，飞机一部分处于亚音速气流中，另一部分处于超音速气流中。在机翼上表面大约一半靠后的位置，气流速度会达到马赫 1，形成一道激波。这道激波与气流成 90 度，称为正激波。跨音速飞行中可能遇到稳定性问题，因为激波会使气流从机翼上分离。激波还使升力中心后移，导致机头下俯。形成激波的速度称为临界马赫数。跨音速通常为马赫 0.80 至 1.20 之间。
+飞机以亚音速飞行时，环绕飞机的全部空气速度都低于声速，声速即马赫 1。要记住，空气流过飞机某些部位（如机翼上表面）时会加速，因此一架以 500 mph 飞行的飞机，其机翼上表面的气流速度可能达到 600 mph。一架飞机飞多快仍算亚音速飞行，随其机翼设计而不同，但用马赫数表示，通常刚超过马赫 0.8。
+
+飞机以跨音速飞行时，飞机一部分处于亚音速气流中，另一部分处于超音速气流中。在机翼上表面大约一半靠后的位置，气流速度会达到马赫 1，形成一道激波。这道激波与气流成 90 度，称为正激波。跨音速飞行中可能遇到稳定性问题，因为激波会使气流从机翼上分离。激波还使升力中心后移，导致机头下俯。
+
+形成激波的速度称为临界马赫数。跨音速通常为马赫 0.80 至 1.20 之间。
 
 飞机以超音速飞行时，整架飞机都处于超音速气流中。在这个速度下，跨音速飞行时在机翼上表面形成的激波已经一路后移，并附着在机翼后缘上。超音速为马赫 1.20 至 5.0。如果飞机飞得比马赫 5 更快，就称为高超音速飞行。
 
@@ -572,7 +616,9 @@ To land a powered parachute, the first action the pilot takes is to reduce engin
 
 #### 高速翼型
 
-跨音速飞行是飞机最困难的飞行范围，因为机翼一部分处于亚音速气流中，一部分处于超音速气流中。对于亚音速翼型，气动中心（即支撑点）大约位于机翼前缘之后 25% 弦长处。在超音速飞行中，气动中心后移到 50% 弦长处，导致飞机的操纵性和稳定性发生显著变化。如果一架为亚音速飞行（比如马赫数 0.80）设计的飞机飞得太快而进入跨音速，机翼上的气流会发生一些明显变化。机翼上马赫数依次升高的六个阶段情形如下：
+跨音速飞行是飞机最困难的飞行范围，因为机翼一部分处于亚音速气流中，一部分处于超音速气流中。对于亚音速翼型，气动中心（即支撑点）大约位于机翼前缘之后 25% 弦长处。在超音速飞行中，气动中心后移到 50% 弦长处，导致飞机的操纵性和稳定性发生显著变化。
+
+如果一架为亚音速飞行（比如马赫数 0.80）设计的飞机飞得太快而进入跨音速，机翼上的气流会发生一些明显变化。机翼上马赫数依次升高的六个阶段情形如下：
 
 A. 马赫数相当低，整个机翼都处于亚音速气流中。
 
@@ -644,7 +690,9 @@ Aerospatiale AS-315B 直升机装有三叶尾桨。该尾桨的桨叶为开口�
 
 #### 飞行中的直升机
 
-**悬停** 对直升机而言，悬停是指在恒定高度飞行，没有前、后或横向移动。要悬停，直升机主旋翼桨叶必须产生等于航空器重量的升力。直升机发动机必须产生足够的功率来驱动主旋翼，同时驱动所用的任何形式的反扭矩系统。直升机的悬停能力受许多因素影响，包括是否处于地面效应之中、空气的密度高度、发动机可用功率以及载荷大小。直升机要处于地面效应中，通常离地高度不得超过主旋翼系统直径的一半。如果一架直升机主旋翼直径为 40 英尺，那么它在约 20 英尺高度以内都处于地面效应中。靠近地面会影响流过旋翼桨叶的空气速度，使桨叶的有效迎角增大、升力增大。因此，处于地面效应中的直升机，其可悬停的总重比在地面效应之外更大。有风时，地面效应的有利影响会减弱；前飞速度达到 5 至 10 mph 时，这一有利影响进一步减小。一架 CH-53 直升机悬停时，所有旋翼桨叶都因产生相等升力而向上挥舞。
+**悬停** 对直升机而言，悬停是指在恒定高度飞行，没有前、后或横向移动。要悬停，直升机主旋翼桨叶必须产生等于航空器重量的升力。直升机发动机必须产生足够的功率来驱动主旋翼，同时驱动所用的任何形式的反扭矩系统。直升机的悬停能力受许多因素影响，包括是否处于地面效应之中、空气的密度高度、发动机可用功率以及载荷大小。
+
+直升机要处于地面效应中，通常离地高度不得超过主旋翼系统直径的一半。如果一架直升机主旋翼直径为 40 英尺，那么它在约 20 英尺高度以内都处于地面效应中。靠近地面会影响流过旋翼桨叶的空气速度，使桨叶的有效迎角增大、升力增大。因此，处于地面效应中的直升机，其可悬停的总重比在地面效应之外更大。有风时，地面效应的有利影响会减弱；前飞速度达到 5 至 10 mph 时，这一有利影响进一步减小。一架 CH-53 直升机悬停时，所有旋翼桨叶都因产生相等升力而向上挥舞。
 
 **前飞** 在直升机发展的早期，悬停能力先被掌握，而后才成功实现前飞。早期尝试前飞时，直升机一旦试图脱离悬停向任一方向移动就会侧翻。侧翻的原因就是我们今天所称的升力不对称。
 
@@ -678,7 +726,9 @@ trike 的桅杆用挂点螺栓和安全钢索连接到机翼龙骨上的挂点�
 
 要驾驶 trike 飞行，先加大发动机功率使航空器动起来。当地速达到可以飞行的程度时，驾驶员向前推操纵杆，使机翼绕与桅杆的连接点转动，机翼前缘上仰。机翼前缘上仰时，迎角增大、机翼升力增大。升力足够时，trike 抬头并开始爬升。向后拉杆则减小迎角，使航空器停止爬升、平飞。trike 进入平飞后，用油门增大或减小发动机功率即可增大或减小空速。
 
-对典型飞机而言，绕纵轴（即从机头到机尾的方向）的飞行稳定性，是靠水平安定面和升降舵产生一个力来平衡飞机机头偏重的趋势而获得的。由于 trike 没有水平安定面和升降舵，它必须以另一种方式获得绕纵轴的稳定性。trike 具有后掠三角翼，翼尖后缘远在航空器重心之后。作用在三角翼翼尖上的压力产生平衡机头偏重趋势的力。重心操纵式航空器的机翼设计成在外力作用下可以改变形状。之所以能做到这一点，是因为骨架前缘和蒙布是柔性的，这也是它们有时被称为柔性翼航空器的原因。与普通固定翼飞机相比，这会产生一些不同的气动效应。像 Cessna 172 这样的传统小型飞机，通过副翼转弯或倾斜，实际上改变了机翼弯度，从而产生升力差。相比之下，trike 上的重心移动实际上使机翼扭转，从而改变机翼迎角，产生使 trike 倾斜的升力差。机翼骨架的横杆（或称展向撑杆）允许相对于龙骨略微浮动，加上其他一些几何因素，使蒙布能够“鼓胀偏移”。鼓胀偏移可以在地面演示：抓住机翼一端的后缘向上提。这样做的结果是，另一端蒙布略微变平、绷紧，机翼迎角增大。
+对典型飞机而言，绕纵轴（即从机头到机尾的方向）的飞行稳定性，是靠水平安定面和升降舵产生一个力来平衡飞机机头偏重的趋势而获得的。
+
+由于 trike 没有水平安定面和升降舵，它必须以另一种方式获得绕纵轴的稳定性。trike 具有后掠三角翼，翼尖后缘远在航空器重心之后。作用在三角翼翼尖上的压力产生平衡机头偏重趋势的力。重心操纵式航空器的机翼设计成在外力作用下可以改变形状。之所以能做到这一点，是因为骨架前缘和蒙布是柔性的，这也是它们有时被称为柔性翼航空器的原因。与普通固定翼飞机相比，这会产生一些不同的气动效应。像 Cessna 172 这样的传统小型飞机，通过副翼转弯或倾斜，实际上改变了机翼弯度，从而产生升力差。相比之下，trike 上的重心移动实际上使机翼扭转，从而改变机翼迎角，产生使 trike 倾斜的升力差。机翼骨架的横杆（或称展向撑杆）允许相对于龙骨略微浮动，加上其他一些几何因素，使蒙布能够“鼓胀偏移”。鼓胀偏移可以在地面演示：抓住机翼一端的后缘向上提。这样做的结果是，另一端蒙布略微变平、绷紧，机翼迎角增大。
 
 如果驾驶员把杆向右推，机翼转动，左翼尖下沉、右翼尖抬起，使航空器向左倾斜。这一运动与悬挂滑翔机的情形相同。重心左移增大了左翼载荷、减小了右翼载荷。左翼载荷增大会增大其扭转洗出，减小其迎角和升力。左翼载荷增大会使左翼鼓胀，进而使右翼蒙布绷紧、迎角和升力增大。正是升力的这种变化使航空器向左倾斜。
 
@@ -686,7 +736,9 @@ trike 的桅杆用挂点螺栓和安全钢索连接到机翼龙骨上的挂点�
 
 trike 升空并保持直线平飞后，驾驶员只需对控制机翼的操纵杆保持轻微压力。如果 trike 配平良好且没有气流扰动，即使驾驶员松开双手，航空器也会保持稳定。与任何飞机一样，增大发动机功率会使航空器爬升，减小功率则会使其下降。油门通常用脚踏板控制，就像汽车上的油门踏板。
 
-trike 的着陆方式与飞机非常相似。到该着陆时，驾驶员用脚踏油门减小发动机功率，空速和机翼升力随之减小。trike 下降时，可通过向前推杆或向后拉杆以及改变发动机功率来控制下降率。当 trike 快到接地时，减小发动机功率并增大机翼迎角，以缓冲下降、实现柔和着陆。如果航空器要在很强的侧风中着陆，着陆可能不那么柔和。侧风着陆时，驾驶员以偏流姿态进场，以保持沿跑道的方向。接地时后轮先着地，然后放下前轮。一架 trike 正准备接地，还可以看到支撑桅杆和机翼顶部的钢索，包括上缘索。
+trike 的着陆方式与飞机非常相似。到该着陆时，驾驶员用脚踏油门减小发动机功率，空速和机翼升力随之减小。trike 下降时，可通过向前推杆或向后拉杆以及改变发动机功率来控制下降率。当 trike 快到接地时，减小发动机功率并增大机翼迎角，以缓冲下降、实现柔和着陆。如果航空器要在很强的侧风中着陆，着陆可能不那么柔和。侧风着陆时，驾驶员以偏流姿态进场，以保持沿跑道的方向。接地时后轮先着地，然后放下前轮。
+
+一架 trike 正准备接地，还可以看到支撑桅杆和机翼顶部的钢索，包括上缘索。
 
 ### 动力伞空气动力学
 

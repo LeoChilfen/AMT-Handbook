@@ -14,7 +14,9 @@ Both jet and reciprocating engine exhaust deposits are very corrosive and give p
 
 Despite improvements in protective paint finishes and in methods of sealing and venting, battery compartments continue to be corrosion prone areas. Fumes from overheated electrolyte are difficult to contain and spread to adjacent cavities, causing a rapid corrosive attack on all unprotected metal surfaces. Battery vent openings on the aircraft skin should be included in the battery compartment inspection and maintenance procedure. If aircraft batteries with electrolytes, sulfuric acid, or potassium hydroxide are in use, their leakage will cause corrosion. Regular cleaning and neutralization of acid deposits minimizes corrosion from this cause. Consult the applicable maintenance manuals for the particular aircraft to determine the type of battery installed and the recommended maintenance.
 
-These are natural collection points for waste hydraulic fluids, water, dirt, and odds and ends of debris. Residual oil quite often masks small quantities of water that settle to the bottom and set up a hidden chemical cell. Instead of using chemical treatments for the bilge water, current float manufacturers recommend the diligent maintenance of the internal coatings applied to the float’s interior during manufacture. In addition to chemical conversion coatings applied to the surface of the sheet metal and other structural components and to sealants installed in lap joints during construction, the interior compartments are painted to protect the bilge areas. When seaplane structures are repaired or restored, this level of corrosion protection must be maintained.
+These are natural collection points for waste hydraulic fluids, water, dirt, and odds and ends of debris. Residual oil quite often masks small quantities of water that settle to the bottom and set up a hidden chemical cell.
+
+Instead of using chemical treatments for the bilge water, current float manufacturers recommend the diligent maintenance of the internal coatings applied to the float’s interior during manufacture. In addition to chemical conversion coatings applied to the surface of the sheet metal and other structural components and to sealants installed in lap joints during construction, the interior compartments are painted to protect the bilge areas. When seaplane structures are repaired or restored, this level of corrosion protection must be maintained.
 
 ### Lavatories, Buffets, & Galleys
 
@@ -62,7 +64,9 @@ Corrosion of metal skins joined by spot welding is the result of the entrance an
 
 ### Electronic & Electrical Compartments
 
-Electronic and electrical compartments cooled by ram air or compressor bleed air are subjected to the same conditions common to engine and accessory cooling vents and engine frontal areas. While the degree of exposure is less, because a lower volume of air passing through and special design features incorporated to prevent water formation in enclosed spaces, this is still a trouble area that requires special attention. Circuit breakers, contact points, and switches are extremely sensitive to moisture and corrosive attack, thus inspection is required for these conditions as thoroughly as design permits. If design features hinder examination of these items while in the installed condition, inspection is accomplished after component removal for other reasons.
+Electronic and electrical compartments cooled by ram air or compressor bleed air are subjected to the same conditions common to engine and accessory cooling vents and engine frontal areas. While the degree of exposure is less, because a lower volume of air passing through and special design features incorporated to prevent water formation in enclosed spaces, this is still a trouble area that requires special attention.
+
+Circuit breakers, contact points, and switches are extremely sensitive to moisture and corrosive attack, thus inspection is required for these conditions as thoroughly as design permits. If design features hinder examination of these items while in the installed condition, inspection is accomplished after component removal for other reasons.
 
 ### Miscellaneous Trouble Areas
 
@@ -82,7 +86,9 @@ All control cables, whether plain carbon steel or corrosion-resistant steel, are
 
 尽管防护漆层以及密封和通气方法都有改进，电瓶舱仍然是易腐蚀区域。过热电解液产生的酸雾难以抑制，会扩散到相邻的空腔，对所有未受保护的金属表面造成快速腐蚀侵蚀。飞机蒙皮上的电瓶通气口应纳入电瓶舱的检查和维护程序。如果使用带硫酸或氢氧化钾电解液的飞机电瓶，其渗漏会引起腐蚀。定期清洁并中和酸性沉积物，可将由此引起的腐蚀降到最低。应查阅该型飞机适用的维护手册，确定所装电瓶的类型和推荐的维护方法。
 
-这些地方是废液压油、水、污物和零星碎屑的天然聚集点。残留的油常常掩盖少量沉到底部的水，从而形成一个隐蔽的化学电池。对于舱底水，现在的浮筒制造商不建议采用化学处理，而建议认真维护制造时涂在浮筒内部的内部涂层。除制造时对钣金及其他结构件表面施加的化学转化膜，以及接缝中安装的密封胶之外，内部隔舱还涂有漆层以保护舱底区域。修理或翻修水上飞机结构时，必须保持这一防护水平。
+这些地方是废液压油、水、污物和零星碎屑的天然聚集点。残留的油常常掩盖少量沉到底部的水，从而形成一个隐蔽的化学电池。
+
+对于舱底水，现在的浮筒制造商不建议采用化学处理，而建议认真维护制造时涂在浮筒内部的内部涂层。除制造时对钣金及其他结构件表面施加的化学转化膜，以及接缝中安装的密封胶之外，内部隔舱还涂有漆层以保护舱底区域。修理或翻修水上飞机结构时，必须保持这一防护水平。
 
 ### 盥洗室、餐室与厨房
 
@@ -130,7 +136,9 @@ All control cables, whether plain carbon steel or corrosion-resistant steel, are
 
 ### 电子与电气设备舱
 
-由冲压空气或压气机引气冷却的电子电气设备舱，会经历与发动机及附件冷却风道、发动机前部区域相同的条件。虽然受侵害的程度较轻（因为通过的空气量较少，并且采用了防止封闭空间内形成水的特殊设计），这仍是一个需要特别注意的问题区域。断路器、触点和开关对湿气和腐蚀侵蚀极为敏感，因此必须在设计允许的范围内尽可能彻底地检查这些情况。如果设计特点妨碍在安装状态下检查这些项目，则在因其他原因拆下部件后进行检查。
+由冲压空气或压气机引气冷却的电子电气设备舱，会经历与发动机及附件冷却风道、发动机前部区域相同的条件。虽然受侵害的程度较轻（因为通过的空气量较少，并且采用了防止封闭空间内形成水的特殊设计），这仍是一个需要特别注意的问题区域。
+
+断路器、触点和开关对湿气和腐蚀侵蚀极为敏感，因此必须在设计允许的范围内尽可能彻底地检查这些情况。如果设计特点妨碍在安装状态下检查这些项目，则在因其他原因拆下部件后进行检查。
 
 ### 其他问题区域
 

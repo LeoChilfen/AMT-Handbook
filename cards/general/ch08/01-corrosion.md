@@ -8,7 +8,9 @@ Many aircraft structures are made of metal, and the most insidious form of damag
 
 The introduction of airframes built primarily of composite components has not eliminated the need for careful monitoring of aircraft with regard to corrosion. The airframe itself may not be subject to corrosion; however, the use of metal components and accessories within the airframe means the aviation maintenance technician (AMT) must be on the alert for the evidence of corrosion when inspecting any aircraft.
 
-This chapter provides an overview to the problems associated with aircraft corrosion. For more in-depth information on the subject, refer to the latest edition of the Federal Aviation Administration (FAA) Advisory Circular (AC) 43-4, Corrosion Control for Aircraft. The AC is an extensive handbook that deals with the sources of corrosion particular to aircraft structures, as well as steps the AMT can take in the course of maintaining aircraft that have been attacked by corrosion. Metal corrosion is the deterioration of the metal by chemical or electrochemical attack. This type of damage can take place internally, as well as on the surface. As in the rotting of wood, this deterioration may change the smooth surface, weaken the interior, or damage or loosen adjacent parts.
+This chapter provides an overview to the problems associated with aircraft corrosion. For more in-depth information on the subject, refer to the latest edition of the Federal Aviation Administration (FAA) Advisory Circular (AC) 43-4, Corrosion Control for Aircraft. The AC is an extensive handbook that deals with the sources of corrosion particular to aircraft structures, as well as steps the AMT can take in the course of maintaining aircraft that have been attacked by corrosion.
+
+Metal corrosion is the deterioration of the metal by chemical or electrochemical attack. This type of damage can take place internally, as well as on the surface. As in the rotting of wood, this deterioration may change the smooth surface, weaken the interior, or damage or loosen adjacent parts.
 
 Water or water vapor containing salt combines with oxygen in the atmosphere to produce the main source of corrosion in aircraft. Aircraft operating in a marine environment, or in areas where the atmosphere contains industrial fumes that are corrosive, are particularly susceptible to corrosive attacks.
 
@@ -48,7 +50,9 @@ The environmental conditions that an aircraft is maintained and operated under g
 
 #### Geographical Location
 
-The flight routes and bases of operation expose some airplanes to more corrosive conditions than others. The operational environment of an aircraft may be categorized as mild, moderate, or severe with respect to the corrosion severity of the operational environment. The corrosion severity of the operational environments in North America are identified. Additional maps for other locations around the world are published in AC 43-4. The corrosion severity of any particular area may be increased by many factors, including airborne industrial pollutants, chemicals used on runways and taxiways to prevent ice formation, humidity, temperatures, prevailing winds from a corrosive environment, etc. Suggested intervals for cleaning, inspection, lubrication, and preservation when located in mild zones are every 90 days, moderate zones every 45 days, and severe zones every 15 days.
+The flight routes and bases of operation expose some airplanes to more corrosive conditions than others. The operational environment of an aircraft may be categorized as mild, moderate, or severe with respect to the corrosion severity of the operational environment. The corrosion severity of the operational environments in North America are identified. Additional maps for other locations around the world are published in AC 43-4.
+
+The corrosion severity of any particular area may be increased by many factors, including airborne industrial pollutants, chemicals used on runways and taxiways to prevent ice formation, humidity, temperatures, prevailing winds from a corrosive environment, etc. Suggested intervals for cleaning, inspection, lubrication, and preservation when located in mild zones are every 90 days, moderate zones every 45 days, and severe zones every 15 days.
 
 #### Foreign Material
 
@@ -118,7 +122,11 @@ From white powdery deposit to brown or black mottling of the surface Rough surfa
 
 Elimination of any one of these conditions stops electrochemical corrosion.
 
-NOTE: Paint can mask the initial stages of corrosion. Since corrosion products occupy more volume than the original metal, painted surfaces must be inspected often for irregularities, such as blisters, flakes, chips, and lumps. An electrochemical attack may be likened chemically to the electrolytic reaction that takes place in electroplating, anodizing, or in a dry cell battery. The reaction in this corrosive attack requires a medium, usually water, that is capable of conducting a tiny current of electricity. When a metal comes in contact with a corrosive agent and is also connected by a liquid or gaseous path that electrons flow through, corrosion begins as the metal decays by oxidation. During the attack, the quantity of corrosive agent is reduced and, if not renewed or removed, may completely react with the CORROSION SEVERITY ZONE MILD MODERATE SEVERE ANCHORAGE FAIRBANKS MONTREAL NEW YORK ATLANTA MIAMI HAVANA JAMAICA HAITI ST. DOMINGO PUERTO RICO CHICAGO DENVER SEATTLE LOS ANGELES MEXICO HOUSTON DALLAS metal becoming neutralized. Different areas of the same metal surface have varying levels of electrical potential and, if connected by a conductor such as salt water, sets up a series of corrosion cells and corrosion will commence. All metals and alloys are electrically active and have a specific electrical potential in a given chemical environment. This potential is commonly referred to as the metal’s “nobility.” The less noble a metal is, the more easily it can be corroded. The metals chosen for use in aircraft structures are a studied compromise with strength, weight, corrosion resistance, workability, and cost balanced against the structure’s needs.
+NOTE: Paint can mask the initial stages of corrosion. Since corrosion products occupy more volume than the original metal, painted surfaces must be inspected often for irregularities, such as blisters, flakes, chips, and lumps.
+
+An electrochemical attack may be likened chemically to the electrolytic reaction that takes place in electroplating, anodizing, or in a dry cell battery. The reaction in this corrosive attack requires a medium, usually water, that is capable of conducting a tiny current of electricity. When a metal comes in contact with a corrosive agent and is also connected by a liquid or gaseous path that electrons flow through, corrosion begins as the metal decays by oxidation. During the attack, the quantity of corrosive agent is reduced and, if not renewed or removed, may completely react with the CORROSION SEVERITY ZONE MILD MODERATE SEVERE ANCHORAGE FAIRBANKS MONTREAL NEW YORK ATLANTA MIAMI HAVANA JAMAICA HAITI ST. DOMINGO PUERTO RICO CHICAGO DENVER SEATTLE LOS ANGELES MEXICO HOUSTON DALLAS metal becoming neutralized. Different areas of the same metal surface have varying levels of electrical potential and, if connected by a conductor such as salt water, sets up a series of corrosion cells and corrosion will commence.
+
+All metals and alloys are electrically active and have a specific electrical potential in a given chemical environment. This potential is commonly referred to as the metal’s “nobility.” The less noble a metal is, the more easily it can be corroded. The metals chosen for use in aircraft structures are a studied compromise with strength, weight, corrosion resistance, workability, and cost balanced against the structure’s needs.
 
 The constituents in an alloy also have specific electrical potentials that are generally different from each other. Exposure of the alloy surface to a conductive, corrosive medium causes the more active metal to become anodic and the less active metal to become cathodic, thereby establishing conditions for corrosion. These are called local cells. The greater the difference in electrical potential between the two metals, the greater the severity of a corrosive attack if the proper conditions are allowed to develop.
 
@@ -154,7 +162,9 @@ The contamination of a metal’s surface by mechanical means can also induce dis
 
 #### Concentration Cell Corrosion
 
-Concentration cell corrosion, (also known as crevice corrosion) is corrosion of metals in a metal-to-metal joint, corrosion at the edge of a joint even though the joined metals are identical, or corrosion of a spot on the metal surface covered by a foreign material. Metal ion concentration cells, oxygen concentration cells, and active-passive cells are three general types of concentration cell corrosion. Metal Ion Concentration Cells The solution may consist of water and ions of the metal that are in contact with water. A high concentration of metal ions normally exists under faying surfaces where the solution is stagnant and a low concentration of metal ions exist adjacent to the crevice, created by the faying surface. An electrical potential exists between the two points: the area of the metal in contact with the low concentration of metal ions is anodic and corrodes; the area in contact with the high metal ion concentration is cathodic and does not show signs of corrosion.
+Concentration cell corrosion, (also known as crevice corrosion) is corrosion of metals in a metal-to-metal joint, corrosion at the edge of a joint even though the joined metals are identical, or corrosion of a spot on the metal surface covered by a foreign material. Metal ion concentration cells, oxygen concentration cells, and active-passive cells are three general types of concentration cell corrosion.
+
+Metal Ion Concentration Cells The solution may consist of water and ions of the metal that are in contact with water. A high concentration of metal ions normally exists under faying surfaces where the solution is stagnant and a low concentration of metal ions exist adjacent to the crevice, created by the faying surface. An electrical potential exists between the two points: the area of the metal in contact with the low concentration of metal ions is anodic and corrodes; the area in contact with the high metal ion concentration is cathodic and does not show signs of corrosion.
 
 Magnesium Magnesium alloy Zinc Aluminum (1100)
 
@@ -182,7 +192,9 @@ Type 316 stainless steel (passive)
 
 Hastelloy alloy C (passive)
 
-Silver Titanium Graphite Gold Platinum cross under one another on aluminum, making the damage deeper and more severe for aluminum. If the corrosion is not removed, the area treated, and a protective finish applied, the corrosion can lead to intergranular corrosion, especially around fasteners and at seams. Filiform corrosion can be removed using glass bead blasting material with portable abrasive blasting equipment or sanding. Filiform corrosion can be prevented by storing aircraft in an environment with a relative humidity below 70 percent, using coating systems having a low rate of diffusion for oxygen and water vapors, and by washing the aircraft to remove acidic contaminants from the surface, such as those created by pollutants in the air.
+Silver Titanium Graphite Gold Platinum cross under one another on aluminum, making the damage deeper and more severe for aluminum. If the corrosion is not removed, the area treated, and a protective finish applied, the corrosion can lead to intergranular corrosion, especially around fasteners and at seams.
+
+Filiform corrosion can be removed using glass bead blasting material with portable abrasive blasting equipment or sanding. Filiform corrosion can be prevented by storing aircraft in an environment with a relative humidity below 70 percent, using coating systems having a low rate of diffusion for oxygen and water vapors, and by washing the aircraft to remove acidic contaminants from the surface, such as those created by pollutants in the air.
 
 Metal least likely to corrode (cathodic)
 
@@ -200,7 +212,9 @@ Exfoliation corrosion is an advanced form of intergranular corrosion and shows i
 
 #### Stress-Corrosion/Cracking
 
-This form of corrosion involves a constant or cyclic stress acting in conjunction with a damaging chemical environment. The stress may be caused by internal or external loading. Internal stress may be trapped in a part of structure during manufacturing processes, such as cold-working or by unequal cooling from high temperatures. Most manufacturers follow these processes with a stress relief operation. Even so, sometimes stress remains trapped. The stress may be externally introduced in part structure by riveting, welding, bolting, clamping, press fit, etc. If a slight mismatch occurs or a fastener is over-torqued, internal stress High oxygen concentration Low oxygen concentration OXYGEN CONCENTRATION CELL Low metal ion concentration High metal ion concentration METAL ION CONCENTRATION CELL TROUGH PITS SIDEWAY PITS Narrow, deep Wide, shallow Elliptical Vertical Subsurface Undercutting Horizontal is present. Internal stress is more important than design stress, because stress corrosion is difficult to recognize before it has overcome the design safety factor. The level of stress varies from point to point within the metal. Stresses near the yield strength are generally necessary to promote stress corrosion cracking. However, failures may occur at lower stresses. Specific environments have been identified that cause stress corrosion cracking of certain alloys.
+This form of corrosion involves a constant or cyclic stress acting in conjunction with a damaging chemical environment. The stress may be caused by internal or external loading. Internal stress may be trapped in a part of structure during manufacturing processes, such as cold-working or by unequal cooling from high temperatures. Most manufacturers follow these processes with a stress relief operation. Even so, sometimes stress remains trapped. The stress may be externally introduced in part structure by riveting, welding, bolting, clamping, press fit, etc. If a slight mismatch occurs or a fastener is over-torqued, internal stress High oxygen concentration Low oxygen concentration OXYGEN CONCENTRATION CELL Low metal ion concentration High metal ion concentration METAL ION CONCENTRATION CELL TROUGH PITS SIDEWAY PITS Narrow, deep Wide, shallow Elliptical Vertical Subsurface Undercutting Horizontal is present. Internal stress is more important than design stress, because stress corrosion is difficult to recognize before it has overcome the design safety factor. The level of stress varies from point to point within the metal. Stresses near the yield strength are generally necessary to promote stress corrosion cracking. However, failures may occur at lower stresses.
+
+Specific environments have been identified that cause stress corrosion cracking of certain alloys.
 
 1. Salt solutions and sea water cause stress corrosion cracking of high-strength, heat-treated steel and aluminum alloys.
 
@@ -232,7 +246,9 @@ Fatigue corrosion failure occurs in two stages. During the first stage, the comb
 
 以复合材料部件为主构建的机体，并未消除对飞机进行仔细腐蚀监控的必要性。机体本身可能不会腐蚀；然而，机体内部使用金属部件和附件，这意味着航空维修技师（AMT）在检查任何飞机时都必须警惕腐蚀迹象。
 
-本章概述与飞机腐蚀有关的问题。有关该主题的更深入信息，请参阅美国联邦航空管理局（FAA）咨询通告（AC）43-4《飞机腐蚀控制》的最新版本。该咨询通告是一部内容详尽的手册，既讨论飞机结构特有的腐蚀来源，也讨论 AMT 在维护已遭腐蚀侵袭的飞机过程中可采取的步骤。金属腐蚀是金属因化学或电化学侵蚀而发生的劣化。这种损伤既可发生在内部，也可发生在表面。如同木材腐朽一样，这种劣化可能改变光滑的表面、削弱内部，或损伤、松动相邻零件。
+本章概述与飞机腐蚀有关的问题。有关该主题的更深入信息，请参阅美国联邦航空管理局（FAA）咨询通告（AC）43-4《飞机腐蚀控制》的最新版本。该咨询通告是一部内容详尽的手册，既讨论飞机结构特有的腐蚀来源，也讨论 AMT 在维护已遭腐蚀侵袭的飞机过程中可采取的步骤。
+
+金属腐蚀是金属因化学或电化学侵蚀而发生的劣化。这种损伤既可发生在内部，也可发生在表面。如同木材腐朽一样，这种劣化可能改变光滑的表面、削弱内部，或损伤、松动相邻零件。
 
 含盐的水或水蒸气与大气中的氧结合，构成飞机腐蚀的主要来源。在海洋环境中运行的飞机，或在大气中含有腐蚀性工业烟尘的地区运行的飞机，特别容易受到腐蚀侵袭。
 
@@ -272,7 +288,9 @@ Fatigue corrosion failure occurs in two stages. During the first stage, the comb
 
 #### 地理位置
 
-飞行航线和运行基地会使某些飞机比其他飞机暴露于更具腐蚀性的条件。就运行环境的腐蚀严重程度而言，飞机的运行环境可划分为轻度、中度和重度。北美各运行环境的腐蚀严重程度已予标定。世界其他地区的地图另见 AC 43-4。任何特定区域的腐蚀严重程度都可能因许多因素而加剧，包括空气中的工业污染物、用于防止跑道和滑行道结冰的化学剂、湿度、温度、来自腐蚀性环境的盛行风等。位于轻度区域的建议清洁、检查、润滑和防护周期为每 90 天一次，中度区域每 45 天一次，重度区域每 15 天一次。
+飞行航线和运行基地会使某些飞机比其他飞机暴露于更具腐蚀性的条件。就运行环境的腐蚀严重程度而言，飞机的运行环境可划分为轻度、中度和重度。北美各运行环境的腐蚀严重程度已予标定。世界其他地区的地图另见 AC 43-4。
+
+任何特定区域的腐蚀严重程度都可能因许多因素而加剧，包括空气中的工业污染物、用于防止跑道和滑行道结冰的化学剂、湿度、温度、来自腐蚀性环境的盛行风等。位于轻度区域的建议清洁、检查、润滑和防护周期为每 90 天一次，中度区域每 45 天一次，重度区域每 15 天一次。
 
 #### 外来物质
 
@@ -342,7 +360,11 @@ Fatigue corrosion failure occurs in two stages. During the first stage, the comb
 
 消除其中任何一个条件，即可终止电化学腐蚀。
 
-注：漆层会掩盖腐蚀的初期阶段。由于腐蚀产物的体积大于原金属，因此必须经常检查涂漆表面有无异常，如起泡、起皮、破损和凸起。电化学侵蚀在化学上可类比于电镀、阳极氧化或干电池中所发生的电解反应。这种腐蚀侵蚀中的反应需要一种介质，通常是水，它能够传导微小的电流。当金属与腐蚀性介质接触，同时又由电子可从中流动的液体或气体通路相连时，腐蚀便随金属因氧化而衰变而开始。在侵蚀过程中，腐蚀性介质的量减少，若不补充或清除，可能完全与金属反应而使其中和（原文此处夹有大幅地图标注碎片，非正文）。同一金属表面的不同区域具有不同的电位水平，如果由盐水之类的导体相连，就会建立一系列腐蚀电池，腐蚀随之开始。所有金属和合金都具有电活性，在给定的化学环境中具有特定的电位。这种电位通常被称为金属的「电位序」。金属的电位序越低，就越容易腐蚀。用于飞机结构的金属，是在强度、重量、耐蚀性、可加工性和成本之间与结构需求相权衡后经过研究确定的折中选择。
+注：漆层会掩盖腐蚀的初期阶段。由于腐蚀产物的体积大于原金属，因此必须经常检查涂漆表面有无异常，如起泡、起皮、破损和凸起。
+
+电化学侵蚀在化学上可类比于电镀、阳极氧化或干电池中所发生的电解反应。这种腐蚀侵蚀中的反应需要一种介质，通常是水，它能够传导微小的电流。当金属与腐蚀性介质接触，同时又由电子可从中流动的液体或气体通路相连时，腐蚀便随金属因氧化而衰变而开始。在侵蚀过程中，腐蚀性介质的量减少，若不补充或清除，可能完全与金属反应而使其中和（原文此处夹有大幅地图标注碎片，非正文）。同一金属表面的不同区域具有不同的电位水平，如果由盐水之类的导体相连，就会建立一系列腐蚀电池，腐蚀随之开始。
+
+所有金属和合金都具有电活性，在给定的化学环境中具有特定的电位。这种电位通常被称为金属的「电位序」。金属的电位序越低，就越容易腐蚀。用于飞机结构的金属，是在强度、重量、耐蚀性、可加工性和成本之间与结构需求相权衡后经过研究确定的折中选择。
 
 合金中的各组分也各自具有特定的电位，通常互不相同。合金表面暴露于导电的腐蚀性介质时，较活泼的金属成为阳极，较不活泼的金属成为阴极，从而为腐蚀创造了条件。这些称为局部电池。两种金属之间的电位差越大，在条件充分发展的情况下，腐蚀侵蚀就越严重。
 
@@ -378,7 +400,9 @@ Fatigue corrosion failure occurs in two stages. During the first stage, the comb
 
 #### 浓差电池腐蚀
 
-浓差电池腐蚀（又称缝隙腐蚀）是金属与金属接合处的腐蚀，是即使相接金属完全相同、在接缝边缘处发生的腐蚀，也是金属表面被外来物质覆盖处发生的腐蚀。金属离子浓差电池、氧浓差电池和活性-钝态电池是浓差电池腐蚀的三种常见类型。金属离子浓差电池 溶液可由水以及与水接触的金属离子组成。通常，在溶液停滞的贴合面之下存在高浓度金属离子，而在贴合面所形成的缝隙旁边存在低浓度金属离子。两点之间存在电位差：与低浓度金属离子接触的金属区域为阳极并发生腐蚀；与高浓度金属离子接触的区域为阴极，不显示腐蚀迹象。
+浓差电池腐蚀（又称缝隙腐蚀）是金属与金属接合处的腐蚀，是即使相接金属完全相同、在接缝边缘处发生的腐蚀，也是金属表面被外来物质覆盖处发生的腐蚀。金属离子浓差电池、氧浓差电池和活性-钝态电池是浓差电池腐蚀的三种常见类型。
+
+金属离子浓差电池 溶液可由水以及与水接触的金属离子组成。通常，在溶液停滞的贴合面之下存在高浓度金属离子，而在贴合面所形成的缝隙旁边存在低浓度金属离子。两点之间存在电位差：与低浓度金属离子接触的金属区域为阳极并发生腐蚀；与高浓度金属离子接触的区域为阴极，不显示腐蚀迹象。
 
 （原文此处为表格碎片，原文无正文）
 
@@ -406,7 +430,9 @@ Fatigue corrosion failure occurs in two stages. During the first stage, the comb
 
 （原文此处为表格碎片，原文无正文）
 
-（原文此处为表格碎片，原文无正文）……会相互交叉，使铝的损伤更深、更严重。如果腐蚀未被去除、该区域未作处理且未施加防护涂层，腐蚀就可能导致晶间腐蚀，特别是在紧固件周围和接缝处。丝状腐蚀可以使用玻璃珠喷射材料，配合便携式喷砂设备或打磨来去除。丝状腐蚀可通过以下方式预防：将飞机存放在相对湿度低于 70% 的环境中，使用对氧气和水蒸气扩散率低的涂层体系，以及清洗飞机以去除表面的酸性污染物，例如空气中污染物所形成的酸性物质。
+（原文此处为表格碎片，原文无正文）……会相互交叉，使铝的损伤更深、更严重。如果腐蚀未被去除、该区域未作处理且未施加防护涂层，腐蚀就可能导致晶间腐蚀，特别是在紧固件周围和接缝处。
+
+丝状腐蚀可以使用玻璃珠喷射材料，配合便携式喷砂设备或打磨来去除。丝状腐蚀可通过以下方式预防：将飞机存放在相对湿度低于 70% 的环境中，使用对氧气和水蒸气扩散率低的涂层体系，以及清洗飞机以去除表面的酸性污染物，例如空气中污染物所形成的酸性物质。
 
 （原文此处为图注碎片，原文无正文）
 
@@ -424,7 +450,9 @@ Fatigue corrosion failure occurs in two stages. During the first stage, the comb
 
 #### 应力腐蚀/开裂
 
-这种腐蚀形式涉及恒定或循环应力与有害化学环境的共同作用。应力可由内部或外部载荷引起。内应力可能在制造过程中（如冷加工或因高温冷却不均）滞留于结构部件中。多数制造商会在此类工序之后进行消除应力处理。即便如此，有时应力仍会滞留。应力也可能通过铆接、焊接、螺栓连接、夹紧、压配合等方式从外部引入零件结构。如果出现轻微失配或紧固件被过度拧紧，就会存在内部应力（原文此处夹有图注碎片，非正文）。内应力比设计应力更重要，因为应力腐蚀在设计安全系数被突破之前很难识别。应力水平在金属内部各点并不相同。通常需要接近屈服强度的应力才能促进应力腐蚀开裂。然而，失效也可能在较低的应力下发生。已经确定了一些会导致特定合金应力腐蚀开裂的特定环境。
+这种腐蚀形式涉及恒定或循环应力与有害化学环境的共同作用。应力可由内部或外部载荷引起。内应力可能在制造过程中（如冷加工或因高温冷却不均）滞留于结构部件中。多数制造商会在此类工序之后进行消除应力处理。即便如此，有时应力仍会滞留。应力也可能通过铆接、焊接、螺栓连接、夹紧、压配合等方式从外部引入零件结构。如果出现轻微失配或紧固件被过度拧紧，就会存在内部应力（原文此处夹有图注碎片，非正文）。内应力比设计应力更重要，因为应力腐蚀在设计安全系数被突破之前很难识别。应力水平在金属内部各点并不相同。通常需要接近屈服强度的应力才能促进应力腐蚀开裂。然而，失效也可能在较低的应力下发生。
+
+已经确定了一些会导致特定合金应力腐蚀开裂的特定环境。
 
 1. 盐溶液和海水会导致高强度热处理钢和铝合金发生应力腐蚀开裂。
 

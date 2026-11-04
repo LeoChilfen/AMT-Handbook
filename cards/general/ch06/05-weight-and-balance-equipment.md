@@ -4,7 +4,9 @@
 
 ## 1. 原文
 
-Weighing GA aircraft, helicopters, turboprops, corporate jets, UA V/UAS, or transport category airliners can be accomplished in two ways: top of jack load cells and platform scales. Equipment selection is dependent on the operator's needs and or equipment currently on hand, as well as the airframe manufacturer's recommendations. Top of jack load cells, as the name implies, can be used on top of the current wing jacks or can be used under axle for larger jets. Platforms are very useful for small shops that do not have jacks for every type of aircraft. Both types of scales feature new technologies using wireless Item Standard empty weight Optional equipment Special installation Paint Unusable fuel Basic empty weight Weight (lb)
+Weighing GA aircraft, helicopters, turboprops, corporate jets, UA V/UAS, or transport category airliners can be accomplished in two ways: top of jack load cells and platform scales. Equipment selection is dependent on the operator's needs and or equipment currently on hand, as well as the airframe manufacturer's recommendations. Top of jack load cells, as the name implies, can be used on top of the current wing jacks or can be used under axle for larger jets. Platforms are very useful for small shops that do not have jacks for every type of aircraft.
+
+Both types of scales feature new technologies using wireless Item Standard empty weight Optional equipment Special installation Paint Unusable fuel Basic empty weight Weight (lb)
 
 1,876 1.2 6.2 – 30.0 1,913.4 CG Arm (in)
 
@@ -14,9 +16,13 @@ Weighing GA aircraft, helicopters, turboprops, corporate jets, UA V/UAS, or tran
 
 Platforms are available in many weight ranges and sizes. These systems either use ramps or the aircraft can be jacked and lowered onto the platforms during regular maintenance. Platforms are easy to use and are a choice for many shops that do not have jacks for the many types of aircraft to be serviced. The limiting factors for platforms are the weight range and the tire size, some aircraft have large tires and the platform may be too small for the specific aircraft tire. It is important to always use the right size scale and platform for the aircraft type and weighing job required.
 
-The platform scale sits on the hangar floor in a level condition. Ramps and a tug are used to position the airplane tire on top of the platform and centered. Built into the platform is an electronic load cell(s) that sense the weight being applied to it, which generates a corresponding electrical signal. Inside the load cell is an electronic strain gauge that measures a proportional change in electrical resistance as the weight being applied to it increases. An electrical cable or wireless signal runs from the platform scale to a display unit, computer, or tablet, which interprets the resistance change of the load cell and equates it to a specific number of pounds. A digital readout on the display shows the weight. If an aircraft is weighed on platform scales, the only way to level the aircraft is to deflate tires and landing gear struts accordingly. This type of scale is easy to transport and can be powered by household current or by a battery contained in the display unit. The display unit for the standard wired platform scales is very easy to use. Turn on the power and the unit runs through the software and displays the scales in a total mode. Pressing on the ZERO KEY (blue key not the number key) will ZERO the channels. Once completed, the unit will read -0- and the scale is ready to use. Select the channels by number and pressing the PRINT/SELECT KEY . All channels can be returned to TOTAL MODE by entering the number 4 TOTAL followed by the PRINT/SELECT KEY. If all three scale switches are turned on at the same time, the total weight of the airplane is displayed.
+The platform scale sits on the hangar floor in a level condition. Ramps and a tug are used to position the airplane tire on top of the platform and centered. Built into the platform is an electronic load cell(s) that sense the weight being applied to it, which generates a corresponding electrical signal. Inside the load cell is an electronic strain gauge that measures a proportional change in electrical resistance as the weight being applied to it increases. An electrical cable or wireless signal runs from the platform scale to a display unit, computer, or tablet, which interprets the resistance change of the load cell and equates it to a specific number of pounds. A digital readout on the display shows the weight. If an aircraft is weighed on platform scales, the only way to level the aircraft is to deflate tires and landing gear struts accordingly. This type of scale is easy to transport and can be powered by household current or by a battery contained in the display unit.
 
-The second type of aircraft scale is a top of jack, cell-based scale, where each jack point receives a cell-based transducer on the top of the jack. It is very easy to use and level the aircraft during the weighing operation. The system is easy to transport, light weight, and simple to set up. The operator must have a jack capable of receiving and mounting the cell. Cells come in many weight ranges and are dependent on the weight required per point to accomplish the weighing and receiving the actual jack point type. The top of the load cell has a concave shape that matches up with the jack pad on the aircraft, with the load cell absorbing all the weight of the aircraft at each jacking point. Each load cell either has an electrical cable attached to it or is wireless, which connects to the display unit or computer read out that shows the weight transmitted to each load cell. An important advantage of weighing an aircraft this way is that it allows the technician to level the aircraft easily. When an aircraft Comprehensive Equipment List This is a comprehensive list of all Cessna equipment that is available for the Model 182S airplane. It should not be confused with the airplane-specific equipment list. An airplane-specific list is provided with each individual airplane at delivery and is typically inserted at the rear of this Pilot’s Operating Handbook. The following comprehensive equipment list and the airplane-specific list have a similar order of listing.
+The display unit for the standard wired platform scales is very easy to use. Turn on the power and the unit runs through the software and displays the scales in a total mode. Pressing on the ZERO KEY (blue key not the number key) will ZERO the channels. Once completed, the unit will read -0- and the scale is ready to use. Select the channels by number and pressing the PRINT/SELECT KEY . All channels can be returned to TOTAL MODE by entering the number 4 TOTAL followed by the PRINT/SELECT KEY. If all three scale switches are turned on at the same time, the total weight of the airplane is displayed.
+
+The second type of aircraft scale is a top of jack, cell-based scale, where each jack point receives a cell-based transducer on the top of the jack. It is very easy to use and level the aircraft during the weighing operation. The system is easy to transport, light weight, and simple to set up. The operator must have a jack capable of receiving and mounting the cell. Cells come in many weight ranges and are dependent on the weight required per point to accomplish the weighing and receiving the actual jack point type.
+
+The top of the load cell has a concave shape that matches up with the jack pad on the aircraft, with the load cell absorbing all the weight of the aircraft at each jacking point. Each load cell either has an electrical cable attached to it or is wireless, which connects to the display unit or computer read out that shows the weight transmitted to each load cell. An important advantage of weighing an aircraft this way is that it allows the technician to level the aircraft easily. When an aircraft Comprehensive Equipment List This is a comprehensive list of all Cessna equipment that is available for the Model 182S airplane. It should not be confused with the airplane-specific equipment list. An airplane-specific list is provided with each individual airplane at delivery and is typically inserted at the rear of this Pilot’s Operating Handbook. The following comprehensive equipment list and the airplane-specific list have a similar order of listing.
 
 The comprehensive equipment list provides the following information in column form:
 
@@ -150,7 +156,9 @@ The CG range for an aircraft is the limits within which the aircraft must balanc
 
 Because the Piper Seneca is a retractable gear airplane, the specifications identify that the range applies when the landing gear is extended, and that the airplane’s total moment is decreased by 32 when the gear retracts. To know how much the CG changes when the gear is retracted, the moment of 32 in-lb would need to be divided by the loaded weight of the airplane. For example, if the airplane weighed 3,500 lb, the CG would move forward 0.009" (32 ÷ 3,500).
 
-Based on the numbers given, up to a loaded weight of 2,780 lb, the forward CG limit is +80.7" and the aft CG limit is +94.6". As the loaded weight of the airplane increases to 3,400 lb, and eventually to the maximum of 4,000 lb, the forward CG limit moves aft. In other words, as the loaded weight of the airplane increases, the CG range gets smaller. The range gets smaller because of the forward limit moving back, while the aft limit stays in the same place.
+Based on the numbers given, up to a loaded weight of 2,780 lb, the forward CG limit is +80.7" and the aft CG limit is +94.6". As the loaded weight of the airplane increases to 3,400 lb, and eventually to the maximum of 4,000 lb, the forward CG limit moves aft. In other words, as the loaded weight of the airplane increases, the CG range gets smaller.
+
+The range gets smaller because of the forward limit moving back, while the aft limit stays in the same place.
 
 The data sheet identifies that there is a straight-line variation between the points given. The points being referred to are the forward and aft CG limits. From a weight of 2,780 lb to a weight of 3,400 lb, the forward limit moves from +80.7" to +82.0", and if plotted on a graph, that change would form a straight line. From 3,400 lb to 4,000 lb, the forward limit moves from +82 to +86.4", again forming a straight line. Plotted on a graph, the CG limits would look like what is known as the CG envelope.
 
@@ -274,7 +282,9 @@ CG = D + (R × L) / W = 7.5 + (67 × 222) / 1,218 = 19.7 The CG is 19.7 inches b
 
 ## 2. 中文翻译
 
-对通用航空飞机、直升机、涡桨飞机、公务喷气机、无人机／无人航空系统，或运输类客机称重，都可以用两种方法完成：顶置式千斤顶载荷传感器（top of jack load cells）和平台秤。设备的选择取决于运营者的需求、手头现有的设备，以及机体制造商的建议。顾名思义，顶置式千斤顶载荷传感器既可装在现有随机机翼千斤顶顶部使用，也可用于较大型喷气机的轮轴下方。对于没有为每种机型都配备千斤顶的小型维修单位，平台秤非常实用。两类秤都采用了新技术。
+对通用航空飞机、直升机、涡桨飞机、公务喷气机、无人机／无人航空系统，或运输类客机称重，都可以用两种方法完成：顶置式千斤顶载荷传感器（top of jack load cells）和平台秤。设备的选择取决于运营者的需求、手头现有的设备，以及机体制造商的建议。顾名思义，顶置式千斤顶载荷传感器既可装在现有随机机翼千斤顶顶部使用，也可用于较大型喷气机的轮轴下方。
+
+对于没有为每种机型都配备千斤顶的小型维修单位，平台秤非常实用。两类秤都采用了新技术。
 
 （原文此处为表格碎片，原文无正文）
 
@@ -284,9 +294,13 @@ CG = D + (R × L) / W = 7.5 + (67 × 222) / 1,218 = 19.7 The CG is 19.7 inches b
 
 平台秤有多种量程和尺寸。这类系统或采用斜坡道，或在日常维修时把飞机顶起后降到平台上。平台秤易于使用，是许多没有为各种待修机型配备千斤顶的维修单位的选择。平台秤的限制因素是量程和轮胎尺寸：有些飞机轮胎很大，平台可能太小，容不下该机的轮胎。一定要按机型与称重作业选用尺寸合适的秤和平台。
 
-平台秤水平地放在机库地坪上。用斜坡道和牵引车把飞机轮胎移到平台顶上并居中。平台内装有电子载荷传感器，感受加在其上的重量并产生相应的电信号。载荷传感器内部是一个电子应变片，随着所加重量增加，它测出电阻成比例的变化。电缆或无线信号从平台秤传到显示单元、计算机或平板电脑，后者解读载荷传感器的电阻变化并换算成具体的磅数。显示器上的数字读数显示重量。如果把飞机放在平台秤上称重，唯一能调平飞机的方式就是按需给轮胎和起落架支柱放气。这类秤便于运输，可用市电或显示单元内的电池供电。标准有线平台秤的显示单元非常容易操作。打开电源，单元即运行软件并把各秤显示为总计模式。按 ZERO 键（蓝色键，不是数字键）可把各通道清零。完成后单元显示 -0-，秤即可使用。按编号选择通道，再按 PRINT/SELECT 键。输入数字 4 TOTAL 后按 PRINT/SELECT 键，所有通道都可回到总计模式。如果三台秤的开关同时打开，显示的就是飞机的总重量。
+平台秤水平地放在机库地坪上。用斜坡道和牵引车把飞机轮胎移到平台顶上并居中。平台内装有电子载荷传感器，感受加在其上的重量并产生相应的电信号。载荷传感器内部是一个电子应变片，随着所加重量增加，它测出电阻成比例的变化。电缆或无线信号从平台秤传到显示单元、计算机或平板电脑，后者解读载荷传感器的电阻变化并换算成具体的磅数。显示器上的数字读数显示重量。如果把飞机放在平台秤上称重，唯一能调平飞机的方式就是按需给轮胎和起落架支柱放气。这类秤便于运输，可用市电或显示单元内的电池供电。标准有线平台秤的显示单元非常容易操作。
 
-第二类飞机秤是顶置式、以传感器为基础的秤，每个顶升点都在千斤顶顶部接收一个传感器式变换器。这种秤很容易使用，也容易在称重过程中调平飞机。系统运输方便、重量轻、安装简单。操作者必须有一台能接收并安装传感器的千斤顶。传感器有多种量程，取决于每个点完成称重要求承受的重量以及实际顶升点的型式。载荷传感器顶部呈凹形，与飞机上的顶垫相配，由载荷传感器承受每个顶升点处的全部飞机重量。每个载荷传感器或有电缆相连，或是无线的，可接到显示单元或计算机读数装置上，显示传至各载荷传感器的重量。这样称重的一个重要优点是便于技术人员调平飞机。当一架飞机综合设备清单 本清单收列了可供 Model 182S 飞机使用的全部 Cessna 设备。它不应与针对单架飞机的设备清单相混淆。每架飞机在交付时都随机提供一份本机设备清单，通常插在本《飞行员操作手册》之后。下述综合设备清单与本机设备清单的排列顺序相似。
+打开电源，单元即运行软件并把各秤显示为总计模式。按 ZERO 键（蓝色键，不是数字键）可把各通道清零。完成后单元显示 -0-，秤即可使用。按编号选择通道，再按 PRINT/SELECT 键。输入数字 4 TOTAL 后按 PRINT/SELECT 键，所有通道都可回到总计模式。如果三台秤的开关同时打开，显示的就是飞机的总重量。
+
+第二类飞机秤是顶置式、以传感器为基础的秤，每个顶升点都在千斤顶顶部接收一个传感器式变换器。这种秤很容易使用，也容易在称重过程中调平飞机。系统运输方便、重量轻、安装简单。操作者必须有一台能接收并安装传感器的千斤顶。传感器有多种量程，取决于每个点完成称重要求承受的重量以及实际顶升点的型式。
+
+载荷传感器顶部呈凹形，与飞机上的顶垫相配，由载荷传感器承受每个顶升点处的全部飞机重量。每个载荷传感器或有电缆相连，或是无线的，可接到显示单元或计算机读数装置上，显示传至各载荷传感器的重量。这样称重的一个重要优点是便于技术人员调平飞机。当一架飞机综合设备清单 本清单收列了可供 Model 182S 飞机使用的全部 Cessna 设备。它不应与针对单架飞机的设备清单相混淆。每架飞机在交付时都随机提供一份本机设备清单，通常插在本《飞行员操作手册》之后。下述综合设备清单与本机设备清单的排列顺序相似。
 
 综合设备清单以列的形式提供以下信息：
 
@@ -420,7 +434,9 @@ CG = D + (R × L) / W = 7.5 + (67 × 222) / 1,218 = 19.7 The CG is 19.7 inches b
 
 由于 Piper Seneca 是收放起落架飞机，规范指明该范围适用于起落架放下的状态，并且当起落架收起时飞机的总力矩减少 32。要知道起落架收起时重心变化多少，需把 32 in-lb 的力矩除以飞机的装载重量。例如，如果飞机重 3,500 lb，重心会前移 0.009"（32 ÷ 3,500）。
 
-根据给出的数字，在装载重量不超过 2,780 lb 时，重心前限为 +80.7"，重心后限为 +94.6"。随着飞机装载重量增加到 3,400 lb，并最终达到最大值 4,000 lb，重心前限向后移动。换言之，随着装载重量增加，重心范围变小。范围变小是因为前限后移，而后限保持不动。
+根据给出的数字，在装载重量不超过 2,780 lb 时，重心前限为 +80.7"，重心后限为 +94.6"。随着飞机装载重量增加到 3,400 lb，并最终达到最大值 4,000 lb，重心前限向后移动。
+
+换言之，随着装载重量增加，重心范围变小。范围变小是因为前限后移，而后限保持不动。
 
 该数据表指明，所给各点之间存在直线变化。所指的点是重心前限和后限。从 2,780 lb 到 3,400 lb，前限从 +80.7" 移到 +82.0"；若绘成图，这一变化构成一条直线。从 3,400 lb 到 4,000 lb，前限从 +82 移到 +86.4"，同样构成一条直线。绘在图上，重心限制看起来就是所谓的重心包线。
 

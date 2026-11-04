@@ -16,7 +16,9 @@ The process consists of precleaning with an acidic or alkaline metal cleaner tha
 
 ### Chemical Surface Treatment and Inhibitors
 
-As previously described, aluminum and magnesium alloys in particular are protected originally by a variety of surface treatments. Steels may have been treated on the surface during manufacture. Most of these coatings can only be restored by processes that are completely impractical in the field. However, corroded areas where such protective films have been destroyed require some type of treatment prior to refinishing. The labels on the containers of surface treatment chemicals provide warnings if a material is toxic or flammable. However, the label might not be large enough to accommodate a list of all the possible hazards that may ensue if the materials are mixed with incompatible substances. The Safety Data Sheet (SDS) should also be consulted for information. For example, some chemicals used in surface treatments react violently if inadvertently mixed with paint thinners. Chemical surface treatment materials must be handled with extreme care and mixed exactly according to directions.
+As previously described, aluminum and magnesium alloys in particular are protected originally by a variety of surface treatments. Steels may have been treated on the surface during manufacture. Most of these coatings can only be restored by processes that are completely impractical in the field. However, corroded areas where such protective films have been destroyed require some type of treatment prior to refinishing.
+
+The labels on the containers of surface treatment chemicals provide warnings if a material is toxic or flammable. However, the label might not be large enough to accommodate a list of all the possible hazards that may ensue if the materials are mixed with incompatible substances. The Safety Data Sheet (SDS) should also be consulted for information. For example, some chemicals used in surface treatments react violently if inadvertently mixed with paint thinners. Chemical surface treatment materials must be handled with extreme care and mixed exactly according to directions.
 
 ### Chromic Acid Inhibitor
 
@@ -44,7 +46,9 @@ Several commercial, activated chromate acid mixtures are available under Specifi
 
 ### 化学表面处理与缓蚀剂
 
-如前所述，尤其是铝镁合金，最初是通过各种表面处理来保护的。钢材可能在制造过程中已经过表面处理。这些涂层大多只能通过在外场完全不切实际的工艺来恢复。但是，这些保护膜已被破坏的腐蚀区域，在重新涂装前需要某种处理。表面处理化学品容器的标签会在材料有毒或易燃时给出警示。然而，标签可能没有足够大的面积，无法列出材料与不相容物质混合后可能产生的全部危害。还应查阅安全数据表（SDS）获取信息。例如，某些用于表面处理的化学品如果无意中与油漆稀释剂混合，会发生剧烈反应。化学表面处理材料必须极其小心地处理，并严格按照说明混合。
+如前所述，尤其是铝镁合金，最初是通过各种表面处理来保护的。钢材可能在制造过程中已经过表面处理。这些涂层大多只能通过在外场完全不切实际的工艺来恢复。但是，这些保护膜已被破坏的腐蚀区域，在重新涂装前需要某种处理。
+
+表面处理化学品容器的标签会在材料有毒或易燃时给出警示。然而，标签可能没有足够大的面积，无法列出材料与不相容物质混合后可能产生的全部危害。还应查阅安全数据表（SDS）获取信息。例如，某些用于表面处理的化学品如果无意中与油漆稀释剂混合，会发生剧烈反应。化学表面处理材料必须极其小心地处理，并严格按照说明混合。
 
 ### 铬酸缓蚀剂
 

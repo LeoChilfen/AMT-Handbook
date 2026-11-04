@@ -58,7 +58,9 @@ If current flow through the wire were reversed in direction, the two fields woul
 
 ### Force Between Parallel Conductors
 
-Two wires carrying current in the vicinity of one another exert a force on each other because of their magnetic fields. An end view of two conductors is shown in the figure. In view A of the figure, electron flow in both conductors is toward the reader, and the magnetic fields are clockwise around the conductors. Between the wires, the fields cancel because the directions of the two fields oppose each other. The wires are forced in the direction of the weaker field, toward each other. This force is one of attraction. In view B of the figure, the electron flow in the two wires is in opposite directions. The magnetic fields are, therefore, clockwise in one and counterclockwise in the other, as shown. The fields reinforce each other between the wires, and the wires are forced in the direction of the weaker field, away from each other. This force is one of repulsion.
+Two wires carrying current in the vicinity of one another exert a force on each other because of their magnetic fields. An end view of two conductors is shown in the figure. In view A of the figure, electron flow in both conductors is toward the reader, and the magnetic fields are clockwise around the conductors. Between the wires, the fields cancel because the directions of the two fields oppose each other. The wires are forced in the direction of the weaker field, toward each other. This force is one of attraction. In view B of the figure, the electron flow in the two wires is in opposite directions.
+
+The magnetic fields are, therefore, clockwise in one and counterclockwise in the other, as shown. The fields reinforce each other between the wires, and the wires are forced in the direction of the weaker field, away from each other. This force is one of repulsion.
 
 To summarize: conductors carrying current in the same direction tend to be drawn together; conductors carrying current in opposite directions tend to be repelled from each other.
 
@@ -148,7 +150,9 @@ The armature in a practical motor is not placed between the poles of a permanent
 
 ### 平行导体之间的力
 
-两根通有电流的导线彼此靠近时，由于各自的磁场，会相互施加作用力。两根导体的端视图如图所示。在图中 A 位置，两根导体中的电子流向都朝向读者，磁场绕导体顺时针方向。在两根导线之间，由于两个磁场方向相反，磁场相互抵消。导线朝磁场较弱的方向被推，即相互靠近。这个力是吸引力。在图中 B 位置，两根导线中的电子流向相反。因此磁场一个顺时针、一个逆时针，如图所示。两根导线之间的磁场相互增强，导线朝磁场较弱的方向被推，即相互远离。这个力是排斥力。
+两根通有电流的导线彼此靠近时，由于各自的磁场，会相互施加作用力。两根导体的端视图如图所示。在图中 A 位置，两根导体中的电子流向都朝向读者，磁场绕导体顺时针方向。在两根导线之间，由于两个磁场方向相反，磁场相互抵消。导线朝磁场较弱的方向被推，即相互靠近。这个力是吸引力。在图中 B 位置，两根导线中的电子流向相反。
+
+因此磁场一个顺时针、一个逆时针，如图所示。两根导线之间的磁场相互增强，导线朝磁场较弱的方向被推，即相互远离。这个力是排斥力。
 
 概括地说：电流方向相同的导体趋于相互吸引；电流方向相反的导体趋于相互排斥。
 

@@ -30,11 +30,17 @@ Any one of these fires can occur during maintenance on or around, or operations 
 
 ### Types and Operation of Shop and Flight Line Fire Extinguishers
 
-Water extinguishers are the best type to use on Class A fires. Water has two effects on fire. It deprives fire of oxygen and cools the material being burned. Since most petroleum products float on water, water-type fire extinguishers are not recommended for Class B fires. Extreme caution must be used when fighting electrical fires (Class C) with water-type extinguishers. All electrical power must be removed or shut off to the burning area. Additionally, residual electricity in capacitors, coils, and so forth must be considered to prevent severe injury or possibly death from electrical shock. Never use water-type fire extinguishers on Class D fires. The cooling effect of water causes an explosive expansion of the metal, because metals burn at extremely high temperatures.
+Water extinguishers are the best type to use on Class A fires. Water has two effects on fire. It deprives fire of oxygen and cools the material being burned.
+
+Since most petroleum products float on water, water-type fire extinguishers are not recommended for Class B fires. Extreme caution must be used when fighting electrical fires (Class C) with water-type extinguishers. All electrical power must be removed or shut off to the burning area. Additionally, residual electricity in capacitors, coils, and so forth must be considered to prevent severe injury or possibly death from electrical shock.
+
+Never use water-type fire extinguishers on Class D fires. The cooling effect of water causes an explosive expansion of the metal, because metals burn at extremely high temperatures.
 
 Water fire extinguishers are operated in a variety of ways. Some are hand pumped, while others are pressurized. The pressurized types of extinguishers may have a gas charge stored in the container with the water, or it may contain a “soda-acid” container where acid is spilled into a container of soda inside the extinguisher. The chemical reaction of the soda and the acid causes pressure to build inside the fire extinguisher, forcing the water out.
 
-Carbon dioxide (CO₂) extinguishers are used for Class A, B, and C fires, extinguishing the fire by depriving it of oxygen. Additionally, like water-type extinguishers, CO₂ cools the burning material. Never use CO₂ on Class D fires. As with water extinguishers, the cooling effect of CO₂ on the hot metal can cause explosive expansion of the metal. When using CO₂ fire extinguishers, all parts of the extinguisher can become extremely cold, and remain so for a short time after operation. Wear protective equipment or take other precautions to prevent cold injury, such as frostbite. Extreme caution must be used when operating CO₂ fire extinguishers in closed or confined areas. Not only can the fire be deprived of oxygen, but so too can the operator.
+Carbon dioxide (CO₂) extinguishers are used for Class A, B, and C fires, extinguishing the fire by depriving it of oxygen. Additionally, like water-type extinguishers, CO₂ cools the burning material. Never use CO₂ on Class D fires. As with water extinguishers, the cooling effect of CO₂ on the hot metal can cause explosive expansion of the metal.
+
+When using CO₂ fire extinguishers, all parts of the extinguisher can become extremely cold, and remain so for a short time after operation. Wear protective equipment or take other precautions to prevent cold injury, such as frostbite. Extreme caution must be used when operating CO₂ fire extinguishers in closed or confined areas. Not only can the fire be deprived of oxygen, but so too can the operator.
 
 CO₂ fire extinguishers generally use the self-expelling method of operation. This means that the CO₂ has sufficient pressure at normal operating pressure to expel itself. This pressure is held inside the container by some type of seal or frangible disk that is broken or punctured by a firing mechanism, usually a pin. This means that once the seal or disk is broken, pressure in the container is released and the fire extinguisher is spent, requiring replacement.
 
@@ -82,7 +88,9 @@ Fire extinguishers are marked to indicate suitability for a particular class of 
 
 Markings must be applied by decalcomanias (decals), painting, or similar methods. They are to be legible and as durable as necessary for the location. For example, markings used outside need to be more durable than those in the hangar or office spaces.
 
-When markings are applied to the extinguisher, they are placed on the front of the shell, if one is installed, above or below the extinguisher nameplate. Markings must be large enough and in a form that is easily seen and identifiable by the average person with average eyesight at a distance of at least 3 feet. When markings are applied to wall panels, and so forth, in the vicinity of extinguishers, they must be large enough and in a form that is easily seen and identifiable by the average person with average eyesight at a distance of at least 25 feet.
+When markings are applied to the extinguisher, they are placed on the front of the shell, if one is installed, above or below the extinguisher nameplate. Markings must be large enough and in a form that is easily seen and identifiable by the average person with average eyesight at a distance of at least 3 feet.
+
+When markings are applied to wall panels, and so forth, in the vicinity of extinguishers, they must be large enough and in a form that is easily seen and identifiable by the average person with average eyesight at a distance of at least 25 feet.
 
 ### Using Fire Extinguishers
 
@@ -116,11 +124,17 @@ When using a fire extinguisher, ensure the correct type is used for the fire. Mo
 
 ### 车间与停机坪灭火器的类型和操作
 
-水型灭火器是扑救 A 类火的最佳选择。水对火有两种作用：它使火隔绝氧气，并冷却正在燃烧的材料。由于大多数石油制品会浮在水面上，因此不推荐用水型灭火器扑救 B 类火。用水型灭火器扑救电气火灾（C 类）时必须极其谨慎：必须先切断或关闭通往燃烧区域的全部电源。此外，还必须考虑电容器、线圈等设备中的残余电荷，以免因电击造成重伤甚至死亡。绝不要用水型灭火器扑救 D 类火。因为金属燃烧时温度极高，水的冷却作用会使金属发生爆炸性膨胀。
+水型灭火器是扑救 A 类火的最佳选择。水对火有两种作用：它使火隔绝氧气，并冷却正在燃烧的材料。
+
+由于大多数石油制品会浮在水面上，因此不推荐用水型灭火器扑救 B 类火。用水型灭火器扑救电气火灾（C 类）时必须极其谨慎：必须先切断或关闭通往燃烧区域的全部电源。此外，还必须考虑电容器、线圈等设备中的残余电荷，以免因电击造成重伤甚至死亡。
+
+绝不要用水型灭火器扑救 D 类火。因为金属燃烧时温度极高，水的冷却作用会使金属发生爆炸性膨胀。
 
 水型灭火器的操作方式多种多样。有些靠手动泵压，有些则是储压式。储压式灭火器可能把压缩气体与水一同封存在容器内，也可能装有一个“酸碱”式容器，其中的酸被倾入灭火器内部的碳酸氢钠（soda）容器。碳酸氢钠与酸发生化学反应后在灭火器内产生压力，把水压出。
 
-二氧化碳（CO₂）灭火器用于扑救 A、B、C 类火，通过使火隔绝氧气来灭火。此外，与水型灭火器一样，CO₂ 也能冷却燃烧的材料。绝不要用 CO₂ 扑救 D 类火。与水的道理相同，CO₂ 对灼热金属的冷却作用会使金属发生爆炸性膨胀。使用 CO₂ 灭火器时，灭火器的所有部件都会变得极冷，并在操作结束后短时间内保持低温。应穿戴防护装备或采取其他预防措施，防止冻伤等低温伤害。在封闭或狭窄区域操作 CO₂ 灭火器时必须极其谨慎：不仅火可能缺氧，操作者本人也可能缺氧。
+二氧化碳（CO₂）灭火器用于扑救 A、B、C 类火，通过使火隔绝氧气来灭火。此外，与水型灭火器一样，CO₂ 也能冷却燃烧的材料。绝不要用 CO₂ 扑救 D 类火。与水的道理相同，CO₂ 对灼热金属的冷却作用会使金属发生爆炸性膨胀。
+
+使用 CO₂ 灭火器时，灭火器的所有部件都会变得极冷，并在操作结束后短时间内保持低温。应穿戴防护装备或采取其他预防措施，防止冻伤等低温伤害。在封闭或狭窄区域操作 CO₂ 灭火器时必须极其谨慎：不仅火可能缺氧，操作者本人也可能缺氧。
 
 CO₂ 灭火器一般采用自喷（self-expelling）式工作方式，即 CO₂ 在其正常工作压力下具有足以自行喷出的压力。容器内的压力由某种密封件或爆破片维持，该密封件或爆破片由击发机构（通常是一根销）打碎或刺破。这意味着，一旦密封件或爆破片被破坏，容器内的压力即被释放，灭火器随之报废，需要更换。
 
@@ -168,7 +182,9 @@ CO₂ 灭火器一般采用自喷（self-expelling）式工作方式，即 CO₂
 
 标识必须用贴花（decalcomania，即贴纸）、喷漆或类似方法施加。标识应清晰可辨，并具有与所处位置相适应的耐久性。例如，室外使用的标识需要比机库或办公区域内的标识更耐久。
 
-标识贴在灭火器上时，若灭火器装有外壳，应贴在壳体正面，即灭火器铭牌的上方或下方。标识必须足够大，且形式应便于视力正常的普通人在至少 3 英尺的距离上轻松看清并辨认。标识贴在灭火器附近的墙板等位置时，必须足够大，且形式应便于视力正常的普通人在至少 25 英尺的距离上轻松看清并辨认。
+标识贴在灭火器上时，若灭火器装有外壳，应贴在壳体正面，即灭火器铭牌的上方或下方。标识必须足够大，且形式应便于视力正常的普通人在至少 3 英尺的距离上轻松看清并辨认。
+
+标识贴在灭火器附近的墙板等位置时，必须足够大，且形式应便于视力正常的普通人在至少 25 英尺的距离上轻松看清并辨认。
 
 ### 灭火器的使用
 

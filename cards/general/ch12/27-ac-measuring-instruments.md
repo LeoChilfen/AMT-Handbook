@@ -60,7 +60,9 @@ If the current in the line is reversed, the direction of current in both coils a
 
 ### Frequency Measurement/Oscilloscope
 
-The oscilloscope is by far one of the more useful electronic measurements available. The viewing capabilities of the oscilloscope make it possible to see and quantify various waveform characteristics, such as phase relationships, amplitudes, and durations. While oscilloscopes come in a variety of configurations and presentations, the basic operation is typically the same. Most oscilloscopes in general bench or shop applications use a cathode-ray tube (CRT), which is the device or screen that displays the waveforms. The CRT is a vacuum instrument that contains an electron gun, which emits a very narrow and focused beam of electrons. A phosphorescent coat applied to the back of the screen forms the screen. The beam is electronically aimed and accelerated so that the electron beam strikes the screen. When the electron beam strikes the screen, light is emitted at the point of impact.
+The oscilloscope is by far one of the more useful electronic measurements available. The viewing capabilities of the oscilloscope make it possible to see and quantify various waveform characteristics, such as phase relationships, amplitudes, and durations. While oscilloscopes come in a variety of configurations and presentations, the basic operation is typically the same. Most oscilloscopes in general bench or shop applications use a cathode-ray tube (CRT), which is the device or screen that displays the waveforms.
+
+The CRT is a vacuum instrument that contains an electron gun, which emits a very narrow and focused beam of electrons. A phosphorescent coat applied to the back of the screen forms the screen. The beam is electronically aimed and accelerated so that the electron beam strikes the screen. When the electron beam strikes the screen, light is emitted at the point of impact.
 
 The figure shows the basic components of the CRT with a block diagram. The heated cathode emits electrons. The magnitude of voltage on the control grid determines the actual flow of electrons and thus controls the intensity of the electron beam. The acceleration anodes increase the speed of the electrons, and the focusing anode narrows the beam down to a fine point. The surface of the screen is also an anode and assists in the acceleration of the electron beam.
 
@@ -166,7 +168,9 @@ Traditionally, the meters that technicians have used have been the analog voltme
 
 ### 频率测量／示波器
 
-示波器是目前可用的相当有用的电子测量手段之一。示波器的可视能力使人们能够看到并量化各种波形特征，如相位关系、幅度和持续时间。虽然示波器的结构和显示方式多种多样，但基本工作原理通常相同。一般台式或车间用示波器大多使用阴极射线管（CRT），即显示波形的器件或屏幕。CRT 是一种真空器件，内含电子枪，电子枪发射一束很窄的聚焦电子束。涂在屏幕背面的荧光层构成屏幕。电子束受到电子方式的瞄准和加速，从而打到屏幕上。当电子束打到屏幕时，在撞击点发出光。
+示波器是目前可用的相当有用的电子测量手段之一。示波器的可视能力使人们能够看到并量化各种波形特征，如相位关系、幅度和持续时间。虽然示波器的结构和显示方式多种多样，但基本工作原理通常相同。一般台式或车间用示波器大多使用阴极射线管（CRT），即显示波形的器件或屏幕。
+
+CRT 是一种真空器件，内含电子枪，电子枪发射一束很窄的聚焦电子束。涂在屏幕背面的荧光层构成屏幕。电子束受到电子方式的瞄准和加速，从而打到屏幕上。当电子束打到屏幕时，在撞击点发出光。
 
 图中用框图给出了 CRT 的基本组成部件。受热的阴极发射电子。控制栅极上的电压大小决定实际的电子流量，从而控制电子束的强度。加速阳极提高电子的速度，聚焦阳极把电子束收细成一点。屏幕表面本身也是一个阳极，协助电子束加速。
 

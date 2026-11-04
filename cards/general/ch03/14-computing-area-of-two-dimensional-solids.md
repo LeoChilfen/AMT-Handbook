@@ -12,7 +12,9 @@ A rectangle is a four-sided figure with opposite sides of equal length and paral
 
 A square is a four-sided figure with all sides of equal length and opposite sides are parallel to each other. All angles are right angles. A right angle is a 90° angle. The formula for the area of a square is: area = length × width = l × w Since the length and the width of a square are the same value, the formula for the area of a square can also be written as: area = side × side = s2 Example: What is the area of a square access plate whose side measures 25 inches? First, determine the known value and substitute it in the formula. a = l × w = 25 inches × 25 inches = 625 square inches
 
-A triangle is a three-sided figure. The sum of the three angles in a triangle is always equal to 180°. Triangles are often classified by their sides. An equilateral triangle has 3 sides of equal length. An isosceles triangle has 2 sides of equal length. A scalene triangle has three sides of differing lengths. Triangles can also be classified by their angles. An acute triangle has all three angles less than 90°. A right triangle has one right angle (a 90° angle). An obtuse triangle has one angle greater than 90°.
+A triangle is a three-sided figure. The sum of the three angles in a triangle is always equal to 180°. Triangles are often classified by their sides. An equilateral triangle has 3 sides of equal length. An isosceles triangle has 2 sides of equal length. A scalene triangle has three sides of differing lengths.
+
+Triangles can also be classified by their angles. An acute triangle has all three angles less than 90°. A right triangle has one right angle (a 90° angle). An obtuse triangle has one angle greater than 90°.
 
 The formula for the area of a triangle is area = 1⁄2 × (base × height) = 1⁄2 × (b × h)
 
@@ -24,7 +26,9 @@ A parallelogram is a four-sided figure with two pairs of parallel sides. Paralle
 
 A trapezoid is a four-sided figure with one pair of parallel sides. The formula for the area of a trapezoid is: area = 1⁄2 (base1 + base2) × height w = 12 l = 24 s = 25 Object Area Formula Rectangle Square Parallelogram Trapezoid
 
-Triangle a = l × w a = l × w or a = s2 a = l × h a = ½ (b1 + b2) × h a = π × r2 a = π × a × b a = s × c a = ½ (l × h) or a = ½ (b × h) or a = (b × h) ÷ 2 length × width length × width or side × side length × height ½ (base1 + base2) × height π × radius2 π × semi-axis A × semi-axis B span × mean chord ½ × (length × height) or ½ × (base × height) or (base × height) ÷ 2 Example: What is the area of a trapezoid whose bases are 14 inches and 10 inches, and whose height (or altitude) is 6 inches? First, substitute the known values in the formula. a = 1⁄2 (b1 + b2) × h = 1⁄2 (14 inches + 10 inches) × 6 inches a = 1⁄2 (24 inches) × 6 inches = 12 inches × 6 inches = 72 square inches Circle A circle is a closed, curved, plane figure. Every point on the circle is an equal distance from the center of the circle. The diameter is the distance across the circle (through the center). The radius is the distance from the center to the edge of the circle. The diameter is always twice the length of the radius. The circumference, or distance around, a circle is equal to the diameter times π. circumference = c = d π The formula for the area of a circle is: area = π × radius2 = π × r2 Example: The bore, which is “inside diameter,” of a certain aircraft engine cylinder is 5 inches. Find the area of the cross section of the cylinder. First, substitute the known values in the formula: a = π × r2 The diameter is 5 inches, so the radius is 2.5 inches. (diameter = radius × 2) a = 3.1416 × (2.5 inches) 2 = 3.1416 × 6.25 square inches = 19.635 square inches Ellipse An ellipse is a closed, curved, plane figure and is commonly called an oval. In a radial engine, the articulating rods connect to the hub by pins, which travel in the pattern of an ellipse (i.e., an elliptical or orbital path).
+Triangle a = l × w a = l × w or a = s2 a = l × h a = ½ (b1 + b2) × h a = π × r2 a = π × a × b a = s × c a = ½ (l × h) or a = ½ (b × h) or a = (b × h) ÷ 2 length × width length × width or side × side length × height ½ (base1 + base2) × height π × radius2 π × semi-axis A × semi-axis B span × mean chord ½ × (length × height) or ½ × (base × height) or (base × height) ÷ 2 Example: What is the area of a trapezoid whose bases are 14 inches and 10 inches, and whose height (or altitude) is 6 inches? First, substitute the known values in the formula. a = 1⁄2 (b1 + b2) × h = 1⁄2 (14 inches + 10 inches) × 6 inches a = 1⁄2 (24 inches) × 6 inches = 12 inches × 6 inches = 72 square inches Circle A circle is a closed, curved, plane figure. Every point on the circle is an equal distance from the center of the circle. The diameter is the distance across the circle (through the center). The radius is the distance from the center to the edge of the circle. The diameter is always twice the length of the radius. The circumference, or distance around, a circle is equal to the diameter times π. circumference = c = d π The formula for the area of a circle is: area = π × radius2 = π × r2 Example: The bore, which is “inside diameter,” of a certain aircraft engine cylinder is 5 inches. Find the area of the cross section of the cylinder.
+
+First, substitute the known values in the formula: a = π × r2 The diameter is 5 inches, so the radius is 2.5 inches. (diameter = radius × 2) a = 3.1416 × (2.5 inches) 2 = 3.1416 × 6.25 square inches = 19.635 square inches Ellipse An ellipse is a closed, curved, plane figure and is commonly called an oval. In a radial engine, the articulating rods connect to the hub by pins, which travel in the pattern of an ellipse (i.e., an elliptical or orbital path).
 
 Base = 3 ft 2 in Height = 2 ft 6 in b1 = 14"
 
@@ -44,7 +48,9 @@ A square yard measures 1 yard by 1 yard. It also measures 3 feet by 3 feet. Ther
 
 正方形是四边图形，各边等长且对边互相平行。所有角都是直角。直角是 90° 的角。正方形的面积公式为：area = length × width = l × w 由于正方形的长与宽数值相同，正方形的面积公式也可以写成：area = side × side = s2（原文 s2 中的 2 为上标，即 s 的平方）例：一块正方形检修盖板的边长为 25 英寸，其面积是多少？先确定已知值，再代入公式。a = l × w = 25 英寸 × 25 英寸 = 625 平方英寸
 
-三角形是三边图形。三角形三个角之和总是等于 180°。三角形常按边分类：等边三角形三条边等长；等腰三角形两条边等长；不等边三角形三条边长度各不相同。三角形也可以按角分类：锐角三角形的三个角都小于 90°；直角三角形有一个直角（90° 的角）；钝角三角形有一个角大于 90°。
+三角形是三边图形。三角形三个角之和总是等于 180°。三角形常按边分类：等边三角形三条边等长；等腰三角形两条边等长；不等边三角形三条边长度各不相同。
+
+三角形也可以按角分类：锐角三角形的三个角都小于 90°；直角三角形有一个直角（90° 的角）；钝角三角形有一个角大于 90°。
 
 三角形的面积公式为 area = 1⁄2 × (base × height) = 1⁄2 × (b × h)
 
@@ -56,7 +62,9 @@ A square yard measures 1 yard by 1 yard. It also measures 3 feet by 3 feet. Ther
 
 梯形是四边图形，有一对平行边。梯形的面积公式为：area = 1⁄2 (base1 + base2) × height。另附 w = 12、l = 24、s = 25 等尺寸标注，以及面积公式表的栏目名称（Object、Area、Formula 与 Rectangle、Square、Parallelogram、Trapezoid）；原文此处排版破碎，无完整句子。
 
-（原文此处为面积公式总表的碎片：a = l × w、a = l × w or a = s2、a = l × h、a = ½ (b1 + b2) × h、a = π × r2、a = π × a × b、a = s × c 等公式与 length × width、½ (base1 + base2) × height、π × radius2、span × mean chord 等文字表述并列，表头与数值散落，原文无完整句子。）例：某梯形两底分别为 14 英寸和 10 英寸、高（或高线）为 6 英寸，其面积是多少？先把已知值代入公式。a = 1⁄2 (b1 + b2) × h = 1⁄2 (14 英寸 + 10 英寸) × 6 英寸 a = 1⁄2 (24 英寸) × 6 英寸 = 12 英寸 × 6 英寸 = 72 平方英寸 圆　圆是封闭的曲边平面图形，圆上每一点到圆心的距离都相等。直径是穿过圆心的两点间的距离。半径是圆心到圆周的距离。直径总是半径的两倍。圆的周长（即绕圆一周的距离）等于直径乘 π。circumference = c = d π 圆的面积公式为：area = π × radius2 = π × r2 例：某航空发动机气缸的缸径（即“内径”）为 5 英寸。求该气缸横截面的面积。先把已知值代入公式：a = π × r2 直径为 5 英寸，所以半径为 2.5 英寸。（直径 = 半径 × 2） a = 3.1416 × (2.5 英寸) 2 = 3.1416 × 6.25 平方英寸 = 19.635 平方英寸 椭圆　椭圆是封闭的曲边平面图形，通常称为卵形。在星形发动机中，连杆通过销连接到中心毂上，这些销的运动轨迹就是椭圆的形状（即椭圆路径或环绕路径）。
+（原文此处为面积公式总表的碎片：a = l × w、a = l × w or a = s2、a = l × h、a = ½ (b1 + b2) × h、a = π × r2、a = π × a × b、a = s × c 等公式与 length × width、½ (base1 + base2) × height、π × radius2、span × mean chord 等文字表述并列，表头与数值散落，原文无完整句子。）例：某梯形两底分别为 14 英寸和 10 英寸、高（或高线）为 6 英寸，其面积是多少？先把已知值代入公式。a = 1⁄2 (b1 + b2) × h = 1⁄2 (14 英寸 + 10 英寸) × 6 英寸 a = 1⁄2 (24 英寸) × 6 英寸 = 12 英寸 × 6 英寸 = 72 平方英寸 圆　圆是封闭的曲边平面图形，圆上每一点到圆心的距离都相等。直径是穿过圆心的两点间的距离。半径是圆心到圆周的距离。直径总是半径的两倍。圆的周长（即绕圆一周的距离）等于直径乘 π。circumference = c = d π 圆的面积公式为：area = π × radius2 = π × r2 例：某航空发动机气缸的缸径（即“内径”）为 5 英寸。
+
+求该气缸横截面的面积。先把已知值代入公式：a = π × r2 直径为 5 英寸，所以半径为 2.5 英寸。（直径 = 半径 × 2） a = 3.1416 × (2.5 英寸) 2 = 3.1416 × 6.25 平方英寸 = 19.635 平方英寸 椭圆　椭圆是封闭的曲边平面图形，通常称为卵形。在星形发动机中，连杆通过销连接到中心毂上，这些销的运动轨迹就是椭圆的形状（即椭圆路径或环绕路径）。
 
 （原文此处为形体尺寸标注：底边 = 3 英尺 2 英寸、高 = 2 英尺 6 英寸、b1 = 14 英寸，原文无正文。）
 

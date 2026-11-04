@@ -20,7 +20,11 @@ Studies of the atmosphere have revealed that the temperature does not decrease u
 
 The atmosphere is divided into concentric layers or levels. Transition through these layers is gradual and without sharply defined boundaries. However, one boundary, the tropopause, exists between the first and second layer. The tropopause is defined as the point in the atmosphere at which the decrease in temperature, with increasing altitude, abruptly ceases. The four atmosphere layers are the troposphere, stratosphere, ionosphere, and the exosphere. The upper portion of the stratosphere is often called the chemosphere or ozonosphere, and the exosphere is also known as the mesosphere.
 
-The troposphere extends from the earth’s surface to about 35,000 ft at middle latitudes, but varies from 28,000 ft at the poles to about 54,000 ft at the equator. The troposphere is characterized by large changes in temperature and humidity and by generally turbulent conditions. Nearly all cloud formations are within the troposphere. Approximately three-fourths of the total weight of the atmosphere is within the troposphere. The stratosphere extends from the upper limits of the troposphere and the tropopause to an average altitude of 60 miles. The ionosphere ranges from the 50-mile level to a level of 300 to 600 miles. Little is known about the characteristics of the ionosphere, but it is thought that many electrical phenomena occur there. Basically, this layer is characterized by the presence of ions and free electrons, and the ionization seems to increase with altitude and in successive layers. The exosphere, or mesosphere, is the outer layer of the atmosphere. It begins at an altitude of 600 miles and extends to the limits of the atmosphere. In this layer, the temperature is fairly constant at 2,500° Kelvin, and propagation of sound is thought to be impossible due to lack of molecular substance.
+The troposphere extends from the earth’s surface to about 35,000 ft at middle latitudes, but varies from 28,000 ft at the poles to about 54,000 ft at the equator. The troposphere is characterized by large changes in temperature and humidity and by generally turbulent conditions. Nearly all cloud formations are within the troposphere. Approximately three-fourths of the total weight of the atmosphere is within the troposphere. The stratosphere extends from the upper limits of the troposphere and the tropopause to an average altitude of 60 miles.
+
+The ionosphere ranges from the 50-mile level to a level of 300 to 600 miles. Little is known about the characteristics of the ionosphere, but it is thought that many electrical phenomena occur there. Basically, this layer is characterized by the presence of ions and free electrons, and the ionization seems to increase with altitude and in successive layers.
+
+The exosphere, or mesosphere, is the outer layer of the atmosphere. It begins at an altitude of 600 miles and extends to the limits of the atmosphere. In this layer, the temperature is fairly constant at 2,500° Kelvin, and propagation of sound is thought to be impossible due to lack of molecular substance.
 
 ### Atmospheric Pressure
 
@@ -92,7 +96,11 @@ Pressure at 0 altitude (P0) = 29.92 "Hg Temperature at 0 altitude (T0) = 15 °C 
 
 大气分为若干同心层。穿过这些层是渐变的，没有分明的边界。然而第一层与第二层之间存在一个边界，即对流层顶。对流层顶定义为大气中温度随高度上升而下降的现象骤然停止的那一点。四个大气层分别是对流层、平流层、电离层和外逸层。平流层的上部常被称为化学层或臭氧层，而外逸层又称中间层。
 
-在中纬度地区，对流层从地球表面延伸到约 35,000 ft，但在两极约为 28,000 ft，在赤道约为 54,000 ft。对流层的特征是温度与湿度变化大，且通常气流湍乱。几乎所有的云都在对流层之内。大气总重量的大约四分之三集中在对流层内。平流层从对流层上限和对流层顶起，延伸到平均 60 英里的高度。电离层从 50 英里高度延伸到 300 至 600 英里。人们对电离层的特性知之甚少，但认为那里会发生许多电学现象。这一层的基本特征是存在离子和自由电子，电离程度似乎随高度以及逐层递增。外逸层（又称中间层）是大气的最外层，始于 600 英里高度，延伸到大气的边界。在这一层，温度相当恒定，约为 2,500 K；由于缺乏分子物质，声音被认为无法传播。
+在中纬度地区，对流层从地球表面延伸到约 35,000 ft，但在两极约为 28,000 ft，在赤道约为 54,000 ft。对流层的特征是温度与湿度变化大，且通常气流湍乱。几乎所有的云都在对流层之内。大气总重量的大约四分之三集中在对流层内。平流层从对流层上限和对流层顶起，延伸到平均 60 英里的高度。
+
+电离层从 50 英里高度延伸到 300 至 600 英里。人们对电离层的特性知之甚少，但认为那里会发生许多电学现象。这一层的基本特征是存在离子和自由电子，电离程度似乎随高度以及逐层递增。
+
+外逸层（又称中间层）是大气的最外层，始于 600 英里高度，延伸到大气的边界。在这一层，温度相当恒定，约为 2,500 K；由于缺乏分子物质，声音被认为无法传播。
 
 ### 大气压力
 

@@ -48,7 +48,9 @@ Feedback occurs when a small portion of the output signal is sent back to the in
 
 2. Negative (degenerative)
 
-The main difference between these two signals is whether the feedback signal adds to the input signal or if the feedback signal diminishes the input signal. When the feedback is positive, the signal being returned to the input is in phase with the input signal and thus interferes constructively. The figure illustrates this concept applied in the amplified circuit through a block diagram. Notice that the feedback signal is in phase with the input signal, which regenerates the input signal. This results in an output signal with amplitude greater than would have been without the constructive, positive feedback. This type of positive feedback is what causes an audio system to squeal.
+The main difference between these two signals is whether the feedback signal adds to the input signal or if the feedback signal diminishes the input signal.
+
+When the feedback is positive, the signal being returned to the input is in phase with the input signal and thus interferes constructively. The figure illustrates this concept applied in the amplified circuit through a block diagram. Notice that the feedback signal is in phase with the input signal, which regenerates the input signal. This results in an output signal with amplitude greater than would have been without the constructive, positive feedback. This type of positive feedback is what causes an audio system to squeal.
 
 The figure also illustrates with a block diagram how negative or degenerative feedback occurs. In this case, the feedback signal is out of phase with the input signal. This causes destructive interference and degenerates the input signal. The result is a lower amplitude output signal than would have occurred without the feedback.
 
@@ -124,7 +126,9 @@ RC 耦合是最常用的耦合方式，它使用一只耦合电容和一些信�
 
 2. 负反馈（衰减）
 
-这两种信号的主要区别在于：反馈信号是加到输入信号上，还是削弱输入信号。当反馈为正时，送回输入端的信号与输入信号同相，因而发生相长干涉。图以框图形式展示了这一概念在放大电路中的应用。注意反馈信号与输入信号同相，对输入信号起再生作用。其结果是输出信号的幅值比没有这种相长的正反馈时更大。这种正反馈正是音响系统产生啸叫的原因。
+这两种信号的主要区别在于：反馈信号是加到输入信号上，还是削弱输入信号。
+
+当反馈为正时，送回输入端的信号与输入信号同相，因而发生相长干涉。图以框图形式展示了这一概念在放大电路中的应用。注意反馈信号与输入信号同相，对输入信号起再生作用。其结果是输出信号的幅值比没有这种相长的正反馈时更大。这种正反馈正是音响系统产生啸叫的原因。
 
 图同样以框图形式展示了负反馈（衰减反馈）是如何产生的。在这种情况下，反馈信号与输入信号反相，因而发生相消干涉并削弱输入信号。结果得到比没有反馈时幅值更低的输出信号。
 

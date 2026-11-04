@@ -6,7 +6,9 @@
 
 In general, solvent cleaners used in aircraft cleaning must have a flashpoint of not less than 105 °F, if explosion proofing of equipment and other special precautions are to be avoided. Chlorinated solvents of all types meet the nonflammable requirements, but are toxic. Safety precautions must be observed in their use. Use of carbon tetrachloride is to be avoided. The SDS for each solvent must be consulted for handling and safety information.
 
-AMTs must review the SDS available for any chemical, solvent, or other materials they may come in contact with during the course of their maintenance activities. In particular, solvents and cleaning liquids, even those considered “environmentally friendly,” can have varied detrimental effects on the skin, internal organs, and/or nervous system. Active solvents, such as methyl ethyl ketone (MEK) and acetone, can be harmful or fatal if swallowed, inhaled, or absorbed through the skin in sufficient quantities. Particular attention must be paid to recommended protective measures including gloves, respirators, and face shields. A regular review of the SDS keeps the AMT updated on any revisions that may be made by chemical manufacturers or government authorities.
+AMTs must review the SDS available for any chemical, solvent, or other materials they may come in contact with during the course of their maintenance activities. In particular, solvents and cleaning liquids, even those considered “environmentally friendly,” can have varied detrimental effects on the skin, internal organs, and/or nervous system. Active solvents, such as methyl ethyl ketone (MEK) and acetone, can be harmful or fatal if swallowed, inhaled, or absorbed through the skin in sufficient quantities.
+
+Particular attention must be paid to recommended protective measures including gloves, respirators, and face shields. A regular review of the SDS keeps the AMT updated on any revisions that may be made by chemical manufacturers or government authorities.
 
 ### Dry Cleaning Solvent
 
@@ -34,7 +36,9 @@ Do not use any cleaning compounds that may leave an oily film when cleaning oxyg
 
 一般来说，如果要避免对设备采取防爆措施和采取其他特殊预防措施，飞机清洁所用溶剂清洁剂的闪点就不得低于 105 °F。各类氯化溶剂都满足不可燃要求，但有毒。使用它们时必须遵守安全预防措施。应避免使用四氯化碳。必须查阅每种溶剂的安全数据表（SDS），以获取搬运和安全信息。
 
-航空维修技术人员（AMT）必须查阅其维修活动中可能接触的任何化学品、溶剂或其他材料的 SDS。特别是溶剂和清洁液，即使是那些被认为“环保”的产品，也可能对皮肤、内脏和/或神经系统产生各种有害影响。活性溶剂，如甲基乙基酮（MEK）和丙酮，如果吞入、吸入或经皮肤吸收足够量，可能有害甚至致命。必须特别注意建议的防护措施，包括手套、呼吸器和面罩。定期查阅 SDS 可使 AMT 随时了解化学品制造商或政府主管部门可能作出的任何修订。
+航空维修技术人员（AMT）必须查阅其维修活动中可能接触的任何化学品、溶剂或其他材料的 SDS。特别是溶剂和清洁液，即使是那些被认为“环保”的产品，也可能对皮肤、内脏和/或神经系统产生各种有害影响。活性溶剂，如甲基乙基酮（MEK）和丙酮，如果吞入、吸入或经皮肤吸收足够量，可能有害甚至致命。
+
+必须特别注意建议的防护措施，包括手套、呼吸器和面罩。定期查阅 SDS 可使 AMT 随时了解化学品制造商或政府主管部门可能作出的任何修订。
 
 ### 干洗溶剂
 

@@ -26,7 +26,9 @@ According to this theory of heat as a form of energy, the molecules, atoms, and 
 
 ### Heat Energy Units
 
-Two different units are used to express quantities of heat energy. They are the calorie and the BTU. One calorie is equal to the amount of heat required to change the temperature of 1 gram of water 1 degree Centigrade. This term “calorie” (spelled with a lower case c) is 1/1,000 of the Calorie (spelled with a capital C) used in the measurement of the heat energy in foods. One BTU is defined as the amount of heat required to change the temperature of 1 lb of water 1 degree Fahrenheit (1 °F). The calorie and the gram are seldom used in discussing aviation maintenance. The BTU, however, is commonly referred to in discussions of engine thermal efficiencies and the heat content of aviation fuel.
+Two different units are used to express quantities of heat energy. They are the calorie and the BTU. One calorie is equal to the amount of heat required to change the temperature of 1 gram of water 1 degree Centigrade.
+
+This term “calorie” (spelled with a lower case c) is 1/1,000 of the Calorie (spelled with a capital C) used in the measurement of the heat energy in foods. One BTU is defined as the amount of heat required to change the temperature of 1 lb of water 1 degree Fahrenheit (1 °F). The calorie and the gram are seldom used in discussing aviation maintenance. The BTU, however, is commonly referred to in discussions of engine thermal efficiencies and the heat content of aviation fuel.
 
 A device known as the calorimeter is used to measure quantities of heat energy. In application, it may be used to determine the quantity of heat energy available in 1 pound of aviation gasoline. A given weight of the fuel is burned in the calorimeter, and the heat energy is absorbed by a large quantity of water. From the weight of the water and the increase in its temperature, it is possible to compute the heat yield of the fuel. A definite relationship exists between heat and mechanical energy. This relationship has been established and verified by many experiments which show that:
 
@@ -44,7 +46,9 @@ Thermal Efficiency = Hp Produced ÷ Hp in Fuel = 200 ÷ 744 = .2688 or 26.88% Mo
 
 There are three methods by which heat is transferred from one location to another or from one substance to another. These three methods are conduction, convection, and radiation.
 
-Heat transfer always takes place by areas of high heat energy migrating to areas of low heat energy. Heat transfer by conduction requires that there be physical contact between an object that has a large amount of heat energy and one that has a smaller amount of heat energy. Everyone knows from experience that the metal handle of a heated pan can burn the hand. A plastic or wood handle, however, remains relatively cool even though it is in direct contact with the pan. The metal transmits the heat more easily than the wood because it is a better conductor of heat. Different materials conduct heat at different rates. Some metals are much better conductors of heat than others. Aluminum and copper are used in pots and pans because they conduct heat very rapidly. Woods and plastics are used for handles because they conduct heat very slowly.
+Heat transfer always takes place by areas of high heat energy migrating to areas of low heat energy. Heat transfer by conduction requires that there be physical contact between an object that has a large amount of heat energy and one that has a smaller amount of heat energy.
+
+Everyone knows from experience that the metal handle of a heated pan can burn the hand. A plastic or wood handle, however, remains relatively cool even though it is in direct contact with the pan. The metal transmits the heat more easily than the wood because it is a better conductor of heat. Different materials conduct heat at different rates. Some metals are much better conductors of heat than others. Aluminum and copper are used in pots and pans because they conduct heat very rapidly. Woods and plastics are used for handles because they conduct heat very slowly.
 
 Different metals conduct heat at different rates. Of those listed, silver is the best conductor and lead is the poorest. As mentioned previously, copper and aluminum are used in pots and pans because they are good conductors. It is interesting to note that silver, copper, and aluminum are also excellent conductors of electricity.
 
@@ -130,7 +134,9 @@ Kelvin RankineFahrenheit Molecular motion ceases at absolute zero the state of g
 
 ### 热能单位
 
-表达热能数量时使用两种不同的单位，即卡和 BTU。一卡等于使 1 克水的温度变化 1 摄氏度所需的热量。这个「卡」（calorie，小写 c）是测量食物热能时所用「大卡」（Calorie，大写 C）的 1/1,000。一个 BTU 定义为使 1 lb 水的温度变化 1 华氏度（1 °F）所需的热量。在讨论航空维修时很少使用卡和克。然而，在讨论发动机热效率和航空燃油含热量时，BTU 却是常用单位。
+表达热能数量时使用两种不同的单位，即卡和 BTU。一卡等于使 1 克水的温度变化 1 摄氏度所需的热量。
+
+这个「卡」（calorie，小写 c）是测量食物热能时所用「大卡」（Calorie，大写 C）的 1/1,000。一个 BTU 定义为使 1 lb 水的温度变化 1 华氏度（1 °F）所需的热量。在讨论航空维修时很少使用卡和克。然而，在讨论发动机热效率和航空燃油含热量时，BTU 却是常用单位。
 
 一种称为量热计的装置用来测量热能的数量。使用时，可以用它测定 1 磅航空汽油中可用的热能。一定重量的燃油在量热计中燃烧，热能就被大量的水吸收。由水的重量及其温升，就可以算出该燃油的发热量。热与机械能之间存在着确定的关系。这一关系已经由许多实验确立并验证，实验表明：
 
@@ -148,7 +154,9 @@ Hp = 33,000 ft-lb/min　1.67 lb/min × 18,900 BTU/lb × 778 ft-lb/BTU　Hp = 744
 
 热从一个位置转移到另一位置、或从一种物质转移到另一种物质，有三种方式。这三种方式是传导、对流和辐射。
 
-热传递总是由热能高的区域向热能低的区域迁移。通过传导进行的传热要求一个有大量热能的物体与一个热能较少的物体之间存在物理接触。从经验中人人都知道，受热锅的金属手柄会烫手。然而，塑料或木制手柄即使直接与锅接触，也仍然相对较凉。金属比木材更容易传热，因为它是更好的导热体。不同材料传导热的速率不同。有些金属的导热能力远优于其他金属。铝和铜被用于锅具，因为它们传热非常快。木材和塑料被用于手柄，因为它们传热非常慢。
+热传递总是由热能高的区域向热能低的区域迁移。通过传导进行的传热要求一个有大量热能的物体与一个热能较少的物体之间存在物理接触。
+
+从经验中人人都知道，受热锅的金属手柄会烫手。然而，塑料或木制手柄即使直接与锅接触，也仍然相对较凉。金属比木材更容易传热，因为它是更好的导热体。不同材料传导热的速率不同。有些金属的导热能力远优于其他金属。铝和铜被用于锅具，因为它们传热非常快。木材和塑料被用于手柄，因为它们传热非常慢。
 
 不同金属的导热速率不同。在所列的材料中，银是最好的导体，铅最差。如前所述，铜和铝被用于锅具，因为它们是良导体。有趣的是，银、铜和铝同时也是极好的导电体。
 

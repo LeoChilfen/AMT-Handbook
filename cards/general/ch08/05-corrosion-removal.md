@@ -4,7 +4,9 @@
 
 ## 1. 原文
 
-In general, any complete corrosion treatment involves cleaning and stripping of the corroded area, removing as much of the corrosion products as practicable, neutralizing any residual materials remaining in pits and crevices, restoring protective surface films, and applying temporary or permanent coatings or paint finishes. Repair of corrosion damage includes removal of all corrosion and corrosion products. When the corrosion damage is severe and exceeds the damage limits set by the aircraft or parts manufacturer, the part must be replaced. The following paragraphs deal with the correction of corrosive attack on aircraft surface and components where deterioration has not progressed to the point requiring rework or structural repair of the part involved.
+In general, any complete corrosion treatment involves cleaning and stripping of the corroded area, removing as much of the corrosion products as practicable, neutralizing any residual materials remaining in pits and crevices, restoring protective surface films, and applying temporary or permanent coatings or paint finishes.
+
+Repair of corrosion damage includes removal of all corrosion and corrosion products. When the corrosion damage is severe and exceeds the damage limits set by the aircraft or parts manufacturer, the part must be replaced. The following paragraphs deal with the correction of corrosive attack on aircraft surface and components where deterioration has not progressed to the point requiring rework or structural repair of the part involved.
 
 Several standard methods are available for corrosion removal. The methods normally used to remove corrosion are mechanical and chemical. Mechanical methods include hand sanding using abrasive mat, abrasive paper, or metal wool, and powered mechanical sanding, grinding, and buffing, using abrasive mat, grinding wheels, sanding discs, and abrasive rubber mats. However, the method used depends upon the metal and the degree of corrosion.
 
@@ -38,7 +40,9 @@ All depressions resulting from corrosion rework must be faired or blended with t
 
 ## 2. 中文翻译
 
-总的来说，任何完整的腐蚀处理都包括：清洁并剥除腐蚀区域的涂层，尽可能多地清除腐蚀产物，中和蚀坑和缝隙中残留的物质，恢复保护性表面膜，以及施加临时性或永久性涂层或漆层。腐蚀损伤的修复包括清除所有腐蚀和腐蚀产物。当腐蚀损伤严重并超过飞机或零件制造商规定的损伤限值时，该零件必须更换。以下各段讨论的是飞机表面和部件上腐蚀侵蚀的修复，这些部位的劣化尚未发展到需要对所涉零件返工或结构修理的程度。
+总的来说，任何完整的腐蚀处理都包括：清洁并剥除腐蚀区域的涂层，尽可能多地清除腐蚀产物，中和蚀坑和缝隙中残留的物质，恢复保护性表面膜，以及施加临时性或永久性涂层或漆层。
+
+腐蚀损伤的修复包括清除所有腐蚀和腐蚀产物。当腐蚀损伤严重并超过飞机或零件制造商规定的损伤限值时，该零件必须更换。以下各段讨论的是飞机表面和部件上腐蚀侵蚀的修复，这些部位的劣化尚未发展到需要对所涉零件返工或结构修理的程度。
 
 清除腐蚀有几种标准方法。通常用来除腐蚀的方法是机械法和化学法。机械法包括用磨料垫、砂纸或金属绵手工打磨，以及使用磨料垫、砂轮、砂盘和磨料橡胶垫进行动力机械打磨、研磨和抛光。不过，所用方法取决于金属和腐蚀程度。
 

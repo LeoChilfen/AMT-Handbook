@@ -8,13 +8,17 @@ A mixed number is a combination of a whole number and a fraction.
 
 ### Addition of Mixed Numbers
 
-To add mixed numbers, add the whole numbers together. Then add the fractions together by finding a common denominator. The final step is to add the sum of the whole numbers to the sum of the fractions for the final answer. Example: The cargo area behind the rear seat of a small airplane can handle solids that are 4 3⁄4 feet long. If the rear seats are removed, then 2 1⁄3 feet is added to the cargo area. What is the total length of the cargo area when the rear seats are removed?
+To add mixed numbers, add the whole numbers together. Then add the fractions together by finding a common denominator. The final step is to add the sum of the whole numbers to the sum of the fractions for the final answer.
+
+Example: The cargo area behind the rear seat of a small airplane can handle solids that are 4 3⁄4 feet long. If the rear seats are removed, then 2 1⁄3 feet is added to the cargo area. What is the total length of the cargo area when the rear seats are removed?
 
 4 3 + 2 1 = (4 + 2) +(3 + 1) = 6 +( 9 + 4) = 6 13 = 4 3 4 3 12 12 12 7 1 feet of cargo room 12
 
 ### Subtraction of Mixed Numbers
 
-To subtract mixed numbers, find a common denominator for the fractions. Subtract the fractions from each other. It may be necessary to borrow from the larger whole number when subtracting the fractions. Subtract the whole numbers from each other. The final step is to combine the final whole number with the final fraction. Example: What is the length of the grip of the bolt? The overall length of the bolt is 3 1⁄2 inches, the shank length is 3 1⁄8 inches, and the threaded portion is 15⁄16 inches long. To find the grip, subtract the length of the threaded portion from the length of the shank.
+To subtract mixed numbers, find a common denominator for the fractions. Subtract the fractions from each other. It may be necessary to borrow from the larger whole number when subtracting the fractions. Subtract the whole numbers from each other. The final step is to combine the final whole number with the final fraction.
+
+Example: What is the length of the grip of the bolt? The overall length of the bolt is 3 1⁄2 inches, the shank length is 3 1⁄8 inches, and the threaded portion is 15⁄16 inches long. To find the grip, subtract the length of the threaded portion from the length of the shank.
 
 31⁄8 inches – 15⁄16 inches = grip length To subtract, start with the fractions. Borrowing is necessary because 5⁄16 is larger than 1⁄8 (or 2⁄16). From the whole number 3, borrow 1, which is actually 16⁄16. After borrowing, the first mixed number is now 2 18⁄16. This is because, 3 1⁄8 = 3 2⁄16 = 2 + 1 + 2⁄16 = 2 + 16⁄16 + 2⁄16 = 2 18⁄16.
 
@@ -28,13 +32,17 @@ To subtract mixed numbers, find a common denominator for the fractions. Subtract
 
 ### 带分数的加法
 
-要相加带分数，先把整数部分相加。然后通过求公分母把分数部分相加。最后一步是把整数之和与分数之和相加，得到最终答案。例：一架小型飞机后座后面的货舱可以装载长度为 4 3⁄4 英尺的硬质物件。如果把后座拆掉，货舱长度可增加 2 1⁄3 英尺。拆掉后座后，货舱的总长度是多少？
+要相加带分数，先把整数部分相加。然后通过求公分母把分数部分相加。最后一步是把整数之和与分数之和相加，得到最终答案。
+
+例：一架小型飞机后座后面的货舱可以装载长度为 4 3⁄4 英尺的硬质物件。如果把后座拆掉，货舱长度可增加 2 1⁄3 英尺。拆掉后座后，货舱的总长度是多少？
 
 （原文此处为带分数加法竖式，抽文中分数被抽平、上下位置丢失：）4 3 + 2 1 = (4 + 2) +(3 + 1) = 6 +( 9 + 4) = 6 13 = 4 3 4 3 12 12 12 7 1 英尺的货舱长度 12
 
 ### 带分数的减法
 
-要相减带分数，先为分数部分求公分母。然后把分数部分相减。相减时可能有必要从较大的整数部分借位。再把整数部分相减。最后一步是把最终的整数与最终的分数合并起来。例：该螺栓的夹持长度是多少？螺栓的总长是 3 1⁄2 英寸，杆身长 3 1⁄8 英寸，螺纹部分长 15⁄16 英寸。要求夹持长度，就用杆身长度减去螺纹部分的长度。
+要相减带分数，先为分数部分求公分母。然后把分数部分相减。相减时可能有必要从较大的整数部分借位。再把整数部分相减。最后一步是把最终的整数与最终的分数合并起来。例：该螺栓的夹持长度是多少？
+
+螺栓的总长是 3 1⁄2 英寸，杆身长 3 1⁄8 英寸，螺纹部分长 15⁄16 英寸。要求夹持长度，就用杆身长度减去螺纹部分的长度。
 
 3 1⁄8 英寸 – 15⁄16 英寸 = 夹持长度 相减时先从分数部分入手。需要借位，因为 5⁄16 大于 1⁄8（即 2⁄16）。从整数 3 中借 1，这个 1 实际上是 16⁄16。借位后，第一个带分数现在是 2 18⁄16。这是因为 3 1⁄8 = 3 2⁄16 = 2 + 1 + 2⁄16 = 2 + 16⁄16 + 2⁄16 = 2 18⁄16。
 

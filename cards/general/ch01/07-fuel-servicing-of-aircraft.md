@@ -44,7 +44,9 @@ Breathing the vapors from fuel can be harmful and must be limited. Any fuel spil
 
 ### Fueling Procedures
 
-The proper fueling of an aircraft is the responsibility of the owner/operator. This does not, however, relieve the person doing the fueling of the responsibility to use the correct type of fuel and safe fueling procedures. There are two basic procedures when fueling an aircraft. Smaller aircraft are fueled by the over-the-wing method. This method uses the fuel hose to fill through fueling ports on the top of the wing. The method used for larger aircraft is the single point fueling system. This type of fueling system uses receptacles in the bottom leading edge of the wing to fill all the tanks. This decreases the time it takes to refuel the aircraft, limits contamination, and reduces the chance of static electricity igniting the fuel. Most pressure fueling systems consist of a pressure fueling hose and a panel of controls and gauges that permit one person to fuel or defuel any or all fuel tanks of an aircraft. Each tank can be filled to a predetermined level.
+The proper fueling of an aircraft is the responsibility of the owner/operator. This does not, however, relieve the person doing the fueling of the responsibility to use the correct type of fuel and safe fueling procedures.
+
+There are two basic procedures when fueling an aircraft. Smaller aircraft are fueled by the over-the-wing method. This method uses the fuel hose to fill through fueling ports on the top of the wing. The method used for larger aircraft is the single point fueling system. This type of fueling system uses receptacles in the bottom leading edge of the wing to fill all the tanks. This decreases the time it takes to refuel the aircraft, limits contamination, and reduces the chance of static electricity igniting the fuel. Most pressure fueling systems consist of a pressure fueling hose and a panel of controls and gauges that permit one person to fuel or defuel any or all fuel tanks of an aircraft. Each tank can be filled to a predetermined level.
 
 Prior to fueling, the person fueling must check the following:
 
@@ -142,7 +144,9 @@ General precautions when defueling are:
 
 ### 加油程序
 
-正确地为飞机加油是机主/运营人的责任。但这并不免除实际加油人员使用正确油料和安全加油程序的责任。为飞机加油有两种基本方式。小型飞机采用翼上加油法。该方法用油软管通过机翼顶部的加油口加注。较大飞机采用单点加油系统。此类加油系统利用机翼下前缘的受油插座为所有油箱加注。这可缩短加油所需时间、限制污染，并降低静电引燃燃油的可能性。大多数压力加油系统由一根压力加油软管和一块控制与仪表板组成，可使一人为飞机的任一或全部油箱加油或抽油。每个油箱都可加到预定油量。
+正确地为飞机加油是机主/运营人的责任。但这并不免除实际加油人员使用正确油料和安全加油程序的责任。
+
+为飞机加油有两种基本方式。小型飞机采用翼上加油法。该方法用油软管通过机翼顶部的加油口加注。较大飞机采用单点加油系统。此类加油系统利用机翼下前缘的受油插座为所有油箱加注。这可缩短加油所需时间、限制污染，并降低静电引燃燃油的可能性。大多数压力加油系统由一根压力加油软管和一块控制与仪表板组成，可使一人为飞机的任一或全部油箱加油或抽油。每个油箱都可加到预定油量。
 
 加油前，加油人员必须检查以下各项：
 
