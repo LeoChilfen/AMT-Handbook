@@ -4,6 +4,8 @@
 
 ## 1. 原文
 
+## 1. 原文
+
 Just as aircraft continue to evolve with ever improving technology, so do the regulations, publications, forms, and records required to design, build, and maintain them.
 
 The Federal Aviation Administration (FAA) regulations that govern today’s aircraft are found in Title 14 of the Code of Federal Regulations (14 CFR). There are five volumes under Title 14, Aeronautics and Space. The first three volumes containing 75 active regulations address the Federal Aviation Administration. The fourth volume deals with the Office of the Secretary of the Department of Transportation (Aviation Proceedings) and Commercial Space Transportation, while the fifth volume addresses the National Aeronautics and Space Administration (NASA) and Air Transportation System Stabilization.
@@ -16,7 +18,13 @@ These regulations can be separated into the following three categories:
 
 3. Airworthiness Operation
 
-Since 1958, these rules have typically been referred to as “FARs,” short for Federal Aviation Regulations. However, another set of regulations, Title 48, is titled “Federal Acquisitions Regulations,” and this has led to confusion with the use of the acronym “FAR.” Therefore, the FAA began to refer to specific regulations by the term “14 CFR part XX.” Most regulations and the sections within are odd numbered, because the FAA realized in 1958 when the Civil Aeronautics Regulations were recodified into the Federal Aviation Regulations that it would be necessary to add regulations later. Over the years, the FAA has sometimes seen the need to issue Special Federal Aviation Regulations (SFAR). These are frequently focused very specifically on a unique situation and are usually given a limited length of time for effectiveness. Note that the SFAR number is purely a sequential number and has no relevance to the regulation it is addressing or attached to. The remainder of this handbook focuses only on those regulations relative to airworthiness certification. It is fundamentally important that the definition of the term “airworthy” be clearly understood. Only recently did the FAA actually define the term “airworthy” in a regulation. (Refer to the 14 CFR part 3 excerpt following this paragraph.) Prior to this definition in part 3, the term could be implied from reading part 21, section 21.183. The term was defined in other non-regulatory FAA publications, and could also be implied from the text found in block 5 of FAA Form 8100-2, Standard Airworthiness Certificate. This certificate is required to be visibly placed on board each civil aircraft. (Refer to “Forms” presented later in this chapter.)
+Since 1958, these rules have typically been referred to as “FARs,” short for Federal Aviation Regulations. However, another set of regulations, Title 48, is titled “Federal Acquisitions Regulations,” and this has led to confusion with the use of the acronym “FAR.” Therefore, the FAA began to refer to specific regulations by the term “14 CFR part XX.” Most regulations and the sections within are odd numbered, because the FAA realized in 1958 when the Civil Aeronautics Regulations were recodified into the Federal Aviation Regulations that it would be necessary to add regulations later.
+
+Over the years, the FAA has sometimes seen the need to issue Special Federal Aviation Regulations (SFAR). These are frequently focused very specifically on a unique situation and are usually given a limited length of time for effectiveness. Note that the SFAR number is purely a sequential number and has no relevance to the regulation it is addressing or attached to.
+
+The remainder of this handbook focuses only on those regulations relative to airworthiness certification. It is fundamentally important that the definition of the term “airworthy” be clearly understood.
+
+Only recently did the FAA actually define the term “airworthy” in a regulation. (Refer to the 14 CFR part 3 excerpt following this paragraph.) Prior to this definition in part 3, the term could be implied from reading part 21, section 21.183. The term was defined in other non-regulatory FAA publications, and could also be implied from the text found in block 5 of FAA Form 8100-2, Standard Airworthiness Certificate. This certificate is required to be visibly placed on board each civil aircraft. (Refer to “Forms” presented later in this chapter.)
 
 ### Title 14 CFR Part 3—General Requirements
 
@@ -334,6 +342,8 @@ As the aviation industry grows and the design, manufacture, and testing of aircr
 
 ## 2. 中文翻译
 
+## 2. 中文翻译
+
 正如航空器在不断进步的技术推动下持续演进一样，设计、建造和维护航空器所需的规章、出版物、表格和记录也在不断演进。
 
 管辖当今航空器的联邦航空管理局（FAA）规章，收录于《联邦法规汇编》第 14 编（14 CFR）。第 14 编“航空与航天”之下共有五卷。前三卷收录 75 部现行有效的规章，内容针对联邦航空管理局。第四卷涉及运输部长办公室（航空诉讼程序）与商业航天运输；第五卷则涉及美国国家航空航天局（NASA）与航空运输系统稳定化。
@@ -346,7 +356,13 @@ As the aviation industry grows and the design, manufacture, and testing of aircr
 
 3. 适航运行类
 
-自 1958 年起，这些规则通常被称为“FAR”，即“联邦航空规章”（Federal Aviation Regulations）的缩写。然而，另有一套第 48 编的规章题为“联邦采购规章”（Federal Acquisitions Regulations），这使得“FAR”这一缩写容易引起混淆。因此，FAA 开始改用“14 CFR part XX”来特指某部规章。多数规章及其中的节号都采用奇数编号，因为 FAA 在 1958 年把《民用航空规章》重新编纂为《联邦航空规章》时就已经意识到，日后必然还要增补规章。多年来，FAA 有时认为有必要发布《特别联邦航空规章》（SFAR）。这类规章往往针对某一独特情形，规定得非常具体，且通常只在一定期限内有效。要注意，SFAR 的编号只是顺序号，与它所针对或所属的规章毫无关系。本手册其余部分只讨论与适航审定有关的规章。清楚理解“airworthy（适航）”一词的定义至关重要。FAA 直到最近才真正在规章中给出“airworthy”的定义。（参见紧随本段的 14 CFR part 3 摘录。）在 part 3 给出该定义之前，这一术语可以从 part 21 第 21.183 节的阅读中推断出来。该术语也在 FAA 其他非规章性出版物中作过定义，还可以从 FAA Form 8100-2《标准适航证》第 5 栏的文字中推断出来。该证书必须醒目地置于每一架民用航空器上。（参见本章后文“表格”部分。）
+自 1958 年起，这些规则通常被称为“FAR”，即“联邦航空规章”（Federal Aviation Regulations）的缩写。然而，另有一套第 48 编的规章题为“联邦采购规章”（Federal Acquisitions Regulations），这使得“FAR”这一缩写容易引起混淆。因此，FAA 开始改用“14 CFR part XX”来特指某部规章。多数规章及其中的节号都采用奇数编号，因为 FAA 在 1958 年把《民用航空规章》重新编纂为《联邦航空规章》时就已经意识到，日后必然还要增补规章。
+
+多年来，FAA 有时认为有必要发布《特别联邦航空规章》（SFAR）。这类规章往往针对某一独特情形，规定得非常具体，且通常只在一定期限内有效。要注意，SFAR 的编号只是顺序号，与它所针对或所属的规章毫无关系。
+
+本手册其余部分只讨论与适航审定有关的规章。清楚理解“airworthy（适航）”一词的定义至关重要。FAA
+
+直到最近才真正在规章中给出“airworthy”的定义。（参见紧随本段的 14 CFR part 3 摘录。）在 part 3 给出该定义之前，这一术语可以从 part 21 第 21.183 节的阅读中推断出来。该术语也在 FAA 其他非规章性出版物中作过定义，还可以从 FAA Form 8100-2《标准适航证》第 5 栏的文字中推断出来。该证书必须醒目地置于每一架民用航空器上。（参见本章后文“表格”部分。）
 
 ### 14 CFR part 3——一般要求
 
