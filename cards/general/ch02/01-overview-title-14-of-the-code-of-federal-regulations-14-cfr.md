@@ -4,8 +4,6 @@
 
 ## 1. 原文
 
-## 1. 原文
-
 Just as aircraft continue to evolve with ever improving technology, so do the regulations, publications, forms, and records required to design, build, and maintain them.
 
 The Federal Aviation Administration (FAA) regulations that govern today’s aircraft are found in Title 14 of the Code of Federal Regulations (14 CFR). There are five volumes under Title 14, Aeronautics and Space. The first three volumes containing 75 active regulations address the Federal Aviation Administration. The fourth volume deals with the Office of the Secretary of the Department of Transportation (Aviation Proceedings) and Commercial Space Transportation, while the fifth volume addresses the National Aeronautics and Space Administration (NASA) and Air Transportation System Stabilization.
@@ -339,8 +337,6 @@ As the aviation industry grows and the design, manufacture, and testing of aircr
 • DMIRs make conformity inspections only at their employer. They are similar to “designated repairmen” because they are only authorized to inspect parts at their employers’ facility.
 
 • DARs conduct aircraft certification and aircraft inspection functions on behalf of the FAA depending on specific functions they are authorized. They may perform work for either manufacturing facilities or maintenance entities depending on their designation.
-
-## 2. 中文翻译
 
 ## 2. 中文翻译
 
