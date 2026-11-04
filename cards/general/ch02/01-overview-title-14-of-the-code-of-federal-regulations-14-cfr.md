@@ -36,8 +36,6 @@ Definitions. The following terms have the stated meanings when used in 14 CFR pa
 
 Airworthiness can be divided into two areas: original airworthiness and recurrent airworthiness. There are three primary regulations that govern the airworthiness of an aircraft:
 
-Comment: Civil Aeronautics Manual (CAMs) contain both regulations and advisory material in the same document.
-
 1. 14 CFR part 21—Certification Procedures for Products and Parts
 
 2. 14 CFR part 43—Maintenance, Preventive Maintenance, Rebuilding, and Alterations
@@ -65,6 +63,8 @@ Aircraft certificated under 14 CFR part 23 represent the greatest portion of wha
 This part specifies the airworthiness standards that must be met in order for a manufacturer to receive a TC and for the aircraft to receive an airworthiness certificate. Part 23 aircraft are those aircraft that have a maximum certificated takeoff weight of 12,500 pounds or less, except for those aircraft in the commuter category. The maximum certificated takeoff weight limit rises to 19,000 pounds or less for these aircraft.
 
 Part 23 has seven subparts, six of them providing detailed criteria for the design of these aircraft. The first, subpart A, defines the applicability of this regulation. The others are:
+
+• Subpart B—Flight
 
 • Subpart C—Structures
 
@@ -143,8 +143,6 @@ If a part has a specified replacement time, inspection interval, or other relate
 The manufacturer of a life-limited part must either provide marking instructions for that part, or state that the part cannot be marked without a compromise to its integrity. Exceptions are made for the identification of parts that are too small to be practical to mark the required data.
 
 Nationality and registration marks (commonly known as the N-number for U.S.-registered aircraft) can vary in size, depending on the year that the aircraft was built and whether or not the aircraft has been repainted. The most common size is at least 12 inches in height. Small aircraft built at least 30 years ago, or replicas of these, or experimental exhibition or amateur-built aircraft may use letters at least 2 inches in height. Only a few aircraft are authorized to display registration markings of at least 3 inches.
-
-“The attached revised/new Instructions for Continued Airworthiness (date______) for the above aircraft or component major alteration have been accepted by the FAA, superseding the Instructions for Continued Airworthiness (date______).” After the revision has been accepted, a maintenance record entry will be made, identifying the revision, its location, and date on the FAA Form 337.
 
 2. Section 91.213—Inoperative Instruments and Equipment Paragraph (a)(2)—a letter of authorization from the FSDO authorizing the operation of the aircraft under a Minimum Equipment List (MEL) constitutes a STC and must be carried in the aircraft during flight.
 
