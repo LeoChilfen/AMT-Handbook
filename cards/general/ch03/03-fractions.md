@@ -20,51 +20,55 @@ A common denominator can also be found for any group of fractions by multiplying
 
 A common denominator can be found by multiplying the denominators 3 × 5 × 7 to get 105.
 
-( 2 + 3 + 4 )=( 70 + 63 + 60 )= 193 = 1 88 3 5 7 105 105 105 105 105
+( 2/3 + 3/5 + 4/7 )=( 70/105 + 63/105 + 60/105 )= 193 = 1 88/105
 
 ### Addition of Fractions
 
-In order to add fractions, the denominators must be the same number. This is referred to as having “common denominators.” Example: Add 1⁄7 to 3⁄7 1 + 3 = 1 + 3 = 4 7 7 7 7 If the fractions do not have the same denominator, then one or all the denominators must be changed so that every fraction has a common denominator.
+In order to add fractions, the denominators must be the same number. This is referred to as having “common denominators.” 
+
+If the fractions do not have the same denominator, then one or all the denominators must be changed so that every fraction has a common denominator.
 
 Example: Find the total thickness of a panel made from 3⁄32-inch thick aluminum, that has a 1⁄64-inch thick paint coating. To add these fractions, determine a common denominator. The LCD for this example is 1, so only the first fraction must be changed since the denominator of the second fraction is already in 64ths.
-
-( 3 + 1 )=( 3 × 2 + 1 )=( 6 + 1 )=(6 + 1)= 7 32 64 32 × 2 64 64 64 64 64 Therefore, 7⁄64 is the total thickness.
 
 ### Subtraction of Fractions
 
 To subtract fractions, they must have a common denominator.
 
-Example: Subtract 2⁄17 from 10⁄17 10 – 2 = 10 – 2 = 8 17 17 17 17 If the fractions do not have the same denominator, then one or all the denominators must be changed so that every fraction has a common denominator.
+If the fractions do not have the same denominator, then one or all the denominators must be changed so that every fraction has a common denominator.
 
-Example: The tolerance for rigging the aileron droop of an airplane is 7⁄8 inch ± 1⁄5 inch. What is the minimum droop to which the aileron can be rigged? To subtract these fractions, first change both to common denominators. The common denominator in this example is 40. Change both fractions to 1⁄40, as shown, then subtract. ( 7 – 1)=(7 × 5 – 1 × 8)=(35 – 8 )=(35 – 8) = 27 8 5 8 × 5 5 × 8 40 40 40 40 Therefore, 27⁄40 is the minimum droop.
+Example: The tolerance for rigging the aileron droop of an airplane is 7⁄8 inch ± 1⁄5 inch. What is the minimum droop to which the aileron can be rigged? To subtract these fractions, first change both to common denominators. The common denominator in this example is 40. Change both fractions to 1⁄40, as shown, then subtract. Therefore, 27⁄40 is the minimum droop.
 
 ### Multiplication of Fractions
 
 Multiplication of fractions does not require a common denominator. To multiply fractions, first multiply the numerators. Then, multiply the denominators.
 
-3 × 7 × 1 = 3 × 7 × 1 = 21 5 8 2 5 × 8 × 2 80 The use of cancellation when multiplying fractions is a helpful technique. Cancellation divides out or cancels all common factors that exist between the numerators and denominators. When all common factors are cancelled before the multiplication, the final product is in the simplest form.
-
-Example: 2 1 ( 14 × 3 ) = (14 × 3 ) = ( 2 × 1) = 2 15 7 15 7 5 × 1 5 5 1
+The use of cancellation when multiplying fractions is a helpful technique. Cancellation divides out or cancels all common factors that exist between the numerators and denominators. When all common factors are cancelled before the multiplication, the final product is in the simplest form.
 
 ### Division of Fractions
 
 Division of fractions does not require a common denominator. To divide fractions, first change the division symbol to multiplication. Next, invert the second fraction. Then, multiply the fractions.
 
-Example: Divide 7⁄8 by 4⁄3 ( 7 ÷ 4 ) = ( 7 × 3 ) = ( 7 × 3) = 21 8 3 8 4 8 × 4 32 Example: The center of the hole is in the center of the plate. Find the distance that the center of the hole is from the edges of the plate. To find the answer, the length and width of the plate should each be divided in half. First, change the mixed numbers to improper fractions:
+Example: The center of the hole is in the center of the plate. Find the distance that the center of the hole is from the edges of the plate. To find the answer, the length and width of the plate should each be divided in half. First, change the mixed numbers to improper fractions:
 
-5 7⁄16 inches = 87⁄16 inches 3 5⁄8 inches = 29⁄8 inches Then, divide each improper fraction by 2 to find the center of the plate.
+5 7⁄16 inches = 87⁄16 inches
 
-87 ÷ 2 = 87 × 1 = 87 inches 16 1 16 2 32 29 ÷ 2 = 29 × 1 = 29 inches 8 1 8 2 16 Finally, convert each improper fraction to a mixed number:
+3 5⁄8 inches = 29⁄8 inches
 
-87 = 87 ÷ 32 = 2 23 inches 32 32 29 = 29 ÷ 16 = 1 13 inches 16 16 Therefore, the distance to the center of the hole from each of the plate edges is 2 23⁄32 inches and 1 13⁄16 inches.
+Then, divide each improper fraction by 2 to find the center of the plate.
+
+Finally, convert each improper fraction to a mixed number:
+
+Therefore, the distance to the center of the hole from each of the plate edges is 2 23⁄32 inches and 1 13⁄16 inches.
 
 ### Reducing Fractions
 
-A fraction needs to be reduced when it is not in the simplest form or “lowest terms.” Lowest term means that the numerator and denominator do not have any factors in common. That is, they cannot be divided by the same number (or factor). To reduce a fraction, determine what the common factor(s) are and divide these out of the numerator and denominator. For example, when both the numerator and denominator are even numbers, they can both be divided by 2. Example: The total travel of a jackscrew is 13⁄16 inch. If the travel in one direction from the neutral position is 7⁄16 inch, what is the travel in the opposite direction?
+A fraction needs to be reduced when it is not in the simplest form or “lowest terms.” Lowest term means that the numerator and denominator do not have any factors in common. That is, they cannot be divided by the same number (or factor). To reduce a fraction, determine what the common factor(s) are and divide these out of the numerator and denominator. For example, when both the numerator and denominator are even numbers, they can both be divided by 2.
 
-13 – 7 = 13 – 7 = 6 16 16 16 16 The fraction 6⁄16 is not in lowest terms because the numerator (6) and the denominator (16) have a common factor of 2. To reduce 6⁄16, divide the numerator and the denominator by 2. The final reduced fraction is 3⁄8 as shown below.
+Example: The total travel of a jackscrew is 13⁄16 inch. If the travel in one direction from the neutral position is 7⁄16 inch, what is the travel in the opposite direction?
 
-6 = 6 ÷ 2 = 3 16 16 ÷ 2 8 Therefore, the travel in the opposite direction is 3⁄8 inch.
+The fraction 6⁄16 is not in lowest terms because the numerator (6) and the denominator (16) have a common factor of 2. To reduce 6⁄16, divide the numerator and the denominator by 2. The final reduced fraction is 3⁄8 as shown below.
+
+Therefore, the travel in the opposite direction is 3⁄8 inch.
 
 ## 2. 中文翻译
 
