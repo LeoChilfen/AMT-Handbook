@@ -4,17 +4,19 @@
 
 ## 1. 原文
 
-### Airworthiness Limitations
+### Airworthiness Certificates
 
-The ICA must contain a separate and clearly distinguishable section titled “Airworthiness Limitations.” Within this section are mandatory replacement times, structural inspection interval, and related inspection procedures.
+In addition to the registration certificate that indicates the ownership of an aircraft, an airworthiness certificate indicates the airworthiness of the aircraft. AC 21-12, Application for U.S. Airworthiness Certificate, FAA Form 8130-6, is a comprehensive guide for the completion of the application form for this certificate. There are two certificates: standard and special.FAA Form 8100-2, Standard Airworthiness Certificate, may be issued to allow operation of a typecertificated aircraft in one or more of the following categories:
 
-All of this is included in the initial release of documents when the aircraft is delivered. However, over the course of the life of an aircraft, various modifications can and often do occur. Whether these are as simple as a new cabin to galley sliding door, or as complex as a navigation related STC, any major alteration requires that this type of maintenance data be provided to the owner, so that subsequent maintenance, inspection, and repair can be properly accomplished. As aircraft and their systems become more and more complex, and society continues its preoccupation with litigation for every incident, it is imperative that the technician have the right information, that it is current, and that they have the proper tools, including those required for any special inspection, and correct replacement parts. If any one of these items is required, and the technician does not have it accessible, they are in violation of 14 CFR sections 65.81(b), 43.13(a), and 43.16 if they attempt to return the aircraft to service.
+• Normal
 
-Manufacturers may provide this required information in a variety of different manuals:
+• Utility
 
-• Operating Instructions—The Airplane Flight Manual (AFM) or the Pilot’s Operating Handbook (POH) provides the pilot with the necessary information to properly operate the aircraft. These manuals are usually listed in the aircraft TCDS, and therefore are a required item for the aircraft to be considered airworthy. Note that the AFM is generally serial number specific, whereas the POH is model specific.
+• Acrobatic
 
-FAA Form 8100-2, Standard Airworthiness Certificate, may be issued to allow operation of a type-certificated aircraft in one or more of the following categories:
+• Commuter
+
+• Transport
 
 • Manned free balloon
 
@@ -22,37 +24,23 @@ FAA Form 8100-2, Standard Airworthiness Certificate, may be issued to allow oper
 
 FAA Form 8130-7, Special Airworthiness Certificate, may be issued to authorize the operation of an aircraft in the following categories:
 
+• Primary
+
+• Restricted
+
+• Multiple
+
+• Limited
+
 • Light-sport
+
+• Experimental
 
 • Special flight permit
 
 • Provisional
 
 Airworthiness certificates may be issued by either FAA personnel or FAA designees. Refer to 14 CFR part 183, sections 183.31 and 183.33. The certificate must not only be on board the aircraft (14 CFR part 91, section 91.203(a)(1)), but must also be “displayed at the cabin or flight deck entrance so that it is legible to the passengers or crew” 14 CFR part 91, (section 91.203(b)). Since the ability to obtain this certificate is based upon the requirement to inspect the aircraft to determine that it conforms to type design and is in condition for safe operation, it can also be revoked by the FAA if either of those two requirements ceases to exist.
-
-### Airworthiness Certificates
-
-In addition to the registration certificate that indicates the ownership of an aircraft, an airworthiness certificate indicates the airworthiness of the aircraft. AC 21-12, Application for U.S. Airworthiness Certificate, FAA Form 8130-6, is a comprehensive guide for the completion of the application form for this certificate. There are two certificates: standard and special.
-
-• Recommended overhaul periods
-
-• Details for an inspection program that identifies both the frequency and the extent of the inspections necessary to provide for continued airworthiness
-
-• Troubleshooting information
-
-• The order and method for proper removal and replacement of parts
-
-• Procedures for system testing during ground operations
-
-• Diagrams for structural access plates
-
-• Details for application of special inspection techniques
-
-• Information concerning the application of protective treatments after inspection
-
-• Information relative to the structural fasteners
-
-• List of any special tools needed
 
 ### Aircraft Registration
 
