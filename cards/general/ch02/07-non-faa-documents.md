@@ -32,53 +32,35 @@ The maintenance instructions must include the following data:
 
 • Applicable wear tolerances
 
-Introduction
+• Recommended overhaul periods
 
-This Special Airworthiness Information Bulletin is to alert owners, operators, and maintenance technicians of an airworthiness concern with aluminum seat belt mounting brackets affecting all Cessna Models 120 and 140 airplanes. Textron Aviation has issued Service Bulletin SEB-25-03, dated February 17, 2015, to address this concern.
+• Details for an inspection program that identifies both the frequency and the extent of the inspections necessary to provide for continued airworthiness
 
-At this time, the airworthiness concern is not an unsafe condition that would warrant airworthiness directive (AD) action under Title 14 of the Code of Federal Regulations (14 CFR) part 39.
+• Troubleshooting information
 
-Background
+• The order and method for proper removal and replacement of parts
 
-On July 5, 2014, an accident occurred in Parma, New York where the pilot seat belt mounting bracket, part number (p/n) 0425132, failed after the airplane overturned following departure from the runway. Although cause of the failed bracket has not been determined and the investigation is ongoing, it was noted that the original Cessna seat belt installation had been replaced with a four-point Aero Fabricators harness per Supplemental Type Certificate (STC) SA1429GL in 2003. The failed bracket was made of aluminum. However, Cessna now only provides steel brackets as a replacement part for the aluminum brackets.
+• Procedures for system testing during ground operations
 
-Recommendations
+• Diagrams for structural access plates
 
-The FAA recommends that owners, operators, and maintenance personnel of the affected airplanes replace aluminum brackets with steel brackets following Cessna Service Bulletin SEB-25-03 dated February 17, 2015. To make the determination as to whether the bracket is made of aluminum or steel, a magnet may be used or look for evidence of iron oxide (rust).
+• Details for application of special inspection techniques
 
-For Further Information Contact
+• Information concerning the application of protective treatments after inspection
 
-Gary D. Park, Aerospace Engineer, ACE-118W phone: (316) 946-4123; fax: (316) 946-4107; e-mail: gary.park@faa.gov.
+• Information relative to the structural fasteners
 
-For Related Service Information Contact
+• List of any special tools needed
 
-Cessna Aircraft Company, Customer Support Service, P.O. Box 7706, Wichita, Kansas; telephone: (316) 517-5800; fax: (316) 517-7271.
+### Airworthiness Limitations
 
-United States Of America Department of Transportation - Federal Aviation Administration Supplemental Type Certificate _____________________________________________________________________________________________________________________________________ Any alteration of this certificate is punishable by a fine of not exceeding $1,000, or imprisonment not exceeding 3 years, or both.
+The ICA must contain a separate and clearly distinguishable section titled “Airworthiness Limitations.” Within this section are mandatory replacement times, structural inspection interval, and related inspection procedures.
 
-_____________________________________________________________________________________________________________________________________ FAA Form 8110-2(10-68) Page 1 of 1 This certificate may be transferred in accordance with FAR 21.47.
+All of this is included in the initial release of documents when the aircraft is delivered. However, over the course of the life of an aircraft, various modifications can and often do occur. Whether these are as simple as a new cabin to galley sliding door, or as complex as a navigation related STC, any major alteration requires that this type of maintenance data be provided to the owner, so that subsequent maintenance, inspection, and repair can be properly accomplished. As aircraft and their systems become more and more complex, and society continues its preoccupation with litigation for every incident, it is imperative that the technician have the right information, that it is current, and that they have the proper tools, including those required for any special inspection, and correct replacement parts. If any one of these items is required, and the technician does not have it accessible, they are in violation of 14 CFR sections 65.81(b), 43.13(a), and 43.16 if they attempt to return the aircraft to service.
 
-Number SA7855SW This Certificate issued to certifies that the change in the type design for the following product with the limitations and conditions therefor as specified hereon meets the airworthiness requirements of Part 23 of the Federal Aviation Regulations.
+Manufacturers may provide this required information in a variety of different manuals:
 
-Original Product Type Certificate Number :
-
-Description of Type Design Change:
-
-Installation of McCauley B3D32C419/82NHA-5 Propeller on Commander Model 114 airplane in accordance with Commander Aircraft Co., Installation Instructions dated July 13, 1990, Revision A dated August 22, 1990, or later FAA approved revision.
-
-Limitations and Conditions:
-
-FAA approved Commander Aircraft Co. Flight Manual Supplement dated August 23, 1990, must accompany this modification. The installer must determine whether this design change is compatible with previously approved modifications.
-
-If the holder agrees to permit another person to use this certificate to alter a product, the holder must give the other person written evidence of that permission.
-
-This certificate and the supporting data which is the basis for approval shall remain in effect until surrendered, suspended, revoked or a termination date is otherwise established by the Administrator of the Federal Aviation Administration.
-
-Commander Premier Aircraft Corporation 20 Stanford Drive Farmington, CT 06032 A12SO Make : Commander Model : 114 Date reissued :March 03, 2006 Date amended :Amd. 1, September 10, 1990 By direction of the Administrator _______________________________________________________ ( Signature)
-
-Michele M. Owsley, Manager Airplane Certification Office, Southwest Region _______________________________________________________ ( Title)
-
-After 1978, the POHs generally took on both roles.
+• Operating Instructions—The Airplane Flight Manual (AFM) or the Pilot’s Operating Handbook (POH) provides the pilot with the necessary information to properly operate the aircraft. These manuals are usually listed in the aircraft TCDS, and therefore are a required item for the aircraft to be considered airworthy. Note that the AFM is generally serial number specific, whereas the POH is model specific.After 1978, the POHs generally took on both roles.
 
 • Maintenance Manuals—These manuals are often referred to as Aircraft Maintenance Manual (AMM) or Component Maintenance Manual (CMM).
 
