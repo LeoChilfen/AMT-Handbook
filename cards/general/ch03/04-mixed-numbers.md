@@ -12,7 +12,7 @@ To add mixed numbers, add the whole numbers together. Then add the fractions tog
 
 Example: The cargo area behind the rear seat of a small airplane can handle solids that are 4 3⁄4 feet long. If the rear seats are removed, then 2 1⁄3 feet is added to the cargo area. What is the total length of the cargo area when the rear seats are removed?
 
-4 3 + 2 1 = (4 + 2) +(3 + 1) = 6 +( 9 + 4) = 6 13 = 4 3 4 3 12 12 12 7 1 feet of cargo room 12
+4 3/4 + 2 1/3 = (4 + 2) +(3/4 + 1/3) = 6 +(9/12 + 4/12) = 6 13/12 = 7 1/12 feet of cargo room
 
 ### Subtraction of Mixed Numbers
 
@@ -20,9 +20,11 @@ To subtract mixed numbers, find a common denominator for the fractions. Subtract
 
 Example: What is the length of the grip of the bolt? The overall length of the bolt is 3 1⁄2 inches, the shank length is 3 1⁄8 inches, and the threaded portion is 15⁄16 inches long. To find the grip, subtract the length of the threaded portion from the length of the shank.
 
-31⁄8 inches – 15⁄16 inches = grip length To subtract, start with the fractions. Borrowing is necessary because 5⁄16 is larger than 1⁄8 (or 2⁄16). From the whole number 3, borrow 1, which is actually 16⁄16. After borrowing, the first mixed number is now 2 18⁄16. This is because, 3 1⁄8 = 3 2⁄16 = 2 + 1 + 2⁄16 = 2 + 16⁄16 + 2⁄16 = 2 18⁄16.
+31⁄8 inches – 15⁄16 inches = grip length
 
-3 1 – 1 5 = 3 2 – 1 5 = 2 18 – 1 5 = 113 8 16 16 16 16 16 16 Therefore, the grip length of the bolt is 1 13⁄16 inches.
+To subtract, start with the fractions. Borrowing is necessary because 5⁄16 is larger than 1⁄8 (or 2⁄16). From the whole number 3, borrow 1, which is actually 16⁄16. After borrowing, the first mixed number is now 2 18⁄16. This is because, 3 1⁄8 = 3 2⁄16 = 2 + 1 + 2⁄16 = 2 + 16⁄16 + 2⁄16 = 2 18⁄16.
+
+Therefore, the grip length of the bolt is 1 13⁄16 inches.
 
 (Note: The value for the overall length of the bolt was given in the example, but it was not needed to solve the problem. This type of information is sometimes referred to as a “distracter,” because it distracts from the information needed to solve the problem.)
 
