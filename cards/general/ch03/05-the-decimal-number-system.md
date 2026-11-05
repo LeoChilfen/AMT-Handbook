@@ -14,37 +14,49 @@ To add decimal numbers, they must first be arranged so that the decimal points a
 
 Example: Find the total resistance for the circuit diagram. The total resistance of a series circuit is equal to the sum of the individual resistances. To find the total resistance, RT, the individual resistances are added together.
 
-RT = 2.34 + 37.5 + 0.09 Arrange the resistance values in a vertical column so that the decimal points are aligned and then add.
+RT = 2.34 + 37.5 + 0.09
 
-2.34 37.5 + 0.09 39.93 Therefore, the total resistance, RT = 39.93 ohms.
+Arrange the resistance values in a vertical column so that the decimal points are aligned and then add.
+
+Therefore, the total resistance, RT = 39.93 ohms.
 
 ### Subtraction of Decimal Numbers
 
-To subtract decimal numbers, they must first be arranged so that the decimal points are aligned vertically and according to place value. That is, subtracting tenths from tenths, ones Grip Shank Overall length 37.5 Ohms 2.34 Ohms .09 Ohms M Place Value Millions Hundred Thousands Ten Thousands Thousands Hundreds Tens Ones Tenths Hundredths Thousandths Ten Thousandths 1 6 2 3 0 5 1 0 0 5 3 1 3 2 4 1,623,051 0.0531 32.4 from ones, hundreds from hundreds, and so forth.
+To subtract decimal numbers, they must first be arranged so that the decimal points are aligned vertically and according to place value. That is, subtracting tenths from tenths, ones from ones, hundreds from hundreds, and so forth.
 
-Example: A series circuit containing two resistors has a total resistance (RT) of 37.272 ohms. One of the resistors (R 1) has a value of 14.88 ohms. What is the value of the other resistor (R2)? R2 = RT – R1 = 37.272 – 14.88 Arrange the decimal numbers in a vertical column so that the decimal points are aligned and then subtract.
+Example: A series circuit containing two resistors has a total resistance (RT) of 37.272 ohms. One of the resistors (R1) has a value of 14.88 ohms. What is the value of the other resistor (R2)?
 
-37.272 –14.88 22.392 Therefore, the second resistor, R2 = 22.392 ohms.
+R2 = RT – R1 = 37.272 – 14.88
+
+Arrange the decimal numbers in a vertical column so that the decimal points are aligned and then subtract.
+
+Therefore, the second resistor, R2 = 22.392 ohms.
 
 ### Multiplication of Decimal Numbers
 
-To multiply decimal numbers, vertical alignment of the decimal point is not required. Instead, align the numbers to the right in the same way that whole numbers are multiplied (with no regard to the decimal points or place values) and then multiply. The last step is to place the decimal point in the correct place in the answer. To do this, count the number of decimal places in each of the numbers, add the total, and then assign that number of decimal places to the result. Example: To multiply 0.2 × 6.03, arrange the numbers vertically and align them to the right. Multiply the numbers, ignoring the decimal points for now. 6.03 × 0.2 1206 (ignore the decimal points, for now)
+To multiply decimal numbers, vertical alignment of the decimal point is not required. Instead, align the numbers to the right in the same way that whole numbers are multiplied (with no regard to the decimal points or place values) and then multiply. The last step is to place the decimal point in the correct place in the answer. To do this, count the number of decimal places in each of the numbers, add the total, and then assign that number of decimal places to the result.
+
+Example: To multiply 0.2 × 6.03, arrange the numbers vertically and align them to the right. Multiply the numbers, ignoring the decimal points for now.
 
 After multiplying the numbers, count the total number of decimal places in both numbers. For this example, 6.03 has 2 decimal places and 0.2 has 1 decimal place. Together there are a total of 3 decimal places. The decimal point for the answer is placed 3 decimal places from the right. Therefore, the answer is 1.206.
 
-6.03 2 decimal places × 0.2 1 decimal place 1.206 3 decimal places Example: Using the formula watts = amperes × voltage, what is the wattage of an electric drill that uses 9.45 amperes from a 120-volt source? Align the numbers to the right and multiply.
+Example: Using the formula watts = amperes × voltage, what is the wattage of an electric drill that uses 9.45 amperes from a 120-volt source? Align the numbers to the right and multiply.
 
-After multiplying the numbers, count the total number of decimal places in both numbers. For this example, 9.45 has 2 decimal places and 120 has no decimal place. Together there are 2 decimal places. The decimal point for the answer is placed 2 decimal places from the right. Therefore, the answer is 1,134.00 watts, or simplified to 1,134 watts. 9.45 2 decimal places × 120 no decimal place 000 1890 + 945 1,134.00 2 decimal places
+After multiplying the numbers, count the total number of decimal places in both numbers. For this example, 9.45 has 2 decimal places and 120 has no decimal place. Together there are 2 decimal places. The decimal point for the answer is placed 2 decimal places from the right. Therefore, the answer is 1,134.00 watts, or simplified to 1,134 watts.
 
 ### Division of Decimal Numbers
 
-Division of decimal numbers is performed the same way as whole numbers, unless the divisor is a decimal. quotient divisor dividend When the divisor is a decimal, it must be changed to a whole number before dividing. To do this, move the decimal in the divisor to the right until there are no decimal places. At the same time, move the decimal point in the dividend to the right the same number of places. Then divide. The decimal in the quotient is placed directly above the decimal in the dividend.
+Division of decimal numbers is performed the same way as whole numbers, unless the divisor is a decimal.
 
-Example: Divide 0.144 by 0.12 1.2 0.12 0.144 = 12. 14.4 – 12 24 – 24 0 Move the decimal in the divisor (0.12) two places to the right. The result is 12.0. Next, move the decimal in the dividend (0.144) two places to the right. The result is 14.4. Now divide. The result is 1.2.
+When the divisor is a decimal, it must be changed to a whole number before dividing. To do this, move the decimal in the divisor to the right until there are no decimal places. At the same time, move the decimal point in the dividend to the right the same number of places. Then divide. The decimal in the quotient is placed directly above the decimal in the dividend.
+
+Example: Divide 0.144 by 0.12
+
+Move the decimal in the divisor (0.12) two places to the right. The result is 12.0. Next, move the decimal in the dividend (0.144) two places to the right. The result is 14.4. Now divide. The result is 1.2.
 
 Example: The wing area of an airplane is 262.6 square feet and its span is 40.4 feet. Find the mean chord of its wing using the formula: area ÷ span = mean chord.
 
-6.5 40.4 262.6 = 404. 2626.0 – 2424 2020 – 2020 0 Move the decimal in the divisor (40.4) one place to the right. Next, move the decimal in the dividend (262.6) one place to the right. Then divide. The mean chord length is 6.5 feet.
+Move the decimal in the divisor (40.4) one place to the right. Next, move the decimal in the dividend (262.6) one place to the right. Then divide. The mean chord length is 6.5 feet.
 
 ### Rounding Off Decimal Numbers
 
@@ -54,7 +66,9 @@ Example: An actuator shaft is 2.1938 inches in diameter. Round to the nearest te
 
 The digit in the tenths column is a 1. The digit to the right of the 1 is a 9. Since 9 is greater than or equal to 5, “round up” the 1 to a 2. Therefore, 2.1938 rounded to the nearest tenth is 2.2.
 
-Example: The outside diameter of a bearing is 3.1648 centimeters. Round to the nearest hundredth. The digit in the hundredths column is a 6. The digit to the right of the 6 is a 4. Since 4 is less than 5, do not round up the 6. Therefore, 3.1648 to the nearest hundredth is 3.16.
+Example: The outside diameter of a bearing is 3.1648 centimeters. Round to the nearest hundredth.
+
+The digit in the hundredths column is a 6. The digit to the right of the 6 is a 4. Since 4 is less than 5, do not round up the 6. Therefore, 3.1648 to the nearest hundredth is 3.16.
 
 Example: The length of a bushing is 3.7487 feet. Round to the nearest thousandth.
 
@@ -66,35 +80,35 @@ To change a decimal number to a fraction, “read” the decimal out loud, and t
 
 Example: One oversized rivet has a diameter of 0.52 inches. Convert 0.52 to a fraction. The decimal 0.52 is read as “fifty-two hundredths.”
 
-0.52 = 52 “fifty-two” 100 “hundredths” In the above fraction of 52⁄100, we can divide 4 into each number resulting in a fraction of 13⁄25.
+In the above fraction of 52⁄100, we can divide 4 into each number resulting in a fraction of 13⁄25.
 
 A dimension often appears in a maintenance manual or on a blueprint as a decimal instead of a fraction. To use the dimension, it may need to be converted to a fraction. An aviation mechanic frequently uses a steel rule that is calibrated in units of 1⁄64 of an inch. To change a decimal to the nearest equivalent common fraction, multiply the decimal by 64. The product of the decimal and 64 is the numerator of the fraction and 64 is the denominator. Reduce the fraction, if needed.
 
-Example: The width of a hex head bolt is 0.3123 inches. Convert the decimal 0.3123 to a common fraction to decide which socket would be the best fit for the bolt head. First, multiply the 0.3123 decimal by 64: 0.3123 × 64 = 19.9872 Next, round the product to the nearest whole number: 19.98722 ≈ 20.
+Example: The width of a hex head bolt is 0.3123 inches. Convert the decimal 0.3123 to a common fraction to decide which socket would be the best fit for the bolt head. First, multiply the 0.3123 decimal by 64: 0.3123 × 64 = 19.9872
+
+Next, round the product to the nearest whole number: 19.98722 ≈ 20.
 
 Use this whole number (20) as the numerator and 64 as the denominator: 20⁄64.
 
 Now, reduce 20⁄64 to 5⁄16 as 4 is common to both the numerator and denominator. Therefore, the correct socket would be the 5⁄16 inch socket (20⁄64 reduced).
 
-Example: When accurate holes of uniform diameter are required for aircraft structures, they are first drilled approximately 1⁄64 inch undersized and then reamed to the final desired diameter. What size drill bit should be selected for the undersized hole if the final hole is reamed to a diameter of 0.763 inches? First, multiply the 0.763 decimal by 64. 0.763 × 64 = 48.832 Next, round the product to the nearest whole number: 48.832 ≈ 49.
+Example: When accurate holes of uniform diameter are required for aircraft structures, they are first drilled approximately 1⁄64 inch undersized and then reamed to the final desired diameter. What size drill bit should be selected for the undersized hole if the final hole is reamed to a diameter of 0.763 inches? First, multiply the 0.763 decimal by 64.
+
+0.763 × 64 = 48.832
+
+Next, round the product to the nearest whole number: 48.832 ≈ 49.
 
 Use this number (49) as the numerator and 64 as the denominator: 49⁄64 is the closest fraction to the final reaming diameter of 0.763 inches. To determine the drill size for the initial undersized hole, subtract 1⁄64 inch from the finished hole size.
 
-49 – 1 = 48 = 3 64 64 64 4 Therefore, a 3⁄4-inch drill bit should be used for the initial undersized holes.
+Therefore, a 3⁄4-inch drill bit should be used for the initial undersized holes.
 
 ### Converting Fractions to Decimals
 
 To convert any fraction to a decimal, simply divide the top number (numerator) by the bottom number (denominator). Every fraction has an approximate decimal equivalent.
 
-0.51 2 = 1 ÷ 2 = 2 1.0 Therefore, 12 = 0.5 – 1.0 0 0.375 3 8 = 3 ÷ 8 = 8 3.000 Therefore, 38 = 0.375 – 24 60 – 56 40 – 40 0 Calculator tip: numerator (top number) ÷ denominator (bottom number) = the decimal equivalent of the fraction.
+Calculator tip: numerator (top number) ÷ denominator (bottom number) = the decimal equivalent of the fraction.
 
-Some fractions when converted to decimals produce a repeating decimal. Example:
-
-0.33 1 3 = 1 ÷ 3 = 3 1.00 = 0.3 or 0.33 – 9 This decimal can be represented with a bar, or can be rounded. (A bar indicates that the number(s) beneath it are repeated to infinity.)
-
-10 – 9 1 Other examples of repeating decimals:
-
-0.212121… = 0.21 0.6666… = 0.7 or 0.67 0.254254… = 0.254
+Some fractions when converted to decimals produce a repeating decimal. 
 
 ### Decimal Equivalent Chart
 
