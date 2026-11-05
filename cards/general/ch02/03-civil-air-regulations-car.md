@@ -34,13 +34,17 @@ As the name implies, this specific regulation is the basis for the current 14 CF
 
 • F—Equipment
 
-Some examples of CAR 3 aircraft are Piper PA 22, PA 28, PA 32, and Cessna 182, 195, and 310. Note: The “CAR” acronym actually has two interpretations: Civil Air Regulations and Canadian Aviation Regulations. The technician must clearly understand the difference and recognize when one or the other is appropriate.
+Some examples of CAR 3 aircraft are Piper PA 22, PA 28, PA 32, and Cessna 182, 195, and 310.
+
+Note: The “CAR” acronym actually has two interpretations: Civil Air Regulations and Canadian Aviation Regulations. The technician must clearly understand the difference and recognize when one or the other is appropriate.
 
 ### CAR 4a—Airplane Airworthiness
 
 This regulation was originated in 1936 and last amended on December 15, 1952. The subparts included in this regulation are:
 
 • A—Airworthiness Requirements
+
+• B—Definitions
 
 • C—Structural Loading Conditions, General Structural Requirements
 
@@ -49,6 +53,8 @@ This regulation was originated in 1936 and last amended on December 15, 1952. Th
 • E—Detail Design and Construction
 
 • G—Powerplant Installation
+
+• H—Performance
 
 • I—Miscellaneous Requirements
 
