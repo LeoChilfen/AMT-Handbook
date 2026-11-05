@@ -4,7 +4,9 @@
 
 ## 1. 原文
 
-A fraction is a number written in the form N⁄D where N is called the numerator and D is called the denominator. The fraction bar between the numerator and denominator shows that division is taking place. 17 , 2 , 5Some examples of fractions are: 18 3 8 The denominator of a fraction cannot be a zero. For example, the fraction 2⁄0 is not allowed, because dividing by zero is undefined.
+A fraction is a number written in the form N⁄D where N is called the numerator and D is called the denominator. The fraction bar between the numerator and denominator shows that division is taking place. 
+
+The denominator of a fraction cannot be a zero. For example, the fraction 2⁄0 is not allowed, because dividing by zero is undefined.
 
 An improper fraction is a fraction in which the numerator is equal to or larger than the denominator. For example, 4⁄4 or 15⁄8 are examples of improper fractions.
 
