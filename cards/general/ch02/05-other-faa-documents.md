@@ -42,6 +42,8 @@ In certain cases, the critical nature of an unsafe condition may warrant the imm
 
 An Emergency AD is issued when an unsafe condition exists that requires immediate action by an owner/operator. The intent of an Emergency AD is to rapidly correct an urgent safety deficiency. An Emergency AD may be distributed by fax, letter, or other methods. It is issued and effective to only the people who actually receive it. This is known as “actual notice.” All known owners and operators of affected U.S.-registered aircraft, or those aircraft that are known to have an affected product installed, are sent a copy of an Emergency AD. To make the AD effective to all persons, a follow up publication of the Final Rule AD in the Federal Register is critical. This Final Rule AD must be identical to the Emergency AD and is normally published in the Federal Register within 30 days of the Emergency AD issue.
 
+#### AD Content
+
 Generally, ADs include:
 
 • A description of the unsafe condition
@@ -55,6 +57,8 @@ Generally, ADs include:
 • Where to go for more information
 
 • Information on alternative methods of compliance with the requirements of the AD
+
+#### AD Number
 
 ADs have a three-part number designator. The first part is the calendar year of issuance. The second part is the biweekly period of the year when the number is assigned. The third part is issued sequentially within each biweekly period.
 
@@ -88,25 +92,17 @@ Specifications were originated during implementation of the Air Commerce Act of 
 
 When an aircraft is designed and that design is formally approved for manufacturing, the manufacturer is issued a Type Certificate (TC). The TC is issued by the FAA to signify the airworthiness of an aircraft design and may not be changed except by formal authorization of the FAA. This formal authorization supplements the original TC and is called the Supplemental Type Certificate (STC). Therefore, the STC issued by the FAA approves a product (aircraft, engine, or propeller) modification. The STC defines the product design change, states how the modification affects the existing type design, and lists serial number effectivity. It also identifies the certification basis listing specific regulatory compliance for the design change. Information contained in the certification basis is helpful for those applicants proposing subsequent product modifications and evaluating certification basis compatibility with other STC modifications.
 
-Advisory Circular Numbering System
-
-1. General. The advisory circular numbers relate to the FAR subchapter title and correspond to the Parts, and when appropriate, to the specific sections of the Federal Aviation Regulations.
-
-2. General and specific subject numbers. The subject numbers and related subject areas are as follows:
-
-3. Within the General Subject Number Areas, Specific selectivity in advisory circular mail lists is available corresponding to the applicable FAR Parts. For example: under the 60 general subject area, separate mail lists for advisory circulars issued in the 61, 63, 65, or 67 series are available. An AC numbered “60” goes to all numbers in the 60 series. When the volume of circulars in a series warrants a sub-subject breakdown, the general number is followed by a slash and a sub-subject number. Material in the 150 series, Airports, is issued under the following sub-subjects:
-
-4. Individual circular identification numbers. Each circular has a subject number followed either by a dash and a consecutive number (135-15) or a period with a specific FAR section number, followed by a dash and a consecutive number (135.169-2) identifying the individual circular. This consecutive number is not used again in the same subject series. Revised circulars have a letter A, B, C, etc., after the consecutive number to show complete revisions. Changes to circulars have Chg. 1, Chg. 2, Chg. 3, etc., after the identification number on pages that have been changed. The Date on a revised page is changed to the date of the Change transmittal.
-
-TCs and STCs are numbered.
-
 Possession of the STC document does not constitute rights to the design data or installation of the modification. The STC and its supporting data (drawings, instructions, specifications, and so forth) are the property of the STC holder. You must contact the STC holder to obtain rights for the use of the STC.
 
 ### Type Certificate Data Sheets (TCDS)
 
 The TCDS is a formal description of the aircraft, engine, or propeller. It lists limitations and information required for type certification including airspeed limits, weight limits, thrust limitations, and so forth.
 
-TCDSs and specifications set forth essential factors and other conditions that are necessary for U.S. airworthiness certification. Aircraft, engines, and propellers that conform to a U.S. TC are eligible for U.S. airworthiness certification when found to be in a condition for safe operation and ownership requisites are fulfilled. TCDSs were originated and first published in January 1958. Title 14 of the CFR part 21, section 21.41 indicates they are part of the TC. As such, a TCDS is evidence the product has been type certificated. Generally, TCDSs are compiled from details supplied by the TC holder; however, the FAA may request and incorporate additional details when conditions warrant. Under federal law, no civil aircraft registered in the United States can operate without a valid airworthiness certificate. This certificate must be approved and issued by the FAA; and it is only issued if the aircraft and its engines, propellers, and appliances are found to be airworthy and meet the requirements of an FAA-approved TC. The FAA issues a TC when a new aircraft, engine, propeller, and so forth, is found to meet safety standards set forth by the FAA. The TCDS lists the specifications, conditions, and limitations that the airworthiness requirements were met under for the specified product, such as engine make and model, fuel type, engine limits, airspeed limits, maximum weight, minimum crew, and so forth. TCDSs are issued and revised as necessary to accommodate new models or other major changes in the certified product. TCDSs are categorized by TC holder and product type.
+TCDSs and specifications set forth essential factors and other conditions that are necessary for U.S. airworthiness certification. Aircraft, engines, and propellers that conform to a U.S. TC are eligible for U.S. airworthiness certification when found to be in a condition for safe operation and ownership requisites are fulfilled.
+
+TCDSs were originated and first published in January 1958. Title 14 of the CFR part 21, section 21.41 indicates they are part of the TC. As such, a TCDS is evidence the product has been type certificated. Generally, TCDSs are compiled from details supplied by the TC holder; however, the FAA may request and incorporate additional details when conditions warrant.
+
+Under federal law, no civil aircraft registered in the United States can operate without a valid airworthiness certificate. This certificate must be approved and issued by the FAA; and it is only issued if the aircraft and its engines, propellers, and appliances are found to be airworthy and meet the requirements of an FAA-approved TC. The FAA issues a TC when a new aircraft, engine, propeller, and so forth, is found to meet safety standards set forth by the FAA. The TCDS lists the specifications, conditions, and limitations that the airworthiness requirements were met under for the specified product, such as engine make and model, fuel type, engine limits, airspeed limits, maximum weight, minimum crew, and so forth. TCDSs are issued and revised as necessary to accommodate new models or other major changes in the certified product. TCDSs are categorized by TC holder and product type.
 
 ## 2. 中文翻译
 
