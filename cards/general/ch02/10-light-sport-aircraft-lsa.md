@@ -4,6 +4,8 @@
 
 ## 1. 原文
 
+### Maintenance
+
 The light sport aircraft (LSA) category includes gliders, airplanes, gyroplanes, powered parachutes, weight-shift and lighter-than-air aircraft. There are two general types of LSAs: Special (SLSA) and Experimental (ELSA). The SLSA are factory built and the ESLA are kit-built. This new category of aircraft was added to the regulations in 2004. (Refer to 14 CFR sections 21.190, 65.107, and 91.327, all dated July 27, 2004.)
 
 Just as industry standard specifications have replaced many of the military standards to define products that are destined to be part of the Department of Defense (DoD) inventory, so too have industry standards come into the FAA sights for documenting certain information. Quality is one example. The Society of Automotive Engineers (SAE) has developed AS 9100 and AS 9110 as auditing standards for aerospace facilities and specifically repair stations. Likewise, ISO 9001 is being adopted by the FAA as a system of measuring their performance. Therefore, it was logical that when the FAA looked to develop the standards for this newest category of aircraft, they again looked to industry, and this time it was the American Society for Testing and Materials (ASTM).
@@ -72,7 +74,17 @@ Although these manuals do not require any FAA approval, the regulations do requi
 
 Other items that maintenance procedures must be provided for are:
 
+• Fuel systems
+
+• Propeller
+
+• Utility system
+
 • Instruments and avionics
+
+• Electrical system
+
+• Structural repair
 
 • Painting and coatings
 
@@ -86,9 +98,16 @@ The minimum level of certification necessary to accomplish line maintenance is L
 
 • Servicing of fluids
 
-• Removing and replacing components when instructions to do so are provided in the maintenance manual – Batteries – Fuel pump – Exhaust – Spark plugs and wires – Floats and skis
+• Removing and replacing components when instructions to do so are provided in the maintenance manual
+– Batteries
+– Fuel pump
+– Exhaust
+– Spark plugs and wires
+– Floats and skis
 
-• Repair or alteration of components when specific instructions are provided in the maintenance manual – Patching a hole in the fabric – Installation of a strobe light kit
+• Repair or alteration of components when specific instructions are provided in the maintenance manual
+– Patching a hole in the fabric
+– Installation of a strobe light kit
 
 Heavy maintenance, repairs, and alterations must be accomplished by either a certified mechanic (A or P or A&P) or an LSA repairman—maintenance who has received additional “task specific” training. Some examples of this would be the removal and replacement of complete engine, cylinder, piston and valve assemblies; primary flight controls; and landing gear.
 
