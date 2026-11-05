@@ -10,21 +10,27 @@ Whole numbers are the numbers 0, 1, 2, 3, 4, 5, and so on. Whole numbers can be 
 
 Addition is the process where the value of one number is added to the value of another. The result is called the sum. When working with whole numbers, it is important to understand the principle of the place value. The place value in a whole number is the value of the position of each individual digit within the entire number. For example, in the number 512, the 5 is in the hundreds column, the 1 is in the tens column, and the 2 is in the ones column.
 
-When adding several whole numbers, such as 4,314, 122, 93,132, and 10, align them into columns according to place value and then add. 4,314 122 93,132 + 10 97,578 Therefore, 97,578 is the sum of the four whole numbers.
+When adding several whole numbers, such as 4,314, 122, 93,132, and 10, align them into columns according to place value and then add. 4,314 122 93,132 + 10 97,578 = 97,578. Therefore, 97,578 is the sum of the four whole numbers.
 
 ### Subtraction of Whole Numbers
 
 Subtraction is the process where the value of one number is taken from the value of another. The result is called the difference. When subtracting two whole numbers, such as 3,461 from 97,564, align them into columns according to place value and then subtract.
 
-97,564 – 3,461 94,103 The difference of the two whole numbers is 94,103.
+97,564 – 3,461 94,103 = 94,103. The difference of the two whole numbers is 94,103.
 
-Multiplication of Whole Numbers Multiplication is the process of repeated addition. For example, 4 × 3 is the same as 4 + 4 + 4. The result is called the product. Example: How many hydraulic system filters do you have if there are 35 cartons in the supply room and each carton contains 18 filters? 18 × 35 90 54 630 Therefore, there are 630 filters in the supply room.
+### Multiplication of Whole Numbers
+
+Multiplication is the process of repeated addition. For example, 4 × 3 is the same as 4 + 4 + 4. The result is called the product.
+
+Example: How many hydraulic system filters do you have if there are 35 cartons in the supply room and each carton contains 18 filters? 18 × 35 = 630. Therefore, there are 630 filters in the supply room.
 
 ### Division of Whole Numbers
 
-Division is the process of finding how many times one number (called the divisor) is contained in another number (called the dividend). The result is the quotient, and any amount left over is called the remainder. quotient divisor dividend Example: 218 landing gear bolts need to be divided between 7 aircraft. How many bolts will each aircraft receive?
+Division is the process of finding how many times one number (called the divisor) is contained in another number (called the dividend). The result is the quotient, and any amount left over is called the remainder. 
 
-Place Value Ten Thousands Thousands Hundreds Tens Ones 3 5 2 6 9 1 2 7 4 9 35 shown as 269 shown as 12,749 shown as 31 7 218 − 21 8 − 7 1 In this case, there are 31 bolts for each of the seven aircraft with one extra remaining.
+Example: 218 landing gear bolts need to be divided between 7 aircraft. How many bolts will each aircraft receive?
+
+218 / 7 = 31……1. In this case, there are 31 bolts for each of the seven aircraft with one extra remaining.
 
 ## 2. 中文翻译
 
