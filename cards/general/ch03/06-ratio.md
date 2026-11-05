@@ -10,7 +10,9 @@ A ratio is the comparison of two numbers or quantities. A ratio may be expressed
 
 ### Aviation Applications
 
-Ratios have widespread application in the field of aviation. Example: Compression ratio on a reciprocating engine is the ratio of the volume of a cylinder with the piston at the bottom of its stroke to the volume of the cylinder with the piston at the top of its stroke. For example, a typical compression ratio might be 10:1 (or 10 to 1).
+Ratios have widespread application in the field of aviation.
+
+Example: Compression ratio on a reciprocating engine is the ratio of the volume of a cylinder with the piston at the bottom of its stroke to the volume of the cylinder with the piston at the top of its stroke. For example, a typical compression ratio might be 10:1 (or 10 to 1).
 
 Aspect ratio is the ratio of the length (or span) of an airfoil to its width (or chord). A typical aspect ratio for a commercial airliner might be 7:1 (or 7 to 1).
 
@@ -24,17 +26,25 @@ Speed ratio is when two gears are used in an aircraft component; the rotational 
 
 Example: A pinion gear with 10 teeth is driving a spur gear with 40 teeth. The spur gear is rotating at 160 rpm. Calculate the speed of the pinion gear.
 
-Teeth in Pinion Gear = Speed of Spur Gear Teeth in Spur Gear Speed of Pinion Gear 10 teeth = 160 rpm 40 teeth SP (speed of pinion gear)
+Teeth in Pinion Gear / Teeth in Spur Gear = Speed of Spur Gear / Speed of Pinion Gear 10 teeth / 40 teeth = 160 rpm / Sp (speed of pinion gear)
 
-To solve for SP, multiply 40 × 160, then divide by 10. The speed of the pinion gear is 640 rpm.
+To solve for Sp, multiply 40 × 160, then divide by 10. The speed of the pinion gear is 640 rpm.
 
-Example: If the cruising speed of an airplane is 200 knots and its maximum speed is 250 knots, what is the ratio of cruising speed to maximum speed? First, express the cruising speed as the numerator of a fraction whose denominator is the maximum speed. Ratio = 200250 Next, reduce the resulting fraction to its simplest form.
+Example: If the cruising speed of an airplane is 200 knots and its maximum speed is 250 knots, what is the ratio of cruising speed to maximum speed? First, express the cruising speed as the numerator of a fraction whose denominator is the maximum speed.
 
-Ratio = 200250 = 4 5 Therefore, the ratio of cruising speed to maximum speed is 4:5.
+Ratio = 200/250
+
+Next, reduce the resulting fraction to its simplest form.
+
+Ratio = 200/250 = 4/5
+
+Therefore, the ratio of cruising speed to maximum speed is 4:5.
 
 Another common use of ratios is to convert any given ratio to an equivalent ratio with a denominator of 1. Example: Express the ratio 9:5 as a ratio with a denominator of 1.
 
-R = 9 5 = ? 1 Since 9 ÷ 5 = 1.8, then 9 5 = 1.8 1 Therefore, 9:5 is the same ratio as 1.8:1. In other words, 9 to 5 is the same ratio as 1.8 to 1.
+R = 9/5 = ?/1 Since 9 ÷ 5 = 1.8, then 9/5 = 1.8/1
+
+Therefore, 9:5 is the same ratio as 1.8:1. In other words, 9 to 5 is the same ratio as 1.8 to 1.
 
 ## 2. 中文翻译
 
