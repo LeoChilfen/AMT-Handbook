@@ -94,6 +94,8 @@ There are seven different persons listed in this section who may sign RTS docume
 
 2. Holder of a repair station certificate.
 
+3. Manufacturer.
+
 4. Holder of an air carrier certificate.
 
 5. Certificated private pilot.
@@ -174,7 +176,9 @@ This section identifies that fraudulent entries are unacceptable. If someone com
 
 This section deals with the specific requirements for conducting maintenance. ( Note: This section best reflects the relationship between the FAA’s numbering of ACs and the regulations they are related to.) Paragraph 3 on the cover page of AC 43.13-2B, Acceptable Methods, Techniques, and Practices—Aircraft Alterations, dated March 3, 2008 states:
 
-“Title 14 of the Code of Federal Regulations (14 CFR) part 43, section 43.13(a) states that each person performing maintenance, alteration, or preventive maintenance on an aircraft, engine, propeller, or appliance must use the methods, techniques, and practices prescribed in the current manufacturer’s maintenance manual or Instructions for Continued Airworthiness prepared by its manufacturer, or other methods techniques or practices acceptable to the Administrator, except as noted in section 43.16.” Although not all ACs are linked this directly, there is a definite relationship between ACs and companion regulations. Refer to this chapter on ACs for additional information.
+“Title 14 of the Code of Federal Regulations (14 CFR) part 43, section 43.13(a) states that each person performing maintenance, alteration, or preventive maintenance on an aircraft, engine, propeller, or appliance must use the methods, techniques, and practices prescribed in the current manufacturer’s maintenance manual or Instructions for Continued Airworthiness prepared by its manufacturer, or other methods techniques or practices acceptable to the Administrator, except as noted in section 43.16.”
+
+Although not all ACs are linked this directly, there is a definite relationship between ACs and companion regulations. Refer to this chapter on ACs for additional information.
 
 Aircraft maintenance technicians (AMTs) are highly skilled personnel, because aviation maintenance work requires great attention to detail. The complexity of technology on today’s aircraft demands a significant level of communication to properly accomplish maintenance, preventive maintenance, rebuilding, or alteration. This communication frequently comes in written form (i.e., manufacturer’s maintenance manuals or ICA). If neither of these documents provide the guidance the technician needs to perform maintenance, either AC 43.13 (AC 43.13-1 or AC 43.13-2) contain examples of “other methods, techniques, or practices acceptable to the Administrator” that may be sufficient. However, these ACs specifically state that the information is applicable to non-pressurized areas of civil aircraft weighing 12,500 lb gross weight or less.
 
@@ -205,6 +209,12 @@ This section was significantly revised in 2005, as the result of a Bilateral Avi
 #### Appendix A—Major Alterations, Major Repairs, and Preventive Maintenance
 
 This appendix provides a comprehensive, but not exclusive, list of subjects. For instance, paragraph (a) is titled Major Alteration, and is further subdivided as follows:
+
+• Airframe
+
+• Powerplant
+
+• Propeller
 
 • Appliance
 
@@ -254,13 +264,17 @@ As mentioned in the brief overview of the regulation portion earlier in this cha
 
 Section 91.401—Applicability Although this subpart describes in general the rules regarding maintenance, preventive maintenance, and alteration, certain sections do not apply if the aircraft is operated in accordance with 14 CFR part 121, 125, 129, or 135.
 
-Section 91.403—General The owner/operator holds the primary responsibility for maintaining the aircraft in airworthy condition. This includes compliance with all applicable ADs and is the reason that the FAA sends new AD notes to the registered owners of the affected aircraft. All maintenance performed must be accomplished in accordance with 14 CFR part 43. Compliance with the appropriate manufacturer maintenance manuals and ICA is also required. Mandatory replacement times, inspection intervals, and related procedures as outlined in the FAA-approved operations specifications must also be complied with.
+Section 91.403—General
+The owner/operator holds the primary responsibility for maintaining the aircraft in airworthy condition. This includes compliance with all applicable ADs and is the reason that the FAA sends new AD notes to the registered owners of the affected aircraft. All maintenance performed must be accomplished in accordance with 14 CFR part 43. Compliance with the appropriate manufacturer maintenance manuals and ICA is also required. Mandatory replacement times, inspection intervals, and related procedures as outlined in the FAA-approved operations specifications must also be complied with.
 
-Section 91.405—Maintenance Required The owner/operator is required to have the appropriate inspections made, and to have discrepancies repaired in accordance with part 43. They are also required to ensure that the appropriate entries have been made in the maintenance records. Any inoperative instruments or equipment must be properly placarded as inoperative.
+Section 91.405—Maintenance
+Required The owner/operator is required to have the appropriate inspections made, and to have discrepancies repaired in accordance with part 43. They are also required to ensure that the appropriate entries have been made in the maintenance records. Any inoperative instruments or equipment must be properly placarded as inoperative.
 
-Section 91.407—Operation after maintenance, preventive maintenance, or alteration Whenever the aircraft has undergone maintenance, preventive maintenance, rebuilding or alteration, it must have been approved for RTS and a proper entry made in the maintenance records. If the maintenance that was done could have appreciably changed the flight characteristics, an appropriately rated pilot must perform an operational flight check of the aircraft and must make an entry of the flight in the maintenance records. If ground testing and inspection can show conclusively that the maintenance has not adversely affected the flight characteristics, no flight test is required.
+Section 91.407—Operation after maintenance, preventive maintenance, or alteration
+Whenever the aircraft has undergone maintenance, preventive maintenance, rebuilding or alteration, it must have been approved for RTS and a proper entry made in the maintenance records. If the maintenance that was done could have appreciably changed the flight characteristics, an appropriately rated pilot must perform an operational flight check of the aircraft and must make an entry of the flight in the maintenance records. If ground testing and inspection can show conclusively that the maintenance has not adversely affected the flight characteristics, no flight test is required.
 
-Section 91.409—Inspections This paragraph identifies various types of inspection applicable to the civilian aircraft fleet. Paragraph (a) defines the requirement for an annual inspection. However, there are certain exceptions to this regulation:
+Section 91.409—Inspections
+This paragraph identifies various types of inspection applicable to the civilian aircraft fleet. Paragraph (a) defines the requirement for an annual inspection. However, there are certain exceptions to this regulation:
 
 1. An aircraft that carries a special flight permit, a current experimental certificate, or a light-sport or provisional airworthiness certificate;
 
@@ -278,25 +292,33 @@ Other inspection programs that may be applicable to other aircraft are a continu
 
 There may be an instance when the operator of an aircraft wishes to change from one type of inspection program to another. In that case, the time in service, calendar times, or cycles of operation from the current program must be carried over to the subsequent program.
 
-Section 91.411—Altimeter System and Altitude Reporting Equipment Tests and Inspections Commonly referred to as “the 411 test,” this section specifies the requirements for testing the static pressure system, each altimeter instrument, and each automatic pressure altitude reporting system every 24 calendar months. The static system must also be tested any time it has been “opened and closed,” except for the normal use of the system drain and alternate static system pressure valves. If the automatic pressure altitude reporting system of the air traffic control (ATC) transponder is either installed or subjected to maintenance actions, the system must also be tested per Appendix E of 14 CFR part 43.
+Section 91.411—Altimeter System and Altitude Reporting Equipment Tests and Inspections
+Commonly referred to as “the 411 test,” this section specifies the requirements for testing the static pressure system, each altimeter instrument, and each automatic pressure altitude reporting system every 24 calendar months. The static system must also be tested any time it has been “opened and closed,” except for the normal use of the system drain and alternate static system pressure valves. If the automatic pressure altitude reporting system of the air traffic control (ATC) transponder is either installed or subjected to maintenance actions, the system must also be tested per Appendix E of 14 CFR part 43.
 
 Due to the inherent design and accuracy of this system, only the aircraft manufacturer, a properly-rated repair station, or a certificated airframe mechanic may perform these tests. The airframe technician may only perform the inspection and test of the static pressure system. Calibration and maintenance of related instruments is specifically prohibited to the technician by the language of 14 CFR part 65, section 65.81 and specifically allowed in 14 CFR part 145, section 145.59 for repair stations holding an instrument rating.
 
 TSO’d items are considered to be “tested and inspected” as of the date they were manufactured. The maximum altitude that the system was tested is the maximum altitude that the aircraft can be flown instrument flight rules (IFR) in controlled airspace.
 
-Section 91.413—ATC Transponder Tests and Inspections This “413 test” is the other test required every 24 months. Whenever the ATC transponder is installed or has undergone maintenance, the complete system must be tested and inspected in accordance with Appendix E of 14 CFR part 43. The transponder itself must be tested and inspected in accordance with Appendix F of 14 CFR part 43. As with the 411 test, only certain persons are authorized to conduct the tests. They are the manufacturer of the aircraft, a properly certificated repair station, or the holder of a continuous airworthiness maintenance program under 14 CFR part 121 or 135.
+Section 91.413—ATC Transponder Tests and Inspections
+This “413 test” is the other test required every 24 months. Whenever the ATC transponder is installed or has undergone maintenance, the complete system must be tested and inspected in accordance with Appendix E of 14 CFR part 43. The transponder itself must be tested and inspected in accordance with Appendix F of 14 CFR part 43. As with the 411 test, only certain persons are authorized to conduct the tests. They are the manufacturer of the aircraft, a properly certificated repair station, or the holder of a continuous airworthiness maintenance program under 14 CFR part 121 or 135.
 
-Section 91.415—Changes to Aircraft Inspection Programs If the FAA determines that the inspection program established and approved under either 14 CFR part 91, section 91.409 or 91.1109 must be revised to ensure continued safety and adequacy of the program, the owner/operator must make the necessary changes as identified by the Administrator. If the owner/operator desires to contest this request, they must petition the FAA to reconsider their request to change the program within 30 days of receiving the change request from the FAA.
+Section 91.415—Changes to Aircraft Inspection Programs
+If the FAA determines that the inspection program established and approved under either 14 CFR part 91, section 91.409 or 91.1109 must be revised to ensure continued safety and adequacy of the program, the owner/operator must make the necessary changes as identified by the Administrator. If the owner/operator desires to contest this request, they must petition the FAA to reconsider their request to change the program within 30 days of receiving the change request from the FAA.
 
-Section 91.417—Maintenance Records The understanding and implementation of this section is fundamental to the aircraft industry, in general, and the aircraft owner/operator, in specific. A professional maintenance technician must be knowledgeable of this section and be able to help the owner/operator understand it. This section identifies four types of records— two are quite specific (paragraphs a and d) and two are more general: (a)(1) and (a)(2). Paragraph (a) refers to the 411 and 413 testing that requires testing every 24 months. Therefore, records must be kept for that length of time. Paragraph (d) refers to the installation of fuel tanks in the cabin or cargo area. The FAA Form 337 authorizing this installation must be kept on board the aircraft all the time.
+Section 91.417—Maintenance Records
+The understanding and implementation of this section is fundamental to the aircraft industry, in general, and the aircraft owner/operator, in specific. A professional maintenance technician must be knowledgeable of this section and be able to help the owner/operator understand it. This section identifies four types of records— two are quite specific (paragraphs a and d) and two are more general: (a)(1) and (a)(2). Paragraph (a) refers to the 411 and 413 testing that requires testing every 24 months. Therefore, records must be kept for that length of time. Paragraph (d) refers to the installation of fuel tanks in the cabin or cargo area. The FAA Form 337 authorizing this installation must be kept on board the aircraft all the time.
 
 Note: Other than this paragraph, there is no requirement that the maintenance records of the aircraft be carried on the aircraft. In fact, there are very logical reasons to not do so in most cases. The two biggest concerns are damaged or lost records. It is much safer to retain the logs in a filing system in the office. It is also a very wise idea to have the logbook copied or scanned and retained at a separate location should a catastrophic event (fire, flood, tornado, hurricane, and so forth) occur at the site the original records are retained.
 
-Subparagraph (a)(1) then lists those records that are later defined in (b)(1) as being retained for 1 year or until the work is repeated or superseded. Subparagraph (a)(2) specifies the records that are permanent records and are identified in subparagraph (b)(2) as those that must be transferred with the aircraft. Paragraph (c) requires that all of the maintenance records mandated by this section be made available upon request to the Administrator or any authorized representative of the NTSB. Furthermore, the owner/operator must provide the Form 337 required to be aboard the aircraft whenever additional fuel tanks are installed in either the passenger compartment or the baggage compartment, per paragraph (d), to any law enforcement officer upon request.
+Subparagraph (a)(1) then lists those records that are later defined in (b)(1) as being retained for 1 year or until the work is repeated or superseded. Subparagraph (a)(2) specifies the records that are permanent records and are identified in subparagraph (b)(2) as those that must be transferred with the aircraft.
 
-Section 91.419—Transfer of Maintenance Records When an aircraft is sold, it is logical that the records are transferred with it. They may be either in plain language or coded. The purchaser may elect to permit the seller to retain the actual records; however, if that occurs the purchaser (now the current owner/operator) must still make these records available to either the FAA or the NTSB upon request.
+Paragraph (c) requires that all of the maintenance records mandated by this section be made available upon request to the Administrator or any authorized representative of the NTSB. Furthermore, the owner/operator must provide the Form 337 required to be aboard the aircraft whenever additional fuel tanks are installed in either the passenger compartment or the baggage compartment, per paragraph (d), to any law enforcement officer upon request.
 
-Section 91.421—Rebuilt Engine Maintenance Records This section presents the term “zero time.” Although not truly given as a definition, the wording of the regulation is very clear that an aircraft engine, when rebuilt by the engine manufacturer or an agency approved by the manufacturer, may be given a new maintenance record showing no previous operating history. This new record must include a signed statement with the date it was rebuilt, any changes incorporated by compliance with AD notes, and compliance with any of the manufacturer’s SB.
+Section 91.419—Transfer of Maintenance Records
+When an aircraft is sold, it is logical that the records are transferred with it. They may be either in plain language or coded. The purchaser may elect to permit the seller to retain the actual records; however, if that occurs the purchaser (now the current owner/operator) must still make these records available to either the FAA or the NTSB upon request.
+
+Section 91.421—Rebuilt Engine Maintenance Records
+This section presents the term “zero time.” Although not truly given as a definition, the wording of the regulation is very clear that an aircraft engine, when rebuilt by the engine manufacturer or an agency approved by the manufacturer, may be given a new maintenance record showing no previous operating history. This new record must include a signed statement with the date it was rebuilt, any changes incorporated by compliance with AD notes, and compliance with any of the manufacturer’s SB.
 
 
 ## 2. 中文翻译
