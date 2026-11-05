@@ -94,13 +94,17 @@ It is very important to review the TCDS for each aircraft. For example, The Cess
 
 • F——设备
 
-属于 CAR 3 的航空器例子有 Piper PA 22、PA 28、PA 32 和 Cessna 182、195、310。注意：“CAR”这一缩写实际上有两种含义：民用航空规章（Civil Air Regulations）和加拿大航空规章（Canadian Aviation Regulations）。技术人员必须清楚理解两者的区别，并能判断在何种场合该用哪一个。
+属于 CAR 3 的航空器例子有 Piper PA 22、PA 28、PA 32 和 Cessna 182、195、310。
+
+注意：“CAR”这一缩写实际上有两种含义：民用航空规章（Civil Air Regulations）和加拿大航空规章（Canadian Aviation Regulations）。技术人员必须清楚理解两者的区别，并能判断在何种场合该用哪一个。
 
 ### CAR 4a——飞机适航性
 
 该规章始创于 1936 年，最后一次修订是在 1952 年 12 月 15 日。该规章包含的分部有：
 
 • A——适航性要求
+
+• B——定义
 
 • C——结构载荷条件、结构总体要求
 
@@ -109,6 +113,8 @@ It is very important to review the TCDS for each aircraft. For example, The Cess
 • E——详细设计与构造
 
 • G——动力装置安装
+
+• H——性能
 
 • I——杂项要求
 
