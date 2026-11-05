@@ -185,13 +185,13 @@ FSGA 96-06 是一份面向通用航空（FSGA）的飞行标准信息通告（FS
 
 ## 4. 语法解析
 
-### ① titled 引出的分词短语与引号内的标题
+### ① 同位语 + titled 分词短语 + 引号内标题
 
-**原句**：The ICA must contain a separate and clearly distinguishable section titled “Airworthiness Limitations.”
+**原句**：FSGA 96-06, a Flight Standards Information Bulletin (FSIB) for General Aviation (FSGA) titled “Elimination of Aircraft Radio Station Licenses” became effective on July 8, 1996.
 
-**拆解**：主干 The ICA must contain a separate and clearly distinguishable section；titled… 为过去分词短语作后置定语，修饰 section；引号内是章节的确切标题。
+**拆解**：主语 FSGA 96-06，后接同位语 a Flight Standards Information Bulletin (FSIB) for General Aviation (FSGA)，说明该编号文件的类别与适用领域；titled “Elimination of Aircraft Radio Station Licenses” 为过去分词短语作后置定语，修饰这份通告，引号内是通告的确切标题；谓语 became effective，on July 8, 1996 为时间状语。
 
-**要点**：titled 是 title 的过去分词，意为「标题为…的」，与 section 构成被动关系，不能用 titling。并列形容词 separate and clearly distinguishable 中 clearly 修饰 distinguishable，位置不能移到 separate 前。原文用引号标出章节名，翻译时保留为「适航限制」，不要译成「适航限制部分」而冲淡其专有标题性质。
+**要点**：titled 是 title 的过去分词，意为「标题为…的」，与通告构成被动关系，不能用 titling；同位语用逗号与主语隔开，翻译时以「即……」或括号补出，不能当成并列主语；引号内是专有标题，译文保留为《取消航空器无线电台执照》，不要译成「关于……的通告」而冲淡其标题性质；become effective 是「生效」的固定搭配，后接具体日期用介词 on。
 
 ### ② 条件从句的并列与被动动词的省略
 

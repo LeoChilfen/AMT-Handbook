@@ -298,10 +298,10 @@ Vp = 1.414 × Vrms　因此，供给住宅的交流电所说的 110 伏，只是
 **拆解**：After 后接名词 discovery，that 引导同位语从句说明 discovery 的内容（从句主语 an electric current，flowing through a conductor 为现在分词短语作后置定语，谓语 creates）；主句为 there was considerable scientific speculation，about 后接 whether 引导的宾语从句。
 **要点**：that 在同位语从句中不作成分、只起连接作用，不能换成 which；介词 about 后面只能用 whether 不能用 if；there be 句型中真正的主语是 speculation，翻译时按「有大量推测」处理。
 
-### ② 非限制性定语从句 + 宾语从句
-**原句**：This is commonly known as Faraday’s Law or the Law of Electromagnetic Induction, which states that the induced emf or electromagnetic force in a closed loop of wire is proportional to the rate of change of the magnetic flux through a coil of wire.
-**拆解**：主句 This is commonly known as…（被动）；which 引导非限制性定语从句，先行词是前面的定律名称；从句谓语 states 后接 that 引导的宾语从句，从句主语为 the induced emf or electromagnetic force，in a closed loop of wire 为后置定语，is proportional to 为谓语部分。
-**要点**：非限制性定语从句前有逗号，which 不能换成 that；be proportional to 是「与……成正比」的固定搭配，反义为 inversely proportional to；同位并列用 or 表示「或称」。
+### ② 并列被动分句 + 非限制性定语从句
+**原句**：Several turns of a conductor are wrapped around a cylindrical form, and the ends of the conductor are connected together to form a complete circuit, which includes a galvanometer.
+**拆解**：主句由 and 连接两个被动分句：Several turns of a conductor are wrapped around a cylindrical form 与 the ends of the conductor are connected together to form a complete circuit，其中 to form a complete circuit 为目的不定式；逗号后 which 引导非限制性定语从句，先行词为 a complete circuit，在从句中作主语，谓语 includes a galvanometer。
+**要点**：两个分句都用一般现在时被动，描述实验装置时施动者无关紧要；which 引导非限制性定语从句，先行词是前面的名词短语 a complete circuit，不能换成 that；be connected together 中 together 与 connect 语义重叠，但技术文本常保留以强调「接在一起」；wrapped、connected 都是过去分词，与 be 构成被动。
 
 ### ③ 时间状语从句 + 被动语态
 **原句**：When a conductor is moved through a magnetic field, an emf is induced in the conductor.

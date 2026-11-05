@@ -167,10 +167,10 @@ When a storage battery is being charged, it generates a certain amount of hydrog
 **原句**：With this arrangement, the airstream is directed through the battery case where battery gases are picked up, neutralized in the sump, and then expelled overboard without damage to the airplane.
 **拆解**：With this arrangement 为方式状语；主句 the airstream is directed through the battery case；where 引导定语从句修饰 battery case，从句谓语为三个并列被动结构 are picked up、neutralized in the sump、expelled overboard。
 **要点**：where 在此相当于 in which，指代地点名词 battery case，不能换成 which；三个被动谓语只保留第一个 are，翻译时每个动作前补出「被」；without damage to the airplane 是结果状语，介词 to 表示「对……造成损害」，不写 without damaging the airplane 也可，但原句用名词短语更正式。
-### ④ only if 条件从句 + 现在完成被动 + 过去分词后置定语
-**原句**：The specific gravity of a cell is reliable only if nothing has been added to the electrolyte except occasional small amounts of distilled water to replace that lost as a result of normal evaporation.
-**拆解**：主句 The specific gravity of a cell is reliable；only if 引导条件从句 nothing has been added to the electrolyte except …（现在完成时的被动语态）；except 短语排除唯一允许的添加物，to replace 为目的不定式，that lost 为过去分词短语作后置定语（=that which is lost）。
-**要点**：only if 意为「只有在……时」，比 if 语气强，置于主句后不需倒装；nothing has been added 用完成被动，强调「至今未被添加」；that lost as a result of … 中 that 是关系代词，lost 前省略了 which is，这类省略在技术文中很常见，翻译时补成「所损失的」。
+### ④ or 并列 + 后置 if 条件从句 + 情态动词被动
+**原句**：Under actual service conditions, the battery can be completely discharged within a few minutes, or it may never be discharged if the generator provides sufficient charge.
+**拆解**：Under actual service conditions 为状语，限定下面所说的使用情形；主句由 or 连接两个分句：the battery can be completely discharged within a few minutes 与 it may never be discharged，两处 discharged 均为被动，分别与情态动词 can、may 连用；if the generator provides sufficient charge 为条件状语从句，说明第二种情形发生的条件。
+**要点**：or 在此表「或者（另一种极端情形）」，不是否定并列；if 从句后置时前面通常不加逗号；can be discharged 与 may never be discharged 都是「情态动词 + be + 过去分词」，表示可能性；discharge 既可作及物动词（discharge a battery）也可用于被动，被动时 be 不能漏。
 ### ⑤ 倍数表达 times as … as + 并列系表
 **原句**：In a new, fully-charged aircraft storage battery, the electrolyte is approximately 30 percent acid and 70 percent water (by volume) and is 1.300 times as heavy as pure water.
 **拆解**：In a new, fully-charged aircraft storage battery 为地点/范围状语（fully-charged 为复合形容词作前置定语）；主语 the electrolyte 带两个并列谓语 is approximately 30 percent acid and 70 percent water (by volume) 与 is 1.300 times as heavy as pure water。

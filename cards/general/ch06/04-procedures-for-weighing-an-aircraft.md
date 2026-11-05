@@ -206,9 +206,9 @@ TCDS 中与重量和平衡有关的重要信息，一部分如下：
 **要点**：虚拟条件句里 be 动词不论人称一律用 were；同位语中省略 being 是技术文本的简洁写法，翻译时应补出「一个在机头、一个在机尾」；intersect at 表示「在……处相交」，介词固定为 at。
 
 ### ⑤ with + 名词 + 现在分词 的独立结构
-**原句**：In the four-column table, the item, weight, and arm are listed in the first three columns, with the information coming from product of the weight and arm.
-**拆解**：in the four-column table 为地点状语；主句 the item, weight, and arm are listed in the first three columns 为被动语态；逗号后 with the information coming from product of the weight and arm 是 with + 名词 + 现在分词的复合结构，作伴随状语，说明第四列数据的来源。
-**要点**：with 复合结构中，名词与后面的分词是主动关系用 coming，被动关系用 come（过去分词）；product of A and B 意为「A 与 B 的乘积」，不可译成「产品」；主句的三个并列主语视为复数，谓语用 are。
+**原句**：In the four-column table, the item, weight, and arm are listed in the first three columns, with the information in the fourth column coming from the product of the weight and arm.
+**拆解**：in the four-column table 为地点状语；主句 the item, weight, and arm are listed in the first three columns 为被动语态；逗号后 with the information in the fourth column coming from the product of the weight and arm 是 with + 名词 + 现在分词的复合结构，作伴随状语，in the fourth column 为 information 的后置定语，说明第四列数据的来源。
+**要点**：with 复合结构中，名词与后面的分词是主动关系用 coming，被动关系用 come（过去分词）；the product of A and B 意为「A 与 B 的乘积」，product 前用定冠词 the，不可译成「产品」；主句的三个并列主语视为复数，谓语用 are。
 
 ### ⑥ when 从句 + 并列分句 + 性别中立的 they
 **原句**：When an aircraft mechanic or repairman adds or removes any item on the equipment list, they must change the weight and balance record to indicate the new empty weight and EWCG, and the equipment list is revised to show what is installed.

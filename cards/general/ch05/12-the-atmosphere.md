@@ -205,13 +205,13 @@ Pressure at 0 altitude (P0) = 29.92 "Hg Temperature at 0 altitude (T0) = 15 °C 
 
 **要点**：比例句后半部分因宾语提前而语序倒装，翻译时按“温度越高，空气能容纳的水蒸气就越多”还原；assuming 在此等于 if we assume，是独立分词状语，不能译成“假设正在”。
 
-### ⑤ Because 原因从句 + it 形式主语 + would 推测
+### ⑤ Since 原因从句 + it 形式主语 + would 推测
 
-**原句**：Because both temperature and pressure decrease with altitude, it might appear that the density of the atmosphere would remain fairly constant with increased altitude.
+**原句**：Since both temperature and pressure decrease with altitude, it might appear that the density of the atmosphere would remain fairly constant with increased altitude.
 
-**拆解**：Because both temperature and pressure decrease with altitude 为原因状语从句，主语由 both…and 连接的两项并列构成；主句中 it 为形式主语，真正主语是 that 引导的主语从句；从句内部 the density of the atmosphere would remain fairly constant 为“主语 + 情态动词 + 系动词 + 表语”。
+**拆解**：Since both temperature and pressure decrease with altitude 为原因状语从句，主语由 both…and 连接的两项并列构成；主句中 it 为形式主语，真正主语是 that 引导的主语从句；从句内部 the density of the atmosphere would remain fairly constant 为「主语 + 情态动词 + 系动词 + 表语」。
 
-**要点**：might appear that … 表示“看起来似乎……”，后文常用 This is not true 反驳，属技术文章常见的先立后破写法；with increased altitude 是“随着高度增加”，不能译成“与增加的高度一起”。
+**要点**：since 在此表原因，相当于 because，但语气更书面；它也可表「自从」，要靠主句时态（完成时）区分。might appear that … 表示「看起来似乎……」，后文常用 This is not true 反驳，属技术文章常见的先立后破写法；with increased altitude 是「随着高度增加」，不能译成「与增加的高度一起」。
 
 ### ⑥ not…but 并列 + 过去分词后置定语 + as…as 比较
 

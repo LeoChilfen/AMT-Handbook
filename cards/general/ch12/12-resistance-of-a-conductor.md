@@ -133,10 +133,10 @@ R1/R2 = l1/l2 = A2/A1，R2 = 0.017 Ω × 50 m/1 m × 1 mm²/0.25 mm² = 3.4 Ω�
 **拆解**：两个 the + 比较级分句并列，前句 the longer the length of a given size of wire 表条件（省略 is），后句 the greater the resistance 表结果（省略 is）；a given size of wire 为后置修饰。
 **要点**：与 be proportional to 表达同一正比关系，但比较级句式更强调“随……而变”；两个 the 缺一不可，顺序不能颠倒；本句两处都省略了系动词 is，恢复后为 the longer the length…is, the greater the resistance is。
 
-### ③ 被动语态 + 非限制性定语从句
-**原句**：This mixture is compressed into a rod, which is fitted with axial leads or “pigtails.”
-**拆解**：主句 This mixture is compressed into a rod 为一般现在时被动语态；逗号后 which 引导非限制性定语从句，指代 a rod，从句同样用被动 is fitted with。
-**要点**：制造工艺描述常用被动语态，因为操作者无关紧要；非限制性定语从句前必须有逗号，只能用 which，不能用 that；be fitted with 意为“装有、配有”，是设备描述的固定搭配。
+### ③ 非限制性定语从句 + conversely 对照 + having 分词短语
+**原句**：The best conductors are materials, chiefly metals, which possess a large number of free electrons; conversely, insulators are materials having few free electrons.
+**拆解**：主句 The best conductors are materials；chiefly metals 为插入的同位语，具体说明 materials；逗号后 which 引导非限制性定语从句，先行词为 materials（即 metals），在从句中作主语，谓语 possess；分号后 conversely 引出相反情形，insulators are materials having few free electrons 中 having few free electrons 为现在分词短语作后置定语（= which have few free electrons）。
+**要点**：非限制性定语从句前必须有逗号，只能用 which，不能用 that；chiefly metals 是同位语插入语，去掉后主句仍完整；conversely 是副词，连接两个独立分句要靠分号，不能只用逗号；having… 是定语从句的简化，翻译时还原为「自由电子很少的（材料）」。
 
 ### ④ 条件状语从句 + 被动语态的倍增减
 **原句**：If the cross-sectional area of a conductor is doubled, the resistance to current flow is reduced in half.

@@ -122,9 +122,9 @@ Rectangle Solid Cube Cylinder Sphere Cone c b a C B A c b a a2 + b2 = c2 (7 ft)2
 **要点**：across from 是“在……对面”，不用 across of；refer to A as B 变被动后为 A is referred to as B，as 不可省，类似的还有 be known as、be called。
 
 ### ⑤ 被动语态 + 目的不定式 + when 从句
-**原句**：The Pythagorean Theorem is used to find the third side of any right triangle when two sides are known.
-**拆解**：主语 The Pythagorean Theorem；谓语 is used（被动）；to find the third side of any right triangle 为目的状语（不定式）；when two sides are known 为时间状语从句，自身也是被动语态。
-**要点**：技术文本大量用 be used to do（用来做），这里的 to 是不定式符号而非介词；when 从句里省略了 they（two sides）作主语被动的施动者，翻译常处理成“已知两条边时”。
+**原句**：This theorem is used to find the third side of any right triangle when two sides are known.
+**拆解**：主语 This theorem 用指示代词回指上句的 The Pythagorean Theorem；谓语 is used（被动）；to find the third side of any right triangle 为目的状语（不定式）；when two sides are known 为时间状语从句，自身也是被动语态。
+**要点**：技术文本大量用 be used to do（用来做），这里的 to 是不定式符号而非介词；when 从句里 two sides 是 are known 的主语，被动语态省略了施动者，翻译常处理成「已知两条边时」；This theorem 这类回指说法避免重复长名词，翻译时还原为「这一定理」即可。
 
 ### ⑥ However 转折 + 条件从句 + 疑问语序
 **原句**：However, if the steel plate is tilted diagonally, will it fit through the cargo door opening?
