@@ -6,10 +6,6 @@
 
 Percentage Percentage means “parts out of one hundred.” The percentage sign is “%.” Ninety percent is expressed as 90% (= 90 parts out of 100). The decimal 0.90 equals 90⁄100, or 90 out of 100, or 90%.
 
-#### Proportion Method
-
-= 52100 To solve for N: N × 52 = 80 × 100 N × 52 = 8,000 N = 8,000 ÷ 52 N = 153.846 ohms or N = (80 × 100) ÷ 52 N = 153.846 ohms
-
 ### Expressing a Decimal Number as a Percentage
 
 To express a decimal number in percent, move the decimal point two places to the right (adding zeroes if necessary) and then affix the percent symbol.
@@ -28,47 +24,99 @@ For example: Express the following percentages as decimal numbers:
 
 ### Expressing a Fraction as a Percentage
 
-To express a fraction as a percentage, first change the fraction to a decimal number (by dividing the numerator by To solve for N: N × 12 = 10.75 × 100 N × 12 = 1,075 N = 1,075 ÷ 12 N = 89.58 or N = (1,075 × 100) ÷ 12 N = 89.58 Therefore, the motor efficiency is 89.58%.
-
-By multiplying by 100 as shown earlier.
+To express a fraction as a percentage, first change the fraction to a decimal number (by the denominator), and then convert the decimal number to a percentage by multiplying by 100 as shown earlier.
 
 Example: Express the fraction 5⁄8 as a percentage.
 
-5 8 = 5 ÷ 8 = 0.625 = 62.5%
+5/8 = 5 ÷ 8 = 0.625 = 62.5%
 
 ### Finding a Percentage of a Given Number
 
-This is the most common type of percentage calculation. Here are two methods to solve percentage problems: using algebra or using proportions. Each method is shown next to find a percent of a given number. Example: In a shipment of 80 wingtip lights, 15% of the lights were defective. How many of the lights were defective?
+This is the most common type of percentage calculation. Here are two methods to solve percentage problems: using algebra or using proportions. Each method is shown next to find a percent of a given number..
+
+Example: In a shipment of 80 wingtip lights, 15% of the lights were defective. How many of the lights were defective?
 
 #### Algebraic Method
 
 15% of 80 lights = N (number of defective lights)
 
-0.15 × 80 = N 12 = N Therefore, 12 defective lights were in the shipment.
+0.15 × 80 = N
 
-#### Algebraic Method
+12 = N
 
-#### Proportion Method
-
-N 80 = 15100 To solve for N: N × 100 = 80 × 15 N × 100 = 1,200 N = 1,200 ÷ 100 N = 12 or N = (80 × 15) ÷ 100 N = 12
+Therefore, 12 defective lights were in the shipment.
 
 #### Proportion Method
 
-10.75 12 = N100 Solve for G: (750 × 24) ÷ 300 = 60 Therefore, to fly 750 miles, 60 gallons of gasoline is required.
+N/80 = 15/100
+
+To solve for N: N × 100 = 80 × 15
+
+N × 100 = 1,200
+
+N = 1,200 ÷ 100
+
+N = 12
 
 ### Finding What Percentage One Number is of Another
 
 Example: A small engine rated at 12 horsepower is found to be delivering only 10.75 horsepower. What is the motor efficiency expressed as a percent?
 
-N% of 12 rated horsepower = 10.75 actual horsepower N% × 12 = 10.75 N% = 10.75 ÷ 12 N% = 0.8958 N = 89.58 Therefore, the motor efficiency is 89.58%.
-
 #### Algebraic Method
+
+N% of 12 rated horsepower = 10.75 actual horsepower
+
+N% × 12 = 10.75
+
+N% = 10.75 ÷ 12
+
+N% = 0.8958
+
+N = 89.58
+
+Therefore, the motor efficiency is 89.58%.
+
+#### Proportion Method
+
+10.75/12 = N/100
+
+To solve for N: N × 12 = 10.75 × 100
+
+N × 12 = 1,075
+
+N = 1,075 ÷ 12
+
+N = 89.58
+
+Therefore, the motor efficiency is 89.58%.
 
 ### Finding a Number When a Percentage of it is Known
 
 Example: Eighty ohms represents 52% of a microphone’s total resistance. Find the total resistance of this microphone.
 
-52% of N = 80 ohms 52% × N = 80 N = 80 ÷ 0.52 N = 153.846 The total resistance of the microphone is 153.846 ohms.
+#### Algebraic Method
+
+52% of N = 80 ohms
+
+52% × N = 80
+
+N = 80 ÷ 0.52
+
+N = 153.846
+
+The total resistance of the microphone is 153.846 ohms.
+
+#### Proportion Method
+
+80/N = 52/100
+
+To solve for N: N × 52 = 80 × 100
+
+N × 52 = 8,000
+
+N = 8,000 ÷ 52
+
+N = 153.846 ohms
 
 ## 2. 中文翻译
 
