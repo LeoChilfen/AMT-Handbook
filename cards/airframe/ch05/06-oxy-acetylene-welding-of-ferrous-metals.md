@@ -48,14 +48,95 @@ Another method used to keep oxygen from reaching the metal is to surround the we
 
 ## 2. 中文翻译
 
-TODO
+### 钢（含 SAE 4130）
+
+低碳钢、低合金钢（如 4130）、铸钢和熟铁都易于用氧乙炔焰焊接。低碳钢和低合金钢是气焊最常用的黑色金属。随着钢含碳量的升高，可按各类合金的专门工艺进行焊接修复。涉及的因素是含碳量和淬硬性。对于耐蚀、耐热的镍铬钢，允许的可焊性取决于其稳定性、含碳量以及重新热处理。
+
+美国汽车工程师学会（SAE）和美国钢铁学会（AISI）建立了一套牌号命名体系，是行业内公认的标准。SAE 4130 是一种合金钢，是制造小型飞机机身和骨架的理想材料；它也用于摩托车、高端自行车车架以及赛车车架和防滚架。这种钢管抗拉强度高、可锻性好，且易于焊接。
+
+数字“4130”同时也是 AISI 的四位代码，用以标示该钢的大致化学成分。“41”表示含铬和钼的低合金钢（铬钼钢），“30”表示含碳量为 0.3%。4130 钢还含有少量锰、磷、硫和硅，但与其他所有钢一样，其主要成分是铁。
+
+为了获得良好的焊缝，钢的含碳量不得有明显改变，也不能向母材添加或从中去除其他大气中的化学成分，否则会严重改变金属的性能。不过，许多焊接填充丝确实出于特定原因而含有与母材不同的成分，只要使用经批准的材料，这完全正常且可以接受。熔融的钢对碳、氧、氮有很强的亲和力，会与熔池结合生成氧化物和氮化物，二者都会降低钢的强度。用氧乙炔焰焊接时，遵守下列预防措施即可将杂质的混入降到最低：
+
+• 对大多数钢保持精确的中性焰；焊接镍或铬含量高的合金（如不锈钢）时，可让乙炔略微过量。
+
+• 保持柔和的火焰并控制熔池。
+
+• 保持足以熔透金属的火焰，并灵活操作焊炬，使熔融金属被火焰外层保护而不接触空气。
+
+• 让焊条的热端保持在熔池内或火焰包层之内。
+
+• 焊缝完成、仍处于红热状态时，用焊炬外焰在整个焊件上环绕移动，使其均匀降至暗红色。然后缓慢将焊炬移离焊件，以确保缓慢的冷却速度。
+
+### 铬钼钢
+
+铬钼钢（chrome-moly）的焊接工艺与碳钢基本相同，只是厚度超过 1/16 英寸的截面除外。开始焊接前，必须将周围区域预热到 300 °F 至 400 °F 之间。若不预热，焊后焊区骤然冷却可能形成未回火马氏体的脆性晶粒组织，必须通过焊后热处理加以消除。未回火马氏体是一种玻璃状组织，会取代钢正常的韧性组织，使钢易于开裂，通常发生在焊缝边缘附近。预热还有助于减轻焊接引起的一部分变形，同时应采用本章其他小节所述的规范操作。
+
+焊接应采用柔和的中性焰，并在整个过程中保持。若火焰不保持中性，氧化焰可能造成氧化物夹杂和裂纹。碳化焰通过提高含碳量而使金属更易淬硬。火焰的热量必须足以熔化母材，但又不能高到使母材过热，以致产生氧化物夹杂或金属厚度减薄。填充丝应与母材相匹配。若焊缝要求高强度，则使用专门的低碳合金填充丝，并在焊后对零件进行热处理。
+
+对厚度超过 0.093 英寸的 4130 铬钼钢截面，采用 TIG 焊并配合适当的焊后热处理可能更为有利，因为这样可获得更小的总体变形。但是，不可省去焊后热处理，否则由于所形成的马氏体晶粒组织，会严重限制焊件的疲劳寿命。
+
+### 不锈钢
+
+焊接不锈钢的工艺与碳钢基本相同。不过，要获得最佳结果，必须采取一些特别的预防措施。
+
+只有用于飞机非结构件的不锈钢才能令人满意地焊接。用于结构件的不锈钢经过冷作或冷轧，一旦受热就会损失部分强度。非结构用不锈钢以薄板和管材形式供应，常用于排气集流器、排气管或歧管。氧在熔融状态下极易与该金属结合，必须格外小心防止其发生。
+
+焊接不锈钢建议采用轻度碳化焰。火焰应调整到在内锥周围形成约 1/16 英寸长的多余乙炔羽状焰。但乙炔过多会给金属增碳，使其丧失耐蚀性。焊嘴尺寸应比焊同等厚度低碳钢所规定的尺寸小一号或两号。较小的焊嘴可减少过热以及随之丧失金属耐蚀性的可能。
+
+为防止生成氧化铬，应使用专门配制的不锈钢熔剂。该熔剂与水混合后，可涂在接头的下侧和填充丝上。由于必须尽可能避免氧化，熔剂用量要充足。所用填充丝的成分应与母材相同。
+
+焊接时，将填充丝保持在焊炬火焰的包层内，使焊丝在原位熔化，或与母材同时熔化。添加填充丝时，让其流入熔池。不要搅动熔池，因为空气会进入焊缝并加剧氧化。避免对任何部位重复焊接，也避免在焊缝背面施焊，否则会导致金属变形和过热。
+
+另一种防止氧接触金属的方法，是用惰性气体保护层包围焊缝。这可通过使用 TIG 焊机焊接不锈钢来实现。该方法推荐用于获得优良的焊缝，且无需施加熔剂及其后续清理。
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-TODO
+| low-carbon steel | n. | 低碳钢 | 含碳量低、气焊最常用的黑色金属，也是本节工艺参数的基准材料 |
+| wrought iron | n. | 熟铁 | 与低碳钢、铸钢并列的易焊黑色金属，含渣量高但塑性好 |
+| hardenability | n. | 淬硬性 | 决定钢焊后冷却时形成马氏体倾向的固有属性，是选工艺的关键因素 |
+| nickel chromium steel | n. | 镍铬钢 | 耐蚀耐热的合金钢，其可焊性取决于稳定性、含碳量与再热处理 |
+| designation system | n. | 牌号命名体系 | SAE 与 AISI 联合制定的钢号编码规则，4130 即由此而来 |
+| chromoly | n. | 铬钼钢 | 含铬和钼的低合金钢，4130 的俗称，用于机身骨架与赛车防滚架 |
+| filler wire | n. | 填充丝 | 焊接时填入熔池的金属丝，成分可与母材不同但须经批准 |
+| puddle | n. | 熔池 | 母材与填充金属熔化后形成的液态金属池，需靠火焰控制其形状 |
+| neutral flame | n. | 中性焰 | 氧与乙炔比例恰当、无氧化或碳化倾向的火焰，多数钢的规范火焰 |
+| outer envelope | n. | 外焰包层 | 火焰最外层的锥形包络，用来隔绝空气保护熔融金属 |
+| untempered martensite | n. | 未回火马氏体 | 焊区急冷形成的玻璃状硬脆组织，须以焊后热处理消除 |
+| post-weld heat treatment | n. | 焊后热处理 | 焊后对焊件重新加热保温的工序，用于消除脆性组织与残余应力 |
+| carburizing flame | n. | 碳化焰 | 乙炔过量的还原性火焰，会向钢中增碳、提高淬硬性 |
+| flux | n. | 熔剂 | 不锈钢焊接时涂于接头与焊丝的药剂，用于溶解氧化铬、防止氧化 |
 
 ## 4. 语法解析
 
-TODO
+### ① as 引导的时间/伴随从句 + 被动语态 + 方式分词
+**原句**：As the carbon content of steel increases, it may be repaired by welding using specific procedures for various alloy types.
+**拆解**：As 引导时间状语从句（意为“随着……”），主句主语 it 指代前文的 steel，谓语为情态动词被动式 may be repaired；by welding 表示方式，using specific procedures… 为现在分词短语作方式补充说明。
+**要点**：As 这里是“随着”而非“因为”，判断依据是 increases 与主句动作同步推进。by + 动名词表手段，后面再接 using 分词，两级方式状语层层修饰 repaired，翻译时按“通过……采用……进行修复”的顺句铺开即可。
+
+### ② 关系从句 + 分号并列 + 被动语态
+**原句**：SAE 4130 is an alloy steel that is an ideal material for constructing fuselages and framework on small aircraft; it is also used for motorcycle and high-end bicycle frames and race car frames and roll cages.
+**拆解**：前一分句主干 SAE 4130 is an alloy steel，that 引导定语从句修饰 an alloy steel，从句内 is 后接表语 an ideal material；分号后另起一分句，主语 it 回指 4130 钢，谓语 is used for 为被动语态。
+**要点**：分号连接的两个分句在语法上各自独立，不能把 a semicolon 当成并列连词来省略主语。that 从句中 for constructing 作后置定语，说明“用于建造何处”；后半句 is used for 后面并列了名词短语，是列举用途而非多个谓语。
+
+### ③ nor 引起的部分倒装 + without doing
+**原句**：In order to make a good weld, the carbon content of the steel must not be altered to any appreciable degree, nor can other atmospheric chemical constituents be added to or subtracted from the base metal without seriously altering the properties of the metal.
+**拆解**：In order to make a good weld 为目的状语；前一分句用 must not be altered（被动）；nor 位于句首引起部分倒装，把情态动词 can 提到主语 other atmospheric chemical constituents 之前；without seriously altering… 为介词短语作条件/伴随状语。
+**要点**：nor 承接前面的否定，意为“也不能……”，必须倒装，还原语序是 other constituents cannot be added…。add to 与 subtract from 共用宾语 the base metal，读时不要漏掉 from。without doing 在此相当于“否则就会……”，是隐含条件。
+
+### ④ 现在分词 + both of which 非限制性定语从句
+**原句**：Molten steel has a great affinity for carbon, oxygen, and nitrogen combining with the molten puddle to form oxides and nitrates, both of which lower the strength of steel.
+**拆解**：主句为 has a great affinity for A, B, and C；combining with the molten puddle 为现在分词短语，逻辑主语是前面的 carbon, oxygen, and nitrogen；to form oxides and nitrates 表结果；both of which 引导非限制性定语从句，which 指代 oxides and nitrates。
+**要点**：combining 的逻辑主语不是 molten steel，而是三种元素——分词短语紧跟列举项，指代要看语义。both of which 中的 both 限定先行词为两者（oxides 与 nitrates），介词 of 提前后 which 不能换成 that。
+
+### ⑤ 条件从句 + 定语从句被动式
+**原句**：If this is not done, the sudden quenching of the weld area after the weld is complete may cause a brittle grain structure of untempered martensite that must be eliminated with post-weld heat treatments.
+**拆解**：If 引导条件状语从句，this 回指上文的预热；主句主语 the sudden quenching of the weld area，after the weld is complete 为时间状语从句，谓语 may cause，宾语 a brittle grain structure of untempered martensite 后接 that 定语从句（被动式 must be eliminated）。
+**要点**：主句主语是 quenching（动名词化的名词），不是 weld area；of the weld area 只是它的定语。that 从句修饰的是 grain structure，不是 martensite，所以谓语用单数 must be eliminated。
+
+### ⑥ 否定祈使句 + as 原因状语 + due to 短语
+**原句**：However, do not eliminate the post-weld heat treatment as doing so could severely limit the fatigue life of the weldment due to the formed martensitic grain structure.
+**拆解**：主句为否定祈使句 do not eliminate + 宾语；as 引导原因状语从句，doing so 为动名词短语作从句主语，指代“省去焊后热处理”这一动作；due to the formed martensitic grain structure 在从句中作原因状语。
+**要点**：as 在此表原因（“因为”），与第①句表“随着”的 as 不同，要靠从句有无“随时间变化”来判断。doing so 是英语避免重复的替代说法，不能译成“这样做”后丢掉所指。due to 后接名词短语，其逻辑主语是疲劳寿命受限这一结果。

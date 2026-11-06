@@ -3387,7 +3387,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "02",
   "titleEn": "Aerodynamics, Aircraft Assembly, & Rigging",
-  "count": 25,
+  "count": 27,
   "cards": [
    {
     "slug": "airframe-ch02-01",
@@ -3534,6 +3534,18 @@ window.AMT_CARDS = [
     "file": "24-airplane-assembly-and-rigging.md"
    },
    {
+    "slug": "airframe-ch02-25",
+    "seq": "25",
+    "title": "Aircraft Rigging",
+    "file": "25-aircraft-rigging.md"
+   },
+   {
+    "slug": "airframe-ch02-26",
+    "seq": "26",
+    "title": "Biplane Assembly & Rigging",
+    "file": "26-biplane-assembly-and-rigging.md"
+   },
+   {
     "slug": "airframe-ch02-27",
     "seq": "27",
     "title": "Aircraft Inspection",
@@ -3548,7 +3560,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "03",
   "titleEn": "Aircraft Fabric Covering",
-  "count": 9,
+  "count": 10,
   "cards": [
    {
     "slug": "airframe-ch03-01",
@@ -3593,6 +3605,12 @@ window.AMT_CARDS = [
     "file": "07-fabric-strength.md"
    },
    {
+    "slug": "airframe-ch03-08",
+    "seq": "08",
+    "title": "General Fabric Covering Process",
+    "file": "08-general-fabric-covering-process.md"
+   },
+   {
     "slug": "airframe-ch03-09",
     "seq": "09",
     "title": "Polyester Fabric Repairs",
@@ -3603,6 +3621,189 @@ window.AMT_CARDS = [
     "seq": "10",
     "title": "Cotton-Covered Aircraft",
     "file": "10-cotton-covered-aircraft.md"
+   }
+  ]
+ },
+ {
+  "chapter": "airframe-ch04",
+  "book": "airframe",
+  "bookEn": "Airframe",
+  "bookZh": "机体",
+  "num": "04",
+  "titleEn": "Aircraft Metal Structural Repair",
+  "count": 10,
+  "cards": [
+   {
+    "slug": "airframe-ch04-01",
+    "seq": "01",
+    "title": "Aircraft Metal Structural Repair",
+    "file": "01-aircraft-metal-structural-repair.md"
+   },
+   {
+    "slug": "airframe-ch04-02",
+    "seq": "02",
+    "title": "Tools for Sheet Metal Construction & Repair",
+    "file": "02-tools-for-sheet-metal-construction-and-repair.md"
+   },
+   {
+    "slug": "airframe-ch04-03",
+    "seq": "03",
+    "title": "Hole Drilling",
+    "file": "03-hole-drilling.md"
+   },
+   {
+    "slug": "airframe-ch04-04",
+    "seq": "04",
+    "title": "Forming Tools",
+    "file": "04-forming-tools.md"
+   },
+   {
+    "slug": "airframe-ch04-05",
+    "seq": "05",
+    "title": "Sheet Metal Holding Devices",
+    "file": "05-sheet-metal-holding-devices.md"
+   },
+   {
+    "slug": "airframe-ch04-06",
+    "seq": "06",
+    "title": "Aluminum Alloys",
+    "file": "06-aluminum-alloys.md"
+   },
+   {
+    "slug": "airframe-ch04-07",
+    "seq": "07",
+    "title": "Structural Fasteners",
+    "file": "07-structural-fasteners.md"
+   },
+   {
+    "slug": "airframe-ch04-08",
+    "seq": "08",
+    "title": "Forming Process",
+    "file": "08-forming-process.md"
+   },
+   {
+    "slug": "airframe-ch04-09",
+    "seq": "09",
+    "title": "Forming Operations & Terms",
+    "file": "09-forming-operations-and-terms.md"
+   },
+   {
+    "slug": "airframe-ch04-10",
+    "seq": "10",
+    "title": "Layout & Forming",
+    "file": "10-layout-and-forming.md"
+   }
+  ]
+ },
+ {
+  "chapter": "airframe-ch05",
+  "book": "airframe",
+  "bookEn": "Airframe",
+  "bookZh": "机体",
+  "num": "05",
+  "titleEn": "Aircraft Welding",
+  "count": 13,
+  "cards": [
+   {
+    "slug": "airframe-ch05-01",
+    "seq": "01",
+    "title": "Introduction",
+    "file": "01-introduction.md"
+   },
+   {
+    "slug": "airframe-ch05-02",
+    "seq": "02",
+    "title": "Types of Welding",
+    "file": "02-types-of-welding.md"
+   },
+   {
+    "slug": "airframe-ch05-03",
+    "seq": "03",
+    "title": "Gas Welding & Cutting Equipment",
+    "file": "03-gas-welding-and-cutting-equipment.md"
+   },
+   {
+    "slug": "airframe-ch05-04",
+    "seq": "04",
+    "title": "Oxy-acetylene Cutting",
+    "file": "04-oxy-acetylene-cutting.md"
+   },
+   {
+    "slug": "airframe-ch05-05",
+    "seq": "05",
+    "title": "Gas Welding Procedures & Techniques",
+    "file": "05-gas-welding-procedures-and-techniques.md"
+   },
+   {
+    "slug": "airframe-ch05-06",
+    "seq": "06",
+    "title": "Oxy-Acetylene Welding of Ferrous Metals",
+    "file": "06-oxy-acetylene-welding-of-ferrous-metals.md"
+   },
+   {
+    "slug": "airframe-ch05-07",
+    "seq": "07",
+    "title": "Oxy-Acetylene Welding of Nonferrous Metals",
+    "file": "07-oxy-acetylene-welding-of-nonferrous-metals.md"
+   },
+   {
+    "slug": "airframe-ch05-08",
+    "seq": "08",
+    "title": "Brazing & Soldering",
+    "file": "08-brazing-and-soldering.md"
+   },
+   {
+    "slug": "airframe-ch05-09",
+    "seq": "09",
+    "title": "Gas Tungsten Arc Welding (TIG Welding)",
+    "file": "09-gas-tungsten-arc-welding-tig-welding.md"
+   },
+   {
+    "slug": "airframe-ch05-10",
+    "seq": "10",
+    "title": "Arc Welding Procedures, Techniques, & Welding Safety Equipment",
+    "file": "10-arc-welding-procedures-techniques-and-welding-safety-equipment.md"
+   },
+   {
+    "slug": "airframe-ch05-11",
+    "seq": "11",
+    "title": "Expansion & Contraction of Metals",
+    "file": "11-expansion-and-contraction-of-metals.md"
+   },
+   {
+    "slug": "airframe-ch05-12",
+    "seq": "12",
+    "title": "Welded Joints Using Oxy-Acetylene Torch",
+    "file": "12-welded-joints-using-oxy-acetylene-torch.md"
+   },
+   {
+    "slug": "airframe-ch05-13",
+    "seq": "13",
+    "title": "Repair of Steel Tubing Aircraft Structure by Welding",
+    "file": "13-repair-of-steel-tubing-aircraft-structure-by-welding.md"
+   }
+  ]
+ },
+ {
+  "chapter": "airframe-ch06",
+  "book": "airframe",
+  "bookEn": "Airframe",
+  "bookZh": "机体",
+  "num": "06",
+  "titleEn": "Aircraft Wood & Structural Repair",
+  "count": 2,
+  "cards": [
+   {
+    "slug": "airframe-ch06-01",
+    "seq": "01",
+    "title": "Introduction",
+    "file": "01-introduction.md"
+   },
+   {
+    "slug": "airframe-ch06-02",
+    "seq": "02",
+    "title": "Wood Aircraft Construction & Repairs",
+    "file": "02-wood-aircraft-construction-and-repairs.md"
    }
   ]
  }
