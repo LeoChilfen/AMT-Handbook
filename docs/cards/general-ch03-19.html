@@ -3,27 +3,30 @@
 <h2 id="1-原文">1. 原文</h2>
 <p>The binary number system has only two digits: 0 and 1. The prefix in the word “binary” is a Latin root for the word “two” and its use was first published in the late 1700s. The use of the binary number system is based on the fact that switches or valves have two states: open or closed (on/off).</p>
 <p>Currently, one of the primary uses of the binary number system is in computer applications. Information is stored as a series of 0s and 1s, forming strings of binary numbers. An early electronic computer, ENIAC ( Electronic Numerical Integrator and Calculator), was built in 1946 at the University of Pennsylvania and contained 17,000 vacuum tubes, along with 70,000 resistors, 10,000 capacitors, 1,500 relays, 6,000 manual switches and 5 million soldered joints. Computers obviously have changed a great deal since then, but are still based on the same binary number system. The binary number system is also useful when working with digital electronics because the two basic conditions of electricity, on and off, can be represented by the two digits of the binary number system. When the system is on, it is represented by the digit 1, and when it is off, it is represented by the digit 0.</p>
-<p>The binary number system is a Base-2 system. That is, the place values in the binary number system are based on powers of 2. An 8-bit binary number system is shown below.</p>
+<h3 id="place-values">Place Values</h3>
+<p>The binary number system is a Base-2 system. That is, the place values in the binary number system are based on powers of 2.</p>
 <h3 id="converting-binary-numbers-to-decimal-numbers">Converting Binary Numbers to Decimal Numbers</h3>
 <p>To convert a binary number to a decimal number, add up the place values that have a 1 (place values that have a zero do not contribute to the decimal number conversion).</p>
 <p>Example: Convert the binary number 10110011 to a decimal number. Using the place value chart, add up the place values of the ‘1s’ in the binary number (ignore the place values with a zero in the binary number).</p>
 <p>The binary number 10110011 = 128 + 0 + 32 + 16 + 0 + 0 + 2 + 1 = 179 in the decimal number system</p>
 <h3 id="converting-decimal-numbers-to-binary-numbers">Converting Decimal Numbers to Binary Numbers</h3>
 <p>To convert a decimal number to a binary number, the place values in the binary system are used to create a sum of numbers that equal the value of the decimal number being converted. Start with the largest binary place value and subtract from the decimal number. Continue this process until all of the binary digits are determined.</p>
-<p>Example: Convert the decimal number 233 to a binary number. Start by subtracting 128 (the largest place value from the 8-bit binary number) from 233.</p>
+<p>Example: Convert the decimal number 233 to a binary number.</p>
+<p>Start by subtracting 128 (the largest place value from the 8-bit binary number) from 233.</p>
 <p>233 – 128 = 105 A “1” is placed in the first binary digit space: 1XXXXXXX.</p>
 <p>Continue the process of subtracting the binary number place values:</p>
 <p>105 – 64 = 41 A “1” is placed in the second binary digit space: 11XXXXXX.</p>
 <p>41 – 32 = 9 A “1” is placed in the third binary digit space: 111XXXXX.</p>
-<p>Place Value 27 or 128 26 or 64 25 or 32 24 or 16 23 or 8 22 or 4 21 or 2 20 or 1 1 0 0 1 1 0 0 1 0 0 1 0 1 0 1 1 10011001 shown as 00101011 shown as =153 =43 Place Value 27 or 128 26 or 64 25 or 32 24 or 16 23 or 8 22 or 4 21 or 2 20 or 1 1 0 1 1 0 0 1 1 128 + 0 + 32 + 16 + 0 + 0 + 2 + 1 10110011 shown as =179 Place Value 27 or 128 26 or 64 25 or 32 24 or 16 23 or 8 22 or 4 21 or 2 20 or 1 0 0 1 0 0 0 1 1 0 1 1 1 1 1 0 0 0 1 1 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 0 0 1 35 shown as 124 shown as 96 shown as 255 shown as 233 shown as Since 9 is less than 16 (the next binary place value), a “0” is placed in the fourth binary digit space, 1110XXXX.</p>
-<p>9 – 8 = 1 A “1” is placed in the fifth binary digit space: 11101XXX Since 1 is less than 4 (the next binary place value), a 0 is placed in the sixth binary digit space: 111010XX.</p>
+<p>Since 9 is less than 16 (the next binary place value), a “0” is placed in the fourth binary digit space, 1110XXXX.</p>
+<p>9 – 8 = 1 A “1” is placed in the fifth binary digit space: 11101XXX</p>
+<p>Since 1 is less than 4 (the next binary place value), a 0 is placed in the sixth binary digit space: 111010XX.</p>
 <p>Since 1 is less than 2 (the next binary place value), a 0 is placed in the seventh binary digit space: 1110100X.</p>
 <p>1 – 1 = 0 A “1” is placed in the eighth binary digit space: 11101001.</p>
 <p>The decimal number 233 is equivalent to the binary number 11101001.</p>
-<p>Three additional decimal number to binary number conversions are shown below.</p>
 <h2 id="2-中文翻译">2. 中文翻译</h2>
 <p>二进制数制只有两个数字：0 和 1。“binary”一词里的词头是拉丁语中表示“二”的词根，这种用法最早发表于 18 世纪晚期。二进制数制的应用基于这样一个事实：开关或阀门有两种状态——断开或闭合（关/开）。</p>
 <p>目前，二进制数制的主要用途之一是计算机应用。信息以一连串的 0 和 1 存储，形成二进制数串。早期的电子计算机 ENIAC（Electronic Numerical Integrator and Calculator，电子数值积分计算机）于 1946 年在宾夕法尼亚大学建成，装有 17,000 只真空管，以及 70,000 个电阻、10,000 个电容、1,500 个继电器、6,000 个手动开关和 500 万个焊接点。此后计算机显然发生了巨大的变化，但依然基于同一套二进制数制。二进制数制在处理数字电子设备时也很有用，因为电的两种基本状态（通与断）可以用二进制数制的两个数字来表示。系统处于“通”的状态时用数字 1 表示，处于“断”的状态时用数字 0 表示。</p>
+<h3 id="位值">位值</h3>
 <p>二进制数制是以 2 为基数的数制。也就是说，二进制数制中的位值以 2 的幂为基础。8 位二进制数制如下所示。</p>
 <h3 id="把二进制数转换为十进制数">把二进制数转换为十进制数</h3>
 <p>要把二进制数转换为十进制数，就把位值为 1 的那些位值加起来（位值为零的位不计入十进制换算）。</p>
@@ -31,17 +34,18 @@
 <p>二进制数 10110011 = 128 + 0 + 32 + 16 + 0 + 0 + 2 + 1 = 十进制数制中的 179</p>
 <h3 id="把十进制数转换为二进制数">把十进制数转换为二进制数</h3>
 <p>要把十进制数转换为二进制数，就用二进制数制的各位值去凑出一个等于被转换十进制数的和。先从最大的二进制位值开始，从十进制数中减去它。一直进行下去，直到所有二进制位都确定。</p>
-<p>例：把十进制数 233 转换为二进制数。先从 233 中减去 128（8 位二进制数中最大的位值）。</p>
+<p>例：把十进制数 233 转换为二进制数。</p>
+<p>先从 233 中减去 128（8 位二进制数中最大的位值）。</p>
 <p>233 – 128 = 105 把“1”放在第一个二进制位上：1XXXXXXX。</p>
 <p>继续按二进制各位值进行相减：</p>
 <p>105 – 64 = 41 把“1”放在第二个二进制位上：11XXXXXX。</p>
 <p>41 – 32 = 9 把“1”放在第三个二进制位上：111XXXXX。</p>
-<p>（原文此处为位值表与多组换算的碎片：Place Value、27 or 128 至 20 or 1 的位值栏，以及 10011001 shown as =153、00101011 shown as =43、10110011 shown as =179、35 shown as、124 shown as、96 shown as、255 shown as、233 shown as 等成串数字，原文无完整句子。）由于 9 小于 16（下一个二进制位值），在第四个二进制位上放“0”，即 1110XXXX。</p>
-<p>9 – 8 = 1 把“1”放在第五个二进制位上：11101XXX 由于 1 小于 4（下一个二进制位值），在第六个二进制位上放 0，即 111010XX。</p>
+<p>由于 9 小于 16（下一个二进制位值），在第四个二进制位上放“0”，即 1110XXXX。</p>
+<p>9 – 8 = 1 把“1”放在第五个二进制位上：11101XXX</p>
+<p>由于 1 小于 4（下一个二进制位值），在第六个二进制位上放 0，即 111010XX。</p>
 <p>由于 1 小于 2（下一个二进制位值），在第七个二进制位上放 0，即 1110100X。</p>
 <p>1 – 1 = 0 把“1”放在第八个二进制位上：11101001。</p>
 <p>十进制数 233 等价于二进制数 11101001。</p>
-<p>下面再给出三个十进制数到二进制数的换算。</p>
 <h2 id="3-专业词汇">3. 专业词汇</h2>
 <div class="table-wrap"><table>
 <thead><tr>

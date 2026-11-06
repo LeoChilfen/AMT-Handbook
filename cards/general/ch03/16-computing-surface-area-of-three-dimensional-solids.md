@@ -48,27 +48,36 @@ Surface area = π × radius × [radius + √(radius^2 + height^2)] = π × r × 
 
 长方体的表面积公式为：
 
+Surface area = 2 × [(width × length) + (width × height) + (length × height)]
+= 2 × [(w × l) + (w × h) + (l × h)]
+
+### 立方体
+
 立方体的表面积公式为：
+
+Surface area = 6 × (side × side) = 6 × s2
+
+例：边长为 8 英寸的立方体，其表面积是多少？
+
+Surface area = 6 × (side × side) = 6 × S2 = 6 × 82 = 6 × 64 = 384 平方英寸
+
+### 圆柱体
 
 圆柱体的表面积公式为：
 
-球体的表面积公式为：
-
-正圆锥的表面积公式为：
-
 Surface area = 2 × π × radius2 + π × diameter × height = 2 × π × r2 + π × d × h
+
+### 球体
+
+球体的表面积公式为：
 
 Surface area = 4 × π × radius2 = 4 × π × r2
 
-Surface area = 2 × [(width × length) + (width × height) + (length × height)]
+### 正圆锥
 
-= 2 × [(w × l) + (w × h) + (l × h)]
-
-Surface area = 6 × (side × side) = 6 × s2 例：边长为 8 英寸的立方体，其表面积是多少？Surface area = 6 × (side × side) = 6 × S2 = 6 × 82 = 6 × 64 = 384 平方英寸
+正圆锥的表面积公式为：
 
 Surface area = π × radius × [radius + √(radius2 + height2)] = π × r × [r + √(r2 + h2)]
-
-三维立体的体积与表面积计算公式汇总如下。
 
 ## 3. 专业词汇
 
@@ -114,7 +123,7 @@ Surface area = π × radius × [radius + √(radius2 + height2)] = π × r × [r
 **拆解**：What 作表语置于句首，is 提前构成特殊疑问句；主语 the surface area of a cube；with a side measure of 8 inches 为 with 短语后置修饰 a cube。
 **要点**：a side measure of 8 inches 中 measure 是名词，表示“量得的尺寸”；疑问句中 of 短语仍须紧跟被修饰名词，不能拆到句末。
 
-### ⑥ 动名词作介词宾语 + 被动总结句
-**原句**：The formulas for computing the volume and surface area of three-dimensional solids are summarized below.
-**拆解**：主语 The formulas；for computing the volume and surface area of three-dimensional solids 为介词 for + 动名词短语作定语，说明公式的用途；谓语 are summarized（被动）；below 为地点副词作状语。
-**要点**：介词 for 后接动名词表示用途（for computing = 用于计算），不能接不定式；below 与 above 这类方位副词作状语时不加介词。
+### ⑥ 复合前置定语 right circular cone + 介词短语作定语
+**原句**：The formula for the surface area of a right circular cone is given as:
+**拆解**：主语 The formula；for the surface area of a right circular cone 为介词短语作后置定语，说明公式的对象，其中 the surface area of a right circular cone 又是 of 短语套 of 短语；is given 为被动谓语；as 后以冒号引出公式本体。
+**要点**：right circular cone（正圆锥）中 right 只修饰 circular cone，取“直”义（如 right angle 直角），不是“右”；冒号后另起一行的公式不是句子，翻译时不必补出谓语。
