@@ -48,14 +48,96 @@ Snow or ice can enter turbine engine intakes and freeze in the compressor. If th
 
 ## 2. 中文翻译
 
-TODO
+飞机上有冰，可能是直接降水造成的，可能是高空长时间飞行后在整体油箱上形成霜，也可能是滑行穿过积雪或雪泥后在起落架上堆积而成。按照美国联邦航空管理局（FAA）咨询通告（AC）120-60 的要求，起飞前飞机机翼、操纵面、螺旋桨、发动机进气口或其他关键表面上不得附着任何冻结污染物。
+
+飞机外表面上的任何冰、雪或霜沉积都会严重影响其性能。这可能是因为翼面上气流受扰导致气动升力下降、气动阻力增大，也可能是因为沉积物在整个飞机上形成的重量。湿气在操纵件、铰链、活门、微动开关中结冰，或冰被吸入发动机，也会严重影响飞机的操纵。把飞机放入机库存放以融化雪或霜时，若随后把飞机移到零下温度环境，已融化的雪或冰可能再次结冰。在地面为清除冻结沉积物所采取的任何措施，还必须防止液体再次结冰。
+
+### 除霜
+
+霜层可把飞机置于暖机库中去除，也可使用除霜剂或除冰液去除。这类液体通常含乙二醇和异丙醇，可用喷洒或手工方式施加。应在飞行前 2 小时内施加。除冰液可能对风挡或飞机外表面漆层产生不良影响，因此只应使用飞机制造商推荐的液体。运输类飞机通常在机坪或机场专门的除冰地点除冰。除冰车用于向飞机表面喷洒除冰液和/或防冰液。
+
+#### 运输类飞机的除冰与防冰
+
+除冰液 除冰液必须按其型号在保持时间、气动性能和材料相容性方面予以认可。这类液体的着色也有统一规定。一般而言，乙二醇为无色，I 型液为橙色，II 型液为白色/淡黄色，IV 型液为绿色。III 型液的颜色尚未确定。
+
+当飞机表面被冻结水分污染时，必须在放行前除冰。当存在冻性降水、且在放行时表面有被污染的风险时，必须对飞机表面进行防冰。若除冰与防冰均需进行，该程序可分一步或两步实施。选择一步法还是两步法，取决于天气条件、可用设备、可用液体以及所要达到的保持时间。
+
+保持时间（HOT） 保持时间（HOT）是指除冰/防冰液防止飞机关键表面上形成霜或冰、防止积雪的估计时间。HOT 自除冰/防冰液最终施加开始时起算，至除冰/防冰液失去效力时终止。图15-38 示出 IV 型液的保持时间表。
+
+关键表面 基本上，凡具有气动、操纵、感受、运动或测量功能的所有表面都必须清洁。这些表面未必能按与机翼相同的常规除冰/防冰方式加以清洁和保护。某些区域只需做清洁作业，另一些则需要防冻保护。除冰程序还可能随机型限制而异。除冰时（例如对起落架或螺旋桨）可能需要使用热空气。
+
+图15-39 示出飞机上不应直接喷洒的关键区域。多数飞机通用的若干关键部位与程序如下：
+
+• 不得把除冰/防冰液直接喷到线束和电气部件（例如插座、接线盒）上，也不得喷到刹车、机轮、排气或反推装置上。
+
+• 不得把除冰/防冰液喷入空速管、静压孔的孔口，也不得直接喷到气流方向探测器探头/迎角传感器上 • 应采取一切合理预防措施，尽量减少液体进入发动机、其他进气口/排气口以及操纵面腔体。
+
+• 不得把液体喷到驾驶舱或客舱风挡上，因为这会导致亚克力材料银纹或穿透风挡密封。
+
+• 滑行或随后起飞时液体可能被吹回风挡的任何前部区域，起飞前必须无残留。
+
+• 若使用 II、III 或 IV 型液，起飞前应清除驾驶舱风挡上的全部液体痕迹，尤其要注意装有雨刷的风挡。
+
+• 起落架和轮舱内不得积聚雪泥、冰或吹入的积雪。
+
+• 从飞机表面清除冰、雪、雪泥或霜时，应注意防止其进入并积聚在辅助进气口或操纵面铰链区域（例如人工清除机翼和安定面表面的雪时，应由后向前朝前缘方向清除；清除副翼和升降舵上的雪时，应向前朝后缘方向清除）。
+
+### 冰与雪的清除
+
+最难处理的沉积物，大概是环境温度略高于冰点时形成的深层湿雪。这类沉积物应用软刷或刮水器（squeegee）清除。注意不要损伤可能被雪覆盖的天线、通气口、失速警告装置、涡流发生器等。零下温度下的干松雪应尽可能吹除；不建议使用热空气，因为热空气会融化雪，随后又结冰，需要进一步处理。中等或严重的冰及残留积雪应用除冰液清除。不得试图用外力铲除冰层或破坏冰的附着。
+
+除冰作业完成后，应对飞机进行检查，确认其状态适于飞行。应检查所有外表面有无残留雪或冰的迹象，尤其是操纵面缝隙和铰链附近。检查排水孔和压力感受孔有无堵塞。当确需以人工方法清除一层雪时，应检查所有凸出物和通气口有无损伤迹象。应活动操纵面，确认其活动范围完整且无卡阻。应检查起落架机构、舱门和轮舱、机轮刹车有无雪或冰沉积，并检查上位锁和微动开关的工作。
+
+雪或冰可能进入涡轮发动机进气口并在压气机内冻结。若因此无法用手转动压气机，应向发动机内吹热空气，直至转动部件脱开。
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-TODO
+| frozen contaminant | n. | 冻结污染物 | 附着在关键表面上、起飞前必须清除的冰、雪、霜 |
+| integral fuel tank | n. | 整体油箱 | 高空长时间飞行后其外表面易形成霜的结构油箱 |
+| slush | n. | 雪泥 | 滑行时被起落架带起、可再次冻结的雪水混合物 |
+| deicing fluid | n. | 除冰液 | 用于清除表面已结冰、雪的液体 |
+| anti-icing fluid | n. | 防冰液 | 用于在放行前一段时间内防止表面再结冰的液体 |
+| holdover time (HOT) | n. | 保持时间 | 除冰/防冰液从施加到失效的有效时长 |
+| ethylene glycol | n. | 乙二醇 | 除冰液的主要成分之一 |
+| isopropyl alcohol | n. | 异丙醇 | 除霜液中帮助快速融霜的成分 |
+| critical surface | n. | 关键表面 | 具有气动、操纵、感受、运动或测量功能的表面 |
+| pitot head | n. | 空速管 | 其孔口不得被喷射液体进入 |
+| airstream direction detector | n. | 气流方向探测器 | 与迎角相关的探头，属禁止直喷部位 |
+| crazing | n. | 银纹 | 液体侵蚀亚克力风挡后产生的细密裂纹 |
+| thrust reverser | n. | 反推装置 | 禁止直接喷洒除冰液的部件 |
+| squeegee | n. | 刮水器/刮板 | 用于刮除湿雪的工具 |
+| vortex generator | n. | 涡流发生器 | 易被积雪掩盖、清除时应防止损伤的小型翼面件 |
 
 ## 4. 语法解析
 
-TODO
+### ① due to + 名词短语，分词短语作后置定语
+**原句**：This may be due to reduced aerodynamic lift and increased aerodynamic drag resulting from the disturbed airflow over the airfoil surfaces, or it may be due to the weight of the deposit over the whole aircraft.
+**拆解**：全句由 or 连接两个并列分句，主语分别为 This 与 it；be due to 后接名词短语 reduced aerodynamic lift and increased aerodynamic drag；resulting from... 为现在分词短语作后置定语，修饰 drag（也可理解为指两者）；第二个 due to 接 the weight of the deposit。
+**要点**：reduced 与 increased 是过去分词作定语，表“已被降低的/增大的”，不等于被动语态。resulting from 的逻辑主语是阻力（或升力与阻力），不是“升力下降”，译文要按“由……引起的”处理。
+
+### ② 过去分词短语作定语，主语与谓语被拉长
+**原句**：Any measures taken to remove frozen deposits while the aircraft is on the ground must also prevent the possible refreezing of the liquid.
+**拆解**：主语中心词 Any measures，后接过去分词短语 taken to remove... 作定语，其中 while 引导时间状语从句；真正谓语是 must also prevent，宾语 the possible refreezing of the liquid 为动名词短语。
+**要点**：measures 与 must prevent 相隔一整段定语，容易把 taken 误当作谓语。refreezing 是动名词，of 后才是它的宾语；possible 修饰整个动名词短语。
+
+### ③ 名词动用 hangared + when 从句
+**原句**：When aircraft are hangared to melt snow or frost, any melted snow or ice may freeze again if the aircraft is subsequently moved into subzero temperatures.
+**拆解**：When 引导时间状语从句，aircraft are hangared 为被动（hangar 由名词转为动词“放入机库”）；主句 any melted snow or ice may freeze again；if 引导条件状语从句，is moved 为被动，into subzero temperatures 表所处环境。
+**要点**：hangar 作动词时重音与名词相同，过去分词 hangared 需双写 r。melted snow 中 melted 是“已融化的”，与 melting snow（正在融化的）不同。
+
+### ④ 两个 when 从句并列 + 时间先后
+**原句**：HOT begins when the final application of deicing/anti-icing fluid commences and expires when the deicing/anti-icing fluid loses its effectiveness.
+**拆解**：主语 HOT 带两个并列谓语 begins 与 expires，各带一个 when 引导的时间状语从句；第一个从句主语 the final application（of 短语修饰），第二个从句主语 the deicing/anti-icing fluid。
+**要点**：begins 与 expires 共用一个主语，中间没有逗号，第二处 when 不是修饰 begins 的。final application 指“最后一次施加”，起算点取这次施加的开始而非结束，这是 HOT 计算的关键细节。
+
+### ⑤ 分号连接 + since 原因从句 + which 层层递进
+**原句**：Light, dry snow in subzero temperatures should be blown off whenever possible; the use of hot air is not recommended, since this would melt the snow, which would then freeze and require further treatment.
+**拆解**：分号前为第一分句，should be blown off 为被动，whenever possible 是省略式让步/时间状语；分号后 the use of hot air is not recommended 为被动，since 引导原因状语从句，this 指代用热空气这件事；which 引导非限制性定语从句，含 would then freeze and require 两个并列谓语。
+**要点**：this 指代前一分句所述做法，而非 hot air 本身。which 从句用 would 表示“假定会发生的后果”，与前面的建议语气呼应。require 前省略了 would，两个谓语并列不要漏译。
+
+### ⑥ until 引导的时间状语从句
+**原句**：If the compressor cannot be turned by hand for this reason, hot air should be blown through the engine until the rotating parts are free.
+**拆解**：If 引导条件状语从句，cannot be turned 为带情态动词的被动，by hand 表方式，for this reason 表原因；主句 hot air should be blown through the engine 为被动；until 引导时间状语从句，are free 表状态。
+**要点**：until 从句用一般现在时表将来，不能用 will be free。be turned by hand 中的 by hand 是方式状语而非施动者，与被动语态里的 by 短语要区分开。

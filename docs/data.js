@@ -3832,7 +3832,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "07",
   "titleEn": "Advanced Composite Materials",
-  "count": 2,
+  "count": 3,
   "cards": [
    {
     "slug": "airframe-ch07-01",
@@ -3845,6 +3845,12 @@ window.AMT_CARDS = [
     "seq": "03",
     "title": "Manufacturing & In-Service Damage",
     "file": "03-manufacturing-and-in-service-damage.md"
+   },
+   {
+    "slug": "airframe-ch07-04",
+    "seq": "04",
+    "title": "Nondestructive Inspection (NDI) of Composites",
+    "file": "04-nondestructive-inspection-ndi-of-composites.md"
    }
   ]
  },
@@ -4404,7 +4410,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "17",
   "titleEn": "Fire Protection Systems",
-  "count": 9,
+  "count": 10,
   "cards": [
    {
     "slug": "airframe-ch17-01",
@@ -4459,6 +4465,12 @@ window.AMT_CARDS = [
     "seq": "09",
     "title": "Fire Detection System Troubleshooting",
     "file": "09-fire-detection-system-troubleshooting.md"
+   },
+   {
+    "slug": "airframe-ch17-10",
+    "seq": "10",
+    "title": "Fire Extinguisher System Maintenance",
+    "file": "10-fire-extinguisher-system-maintenance.md"
    }
   ]
  }
