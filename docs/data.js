@@ -3631,7 +3631,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "04",
   "titleEn": "Aircraft Metal Structural Repair",
-  "count": 10,
+  "count": 12,
   "cards": [
    {
     "slug": "airframe-ch04-01",
@@ -3692,6 +3692,18 @@ window.AMT_CARDS = [
     "seq": "10",
     "title": "Layout & Forming",
     "file": "10-layout-and-forming.md"
+   },
+   {
+    "slug": "airframe-ch04-11",
+    "seq": "11",
+    "title": "Basic Principles of Sheet Metal Repair",
+    "file": "11-basic-principles-of-sheet-metal-repair.md"
+   },
+   {
+    "slug": "airframe-ch04-12",
+    "seq": "12",
+    "title": "Repairability of Sheet Metal Structure",
+    "file": "12-repairability-of-sheet-metal-structure.md"
    }
   ]
  },
@@ -3791,7 +3803,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "06",
   "titleEn": "Aircraft Wood & Structural Repair",
-  "count": 2,
+  "count": 3,
   "cards": [
    {
     "slug": "airframe-ch06-01",
@@ -3804,6 +3816,88 @@ window.AMT_CARDS = [
     "seq": "02",
     "title": "Wood Aircraft Construction & Repairs",
     "file": "02-wood-aircraft-construction-and-repairs.md"
+   },
+   {
+    "slug": "airframe-ch06-03",
+    "seq": "03",
+    "title": "Repair of Wood Aircraft Structures",
+    "file": "03-repair-of-wood-aircraft-structures.md"
+   }
+  ]
+ },
+ {
+  "chapter": "airframe-ch08",
+  "book": "airframe",
+  "bookEn": "Airframe",
+  "bookZh": "机体",
+  "num": "08",
+  "titleEn": "Aircraft Painting & Finishing",
+  "count": 7,
+  "cards": [
+   {
+    "slug": "airframe-ch08-01",
+    "seq": "01",
+    "title": "Introduction",
+    "file": "01-introduction.md"
+   },
+   {
+    "slug": "airframe-ch08-02",
+    "seq": "02",
+    "title": "Finishing Materials",
+    "file": "02-finishing-materials.md"
+   },
+   {
+    "slug": "airframe-ch08-03",
+    "seq": "03",
+    "title": "Primers",
+    "file": "03-primers.md"
+   },
+   {
+    "slug": "airframe-ch08-04",
+    "seq": "04",
+    "title": "Identification of Paints",
+    "file": "04-identification-of-paints.md"
+   },
+   {
+    "slug": "airframe-ch08-05",
+    "seq": "05",
+    "title": "Methods of Applying Finish",
+    "file": "05-methods-of-applying-finish.md"
+   },
+   {
+    "slug": "airframe-ch08-08",
+    "seq": "08",
+    "title": "Spray Gun Operation",
+    "file": "08-spray-gun-operation.md"
+   },
+   {
+    "slug": "airframe-ch08-09",
+    "seq": "09",
+    "title": "Sequence for Painting a Single-Engine or Light Twin Airplane",
+    "file": "09-sequence-for-painting-a-single-engine-or-light-twin-airplane.md"
+   }
+  ]
+ },
+ {
+  "chapter": "airframe-ch09",
+  "book": "airframe",
+  "bookEn": "Airframe",
+  "bookZh": "机体",
+  "num": "09",
+  "titleEn": "Aircraft Electrical System",
+  "count": 2,
+  "cards": [
+   {
+    "slug": "airframe-ch09-05",
+    "seq": "05",
+    "title": "Electrical System Components",
+    "file": "05-electrical-system-components.md"
+   },
+   {
+    "slug": "airframe-ch09-06",
+    "seq": "06",
+    "title": "Aircraft Lighting Systems",
+    "file": "06-aircraft-lighting-systems.md"
    }
   ]
  }
