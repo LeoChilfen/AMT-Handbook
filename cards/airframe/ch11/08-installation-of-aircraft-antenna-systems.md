@@ -30,14 +30,72 @@ Detailed instructions, procedures, and specifications for the servicing of avion
 
 ## 2. 中文翻译
 
-TODO
+天线安装与维护的知识尤为重要，因为这类工作由航空维修技术人员来完成。天线的形式和尺寸多种多样，取决于与它们相连的发射机和接收机的频率。机载天线必须在机械上牢固可靠。天线所承受的气动载荷很大，必须予以考虑。天线必须与其所服务的接收机和发射机在电气上匹配。天线还必须安装在无干扰的位置，以及信号能够以最佳状态发射和接收的区域。天线还必须与地面站具有相同的极化方式。
+
+以下步骤介绍一种典型刚性天线的安装方法。这些步骤仅作为示例给出。安装任何天线时，都必须始终遵循制造商的说明。天线安装不正确可能导致设备故障。
+
+1. 把一块与图 11-161 所示类似的样板放在所需位置的纵向中心线上。在机身蒙皮上钻出安装孔，以及直径合适的传输线电缆孔。
+
+2. 安装一块厚度足以加强飞机蒙皮的加强垫板（doubler）。该加强板的长度和宽度应与图 11-162 所示示例相近。
+
+3. 把天线装到机身上，确保安装螺栓牢固地压紧加强垫板，并确保天线杆紧贴密封垫。若不使用密封垫，则用合适的密封胶（如锌铬酸盐膏或同等品）在杆与机身之间密封。天线安装底座的形状和尺寸各不相同，但上述安装步骤是杆式天线安装的典型做法。
+
+### 传输线
+
+发射天线或接收天线通过传输线直接连接到与其配套的发射机或接收机。传输线是一种屏蔽导线，也称为同轴电缆（coax）。传输线的长度从几英尺到许多英尺不等。它们必须以最小的损耗传递能量。应答机、测距仪（DME）及其他脉冲式收发机要求传输线长度精确。传输线取临界长度时，发射或接收信号的衰减最小。传输线的类型和允许长度应查阅设备制造商的安装手册。
+
+为实现最有效的功率传输所需的正确阻抗匹配，某些天线安装中会使用巴伦（balun，即平衡—不平衡变换器）。巴伦做在天线与传输线的连接处。图 11-163 示出偶极天线安装中的巴伦。
+
+同轴连接器通常与同轴电缆配合使用，以确保连接牢固。许多传输线属于设备安装套件的一部分，出厂时已装好连接器。维修技术人员也能够在同轴电缆上安装这类连接器。图 11-164 示出安装同轴电缆连接器时所用的基本步骤。
+
+安装同轴电缆时，应沿其全长以约 2 英尺的间隔把电缆牢固固定。为保证最佳工作状态，同轴电缆不应与其他线束一起敷设或绑扎。弯曲同轴电缆时，务必使弯曲半径至少达到电缆直径的 10 倍。任何情况下都应遵循设备制造商的说明。
+
+### 维护程序
+
+航电设备维护的详细说明、程序和规范载于制造商的使用手册中。部件拆装方面的补充说明载于装有该设备的飞机的维修手册中。尽管安装看起来可能很简单，但许多航电故障都源于更换设备时的疏忽大意。电缆连接松动、电缆终端接错、搭接不当、减振座磨损、保险丝打设不当，以及安装后未做操作检查，都可能导致航电设备性能不佳或无法工作。
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-TODO
+| polarization | n. | 极化方式 | 天线必须与地面站一致，否则收发信号会明显减弱 |
+| transmission line | n. | 传输线 | 把天线直接接到配套收发机的屏蔽导线，长度与损耗都受控 |
+| coax | n. | 同轴电缆 | transmission line 的常用形式，也叫同轴电缆（coaxial cable） |
+| balun | n. | 巴伦（平衡—不平衡变换器） | 装在天线传输线连接处，用于实现阻抗匹配 |
+| impedance matching | n. | 阻抗匹配 | 为获得最高效率的功率传输而必须满足的条件 |
+| dipole antenna | n. | 偶极天线 | 需要加装巴伦的典型天线形式 |
+| transponder | n. | 应答机 | 脉冲式收发机，要求传输线长度精确 |
+| DME | n. | 测距仪 | 与应答机同属脉冲式设备，同样对线长敏感 |
+| attenuation | n. | 衰减 | 传输线取临界长度可使信号衰减最小 |
+| doubler | n. | 加强垫板 | 装在天线安装处，用来加强机身蒙皮 |
+| gasket | n. | 密封垫 | 天线杆与机身之间的密封件，应被压紧 |
+| zinc chromate paste | n. | 锌铬酸盐膏 | 不用密封垫时用于杆与机身之间的密封胶 |
+| safety wiring | n. | 保险丝打设 | 更换设备时的易漏工序，不规范会导致故障 |
+| shock mount | n. | 减振座 | 航电设备的减振件，磨损后造成性能下降 |
 
 ## 4. 语法解析
 
-TODO
+### ① as 引导原因状语从句，从句用被动语态
+**原句**：Knowledge of antenna installation and maintenance is especially important as these tasks are performed by the aircraft technician.
+**拆解**：主句主语 Knowledge of antenna installation and maintenance（of 短语作后置定语），系动词 is，表语 especially important；as 引导原因状语从句，从句主语 these tasks，谓语 are performed（被动），by the aircraft technician 引出动作执行者。
+**要点**：as 在此表原因（“因为”），不是“当……时”；从句用被动是因为重点是“这些任务由谁做”而不是“谁做这些任务”。主句的 of 短语容易被误当成 is 的主语补足成分，实际主语中心词是 Knowledge。
+
+### ② 形容词短语 + “介词 + which” 定语从句
+**原句**：Antennas take many forms and sizes dependent upon the frequency of the transmitter and receiver to which they are connected.
+**拆解**：主句 Antennas take many forms and sizes；dependent upon the frequency... 为形容词短语作后置定语，说明 forms and sizes 依什么而定；to which they are connected 为“介词 + which”引导的定语从句，修饰 the transmitter and receiver。
+**要点**：dependent upon 起形容词作用，只能后置，不能放到名词前说 dependent forms。介词 to 被提到 which 前，是因为 connect 的固定搭配是 connect to；还原后为 they are connected to the transmitter and receiver。
+
+### ③ 情态动词被动 + where 定语从句并列
+**原句**：They must also be mounted in interference free locations and in areas where signals can be optimally transmitted and received.
+**拆解**：主语 They，谓语 must be mounted（情态动词 + 被动语态）；两个并列的地点状语 in interference free locations 与 in areas；where 引导定语从句修饰 areas，从句中 signals 作主语，can be transmitted and received 为带情态动词的被动谓语，optimally 作方式状语。
+**要点**：两个 in 短语由 and 并列，同受 must be mounted 支配；where 从句只修饰 areas，不修饰 locations。interference free 是“无干扰的”复合形容词，free 在此表示“没有……的”。
+
+### ④ 祈使句 + 现在分词短语作伴随状语
+**原句**：Install the antenna on the fuselage, making sure that the mounting bolts are tightened firmly against the reinforcing doubler, and the mast is drawn tight against the gasket.
+**拆解**：主句为祈使句 Install the antenna on the fuselage；making sure 为现在分词短语作伴随状语，其逻辑主语是隐含的 you；making sure 后接两个并列的宾语从句：that the mounting bolts are tightened... 与 (that) the mast is drawn tight...，第二个 that 被省略。
+**要点**：making sure 的逻辑主语必须与主句主语一致，祈使句的隐含主语是 you，所以成立。两个宾语从句都是被动语态，且第二个 that 省略后很容易被误读成与前面并列的独立分句；见到 are tightened 与 is drawn 两个谓语要能判断它们各自属于一个宾语从句。
+
+### ⑤ although 让步状语从句 + be attributed to 被动结构
+**原句**：Although an installation may appear to be a simple procedure, many avionics troubles are attributed to careless oversights during equipment replacement.
+**拆解**：Although 引导让步状语从句，主语 an installation，谓语 may appear，后接不定式 to be a simple procedure 作表语；主句主语 many avionics troubles，谓语 are attributed to（被动），宾语 careless oversights，during equipment replacement 作时间状语。
+**要点**：appear to be 表示“看起来是”，to be 不能省略。be attributed to 意为“被归因于”，to 是介词，后面接名词性成分，不能接从句；主语是 troubles（复数），故用 are。

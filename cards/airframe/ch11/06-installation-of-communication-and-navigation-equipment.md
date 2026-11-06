@@ -46,14 +46,93 @@ Shock-absorbing materials commonly used in shock mounts are usually electrical i
 
 ## 2. 中文翻译
 
-TODO
+### 新增航空电子设备安装的批准
+
+本章讨论的航空电子设备大多只能由制造商，或持有从事特定工作执照的 FAA 认证维修站修理。然而，机体技师必须能够熟练地拆卸、安装、检查、维护和排除这些日益复杂的电子装置与系统的故障。在处理飞机的航空电子设备时，必须遵守所有设备和机体制造商的说明。
+
+向 GPS 导航的变革以及现代电子技术的发展速度，使许多飞机所有人和运营人用新的航空电子设备升级驾驶舱。飞机技师只允许实施符合适航要求的安装。待装的航空电子设备必须是经 TSO（技术标准规定）批准、且被批准装于该型飞机的装置。若机体制造商此前已批准，则加装一件新的航空电子设备和/或其天线属于小改。持有执照的机体技师有资格实施该安装并使飞机恢复使用。加装未列入飞机批准设备清单的新航空电子设备，则视为大改，需要填写 FAA 表格 337。大改后恢复使用的批准，必须由持有检验授权（IA）的技师完成，并在表格 337 相应的“批准恢复使用”栏签字。
+
+大多数新的航空电子设备安装是在 STC（补充型号合格证）下批准并实施的。设备制造商提供一份清单，列出该设备获准安装的飞机。STC 包含详尽的安装与维护说明，技师必须遵照执行。无论如何，若设备不在飞机的原始设备清单上，按 STC 实施的安装仍视为大改，必须提交 FAA 表格 337。STC 即作为所需的批准数据被引用。偶尔，所有人/运营人或技师想在某型飞机上安装一件对该型号没有 STC 的电子设备。此时必须办理现场批准并提交表格 337，且须在其中表明该安装将按批准数据实施。
+
+### 考虑事项
+
+技师在通过加装航空电子设备改装飞机之前，必须考虑许多因素。这些因素包括可用空间、设备的尺寸和重量，以及此前已完成的改装。必须考虑新增设备的功耗，以计算并确定飞机电气系统的最大连续电负载。每次安装还应规划得便于接近，以便检查、维护和更换组件。
+
+航空电子设备的安装有一部分是机械性工作，涉及钣金加工以安装组件、支架、天线和控制器。互连导线、电缆、天线引线等的敷设也是安装过程中的重要环节。选择设备位置时，应使用机体制造商或 STC 指定的区域。若无此类资料，则应选择能够承受设备重量所加载荷、并能耐受附加惯性力的位置。
+
+若要将某航空电子设备装在仪表板上，而该板此前未为此类安装做过预留，则在任何开孔之前先确认该板不是主结构。为减小固定仪表板上的载荷，可在电子设备壳体或支架后部与飞机附近的结构件之间加装支撑托架。
+
+航空电子无线电设备必须牢固地安装在飞机上。所有安装螺栓都必须用防松装置锁紧，以防振动导致松脱。所有组件与相邻结构之间必须留有足够间隙，以防振动、摩擦或着陆冲击对电线或航空电子设备造成机械损伤。
+
+不得将航空电子设备和布线布置在装有可燃液体的部件附近。若隔离不切实际，应安装隔板或护罩，以防管路失效时可燃液体接触到任何电子设备。
+
+### 冷却与防潮
+
+大多数航空电子设备的性能和使用寿命受环境温度过高的严重限制。装有航空电子设备支架的高性能飞机通常把空调空气引过设备以保持冷却。没有空调的飞机也常用鼓风机或冲压进气口来冷却航空电子设备。为飞机加装组件时，安装方案应使其易于散热。某些安装场合可能需要用鼓风机或引入冲压空气，使新设备周围产生气流。用管道引入外界空气时，务必使用适当的挡板防止水进入任何电子设备。航空电子设备区域进水会促使外露元件迅速劣化，并可能导致失效。
+
+### 隔振
+
+振动是由振荡力引起的持续运动。飞机结构的振动幅值和频率随机型不同而差异很大。航空电子设备对机械冲击和振动敏感，通常采用减振安装，以对飞行中的振动和着陆冲击提供一定保护。
+
+常使用专用的减振安装架把航空电子设备与振动结构隔离。此类减振器应在预期的整个振动频率范围内提供足够隔离。安装减振器时，应确保设备重量不超过减振器的承载能力。装在减振器上的无线电设备必须与周围设备和结构留有足够间隙，以容许设备正常摆动。
+
+装在仪表板上的无线电通常不需要防振保护，因为仪表板本身通常就是减振安装的。但仍须确认现有机架能安全承载所加设备的附加重量。某些情况下可能需要换装承载能力更大的减振器，或增加安装点的数量。减振器需要定期检查，有缺陷的减振器应更换为正确型号。检查时应观察以下因素：
+
+1. 减振材料的老化；
+
+2. 材料的刚度与弹性；以及 3. 安装架的整体刚性。
+
+若减振器刚度过大，可能无法对着陆冲击提供足够保护。若减振器刚度不足，则可能在初次冲击之后容许持续振动。
+
+减振器中常用的减振材料通常是电绝缘体。因此，用减振器安装的每个电子组件都必须与飞机的结构件电气搭接，以提供一条到地的电流通路。做法是用镀锡铜编织线把组件跨过减振器牢固地连接到飞机结构上，如图 11-159 所示。在无法使用短柔性编织带的地方，偶尔也用实心铝或铜材料搭接。
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-TODO
+| avionics | n. | 航空电子设备 | 本章所指的通信、导航、显示等机载电子装置的总称 |
+| TSO'd | adj. | 经技术标准规定批准的 | 描述待装设备已按 TSO 取得批准，具备装机动资格 |
+| minor alteration | n. | 小改 | 机体制造商已事先批准的加装，持照技师即可实施并恢复使用 |
+| major alteration | n. | 大改 | 加装未列入批准设备清单的项目，须填 FAA 表格 337 |
+| Form 337 | n. | FAA 337 表格 | 大改与现场批准所用的批准/恢复使用记录表 |
+| inspection authorization | n. | 检验授权（IA） | 有权批准大改后恢复使用并在 337 表上签字的技师资格 |
+| supplemental type certificate (STC) | n. | 补充型号合格证 | 新设备安装所依据的批准文件，含安装与维护说明 |
+| field approval | n. | 现场批准 | 该机型无 STC 时，由 FAA 现场签发的安装批准 |
+| approved data | n. | 批准数据 | 安装必须依据的、经局方认可的图纸与技术资料 |
+| airworthy | adj. | 适航的 | 描述安装完成后飞机仍满足适航要求的状态 |
+| sheet metal work | n. | 钣金加工 | 安装组件、支架、天线和控制器时所需的机械加工 |
+| shock mount | n. | 减振安装架 | 隔离机体振动、承受设备重量并容许正常摆动的支座 |
+| baffle | n. | 挡板 | 引入外界空气时阻止水进入电子设备的导流隔板 |
+| bonding | n. | 搭接 | 用镀锡铜编织线把设备与机体结构连通以形成接地通路 |
 
 ## 4. 语法解析
 
-TODO
+### ① 过去分词后置定语 + that 定语从句
+**原句**：Most of the avionics equipment discussed in this chapter is only repairable by the manufacturer or FAA-certified repair stations that are licensed to perform specific work.
+**拆解**：主语中心词 Most of the avionics equipment，过去分词短语 discussed in this chapter 作后置定语；谓语 is，表语形容词 repairable，by 短语引出施动者；that are licensed to perform specific work 是定语从句，修饰 repair stations。
+**要点**：be repairable by 表示“只能由……修理”，only 限定了维修主体范围。discussed 是分词而非谓语，因为它后面没有接助动词；真正的谓语是 is。that 从句紧跟复数名词 stations，所以用 are，与 equipment 无关。
+
+### ② “介词 + which” 引导的定语从句 + it 形式主语
+**原句**：A field approval and a Form 337 must be filed on which it must be shown that the installation will be performed in accordance with approved data.
+**拆解**：主句为被动语态 A field approval and a Form 337 must be filed；on which 引导定语从句修饰 Form 337，从句中 it 是形式主语，真正的主语是 that 引导的主语从句 that the installation will be performed in accordance with approved data。
+**要点**：which 前的介词 on 来自 be shown on the form（在表格上注明），不能省。从句用了 it … that 的外置结构，因为主语从句太长；译成中文时把 that 从句还原为主语“须表明……”，it 不译。
+
+### ③ 主语后置定语 + 被动 + require sth. to be done
+**原句**：The addition of new avionics not on the aircraft’s approved equipment list is considered a major alteration and requires an FAA Form 337 to be completed.
+**拆解**：主语中心词 The addition，of new avionics 后置定语，not on the aircraft’s approved equipment list 为形容词性短语再修饰 avionics；两个并列谓语 is considered（被动，后接主语补足语 a major alteration）和 requires，requires 的宾语 an FAA Form 337 后接不定式被动式 to be completed 作宾语补足语。
+**要点**：is considered 后跟名词作主语补足语，意为“被视为”，不加 as 也可（加 as 亦常见）。require sth. to be done 中表格是“被填写”，故用被动不定式；中文习惯译成“需要填写……”。
+
+### ④ 分词短语作状语 + 祈使句 + 过去分词后置定语
+**原句**：When selecting a location for the equipment, use the area(s) designated by the airframe manufacturer or the STC.
+**拆解**：When selecting a location for the equipment 是“连词 + 现在分词”构成的时间状语，其逻辑主语与主句祈使句的隐含主语 you 一致；主句为祈使句 use the area(s)；designated by the airframe manufacturer or the STC 是过去分词短语作后置定语修饰 area(s)。
+**要点**：状语从句的主语与主句一致时可省略主语和 be，只留连词加分词。area(s) 用括号表示单复数皆可，属技术文件写法。designated 是“被指定的”，与 area 是被动关系，所以用过去分词而非现在分词。
+
+### ⑤ 过去分词定语 + 被动语态 + 目的不定式
+**原句**：For this reason, each electronic unit mounted with shock mounts must be electrically bonded to a structural member of the aircraft to provide a current path to ground.
+**拆解**：句首 For this reason 作原因状语；主语 each electronic unit，过去分词短语 mounted with shock mounts 作后置定语；谓语 must be bonded（情态动词 + 被动语态），to a structural member of the aircraft 为对象状语；to provide a current path to ground 为目的状语。
+**要点**：bond 在此是电气专业动词“搭接”，不是“结合”；electrically 修饰 bonded，说明搭接的目的是导电。mounted with shock mounts 是“用减振架安装的”，不是“安装了减振架的”，逻辑主语仍是 unit。
+
+### ⑥ 条件从句 + provide protection against
+**原句**：If the mount is too stiff, it may not provide adequate protection against the shock of landing.
+**拆解**：If 引导真实条件状语从句，主语 the mount，系动词 is，表语 too stiff；主句主语 it（指 the mount），谓语 may not provide，宾语 adequate protection，介词短语 against the shock of landing 作后置定语说明防护对象。
+**要点**：provide protection against sth. 是固定搭配，“对……提供防护”；against 不能换成 for。此句与下一句构成对照：刚度过大防不住着陆冲击，刚度过小则会持续振动，两句合起来说明减振器刚度必须适中。

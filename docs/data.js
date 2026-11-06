@@ -3832,7 +3832,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "07",
   "titleEn": "Advanced Composite Materials",
-  "count": 5,
+  "count": 6,
   "cards": [
    {
     "slug": "airframe-ch07-01",
@@ -3863,6 +3863,12 @@ window.AMT_CARDS = [
     "seq": "05",
     "title": "Composite Repairs",
     "file": "05-composite-repairs.md"
+   },
+   {
+    "slug": "airframe-ch07-06",
+    "seq": "06",
+    "title": "Composite Honeycomb Sandwich Repairs",
+    "file": "06-composite-honeycomb-sandwich-repairs.md"
    }
   ]
  },
@@ -4164,7 +4170,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "11",
   "titleEn": "Communication & Navigation",
-  "count": 7,
+  "count": 8,
   "cards": [
    {
     "slug": "airframe-ch11-01",
@@ -4183,6 +4189,12 @@ window.AMT_CARDS = [
     "seq": "03",
     "title": "Radio Communication",
     "file": "03-radio-communication.md"
+   },
+   {
+    "slug": "airframe-ch11-04",
+    "seq": "04",
+    "title": "Radio Navigation",
+    "file": "04-radio-navigation.md"
    },
    {
     "slug": "airframe-ch11-05",
