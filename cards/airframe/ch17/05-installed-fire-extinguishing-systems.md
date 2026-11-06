@@ -50,14 +50,92 @@ The engine and APU fire switches are typically installed on the center overhead 
 
 ## 2. 中文翻译
 
-TODO
+运输类飞机在下列部位装有固定式灭火系统：
+
+1. 涡轮发动机舱。
+
+3. 货舱与行李舱。
+
+### CO2 灭火系统
+
+装有活塞发动机的老式飞机用 CO2 作灭火剂，但所有较新的涡轮发动机飞机设计都使用哈龙或等效灭火剂，如卤代碳洁净灭火剂。
+
+### 卤代烃灭火系统
+
+大多数发动机火警和货舱火警保护系统中所用的固定式灭火系统，其设计都是用不助燃的惰性灭火剂稀释舱内空气。许多系统用多孔管或喷放喷嘴来分配灭火剂。高速喷射（HRD）系统用开口管在 1 至 2 秒内喷出一定量的灭火剂。至今仍在使用的灭火剂中最常见的是 Halon 1301，因为它灭火能力强、毒性相对较低（UL 分类第 6 组）。Halon 1301 无腐蚀性，不影响所接触的材料，喷放后也无需清理。Halon 1301 是商用飞机现用的灭火剂，但其替代品正在研制中。由于会破坏臭氧层，Halon 1301 已不能再生产，在研制出合适的替代品之前将继续使用。有些军用飞机使用 HCL-125，美国联邦航空局（FAA）正在对 HCL-125 用于商用飞机进行试验。
+
+### 灭火瓶
+
+灭火剂容器（HRD 瓶）储存液态卤代灭火剂和加压气体（通常为氮气）。它们通常用不锈钢制造，视设计考虑也可采用其他材料，包括钛。容器还有多种容量规格，按美国运输部（DOT）规范或豁免条款生产。大多数飞机容器的设计为球形，这样重量最轻；但在受空间限制的场合也可采用圆柱形。每个容器都装有一个温度/压力敏感的安全释压膜片，在遭遇过高温度时防止容器压力超过容器试验压力。〔图 17-12 与图 17-13〕
+
+### 喷放活门
+
+喷放活门装在容器上。喷放活门组件的出口内装有起爆管（squib）和易碎膜片式活门。也有带电磁操作或手动操作的座式活门的专用组件。起爆膜片的释放方式有两种。标准释放式利用炸药能量驱动一个冲锤，击破分段式封闭膜片。对于高温或气密密封的组件，则采用直接爆炸冲击式起爆管，以碎片冲击击破预应力的耐腐蚀钢膜片。大多数容器采用常规金属垫片密封，便于喷放后翻修。
+
+### 压力指示
+
+为核实灭火剂的充装状态，采用了多种诊断手段。有一种简易的目视指示表，通常为抗振的螺旋波登管式指示器。组合式压力表电门可目视指示容器实际压力，并在压力丧失时提供电信号，从而无需另设喷放指示器。气密密封容器上常用可在地面检查的膜片式低压电门。Kidde 系统装有温度补偿压力电门，它利用气密密封的参考腔，跟踪容器压力随温度的变化。
+
+### 双路单向活门
+
+### 喷放指示器
+
+双发（两次喷射）系统中须装双路单向活门，用以防止备用容器中的灭火剂倒灌回先前已喷空的主容器。活门有 MS-33514 或 MS-33656 两种接头形式。喷放指示器为灭火系统的容器喷放提供即时的目视证据。指示器可配两种：热敏式和喷放式。两种都按飞机及蒙皮安装设计。
+
+#### 热敏喷放指示器（红色圆片）
+
+热敏喷放指示器接在灭火瓶的释压接头上，当容器内装物因过热而排空时，它弹出一个红色圆片以示指示。灭火剂从圆片爆开留下的孔口排出。这使飞行和维修人员知道该灭火瓶须在下次飞行前更换。
+
+#### 黄色圆片喷放指示器
+
+如果机组启动了灭火系统，会有一个黄色圆片从飞机机身蒙皮上弹出。这是向维修人员指示：灭火系统已由机组启动，该灭火瓶须在下次飞行前更换。
+
+### 灭火电门
+
+发动机和 APU 灭火电门通常装在驾驶舱顶部中央面板或中央操纵台上。扳动发动机灭火电门时，会发生以下动作：燃油调节切断使发动机停车，发动机与飞机各系统隔离，灭火系统被启动。有些飞机所用的灭火电门需要拔出并转动才能启动系统，另一些则采用带护盖的按压式电门。为防止误动灭火电门，装有一个锁，只有在探测到火警时才释放灭火电门。若火警探测系统失灵，机组可手动解除该锁。
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-TODO
+| fixed fire extinguishing system | n. | 固定式灭火系统 | 永久装在发动机舱、货舱等部位的灭火系统 |
+| high rate of discharge (HRD) | n. | 高速喷射 | 用开口管在 1 至 2 秒内喷出大量灭火剂的方式 |
+| perforated tubing | n. | 多孔管 | 沿火区布设、由许多小孔分配灭火剂的管路 |
+| halocarbon clean agent | n. | 卤代碳洁净灭火剂 | 替代哈龙、喷放后无残留的灭火剂 |
+| HRD bottle | n. | 高速喷射瓶 | 储存液态卤代灭火剂与加压氮气的容器 |
+| safety relief diaphragm | n. | 安全释压膜片 | 超温时先于容器试验压力破裂的过压保护件 |
+| squib | n. | 起爆管 | 装在喷放活门出口、以炸药能量击破膜片的小装置 |
+| frangible disc | n. | 易碎膜片 | 被冲锤或碎片击破后让灭火剂喷出的封闭件 |
+| bourdon-type indicator | n. | 波登管式指示器 | 抗振的简易目视压力表，用于核查充装状态 |
+| two-way check valve | n. | 双路单向活门 | 双发系统中防止灭火剂倒灌回已喷空的主容器 |
+| discharge indicator | n. | 喷放指示器 | 容器喷放后弹出圆片、给出目视证据的指示器 |
+| fire switch | n. | 灭火电门 | 扳动后使发动机停车、隔离并喷射灭火剂的电门 |
+| test pressure | n. | 试验压力 | 容器压力不得超过的限值，由释压膜片保证 |
+| hermetically sealed | adj. | 气密密封的 | 低压电门与参考腔的密封形式，保证指示准确 |
 
 ## 4. 语法解析
 
-TODO
+### ① 过去分词后置定语 + that 定语从句
+**原句**：The fixed fire extinguisher systems used in most engine fire and cargo compartment fire protection systems are designed to dilute the atmosphere with an inert agent that does not support combustion.
+**拆解**：主语 The fixed fire extinguisher systems，过去分词短语 used in most engine fire and cargo compartment fire protection systems 作后置定语；谓语 are designed，接不定式 to dilute the atmosphere 表目的；with an inert agent 为方式状语，that does not support combustion 是定语从句修饰 agent。
+**要点**：主语与谓语之间隔了长达十余词的过去分词定语，读句时先抓“systems are designed”这条骨架。that 从句的先行词是紧邻的 agent，不是 atmosphere——判断依据是从句谓语 support 的逻辑主语应为 agent（灭火剂不助燃）。
+
+### ② prevent ... from doing + in the event of
+**原句**：Each container incorporates a temperature/pressure sensitive safety relief diaphragm that prevents container pressure from exceeding container test pressure in the event of exposure to excessive temperatures.
+**拆解**：主语 Each container，谓语 incorporates，宾语 a temperature/pressure sensitive safety relief diaphragm；that 引导定语从句，从句谓语 prevents，宾语 container pressure，from exceeding... 为介词短语表阻止的内容；in the event of exposure to excessive temperatures 为条件状语。
+**要点**：prevent A from doing 中的 from 在美式技术文献中不可省略，A 是受阻止的对象（压力），doing 是防止发生的行为（超过试验压力）。in the event of 后接名词短语，意为“一旦发生……时”。
+
+### ③ 被动语态 + that 从句后置
+**原句**：For high temperature or hermetically sealed units, a direct explosive impact-type cartridge is used that applies fragmentation impact to rupture a prestressed corrosion resistant steel diaphragm.
+**拆解**：For high temperature or hermetically sealed units 为范围状语；主句 a direct explosive impact-type cartridge is used 为被动语态；that 引导定语从句修饰 cartridge，从句谓语 applies，宾语 fragmentation impact，to rupture... 为目的状语。
+**要点**：that 从句没有紧跟在 cartridge 后面，而是被 is used 隔开，这种“被动谓语 + that 从句”的结构仍属定语从句，不是主语从句。rupture 在此为动词“使破裂”，与作名词的 rupture 同形，需按位置判断词性。
+
+### ④ 同位语 + that 定语从句
+**原句**：A simple visual indication gauge is available, typically a helical bourdon-type indicator that is vibration resistant.
+**拆解**：主句 A simple visual indication gauge is available；逗号后 typically a helical bourdon-type indicator 是对 gauge 的同位语补充说明；that is vibration resistant 为定语从句修饰 indicator。
+**要点**：同位语用逗号与主句隔开，作用是把前面的概括名词具体化，中文可译成“通常为……”。vibration resistant 是“名词 + 形容词”构成的复合形容词，作表语时不加连字符也常见。
+
+### ⑤ 目的状语前置 + 被动 + only when 从句
+**原句**：To prevent accidental activation of the fire switch, a lock is installed that releases the fire switch only when a fire has been detected.
+**拆解**：句首不定式 To prevent accidental activation of the fire switch 作目的状语；主句 a lock is installed 为被动语态；that 引导定语从句修饰 lock，从句谓语 releases，宾语 the fire switch，only when 引导时间状语从句。
+**要点**：不定式置于句首表目的时，其逻辑主语是主句主语（锁被装设是为了防止误动），而不是读者。only when 强调“只有在……时才”，位置在从句之前起限定作用，不能移到句末。

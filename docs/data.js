@@ -3832,13 +3832,19 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "07",
   "titleEn": "Advanced Composite Materials",
-  "count": 3,
+  "count": 4,
   "cards": [
    {
     "slug": "airframe-ch07-01",
     "seq": "01",
     "title": "Description of Composite Structures",
     "file": "01-description-of-composite-structures.md"
+   },
+   {
+    "slug": "airframe-ch07-02",
+    "seq": "02",
+    "title": "Description of Sandwich Structures",
+    "file": "02-description-of-sandwich-structures.md"
    },
    {
     "slug": "airframe-ch07-03",
@@ -4152,7 +4158,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "11",
   "titleEn": "Communication & Navigation",
-  "count": 3,
+  "count": 4,
   "cards": [
    {
     "slug": "airframe-ch11-01",
@@ -4171,6 +4177,12 @@ window.AMT_CARDS = [
     "seq": "03",
     "title": "Radio Communication",
     "file": "03-radio-communication.md"
+   },
+   {
+    "slug": "airframe-ch11-05",
+    "seq": "05",
+    "title": "Inertial Navigation System (INS)/Inertial Reference System (IRS)",
+    "file": "05-inertial-navigation-system-ins-inertial-reference-system-irs.md"
    }
   ]
  },
@@ -4393,13 +4405,19 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "16",
   "titleEn": "Cabin Environmental Control Systems",
-  "count": 1,
+  "count": 2,
   "cards": [
    {
     "slug": "airframe-ch16-01",
     "seq": "01",
     "title": "Physiology of Flight",
     "file": "01-physiology-of-flight.md"
+   },
+   {
+    "slug": "airframe-ch16-02",
+    "seq": "02",
+    "title": "Aircraft Oxygen Systems",
+    "file": "02-aircraft-oxygen-systems.md"
    }
   ]
  },
@@ -4410,7 +4428,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "17",
   "titleEn": "Fire Protection Systems",
-  "count": 10,
+  "count": 11,
   "cards": [
    {
     "slug": "airframe-ch17-01",
@@ -4471,6 +4489,12 @@ window.AMT_CARDS = [
     "seq": "10",
     "title": "Fire Extinguisher System Maintenance",
     "file": "10-fire-extinguisher-system-maintenance.md"
+   },
+   {
+    "slug": "airframe-ch17-11",
+    "seq": "11",
+    "title": "Fire Prevention",
+    "file": "11-fire-prevention.md"
    }
   ]
  }

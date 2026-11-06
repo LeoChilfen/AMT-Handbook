@@ -16,14 +16,58 @@ The lavatory compartment is outfitted with a fire extinguisher bottle to extingu
 
 ## 2. 中文翻译
 
-TODO
+载客量为 20 人及以上的飞机装有烟雾探测系统，用于监测盥洗室内是否有烟。烟雾指示会在驾驶舱点亮警告灯，或在盥洗室及乘务员站位给出警告灯或音响警告，使乘务员易于察觉。每个盥洗室都须装有自动喷放的固定式灭火器。烟雾探测器装在盥洗室顶板上。
+
+### 盥洗室烟雾探测器系统
+
+参见图 17-23。盥洗室烟雾探测器由 28 伏直流左/右主直流汇流条供电。若烟雾探测器的感应腔内有烟，报警 LED（红色）点亮。定时电路产生间歇接地。警告喇叭与盥洗室呼叫灯间歇工作。烟雾探测电路为继电器提供接地。继电器通电后，为中央监控系统（CMS）中的顶部电子组件（OEU）提供接地信号。该接口给出下列指示：盥洗室主呼叫灯闪烁，客舱系统控制面板（CSCP）和客舱区域控制面板（CACP）弹出窗口显示，盥洗室呼叫谐音响起。按压盥洗室呼叫复位电门或烟雾探测器中断电门可取消烟雾指示。若盥洗室内仍有烟，报警 LED（红色）保持点亮。烟散去后，所有烟雾指示自动消失。
+
+### 盥洗室灭火系统
+
+盥洗室隔间装有灭火瓶，用于扑灭废弃物舱内的火。该灭火器是一个带两个喷嘴的瓶子，内装加压的 Halon 1301 或等效灭火剂。当废弃物舱内温度达到约 170 °F 时，密封喷嘴的焊料熔化，哈龙随即喷放。称量瓶重往往是判断瓶内是空是满的唯一办法。
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-TODO
+| lavatory | n. | 盥洗室 | 须装烟雾探测器与自动灭火瓶的厕所隔间 |
+| passenger capacity | n. | 载客量 | 达到 20 人及以上才须装此探测系统 |
+| sensing chamber | n. | 感应腔 | 烟雾探测器内部供空气进入、感烟的腔室 |
+| timing circuit | n. | 定时电路 | 产生间歇接地、使警告断续工作的电路 |
+| intermittent | adj. | 间歇的 | 喇叭与呼叫灯断续工作的工作方式 |
+| warning horn | n. | 警告喇叭 | 盥洗室处发出音响警告的器件 |
+| relay | n. | 继电器 | 被探测电路接地后通电，再向 OEU 送信号 |
+| overhead electronics unit (OEU) | n. | 顶部电子组件 | 中央监控系统中接收接地信号的电子组件 |
+| central monitoring systems (CMS) | n. | 中央监控系统 | 汇集客舱各系统状态与指示的系统 |
+| call chime | n. | 呼叫谐音 | 盥洗室呼叫时响起、提示乘务员的音调 |
+| reset switch | n. | 复位电门 | 按下后取消烟雾指示的电门 |
+| interrupt switch | n. | 中断电门 | 用于中断烟雾探测器指示的另一电门 |
+| waste compartment | n. | 废弃物舱 | 盥洗室内收集废纸等物的隔舱，灭火瓶即保护此处 |
+| solder | n. | 焊料 | 封住喷嘴、达温即熔的易熔塞材料 |
 
 ## 4. 语法解析
 
-TODO
+### ① 两个 that 定语从句叠加
+**原句**：Airplanes that have a passenger capacity of 20 or more are equipped with a smoke detector system that monitors the lavatories for smoke.
+**拆解**：主语 Airplanes 后接第一个 that 从句（that have a passenger capacity of 20 or more）作定语；谓语 are equipped with，宾语 a smoke detector system；第二个 that 从句（that monitors the lavatories for smoke）修饰 system。
+**要点**：第一个 that 从句插在主语与谓语之间，把“飞机—装—系统”这条骨架隔开，读句时须先跳过它。monitor sth. for sth. 意为“监测某物以发现某物”，此处即监测盥洗室以发现烟。
+
+### ② 并列谓语 + that 定语从句的修饰范围
+**原句**：Smoke indications provide a warning light in the flight deck or provide a warning light or audible warning at the lavatory and at flight attendant stations that would be readily detected by a flight attendant.
+**拆解**：主语 Smoke indications，由 or 并列两个谓语 provide... 与 provide...；第二个 provide 的宾语是 a warning light or audible warning；at the lavatory and at flight attendant stations 为地点状语；that would be readily detected by a flight attendant 为定语从句。
+**要点**：that 从句紧跟 stations，形式上修饰 stations，但语义上限定的是前面的“警告灯或音响警告”，即这些指示须能被乘务员轻易察觉。or 在此连接两个等同的谓语结构，不是连接两个句子。
+
+### ③ 祈使句 + 不定式目的状语
+**原句**：Push the lavatory call reset switch or the smoke detector interrupt switch to cancel the smoke indications.
+**拆解**：Push 为祈使句谓语，省略主语 you；宾语 the lavatory call reset switch or the smoke detector interrupt switch 由 or 连接两个可选电门；to cancel the smoke indications 为不定式作目的状语。
+**要点**：技术手册大量使用祈使句给出操作步骤，中文常译成“按压……可……”。句末不定式表目的，说明按压电门要达到的结果，不要误读成宾语补足语。
+
+### ④ when 时间状语从句 + that 定语从句 + and 并列两个谓语
+**原句**：When the temperature in the waste compartment reaches approximately 170 °F, the solder that seals the nozzles melt and the Halon is discharged.
+**拆解**：When 引导时间状语从句，主语 the temperature，in the waste compartment 为后置定语，谓语 reaches，宾语 approximately 170 °F；主句主语 the solder，that seals the nozzles 为定语从句，谓语 melt 与后面的 the Halon is discharged 由 and 并列。
+**要点**：主句由两个分句并列而成，前一个是主动语态（焊料熔化），后一个是被动语态（哈龙被喷放），主语不同，不可把 is discharged 当成 melt 的并列谓语。melt 在此用原形，与主语 the solder 搭配，属原文用法。
+
+### ⑤ 动名词作主语 + if 宾语从句
+**原句**：Weighing the bottle is often the only way to determine if the bottle is empty or full.
+**拆解**：Weighing the bottle 为动名词短语作主语，谓语 is，表语 the only way，to determine... 为不定式作后置定语；if the bottle is empty or full 为宾语从句，作 determine 的宾语。
+**要点**：动名词作主语时谓语用单数 is。determine if... 中的 if 不是“如果”而是“是否”，相当于 whether，这类宾语从句不能用 that 替换。the only way to do 是“做……的唯一办法”的固定搭配。
