@@ -22,14 +22,64 @@ In most states, there are Occupational Safety Hazard Administration (OSHA) regul
 
 ## 2. 中文翻译
 
-TODO
+给飞机喷漆、剥漆或重涂的过程，需要使用各种涂料、化学品和操作程序，若不采取适当的预防措施保护参与人员，就可能造成危害。
+
+最显著的危害是吸入空气中的化学品，来源或是打开漆桶散发的蒸气，或是喷涂产生的雾化漆雾。有两类装置可用于防护空气中的危害：呼吸器和强制供气呼吸系统。
+
+呼吸器是罩在口鼻上、用于过滤吸入空气中颗粒物和有机蒸气的装置。最常见的一种装有双层活性炭滤筒和可更换的滤尘片，靠紧密的密封贴合在口鼻部位。使用得当时，这类呼吸器可防止吸入有机蒸气、粉尘以及油漆、硝基漆和搪瓷漆的雾滴。呼吸器对含异氰酸酯的油漆和涂料（聚氨酯漆）不提供防护。
+
+呼吸器必须在通风充分的区域使用。如果感到呼吸困难、闻到或尝到污染物的味道，或者出现头晕、恶心，应离开该区域，到有新鲜空气处，必要时寻求帮助。要仔细阅读每台呼吸器随附的警告说明，了解其防护限度以及可防护的材料。
+
+喷涂任何类型的聚氨酯或任何含异氰酸酯的涂料时，必须使用强制供气呼吸系统。对于一切喷涂和剥漆作业，无论化学法还是喷丸法，也推荐使用该系统。该系统通过一根软管，由电动涡轮泵把新鲜空气不断泵入面罩，提供恒定的呼吸空气源。
+
+应穿防护服，如 Tyvek® 连体工作服，它既保护人员不受油漆侵害，也有助于防止粉尘落到已喷表面上。使用任何剥漆剂、蚀洗液、转化涂层和溶剂时，必须戴橡胶手套。
+
+用溶剂清洗喷漆设备和喷枪时，该区域必须没有明火或其他热源。清洗喷枪时不得随意把溶剂喷到空气中。不得用溶剂清洗裸手和手臂上的油漆及其他涂料。所有喷涂作业中都应使用防护手套和防护服。
+
+在多数州，都有职业安全与健康管理局（OSHA）的规定生效，可能要求在工作期间保护人员免受蒸气和其他危害。在任何机库或车间，人员都必须保持警觉，提供并使用防护措施以保障安全。
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-TODO
+| airborne | adj. | 空气传播的 | 涂料蒸气与雾化漆雾在空气中形成的吸入性危害 |
+| respirator | n. | 呼吸器 | 罩在口鼻上过滤颗粒和有机蒸气的防护装置 |
+| forced-air breathing system | n. | 强制供气呼吸系统 | 由涡轮泵经软管向面罩送新鲜空气，喷聚氨酯时必须使用 |
+| atomized mist | n. | 雾化漆雾 | 喷涂时形成的细小漆滴，是主要吸入危害之一 |
+| organic vapor | n. | 有机蒸气 | 溶剂挥发出的气体，活性炭滤筒的主要过滤对象 |
+| charcoal-filtered cartridge | n. | 活性炭滤筒 | 呼吸器上可更换的过滤元件 |
+| dust filter | n. | 滤尘片 | 装在滤筒外、可更换的颗粒物过滤件 |
+| isocyanate | n. | 异氰酸酯 | 聚氨酯漆的固化成分，普通呼吸器无法防护 |
+| polyurethane | n. | 聚氨酯 | 含异氰酸酯的涂料，喷涂必须用供气式呼吸系统 |
+| Tyvek coverall | n. | Tyvek 连体防护服 | 一次性防护服，兼防漆雾与粉尘污染漆面 |
+| stripper | n. | 剥漆剂 | 化学除漆用的强腐蚀性药剂，须戴橡胶手套 |
+| etching solution | n. | 蚀洗液 | 金属表面处理用的酸性溶液 |
+| conversion coating | n. | 转化涂层 | 与金属表面反应生成保护膜的化学处理层 |
+| OSHA | n. | 职业安全与健康管理局 | 制定工作场所蒸气与危害防护规定的美国机构 |
 
 ## 4. 语法解析
 
-TODO
+### ① 长宾语 + that 定语从句 + 条件从句作后置修饰
+**原句**：The process of painting, stripping, or refinishing an aircraft requires the use of various coatings, chemicals, and procedures that may be hazardous if proper precautions are not utilized to protect personnel involved in their use.
+**拆解**：主语 The process of painting, stripping, or refinishing an aircraft（三个动名词并列作 of 的宾语）；谓语 requires，宾语 the use of various coatings, chemicals, and procedures；that may be hazardous 为定语从句修饰 procedures（也可理解为修饰前面三项）；if 引导条件状语从句，to protect personnel 为目的状语，involved in their use 为过去分词后置定语修饰 personnel。
+**要点**：三个动名词 painting、stripping、refinishing 共用一个 of，翻译时分别对应“喷漆、剥漆、重涂”。hazardous 后的 if 从句是定语从句内部的状语，读句时要分清层次：may be hazardous 是主句，if 从句属于 that 从句范围。
+
+### ② 表语 + 过去分词后置定语 + either ... or 并列
+**原句**：The most significant hazards are airborne chemicals inhaled either from the vapors of opened paint containers or atomized mist resulting from spraying applications.
+**拆解**：主语 The most significant hazards，系动词 are，表语 airborne chemicals；inhaled either from ... or ... 为过去分词短语作后置定语修饰 chemicals；either from the vapors of opened paint containers 与 or atomized mist resulting from spraying applications 并列，其中 resulting from 为现在分词短语修饰 mist。
+**要点**：either ... or 连接的是两个来源状语，第二个 from 被省略。inhaled 与 resulting 一过去一现在，因为化学品是“被吸入”的，而雾滴是“产生”的（主动）。翻译时按“来源或是……或是……”处理最自然。
+
+### ③ 被动分词作定语 + 目的不定式 + 被动分词短语
+**原句**：A respirator is a device worn over the nose and mouth to filter particles and organic vapors from the air being inhaled.
+**拆解**：主语 A respirator，系动词 is，表语 a device；worn over the nose and mouth 为过去分词短语作后置定语修饰 device；to filter ... 为目的状语；from the air 为来源状语，being inhaled 为现在分词被动式作后置定语修饰 air。
+**要点**：worn 与 being inhaled 都是分词作定语，但一个是过去分词（被戴），一个是现在分词被动式（正在被吸入）。to filter 的逻辑主语是 device（供人用它过滤），不是 respirator 本身主动去过滤。
+
+### ④ 条件从句并列三项 + 单数 they 回指
+**原句**：If breathing becomes difficult, there is a smell or taste of the contaminant(s), or an individual becomes dizzy or feels nauseous, they should leave the area and seek fresh air and assistance as necessary.
+**拆解**：If 引导条件状语从句，内部由 or 并列三个分句：breathing becomes difficult（主语为动名词 breathing）；there is a smell or taste of the contaminant(s)（there be 存在句）；an individual becomes dizzy or feels nauseous（系表 + 感官动词并列）。主句 they should leave the area and seek fresh air and assistance，as necessary 为条件性补充。
+**要点**：三个并列项用 or 连接，表示“出现其中任一情况”。they 是单数泛指，回指 an individual，不能译成“他们”。seek assistance 是“寻求帮助”，as necessary 意为“必要时”。
+
+### ⑤ 主句 + which 非限制性定语从句 + 被动语态
+**原句**：The system provides a constant source of fresh air for breathing, which is pumped into the mask through a hose from an electric turbine pump.
+**拆解**：主语 The system，谓语 provides，宾语 a constant source of fresh air，for breathing 为目的状语；which 引导非限制性定语从句，指代 a constant source of fresh air，从句谓语 is pumped（被动），into the mask 为方向状语，through a hose 为方式状语，from an electric turbine pump 为来源状语。
+**要点**：which 前有逗号，指代前面的名词短语而非整句。is pumped 是被动，说明新鲜空气是“被泵入”的。三个介词短语按“泵—经软管—进面罩”的顺序排列，中文习惯倒过来译成“由电动涡轮泵经软管泵入面罩”。

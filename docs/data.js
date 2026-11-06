@@ -3832,7 +3832,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "08",
   "titleEn": "Aircraft Painting & Finishing",
-  "count": 14,
+  "count": 15,
   "cards": [
    {
     "slug": "airframe-ch08-01",
@@ -3917,6 +3917,12 @@ window.AMT_CARDS = [
     "seq": "14",
     "title": "Safety in the Paint Shop",
     "file": "14-safety-in-the-paint-shop.md"
+   },
+   {
+    "slug": "airframe-ch08-15",
+    "seq": "15",
+    "title": "Protective Equipment for Personnel",
+    "file": "15-protective-equipment-for-personnel.md"
    }
   ]
  },
@@ -3956,13 +3962,19 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "10",
   "titleEn": "Aircraft Systems",
-  "count": 1,
+  "count": 2,
   "cards": [
    {
     "slug": "airframe-ch10-01",
     "seq": "01",
     "title": "Introduction",
     "file": "01-introduction.md"
+   },
+   {
+    "slug": "airframe-ch10-02",
+    "seq": "02",
+    "title": "Classifying Instruments",
+    "file": "02-classifying-instruments.md"
    }
   ]
  },
