@@ -8,6 +8,8 @@
 
 Our conventional (U.S. or English) system of measurement is part of our cultural heritage from the days when the thirteen colonies were under British rule. It started as a collection of Anglo-Saxon, Roman, and Norman-French weights and measures. For example, the inch represents the width of the thumb and the foot is from the length of the human foot. Tradition holds that King Henry I decreed that the yard should be the distance from the tip of his nose to the end of his thumb. Since medieval times, commissions appointed by various English monarchs have reduced the chaos of measurement by setting specific standards for some of the most important units. Some of the conventional units of measure are: inches, feet, yards, miles, ounces, pints, gallons, and pounds. Because the conventional system was not set up systematically, it contains a random collection of conversions. For example, 1 mile = 5,280 feet and 1 foot = 12 inches.
 
+### Metric System
+
 The metric system, also known as the International System of Units (SI), is the dominant language of measurement used today. Its standardization and decimal features make it well-suited for engineering and aviation work.
 
 The metric system was first envisioned by Gabriel Mouton, Vicar of St. Paul’s Church in Lyons, France. The meter is the unit of length in the metric system, and it is equal to one ten-millionth of the distance from the equator to the North Pole. The liter is the unit of volume and is equal to one cubic decimeter. The gram is the unit of mass and is equal to one cubic centimeter of water.
@@ -18,9 +20,13 @@ All of the metric units follow a consistent naming scheme, which consists of att
 
 The United States primarily uses the conventional (U.S. or English) system, although it is slowly integrating the metric system (SI). A recommendation to transition to the metric system within ten years was initiated in the 1970s. However, this movement lost momentum, and the United States continues to use both measurement systems. Therefore, information to convert between the conventional (U.S. or English) system and the metric (SI) system has been included in Applied Mathematics Formula Sheet. Examples of its use are as follows:
 
-To convert inches to millimeters, multiply the number of inches by 25.4. Example: 20 inches = 20 × 25.4 = 508 mm To convert ounces to grams, multiply the number of ounces by 28.35.
+To convert inches to millimeters, multiply the number of inches by 25.4.
 
-Example: 12 ounces = 12 × 28.35 = 340.2 grams Prefix Multiplier(Exponential) Multiplier(Numerical) MeaningSymbol exa (1018) giga (109) mega (106) quintillion quadrillion trillion billion million thousand hundred ten tenth hundredth thousandth millionth billionth trillionth quadrillionth quintillionth 1,000,000,000,000,000,000 1,000,000,000,000,000 1,000,000,000,000 1,000,000,000 1,000,000 1,000 100 10 0.1 0.01 0.001 0.000,001 0.000,000,001 0.000,000,000,001 0.000,000,000,000,001 0.000,000,000,000,000,001 E P T G M k h da 1 d c m µ n p f a Less Than 1 Greater Than 1
+Example: 20 inches = 20 × 25.4 = 508 mm
+
+To convert ounces to grams, multiply the number of ounces by 28.35.
+
+Example: 12 ounces = 12 × 28.35 = 340.2 grams
 
 ## 2. 中文翻译
 
