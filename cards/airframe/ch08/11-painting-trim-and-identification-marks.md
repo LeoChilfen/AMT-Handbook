@@ -1,0 +1,181 @@
+# Painting Trim & Identification Marks
+
+> 机体 Ch 08 · Painting Trim & Identification Marks · 原文 PDF 第 410 页
+
+## 1. 原文
+
+### Masking & Applying the Trim
+
+At this point in the project, the entire aircraft has been painted with the base color and all the masking paper and tape carefully removed. Refer again to the coating manufacturer’s technical data sheet for “dry and recoat” times for the appropriate temperatures and “dry to tape” time that must elapse before safe application and removal of tape on new paint without it lifting.
+
+#### Masking Materials
+
+When masking for the trim lines, use 3M® Fine Line tape. It is solvent proof, available in widths of ⁄ 8 –1 inch and, when applied properly, produces a sharp edge paint line. A good quality masking tape should be used with masking paper to cover all areas not being trimmed to ensure the paper does not lift and allow overspray on the basecoat. Do not use newspaper to mask the work as paint penetrates newspaper. Using actual masking paper is more efficient, especially if used with a masking paper/tape dispenser as part of the finishing equipment.
+
+#### Masking for the Trim
+
+After the base color has dried and cured for the recommended time shown in the manufacturer’s technical data sheet, the next step is to mask for the trim. The trim design can be simple, with one or two color stripes running along the fuselage, or it can be an elaborate scheme covering the entire aircraft. Whichever is chosen, the basic masking steps are the same.
+
+If unsure of a design, there are numerous websites that provide the information and software to do a professional job. If electing to design a personalized paint scheme, the proposed design should be portrayed on a silhouette drawing of the aircraft as close to scale as possible. It is much easier to change a drawing than to remask the aircraft.
+
+Start by identifying a point on the aircraft from which to initiate the trim lines using the Fine Line tape. If the lines are straight and/or have large radius curves, use ¾-inch or one-inch tape and keep it pulled tight. The wider tape is much easier to control when masking a straight line. Smaller radius curves may require ½-inch or even ¼-inch tape. Try and use the widest tape that lays flat and allows for a smooth curve. Use a small roller (like those used for wallpaper seams) to go back over and roll the tape edges firmly onto the surface to ensure they are flat.
+
+Finish masking the trim lines on one side of the aircraft, to include the fuselage, vertical fin and rudder, the engine nacelles and wing(s). Once complete, examine the lines. If adjustments are needed to the placement or design, now is the time to correct it. With one side of the aircraft complete, the entire design and placement can be transferred to the opposite side.
+
+Different methods can be employed to transfer the placement of the trim lines from one side of the aircraft to the other. One method is to trace the design on paper and then apply it to the other side, starting at the same point opposite the first starting point. Another method is to use the initial starting point and apply the trim tape using sheet metal or rivet lines as reference, along with measurements, to position the tape in the correct location.
+
+When both sides are completed, a picture can be taken of each side and a comparison made to verify the tape lines on each side of the aircraft are identical.
+
+With the Fine Line taping complete, some painters apply a sealing strip of ¾-inch or 1-inch masking tape covering half and extending over the outside edge of the Fine Line tape. This provides a wider area to apply the masking paper and adds an additional seal to the Fine Line tape. Now, apply the masking paper using 1-inch tape, placing half the width of the tape on the paper and half on the masked trim tape.
+
+Use only masking paper made for painting and a comparable quality masking tape. With all the trim masking complete, cover the rest of the exposed areas of the aircraft to prevent overspray from landing on the base color. Tape the edges of the covering material to ensure the spray does not drift under it.
+
+Now, scuff-sand all the area of trim to be painted to remove the gloss of the base paint. The use of 320-grit for the main area and a fine mesh Scotch-Brite pad next to the tape line should be sufficient. Then, blow all the dust and grit off the aircraft, and wipe down the newly sanded trim area with a degreaser and a tack cloth. Press or roll down the trim tape edges one more time before painting.
+
+There are some various methods used by painters to ensure that a sharp defined tape line is attained upon removal of the tape. The basic step is to first use the 3M ® Fine Line tape to mask the trim line. Some painters then spray a light coat of the base color or clear coat just prior to spraying the trim color. This will seal the tape edge line and ensure a clean sharp line when the tape is removed.
+
+If multiple colors are used for the trim, cover the trim areas not to be sprayed with masking paper. When the first color is sprayed and dried, remove the masking paper from the next trim area to spray and cover the trim area that was first sprayed, taking care not to press the masking paper or tape into the freshly dried paint.
+
+With all the trim completed, the masking paper should be removed as soon as the last trimmed area is dry to the touch. Carefully remove the Fine Line trim edge tape by slowly pulling it back onto itself at a sharp angle. Remove all trim and masking tape from the base coat as soon as possible to preclude damage to the paint.
+
+As referenced previously, use compatible paint components from the same manufacturer when painting trim over the base color. This reduces the possibility of an adverse reaction between the base coat and the trim colors.
+
+### Display of Nationality & Registration Marks
+
+The complete regulatory requirement for identification and marking of a U.S.-registered aircraft can be found in Title 14 of the Code of Federal Regulations (14 CFR), Part 45, Identification and Registration Marking.
+
+In summary, the regulation states that the marks must:
+
+• Be painted on the aircraft or affixed by other means to insure a similar degree of permanence;
+
+• Contrast in color with the background; and The letters and numbers may be taped off and applied at the same time and using the same methods as when the trim is applied, or they may be applied later as decals of the proper size and color.
+
+#### Display of Marks
+
+Each operator of an aircraft shall display on the aircraft marks consisting of the Roman capital letter “N” (denoting United States registration) followed by the registration number of the aircraft. Each suffix letter must also be a On fixed-wing aircraft, marks must be displayed on either the vertical tail surfaces or the sides of the fuselage. If displayed on the vertical tail surfaces, they shall be horizontal on both surfaces of a single vertical tail or on the outer surfaces of a multivertical tail. If displayed on the fuselage surfaces, then horizontally on both sides of the fuselage between the trailing edge of the wing and the leading edge of the horizontal stabilizer. Exceptions to the location and size requirement for certain aircraft can be found in 14 CFR part 45.
+
+#### Location & Placement of Marks
+
+On rotorcraft, marks must be displayed horizontally on both surfaces of the cabin, fuselage, boom, or tail. On airships, balloons, powered parachutes, and weight-shift control aircraft, display marks as required by 14 CFR part 45.
+
+#### Size Requirements for Different Aircraft
+
+Almost universally for U.S.-registered, standard certificated, fixed-wing aircraft, the marks must be at least 12 inches high. A glider may display marks at least 3 inches high.
+
+In all cases, the marks must be of equal height, two-thirds as wide as they are high, and the characters must be formed by solid lines one-sixth as wide as they are high. The letters “M” and “W” may be as wide as they are high.
+
+The spacing between each character may not be less than one-fourth of the character width. The marks required by 14 CFR part 45 for fixed-wing aircraft must have the same height, width, thickness, and spacing on both sides of the aircraft.
+
+The marks must be painted or, if decalcomanias (decals), be affixed in a permanent manner. Other exceptions to the size and location of the marks are applicable to aircraft with Special Airworthiness certificates and those penetrating ADIZ and DEWIZ airspace. The current 14 CFR part 45 should be consulted for a complete copy of the rules.
+
+## 2. 中文翻译
+
+### 遮蔽与喷涂装饰色
+
+到项目的这个阶段，整架飞机已喷好基色，所有遮蔽纸和胶带都已小心揭除。请再次查阅涂料生产厂的技术数据表，了解相应温度下的“干燥与重涂”时间，以及“可贴胶带”时间——必须等这段时间过去，才能在新漆上安全地贴、揭胶带而不致把漆带起。
+
+#### 遮蔽材料
+
+遮蔽装饰线时，使用 3M® Fine Line 细线胶带。它耐溶剂，有 1/8~1 英寸各种宽度，贴得当时能做出边缘锐利的漆线。遮蔽纸应配用优质遮蔽胶带，把所有不需喷装饰色的区域盖住，确保纸张不翘起、不让过喷落到基色上。不要用报纸遮蔽，因为油漆会渗透报纸。使用真正的遮蔽纸效率更高，尤其是配合遮蔽纸/胶带分配器（属涂装设备之一）使用时。
+
+#### 装饰线的遮蔽
+
+基色按生产厂技术数据表推荐的干燥和固化时间干燥之后，下一步就是遮蔽装饰线。装饰图案可以很简单，沿机身走一两条色带；也可以很复杂，覆盖整架飞机。无论选哪种，基本的遮蔽步骤都一样。
+
+如果对图案没有把握，有许多网站提供资料和软件，能做出专业水准的设计。如果选择自行设计个性化涂装方案，应把方案画在尽可能接近比例的飞机侧影图上。改图纸比重新遮蔽飞机容易得多。
+
+先用 Fine Line 胶带在飞机上确定一个起线点。如果线条是直线和/或大半径曲线，用 ¾ 英寸或 1 英寸宽的胶带，并拉紧。遮蔽直线时宽胶带好控制得多。半径较小的曲线可能需要 ½ 英寸甚至 ¼ 英寸胶带。尽量选用能贴平、又能顺出平滑曲线的最宽胶带。用小滚轮（像贴墙纸接缝用的那种）回头把胶带边缘用力压实到表面上，确保贴平。
+
+把飞机一侧的装饰线遮蔽完，包括机身、垂直尾翼与方向舵、发动机短舱和机翼。完成后检查线条。如果位置或图案需要调整，此时正是修正的时机。飞机一侧完成后，整个图案和位置就可以复制到另一侧。
+
+把装饰线位置从一侧复制到另一侧可采用不同方法。一种是在纸上描下图案，再从另一侧的对应起点贴上去。另一种是以初始起点为准，借助钣金缝或铆钉线作参照，配合测量，把胶带定位到正确位置。
+
+两侧都完成后，可各拍一张照片作对比，核实飞机两侧的胶带线是否完全一致。
+
+Fine Line 胶带贴完后，有些喷漆工会再贴一条 ¾ 英寸或 1 英寸的遮蔽胶带作封边，压住 Fine Line 胶带的一半并延伸到其外缘。这样就有了更宽的面积来贴遮蔽纸，也给 Fine Line 胶带多加一道密封。然后用 1 英寸胶带贴遮蔽纸，胶带一半贴在纸上、一半贴在已遮蔽的装饰胶带上。
+
+只使用专为喷漆制造的遮蔽纸和同等质量的遮蔽胶带。装饰线全部遮蔽完成后，把飞机其余裸露区域盖住，防止过喷落到基色上。把覆盖材料的边缘用胶带粘牢，确保漆雾不会从下面钻进去。
+
+现在，把要喷装饰色的整个区域用砂纸轻轻拉毛，去掉基色漆的光泽。主区域用 320 目砂纸、胶带线附近用细网 Scotch-Brite 垫就足够了。然后把飞机上的粉尘和砂粒全部吹掉，用除油剂和粘尘布擦拭刚打磨过的装饰区域。喷漆前再把装饰胶带的边缘压一遍或滚一遍。
+
+喷漆工有一些不同的做法，用来确保揭胶带后能得到清晰锐利的漆线。基本步骤都是先用 3M® Fine Line 胶带遮蔽装饰线。有些喷漆工随后在喷装饰色之前，先薄薄喷一道基色或清漆。这会封住胶带边缘，揭胶带时就能得到干净锐利的漆线。
+
+如果装饰色有多种颜色，把本次不喷的装饰区域用遮蔽纸盖住。第一色喷完并干燥后，揭掉下一块待喷装饰区域的遮蔽纸，并把刚喷过的区域盖住，注意不要把遮蔽纸或胶带压进刚干的漆里。
+
+全部装饰色喷完后，应在最后喷的装饰区域指触即干时尽快揭掉遮蔽纸。揭 Fine Line 装饰边线胶带时，要以锐角慢慢往回折揭。基色上的装饰胶带和遮蔽胶带都应尽快揭除，以免损伤漆面。
+
+如前所述，在基色上喷装饰色时，应使用同一生产厂的相容涂料组分。这能降低基色与装饰色之间发生不良反应的可能。
+
+### 国籍标志与登记标志的展示
+
+美国注册航空器的标识与标记的完整法规要求，见《联邦法规汇编》第 14 编（14 CFR）第 45 部“标识与登记标记”。
+
+概括而言，该法规规定标记必须：
+
+• 喷涂在飞机上，或以其他方式附着，以确保具有同等程度的永久性；
+
+• 与背景颜色形成对比；字母和数字可以用胶带遮出，随装饰色同时、以同样的方法喷涂，也可以在以后用尺寸和颜色合适的贴花施加。
+
+#### 标记的展示
+
+航空器的每位运营人应当在航空器上展示由罗马大写字母“N”（表示美国登记）后接该航空器登记号组成的标记。每个后缀字母也必须是……〔原文此处脱字〕在固定翼航空器上，标记必须展示在垂直尾翼面上或机身两侧。若展示在垂直尾翼面上，则在单垂直尾翼的两个面上、或多垂直尾翼的外侧面上水平展示。若展示在机身侧面上，则在机身两侧、机翼后缘与水平安定面前缘之间水平展示。某些航空器在位置和尺寸要求上的例外，见 14 CFR 第 45 部。
+
+#### 标记的位置与布置
+
+在旋翼航空器上，标记必须水平展示在座舱、机身、尾梁或尾翼的两个面上。在飞艇、气球、动力伞和重量转移操纵航空器上，按 14 CFR 第 45 部的要求展示标记。
+
+#### 不同航空器的尺寸要求
+
+几乎所有美国注册的、标准类别的固定翼航空器，其标记高度至少 12 英寸。滑翔机的标记高度至少 3 英寸。
+
+在所有情况下，标记必须等高，宽度为高度的三分之二，字符的笔画须为实线，宽度为高度的六分之一。字母“M”和“W”的宽度可以与高度相同。
+
+字符之间的间距不得小于字符宽度的四分之一。14 CFR 第 45 部对固定翼航空器要求的标记，在飞机两侧必须具有相同的高度、宽度、笔画粗细和间距。
+
+标记必须喷涂；若使用贴花（decalcomanias），则须以永久方式粘贴。对持有特殊适航证的航空器，以及进入 ADIZ 和 DEWIZ 空域的航空器，在标记尺寸和位置上还有其他例外。完整规则应查阅现行的 14 CFR 第 45 部。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| trim | n. | 装饰色（装饰线） | 基色之上喷涂的色带或图案 |
+| masking paper | n. | 遮蔽纸 | 遮盖不需喷涂区域的专用纸张，报纸会渗漆不能代用 |
+| masking tape | n. | 遮蔽胶带 | 固定遮蔽纸、贴出漆线边界的胶带 |
+| Fine Line tape | n. | 细线胶带 | 3M 耐溶剂胶带，用于做出边缘锐利的装饰线 |
+| base color | n. | 基色（底色） | 整机先喷的底色，装饰色覆于其上 |
+| overspray | n. | 过喷 | 遮蔽不严时飘落到基色上的漆雾 |
+| scuff-sand | v. | 拉毛打磨 | 用 320 目砂纸磨掉基色光泽，使装饰色可靠附着 |
+| degreaser | n. | 除油剂 | 打磨后擦拭表面、去除油污的清洗剂 |
+| tack cloth | n. | 粘尘布 | 喷漆前擦除打磨粉尘的专用布 |
+| clear coat | n. | 清漆（透明涂层） | 喷装饰色前薄喷一道，用来封住胶带边缘 |
+| roller | n. | 小滚轮 | 把胶带边缘压实到表面，防止过喷钻入 |
+| registration mark | n. | 登记标志 | 由“N”加登记号组成的美国注册标记 |
+| vertical tail surface | n. | 垂直尾翼面 | 固定翼飞机展示国籍与登记标记的可选位置之一 |
+| ADIZ | n. | 防空识别区 | 进入该空域的航空器在标记尺寸和位置上有额外要求 |
+
+## 4. 语法解析
+
+### ① 祈使句 + 长介词短语 + that 定语从句嵌套
+**原句**：Refer again to the coating manufacturer’s technical data sheet for “dry and recoat” times for the appropriate temperatures and “dry to tape” time that must elapse before safe application and removal of tape on new paint without it lifting.
+**拆解**：祈使句 Refer ... to the technical data sheet；for “dry and recoat” times 与 for the appropriate temperatures 是层层后置的介词短语；for “dry to tape” time 与前者并列；that must elapse 为定语从句修饰 time；before safe application and removal of tape 为时间状语，on new paint 修饰 removal，without it lifting 为条件补充（it 指新漆）。
+**要点**：“dry to tape” time 是复合名词，指“可安全贴胶带所需等待的时间”，不要拆成“干燥到胶带”。without it lifting 是“介词 + 代词 + 动名词”的复合结构，it 指 new paint，lifting 意为“被带起”。
+
+### ② 被动语态 + 不定式目的状语 + 两个并列谓语
+**原句**：A good quality masking tape should be used with masking paper to cover all areas not being trimmed to ensure the paper does not lift and allow overspray on the basecoat.
+**拆解**：主语 A good quality masking tape，谓语 should be used（情态动词被动），with masking paper 为伴随状语；to cover all areas 为目的状语，not being trimmed 为现在分词被动式作后置定语修饰 areas；to ensure ... 为第二个目的状语，其宾语从句中 does not lift and allow 为并列谓语。
+**要点**：两个 to do 都是目的状语，第二个解释“盖住”的目的。not being trimmed 是“不被喷装饰色的”，逻辑主语是 areas。ensure 后的从句用一般现在时否定，不用 will not。
+
+### ③ 条件从句 + 并列祈使句 + 复合宾语
+**原句**：If the lines are straight and/or have large radius curves, use ¾-inch or one-inch tape and keep it pulled tight.
+**拆解**：If 引导条件状语从句，从句内 are straight 与 have large radius curves 由 and/or 并列；主句是两个并列祈使句 use ... tape 和 keep it pulled tight；keep 后为复合宾语，it 指胶带，pulled tight 为过去分词短语作宾语补足语。
+**要点**：and/or 表示“两者可同时也可只居其一”，译作“和/或”。keep sth. done 表示“使某物保持被……的状态”，此处 tight 是补足语，pulled 表被动。
+
+### ④ with 独立主格 + 分词短语作后置定语
+**原句**：With the Fine Line taping complete, some painters apply a sealing strip of ¾-inch or 1-inch masking tape covering half and extending over the outside edge of the Fine Line tape.
+**拆解**：With the Fine Line taping complete 为 with 复合结构作时间/伴随状语（complete 是形容词补足语）；主句 some painters apply a sealing strip of ... tape；covering half and extending over the outside edge 为两个并列现在分词短语作后置定语修饰 strip。
+**要点**：with 结构中补足语是形容词时表示状态，此处相当于“Fine Line 胶带贴完之后”。covering 与 extending 并列，共用同一逻辑主语 strip，第二个分词前不再重复 strip。
+
+### ⑤ 被动语态 + 长名词短语 + 同位语
+**原句**：The complete regulatory requirement for identification and marking of a U.S.-registered aircraft can be found in Title 14 of the Code of Federal Regulations (14 CFR), Part 45, Identification and Registration Marking.
+**拆解**：主语 The complete regulatory requirement + 多层介词短语 for identification and marking of a U.S.-registered aircraft 作后置定语；谓语 can be found（情态动词被动）；in Title 14 of the Code of Federal Regulations (14 CFR) 为地点状语；Part 45 与 Identification and Registration Marking 是同位成分，逐级具体化 Title 14 下的部和部名。
+**要点**：主语中心词 requirement 后面挂了三个 of/for 短语，翻译时要按“对……的……要求”倒序处理。两个同位成分之间用逗号而非 and，是法规引用中常见的“由大到小”标注法。

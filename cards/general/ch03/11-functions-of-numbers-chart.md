@@ -14,7 +14,7 @@ The Functions of Numbers chart is included in this chapter for convenience in ma
 
 • Square root of N (√N)
 
-• Cube root of N (3√N)
+• Cube root of N (∛N)
 
 • Circumference of a circle with diameter = N.Circumference is the linear measurement of the distance around a circle. The circumference is calculated by multiplying the diameter of the circle by 3.1416 (3.1416 is the number referred to as pi, which has the symbol π). If the diameter of a circle is 10 inches, then the circumference would be: 10 × 3.1416 = 31.4160.
 
@@ -32,7 +32,7 @@ The Functions of Numbers chart is included in this chapter for convenience in ma
 
 • N 的平方根（原文此处为根号 N，根号符号在抽文中丢失）
 
-• N 的立方根（原文此处 3 写在根号左上角作根指数，抽取后写作 3 N）
+• N 的立方根（∛N）
 
 • 直径为 N 的圆的周长。
 周长是绕圆一周的长度的线性量度。圆周长的算法是把圆的直径乘以 3.1416（3.1416 就是所谓的圆周率，符号为 π）。若圆的直径为 10 英寸，则周长为：10 × 3.1416 = 31.4160。
@@ -49,7 +49,7 @@ The Functions of Numbers chart is included in this chapter for convenience in ma
 | radius | n. | 半径 | 圆心到圆周的距离，等于直径的一半，例中为 1.5 英寸 |
 | pi (π) | n. | 圆周率 | 取常数 3.1416，是周长与面积公式里的那个乘数 |
 | square root | n.phr. | 平方根 | 数字函数表第一列，例中 N 的平方根写作 N 并带根号 |
-| cube root | n.phr. | 立方根 | 数字函数表第二列，抽取后写作 3 N，3 为根指数 |
+| cube root | n.phr. | 立方根 | 数字函数表第二列，写作 ∛N |
 | squared | adj. | 平方的 | 指“半径的平方”，抽文中记作 r2，即 r 自乘一次 |
 | linear measurement | n.phr. | 线性量度 | 只沿一条线量出的长度，用来和面积、体积区分 |
 | square unit | n.phr. | 平方单位 | 面积的计数单位，例中为平方英寸 |

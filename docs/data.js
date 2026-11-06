@@ -3832,7 +3832,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "08",
   "titleEn": "Aircraft Painting & Finishing",
-  "count": 8,
+  "count": 14,
   "cards": [
    {
     "slug": "airframe-ch08-01",
@@ -3871,6 +3871,12 @@ window.AMT_CARDS = [
     "file": "06-finishing-equipment.md"
    },
    {
+    "slug": "airframe-ch08-07",
+    "seq": "07",
+    "title": "Preparation",
+    "file": "07-preparation.md"
+   },
+   {
     "slug": "airframe-ch08-08",
     "seq": "08",
     "title": "Spray Gun Operation",
@@ -3881,6 +3887,36 @@ window.AMT_CARDS = [
     "seq": "09",
     "title": "Sequence for Painting a Single-Engine or Light Twin Airplane",
     "file": "09-sequence-for-painting-a-single-engine-or-light-twin-airplane.md"
+   },
+   {
+    "slug": "airframe-ch08-10",
+    "seq": "10",
+    "title": "Common Paint Troubles",
+    "file": "10-common-paint-troubles.md"
+   },
+   {
+    "slug": "airframe-ch08-11",
+    "seq": "11",
+    "title": "Painting Trim & Identification Marks",
+    "file": "11-painting-trim-and-identification-marks.md"
+   },
+   {
+    "slug": "airframe-ch08-12",
+    "seq": "12",
+    "title": "Decals",
+    "file": "12-decals.md"
+   },
+   {
+    "slug": "airframe-ch08-13",
+    "seq": "13",
+    "title": "Paint System Compatibility",
+    "file": "13-paint-system-compatibility.md"
+   },
+   {
+    "slug": "airframe-ch08-14",
+    "seq": "14",
+    "title": "Safety in the Paint Shop",
+    "file": "14-safety-in-the-paint-shop.md"
    }
   ]
  },
@@ -3891,8 +3927,14 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "09",
   "titleEn": "Aircraft Electrical System",
-  "count": 2,
+  "count": 3,
   "cards": [
+   {
+    "slug": "airframe-ch09-01",
+    "seq": "01",
+    "title": "Introduction",
+    "file": "01-introduction.md"
+   },
    {
     "slug": "airframe-ch09-05",
     "seq": "05",
@@ -3904,6 +3946,40 @@ window.AMT_CARDS = [
     "seq": "06",
     "title": "Aircraft Lighting Systems",
     "file": "06-aircraft-lighting-systems.md"
+   }
+  ]
+ },
+ {
+  "chapter": "airframe-ch10",
+  "book": "airframe",
+  "bookEn": "Airframe",
+  "bookZh": "机体",
+  "num": "10",
+  "titleEn": "Aircraft Systems",
+  "count": 1,
+  "cards": [
+   {
+    "slug": "airframe-ch10-01",
+    "seq": "01",
+    "title": "Introduction",
+    "file": "01-introduction.md"
+   }
+  ]
+ },
+ {
+  "chapter": "airframe-ch13",
+  "book": "airframe",
+  "bookEn": "Airframe",
+  "bookZh": "机体",
+  "num": "13",
+  "titleEn": "Aircraft Landing Gear Systems",
+  "count": 1,
+  "cards": [
+   {
+    "slug": "airframe-ch13-08",
+    "seq": "08",
+    "title": "Operation & Handling Tips",
+    "file": "08-operation-and-handling-tips.md"
    }
   ]
  }

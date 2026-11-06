@@ -1,0 +1,77 @@
+# Safety in the Paint Shop
+
+> 机体 Ch 08 · Safety in the Paint Shop · 原文 PDF 第 415 页
+
+## 1. 原文
+
+All paint booths and shops must have adequate ventilation systems installed that not only remove the toxic air but, when properly operating, reduce and/or eliminate overspray and dust from collecting on the finish. All electric motors used in the fans and exhaust system should be grounded and enclosed to eliminate sparks. The lighting systems and all bulbs should be covered and protected against breakage.
+
+Proper respirators and fresh air breathing systems must be available to all personnel involved in the stripping and painting process. When mixing any paint or two-part coatings, eye protection and respirators should be worn.
+
+An appropriate number and size of the proper class fire extinguishers should be available in the shop or hangar during all spraying operations. They should be weighed and certified, as required, to ensure they work in the event they are needed. Fireproof containers should be available for the disposal of all paint and solvent soaked rags.
+
+### Storage of Finishing Materials
+
+All chemical components that are used to paint an aircraft burn in their liquid state. They should be stored away from all sources of heat or flames. The ideal place would be in fireproof metal cabinets located in a well-ventilated area.
+
+Some of the finishing components have a shelf life listed in the material or technical data sheet supplied by the coating manufacturer. Those materials should be marked on the container, with a date of purchase, in the event that they are not used immediately.
+
+## 2. 中文翻译
+
+所有喷漆房和车间都必须安装足够的通风系统，不仅能排除有害气体，而且在正常运行时还能减少和/或消除过喷与粉尘在漆面上的积聚。风扇和排气系统所用的所有电动机都应接地并加罩，以消除火花。照明系统和所有灯泡都应加罩保护，防止破碎。
+
+所有参与剥漆和喷漆作业的人员都必须能获得合适的呼吸器和新鲜空气供气系统。调配任何油漆或双组分涂料时，应佩戴护目和呼吸防护用品。
+
+在一切喷涂作业期间，车间或机库内都应配备数量适当、规格合适的相应类别灭火器。灭火器应按要求称重并检定，以确保需要时能正常工作。应备有防火容器，用于处置所有浸过油漆和溶剂的抹布。
+
+### 涂装材料的存放
+
+用于飞机喷漆的所有化学品组分在液态时都会燃烧。它们应存放在远离一切热源或火源的地方。理想的地点是放在通风良好区域的防火金属柜里。
+
+有些涂装组分在涂料生产厂提供的材料数据表或技术数据表中列有保质期。若不立即使用，应在容器上标注这些材料的购买日期。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| ventilation system | n. | 通风系统 | 喷漆房必备，排除有害气体并减少过喷与粉尘沉积 |
+| overspray | n. | 过喷 | 飘散在空气中的漆雾，会落到未干的漆面上 |
+| exhaust system | n. | 排气系统 | 把漆雾和溶剂蒸气排出车间的风机管路 |
+| grounded | adj. | 接地的 | 电动机须接地，防止静电火花引燃溶剂蒸气 |
+| respirator | n. | 呼吸器（防毒面具） | 剥漆和喷漆人员必须配备的呼吸防护装置 |
+| fresh air breathing system | n. | 新鲜空气供气系统 | 通过软管向面罩输送新鲜空气的呼吸系统 |
+| two-part coating | n. | 双组分涂料 | 需现场混合固化剂的涂料，调配时有吸入危害 |
+| eye protection | n. | 眼部防护（护目镜） | 调配油漆和双组分涂料时必须佩戴 |
+| fire extinguisher | n. | 灭火器 | 喷涂作业期间须按类别和数量配备并检定 |
+| fireproof container | n. | 防火容器 | 用于处置浸过油漆和溶剂的抹布 |
+| solvent-soaked rag | n. | 浸溶剂的抹布 | 自燃风险高，必须放入防火容器 |
+| shelf life | n. | 保质期 | 材料数据表中列明，超期材料性能会下降 |
+| technical data sheet | n. | 技术数据表 | 生产厂提供的材料参数与使用限制文件 |
+| fireproof metal cabinet | n. | 防火金属柜 | 存放液态涂装化学品的理想容器 |
+
+## 4. 语法解析
+
+### ① 定语从句 + not only ... but 并列 + 分词插入语
+**原句**：All paint booths and shops must have adequate ventilation systems installed that not only remove the toxic air but, when properly operating, reduce and/or eliminate overspray and dust from collecting on the finish.
+**拆解**：主语 All paint booths and shops；谓语 must have，宾语 adequate ventilation systems，宾补 installed（过去分词，have sth. done）；that 引导定语从句修饰 systems，从句内由 not only ... but ... 连接两个谓语 remove 与 reduce and/or eliminate；when properly operating 为插入的时间状语，逻辑主语是 systems。
+**要点**：not only 后面的 but 省略了 also，且被插入语 when properly operating 隔开，读句时要跨过插入语找第二个谓语。reduce ... from collecting 是“减少……在漆面上的积聚”，from 后接动名词。
+
+### ② 三类防护的并列名词短语 + 被动目的状语
+**原句**：Proper respirators and fresh air breathing systems must be available to all personnel involved in the stripping and painting process.
+**拆解**：主语 Proper respirators and fresh air breathing systems（并列）；谓语 must be available to（情态动词 + 系表结构 + 介词宾语 all personnel）；involved in the stripping and painting process 为过去分词短语作后置定语修饰 personnel。
+**要点**：be available to sb. 意为“可供某人获得/使用”，不是“对某人可用”这么生硬。involved in 是过去分词后置定语，等于 who are involved in，说明人员是“参与剥漆和喷漆工序的”。
+
+### ③ 被动语态 + as required 插入 + in the event 条件状语
+**原句**：They should be weighed and certified, as required, to ensure they work in the event they are needed.
+**拆解**：主语 They（指灭火器），谓语 should be weighed and certified（情态动词被动并列）；as required 为插入的方式状语，意为“按规定”；to ensure ... 为目的状语；in the event (that) they are needed 为条件状语从句。
+**要点**：in the event (that) 是“万一、如果发生”的正式表达，等于 if，不能按字面译成“在事件中”。as required 是 as (is) required 的省略形式。
+
+### ④ 虚拟语气 would be + 过去分词后置定语
+**原句**：The ideal place would be in fireproof metal cabinets located in a well-ventilated area.
+**拆解**：主语 The ideal place；系动词 would be（委婉的虚拟语气）；表语为介词短语 in fireproof metal cabinets；located in a well-ventilated area 为过去分词短语作后置定语修饰 cabinets。
+**要点**：would be 在此不表示过去，而是提出理想方案时的委婉说法。located in 是“位于”，过去分词表状态；well-ventilated 是复合形容词，注意连字符和过去分词形式。
+
+### ⑤ 被动语态 + with 短语插入 + in the event that 从句
+**原句**：Those materials should be marked on the container, with a date of purchase, in the event that they are not used immediately.
+**拆解**：主语 Those materials，谓语 should be marked（情态动词被动）；on the container 为地点状语；with a date of purchase 为插入的伴随状语，说明标注内容；in the event that they are not used immediately 为条件状语从句。
+**要点**：with a date of purchase 被逗号隔开，是补充说明“标注什么”，不是修饰 container。in the event that 后接完整从句，与上一条的省略式 as required 形成对比。

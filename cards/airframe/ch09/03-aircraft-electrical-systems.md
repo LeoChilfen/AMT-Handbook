@@ -1,0 +1,293 @@
+# Aircraft Electrical Systems
+
+> 机体 Ch 09 · Aircraft Electrical Systems · 原文 PDF 第 462 页
+
+## 1. 原文
+
+Virtually all aircraft contain some form of an electrical system. The most basic aircraft must produce electricity for operation of the engine’s ignition system. Modern aircraft have complex electrical systems that control almost every aspect of flight. In general, electrical systems can be divided into different categories according to the function of the system. Common systems include lighting, engine starting, and power generation.
+
+### Small Single-Engine Aircraft
+
+Light aircraft typically have a relatively simple electrical system because simple aircraft generally require less redundancy and less complexity than larger transport category aircraft. On most light aircraft, there is only one electrical system powered by the engine-driven alternator or generator. The aircraft battery is used for emergency power and engine starting. Electrical power is typically distributed through one or more common points known as an electrical bus (or bus bar).
+
+Almost all electrical circuits must be protected from faults that can occur in the system. Faults are commonly known as opens or shorts. An open circuit is an electrical fault that occurs when a circuit becomes disconnected. A short circuit is an electrical fault that occurs when one or more circuits create an unwanted connection. The most dangerous short circuit occurs when a positive wire creates an unwanted connection to a negative connection or ground. This is typically called a short to ground.
+
+There are two ways to protect electrical systems from faults: mechanically and electrically. Mechanically, wires and components are protected from abrasion and excess wear through proper installation and by adding protective covers and shields. Electrically, wires can be protected using circuit breakers and fuses. The circuit breakers protect each system in the event of a short circuit. It should be noted that fuses can be used instead of circuit breakers. Fuses are typically found on older aircraft. A circuit breaker panel from a light aircraft is shown in Figure 9-83 .
+
+#### Battery Circuit
+
+The aircraft battery and battery circuit is used to supply power for engine starting and to provide a secondary power supply in the event of an alternator (or generator) failure. A schematic of a typical battery circuit is shown in Figure 9-84 . This diagram shows the relationship of the starter and external power circuits that are discussed later in this chapter. The bold lines found on the diagram represent large wire (see the wire leaving the battery positive connection), which is used in the battery circuit due to the heavy current provided through these wires. Because batteries can supply large current flows, a battery is typically connected to the system through an electrical solenoid. At the start/end of each flight, the battery is connected/disconnected from the electrical distribution bus through the solenoid contacts. A battery master switch on the flight deck is used to control the solenoid.
+
+Although they are very similar, there is often confusion between the terms “solenoid” and “relay.” A solenoid is typically used for switching high current circuits and relays are used to control lower current circuits. To help illuminate the confusion, the term “contactor” is often used when describing a magnetically operated switch. For general purposes, an aircraft technician may consider the terms relay, solenoid, and contactor synonymous. Each of these three terms may be used on diagrams and schematics to describe electrical switches controlled by an electromagnet.
+
+Here it can be seen that the battery positive wire is connected to the electrical bus when the battery master switch is active. A battery solenoid is shown in Figure 9-85 . The battery switch is often referred to as the master switch since it turns off or on virtually all electrical power by controlling the battery connection. Note how the electrical connections of the battery solenoid are protected from electrical shorts by rubber covers at the end of each wire.
+
+The ammeter shown in the battery circuit is used to monitor the current flow from the battery to the distribution bus. When all systems are operating properly, battery current should flow from the main bus to the battery giving a positive indication on the ammeter. In this case, the battery is being charged. If the aircraft alternator (or generator) experiences a malfunction, the ammeter indicates a negative value. A negative indication means current is leaving the battery to power any electrical load connected to the bus. The battery is being discharged and the aircraft is in danger of losing all electrical power.
+
+#### Generator Circuit
+
+Generator circuits are used to control electrical power between the aircraft generator and the distribution bus. Typically, these circuits are found on older aircraft that have not upgraded to an alternator. Generator circuits control power to the field winding and electrical power from the generator to the electrical bus. A generator master switch is used to turn on the generator typically by controlling field current. If the generator is spinning and current is sent to the field circuit, the generator produces electrical power. The power output of the generator is controlled through the generator control unit (or voltage regulator). A simplified generator control circuit is shown in Figure 9-86 .
+
+As can be seen in Figure 9-86, the generator switch controls the power to the generator field (F terminal). The generator output current is supplied to the aircraft bus through the armature circuit (A terminal) of the generator.
+
+#### Alternator Circuit
+
+Alternator circuits, like generator circuits, must control power both to and from the alternator. The alternator is controlled by the pilot through the alternator master switch. The alternator master switch in turn operates a circuit within the alternator control unit (or voltage regulator) and sends current to the alternator field. If the alternator is powered by the aircraft engine, the alternator produces electrical power for the aircraft electrical loads. The alternator control circuit contains the three major components of the alternator circuit: alternator, voltage regulator, and alternator master switch.
+
+The voltage regulator controls the generator field current according to aircraft electrical load (alternator). If the aircraft engine is running and the alternator master switch is on, the voltage regulator adjusts current to the alternator field as needed. If more current flows to the alternator field, the alternator output increases and feeds the aircraft loads through the distribution bus.
+
+All alternators must be monitored for correct output. Most light aircraft employ an ammeter to monitor alternator output. Figure 9-88 shows a typical ammeter circuit used to monitor alternator output. An ammeter placed in the alternator circuit is a single polarity meter that shows current flow in only one direction. This flow is from the alternator to the bus. Since the alternator contains diodes in the armature circuit, current cannot reverse flow from the bus to the alternator.
+
+When troubleshooting an alternator system, be sure to monitor the aircraft ammeter. If the alternator system is inoperative, the ammeter gives a zero indication. In this case, the battery is being discharged. A voltmeter is also a valuable tool when troubleshooting an alternator system. The voltmeter should be installed in the electrical system while the engine is running and the alternator operating. A system operating normally produces a voltage within the specified limits (approximately 14 volts or 28 volts depending on the electrical system). Consult the aircraft manual and verify the system voltage is correct. If the voltage is below specified values, the charging system should be inspected.
+
+#### External Power Circuit
+
+Many aircraft employ an external power circuit that provides a means of connecting electrical power from a ground source to the aircraft. External power is often used for starting the engine or maintenance activities on the aircraft. This type of system allows operation of various electrical systems without discharging the battery. The external power systems typically consists of an electrical plug located in a convenient area of the fuselage, an electrical solenoid used to connect external power to the bus, and the related wiring for the system. A common external power receptacle is shown in Figure 9-89 .
+
+Figure 9-90 shows how the external power receptacle connects to the external power solenoid through a reverse polarity diode. This diode is used to prevent any accidental connection in the event the external power supply has the incorrect polarity (i.e., a reverse of the positive and negative electrical connections). A reverse polarity connection could be catastrophic to the aircraft’s electrical system. If a ground power source with a reverse polarity is connected, the diode blocks current and the external power solenoid does not close. This diagram also shows that external power can be used to charge the aircraft battery or power the aircraft electrical loads. For external power to start the aircraft engine or power electrical loads, the battery master switch must be closed.
+
+#### Starter Circuit
+
+Virtually all modern aircraft employ an electric motor to start the aircraft engine. Since starting the engine requires several horsepower, the starter motor can often draw 100 or more amperes. For this reason, all starter motors are controlled through a solenoid.
+
+The starter circuit must be connected as close as practical to the battery since large wire is needed to power the starter motor and weight savings can be achieved when the battery and the starter are installed close to each other in the aircraft. As shown in the starter circuit diagram, the start switch can be part of a multifunction switch that is also used to control the engine magnetos.
+
+The starter can be powered by either the aircraft battery or the external power supply. Often when the aircraft battery is weak or in need of charging, the external power circuit is used to power the starter. During most typical operations, the starter is powered by the aircraft battery. The battery master must be on and the master solenoid closed in order to start the engine with the battery.
+
+#### Avionics Power Circuit
+
+Many aircraft contain a separate power distribution bus specifically for electronics equipment. This bus is often referred to as an avionics bus. Since modern avionics equipment employs sensitive electronic circuits, it is often advantageous to disconnect all avionics from electrical power to protect their circuits. For example, the avionics bus is often depowered when the starter motor is activated. This helps to prevent any transient voltage spikes produced by the starter from entering the sensitive avionics.
+
+The circuit employs a normally closed (NC) solenoid that connects the avionics bus to the main power bus. The electromagnet of the solenoid is activated whenever the starter is engaged. Current is sent from the starter switch through diode D1, causing the solenoid to open and depower the avionics bus. At that time, all electronics connected to the avionics bus will lose power. The avionics contactor is also activated whenever external power is connected to the aircraft. In this case, current travels through diodes D2 and D3 to the avionics bus contactor.
+
+A separate avionics power switch may also be used to disconnect the entire avionics bus. A typical avionics power switch is shown wired in series with the avionics power bus.
+
+In some cases, this switch is combined with a circuit breaker and performs two functions (called a circuit breaker switch).
+
+It should also be noted that the avionics contactor is often referred to as a split bus relay, since the contactor separates (splits) the avionics bus from the main bus.
+
+#### Landing Gear Circuit
+
+Another common circuit found on light aircraft operates the retractable landing gear systems on high-performance light aircraft. These airplanes typically employ a hydraulic system to move the gear. After takeoff, the pilot moves the gear position switch to the retract position, starting an electric motor. The motor operates a hydraulic pump, and the hydraulic system moves the landing gear. To ensure correct operation of the system, the landing gear electrical system is relatively complex. The electrical system must detect the position of each gear (right, left, nose) and determine when each reaches full up or down; the motor is then controlled accordingly. There are safety systems to help prevent accidental actuation of the gear.
+
+A series of limit switches are needed to monitor the position of each gear during the operation of the system. (A limit switch is simply a spring-loaded, momentary contact switch that is activated when a gear reaches its limit of travel.) Typically, there are six limit switches located in the landing gear wheel wells. The three up-limit switches are used to detect when the gear reaches the full retract (UP) position. Three down-limit switches are used to detect when the gear reaches the full extended (DOWN) position. Each of these switches is mechanically activated by a component of the landing gear assembly when the appropriate gear reaches a given limit.
+
+The landing gear system must also provide an indication to the pilot that the gear is in a safe position for landing. Many aircraft employ a series of three green lights when all three gears are down and locked in the landing position. These three lights are activated by the up-and down-limit switches found in the gear wheel well. A typical instrument panel showing the landing gear position switch and the three gears down indicators is shown in Figure 9-94 .
+
+The hydraulic motor/pump assembly located in the upper left corner of Figure 9-95 is powered through either the UP or DOWN solenoids (top left). The solenoids are controlled by the gear selector switch (bottom left) and the six landing gear limit switches (located in the center of Figure 9-95 ). The three gear DOWN indicators are individual green lights (center of Figure 9-95 ) controlled by the three gear DOWN switches. As each gear reaches its DOWN position, the limit switch moves to the DOWN position, and the light is illuminated.
+
+Figure 9-95 shows the landing gear in the full DOWN position. It is always important to know gear position when reading landing gear electrical diagrams. Knowing gear position helps the technician to analyze the diagram and understand correct operation of the circuits. Another important concept is that more than one circuit is used to operate the landing gear. On this system, there is a low current control circuit fused at 5 amps (CB2, top right of Figure 9-95 ). This circuit is used for indicator lights and protected with rubber boots or nylon insulators. the control of the gear motor contactors. There is a separate circuit to power the gear motor fused at 30 amps (CB3, top The following paragraphs describe current flow through right of Figure 9-95 ). Since this circuit carries a large current the landing gear circuit as the system moves the gear up flow, the wires would be as short as practical and carefully and down. Be sure to refer to Figure 9-96 often during the following discussions. Figure 9-96 shows current flow when the gear is traveling to the extend (DOWN) position. Current flow is highlighted in red for each description.
+
+To run the gear DOWN motor, current must flow in the control circuit leaving CB2 through terminal 1 to the NOT DOWN contacts of the DOWN limit switches, through terminal 3, to the DOWN solenoid positive terminal (upper left). The negative side of the DOWN solenoid coil is connected to ground through the gear selector switch. Remember, the gear DOWN switches are wired in parallel and activated when the gear reach the full-DOWN position. All three gears must reach full-DOWN to shut off the gear DOWN motor. Also note that the gear selector switch controls the negative side of the gear solenoids. The selector switch has independent control of the gear UP and DOWN motors through control of the ground circuit to both the UP and DOWN solenoids.
+
+When the landing gear control circuit is sending a positive voltage to the DOWN solenoid, and the gear selector switch is sending negative voltage, the solenoid magnet is energized. When the gear-DOWN solenoid is energized, the high-current gear motor circuit sends current from CB1 through the down solenoid contact points to the gear DOWN motor. When the motor runs, the hydraulic pump produces pressure and the gear begins to move. When all three gears reach the DOWN position, the gear-DOWN switches move to the DOWN position, the three green lights illuminate, and the gear motor turns off completing the gear-DOWN cycle.
+
+Figure 9-97 shows the landing gear electrical diagram with the current flow path shown in red as the gear moves to the retract (UP) position. Starting in the top right corner of the diagram, current must flow through CB2 in the control circuit through terminal 1 to each of the three gear-UP switches. With the gear-UP switches in the not UP position, current flows to terminal 2 and eventually through the squat switch to the UP solenoid electromagnet coil. The UP solenoid coil receives negative voltage through the gear selector switch. With the UP solenoid coil activated, the UP solenoid closes and power travels through the motor circuit. To power the motor, current leaves the bus through CB1 to the terminal at the DOWN solenoid onward through the UP solenoid to the UP motor. (Remember, current cannot travel through the DOWN solenoid at this time since the DOWN solenoid is not activated.) As the UP motor runs, each gear travels to the retract position. As this occurs, the gear UP switches move from the NOT UP position to the UP position. When the last gear reaches up, the current no longer travels to terminal 2 and the gear motor turns off. It should be noted that similar to DOWN, the gear switches are wired in parallel, which means the gear motor continues to run until all three gear reach the required position.
+
+During both the DOWN and UP cycles of the landing gear operation, current travels from the limit switches to terminal 2. From terminal 2, there is a current path through the gear selector switch to the gear unsafe light. If the gear selector disagrees with the current gear position (e.g., gear is DOWN and pilot has selected UP), the unsafe light is illuminated. The gear unsafe light is shown at the bottom of Figure 9-96 .
+
+The squat switch (shown mid left of Figure 9-96 ) is used to determine if the aircraft is on the GROUND or in FLIGHT. This switch is located on a landing gear strut. When the weight of the aircraft compresses the strut, the switch is activated and moved to the GROUND position. When the switch is in the GROUND position, the gear cannot be retracted and a warning horn sounds if the pilot selects gear UP. The squat switch is sometimes referred to as the weight-on-wheels switch.
+
+A throttle switch is also used in conjunction with landing gear circuits on most aircraft. If the throttle is retarded (closed) beyond a certain point, the aircraft descends and eventually lands. Therefore, many manufacturers activate a throttle switch whenever engine power is reduced. If engine power is reduced too low, a warning horn sounds telling the pilot to lower the landing gear. Of course, this horn need not sound if the gear is already DOWN or the pilot has selected the DOWN position on the gear switch. This same horn also sounds if the aircraft is on the ground, and the gear handle is moved to the UP position. Figure 9-96 shows the gear warning horn in the bottom left corner.
+
+#### AC Supply
+
+Many modern light aircraft employ a low-power AC electrical system. Commonly, the AC system is used to power certain instruments and some lighting that operate only using AC. The electroluminescent panel has become a popular lighting system for aircraft instrument panels and requires AC. Electroluminescent lighting is very efficient and lightweight; therefore, excellent for aircraft installations. The electroluminescent material is a paste-like substance that glows when supplied with a voltage. This material is typically molded into a plastic panel and used for lighting.
+
+A device called an inverter is used to supply AC when needed for light aircraft. Simply put, the inverter changes DC into AC. Two types of inverters may be found on aircraft: rotary inverters and static inverters. Rotary inverters are found only on older aircraft due to its poor reliability, excess weight, and inefficiency. The rotary inverters employee a DC motor that spins an AC generator. The unit is typically one unit and contains a voltage regulator circuit to ensure voltage stability. Most aircraft have a modern static inverter instead of a rotary inverter. Static inverters, as the name implies, contain no moving parts and use electronic circuitry to convert DC to AC. Figure 9-98 shows a static inverter. Whenever AC is used on light aircraft, a distribution circuit separated from the DC system must be employed.
+
+Some aircraft use an inverter power switch to control AC power. Many aircraft simply power the inverter whenever the DC bus is powered and no inverter power switch is needed.
+
+On complex aircraft, more than one inverter may be used to provide a backup AC power source. Many inverters also offer more than one voltage output. Two common voltages found on aircraft inverters are 26V AC and 115V AC.
+
+### Light Multiengine Aircraft
+
+Multiengine aircraft typically fly faster, higher, and farther can drive two alternators (or generators) that supply current than single engine aircraft. Multiengine aircraft are designed to the various loads of the aircraft. The electrical distribution for added safety and redundancy and, therefore, often contain bus system is also divided into two or more systems. These a more complex power distribution system when compared to bus systems are typically connected through a series of circuit light single-engine aircraft. With two engines, these aircraft protectors, diodes, and relays. The bus system is designed to create a power distribution system that is extremely reliable by supplying current to most loads through more than one source.
+
+#### Paralleling Alternators or Generators
+
+Since two alternators (or generators) are used on twin engine aircraft, it becomes vital to ensure both alternators share the electrical load equally. This process of equalizing alternator outputs is often called paralleling. In general, paralleling is a simple process when dealing with DC power systems found on light aircraft. If both alternators are connected to the same load bus and both alternators produce the same output voltage, the alternators share the load equally. Therefore, the paralleling systems must ensure both power producers maintain system voltage within a few tenths of a volt. For most twin-engine aircraft, the voltage would be between 26.5-volt and 28-volt DC with the alternators operating. A simple vibrating point system used for paralleling alternators is found in Figure 9-100 .
+
+As can be seen in Figure 9-100 , both left and right voltage regulators contain a paralleling coil connected to the output of each alternator. This paralleling coil works in conjunction with the voltage coil of the regulator to ensure proper alternator output. The paralleling coils are wired in series between the output terminals of both alternators. Therefore, if the two alternators provide equal voltages, the paralleling coil has no effect. If one alternator has a higher voltage output, the paralleling coils create the appropriate magnetic force to open/close the contact points, controlling field current and control alternator output.
+
+Today’s aircraft employ solid-state control circuits to ensure proper paralleling of the alternators. Older aircraft use vibrating point voltage regulators or carbon-pile regulators to monitor and control alternator output. For the most part, all carbon-pile regulators have been replaced except on historic aircraft. Many aircraft still maintain a vibrating point system, although these systems are no longer being used on contemporary aircraft. The different types of voltage regulators were described earlier in this chapter.
+
+#### Power Distribution on Multiengine Aircraft
+
+The power distribution systems found on modern multiengine aircraft contain several distribution points (buses) and a variety of control and protection components to ensure the reliability of electrical power. As aircraft employ more electronics to perform various tasks, the electrical power systems becomes more complex and more reliable. One means to increase reliability is to ensure more than one power source can be used to power any given load. Another important design concept is to supply critical electrical loads from more than one bus. Twin-engine aircraft, such as a typical corporate jet or commuter aircraft, have two DC generators; they also have multiple distribution buses fed from each generator. Figure 9-101 shows a simplified diagram of the power distribution system for a twin-engine turboprop aircraft.
+
+This aircraft contains two starter generator units used to start the engines and generate DC electrical power. The system is typically defined as a split-bus power distribution system since there is a left and right generator bus that splits (shares) the electrical loads by connecting to each sub-bus through a diode and current limiter. The generators are operated in parallel and equally carry the loads.
+
+The primary power supplied for this aircraft is DC, although small amounts of AC are supplied by two inverters. The aircraft diagram shows the AC power distribution at the top and mid left side of the diagram. One inverter is used for main AC power and the second is operated in standby and ready as a backup. Both inverters produce 26-volt AC and 115-volt AC. There is an inverter select relay operated by a pilot controlled switch used to choose which inverter is active.
+
+The hot battery bus (right side of Figure 9-101) shows a direct connection to the aircraft battery. This bus is always hot if there is a charged battery in the aircraft. Items powered by this bus may include some basics like the entry door lighting and the aircraft clock, which should always have power available. Other items on this bus would be critical to flight safety, such as fire extinguishers, fuel shutoffs, and fuel pumps. During a massive system failure, the hot battery bus is the last bus on the aircraft that should fail.
+
+If the battery switch is closed and the battery relay activated, battery power is connected to the main battery bus and the isolation bus. The main battery bus carries current for engine starts and external power. So the main battery bus must be large enough to carry the heaviest current loads of the aircraft. It is logical to place this bus as close as practical to the battery and starters and to ensure the bus is well protected from shorts to ground.
+
+The isolation bus connects to the left and right buses and receives power whenever the main battery bus is energized. The isolation bus connects output of the left and right generators in parallel. The output of the two generators is then sent to the loads through additional buses. The generator buses are connected to the isolation bus through a fuse known as a current limiter. Current limiters are high amperage fuses that isolate buses if a short circuit occurs. There are several current limiters used in this system for protection between buses. As can be seen in Figure 9-101 , a current that caused the excess current draw is repaired. limiter symbol looks like two triangles pointed toward each other. The current limiter between the isolation bus and the The left and right DC generators are connected to their main generator buses are rated at 325 amps and can only be respective main generator buses. Each generator feeds its replaced on the ground. Most current limiters are designed respective bus, and since the buses are connected under for ground replacement only and only after the malfunction normal circumstances, the generators operate in parallel.
+
+Both generators feed all loads together. If one generator fails or a current limiter opens, the generators can operate independently. This design allows for redundancy in the event of failure and provides battery backup in the event of a dual generator failure.
+
+In the center of Figure 9-101 are four dual-feed electrical buses. These buses are considered dual-feed since they receive power from both the left and right generator buses. If a fault occurs, either generator bus can power any or all loads on a dual-feed bus. During the design phase of the aircraft, the electrical loads must be evenly distributed between each of the dual-feed buses. It is also important to power redundant systems from different buses. For example, the pilot’s windshield heat would be powered by a different bus from the one that powers the copilot’s windshield heat. If one bus fails, at least one windshield heat continues to work properly, and the aircraft can be landed safely in icing conditions.
+
+Notice that the dual-feed buses are connected to the main generator buses through both a current limiter and a diode. Remember, a diode allows current flow in only one direction.
+
+The current can flow from the generator bus to the dual-feed bus, but the current cannot flow from the dual fed bus to the main generator bus. The diode is placed in the circuit so the main bus must be more positive than the sub bus for current flow. This circuit also contains a current limiter and a circuit breaker. The circuit breaker is located on the flight deck and can be reset by the pilot. The current limiter can only be replaced on the ground by a technician. The circuit breaker is rated at a slightly lower current value than the current limiter; therefore, the circuit breaker should open if a current overload exists. If the circuit breaker fails to open, the current limiter provides backup protection and disconnects the circuit.
+
+### Large Multiengine Aircraft
+
+Transport category aircraft typically carry hundreds of passengers and fly thousands of miles each trip. Therefore, large aircraft require extremely reliable power distribution systems that are computer controlled. These aircraft have multiple power sources (AC generators) and a variety of distribution buses. A typical airliner contains two or more main AC generators driven by the aircraft turbine engines, as well as more than one backup AC generator. DC systems are also employed on large aircraft and the ship’s battery is used to supply emergency power in case of a multiple failures.
+
+The AC generator (sometimes called an alternator) produces three-phase 115-volt AC at 400 Hz. AC generators were discussed previously in this chapter. Since most modern transport category aircraft are designed with two engines, there are two main AC generators. The APU also drives an AC generator. This unit is available during flight if one of the main generators fails. The main and auxiliary generators are typically similar in output capacity and supply a maximum of 110 kilovolt amps (KV A). A fourth generator, driven by an emergency ram air turbine, is also available in the event the two main generators and one auxiliary generator fail. The emergency generator is typically smaller and produces less power. With four AC generators available on modern aircraft, it is highly unlikely that a complete power failure occurs. However, if all AC generators are lost, the aircraft battery will continue to supply DC electrical power to operate vital systems.
+
+#### AC Power Systems
+
+Transport category aircraft use large amounts of electrical power for a variety of systems. Passenger comfort requires power for lighting, audio visual systems, and galley power for food warmers and beverage coolers. A variety of electrical systems are required to fly the aircraft, such as flight control systems, electronic engine controls, communication, and navigation systems. The output capacity of one engine-driven AC generator can typically power all necessary electrical systems. A second engine-driven generator is operated during flight to share the electrical loads and provide redundancy.
+
+The complexity of multiple generators and a variety of distribution buses requires several control units to maintain a constant supply of safe electrical power. The AC electrical system must maintain a constant output of 115 to 120 volts at a frequency of 400 Hz (±10 percent). The system must ensure power limits are not exceeded. AC generators are connected to the appropriate distribution buses at the appropriate time, and generators are in phase when needed. There is also the need to monitor and control any external power supplied to the aircraft, as well as control of all DC electrical power.
+
+Two electronic line replaceable units are used to control the electrical power on a typical large aircraft. The generator control unit (GCU) is used for control of AC generator functions, such as voltage regulation and frequency control. The bus power control unit (BPCU) is used to control the distribution of electrical power between the various distribution buses on the aircraft. The GCU and BPCU work together to control electrical power, detect faults, take corrective actions when needed, and report any defect to the pilots and the aircraft’s central maintenance system. There is typically one GCU for each AC generator and at least one BPCU to control bus connections. These LRUs are located in the aircraft’s electronics equipment bay and are designed for easy replacement.
+
+When the pilot calls for generator power by activating the generator control switch on the flight deck, the GCU monitors the system to ensure correct operation. If all systems are operating within limits, the GCU energizes the appropriate generator circuits and provides voltage regulation for the system. The GCU also monitors AC output to ensure a constant 400-Hz frequency. If the generator output is within limits, the GCU then connects the electrical power to the main generator bus through an electrical contactor (solenoid). These contactors are often called generator breakers (GB) since they break (open) or make (close) the main generator circuit.
+
+After generator power is available, the BPCU activates various contactors to distribute the electrical power. The BPCU monitors the complete electrical system and communicates with the GCU to ensure proper operation. The BPCU employs remote current sensors known as a current transformers (CT) to monitor the system.
+
+A CT is an inductive unit that surrounds the main power cables of the electrical distribution system. As AC power flows through the main cables, the CT receives an induced voltage. The amount of CT voltage is directly related to the current flowing through the cable. The CT connects to the BPCU, which allows accurate current monitoring of the system. A typical aircraft employs several CTs throughout the electrical system.
+
+The BPCU is a dedicated computer that controls the electrical connections between the various distribution buses found on the aircraft. The BPCU uses contactors (solenoids) called bus tie breakers (BTB) for connection of various circuits. These BTBs open/close the connections between the buses as needed for system operation as called for by the pilots and the BPCU. This sounds like a simple task, yet to ensure proper operation under a variety of conditions, the bus system becomes very complex. There are three common types of distribution bus systems found on transport category aircraft: split bus, parallel bus, and split parallel.
+
+Split-Bus Power Distribution Systems Modern twin-engine aircraft, such as the Boeing 737, 757, 777, Airbus A-300, A-320, and A-310, employ a split-bus power distribution system. During normal conditions, each engine-driven AC generator powers only one main AC bus. The buses are kept split from each other, and two generators can never power the same bus simultaneously. This is very important since the generator output current is not phase regulated. (If two out-of-phase generators were connected to the same bus, damage to the system would occur.) The split-bus system does allow both engine-driven generators to power any given bus, but not at the same time. Generators must remain isolated from each other to avoid damage. The GCUs and BPCU ensures proper generator operation and power distribution.
+
+On all modern split bus systems, the APU can be started and operated during flight. This allows the APU generator to provide back-up power in the event of a main generator failure. A fourth emergency generator powered by the ram air turbine is also available if the other generators fail.
+
+The four AC generators are shown at the bottom of Figure 9-104 . These generators are connected to their respective buses through the generator breakers. For example, generator 1 sends current through GB1 to AC bus 1. AC bus 1 feeds a variety of primary electrical loads, and also feeds sub-buses that in turn power additional loads.
+
+With both generators operating and all systems normal, AC bus 1 and AC bus 2 are kept isolated. Typically during flight, the APB (bottom center of Figure 9-104 ) would be open and the APU generator off; the emergency generator (bottom right) would also be off and disconnected. If generator one should fail, the following happens:
+
+1. The GB 1 is opened by the GCU to disconnect the failed generator.
+
+2. The BPCU closes BTB 1 and BTB 2. This supplies AC power to AC bus 1 from generator 2.
+
+3. The pilots start the APU and connect the APU generator. At that time, the BPCU and GCUs move the appropriate BTBs to correctly configure the system so the APU powers bus 1 and generator 2 powers bus 2. Once again, two AC generators operate independently to power AC bus 1 and 2.
+
+If all generators fail, AC is also available through the static inverter (center of Figure 9-104 ). The inverter is powered from the hot battery bus and used for essential AC loads if all AC generators fail. Of course, the GCUs and BPCU take the appropriate actions to disconnect defective units and continue to feed essential AC loads using inverter power.
+
+To produce DC power, AC bus 1 sends current to its transformer rectifier (TR), TR 1 (center left of Figure 9-104 ). The TR unit is used to change AC to DC. The TR contains a transformer to step down the voltage from 115-volt AC to 26-volt AC and a rectifier to change the 26-volt AC to 26-volt DC. The output of the TR is therefore compatible with the aircraft battery at 26-volt DC. Since DC power is not phase sensitive, the DC buses are connected during normal operation. In the event of a bus problem, the BPCU may isolate one or more DC buses to ensure correct distribution of DC power. This aircraft contains two batteries that are used to supply emergency DC power.
+
+Parallel Systems Multiengine aircraft, such as the Boeing 727, MD-11, and the early Boeing 747, employ a parallel power distribution system. During normal flight conditions, all engine-driven generators connect together and power the AC loads. In this configuration, the generators are operated in parallel; hence the name parallel power distribution system. In a parallel system, all generator output current must be phase regulated.
+
+Before generators are connected to the same bus, their output frequency must be adjusted to ensure the AC output reaches the positive and negative peaks simultaneously. During the flight, generators must maintain this in-phase condition for proper operation.
+
+One advantage of parallel systems is that in the event of a generator failure, the buses are already connected and the defective generator need only be isolated from the system. A paralleling bus, or synchronizing bus, is used to connect the generators during flight. The synchronizing bus is often referred to as the sync bus. Most of these systems are less automated and require that flight crew monitor systems and manually control bus contactors. BTBs are operated by the flight crew through the electrical control panel and used to connect all necessary buses. GBs are used to connect and disconnect the generators.
+
+Figure 9-105 shows a simplified parallel power distribution system. This aircraft employs three main-engine driven generators and one APU generator. The APU (bottom right) is not operational in flight and cannot provide backup power. The APU generator is for ground operations only. The three main generators (bottom of Figure 9-105 ) are connected to their respective AC bus through GBs one, two, and three. The AC buses are connected to the sync bus through three BTBs. In this manner, all three generators share the entire AC electrical loads. Keep in mind, all generators connected to the sync bus must be in phase. If a generator fails, the flight crew would simply isolate the defective generator and the flight would continue without interruption.
+
+The number one and two DC buses ( Figure 9-105 top left) are used to feed the DC electrical loads of the aircraft. DC bus 1 receives power form AC bus 1 though TR1. DC bus 2 is fed in a similar manner from AC bus 2. The DC buses also connect to the battery bus and eventually to the battery. The essential DC bus (top left) can be fed from DC bus 1 or the essential TR. A diode prevents the essential DC bus from powering DC bus 1. The essential DC bus receives power from the essential TR, which receives power from the essential AC bus. This provides an extra layer of redundancy since the essential AC bus can be isolated and fed from any main generator. Figure 9-105 shows generator 3 powering the essential AC bus.
+
+Split-Parallel Systems A split-parallel bus basically employs the best of both split-bus and the parallel-bus systems. The split-parallel system is found on the Boeing 747-400 and contains four generators driven by the main engines and two APU-driven generators. The system can operate with all generators in parallel, or the generators can be operated independently as in a split-bus system. During a normal flight, all four engine-driven generators are operated in parallel. The system is operated in split-bus mode only under certain failure conditions or when using external power. The Boeing 747-400 split-parallel system is computer controlled using four GCUs and two BPCUs. There is one GCU controlling each generator; BPCU 1 controls the left side bus power distribution, and BPCU 2 controls the right side bus power. The GCUs and BPCUs operate similarly to those previously discussed under the split-bus system.
+
+Figure 9-106 shows a simplified split-parallel power distribution system. The main generators (top of Figure 9-106 ) are driven by the main turbine engines. Each generator is connected to its load bus through a generator control breaker (GCB). The generator control unit closes the GCB when the pilot calls for generator power and all systems are operating normally. Each load bus is connected to various electrical systems and additional sub-buses. The BTBs are controlled by the BPCU and connect each load bus to the left and right sync bus. A split systems breaker (SSB) is used to connect the left and right sync buses and is closed during a normal flight. With the SSB, GCBs, and BTBs, in the closed position the generators operate in parallel. When operating in parallel, all generators must be in phase.
+
+If the aircraft electrical system experiences a malfunction, the control units make the appropriate adjustments to ensure all necessary loads receive electrical power. For example, if generator 1 fails, GCU 1 detects the fault and commands GCB 1 to open. With GCB 1 open, load bus 1 now feeds from the sync bus and the three operating generators. In another example, if load bus 4 should short to ground, BPCU 4 opens the GCB 4 and BTB 4. This isolates the shorted bus (load bus 4). All loads on the shorted bus are no longer powered, and generator 4 is no longer available. However, with three remaining generators operational, the flight continues safely.
+
+As do all large aircraft, the Boeing 747-400 contains a DC power distribution system. The DC system is used for battery and emergency operations. The DC system is similar to those previously discussed, powered by TR units. The TRs are connected to the AC buses and convert AC into 26-volt DC. The DC power systems are the final backups in the event of a catastrophic electrical failure. The systems most critical to fly the aircraft can typically receive power from the battery. This aircraft also contains two static inverters to provide emergency AC power when needed.
+
+## 2. 中文翻译
+
+几乎所有飞机都装有某种形式的电气系统。最基本的飞机也必须产生电力，以驱动发动机点火系统工作。现代飞机拥有复杂的电气系统，几乎控制飞行的方方面面。一般而言，电气系统可按其功能划分为不同类别。常见的系统包括照明、发动机起动和发电。
+
+### 小型单发飞机
+
+轻型飞机通常只有相对简单的电气系统，因为简单飞机一般比大型运输类飞机所需的冗余度和复杂度都低。大多数轻型飞机上只有一套电气系统，由发动机驱动的交流发电机（alternator）或直流发电机（generator）供电。飞机电瓶用于应急供电和发动机起动。电力通常通过一个或多个公共节点分配，这些节点称为汇流条（electrical bus，或称汇流排 bus bar）。
+
+几乎所有电路都必须受到保护，以防系统中出现故障。故障通常分为断路（open）和短路（short）两类。断路是指电路断开时发生的电气故障。短路是指一条或多条电路形成非预期连接时发生的电气故障。最危险的短路，是正极导线与负极连接或接地之间形成非预期连接，这种情况通常称为对地短路（short to ground）。
+
+保护电气系统免受故障影响有机械和电气两种方式。在机械方面，通过正确的安装以及加装防护罩和屏蔽层，使导线和部件免受磨伤和过度磨耗。在电气方面，可用断路器（circuit breaker）和保险丝（fuse）保护导线。断路器在发生短路时保护各个系统。应当指出，保险丝可以替代断路器使用；保险丝通常见于较老的飞机。图 9-83 所示为轻型飞机的断路器板。
+
+#### 电瓶电路
+
+飞机电瓶和电瓶电路用于在发动机起动时供电，并在交流发电机（或直流发电机）失效时提供辅助电源。典型电瓶电路的原理图如图 9-84 所示。该图还表示出本章后面将要讨论的起动机电路与外接电源电路之间的关系。图中的粗线代表大截面导线（见电瓶正极引出的导线），由于电瓶电路中通过的电流很大，故采用这种导线。因为电瓶能提供很大的电流，电瓶通常通过一个电磁线圈（solenoid）接入系统。每次飞行开始/结束时，通过电磁线圈的触点将电瓶接入配电汇流条/从配电汇流条断开。驾驶舱内的电瓶主开关用来控制该电磁线圈。
+
+尽管二者非常相似，“电磁线圈（solenoid）”和“继电器（relay）”这两个术语却常被混淆。电磁线圈通常用于切换大电流电路，继电器则用于控制较小电流的电路。为帮助澄清这种混淆，在描述磁力操作的开关时常用“接触器（contactor）”一词。就一般用途而言，飞机维修技师可以将 relay、solenoid 和 contactor 视为同义词。这三个术语都可能出现在图纸和原理图上，用来描述由电磁铁控制的电气开关。
+
+由此可以看出，当电瓶主开关接通时，电瓶正极导线便与汇流条相连。图 9-85 所示为一个电瓶电磁线圈。电瓶开关常被称为主开关，因为它通过控制电瓶的接入，几乎接通或切断全部电力。注意电瓶电磁线圈的电气接头在每个导线端部都有橡胶护套，以防电气短路。
+
+电瓶电路中所示的电流表用于监测从电瓶流向配电汇流条的电流。当所有系统工作正常时，电瓶电流应从主汇流条流向电瓶，使电流表显示正值。此时电瓶正在充电。如果飞机的交流发电机（或直流发电机）出现故障，电流表显示负值。负值表示电流正从电瓶流出，为接在汇流条上的任何用电负载供电。此时电瓶正在放电，飞机有失去全部电力的危险。
+
+#### 直流发电机电路
+
+直流发电机电路用于控制飞机发电机与配电汇流条之间的电力。这类电路通常见于尚未改装交流发电机的较老飞机。发电机电路既控制励磁绕组（field winding）的供电，也控制从发电机送往汇流条的电力。发电机主开关通常通过控制励磁电流来接通发电机。如果发电机正在转动且有电流送入励磁电路，发电机便发电。发电机的输出功率由发电机控制组件（generator control unit，即电压调节器 voltage regulator）控制。简化的发电机控制电路如图 9-86 所示。
+
+如图 9-86 所示，发电机开关控制送往发电机励磁端（F 端子）的电源。发电机的输出电流经发电机的电枢电路（A 端子）送至飞机汇流条。
+
+#### 交流发电机电路
+
+交流发电机电路与直流发电机电路一样，必须同时控制送往交流发电机和来自交流发电机的电力。交流发电机由飞行员通过交流发电机主开关控制。交流发电机主开关进而操作交流发电机控制组件（或电压调节器）内的一个电路，把电流送往交流发电机励磁绕组。如果交流发电机由飞机发动机驱动，它便为飞机用电负载发电。交流发电机控制电路包含该电路的三大部件：交流发电机、电压调节器和交流发电机主开关。
+
+电压调节器根据飞机用电负载（交流发电机）控制发电机励磁电流。如果飞机发动机在运转且交流发电机主开关接通，电压调节器便按需调节送往交流发电机励磁绕组的电流。送往交流发电机励磁绕组的电流越大，交流发电机的输出越大，并通过配电汇流条为飞机负载供电。
+
+所有交流发电机都必须监测其输出是否正常。大多数轻型飞机采用电流表监测交流发电机输出。图 9-88 所示为用于监测交流发电机输出的典型电流表电路。接在交流发电机电路中的电流表是单极性表，只显示一个方向的电流，即从交流发电机流向汇流条。由于交流发电机的电枢电路中装有二极管，电流不能从汇流条反向流回交流发电机。
+
+排故交流发电机系统时，务必监视飞机电流表。如果交流发电机系统不工作，电流表指示为零。此时电瓶正在放电。电压表也是排故交流发电机系统时的有用工具。应当在发动机运转、交流发电机工作时把电压表接入电气系统。工作正常的系统产生的电压应在规定范围内（视电气系统不同，约为 14 伏或 28 伏）。查阅飞机手册，确认系统电压正确。如果电压低于规定值，应检查充电系统。
+
+#### 外接电源电路
+
+许多飞机装有外接电源电路，用以把地面电源的电力接到飞机上。外接电源常用于起动发动机或对飞机进行维护。这种系统可以在不消耗电瓶的情况下使各电气系统工作。外接电源系统通常由位于机身便于操作处的外接电源插座、用于把外接电源接到汇流条的电磁线圈以及该系统的相关线路组成。常见的外接电源插座如图 9-89 所示。
+
+图 9-90 表示外接电源插座如何通过一个反极性二极管（reverse polarity diode）接到外接电源电磁线圈。该二极管用于在外接电源极性错误（即正、负极接反）时阻止任何误接通。反极性连接可能对飞机电气系统造成灾难性后果。如果接上极性相反的地面电源，二极管会阻断电流，外接电源电磁线圈不会闭合。该图还表明，外接电源可用于给飞机电瓶充电，或为飞机用电负载供电。要用外接电源起动飞机发动机或为用电负载供电，电瓶主开关必须闭合。
+
+#### 起动机电路
+
+几乎所有现代飞机都采用一台电动机来起动发动机。由于起动发动机需要数马力，起动电机常常要消耗 100 安培甚至更大的电流。因此，所有起动电机都通过电磁线圈控制。
+
+起动机电路必须尽可能靠近电瓶连接，因为带动起动电机需要大截面导线，而当电瓶与起动机在飞机上安装得较近时，可以减轻重量。如起动机电路图所示，起动开关可以是多功能开关的一部分，该开关同时用于控制发动机磁电机。
+
+起动机既可由飞机电瓶供电，也可由外接电源供电。当飞机电瓶电量不足或需要充电时，常用外接电源电路为起动机供电。在大多数常规操作中，起动机由飞机电瓶供电。用电瓶起动发动机时，电瓶主开关必须接通，主电磁线圈必须闭合。
+
+#### 电子设备电源电路
+
+许多飞机设有专供电子设备使用的独立配电汇流条，常称为电子设备汇流条（avionics bus）。由于现代电子设备采用敏感的电子电路，通常最好把所有电子设备与电源断开，以保护其电路。例如，起动电机接通时，电子设备汇流条常常被断电。这有助于防止起动机产生的瞬态电压尖峰进入敏感的电子设备。
+
+该电路采用一个常闭（normally closed，NC）电磁线圈，把电子设备汇流条与主电源汇流条相连。每当起动机接通时，电磁线圈的电磁铁即被激励。电流从起动开关经二极管 D1 送出，使电磁线圈断开，从而使电子设备汇流条断电。此时接在电子设备汇流条上的所有电子设备都将失电。每当外接电源接到飞机上时，电子设备接触器也会被激励；在这种情况下，电流经二极管 D2 和 D3 流向电子设备汇流条接触器。
+
+也可用一个独立的电子设备电源开关来断开整个电子设备汇流条。典型的电子设备电源开关与电子设备电源汇流条串联。
+
+在某些情况下，该开关与断路器组合在一起，兼有两种功能（称为断路器开关 circuit breaker switch）。
+
+还应注意，电子设备接触器常被称为分裂汇流条继电器（split bus relay），因为该接触器把电子设备汇流条与主汇流条分开（split）。
+
+#### 起落架电路
+
+轻型飞机上另一种常见电路用于操作高性能轻型飞机的可收起落架系统。这类飞机通常用液压系统收放起落架。起飞后，飞行员把起落架位置开关扳到收起（retract）位，起动一台电动机；电动机驱动液压泵，液压系统便收起起落架。为确保系统正确工作，起落架电气系统相对复杂。电气系统必须检测每个起落架（右、左、前）的位置，判定每个起落架何时到达完全收起或完全放下位，并据此控制电动机。系统中还设有安全装置，以防起落架被误操作。
+
+需要一系列限位开关（limit switch）在系统工作过程中监测每个起落架的位置。（限位开关就是一种弹簧加载的瞬时接触开关，当起落架到达行程极限时被触动。）通常，起落架轮舱内装有六个限位开关。三个上位限位开关用于检测起落架何时到达完全收起（UP）位；三个下位限位开关用于检测起落架何时到达完全放下（DOWN）位。当相应的起落架到达给定极限位置时，每个开关都由起落架组件的某个部件机械触动。
+
+起落架系统还必须向飞行员指示起落架处于可安全着陆的位置。许多飞机在三个起落架均放下并锁定在着陆位时，亮起三个绿灯。这三个灯由轮舱内的上位和下位限位开关控制。图 9-94 所示为典型仪表板，其上可见起落架位置开关和三个起落架放下指示灯。
+
+位于图 9-95 左上角的液压马达/泵组件，通过 UP（收起）或 DOWN（放下）电磁线圈（左上）供电。这些电磁线圈由起落架选择开关（左下）和六个起落架限位开关（位于图 9-95 中部）控制。三个起落架 DOWN 指示灯是独立的绿灯（图 9-95 中部），由三个起落架 DOWN 开关控制。当每个起落架到达 DOWN 位时，限位开关移到 DOWN 位，灯即点亮。
+
+图 9-95 表示起落架处于完全放下（DOWN）位。阅读起落架电气图时，弄起落架所处的位置始终很重要。了解起落架位置有助于技师分析图纸、理解电路的正确工作过程。另一个重要概念是，操作起落架要用到一个以上的电路。在该系统中，有一个 5 安培保险的小电流控制电路（CB2，图 9-95 右上），用于指示灯以及对起落架电动机接触器的控制。另有一个 30 安培保险的独立电路为起落架电动机供电（CB3，图 9-95 右上）。由于该电路通过的电流很大，其导线应尽可能短，并用橡胶护套或尼龙绝缘件保护。下面几段描述系统收放起落架时起落架电路中的电流流动，阅读以下讨论时请随时参阅图 9-96。图 9-96 表示起落架移向放下（DOWN）位时的电流流动，每一段描述中的电流通路均以红色标出。
+
+要使起落架 DOWN 电动机运转，电流必须在控制电路中从 CB2 流出，经端子 1 到 DOWN 限位开关的 NOT DOWN（未放下）触点，再经端子 3 到 DOWN 电磁线圈正极（左上）。DOWN 电磁线圈的负极侧通过起落架选择开关接地。记住，起落架 DOWN 开关是并联的，当起落架到达完全放下位时被触动。三个起落架都必须到达完全放下位，才能关断起落架 DOWN 电动机。还应注意，起落架选择开关控制的是起落架电磁线圈的负极侧。该选择开关通过控制 UP 和 DOWN 两个电磁线圈的接地电路，分别独立控制起落架收起和放下电动机。
+
+当起落架控制电路向 DOWN 电磁线圈送入正电压、而起落架选择开关送入负电压时，电磁线圈的磁铁被激励。DOWN 电磁线圈被激励时，大电流的起落架电动机电路把电流从 CB1 经放下电磁线圈触点送往起落架 DOWN 电动机。电动机运转时，液压泵产生压力，起落架开始移动。当三个起落架都到达 DOWN 位时，起落架 DOWN 开关移到 DOWN 位，三个绿灯点亮，起落架电动机停转，完成放下循环。
+
+图 9-97 所示为起落架电气图，其中以红色表示起落架移向收起（UP）位时的电流通路。从图的右上角开始，电流必须在控制电路中经 CB2、端子 1 流向三个起落架 UP 开关。由于起落架 UP 开关处于未收起（not UP）位，电流流向端子 2，并最终经地面/空中开关流向 UP 电磁线圈。UP 电磁线圈经起落架选择开关获得负电压。UP 电磁线圈被激励后，UP 电磁接触器闭合，电力送入电动机电路。为给电动机供电，电流从汇流条经 CB1 到 DOWN 电磁线圈处的端子，再经 UP 电磁线圈流向 UP 电动机。（记住，此时电流不能通过 DOWN 电磁线圈，因为 DOWN 电磁线圈未被激励。）UP 电动机运转时，每个起落架移向收起位。与此同时，起落架 UP 开关从 NOT UP 位移到 UP 位。当最后一个起落架收起到位时，电流不再流向端子 2，起落架电动机停转。应当指出，与放下时类似，起落架开关是并联的，也就是说，起落架电动机要一直运转到三个起落架都到达所需位置。
+
+在起落架放下和收起的两个循环中，电流都从限位开关流向端子 2。从端子 2 有一条经起落架选择开关通往起落架不安全灯（gear unsafe light）的通路。如果起落架选择开关的位置与实际起落架位置不一致（例如起落架已放下而飞行员选择了 UP），不安全灯便点亮。起落架不安全灯见图 9-96 底部。
+
+地面/空中开关（squat switch，图 9-96 中左）用于判定飞机处于地面还是飞行中。该开关装在起落架支柱上。当飞机重量压缩支柱时，开关被触动并移到 GROUND（地面）位。开关处于 GROUND 位时，起落架不能收起；若飞行员选择 UP，警告喇叭会响起。地面/空中开关有时也称为机轮承载开关（weight-on-wheels switch）。
+
+大多数飞机的起落架电路还配合使用油门开关（throttle switch）。如果油门收回到某一位置之后（关闭），飞机将下降并最终着陆。因此，许多制造商在发动机功率减小时触动油门开关。如果发动机功率降得过低，警告喇叭响起，提醒飞行员放下起落架。当然，如果起落架已经放下，或飞行员已把起落架开关选到 DOWN 位，该喇叭就不必响。如果飞机在地面而起落架手柄被移到 UP 位，同一个喇叭也会响。图 9-96 左下角所示为起落架警告喇叭。
+
+__MORE__
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+TODO
+
+## 4. 语法解析
+
+TODO

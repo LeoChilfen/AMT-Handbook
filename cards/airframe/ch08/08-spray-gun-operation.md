@@ -1,0 +1,137 @@
+# Spray Gun Operation
+
+> 机体 Ch 08 · Spray Gun Operation · 原文 PDF 第 405 页
+
+## 1. 原文
+
+### Adjusting the Spray Pattern
+
+To obtain the correct spray pattern, set the recommended air pressure on the gun, usually 40 to 50 psi for a conventional gun. Test the pattern of the gun by spraying a piece of masking paper taped to the wall. Hold the gun square to the wall approximately 8 to 10 inches from the surface. (With hand spread, it is the distance from the tip of the thumb to the tip of the little finger.)
+
+All spray guns (regardless of brand name) have the same type of adjustments. The upper control knob proportions the air flow, adjusting the spray pattern of the gun. The lower knob adjusts the fluid passing the needle, which in turn controls the amount or volume of paint being delivered through the gun.
+
+Pull the trigger lever fully back. Move the gun across the paper, and alternately adjust between the two knobs to obtain a spray fan of paint that is wet from top to bottom (somewhat like the pattern at dial 10.) Turning in (to the right) on the lower, or fluid knob, reduces the amount of paint going through the gun. Turning out increases the volume of paint. Turning out (to the left) on the upper, or pattern control knob, widens the spray pattern. Turning in reduces it to a cone shape (as shown with dial set at 0).
+
+Once the pattern is set on the gun, the next step is to follow the correct spraying technique for applying the coating to the surface.
+
+### Applying the Finish
+
+If the painter has never used a spray gun to apply a finish coat of paint, and the aircraft has been completely prepared, cleaned, primed, and ready for the topcoat, they may need to pause for some practice. Reading a book or an instruction manual is a good start as it provides the basic knowledge about the movement of the spray gun across the surface. Also, if available, the opportunity to observe an aircraft being painted is well worth the time.
+
+At this point in the project, the aircraft has already received its primer coats. The difference between the primer and the finish topcoat is that the primer is flat (no gloss) and the finish coat has a glossy surface (some more than others, depending on the paint). The flat finish of the primer is obtained by paying attention to the basics of trigger control distance from the surface and consistent speed of movement of the spray gun across the surface.
+
+Primer is typically applied using a crosscoat spray pattern. A crosscoat is one pass of the gun from left to right, followed by another pass moving up and down. The starting direction does not matter as long as the spraying is accomplished in two perpendicular passes. The primer should be applied in light coats as cross-coating is the application of two coats of primer.
+
+Primer does not tend to run because it is applied in light coats. The gloss finish requires a little more experience with the gun. A wetter application produces the gloss, but the movement of the gun, overlap of the spray pattern, and the distance from the surface all affect the final product. It is very easy to vary one or another, yielding runs or dry spots and a less than desirable finish. Practice not only provides some experience, but also provides the confidence needed to produce the desired finish.
+
+Start the practice by spraying the finish coat material on a flat, horizontal panel. The spray pattern has been already adjusted by testing it on the masking paper taped to the wall. Hold the gun 8–10 inches away from and perpendicular to the surface. Pull the trigger enough for air to pass through the cap and start a pass with the gun moving across the panel. As it reaches the point to start painting, squeeze the trigger fully back and continue moving the gun about one foot per second across the panel until the end is reached. Then, release the trigger enough to stop the paint flow but not the air flow.
+
+The constant air flow through the gun maintains a constant pressure, rather than a buildup of pressure each time that the trigger is released. This would cause a buildup of paint at the end of each pass, causing runs and sags in the finish. Repeat the sequence of the application, moving back in the opposite direction and overlapping the first pass by 50 percent. This is accomplished by aiming the center of the spray pattern at the outer edge of the first pass and continuing the overlap with each successive pass of the gun.
+
+Once the painter has mastered spraying a flat horizontal panel, practice next on a panel that is positioned vertically against a wall. This is the panel that shows the value of applying a light tack coat before spraying on the second coat. The tack coat holds the second coat from sagging and runs. Practice spraying this test panel both horizontally with overlapping passes and then rotate the air cap 90° on the gun and practice spraying vertically with the same 50 percent overlapping passes.
+
+Practice cross-coating the paint for an even application. Apply two light spray passes horizontally, overlapping each by 50 percent, and allowing it to tack. Then, spray vertically with overlapping passes, covering the horizontal sprayed area. When practice results in a smooth, glossy, no-run application on the vertical test panel, you are ready to try your skill on the actual project.
+
+### Common Spray Gun Problems
+
+A quick check of the spray pattern can be verified before using the gun by spraying some thinner or reducer, compatible with the finish used, through the gun. It is not of the same viscosity as the coating, but it indicates if the gun is working properly before the project is started.
+
+If the gun is not working properly, use the following information to troubleshoot the problem:
+
+• A pulsating, or spitting, fan pattern may be caused by a loose nozzle, clogged vent hole on the supply cup, or the packing may be leaking around the needle.
+
+• If the spray pattern is offset to one side or the other, the air ports in the air cap or the ports in the horns may be plugged.
+
+• If the spray pattern is heavy on the top or the bottom, rotate the air cap 180°. If the pattern reverses, the air cap is the problem. If it stays the same, the fluid tip or needle may be damaged.
+
+• Other spray pattern problems may be a result of improper air pressure, improper reducing of the material, or wrong size spray nozzle.
+
+## 2. 中文翻译
+
+### 调节喷雾形状
+
+要获得正确的喷雾形状，先把喷枪调到推荐气压，常规喷枪通常为 40~50 psi。把一张遮蔽纸贴在墙上，对着它喷涂以测试喷枪的雾形。握枪与墙面垂直，距表面约 8~10 英寸。（张开手掌量一下，就是从拇指指尖到小指指尖的距离。）
+
+所有喷枪（不论品牌）的调节方式都相同。上方调节旋钮按比例分配气流，用来调节喷枪的喷雾形状。下方旋钮调节通过针阀的涂料量，进而控制喷枪输出的油漆量（体积）。
+
+把扳机杆完全拉到底。让喷枪横扫过纸面，在这两个旋钮之间反复微调，直到喷出的漆雾扇形从上到下都是湿的（有点像刻度盘在 10 时的雾形）。下方（涂料）旋钮向里（顺时针）拧，会减少通过喷枪的漆量；向外拧则增大漆量。上方（雾形控制）旋钮向外（逆时针）拧，喷雾形状变宽；向里拧则收窄成锥形（如刻度盘置于 0 时所示）。
+
+喷枪雾形调好之后，下一步就是按正确的喷涂手法把涂层施加到表面上。
+
+### 喷涂面漆
+
+如果喷漆者从未用喷枪喷过面漆，而飞机又已完全做好表面处理、清洁、上底漆并准备喷面漆，那可能得先停下来练一练。读一本书或一本操作手册是个不错的开始，它能提供喷枪在表面上移动的基本知识。另外，如果有机会，实地观摩一次飞机喷漆也很值得花这个时间。
+
+到项目的这个阶段，飞机已经上过底漆。底漆与面漆的区别在于：底漆是平光的（无光泽），面漆则有光泽表面（光泽高低不等，取决于油漆种类）。底漆的平光效果，靠的是把握几个基本功——扳机控制、与表面的距离，以及喷枪横扫表面的匀速移动。
+
+底漆通常采用十字交叉喷涂（crosscoat）。所谓十字交叉，就是喷枪从左到右走一遍，再上下走一遍。先从哪个方向开始无所谓，只要喷涂分两遍互相垂直地完成即可。底漆应薄薄地喷，因为十字交叉喷涂本身就是两道底漆。
+
+底漆不容易流挂，因为它是薄薄喷上去的。光泽面漆则要多一点用枪经验。喷得湿一些才有光泽，但喷枪的移动、雾形的搭接以及与表面的距离都会影响最终效果。很容易顾此失彼，造成流挂或干斑，面漆效果不理想。练习不仅能积累经验，还能带来喷出理想面漆所需的信心。
+
+先在平放的横向板上练习喷面漆材料。喷雾形状已在贴墙的遮蔽纸上测试调好。握枪距板面 8~10 英寸并与之垂直。扣扳机到空气能从风帽通过的程度，让喷枪横扫板面开始走枪。到达开始喷漆的位置时，把扳机完全扣到底，以约每秒一英尺的速度继续移动喷枪直到板子末端。然后松扳机到刚好停止出漆、但不停止出气的程度。
+
+持续通过喷枪的气流能维持恒定气压，而不是每次松开扳机就积压一次压力。积压压力会在每一遍走枪的末端堆积油漆，造成面漆流挂和坠流。按同样的顺序反向再走一遍，与第一遍搭接 50%。做法是把雾形中心对准第一遍的外边缘，之后每一遍都这样依次搭接。
+
+喷漆者掌握了在平放横板上喷涂之后，接着在一张竖靠墙面的板上练习。正是这块板能体现先喷一道薄粘接层（tack coat）再喷第二道漆的价值：粘接层能防止第二道漆下坠和流挂。先在这块试验板上练习横向搭接走枪，然后把喷枪风帽旋转 90°，用同样的 50% 搭接练习竖向喷涂。
+
+练习十字交叉喷涂，以求涂层均匀。横向薄喷两遍，每遍搭接 50%，让它指触发粘。然后竖向搭接喷涂，覆盖已横喷的区域。当练习能在竖直试验板上喷出光滑、有光泽、无流挂的涂层时，就可以在实际项目上一试身手了。
+
+### 喷枪常见问题
+
+用枪之前，可以先喷一些与所用面漆相容的稀释剂或减薄剂通过喷枪，快速检查雾形是否正常。它的粘度与涂料不同，但能在开工前说明喷枪工作是否正常。
+
+如果喷枪工作不正常，可按下列信息排查：
+
+• 雾形脉动或“吐唾沫”，可能是喷嘴松动、供漆杯通气孔堵塞，或针阀周围的填料渗漏。
+
+• 如果雾形偏向一侧，可能是风帽上的气孔或风帽翼角上的孔被堵住。
+
+• 如果雾形上边或下边偏厚，把风帽旋转 180°。若雾形随之反转，问题在风帽；若依旧不变，则可能是涂料嘴或针阀损坏。
+
+• 其他雾形问题可能源于气压不当、材料稀释不当，或喷嘴规格不对。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| spray pattern | n. | 喷雾形状（雾形） | 喷枪喷出的漆雾扇形轮廓，靠上下两个旋钮调成均匀的扇形 |
+| air pressure | n. | 气压 | 常规喷枪通常设定的 40~50 psi 供气压力 |
+| fluid knob | n. | 涂料旋钮（下旋钮） | 控制通过针阀的漆量，向里拧减少出漆量 |
+| needle | n. | 针阀（顶针） | 与喷嘴配合控制出漆量的细长阀杆，填料渗漏会造成脉动 |
+| crosscoat | n. | 十字交叉喷涂 | 先左右走一遍再上下走一遍的两道垂直喷涂，用于底漆 |
+| topcoat | n. | 面漆 | 覆盖在底漆之上、带光泽的最后一道涂层 |
+| primer | n. | 底漆 | 平光（无光泽）的第一道涂层，为面漆提供附着基础 |
+| tack coat | n. | 粘接层 | 喷第二道漆前先喷的薄层，可防止第二道下坠和流挂 |
+| run | n. | 流挂 | 漆量过多或走枪过慢造成的漆液垂流 |
+| sag | n. | 下坠（坠流） | 立面上涂层过厚形成的下垂堆积 |
+| overspray | n. | 过喷（飞漆） | 未落到目标表面的漆雾，会污染已喷好的基色 |
+| air cap | n. | 风帽（气帽） | 喷枪前端分配雾化空气的部件，可旋转 90° 适应横向或竖向走枪 |
+| reducer | n. | 减薄剂 | 调整涂料粘度的溶剂，须与所用面漆配套 |
+| viscosity | n. | 粘度 | 稀释剂与涂料的粘度不同，只能粗略验证喷枪工况 |
+
+## 4. 语法解析
+
+### ① 动名词短语作主语 + or 引出同位语
+**原句**：Turning out (to the left) on the upper, or pattern control knob, widens the spray pattern.
+**拆解**：主语是动名词短语 Turning out ... on the upper, or pattern control knob，其中 or pattern control knob 是对 upper 的重新命名，作同位成分插入；谓语为一般现在时 widens，宾语 the spray pattern。
+**要点**：动名词短语作主语时谓语要用第三人称单数 widens；插入的 or + 名词不是并列主语，所以谓语不能变成复数。译成中文时把插入语拆成“（即……旋钮）”更顺。
+
+### ② Once 时间状语从句 + 定语从句 + 祈使句主句
+**原句**：Once the painter has mastered spraying a flat horizontal panel, practice next on a panel that is positioned vertically against a wall.
+**拆解**：Once 引导时间状语从句，从句谓语 has mastered（现在完成时），宾语是动名词短语 spraying a flat horizontal panel；主句 practice 为祈使句，next on a panel 作状语；that is positioned vertically against a wall 为定语从句修饰 panel。
+**要点**：once 在这里是连词“一旦”，不是副词“一次”；master 后接动名词（master doing），不接不定式。主句没有主语，是祈使句，中文可补“就/请”。
+
+### ③ 条件从句内并列 + 单数 they 回指
+**原句**：If the painter has never used a spray gun to apply a finish coat of paint, and the aircraft has been completely prepared, cleaned, primed, and ready for the topcoat, they may need to pause for some practice.
+**拆解**：If 引导条件状语从句，内部由 and 连接两个分句：the painter has never used a spray gun（现在完成时）；the aircraft has been prepared, cleaned, primed, and ready for the topcoat（被动语态并列，最后一个 ready 是形容词，前面省略了 has been）。主句 they may need to pause for some practice。
+**要点**：they 是单数泛指用法，回指前面的 the painter，不能译成“他们”。并列项中 ready 与三个过去分词词性不同，是省略造成的“假并列”，理解时要把 has been 补回去。
+
+### ④ it 作形式主语 + 分词短语作结果状语
+**原句**：It is very easy to vary one or another, yielding runs or dry spots and a less than desirable finish.
+**拆解**：It 是形式主语，真正主语为不定式短语 to vary one or another；is very easy 为系表结构；逗号后 yielding ... 是现在分词短语作结果状语，逻辑主语是前面的动作 vary one or another。
+**要点**：It is + adj. + to do 是典型形式主语句式；分词结果状语相当于 so that 从句，译作“从而/以致”。a less than desirable finish 中 less than desirable 整体作前置定语修饰 finish。
+
+### ⑤ rather than 对比结构 + each time 引导时间从句
+**原句**：The constant air flow through the gun maintains a constant pressure, rather than a buildup of pressure each time that the trigger is released.
+**拆解**：主语 The constant air flow + 介词短语 through the gun 作后置定语；谓语 maintains，宾语 a constant pressure；rather than 引出被否定的对比项 a buildup of pressure；each time that the trigger is released 为时间状语从句（each time 起连词作用，that 可省）。
+**要点**：rather than 前后是两个对立的名词短语——“维持恒定压力”对“每次松扳机就积压一次压力”。each time 此处是连词性短语，不是名词短语作状语中心词，翻译时直接处理成“每次……时”。
