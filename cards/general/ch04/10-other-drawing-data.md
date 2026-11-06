@@ -4,15 +4,21 @@
 
 ## 1. 原文
 
+### Revision Block
+
 Revisions to a drawing are necessitated by changes in dimensions, design, or materials. The changes are usually listed in ruled columns either adjacent to the title block or at one corner of the drawing. All changes to approved drawings must be carefully noted on all existing prints of the drawing.
 
 When drawings contain such corrections, attention is directed to the changes by lettering or numbering them and listing those changes against the symbol in a revision block. The revision block contains the identification symbol, the date, the nature of the revision, the authority for the change, and the name of the draftsman who made the change.
 
 To distinguish the corrected drawing from its previous version, many firms are including, as part of the title block, a space for entering the appropriate symbol to designate that the drawing has been changed or revised.
 
+### Notes
+
 Notes are added to drawings for various reasons. Some of these notes refer to methods of attachment or construction. Others give alternatives, so that the drawing can be used for different styles of the same object. Still others list modifications that are available. Notes may be found alongside the item that they refer to. If the notes are lengthy, they may be placed elsewhere on the drawing and identified by letters or numbers. Notes are used only when the information cannot be conveyed in the conventional manner or when it is desirable to avoid crowding the drawing.
 
 When the note refers to a specific part, a light line with an arrowhead leads from the note to the part. If it applies to more than one part, the note is worded to eliminate ambiguity as to the parts it pertains to. If there are several notes, they are generally grouped together and numbered consecutively.
+
+### Zone Numbers
 
 Zone numbers on drawings are like the numbers and letters printed on the borders of a map. They help locate a point. To find a point, mentally draw horizontal and vertical lines from the letters and numerals specified; the point where these lines intersect is the area sought.
 
@@ -30,9 +36,15 @@ When a given dimension on a print shows an allowable variation, the plus (+) num
 
 If the plus and minus allowances are the same, you will find them presented as 0.225 ± 0.0025. The tolerance would then be 0.0050. Allowance can be indicated in either fractional or decimal form. When very accurate dimensions are necessary, decimal allowances are used. Fractional allowances are sufficient when precise tolerances are not required. Standard tolerances of –0.010 or −1⁄32 may be given in the title block of many drawings, to apply throughout the drawing.
 
+### Finish Marks
+
 Finish marks are used to indicate the surface that must be machine finished. Such finished surfaces have a better appearance and allow a closer fit with adjoining parts. During the finishing process, the required limits and tolerances must be observed. Do not confuse machined finishes with those of paint, enamel, chromium plating, and similar coating.
 
+### Scale
+
 Some drawings are made the same size as the drawn part; reflecting a scale of 1:1. Other scales may be used. However, when drawings are made on a computer, drawing sizes may be easily increased (zoom in) or decreased (zoom out). Some electronic printers have the same capability. Furthermore, when a 1:1 copy of a print is made, the copy size may differ slightly from that of the original. For accurate information, refer to the dimensions shown on the drawing.
+
+### Application
 
 When shown near or in the title block, application may refer to a specific aircraft, assembly, sub-assembly or unique application. For example, the title block indicates the bracket assembly is for a Roll Servo installation for an S-Tec Auto Pilot installation. If this drawing pertained to a B95 Aircraft equipped with an Aero- Tech air conditioning system and the bracket illustrated was unique to that installation, the title block would provide that application information. The title block may indicate Bracket Assy., Roll Servo, with Aero-Tech air conditioner (Model AT103-1) installed.
 
