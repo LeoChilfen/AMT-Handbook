@@ -1,0 +1,101 @@
+# Major Structural Stresses
+
+> 机体 Ch 01 · Major Structural Stresses · 原文 PDF 第 31 页
+
+## 1. 原文
+
+Aircraft structural members are designed to carry a load or to resist stress. In designing an aircraft, every square inch of wing and fuselage, every rib, spar, and even each metal fitting must be considered in relation to the physical characteristics of the material of which it is made. Every part of the aircraft must be planned to carry the load to be imposed upon it.
+
+A single member of the structure may be subjected to a combination of stresses. In most cases, the structural members are designed to carry end loads rather than side loads: that is, to be subjected to tension or compression rather than bending.
+
+The determination of such loads is called stress analysis. Although planning the design is not the function of the aircraft technician, it is, nevertheless, important that the technician understand and appreciate the stresses involved in order to avoid changes in the original design through improper repairs.
+
+The term “stress” is often used interchangeably with the word “strain.” While related, they are not the same thing. External loads or forces cause stress. Stress is a material’s internal resistance, or counterforce, that opposes deformation. The degree of deformation of a material is strain. When a material is subjected to a load or force, that material is deformed, regardless of how strong the material is or how light the load is.
+
+There are five major stresses to which all aircraft are subjected:
+
+Tension is the stress that resists a force that tends to pull something apart. The engine pulls the aircraft forward, but air resistance tries to hold it back. The result is tension, which stretches the aircraft. The tensile strength of a material is measured in pounds per square inch (psi) and is calculated by dividing the load (in pounds) required to pull the material apart by its cross-sectional area (in square inches).
+
+Compression is the stress that resists a crushing force. The compressive strength of a material is also measured in psi. Compression is the stress that tends to shorten or squeeze aircraft parts.
+
+Torsion is the stress that produces twisting. While moving the aircraft forward, the engine also tends to twist it to one side, but other aircraft components hold it on course. Thus, torsion is created. The torsion strength of a material is its resistance to twisting or torque.
+
+Shear is the stress that resists the force tending to cause one layer of a material to slide over an adjacent layer. Two riveted plates in tension subject the rivets to a shearing force. Usually, the shearing strength of a material is either equal to or less than its tensile or compressive strength. Aircraft parts, especially screws, bolts, and rivets, are often subject to a shearing force.
+
+Bending stress is a combination of compression and tension. The rod in Figure 1-14E has been shortened (compressed) on the inside of the bend and stretched on the outside of the bend. A single member of the structure may be subjected to a combination of stresses. In most cases, the structural members are designed to carry end loads rather than side loads. They are designed to be subjected to tension or compression rather than bending.
+
+Strength or resistance to the external loads imposed during operation may be the principal requirement in certain structures. However, there are numerous other characteristics in addition to designing to control the five major stresses that engineers must consider. For example, cowling, fairings, and similar parts may not be subject to significant loads requiring a high degree of strength. However, these parts must have streamlined shapes to meet aerodynamic requirements, such as reducing drag or directing airflow.
+
+## 2. 中文翻译
+
+飞机结构件被设计用来承受载荷或抵抗应力。在设计飞机时，机翼和机身的每一平方英寸、每一根肋、每一根翼梁，甚至每一个金属连接件，都必须结合其制造材料的物理特性来考虑。飞机的每个部件都必须经过规划，以承受将施加于其上的载荷。
+
+结构中的单个构件可能承受多种应力的组合。大多数情况下，结构件被设计成承受端向载荷而非侧向载荷：也就是说，承受拉伸或压缩，而不是弯曲。
+
+对此类载荷的确定称为应力分析。虽然设计规划不是飞机维修人员的职责，但维修人员理解并领会所涉及的应力仍然很重要，这样才能避免因不当修理而改变原始设计。
+
+“应力”一词常与“应变”一词互换使用。二者虽有关联，却不是一回事。外部载荷或力引起应力。应力是材料抵抗变形的一种内阻力或反作用力。材料变形的程度就是应变。当材料受到载荷或力的作用时，无论材料多强、载荷多轻，该材料都会发生变形。
+
+所有飞机都承受五种主要应力：
+
+拉伸是抵抗试图把物体拉开的力的应力。发动机把飞机向前拉，而空气阻力则试图把它拖住。其结果就是拉伸，使飞机被拉长。材料的抗拉强度以磅每平方英寸（psi）计量，其计算方法是：把将材料拉断所需的载荷（磅）除以材料的横截面积（平方英寸）。
+
+压缩是抵抗挤压力的应力。材料的抗压强度同样以 psi 计量。压缩是使飞机部件缩短或被挤压的应力。
+
+扭转是产生扭转变形的应力。发动机在推动飞机前进的同时，也倾向于把飞机向一侧扭转，但飞机的其他部件使它保持航向。于是就产生了扭转。材料的抗扭强度就是其抵抗扭转或扭矩的能力。
+
+剪切是抵抗使材料一层在相邻层上滑移的力的应力。两块受拉伸的铆接板使铆钉承受剪切力。通常，材料的抗剪强度等于或小于其抗拉或抗压强度。飞机部件，尤其是螺钉、螺栓和铆钉，常常承受剪切力。
+
+弯曲应力是压缩与拉伸的组合。图 1-14E 中的杆在弯曲内侧被缩短（受压），在弯曲外侧被拉伸。结构中的单个构件可能承受多种应力的组合。大多数情况下，结构件被设计成承受端向载荷而非侧向载荷。它们被设计成承受拉伸或压缩，而不是弯曲。
+
+在某些结构中，强度或抵抗使用中所加外部载荷的能力可能是首要要求。然而，除了针对控制五种主要应力进行设计之外，工程师还必须考虑许多其他特性。例如，包皮、整流罩及类似部件可能不承受需要很高强度的重要载荷。但这些部件必须具有流线型外形，以满足气动要求，例如减小阻力或引导气流。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| stress | n. | 应力 | 材料内部抵抗变形、对抗外载荷的反作用力 |
+| strain | n. | 应变 | 材料受载后变形的程度，与应力相关但并非同一概念 |
+| tension | n. | 拉伸 | 抵抗把物体拉开的力，使构件被拉长 |
+| compression | n. | 压缩 | 抵抗挤压的应力，使构件缩短或被挤扁 |
+| torsion | n. | 扭转 | 使构件绕纵轴扭转的应力，由发动机扭矩等引起 |
+| shear | n. | 剪切 | 使材料一层在相邻层上滑移的应力，铆钉常承受 |
+| bending stress | n. | 弯曲应力 | 压缩与拉伸的组合，弯曲内侧受压、外侧受拉 |
+| stress analysis | n. | 应力分析 | 确定结构所承受载荷的方法与过程 |
+| end load | n. | 端向载荷 | 沿构件轴线施加的载荷，产生拉伸或压缩 |
+| side load | n. | 侧向载荷 | 垂直于构件轴线的载荷，会导致弯曲 |
+| tensile strength | n. | 抗拉强度 | 材料抵抗被拉断的能力，以 psi 计量 |
+| deformation | n. | 变形 | 材料受载后形状或尺寸的改变，其程度即应变 |
+| streamlined shape | n. | 流线型外形 | 包皮、整流罩为减小阻力而具有的气动外形 |
+
+## 4. 语法解析
+
+### ① 主语并列过长时谓语用被动
+**原句**：In designing an aircraft, every square inch of wing and fuselage, every rib, spar, and even each metal fitting must be considered in relation to the physical characteristics of the material of which it is made.
+**拆解**：In designing an aircraft 为时间状语；主语由三个并列名词短语构成：every square inch of wing and fuselage、every rib, spar, and even each metal fitting；谓语 must be considered（被动）；in relation to... 为状语；of which 引导定语从句修饰 the material，it 指代该材料。
+**要点**：主语很长时谓语仍与最近的中心词保持数的一致，这里每个并列项都是单数，所以用 must be considered。of which 是“介词 + 关系代词”结构，which 的先行词是 material；it 回指 material，不是 fitting。
+
+### ② 冒号后的解释性同位语 + rather than
+**原句**：In most cases, the structural members are designed to carry end loads rather than side loads: that is, to be subjected to tension or compression rather than bending.
+**拆解**：主句为被动 are designed，后接不定式 to carry end loads 作目的/结果补充；rather than side loads 作对比；冒号后 that is 引出解释，to be subjected to... 与前面的 to carry 并列，说明“端向载荷”的具体含义，rather than bending 再次对比。
+**要点**：rather than 连接的是对等的名词或不定式，前后形式应一致：carry end loads 对 side loads，be subjected to tension or compression 对 bending。冒号后的 that is 是固定插入语，不引导从句，别把它当成 that 从句。
+
+### ③ Although 让步从句 + it 形式主语 + 虚拟语气
+**原句**：Although planning the design is not the function of the aircraft technician, it is, nevertheless, important that the technician understand and appreciate the stresses involved in order to avoid changes in the original design through improper repairs.
+**拆解**：Although 引导让步状语从句，动名词 planning the design 作从句主语；主句用 it 作形式主语，真正主语是 that 从句；that 从句谓语用动词原形 understand and appreciate，是虚拟语气；in order to avoid... 为目的状语，through improper repairs 为方式状语。
+**要点**：important that... 句型中从句要用“(should) + 动词原形”，所以是 understand 而不是 understands。involved 是过去分词后置定语修饰 stresses；it 只是占位，真正的主语内容在 that 从句里。
+
+### ④ 同位语 + that 定语从句
+**原句**：Stress is a material’s internal resistance, or counterforce, that opposes deformation.
+**拆解**：主句 Stress is a material’s internal resistance；or counterforce 是同位语，与 internal resistance 同指；that 引导定语从句修饰 resistance/counterforce，opposes 为从句谓语。
+**要点**：that 从句的先行词是 resistance（或与之同指的 counterforce），不是 material’s。同位语用 or 引出时前后是同一概念的不同说法，不能用 and 连接，否则会读成两个不同的东西。
+
+### ⑤ 并列被动 + by doing + 过去分词定语
+**原句**：The tensile strength of a material is measured in pounds per square inch (psi) and is calculated by dividing the load (in pounds) required to pull the material apart by its cross-sectional area (in square inches).
+**拆解**：主语 The tensile strength of a material；并列谓语 is measured in... 与 is calculated by...；by dividing A by B 为方式状语；the load 后接过去分词短语 required to pull the material apart 作后置定语，括注 (in pounds) 说明单位。
+**要点**：divide A by B 意为“用 A 除以 B”，这里 A 是 load，B 是 cross-sectional area，别把 by 后的内容误当成除数以外的成分。required to... 修饰 load 而不是 tensile strength；两个被动谓语共用一个主语。
+
+### ⑥ when 状语从句 + regardless of 让步
+**原句**：When a material is subjected to a load or force, that material is deformed, regardless of how strong the material is or how light the load is.
+**拆解**：When 引导时间/条件状语从句，谓语 is subjected to 为被动；主句 that material is deformed 也是被动；regardless of 后接两个并列的 how 引导的宾语从句（how strong... 与 how light...），作让步状语。
+**要点**：be subjected to 意为“受到……作用”，to 是介词，后接名词；deformed 是过去分词作表语，表示状态。regardless of 是介词短语，后面必须接名词性成分，所以用 how 从句而不是完整的让步状语从句。

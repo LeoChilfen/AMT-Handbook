@@ -3308,5 +3308,76 @@ window.AMT_CARDS = [
     "file": "07-where-to-get-information.md"
    }
   ]
+ },
+ {
+  "chapter": "airframe-ch01",
+  "book": "airframe",
+  "bookEn": "Airframe",
+  "bookZh": "机体",
+  "num": "01",
+  "titleEn": "Aircraft Structures",
+  "count": 10,
+  "cards": [
+   {
+    "slug": "airframe-ch01-01",
+    "seq": "01",
+    "title": "A Brief History of Aircraft Structures",
+    "file": "01-a-brief-history-of-aircraft-structures.md"
+   },
+   {
+    "slug": "airframe-ch01-02",
+    "seq": "02",
+    "title": "General",
+    "file": "02-general.md"
+   },
+   {
+    "slug": "airframe-ch01-03",
+    "seq": "03",
+    "title": "Major Structural Stresses",
+    "file": "03-major-structural-stresses.md"
+   },
+   {
+    "slug": "airframe-ch01-04",
+    "seq": "04",
+    "title": "Fixed-Wing Aircraft",
+    "file": "04-fixed-wing-aircraft.md"
+   },
+   {
+    "slug": "airframe-ch01-05",
+    "seq": "05",
+    "title": "Wings",
+    "file": "05-wings.md"
+   },
+   {
+    "slug": "airframe-ch01-06",
+    "seq": "06",
+    "title": "Empennage",
+    "file": "06-empennage.md"
+   },
+   {
+    "slug": "airframe-ch01-07",
+    "seq": "07",
+    "title": "Flight Control Surfaces",
+    "file": "07-flight-control-surfaces.md"
+   },
+   {
+    "slug": "airframe-ch01-08",
+    "seq": "08",
+    "title": "Landing Gear",
+    "file": "08-landing-gear.md"
+   },
+   {
+    "slug": "airframe-ch01-09",
+    "seq": "09",
+    "title": "Maintaining the Aircraft",
+    "file": "09-maintaining-the-aircraft.md"
+   },
+   {
+    "slug": "airframe-ch01-10",
+    "seq": "10",
+    "title": "Helicopter Structures",
+    "file": "10-helicopter-structures.md"
+   }
+  ]
  }
 ];
