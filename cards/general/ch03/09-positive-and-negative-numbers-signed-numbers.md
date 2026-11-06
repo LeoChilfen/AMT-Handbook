@@ -12,9 +12,11 @@ The sum (addition) of two positive numbers is positive. The sum (addition) of tw
 
 Therefore: −100 + 45 = −55.
 
-Example: The weight of an aircraft is 2,000 pounds. A radio rack weighing 3 pounds and a transceiver weighing 10 pounds 80 N are removed from the aircraft. What is the new weight? For weight and balance purposes, all weight removed from an aircraft is given a minus sign, and all weight added is given a plus sign.
+Example: The weight of an aircraft is 2,000 pounds. A radio rack weighing 3 pounds and a transceiver weighing 10 pounds are removed from the aircraft. What is the new weight? For weight and balance purposes, all weight removed from an aircraft is given a minus sign, and all weight added is given a plus sign.
 
-2,000 + −3 + −10 = 2,000 + −13 = 1,987 Therefore, the new weight is 1,987 pounds.
+2,000 + −3 + −10 = 2,000 + −13 = 1,987
+
+Therefore, the new weight is 1,987 pounds.
 
 ### Subtraction of Positive & Negative Numbers
 
@@ -22,11 +24,15 @@ To subtract positive and negative numbers, first change the “–” (subtracti
 
 Example: The daytime temperature in the city of Denver was 6° below zero (−6°). An airplane is cruising at 15,000 feet above Denver. The temperature at 15,000 feet is 20° colder than in the city of Denver. What is the temperature at 15,000 feet?
 
-Subtract 20 from −6: −6 – 20 = −6 + (−20) = −26 The temperature is −26°, or 26° below zero at 15,000 feet above the city.
+Subtract 20 from −6: −6 – 20 = −6 + (−20) = −26
+
+The temperature is −26°, or 26° below zero at 15,000 feet above the city.
 
 ### Multiplication of Positive & Negative Numbers
 
-The product of two positive numbers is always positive. The product of two negative numbers is always positive. The product of a positive and a negative number is always negative. Examples: 3 × 6 = 18 −3 × 6 = −18 −3 × −6 = 18 3 × −6 = −18
+The product of two positive numbers is always positive. The product of two negative numbers is always positive. The product of a positive and a negative number is always negative.
+
+Examples: 3 × 6 = 18 −3 × 6 = −18 −3 × −6 = 18 3 × −6 = −18
 
 ### Division of Positive & Negative Numbers
 
