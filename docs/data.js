@@ -4146,7 +4146,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "12",
   "titleEn": "Hydraulic & Pneumatic Power Systems",
-  "count": 6,
+  "count": 7,
   "cards": [
    {
     "slug": "airframe-ch12-01",
@@ -4171,6 +4171,12 @@ window.AMT_CARDS = [
     "seq": "04",
     "title": "Basic Hydraulic Systems",
     "file": "04-basic-hydraulic-systems.md"
+   },
+   {
+    "slug": "airframe-ch12-05",
+    "seq": "05",
+    "title": "Hydraulic Power Systems",
+    "file": "05-hydraulic-power-systems.md"
    },
    {
     "slug": "airframe-ch12-06",
@@ -4281,7 +4287,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "15",
   "titleEn": "Ice & Rain Protection",
-  "count": 4,
+  "count": 5,
   "cards": [
    {
     "slug": "airframe-ch15-01",
@@ -4306,6 +4312,12 @@ window.AMT_CARDS = [
     "seq": "04",
     "title": "Wing & Stabilizer Deicing Systems",
     "file": "04-wing-and-stabilizer-deicing-systems.md"
+   },
+   {
+    "slug": "airframe-ch15-05",
+    "seq": "05",
+    "title": "Propeller Deice System",
+    "file": "05-propeller-deice-system.md"
    }
   ]
  },

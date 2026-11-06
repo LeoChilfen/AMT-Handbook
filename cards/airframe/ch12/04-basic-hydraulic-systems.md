@@ -24,14 +24,71 @@ If a variable displacement pump is used, system pressure is controlled by the pu
 
 ## 2. 中文翻译
 
-TODO
+无论其功能和设计如何，每个液压系统除了要有输送液体的通道之外，都至少具备若干基本部件。一个基本系统由泵、油箱、换向阀、单向阀、卸压阀、选择阀、作动器和过滤器组成。
+
+### 开放式中心液压系统
+
+开放式中心系统（open center system）是指在作动机构不工作时，系统内有液体流动但没有压力的系统。泵使液体从油箱流出，经各选择阀，再回到油箱。开放式中心系统可以采用任意数量的子系统，每个子系统配一个选择阀。与闭式中心系统不同，开放式中心系统的各选择阀始终彼此串联。在这种布置中，系统压力管路穿过每一个选择阀。液体始终可以自由地通过每个选择阀流回油箱，直到其中一个选择阀被置于操作某一机构的位置。
+
+当其中一个选择阀被置于操作某个作动装置的位置时，液体从泵经某条工作管路被引向作动器。选择阀处于此位置时，液体经该阀流回油箱的通路被阻断。系统内压力升高以克服阻力，并推动作动筒活塞；作动器另一端的液体则返回选择阀并流回油箱。部件作动之后系统如何运行，取决于所用选择阀的类型。
+
+开放式中心系统配用几种类型的选择阀。一种类型是手动接通、手动断开的。首先，手动将阀移到工作位置。随后，作动机构到达其工作行程终点，泵的输出继续进行，直到系统卸压阀卸压。卸压阀开启，让液体流回油箱。系统压力保持在卸压阀的设定压力，直到选择阀被手动恢复到中立位置。这一动作重新打开开放式中心流路，使系统压力降至管路阻力压力。
+
+手动接通、压力断开型选择阀与前面讨论的阀类似。当作动机构到达行程终点时，压力继续升高到某一预定压力。阀自动回到中立位置，恢复开放式中心流动。
+
+### 闭式中心液压系统
+
+在闭式中心系统中，只要动力泵在工作，液体就处于压力之下。三个作动器并联布置，作动装置 B 和 C 同时工作，而作动装置 A 不工作。该系统与开放式中心系统的区别在于，选择阀或方向控制阀是并联而不是串联布置的。闭式中心系统控制泵压的方式各有不同。如果使用定量泵，系统压力由压力调节器调节。卸压阀则作为调节器失效时的备用安全装置。
+
+如果使用变量泵，系统压力由泵自带的压力补偿机构控制。补偿器自动改变输出流量。当压力接近正常工作压力时，补偿器开始减小泵的输出流量。达到正常工作压力时，泵即完全补偿（流量接近零）。泵处于这种完全补偿状态时，其内部旁通机构使液体在泵内循环，以冷却和润滑。系统中装有卸压阀作为安全备份。开放式中心系统相对于闭式中心系统的一个优点是，消除了系统的持续增压。由于选择阀移到工作位置后压力是逐渐建立的，压力冲击很小。这种作用使作动机构的运行更为平稳。其运行比闭式中心系统慢，后者在选择阀一到位时压力即已具备。由于大多数飞机应用要求瞬时动作，闭式中心系统用得最广。
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-TODO
+| open center system | n. | 开放式中心系统 | 作动机构空闲时液体自由循环、系统内无压力 |
+| closed-center system | n. | 闭式中心系统 | 动力泵一工作，系统即始终处于压力之下 |
+| selector valve | n. | 选择阀 | 选择液流通路、控制某一子系统作动的阀 |
+| directional valve | n. | 换向阀 | 基本系统中用于改变液流方向的阀 |
+| check valve | n. | 单向阀 | 只允许液流按一个方向通过 |
+| pressure relief valve | n. | 卸压阀 | 压力超过设定值时把液体泄回油箱的安全装置 |
+| actuator | n. | 作动器 | 把液压能转换为机械动作的部件 |
+| pressure regulator | n. | 压力调节器 | 定量泵系统中调节系统压力的装置 |
+| variable displacement pump | n. | 变量泵 | 输出流量可随系统压力自动改变的泵 |
+| compensator | n. | 补偿器 | 变量泵上感受压力、自动调节流量的机构 |
+| series | n. | 串联 | 开放式中心系统各选择阀的连接方式 |
+| parallel | adj. | 并联的 | 闭式中心系统选择阀与作动器的布置方式 |
+| neutral position | n. | 中立位置 | 选择阀不向作动器供油、恢复中心流的位置 |
+| pressure surge | n. | 压力冲击 | 系统压力骤升造成的冲击，开放式中心系统可减小 |
 
 ## 4. 语法解析
 
-TODO
+### ① 让步状语 + 定语从句 through which
+**原句**：Regardless of its function and design, every hydraulic system has a minimum number of basic components in addition to a means through which the fluid is transmitted.
+**拆解**：Regardless of its function and design 为介词短语作让步状语；主句主语 every hydraulic system，谓语 has，宾语 a minimum number of basic components；in addition to a means 为附加状语；through which the fluid is transmitted 为“介词 + which”引导的定语从句，修饰 a means。
+**要点**：regardless of 是复合介词，后接名词而不能接句子（接句子要用 regardless of the fact that）。through which 中的 which 指 a means，介词 through 提到关系词前是因为从句中“经……输送”靠这个介词，不能省成 which the fluid is transmitted。
+
+### ② 现在分词作定语 + but 连接的两个表语
+**原句**：An open center system is one having fluid flow, but no pressure in the system when the actuating mechanisms are idle.
+**拆解**：主句为主系表结构 An open center system is one；having fluid flow 为现在分词短语作后置定语修饰 one；but 连接并列的第二个成分 no pressure in the system（与前一项共用 having）；when the actuating mechanisms are idle 为时间状语从句。
+**要点**：having 后面其实带了两个宾语——fluid flow 和 no pressure，but 在语义上表转折而非连接两个句子，不能补出第二个谓语。when 从句修饰的是整个“有流量、无压力”的状态，不是只修饰 pressure。
+
+### ③ 被动语态 + until 时间状语从句
+**原句**：Fluid is always allowed free passage through each selector valve and back to the reservoir until one of the selector valves is positioned to operate a mechanism.
+**拆解**：主句为被动语态 Fluid is allowed；free passage 为保留宾语（allow sb. sth. 变被动后剩下的直接宾语）；through each selector valve and back to the reservoir 为方向状语；until 引导时间状语从句，从句谓语 is positioned 亦为被动，to operate a mechanism 为目的状语。
+**要点**：allow 的主动式是 allow the fluid free passage，变被动后 the fluid 作主语、free passage 留在原位，这叫保留宾语，不能译成“液体被允许自由通道”。until 在这里是“直到……为止”，主句动作一直持续，与 not ... until 的否定含义不同。
+
+### ④ in that 引导的说明从句
+**原句**：This system differs from the open-center system in that the selector or directional control valves are arranged in parallel and not in series.
+**拆解**：主句 This system differs from the open-center system；in that 引导从句，说明“不同之处在哪里”；从句主干 the selector or directional control valves are arranged，in parallel and not in series 为方式状语，并列否定。
+**要点**：in that 是复合连词，意为“在于、因为”，不能拆成“介词 in + that 定语从句”——that 在这里不修饰任何名词。differ from A in that ... 是技术英语里说明差异的标准句式，翻译成“与……的区别在于……”。
+
+### ⑤ Since 原因状语从句 + there be 存在句
+**原句**：Since the pressure is built up gradually after the selector valve is moved to an operating position, there is very little shock from pressure surges.
+**拆解**：Since 引导原因状语从句，从句为被动语态 the pressure is built up，after 再引导一个时间状语从句 the selector valve is moved to an operating position；主句为 there be 存在句 there is very little shock，from pressure surges 为后置定语说明冲击的来源。
+**要点**：since 在此是“由于”，不是“自从”——判断依据是主句用一般现在时且前后为因果关系。build up 用被动 is built up 表示压力“被逐渐建立”，gradually 修饰整个建立过程。
+
+### ⑥ 介词短语前置 + 被动语态 + 目的状语
+**原句**：When one of the selector valves is positioned to operate an actuating device, fluid is directed from the pump through one of the working lines to the actuator.
+**拆解**：When 引导时间状语从句，从句主语 one of the selector valves，谓语 is positioned 为被动，to operate an actuating device 为目的状语；主句主语 fluid，谓语 is directed 为被动，from the pump through one of the working lines to the actuator 连成一条完整的路径状语（从哪来—经哪里—到哪里）。
+**要点**：两个被动语态 position 和 direct 的逻辑施动者都是“人（操作者或系统）”，技术英语常省略 by 短语。from ... through ... to ... 是描述液流路径的固定三连介词，翻译时按“从……经……到……”的顺序铺开，不要打乱。
