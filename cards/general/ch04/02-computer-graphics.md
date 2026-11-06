@@ -14,7 +14,9 @@ From the early days of aviation, development of aircraft, aircraft engines, and 
 
 • Computer Aided Manufacturing (CAM)—where a computer is used in the manufacturing of a part or product
 
-• Computer Aided Engineering (CAE)—where a computer is used in the engineering of a part or product As computer hardware and software continue to evolve, a greater amount of CAE is completed in less time, at lower cost. In addition to product design, some of the other uses of CAE are product analysis, assembly, simulations, and maintenance information.
+• Computer Aided Engineering (CAE)—where a computer is used in the engineering of a part or product
+
+As computer hardware and software continue to evolve, a greater amount of CAE is completed in less time, at lower cost. In addition to product design, some of the other uses of CAE are product analysis, assembly, simulations, and maintenance information.
 
 CATIA, ProEngineer, Solid Works, and Unigraphics are some of the more popular CAD software packages used for aircraft design and manufacturing. Most airframe manufacturers use CATIA software to design their aircraft. The complete aircraft is designed and assembled in the software package before it is manufactured. Drawings of all parts of the aircraft are available and can be accessed using the computer software. Drawings are no longer limited to 1, 2, or 3 views. Drawings from every angle can easily be accessed by using the computer model of the part or product. Technicians can access drawings and aircraft manuals on laptops or even mobile devices when performing maintenance on the shop floor.
 
