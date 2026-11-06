@@ -543,25 +543,31 @@ PF = 有功功率（瓦特）/ 视在功率（VA）× 100
 ## 4. 语法解析
 
 ### ① depend on 的搭配与主谓被介词短语隔开
-
-**原句**：The satisfactory performance of any modern aircraft depends to a very great degree on the continuing reliability of electrical systems and subsystems.**拆解**：主语中心词是 performance，其后 of any modern aircraft 是后置定语；谓语 depends 与主语之间被这个长定语隔开，构成“主语 + 定语 + 谓语”的远距离呼应。depends 后接 to a very great degree 作程度状语，真正的介词宾语 on the continuing reliability… 被推到后面，属“动词 + 状语 + 介词宾语”的分隔结构。**要点**：读长句先抓主语中心词和谓语动词，别被 of 短语带偏去找谓语；depend on 是固定搭配，状语插在中间时仍要认出 on 才是它的宾语。continuing 是动名词化的现在分词，强调“持续保持”而非一次性可靠。
+**原句**：The satisfactory performance of any modern aircraft depends to a very great degree on the continuing reliability of electrical systems and subsystems.
+**拆解**：主语中心词是 performance，其后 of any modern aircraft 是后置定语；谓语 depends 与主语之间被这个长定语隔开，构成“主语 + 定语 + 谓语”的远距离呼应。depends 后接 to a very great degree 作程度状语，真正的介词宾语 on the continuing reliability… 被推到后面，属“动词 + 状语 + 介词宾语”的分隔结构。
+**要点**：读长句先抓主语中心词和谓语动词，别被 of 短语带偏去找谓语；depend on 是固定搭配，状语插在中间时仍要认出 on 才是它的宾语。continuing 是动名词化的现在分词，强调“持续保持”而非一次性可靠。
 
 ### ② be proportional to 的双向比例与并列谓语
-
-**原句**：Basically, Ohm’s Law states that the current (electron flow) through a conductor is directly proportional to the voltage (electrical pressure) applied to that conductor and inversely proportional to the resistance of the conductor.**拆解**：主干是 Ohm’s Law states that…，that 引导宾语从句；从句主干为 the current is proportional to the voltage and (is) proportional to the resistance，两个表语由 and 并列，第二个并列项省略了重复的 is。directly 与 inversely 分别修饰两个 proportional，形成正比、反比的对举。**要点**：括号里的 electron flow、electrical pressure 是同位补充，不参与句子骨架；applied to that conductor 是过去分词短语后置修饰 voltage。翻译时把 directly/inversely 提到“成正比/成反比”之前，不要译成“直接地成比例”。
+**原句**：Basically, Ohm’s Law states that the current (electron flow) through a conductor is directly proportional to the voltage (electrical pressure) applied to that conductor and inversely proportional to the resistance of the conductor.
+**拆解**：主干是 Ohm’s Law states that…，that 引导宾语从句；从句主干为 the current is proportional to the voltage and (is) proportional to the resistance，两个表语由 and 并列，第二个并列项省略了重复的 is。directly 与 inversely 分别修饰两个 proportional，形成正比、反比的对举。
+**要点**：括号里的 electron flow、electrical pressure 是同位补充，不参与句子骨架；applied to that conductor 是过去分词短语后置修饰 voltage。翻译时把 directly/inversely 提到“成正比/成反比”之前，不要译成“直接地成比例”。
 
 ### ③ It 作形式主语 + that 从句 + when 状语从句
-
-**原句**：It should be noted that as with the movement of any mass, electron movement (current flow) only occurs when there is a force present to push the electrons.**拆解**：It 是形式主语，真正的主语是 that 引导的主语从句；从句内部以 as with the movement of any mass 作比较状语（as with = 正如……一样），主干是 electron movement only occurs，when 引导时间/条件状语从句，其中 there is a force present 为 there be 句型，present 是后置定语，to push the electrons 是 force 的定语。**要点**：It should be noted that… 是技术文献的典型被动句式，译作“应当注意……”，不必译出“它”。only 限定 occurs，表明“有外力”是电流产生的必要条件而非充分条件，中文要用“只有当……时才会……”把逻辑关系显出来。
+**原句**：It should be noted that as with the movement of any mass, electron movement (current flow) only occurs when there is a force present to push the electrons.
+**拆解**：It 是形式主语，真正的主语是 that 引导的主语从句；从句内部以 as with the movement of any mass 作比较状语（as with = 正如……一样），主干是 electron movement only occurs，when 引导时间/条件状语从句，其中 there is a force present 为 there be 句型，present 是后置定语，to push the electrons 是 force 的定语。
+**要点**：It should be noted that… 是技术文献的典型被动句式，译作“应当注意……”，不必译出“它”。only 限定 occurs，表明“有外力”是电流产生的必要条件而非充分条件，中文要用“只有当……时才会……”把逻辑关系显出来。
 
 ### ④ 非限制性定语从句补充人物与推论
-
-**原句**：The conventional current theory was initially advanced by Benjamin Franklin, who reasoned that current flowed out of a positive source into a negative source or an area that lacked an abundance of charge.**拆解**：主句是被动语态 was advanced by…；逗号后 who 引导非限制性定语从句修饰 Franklin，从句谓语 reasoned 后接 that 宾语从句；宾语从句里 out of a positive source into a negative source 是两个方向介词短语并列，or an area 与前两项并列作 into 的宾语，area 后又有 that 引导的定语从句。**要点**：非限制性从句用逗号隔开，只作补充信息，不能译成“……的富兰克林”。out of / into 表示“从……出来、进入……”，对应电流由正极流出、回到负极的约定；an abundance of charge 指“大量电荷”，即电子过剩区域。
+**原句**：The conventional current theory was initially advanced by Benjamin Franklin, who reasoned that current flowed out of a positive source into a negative source or an area that lacked an abundance of charge.
+**拆解**：主句是被动语态 was advanced by…；逗号后 who 引导非限制性定语从句修饰 Franklin，从句谓语 reasoned 后接 that 宾语从句；宾语从句里 out of a positive source into a negative source 是两个方向介词短语并列，or an area 与前两项并列作 into 的宾语，area 后又有 that 引导的定语从句。
+**要点**：非限制性从句用逗号隔开，只作补充信息，不能译成“……的富兰克林”。out of / into 表示“从……出来、进入……”，对应电流由正极流出、回到负极的约定；an abundance of charge 指“大量电荷”，即电子过剩区域。
 
 ### ⑤ 同位语从句 + 插入语 + 介词短语并列
-
-**原句**：This comparison illustrates the principle that electrons move, when a path is available, from a point of excess electrons (higher potential energy) to a point deficient in electrons (lower potential energy).**拆解**：主干是 This comparison illustrates the principle；that 引导同位语从句说明 principle 的具体内容，从句主干为 electrons move from a point… to a point…，when a path is available 是插入的条件状语，用逗号与主干隔开。excess electrons 与 deficient in electrons 分别是介词 of、形容词短语对 point 的后置修饰，括号内为术语解释。**要点**：同位语从句的 that 在从句中不作成分、不能省略，翻译时常加“即”“就是”。插入语 when… 位置灵活，译时应前置为“只要有通路”；from…to… 对应“从电子过剩处流向电子不足处”，即高电位到低电位。
+**原句**：This comparison illustrates the principle that electrons move, when a path is available, from a point of excess electrons (higher potential energy) to a point deficient in electrons (lower potential energy).
+**拆解**：主干是 This comparison illustrates the principle；that 引导同位语从句说明 principle 的具体内容，从句主干为 electrons move from a point… to a point…，when a path is available 是插入的条件状语，用逗号与主干隔开。excess electrons 与 deficient in electrons 分别是介词 of、形容词短语对 point 的后置修饰，括号内为术语解释。
+**要点**：同位语从句的 that 在从句中不作成分、不能省略，翻译时常加“即”“就是”。插入语 when… 位置灵活，译时应前置为“只要有通路”；from…to… 对应“从电子过剩处流向电子不足处”，即高电位到低电位。
 
 ### ⑥ It is … that … 强调句型
-
-**原句**：It is the relative motion between a conductor and a magnetic field that causes current to flow in the conductor.**拆解**：这是强调句型 It is + 被强调成分 + that + 其余部分，被强调的是主语 the relative motion between a conductor and a magnetic field；去掉 It is 与 that 后，句子仍完整：The relative motion causes current to flow。cause sb./sth. to do 为复合宾语结构，to flow 作宾语补足语。**要点**：强调句与形式主语 It 句的区别在于：去掉 It is…that 后剩下的是完整句子，且被强调成分可还原到 that 后的空缺位置。本句强调“相对运动”才是发电的根本原因，速度和方向改变都属相对运动的变化；between…and… 作 motion 的定语，不可漏译。
+**原句**：It is the relative motion between a conductor and a magnetic field that causes current to flow in the conductor.
+**拆解**：这是强调句型 It is + 被强调成分 + that + 其余部分，被强调的是主语 the relative motion between a conductor and a magnetic field；去掉 It is 与 that 后，句子仍完整：The relative motion causes current to flow。cause sb./sth. to do 为复合宾语结构，to flow 作宾语补足语。
+**要点**：强调句与形式主语 It 句的区别在于：去掉 It is…that 后剩下的是完整句子，且被强调成分可还原到 that 后的空缺位置。本句强调“相对运动”才是发电的根本原因，速度和方向改变都属相对运动的变化；between…and… 作 motion 的定语，不可漏译。

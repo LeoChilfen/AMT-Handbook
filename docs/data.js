@@ -3933,13 +3933,31 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "09",
   "titleEn": "Aircraft Electrical System",
-  "count": 3,
+  "count": 6,
   "cards": [
    {
     "slug": "airframe-ch09-01",
     "seq": "01",
     "title": "Introduction",
     "file": "01-introduction.md"
+   },
+   {
+    "slug": "airframe-ch09-02",
+    "seq": "02",
+    "title": "Aircraft Batteries",
+    "file": "02-aircraft-batteries.md"
+   },
+   {
+    "slug": "airframe-ch09-03",
+    "seq": "03",
+    "title": "Aircraft Electrical Systems",
+    "file": "03-aircraft-electrical-systems.md"
+   },
+   {
+    "slug": "airframe-ch09-04",
+    "seq": "04",
+    "title": "Wiring Installation",
+    "file": "04-wiring-installation.md"
    },
    {
     "slug": "airframe-ch09-05",
@@ -3962,7 +3980,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "10",
   "titleEn": "Aircraft Systems",
-  "count": 2,
+  "count": 6,
   "cards": [
    {
     "slug": "airframe-ch10-01",
@@ -3975,6 +3993,65 @@ window.AMT_CARDS = [
     "seq": "02",
     "title": "Classifying Instruments",
     "file": "02-classifying-instruments.md"
+   },
+   {
+    "slug": "airframe-ch10-04",
+    "seq": "04",
+    "title": "Remote Sensing & Indication",
+    "file": "04-remote-sensing-and-indication.md"
+   },
+   {
+    "slug": "airframe-ch10-05",
+    "seq": "05",
+    "title": "Mechanical Movement Indicators",
+    "file": "05-mechanical-movement-indicators.md"
+   },
+   {
+    "slug": "airframe-ch10-06",
+    "seq": "06",
+    "title": "Temperature Measuring Instruments",
+    "file": "06-temperature-measuring-instruments.md"
+   },
+   {
+    "slug": "airframe-ch10-07",
+    "seq": "07",
+    "title": "Direction Indicating Instruments",
+    "file": "07-direction-indicating-instruments.md"
+   }
+  ]
+ },
+ {
+  "chapter": "airframe-ch12",
+  "book": "airframe",
+  "bookEn": "Airframe",
+  "bookZh": "机体",
+  "num": "12",
+  "titleEn": "Hydraulic & Pneumatic Power Systems",
+  "count": 4,
+  "cards": [
+   {
+    "slug": "airframe-ch12-01",
+    "seq": "01",
+    "title": "Aircraft Hydraulic Systems",
+    "file": "01-aircraft-hydraulic-systems.md"
+   },
+   {
+    "slug": "airframe-ch12-02",
+    "seq": "02",
+    "title": "Hydraulic Fluid",
+    "file": "02-hydraulic-fluid.md"
+   },
+   {
+    "slug": "airframe-ch12-03",
+    "seq": "03",
+    "title": "Types of Hydraulic Fluids",
+    "file": "03-types-of-hydraulic-fluids.md"
+   },
+   {
+    "slug": "airframe-ch12-04",
+    "seq": "04",
+    "title": "Basic Hydraulic Systems",
+    "file": "04-basic-hydraulic-systems.md"
    }
   ]
  },
