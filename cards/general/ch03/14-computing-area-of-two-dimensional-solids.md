@@ -18,7 +18,7 @@ Example: An aircraft floor panel is in the form of a rectangle having a length o
 
 A square is a four-sided figure with all sides of equal length and opposite sides are parallel to each other. All angles are right angles. A right angle is a 90° angle. The formula for the area of a square is: area = length × width = l × w Since the length and the width of a square are the same value, the formula for the area of a square can also be written as:
 
-area = side × side = s^2
+area = side × side = s²
 
 Example: What is the area of a square access plate whose side measures 25 inches? First, determine the known value and substitute it in the formula. a = l × w = 25 inches × 25 inches = 625 square inches
 
@@ -66,21 +66,21 @@ circumference = c = d π
 
 The formula for the area of a circle is:
 
-area = π × radius^2 = π × r^2
+area = π × radius² = π × r²
 
 Example: The bore, which is “inside diameter,” of a certain aircraft engine cylinder is 5 inches. Find the area of the cross section of the cylinder.
 
-First, substitute the known values in the formula: a = π × r^2
+First, substitute the known values in the formula: a = π × r²
 
 The diameter is 5 inches, so the radius is 2.5 inches. (diameter = radius × 2)
 
-a = 3.1416 × (2.5 inches)^2 = 3.1416 × 6.25 square inches = 19.635 square inches
+a = 3.1416 × (2.5 inches)² = 3.1416 × 6.25 square inches = 19.635 square inches
 
 ### Ellipse
 
 An ellipse is a closed, curved, plane figure and is commonly called an oval. In a radial engine, the articulating rods connect to the hub by pins, which travel in the pattern of an ellipse (i.e., an elliptical or orbital path).
 
-Circumference = c=2π√[(a^2+b^2)/2]
+Circumference = c=2π√[(a²+b²)/2]
 
 π =3.1416
 
@@ -123,7 +123,7 @@ area = length × width = l × w。
 
 正方形是四边图形，各边等长且对边互相平行。所有角都是直角。直角是 90° 的角。正方形的面积公式为：area = length × width = l × w 由于正方形的长与宽数值相同，正方形的面积公式也可以写成：
 
-area = side × side = s2（原文 s2 中的 2 为上标，即 s 的平方）
+area = side × side = s²（原文 s² 中的 2 为上标，即 s 的平方）
 
 例：一块正方形检修盖板的边长为 25 英寸，其面积是多少？先确定已知值，再代入公式。a = l × w = 25 英寸 × 25 英寸 = 625 平方英寸
 
@@ -161,7 +161,7 @@ area = length × height = l × h
 
 area = 1⁄2 (base1 + base2) × height。另附 w = 12、l = 24、s = 25 等尺寸标注，以及面积公式表的栏目名称（Object、Area、Formula 与 Rectangle、Square、Parallelogram、Trapezoid）；原文此处排版破碎，无完整句子。
 
-（原文此处为面积公式总表的碎片：a = l × w、a = l × w or a = s2、a = l × h、a = ½ (b1 + b2) × h、a = π × r2、a = π × a × b、a = s × c 等公式与 length × width、½ (base1 + base2) × height、π × radius2、span × mean chord 等文字表述并列，表头与数值散落，原文无完整句子。）例：某梯形两底分别为 14 英寸和 10 英寸、高（或高线）为 6 英寸，其面积是多少？先把已知值代入公式。a = 1⁄2 (b1 + b2) × h = 1⁄2 (14 英寸 + 10 英寸) × 6 英寸 a = 1⁄2 (24 英寸) × 6 英寸 = 12 英寸 × 6 英寸 = 72 平方英寸
+（原文此处为面积公式总表的碎片：a = l × w、a = l × w or a = s²、a = l × h、a = ½ (b1 + b2) × h、a = π × r²、a = π × a × b、a = s × c 等公式与 length × width、½ (base1 + base2) × height、π × radius²、span × mean chord 等文字表述并列，表头与数值散落，原文无完整句子。）例：某梯形两底分别为 14 英寸和 10 英寸、高（或高线）为 6 英寸，其面积是多少？先把已知值代入公式。a = 1⁄2 (b1 + b2) × h = 1⁄2 (14 英寸 + 10 英寸) × 6 英寸 a = 1⁄2 (24 英寸) × 6 英寸 = 12 英寸 × 6 英寸 = 72 平方英寸
 
 ### 圆
 
@@ -171,11 +171,11 @@ circumference = c = d π
 
 圆的面积公式为：
 
-area = π × radius2 = π × r2
+area = π × radius² = π × r²
 
 例：某航空发动机气缸的缸径（即“内径”）为 5 英寸。求该气缸横截面的面积。
 
-先把已知值代入公式：a = π × r2
+先把已知值代入公式：a = π × r²
 
 直径为 5 英寸，所以半径为 2.5 英寸。（直径 = 半径 × 2）
 
@@ -185,7 +185,7 @@ a = 3.1416 × (2.5 英寸) 2 = 3.1416 × 6.25 平方英寸 = 19.635 平方英寸
 
 椭圆是封闭的曲边平面图形，通常称为卵形。在星形发动机中，连杆通过销连接到中心毂上，这些销的运动轨迹就是椭圆的形状（即椭圆路径或环绕路径）。
 
-Circumference = c=2π√[(a^2+b^2)/2]
+Circumference = c=2π√[(a²+b²)/2]
 
 π =3.1416
 
@@ -218,7 +218,7 @@ area of a wing = span × mean chord
 | --- | --- | --- | --- |
 | area | n. | 面积 | 本节主题，用平方英寸、平方英尺等单位计量表面大小 |
 | rectangle | n. | 矩形 | 对边等长且平行的四边图形，面积 = l × w |
-| square | n. | 正方形 | 各边等长的矩形，面积也可写作 s2 |
+| square | n. | 正方形 | 各边等长的矩形，面积也可写作 s² |
 | triangle | n. | 三角形 | 三边图形，内角和 180°，面积 = 1⁄2 (b × h) |
 | parallelogram | n. | 平行四边形 | 两对平行边的四边图形，面积 = l × h |
 | trapezoid | n. | 梯形 | 一对平行边的四边图形，面积 = 1⁄2 (b1 + b2) × h |

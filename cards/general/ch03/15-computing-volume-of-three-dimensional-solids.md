@@ -20,7 +20,7 @@ v = l × w × h = 5'6" × 3'4" × 2'3" = 5.5 ft × 3.33 ft × 2.25 ft = 41.25 cu
 
 A cube is a solid with six square sides. A cube is just a special type of rectangular solid. It has the same formula for volume as does the rectangular solid, which is volume = length × width × height = L × W × H. Because all of the sides of a cube are equal, the volume formula for a cube can also be written as:
 
-volume = side × side × side = S^3
+volume = side × side × side = S³
 
 Example: A large, cube-shaped carton contains a shipment of smaller boxes inside of it. Each of the smaller boxes is 1 ft × 1 ft × 1 ft. The measurement of the large carton is 3 ft × 3 ft × 3 ft. How many of the smaller boxes are in the large carton? First, substitute the known values into the formula.
 
@@ -32,17 +32,17 @@ Since each of the smaller boxes has a volume of 1 cubic foot, the large carton h
 
 A solid having the shape of a can, a length of pipe, or a barrel is called a cylinder. The ends of a cylinder are identical circles. The formula for the volume of a cylinder is:
 
-volume = π × radius^2 × height of the cylinder = π r^2 × h
+volume = π × radius² × height of the cylinder = π r² × h
 
 One of the most important applications of the volume of a cylinder is finding the piston displacement of a cylinder in a reciprocating engine. Piston displacement is the total volume (in cubic inches, cubic centimeters, or liters) swept by all of the pistons of a reciprocating engine as they move in one revolution of the crankshaft. The formula for piston displacement is given as:
 
-Piston Displacement = π × (bore divided by 2)^2 × stroke × (# cylinders)
+Piston Displacement = π × (bore divided by 2)² × stroke × (# cylinders)
 
 The bore of an engine is the inside diameter of the cylinder. The stroke of the engine is the length the piston travels inside the cylinder.
 
 Example: Find the piston displacement of one cylinder in a multi-cylinder aircraft engine. The engine has a cylinder bore of 5.5 inches and a stroke of 5.4 inches. First, substitute the known values in the formula.
 
-v = π × r2 × h = (3.1416) × (5.5 ÷ 2)^2 × (5.4)
+v = π × r² × h = (3.1416) × (5.5 ÷ 2)² × (5.4)
 v = 23.758 × 5.4 = 128.29 cubic inches
 
 The piston displacement of one cylinder is 128.29 cubic inches. For an eight-cylinder engine, then the total engine displacement would be:
@@ -53,18 +53,18 @@ Total displacement for 8 cylinders = 8 × 128.29 = 1026.32 cubic inches of displ
 
 A solid having the shape of a ball is called a sphere. A sphere has a constant diameter. The radius (r) of a sphere is one-half of the diameter (d). The formula for the volume of a sphere is given as:
 
-V = 4⁄3 × π × radius^3 = 4⁄3 × π × r^3 or v = 1⁄6 × πd^3
+V = 4⁄3 × π × radius³ = 4⁄3 × π × r³ or v = 1⁄6 × πd³
 
 Example: A pressure tank inside the fuselage of a cargo aircraft is in the shape of a sphere with a diameter of 34 inches. What is the volume of the pressure tank?
 
-v = 4⁄3 × π × radius^3 = 4⁄3 × (3.1416) × (34⁄2)^3 = 1.33 × 3.1416 × 173 = 1.33 × 3.1416 × 4,913
+v = 4⁄3 × π × radius³ = 4⁄3 × (3.1416) × (34⁄2)³ = 1.33 × 3.1416 × 173 = 1.33 × 3.1416 × 4,913
 v = 20,528.125 cubic inches
 
 ### Cone
 
 A solid with a circle as a base and with sides that gradually taper to a point is called a cone. The formula for the volume of a cone is given as:
 
-v = 1⁄3 × π × radius^2 × height = 1⁄3 × π × r^2 × h
+v = 1⁄3 × π × radius² × height = 1⁄3 × π × r² × h
 
 ### Units of Volume
 
@@ -101,7 +101,7 @@ v = l × w × h = 3 ft × 3 ft × 3 ft = 27 立方英尺，这是大纸箱的容
 
 形状像罐头、一段管子或木桶的立体称为圆柱体。圆柱体的两端是完全相同的圆。圆柱体的体积公式为：
 
-volume = π × radius2 × height of the cylinder = π r2 × h
+volume = π × radius² × height of the cylinder = π r² × h
 
 圆柱体体积最重要的应用之一，是求往复式发动机气缸的活塞排量。活塞排量是往复式发动机全部活塞在曲轴转一转的过程中扫过的总容积（以立方英寸、立方厘米或升计）。活塞排量的公式为：
 
@@ -113,7 +113,7 @@ Fahrenheit = ⁹⁄5 × (°C + 32)
 
 例：求某多缸航空发动机一个气缸的活塞排量。该发动机缸径 5.5 英寸、行程 5.4 英寸。先把已知值代入公式。
 
-v = π × r2 × h = (3.1416) × (5.5 ÷ 2)2 × (5.4) v = 23.758 × 5.4 = 128.29 立方英寸
+v = π × r² × h = (3.1416) × (5.5 ÷ 2)² × (5.4) v = 23.758 × 5.4 = 128.29 立方英寸
 
 单个气缸的活塞排量为 128.29 立方英寸。那么，八缸发动机的整机总排量为：
 
@@ -123,8 +123,8 @@ v = π × r2 × h = (3.1416) × (5.5 ÷ 2)2 × (5.4) v = 23.758 × 5.4 = 128.29 
 
 形状像球的立体称为球体。球体具有恒定的直径。球体的半径（r）是直径（d）的一半。球体的体积公式为：
 
-（原文此处为立体公式总表的碎片：H、L、W 及 L = 3、W = 2、H = 2、s、s、s 等尺寸标注，随后在 Solid、Volume、Surface Area 栏目下列出 l × w × h、s3、π × r2 × h 等公式，原文无完整句子。）
-（原文此处为上述公式表的续行：6 × s2、2 × π × r2 + π × d × h、4 × π × r2、π × r × [r + (r2 + h2)½]，原文无正文。）
+（原文此处为立体公式总表的碎片：H、L、W 及 L = 3、W = 2、H = 2、s、s、s 等尺寸标注，随后在 Solid、Volume、Surface Area 栏目下列出 l × w × h、s³、π × r² × h 等公式，原文无完整句子。）
+（原文此处为上述公式表的续行：6 × s²、2 × π × r² + π × d × h、4 × π × r²、π × r × [r + (r² + h²)½]，原文无正文。）
 （原文此处为表头名称的碎片：Rectangle、Solid、Cube、Cylinder、Sphere，原文无正文。）
 （原文此处为几个附表标题混排：二维物体面积公式、代数等式运算顺序、公制词头名称与符号、10 的幂（exa 10¹⁸），原文无完整句子。） （原文此处为词头碎片：giga（10⁹）、mega（10⁶），原文无正文。）
 （原文此处为 10 的幂表的碎片：One quintillion times 至 One trillionth of 等倍数说法，106、105……100 与 1,000,000……1 的对应，10 × 10 × … 的展开式，以及 1/10 = 0.1、1/100 = 0.01 等负指数取值，原文无完整句子。）
@@ -144,7 +144,7 @@ v = 4⁄3 × π × radius3 = 4⁄3 × (3.1416) × (34⁄2)3 = 1.33 × 3.1416 × 
 
 以圆为底、侧面逐渐收拢到一点的立体称为圆锥体。圆锥体的体积公式为：
 
-v = 1⁄3 × π × radius2 × height = 1⁄3 × π × r2 × h
+v = 1⁄3 × π × radius² × height = 1⁄3 × π × r² × h
 
 ### 体积单位
 
@@ -158,9 +158,9 @@ v = 1⁄3 × π × radius2 × height = 1⁄3 × π × r2 × h
 | cubic unit | n.phr. | 立方单位 | 体积的计量单位，如立方英寸、立方英尺 |
 | rectangular solid | n.phr. | 长方体 | 六个矩形面的立体，体积 = l × w × h |
 | cube | n. | 立方体 | 六个正方形面的立体，体积 = S3 |
-| cylinder | n. | 圆柱体 | 像罐头或一段管子的立体，体积 = π r2 × h |
+| cylinder | n. | 圆柱体 | 像罐头或一段管子的立体，体积 = π r² × h |
 | sphere | n. | 球体 | 直径恒定的立体，体积 = 4⁄3 × π × r3 |
-| cone | n. | 圆锥体 | 以圆为底、侧面收拢到一点的立体，体积 = 1⁄3 × π × r2 × h |
+| cone | n. | 圆锥体 | 以圆为底、侧面收拢到一点的立体，体积 = 1⁄3 × π × r² × h |
 | piston displacement | n.phr. | 活塞排量 | 全部活塞在曲轴转一转中扫过的总容积 |
 | bore | n. | 缸径 | 气缸的内径，例中为 5.5 英寸 |
 | stroke | n. | 行程 | 活塞在气缸内移动的距离，例中为 5.4 英寸 |

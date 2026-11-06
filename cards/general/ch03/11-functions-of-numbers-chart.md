@@ -8,9 +8,9 @@ The Functions of Numbers chart is included in this chapter for convenience in ma
 
 • Number (N)
 
-• N squared (N^2)
+• N squared (N²)
 
-• N cubed (N^3)
+• N cubed (N³)
 
 • Square root of N (√N)
 
@@ -18,7 +18,7 @@ The Functions of Numbers chart is included in this chapter for convenience in ma
 
 • Circumference of a circle with diameter = N.Circumference is the linear measurement of the distance around a circle. The circumference is calculated by multiplying the diameter of the circle by 3.1416 (3.1416 is the number referred to as pi, which has the symbol π). If the diameter of a circle is 10 inches, then the circumference would be: 10 × 3.1416 = 31.4160.
 
-• Area of a circle with diameter = N. Area of a circle is the number of square units of measurement contained in the circle with a diameter of N. The area of a circle equals π multiplied by the radius squared. This is calculated by the formula: A = π × r^2. Remember that the radius is equal to one-half of the diameter. Example: A flight deck instrument gauge has a round face that is 3 inches in diameter. What is the area of the face of the gauge? For N = 3, the answer is 7.0686 square inches. This is calculated by:If the diameter of the gauge is 3 inches, then the radius = D⁄2 = 3⁄2 = 1.5 inches.Area = π × r^2 = 3.1416 × 1.5^2 = 3.1416 × 2.25 = 7.0686 square inches.
+• Area of a circle with diameter = N. Area of a circle is the number of square units of measurement contained in the circle with a diameter of N. The area of a circle equals π multiplied by the radius squared. This is calculated by the formula: A = π × r². Remember that the radius is equal to one-half of the diameter. Example: A flight deck instrument gauge has a round face that is 3 inches in diameter. What is the area of the face of the gauge? For N = 3, the answer is 7.0686 square inches. This is calculated by:If the diameter of the gauge is 3 inches, then the radius = D⁄2 = 3⁄2 = 1.5 inches.Area = π × r² = 3.1416 × 1.5² = 3.1416 × 2.25 = 7.0686 square inches.
 
 ## 2. 中文翻译
 
@@ -26,9 +26,9 @@ The Functions of Numbers chart is included in this chapter for convenience in ma
 
 • 数字（N）
 
-• N 的平方（N^2）
+• N 的平方（N²）
 
-• N 的立方（N^3）
+• N 的立方（N³）
 
 • N 的平方根（原文此处为根号 N，根号符号在抽文中丢失）
 
@@ -37,8 +37,8 @@ The Functions of Numbers chart is included in this chapter for convenience in ma
 • 直径为 N 的圆的周长。
 周长是绕圆一周的长度的线性量度。圆周长的算法是把圆的直径乘以 3.1416（3.1416 就是所谓的圆周率，符号为 π）。若圆的直径为 10 英寸，则周长为：10 × 3.1416 = 31.4160。
 
-• 直径为 N 的圆的面积。圆的面积是直径为 N 的圆内所含平方单位的数目。圆的面积等于 π 乘以半径的平方，按公式 A = π × r2 计算（原文 r 上的平方指数在抽文中丢失，r2 即 r²）。记住，半径等于直径的一半。例：某驾驶舱仪表有一块直径 3 英寸的圆形表盘。这块表盘的面积是多少？当 N = 3 时，答案为 7.0686 平方英寸。计算如下：
-若表盘直径为 3 英寸，则半径 = D⁄2 = 3⁄2 = 1.5 英寸。面积 = π × r2 = 3.1416 × 1.5 2 = 3.1416 × 2.25 = 7.0686 平方英寸。
+• 直径为 N 的圆的面积。圆的面积是直径为 N 的圆内所含平方单位的数目。圆的面积等于 π 乘以半径的平方，按公式 A = π × r² 计算（原文 r 上的平方指数在抽文中丢失，r² 即 r²）。记住，半径等于直径的一半。例：某驾驶舱仪表有一块直径 3 英寸的圆形表盘。这块表盘的面积是多少？当 N = 3 时，答案为 7.0686 平方英寸。计算如下：
+若表盘直径为 3 英寸，则半径 = D⁄2 = 3⁄2 = 1.5 英寸。面积 = π × r² = 3.1416 × 1.5² = 3.1416 × 2.25 = 7.0686 平方英寸。
 
 ## 3. 专业词汇
 
@@ -50,12 +50,12 @@ The Functions of Numbers chart is included in this chapter for convenience in ma
 | pi (π) | n. | 圆周率 | 取常数 3.1416，是周长与面积公式里的那个乘数 |
 | square root | n.phr. | 平方根 | 数字函数表第一列，例中 N 的平方根写作 N 并带根号 |
 | cube root | n.phr. | 立方根 | 数字函数表第二列，写作 ∛N |
-| squared | adj. | 平方的 | 指“半径的平方”，抽文中记作 r2，即 r 自乘一次 |
+| squared | adj. | 平方的 | 指“半径的平方”，抽文中记作 r²，即 r 自乘一次 |
 | linear measurement | n.phr. | 线性量度 | 只沿一条线量出的长度，用来和面积、体积区分 |
 | square unit | n.phr. | 平方单位 | 面积的计数单位，例中为平方英寸 |
 | gauge | n. | 表、仪表 | 驾驶舱上带圆形表盘的指示仪表，例中表盘直径 3 英寸 |
 | flight deck | n.phr. | 驾驶舱 | 飞行员工作的舱段，例中仪表的安装位置 |
-| formula | n. | 公式 | 如 A = π × r2 这类把已知量代进去就能算的式子 |
+| formula | n. | 公式 | 如 A = π × r² 这类把已知量代进去就能算的式子 |
 
 ## 4. 语法解析
 
@@ -75,7 +75,7 @@ The Functions of Numbers chart is included in this chapter for convenience in ma
 **要点**：if 从句用现在时、主句用 would，是“假设一组数值、推出结果”的常规写法，并非过去将来；冒号后可直接跟算式，不必补句子成分。
 
 ### ④ by 引出计算手段
-**原句**：This is calculated by the formula: A = π × r2.
+**原句**：This is calculated by the formula: A = π × r².
 **拆解**：This 指代前句的 the area of a circle；is calculated 为被动谓语；by the formula 中 by 后接名词，表示手段、依据；冒号后是公式本体。
 **要点**：表示“用某种方法/工具”时 by 后接名词或动名词均可，但此处 by the formula 指依据某公式，不能改成 with the formula（with 强调使用的工具）。
 

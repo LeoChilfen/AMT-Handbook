@@ -16,29 +16,29 @@ Surface area = 2 × [(width × length) + (width × height) + (length × height)]
 
 The formula for the surface area of a cube is given as:
 
-Surface area = 6 × (side × side) = 6 × s^2
+Surface area = 6 × (side × side) = 6 × s²
 
 Example: What is the surface area of a cube with a side measure of 8 inches?
 
-Surface area = 6 × (side × side) = 6 × S^2 = 6 × 8^2 = 6 × 64 = 384 square inches
+Surface area = 6 × (side × side) = 6 × S² = 6 × 8² = 6 × 64 = 384 square inches
 
 ### Cylinder
 
 The formula for the surface area of a cylinder is given as:
 
-Surface area = 2 × π × radius^2 + π × diameter × height = 2 × π × r^2 + π × d × h
+Surface area = 2 × π × radius² + π × diameter × height = 2 × π × r² + π × d × h
 
 ### Sphere
 
 The formula for the surface area of a sphere is given as:
 
-Surface area = 4 × π × radius^2 = 4 × π × r^2
+Surface area = 4 × π × radius² = 4 × π × r²
 
 ### Cone
 
 The formula for the surface area of a right circular cone is given as:
 
-Surface area = π × radius × [radius + √(radius^2 + height^2)] = π × r × [r + √(r^2 + h^2)]
+Surface area = π × radius × [radius + √(radius² + height²)] = π × r × [r + √(r² + h²)]
 
 ## 2. 中文翻译
 
@@ -55,7 +55,7 @@ Surface area = 2 × [(width × length) + (width × height) + (length × height)]
 
 立方体的表面积公式为：
 
-Surface area = 6 × (side × side) = 6 × s2
+Surface area = 6 × (side × side) = 6 × s²
 
 例：边长为 8 英寸的立方体，其表面积是多少？
 
@@ -65,19 +65,19 @@ Surface area = 6 × (side × side) = 6 × S2 = 6 × 82 = 6 × 64 = 384 平方英
 
 圆柱体的表面积公式为：
 
-Surface area = 2 × π × radius2 + π × diameter × height = 2 × π × r2 + π × d × h
+Surface area = 2 × π × radius² + π × diameter × height = 2 × π × r² + π × d × h
 
 ### 球体
 
 球体的表面积公式为：
 
-Surface area = 4 × π × radius2 = 4 × π × r2
+Surface area = 4 × π × radius² = 4 × π × r²
 
 ### 正圆锥
 
 正圆锥的表面积公式为：
 
-Surface area = π × radius × [radius + √(radius2 + height2)] = π × r × [r + √(r2 + h2)]
+Surface area = π × radius × [radius + √(radius² + height2)] = π × r × [r + √(r² + h²)]
 
 ## 3. 专业词汇
 
@@ -88,7 +88,7 @@ Surface area = π × radius × [radius + √(radius2 + height2)] = π × r × [r
 | face | n. | 面 | 围成立体的平面，如长方体的六个矩形面 |
 | sheet metal | n.phr. | 金属板 | 例中制作矩形油箱所需的板料，衡量表面积 |
 | fuel tank | n.phr. | 油箱 | 例中对比：油箱用多少板料是表面积，能装多少油是体积 |
-| cube | n. | 立方体 | 六个正方形面的立体，表面积 = 6 × s2 |
+| cube | n. | 立方体 | 六个正方形面的立体，表面积 = 6 × s² |
 | cylinder | n. | 圆柱体 | 两端为等圆的立体，表面积 = 2πr2 + πdh |
 | sphere | n. | 球体 | 直径恒定的立体，表面积 = 4πr2 |
 | right circular cone | n.phr. | 正圆锥 | 底面为圆、轴线垂直于底面的锥体 |

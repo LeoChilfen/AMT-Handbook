@@ -32,17 +32,17 @@ When using a trigonometry table, find 30° in the first column. Next, find the v
 
 ### Pythagorean Theorem
 
-The Pythagorean Theorem is named after the ancient Greek mathematician, Pythagoras (~500 B.C.). This theorem is used to find the third side of any right triangle when two sides are known. The Pythagorean Theorem states that a^2 + b^2 = c^2. Where “c” = the hypotenuse of a right triangle, “a” is one side of the triangle and “b” is the other side of the triangle.
+The Pythagorean Theorem is named after the ancient Greek mathematician, Pythagoras (~500 B.C.). This theorem is used to find the third side of any right triangle when two sides are known. The Pythagorean Theorem states that a² + b² = c². Where “c” = the hypotenuse of a right triangle, “a” is one side of the triangle and “b” is the other side of the triangle.
 
 Example: What is the length of the longest side of a right triangle, given the other sides are 7 inches and 9 inches? The longest side of a right triangle is always side “c,” the hypotenuse. Use the Pythagorean Theorem to solve for the length of side “c” as follows:
 
-a^2 + b^2 = c^2
+a² + b² = c²
 
-7^2 + 9^2 = c^2
+7² + 9² = c²
 
-49 + 81 = c^2
+49 + 81 = c²
 
-130 = c^2
+130 = c²
 
 c = √130 = 11.4 inches
 
@@ -52,13 +52,13 @@ Example: The cargo door opening in a military airplane is a rectangle that is 5 
 
 The diagonal distance across the cargo door opening can be calculated using the Pythagorean Theorem where “a” is the cargo door width, “b” is the cargo door height, and “c” is the diagonal distance across the cargo door opening. 
 
-a^2 + b^2 = c^2
+a² + b² = c²
 
-(7 ft)^2 + (5.5 ft)^2 = c^2
+(7 ft)² + (5.5 ft)² = c²
 
-49 + 30.25 = c^2
+49 + 30.25 = c²
 
-79.25 = c^2
+79.25 = c²
 
 c = 8.9 ft
 

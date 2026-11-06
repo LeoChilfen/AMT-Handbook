@@ -12,7 +12,7 @@ For example, in the equation d = v × t, where distance = velocity × time, the 
 
 Algebraic equations are frequently used in aviation to show the relationship between two or more variables. Equations normally have an equals sign (=) in the expression.
 
-Example: The formula A = π × r^2 shows the relationship between the area of a circle (A) and the length of the radius (r) of the circle. The area of a circle is equal to π (3.1416) times the radius squared. The larger the radius, the larger the area of the circle.
+Example: The formula A = π × r² shows the relationship between the area of a circle (A) and the length of the radius (r) of the circle. The area of a circle is equal to π (3.1416) times the radius squared. The larger the radius, the larger the area of the circle.
 
 ### Algebraic Rules
 
@@ -60,15 +60,15 @@ Another application of algebra is to solve an equation for a given variable.
 
 In algebraic equations, parentheses are used to group numbers or symbols together. The use of parentheses helps us to identify the order in which we should apply mathematical operations. The operations inside the parentheses are always performed first in algebraic equations.
 
-Example: Solve the algebraic equation X = (4 + 3)^2. First, perform the operation inside the parentheses, which is, 4 + 3 = 7. Then complete the exponent calculation X = (7)^2 = 7 × 7 = 49.
+Example: Solve the algebraic equation X = (4 + 3)². First, perform the operation inside the parentheses, which is, 4 + 3 = 7. Then complete the exponent calculation X = (7)² = 7 × 7 = 49.
 
 When using more complex equations, which may combine several terms and use multiple operations, grouping the terms together helps organize the equation. Parentheses, ( ), are most commonly used in grouping, but you may also see brackets, [ ]. When a term or expression is inside one of these grouping symbols, it means that any operation indicated to be done on the group is done to the entire term or expression.
 
-Example: Solve the equation N = 2 × [(9 ÷ 3) + (4 + 3)^2]. Start with the operations inside the parentheses ( ), then perform the operations inside the brackets [ ].
+Example: Solve the equation N = 2 × [(9 ÷ 3) + (4 + 3)²]. Start with the operations inside the parentheses ( ), then perform the operations inside the brackets [ ].
 
-N = 2 × [(9 ÷ 3) + (4 + 3)^2]
+N = 2 × [(9 ÷ 3) + (4 + 3)²]
 
-N = 2 × [3 + (7)^2]
+N = 2 × [3 + (7)²]
 
 First, complete the operations inside the parentheses ( ).
 
@@ -84,10 +84,10 @@ N = 104
 
 In algebra, rules have been set for the order in which operations are evaluated. These same universally accepted rules are also used when programming algebraic equations in calculators. When solving the following equation, the order of operation is given below:
 
-N = (62 – 54)^2 + 6^2 – 4 + 3 × [8 + (10 ÷ 2)] + √25 + (42 × 2) ÷ 4 + 3⁄4
+N = (62 – 54)² + 6² – 4 + 3 × [8 + (10 ÷ 2)] + √25 + (42 × 2) ÷ 4 + 3⁄4
 
 1. Parentheses. First you must do everything in parentheses, ( ), starting from the innermost parentheses. If the expression has a set of brackets, [ ], treat these exactly like parentheses. If you are working with a fraction, treat the top as if it was in parentheses and the denominator as if it were in parentheses, even if there is none shown. From the equation above, completing the calculation in parentheses gives the following:
-N = (8)^2 + 6^2 – 4 + 3 × [8 + (5)] + √25 + (84) ÷ 4 + 3⁄4, then N = (8)^2 + 6^2 – 4 + 3 × [13] + 25 + 84 ÷ 4 + 3⁄4
+N = (8)² + 6² – 4 + 3 × [8 + (5)] + √25 + (84) ÷ 4 + 3⁄4, then N = (8)² + 6² – 4 + 3 × [13] + 25 + 84 ÷ 4 + 3⁄4
 
 2. Exponents. Next, clear any exponents. Treat any roots (square roots, cube roots, and so forth) as exponents. Completing the exponents and roots in the equation gives the following:
 N = 64 + 36 – 4 + 3 × 13 + 5 + 84 ÷ 4 + 3⁄4
@@ -124,7 +124,7 @@ A commonly used acronym, PEMDAS, is used for remembering the order of operation 
 
 代数等式在航空领域常用于表示两个或多个变量之间的关系。等式通常含有等号（=）。
 
-例：公式 A = π × r2 表示圆的面积（A）与该圆半径长度（r）之间的关系（原文 r 上的平方指数在抽文中丢失，r2 即 r²）。圆的面积等于 π（3.1416） 乘以半径的平方。半径越大，圆的面积越大。
+例：公式 A = π × r² 表示圆的面积（A）与该圆半径长度（r）之间的关系（原文 r 上的平方指数在抽文中丢失，r² 即 r²）。圆的面积等于 π（3.1416） 乘以半径的平方。半径越大，圆的面积越大。
 
 ### 代数法则
 
@@ -233,7 +233,7 @@ PEMDAS 是常用的首字母缩写，用来记住代数中的运算顺序。PEMD
 | algebra | n. | 代数 | 用字母或符号代表公式、等式中变量的数学分支 |
 | variable | n. | 变量 | 如 d、v、t、N 这类待求或可取不同值的量 |
 | equation | n. | 等式、方程 | 含等号（=）、表示两边相等的关系式 |
-| formula | n. | 公式 | 如 A = π × r2、CT 的串联电容式 |
+| formula | n. | 公式 | 如 A = π × r²、CT 的串联电容式 |
 | substitute | v. | 代入 | 把 C1、C2、C3 的已知值代进公式 |
 | capacitance | n. | 电容 | 用 CT 表示，单位为微法 |
 | microfarad | n. | 微法 | 电容的计量单位，1 微法 = 10⁻⁶ 法拉 |

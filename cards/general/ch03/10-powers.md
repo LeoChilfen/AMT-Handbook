@@ -6,9 +6,9 @@
 
 The power (or exponent) of a number is a shorthand method of indicating how many times a number, called the base, is multiplied by itself. For example, 3⁴ is read as “3 to the power of 4.” That is, 3 multiplied by itself 4 times. The 3 is the base and 4 is the power.
 
-Examples: 2^3 = 2 × 2 × 2 = 8 Read “two to the third power equals 8.”
+Examples: 2³ = 2 × 2 × 2 = 8 Read “two to the third power equals 8.”
 
-10^5 = 10 × 10 × 10 × 10 × 10 = 100,000 Read “ten to the fifth power equals 100,000.”
+10⁵ = 10 × 10 × 10 × 10 × 10 = 100,000 Read “ten to the fifth power equals 100,000.”
 
 ### Special Powers
 
@@ -22,15 +22,15 @@ When a number has a power of 3, it is commonly referred to as “cubed.” For e
 
 #### Power of Zero
 
-Any non-zero number raised to the zero power always equals 1. Example: 7^0 = 1 181^0 = 1 (–24)^0 = 1
+Any non-zero number raised to the zero power always equals 1. Example: 7⁰ = 1 181⁰ = 1 (–24)⁰ = 1
 
 ### Negative Powers
 
 A number with a negative power equals its reciprocal with the same power made positive.
 
-Example: The number 2^-3 is read as “2 to the negative 3rd power,” and is calculated by:
+Example: The number 2⁻³ is read as “2 to the negative 3rd power,” and is calculated by:
 
-2^-3 = 1/2^3 = 1/2 × 2 × 2 = 1/8
+2⁻³ = 1/2³ = 1/2 × 2 × 2 = 1/8
 
 When using a calculator to raise a negative number to a power, always place parentheses around the negative number (before raising it to a power) so that the entire number gets raised to the power.
 
@@ -38,11 +38,11 @@ When using a calculator to raise a negative number to a power, always place pare
 
 When multiplying numbers with powers, the powers can be added as long as the bases are the same.
 
-Example: 3^2 × 3^4 = (3 × 3) × (3 × 3 × 3 × 3) = 3 × 3 × 3 × 3 × 3 × 3 = 3⁶ or 3² × 3⁴ = 3⁽²⁺⁴⁾ = 3⁶
+Example: 3² × 3⁴ = (3 × 3) × (3 × 3 × 3 × 3) = 3 × 3 × 3 × 3 × 3 × 3 = 3⁶ or 3² × 3⁴ = 3⁽²⁺⁴⁾ = 3⁶
 
 When dividing numbers with powers, the powers can be subtracted as long as the bases are the same.
 
-Example: 10^4 ÷ 10^2 =10 × 10 × 10 × 10/10 × 10 =10 × 10 =10^2 or 10^4 ÷ 10^2 = 10^(4 – 2) = 10^2
+Example: 10⁴ ÷ 10² =10 × 10 × 10 × 10/10 × 10 =10 × 10 =10² or 10⁴ ÷ 10² = 10⁴² = 10²
 
 ### Powers of Ten
 
@@ -66,13 +66,13 @@ Example: Find the square root of 31. Since 31 falls between the two perfect root
 
 The cube root of 125, written as ∛125, equals 5. That is, when the number 5 is cubed (5 multiplied by itself then multiplying the product (25) by 5 again), it produces the number 125. It is common to confuse the “cube” of a number with the “cube root” of a number.
 
-For clarification, the cube of 27 = 27^3 = 27 × 27 × 27 = 19,683. However, the cube root of 27 = ∛27 = 3.
+For clarification, the cube of 27 = 27³ = 27 × 27 × 27 = 19,683. However, the cube root of 27 = ∛27 = 3.
 
 ### Fractional Powers
 
 Another way to write a root is to use a fraction as the power (or exponent) instead of the radical sign. The square root of a number is written with a 1⁄2 as the exponent instead of a radical sign. The cube root of a number is written with an exponent of 1⁄3 and the fourth root with an exponent of 1⁄4 and so on.
 
-Example: √31 = 31^1⁄2 ∛125 = 125^1⁄3 ∜16 = 16^1⁄4
+Example: √31 = 31¹⁄² ∛125 = 125¹⁄³ ∜16 = 16¹⁄⁴
 
 ## 2. 中文翻译
 
@@ -144,7 +144,7 @@ Example: √31 = 31^1⁄2 ∛125 = 125^1⁄3 ∜16 = 16^1⁄4
 
 写根的另一种方法是用分数作幂（或指数），而不用根号。一个数的平方根写成指数 1⁄2 的形式，而不用根号。一个数的立方根写成指数 1⁄3，四次方根写成指数 1⁄4，依此类推。
 
-例：√31 = 31^1⁄2，∛125 = 125^1⁄3，∜16 = 16^1⁄4。
+例：√31 = 31¹⁄²，∛125 = 125¹⁄³，∜16 = 16¹⁄⁴。
 
 ## 3. 专业词汇
 

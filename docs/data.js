@@ -3832,7 +3832,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "07",
   "titleEn": "Advanced Composite Materials",
-  "count": 4,
+  "count": 5,
   "cards": [
    {
     "slug": "airframe-ch07-01",
@@ -3857,6 +3857,12 @@ window.AMT_CARDS = [
     "seq": "04",
     "title": "Nondestructive Inspection (NDI) of Composites",
     "file": "04-nondestructive-inspection-ndi-of-composites.md"
+   },
+   {
+    "slug": "airframe-ch07-05",
+    "seq": "05",
+    "title": "Composite Repairs",
+    "file": "05-composite-repairs.md"
    }
   ]
  },
@@ -4158,7 +4164,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "11",
   "titleEn": "Communication & Navigation",
-  "count": 4,
+  "count": 7,
   "cards": [
    {
     "slug": "airframe-ch11-01",
@@ -4183,6 +4189,24 @@ window.AMT_CARDS = [
     "seq": "05",
     "title": "Inertial Navigation System (INS)/Inertial Reference System (IRS)",
     "file": "05-inertial-navigation-system-ins-inertial-reference-system-irs.md"
+   },
+   {
+    "slug": "airframe-ch11-06",
+    "seq": "06",
+    "title": "Installation of Communication & Navigation Equipment",
+    "file": "06-installation-of-communication-and-navigation-equipment.md"
+   },
+   {
+    "slug": "airframe-ch11-07",
+    "seq": "07",
+    "title": "Reducing Radio Interference",
+    "file": "07-reducing-radio-interference.md"
+   },
+   {
+    "slug": "airframe-ch11-08",
+    "seq": "08",
+    "title": "Installation of Aircraft Antenna Systems",
+    "file": "08-installation-of-aircraft-antenna-systems.md"
    }
   ]
  },
@@ -4305,7 +4329,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "14",
   "titleEn": "Aircraft Fuel Systems",
-  "count": 4,
+  "count": 8,
   "cards": [
    {
     "slug": "airframe-ch14-01",
@@ -4330,6 +4354,30 @@ window.AMT_CARDS = [
     "seq": "04",
     "title": "Aircraft Fuel Systems",
     "file": "04-aircraft-fuel-systems.md"
+   },
+   {
+    "slug": "airframe-ch14-05",
+    "seq": "05",
+    "title": "Fuel System Components",
+    "file": "05-fuel-system-components.md"
+   },
+   {
+    "slug": "airframe-ch14-06",
+    "seq": "06",
+    "title": "Fuel System Repair",
+    "file": "06-fuel-system-repair.md"
+   },
+   {
+    "slug": "airframe-ch14-07",
+    "seq": "07",
+    "title": "Fuel System Servicing",
+    "file": "07-fuel-system-servicing.md"
+   },
+   {
+    "slug": "airframe-ch14-08",
+    "seq": "08",
+    "title": "Fueling & Defueling Procedures",
+    "file": "08-fueling-and-defueling-procedures.md"
    }
   ]
  },
@@ -4405,7 +4453,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "16",
   "titleEn": "Cabin Environmental Control Systems",
-  "count": 2,
+  "count": 4,
   "cards": [
    {
     "slug": "airframe-ch16-01",
@@ -4418,6 +4466,18 @@ window.AMT_CARDS = [
     "seq": "02",
     "title": "Aircraft Oxygen Systems",
     "file": "02-aircraft-oxygen-systems.md"
+   },
+   {
+    "slug": "airframe-ch16-03",
+    "seq": "03",
+    "title": "Aircraft Pressurization Systems",
+    "file": "03-aircraft-pressurization-systems.md"
+   },
+   {
+    "slug": "airframe-ch16-05",
+    "seq": "05",
+    "title": "Aircraft Heaters",
+    "file": "05-aircraft-heaters.md"
    }
   ]
  },
