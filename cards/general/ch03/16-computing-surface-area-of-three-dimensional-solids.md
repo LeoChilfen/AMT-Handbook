@@ -10,27 +10,35 @@ The surface area of a three-dimensional solid is the sum of the areas of the fac
 
 The formula for the surface area of a rectangular solid is given as:
 
+Surface area = 2 × [(width × length) + (width × height) + (length × height)] = 2 × [(w × l) + (w × h) + (l × h)]
+
+### Cube
+
 The formula for the surface area of a cube is given as:
+
+Surface area = 6 × (side × side) = 6 × s^2
+
+Example: What is the surface area of a cube with a side measure of 8 inches?
+
+Surface area = 6 × (side × side) = 6 × S^2 = 6 × 8^2 = 6 × 64 = 384 square inches
+
+### Cylinder
 
 The formula for the surface area of a cylinder is given as:
 
+Surface area = 2 × π × radius^2 + π × diameter × height = 2 × π × r^2 + π × d × h
+
+### Sphere
+
 The formula for the surface area of a sphere is given as:
+
+Surface area = 4 × π × radius^2 = 4 × π × r^2
+
+### Cone
 
 The formula for the surface area of a right circular cone is given as:
 
-Surface area = 2 × π × radius2 + π × diameter × height = 2 × π × r2 + π × d × h
-
-Surface area = 4 × π × radius2 = 4 × π × r2
-
-Surface area = 2 × [(width × length) + (width × height) + (length × height)]
-
-= 2 × [(w × l) + (w × h) + (l × h)]
-
-Surface area = 6 × (side × side) = 6 × s2 Example: What is the surface area of a cube with a side measure of 8 inches? Surface area = 6 × (side × side) = 6 × S2 = 6 × 82 = 6 × 64 = 384 square inches
-
-Surface area = π × radius × [radius + √(radius2 + height2)] = π × r × [r + √(r2 + h2)]
-
-The formulas for computing the volume and surface area of three-dimensional solids are summarized below.
+Surface area = π × radius × [radius + √(radius^2 + height^2)] = π × r × [r + √(r^2 + h^2)]
 
 ## 2. 中文翻译
 
