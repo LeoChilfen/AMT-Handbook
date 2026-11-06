@@ -12,7 +12,7 @@ To add mixed numbers, add the whole numbers together. Then add the fractions tog
 
 Example: The cargo area behind the rear seat of a small airplane can handle solids that are 4 3⁄4 feet long. If the rear seats are removed, then 2 1⁄3 feet is added to the cargo area. What is the total length of the cargo area when the rear seats are removed?
 
-4 3/4 + 2 1/3 = (4 + 2) +(3/4 + 1/3) = 6 +(9/12 + 4/12) = 6 13/12 = 7 1/12 feet of cargo room
+4 3⁄4 + 2 1⁄3 = (4 + 2) + (3⁄4 + 1⁄3) = 6 + (9⁄12 + 4⁄12) = 6 13⁄12 = 7 1⁄12 feet of cargo room
 
 ### Subtraction of Mixed Numbers
 
@@ -20,7 +20,7 @@ To subtract mixed numbers, find a common denominator for the fractions. Subtract
 
 Example: What is the length of the grip of the bolt? The overall length of the bolt is 3 1⁄2 inches, the shank length is 3 1⁄8 inches, and the threaded portion is 15⁄16 inches long. To find the grip, subtract the length of the threaded portion from the length of the shank.
 
-31⁄8 inches – 15⁄16 inches = grip length
+3 1⁄8 inches – 15⁄16 inches = grip length
 
 To subtract, start with the fractions. Borrowing is necessary because 5⁄16 is larger than 1⁄8 (or 2⁄16). From the whole number 3, borrow 1, which is actually 16⁄16. After borrowing, the first mixed number is now 2 18⁄16. This is because, 3 1⁄8 = 3 2⁄16 = 2 + 1 + 2⁄16 = 2 + 16⁄16 + 2⁄16 = 2 18⁄16.
 
@@ -38,7 +38,7 @@ Therefore, the grip length of the bolt is 1 13⁄16 inches.
 
 例：一架小型飞机后座后面的货舱可以装载长度为 4 3⁄4 英尺的硬质物件。如果把后座拆掉，货舱长度可增加 2 1⁄3 英尺。拆掉后座后，货舱的总长度是多少？
 
-（原文此处为带分数加法竖式，抽文中分数被抽平、上下位置丢失：）4 3 + 2 1 = (4 + 2) +(3 + 1) = 6 +( 9 + 4) = 6 13 = 4 3 4 3 12 12 12 7 1 英尺的货舱长度 12
+4 3⁄4 + 2 1⁄3 = (4 + 2) + (3⁄4 + 1⁄3) = 6 + (9⁄12 + 4⁄12) = 6 13⁄12 = 7 1⁄12 英尺的货舱长度
 
 ### 带分数的减法
 
@@ -50,7 +50,7 @@ Therefore, the grip length of the bolt is 1 13⁄16 inches.
 
 相减时先从分数部分入手。需要借位，因为 5⁄16 大于 1⁄8（即 2⁄16）。从整数 3 中借 1，这个 1 实际上是 16⁄16。借位后，第一个带分数现在是 2 18⁄16。这是因为 3 1⁄8 = 3 2⁄16 = 2 + 1 + 2⁄16 = 2 + 16⁄16 + 2⁄16 = 2 18⁄16。
 
-（原文此处为带分数减法竖式，抽文中分数被抽平：）3 1 – 1 5 = 3 2 – 1 5 = 2 18 – 1 5 = 113 8 16 16 16 16 16 16 因此，螺栓的夹持长度是 1 13⁄16 英寸。
+3 1⁄8 – 1 5⁄16 = 3 2⁄16 – 1 5⁄16 = 2 18⁄16 – 1 5⁄16 = 1 13⁄16。因此，螺栓的夹持长度是 1 13⁄16 英寸。
 
 （注：螺栓总长的数值在例题中给出，但解题并不需要它。这类信息有时被称为「干扰项」，因为它会分散注意力，使人偏离解题所需的信息。）
 
