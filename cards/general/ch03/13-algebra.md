@@ -8,43 +8,97 @@ Algebra is the branch of mathematics that uses letters or symbols to represent v
 
 For example, in the equation d = v × t, where distance = velocity × time, the variables are: d, v, and t.
 
-Algebraic equations are frequently used in aviation to show the relationship between two or more variables. Equations normally have an equals sign (=) in the expression. Example: The formula A = π × r2 shows the relationship between the area of a circle (A) and the length of the radius (r) of the circle. The area of a circle is equal to π (3.1416) times the radius squared. The larger the radius, the larger the area of the circle.
+### Equations
+
+Algebraic equations are frequently used in aviation to show the relationship between two or more variables. Equations normally have an equals sign (=) in the expression.
+
+Example: The formula A = π × r^2 shows the relationship between the area of a circle (A) and the length of the radius (r) of the circle. The area of a circle is equal to π (3.1416) times the radius squared. The larger the radius, the larger the area of the circle.
+
+### Algebraic Rules
 
 When solving for a variable in an equation, you can add, subtract, multiply, or divide the terms in the equation (you do the same to both sides of the equals sign) to get the variable onto one side of the equals sign.
 
 Examples: Solve the following equations for the value N.
 
-3N = 21 To solve for N, divide both sides by 3. 3N ÷ 3 = 21 ÷ 3 N = 7 N + 17 = 59 To solve for N, subtract 17 from both sides. N + 17 – 17 = 59 – 17 N = 42 N – 22 = 100 To solve for N, add 22 to both sides. N – 22 + 22 = 100 + 22 N = 122 N 5 = 50 To solve for N, multiply both sides by 5. N × 5 = 50 × 5 N = 250
+3N = 21
+
+To solve for N, divide both sides by 3.
+
+3N ÷ 3 = 21 ÷ 3
+
+N = 7
+
+
+N + 17 = 59
+
+To solve for N, subtract 17 from both sides. N + 17 – 17 = 59 – 17
+
+N = 42
+
+N – 22 = 100
+
+To solve for N, add 22 to both sides.
+
+N – 22 + 22 = 100 + 22
+
+N = 122
+
+
+N/5 = 50
+
+To solve for N, multiply both sides by 5.
+
+N × 5 = 50 × 5
+
+N = 250
 
 ### Solving for a Variable
 
 Another application of algebra is to solve an equation for a given variable.
 
-Example: Using the formula given, find the total capacitance (CT) of the series circuit containing three capacitors with C1 = 0.1 microfarad C2 = 0.015 microfarad C3 = 0.05 microfarad First, substitute the given values into the formula:
-
-Conversion Large Numbers with Positive Powers of 10 Small Numbers with Negative Powers of 10 From standard notation to scientific notation From scientific notation to standard notation Move decimal place to the right Move decimal place to the left Move decimal place to the left Move decimal place to the right 1 + CT= 1 C1 1 C2 + 1C3 CT = 1 = 1 = 110 + 66.66 + 20 1C1 + 1C2 + 1C3 10.1 + 10.015 + 10.05 Therefore, CT = 1⁄96.66 = 0.01034 microfarad. The microfarad (10-6 farad) is a unit of measurement of capacitance. This is discussed in greater length in Chapter 12, Electricity.
-
 ### Use of Parentheses
 
 In algebraic equations, parentheses are used to group numbers or symbols together. The use of parentheses helps us to identify the order in which we should apply mathematical operations. The operations inside the parentheses are always performed first in algebraic equations.
 
-Example: Solve the algebraic equation X = (4 + 3) 2. First, perform the operation inside the parentheses, which is, 4 + 3 = 7. Then complete the exponent calculation X = (7)2 = 7 × 7 = 49.
+Example: Solve the algebraic equation X = (4 + 3)^2. First, perform the operation inside the parentheses, which is, 4 + 3 = 7. Then complete the exponent calculation X = (7)^2 = 7 × 7 = 49.
 
 When using more complex equations, which may combine several terms and use multiple operations, grouping the terms together helps organize the equation. Parentheses, ( ), are most commonly used in grouping, but you may also see brackets, [ ]. When a term or expression is inside one of these grouping symbols, it means that any operation indicated to be done on the group is done to the entire term or expression.
 
-Example: Solve the equation N = 2 × [(9 ÷ 3) + (4 + 3) 2]. Start with the operations inside the parentheses ( ), then perform the operations inside the brackets [ ]. N = 2 × [(9 ÷ 3) + (4 + 3)2] N = 2 × [3 + (7)2] First, complete the operations inside the parentheses ( ). N = 2 × [3 + 49] N = 2 × [52] Second, complete the operations inside the brackets [ ]. N = 104
+Example: Solve the equation N = 2 × [(9 ÷ 3) + (4 + 3)^2]. Start with the operations inside the parentheses ( ), then perform the operations inside the brackets [ ].
+
+N = 2 × [(9 ÷ 3) + (4 + 3)^2]
+
+N = 2 × [3 + (7)^2]
+
+First, complete the operations inside the parentheses ( ).
+
+N = 2 × [3 + 49]
+
+N = 2 × [52]
+
+Second, complete the operations inside the brackets [ ].
+
+N = 104
 
 ### Order of Operation
 
-In algebra, rules have been set for the order in which operations are evaluated. These same universally accepted rules are also used when programming algebraic equations in calculators. When solving the following equation, the order of operation is given below: N = (62 – 54)2 + 62 – 4 + 3 × [8 + (10 ÷ 2)] + 25 + (42 × 2) ÷ 4 + 3⁄4 1. Parentheses. First you must do everything in parentheses, ( ), starting from the innermost parentheses. If the expression has a set of brackets, [ ], treat these exactly like parentheses. If you are working with a fraction, treat the top as if it was in parentheses and the denominator as if it were in parentheses, even if there is none shown. From the equation above, completing the calculation in parentheses gives the following:
+In algebra, rules have been set for the order in which operations are evaluated. These same universally accepted rules are also used when programming algebraic equations in calculators. When solving the following equation, the order of operation is given below:
 
-N = (8)2 + 62 – 4 + 3 × [8 + (5)] + 25 + (84) ÷ 4 + 3⁄4, then N = (8)2 + 62 – 4 + 3 × [13] + 25 + 84 ÷ 4 + 3⁄4 2. Exponents. Next, clear any exponents. Treat any roots (square roots, cube roots, and so forth) as exponents. Completing the exponents and roots in the equation gives the following:
+N = (62 – 54)^2 + 6^2 – 4 + 3 × [8 + (10 ÷ 2)] + √25 + (42 × 2) ÷ 4 + 3⁄4
 
-N = 64 + 36 – 4 + 3 × 13 + 5 + 84 ÷ 4 + 3⁄4 3. Multiplication and Division. Evaluate all of the multiplications and divisions from left to right. Multiply and divide from left to right in one step. A common error is to use two steps for this (that is, to clear all of the multiplication signs and then clear all of the division signs), but that is not the correct method. Treat fractions as division. Completing the multiplication and division in the equation gives the following:
+1. Parentheses. First you must do everything in parentheses, ( ), starting from the innermost parentheses. If the expression has a set of brackets, [ ], treat these exactly like parentheses. If you are working with a fraction, treat the top as if it was in parentheses and the denominator as if it were in parentheses, even if there is none shown. From the equation above, completing the calculation in parentheses gives the following:
+N = (8)^2 + 6^2 – 4 + 3 × [8 + (5)] + √25 + (84) ÷ 4 + 3⁄4, then N = (8)^2 + 6^2 – 4 + 3 × [13] + 25 + 84 ÷ 4 + 3⁄4
 
-N = 64 + 36 – 4 + 39 + 5 + 21 + 3⁄4 4. Addition and Subtraction. Evaluate the additions and subtractions from left to right. Like above, addition and subtraction are computed left to right in one step. Completing the addition and subtraction in the equation gives the following:
+2. Exponents. Next, clear any exponents. Treat any roots (square roots, cube roots, and so forth) as exponents. Completing the exponents and roots in the equation gives the following:
+N = 64 + 36 – 4 + 3 × 13 + 5 + 84 ÷ 4 + 3⁄4
 
-X = 161 3⁄4 A commonly used acronym, PEMDAS, is used for remembering the order of operation in algebra. PEMDAS is an acronym for parentheses, exponents, multiplication, division, addition, and subtraction. To remember it, many use the sentence, “Please Excuse My Dear Aunt Sally.” Always remember, however, to multiply/divide or add/subtract in one sweep from left to right, not separately.
+3. Multiplication and Division. Evaluate all of the multiplications and divisions from left to right. Multiply and divide from left to right in one step. A common error is to use two steps for this (that is, to clear all of the multiplication signs and then clear all of the division signs), but that is not the correct method. Treat fractions as division. Completing the multiplication and division in the equation gives the following:
+N = 64 + 36 – 4 + 39 + 5 + 21 + 3⁄4
+
+4. Addition and Subtraction. Evaluate the additions and subtractions from left to right. Like above, addition and subtraction are computed left to right in one step. Completing the addition and subtraction in the equation gives the following:
+X = 161 3⁄4
+
+A commonly used acronym, PEMDAS, is used for remembering the order of operation in algebra. PEMDAS is an acronym for parentheses, exponents, multiplication, division, addition, and subtraction. To remember it, many use the sentence, “Please Excuse My Dear Aunt Sally.” Always remember, however, to multiply/divide or add/subtract in one sweep from left to right, not separately.
 
 ### Order of Operation for Algebraic Equations
 
