@@ -3832,7 +3832,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "08",
   "titleEn": "Aircraft Painting & Finishing",
-  "count": 7,
+  "count": 8,
   "cards": [
    {
     "slug": "airframe-ch08-01",
@@ -3863,6 +3863,12 @@ window.AMT_CARDS = [
     "seq": "05",
     "title": "Methods of Applying Finish",
     "file": "05-methods-of-applying-finish.md"
+   },
+   {
+    "slug": "airframe-ch08-06",
+    "seq": "06",
+    "title": "Finishing Equipment",
+    "file": "06-finishing-equipment.md"
    },
    {
     "slug": "airframe-ch08-08",
