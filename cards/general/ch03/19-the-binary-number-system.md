@@ -8,7 +8,9 @@ The binary number system has only two digits: 0 and 1. The prefix in the word �
 
 Currently, one of the primary uses of the binary number system is in computer applications. Information is stored as a series of 0s and 1s, forming strings of binary numbers. An early electronic computer, ENIAC ( Electronic Numerical Integrator and Calculator), was built in 1946 at the University of Pennsylvania and contained 17,000 vacuum tubes, along with 70,000 resistors, 10,000 capacitors, 1,500 relays, 6,000 manual switches and 5 million soldered joints. Computers obviously have changed a great deal since then, but are still based on the same binary number system. The binary number system is also useful when working with digital electronics because the two basic conditions of electricity, on and off, can be represented by the two digits of the binary number system. When the system is on, it is represented by the digit 1, and when it is off, it is represented by the digit 0.
 
-The binary number system is a Base-2 system. That is, the place values in the binary number system are based on powers of 2. An 8-bit binary number system is shown below.
+### Place Values
+
+The binary number system is a Base-2 system. That is, the place values in the binary number system are based on powers of 2.
 
 ### Converting Binary Numbers to Decimal Numbers
 
@@ -22,7 +24,9 @@ The binary number 10110011 = 128 + 0 + 32 + 16 + 0 + 0 + 2 + 1 = 179 in the deci
 
 To convert a decimal number to a binary number, the place values in the binary system are used to create a sum of numbers that equal the value of the decimal number being converted. Start with the largest binary place value and subtract from the decimal number. Continue this process until all of the binary digits are determined.
 
-Example: Convert the decimal number 233 to a binary number. Start by subtracting 128 (the largest place value from the 8-bit binary number) from 233.
+Example: Convert the decimal number 233 to a binary number.
+
+Start by subtracting 128 (the largest place value from the 8-bit binary number) from 233.
 
 233 – 128 = 105 A “1” is placed in the first binary digit space: 1XXXXXXX.
 
@@ -32,17 +36,17 @@ Continue the process of subtracting the binary number place values:
 
 41 – 32 = 9 A “1” is placed in the third binary digit space: 111XXXXX.
 
-Place Value 27 or 128 26 or 64 25 or 32 24 or 16 23 or 8 22 or 4 21 or 2 20 or 1 1 0 0 1 1 0 0 1 0 0 1 0 1 0 1 1 10011001 shown as 00101011 shown as =153 =43 Place Value 27 or 128 26 or 64 25 or 32 24 or 16 23 or 8 22 or 4 21 or 2 20 or 1 1 0 1 1 0 0 1 1 128 + 0 + 32 + 16 + 0 + 0 + 2 + 1 10110011 shown as =179 Place Value 27 or 128 26 or 64 25 or 32 24 or 16 23 or 8 22 or 4 21 or 2 20 or 1 0 0 1 0 0 0 1 1 0 1 1 1 1 1 0 0 0 1 1 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 0 1 0 0 1 35 shown as 124 shown as 96 shown as 255 shown as 233 shown as Since 9 is less than 16 (the next binary place value), a “0” is placed in the fourth binary digit space, 1110XXXX.
+Since 9 is less than 16 (the next binary place value), a “0” is placed in the fourth binary digit space, 1110XXXX.
 
-9 – 8 = 1 A “1” is placed in the fifth binary digit space: 11101XXX Since 1 is less than 4 (the next binary place value), a 0 is placed in the sixth binary digit space: 111010XX.
+9 – 8 = 1 A “1” is placed in the fifth binary digit space: 11101XXX
+
+Since 1 is less than 4 (the next binary place value), a 0 is placed in the sixth binary digit space: 111010XX.
 
 Since 1 is less than 2 (the next binary place value), a 0 is placed in the seventh binary digit space: 1110100X.
 
 1 – 1 = 0 A “1” is placed in the eighth binary digit space: 11101001.
 
 The decimal number 233 is equivalent to the binary number 11101001.
-
-Three additional decimal number to binary number conversions are shown below.
 
 ## 2. 中文翻译
 
