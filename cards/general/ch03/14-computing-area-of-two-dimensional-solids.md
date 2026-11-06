@@ -6,11 +6,23 @@
 
 Area is a measurement of the amount of surface of an object. Area is usually expressed in such units as square inches or square centimeters for small surfaces or in square feet or square meters for larger surfaces.
 
-The formulas for computing the area of two-dimensional solids are summarized below.
+### Rectangle
 
-A rectangle is a four-sided figure with opposite sides of equal length and parallel to each other. All of the angles are right angles. A right angle is a 90° angle. The rectangle is a very familiar shape in mechanics. The formula for the area of a rectangle is: area = length × width = l × w Example: An aircraft floor panel is in the form of a rectangle having a length of 24 inches and a width of 12 inches. What is the area of the panel expressed in square inches? First, determine the known values and substitute them in the formula. a = l × w = 24 inches × 12 inches = 288 square inches
+A rectangle is a four-sided figure with opposite sides of equal length and parallel to each other. All of the angles are right angles. A right angle is a 90° angle. The rectangle is a very familiar shape in mechanics. The formula for the area of a rectangle is:
 
-A square is a four-sided figure with all sides of equal length and opposite sides are parallel to each other. All angles are right angles. A right angle is a 90° angle. The formula for the area of a square is: area = length × width = l × w Since the length and the width of a square are the same value, the formula for the area of a square can also be written as: area = side × side = s2 Example: What is the area of a square access plate whose side measures 25 inches? First, determine the known value and substitute it in the formula. a = l × w = 25 inches × 25 inches = 625 square inches
+area = length × width = l × w
+
+Example: An aircraft floor panel is in the form of a rectangle having a length of 24 inches and a width of 12 inches. What is the area of the panel expressed in square inches? First, determine the known values and substitute them in the formula. a = l × w = 24 inches × 12 inches = 288 square inches
+
+### Square
+
+A square is a four-sided figure with all sides of equal length and opposite sides are parallel to each other. All angles are right angles. A right angle is a 90° angle. The formula for the area of a square is: area = length × width = l × w Since the length and the width of a square are the same value, the formula for the area of a square can also be written as:
+
+area = side × side = s^2
+
+Example: What is the area of a square access plate whose side measures 25 inches? First, determine the known value and substitute it in the formula. a = l × w = 25 inches × 25 inches = 625 square inches
+
+### Triangle
 
 A triangle is a three-sided figure. The sum of the three angles in a triangle is always equal to 180°. Triangles are often classified by their sides. An equilateral triangle has 3 sides of equal length. An isosceles triangle has 2 sides of equal length. A scalene triangle has three sides of differing lengths.
 
@@ -18,21 +30,76 @@ Triangles can also be classified by their angles. An acute triangle has all thre
 
 The formula for the area of a triangle is area = 1⁄2 × (base × height) = 1⁄2 × (b × h)
 
-Example: Find the area of the obtuse triangle. First, substitute the known values in the area formula. a = 1⁄2 × (b × h) = 1⁄2 × (2'6" × 3'2")
+Example: Find the area of the obtuse triangle. First, substitute the known values in the area formula.
 
-Next, convert all dimensions to inches: 2'6" = (2 × 12") + 6" = (24 + 6) = 30 inches 3'2" = (3 × 12") + 2" = (36 + 2) = 38 inches Now, solve the formula for the unknown value: a = 1⁄2 × (30 inches × 38 inches) = 570 square inches
+a = 1⁄2 × (b × h) = 1⁄2 × (2'6" × 3'2")
 
-A parallelogram is a four-sided figure with two pairs of parallel sides. Parallelograms do not necessarily have four right angles. The formula for the area of a parallelogram is: area = length × height = l × h
+Next, convert all dimensions to inches:
 
-A trapezoid is a four-sided figure with one pair of parallel sides. The formula for the area of a trapezoid is: area = 1⁄2 (base1 + base2) × height w = 12 l = 24 s = 25 Object Area Formula Rectangle Square Parallelogram Trapezoid
+2'6" = (2 × 12") + 6" = (24 + 6) = 30 inches
+3'2" = (3 × 12") + 2" = (36 + 2) = 38 inches
 
-Triangle a = l × w a = l × w or a = s2 a = l × h a = ½ (b1 + b2) × h a = π × r2 a = π × a × b a = s × c a = ½ (l × h) or a = ½ (b × h) or a = (b × h) ÷ 2 length × width length × width or side × side length × height ½ (base1 + base2) × height π × radius2 π × semi-axis A × semi-axis B span × mean chord ½ × (length × height) or ½ × (base × height) or (base × height) ÷ 2 Example: What is the area of a trapezoid whose bases are 14 inches and 10 inches, and whose height (or altitude) is 6 inches? First, substitute the known values in the formula. a = 1⁄2 (b1 + b2) × h = 1⁄2 (14 inches + 10 inches) × 6 inches a = 1⁄2 (24 inches) × 6 inches = 12 inches × 6 inches = 72 square inches Circle A circle is a closed, curved, plane figure. Every point on the circle is an equal distance from the center of the circle. The diameter is the distance across the circle (through the center). The radius is the distance from the center to the edge of the circle. The diameter is always twice the length of the radius. The circumference, or distance around, a circle is equal to the diameter times π. circumference = c = d π The formula for the area of a circle is: area = π × radius2 = π × r2 Example: The bore, which is “inside diameter,” of a certain aircraft engine cylinder is 5 inches. Find the area of the cross section of the cylinder.
+Now, solve the formula for the unknown value: a = 1⁄2 × (30 inches × 38 inches) = 570 square inches
 
-First, substitute the known values in the formula: a = π × r2 The diameter is 5 inches, so the radius is 2.5 inches. (diameter = radius × 2) a = 3.1416 × (2.5 inches) 2 = 3.1416 × 6.25 square inches = 19.635 square inches Ellipse An ellipse is a closed, curved, plane figure and is commonly called an oval. In a radial engine, the articulating rods connect to the hub by pins, which travel in the pattern of an ellipse (i.e., an elliptical or orbital path).
+### Parallelogram
+
+A parallelogram is a four-sided figure with two pairs of parallel sides.Parallelograms do not necessarily have four right angles.
+
+The formula for the area of a parallelogram is:
+
+area = length × height = l × h
+
+### Trapezoid
+
+A trapezoid is a four-sided figure with one pair of parallel sides. The formula for the area of a trapezoid is:
+
+area = 1⁄2 (base1 + base2) × height w = 12 l = 24 s = 25 Object Area Formula Rectangle Square Parallelogram Trapezoid
+
+Example: What is the area of a trapezoid whose bases are 14 inches and 10 inches, and whose height (or altitude) is 6 inches? First, substitute the known values in the formula. a = 1⁄2 (b1 + b2) × h = 1⁄2 (14 inches + 10 inches) × 6 inches a = 1⁄2 (24 inches) × 6 inches = 12 inches × 6 inches = 72 square inches
+
+### Circle
+
+A circle is a closed, curved, plane figure. Every point on the circle is an equal distance from the center of the circle. The diameter is the distance across the circle (through the center). The radius is the distance from the center to the edge of the circle. The diameter is always twice the length of the radius. The circumference, or distance around, a circle is equal to the diameter times π.
+
+circumference = c = d π
+
+The formula for the area of a circle is:
+
+area = π × radius^2 = π × r^2
+
+Example: The bore, which is “inside diameter,” of a certain aircraft engine cylinder is 5 inches. Find the area of the cross section of the cylinder.
+
+First, substitute the known values in the formula: a = π × r^2
+
+The diameter is 5 inches, so the radius is 2.5 inches. (diameter = radius × 2)
+
+a = 3.1416 × (2.5 inches)^2 = 3.1416 × 6.25 square inches = 19.635 square inches
+
+### Ellipse
+
+An ellipse is a closed, curved, plane figure and is commonly called an oval. In a radial engine, the articulating rods connect to the hub by pins, which travel in the pattern of an ellipse (i.e., an elliptical or orbital path).
+
+Circumference = c=2π√[(a^2+b^2)/2]
+
+π =3.1416
+
+a = Length of one of the semi-axes
+
+b = Length of the other semi-axis
+
+Area = a = T x a x b
 
 Base = 3 ft 2 in Height = 2 ft 6 in b1 = 14"
 
-Length Height EquilateralIsosceles Triangles Based on Sides Triangles Based on Angles Scalene Acute Right Obtuse Length of all sides are different Length of two sides are equal Length of all sides are equal Each angle is < 90° One angle is = 90° One angle is > 90° Wing Area To describe the shape of a wing, several terms are required. To calculate wing area, it is necessary to know the meaning of the terms “span” and “chord.” The wingspan, S, is the length of the wing from wingtip to wingtip. The chord is the average width of the wing from leading edge to trailing edge. If the wing is a tapered wing, the average width, known as the mean chord (C), must be known to find the area. The formula for calculating wing area is: area of a wing = span × mean chord Example: Find the area of a tapered wing whose span is 50 feet and whose mean chord is 6'8". First, substitute the known values in the formula. a = s × c = 50 feet × 6 feet 8 inches (Note: 8 inches = 8⁄12 feet = 0.67 feet) = 50 feet × 6.67 feet = 333.5 square feet
+### Wing Area
+
+To describe the shape of a wing, several terms are required. To calculate wing area, it is necessary to know the meaning of the terms “span” and “chord.” The wingspan, S, is the length of the wing from wingtip to wingtip. The chord is the average width of the wing from leading edge to trailing edge. If the wing is a tapered wing, the average width, known as the mean chord (C), must be known to find the area. The formula for calculating wing area is:
+
+area of a wing = span × mean chord
+
+Example: Find the area of a tapered wing whose span is 50 feet and whose mean chord is 6'8". First, substitute the known values in the formula. a = s × c = 50 feet × 6 feet 8 inches (Note: 8 inches = 8⁄12 feet = 0.67 feet) = 50 feet × 6.67 feet = 333.5 square feet
+
+### Units of Area
 
 A square foot measures 1 foot by 1 foot. It also measures 12 inches by 12 inches. Therefore, one square foot also equals 144 square inches (that is, 12 × 12 = 144). To convert square feet to square inches, multiply by 144. To convert square inches to square feet, divide by 144.
 
