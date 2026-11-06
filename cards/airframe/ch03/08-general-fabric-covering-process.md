@@ -3,7 +3,6 @@
 > 机体 Ch 03 · General Fabric Covering Process · 原文 PDF 第 148 页
 
 ## 1. 原文
-
 It is required to have an IA involved in the process of re-covering a fabric aircraft because re-covering is a major repair or major alteration. Signatures are required on FAA Form 337 and in the aircraft logbook. To ensure work progresses as required, the IA should be involved from the beginning, as well as at various stages throughout the process.
 
 This section describes steps common to various STC and manufacturer covering processes, as well as the differences of some processes. To aid in proper performance of fabric covering and repair procedures, STC holders produce illustrated, step-by-step instructional manuals and videos that demonstrate the correct covering procedures. These training aids are invaluable to the inexperienced technician.
@@ -58,9 +57,13 @@ Most covering procedures for polyester fabric rely on doped or glued seams as op
 
 When using the blanket method, options exist for deciding where to overlap the fabric for coverage. Function and the final appearance of the covering job should be considered. For example, fabric seams made on the wing’s top surface of a high wing aircraft are not visible when approaching the aircraft. Seams on low wing aircraft and many horizontal stabilizers are usually made on the bottom of the wing for the same reason.
 
-Fabric Seams Seams parallel to the line of flight are preferable; however, spanwise seams are acceptable.
+#### Fabric Seams
 
-Sewn Seams Machine-sewn seams should be double stitched using any of the styles illustrated in Figure 3-21 A, B, C, or D. A machine-sewn seam used to close an envelope at a wingtip, wing trailing edge, empennage and control surface trailing edge, and a fuselage longeron may be made with a single stitch when the seam will be positioned over a structure. The envelope size should accommodate fittings or other small protrusions with minimum excess for installation. Thick or protruding leading edge sewn seams should be avoided on thin airfoils with a sharp leading edge radius because they may act as a stall strip.
+Seams parallel to the line of flight are preferable; however, spanwise seams are acceptable.
+
+#### Sewn Seams
+
+seams should be double stitched using any of the styles illustrated in Figure 3-21 A, B, C, or D. A machine-sewn seam used to close an envelope at a wingtip, wing trailing edge, empennage and control surface trailing edge, and a fuselage longeron may be made with a single stitch when the seam will be positioned over a structure. The envelope size should accommodate fittings or other small protrusions with minimum excess for installation. Thick or protruding leading edge sewn seams should be avoided on thin airfoils with a sharp leading edge radius because they may act as a stall strip.
 
 Hand sew, with plain overthrow or baseball stitches at a minimum of four stitches per inch, or permanent tacking, to the point where uncut fabric or a machine-sewn seam is reached. Lock hand sewing at a maximum of 10 stitch intervals with a double half hitch, and tie off the end stitch with a double half hitch. At the point where the hand-sewing or permanent tacking is necessary, cut the fabric so that it can be doubled under a minimum of 3/8 inch before sewing or permanent tacking is performed.
 
@@ -74,7 +77,9 @@ Make spanwise-sewn seams on the wing’s upper or lower surfaces in a manner tha
 
 Sewn seams parallel to the line of flight (chordwise) may be located over ribs. However, careful attention must be given to avoid damage to the seam threads by rib lace needles, screws, rivets, or wire clips that are used to attach the fabric to the rib. Cover chordwise seams with a finishing tape at least 3 inches wide with the tape centered on the seam.
 
-Doped Seams For an overlapped and doped span-wise seam on a wing’s leading edge, overlap the fabric at least 4 inches and cover with finishing tape at least 4 inches wide, with the tape centered at the outside edge of the overlap seam.
+#### Doped Seams
+
+and doped span-wise seam on a wing’s leading edge, overlap the fabric at least 4 inches and cover with finishing tape at least 4 inches wide, with the tape centered at the outside edge of the overlap seam.
 
 For an overlapped and doped span-wise seam at the trailing edge, lap the fabric at least 3 inches and cover with pinked-edge surface tape at least 4 inches wide, with the tape centered on the outside edge of the overlap seam.
 
@@ -153,7 +158,6 @@ When the fill coats have been applied, the final appearance of the fabric coveri
 Once the topcoats are dry, the trim (N numbers, stripes, etc.) can be added. Strict observation of drying times and instructions for buffing and waxing are critical to the quality of the final finish. Also, note that STC instructions may include insight on finishing the nonfabric portions of the airframe to best match the fabric covering finish.
 
 ## 2. 中文翻译
-
 重新蒙布属于重大修理或重大改装，因此必须有 IA（检查授权人员）参与飞机的重新蒙布过程。FAA 337 表和飞机记录本上都需要签字。为确保工作按要求推进，IA 应从开始就参与，并在整个过程的各个阶段参与。
 
 本节介绍各种 STC 与制造厂蒙布工艺共同的步骤，以及某些工艺之间的差异。为帮助正确执行蒙布与修理程序，STC 持有人制作带图解的、分步的说明手册和视频，演示正确的蒙布程序。这些培训资料对缺乏经验的技术人员极为宝贵。
@@ -208,9 +212,13 @@ Once the topcoats are dry, the trim (N numbers, stripes, etc.) can be added. Str
 
 采用毯式法时，在哪里搭接蒙布有多种选择。应考虑功能与蒙布施工的最终外观。例如，在高翼飞机机翼上表面做的蒙布接缝，从飞机附近看过去是看不见的。低翼飞机和许多水平安定面的接缝通常做在机翼下表面，也是同样的道理。
 
-（原文此处小标题与正文粘连：Fabric Seams）平行于飞行方向的蒙布接缝更可取，但沿翼展方向的接缝也可接受。
+#### 织物接缝
 
-（原文此处小标题与正文粘连：Sewn Seams）机缝接缝应采用双线缝合，样式可用图 3-21 A、B、C 或 D 中所示的任一种。用于封闭翼尖、机翼后缘、尾翼和操纵面后缘以及机身长桁处套筒的机缝接缝，当接缝将位于结构上方时，可用单线缝合。套筒尺寸应能容纳接头或其他小凸起，安装时余量最小。在翼型薄、前缘半径尖锐的机翼上，应避免厚重或凸出的前缘缝合接缝，因为它们可能起到失速条（stall strip）的作用。
+平行于飞行方向的蒙布接缝更可取，但沿翼展方向的接缝也可接受。
+
+#### 机缝接缝
+
+机缝接缝应采用双线缝合，样式可用图 3-21 A、B、C 或 D 中所示的任一种。用于封闭翼尖、机翼后缘、尾翼和操纵面后缘以及机身长桁处套筒的机缝接缝，当接缝将位于结构上方时，可用单线缝合。套筒尺寸应能容纳接头或其他小凸起，安装时余量最小。在翼型薄、前缘半径尖锐的机翼上，应避免厚重或凸出的前缘缝合接缝，因为它们可能起到失速条（stall strip）的作用。
 
 手工缝合，至少每英寸四针，采用平针回缝（plain overthrow）或棒球缝（baseball stitch），或采用永久固定（permanent tacking），缝到未剪开的蒙布或机缝接缝处为止。手工缝合每最多 10 针用双半结（double half hitch）锁一次，并用双半结收尾打结。在必须手工缝合或永久固定的位置，把蒙布剪开，以便在缝合或永久固定之前至少能折边 3/8 英寸。
 
@@ -224,7 +232,9 @@ Once the topcoats are dry, the trim (N numbers, stripes, etc.) can be added. Str
 
 平行于飞行方向（弦向）的缝合接缝可布置在翼肋上方。但必须特别注意，避免肋编针（rib lace needles）、螺钉、铆钉或用于把蒙布固定到翼肋上的线夹损坏缝线。用至少 3 英寸宽的精整带覆盖弦向接缝，带子居中于接缝。
 
-（原文此处小标题与正文粘连：Doped Seams）对于机翼前缘搭接并涂敷的沿翼展接缝，蒙布至少搭接 4 英寸，并用至少 4 英寸宽的精整带覆盖，带子居中于搭接缝的外缘。
+#### 涂敷接缝
+
+对于机翼前缘搭接并涂敷的沿翼展接缝，蒙布至少搭接 4 英寸，并用至少 4 英寸宽的精整带覆盖，带子居中于搭接缝的外缘。
 
 对于后缘搭接并涂敷的沿翼展接缝，蒙布至少搭接 3 英寸，并用至少 4 英寸宽的锯齿边表面带覆盖，带子居中于搭接缝的外缘。
 
@@ -303,7 +313,6 @@ Once the topcoats are dry, the trim (N numbers, stripes, etc.) can be added. Str
 面漆干燥后，即可添加装饰（N 号、条纹等）。严格遵守干燥时间以及抛光和打蜡说明，对最终精整质量至关重要。另外注意，STC 说明可能包含关于如何精整机体非蒙布部分、使其与蒙布精整效果最佳匹配的见解。
 
 ## 3. 专业词汇
-
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
 | inspection authorization (IA) | n. | 检查授权 | 必须参与重新蒙布全过程并在 337 表和记录本上签字的人员资格 |
@@ -322,7 +331,6 @@ Once the topcoats are dry, the trim (N numbers, stripes, etc.) can be added. Str
 | drain grommet | n. | 排水孔环 | 粘在蒙布最低处、让积水和凝水排出的环件 |
 
 ## 4. 语法解析
-
 ### ① it 作形式主语 + have sth. done + because 从句
 **原句**：It is required to have an IA involved in the process of re-covering a fabric aircraft because re-covering is a major repair or major alteration.
 **拆解**：It 为形式主语，真正主语是 to have an IA involved...；have + 宾语 an IA + 过去分词 involved 构成 have sth. done 结构（使某人参与）；because 引导原因状语从句，从句为系表结构。
@@ -352,3 +360,4 @@ Once the topcoats are dry, the trim (N numbers, stripes, etc.) can be added. Str
 **原句**：With the sealer coats installed and dried, the next step provides protection from UV light, the only significant cause of deterioration of polyester fabric.
 **拆解**：With + 宾语 the sealer coats + 过去分词 installed and dried 构成 with 复合结构，作时间/条件状语；主句 the next step provides protection from UV light；逗号后 the only significant cause of deterioration of polyester fabric 为同位语，解释 UV light。
 **要点**：with 复合结构中宾语与补足语是被动关系，故用过去分词 installed and dried。同位语直接跟在 UV light 后，中间没有 of 或 which，识别标志是它与被说明的名词指同一事物；翻译时用“——即……”引出。
+

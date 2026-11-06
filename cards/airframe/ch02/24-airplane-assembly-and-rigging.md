@@ -131,22 +131,27 @@ Aircraft manufacturers use different materials to balance control surfaces, the 
 **原句**：Any time repairs on a control surface add weight fore or aft of the hinge center line, the control surface must be rebalanced.
 **拆解**：Any time 相当于 whenever，引出时间状语从句，从句主语 repairs，谓语 add，宾语 weight，fore or aft of the hinge center line 说明增重的位置；主句 the control surface must be rebalanced 为带情态动词的被动语态。
 **要点**：Any time 在这里不是“任何时间”的名词短语，而是连词性用法，后面直接跟完整从句，中间不加 that。fore or aft of 是“在……之前或之后”，指沿弦向的位置，不要理解成前后两个方向。
+
 ### ② 定语从句 + 并列谓语
 **原句**：Any control surface that is out of balance is unstable and does not remain in a streamlined position during normal flight.
 **拆解**：主语 Any control surface 带 that 引导的定语从句；主句有两个并列谓语 is unstable 和 does not remain in a streamlined position，during normal flight 为时间状语。
 **要点**：句中出现三个 is/系动词形式：从句的 is out of balance、主句的 is unstable，容易看串。that 从句到 balance 结束，unstable 才是主句的表语。remain 后接介词短语表状态，不能用 remain 加副词。
+
 ### ③ to a degree that 引导的定语从句
 **原句**：In extreme cases, fluttering and buffeting may develop to a degree that could cause the complete loss of the aircraft.
 **拆解**：In extreme cases 为条件状语；主语 fluttering and buffeting 为两个并列动名词；谓语 may develop；to a degree 表示发展到的程度，that could cause ... 为定语从句修饰 degree。
 **要点**：to a degree that 是“发展到……的程度”，that 在从句中作主语，不能换成 what。fluttering（颤振）与 buffeting（抖振）是两个不同的气动弹性/气流现象，并列作主语时谓语用复数 may develop。
+
 ### ④ wherein 引导的定语从句 + so that 结果状语
 **原句**：Dynamic balance is that condition in a rotating body wherein all rotating forces are balanced within themselves so that no vibration is produced while the body is in motion.
 **拆解**：主语 Dynamic balance，系动词 is，表语 that condition；in a rotating body 为后置定语；wherein（= in which）引导定语从句修饰 condition，从句为被动 are balanced；so that 引出结果状语从句，其中又含 while 引导的时间状语从句。
 **要点**：wherein 是关系副词，相当于 in which，只能引导定语从句，不能像 which 那样单独作主语或宾语。so that 在此表结果而非目的，可译为“以致”。句末 while the body is in motion 是“在物体运动时”，修饰 no vibration is produced。
+
 ### ⑤ in that 引导原因状语从句
 **原句**：The calculation method of balancing a control surface has one advantage over the other methods in that it can be performed without removing the surface from the aircraft.
 **拆解**：主语 The calculation method of balancing a control surface；谓语 has，宾语 one advantage，over the other methods 表示比较对象；in that 引导原因状语从句，说明这一优点具体是什么，从句为带情态动词的被动语态。
 **要点**：in that 是复合连词，意为“在于、因为”，不能拆成介词 in + 代词 that 来理解。have an advantage over 是固定搭配“优于”。without removing 是介词 + 动名词，逻辑主语是句中的 it（即 the calculation method）。
+
 ### ⑥ 被动语态 + when 分词结构 + because 从句
 **原句**：Specific safety precautions must be observed when handling counterweights of depleted uranium because it is radioactive.
 **拆解**：主句 Specific safety precautions must be observed 为被动语态；when handling ... 是 when + 动名词的省略结构，相当于 when one handles ...；because 引导原因状语从句，it 指 depleted uranium。

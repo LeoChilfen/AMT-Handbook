@@ -30,14 +30,77 @@ As with any aircraft maintenance or repair, the instructions and specifications 
 
 ## 2. 中文翻译
 
-TODO
+双翼机是最早的几种飞机设计之一。第一架有动力的重于空气的飞机——莱特兄弟的“莱特飞行者”，于1903年12月17日成功飞行——就是一架双翼机。
+
+最早的双翼机采用非常薄的翼型剖面，因此机翼结构需要用外部张线加强。双翼布局使两副机翼能够彼此支撑，从而提高结构强度。当双翼机的装配与校装按照经批准的说明完成时，就能得到一架稳定、适航的飞机。无论是装配一架可能因修理和修复而被分解过的早期老式飞机，还是制造并装配一架新飞机，以下都是应当遵循的一些基本对正程序。
+
+首先，机身必须保持水平，包括纵向和横向。飞机通常有制造商指定或在图纸上标明的特定水平基准点。应把机身垫离起落架，使其稳定。应在地面上沿机身长度方向画一条中心线，并在防火隔框处画一条与之垂直的线，作为附加的对正基准。
+
+装好水平和垂直尾翼后，应设定水平安定面的安装角。应连接并收紧尾翼张线，直到消除松弛。应按图2-96所示检查对正测量值。
+
+安装升降舵和方向舵，并将它们夹持在中立位置。确认驾驶舱内驾驶杆和脚蹬的中立位置，并将其固定，以便简化操纵钢索的连接和最终张紧。
+
+如果双翼机的上翼带有中央翼段，则必须尽可能精确地对正，因为即使最小的误差也会在翼尖处被放大。应连接相应的钢索和松紧螺套，并按规定设定张力。翼阶测量值可按图2-98所示进行检查。
+
+下翼各段应分别安装到机身上，并垫起支撑，同时连接和调整着陆张线，以获得规范或图纸要求的上反角。
+
+接下来，把外侧的“N”形撑杆连接到下翼的左右两段上。然后即可安装上翼并装设飞行张线。可以安装副撑杆，并按用于升降舵和方向舵的相同对正与调整程序连接副翼。安装角可按图2-100所示进行检查。
+
+做到这一步之后，剩下的就是测量、检查角度并调整各部件，以获得整机的对称性和所需的对正状态，如图2-96所示。
+
+另外要记住，收紧机翼张线时必须小心，因为额外的应力会在不经意间被引入机翼。始终应先放松一根张线，再收紧相对的一根。飞行张线和着陆张线通常设定为约600磅张力，尾翼张线约为300磅。
+
+确信飞机已正确校装后，离开飞机，好好端详一下成品。机翼对称吗？上反角看起来均匀吗？尾翼段与机身是否方正？机翼连接件、飞行张线和操纵钢索是否都打了保险？而首飞之前的最后一项任务，是完成维修记录的填写。
+
+与任何飞机维护或修理一样，制造商的说明和规范，或制造图纸中的程序和推荐做法，应当是执行飞机装配与校装的首选方法。
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-TODO
+| biplane | n. | 双翼机 | 上下两副机翼以撑杆和张线相互支撑的早期飞机布局 |
+| wing section | n. | 翼型剖面 | 早期双翼机采用的极薄翼剖面，强度不足须用外部张线补强 |
+| bracing wire | n. | 张线 | 从外部拉住机翼结构、承受拉力的钢索 |
+| rigging | n. | 校装 | 按经批准的说明调整机翼、尾翼几何位置与钢索张力 |
+| alignment | n. | 对正 | 以地面中心线、防火隔框垂线等基准检查各部件相对位置 |
+| leveling point | n. | 水平基准点 | 制造商指定或图纸标明的找平点，用于把机身调成水平 |
+| horizontal stabilizer | n. | 水平安定面 | 尾翼的水平固定面，装配后须设定其安装角 |
+| tail brace wire | n. | 尾翼张线 | 支撑尾翼组的钢索，收紧消除松弛后张力约300磅 |
+| turnbuckle | n. | 松紧螺套 | 串接在钢索中，用于调节并锁定张力的部件 |
+| stagger | n. | 翼阶 | 双翼机上下翼在纵向上的前后错开量，须按图检查 |
+| flying wire | n. | 飞行张线 | 承受飞行中机翼载荷的张线，通常设定约600磅张力 |
+| landing wire | n. | 着陆张线 | 与飞行张线反向布置，承受地面及负升力工况的载荷 |
+| “N” strut | n. | N形撑杆 | 连接上下翼的外侧撑杆，因侧面轮廓呈N形而得名 |
+| dihedral | n. | 上反角 | 通过调整着陆张线获得的机翼上翘角度 |
 
 ## 4. 语法解析
 
-TODO
+### ① 同位语与分词短语插入，主谓被隔开
+**原句**：The first powered heavier-than-air aircraft, the Wright Brothers’ Wright Flyer, successfully flown on December 17, 1903, was a biplane.
+**拆解**：主语为 The first powered heavier-than-air aircraft；the Wright Brothers’ Wright Flyer 是同位语，说明主语具体所指；successfully flown on December 17, 1903 是过去分词短语作后置定语，修饰该同位语；谓语 was，表语 a biplane。
+**要点**：主语和谓语 was 之间插入了同位语和一长串分词修饰，读到 flown 时容易误把它当成谓语。flown 是过去分词，与 Flyer 构成被动关系，真正的谓语要拖到句末才出现。
+
+### ② 被动语态 + and 连接的并列分句
+**原句**：The first biplanes were designed with very thin wing sections and, consequently, the wing structure needed to be strengthened by external bracing wires.
+**拆解**：前一分句为被动语态 were designed，with very thin wing sections 说明设计所采用的特征；consequently 是插入的连接副词，表结果；后一分句主语 the wing structure，谓语 needed，宾语 to be strengthened（不定式的被动式），by external bracing wires 表手段。
+**要点**：need to be done 译成“需要加强”即可，不必生硬地译作“需要被加强”。and 后面紧跟逗号和 consequently，说明这里是另起一个分句，而不是与 wing sections 并列的名词短语。
+
+### ③ 过去分词短语并列作后置定语
+**原句**：The aircraft usually has specific leveling points designated by the manufacturer or indicated on the plans.
+**拆解**：主语 The aircraft，谓语 has，宾语 specific leveling points；designated by the manufacturer 与 indicated on the plans 两个过去分词短语由 or 并列，共同后置修饰 leveling points。
+**要点**：两个分词短语共用一个被修饰名词，or 表示“或”而不是“和”，即基准点由制造商指定或在图纸上标出，二者有其一即可。用分词短语代替定语从句是技术英语压缩句子的常用手段。
+
+### ④ with 复合结构作状语
+**原句**：With the horizontal and vertical tail surfaces installed, the incident angle for the horizontal stabilizer should be set.
+**拆解**：句首 With + 名词 the horizontal and vertical tail surfaces + 过去分词 installed 构成 with 复合结构，作状语表示前提条件；主句为被动语态，主语 the incident angle，for the horizontal stabilizer 作定语修饰 angle，谓语 should be set。
+**要点**：with 复合结构中宾语与补足语是被动关系，所以用过去分词 installed，相当于“在……已安装好的情况下”，比从句简洁。主句用被动语态是因为施动者是维修人员，无须点明。
+
+### ⑤ while 时间状语从句 + 不定式目的状语
+**原句**：The lower wing sections should be individually attached to the fuselage and blocked up for support while the landing wires are connected and adjusted to obtain the dihedral called for in the specifications or plans.
+**拆解**：主句有两个并列的被动谓语 should be attached 和 (should be) blocked up；while 引导时间状语从句，从句谓语 are connected and adjusted；to obtain the dihedral 为不定式作目的状语；called for in the specifications or plans 为过去分词短语后置修饰 dihedral。
+**要点**：while 在此意为“在……的同时”，强调两项工作同步进行。called for 是固定搭配 call for（要求）的过去分词形式，与 dihedral 是被动关系，不能换成 calling。
+
+### ⑥ 长主语 + 并列插入成分 + 不定式定语
+**原句**：As with any aircraft maintenance or repair, the instructions and specifications from the manufacturer, or the procedures and recommendations found in the construction plans, should be the primary method to perform the assembly and rigging of the aircraft.
+**拆解**：As with ... 是介词短语作状语，意为“如同……一样”；主语由两部分并列构成：the instructions and specifications from the manufacturer 与 or the procedures and recommendations found in the construction plans，其中 found in ... 为过去分词短语作后置定语；谓语 should be，表语 the primary method；to perform ... 为不定式作后置定语修饰 method。
+**要点**：主语被逗号和 or 拉得很长，谓语 should be 到句末附近才出现，阅读时应先锁定两个并列的核心名词（instructions and specifications / procedures and recommendations）再找谓语。As with 表示“正如……的情况”，不是 as 引导的从句。

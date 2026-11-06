@@ -3,7 +3,6 @@
 > 机体 Ch 02 · Aircraft Rigging · 原文 PDF 第 109 页
 
 ## 1. 原文
-
 Aircraft rigging involves the adjustment and travel of movable flight controls which are attached to aircraft major surfaces, such as wings and vertical and horizontal stabilizers. Ailerons are attached to the wings, elevators are attached to the horizontal stabilizer, and the rudder is attached to the vertical stabilizer. Rigging involves setting cable tension, adjusting travel limits of flight controls, and setting travel stops.
 
 In addition to the flight controls, rigging is also performed on various components to include engine controls, flight deck controls, and retractable landing gear component parts. Rigging also includes the safetying of the attaching hardware using various types of cotter pins, locknuts, or safety wire.
@@ -154,7 +153,9 @@ When checking alignment, a suitable sequence should be developed and followed to
 
 It is important that the dihedral be checked at the positions specified by the manufacturer. Certain portions of the wings or horizontal stabilizer may sometimes be horizontal or, on rare occasions, anhedral angles may be present.
 
-Checking Incidence Incidence is usually checked in at least two specified positions on the surface of the wing to ensure that the wing is free from twist. A variety of incidence boards are used to check the incidence angle. Some have stops at the forward edge, which must be placed in contact with the leading edge of the wing. Others are equipped with location pegs which fit into some specified part of the structure. The purpose in either case is to ensure that the board is fitted in exactly the position intended. In most instances, the boards are kept clear of the wing contour by short extensions attached to the board. A typical incidence board is shown in Figure 2-85 .
+#### Checking Incidence
+
+Incidence is usually checked in at least two specified positions on the surface of the wing to ensure that the wing is free from twist. A variety of incidence boards are used to check the incidence angle. Some have stops at the forward edge, which must be placed in contact with the leading edge of the wing. Others are equipped with location pegs which fit into some specified part of the structure. The purpose in either case is to ensure that the board is fitted in exactly the position intended. In most instances, the boards are kept clear of the wing contour by short extensions attached to the board. A typical incidence board is shown in Figure 2-85 .
 
 When used, the board is placed at the specified locations on the surface being checked. If the incidence angle is correct, a inclinometer on top of the board reads zero, or within a specified tolerance of zero. Modifications to the areas where incidence boards are located can affect the reading. For example, if leading edge deicer boots have been installed, the position of a board having a leading edge stop is affected.
 
@@ -398,7 +399,9 @@ Pal nuts may be a second nut tightened against the first and used to force the p
 
 重要的是必须在制造商规定的位置检查上反角。机翼或水平安定面的某些部位有时可能是水平的，极少数情况下还可能存在下反角。
 
-检查安装角 通常至少在机翼表面的两个规定位置检查安装角，以确保机翼无扭转。检查安装角使用各种安装角样板。有些样板在前缘处设有止挡，必须与机翼前缘接触；另一些则装有定位销，插入结构的某个规定部位。两种做法都是为了确保样板恰好装在预定位置。多数情况下，样板通过其上的短伸脚与机翼外形保持间隙。典型的安装角样板见图2-85。
+#### 检查安装角
+
+通常至少在机翼表面的两个规定位置检查安装角，以确保机翼无扭转。检查安装角使用各种安装角样板。有些样板在前缘处设有止挡，必须与机翼前缘接触；另一些则装有定位销，插入结构的某个规定部位。两种做法都是为了确保样板恰好装在预定位置。多数情况下，样板通过其上的短伸脚与机翼外形保持间隙。典型的安装角样板见图2-85。
 
 使用时，把样板放在待检查表面的规定位置。若安装角正确，样板顶部的倾斜仪读数为零，或在规定的零位公差范围内。安装角样板所在部位的改装会影响读数。例如，若已加装前缘防冰带，带前缘止挡的样板位置就会受到影响。
 
@@ -515,22 +518,27 @@ Pal nuts may be a second nut tightened against the first and used to force the p
 **原句**：Aircraft rigging involves the adjustment and travel of movable flight controls which are attached to aircraft major surfaces, such as wings and vertical and horizontal stabilizers.
 **拆解**：主语 Aircraft rigging，谓语 involves，宾语 the adjustment and travel of movable flight controls；which 引导定语从句修饰 flight controls，从句为被动 are attached to；such as 引出举例，说明 major surfaces 具体指什么。
 **要点**：which 的先行词是紧邻的 flight controls，不是 adjustment and travel。such as 后接的是名词列举，不能接完整句子；此处把机翼与垂直、水平安定面并列为“主要表面”。travel 在此是“行程”，不是“旅行”。
+
 ### ② 长宾语 + including 列举 + eligible for 后置定语
 **原句**：It lists the limitations and information required for type certification, including airspeed limits, weight limits, control surface movements, engine make and model, minimum crew, fuel type, thrust limits, rpm limits, etc., and the various components eligible for installation on the product.
 **拆解**：主语 It 指 TCDS，谓语 lists，宾语 the limitations and information，过去分词 required for type certification 作后置定语；including 引出七个以上并列名词作补充列举，etc. 表示未尽；最后的 and the various components 与前面的列举项并列，形容词短语 eligible for installation 后置修饰 components。
 **要点**：including 是介词，后面只能接名词性成分，因此整串列举不是句子。读长列举时先找到 including 的起点和 and the various components 这个并列收尾，中间各项地位平等，不要误把 components 当成 limitations 的一部分。
+
 ### ③ It is imperative that + 虚拟语气
 **原句**：Whenever this process is used for cable splicing, it is imperative that the tools, instructions, and data supplied by Nicopress® be followed exactly to ensure the desired cable function and strength is attained.
 **拆解**：Whenever 引导时间状语从句，从句为被动 is used for cable splicing；主句 it is imperative that ... 中 it 为形式主语，that 从句是真正主语；从句主语 the tools, instructions, and data 带过去分词短语 supplied by Nicopress® 作定语，谓语用动词原形 be followed，构成虚拟语气；to ensure ... 作目的状语，其中又含省略 that 的宾语从句 the desired cable function and strength is attained。
 **要点**：imperative 后的 that 从句须用“(should) + 动词原形”，所以是 be followed 而不是 are followed，这是考试与阅读中最易漏看的虚拟语气标志。ensure 后的从句主语是 function and strength，谓语用 is，按整体概念处理。
+
 ### ④ be defined as + anywhere 引导的定语从句
 **原句**：Those areas are defined as anywhere the cable runs over, under, or around a pulley, sleeve, or through a fairlead; or any section where the cable is flexed, rubbed, or within 1 foot of a swaged-on fitting.
 **拆解**：主句 Those areas are defined as ... 为被动语态，as 后并列两个成分：anywhere 引导的定语从句（anywhere 兼作关系副词，后面省略了 where/that）和 any section + where 引导的定语从句；两个从句内部又各有 over/under/around/through 等介词短语和 flexed, rubbed 等过去分词并列。
 **要点**：anywhere 在此不是“任何地方”的状语，而是被定义的对象，相当于“凡是……的地方”。分号把两种并列情形分开：前半讲钢索经过导向件的部位，后半讲钢索受弯、受磨或靠近压接接头的区段；within 1 foot of 是“距……1英尺以内”。
+
 ### ⑤ 被动语态 + 动名词 + 过去分词后置定语
 **原句**：Cable tension is determined by measuring the amount of force needed to make an offset in the cable between two hardened steel blocks called anvils.
 **拆解**：主句为被动 is determined by + 动名词 measuring；measuring 的宾语 the amount of force，过去分词 needed 作后置定语，不定式 to make an offset 说明 force 的用途；in the cable between two hardened steel blocks 为地点状语，called anvils 为过去分词短语修饰 blocks。
 **要点**：is determined by doing 表示“通过……来测定”，by 后必须用动名词。needed to make 是 force 的定语而非谓语，句子真正的谓语只有 is determined。anvils（砧块）是张力计上夹住钢索的两个淬硬钢块。
+
 ### ⑥ It is essential that + 虚拟语气 + until 从句
 **原句**：It is also essential that all turnbuckle terminals be screwed into the barrel until not more than three threads are exposed on either side of the turnbuckle barrel.
 **拆解**：It 为形式主语，that 从句是真正主语，从句谓语用动词原形 be screwed（虚拟语气）；into the barrel 表示拧入方向；until 引导时间状语从句，not more than three threads 为主语，are exposed 为被动谓语，on either side of the turnbuckle barrel 为地点状语。
