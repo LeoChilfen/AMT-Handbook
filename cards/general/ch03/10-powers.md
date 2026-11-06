@@ -4,51 +4,75 @@
 
 ## 1. 原文
 
-The power (or exponent) of a number is a shorthand method of indicating how many times a number, called the base, is multiplied by itself. For example, 3 4 is read as “3 to the power of 4.” That is, 3 multiplied by itself 4 times. The 3 is the base and 4 is the power. Examples: 23 = 2 × 2 × 2 = 8 −5 −4 −3 −2 −1 0 +1 +2 +3 +4 +5 Read “two to the third power equals 8.”
+The power (or exponent) of a number is a shorthand method of indicating how many times a number, called the base, is multiplied by itself. For example, 3 4 is read as “3 to the power of 4.” That is, 3 multiplied by itself 4 times. The 3 is the base and 4 is the power.
 
-105 = 10 × 10 × 10 × 10 × 10 = 100,000 Read “ten to the fifth power equals 100,000.”
+Examples: 2^3 = 2 × 2 × 2 = 8 Read “two to the third power equals 8.”
+
+10^5 = 10 × 10 × 10 × 10 × 10 = 100,000 Read “ten to the fifth power equals 100,000.”
+
+### Special Powers
+
+#### Squared
 
 When a number has a power of 2, it is commonly referred to as “squared.” For example, 72 is read as “seven squared” or “seven to the second power.” To remember this, think about how a square has two dimensions: length and width.
 
+#### Cubed
+
 When a number has a power of 3, it is commonly referred to as “cubed.” For example, 7 3 is read as “seven cubed” or “seven to the third power.” To remember this, think about how a cube has three dimensions: length, width, and depth.
 
-Any non-zero number raised to the zero power always equals 1. Example: 70 = 1 1810 = 1 (–24)0 = 1
+#### Power of Zero
 
-A number with a negative power equals its reciprocal with the same power made positive. Example: The number 2 -3 is read as “2 to the negative 3rd power,” and is calculated by:
+Any non-zero number raised to the zero power always equals 1. Example: 7^0 = 1 181^0 = 1 (–24)^0 = 1
 
-2-3 = 1 23 = 1 2 × 2 × 2 = 1 8 When using a calculator to raise a negative number to a power, always place parentheses around the negative number (before raising it to a power) so that the entire number gets raised to the power.
+### Negative Powers
+
+A number with a negative power equals its reciprocal with the same power made positive.
+
+Example: The number 2^-3 is read as “2 to the negative 3rd power,” and is calculated by:
+
+2^-3 = 1/2^3 = 1/2 × 2 × 2 = 1/8
+
+When using a calculator to raise a negative number to a power, always place parentheses around the negative number (before raising it to a power) so that the entire number gets raised to the power.
 
 ### Law of Exponents
 
-When multiplying numbers with powers, the powers can be added as long as the bases are the same. Example:
+When multiplying numbers with powers, the powers can be added as long as the bases are the same.
 
-32 × 34 = (3 × 3) × (3 × 3 × 3 × 3) = 3 × 3 × 3 × 3 × 3 × 3 = 36 or 32 × 34 = 3(2+4) = 36 When dividing numbers with powers, the powers can be subtracted as long as the bases are the same. Example:
+Example: 3^2 × 3^4 = (3 × 3) × (3 × 3 × 3 × 3) = 3 × 3 × 3 × 3 × 3 × 3 = 36 or 32 × 34 = 3(2+4) = 36
 
-104 ÷ 102 =10 × 10 × 10 × 1010 × 10 =10 × 10 × 10 × 1010 × 10 =10 × 10 =102 or 104 ÷ 102 = 10(4 – 2) = 102
+When dividing numbers with powers, the powers can be subtracted as long as the bases are the same.
+
+Example: 10^4 ÷ 10^2 =10 × 10 × 10 × 10/10 × 10 =10 × 10 =10^2 or 10^4 ÷ 10^2 = 10^(4 – 2) = 10^2
+
+### Powers of Ten
 
 Because we use the decimal system of numbers, powers of ten are frequently seen in everyday applications. For example, scientific notation uses powers of ten. Also, many aircraft drawings are scaled to powers of ten.
 
-A root is a number that when multiplied by itself a specified number of times produces a given number. The two most common roots are the square root and the cube root.
+### Roots
 
-The square root of 25, written as 25, equals 5. That is, when the number 5 is squared (multiplied by itself), it produces the number 25. The symbol is called a radical sign. Finding the square root of a number is the most common application of roots. The collections of numbers whose square roots are whole numbers are called perfect squares. The first ten perfect squares are: 1, 4, 9, 16, 25, 36, 49, 64, 81, and 100. The square root of each of these numbers is 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10, respectively. For example, 36 = 6 and 81 = 9 To find the square root of a number that is not a perfect square, use either a calculator or the estimation method. A longhand method does exist for finding square roots, but with the advent of calculators and because of its lengthy explanation, it is no longer included in this handbook. The estimation method uses the knowledge of perfect squares to approximate the square root of a number.
+A root is a number that when multiplied by itself a specified number of times produces a given number.
 
-Example: Find the square root of 31. Since 31 falls between the two perfect roots 25 and 36, we know that must be between 25 and 36. Therefore, 31 must be greater than 5 and less than 6 because 25 = 5 and 36 = 6. If you estimate the square root of 31 at 5.5, you are close to the correct answer. The square root of 31 is actually 5.568.
+The two most common roots are the square root and the cube root.
 
-The cube root of 125, written as 3 125, equals 5. That is, when the number 5 is cubed (5 multiplied by itself then multiplying the product (25) by 5 again), it produces the number 125. It is common to confuse the “cube” of a number with the “cube root” of a number. For clarification, the cube of 27 = 273 = 27 × 27 × 27 = 19,683. However, the cube root of 27 = 3 27 = 3.
+### Square Roots
+
+The square root of 25, written as √25, equals 5. That is, when the number 5 is squared (multiplied by itself), it produces the number 25. The symbol √ is called a radical sign. Finding the square root of a number is the most common application of roots. The collections of numbers whose square roots are whole numbers are called perfect squares. The first ten perfect squares are: 1, 4, 9, 16, 25, 36, 49, 64, 81, and 100. The square root of each of these numbers is 1, 2, 3, 4, 5, 6, 7, 8, 9, and 10, respectively.
+
+For example, √36 = 6 and √81 = 9
+
+To find the square root of a number that is not a perfect square, use either a calculator or the estimation method. A longhand method does exist for finding square roots, but with the advent of calculators and because of its lengthy explanation, it is no longer included in this handbook. The estimation method uses the knowledge of perfect squares to approximate the square root of a number.
+
+Example: Find the square root of 31. Since 31 falls between the two perfect roots 25 and 36, we know that must be between √25 and √36. Therefore, √31 must be greater than 5 and less than 6 because √25 = 5 and √36 = 6. If you estimate the square root of 31 at 5.5, you are close to the correct answer. The square root of 31 is actually 5.568.
+
+The cube root of 125, written as 3 125, equals 5. That is, when the number 5 is cubed (5 multiplied by itself then multiplying the product (25) by 5 again), it produces the number 125. It is common to confuse the “cube” of a number with the “cube root” of a number.
+
+For clarification, the cube of 27 = 27^3 = 27 × 27 × 27 = 19,683. However, the cube root of 27 = 3√27 = 3.
 
 ### Fractional Powers
 
 Another way to write a root is to use a fraction as the power (or exponent) instead of the radical sign. The square root of a number is written with a 1⁄2 as the exponent instead of a radical sign. The cube root of a number is written with an exponent of 1⁄3 and the fourth root with an exponent of 1⁄4 and so on.
 
-Example: 31 = 31 1⁄2 3 125 = 1251⁄3 4 16 = 161⁄4
-
-Powers of Ten Expansion Value Positive Exponents 106 105 104 103 102 101 100 1,000,000 100,000 10,000 1,000 100 10 1 10 x 10 x 10 x 10 x 10 x 10 10 x 10 x 10 x 10 x 10 10 x 10 x 10 x 10 10 x 10 x 10 10 x 10 10 Negative Exponents 1/10=0.1 1/100=0.01 1/1,000=0.001 1/10,000=0.0001 1/100,000=0.00001 1/1,000,000=0.000001 1/10 1/(10 x 10)
-
-1/(10 x 10 x 10 x 10)
-
-1/(10 x 10 x 10 x 10 x 10)
-
-1/(10 x 10 x 10 x 10 x 10 x 10)
+Example: √31 = 31^1⁄2 3√125 = 125^1⁄3 4√16 = 16^1⁄4
 
 ## 2. 中文翻译
 
