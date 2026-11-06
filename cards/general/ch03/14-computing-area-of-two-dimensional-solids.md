@@ -37,6 +37,7 @@ a = 1⁄2 × (b × h) = 1⁄2 × (2'6" × 3'2")
 Next, convert all dimensions to inches:
 
 2'6" = (2 × 12") + 6" = (24 + 6) = 30 inches
+
 3'2" = (3 × 12") + 2" = (36 + 2) = 38 inches
 
 Now, solve the formula for the unknown value: a = 1⁄2 × (30 inches × 38 inches) = 570 square inches
