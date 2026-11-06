@@ -37,9 +37,13 @@ The Pythagorean Theorem is named after the ancient Greek mathematician, Pythagor
 Example: What is the length of the longest side of a right triangle, given the other sides are 7 inches and 9 inches? The longest side of a right triangle is always side “c,” the hypotenuse. Use the Pythagorean Theorem to solve for the length of side “c” as follows:
 
 a^2 + b^2 = c^2
+
 7^2 + 9^2 = c^2
+
 49 + 81 = c^2
+
 130 = c^2
+
 c = √130 = 11.4 inches
 
 Therefore, side “c” = 11.4 inches.
@@ -49,9 +53,13 @@ Example: The cargo door opening in a military airplane is a rectangle that is 5 
 The diagonal distance across the cargo door opening can be calculated using the Pythagorean Theorem where “a” is the cargo door width, “b” is the cargo door height, and “c” is the diagonal distance across the cargo door opening. 
 
 a^2 + b^2 = c^2
+
 (7 ft)^2 + (5.5 ft)^2 = c^2
+
 49 + 30.25 = c^2
+
 79.25 = c^2
+
 c = 8.9 ft
 
 The diagonal distance across the cargo door opening is 8.9 feet, so the 8-foot wide square steel plate fits diagonally through the cargo door opening and into the airplane.
