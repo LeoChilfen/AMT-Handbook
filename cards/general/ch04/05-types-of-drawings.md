@@ -6,6 +6,8 @@
 
 Drawings must give information such as size and shape of the object and all its parts, specifications for material to be used, how the material is to be finished, how the parts are to be assembled, and any other information essential to making and assembling the object. Drawings may be divided into three classes: detail, assembly, and installation.
 
+### Detail Drawing
+
 A detail drawing is a description of a single part, describing bylines, notes, and symbols the specifications for size, shape, material, and methods of manufacture to be used in making the part. Detail drawings are usually rather simple. When single parts are small, several detail drawings may be shown on the same sheet or print.
 
 ### Assembly Drawing
@@ -20,19 +22,21 @@ An installation drawing is one that includes all necessary information for a par
 
 A section or sectional view is obtained by cutting away part of an object to show the shape and construction at the cutting plane. The part or parts cut away are shown by using section (crosshatching) lines. Types of sections are described in the following paragraphs.
 
+#### Full Section
+
 A full section view is used when the interior construction or hidden features of an object cannot be shown clearly by exterior views. For example, a sectional view of a cable connector shows the internal construction of the connector.
+
+#### Half Section
 
 In a half section, the cutting plane extends only halfway across the object, leaving the other half of the object as an exterior view. Half sections are used with symmetrical objects to show both the interior and exterior.
 
 #### Revolved Section
 
-A revolved section drawn directly on the exterior view shows the shape of the cross section of a part, such as the spoke of a wheel. An example of a revolved section is shown.
+A revolved section drawn directly on the exterior view shows the shape of the cross section of a part, such as the spoke of a wheel.
 
 #### Removed Section
 
 A removed section illustrates parts of an object. It is drawn like revolved sections, except it is placed at one side and often drawn to a larger scale than the view indicated to bring out pertinent details.
-
-Section A-A shows the cross-sectional shape of the object at cutting plane line A-A. Section B-B shows the cross-sectional shape at cutting plane line B-B. These sectional views are drawn to the same scale as the principal view.
 
 ## 2. 中文翻译
 
