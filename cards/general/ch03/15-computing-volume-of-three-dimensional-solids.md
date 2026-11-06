@@ -8,49 +8,65 @@ Three-dimensional solids have length, width, and height. There are many three-di
 
 ### Rectangular Solid
 
-A rectangular solid is a three-dimensional solid with six rectangular-shaped sides. The volume is the number of cubic units within the rectangular solid. The formula for the volume of a rectangular solid is: volume = length × width × height = l × w × h The rectangular solid is 3 feet by 2 feet by 2 feet. The volume of the solid is = 3 ft × 2 ft × 2 ft = 12 cubic feet.
+A rectangular solid is a three-dimensional solid with six rectangular-shaped sides. The volume is the number of cubic units within the rectangular solid. The formula for the volume of a rectangular solid is:
 
-Example: A rectangular baggage compartment measures 5 feet 6 inches in length, 3 feet 4 inches in width, and 2 feet 3 inches in height. How many cubic feet of baggage will it hold? First, substitute the known values into the formula. v = l × w × h = 5'6" × 3'4" × 2'3" = 5.5 ft × 3.33 ft × 2.25 ft = 41.25 cubic feet
+volume = length × width × height = l × w × h
 
-A cube is a solid with six square sides. A cube is just a special type of rectangular solid. It has the same formula for volume as does the rectangular solid, which is volume = length × width × height = L × W × H. Because all of the sides of a cube are equal, the volume formula for a cube can also be written as: volume = side × side × side = S3 Example: A large, cube-shaped carton contains a shipment of smaller boxes inside of it. Each of the smaller boxes is 1 ft × 1 ft × 1 ft. The measurement of the large carton is 3 ft × 3 ft × 3 ft. How many of the smaller boxes are in the large carton? First, substitute the known values into the formula. v = l × w × h = 3 ft × 3 ft × 3 ft = 27 cubic feet of volume in the large carton Since each of the smaller boxes has a volume of 1 cubic foot, the large carton holds 27 boxes.
+Example: A rectangular baggage compartment measures 5 feet 6 inches in length, 3 feet 4 inches in width, and 2 feet 3 inches in height. How many cubic feet of baggage will it hold? First, substitute the known values into the formula.
 
-A solid having the shape of a can, a length of pipe, or a barrel is called a cylinder. The ends of a cylinder are identical circles. The formula for the volume of a cylinder is: volume = π × radius2 × height of the cylinder = π r2 × h One of the most important applications of the volume of a cylinder is finding the piston displacement of a cylinder in a reciprocating engine. Piston displacement is the total volume (in cubic inches, cubic centimeters, or liters) swept by all of the pistons of a reciprocating engine as they move in one revolution of the crankshaft. The formula for piston displacement is given as:
+v = l × w × h = 5'6" × 3'4" × 2'3" = 5.5 ft × 3.33 ft × 2.25 ft = 41.25 cubic feet
 
-Piston Displacement = π × (bore divided by 2)2 × stroke × (# cylinders)
+### Cube
 
-Length 2.54 centimeters 12 inches 3 feet 5,280 feet 0.0394 inches 0.62 miles 25.4 millimeters 30.48 centimeters 0.9144 meters 1,760 yards 1 inch 1 foot 1 yard 1 mile 1 millimeter 1 kilometer Weight 1 ounce 28.350 grams 1 pound 16 ounces 453.592 grams 0.4536 kilograms 1 ton 2,000 pounds 1 milligram 0.001 grams 1 kilogram 1,000 grams 2.2 pounds 1 gram 0.0353 ounces Area 6.45 square centimeters 144 square inches 9 square feet 43,560 square feet 640 acres 0.155 square inches 1.195 square yards 0.384 square miles 0.093 square meters 0.836 square meters 2.59 square kilometers 1 square inch 1 square foot 1 square yard 1 acre 1 square mile 1 square centimeter 1 square meter 1 square kilometer Volume 1 fluid ounce 29.57 cubic centimeters 1 cup 8 fluid ounces 1 pint 2 cups 16 fluid ounces 0.473 liters 1 quart 2 pints 4 cups 32 fluid ounces 0.9463 liters 1 gallon 4 quarts 8 pints 16 cups 128 ounces 3.785 liters 1 gallon 231 cubic inches 1 liter 0.264 gallons 1.057 quarts 1 cubic foot 1,728 cubic inches 7.5 gallons 1 cubic yard 27 cubic feet 1 board foot 1 inch x 12 inches x 12 inches Temperature °F to °C °C to °F Celsius = ⁵⁄9 × (°F − 32)
+A cube is a solid with six square sides. A cube is just a special type of rectangular solid. It has the same formula for volume as does the rectangular solid, which is volume = length × width × height = L × W × H. Because all of the sides of a cube are equal, the volume formula for a cube can also be written as:
 
-Fahrenheit = ⁹⁄5 × (°C + 32)
+volume = side × side × side = S^3
 
-Conversion Factors The bore of an engine is the inside diameter of the cylinder. The stroke of the engine is the length the piston travels inside the cylinder. Example: Find the piston displacement of one cylinder in a multi-cylinder aircraft engine. The engine has a cylinder bore of 5.5 inches and a stroke of 5.4 inches. First, substitute the known values in the formula. v = π × r2 × h = (3.1416) × (5.5 ÷ 2)2 × (5.4) v = 23.758 × 5.4 = 128.29 cubic inches The piston displacement of one cylinder is 128.29 cubic inches. For an eight-cylinder engine, then the total engine displacement would be:
+Example: A large, cube-shaped carton contains a shipment of smaller boxes inside of it. Each of the smaller boxes is 1 ft × 1 ft × 1 ft. The measurement of the large carton is 3 ft × 3 ft × 3 ft. How many of the smaller boxes are in the large carton? First, substitute the known values into the formula.
+
+v = l × w × h = 3 ft × 3 ft × 3 ft = 27 cubic feet of volume in the large carton
+
+Since each of the smaller boxes has a volume of 1 cubic foot, the large carton holds 27 boxes.
+
+### Cylinder
+
+A solid having the shape of a can, a length of pipe, or a barrel is called a cylinder. The ends of a cylinder are identical circles. The formula for the volume of a cylinder is:
+
+volume = π × radius^2 × height of the cylinder = π r^2 × h
+
+One of the most important applications of the volume of a cylinder is finding the piston displacement of a cylinder in a reciprocating engine. Piston displacement is the total volume (in cubic inches, cubic centimeters, or liters) swept by all of the pistons of a reciprocating engine as they move in one revolution of the crankshaft. The formula for piston displacement is given as:
+
+Piston Displacement = π × (bore divided by 2)^2 × stroke × (# cylinders)
+
+The bore of an engine is the inside diameter of the cylinder. The stroke of the engine is the length the piston travels inside the cylinder.
+
+Example: Find the piston displacement of one cylinder in a multi-cylinder aircraft engine. The engine has a cylinder bore of 5.5 inches and a stroke of 5.4 inches. First, substitute the known values in the formula.
+
+v = π × r2 × h = (3.1416) × (5.5 ÷ 2)^2 × (5.4)
+v = 23.758 × 5.4 = 128.29 cubic inches
+
+The piston displacement of one cylinder is 128.29 cubic inches. For an eight-cylinder engine, then the total engine displacement would be:
 
 Total displacement for 8 cylinders = 8 × 128.29 = 1026.32 cubic inches of displacement
 
+### Sphere
+
 A solid having the shape of a ball is called a sphere. A sphere has a constant diameter. The radius (r) of a sphere is one-half of the diameter (d). The formula for the volume of a sphere is given as:
 
-H L W L = 3 W= 2 H = 2 s s s Solid Volume Surface Area l × w × h s3 π × r2 × h /four.numerator⁄/three.denominator × π × r3 /one.numerator⁄/three.denominator × π × r2 × h 2 × [(w × l) + (w × h) + (l × h)]
+V = 4⁄3 × π × radius^3 = 4⁄3 × π × r^3 or v = 1⁄6 × πd^3
 
-6 × s2 2 × π × r2 + π × d × h 4 × π × r2 π × r × [r + (r2 + h2)½]
+Example: A pressure tank inside the fuselage of a cargo aircraft is in the shape of a sphere with a diameter of 34 inches. What is the volume of the pressure tank?
 
-Rectangle Solid Cube Cylinder Sphere
+v = 4⁄3 × π × radius^3 = 4⁄3 × (3.1416) × (34⁄2)^3 = 1.33 × 3.1416 × 173 = 1.33 × 3.1416 × 4,913
+v = 20,528.125 cubic inches
 
-Formulas for Area of Two-Dimensional ObjectsOrder of Operation for Algebraic Equations Names and Symbols for Metric Prefixes Powers of Ten Prefix Means exa (10 18) giga (10 9) mega (10 6)
+### Cone
 
-One quintillion times One quadrillion times One trillion times One billion times One million times One thousand times One hundred times Ten times One tenth of One hundredth of One thousandth of One millionth of One billionth of One trillionth of Powers of Ten Expansion Value Positive Exponents 106 105 104 103 102 101 100 1,000,000 100,000 10,000 1,000 100 10 1 10 x 10 x 10 x 10 x 10 x 10 10 x 10 x 10 x 10 x 10 10 x 10 x 10 x 10 10 x 10 x 10 10 x 10 10 Negative Exponents 1/10=0.1 1/100=0.01 1/1,000=0.001 1/10,000=0.0001 1/100,000=0.00001 1/1,000,000=0.000001 1/10 1/(10 x 10)
+A solid with a circle as a base and with sides that gradually taper to a point is called a cone. The formula for the volume of a cone is given as:
 
-1/(10 x 10 x 10 x 10)
+v = 1⁄3 × π × radius^2 × height = 1⁄3 × π × r^2 × h
 
-1/(10 x 10 x 10 x 10 x 10)
-
-1/(10 x 10 x 10 x 10 x 10 x 10)
-
-1. P arentheses 2. Exponents 3. Multiplication 4. Division 5. Addition 6. Subtraction c b a C B A c b a a2 + b2 = c2 Trigonometric Equations Pythagorean Theorem Use the acronym PEMDAS to remember the order of operation in algebra. PEMDAS is an acronym for parentheses, exponents, multiplication, division, addition, and subtraction. To remember it, many use the sentence, “Please Excuse My Dear Aunt Sally.” Sine (sin) of angle A = opposite side (side a)hypotenuse (side c)
-
-Cosine (cos) of angle A = adjacent side (side b)hypotenuse (side c)
-
-Tangent (tan) of angle A = opposite side (side a)adjacent side (side b)
-
-V = 4⁄3 × π × radius3 = 4⁄3 × π × r3 or v = 1⁄6 × πd3 Example: A pressure tank inside the fuselage of a cargo aircraft is in the shape of a sphere with a diameter of 34 inches. What is the volume of the pressure tank? v = 4⁄3 × π × radius3 = 4⁄3 × (3.1416) × (34⁄2)3 = 1.33 × 3.1416 × 173 = 1.33 × 3.1416 × 4,913 v = 20,528.125 cubic inches Cone A solid with a circle as a base and with sides that gradually taper to a point is called a cone. The formula for the volume of a cone is given as: v = 1⁄3 × π × radius2 × height = 1⁄3 × π × r2 × h
+### Units of Volume
 
 Since all volumes are not measured in the same units, it is necessary to know all the common units of volume and how they are related to each other. For example, the mechanic may know the volume of a tank in cubic feet or cubic inches, but when the tank is full of gasoline, they are interested in how many gallons it contains.
 
