@@ -46,14 +46,88 @@ Aircraft with digital instrumentation make use of pressure-sensitive solid-state
 
 ## 2. 中文翻译
 
-TODO
+要把驾驶舱里需要传达的信息全都用直读式仪表来获取，往往不现实，甚至根本不可能。把传感器装在机体或发动机上最合适的位置，再把采集到的数据通过导线以电信号形式送到驾驶舱显示器，是飞机上广泛采用的遥测与指示方法。许多遥感仪表系统仅由传感装置、发送器组件和驾驶舱指示器组件组成，三者之间用导线相连。对于压力式飞行仪表，大气数据计算机（ADC）与拾取装置（皮托管、静压孔等）就构成了传感与发送单元。许多飞机把感测到的数据汇集到专用的发动机和机体计算机中，在那里对信息进行处理，计算机的输出部分再以电信号或数字形式把它送到驾驶舱显示。遥感仪表系统工作可靠、精度高，由飞机的电源系统供电。
+
+仪表壳体内的小型电动机取代了直接作用的机械连杆，用来驱动指针。电动机从 ADC 或其他计算机的输出部分获得电流，同时也接收来自飞机上远处安装的传感发送器或换能器的输入。通过改变电信号，电动机被转到精确的位置，以反映正确的指示。不同类型传感器的信息，可以直接通过几种可靠而相对简单的技术实现电传输。要注意，数字式驾驶舱显示器的全部输入都来自数字大气数据计算机（DADC）和其他计算机，经数字数据总线传送，并不使用电动机。总线上传输的数据包中，包含了如何点亮显示屏的指令。
+
+### 同步器式遥控指示仪表
+
+同步器系统是一种用于把信息从一点传送到另一点的电气系统。“synchro”一词是“synchronous（同步的）”的缩写，指一系列工作原理相似的双单元电气系统，能在飞机上测量、传送并指示某一参数。大多数位置指示仪表都是围绕同步器系统设计的，例如襟翼位置指示器。流体压力指示器也普遍采用同步器系统。同步器系统用作起落架、自动驾驶仪、雷达以及许多其他遥控指示应用的位置指示器。最常见的同步器系统有自整角（autosyn）、塞尔同步（selsyn）和磁同步（magnesyn）三种。
+
+这些系统构造相似，都利用电与磁之间稳定一致的关系来工作。电能够产生具有确定方向的磁场，而磁场又能与磁体及其他电磁场相互作用——这一事实正是它们的工作基础。
+
+#### 直流塞尔同步系统
+
+在采用直流（DC）电源系统的飞机上，直流塞尔同步系统用得很多。如前所述，塞尔同步系统由发送器、指示器和连接导线组成。发送器由一个环形电阻绕组和一个可转动的接触臂构成。接触臂绕电阻绕组中心的轴转动。臂的两端是电刷，始终接触绕组相对的两侧。在位置指示系统中，固定接触臂的轴伸出发送器壳体端部，与被传送位置的部件（如襟翼、起落架）相连。发送器通常通过机械连杆与被测运动部件连接。部件运动时带动发送器轴转动，接触臂也随之转动，于是电压经电刷加到电阻绕组圆周上的任意两点。测量其他类型数据的直流塞尔同步系统，其转子轴工作方式相同，但可能不伸出壳体之外。使轴产生旋转运动的传感装置，可以装在发送器壳体内部。
+
+参见图10-47，注意发送器的电阻绕组在三个固定位置抽头，通常相隔120°。这些抽头把电流分配到指示器电动机的环形绕组中。电流流过这些绕组时便产生磁场。与所有磁场一样，该磁场有确定的南北方向。
+
+发送器转子轴转动时，供电接触臂随之移动。由于它接触电阻绕组的位置不同，供电臂与各抽头之间的电阻随之改变。这使流经抽头的电压发生变化，因为绕组各段的电阻变长或变短。结果，不同大小的电流经抽头送往指示器电动机的三个绕组。
+
+指示器线圈中流过电流所产生的合成磁场，随各线圈从抽头获得不同电流而变化，磁场方向也随之改变。于是，指示元件中磁场的方向在位置上与发送器中运动臂的位置相对应。指示器中，永久磁铁固定在居中的转子轴上，指示器指针也固定在同一轴上。磁铁自行对准磁场方向，指针也随之对准。每当磁场改变方向，永久磁铁与指针就重新对准磁场的新位置。这样，飞机部件的位置便得到了指示。
+
+起落架装有机械锁定装置，收上时锁定称为上位锁（up-lock），放下时锁定称为下位锁（down-lock）。用直流塞尔同步系统指示起落架位置时，指示器还能显示上位锁或下位锁是否啮合。这仍然是靠改变流过指示器线圈的电流来实现的。实际锁定装置上的开关在锁啮合时闭合。上述同步器系统的电流流过该开关和一个小附加电路。该电路在由转子臂与某一抽头构成的发送器绕组段上再串入一个电阻，从而改变该段的总电阻。结果是流过指示器一个电动机线圈的电流发生变化，进而改变该线圈周围的磁场。因此，三个电动机线圈共同形成的合成磁场也受到影响，使指示器磁场方向发生偏移。永久磁铁与指针就对准新的方向，转到指示器刻度盘上的锁定位置。图10-48给出了三线塞尔同步系统中锁定开关与指示器刻度盘的简化图。
+
+#### 交流同步器系统
+
+采用交流（AC）电源系统的飞机，使用自整角（autosyn）或磁同步（magnesyn）遥控指示系统。两者工作方式与直流塞尔同步系统相似，只是使用交流电。因此它们利用的是电磁感应，而不是由转子电刷决定的电阻性电流。磁同步系统使用永久磁铁转子，与直流塞尔同步系统中所见相同。通常发送器磁铁比指示器磁铁大，但指示器转子磁铁与指针的电磁响应仍然一样：它对准线圈建立的磁场，取与发送器转子相同的偏转角。
+
+自整角系统的进一步区别在于，其发送器和指示器转子用的是电磁铁而非永久磁铁。不过，电磁铁与永久磁铁一样，会对准指示器定子线圈中电流所产生磁场的方向。因此，指示器指针的位置就镜像反映出送器转子的位置。
+
+交流同步器系统的接线与直流系统不同。随着交流电周期性过零、转子磁场磁通得以流通，变化的电流被感应到发送器和指示器的定子线圈中。自整角和磁同步系统都保持了所有同步器系统的重要特性，即发送器转子的位置由指示器中的转子镜像反映出来。这些系统的应用与直流系统有许多相同之处，而且更多。由于它们通常是高性能飞机仪表的一部分，自整角与磁同步系统的改型常用于航向指示器和自动驾驶仪系统。
+
+#### 燃油与滑油压力的遥控指示压力表
+
+借助同步器系统可以方便地获得燃油和滑油压力指示。如前所述，把燃油和滑油管路引入座舱接到直读式压力表并不可取，因为存在液体泄漏的可能，座舱内起火的风险也会增加。
+
+把同步器系统的发送器安装在远处，压力流体就可以引入其中，而无需长距离敷设管路。在发送器内部，压力膜盒的运动可通过齿轮机构带动发送器转子转动。与所有同步器一样，发送器转子的转角与所感测的压力成正比，从而改变同步器定子电阻绕组中建立的电压。这些电压被送到指示器线圈，由线圈产生磁场使指针定位。
+
+双发飞机上，常常用每台发动机各自的同步器机构驱动同一指示器上的两个独立指针。把线圈前后叠置，后部指示器电动机的指针轴就可以穿过前部电动机的空心轴。这样，每个指针都靠磁铁在各自电动机磁场中的对准来响应，同时共用一个表壳。在指针上标注1号或2号发动机，就不会弄混正在观察的是哪个指示器的指针。同一表壳内并排显示不同参数（例如滑油压力和燃油压力）的指示器也采用类似原理，每个参数都有各自的同步器电动机来定位其指针。
+
+装有数字仪表的飞机，使用压敏固态传感器输出数字信号，由专用的发动机和机体计算机采集处理。另一些飞机保留模拟传感器，但把信息经模数转换器送出，相应的计算机从中获得数字信息，进行处理并点亮数字显示。还有更多仪表使用本节所述的同步器遥控指示系统或类似的同步器。有时也会采用简单、更合适或更便宜的技术。
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-TODO
+| remote-sensing | n. | 遥测 | 传感器就地安装、电信号远传至驾驶舱的测量方式 |
+| transmitter unit | n. | 发送器组件 | 同步器系统中把感受的位置或压力转换为电信号的单元 |
+| synchro | n. | 同步器 | synchronous 的缩写，成对工作、一送一收的双单元电气系统 |
+| selsyn | n. | 塞尔同步器 | 直流飞机上最常用的位置遥控指示同步器 |
+| autosyn | n. | 自整角机 | 交流系统用同步器，其转子为电磁铁 |
+| magnesyn | n. | 磁同步器 | 交流系统用同步器，其转子为永久磁铁 |
+| resistance winding | n. | 电阻绕组 | 发送器内被接触臂扫掠、按角度分压的环形电阻 |
+| tapoff | n. | 抽头 | 电阻绕组上相隔120°引出的三个固定接点 |
+| toroidal winding | n. | 环形绕组 | 指示器电动机中接收抽头电流并建立磁场的线圈 |
+| up-lock / down-lock | n. | 上位锁／下位锁 | 起落架收上或放下到位后锁住机件的机械装置 |
+| bellows | n. | 膜盒 | 发送器内感受流体压力并产生位移的弹性元件 |
+| stator coil | n. | 定子线圈 | 交流同步器指示器中建立磁场、使转子对准的线圈 |
+| digital data bus | n. | 数字数据总线 | 把计算机数据包送往数字显示器的传输通道 |
+| analog to digital converter | n. | 模数转换器 | 把模拟传感器信号转成数字量供计算机处理
 
 ## 4. 语法解析
 
-TODO
+### ① it 作形式主语 + 不定式真正主语
+**原句**：It is often impractical or impossible to utilize direct reading gauges for information needed to be conveyed in the flight deck.
+**拆解**：It 是形式主语，真正的主语是后面的不定式短语 to utilize direct reading gauges for information...；is 为系动词，often impractical or impossible 为并列的表语；needed to be conveyed in the flight deck 是过去分词短语作后置定语，修饰 information。
+**要点**：it 在这里不指代任何具体事物，只是占住主语位置，把长的不定式主语推到句末，避免头重脚轻。needed 与 information 是被动关系（信息“被”传达），所以用过去分词而非现在分词。
+
+### ② 动名词并列主语
+**原句**：Placing sensors at the most suitable location on the airframe or engine and transmitting the collected data electrically through wires to the displays in the flight deck is a widely used method of remote-sensing and indicating on aircraft.
+**拆解**：主语由两个动名词短语并列构成：Placing sensors... 与 transmitting the collected data...（由 and 连接）；谓语是 is，表语为 a widely used method of remote-sensing and indicating on aircraft，其中 widely used 为过去分词作定语。
+**要点**：两个动名词短语共用同一个谓语 is，中间夹着长长的介词短语和分词修饰语，容易误把 transmitting 当成谓语。判断办法：看 and 两侧结构是否对称，再看后面只有 is 这一个限定动词。
+
+### ③ 祈使句 + that 宾语从句 + 并列谓语
+**原句**：Note that digital flight deck displays receive all of their input from a digital air data computer (DADC) and other computers, via a digital data bus and do not use electric motors.
+**拆解**：Note 为祈使句谓语，后接 that 引导的宾语从句；从句主语 digital flight deck displays，并列谓语为 receive 与 do not use；from a digital air data computer (DADC) and other computers 作 receive 的状语，via a digital data bus 为方式状语。
+**要点**：do not use 前的 and 连接的是 receive 和 use 两个谓语，而不是 computers；via 短语插在中间制造了视觉干扰。翻译时“不使用电动机”这层意思要单独成句，才读得顺。
+
+### ④ 同位语从句并列 + 主句谓语后置
+**原句**：The fact that electricity can be used to create magnetic fields that have definite direction, and that magnetic fields can interact with magnets and other electromagnetic fields, is the basis of their operation.
+**拆解**：主语 The fact 后跟两个并列的同位语从句：that electricity can be used... 和 that magnetic fields can interact...；第一个从句里还嵌套 that have definite direction 定语从句修饰 magnetic fields；主句谓语 is 直到最后才出现，表语 the basis of their operation。
+**要点**：两个 that 从句是并列关系，共同说明 fact 的内容，不是“第一个 that 从句 + 第二个 that 定语从句”。由于主语和谓语之间插入了这么长的解释，翻译时宜先把 fact 的内容讲完，再落“正是……的基础”。
+
+### ⑤ 介词 + which 与 whose 双重定语从句
+**原句**：On position indicating systems, the shaft to which the contact arm is fastened protrudes through the end of transmitter housing and is attached to the unit whose position is to be transmitted (e.g., flaps, landing gear).
+**拆解**：介词短语 On position indicating systems 作状语；主语 the shaft 后接 to which the contact arm is fastened 定语从句；谓语为并列的 protrudes 与 is attached to；the unit 后接 whose position is to be transmitted 定语从句。
+**要点**：to which 是“介词 + 关系代词”，which 指 the shaft，fastened to 的介词被提到前面；whose 表所属，whose position 即 the unit's position。两个从句分别修饰 shaft 和 unit，不要混成一层。

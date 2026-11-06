@@ -36,14 +36,83 @@ The colors used as range markings are red, yellow, green, blue, or white. The ma
 
 ## 2. 中文翻译
 
-TODO
+### 仪表板
+
+仪表板通常用铝合金板材制成，并涂成深色无光泽漆。仪表板有时带有副面板，以便维修时更容易接近仪表背面。仪表板通常采用减振安装，以吸收低频、大幅值的冲击。减振座能吸收大部分垂直和水平振动，同时允许仪表在轻微振动条件下正常工作。搭接带用于保证仪表板到机体之间的电气连续性。
+
+仪表板所用减振座的型式和数量由组件重量决定。减振安装的仪表板应能在各个方向上自由活动，并具有足够的间隙，以免撞击支撑结构。当仪表板间隙不足时，应检查减振座有无松动、裂纹或老化。
+
+在较老的飞机上，仪表板的布局看似随意。仪表飞行的出现，使得在无法借助外部地平线或地面参照物飞行时，飞行仪表变得至关重要。因此，飞行仪表采用了本章开头提到的基本 T 形布局。电子飞行仪表系统和数字式驾驶舱显示器在飞行仪表与数据的呈现上仍沿用相同的基本 T 形布局。飞行仪表及基本 T 形布局位于机长和副驾驶座椅的正前方。有些轻型飞机只装一套完整的飞行仪表，位于左座前方。
+
+发动机仪表和导航仪表的位置各不相同。理想情况下，机长和副驾驶都应能够接触到它们。为利用仪表板中央有限的空间、同时仍使机组能够接触到所有相关仪表，人们设计出许多不同的布置方案。在大型飞机上，中央操纵台和顶板有助于扩展空间。在小型飞机上，发动机仪表常被移开，以便让导航仪表和无线电设备占据仪表板中央。在现代飞机上，EFIS 和数字飞行信息系统减少了仪表板的拥挤程度，使两名机组成员都更容易接触到所有仪表。可控显示面板可以从多页信息中选择，未被显示的信息完全从视野中消失，也不占用仪表板空间。
+
+### 仪表安装
+
+把仪表安装到各自仪表板上的方法取决于仪表壳体的设计。在一种设计中，表框带有法兰，使仪表可以从仪表板后方齐平装入其开口。法兰角部的背面设有整体式自锁螺母，用于从仪表板前方拧入安装螺钉。带法兰的仪表也可以安装在仪表板前方，此时通常在仪表板本身上安装托板螺母。安装仪表一般使用非铁（非磁性）螺钉。
+
+另有一些仪表安装系统采用无法兰仪表。一个按仪表壳体形状和尺寸制作的专用卡箍永久固定在仪表板背面。仪表从前方滑入仪表板并进入卡箍，卡箍的紧固螺钉可从仪表板前侧操作。无论采用何种安装方式，仪表都不应与其他仪表接触，也不应近到在着陆冲击时相互碰触。
+
+### 仪表电源要求
+
+许多飞机仪表工作需要电源。即使是非电动仪表，也可能带有电照明。飞机发电机发出的电量是有限的。仪表、无线电及机上其他设备的用电负荷不得超过这一电量，这一点至关重要。
+
+包括仪表在内的用电设备都有额定功率。额定值标明该组件正常工作所需的电压，以及它在满负荷工作时的电流值。安装任何部件之前都必须核对其额定值。建议用额定值相同的部件进行更换，以确保所装设备的潜在用电负荷仍处于飞机制造商规定的限值之内。加装额定值不同的部件或安装全新部件时，可能需要进行负荷检查。这实质上是一项地面运行检查，用以确认电气系统能够为机上所装的全部用电设备供电。进行此项检查时，须遵循制造商的说明。
+
+### 仪表量程标记
+
+许多仪表的表盘面上带有彩色标记，使人一眼就能看出某一系统或部件是否处于安全、理想的运行范围，或是否存在不理想的状况。这些标记由原始设备制造商按照型号合格证数据单中的飞机规范施加在仪表上。描述这些限制的数据，有时也可在飞机制造商的运行与维修手册以及飞行手册中查到。
+
+有时，飞机维修技师可能会发现有必要在经批准但不带这些标记的替换仪表上施加标记。关键在于标记必须正确，且只能依据经批准的数据施加。标记可用油漆或贴花施加在仪表的表盖玻璃上。还要画一道白色的滑移标记，从玻璃延伸到仪表壳体。如果玻璃在表框内转动，标记就不再与已校准的表盘正确对正。滑移标记错位即可向飞行员或技师表明这一点。
+
+用作量程标记的颜色有红、黄、绿、蓝或白。标记可以是弧形，也可以是径向直线。红色用于标示最大和最小范围，超出这些标记运行是危险的，应予避免。绿色表示正常工作范围。黄色用于表示告诫。蓝色和白色用于空速表，以界定特定条件。[图 10-136 和 10-137]
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-TODO
+| subpanel | n. | 副面板 | 仪表板上可拆的小面板，便于接近仪表背面 |
+| shock mount | n. | 减振座 | 隔振安装件，吸收低频大幅冲击与部分振动 |
+| bonding strap | n. | 搭接带 | 保证仪表板与机体之间电气连续的金属带 |
+| basic T arrangement | n. | 基本 T 形布局 | 姿态、空速、高度等飞行仪表的标准排布形式 |
+| EFIS | n. | 电子飞行仪表系统 | 用电子显示取代机械表盘、减少仪表板拥挤的系统 |
+| center pedestal | n. | 中央操纵台 | 大型飞机上扩展仪表与控制器安装空间的台体 |
+| bezel | n. | 表框 | 仪表前部的框圈，可带法兰用于安装固定 |
+| flange | n. | 法兰 | 表框四周的凸缘，用于从面板后方齐平固定仪表 |
+| nut-plate | n. | 托板螺母 | 铆在仪表板上的固定螺母，供前装螺钉拧入 |
+| nonferrous screw | n. | 非铁磁性螺钉 | 安装仪表用的非磁性螺钉，避免干扰磁罗盘等 |
+| clamp | n. | 卡箍 | 无法兰仪表的固定件，按壳体形状尺寸制作 |
+| range marking | n. | 量程标记 | 表盘上的彩色弧线或径向线，标示允许与危险范围 |
+| slippage mark | n. | 滑移标记 | 从表盖玻璃延伸到壳体的白线，用于发现玻璃转动 |
+| cover glass | n. | 表盖玻璃 | 仪表表盘的透明罩，量程标记可施加其上 |
 
 ## 4. 语法解析
 
-TODO
+### ① such ... that 结果状语从句
+**原句**：In one design, the bezel is flanged in such a manner that the instrument can be flush mounted in its cutout from the rear of the panel.
+**拆解**：主语 the bezel，谓语 is flanged（被动）；in such a manner 为方式状语；that the instrument can be flush mounted... 为结果状语从句，从句谓语是被动式 can be mounted，from the rear of the panel 为地点状语。
+**要点**：such ... that 中 such 修饰名词 manner，that 引出结果，不是定语从句。flush 在此是副词，flush mounted 意为“齐平安装”。
+
+### ② 定语从句中插入 when 从句
+**原句**：Controllable display panels provide the ability to select from pages of information that, when not displayed, are completely gone from view and use no instrument panel space.
+**拆解**：主语 Controllable display panels，谓语 provide，宾语 the ability，to select from pages of information 为不定式作后置定语修饰 ability；that ... 为定语从句修饰 information，从句主语是 that（即 information），when not displayed 为插入的时间状语从句（省略 they are），谓语是并列的 are gone 与 use。
+**要点**：that 在从句中作主语，谓语用复数 are，说明先行词是复数 information（信息页）。when not displayed 插在主语与谓语之间，读时可先跳过。
+
+### ③ 省略 if 的虚拟条件倒装
+**原句**：Should the glass rotate in the bezel, the marking will no longer be aligned properly with the calibrated instrument dial.
+**拆解**：Should the glass rotate in the bezel 为倒装的虚拟条件从句，等于 If the glass should rotate in the bezel；主句 the marking will no longer be aligned 为被动，properly with the calibrated instrument dial 为状语。
+**要点**：should 提到句首、省略 if，是正式书面语中常见的虚拟条件倒装。be aligned with 意为“与……对正”，此处强调标记与表盘刻度的相对位置。
+
+### ④ it 形式主语 + 虚拟语气主语从句
+**原句**：It is imperative that the electric load of the instruments, radios, and other equipment on board the aircraft does not exceed this amount.
+**拆解**：It 为形式主语，真正主语是 that 引导的主语从句；从句主语 the electric load of the instruments, radios, and other equipment on board the aircraft，谓语 does not exceed，宾语 this amount。
+**要点**：It is imperative that 后的从句用虚拟语气，美式英语中常用 should + 动词原形，此处以 does not exceed 直接表达。从句主语中心词是 load（单数），所以用 does，不要被后面并列的复数名词带偏。
+
+### ⑤ 被动语态 + 定语从句 + ensure 宾语从句
+**原句**：Replacement of a component with one that has the same power rating is recommended to ensure the potential electric load of the installed equipment remains within the limits the aircraft manufacturer intended.
+**拆解**：主语 Replacement of a component with one that has the same power rating（one 后带 that 定语从句）；谓语 is recommended（被动）；to ensure ... 为目的状语；ensure 后接宾语从句 the potential electric load ... remains within the limits，limits 后又有省略关系词的定语从句 the manufacturer intended。
+**要点**：one 是代词，指代 a component，避免重复。ensure 后的宾语从句用陈述语序，remains 是从句谓语；句末 the aircraft manufacturer intended 是省略 that/which 的定语从句，修饰 limits。
+
+### ⑥ 插入语 + whether/if 并列宾语从句
+**原句**：Many instruments contain colored markings on the dial face to indicate, at a glance, whether a particular system or component is within a range of operation that is safe and desirable or if an undesirable condition exists.
+**拆解**：主语 Many instruments，谓语 contain，宾语 colored markings；to indicate ... 为不定式作目的状语；at a glance 为插入状语；indicate 后接两个并列宾语从句：whether ... is within a range of operation 与 if an undesirable condition exists；range of operation 后带 that 定语从句。
+**要点**：whether 与 if 在此都引导“是否”宾语从句，二者并列。at a glance 插在动词与宾语之间，翻译时提前到句首更顺。that is safe and desirable 修饰 range，不修饰 system。

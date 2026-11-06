@@ -3980,7 +3980,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "10",
   "titleEn": "Aircraft Systems",
-  "count": 6,
+  "count": 22,
   "cards": [
    {
     "slug": "airframe-ch10-01",
@@ -3993,6 +3993,12 @@ window.AMT_CARDS = [
     "seq": "02",
     "title": "Classifying Instruments",
     "file": "02-classifying-instruments.md"
+   },
+   {
+    "slug": "airframe-ch10-03",
+    "seq": "03",
+    "title": "Pressure Measuring Instruments",
+    "file": "03-pressure-measuring-instruments.md"
    },
    {
     "slug": "airframe-ch10-04",
@@ -4017,6 +4023,119 @@ window.AMT_CARDS = [
     "seq": "07",
     "title": "Direction Indicating Instruments",
     "file": "07-direction-indicating-instruments.md"
+   },
+   {
+    "slug": "airframe-ch10-08",
+    "seq": "08",
+    "title": "Sources of Power for Gyroscopic Instruments",
+    "file": "08-sources-of-power-for-gyroscopic-instruments.md"
+   },
+   {
+    "slug": "airframe-ch10-09",
+    "seq": "09",
+    "title": "Principles of Gyroscopic Instruments",
+    "file": "09-principles-of-gyroscopic-instruments.md"
+   },
+   {
+    "slug": "airframe-ch10-10",
+    "seq": "10",
+    "title": "Common Gyroscopic Instruments",
+    "file": "10-common-gyroscopic-instruments.md"
+   },
+   {
+    "slug": "airframe-ch10-11",
+    "seq": "11",
+    "title": "Autopilot Systems",
+    "file": "11-autopilot-systems.md"
+   },
+   {
+    "slug": "airframe-ch10-12",
+    "seq": "12",
+    "title": "Autopilot Components",
+    "file": "12-autopilot-components.md"
+   },
+   {
+    "slug": "airframe-ch10-13",
+    "seq": "13",
+    "title": "Automatic Flight Control System (AFCS)",
+    "file": "13-automatic-flight-control-system-afcs.md"
+   },
+   {
+    "slug": "airframe-ch10-14",
+    "seq": "14",
+    "title": "Flight Director Systems",
+    "file": "14-flight-director-systems.md"
+   },
+   {
+    "slug": "airframe-ch10-15",
+    "seq": "15",
+    "title": "Electronic Instruments",
+    "file": "15-electronic-instruments.md"
+   },
+   {
+    "slug": "airframe-ch10-16",
+    "seq": "16",
+    "title": "Electronic Flight Information Systems",
+    "file": "16-electronic-flight-information-systems.md"
+   },
+   {
+    "slug": "airframe-ch10-17",
+    "seq": "17",
+    "title": "Flight Management System (FMS)",
+    "file": "17-flight-management-system-fms.md"
+   },
+   {
+    "slug": "airframe-ch10-18",
+    "seq": "18",
+    "title": "Warnings & Cautions",
+    "file": "18-warnings-and-cautions.md"
+   },
+   {
+    "slug": "airframe-ch10-19",
+    "seq": "19",
+    "title": "Clocks",
+    "file": "19-clocks.md"
+   },
+   {
+    "slug": "airframe-ch10-20",
+    "seq": "20",
+    "title": "Instrument Housings & Handling",
+    "file": "20-instrument-housings-and-handling.md"
+   },
+   {
+    "slug": "airframe-ch10-21",
+    "seq": "21",
+    "title": "Instrument Installations & Markings",
+    "file": "21-instrument-installations-and-markings.md"
+   },
+   {
+    "slug": "airframe-ch10-22",
+    "seq": "22",
+    "title": "Maintenance of Instruments & Instrument Systems",
+    "file": "22-maintenance-of-instruments-and-instrument-systems.md"
+   }
+  ]
+ },
+ {
+  "chapter": "airframe-ch11",
+  "book": "airframe",
+  "bookEn": "Airframe",
+  "bookZh": "机体",
+  "num": "11",
+  "titleEn": "Communication & Navigation",
+  "count": 2,
+  "cards": [
+   {
+    "slug": "airframe-ch11-01",
+    "seq": "01",
+    "title": "Introduction",
+    "file": "01-introduction.md"
+   },
+   {
+    "slug": "airframe-ch11-03",
+    "seq": "03",
+    "title": "Radio Communication",
+    "file": "03-radio-communication.md"
    }
   ]
  },
@@ -4027,7 +4146,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "12",
   "titleEn": "Hydraulic & Pneumatic Power Systems",
-  "count": 4,
+  "count": 6,
   "cards": [
    {
     "slug": "airframe-ch12-01",
@@ -4052,6 +4171,18 @@ window.AMT_CARDS = [
     "seq": "04",
     "title": "Basic Hydraulic Systems",
     "file": "04-basic-hydraulic-systems.md"
+   },
+   {
+    "slug": "airframe-ch12-06",
+    "seq": "06",
+    "title": "Large Aircraft Hydraulic Systems",
+    "file": "06-large-aircraft-hydraulic-systems.md"
+   },
+   {
+    "slug": "airframe-ch12-07",
+    "seq": "07",
+    "title": "Aircraft Pneumatic Systems",
+    "file": "07-aircraft-pneumatic-systems.md"
    }
   ]
  },
@@ -4062,13 +4193,160 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "13",
   "titleEn": "Aircraft Landing Gear Systems",
-  "count": 1,
+  "count": 7,
   "cards": [
+   {
+    "slug": "airframe-ch13-01",
+    "seq": "01",
+    "title": "Landing Gear Types",
+    "file": "01-landing-gear-types.md"
+   },
+   {
+    "slug": "airframe-ch13-02",
+    "seq": "02",
+    "title": "Landing Gear Alignment, Support, & Retraction",
+    "file": "02-landing-gear-alignment-support-and-retraction.md"
+   },
+   {
+    "slug": "airframe-ch13-03",
+    "seq": "03",
+    "title": "Landing Gear System Maintenance",
+    "file": "03-landing-gear-system-maintenance.md"
+   },
+   {
+    "slug": "airframe-ch13-04",
+    "seq": "04",
+    "title": "Nose Wheel Steering Systems",
+    "file": "04-nose-wheel-steering-systems.md"
+   },
+   {
+    "slug": "airframe-ch13-05",
+    "seq": "05",
+    "title": "Aircraft Wheels",
+    "file": "05-aircraft-wheels.md"
+   },
+   {
+    "slug": "airframe-ch13-06",
+    "seq": "06",
+    "title": "Aircraft Brakes",
+    "file": "06-aircraft-brakes.md"
+   },
    {
     "slug": "airframe-ch13-08",
     "seq": "08",
     "title": "Operation & Handling Tips",
     "file": "08-operation-and-handling-tips.md"
+   }
+  ]
+ },
+ {
+  "chapter": "airframe-ch14",
+  "book": "airframe",
+  "bookEn": "Airframe",
+  "bookZh": "机体",
+  "num": "14",
+  "titleEn": "Aircraft Fuel Systems",
+  "count": 4,
+  "cards": [
+   {
+    "slug": "airframe-ch14-01",
+    "seq": "01",
+    "title": "Basic Fuel System Requirements",
+    "file": "01-basic-fuel-system-requirements.md"
+   },
+   {
+    "slug": "airframe-ch14-02",
+    "seq": "02",
+    "title": "Fuel Storage Refilling or Recharging System",
+    "file": "02-fuel-storage-refilling-or-recharging-system.md"
+   },
+   {
+    "slug": "airframe-ch14-03",
+    "seq": "03",
+    "title": "Types of Aviation Fuel",
+    "file": "03-types-of-aviation-fuel.md"
+   },
+   {
+    "slug": "airframe-ch14-04",
+    "seq": "04",
+    "title": "Aircraft Fuel Systems",
+    "file": "04-aircraft-fuel-systems.md"
+   }
+  ]
+ },
+ {
+  "chapter": "airframe-ch15",
+  "book": "airframe",
+  "bookEn": "Airframe",
+  "bookZh": "机体",
+  "num": "15",
+  "titleEn": "Ice & Rain Protection",
+  "count": 4,
+  "cards": [
+   {
+    "slug": "airframe-ch15-01",
+    "seq": "01",
+    "title": "Ice Control Systems",
+    "file": "01-ice-control-systems.md"
+   },
+   {
+    "slug": "airframe-ch15-02",
+    "seq": "02",
+    "title": "Ice Detector System",
+    "file": "02-ice-detector-system.md"
+   },
+   {
+    "slug": "airframe-ch15-03",
+    "seq": "03",
+    "title": "Wing & Stabilizer Anti-Icing Systems",
+    "file": "03-wing-and-stabilizer-anti-icing-systems.md"
+   },
+   {
+    "slug": "airframe-ch15-04",
+    "seq": "04",
+    "title": "Wing & Stabilizer Deicing Systems",
+    "file": "04-wing-and-stabilizer-deicing-systems.md"
+   }
+  ]
+ },
+ {
+  "chapter": "airframe-ch17",
+  "book": "airframe",
+  "bookEn": "Airframe",
+  "bookZh": "机体",
+  "num": "17",
+  "titleEn": "Fire Protection Systems",
+  "count": 5,
+  "cards": [
+   {
+    "slug": "airframe-ch17-01",
+    "seq": "01",
+    "title": "Introduction",
+    "file": "01-introduction.md"
+   },
+   {
+    "slug": "airframe-ch17-02",
+    "seq": "02",
+    "title": "Fire Detection/Overheat Systems",
+    "file": "02-fire-detection-overheat-systems.md"
+   },
+   {
+    "slug": "airframe-ch17-03",
+    "seq": "03",
+    "title": "Smoke, Flame, & Carbon Monoxide Detection Systems",
+    "file": "03-smoke-flame-and-carbon-monoxide-detection-systems.md"
+   },
+   {
+    "slug": "airframe-ch17-04",
+    "seq": "04",
+    "title": "Extinguishing Agents & Portable Fire Extinguishers",
+    "file": "04-extinguishing-agents-and-portable-fire-extinguishers.md"
+   },
+   {
+    "slug": "airframe-ch17-05",
+    "seq": "05",
+    "title": "Installed Fire Extinguishing Systems",
+    "file": "05-installed-fire-extinguishing-systems.md"
    }
   ]
  }

@@ -1,0 +1,248 @@
+<h1 id="radio-communication">Radio Communication</h1>
+<blockquote>机体 Ch 11 · Radio Communication · 原文 PDF 第 632 页</blockquote>
+<h2 id="1-原文">1. 原文</h2>
+<h3 id="radio-waves">Radio Waves</h3>
+<p>In aviation, a variety of radio waves are used for communication. Figure 11-75 illustrates the radio spectrum that includes the range of common aviation radio frequencies Note: A wide range of frequencies are used from low frequency (LF) at 100 kHz (100,000 cycles per second) to super high frequency (SHF) at nearly 10gHz (10,000,000,000 cycles per second). The Federal Communications Commission (FCC) controls the assignment of frequency usage.</p>
+<p>AC power of a particular frequency has a characteristic length of conductor that is resonant at that frequency. This length is the wavelength of the frequency that can be seen on an oscilloscope. Fractions of the wavelength also resonate, especially half of a wavelength, which is the same as half of the AC sine wave or cycle.</p>
+<p>The frequency of an AC signal is the number of times the AC cycles every second. AC applied to the center of a radio antenna, a conductor half the wavelength of the AC frequency, travels the length of the antenna, collapses, and travels the length of the antenna in the opposite direction. The number of times it does this every second is known as the radio wave signal frequency or radio frequency as shown in Figure 11-75 . As the current flows through the antenna, corresponding electromagnetic and electric fields build, collapse, build in the opposite direction, and collapse again.</p>
+<p>To transmit radio waves, an AC generator is placed at the midpoint of an antenna. As AC current builds and collapses in the antenna, a magnetic field also builds and collapses around it. An electric field also builds and subsides as the voltage shifts from one end of the antenna to the other. Both fields, the magnetic and the electric, fluctuate around the antenna at the same time. The antenna is half the wavelength of the AC signal received from the generator. At any one point along the antenna, voltage and current vary inversely to each other.</p>
+<p>Because of the speed of the AC, the electromagnetic fields and electric fields created around the antenna do not have time to completely collapse as the AC cycles. Each new current flow creates new fields around the antenna that force the not-totally-collapsed fields from the previous AC cycle out into space. These are the radio waves. The process is continuous as long as AC is applied to the antenna. Thus, steady radio waves of a frequency determined by the input AC frequency propagate out into space.</p>
+<p>Radio waves are directional and propagate out into space at 186,000 miles per second. The distance they travel depends on the frequency and the amplification of the signalAC sent to the antenna. The electric field component and the electromagnetic field component are oriented at 90° to each other, and at 90° to the direction that the wave is traveling. [ Figure 11-77 ]</p>
+<h4 id="types-of-radio-waves">Types of Radio Waves</h4>
+<p>Radio waves of different frequencies have unique characteristics as they propagate through the atmosphere. Very low frequency (VLF), LF, and medium frequency (MF) waves have relatively long wavelengths and utilize correspondingly long antennas. Radio waves produced at these frequencies ranging from 3 kHz to 3 mHz are known as ground waves or surface waves. This is because they follow the curvature of the earth as they travel from the broadcast antenna to the receiving antenna. Ground waves are particularly useful for long distance transmissions. Automatic direction finders (ADF) and LORAN navigational aids use these frequencies.</p>
+<p>High frequency (HF) radio waves travel in a straight line and do not curve to follow the earth’s surface. This would limit transmissions from the broadcast antenna to receiving antennas only in the line-of-sight of the broadcast antenna except for a unique characteristic. HF radio waves bounce off of the ionosphere layer of the atmosphere. This refraction extends the range of HF signals beyond line-of-sight. As a result, transoceanic aircraft often use HF radios for voice communication. The frequency range is between 2 to 25 MHz. These kinds of radio waves are known as sky waves.</p>
+<p>Above HF transmissions, radio waves are known as space waves. They are only capable of line-of-sight transmission and do not refract off of the ionosphere. Most aviation communication and navigational aids operate with space waves. This includes VHF (30 - 300 MHz), UHF (300 MHz - 3 GHz), and super high frequency (SHF) (3 - 30 Ghz) radio waves.</p>
+<p>VHF communication radios are the primary communication radios used in aviation. They operate in the frequency range from 118.0 MHz to 136.975 MHz. Seven hundred and twenty separate and distinct channels have been designated in this range with 25 kilohertz spacing between each channel. Further division of the bandwidth is possible, such as in Europe where 8.33 kilohertz separate each VHF communication channel. VHF radios are used for communications between aircraft and air traffic control (ATC), as well as air-to-air communication between aircraft. When using VHF, each party transmits and receives on the same channel. Only one party can transmit at any one time.</p>
+<h3 id="loading-information-onto-a-radio-wave">Loading Information onto a Radio Wave</h3>
+<p>The production and broadcast of radio waves does not convey any significant information. The basic radio wave discussed above is known as a carrier wave. To transmit and receive useful information, this wave is altered or modulated by an information signal. The information signal contains the unique voice or data information desired to be conveyed. The modulated carrier wave then carries the information from the transmitting radio to the receiving radio via their respective antennas. Two common methods of modulating carrier waves are amplitude modulation and frequency modulation.</p>
+<h4 id="amplitude-modulation-am">Amplitude Modulation (AM)</h4>
+<p>A radio wave can be altered to carry useful information by modulating the amplitude of the wave. A DC signal, for example from a microphone, is amplified and then superimposed over the AC carrier wave signal. As the varying DC information signal is amplified, the amplifier output current varies proportionally. The oscillator that creates the carrier wave does so with this varying current. The oscillator frequency output is consistent because it is built into the oscillator circuit. But the amplitude of the oscillator output varies in relation to the fluctuating current input.</p>
+<p>When the modulated carrier wave strikes the receiving antenna, voltage is generated that is the same as that which was applied to the transmitter antenna. However, the signal is weaker. It is amplified so that it can be demodulated. Demodulation is the process of removing the original information signal from the carrier wave. Electronic circuits containing capacitors, inductors, diodes, filters, etc., remove all but the desired information signal identical to the original input signal. Then, the information signal is typically amplified again to drive speakers or other output devices.</p>
+<p>AM has limited fidelity. Atmospheric noises or static alter the amplitude of a carrier wave making it difficult to separate the intended amplitude modulation caused by the information signal and that which is caused by static. It is used in aircraft VHF communication radios.</p>
+<h4 id="frequency-modulation-fm">Frequency Modulation (FM)</h4>
+<p>Frequency modulation (FM) is widely considered superior to AM for carrying and deciphering information on radio waves. A carrier wave modulated by FM retains its constant amplitude. However, the information signal alters the frequency of the carrier wave in proportion to the strength of the signal. Thus, the signal is represented as slight variations to the normally consistent timing of the oscillations of the carrier wave.</p>
+<p>Since the transmitter oscillator output fluctuates during modulation to represent the information signal, FM bandwidth is greater than AM bandwidth. This is overshadowed by the ease with which noise and static can be removed from the FM signal. FM has a steady current flow and requires less power to produce since modulating an oscillator producing a carrier wave takes less power than modulating the amplitude of a signal using an amplifier.</p>
+<p>Demodulation of an FM signal is similar to that of an AM receiver. The signal captured by the receiving antenna is usually amplified immediately since signal strength is lost as the wave travels through the atmosphere. Numerous circuits are used to isolate, stabilize, and remove the information from the carrier wave. The result is then amplified to drive the output device.</p>
+<h4 id="single-sideband-ssb">Single Sideband (SSB)</h4>
+<p>When two AC signals are mixed together, such as when a carrier wave is modulated by an information signal, three main frequencies result:</p>
+<ol><li>Original carrier wave frequency;</li></ol>
+<ol start="2"><li>Carrier wave frequency plus the modulating frequency; and 3. Carrier wave frequency minus the modulating frequency.</li></ol>
+<p>Due to the fluctuating nature of the information signal, the modulating frequency varies from the carrier wave up or down to the maximum amplitude of the modulating frequency during AM. These additional frequencies on either side of the carrier wave frequency are known as sidebands. Each sideband contains the unique information signal desired to be conveyed. The entire range of the lower and upper sidebands including the center carrier wave frequency is known as bandwidth.</p>
+<p>There are a limited number of frequencies within the usable frequency ranges (i.e., LF, HF, and VHF). If different broadcasts are made on frequencies that are too close together, some of the broadcast from one frequency interferes with the adjacent broadcast due to overlapping sidebands. The FCC divides the various frequency bands and issues rules for their use. Much of this allocation is to prevent interference. The spacing between broadcast frequencies is established so that a carrier wave can expand to include the upper and lower sidebands and still not interfere with a signal on an adjacent frequency. As use of the radio frequencies increases, more efficient allocation of bandwidth is imperative. Sending information via radio waves using the narrowest bandwidth possible is the focus of engineering moving forward. At the same time, fully representing all of the desired information or increasing the amount of information conveyed is also desired. Various methods are employed to keep bandwidth to a minimum, many of which restrict the quality or quantity of information able to be transmitted.</p>
+<p>In lower frequency ranges, such as those used for ground wave and some sky wave broadcasts, SSB transmissions are a narrow bandwidth solution. Each sideband represents the initial information signal in its entirety. Therefore, in an SSB broadcast, the carrier wave and either the upper or lower sidebands are filtered out. Only one sideband with its frequencies is broadcast since it contains all of the needed information. This cuts the bandwidth required in half and allows more efficient use of the radio spectrum. SSB transmissions also use less power to transmit the same amount of information over an equal distance. Many HF long-distance aviation communications are SSB.</p>
+<h3 id="radio-transmitters-receivers">Radio Transmitters &amp; Receivers</h3>
+<p>Radio transmitters and receivers are electronic devices that manipulate electricity resulting in the transmission of useful information through the atmosphere or space.</p>
+<h4 id="transmitters">Transmitters</h4>
+<p>A transmitter consists of a precise oscillating circuit or oscillator that creates an AC carrier wave frequency. This is combined with amplification circuits or amplifiers. The distance a carrier wave travels is directly related to the amplification of the signal sent to the antenna.</p>
+<p>Other circuits are used in a transmitter to accept the input information signal and process it for loading onto the carrier wave. Modulator circuits modify the carrier wave with the processed information signal. Essentially, this is all there is to a radio transmitter.</p>
+<p>Note: Modern transmitters are highly refined devices with extremely precise frequency oscillation and modulation. The circuitry for controlling, filtering, amplifying, modulating, and oscillating electronic signals can be complex.</p>
+<p>A transmitter prepares and sends signals to an antenna that, in the process described above, radiates the waves out into the atmosphere. A transmitter with multiple channel (frequency) capability contains tuning circuitry that enables the user to select the frequency upon which to broadcast. This adjusts the oscillator output to the precise frequency desired. It is the oscillator frequency that is being tuned.</p>
+<p>As shown in Figure 11-84 , most radio transmitters generate a stable oscillating frequency and then use a frequency multiplier to raise the AC to the transmitting frequency. This allows oscillation to occur at frequencies that are controllable and within the physical working limits of the crystal in crystal-controlled oscillators.</p>
+<h4 id="receivers">Receivers</h4>
+<p>Antennas are simply conductors of lengths proportional to the wavelength of the oscillated frequency put out by the transmitter. An antenna captures the desired carrier wave as well as many other radio waves that are present in the atmosphere. A receiver is needed to isolate the desired carrier wave with its information. The receiver also has circuitry to separate the information signal from the carrier wave. It prepares it for output to a device, such as speakers or a display screen. The output is the information signal originally introduced into the transmitter.</p>
+<p>A common receiver is the super heterodyne receiver. As with any receiver, it must amplify the desired radio frequency captured by the antenna since it is weak from traveling through the atmosphere. An oscillator in the receiver is used to compare and select the desired frequency out of all of the frequencies picked up by the antenna. The undesired frequencies are sent to ground.</p>
+<p>A local oscillator in the receiver produces a frequency that is different than the radio frequency of the carrier wave. These two frequencies are mixed in the mixer. Four frequencies result from this mixing. They are the radio frequency, the local oscillator frequency, and the sum and difference of these two frequencies. The sum and difference frequencies contain the information signal.</p>
+<p>The frequency that is the difference between the local oscillator frequency and the radio frequency carrier wave frequency is used during the remaining processing. In VHF aircraft communication radios, this frequency is 10.8 MHz. Called the intermediate frequency, it is amplified before it is sent to the detector. The detector, or demodulator, is where the information signal is separated from the carrier wave portion of the signal. In AM, since both sidebands contain the useful information, the signal is rectified leaving just one sideband with a weak version of the original transmitter input signal. In FM receivers, the varying frequency is changed to a varying amplitude signal at this point. Finally, amplification occurs for the output device.</p>
+<p>Over the years, with the development of transistors, micro-transistors, and integrated circuits, radio transmitters and receivers have become smaller. Electronic bays were established on older aircraft as remote locations to mount radio devices simply because they would not fit in the flight deck. Today, many avionics devices are small enough to be mounted in the instrument panel, which is customary on most light aircraft. Because of the number of communication and navigation aids, as well as the need to present an uncluttered interface to the pilot, most complicated aircraft retain an area away from the flight deck for the mounting of avionics. The control heads of these units remain on the flight deck.</p>
+<h4 id="transceivers">Transceivers</h4>
+<p>A transceiver is a communication radio that transmits and receives. The same frequency is used for both. When transmitting, the receiver does not function. The push to talk (PTT) switch blocks the receiving circuitry and allows the transmitter circuitry to be active. In a transceiver, some of the circuitry is shared by the transmitting and receiving functions of the device. So is the antenna. This saves space and the number of components used. Transceivers are half duplex systems where communication can occur in both directions but only one party can speak while the other must listen. VHF aircraft communication radios are usually transceivers.</p>
+<h3 id="antennas">Antennas</h3>
+<p>As stated, antennas are conductors that are used to transmit and receive radio frequency waves. Although the airframe technician has limited duties in relation to maintaining and repairing avionics, it is the responsibility of the technician to install, inspect, repair, and maintain aircraft radio antennas.</p>
+<p>Three characteristics are of major concern when considering antennas:</p>
+<p>The exact shape and material from which an antenna is made can alter its transmitting and receiving characteristics. Also note that some non-metallic aircraft have antennas imbedded into the composite material as it is built up.</p>
+<h4 id="length">Length</h4>
+<p>When an AC signal is applied to an antenna, it has a certain frequency. There is a corresponding wavelength for that frequency. An antenna that is half the length of this wavelength is resonant. During each phase of the applied AC, all voltage and current values experience the full range of their variability. As a result, an antenna that is half the wavelength of the corresponding AC frequency is able to allow full voltage and full current flow for the positive phase of the AC signal in one direction. The negative phase of the full AC sine wave is accommodated by the voltage and current simply changing direction in the conductor. Thus, the applied AC frequency flows through its entire wavelength, first in one direction and then in the other. This produces the strongest signal to be radiated by the transmitting antenna. It also facilitates capture of the wave and maximum induced voltage in the receiving antenna.</p>
+<p>Most radios, especially communication radios, use the same antenna for transmitting and receiving. Multichannel radios could use a different length antenna for each frequency, however, this is impractical. Acceptable performance can exist from a single antenna half the wavelength of a median frequency. This antenna can be made effectively shorter by placing a properly rated capacitor in series with the transmission line from the transmitter or receiver. This electrically shortens the resonant circuit of which the antenna is a part. An antenna may be electrically lengthened by adding an inductor in the circuit. Adjusting antenna length in this fashion allows the use of a single antenna for multiple frequencies in a narrow frequency range.</p>
+<p>Many radios use a tuning circuit to adjust the effective length of the antenna to match the wavelength of the desired frequency. It contains a variable capacitor and an inductor connected in parallel in a circuit. Newer radios use a more efficient tuning circuit. It uses switches to combine frequencies from crystal controlled circuits to create a resonant frequency that matches the desired frequency. Either way, the physical antenna length is a compromise when using a multichannel communication or navigation device that must be electronically tuned for the best performance.</p>
+<p>A formula can be used to find the ideal length of a half wavelength antenna required for a particular frequency as 468Antenna Length (feet) = F MHz The formula is derived from the speed of propagation of radio waves, which is approximately 300 million meters per second. It takes into account the dielectric effect of the air at the end of an antenna that effectively shortens the length of the conductor required.</p>
+<p>VHF radio frequencies used by aircraft communication radios are 118–136.975 MHz. The corresponding half wavelengths of these frequencies are 3.96 – 3.44 feet (47.5–41.2 inches). Therefore, VHF antennas are relatively long. Antennas one-quarter of the wavelength of the transmitted frequency are often used. This is possible because when mounted on a metal fuselage, a ground plane is formed and the fuselage acts as the missing one-quarter length of the half wavelength antenna. This is further discussed in the following antenna types section.</p>
+<h4 id="polarization-directivity-field-pattern">Polarization, Directivity, &amp; Field Pattern</h4>
+<p>Antennas are polarized. They radiate and receive in certain patterns and directions. The electric field cause by the voltage in the conductor is parallel to the polarization of an antenna. It is caused by the voltage difference between each end of the antenna. The electromagnetic field component of the radio wave is at 90° to the polarization. It is caused by changing current flow in the antenna. These fields were illustrated in Figure 11-76 and 11-77 . As radio waves radiate out from the antenna they propagate in a specific direction and in a specific pattern. This is the antenna field. The orientation of the electric and electromagnetic fields remains at 90° to each other but radiate from antenna with varying strength in different directions. The strength of the radiated field varies depending on the type of antenna and the angular proximity to it. All antennas, even those that are omnidirectional, radiate a stronger signal in some direction compared to other directions. This is known as the antenna field directivity.</p>
+<p>Receiving antennas with the same polarization as the transmitting antenna generate the strongest signal. A vertically polarized antenna is mounted up and down. It radiates waves out from it in all directions. To receive the strongest signal from these waves, the receiving antenna should also be positioned vertically so the electromagnetic component of the radio wave can cross it at as close to a 90° angle as possible for most of the possible proximities.</p>
+<p>Horizontally polarized antennas are mounted side to side (horizontally). They radiate in a donut-like field. The strongest signals come from, or are received at, 90° to the length of the antenna. There is no field generated off of the end of the antenna. Figure 11-89 illustrates the field produced by a horizontally polarized antenna.</p>
+<p>Many vertical and horizontal antennas on aircraft are mounted at a slight angle off plane. This allows the antenna to receive a weak signal rather than no signal at all when the polarization of the receiving antenna is not identical to the transmitting antenna.</p>
+<h4 id="types">Types</h4>
+<p>There are three basic types of antennas used in aviation:</p>
+<p>Dipole Antenna The dipole antenna is the type of antenna referred to in the discussion of how a radio wave is produced. It is a conductor, the length of which is approximately equal to half the wavelength of the transmission frequency. This sometimes is referred to as a Hertz antenna. The AC transmission current is fed to a dipole antenna in the center. As the current alternates, current flow is greatest in the middle of the antenna and gradually less as it approaches the ends. Then, it changes direction and flows the other way. The result is that the largest electromagnetic field is in the middle of the antenna and the strongest radio wave field is perpendicular to the length of the antenna. Most dipole antennas in aviation are horizontally polarized.</p>
+<p>A common dipole antenna is the V-shaped VHF navigation antenna, known as a VOR antenna, found on numerous aircraft. Each arm of the V is one-fourth wavelength creating a half wave antenna which is fed in the center. This antenna is horizontally polarized. For a dipole receiving antenna, this means it is most sensitive to signals approaching the antenna from the sides rather than head-on in the direction of flight.</p>
+<p>Marconi Antenna A Marconi antenna is a one-fourth wave antenna. It achieves the efficiency of a half wave antenna by using the mounting surface of the conductive aircraft skin to create the second one-fourth wavelength. Most aircraft VHF communications antennas are Marconi antennas. They are vertically polarized and create a field that is omnidirectional. On fabric skinned aircraft, the ground plane that makes up the second one-fourth wavelength of the antenna must be fashioned under the skin where the Marconi antenna is mounted. This can be done with thin aluminum or aluminum foil. Sometimes four or more wires are extended under the skin from the base of the vertical antenna that serve as the ground plane. This is enough to give the antenna the proper conductive length. The same practice is also utilized on ground-based antennas.</p>
+<p>Loop Antenna The third type of antenna commonly found on aircraft is the loop antenna. When the length of an antenna conductor is fashioned into a loop, its field characteristics are altered significantly from that of a straight-half wavelength antenna. It also makes the antenna more compact and less prone to damage.</p>
+<p>Used as a receiving antenna, the loop antenna’s properties are highly direction-sensitive. A radio wave intercepting the loop directly broadside causes equal current flow in both sides of the loop. However, the polarity of the current flows is opposite each other. This causes them to cancel out and produce no signal. When a radio wave strikes the loop antenna in line with the plane of the loop, current is generated first in one side, and then in the other side. This causes the current flows to have different phases and the strongest signal can be generated from this angle. The phase difference (and strength) of the generated current varies proportionally to the angle at which the radio wave strikes the antenna loop. This is useful and is discussed further in the section on automatic direction finder (ADF) navigational aids.</p>
+<h4 id="transmission-lines">Transmission Lines</h4>
+<p>Transmitters and receivers must be connected to their antenna(s) via conductive wire. These transmission lines are coaxial cable, also known as coax. Coax consists of a center wire conductor surrounded by a semirigid insulator. Surrounding the wire and insulator material is a conductive, braided cover that runs the length of the cable. Finally, a waterproof covering is set around the braided shield to protect the entire assembly from the elements. The braided cover in the coax shields the inner conductor from any external fields. It also prevents the fields generated by the internal conductor from radiating. For optimum performance, the impedance of the transmission line should be equal to the impedance of the antenna. In aviation antenna applications, this is often approximately 50 ohms. Special connectors are used for coaxial cable. A variety can be seen in Advisory Circular (AC) 43.13-1b, Chapter 11, Section 17, Figure 11-37. The technician should follow all manufacturer’s instructions when installing transmission lines and antenna. Correct installation is critical to radio and antenna performance.</p>
+<h2 id="2-中文翻译">2. 中文翻译</h2>
+<h3 id="无线电波">无线电波</h3>
+<p>在航空中，各种无线电波被用于通信。图 11-75 示出了无线电频谱，其中包含常用航空无线电频率的范围。注：所用频率范围很广，从 100 kHz（每秒 10 万周）的低频（LF）一直到接近 10 gHz（每秒 100 亿周）的超高频（SHF）。美国联邦通信委员会（FCC）掌管频率使用的分配。</p>
+<p>某一频率的交流电具有一个特征导体长度，该长度在此频率下发生谐振。这个长度就是该频率的波长，可在示波器上看到。波长的分数长度也能谐振，尤其是半个波长，它等同于半个交流正弦波或半个周期。</p>
+<p>交流信号的频率是交流电每秒循环的次数。把交流电加在无线电天线（长度为该交流频率波长一半的导体）的中点，电流会沿天线长度传播、坍缩，再沿反方向传播回来。它每秒这样往返的次数称为无线电波信号频率或射频，如图 11-75 所示。电流流经天线时，相应的电磁场与电场建立、坍缩、向相反方向建立、再坍缩。</p>
+<p>为发射无线电波，要把一台交流发电机接在天线的中点。交流电流在天线中建立与坍缩时，其周围也会建立与坍缩一个磁场。电压在天线一端向另一端变化时，电场也随之建立与消退。磁场与电场这两个场同时在天线周围起伏。天线长度为从发电机送来的交流信号波长的一半。在天线上任意一点，电压与电流彼此成反比变化。</p>
+<p>由于交流电的速度，天线周围产生的电磁场与电场来不及在交流电循环时完全坍缩。每一次新的电流流动都会在天线周围产生新的场，把上一个交流周期尚未完全坍缩的场推入空间。这些就是无线电波。只要交流电一直加在天线上，这一过程就连续进行。因此，频率由输入交流频率决定的稳定无线电波便向空间传播出去。</p>
+<p>无线电波具有方向性，以每秒 186,000 英里的速度向空间传播。它们传播的距离取决于频率以及送到天线的信号的放大程度。电场分量与电磁场分量彼此成 90°，并与波的传播方向成 90°。[图 11-77]</p>
+<h4 id="无线电波的类型">无线电波的类型</h4>
+<p>不同频率的无线电波在大气中传播时具有各自独特的特性。甚低频（VLF）、低频（LF）与中频（MF）波的波长相对较长，需要使用相应较长的天线。这些频率（约 3 kHz 至 3 mHz）产生的无线电波称为地波或表面波，因为它们在从发射天线传向接收天线的过程中会顺着地球的曲率前进。地波特别适用于远距离传输。自动定向机（ADF）与 LORAN 导航设备使用这些频率。</p>
+<p>高频（HF）无线电波沿直线传播，不会弯曲去顺应地球表面。这本来会把从发射天线到接收天线的传输限制在发射天线的视线范围内，但有一个独特的特性：HF 无线电波会被大气中的电离层反射。这种折射把 HF 信号的传播距离扩展到视线之外。因此，跨洋飞行的飞机常用 HF 电台进行语音通信。其频率范围在 2 至 25 MHz 之间。这类无线电波称为天波。</p>
+<p>高于 HF 的无线电波称为空间波。它们只能作视线传输，不会从电离层折射。大多数航空通信与导航设备使用空间波，包括甚高频（VHF，30–300 MHz）、特高频（UHF，300 MHz–3 GHz）与超高频（SHF，3–30 GHz）无线电波。</p>
+<p>VHF 通信电台是航空中使用的主要通信电台。其工作频率范围为 118.0 MHz 至 136.975 MHz。该范围内已划分出 720 个各自独立的频道，频道间隔为 25 千赫。带宽还可进一步划分，例如欧洲的每个 VHF 通信频道间隔 8.33 千赫。VHF 电台用于飞机与空中交通管制（ATC）之间的通信，也用于飞机之间的空对空通信。使用 VHF 时，各方在同一频道上收发，同一时间只能有一方发射。</p>
+<h3 id="把信息加载到无线电波上">把信息加载到无线电波上</h3>
+<p>无线电波的产生与播发本身并不传递任何有意义的信息。上面讨论的基本无线电波称为载波。要发送与接收有用信息，就要用信息信号对这一载波进行改变，即调制。信息信号包含希望传送的特定语音或数据信息。被调制的载波随后通过发射机与接收机各自的天线，把信息从发射电台送到接收电台。载波的两种常见调制方式是调幅与调频。</p>
+<h4 id="调幅-am">调幅（AM）</h4>
+<p>通过调制无线电波的幅度，可使其携带有用信息。例如来自话筒的直流信号被放大后叠加到交流载波信号上。随着变化的直流信息信号被放大，放大器的输出电流也按比例变化。产生载波的振荡器就以此变化的电流工作。振荡器的频率输出是恒定的，因为它由振荡器电路本身决定；但振荡器输出的幅度则随波动的输入电流而变化。</p>
+<p>被调制的载波击中接收天线时，产生的电压与加在发射天线上的电压相同，只是信号较弱。它被放大后以便解调。解调是把原始信息信号从载波上取下来的过程。由电容、电感、二极管、滤波器等组成的电子电路把除所需信息信号之外的一切都滤除，得到与原始输入信号完全相同的信息。随后，信息信号通常再被放大一次，用以驱动扬声器或其他输出装置。</p>
+<p>AM 的保真度有限。大气噪声或静电会改变载波的幅度，使人难以区分由信息信号引起的调幅与由静电引起的幅度变化。它用于飞机的 VHF 通信电台。</p>
+<h4 id="调频-fm">调频（FM）</h4>
+<p>在无线电波上携带与解读信息方面，调频（FM）被普遍认为优于 AM。用 FM 调制的载波保持幅度恒定，但信息信号会按信号强度成比例地改变载波的频率。因此，信号表现为载波振荡原本规律的定时上出现的细微变化。</p>
+<p>由于发射机振荡器的输出在调制过程中会随信息信号波动，FM 的带宽大于 AM 的带宽。但这一点被“噪声与静电易于从 FM 信号中去除”所抵消。FM 的电流流动平稳，产生所需的功率也更小，因为对产生载波的振荡器进行调制，比用放大器调制信号幅度耗电更少。</p>
+<p>FM 信号的解调与 AM 接收机类似。接收天线捕获的信号通常立即被放大，因为电波在大气中传播会损失信号强度。要用许多电路来隔离、稳定并从载波中取出信息，结果再经放大以驱动输出装置。</p>
+<h4 id="单边带-ssb">单边带（SSB）</h4>
+<p>当两个交流信号混合在一起时（例如载波被信息信号调制），会产生三个主要频率：</p>
+<ol><li>原载波频率；</li></ol>
+<ol start="2"><li>载波频率加调制频率；以及 3. 载波频率减调制频率。</li></ol>
+<p>由于信息信号本身在不断变化，调幅时调制频率会从载波频率向上或向下变化到调制频率的最大幅度。载波频率两侧的这些附加频率称为边带。每个边带都包含想要传送的特定信息信号。下边带与上边带的整个范围（含中心载波频率）称为带宽。</p>
+<p>可用频率范围（即 LF、HF 与 VHF）内的频率数量有限。如果不同广播所用频率靠得太近，由于边带重叠，某一频率的广播就会干扰相邻广播。FCC 划分各个频段并颁布使用规则，这种分配很大程度上是为了防止干扰。广播频率之间的间隔是这样确定的：载波展开包含上下边带后，仍不会干扰相邻频率上的信号。随着无线电频率使用量增加，更有效地分配带宽变得十分必要。用尽可能窄的带宽通过无线电波发送信息，是今后工程工作的重点；同时，完整表达全部所需信息或增加所传信息量也是追求的目标。人们采用各种方法把带宽压到最小，其中许多方法会限制可传信息的质量或数量。</p>
+<p>在较低频率范围（例如地波与部分天波广播所用的频段），SSB 传输是一种窄带宽方案。每个边带都完整地代表原始信息信号。因此在 SSB 广播中，载波以及上边带或下边带之一被滤除，只播发一个边带及其频率，因为它已包含全部所需信息。这使所需带宽减半，能更有效地利用无线电频谱。SSB 传输在同等距离上发送同样多的信息所耗功率也更小。许多 HF 远程航空通信采用 SSB。</p>
+<h3 id="无线电发射机与接收机">无线电发射机与接收机</h3>
+<p>无线电发射机与接收机是操纵电的电子装置，其结果是让有用信息在大气或空间中传输。</p>
+<h4 id="发射机">发射机</h4>
+<p>发射机由一个产生交流载波频率的精密振荡电路（即振荡器）构成，并与放大电路（放大器）组合。载波传播的距离与送到天线的信号放大程度直接相关。</p>
+<p>发射机中还有其他电路，用来接收输入的信息信号并对其进行处理，以便加载到载波上。调制器电路用处理过的信息信号去改变载波。无线电发射机基本上就是这些。</p>
+<p>注：现代发射机是频率振荡与调制都极为精确的高度精良装置。用于控制、滤波、放大、调制与振荡电子信号的电路可能十分复杂。</p>
+<p>发射机准备好信号并送往天线，天线按上述过程把电波辐射到大气中。具备多频道（频率）能力的发射机含有调谐电路，使用户可以选择发射所用的频率，它把振荡器输出调到所需的精确频率——被调谐的正是振荡器频率。</p>
+<p>如图 11-84 所示，大多数无线电发射机先产生一个稳定的振荡频率，再用倍频器把交流电提升到发射频率。这样就能在可控的、且处于晶体控制振荡器中晶体物理工作极限之内的频率上振荡。</p>
+<h4 id="接收机">接收机</h4>
+<p>天线不过是长度与发射机输出振荡频率的波长相称的导体。天线既捕获所需的载波，也捕获大气中存在的许多其他无线电波。需要用接收机把带有信息的所需载波分离出来。接收机还具有把信息信号与载波分开的电路，并将其准备好输出到扬声器或显示屏等装置。输出的就是最初送入发射机的信息信号。</p>
+<p>一种常见的接收机是超外差接收机。与任何接收机一样，它必须放大天线捕获的所需射频信号，因为信号经大气传播后已经很弱。接收机中的振荡器用于从天线拾取的所有频率中比较并选出所需频率。不需要的频率被送到地。</p>
+<p>接收机中的本机振荡器产生一个与载波射频不同的频率。这两个频率在混频器中混合，混合后产生四个频率：射频、本机振荡频率，以及二者之和与二者之差。和频与差频中都含有信息信号。</p>
+<p>在后续处理中使用的是本机振荡频率与射频载波频率之差。在 VHF 航空通信电台中，该频率为 10.8 MHz，称为中频，在送往检波器之前先被放大。检波器（即解调器）是把信息信号从信号的载波部分分离出来的地方。在 AM 中，由于上下两个边带都含所需信息，信号经整流后只留下一个边带，其中带有原始发射机输入信号的微弱版本。在 FM 接收机中，变化的频率在此处被转换为变化的幅度信号。最后再放大，供输出装置使用。</p>
+<p>多年来，随着晶体管、微晶体管与集成电路的发展，无线电发射机与接收机变得越来越小。在老式飞机上设立电子设备舱，只是作为远离驾驶舱安装无线电设备的处所，因为这些设备根本装不进驾驶舱。如今许多航空电子装置小到可以装在仪表板上，这在大多数轻型飞机上是常规做法。由于通信与导航辅助设备数量多，又需要给飞行员呈现不杂乱的界面，大多数复杂飞机仍保留一块远离驾驶舱的区域用于安装航空电子设备，而这些设备的控制头仍留在驾驶舱。</p>
+<h4 id="收发机">收发机</h4>
+<p>收发机是一种既能发射又能接收的通信电台，收发使用同一频率。发射时接收机不工作。按下发话（PTT）开关会阻断接收电路，使发射电路接通。在收发机中，部分电路由发射与接收功能共用，天线也是共用的。这节省了空间与元件数量。收发机是半双工系统：通信可以双向进行，但同一时间只能一方讲话，另一方必须收听。VHF 航空通信电台通常就是收发机。</p>
+<h3 id="天线">天线</h3>
+<p>如前所述，天线是用来发射与接收射频波的导体。虽然机体技师在维护与修理航空电子设备方面的职责有限，但安装、检查、修理与维护飞机无线电天线是技师的责任。</p>
+<p>考虑天线时主要关注三个特性：</p>
+<p>天线的确切形状与制造材料会改变其发射与接收特性。还要注意，一些非金属飞机在复合材料铺层时就把天线埋入其中。</p>
+<h4 id="长度">长度</h4>
+<p>把交流信号加在天线上时，它有一定的频率，该频率对应一定的波长。长度为该波长一半的天线发生谐振。在所加交流电的每一相位中，全部电压与电流值都经历其完整的变化范围。因此，长度为相应交流频率波长一半的天线，能在交流信号正半周时让全部电压与全部电流沿一个方向流动；而完整交流正弦波的负半周，则靠导体中电压与电流方向的反转来容纳。这样，所加交流频率就走完了它的整个波长，先向一个方向、再向另一个方向。这使发射天线辐射出最强的信号，也有利于接收天线捕获电波并获得最大的感应电压。</p>
+<p>大多数电台，尤其是通信电台，收发共用同一副天线。多频道电台本可以为每个频率使用不同长度的天线，但这不切实际。用一副长度为中值频率波长一半的天线即可获得可接受的性能。在天线与发射机或接收机之间的传输线上串联合适额定的电容，可以有效地把天线“缩短”，因为这在电气上缩短了以天线为组成部分的谐振电路。在电路中加入电感则可以有效地把天线“加长”。用这种方式调整天线长度，就可在较窄的频率范围内用一副天线覆盖多个频率。</p>
+<p>许多电台用调谐电路把天线的有效长度调整到与所需频率的波长相匹配。该电路含一个可变电容与一个电感并联。较新的电台使用更高效的调谐电路，用开关把来自晶体控制电路的频率组合起来，产生与所需频率相匹配的谐振频率。无论哪种方式，对必须电子调谐以获得最佳性能的多频道通信或导航设备来说，天线的物理长度都是一种折中。</p>
+<p>可用一个公式求出某一频率所需的半波天线理想长度：天线长度（英尺）= 468 / F(MHz)。该公式由无线电波的传播速度（约每秒 3 亿米）导出，并计入天线端部空气的介电效应——该效应实际上缩短了所需导体的长度。</p>
+<p>飞机通信电台使用的 VHF 无线电频率为 118–136.975 MHz。这些频率对应的半波长为 3.96–3.44 英尺（47.5–41.2 英寸）。因此 VHF 天线相对较长。常用的是长度为所发频率波长四分之一的天线。之所以可行，是因为天线装在金属机身上时会形成接地平面，机身充当了半波天线所缺的那四分之一长度。这将在下面的天线类型一节中进一步讨论。</p>
+<h4 id="极化-方向性与场图">极化、方向性与场图</h4>
+<p>天线是有极化的，它们按一定的方向图与方向辐射和接收。导体中电压引起的电场与天线的极化方向平行，它由天线两端的电压差产生。无线电波的电磁场分量与极化方向成 90°，由天线中变化的电流产生。这些场已在图 11-76 与 11-77 中示出。无线电波从天线向外辐射时，按特定方向与特定方向图传播，这就是天线场。电场与电磁场的方向仍彼此成 90°，但从天线向不同方向辐射的强度不同。辐射场的强度取决于天线的类型以及与天线的角度关系。所有天线，即便是全向天线，在某些方向上的辐射也比其他方向强，这称为天线场的方向性。</p>
+<p>与发射天线极化相同的接收天线能产生最强信号。垂直极化天线上下安装，向各个方向辐射电波。要接收到这些电波中最强的信号，接收天线也应垂直放置，使无线电波的电磁场分量在大多数可能的角度关系下都能以尽可能接近 90° 的角度穿过它。</p>
+<p>水平极化天线左右（水平）安装，辐射出甜甜圈状的场。最强信号来自（或接收于）与天线长度成 90° 的方向。天线端部方向不产生场。图 11-89 示出了水平极化天线产生的场。</p>
+<p>飞机上的许多垂直与水平天线都以略微偏离平面的角度安装。这样，当接收天线的极化与发射天线不完全一致时，天线还能收到弱信号，而不是完全收不到信号。</p>
+<h4 id="类型">类型</h4>
+<p>航空中使用的天线有三种基本类型：</p>
+<p>偶极天线 偶极天线就是在讨论无线电波如何产生时提到的天线。它是一段导体，长度约等于发射频率波长的一半，有时也称为赫兹天线。交流发射电流从中心馈入偶极天线。电流交替变化时，天线中部的电流最大，越靠近两端越小，然后改变方向反向流动。结果，最大的电磁场出现在天线中部，最强的无线电波场垂直于天线长度方向。航空中的大多数偶极天线是水平极化的。</p>
+<p>一种常见的偶极天线是 V 形 VHF 导航天线，即所谓 VOR 天线，见于许多飞机。V 形的每一臂为四分之一波长，构成一副中心馈电的半波天线。这种天线是水平极化的。对偶极接收天线而言，这意味着它对从侧面接近天线的信号最敏感，而对沿飞行方向正面来的信号较不敏感。</p>
+<p>马可尼天线 马可尼天线是四分之一波天线。它利用导电飞机蒙皮的安装面形成第二个四分之一波长，从而获得半波天线的效率。大多数飞机 VHF 通信天线是马可尼天线，它们是垂直极化的，产生的场是全向的。在蒙布蒙皮飞机上，构成天线第二个四分之一波长的接地平面必须在安装马可尼天线的蒙皮下方制作。这可以用薄铝板或铝箔实现。有时从垂直天线底部在蒙皮下伸出四根或更多导线作为接地平面，这已足以让天线具有合适的导电长度。地面天线也采用同样做法。</p>
+<p>环形天线 飞机上常见的第三种天线是环形天线。把天线导体的长度做成环状时，其场特性会与直半波天线显著不同，同时也使天线更紧凑、更不易损坏。</p>
+<p>作为接收天线使用时，环形天线的特性对方向高度敏感。无线电波正对环面射来时，会在环的两侧引起相等的电流，但两侧电流的极性相反，彼此抵消，因而没有信号输出。当无线电波沿环所在平面射来时，电流先在一侧产生，随后在另一侧产生，这使两股电流具有不同的相位，从这个角度能产生最强的信号。所产生电流的相位差（及强度）与电波击中环形天线的角度成比例变化。这很有用，将在自动定向机（ADF）导航设备一节中进一步讨论。</p>
+<h4 id="传输线">传输线</h4>
+<p>发射机与接收机必须通过导线连接到它们的天线。这些传输线是同轴电缆，也称同轴（coax）。同轴电缆由中心导线导体、包裹它的半刚性绝缘层、以及沿电缆全长包裹导线与绝缘材料的导电编织屏蔽层构成，最外层还有防水护套，保护整个组件不受环境影响。同轴电缆中的编织屏蔽层既屏蔽内导体免受外部场的影响，也防止内导体产生的场向外辐射。为获得最佳性能，传输线的阻抗应等于天线的阻抗。在航空天线应用中，这通常约为 50 欧姆。同轴电缆使用专用接头，种类可见咨询通告（AC）43.13-1b 第 11 章第 17 节图 11-37。技师在安装传输线与天线时应遵循制造商的全部说明。正确的安装对电台与天线性能至关重要。</p>
+<h2 id="3-专业词汇">3. 专业词汇</h2>
+<div class="table-wrap"><table>
+<thead><tr>
+<th style="text-align:left">英文</th>
+<th style="text-align:left">词性</th>
+<th style="text-align:left">中文</th>
+<th style="text-align:left">本节语境</th>
+</tr></thead><tbody>
+<tr>
+<td style="text-align:left">wavelength</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">波长</td>
+<td style="text-align:left">与该频率谐振的导体长度，决定天线尺寸与频率的对应关系</td>
+</tr>
+<tr>
+<td style="text-align:left">carrier wave</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">载波</td>
+<td style="text-align:left">未调制的基本无线电波，本身不传信息，由信息信号加以改变</td>
+</tr>
+<tr>
+<td style="text-align:left">modulation</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">调制</td>
+<td style="text-align:left">用信息信号改变载波幅度或频率以加载信息的过程</td>
+</tr>
+<tr>
+<td style="text-align:left">sideband</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">边带</td>
+<td style="text-align:left">载波两侧由调制产生的附加频率，每个边带都含完整信息信号</td>
+</tr>
+<tr>
+<td style="text-align:left">bandwidth</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">带宽</td>
+<td style="text-align:left">上下边带连同中心载波所占的频率范围，频段分配的技术依据</td>
+</tr>
+<tr>
+<td style="text-align:left">single sideband (SSB)</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">单边带</td>
+<td style="text-align:left">滤除载波与一个边带的窄带传输方式，带宽减半，多用于 HF 远程通信</td>
+</tr>
+<tr>
+<td style="text-align:left">transceiver</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">收发机</td>
+<td style="text-align:left">收发共用频率与部分电路的通信电台，VHF 通信电台通常即是</td>
+</tr>
+<tr>
+<td style="text-align:left">half duplex</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">半双工</td>
+<td style="text-align:left">双向通信但同一时间只允许一方发射的工作方式</td>
+</tr>
+<tr>
+<td style="text-align:left">push to talk (PTT)</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">按下发话开关</td>
+<td style="text-align:left">按下时阻断接收电路、接通发射电路的驾驶舱开关</td>
+</tr>
+<tr>
+<td style="text-align:left">polarization</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">极化</td>
+<td style="text-align:left">天线辐射与接收的方向属性，由导体中电场方向决定</td>
+</tr>
+<tr>
+<td style="text-align:left">ground plane</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">接地平面</td>
+<td style="text-align:left">金属机身或蒙皮下导线构成的面，补足四分之一波天线的另一半长度</td>
+</tr>
+<tr>
+<td style="text-align:left">coaxial cable</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">同轴电缆</td>
+<td style="text-align:left">连接电台与天线的传输线，编织屏蔽层防外部场干扰与内部场外泄</td>
+</tr>
+<tr>
+<td style="text-align:left">impedance</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">阻抗</td>
+<td style="text-align:left">传输线与天线应相互匹配的电气参数，航空中常约 50 欧姆</td>
+</tr>
+<tr>
+<td style="text-align:left">intermediate frequency</td>
+<td style="text-align:left">n.</td>
+<td style="text-align:left">中频</td>
+<td style="text-align:left">超外差接收机中本振与射频之差，VHF 通信电台为 10.8 MHz</td>
+</tr>
+</tbody></table></div>
+<h2 id="4-语法解析">4. 语法解析</h2>
+<h3 id="过去分词短语作后置定语">① 过去分词短语作后置定语</h3>
+<p><strong>原句</strong>：Because of the speed of the AC, the electromagnetic fields and electric fields created around the antenna do not have time to completely collapse as the AC cycles. <strong>拆解</strong>：介词短语 Because of the speed of the AC 作原因状语；主语是并列的 the electromagnetic fields and electric fields，created around the antenna 为过去分词短语作后置定语；谓语 do not have time to collapse，as the AC cycles 为时间状语从句。 <strong>要点</strong>：created 修饰的是两个并列的场，不是 AC；主语与谓语之间被分词定语隔开，先锁定 fields ... do not have 这条骨架。as 在此引导时间从句，意为“当……循环时”，不是“因为”。</p>
+<h3 id="as-引导时间状语从句-四个并列谓语">② as 引导时间状语从句 + 四个并列谓语</h3>
+<p><strong>原句</strong>：As the current flows through the antenna, corresponding electromagnetic and electric fields build, collapse, build in the opposite direction, and collapse again. <strong>拆解</strong>：As 引导时间状语从句（the current flows through the antenna）；主句主语 corresponding electromagnetic and electric fields，后面跟四个并列谓语 build, collapse, build, collapse again，第三个 build 带方向状语 in the opposite direction。 <strong>要点</strong>：四个动词共用同一主语，是并列关系而非从句嵌套；build 在此为不及物动词“增强、建立起来”，与 collapse 构成反义对。读这类句子要按逗号切出谓语链。</p>
+<h3 id="定语从句-被动语态">③ 定语从句 + 被动语态</h3>
+<p><strong>原句</strong>：The frequency that is the difference between the local oscillator frequency and the radio frequency carrier wave frequency is used during the remaining processing. <strong>拆解</strong>：主语 The frequency 后接 that 引导的定语从句（that 在从句中作主语，is the difference between A and B 为系表结构）；主句谓语 is used（被动），during the remaining processing 为时间状语。 <strong>要点</strong>：定语从句很长，主句谓语 is used 被推到从句之后，容易误把 carrier wave frequency 当成主语。that 在从句中作主语，不能省略。</p>
+<h3 id="介词短语-过去分词作后置定语">④ 介词短语 + 过去分词作后置定语</h3>
+<p><strong>原句</strong>：Antennas are simply conductors of lengths proportional to the wavelength of the oscillated frequency put out by the transmitter. <strong>拆解</strong>：主语 Antennas，系动词 are，表语 conductors；of lengths... 为介词短语作后置定语，proportional to the wavelength... 为形容词短语修饰 lengths；of the oscillated frequency 又是 wavelength 的后置定语，put out by the transmitter 为过去分词短语修饰 frequency。 <strong>要点</strong>：一个表语后面连挂三层后置定语，翻译时按中文习惯从后往前理：发射机发出的振荡频率→该频率的波长→与波长成比例的长度→导体。oscillated 与 put out 都是被动含义。</p>
+<h3 id="with-短语-定语从句-介词-which">⑤ with 短语 + 定语从句（介词 + which）</h3>
+<p><strong>原句</strong>：A transmitter with multiple channel (frequency) capability contains tuning circuitry that enables the user to select the frequency upon which to broadcast. <strong>拆解</strong>：主语 A transmitter，with multiple channel (frequency) capability 为介词短语作后置定语；谓语 contains，宾语 tuning circuitry；that 引导定语从句修饰 circuitry，从句谓语 enables，宾语 the user，宾补 to select the frequency；upon which to broadcast 为“介词 + which + 不定式”结构，修饰 the frequency。 <strong>要点</strong>：enable sb. to do 的宾语补足语用不定式；upon which to broadcast 相当于 the frequency on which the user broadcasts，是定语从句的紧缩形式，介词不能丢。</p>
+<h3 id="although-让步状语从句-it-作形式主语">⑥ although 让步状语从句 + it 作形式主语</h3>
+<p><strong>原句</strong>：Although the airframe technician has limited duties in relation to maintaining and repairing avionics, it is the responsibility of the technician to install, inspect, repair, and maintain aircraft radio antennas. <strong>拆解</strong>：Although 引导让步状语从句，in relation to maintaining and repairing avionics 为介词短语作 duties 的后置定语；主句中 it 为形式主语，真正的主语是后面的不定式 to install, inspect, repair, and maintain aircraft radio antennas，is the responsibility of the technician 为系表结构。 <strong>要点</strong>：it 只是占位，不能译成“它”；真正主语是四个并列动词的不定式。in relation to 后接动名词，因为介词后要用 -ing 形式。让步从句与主句形成“职责有限，但安装维护仍归技师”的对比。</p>

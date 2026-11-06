@@ -48,14 +48,95 @@ The display select panel allows the pilot to choose which computer is actively s
 
 ## 2. 中文翻译
 
-TODO
+为提高复杂飞机的运行安全性，计算机与计算机系统被引入飞机。飞行仪表以及发动机和机体监控，是特别适合借助计算机获益的领域。计算机的贡献在于帮助减少仪表板上的杂乱，并使飞行员的注意力只集中在当下紧要的事项上。
+
+“玻璃座舱”一词，指的是在驾驶舱仪表中使用平板显示屏。实际上，它还指使用计算机生成的图像取代一个个机械式仪表。此外，计算机与计算机系统能以超出人的能力的方式，监控运行中飞机的各种过程和部件，同时免去飞行员必须亲自监控的压力。
+
+计算机化的电子飞行仪表系统还有额外的好处。元件的固态特性提高了可靠性。此外，微处理器、数据总线和 LCD 都能节省空间与重量。以下系统已在飞机上研制并使用多年。未来必定还会出现新的系统和计算机架构。
+
+### 电子飞行仪表系统（EFIS）
+
+飞行仪表是最先采用计算机技术、使用平板多功能显示器（MFD）的。EFIS 使用专用信号发生器驱动位于“基本 T”布局中央的两台独立显示器。姿态指示器和航向陀螺由阴极射线管（CRT）取代，用来显示 EADI 和 EHSI 画面。这些增强型仪表与普通机械式和电动式仪表并存工作，集成程度有限。尽管如此，EADI 和 EHSI 技术仍非常可取，它减轻了工作负荷、减少了仪表板扫视，并因前文所述导航信息的集成而提高了安全性。
+
+早期 EFIS 系统采用模拟技术，而较新的型号可能是数字系统。信号发生器从姿态和导航设备接收信息。飞行员通过显示控制器选择希望显示的各种模式或画面特征。通常设有相互独立的机长和副驾驶专用系统。还有第三台备份符号发生器，当两台主组件之一失效时可接替工作。
+
+以电子方式描绘 ADI 和 HSI 信息，是 EFIS 系统的核心目的。相比传统仪表，其扩大的尺寸和能力可以集成更多的飞行仪表数据。垂直的空速刻度通常显示在姿态显示区的左侧，其相对位置与模拟式“基本 T”仪表板中的空速表相同。在姿态显示区右侧，许多 EFIS 系统显示高度和垂直速度刻度。由于多数 EFIS 的 EADI 画面都包含通常属于转弯协调器的倾斜仪，因此全部基本飞行仪表都由 EFIS 显示器来描绘。
+
+#### 电子中央飞机监控系统（ECAM）
+
+所有飞机上飞行员的工作负荷，都包括持续监控飞行仪表和机外天空。还包括警惕地审视发动机和机体系统是否正常工作。在运输类飞机上，这意味着除操纵飞机之外还要监控大量仪表。电子中央飞机监控（ECAM）系统就是为协助完成这项职责而设计的。
+
+ECAM（以及其他监控系统）的基本理念，是代替飞行员自动执行监控职责。当检测到问题或发生失效时，主显示器连同音响和视觉提示一起向飞行员告警。需要采取的修正措施会显示出来，因失效而建议采取的措施也会显示。由于系统监控自动进行，飞行员可以专心驾驶飞机，直到出现问题为止。
+
+早期 ECAM 系统只监控机体系统，发动机参数由驾驶舱内传统的常显仪表显示。后来型号的 ECAM 系统则把发动机显示与机体显示一并纳入。
+
+ECAM 系统有两台 CRT 显示器，在较新的飞机上可能是 LCD。左侧或上方的显示器（视飞机仪表板布局而定）以检查单格式显示系统状态信息以及任何警告和相应的修正措施。右侧或下方的显示器以图形形式显示相应的系统信息，例如所涉及系统的示意图。ECAM 显示器通常由各自独立的信号发生器供电。飞机数据输入送入两台飞行警告计算机。模拟输入先经过系统数据模拟转换器，再进入警告计算机。警告计算机处理这些信息，并把信息转发给信号发生器，以点亮显示器。[图 10-120]
+
+ECAM 系统有四种基本模式：飞行阶段、咨询、失效相关和人工。通常使用飞行阶段模式。这些阶段为：飞行前、起飞、爬升、巡航、下降、进近和着陆后。咨询模式和失效相关模式会视情况需要自动出现。当主显示器上出现咨询信息时，辅助显示器会自动显示带数值的系统示意图。失效相关模式也是如此，该模式优先于所有其他模式，无论失效发生时选中的是哪种模式。显示器上使用颜色编码，按重要程度依次引起注意。显示模式通过单独的 ECAM 控制面板选择，见图 10-121。
+
+按下控制面板上的某个系统简图显示按钮，即可设置 ECAM 的人工模式。这样就能显示各系统简图。一旦出现失效警告或咨询事件，该视图即被取消。
+
+ECAM 的飞行警告计算机在启动时进行自检，信号发生器也要测试。维护面板可用于测试通告显示，并可按需进行进一步测试。BITE 代表机内测试设备。监控系统既监控飞机系统、也监控自身，这是标准做法。从该面板还可以测试送入飞行警告计算机的所有系统输入的导通性，以及系统数据模拟转换器的输入和输出。任何单个系统故障都会照常列在主显示器上。飞行警告计算机和信号发生器的故障则会在维护面板上通告。测试 ECAM 及相关系统时，应遵循制造商的指导。
+
+### 发动机指示与机组告警系统（EICAS）
+
+发动机指示与机组告警系统（EICAS）执行许多与 ECAM 系统相同的功能。其目的仍是为飞行员监控飞机系统。所有 EICAS 都显示发动机参数，同时也显示机体参数。
+
+除作为系统完全失效时的备用组合发动机仪表外，不再使用传统仪表。
+
+EICAS 同样是双显示器、双计算机并带显示选择面板的系统。两台显示器都从同一台计算机接收信息，第二台计算机作为备用。发动机和机体系统的数字与模拟输入被连续监控。系统中还设有注意灯和警告灯以及音响信号。
+
+EICAS 在上方的主显示器上常显主要发动机参数（EPR、N1、EGT），咨询信息和警告也显示在那里。次要发动机参数和非发动机系统状态显示在下方屏幕上。飞机在地面时，下方屏幕还用于维护诊断。显示中使用了颜色编码以及信息优先级排序。
+
+显示选择面板让飞行员选择由哪台计算机实际提供信息，它还控制下方显示器上次要发动机信息和系统状态显示的显示。EICAS 有一项独特功能，能自动记录失效事件的参数，供维修人员事后查阅。怀疑飞行中可能正在出现问题的飞行员，可以按下显示选择面板上的事件记录按钮，这也会记录该飞行时段的参数，供维修人员日后研究。液压、电气、环境、性能以及 APU 数据，都是可能被记录的内容。EICAS 对系统和部件使用 BITE。系统配有供技术人员使用的维护面板。飞机在地面时，通过该面板上的按钮开关可显示各系统的相关信息以供分析。
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-TODO
+| glass flight deck | n. | 玻璃座舱 | 用平板显示屏和计算机生成图像取代机械仪表的驾驶舱 |
+| flat-panel display | n. | 平板显示器 | 玻璃座舱仪表所采用的薄型显示屏 |
+| multifunctional display (MFD) | n. | 多功能显示器 | 飞行仪表最先采用的可切换多种画面的平板显示器 |
+| signal generator | n. | 信号发生器 | EFIS/ECAM 中把输入数据转换成显示画面的专用组件 |
+| symbol generator | n. | 符号发生器 | 产生显示符号的组件，EFIS 另设第三台作备份 |
+| basic T | n. | 基本 T 布局 | 空速、姿态、高度、航向按 T 形排列的传统仪表板布局 |
+| inclinometer | n. | 倾斜仪 | 通常属于转弯协调器、检测侧滑的仪表，其功能被并入 EADI |
+| electronic centralized aircraft monitor (ECAM) | n. | 电子中央飞机监控系统 | 自动监控机体与发动机系统并给出修正措施的显示系统 |
+| engine indicating and crew alerting system (EICAS) | n. | 发动机指示与机组告警系统 | 与 ECAM 功能相近、始终显示发动机参数的双屏系统 |
+| flight warning computer | n. | 飞行警告计算机 | 处理飞机数据输入、再转发给信号发生器的计算机 |
+| system data analog converter | n. | 系统数据模拟转换器 | 模拟输入进入警告计算机之前所经过的转换组件 |
+| synoptic display | n. | 系统简图显示 | 以示意图形式呈现某系统状态与数值的画面 |
+| built-in test equipment (BITE) | n. | 机内测试设备 | 系统和部件自检用、并可在维护面板上调用测试的设备 |
+| event record button | n. | 事件记录按钮 | 显示选择面板上用于人工触发记录当时参数的按钮 |
 
 ## 4. 语法解析
 
-TODO
+### ① 目的状语 + 现在完成时被动语态
+**原句**：In an effort to increase the safety of operating complicated aircraft, computers and computer systems have been incorporated.
+**拆解**：In an effort to increase the safety of operating complicated aircraft 为目的状语，其中 operating 为动名词修饰 aircraft；主句主语 computers and computer systems，谓语 have been incorporated 为现在完成时的被动语态。
+**要点**：in an effort to do 相当于“为了做……”，不能按字面译成“在努力中”。现在完成被动强调“已被引入”这一结果，施动者（设计者）不必出现。
+
+### ② that 引导的定语从句
+**原句**：“Glass flight deck” is a term that refers to the use of flat-panel display screens in flight deck instrumentation.
+**拆解**：主语 “Glass flight deck”，系动词 is，表语 a term；that refers to the use of flat-panel display screens in flight deck instrumentation 为定语从句修饰 term，关系词 that 在从句中作主语，谓语 refers to。
+**要点**：term 是抽象名词，后面的 that 从句是定语从句而非同位语从句——that 在从句中充当主语，从句缺它不完整。refer to 在此意为“指”，不是“参考”。
+
+### ③ 分词短语作插入语
+**原句**：The left or upper monitor, depending on the aircraft panel layout, displays information on system status and any warnings associated corrective actions.
+**拆解**：主语 The left or upper monitor，逗号间 depending on the aircraft panel layout 为现在分词短语作插入语（补充条件）；谓语 displays，宾语 information，on system status and any warnings... 为介词短语作后置定语。
+**要点**：插入语用两个逗号隔开，删去后主谓仍然完整，这是识别插入语的可靠办法。depending on 的逻辑主语是说话人/读者，属悬垂分词，科技英语中常见。
+
+### ④ 非限制性定语从句 + regardless of 宾语从句
+**原句**：The same is true for the failure-related mode, which takes precedent over all other modes regardless of which mode is selected at the time of the failure.
+**拆解**：主句 The same is true for the failure-related mode；which 引导非限制性定语从句修饰 mode，从句谓语 takes precedent over；regardless of 后接 which 引导的宾语从句，作让步状语。
+**要点**：takes precedent over 意为“优先于”，precedent 此处不译“先例”。regardless of 是介词短语，后接名词或从句均可；which mode 是从句的引导词，不是疑问句。
+
+### ⑤ since 原因状语从句 + 同位语插入
+**原句**：Since most EFIS EADI depictions include the inclinometer, normally part of the turn coordinator, all of the basic flight instruments are depicted by the EFIS display.
+**拆解**：Since 引导原因状语从句（既然/由于），从句主语 most EFIS EADI depictions，谓语 include；normally part of the turn coordinator 为同位语，补充说明 inclinometer；主句为被动语态 are depicted by。
+**要点**：since 在此表原因，不表时间，可据主句是结论性陈述来判断。同位语紧跟在被说明的名词后，用逗号隔开，不要误当成 include 的并列宾语。
+
+### ⑥ should 倒装表示虚拟条件
+**原句**：A third, backup symbol generator is available to assume operation should one of the two primary units fail.
+**拆解**：主句主语 A third, backup symbol generator，谓语 is available，to assume operation 为目的状语；should one of the two primary units fail 为省略 if 的倒装条件从句，相当于 if one of the two primary units should fail。
+**要点**：should 提到主语前即构成虚拟条件，常用于科技说明中的“万一……”。从句谓语用动词原形 fail，不能加 -s；主句用陈述语气 is available，说明这是常规配置而非假设结果。

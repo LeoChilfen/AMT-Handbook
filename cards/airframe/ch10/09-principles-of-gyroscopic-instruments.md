@@ -56,14 +56,98 @@ While a large mechanical gyroscope spins in a plane, its rigidity in space is us
 
 ## 2. 中文翻译
 
-TODO
+### 机械陀螺
+
+三种最常见的飞行仪表——姿态指示器、航向指示器以及转弯侧滑仪的转弯指针——都由陀螺仪控制。要理解这些仪表如何工作，需要掌握陀螺原理和仪表动力系统的知识。
+
+机械陀螺仪（简称陀螺）由一个质量集中于轮缘的轮子或转子构成。转子装有轴承，使其能高速旋转。
+
+转子和轴有不同的安装方式，可使转子组件绕一条或两条垂直于自转轴的轴线转动。为使转子能悬挂着转动，先把轴装在一个称为常平环（gimbal）的支承环中。若在支承环上距自转轴连接点 90° 处装上支架，支承环和转子便都能自由地做 360° 运动。处于这种构型时，该陀螺称为受限陀螺（captive gyro），它只能绕一条垂直于自转轴的轴线转动。
+
+支承环也可以装在一个外环之内。轴承位置与刚才所说的支架相同，即在支承环上距自转轴连接点 90° 处。把支架装到这个外环上，转子在旋转时便可在两个平面内转动，这两个平面都垂直于转子的自转轴。转子绕其轴自转所形成的平面不计为一个转动平面。
+
+具有这种构型（两个环加安装支架）的陀螺称为自由陀螺，因为它可绕两条都垂直于转子自转轴的轴线自由转动。因此，内装旋转陀螺的支承环能在外部环内自由做 360° 转动。
+
+除非陀螺的转子在旋转，否则它并没有什么特殊性质，只不过是一个万向安装的轮子。当转子高速旋转时，陀螺会表现出两个独特特性。第一个称为陀螺刚性，或称空间刚性。这意味着无论陀螺的基座怎样放置，自由陀螺的转子始终指向同一方向。
+
+陀螺刚性取决于几个设计因素：
+
+1. 重量——在给定尺寸下，重的质量比轻的质量更能抵抗干扰力。
+
+2. 角速度——转速越高，刚性或抗偏转能力越大。
+
+3. 重量集中的半径——当质量的主要部分集中在轮缘附近并高速旋转时，可获得最大效果。
+
+4. 轴承摩擦——任何摩擦都会对陀螺施加偏转力。轴承摩擦最小，偏转力才能保持在最低限度。
+
+陀螺在空间中保持刚性的这一特性，被用于姿态指示仪表和采用陀螺的方向指示器。旋转的陀螺在空间保持固定，飞机则绕它运动。它作为一个基准，用来测量姿态或方向的变化。
+
+进动是陀螺的第二个重要特性。对陀螺的水平轴施加一个力，会出现一种独特现象：施加的力受到抵抗，陀螺并不绕水平轴运动来响应这个力，而是绕其垂直轴运动来响应。换句话说，对旋转陀螺的轴施加力，并不会使该轴倾斜；陀螺的响应方式，就好像力是施加在沿陀螺转子旋转方向前方 90° 处一样。陀螺是转动而不是倾斜。这种可预测、受控的陀螺进动被用于转弯侧滑仪。
+
+### 固态陀螺及相关系统
+
+改善姿态与方向信息始终是航空追求的目标。现代飞机采用无运动部件的高精度固态姿态与方向装置，因而可靠性很高、维护量很低。
+
+#### 环形激光陀螺（RLG）
+
+环形激光陀螺（RLG）在商用航空中广泛使用。RLG 工作的基本原理是：光沿一条静止不转的圆形路径行进需要时间；如果路径沿光的行进方向转动，光走完一圈所需时间就更长；如果路径沿与光相反的方向转动，光走完一圈所需时间就更短。实质上是路径的转动使路径变长或变短。这称为萨格纳克效应（Sagnac effect）。
+
+激光（laser）是“受激辐射光放大”的缩写。激光器通过激发等离子体中的原子释放电磁能（即光子）来工作。环形激光陀螺产生两束沿封闭三角形腔体反向传播的激光。绕环路行进的光的波长是固定的。当环路转动时，激光必须行进的路径变长或变短。随着环路有效长度改变，光波长压缩或伸长，以完成绕环路的行程。波长改变时频率也随之改变。通过检测两束反向旋转光的频率差，即可测出路径转动的速率。组件中心的一个压电抖动马达会振动，以防止低转速时输出信号“锁定”。这使装在飞机上的组件工作时发出嗡鸣声。
+
+RLG 采用远程安装，使其腔体路径绕飞行的一条轴转动。两束反向旋转激光之间检测到的频率相移速率，与飞机绕该轴运动的速率成正比。飞机上，每条飞行轴各装一个 RLG。其输出可用于模拟式仪表和自动驾驶仪系统，也很容易做到与数字显示计算机和数字自动驾驶仪计算机兼容。
+
+RLG 非常坚固，使用寿命长，由于没有运动部件，几乎无需维护。它们能极快地测量绕轴的转动并提供连续输出。其精度极高，通常被认为优于机械陀螺。
+
+飞机上，微机电系统（MEMS）器件可节省空间与重量。通过采用固态 MEMS 器件，可靠性得以提高，主要原因是没有运动部件。用于航空仪表的 MEMS 技术的发展，与大气数据计算机（ADC）的使用相结合。这项最新的技术进步成本低，有望在所有航空领域普及。
+
+用于陀螺应用的 MEMS 既用于小型通用航空飞机，也用于大型商用飞机。微小的、基于振动的器件配以电阻和电容测量拾取装置，精确可靠，长度和宽度仅几毫米。它们通常集成在一个完整的微电子固态芯片中，芯片经各种调理处理后给出输出。这些芯片类似于微型电路板，可封装起来装入安装在飞机上的专用计算机或模块内。
+
+大型机械陀螺在一个平面内旋转，利用其空间刚性来观测和测量飞机的运动。许多 MEMS 陀螺尽管体积很小，其工作原理却相同。区别在于，用振动的压电装置取代了机械陀螺中旋转的配重环。同样，一旦使它运动起来，任何平面外运动都可通过按几何布置的拾取装置检测到的微小电压变化或电容变化而测得。由于压电材料在运动与电之间具有对应关系，微电激励可使压电陀螺运动起来，并可提取压电体因运动产生的微小电压。这些电压可作为计算姿态或方向所需的变量输入。在现代飞机上，姿态航向基准系统（AHRS）已取代陀螺仪和其他单个仪表。MEMS 器件为该系统提供部分姿态信息，而 GPS、固态磁强计、固态加速度计和数字大气数据信号都在 AHRS 中综合起来，计算并输出高度可靠的信息，供驾驶舱面板显示。
+
+#### 其他姿态与方向系统
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-TODO
+| gyroscope | n. | 陀螺仪 | 高速旋转的转子，具有空间刚性和进动两大特性 |
+| rotor | n. | 转子 | 质量集中于轮缘的轮子，靠轴承支承高速旋转 |
+| gimbal | n. | 常平环 | 支承转子轴的环，使转子可绕自转轴以外的轴转动 |
+| captive gyro | n. | 受限陀螺 | 只能绕一条垂直于自转轴的轴线转动的陀螺构型 |
+| free gyro | n. | 自由陀螺 | 两环加支架、可绕两条轴自由转动 360° 的陀螺 |
+| gyroscopic rigidity | n. | 陀螺刚性（空间刚性） | 转子指向在空间中保持不变的特性，是姿态仪表的基础 |
+| precession | n. | 进动 | 对自转轴施力时陀螺绕垂直轴转动的可预测响应 |
+| ring laser gyro (RLG) | n. | 环形激光陀螺 | 无运动部件的固态陀螺，靠反向激光的频率差测角速率 |
+| Sagnac effect | n. | 萨格纳克效应 | 光路随腔体转动而变长变短、引起频率差的物理现象 |
+| dithering motor | n. | 抖动马达 | RLG 中心的压电马达，抖动以防低转速时信号锁定 |
+| MEMS | n. | 微机电系统 | 毫米级固态传感器件，无运动部件、可靠性高 |
+| AHRS | n. | 姿态航向基准系统 | 综合 MEMS、GPS、磁强计与大气数据算出姿态航向 |
+| pick-off | n. | 拾取装置 | 按几何布置、把微小位移转成电压或电容变化的元件 |
+| piezoelectric | adj. | 压电的 | 受力产生电压、通电产生形变的材料特性，用作振动陀螺驱动 |
 
 ## 4. 语法解析
 
-TODO
+### ① 不定式短语作目的状语 + 被动谓语
+**原句**：To understand how these instruments operate, knowledge of gyroscopic principles and instrument power systems is required.
+**拆解**：句首不定式短语 To understand how these instruments operate 作目的状语，其中 how 引导宾语从句作 understand 的宾语；主句主语 knowledge of gyroscopic principles and instrument power systems（介词短语作后置定语），谓语 is required 为被动。
+**要点**：目的状语提到句首是为了承接上文，主干其实只有 knowledge ... is required 五个词。knowledge 是不可数名词，故谓语用 is；of 引出的两层并列成分（gyroscopic principles / instrument power systems）共同修饰 knowledge。
+
+### ② 条件状语从句 + from where 引导的宾语从句
+**原句**：If brackets are attached 90° around the supporting ring from where the spin axle attached, the supporting ring and rotor can both move freely 360°.
+**拆解**：If 引导条件状语从句，从句为被动 are attached，90° around the supporting ring 为地点/角度状语，from where the spin axle attached 为介词 from + 关系副词 where 引导的从句；主句主语 the supporting ring and rotor，谓语 can move，freely 360° 为方式与程度状语。
+**要点**：from where 相当于“从……的位置”，where 指代 the point on the supporting ring，不能换成 from which（which 不能直接指地点）。attached 在此是过去分词作后置定语（轴被连接的部位），与前面的 are attached 不是同一结构，读时不要重复理解成两个谓语。
+
+### ③ unless 条件从句 + 分号并列 + 过去分词后置定语
+**原句**：Unless the rotor of a gyro is spinning, it has no unusual properties; it is simply a wheel universally mounted.
+**拆解**：Unless 引导否定条件状语从句（= if ... not），从句用现在进行时 is spinning 表状态；主句 it has no unusual properties；分号后为并列分句，it is simply a wheel，universally mounted 为过去分词短语作后置定语。
+**要点**：unless 本身含否定，从句不能再加 not。universally mounted 是“被万向安装的”，过去分词表被动；若写成 mounting 则变成轮子去安装别的东西，逻辑不通。
+
+### ④ no matter which 引导让步状语从句
+**原句**：This means that the rotor of a free gyro always points in the same direction no matter which way the base of the gyro is positioned.
+**拆解**：主句主语 This，谓语 means，宾语为 that 引导的宾语从句；宾语从句中主语 the rotor of a free gyro，谓语 points，in the same direction 为方向状语；no matter which way 引导让步状语从句，从句 the base of the gyro is positioned 为被动。
+**要点**：no matter which way = however the base is positioned，语序必须是“疑问词 + 名词 + 陈述语序”，不能写成 no matter which way is the base positioned。that 从句里再套让步从句，共三层，翻译时先把主干“转子总指向同一方向”拎出来。
+
+### ⑤ by + 动名词作方式状语 + 定语从句 + 被动谓语
+**原句**：By examining the difference in the frequencies of the two counter-rotating beams of light, the rate at which the path is rotating can be measured.
+**拆解**：By + 动名词短语 examining the difference... 作方式状语；主句主语 the rate，后接 at which 引导的定语从句 the path is rotating（at the rate 为固定搭配）；谓语 can be measured 为被动。
+**要点**：定语从句的介词 at 提到 which 之前，是因为先行词 the rate 与 at 搭配（at the rate of...）。主句谓语是 can be measured，主语 the rate 被定语从句隔开，找主干时要跳过 at which ... 这一整段。
