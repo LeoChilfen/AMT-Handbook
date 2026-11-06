@@ -1,0 +1,110 @@
+# Auxiliary Lift Devices
+
+> 机体 Ch 02 · Auxiliary Lift Devices · 原文 PDF 第 82 页
+
+## 1. 原文
+
+Included in the auxiliary lift devices group of flight control surfaces are the wing flaps, spoilers, speed brakes, slats, leading edge flaps, and slots.
+
+The auxiliary groups may be divided into two subgroups: those whose primary purpose is lift augmenting and those whose primary purpose is lift decreasing. In the first group are the flaps, both trailing edge and leading edge (slats), and slots. The lift decreasing devices are speed brakes and spoilers.
+
+### Lift Augmenting
+
+Flaps are located on the trailing edge of the wing and are moveable to increase the wing area, thereby increasing lift on takeoff, and decreasing the speed during landing. These airfoils are retractable and fair into the wing contour. Others are simply a portion of the lower skin which extends into the airstream, thereby slowing the aircraft. Leading edge flaps, also referred to as slats, are airfoils extended from and retracted into the leading edge of the wing. Some installations create a slot (an opening between the extended airfoil and the leading edge). At low airspeeds, this slot increases lift and improves handling characteristics, allowing the aircraft to be controlled at airspeeds below the normal landing speed.
+
+Other installations have permanent slots built in the leading edge of the wing. At cruising speeds, the trailing edge and leading edge flaps (slats) are retracted into the wing proper. Slats are movable control surfaces attached to the leading edges of the wings. When the slat is closed, it forms the leading edge of the wing. When in the open position (extended forward), a slot is created between the slat and the wing leading edge. At low airspeeds, this increases lift and improves handling characteristics, allowing the aircraft to be controlled at airspeeds below the normal landing speed.
+
+### Lift Decreasing
+
+Lift decreasing devices are the speed brakes (spoilers). In some installations, there are two types of spoilers. The ground spoiler is extended only after the aircraft is on the ground, thereby assisting in the braking action. The flight spoiler assists in lateral control by being extended whenever the aileron on that wing is rotated up. When actuated as speed brakes, the spoiler panels on both wings raise up. In-flight spoilers may also be located along the sides, underneath the fuselage, or back at the tail. In some aircraft designs, the wing panel on the up aileron side rises more than the wing panel on the down aileron side. This provides speed brake operation and lateral control simultaneously.
+
+### Winglets
+
+Winglets are the near-vertical extension of the wingtip that reduces the aerodynamic drag associated with vortices that develop at the wingtips as the airplane moves through the air. By reducing the induced drag at the tips of the wings, fuel consumption goes down and range is extended. Figure 2-17 shows an example of a Learjet 60 with winglets.
+
+### Canard Wings
+
+A canard wing aircraft is an airframe configuration of a fixed-wing aircraft in which a small wing or horizontal airfoil is ahead of the main lifting surfaces, rather than behind them as in a conventional aircraft. The canard may be fixed, movable, or designed with elevators. Good examples of aircraft with canard wings are the Rutan VariEze and Beechcraft 2000 Starship. [Figures 2-18 and 2-19]
+
+### Wing Fences
+
+Wing fences are flat metal vertical plates fixed to the upper surface of the wing. They obstruct spanwise airflow along the wing, and prevent the entire wing from stalling at once. They are often attached on swept-wing aircraft to prevent the spanwise movement of air at high AOA. Their purpose is to provide better slow speed handling and stall characteristics.
+
+## 2. 中文翻译
+
+属于辅助升力装置这一组飞行操纵面的有襟翼、扰流板、减速板、缝翼、前缘襟翼和缝隙。
+
+辅助装置组可分为两个子组：主要用途为增升的，以及主要用途为减升的。第一组是襟翼（后缘襟翼和前缘襟翼，即缝翼）和缝隙。减升装置是减速板和扰流板。
+
+### 增升装置
+
+襟翼位于机翼后缘，可活动以增大机翼面积，从而在起飞时增大升力，在着陆时降低速度。这些翼型是可收放的，收起后与机翼外形齐平。另一些襟翼只是下蒙皮的一部分，伸出到气流中，从而使飞机减速。前缘襟翼也称缝翼，是从机翼前缘伸出、并可收回机翼前缘内的翼型。某些装置会形成一条缝隙（伸出的翼型与前缘之间的开口）。在低空速下，这条缝隙增大升力并改善操纵特性，使飞机能在低于正常着陆速度的空速下保持操纵。
+
+另一些装置则在机翼前缘内建永久性缝隙。在巡航速度下，后缘襟翼和前缘襟翼（缝翼）收回到机翼内部。缝翼是装在机翼前缘的可动操纵面。缝翼闭合时构成机翼前缘；处于打开位置（向前伸出）时，缝翼与机翼前缘之间形成一条缝隙。在低空速下，这增大升力并改善操纵特性，使飞机能在低于正常着陆速度的空速下保持操纵。
+
+### 减升装置
+
+减升装置是减速板（扰流板）。在某些装置中有两种扰流板。地面扰流板只在飞机落地后才伸出，从而协助制动。飞行扰流板协助横向操纵：只要该侧机翼上的副翼向上偏转，它便伸出。当作为减速板使用时，两翼上的扰流板都向上抬起。飞行扰流板也可能布置在机身两侧、机身下方或尾部。在某些机型上，副翼上偏一侧的机翼扰流板升得比副翼下偏一侧的更高，从而同时实现减速板功能和横向操纵。
+
+### 翼梢小翼
+
+翼梢小翼是翼尖接近垂直的延伸段，用于减小飞机在空气中运动时翼尖所形成涡流带来的气动阻力。通过减小翼尖处的诱导阻力，燃油消耗下降，航程增加。图2-17 示出带翼梢小翼的里尔60 飞机。
+
+### 鸭翼
+
+鸭式飞机是一种固定翼飞机的机体布局：其小型机翼或水平翼面位于主升力面之前，而不是像常规飞机那样位于其后。鸭翼可以是固定的、可动的，或设计带有升降舵。采用鸭翼的飞机的良好例子有 Rutan VariEze 和比奇 2000“星舟”。[图2-18 和图2-19]
+
+### 翼刀
+
+翼刀是固定在机翼上表面的扁平金属垂直板。它们阻碍沿机翼的展向气流，防止整个机翼同时失速。它们常装在后掠翼飞机上，以防止大迎角时空气的展向流动。其用途是提供更好的低速操纵性和失速特性。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| wing flap | n. | 机翼襟翼 | 后缘可动翼型，增大机翼面积以提高起飞升力、降低着陆速度 |
+| spoiler | n. | 扰流板 | 破坏机翼升力、兼作减速板并协助横向操纵的翼面 |
+| speed brake | n. | 减速板 | 抬起以增加阻力、使飞机减速的翼面，文中与扰流板同义 |
+| slat | n. | 缝翼 | 前缘襟翼，伸出时与前缘形成缝隙，用于低速增升 |
+| leading edge flap | n. | 前缘襟翼 | 从机翼前缘伸出并可收回的翼型，与缝翼同义 |
+| slot | n. | 缝隙 | 前缘与伸出翼型之间的开口，引导气流贴附上表面以延缓失速 |
+| trailing edge | n. | 后缘 | 机翼后部边缘，襟翼安装于此 |
+| lift augmenting | adj. | 增升的 | 描述襟翼、缝翼、缝隙等以提高升力为目的的装置 |
+| ground spoiler | n. | 地面扰流板 | 只在着陆后伸出、协助刹车减速的扰流板 |
+| flight spoiler | n. | 飞行扰流板 | 随同侧副翼上偏而伸出、协助横向操纵的扰流板 |
+| winglet | n. | 翼梢小翼 | 翼尖近垂直延伸段，削弱翼尖涡以减小诱导阻力、省油增程 |
+| canard | n. | 鸭翼 | 位于主升力面之前的小翼面，构成鸭式布局 |
+| wing fence | n. | 翼刀 | 机翼上表面的金属立板，阻挡展向气流、防止全翼同时失速 |
+| spanwise | adj. | 展向的 | 沿机翼向翼尖方向的气流方向，翼刀正是要阻挡它 |
+
+## 4. 语法解析
+
+### ① 完全倒装（过去分词前置）
+**原句**：Included in the auxiliary lift devices group of flight control surfaces are the wing flaps, spoilers, speed brakes, slats, leading edge flaps, and slots.
+**拆解**：为承接上文，把过去分词短语 Included in... 提到句首作表语，形成完全倒装；真正的主语是 are 之后六个并列名词，谓语 are 与第一个并列项 wing flaps 保持复数一致。
+**要点**：识别倒装后要还原语序“A、B、C……are included in the auxiliary lift devices group”，否则容易把 Included 误当谓语。六个并列项中 speed brakes 与 spoilers 在本节后文被视作同类。
+
+### ② 被动语态 + 冒号 + those whose 定语从句并列
+**原句**：The auxiliary groups may be divided into two subgroups: those whose primary purpose is lift augmenting and those whose primary purpose is lift decreasing.
+**拆解**：主句 The auxiliary groups may be divided into two subgroups，被动语态；冒号后 those ... and those ... 是对 two subgroups 的同位解释，两个 whose 引导定语从句分别修饰两个 those，从句均为系表结构。
+**要点**：those 是 that 的复数，指代 subgroups，避免重复；whose 指“其”，whose primary purpose 即“其主要用途”。两个从句结构完全对称，是典型的定义式分类句。
+
+### ③ 并列谓语 + 不定式目的 + thereby doing 结果状语
+**原句**：Flaps are located on the trailing edge of the wing and are moveable to increase the wing area, thereby increasing lift on takeoff, and decreasing the speed during landing.
+**拆解**：and 连接两个谓语 are located 与 are moveable，共用主语 Flaps；to increase the wing area 为目的状语；thereby increasing... and decreasing... 为现在分词短语作结果状语，两个 -ing 并列，分别对应起飞与着陆。
+**要点**：thereby + doing 是技术英语中表示“从而”的固定结果状语，逻辑主语与主句主语一致（襟翼）；on takeoff 与 during landing 两个时间状语分别管 increasing 和 decreasing，不可互换。
+
+### ④ 嵌套定语从句 + 过去分词后置定语 + as 时间从句
+**原句**：Winglets are the near-vertical extension of the wingtip that reduces the aerodynamic drag associated with vortices that develop at the wingtips as the airplane moves through the air.
+**拆解**：主干 Winglets are the near-vertical extension of the wingtip；第一个 that 从句修饰 extension（谓语 reduces）；associated with vortices 为过去分词短语作后置定语修饰 drag；第二个 that 从句修饰 vortices（谓语 develop）；as the airplane moves through the air 为时间状语从句。
+**要点**：两个 that 从句先行词不同（extension / vortices），不能都理解成修饰 wingtip；near-vertical 中的 near 是副词“接近”，修饰形容词 vertical。
+
+### ⑤ in which 定语从句 + rather than 对比
+**原句**：A canard wing aircraft is an airframe configuration of a fixed-wing aircraft in which a small wing or horizontal airfoil is ahead of the main lifting surfaces, rather than behind them as in a conventional aircraft.
+**拆解**：主干 A canard wing aircraft is an airframe configuration，of a fixed-wing aircraft 为后置定语；in which 引导定语从句修饰 configuration，从句主语 a small wing or horizontal airfoil，谓语 is ahead of the main lifting surfaces；rather than behind them 为对比状语，as in a conventional aircraft 为方式状语。
+**要点**：in which = in this configuration，不能译成“在其中”；rather than 连接的是两个方位短语 ahead of / behind，比较对象是鸭式布局与常规布局。them 指 the main lifting surfaces。
+
+### ⑥ prevent ... from doing + at once
+**原句**：They obstruct spanwise airflow along the wing, and prevent the entire wing from stalling at once.
+**拆解**：and 连接两个谓语 obstruct 与 prevent，共用主语 They（翼刀）；obstruct 的宾语是 spanwise airflow，along the wing 为后置定语；prevent 的宾语是 the entire wing，from stalling 为介词短语补足，at once 为时间状语。
+**要点**：prevent sb./sth. from doing 中的 from 在美式英语中可省略，但书面语通常保留；at once 在此意为“同时、一下子”，不是“立刻”，指防止整片机翼一同失速。

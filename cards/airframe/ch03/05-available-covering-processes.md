@@ -1,0 +1,81 @@
+# Available Covering Processes
+
+> 机体 Ch 03 · Available Covering Processes · 原文 PDF 第 146 页
+
+## 1. 原文
+
+The covering processes that utilize polyester fabric are the primary focus of this chapter. Examples of FAA-approved aircraft covering processes are listed in Figure 3-9 . The processes can be distinguished by the chemical nature of the glue and coatings that are used. A dope-based covering process has been refined out of the cotton fabric era, with excellent results on polyester fabric. In particular, plasticizers added to the nitrate and butyrate dopes minimize the shrinking and tautening effects of the dope, establish flexibility, and allow esthetically pleasing tinted butyrate dope finishes that last indefinitely. Durable polyurethane-based processes integrate well with durable polyurethane topcoat finishes. Vinyl is the key ingredient in the popular Poly-Fiber covering system. Air Tech uses an acetone thinned polyurethane compatible system.
+
+The most recent entry into the covering systems market is the Stewart Finishing System that uses waterborne technology to apply polyurethane coatings to the fabric. The glue used in the system is water-based and nonvolatile. The Stewart Finishing System is Environmental Protection Agency (EPA) compliant and STC approved. Both the Stewart and Air Tech systems operate with any of the approved polyester fabrics as stated in their covering system STCs.
+
+All the modern fabric covering systems listed in Figure 3-9 result in a polyester fabric covered aircraft with an indefinite service life. Individual preferences exist for working with the different approved processes. A description of basic covering procedures and techniques common to most of these systems follows later in this chapter.
+
+Ceconite™, Polyfiber™, and Superflight™ are STC-approved fabrics with processes used to install polyester fabric coverings. Two companies that do not manufacturer their own fabric have gained STC approval for covering accessories and procedures to be used with these approved fabrics. The STCs specify the fabrics and the proprietary materials that are required to legally complete the re-covering job.
+
+The aircraft fabric covering process is a three-step process. First, select an approved fabric. Second, follow the applicable STC steps to attach the fabric to the airframe and to protect it from the elements. Third, apply the approved topcoat to give the aircraft its color scheme and final appearance.
+
+Although Grade-A cotton can be used on all aircraft originally certificated to be covered with this material, approved aircraft cotton fabric is no longer available. Additionally, due to the shortcomings of cotton fabric coverings, most of these aircraft have been re-covered with polyester fabric. In the rare instance the technician encounters a cotton fabric covered aircraft that is still airworthy, inspection and repair procedures specified in AC 43.13-1, Chapter 2, Fabric Covering, should be followed.
+
+## 2. 中文翻译
+
+使用聚酯织物的蒙皮工艺是本章的主要内容。FAA 批准的飞机蒙皮工艺示例见图 3-9。这些工艺可按所用胶和涂层的化学性质来区分。涂料型（dope-based）蒙皮工艺是在棉布蒙皮时代发展完善起来的，用在聚酯织物上效果极佳。特别是硝酸盐和丁酸盐涂料中加入的增塑剂，能把涂料的收缩和绷紧作用降到最低、赋予柔韧性，并使着色丁酸盐涂料面层美观耐久、经久不衰。耐久的聚氨酯型工艺与耐久的聚氨酯面漆配套性好。乙烯基（vinyl）是流行的 Poly-Fiber 蒙皮体系的关键成分。Air Tech 采用丙酮稀释的聚氨酯相容体系。
+
+蒙皮体系市场上最新的成员是 Stewart Finishing System，它采用水性技术把聚氨酯涂层施加到织物上。该体系所用的胶是水性的、不挥发的。Stewart Finishing System 符合美国环境保护局（EPA）的规定，并获 STC 批准。Stewart 和 Air Tech 两个体系都可与其蒙皮体系 STC 中所述的任何一种批准聚酯织物配合使用。
+
+图 3-9 所列的所有现代织物蒙皮体系，都能使聚酯织物蒙皮飞机获得无限的使用寿命。使用不同批准工艺时，个人会有各自的偏好。本章后文将介绍这些体系中大多数通用的基本蒙皮程序和技巧。
+
+Ceconite™、Polyfiber™ 和 Superflight™ 是获 STC 批准、配有安装聚酯织物蒙皮工艺的织物。有两家公司不生产自己的织物，但已就与这些批准织物配套使用的蒙皮辅料和程序取得 STC 批准。STC 规定了合法完成重新蒙皮作业所需的织物和专用材料。
+
+飞机织物蒙皮工艺分三步：第一，选用一种批准织物；第二，按适用的 STC 步骤把织物固定到机体上并加以保护，使其不受自然环境侵蚀；第三，涂上批准的面漆，赋予飞机涂装方案和最终外观。
+
+虽然 A 级棉布可用于所有原合格审定即采用该材料蒙皮的飞机，但经批准的航空棉布已无处可得。此外，由于棉布蒙皮的缺点，这类飞机大多已改用聚酯织物重新蒙皮。技术人员若罕见地遇到仍适航的棉布蒙皮飞机，应遵循 AC 43.13-1 第 2 章《织物蒙皮》所规定的检查和修理程序。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| dope-based covering process | n. | 涂料型蒙皮工艺 | 源自棉布时代、以硝酸盐/丁酸盐涂料完成蒙皮的老工艺 |
+| plasticizer | n. | 增塑剂 | 加入涂料以抑制收缩绷紧、赋予涂层柔韧性的添加剂 |
+| polyurethane | n. | 聚氨酯 | 耐久型蒙皮工艺及其配套面漆的化学基础 |
+| vinyl | n. | 乙烯基 | Poly-Fiber 蒙皮体系的关键成分，决定其化学性质 |
+| waterborne technology | n. | 水性技术 | Stewart 体系以水为载体施加聚氨酯涂层的方式 |
+| nonvolatile | adj. | 不挥发的 | 描述 Stewart 体系的水性胶，溶剂排放低 |
+| Environmental Protection Agency (EPA) | n. | 美国环境保护局 | Stewart 体系符合其环保法规，是该体系的卖点之一 |
+| service life | n. | 使用寿命 | 现代聚酯蒙皮体系可达“无限”寿命的指标 |
+| topcoat | n. | 面漆 | 三步工艺的最后一步，提供涂装与最终外观 |
+| covering accessory | n. | 蒙皮辅料 | 不产布的公司获 STC 批准的带材、液体等配套产品 |
+| Grade-A cotton | n. | A 级棉布 | 法规上仍可用，但经批准的航空棉布已停止供应 |
+| re-covering job | n. | 重新蒙皮作业 | STC 规定织物与专用材料，以合法完成该作业 |
+| acetone thinned | adj. | 丙酮稀释的 | 描述 Air Tech 体系用丙酮作稀释剂的聚氨酯涂层 |
+
+## 4. 语法解析
+
+### ① 被动语态 + by 引出的区分依据
+**原句**：The processes can be distinguished by the chemical nature of the glue and coatings that are used.
+**拆解**：主语 The processes，谓语 can be distinguished（情态动词 + 被动语态），by the chemical nature... 为方式状语；of the glue and coatings 为 nature 的后置定语；that are used 为定语从句，修饰 the glue and coatings。
+**要点**：distinguish A by B 变成被动后，B 仍留在 by 之后，不要误认成施动者。that are used 的先行词是 the glue and coatings（复数），不是 the chemical nature。
+
+### ② with 短语作结果状语
+**原句**：A dope-based covering process has been refined out of the cotton fabric era, with excellent results on polyester fabric.
+**拆解**：主句为现在完成时的被动语态 has been refined，out of the cotton fabric era 说明该工艺的来源；逗号后 with excellent results on polyester fabric 为 with 短语作结果状语，补充说明这种老工艺用在聚酯织物上的效果。
+**要点**：with + 名词短语在此表结果而非伴随动作，可译成“在……上效果极佳”。refine out of 意为“从……中发展完善而来”，不是“提炼出去”。
+
+### ③ 过去分词后置定语 + 三个并列谓语 + 定语从句
+**原句**：In particular, plasticizers added to the nitrate and butyrate dopes minimize the shrinking and tautening effects of the dope, establish flexibility, and allow esthetically pleasing tinted butyrate dope finishes that last indefinitely.
+**拆解**：主语 plasticizers，added to the nitrate and butyrate dopes 为过去分词短语作后置定语；后面三个并列谓语 minimize、establish、allow；allow 的宾语是 tinted butyrate dope finishes，esthetically pleasing 为前置定语，that last indefinitely 为定语从句修饰 finishes。
+**要点**：added to... 修饰 plasticizers 而非谓语，主干是 plasticizers minimize..., establish..., and allow...。三个谓语共用主语，第二个谓语前的逗号不是分句边界；定语从句 that last indefinitely 只修饰 finishes，不修饰 effects。
+
+### ④ 表语 + 定语从句 + 不定式目的状语
+**原句**：The most recent entry into the covering systems market is the Stewart Finishing System that uses waterborne technology to apply polyurethane coatings to the fabric.
+**拆解**：主语 The most recent entry，into the covering systems market 为后置定语；谓语 is，表语 the Stewart Finishing System；that 引导定语从句，从句谓语 uses，宾语 waterborne technology，to apply polyurethane coatings to the fabric 为目的状语。
+**要点**：entry 在此指“新加入者、新产品”，不是“入口”。that 从句修饰 Stewart Finishing System 而非 entry；to apply 的逻辑主语是体系（通过技术），翻译时可处理成“采用……把涂层施加到织物上”。
+
+### ⑤ Although 让步状语从句 + 过去分词后置定语 + 被动不定式
+**原句**：Although Grade-A cotton can be used on all aircraft originally certificated to be covered with this material, approved aircraft cotton fabric is no longer available.
+**拆解**：Although 引导让步状语从句，从句为被动语态 can be used；on all aircraft 为范围状语，originally certificated to be covered with this material 为过去分词短语作后置定语修饰 aircraft，其中 to be covered 为不定式的被动式作 certificated 的补足；主句为主系表结构，no longer 为时间状语。
+**要点**：让步从句说“法规上还能用”，主句说“材料买不到了”，二者是转折关系而非因果。certificated to be covered 中 aircraft 是 cover 的逻辑宾语，故用被动式；originally 强调“原合格审定”时的状态。
+
+### ⑥ 定语从句隔开主谓 + 被动不定式作定语
+**原句**：Two companies that do not manufacturer their own fabric have gained STC approval for covering accessories and procedures to be used with these approved fabrics.
+**拆解**：主语 Two companies，that 引导定语从句修饰主语（从句谓语 do not manufacturer，宾语 their own fabric）；主句谓语 have gained（现在完成时），宾语 STC approval，for covering accessories and procedures 为后置定语，to be used with these approved fabrics 为不定式被动式作定语修饰 accessories and procedures。
+**要点**：定语从句把主语和谓语隔开，读到 have gained 才出现主句谓语，这是长句理解的常见卡点。从句中 manufacturer 用作动词是原文的拼写（应为 manufacture），理解时按“制造”处理；to be used 用被动式，因为辅料和程序是“被使用”的对象。

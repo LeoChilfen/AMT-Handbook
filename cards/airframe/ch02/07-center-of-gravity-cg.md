@@ -1,0 +1,59 @@
+# Center of Gravity (CG)
+
+> 机体 Ch 02 · Center of Gravity (CG) · 原文 PDF 第 79 页
+
+## 1. 原文
+
+Gravity is the pulling force that tends to draw all bodies within the earth’s gravitational field to the center of the earth. The CG may be considered the point at which all the weight of the aircraft is concentrated. If the aircraft was supported at its exact CG, it would balance in any position. CG is of major importance in an aircraft, for its position has a great bearing upon stability.
+
+The CG is determined by the general design of the aircraft. The designers estimate how far the CP travels. They then fix the CG in front of the CP for the corresponding flight speed in order to provide an adequate restoring moment for flight equilibrium.
+
+## 2. 中文翻译
+
+重力是一种拉力，它倾向于把地球引力场内的所有物体拉向地心。重心（CG）可以看作是飞机全部重量集中的点。如果把飞机支撑在它精确的重心上，它在任何姿态下都能保持平衡。重心在飞机上至关重要，因为它的位置对稳定性有很大的影响。
+
+重心由飞机的总体设计决定。设计人员估算压力中心（CP）移动的距离，然后按相应的飞行速度把重心固定在压力中心之前，以便提供足够的恢复力矩来保持飞行平衡。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| gravity | n. | 重力 | 把地球上所有物体拉向地心的向下作用力，是重量的来源 |
+| gravitational field | n. | 引力场 | 地球引力作用所及的范围，文中飞机处在该范围内而被拉向地心 |
+| center of gravity (CG) | n. | 重心 | 飞机全部重量被视为集中的一点，支撑于此点上飞机任意姿态均可平衡 |
+| center of pressure (CP) | n. | 压力中心 | 机翼上升力合力的作用点，随飞行速度（迎角）前后移动 |
+| restoring moment | n. | 恢复力矩 | 重心位于压力中心之前时，升力绕重心产生的使飞机回正的力矩 |
+| flight equilibrium | n. | 飞行平衡 | 扰动力矩被恢复力矩抵消、飞机保持稳定飞行的状态 |
+| bearing | n. | 影响、关系 | have a bearing upon 指重心位置对稳定性有重大影响，非“轴承”义 |
+| stability | n. | 稳定性 | 飞机受扰后自动回到原飞行状态的能力，取决于重心位置 |
+| general design | n. | 总体设计 | 决定重心位置的飞机总体布局与配重安排 |
+| balance | v. | 平衡 | 支撑于重心时飞机不偏向任何一方、保持原姿态 |
+| adequate | adj. | 足够的 | 说明恢复力矩必须足以抵消扰动，而非勉强够用 |
+| flight speed | n. | 飞行速度 | 压力中心位置与之对应的速度，设计时按此速度确定重心的前移量 |
+
+## 4. 语法解析
+
+### ① 定语从句 + 嵌套介词短语
+**原句**：Gravity is the pulling force that tends to draw all bodies within the earth’s gravitational field to the center of the earth.
+**拆解**：主干 Gravity is the pulling force，表语为名词；that 引导定语从句修饰 force，从句谓语 tends to draw，宾语 all bodies，within the earth’s gravitational field 为后置定语修饰 bodies，to the center of the earth 为方向状语。
+**要点**：draw 在此是“吸引、拉向”，draw A to B 意为把 A 拉向 B；两个 to/within 介词短语分别管 bodies 和 draw，不能混为一句“引力场中的地心”。
+
+### ② 被动语态 + at which 定语从句
+**原句**：The CG may be considered the point at which all the weight of the aircraft is concentrated.
+**拆解**：主干 The CG may be considered the point，被动语态后接名词作主语补足语；at which 引导定语从句修饰 the point，从句为被动 is concentrated，at 与 concentrate 的搭配被提前到关系词前。
+**要点**：介词 + which 是书面语中定语从句的典型形式，at which = where；还原后是 all the weight is concentrated at the point，翻译时“集中的（点）”比“在该点被集中”更顺。
+
+### ③ 虚拟条件句（与现在事实相反）
+**原句**：If the aircraft was supported at its exact CG, it would balance in any position.
+**拆解**：If 引导条件状语从句，从句谓语 was supported 为被动语态（口语中常用 was 代替 were）；主句 it would balance in any position，would + 动词原形表示与现在事实相反的假设结果。
+**要点**：这是“假设支撑在精确重心上”的虚拟语气，事实上不可能做到绝对精确。识别标志是 if 从句用过去式、主句用 would do；不要按真实条件句译成“如果被支撑，就会平衡”。
+
+### ④ be of + 抽象名词 + for 引导的原因并列分句
+**原句**：CG is of major importance in an aircraft, for its position has a great bearing upon stability.
+**拆解**：前一分句 CG is of major importance 中，be of + 抽象名词 = be + 相应形容词（= is very important）；for 是并列连词，引出原因分句 its position has a great bearing upon stability，主语 its position 指代 CG 的位置。
+**要点**：for 作并列连词时前面必须有逗号，且不能置于句首（不同于 because）；be of importance/value/use 这类结构在技术英语中很常见，翻译时直接译成形容词更自然。
+
+### ⑤ 目的状语 in order to + 多层介词短语
+**原句**：They then fix the CG in front of the CP for the corresponding flight speed in order to provide an adequate restoring moment for flight equilibrium.
+**拆解**：主干 They fix the CG，in front of the CP 为地点/位置状语，for the corresponding flight speed 说明按哪种速度确定该位置；in order to provide... 为目的状语，provide sth. for sth. 中 a restoring moment 是宾语。
+**要点**：句中有三个 for/in front of 介词短语，分别回答“固定在哪儿”“按什么速度”“为了什么”；for the corresponding flight speed 修饰的是 fix 这一动作，不是修饰 CP。

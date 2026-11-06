@@ -1,0 +1,780 @@
+# Aircraft Inspection
+
+> 机体 Ch 02 · Aircraft Inspection · 原文 PDF 第 129 页
+
+## 1. 原文
+
+### Purpose of Inspection Programs
+
+The purpose of an aircraft inspection program is to ensure that the aircraft is airworthy. Per 14 CFR part 3, section 3.5, “airworthy” means the aircraft conforms to its type design and is in a condition for safe operation. By this definition and according to subsequent case law relating to the term and regulations for the issuance of a standard airworthiness certificate, there are two conditions that must be met for the aircraft to be considered airworthy:
+
+1. The aircraft must conform to its type design or properly altered condition. Conformity to type design is considered attained when the aircraft configuration and the components installed are consistent with the drawings, specifications, and other data that are part of the type certificate (TC), which includes any supplemental type certificate (STC) and field approved alterations incorporated into the aircraft.
+
+2. The aircraft must be in a condition for safe operation. This refers to the condition of the aircraft relative to wear and deterioration (e.g., skin corrosion, window delamination/crazing, fluid leaks, and tire wear beyond specified limits).
+
+When flight hours and calendar time are accumulated into the life of an aircraft, some components wear out and others deteriorate. Inspections are developed to find these items, and repair or replace them before they affect the airworthiness of the aircraft.
+
+### Performing an Airframe Conformity & Airworthiness Inspection
+
+To establish conformity of an aircraft product, start with a TCDS. This document is a formal description of the aircraft, the engine, or the propeller. It is issued by the Federal Aviation Administration (FAA) when they find that the product meets the applicable requirements for certification under 14 CFR.
+
+The TCDS lists the limitations and information required for type certification of aircraft. It includes the certification basis and eligible serial numbers for the product. It lists airspeed limits, weight limits, control surface movements, engine make and models, minimum crew, fuel type, etc.; the horsepower and rpm limits, thrust limitations, size and weight for engines; and blade diameter, pitch, etc., for propellers. Additionally, it provides all the various components by make and model, eligible for installation on the applicable product.
+
+A manufacturer’s maintenance information may be in the form of service instructions, service bulletins, or service letters that the manufacturer publishes to provide instructions for product improvement or to revise and update maintenance manuals. Service bulletins are not regulatory unless:
+
+1. All or a portion of a service bulletin is incorporated as part of an airworthiness directive.
+
+2. The service bulletins are part of the FAA-approved airworthiness limitations section of the manufacturer’s manual or part of the type certificate.
+
+3. The service bulletins are incorporated directly or by reference into an FAA-approved inspection program, such as an approved aircraft inspection program (AAIP) or continuous aircraft maintenance program (CAMP).
+
+4. The service bulletins are listed as an additional maintenance requirement in a certificate holder’s operations specifications (OpSpecs).
+
+Airworthiness directives (ADs) are published by the FAA as amendments to 14 CFR part 39, section 39.13. They apply to the following products: aircraft, aircraft engines, propellers, and appliances. The FAA issues airworthiness directives when an unsafe condition exists in a product, and the condition is likely to exist or develop in other products of the same type design.
+
+To perform the airframe conformity and verify the airworthiness of the aircraft, records must be checked and the aircraft inspected. The data plate on the airframe is inspected to verify its make, model, serial number, type certificate, or production certificate. Check the registration and airworthiness certificate to verify they are correct and reflect the “N” number on the aircraft.
+
+Inspect aircraft records. Check current inspection status of aircraft, by verifying:
+
+• The date of the last inspection and aircraft total time in service.
+
+• The type of inspection and if it includes manufacturer’s bulletins.
+
+• The signature, certificate number, and the type of certificate of the person who returned the aircraft to service.
+
+Identify if any major alterations or major repairs have been performed and recorded on an FAA Form 337, Major Repair and Alteration. Review any flight manual supplements (FMS) included in the Pilot’s Operating Handbook (POH) and determine if there are any airworthiness limitations or required placards associated with the installation(s) that must be inspected.
+
+Check for a current weight and balance report, and the current equipment list, current status of airworthiness directives for airframe, engine, propeller, and appliances. Also, check the limitations section of the manufacturer’s manual to verify the status of any life-limited components.
+
+Obtain the latest revision of the airframe TCDS and use it as a verification document to inspect and ensure the correct engines, propellers, and components are installed on the airframe.
+
+### Required Inspections
+
+#### Preflight
+
+Preflight for the aircraft is described in the POH for that specific aircraft and should be followed with the same attention given to the checklists for takeoff, inflight, and landing checklists.
+
+#### Periodic Maintenance Inspections
+
+Annual Inspection With few exceptions, no person may operate an aircraft unless, within the preceding 12 calendar months, it has had an annual inspection in accordance with 14 CFR part 43 and was approved for return to service by a person authorized under section 43.7. (A certificated mechanic with an Airframe and Powerplant (A&P) rating must hold an inspection authorization (IA) to perform an annual inspection.) A checklist must be used and include as a minimum, the scope and detail of items (as applicable to the particular aircraft) in 14 CFR part 43, Appendix D.
+
+100-hour Inspection This inspection is required when an aircraft is operated under 14 CFR part 91 and used for hire, such as flight training. It is required to be performed every 100 hours of service in addition to the annual inspection. (The inspection may be performed by a certificated mechanic with an A&P rating.) A checklist must be used and as a minimum, the inspection must include the scope and detail of items (as applicable to the particular aircraft) in 14 CFR part 43, Appendix D.
+
+Progressive Inspection This inspection program can be performed under 14 CFR part 91, section 91.409(d), as an alternative to an annual inspection. However, the program requires that a written request be submitted by the registered owner or operator of an aircraft desiring to use a progressive inspection to the local FAA Flight Standards District Office (FSDO). It shall provide:
+
+1. The name of a certificated mechanic holding an inspection authorization, a certificated airframe repair station, or the manufacturer of the aircraft to supervise or conduct the inspection.
+
+2. A current inspection procedures manual available and readily understandable to the pilot and maintenance personnel containing in detail:
+
+• An explanation of the progressive inspection, including the continuity of inspection responsibility, the making of reports, and the keeping of records and technical reference material.
+
+• An inspection schedule, specifying the intervals in hours or days when routine and detailed inspections will be performed, and including instructions for exceeding an inspection interval by not more than 10 hours while en route, and for changing an inspection interval because of service experience.
+
+• Sample routine and detailed inspection forms and instructions for their use.
+
+• Sample reports and records and instructions for their use.
+
+3. Enough housing and equipment for necessary disassembly and proper inspection of the aircraft.
+
+4. Appropriate current technical information for the aircraft.
+
+The frequency and detail of the progressive inspection program shall provide for the complete inspection of the aircraft within each 12 calendar months and be consistent with the manufacturer’s recommendations and kind of operation in which the aircraft is engaged. The progressive inspection schedule must ensure that the aircraft will be airworthy at all times. A certificated A&P mechanic may perform a progressive inspection, as long as they are being supervised by a mechanic holding an Inspection Authorization.
+
+If the progressive inspection is discontinued, the owner or operator must immediately notify the local FAA FSDO in writing. After discontinuance, the first annual inspection will be due within 12 calendar months of the last complete inspection of the aircraft under the progressive inspection.
+
+Large Airplanes (over 12,500 lb) Inspection requirements of 14 CFR part 91, section 91.409, to include paragraphs (e) and (f).
+
+Paragraph (e) applies to large airplanes (to which 14 CFR part 125 is not applicable), turbojet multiengine airplanes, turbo propeller powered multiengine airplanes, and turbine-powered rotorcraft. Paragraph (f) lists the inspection programs that can be selected under paragraph (e).
+
+The additional inspection requirements for these aircraft are placed on the operator because the larger aircraft typically are more complex and require a more detailed inspection program than is provided for in 14 CFR part 43, Appendix D.
+
+An inspection program must be selected from one of the following four options by the owner or operator of the aircraft:
+
+1. A continuous airworthiness inspection program that is part of a continuous airworthiness maintenance program currently in use by a person holding an air carrier operating certificate or an operating certificate issued under 14 CFR part 121 or 135.
+
+2. An approved aircraft inspection program approved under 14 CFR part 135, section 135.419, and currently in use by a person holding an operating certificate issued under 14 CFR part 135.
+
+3. A current inspection program recommended by the manufacturer.
+
+4. Any other inspection program established by the registered owner or operator of the airplane or turbine-powered rotorcraft and approved by the FAA. This program must be submitted to the local FAA FSDO having jurisdiction of the area in which the aircraft is based. The program must be in writing and include at least the following information:
+
+(a) Instructions and procedures for the conduct of inspections for the particular make and model airplane or turbine-powered rotorcraft, including the necessary tests and checks. The instructions and procedures must set forth in detail the parts and areas of the airframe, engines, propellers, rotors, and appliances, including survival and emergency equipment, required to be inspected.
+
+(b) A schedule for performing the inspections that must be performed under the program expressed in terms of the time in service, calendar time, number of system operations (cycles), or any combination of these.
+
+This FAA approved owner/operator program can be revised at a future date by the FAA, if they find that revisions are necessary for the continued adequacy of the program. The owner/operator can petition the FAA within 30 days of notification to reconsider the notice to make changes.
+
+Manufacturer’s Inspection Program This is a program developed by the manufacturer for their product. It is contained in the “Instructions for Continued Airworthiness” required under 14 CFR part 23, section 23.1529 The Airworthiness Limitations section must contain a and part 25, section 25.1529. It is in the form of a manual, or legible statement in a prominent location that reads: “The manuals as appropriate, for the quantity of data to be provided Airworthiness Limitations section is FAA-approved and and including, but not limited to, the following content:
+
+• A description of the airplane and its systems and installations, including its engines, propellers, and appliances.
+
+• Basic information describing how the airplane components and systems are controlled and operated, including any special procedures and limitations that apply.
+
+• Servicing information that covers servicing points, capacities of tanks, reservoirs, types of fluids to be used, pressures applicable to the various systems, lubrication points, lubricants to be used, equipment required for servicing, tow instructions, mooring, jacking, and leveling information.
+
+• Maintenance instructions with scheduling information for the airplane and each component that provides the recommended periods at which they should be cleaned, inspected, adjusted, tested, and lubricated, and the degree of inspection and work recommended at these periods.
+
+• The recommended overhaul periods and necessary cross references to the airworthiness limitations section of the manual.
+
+• The inspection program that details the frequency and extent of the inspections necessary to provide for the continued airworthiness of the airplane.
+
+• Diagrams of structural access plates and information needed to gain access for inspections when access plates are not provided.
+
+• Details for the application of special inspection techniques, including radiographic and ultrasonic testing where such processes are specified.
+
+• A list of special tools needed.
+
+• An Airworthiness Limitations section that is segregated and clearly distinguishable from the rest of the document. This section must set forth:
+
+1. Each mandatory replacement time, structural inspection interval, and related structural inspection procedures required for type certification or approved under 14 CFR part 23 or part 25.
+
+2. Each mandatory replacement time, inspection interval, related inspection procedure, and all critical design configuration control limitations approved under 14 CFR part 23 or part 25, for the fuel tank system. specifies maintenance required under 14 CFR part 43, sections 43.16 and part 91, section 91.403, unless an alternative program has been FAA-approved.”
+
+Any operator who wishes to adopt a manufacturers’ inspection program should first contact their local FAA Flight Standards District Office, for further guidance.
+
+#### Altimeter & Static System Inspections in Accordance with 14 CFR Part 91, Section 91.411
+
+Any person operating an airplane or helicopter in controlled airspace under instrument flight rules (IFR) must have had, within the preceding 24 calendar months, each static pressure system, each altimeter instrument, and each automatic pressure altitude reporting system tested and inspected and found to comply with 14 CFR part 43, Appendix E. Those tests and inspections must be conducted by appropriately rated persons under 14 CFR.
+
+#### Air Traffic Control (ATC) Transponder Inspections
+
+Any person using an air traffic control (ATC) transponder must have had, within the preceding 24 calendar months, that transponder tested and inspected and found to comply with 14 CFR part 43, Appendix F, and part 91, section 91.411. Additionally, following any installation or maintenance on an ATC transponder where data correspondence error could be introduced, the integrated system must be tested and inspected and found to comply with 14 CFR part 43, Appendix E, and part 91, section 91.411 by an appropriately rated person under 14 CFR.
+
+#### Emergency Locator Transmitter (ELT) Operational & Maintenance Practices in Accordance with Advisory Circular (AC) 91‑44
+
+This AC combined and updated several ACs on the subject of ELTs and receivers for airborne service.
+
+Under the operating rules of 14 CFR part 91, most small U.S. registered civil airplanes equipped to carry more than one person must have an ELT attached to the airplane. 14 CFR part 91, section 91.207 defines the requirements of what type aircraft and when the ELT must be installed. It also states that an ELT that meets the requirements of Technical Standard Order (TSO)-C91 may not be used for new installations.
+
+The pilot-in-command of an aircraft equipped with an ELT is responsible for its operation and, prior to engine shutdown at the end of each flight, should tune the VHF receiver to 121.5 MHz and listen for ELT activations. Maintenance personnel are responsible for accidental activation during the actual period of their work.
+
+Maintenance of ELTs is subject to 14 CFR part 43 and part 91, section 91.413 and should be included in the required inspections. It is essential that the impact switch operation and the transmitter output be checked using the manufacturer’s instructions. Testing of an ELT prior to installation or for maintenance reasons, should be conducted in a metal enclosure in order to avoid outside radiation by the transmitter. If this is not possible, the test should be conducted only within the first 5 minutes after any hour.
+
+Manufacturers of ELTs are required to mark the expiration date of the battery, based on 50 percent of the useful life, on the outside of the transmitter. The batteries are required to be replaced on that date or when the transmitter has been in use for more than 1 cumulative hour. Water activated batteries, have virtually unlimited shelf life. They are not usually marked with an expiration date. They must be replaced after activation regardless of how long they were in service.
+
+The battery replacement can be accomplished by a pilot on a portable type ELT that is readily accessible and can be removed and reinstalled in the aircraft by a simple operation. That would be considered preventive maintenance under 14 CFR part 43, section 43.3(g). Replacement batteries should be approved for the specific model of ELT and the installation performed in accordance with section 43.13.
+
+AC 91-44 also contains additional information on:
+
+• Airborne homing and alerting equipment for use with ELTs.
+
+• Search and rescue responsibility.
+
+• Alert and search procedures including various flight procedures for locating an ELT.
+
+• The FAA Frequency Management Offices, for contacting by manufacturers when they are demonstrating and testing ELTs.
+
+Although there is no regulatory requirement to install a 406 ELT, the benefits are numerous, regardless of regulatory minimums. All new installations must be a 406 MHz digital ELT. It must meet the standards of TSO C126. When installed, the new 406 MHz ELT should be registered so that if the aircraft were to go down, search and rescue could take full advantage of the benefits the system offers. The digital circuitry of the 406 MHz ELT can be coded with information about the aircraft type, base location, ownership, etc. This coding allows the search and rescue (SAR) coordinating centers to contact the registered owner or operator if a signal is detected to determine if the aircraft is flying or parked. This type of identification permits a rapid SAR response in the event of an accident, and will save valuable resources from a false alarm search.
+
+### Annual & 100-Hour Inspections
+
+#### Preparation
+
+An owner/operator bringing an aircraft into a maintenance facility for an annual or 100-hour inspection may not know what is involved in the process. This is the point at which the person who performs the inspection sits down with the customer to review the records and discuss any maintenance issues, repairs needed, or additional work the customer may want done. Moreover, the time spent on these items before starting the inspection usually saves time and money before the work is completed.
+
+The work order describes the work that will be performed and the fee that the owner pays for the service. It is a contract that includes the parts, materials, and labor to complete the inspection. It may also include additional maintenance and repairs requested by the owner or found during the inspection.
+
+Additional materials such as ADs, manufacturer’s service bulletins and letters, and vendor service information must be researched to include the avionics and emergency equipment on the aircraft. The TCDS provides all the components eligible for installation on the aircraft.
+
+The review of the aircraft records is one of the most important parts of any inspection. Those records provide the history of the aircraft. The records to be kept and how they are to be maintained are listed in 14 CFR part 91, section 91.417. Among those records that must be tracked are records of maintenance, preventive maintenance, and alteration, records of the last 100-hour, annual, or other required or approved inspections for the airframe, engine propeller, rotor, and appliances of an aircraft. The records must include:
+
+• A description (or reference to data acceptable to the FAA) of the work performed.
+
+• The date of completion of the work performed and the signature and certificate number of the person approving the aircraft for return to service.
+
+• The total time in service and the current status of life-limited parts of the airframe, each engine, each propeller, and each rotor.
+
+• The time since the last overhaul of all items installed on the aircraft which are required to be overhauled on a specified time basis.
+
+• The current inspection status of the aircraft, including the time since the last inspection required by the program under which the aircraft and its appliances are maintained.
+
+• The current status of applicable ADs including for each, the method of compliance, the AD number, and revision date. If the AD involves recurring action, the time and date when the next action is required.
+
+• Copies of the forms prescribed by 14 CFR part 43, section 43.9, for each major alteration to the airframe and currently installed components.
+
+The owner/operator is required to retain the records of inspection until the work is repeated, or for 1 year after the work is performed. Most of the other records that include total times and current status of life-limited parts, overhaul times, and AD status must be retained and transferred with the aircraft when it is sold.
+
+14 CFR part 43, section 43.15 requires that each person performing a 100-hour or annual inspection shall use a checklist while performing the inspection. The checklist may be one developed by the person, one provided by the manufacturer of the equipment being inspected, or one obtained from another source. The checklist must include the scope and detail of the items contained in part 43, Appendix D.
+
+The inspection checklist provided by the manufacturer is the preferred one to use. The manufacturer separates the areas to inspect such as engine, cabin, wing, empennage and landing gear. They typically list Service Bulletins and Service Letters for specific areas of the aircraft and the appliances that are installed.
+
+Initial run-up provides an assessment to the condition of the engine prior to performing the inspection. The run-up should include full power and idle rpm, magneto operation, including positive switch grounding, fuel mixture check, oil and fuel pressure, and cylinder head and oil temperatures. After the engine run, check it for fuel, oil, and hydraulic leaks.
+
+Following the checklist, the entire aircraft shall be opened by removing all necessary inspection plates, access doors, fairings, and cowling. The entire aircraft must then be cleaned to uncover hidden cracks or defects that may have been missed because of the dirt.
+
+Following in order and using the checklist, visually inspect each item, or perform the checks or tests necessary to verify the condition of the component or system. Record discrepancies when they are found. The entire aircraft should be inspected and a list of discrepancies be presented to the owner.
+
+A typical inspection following a checklist, on a small single-engine airplane may include in part, as applicable:
+
+• The fuselage for damage, corrosion, and attachment of fittings, antennas, and lights; for “smoking rivets” especially in the landing gear area indicating the possibility of structural movement or hidden failure.
+
+• The flight deck and cabin area for loose equipment that could foul the controls; seats and seat belts for defects and TSO tags; windows and windshields for deterioration; instruments for condition, markings, and operation; flight and engine controls for proper operation.
+
+• The engine and attached components for visual evidence of leaks; studs and nuts for improper torque and obvious defects; engine mount and vibration dampeners for cracks, deterioration, and looseness; engine controls for defects, operation, and safetying; the internal engine for cylinder compression; spark plugs for operation; oil screens and filters for metal particles or foreign matter; exhaust stacks and mufflers for leaks, cracks, and missing hardware; cooling baffles for deterioration, damage, and missing seals; and engine cowling for cracks and defects.
+
+• The landing gear group for condition and attachment; shock absorbing devices for leaks and fluid levels; retracting and locking mechanism for defects, damage, and operation; hydraulic lines for leakage; electrical system for chafing and switches for operation; wheels and bearings for condition; tires for wear and cuts; and brakes for condition and adjustment.
+
+• The wing and center section assembly for condition, skin deterioration, distortion, structural failure, and attachment.
+
+• The empennage assembly for condition, distortion, skin deterioration, evidence of failure (smoking rivets), secure attachment, and component operation and installation.
+
+• The propeller group and system components for torque and proper safetying; the propeller for nicks, cracks, and oil leaks; the anti-icing devices for defects and operation; and the control mechanism for operation, mounting, and restricted movement.
+
+• The radios and electronic equipment for improper installation and mounting; wiring and conduits for improper routing, insecure mounting, and obvious defects; bonding and shielding for installation and condition; and all antennas for condition, mounting, and operation. Additionally, if not already inspected and serviced, the main battery inspected for condition, mounting, corrosion, and electrical charge.
+
+• Any and all installed miscellaneous items and components that are not otherwise covered by this listing for condition and operation.
+
+With the aircraft inspection checklist completed, the list of discrepancies should be transferred to the work order. As part of the annual and 100-hour inspections, the engine oil is drained and replaced because new filters and/or clean screens have been installed in the engine. The repairs are then completed and all fluid systems serviced.
+
+Before approving the aircraft for return to service after the annual or 100-hour inspection, 14 CFR states that the engine must be run to determine satisfactory performance in accordance with the manufacturers recommendations. The run must include:
+
+• Power output (static and idle rpm)
+
+• Magnetos (for drop and switch ground)
+
+• Cylinder and oil temperature After the run, the engine is inspected for fluid leaks and the oil level is checked a final time before close up of the cowling.
+
+With the aircraft inspection completed, all inspections plates, access doors, fairing and cowling that were removed, must be reinstalled. It is a good practice to visually check inside the inspection areas for tools, shop rags, etc., prior to close up. Using the checklist and discrepancy list to review areas that were repaired will help ensure the aircraft is properly returned to service.
+
+Upon completion of the inspection, the records for each airframe, engine, propeller, and appliance must be signed off. The record entry in accordance with 14 CFR part 43, section 43.11, must include the following information:
+
+• The type inspection and a brief description of the extent of the inspection.
+
+• The date of the inspection and aircraft total time in service.
+
+• The signature, the certificate number, and kind of certificate held by the person approving or disapproving for return to service the aircraft, airframe, aircraft engine, propeller, appliance, component part, or portions thereof.
+
+• For the annual and 100-hour inspection, if the aircraft is found to be airworthy and approved for return to service, enter the following statement: “I certify that this aircraft has been inspected in accordance with a (insert type) inspection and was determined to be in airworthy condition.”
+
+• If the aircraft is not approved for return to service because of necessary maintenance, noncompliance with applicable specifications, airworthiness directives, or other approved data, enter the following statement: “I certify that this aircraft has been inspected in accordance with a (insert type) inspection and a list of discrepancies and unairworthy items has been provided to the aircraft owner or operator.”
+
+If the owner or operator did not want the discrepancies and/ or unairworthy items repaired at the location where the inspection was accomplished, they may have the option of flying the aircraft to another location with a Special Flight Permit (Ferry Permit). An application for a Special Flight Permit can be made at the local FAA FSDO.
+
+### Other Aircraft Inspection & Maintenance Programs
+
+Aircraft operating under 14 CFR part 135, Commuter and On Demand, have additional rules for maintenance that must be followed beyond those in 14 CFR parts 43 and 91.
+
+14 CFR part 135, section 135.411 describes the applicable sections for maintaining aircraft that are type certificated for a passenger seating configuration, excluding any pilot seat, of nine seats or less, and which sections are applicable to maintaining aircraft with 10 or more passenger seats. The following sections apply to aircraft with nine seats or less:
+
+• Section 135.415—requires each certificate holder to submit a Service Difficulty Report, whenever they have an occurrence, failure, malfunction, or defect in an aircraft concerning the list detailed in this section of the regulation.
+
+• Section 135.417—requires each certificate holder to mail or deliver a Mechanical Interruption Report, for occurrences in multi-engine aircraft, concerning unscheduled flight interruptions, and the number of propeller featherings in flight, as detailed in this section of the regulation.
+
+• Section 135.421—requires each certificate holder to comply with the manufacturer’s recommended maintenance programs, or a program approved by the FAA for each aircraft, engine, propeller, rotor, and each item of emergency required by 14 CFR part 135. This section also details requirements for single-engine IFR passenger-carrying operations.
+
+• Section 135.422—this section applies to multi-engine airplanes and details requirements for Aging Airplane Inspections and Records review. It excludes airplanes in schedule operations between any point within the State of Alaska.
+
+Any certificated operator using aircraft with ten or more passenger seats must have the required organization and maintenance programs, along with competent and knowledgeable people to ensure a safe operation. Title 14 of the CFR, sections 135.423 through 135.443 are numerous and complex, and compliance is required; however, they are not summarized in this handbook. It is the responsibility of the certificated operator to know and comply with these and all other applicable equirements of 14 CFR, and they should contact their local FAA FSDO for further guidance.
+
+The approved aircraft inspection program (AAIP) is an FAA-approved inspection program for aircraft of nine or less passenger seats operated under 14 CFR part 135. The AAIP is an operator developed program tailored to their particular needs to satisfy aircraft inspection requirements. This program allows operators to develop procedures and time intervals for the accomplishment of inspection tasks in accordance with the needs of the aircraft, rather than repeat all the tasks at each 100-hour interval.
+
+The operator is responsible for the AAIP. The program must encompass the total aircraft; including all avionics equipment, emergency equipment, cargo provisions, etc. FAA Advisory Circular 135-10 (as revised) provides detailed guidance to develop an approved aircraft inspection program. The following is a summary, in part, of elements that the program should include:
+
+• A schedule of individual tasks (inspections) or groups of tasks, as well as the frequency for performing those tasks.
+
+• Work forms designating those tasks with a signoff provision for each. The forms may be developed by the operator or obtained from another source.
+
+• Instructions for accomplishing each task. These tasks must satisfy 14 CFR part 43, section 43.13(a), regarding methods, techniques, practices, tools, and equipment. The instructions should include adequate information in a form suitable for use by the person performing the work.
+
+• Provisions for operator-developed revisions to referenced instructions should be incorporated in the operator’s manual.
+
+• A system for recording discrepancies and their correction.
+
+• A means for accounting for work forms upon completion of the inspection. These forms are used to satisfy the requirements of 14 CFR part 91, section 91.417, so they must be complete, legible, and identifiable as to the aircraft and specific inspection to which they relate.
+
+• Accommodation for variations in equipment and configurations between aircraft in the fleet.
+
+• Provisions for transferring an aircraft from another program to the AAIP.
+
+The development of the AAIP may come from one of the • An adoption of an aircraft manufacturer’s inspection in its entirety. However, many aircraft manufacturers’ programs do not encompass avionics, emergency equipment, appliances, and related installations that must be incorporated into the AAIP. The inspection of these items and systems will require additions to the program to ensure they comply with the air carrier’s operation specifications and as applicable to 14 CFR.
+
+• A modified manufacturer’s program. The operator may modify a manufacturer’s inspection program to suit its needs. Modifications should be clearly identified and provide an equivalent level of safety to those in the manufacturer’s approved program.
+
+• An operator-developed program. This type of program is developed in its entirety by the operator. It should include methods, techniques, practices, and standards necessary for proper accomplishment of the program.
+
+• An existing progressive inspection program (14 CFR part 91.409(d)) may be used as a basis for the development of an AAIP.
+
+As part of this inspection program, the FAA strongly recommends that a Corrosion Protection Control Program and a supplemental structural inspection type program be included.
+
+A program revision procedure should be included so that an evaluation of any revision can be made by the operator prior to submitting them to the FAA for approval.
+
+Procedures for administering the program should be established. These should include: defining the duties and responsibilities for all personnel involved in the program, scheduling inspections, recording their accomplishment, and maintaining a file of completed work forms.
+
+The operator’s manual should include a section that clearly describes the complete program, including procedures for program scheduling, recording, and accountability for continuing accomplishment of the program. This section serves to facilitate administration of the program by the certificate holder and to direct its accomplishment by mechanics or repair stations. The operator’s manual should include instructions to accomplish the maintenance/ inspections tasks. It should also contain a list of the necessary tools and equipment needed to perform the maintenance and inspections.
+
+The FAA FSDO will provide each operator with computer-generated Operations Specifications when they approve the program.
+
+#### Continuous Airworthiness Maintenance Program (CAMP)
+
+The definition of maintenance in 14 CFR part 1 includes inspection. The inspection program required for 14 CFR part 121 and part 135 air carriers is part of the Continuous Airworthiness Maintenance Program (CAMP). CAMP is not required of every part 135 carrier; it depends on aircraft being operated. It is a complex program that requires an organization of experienced and knowledgeable aviation personnel to implement it.
+
+The FAA has developed an Advisory Circular, AC 120-16 (as revised) Air Carrier Maintenance Programs, which explains the background as well as the FAA regulatory requirements for these programs. The AC applies to air carriers subject to 14 CFR parts 119, 121, and 135. For part 135, it applies only to aircraft type certificated with ten or more passenger seats.
+
+Any person wanting to place their aircraft on this type of program should contact their local FAA FSDO for guidance.
+
+#### Title 14 CFR part 125, section 125.247, Inspection Programs & Maintenance
+
+This regulation applies to airplanes having a seating capacity of 20 or more passengers or a maximum payload capacity of 6,000 pounds or more when the aircraft is not required to be operated under 14 CFR parts 121, 129, 135, and 137. Inspection programs which may be approved for use under this 14 CFR part include, but are not limited to:
+
+1. A continuous inspection program which is part of a current continuous airworthiness program approved for use by a certificate holder under 14 CFR part 121 or part 135;
+
+2. Inspection programs currently recommended by the manufacturer of the airplane, airplane engines, propellers, appliances, or survival and emergency equipment; or 3. An inspection program developed by a certificate holder under 14 CFR part 125.
+
+The airplane subject to this part may not be operated unless:
+
+• The replacement times for life-limited parts specified in the aircraft type certificate data sheets, or other documents approved by the FAA are complied with;
+
+• Defects disclosed between inspections, or as a result of inspection, have been corrected in accordance with 14 CFR part 43; and • The airplane, including airframe, aircraft engines, propellers, appliances, and survival and emergency equipment, and their component parts, is inspected in accordance with an inspection program approved by the FAA. These inspections must include at least the following:
+
+○ Instructions, procedures and standards for the particular make and model of airplane, including tests and checks. The instructions and procedures must set forth in detail the parts and areas of the airframe, aircraft engines, propellers, appliances, and survival and emergency equipment required to be inspected.
+
+○ A schedule for the performance of the inspections that must be performed under the program, expressed in terms of the time in service, calendar time, number of system operations, or any combination of these.
+
+○ The person used to perform the inspections required by 14 CFR part 125, must be authorized to perform maintenance under 14 CFR part 43. The airplane subject to part 125 may not be operated unless the installed engines have been maintained in accordance with the overhaul periods recommended by the manufacturer or a program approved by the FAA; the engine overhaul periods are specified in the inspection programs required by 14 CFR part 125, section 125.247.
+
+#### Piston-Engine & Turbine-Powered Helicopter Inspections
+
+A piston-engine helicopter must be inspected in accordance with the scope and detail of 14 CFR part 43, Appendix D for an Annual Inspection. However, there are additional performance rules for inspections under 14 CFR part 43, section 43.15, requiring that each person performing an inspection under 14 CFR part 91 on a rotorcraft shall inspect these additional components in accordance with the maintenance manual or Instructions for Continued Airworthiness of the manufacturer concerned:
+
+1. The drive shaft or similar systems.
+
+2. The main rotor transmission gear box for obvious defects.
+
+3. The main rotor and center section (or the equivalent area).
+
+The operator of a turbine-powered helicopter can elect to have it inspected under 14 CFR part 91, section 91.409:
+
+2. 100-hour inspection, when being used for compensation or hire.
+
+3. A progressive inspection, when authorized by the FAA.
+
+4. An inspection program listed under 14 CFR part 91, section 91.409 (f), when selected by the owner/ operator and the selection is recorded in the aircraft maintenance records (14 CFR part 91, section 91.409(e)).
+
+When performing any of the above inspections, the additional performance rules under 14 CFR part 43, section 43.15, for rotorcraft must be complied with.
+
+#### Light Sport Aircraft & Aircraft Certificated as Experimental
+
+Light sport aircraft and aircraft that are certificated in the experimental category are issued a Special Airworthiness Certificate by the FAA. Operating limitations are issued to these aircraft as a part of the Special Airworthiness Certificate that specify the required inspections and inspection intervals for the aircraft.
+
+Typically, the operating limitations issued to these aircraft require that a condition inspection be performed once every 12 months. If the aircraft is used for compensation or hire (e.g., towing a glider, flight training), then it must also be inspected each 100 hours. A condition inspection is equivalent to the scope and detail of an annual inspection, the requirements of which are outlined in 14 CFR part 43, Appendix D.
+
+An A&P or an appropriately rated repair station can perform the condition inspection on any of these aircraft. The FAA issues repairman certificates to individuals who are the builder of an amateur-built aircraft, which authorizes performance of the condition inspection. Additionally, repairman certificates can be issued to individuals for conducting inspections on light sport aircraft. There are two ratings available for light sport repairman certificate, each with different privileges as described in 14 CFR part 65, section 65.107, but both ratings authorize the repairman to conduct the annual condition inspection.
+
+The operating limitations issued to the aircraft also require that the condition inspection be recorded in the aircraft maintenance records. The following or similarly worded statement is used:
+
+“I certify that this aircraft has been inspected on [insert date] per the [insert either: scope and detail of 14 CFR part 43, Appendix D; or manufacturer’s inspection procedures] and was found to be in a condition for safe operation.” The entry will include the aircraft’s total time-in-service (cycles if appropriate), and the name, signature, certificate number, and type of certificate held by the person performing the inspection.
+
+## 2. 中文翻译
+
+### 检查大纲的目的
+
+飞机检查大纲的目的，是确保飞机处于适航状态。按照 14 CFR 第 3 部第 3.5 节的定义，“适航（airworthy）”是指飞机符合其型号设计，并处于可安全运行的状态。依据这一定义，以及此后围绕该术语和标准适航证颁发规章形成的判例法，飞机要被认定为适航，必须满足两个条件：
+
+1. 飞机必须符合其型号设计，或符合经适当改装的状态。当飞机的构型与所装部件，与型号合格证（TC）所包含的图纸、规范及其他数据（包括并入该机的任何补充型号合格证（STC）和现场批准改装）相一致时，即认为达到了对型号设计的符合性。
+
+2. 飞机必须处于可安全运行的状态。这是指飞机相对磨损与劣化的状态（例如蒙皮腐蚀、风挡分层/银纹、液体渗漏，以及超出规定限度的轮胎磨损）。
+
+随着飞行小时和日历时间累积进飞机的寿命，一些部件会磨损，另一些则会劣化。检查大纲正是为发现这些项目而制定，以便在它们影响飞机适航性之前进行修理或更换。
+
+### 实施机体符合性与适航性检查
+
+要确立某航空产品的符合性，应先从 TCDS（型号合格证数据表）入手。该文件是对飞机、发动机或螺旋桨的正式描述，由美国联邦航空管理局（FAA）在认定该产品满足 14 CFR 下适用的取证要求后颁发。
+
+TCDS 列出飞机型号合格取证所需的限制与信息。它包含该产品的取证基础和适用序号；列出空速限制、重量限制、操纵面偏转量、发动机厂牌与型号、最少机组人数、燃油类型等；对发动机列出功率与转速限制、推力限制、尺寸与重量；对螺旋桨列出桨叶直径、桨距等。此外，它还按厂牌和型号列出所有有资格安装于相应产品的各类部件。
+
+制造商的维护信息，可能以服务说明、服务通告或服务信函的形式发布，用于提供产品改进的指示，或修订、更新维护手册。服务通告不具有规章效力，除非：
+
+1. 服务通告的全部或一部分被纳入某份适航指令。
+
+2. 服务通告属于制造商手册中经 FAA 批准的适航限制部分，或属于型号合格证的一部分。
+
+3. 服务通告被直接或以引用方式纳入经 FAA 批准的检查大纲，例如经批准的飞机检查大纲（AAIP）或持续适航维修大纲（CAMP）。
+
+4. 服务通告被列为合格证持有人运行规范（OpSpecs）中的附加维修要求。
+
+适航指令（AD）由 FAA 作为 14 CFR 第 39 部第 39.13 节的修正案发布，适用于以下产品：飞机、航空发动机、螺旋桨和附件。当某产品存在不安全状况，且该状况可能在同一型号设计的其他产品中存在或发展时，FAA 即发布适航指令。
+
+要实施机体符合性检查并核实飞机的适航性，必须查阅记录并对飞机进行检查。检查机体上的数据铭牌，核实其厂牌、型号、序号、型号合格证或生产许可证。检查登记证与适航证，核实其正确无误，并与飞机上的“N”号相符。
+
+检查飞机记录。通过核实以下各项，查明飞机当前的检查状态：
+
+• 上次检查的日期和飞机总使用时间。
+
+• 检查的类型，以及是否包含制造商的通告。
+
+• 批准飞机恢复使用的人员的签名、执照编号和执照类型。
+
+查明是否做过任何重大改装或重大修理，并记录在 FAA 337 表《重大修理与改装》上。查阅《飞行员操作手册》（POH）中所附的飞行手册补充件（FMS），确定是否存在与这些改装相关、必须检查的适航限制或要求的标牌。
+
+检查是否有现行的重量与平衡报告、现行设备清单，以及机体、发动机、螺旋桨和各附件的适航指令现行状态。同时查阅制造商手册的限制部分，核实任何寿命限制部件的状态。
+
+取得机体 TCDS 的最新版本，将其作为核对文件，用以检查并确保机体上安装的是正确的发动机、螺旋桨和部件。
+
+### 要求的检查
+
+#### 飞行前检查
+
+飞机的飞行前检查在该机型自己的 POH 中有描述，应当像对待起飞、空中和着陆检查单那样，以同样的重视程度遵照执行。
+
+#### 定期维护检查
+
+年度检查 除少数例外，任何人不得运行一架飞机，除非在此前 12 个日历月内，已按 14 CFR 第 43 部对其做过年度检查，并由第 43.7 节授权的人员批准恢复使用。（持有机体与动力装置（A&P）等级的持照维修人员，还必须持有检查授权（IA）才能实施年度检查。）必须使用检查单，且检查单至少应包含 14 CFR 第 43 部附录 D 中适用于该特定飞机的项目的范围与细节。
+
+100 小时检查 当飞机按 14 CFR 第 91 部运行并用于出租（如飞行训练）时，要求做此检查。除年度检查外，每使用 100 小时还必须实施一次。（该检查可由持有 A&P 等级的持照维修人员实施。）必须使用检查单，且检查至少应包含 14 CFR 第 43 部附录 D 中适用于该特定飞机的项目的范围与细节。
+
+渐进式检查 该检查大纲可按 14 CFR 第 91 部第 91.409(d) 节实施，作为年度检查的替代方案。但该大纲要求，希望采用渐进式检查的飞机登记所有人或运营人，须向当地 FAA 飞行标准地区办公室（FSDO）提交书面申请。申请应提供：
+
+1. 一名持有检查授权的持照维修人员、一家持照机体修理站，或飞机制造商的名称，由其监督或实施检查。
+
+2. 一份现行检查程序手册，可供飞行员和维修人员取用并易于理解，其内容详细包括：
+
+• 对渐进式检查的说明，包括检查责任的连续性、报告的编制，以及记录与技术参考资料的管理。
+
+• 一份检查计划表，规定例行检查和详细检查实施的间隔（以小时或天数计），并包含在航路上超出检查间隔不超过 10 小时的指示，以及因使用经验而变更检查间隔的指示。
+
+• 例行检查和详细检查表格的样本及其使用说明。
+
+• 报告与记录样本及其使用说明。
+
+3. 足够的厂房和设备，以便对飞机进行必要的分解和妥善检查。
+
+4. 适用于该飞机的现行技术资料。
+
+渐进式检查大纲的频率与详细程度，应保证在每个 12 个日历月内对飞机完成一次完整检查，并与制造商的建议及飞机所从事的运行种类相一致。渐进式检查计划必须确保飞机在任何时候都保持适航。持照 A&P 维修人员可以实施渐进式检查，但须在持有检查授权的维修人员监督之下进行。
+
+如果中止渐进式检查，所有人或运营人必须立即书面通知当地 FAA FSDO。中止之后，首次年度检查应自该机在渐进式检查下最后一次完整检查起 12 个日历月内到期。
+
+大型飞机（超过 12,500 磅） 14 CFR 第 91 部第 91.409 节的检查要求，包括 (e) 款和 (f) 款。
+
+(e) 款适用于大型飞机（不适用 14 CFR 第 125 部者）、涡轮喷气多发飞机、涡轮螺旋桨多发飞机，以及涡轮动力旋翼机。(f) 款列出可在 (e) 款下选择的检查大纲。
+
+对这些飞机提出附加检查要求，责任落在运营人身上，因为较大的飞机通常更复杂，需要比 14 CFR 第 43 部附录 D 所规定的更为详细的检查大纲。
+
+飞机的所有人或运营人必须从以下四个选项中选定一种检查大纲：
+
+1. 持续适航检查大纲，即持有航空承运人运行合格证或按 14 CFR 第 121 部或第 135 部颁发的运行合格证者当前使用的持续适航维修大纲的一部分。
+
+2. 按 14 CFR 第 135 部第 135.419 节批准的经批准飞机检查大纲，且为持有按 14 CFR 第 135 部颁发的运行合格证者当前使用。
+
+3. 制造商推荐的现行检查大纲。
+
+4. 由飞机或涡轮动力旋翼机的登记所有人或运营人制定、并经 FAA 批准的任何其他检查大纲。该大纲必须提交给对飞机基地所在地区有管辖权的当地 FAA FSDO。大纲必须采用书面形式，并至少包括以下信息：
+
+(a) 针对特定厂牌和型号的飞机或涡轮动力旋翼机实施检查的指示和程序，包括必要的测试与检查。这些指示和程序必须详细列明需要检查的机体、发动机、螺旋桨、旋翼和各附件的部位与区域，包括生存与应急设备。
+
+(b) 一份按该大纲须实施的检查的执行计划表，以使用时间、日历时间、系统操作次数（循环）或其中任意组合来表示。
+
+这一经 FAA 批准的所有人/运营人大纲，日后可由 FAA 修订，前提是 FAA 认为为保证大纲的持续充分性有必要修订。所有人/运营人可在收到通知后 30 天内向 FAA 申请，要求重新考虑该变更通知。
+
+制造商检查大纲 这是制造商为其产品制定的大纲，载于 14 CFR 第 23 部第 23.1529 节和第 25 部第 25.1529 节所要求的“持续适航说明”中。它以手册形式出现，或在醒目位置以清晰可读的声明写明：“各手册的适航限制部分经 FAA 批准，并视所需数据量包括但不限于以下内容：”
+
+• 对飞机及其各系统和装置的描述，包括其发动机、螺旋桨和附件。
+
+• 说明飞机各部件与系统如何操纵和控制的基本信息，包括适用的任何特殊程序和限制。
+
+• 勤务信息，涵盖勤务点、油箱与储液箱容量、所用液体类型、各系统适用压力、润滑点、所用润滑剂、勤务所需设备、拖行说明、系留、顶升和调平信息。
+
+• 维修指示，附带飞机及每个部件的计划安排信息，给出建议的清洁、检查、调整、测试和润滑周期，以及在这些周期建议的检查程度和工作量。
+
+• 建议的大修周期，以及对手册适航限制部分的必要交叉引用。
+
+• 检查大纲，详细说明为保持飞机持续适航所必需的检查频率与范围。
+
+• 结构检查口盖的图示，以及未设置检查口盖时进入检查所需的信息。
+
+• 特殊检查技术应用的细节，包括规定采用射线照相和超声检测时的相关内容。
+
+• 所需专用工具的清单。
+
+• 一个适航限制部分，须与文件其余部分分隔并明显区分。该部分必须列明：
+
+1. 型号合格取证所需或按 14 CFR 第 23 部或第 25 部批准的每一项强制更换时间、结构检查间隔及相关结构检查程序。
+
+2. 按 14 CFR 第 23 部或第 25 部批准的、针对燃油箱系统的每一项强制更换时间、检查间隔、相关检查程序，以及所有关键设计构型控制限制；并指定 14 CFR 第 43 部第 43.16 节和第 91 部第 91.403 节所要求的维修，除非已有经 FAA 批准的替代大纲。”
+
+任何希望采用制造商检查大纲的运营人，应先联系当地 FAA 飞行标准地区办公室，以获取进一步指导。
+
+#### 按 14 CFR 第 91 部第 91.411 节实施的高度表与静压系统检查
+
+任何在管制空域按仪表飞行规则（IFR）运行飞机或直升机的人，必须在此前 24 个日历月内，对每个静压系统、每个高度表以及每个自动气压高度报告系统完成测试与检查，并认定其符合 14 CFR 第 43 部附录 E。这些测试与检查必须由 14 CFR 下具有相应等级的人员实施。
+
+#### 空中交通管制（ATC）应答机检查
+
+任何使用空中交通管制（ATC）应答机的人，必须在此前 24 个日历月内，对该应答机完成测试与检查，并认定其符合 14 CFR 第 43 部附录 F 和第 91 部第 91.411 节。此外，在对 ATC 应答机进行任何可能引入数据对应性错误的安装或维修之后，必须由 14 CFR 下具有相应等级的人员对整套系统进行测试与检查，认定其符合 14 CFR 第 43 部附录 E 和第 91 部第 91.411 节。
+
+#### 按咨询通告（AC）91-44 实施的应急定位发射机（ELT）使用与维护做法
+
+该咨询通告合并并更新了若干份关于 ELT 及机载服务接收机的咨询通告。
+
+按 14 CFR 第 91 部的运行规则，大多数装备为可载一人以上的美国注册民用小飞机，必须装有一台 ELT。14 CFR 第 91 部第 91.207 节规定了哪些类型的飞机必须装 ELT 以及何时安装。该节还指出，符合技术标准规定（TSO）-C91 要求的 ELT 不得用于新装。
+
+装有 ELT 的飞机，其机长负责该设备的操作，并应在每次飞行结束、关车前将甚高频接收机调至 121.5 MHz，监听是否有 ELT 触发。维修人员则对其工作实际期间发生的误触发负责。
+
+ELT 的维护受 14 CFR 第 43 部和第 91 部第 91.413 节约束，并应纳入所要求的检查之中。必须按制造商说明检查撞击开关的动作和发射机输出，这一点至关重要。在安装前或为维修而测试 ELT 时，应在金属屏蔽箱内进行，以免发射机向外辐射。若无法做到，测试只应在每小时过后的前 5 分钟内进行。
+
+ELT 制造商必须按电池使用寿命的 50% 计算到期日，并将其标注在发射机外部。电池须在该日期更换，或在发射机累计使用超过 1 小时时更换。水激活电池实际上具有无限期储存寿命，通常不标注到期日；但无论使用多久，一经触发就必须更换。
+
+对于便于接近、可用简单操作从飞机上拆下并装回的便携式 ELT，飞行员可以完成电池更换。按 14 CFR 第 43 部第 43.3(g) 节，这属于预防性维修。更换的电池应经批准用于该特定型号的 ELT，安装应按第 43.13 节实施。
+
+AC 91-44 还载有关于以下方面的补充信息：
+
+• 与 ELT 配套使用的机载归航与告警设备。
+
+• 搜索与救援责任。
+
+• 告警与搜索程序，包括定位 ELT 的各种飞行程序。
+
+• FAA 频率管理办公室，供制造商在演示和测试 ELT 时联系。
+
+尽管没有规章要求必须安装 406 ELT，但其益处众多，不论规章最低要求如何。所有新装都必须采用 406 MHz 数字式 ELT，且必须满足 TSO C126 标准。安装后，新的 406 MHz ELT 应进行注册，以便飞机一旦失事，搜索与救援能充分利用该系统提供的优势。406 MHz ELT 的数字电路可编入飞机型号、基地位置、所有权等信息。这种编码使搜索与救援（SAR）协调中心能在探测到信号时联系登记所有人或运营人，判断飞机是在飞行还是停放。这种识别方式可在发生事故时实现快速 SAR 响应，并能避免为虚假告警搜索浪费宝贵资源。
+
+### 年度检查与 100 小时检查
+
+#### 准备
+
+把飞机送进维修单位做年度或 100 小时检查的所有人/运营人，可能并不了解这一过程包含哪些内容。此时，实施检查的人员应与客户坐下来一起查阅记录，讨论任何维修问题、所需修理，或客户希望额外完成的工作。而且，在开始检查之前花在这些事项上的时间，通常能在工作完成前省下时间和金钱。
+
+工作单描述将要进行的工作以及所有人为此项服务支付的费用。它是一份合同，包含完成检查所需的零件、材料和工时，也可包含所有人要求的、或检查中发现的附加维修与修理。
+
+必须研究适航指令、制造商服务通告与信函、供应商服务信息等补充资料，并把飞机上的航空电子设备和应急设备也纳入其中。TCDS 提供了有资格安装于该飞机的全部部件。
+
+查阅飞机记录是任何检查中最重要的环节之一。这些记录提供了飞机的历史。应保存哪些记录、如何保存，列于 14 CFR 第 91 部第 91.417 节。必须跟踪的记录包括维修、预防性维修和改装的记录，以及机体、发动机、螺旋桨、旋翼和各附件最近一次 100 小时、年度或其他要求或批准的检查记录。记录必须包括：
+
+• 所完成工作的说明（或对 FAA 可接受数据的引用）。
+
+• 所完成工作的完成日期，以及批准飞机恢复使用的人员的签名和执照编号。
+
+• 总使用时间，以及机体、每台发动机、每个螺旋桨和每个旋翼上寿命限制部件的当前状态。
+
+• 飞机上所装、须按特定时间基础大修的各个项目自上次大修以来的时间。
+
+• 飞机当前的检查状态，包括按该机及其附件所依据的维修大纲要求的上次检查以来的时间。
+
+• 适用适航指令的当前状态，包括每一项的符合方法、适航指令编号和修订日期。如果该适航指令涉及重复性措施，还应包括下次措施要求的时间和日期。
+
+• 按 14 CFR 第 43 部第 43.9 节规定的表格副本，针对机体的每一项重大改装及当前所装部件。
+
+所有人/运营人须将检查记录保存至该工作再次进行之时，或工作完成后 1 年。其他大多数记录，包括总时间、寿命限制部件的当前状态、大修时间和适航指令状态，必须在飞机出售时随机一并移交。
+
+14 CFR 第 43 部第 43.15 节要求，每位实施 100 小时或年度检查的人员在检查过程中必须使用检查单。检查单可以是实施者自行编制的、受检设备制造商提供的，或从其他来源获得的。检查单必须包含第 43 部附录 D 所列项目的范围与细节。
+
+制造商提供的检查单是首选。制造商按区域划分检查对象，如发动机、客舱、机翼、尾翼和起落架，并通常列出针对飞机特定区域及所装附件的服务通告和服务信函。
+
+初始试车可在实施检查之前对发动机状况作出评估。试车应包括全功率和慢车转速、磁电机工作（包括电门可靠接地）、燃油混合比检查、滑油与燃油压力，以及气缸头和滑油温度。发动机试车后，检查其燃油、滑油和液压油渗漏。
+
+按照检查单，应通过拆下所有必要的检查盖板、检修门、整流罩和发动机罩，把整架飞机打开。然后必须对整架飞机进行清洁，以显露可能因污垢而被漏掉的隐蔽裂纹或缺陷。
+
+按顺序并依据检查单，对每个项目进行目视检查，或实施必要的检查与测试，以核实部件或系统的状况。发现差异时予以记录。应检查整架飞机，并把差异清单提交给所有人。
+
+按检查单对一架小型单发飞机所做的典型检查，可部分包括（视适用情况）：
+
+• 机身，检查损伤、腐蚀，以及各接头、天线和灯的安装；检查“冒烟铆钉”，尤其是在起落架区域，它可能表明结构移动或隐蔽失效。
+
+• 驾驶舱与客舱区域，检查可能卡住操纵机构的松散物品；座椅和安全带，检查缺陷与 TSO 标签；窗和风挡，检查劣化；仪表，检查状况、标记和工作；飞行操纵与发动机操纵，检查工作是否正常。
+
+• 发动机及所附部件，目视检查渗漏迹象；螺柱和螺母，检查扭矩不当和明显缺陷；发动机安装座和减振器，检查裂纹、劣化和松动；发动机操纵机构，检查缺陷、工作和保险；发动机内部，检查气缸压缩；火花塞，检查工作；滑油滤网和滤芯，检查金属颗粒或异物；排气短管和消声器，检查渗漏、裂纹和缺失的紧固件；冷却导流罩，检查劣化、损伤和缺失的密封件；发动机罩，检查裂纹和缺陷。
+
+• 起落架组，检查状况和安装；减震装置，检查渗漏和液位；收放与锁定机构，检查缺陷、损伤和工作；液压管路，检查渗漏；电气系统，检查磨蹭，电门检查工作；机轮和轴承，检查状况；轮胎，检查磨损和割伤；刹车，检查状况和调整。
+
+• 机翼与中段组件，检查状况、蒙皮劣化、变形、结构失效和安装。
+
+• 尾翼组件，检查状况、变形、蒙皮劣化、失效迹象（冒烟铆钉）、安装牢固性，以及部件的工作与安装。
+
+• 螺旋桨组及其系统部件，检查扭矩和保险是否到位；螺旋桨，检查缺口、裂纹和渗油；防冰装置，检查缺陷和工作；操纵机构，检查工作、安装和运动受限情况。
+
+• 无线电与电子设备，检查安装与固定是否不当；导线与导管，检查走向不当、固定不牢和明显缺陷；搭接与屏蔽，检查安装和状况；所有天线，检查状况、安装和工作。此外，若尚未检查与勤务，还应检查主电池的状况、安装、腐蚀和充电情况。
+
+• 任何及所有已安装、但本清单未另行涵盖的杂项物品与部件，检查其状况和工作。
+
+飞机检查单完成后，差异清单应转入工作单。作为年度检查和 100 小时检查的一部分，要放掉发动机滑油并更换，因为发动机上已装用新的滤芯和/或清洁过的滤网。随后完成各项修理，并对所有液体系统进行勤务。
+
+在年度或 100 小时检查后批准飞机恢复使用之前，14 CFR 规定必须按制造商建议试车，以确定性能令人满意。试车必须包括：
+
+• 功率输出（静态和慢车转速）
+
+• 磁电机（检查转速下降和电门接地）
+
+• 气缸和滑油温度。试车后，检查发动机是否有液体渗漏，并在盖上发动机罩前最后检查一次滑油液位。
+
+飞机检查完成后，所有拆下的检查盖板、检修门、整流罩和发动机罩都必须重新装回。在封闭之前目视检查检查区域内有无工具、抹布等，是一种良好做法。利用检查单和差异清单复查已修理的区域，有助于确保飞机被正确地恢复使用。
+
+检查完成后，每台机体、发动机、螺旋桨和附件的记录都必须签署。按 14 CFR 第 43 部第 43.11 节所作的记录条目必须包括以下信息：
+
+• 检查类型，以及检查范围的简要说明。
+
+• 检查日期和飞机总使用时间。
+
+• 批准或不批准飞机、机体、航空发动机、螺旋桨、附件、部件或其部分恢复使用的人员的签名、执照编号和所持执照种类。
+
+• 对于年度检查和 100 小时检查，若认定飞机适航并批准恢复使用，应填写以下声明：“我证明这架飞机已按（填入类型）检查实施检查，并被认定处于适航状态。”
+
+• 若因需要维修、不符合适用规范、适航指令或其他经批准数据而未批准恢复使用，应填写以下声明：“我证明这架飞机已按（填入类型）检查实施检查，并已向飞机所有人或运营人提供差异清单和不适航项目清单。”
+
+如果所有人或运营人不想在实施检查的地点修理这些差异和/或不适航项目，他们可以选择凭特殊飞行许可（转场许可）把飞机飞往另一地点。特殊飞行许可的申请可向当地 FAA FSDO 提出。
+
+### 其他飞机检查与维修大纲
+
+按 14 CFR 第 135 部（通勤与按需运行）运行的飞机，除 14 CFR 第 43 部和第 91 部之外，还须遵守附加的维修规则。
+
+14 CFR 第 135 部第 135.411 节说明了适用于按乘客座位配置（不含驾驶座）九座及以下取证的飞机的维护条款，以及哪些条款适用于 10 座及以上乘客座位的飞机。以下条款适用于九座及以下的飞机：
+
+• 第 135.415 节——要求每个合格证持有人，凡其飞机发生该节规章所列清单中的事件、失效、故障或缺陷，均应提交服务困难报告。
+
+• 第 135.417 节——要求每个合格证持有人，就多发飞机发生的非计划飞行中断，以及该节规章详列的空中顺桨次数，邮寄或递交机械中断报告。
+
+• 第 135.421 节——要求每个合格证持有人遵守制造商推荐的维修大纲，或经 FAA 批准的、针对每架飞机、发动机、螺旋桨、旋翼及 14 CFR 第 135 部要求的每一项应急设备的大纲。该节还详列了单发 IFR 载客运行的要求。
+
+• 第 135.422 节——该节适用于多发飞机，详列老龄飞机检查与记录审查的要求。它不包括在阿拉斯加州境内任意两点之间定期运行的飞机。
+
+任何使用 10 座及以上乘客座位飞机的持照运营人，都必须具备所需的组织和维修大纲，以及称职且博学的人员，以确保安全运行。14 CFR 第 135.423 至 135.443 节数量众多且复杂，必须遵守，但本手册不予概述。持照运营人有责任了解并遵守这些以及其他所有适用的 14 CFR 要求，并应联系当地 FAA FSDO 获取进一步指导。
+
+经批准的飞机检查大纲（AAIP）是经 FAA 批准的检查大纲，适用于按 14 CFR 第 135 部运行的九座及以下飞机。AAIP 是由运营人制定、针对其特定需求定制以满足飞机检查要求的大纲。该大纲允许运营人按飞机需要制定检查任务的实施程序和间隔，而不必在每个 100 小时间隔重复所有任务。
+
+运营人对 AAIP 负责。该大纲必须涵盖整架飞机，包括所有航空电子设备、应急设备、货舱配置等。FAA 咨询通告 135-10（现行修订版）为制定经批准的飞机检查大纲提供详细指导。以下是大纲应包含要素的部分摘要：
+
+• 单项任务（检查）或任务组的计划表，以及实施这些任务的频率。
+
+• 标明这些任务的工作表格，每项任务均设签署栏。表格可由运营人制定或从其他来源获得。
+
+• 完成每项任务的指示。这些任务必须满足 14 CFR 第 43 部第 43.13(a) 节关于方法、技术、做法、工具和设备的要求。指示应包含充分的信息，并采用便于实施人员使用的形式。
+
+• 对引用指示由运营人自行修订的规定，应纳入运营人手册。
+
+• 记录差异及其纠正的系统。
+
+• 检查完成后对工作表格进行核销的手段。这些表格用于满足 14 CFR 第 91 部第 91.417 节的要求，因此必须完整、清晰可读，并能识别出所属飞机及对应的具体检查。
+
+• 兼顾机队内各飞机之间设备与构型差异的安排。
+
+• 将飞机从其他大纲转入 AAIP 的规定。
+
+AAIP 的制定可来自以下途径之一：• 完整采用某飞机制造商的检查大纲。然而，许多制造商的方案并不涵盖必须纳入 AAIP 的航空电子设备、应急设备、附件及相关安装。对这些项目和系统的检查将需要在大纲中增补内容，以确保其符合航空承运人的运行规范，并视情况符合 14 CFR。
+
+• 修改后的制造商大纲。运营人可修改制造商的检查大纲以适合自身需要。修改应清晰标识，并提供与制造商经批准大纲相当的安全水平。
+
+• 运营人自行制定的大纲。此类大纲完全由运营人制定，应包含正确实施该大纲所需的方法、技术、做法和标准。
+
+• 可将现有的渐进式检查大纲（14 CFR 第 91.409(d) 节）作为制定 AAIP 的基础。
+
+作为该检查大纲的一部分，FAA 强烈建议纳入腐蚀防护控制大纲和补充结构检查类大纲。
+
+应包含大纲修订程序，使运营人能在将修订提交 FAA 批准之前对其进行评估。
+
+应制定大纲管理程序，其中包括：界定参与该大纲的所有人员的职责与责任、安排检查日程、记录检查的完成情况，以及保存已完成工作表格的档案。
+
+运营人手册应包含一节，清楚描述完整的大纲，包括大纲日程安排、记录以及持续完成该大纲的责任追溯等程序。该节有助于合格证持有人管理该大纲，并指导维修人员或修理站实施。运营人手册应包含完成维修/检查任务的指示，还应包含实施维修和检查所需工具与设备的清单。
+
+FAA FSDO 在批准该大纲时，将向每位运营人提供计算机生成的运行规范。
+
+#### 持续适航维修大纲（CAMP）
+
+14 CFR 第 1 部对维修的定义包括检查。14 CFR 第 121 部和第 135 部航空承运人所需的检查大纲，是持续适航维修大纲（CAMP）的一部分。CAMP 并非每个第 135 部承运人都必须具有，取决于所运行的飞机。它是一个复杂的大纲，需要由经验丰富、知识扎实的航空人员组成组织来实施。
+
+FAA 制定了咨询通告 AC 120-16（现行修订版）《航空承运人维修大纲》，其中解释了这些大纲的背景以及 FAA 的规章要求。该咨询通告适用于受 14 CFR 第 119、121 和 135 部约束的航空承运人。对于第 135 部，它仅适用于按 10 座及以上乘客座位取证的飞机。
+
+任何希望将飞机纳入此类大纲的人，应联系当地 FAA FSDO 获取指导。
+
+#### 14 CFR 第 125 部第 125.247 节：检查大纲与维修
+
+该规章适用于座位容量 20 名及以上乘客，或最大商载 6,000 磅及以上，且不要求按 14 CFR 第 121、129、135 和 137 部运行的飞机。可依该部批准使用的检查大纲包括但不限于：
+
+1. 属于持证人按 14 CFR 第 121 部或第 135 部获准使用的现行持续适航大纲一部分的持续检查大纲；
+
+2. 飞机制造商、飞机发动机、螺旋桨、附件或生存与应急设备制造商目前推荐的检查大纲；或 3. 由 14 CFR 第 125 部下的合格证持有人制定的检查大纲。
+
+受该部约束的飞机，除非满足以下条件，不得运行：
+
+• 遵守飞机型号合格证数据表或其他经 FAA 批准文件中规定的寿命限制部件的更换时间；
+
+• 检查间隔期间发现的、或因检查发现的缺陷已按 14 CFR 第 43 部纠正；且 • 飞机（包括机体、航空发动机、螺旋桨、附件和生存与应急设备及其部件）已按经 FAA 批准的检查大纲实施检查。这些检查至少必须包括以下内容：
+
+○ 针对特定厂牌和型号飞机的指示、程序与标准，包括测试和检查。这些指示和程序必须详细列明须检查的机体、航空发动机、螺旋桨、附件以及生存与应急设备的部位与区域。
+
+○ 执行该大纲所要求检查的计划表，以使用时间、日历时间、系统操作次数或其中任意组合表示。
+
+○ 用于实施 14 CFR 第 125 部所要求检查的人员，必须经授权按 14 CFR 第 43 部实施维修。受第 125 部约束的飞机，除非所装发动机已按制造商建议的大修周期或经 FAA 批准的大纲进行维护，不得运行；发动机大修周期规定于 14 CFR 第 125 部第 125.247 节所要求的检查大纲中。
+
+#### 活塞发动机与涡轮动力直升机检查
+
+活塞发动机直升机必须按 14 CFR 第 43 部附录 D 中年度检查的范围与细节实施检查。但 14 CFR 第 43 部第 43.15 节还有附加的性能规则，要求每位按 14 CFR 第 91 部对旋翼机实施检查的人员，应按照相关制造商的维护手册或持续适航说明检查以下附加部件：
+
+1. 传动轴或类似系统。
+
+2. 主旋翼传动齿轮箱，检查明显缺陷。
+
+3. 主旋翼与中段（或等效区域）。
+
+涡轮动力直升机的运营人可选择按 14 CFR 第 91 部第 91.409 节对其进行下列检查：
+
+2. 用于取酬或出租时的 100 小时检查。
+
+3. 经 FAA 授权时的渐进式检查。
+
+4. 由所有人/运营人选定、且该选择已记入飞机维修记录的 14 CFR 第 91 部第 91.409(f) 节所列检查大纲（14 CFR 第 91 部第 91.409(e) 节）。
+
+实施上述任何检查时，都必须遵守 14 CFR 第 43 部第 43.15 节针对旋翼机的附加性能规则。
+
+#### 轻型运动飞机与按实验类取证的飞机
+
+轻型运动飞机和按实验类取证的飞机，由 FAA 颁发特殊适航证。作为特殊适航证的一部分，会向这些飞机颁发运行限制，其中规定飞机所需的检查及检查间隔。
+
+通常，向这些飞机颁发的运行限制要求每 12 个月实施一次状况检查。如果飞机用于取酬或出租（例如拖曳滑翔机、飞行训练），则还必须每 100 小时检查一次。状况检查相当于年度检查的范围与细节，其要求列于 14 CFR 第 43 部附录 D。
+
+A&P 或具有相应等级的修理站可对上述任何飞机实施状况检查。FAA 向自制飞机的制造者个人颁发维修人员证书，授权其实施状况检查。此外，也可向个人颁发维修人员证书，以对轻型运动飞机实施检查。轻型运动飞机维修人员证书有两种等级，各自权限不同，详见 14 CFR 第 65 部第 65.107 节，但两种等级都授权该维修人员实施年度状况检查。
+
+向飞机颁发的运行限制还要求，状况检查须记入飞机维修记录。使用以下或类似措辞的声明：
+
+“我证明这架飞机已于[填入日期]按[填入：14 CFR 第 43 部附录 D 的范围与细节；或制造商的检查程序]实施检查，并被认定处于可安全运行的状态。”该条目将包括飞机的总使用时间（如适用则为循环数），以及实施检查人员的姓名、签名、执照编号和所持执照类型。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| airworthy | adj. | 适航的 | 检查大纲的最终目的：飞机符合型号设计且处于可安全运行状态 |
+| type design | n. | 型号设计 | 适航定义中的比对基准，由 TC 所附图纸、规范和其他数据确定 |
+| type certificate (TC) | n. | 型号合格证 | 载明型号设计并含 STC 与现场批准改装的取证文件 |
+| TCDS | n. | 型号合格证数据表 | 核对机体所装发动机、螺旋桨和部件是否合规的正式描述文件 |
+| service bulletin | n. | 服务通告 | 制造商发布的改进或修订手册的指示，通常不具规章效力 |
+| airworthiness directive (AD) | n. | 适航指令 | FAA 针对同一型号设计中的不安全状况发布的强制性修正案 |
+| progressive inspection | n. | 渐进式检查 | 分阶段替代年度检查、须向 FSDO 书面申请并经批准的大纲 |
+| annual inspection | n. | 年度检查 | 每 12 个日历月一次、须由持 IA 者批准恢复使用的检查 |
+| 100-hour inspection | n. | 100 小时检查 | 按第 91 部出租运行时，每 100 使用小时追加的检查 |
+| preflight | n. | 飞行前检查 | 依该机 POH 执行、与起飞着陆检查单同等重视的检查 |
+| condition inspection | n. | 状况检查 | 轻型运动/实验类飞机每 12 个月一次、等同年度检查范围的检查 |
+| life-limited part | n. | 寿命限制部件 | 须按 TCDS 等文件规定时限更换、记录中须跟踪状态的部件 |
+| ELT | n. | 应急定位发射机 | 失事时发出求救信号的机载设备，电池到期或触发后须更换 |
+| transponder | n. | 应答机 | 须每 24 个日历月按附录 F 完成测试的 ATC 应答设备 |
+| special flight permit | n. | 特殊飞行许可 | 差异未修时把飞机转场飞往他处的特许（转场许可） |
+| CAMP | n. | 持续适航维修大纲 | 第 121/135 部承运人的检查大纲所属的复杂维修体系 |
+
+## 4. 语法解析
+
+### ① 引号内术语作主语 + 并列谓语
+**原句**：Per 14 CFR part 3, section 3.5, “airworthy” means the aircraft conforms to its type design and is in a condition for safe operation.
+**拆解**：介词短语 Per 14 CFR part 3, section 3.5 作状语，交代依据；主语是加引号的术语 “airworthy”；谓语 means 后接省略 that 的宾语从句，从句主语 the aircraft，并列谓语 conforms to 与 is in a condition for safe operation。
+**要点**：means 后接的是名词性从句而非宾语补足语，所以从句必须自成语法完整的句子；conforms 与 is 共用主语 the aircraft，第二个谓语前省略了主语。介词短语提到句首时，要与后面的主句用逗号隔开。
+
+### ② 多级从句层层嵌套
+**原句**：Conformity to type design is considered attained when the aircraft configuration and the components installed are consistent with the drawings, specifications, and other data that are part of the type certificate (TC), which includes any supplemental type certificate (STC) and field approved alterations incorporated into the aircraft.
+**拆解**：主句 Conformity to type design is considered attained 为被动语态；when 引导时间状语从句，其主语 the aircraft configuration and the components installed（过去分词 installed 后置定语），谓语 are consistent with；that 引导定语从句修饰 the drawings, specifications, and other data；which 引导非限制性定语从句修饰 the type certificate (TC)。
+**要点**：一个句子里套了 when、that、which 三层从句，读时先剥离 when 从句找到主句骨架。that 从句紧跟三个并列名词，修饰的是这整组数据而非仅 other data；which 前的逗号说明它补充说明 TC 整体，包含 STC 和现场批准改装。
+
+### ③ when 引导状语从句 + 形容词短语作表语
+**原句**：The FAA issues airworthiness directives when an unsafe condition exists in a product, and the condition is likely to exist or develop in other products of the same type design.
+**拆解**：主句 The FAA issues airworthiness directives；when 引导时间状语从句，由 and 连接两个并列分句：an unsafe condition exists in a product 与 the condition is likely to exist or develop in other products of the same type design。第二分句中 be likely to do 为形容词短语作表语。
+**要点**：and 连接的是 when 从句内部的两个分句，不是主句与从句的并列——判断依据是第二个分句主语 the condition 指代前文的 an unsafe condition。be likely to 后接动词原形，此处 exist or develop 两个动词并列。
+
+### ④ must have had + 三个宾语 + 过去分词补足语
+**原句**：Any person operating an airplane or helicopter in controlled airspace under instrument flight rules (IFR) must have had, within the preceding 24 calendar months, each static pressure system, each altimeter instrument, and each automatic pressure altitude reporting system tested and inspected and found to comply with 14 CFR part 43, Appendix E.
+**拆解**：主语 Any person + 现在分词短语 operating an airplane or helicopter... 作后置定语；谓语 must have had（情态动词 + 完成式，表示“必须已经完成”）；宾语为三个并列的 each 短语；tested and inspected and found to comply 为过去分词短语作宾语补足语（have sth. done 结构）；within the preceding 24 calendar months 为插入的时间状语。
+**要点**：have sth. done 表示“让别人/使某物被……”，这里三个过去分词并列，最后 found to comply with 也是补足语的一部分。时间状语被插在谓语与宾语之间，是为了避免句尾过长，阅读时不要把它误当成宾语的修饰语。
+
+### ⑤ It is essential that + 虚拟语气
+**原句**：It is essential that the impact switch operation and the transmitter output be checked using the manufacturer’s instructions.
+**拆解**：It 为形式主语，真正主语是 that 引导的主语从句；从句主语为 the impact switch operation and the transmitter output 两个并列名词，谓语动词用原形 be checked（虚拟语气），using the manufacturer’s instructions 为现在分词短语作方式状语。
+**要点**：essential、necessary、required 等形容词后的 that 从句要用“(should) + 动词原形”，此处省略 should，所以是 be checked 而非 is checked。这种虚拟语气不随主语单复数变化，看到 be 作谓语不要误判为语法错误。
+
+### ⑥ 被动语态 + because 原因从句 + than 比较从句
+**原句**：The additional inspection requirements for these aircraft are placed on the operator because the larger aircraft typically are more complex and require a more detailed inspection program than is provided for in 14 CFR part 43, Appendix D.
+**拆解**：主句 The additional inspection requirements for these aircraft are placed on the operator 为被动语态，介词短语 for these aircraft 作后置定语；because 引导原因状语从句，从句主语 the larger aircraft，并列谓语 are more complex 与 require a more detailed inspection program；than 引导比较从句，省略了主语 what，只留 is provided for。
+**要点**：place requirements on sb. 是被动化的固定搭配，介词 on 不能丢。than 从句里 is provided for 的主语被省略，完整应为 than what is provided for；比较的对象是“检查大纲的详细程度”，不是“飞机”。

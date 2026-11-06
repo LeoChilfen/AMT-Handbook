@@ -64,6 +64,9 @@ def inline(s):
     s = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", s)
     s = re.sub(r"(?<![\w*])\*([^*\s][^*]*)\*(?![\w*])", r"<em>\1</em>", s)
     s = re.sub(r"(?<!\w)__([^_]+)__(?!\w)", r"<strong>\1</strong>", s)
+    # 次方：a^2 / 10^-6 / 10^(4 – 2) → 上标
+    s = re.sub(r"\^\(([^)]{1,15})\)", lambda m: "<sup>" + m.group(1) + "</sup>", s)
+    s = re.sub(r"\^\{?([-+]?\d+)\}?", r"<sup>\1</sup>", s)
 
     def back(m):
         return stash[int(m.group(1))]
@@ -524,6 +527,7 @@ body{
 .content a{color:#0b63c5;text-decoration:none}
 .content a:hover{text-decoration:underline}
 .content hr{border:none;border-top:1px solid #ececea;margin:26px 0}
+.content sup{font-size:.72em;line-height:0;vertical-align:super}
 .crumb{font-size:12.5px;color:#8a8f98;letter-spacing:.04em;margin-bottom:6px}
 .toc{background:#f7f7f5;border:1px solid #ececea;border-radius:10px;padding:12px 16px;margin:0 0 22px;font-size:13.5px}
 .toc b{font-size:12px;color:#6b7280;letter-spacing:.06em;display:block;margin-bottom:6px}

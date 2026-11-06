@@ -3379,5 +3379,231 @@ window.AMT_CARDS = [
     "file": "10-helicopter-structures.md"
    }
   ]
+ },
+ {
+  "chapter": "airframe-ch02",
+  "book": "airframe",
+  "bookEn": "Airframe",
+  "bookZh": "机体",
+  "num": "02",
+  "titleEn": "Aerodynamics, Aircraft Assembly, & Rigging",
+  "count": 25,
+  "cards": [
+   {
+    "slug": "airframe-ch02-01",
+    "seq": "01",
+    "title": "Introduction",
+    "file": "01-introduction.md"
+   },
+   {
+    "slug": "airframe-ch02-02",
+    "seq": "02",
+    "title": "Basic Aerodynamics",
+    "file": "02-basic-aerodynamics.md"
+   },
+   {
+    "slug": "airframe-ch02-03",
+    "seq": "03",
+    "title": "The Atmosphere",
+    "file": "03-the-atmosphere.md"
+   },
+   {
+    "slug": "airframe-ch02-04",
+    "seq": "04",
+    "title": "Aerodynamics & the Laws of Physics",
+    "file": "04-aerodynamics-and-the-laws-of-physics.md"
+   },
+   {
+    "slug": "airframe-ch02-05",
+    "seq": "05",
+    "title": "Airfoil",
+    "file": "05-airfoil.md"
+   },
+   {
+    "slug": "airframe-ch02-06",
+    "seq": "06",
+    "title": "Thrust & Drag",
+    "file": "06-thrust-and-drag.md"
+   },
+   {
+    "slug": "airframe-ch02-07",
+    "seq": "07",
+    "title": "Center of Gravity (CG)",
+    "file": "07-center-of-gravity-cg.md"
+   },
+   {
+    "slug": "airframe-ch02-08",
+    "seq": "08",
+    "title": "The Axes of an Aircraft",
+    "file": "08-the-axes-of-an-aircraft.md"
+   },
+   {
+    "slug": "airframe-ch02-09",
+    "seq": "09",
+    "title": "Stability & Control",
+    "file": "09-stability-and-control.md"
+   },
+   {
+    "slug": "airframe-ch02-10",
+    "seq": "10",
+    "title": "Primary Flight Controls",
+    "file": "10-primary-flight-controls.md"
+   },
+   {
+    "slug": "airframe-ch02-11",
+    "seq": "11",
+    "title": "Trim Controls",
+    "file": "11-trim-controls.md"
+   },
+   {
+    "slug": "airframe-ch02-12",
+    "seq": "12",
+    "title": "Auxiliary Lift Devices",
+    "file": "12-auxiliary-lift-devices.md"
+   },
+   {
+    "slug": "airframe-ch02-13",
+    "seq": "13",
+    "title": "Control Systems for Large Aircraft",
+    "file": "13-control-systems-for-large-aircraft.md"
+   },
+   {
+    "slug": "airframe-ch02-14",
+    "seq": "14",
+    "title": "High-Speed Aerodynamics",
+    "file": "14-high-speed-aerodynamics.md"
+   },
+   {
+    "slug": "airframe-ch02-15",
+    "seq": "15",
+    "title": "Rotary-Wing Aircraft Assembly & Rigging",
+    "file": "15-rotary-wing-aircraft-assembly-and-rigging.md"
+   },
+   {
+    "slug": "airframe-ch02-16",
+    "seq": "16",
+    "title": "Configurations of Rotary-Wing Aircraft",
+    "file": "16-configurations-of-rotary-wing-aircraft.md"
+   },
+   {
+    "slug": "airframe-ch02-17",
+    "seq": "17",
+    "title": "Types of Rotor Systems",
+    "file": "17-types-of-rotor-systems.md"
+   },
+   {
+    "slug": "airframe-ch02-18",
+    "seq": "18",
+    "title": "Forces Acting on the Helicopter",
+    "file": "18-forces-acting-on-the-helicopter.md"
+   },
+   {
+    "slug": "airframe-ch02-19",
+    "seq": "19",
+    "title": "Helicopter Flight Conditions",
+    "file": "19-helicopter-flight-conditions.md"
+   },
+   {
+    "slug": "airframe-ch02-20",
+    "seq": "20",
+    "title": "Rotorcraft Controls",
+    "file": "20-rotorcraft-controls.md"
+   },
+   {
+    "slug": "airframe-ch02-21",
+    "seq": "21",
+    "title": "Stabilizer Systems",
+    "file": "21-stabilizer-systems.md"
+   },
+   {
+    "slug": "airframe-ch02-22",
+    "seq": "22",
+    "title": "Helicopter Power Systems",
+    "file": "22-helicopter-power-systems.md"
+   },
+   {
+    "slug": "airframe-ch02-23",
+    "seq": "23",
+    "title": "Transmission System",
+    "file": "23-transmission-system.md"
+   },
+   {
+    "slug": "airframe-ch02-24",
+    "seq": "24",
+    "title": "Airplane Assembly & Rigging",
+    "file": "24-airplane-assembly-and-rigging.md"
+   },
+   {
+    "slug": "airframe-ch02-27",
+    "seq": "27",
+    "title": "Aircraft Inspection",
+    "file": "27-aircraft-inspection.md"
+   }
+  ]
+ },
+ {
+  "chapter": "airframe-ch03",
+  "book": "airframe",
+  "bookEn": "Airframe",
+  "bookZh": "机体",
+  "num": "03",
+  "titleEn": "Aircraft Fabric Covering",
+  "count": 9,
+  "cards": [
+   {
+    "slug": "airframe-ch03-01",
+    "seq": "01",
+    "title": "General History",
+    "file": "01-general-history.md"
+   },
+   {
+    "slug": "airframe-ch03-02",
+    "seq": "02",
+    "title": "Fabric Terms",
+    "file": "02-fabric-terms.md"
+   },
+   {
+    "slug": "airframe-ch03-03",
+    "seq": "03",
+    "title": "Legal Aspects of Fabric Covering",
+    "file": "03-legal-aspects-of-fabric-covering.md"
+   },
+   {
+    "slug": "airframe-ch03-04",
+    "seq": "04",
+    "title": "Approved Materials",
+    "file": "04-approved-materials.md"
+   },
+   {
+    "slug": "airframe-ch03-05",
+    "seq": "05",
+    "title": "Available Covering Processes",
+    "file": "05-available-covering-processes.md"
+   },
+   {
+    "slug": "airframe-ch03-06",
+    "seq": "06",
+    "title": "Determining Fabric Condition—Repair or Recover?",
+    "file": "06-determining-fabric-condition-repair-or-recover.md"
+   },
+   {
+    "slug": "airframe-ch03-07",
+    "seq": "07",
+    "title": "Fabric Strength",
+    "file": "07-fabric-strength.md"
+   },
+   {
+    "slug": "airframe-ch03-09",
+    "seq": "09",
+    "title": "Polyester Fabric Repairs",
+    "file": "09-polyester-fabric-repairs.md"
+   },
+   {
+    "slug": "airframe-ch03-10",
+    "seq": "10",
+    "title": "Cotton-Covered Aircraft",
+    "file": "10-cotton-covered-aircraft.md"
+   }
+  ]
  }
 ];

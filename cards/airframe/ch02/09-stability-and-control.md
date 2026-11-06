@@ -1,0 +1,117 @@
+# Stability & Control
+
+> 机体 Ch 02 · Stability & Control · 原文 PDF 第 79 页
+
+## 1. 原文
+
+An aircraft must have sufficient stability to maintain a uniform flightpath and recover from the various upsetting forces. Also, to achieve the best performance, the aircraft must have the proper response to the movement of the controls. Control is the pilot action of moving the flight controls, providing the aerodynamic force that induces the aircraft to follow a desired flightpath. When an aircraft is said to be controllable, it means that the aircraft responds easily and promptly to movement of the controls. Different control surfaces are used to control the aircraft about each of the three axes. Moving the control surfaces on an aircraft changes the airflow over the aircraft’s surface. This, in turn, creates changes in the balance of forces acting to keep the aircraft flying straight and level.
+
+Three terms that appear in any discussion of stability and control are: stability, maneuverability, and controllability. Stability is the characteristic of an aircraft that tends to cause it to fly (hands off) in a straight-and-level flightpath. Maneuverability is the characteristic of an aircraft to be directed along a desired flightpath and to withstand the stresses imposed. Controllability is the quality of the response of an aircraft to the pilot’s commands while maneuvering the aircraft.
+
+### Static Stability
+
+An aircraft is in a state of equilibrium when the sum of all the forces acting on the aircraft and all the moments is equal to zero. An aircraft in equilibrium experiences no accelerations, and the aircraft continues in a steady condition of flight. A gust of wind or a deflection of the controls disturbs the equilibrium, and the aircraft experiences acceleration due to the unbalance of moment or force.
+
+The three types of static stability are defined by the character of movement following some disturbance from equilibrium. Positive static stability exists when the disturbed object tends to return to equilibrium. Negative static stability, or static instability, exists when the disturbed object tends to continue in the direction of disturbance. Neutral static stability exists when the disturbed object has neither tendency, but remains in equilibrium in the direction of disturbance. These three types of stability are illustrated in Figure 2-11 .
+
+### Dynamic Stability
+
+While static stability deals with the tendency of a displaced body to return to equilibrium, dynamic stability deals with the resulting motion with time. If an object is disturbed from equilibrium, the time history of the resulting motion defines the dynamic stability of the object. In general, an object demonstrates positive dynamic stability if the amplitude of motion decreases with time. If the amplitude of motion increases with time, the object is said to possess dynamic instability.
+
+Any aircraft must demonstrate the required degrees of static and dynamic stability. If an aircraft were designed with static instability and a rapid rate of dynamic instability, the aircraft would be very difficult, if not impossible, to fly. Usually, positive dynamic stability is required in an aircraft design to prevent objectionable continued oscillations of the aircraft.
+
+### Longitudinal Stability
+
+When an aircraft has a tendency to keep a constant AOA with reference to the relative wind (i.e., it does not tend to put its nose down and dive or lift its nose and stall); it is said to have longitudinal stability. Longitudinal stability refers to motion in pitch. The horizontal stabilizer is the primary surface which controls longitudinal stability. The action of the stabilizer depends upon the speed and AOA of the aircraft.
+
+### Directional Stability
+
+Stability about the vertical axis is referred to as directional stability. The aircraft should be designed so that when it is in straight-and-level flight it remains on its course heading even though the pilot takes their hands and feet off the controls. If an aircraft recovers automatically from a skid, it has been well designed for directional balance. The vertical stabilizer is the primary surface that controls directional stability. Directional stability can be designed into an aircraft, where appropriate, by using a large dorsal fin, a long fuselage, and sweptback wings.
+
+### Lateral Stability
+
+Motion about the aircraft’s longitudinal (fore and aft) axis is a lateral, or rolling, motion. The tendency to return to the original attitude from such motion is called lateral stability.
+
+### Dutch Roll
+
+A Dutch Roll is an aircraft motion consisting of an out-of-phase combination of yaw and roll. Dutch roll stability can be artificially increased by the installation of a yaw damper.
+
+## 2. 中文翻译
+
+飞机必须有足够的稳定性，以保持均匀的飞行轨迹并从各种扰动中恢复。此外，为获得最佳性能，飞机必须对操纵装置的移动有恰当的响应。操纵是飞行员移动飞行操纵装置的动作，它提供气动力，使飞机按期望的飞行轨迹飞行。说一架飞机是“可操纵的”，意思是飞机对操纵装置的移动反应轻松而迅速。不同的操纵面用于控制飞机绕三根轴中的每一根转动。移动飞机上的操纵面会改变飞机表面上的气流，这又反过来改变那些使飞机保持直线水平飞行的力的平衡。
+
+讨论稳定性与操纵性时总会出现三个术语：稳定性、机动性和操纵性。稳定性是飞机倾向于（松手后）沿直线水平飞行轨迹飞行的特性。机动性是飞机能够按期望的轨迹飞行并承受所加应力的特性。操纵性是飞机在机动过程中对飞行员指令的响应品质。
+
+### 静稳定性
+
+当作用在飞机上的所有力之和以及所有力矩之和都等于零时，飞机处于平衡状态。处于平衡的飞机不经历加速度，并继续保持稳定的飞行状态。一阵风或操纵面的一次偏转会打破平衡，飞机由于力矩或力的不平衡而产生加速度。
+
+三种静稳定性按受到某种偏离平衡的扰动之后的运动特征来定义。当受扰物体倾向于回到平衡位置时，存在正静稳定性。当受扰物体倾向于沿扰动方向继续运动时，存在负静稳定性，或称静不稳定。当受扰物体既无恢复趋势也无继续偏离的趋势，而是在扰动方向上的新位置保持平衡时，存在中立静稳定性。图2-11 示出这三种稳定性。
+
+### 动稳定性
+
+静稳定性研究的是偏离平衡的物体回到平衡的趋势，而动稳定性研究的是由此产生的随时间变化的运动。如果物体受到偏离平衡的扰动，其后续运动的时间历程就定义了该物体的动稳定性。一般来说，若运动的振幅随时间减小，物体表现出正动稳定性；若运动的振幅随时间增大，则称该物体具有动不稳定性。
+
+任何飞机都必须表现出所要求的静稳定性和动稳定性程度。如果一架飞机设计成静不稳定，且动不稳定发展迅速，那么它将非常难以飞行，甚至根本无法飞行。通常，飞机设计中要求具有正动稳定性，以防止飞机出现令人不适的持续振荡。
+
+### 纵向稳定性
+
+当飞机倾向于相对相对气流保持恒定的迎角（AOA）时（即它不会低头俯冲，也不会抬头失速），就说它具有纵向稳定性。纵向稳定性指俯仰方向的运动。水平安定面是控制纵向稳定性的主要翼面。安定面的作用取决于飞机的速度和迎角。
+
+### 航向稳定性
+
+绕竖轴的稳定性称为航向稳定性。飞机的设计应使其在直线水平飞行时，即使飞行员把手和脚都离开操纵装置，也能保持在航向上。如果飞机能从侧滑中自动恢复，说明其航向平衡设计良好。垂直安定面是控制航向稳定性的主要翼面。在适当的情况下，可以通过采用大背鳍、长机身和后掠机翼，把航向稳定性设计到飞机上。
+
+### 横向稳定性
+
+绕飞机纵轴（前后轴）的运动是横向运动，即滚转运动。从这种运动回到原始姿态的趋势称为横向稳定性。
+
+### 荷兰滚
+
+荷兰滚是一种由偏航与滚转不同相叠加而成的飞机运动。通过安装偏航阻尼器，可以人为地提高荷兰滚稳定性。
+
+## 3. 专业词汇
+
+| 英文 | 词性 | 中文 | 本节语境 |
+| --- | --- | --- | --- |
+| stability | n. | 稳定性 | 飞机受扰后自行保持或恢复直线水平飞行的特性 |
+| maneuverability | n. | 机动性 | 飞机能被引导沿期望轨迹飞行并承受所加应力的特性 |
+| controllability | n. | 操纵性 | 飞机对飞行员指令的响应品质，强调轻松迅速 |
+| equilibrium | n. | 平衡 | 所有力与所有力矩之和为零、无加速度的状态 |
+| static stability | n. | 静稳定性 | 受扰后是否有回到平衡的趋势，分正、负、中立三种 |
+| dynamic stability | n. | 动稳定性 | 受扰后运动振幅随时间减小（正）或增大（负）的特性 |
+| longitudinal stability | n. | 纵向稳定性 | 保持恒定迎角、绕横轴（俯仰）的稳定性 |
+| directional stability | n. | 航向稳定性 | 绕竖轴保持航向的稳定性，由垂直安定面主导 |
+| lateral stability | n. | 横向稳定性 | 绕纵轴滚转后回到原始姿态的趋势 |
+| horizontal stabilizer | n. | 水平安定面 | 控制纵向稳定性的主要翼面，其作用随速度与迎角变化 |
+| vertical stabilizer | n. | 垂直安定面 | 控制航向稳定性的主要翼面 |
+| dorsal fin | n. | 背鳍 | 垂直安定面前上方的加大延伸面，用于增强航向稳定性 |
+| Dutch roll | n. | 荷兰滚 | 偏航与滚转不同相叠加的耦合振荡，可由偏航阻尼器抑制 |
+| yaw damper | n. | 偏航阻尼器 | 自动增加偏航阻尼的装置，用于提高荷兰滚稳定性 |
+
+## 4. 语法解析
+
+### ① 表语 + that 定语从句 + cause sb. to do
+**原句**：Stability is the characteristic of an aircraft that tends to cause it to fly (hands off) in a straight-and-level flightpath.
+**拆解**：主干 Stability is the characteristic，of an aircraft 为后置定语；that 引导定语从句修饰 characteristic，从句谓语 tends to cause，宾语 it（指飞机），宾补 to fly...；括号内 hands off 为插入的补充说明。
+**要点**：that 从句的先行词是 characteristic 而不是 aircraft——是“特性”倾向于使飞机保持直线飞行。hands off 是“松手”的省略说法，作独立插入语，不作句子成分。
+
+### ② when 从句主语带现在分词后置定语
+**原句**：An aircraft is in a state of equilibrium when the sum of all the forces acting on the aircraft and all the moments is equal to zero.
+**拆解**：主句 An aircraft is in a state of equilibrium；when 引导时间/条件状语从句，从句主语中心词是 the sum，of all the forces ... and all the moments 为后置定语，其中 acting on the aircraft 是现在分词短语修饰 forces；从句谓语 is equal to zero。
+**要点**：从句主语是 the sum（单数），所以谓语用 is；all the forces 与 all the moments 由 and 并列，同属 of 的宾语。acting on the aircraft 只修饰 forces，不修饰 moments。
+
+### ③ 虚拟语气 + if not impossible 插入语
+**原句**：If an aircraft were designed with static instability and a rapid rate of dynamic instability, the aircraft would be very difficult, if not impossible, to fly.
+**拆解**：If 从句用 were designed（被动语态的虚拟形式），主句 the aircraft would be very difficult to fly；if not impossible 为插入语，插在 difficult 与 to fly 之间，表示“即使不是不可能，也极其困难”。
+**要点**：were 而非 was 是虚拟语气的标志，说明这是假设性设计而非事实；插入语删去后 difficult to fly 仍成立。翻译时把“甚至不可能”的语气补出来。
+
+### ④ while 引导的对比状语从句 + 平行谓语
+**原句**：While static stability deals with the tendency of a displaced body to return to equilibrium, dynamic stability deals with the resulting motion with time.
+**拆解**：while 引导让步/对比状语从句，从句谓语 deals with，宾语 the tendency of a displaced body to return to equilibrium（to return 作 tendency 的同位说明）；主句 dynamic stability deals with the resulting motion with time，与从句结构完全平行。
+**要点**：此处 while 表对比（“而”），不表时间；两个 deals with 的宾语形成“趋势—运动”的对立，正是静、动稳定性的分界。with time 意为“随时间”，不是“用时间”。
+
+### ⑤ so that 结果状语从句中套 when 与 even though 从句
+**原句**：The aircraft should be designed so that when it is in straight-and-level flight it remains on its course heading even though the pilot takes their hands and feet off the controls.
+**拆解**：主句 The aircraft should be designed，so that 引导结果/目的状语从句；该从句内部又以 when it is in straight-and-level flight 为时间状语，主干是 it remains on its course heading，even though 引导让步状语从句。
+**要点**：三层从句依次嵌套：so that（结果）→ when（时间）→ even though（让步），翻译时按汉语习惯把让步提前：“即使飞行员松手松脚，飞机也应保持航向”。their 是单数 they 的通用代词，指飞行员。
