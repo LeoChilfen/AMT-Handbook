@@ -52,14 +52,94 @@ This is known as surface-effect damping. The materials used to construct this ty
 
 ## 2. 中文翻译
 
-TODO
+大多数飞机的前轮可通过前轮转弯系统在驾驶舱内操纵转向，这使飞机在地面作业时能够被引导方向。少数简单飞机的前轮组件是随动的（caster），这类飞机在滑行时靠差动刹车来转向。
+
+### 小型飞机
+
+大多数小型飞机通过一套连接方向舵脚蹬的简单机械连杆系统来实现转向。推拉管连接到下支柱筒上的脚蹬摇臂。踩下脚蹬时，运动传递到支柱活塞轴和机轮组件，使其向左或向右转动。
+
+### 大型飞机
+
+由于质量大且需要可靠的正向操纵，大型飞机的前轮转弯采用动力源，其中液压动力占主导。大型飞机的前轮转弯系统有许多不同设计，但大多具有相似的特性和部件。转弯操纵在驾驶舱内通过一个小手轮、转弯手柄（tiller）或操纵杆进行，通常安装在左侧壁上。有些飞机还可以开启和关闭该系统。机械、电气或液压连接把操纵器的输入运动传递到转弯控制装置。该控制装置是一个液压计量阀或控制阀，它把压力油引导到一个或两个作动筒，作动筒通过各种连杆带动下支柱转动。蓄压器和溢流阀或类似的增压组件，使作动筒和系统内的油液始终保持压力，这使转弯作动筒同时起到减摆器的作用。随动机构由各种齿轮、钢索、拉杆、鼓轮和/或曲柄等组成，一旦达到所选转弯角度，它就把计量阀恢复到中立位置。许多系统还设有来自方向舵脚蹬的输入子系统，用于起飞和着陆高速滑行引导飞机时做小角度转弯。所有系统通常都装有安全活门，在液压失效时释放压力，使前轮能够自由偏转。
+
+下面的说明配合图 13-52、13-53 和 13-54，这些图展示了一套大型飞机前轮转弯系统及其部件。这些图和说明仅用于教学目的。
+
+前轮转弯手轮通过一根轴连接到位于驾驶舱操纵台内的转弯鼓轮。该鼓轮的转动通过钢索和滑轮把转弯信号传递到差动组件的控制鼓轮。差动组件的运动由差动连杆传递到计量阀组件，在那里使选择阀移动到所选位置，从而为前轮转向提供液压动力。
+
+如图 13-53 所示，来自飞机液压系统的压力油经打开的安全关断阀进入通往计量阀的管路。计量阀随后把压力油从 A 口送出，经右转弯交替管路进入转弯作动筒 A。这是一个单口作动筒，压力迫使活塞开始伸出。由于该活塞的活塞杆连接到前起落架减震支柱上的前轮转向轴，而转向轴绕 X 点枢转，因此活塞伸出使转向轴逐渐向右转动。前轮转动时，油液从转弯作动筒 B 被压出，经左转弯交替管路进入计量阀的 B 口。计量阀把这部分回油引入补偿器，补偿器再把油液送入飞机液压系统的回油总管。
+
+如前所述，液压压力使前起落架开始转动，但起落架不应转得过多。前轮转弯系统中有一些装置，使起落架停在所选转弯角度并保持在该处，这是由随动连杆实现的。如前所述，作动筒 A 的活塞伸出时，转向轴带动前起落架转动。转向轴的后部有轮齿，与节流杆底部的齿轮啮合。前起落架和转向轴转动时，节流杆也随之转动，但方向相反。这一转动由节流杆的两段传递到位于前起落架支柱顶部的剪式随动连杆。随动连杆回动时，带动与之相连的随动鼓轮转动，鼓轮再通过钢索和滑轮把运动传递到差动组件。差动组件的动作使差动臂和连杆把计量阀移回中立位置。
+
+前轮转弯系统的计量阀和补偿器组件如图 13-54 所示。补偿器组件使转弯作动筒内的油液始终保持压力。该液压组件由一个三接口壳体构成，壳体内装有弹簧加载的活塞和提动阀（poppet）。左侧接口是排气口，用于防止活塞后部积存的空气妨碍活塞运动。位于补偿器顶部的第二个接口通过管路连接到计量阀回油口。第三个接口位于补偿器右侧，连接到液压系统回油总管，当提动阀打开时把转弯系统的回油引入该总管。
+
+当作用在活塞上的压力高到足以压缩弹簧时，补偿器提动阀打开。本系统需要 100 psi 的压力。因此，计量阀回油管路中的油液就保持在该压力下。100 psi 的压力也存在于整个计量阀内，并回溯到各作动筒的回油管路中。这使转弯作动筒始终处于受压状态，从而能起减摆器的作用。
+
+### 减摆器
+
+连接在前轮支柱固定上筒体与支柱底部可动筒体或活塞之间的扭力臂，不足以防止大多数前起落架在某些速度下快速摆振（即“前轮摆振”，shimmy）的趋势。这种振动必须通过减摆器加以控制。减摆器通过液压阻尼控制前轮摆振。减摆器可以集成在前起落架内部，但最常见的是装在上、下减震支柱之间的外置组件。它在地面作业的所有阶段都起作用，同时允许前起落架转弯系统正常工作。
+
+#### 转弯阻尼器
+
+如上所述，采用液压转弯的大型飞机在转弯作动筒内保持压力，以提供所需的阻尼，这称为转弯阻尼。一些较老的运输类飞机装有叶片式转弯阻尼器。尽管如此，它们既能操纵前轮转向，也能衰减振动。
+
+#### 活塞式
+
+未装液压前轮转弯系统的飞机，另装一个外置减摆器组件。其壳体牢固地固定在上减震支柱筒上，轴则连接到下减震支柱筒和减摆器内部的活塞上。当下支柱筒趋于摆振时，液压油被强制通过活塞上的节流孔。通过节流孔的受限流动衰减了这种振荡。
+
+活塞式减摆器可能带有加油口以便补充油液，也可能是密封件。无论哪种，都应定期检查该组件有无渗漏。为确保工作正常，活塞式液压减摆器应加满油液。
+
+#### 叶片式
+
+有时采用叶片式减摆器。它利用由叶片隔开、并经中心轴上的阀孔连通的油腔工作。前起落架趋于摆振时，叶片转动，改变充满油液的内部油腔容积。油腔容积变化的速度只能与油液被压过孔口的速度一样快，因此起落架的摆振被油液流速所耗散。内部的弹簧加载补偿储油腔使工作油腔保持压力油，并且包含孔口尺寸的热补偿。与活塞式减摆器一样，叶片式减摆器应检查渗漏并保持维护。该组件储油端伸出有一个油位指示器。
+
+#### 非液压减摆器
+
+非液压减摆器目前已在许多飞机上获得批准使用。它们的外形和安装方式与活塞式减摆器相似，但内部不含油液。它用橡胶活塞代替金属活塞，当摆振运动通过轴传入时，橡胶活塞向外压紧在减摆器壳体的内径上。橡胶活塞在极薄的润滑脂膜上滑动，活塞与壳体之间的摩擦作用提供了阻尼。
+
+这称为表面效应阻尼。制造这类减摆器所用的材料使其具有很长的使用寿命，且无需向组件内添加油液。
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-TODO
+| caster | v. | 随动偏转 | 前轮组件不与操纵机构相连、可自由转向的状态，这类飞机靠差动刹车滑行 |
+| differential braking | n. | 差动刹车 | 分别对左右主轮施加不同刹车力，利用两侧阻力差使飞机在地面转向 |
+| rudder pedal | n. | 方向舵脚蹬 | 驾驶舱内控制方向舵的踏板，小型飞机的前轮转弯连杆即接在其上 |
+| push-pull tube | n. | 推拉管 | 传递脚蹬往复运动的刚性连杆，连接到下支柱筒的脚蹬摇臂 |
+| tiller | n. | 转弯手柄 | 驾驶舱侧壁上供飞行员操纵前轮转弯的小手柄，大型飞机常用 |
+| metering valve | n. | 计量阀 | 按操纵输入分配压力油方向与流量的控制阀，是转弯系统的控制核心 |
+| accumulator | n. | 蓄压器 | 与溢流阀配合使转弯作动筒和系统始终保压，从而兼具减摆功能 |
+| follow-up mechanism | n. | 随动机构 | 由齿轮、钢索、鼓轮等组成，达到所选转角后把计量阀拉回中立位 |
+| shimmy damper | n. | 减摆器 | 抑制前轮在特定速度下快速摆振的阻尼装置，可为内置或外置 |
+| torque link | n. | 扭力臂 | 连接支柱上筒与下筒的剪式连杆，传递扭矩但不能单独抑制摆振 |
+| vane | n. | 叶片 | 叶片式减摆器内分隔油腔的构件，随前轮摆动而转动改变腔室容积 |
+| orifice | n. | 孔口 | 限制油液通过速度的小孔，腔室容积只能随油液过孔速度变化而产生阻尼 |
+| poppet | n. | 提动阀 | 补偿器内由弹簧压住的锥形阀，压力达到 100 psi 时开启泄回油 |
+| spindle | n. | 转向轴 | 前起落架支柱上带动前轮转动的轴，其轮齿与节流杆齿轮啮合 |
 
 ## 4. 语法解析
 
-TODO
+### ① 长主语被多层后置定语隔开
+**原句**：Torque links attached from the stationary upper cylinder of a nose wheel strut to the bottom moveable cylinder or piston of the strut are not sufficient to prevent most nose gear from the tendency to oscillate rapidly, or shimmy, at certain speeds.
+**拆解**：主语中心词 Torque links，过去分词短语 attached from... to... 作后置定语说明扭力臂的连接位置；谓语 are not sufficient，后接不定式 to prevent... 表程度；prevent sb./sth. from 的宾语是 most nose gear，from 的宾语 the tendency 又带不定式 to oscillate 和同位语 or shimmy 作解释。
+**要点**：主语 Torque links 后面挂了近三十个词的定语，谓语 are 直到 strut 之后才出现，读时先抓“Torque links ... are not sufficient”；or shimmy 是 tendency 的同位语，不是与 tendency 并列的另一个宾语。
+
+### ② Since 原因状语从句中套定语从句
+**原句**：Since the rod of this piston connects to the nose steering spindle on the nose gear shock strut which pivots at point X, the extension of the piston turns the steering spindle gradually toward the right.
+**拆解**：Since 引导原因状语从句，从句主语 the rod of this piston，谓语 connects to，宾语 the nose steering spindle；on the nose gear shock strut 为后置定语，which pivots at point X 是定语从句修饰 strut；主句主语 the extension of the piston，谓语 turns，宾语 the steering spindle，方式状语 gradually toward the right。
+**要点**：which 的先行词是紧挨着的 shock strut，而不是 spindle——判断依据是“绕 X 点枢转”说的是支柱。主句主语是 extension（伸出动作）而非 piston，这决定了谓语用单数 turns。
+
+### ③ 同位语插入 + 主谓一致
+**原句**：An accumulator and relief valve, or similar pressurizing assembly, keeps fluid in the actuators and system under pressure at all times.
+**拆解**：主语是 An accumulator and relief valve，逗号之间 or similar pressurizing assembly 为同位语，对前面的组合再作解释；谓语 keeps 用单数，宾语 fluid，宾补 under pressure，in the actuators and system 为地点状语，at all times 为时间状语。
+**要点**：keep sth. under pressure 是“使……保持受压”的常用结构。主语看似并列，但指的是同一套增压组合，故谓语用单数 keeps；同位语用 or 引出，表示“或者说”，不是选择关系。
+
+### ④ 介词短语前置 + 被动时间状语从句
+**原句**：In place of the metal piston, a rubber piston presses out against the inner diameter of the damper housing when the shimmy motion is received through the shaft.
+**拆解**：In place of the metal piston 为介词短语作状语置于句首，表示“代替”；主句主语 a rubber piston，谓语 presses out against，宾语 the inner diameter of the damper housing；when 引导时间状语从句，用被动语态 the shimmy motion is received through the shaft。
+**要点**：in place of 意为“代替、取代”，不要与 in the place of（在……地方）混淆。时间状语从句用被动，是因为摆振运动是“被”轴传入的，动作承受者是 the shimmy motion。
+
+### ⑤ As 时间状语从句 + 非限制性定语从句
+**原句**：As the follow-up links return, they rotate the connected follow-up drum, which transmits the movement by cables and pulleys to the differential assembly.
+**拆解**：As 引导时间状语从句（“随着……回动”），主句 they rotate the connected follow-up drum；逗号后 which 引导非限制性定语从句，指代整个 drum 或其转动，谓语 transmits，方式状语 by cables and pulleys，方向状语 to the differential assembly。
+**要点**：非限制性定语从句用逗号隔开，which 不能换成 that；它补充说明鼓轮的作用，删去后主句仍完整。as 在此表“随着、当……时”，与表原因的 as 要靠从句是否陈述既成事实来区分。

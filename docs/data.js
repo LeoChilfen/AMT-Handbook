@@ -3826,6 +3826,29 @@ window.AMT_CARDS = [
   ]
  },
  {
+  "chapter": "airframe-ch07",
+  "book": "airframe",
+  "bookEn": "Airframe",
+  "bookZh": "机体",
+  "num": "07",
+  "titleEn": "Advanced Composite Materials",
+  "count": 2,
+  "cards": [
+   {
+    "slug": "airframe-ch07-01",
+    "seq": "01",
+    "title": "Description of Composite Structures",
+    "file": "01-description-of-composite-structures.md"
+   },
+   {
+    "slug": "airframe-ch07-03",
+    "seq": "03",
+    "title": "Manufacturing & In-Service Damage",
+    "file": "03-manufacturing-and-in-service-damage.md"
+   }
+  ]
+ },
+ {
   "chapter": "airframe-ch08",
   "book": "airframe",
   "bookEn": "Airframe",
@@ -4123,13 +4146,19 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "11",
   "titleEn": "Communication & Navigation",
-  "count": 2,
+  "count": 3,
   "cards": [
    {
     "slug": "airframe-ch11-01",
     "seq": "01",
     "title": "Introduction",
     "file": "01-introduction.md"
+   },
+   {
+    "slug": "airframe-ch11-02",
+    "seq": "02",
+    "title": "Fundamentals of Electronics",
+    "file": "02-fundamentals-of-electronics.md"
    },
    {
     "slug": "airframe-ch11-03",
@@ -4199,7 +4228,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "13",
   "titleEn": "Aircraft Landing Gear Systems",
-  "count": 7,
+  "count": 8,
   "cards": [
    {
     "slug": "airframe-ch13-01",
@@ -4236,6 +4265,12 @@ window.AMT_CARDS = [
     "seq": "06",
     "title": "Aircraft Brakes",
     "file": "06-aircraft-brakes.md"
+   },
+   {
+    "slug": "airframe-ch13-07",
+    "seq": "07",
+    "title": "Aircraft Tires & Tubes",
+    "file": "07-aircraft-tires-and-tubes.md"
    },
    {
     "slug": "airframe-ch13-08",
@@ -4287,7 +4322,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "15",
   "titleEn": "Ice & Rain Protection",
-  "count": 5,
+  "count": 9,
   "cards": [
    {
     "slug": "airframe-ch15-01",
@@ -4318,6 +4353,47 @@ window.AMT_CARDS = [
     "seq": "05",
     "title": "Propeller Deice System",
     "file": "05-propeller-deice-system.md"
+   },
+   {
+    "slug": "airframe-ch15-06",
+    "seq": "06",
+    "title": "Ground Deicing of Aircraft",
+    "file": "06-ground-deicing-of-aircraft.md"
+   },
+   {
+    "slug": "airframe-ch15-07",
+    "seq": "07",
+    "title": "Rain Control Systems",
+    "file": "07-rain-control-systems.md"
+   },
+   {
+    "slug": "airframe-ch15-08",
+    "seq": "08",
+    "title": "Windshield Frost, Fog, & Ice Control Systems",
+    "file": "08-windshield-frost-fog-and-ice-control-systems.md"
+   },
+   {
+    "slug": "airframe-ch15-09",
+    "seq": "09",
+    "title": "Water & Waste Tank Ice Prevention",
+    "file": "09-water-and-waste-tank-ice-prevention.md"
+   }
+  ]
+ },
+ {
+  "chapter": "airframe-ch16",
+  "book": "airframe",
+  "bookEn": "Airframe",
+  "bookZh": "机体",
+  "num": "16",
+  "titleEn": "Cabin Environmental Control Systems",
+  "count": 1,
+  "cards": [
+   {
+    "slug": "airframe-ch16-01",
+    "seq": "01",
+    "title": "Physiology of Flight",
+    "file": "01-physiology-of-flight.md"
    }
   ]
  },
@@ -4328,7 +4404,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "17",
   "titleEn": "Fire Protection Systems",
-  "count": 5,
+  "count": 9,
   "cards": [
    {
     "slug": "airframe-ch17-01",
@@ -4359,6 +4435,30 @@ window.AMT_CARDS = [
     "seq": "05",
     "title": "Installed Fire Extinguishing Systems",
     "file": "05-installed-fire-extinguishing-systems.md"
+   },
+   {
+    "slug": "airframe-ch17-06",
+    "seq": "06",
+    "title": "Cargo Fire Detection",
+    "file": "06-cargo-fire-detection.md"
+   },
+   {
+    "slug": "airframe-ch17-07",
+    "seq": "07",
+    "title": "Lavatory Smoke Detectors",
+    "file": "07-lavatory-smoke-detectors.md"
+   },
+   {
+    "slug": "airframe-ch17-08",
+    "seq": "08",
+    "title": "Fire Detection System Maintenance",
+    "file": "08-fire-detection-system-maintenance.md"
+   },
+   {
+    "slug": "airframe-ch17-09",
+    "seq": "09",
+    "title": "Fire Detection System Troubleshooting",
+    "file": "09-fire-detection-system-troubleshooting.md"
    }
   ]
  }

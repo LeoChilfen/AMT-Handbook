@@ -97,49 +97,31 @@ Modern runways are designed to drain water rapidly and provide good traction for
 ## 4. 语法解析
 
 ### ① 现在分词短语后置修饰主语中心词
-
 **原句**：The most important factor impinging on tire performance and wear, as well as resistance to damage is proper inflation.
-
 **拆解**：主语是 `The most important factor`，`impinging on …` 是现在分词短语作后置定语，修饰 `factor`；`as well as resistance to damage` 用插入方式与 `tire performance and wear` 并列；谓语是 `is`，表语是 `proper inflation`。分词短语把主谓隔得很远，阅读时要先把修饰成分括起来。
-
 **要点**：技术英语常用「名词 + 长分词短语 + be + 表语」的句式下定义，先抓主语和谓语，再回头处理中间的定语。
 
 ### ② 倍数比较：times as much as + that
-
 **原句**：Aircraft tires are designed and inflated to absorb the shock of landing by deflection of the sidewalls two to three times as much as that found on an automobile tire.
-
 **拆解**：主干是 `Aircraft tires are designed and inflated to absorb the shock`；`by deflection of the sidewalls` 说明吸收冲击的手段；`two to three times as much as that found on an automobile tire` 是倍数比较状语，`that` 替代前面的 `deflection`，`found on …` 是过去分词短语修饰 `that`。
-
 **要点**：`A is N times as much as B` 译作「A 是 B 的 N 倍」；比较从句中用 `that`/`those` 替代前面出现过的名词，避免重复。
 
 ### ③ 两个 so that 的不同作用
-
 **原句**：Dual or multiple wheel main gear should be operated so that all tires remain on the paved surface so the weight of the aircraft is evenly distributed between the tires.
-
 **拆解**：主句是 `Dual or multiple wheel main gear should be operated`；第一个 `so that` 引导目的状语从句（「以便所有轮胎都留在铺筑面上」）；第二个 `so`（省略 that）引导结果状语从句（「这样重量就均匀分配」）。两个从句层层递进。
-
 **要点**：`so that` 表目的，`so (that)` 也可表结果，判断依据是语义上是「为了」还是「于是」。
 
 ### ④ 动名词短语作主语
-
 **原句**：Taxiing for long distances or at high speeds increase the temperature of aircraft tires.
-
 **拆解**：主语是动名词短语 `Taxiing for long distances or at high speeds`（`or` 连接两个状语），谓语是 `increase`。原句用 `increase` 而非 `increases`，是把 `taxiing` 当作动作概念而非单数名词处理。
-
 **要点**：动名词作主语时谓语一般用单数，但原文这里按「长距离滑行或高速滑行」的并列意味用了复数形式，属可接受的用法。
 
 ### ⑤ 时间状语从句 + 被动语态 + 介词短语
-
 **原句**：When backing an aircraft on a ramp for parking, care should be taken to stop the aircraft before the main wheels roll off of the paved surface.
-
 **拆解**：`When backing …` 是省略了主语和 be 的时间状语从句（完整形式为 When you are backing …）；主句 `care should be taken` 为被动，`to stop the aircraft` 作目的状语；`before the main wheels roll off of the paved surface` 是时间状语从句。
-
 **要点**：`When + 现在分词` 是技术手册中常见的时间状语省略结构，逻辑主语与主句一致时才可省略。
 
 ### ⑥ while 让步 + if 条件
-
 **原句**：While FOD to engines and propellers gains significant attention, much damage to tires is avoidable if ramp areas and hangar floors are kept clean.
-
 **拆解**：`While …` 引导让步状语从句（「虽然……」），`FOD to engines and propellers` 是主语；主句 `much damage to tires is avoidable` 是主系表结构；`if ramp areas and hangar floors are kept clean` 是条件状语从句，其中 `are kept clean` 为被动。
-
 **要点**：`while` 在句首常表「虽然」，与表时间的「当……时」要靠主从句的语义对比来判断。
