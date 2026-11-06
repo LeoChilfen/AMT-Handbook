@@ -58,14 +58,107 @@ Ultraviolet (UV) light affects the strength of composite materials. Composite st
 
 ## 2. 中文翻译
 
-TODO
+### 制造缺陷
+
+制造缺陷包括：
+
+制造损伤包括由工艺偏差引起的孔隙、微裂纹和分层等异常。它还包括非有意的边缘切伤、表面凿痕与划痕、受损的紧固件孔以及冲击损伤。制造过程中出现的缺陷实例包括胶接面污染，或铺层时无意间夹在层间的夹杂物，例如预浸料背纸或隔离膜。非有意的（非工艺性）损伤可能在装配、运输或使用过程中发生于零件或部件上。
+
+如果树脂用量过多，零件即为富树脂；对非结构用途而言这未必是坏事，但会增加重量。如果在固化过程中排出的树脂过多，或在湿法铺层过程中施加的树脂不足，零件就称为贫树脂。贫树脂区域的标志是纤维显露至表面。纤维与树脂之比为 60:40 被认为是最佳比例。制造缺陷的来源包括：
+
+• 固化或工艺不当 • 孔或细节件位置错误
+损伤可在复合材料内部及结构构型的多个尺度上发生，从基体与纤维中的损伤，到构件断裂以及胶接或螺接连接失效。损伤的程度决定重复载荷寿命和剩余强度，对损伤容限至关重要。
+
+#### 纤维断裂
+
+纤维断裂可能成为关键问题，因为结构通常按纤维主导设计（即纤维承担大部分载荷）。所幸纤维失效通常局限于撞击点附近的区域，并受撞击物尺寸与能量的制约。上一节所列的使用相关事件中，只有少数几种会导致大面积纤维损伤。
+
+#### 基体缺陷
+
+基体缺陷通常出现在基体—纤维界面上，或出现在与纤维平行的基体内部。这些缺陷会略微降低某些材料性能，但除非基体退化大面积扩展，否则很少对结构构成关键影响。基体裂纹的累积会导致基体主导性能的退化。对于按纤维传载设计的层合板（纤维主导），即使基体严重损伤，性能也只观察到轻微下降。基体裂纹（或称微裂纹）会显著降低依赖树脂或纤维—树脂界面的性能，例如层间剪切强度和压缩强度。微裂纹对高温树脂的性能有非常不利的影响。基体缺陷可能发展成分层，而分层是更为关键的一类损伤。
+
+#### 分层与脱粘
+
+分层在层合板各层之间的界面上形成。分层可能由伸入层间层的基体裂纹发展而来，也可能由低能量冲击造成。脱粘也可能由生产过程中两个构件之间胶接线上的不粘合形成，并在相邻的层合板层中引发分层。在一定条件下，分层或脱粘在承受重复载荷时会扩展，并在层合板承受压缩载荷时导致灾难性失效。分层或脱粘的关键程度取决于：
+
+• 给定位置处的分层数量。
+
+• 位置——在层合板厚度中的位置、在结构中的位置、与自由边缘的接近程度、应力集中区、几何不连续处等。
+
+• 载荷——分层与脱粘的表现取决于载荷类型。它们对承受拉伸载荷的层合板的响应影响很小。但在压缩或剪切载荷下，与分层或脱粘构件相邻的子层合板可能屈曲，并引起载荷重分布机制，从而导致结构失效。
+
+#### 损伤的组合
+
+一般而言，冲击事件会造成多种损伤的组合。大型物体（例如涡轮叶片）的高能量冲击可能导致构件断裂和连接失效。由此产生的损伤可能包括显著的纤维失效、基体开裂、分层、紧固件断裂以及构件脱粘。低能量冲击造成的损伤范围较为局限，但也可能包括断纤维、基体裂纹和多处分层的组合。
+
+#### 紧固件孔缺陷
+
+制造中可能出现钻孔不当、紧固件安装不良和紧固件缺失。使用中反复的载荷循环可能造成孔拉长。
+
+### 使用中缺陷
+
+使用中缺陷包括：
+
+• 环境退化 • 局部过载引起的裂纹
+许多蜂窝结构，如机翼扰流板、整流罩、飞行操纵面和起落架舱门，其面板很薄，曾出现耐久性问题，可归为三类：抗冲击能力低、液体侵入和侵蚀。这些结构具有足够的刚度和强度，但对使用环境的抵抗能力低——在这种环境中，零件会被人爬踩、工具会掉落，而维修人员往往并未意识到薄蒙皮夹层件的脆弱性。这类部件的损伤，如芯材压溃、冲击损伤和脱粘，由于面板很薄，通常很容易通过目视检查发现。然而，有时这些损伤会被忽视，或被那些不愿延误飞机起飞、也不愿让自己的事故引起注意的维修人员弄伤——因为那可能影响他们的绩效记录。因此，损伤有时被放任不查，往往因液体侵入芯材而导致损伤扩展。不耐久的设计细节（例如芯材边缘收口不当）也会导致液体侵入。
+
+因液体侵入而对部件进行修理，做法因液体不同而异，最常见的是水或 Skydrol（液压油）。除非把部件中的水分全部去除，否则水在修理后的部件固化时往往会造成额外损伤。大多数修理材料体系的固化温度高于水的沸点，这会在存有滞留水的部位造成蒙皮—芯材界面的脱粘。因此，在进行任何修理之前，通常都要安排芯材干燥循环。有些运营方还多走一步，把已损伤但尚未修理的部件放入热压罐中干燥，以避免修理固化期间产生额外损伤。Skydrol 带来的则是另一种问题。夹层件的芯材一旦被 Skydrol 浸透，几乎不可能将其彻底清除。即使在固化过程中，部件仍会不断渗出液体，直到胶接面受到污染而无法实现完全粘合。强烈建议在修理中切除受污染的芯材和胶粘剂。
+
+复合材料的抗侵蚀能力已知不如铝，因此一般避免将其用于前缘表面。不过，复合材料已用于几何形状高度复杂的部位，但通常带有抗侵蚀涂层。某些抗侵蚀涂层的耐久性和可维护性并不理想。另一个不那么明显的问题是，舱门或壁板的边缘如果暴露在气流中，也会发生侵蚀。这种侵蚀可归因于设计不当或安装/配合不当。另一方面，与这些复合材料部件接触或邻近的金属结构，可能因铝合金选择不当、装配时或对接处金属件防腐密封胶破损，或翼梁、翼肋和接头界面处密封胶不足和/或缺玻璃布隔离层而出现腐蚀损伤。
+
+### 腐蚀
+
+许多玻璃钢和 Kevlar® 部件带有一层细密的铝网用于防雷击。这层铝网常在螺栓孔或螺钉孔周围腐蚀。腐蚀会影响壁板的电搭接，需要去除铝网并安装新网，以恢复壁板的电搭接。
+
+紫外线（UV）会影响复合材料的强度。复合材料结构需要面漆保护，以防紫外线的影响。人们已研制出专用的紫外线底漆和涂料来保护复合材料。
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-TODO
+| porosity | n. | 孔隙 | 工艺偏差在层合板内留下的微小空洞，属制造异常之一 |
+| microcracking | n. | 微裂纹 | 基体内部细密开裂，会累积并降低层间剪切与压缩强度 |
+| delamination | n. | 分层 | 层合板层与层之间界面的分离，比基体缺陷更关键 |
+| bondline | n. | 胶接面 | 两个构件粘接的界面，污染或夹杂会使胶接失效 |
+| prepreg | n. | 预浸料 | 已浸渍树脂的纤维材料，其背纸夹入层间即成夹杂缺陷 |
+| layup | n. | 铺层 | 把预浸料逐层铺贴成层合板的工序 |
+| cure | v./n. | 固化 | 树脂交联硬化过程，排胶过多或固化不当都会产生缺陷 |
+| resin starved | adj. | 贫树脂的 | 固化时树脂流失过多、纤维显露到表面的状态 |
+| ply | n. | 层（铺层） | 层合板中的单层纤维，铺贴时容易夹入隔离膜 |
+| debond | n. | 脱粘 | 胶接件沿胶接面分离，可引发相邻层合板层分层 |
+| fiber dominant | adj. | 纤维主导的 | 结构按纤维承担主要载荷设计，故纤维断裂最危险 |
+| sublaminates | n. | 子层合板 | 分层上下仍完整的部分，受压时会屈曲导致结构失效 |
+| liquid ingression | n. | 液体侵入 | 水或液压油进入蜂窝芯，是薄蒙皮夹层件的典型耐久性问题 |
+| core crush | n. | 芯材压溃 | 蜂窝芯受冲击或踩踏后塌陷的损伤形式 |
 
 ## 4. 语法解析
 
-TODO
+### ① such as 插入语 + that 定语从句
+**原句**：Examples of flaws occurring in manufacturing include a contaminated bondline surface or inclusions, such as prepreg backing paper or separation film, that is inadvertently left between plies during layup.
+**拆解**：主语 Examples of flaws，occurring in manufacturing 为现在分词短语作后置定语；谓语 include，宾语为 a contaminated bondline surface or inclusions 的并列；such as... 为插入语举例；that is inadvertently left... 为定语从句修饰 inclusions，during layup 为时间状语。
+**要点**：that 从句紧跟的是 inclusions，不是紧邻的 separation film，因为 such as 结构只是插入举例，不改变中心词。从句用被动 is left，说明夹杂物是“被留下”的，主语是 inclusions。
+
+### ② 并列条件状语从句 + 被动语态
+**原句**：A part is called resin starved if too much resin is bled off during the curing process or if not enough resin is applied during the wet layup process.
+**拆解**：主句 A part is called resin starved 为被动语态，resin starved 作主语补足语；if 引导两个并列的条件状语从句，分别用 is bled off 和 is applied 的被动式，during... 为时间状语。
+**要点**：or 连接的是两个完整的 if 从句，第二个 if 不能省，否则会读成“树脂不足”与“排胶过多”共用一个条件。主语补足语 resin starved 是名词化的形容词短语，说明零件被称作什么状态。
+
+### ③ 介词短语前置 + 被动句
+**原句**：For laminates designed to transmit loads with their fibers (fiber dominant), only a slight reduction of properties is observed when the matrix is severely damaged.
+**拆解**：句首 For laminates... 为范围状语，designed to transmit loads... 为过去分词短语作后置定语修饰 laminates；主句为被动 only a slight reduction of properties is observed；when 引导时间状语从句，其中 the matrix 为主语、is damaged 为被动谓语。
+**要点**：介词短语提到句首后，主句主语 only a slight reduction 直到逗号后才出现，容易被误当成 For 的宾语。designed 的逻辑主语是 laminates，与主句主语无关。
+
+### ④ 定语从句 + 并列谓语
+**原句**：Under compression or shear loading, however, the sublaminates adjacent to the delaminations or debonded elements may buckle and cause a load redistribution mechanism that leads to structural failure.
+**拆解**：句首 Under compression or shear loading 为条件状语；主语 the sublaminates，adjacent to... 为形容词短语作后置定语；谓语为 may buckle and cause 的并列；宾语 a load redistribution mechanism 后接 that 定语从句。
+**要点**：buckle 与 cause 共用一个情态动词 may，是并列谓语而非两个分句。that 从句修饰 mechanism，说明载荷重分布“导致”结构失效这一后果，而不是修饰 cause。
+
+### ⑤ 多层定语从句 + 冒号列举
+**原句**：Many honeycomb structures, such as wing spoilers, fairings, flight controls, and landing gear doors, have thin face sheets which have experienced durability problems that could be grouped into three categories: low resistance to impact, liquid ingression, and erosion.
+**拆解**：主语 Many honeycomb structures，such as... 为插入举例；谓语 have，宾语 thin face sheets；which have experienced... 为定语从句修饰 face sheets，其中又套 that could be grouped into three categories 定语从句修饰 problems；冒号后为三项并列同位语，说明三类问题。
+**要点**：两个定语从句层层嵌套，which 指 face sheets，that 指 problems，不能互换。冒号后的三项与 three categories 同位，中文用“可归为三类：……”对应，冒号保留。
+
+### ⑥ 省略的被动状语 + unless 条件
+**原句**：Water tends to create additional damage in repaired parts when cured unless all moisture is removed from the part.
+**拆解**：主句 Water tends to create additional damage in repaired parts，tends to do 为谓语结构；when cured 为省略式时间状语从句，完整形式是 when it is cured，it 指 parts；unless 引导否定条件状语从句，用被动 is removed。
+**要点**：when cured 中省略了主语和 be 动词，只剩过去分词，逻辑主语是 parts 而不是 water——判断省略成分要回到主句找被修饰的名词。unless 相当于 if...not，中文译“除非……否则……”。

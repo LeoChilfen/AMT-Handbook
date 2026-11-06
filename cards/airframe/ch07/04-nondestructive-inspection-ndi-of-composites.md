@@ -58,14 +58,105 @@ A moisture meter can be used to detect water in sandwich honeycomb structures. A
 
 ## 2. 中文翻译
 
-TODO
+### 目视检查
+
+目视检查是使用中检查的主要方法。可见损伤可能包括复合材料表面的烧焦、污渍、凹坑、穿透、磨损或崩边。一旦发现损伤，就需要用手电筒、放大镜、反光镜和内窥镜对受影响区域做更细致的检查。这些工具用来放大原本不易看清的缺陷，并使难以接近的区域也能进行目视检查。贫树脂、富树脂、皱褶、铺层架桥、变色（由过热、雷击等引起）、任何原因造成的冲击损伤、异物、起泡和脱粘，都是目视检查可以发现的一些异常。目视检查无法发现复合材料内部的缺陷，例如分层、脱粘和基体龟裂。要检出这类缺陷，需要更复杂的无损检测（NDI）技术。
+
+### 可听声波检测（敲击法）
+
+这种技术有时称为音频法、声波法或硬币敲击法，利用的是人耳可听范围内的频率（10 Hz 至 20 Hz）。在经验丰富的人员手中，敲击检测的准确程度令人惊讶，它也许是检测分层和/或脱粘最常用的技术。方法是用实心圆盘或轻质锤状器具敲击待检区域，听结构对锤击的响应。清脆、尖锐、有回响的声音说明胶接良好、结构密实；而沉闷或“咚”的一声则表明存在异常区域。
+
+敲击的速率要足够快，才能产生足够的声响，使音调上的任何差异都能被耳朵分辨。敲击检测对薄蒙皮与加强件之间的胶接线、薄面板的蜂窝夹层，甚至厚层合板的近表面区域（例如旋翼桨叶支撑件）都有效。同样，这种方法本身固有的问题是：结构内部构件的变化也可能产生音调变化，被误判为缺陷，而实际上这些变化是设计上本来就有的。这项检查应在尽可能安静的区域进行，并由熟悉该部件内部构造的有经验人员实施。对于超过四层的结构，此方法并不可靠。它常用于在薄蜂窝面板上标绘损伤范围。
+
+#### 自动敲击检测
+
+该检测与手动敲击检测非常相似，只是用电磁铁（螺线管）代替了锤子。电磁铁在同一区域产生多次冲击。冲击器的端头装有一个换能器，记录冲击器的力—时间信号。力的大小取决于冲击器、冲击能量以及结构的力学性能。冲击持续时间（周期）对冲击力的大小不敏感；然而，当结构的刚度改变时，这一持续时间会变化。因此，用无缺陷区域的信号进行校准，凡偏离该无缺陷信号的，就表明存在损伤。
+
+### 超声检测
+
+对于目视法或敲击法无法分辨的复合材料内部的分层、空洞或不连续，超声检测已被证明是非常有用的工具。超声技术有很多种，但每种技术使用的都是频率高于可听范围的声波能量。把一束高频（通常为几兆赫）声波引入零件，可使其垂直于零件表面传播，或沿零件表面传播，或与零件表面成某个预定角度传播。为了找到缺陷，你可能需要尝试不同的方向。然后对引入的声波按其既定路径穿过零件的过程进行监测，看是否有显著变化。超声波的特性与光波相似。当超声波遇到阻碍物时，波或能量要么被吸收，要么被反射回表面。被打断或减弱的声能被接收换能器拾取，并转换成示波器或图表记录仪上的显示。操作人员可借助显示，把异常指示与已知良好的区域进行对比评估。为便于对比，需要建立参考试块并用来校准超声设备。
+
+修理技术人员必须认识到，这里概述的概念在重复性的制造环境中行之有效，但在修理环境中实施起来很可能更为困难，因为飞机上安装的复合材料部件种类繁多，其构造也相对复杂。参考试块还必须考虑到复合材料部件长期暴露于使用环境后、或经历过修理活动或类似修复措施后所发生的变化。下面讨论四种最常见的超声技术。
+
+#### 穿透法超声检测
+
+穿透法超声检测使用两个换能器，分别置于待检区域的两侧。超声信号从一个换能器发射到另一个换能器。仪器随即测量信号强度的损失，并以原始信号强度的百分比或分贝数显示该损失。信号损失与参考试块进行对比。损失大于参考试块的区域即为缺陷区域。
+
+#### 脉冲回波超声检测
+
+单面超声检测可用脉冲回波技术完成。这种方法中，单个探头同时作为发射换能器和接收换能器，由高压脉冲激励。每个电脉冲激励换能器元件，该元件把电能转换成超声波形式的机械能。声能经特氟龙（Teflon®）或甲基丙烯酸酯接触头传入被检零件。零件中产生波形，由换能器元件拾取。接收信号幅度的任何变化，或回波返回换能器所需时间的任何变化，都表明存在缺陷。脉冲回波检测用于查找分层、裂纹、孔隙、水分以及胶接件的脱粘。脉冲回波检测无法发现层合蒙皮与蜂窝芯之间的脱粘或缺陷。
+
+#### 超声胶接检测仪检测
+
+低频和高频胶接检测仪用于复合材料结构的超声检测。这类检测仪使用带一个或两个换能器的检测探头。高频胶接检测仪用于检测分层和空洞，它无法检测蒙皮与蜂窝芯之间的脱粘或孔隙，可检出直径小至 0.5 英寸的缺陷。低频胶接检测仪使用两个换能器，用于检测分层、空洞以及蒙皮与蜂窝芯之间的脱粘。这种检测方法无法判定部件是哪一侧受损，也无法检出小于 1.0 英寸的缺陷。
+
+#### 相控阵检测
+
+相控阵检测是用于检测复合材料结构缺陷的最新超声仪器之一。它的工作原理与脉冲回波相同，但同时使用 64 个传感器，从而加快了检测过程。
+
+### 射线照相
+
+射线照相常被称为 X 射线检测，是一种非常有用的无损检测方法，因为它实质上相当于让检查者看到部件内部。该方法让 X 射线穿过被检零件或组件，同时把射线的吸收情况记录在对 X 射线敏感的胶片上。曝光后的胶片经显影，检查者便可分析胶片所记录曝光不透明度的变化，实际上就是把部件内部细节的关系可视化。由于该方法记录的是沿厚度方向的总密度变化，对于位于与射线方向垂直平面内的缺陷（例如分层），它并不是首选方法。然而，对于平行于 X 射线束中心线的缺陷，它却是最有效的方法。内部异常，例如转角处的分层、压溃的芯材、吹破的芯材、蜂窝芯格中的水、泡沫胶接接头中的空洞以及内部细节的相对位置，都可以通过射线照相清晰地看到。大多数复合材料对 X 射线几乎透明，因此必须使用低能射线。出于安全考虑，在飞机周围使用并不现实。操作人员应始终有足够的铅屏蔽保护，因为X射线管或散射辐射都可能造成照射。始终与 X 射线源保持最小安全距离是至关重要的。
+
+### 热成像
+
+热学检测包括所有使用热敏装置测量被检零件温度变化的方法。热学检测的基本原理是：当热量从试验对象流出、流入或穿过试验对象时，测量或测绘其表面温度。所有热成像技术都依赖于无缺陷的正常区域与有缺陷区域之间导热率的差异。通常用热源提高被检零件的温度，同时观察表面受热效果。由于无缺陷区域导热比有缺陷区域更有效，被吸收或被反射的热量多少就表明了胶接质量。影响热学性能的缺陷类型包括脱粘、裂纹、冲击损伤、壁板减薄，以及水分侵入复合材料和蜂窝芯。热学方法对薄层合板或近表面缺陷最为有效。
+
+### 中子射线照相
+
+中子射线照相是一种无损成像技术，能够使样件的内部特征可视化。中子穿过介质的透射取决于介质中原子核的中子截面。中子穿过介质时产生的差异衰减可以被测量、测绘，然后成像。所得图像随后可用于分析样件的内部特征。中子射线照相是 X 射线照相的补充技术。两种技术都是把穿过介质的衰减成像。中子射线照相的主要优点在于，它能够显现轻元素，例如腐蚀产物和水中所含的氢。
+
+### 水分检测仪
+
+水分仪可用于检测夹层蜂窝结构中的水。水分仪测量水存在所引起的射频（RF）功率损耗。水分仪常用于检测机头雷达罩内的水分。图 7-30 给出了无损检测设备的对比。
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-TODO
+| borescope | n. | 内窥镜 | 目视检查中深入难以接近区域，把缺陷放大成像的工具 |
+| resin starvation | n. | 贫树脂 | 树脂不足、纤维裸露的表面缺陷，目视即可发现 |
+| ply bridging | n. | 铺层架桥 | 铺层在转角或台阶处未贴模而形成的架空缺陷 |
+| matrix crazing | n. | 基体龟裂 | 基体细密网裂，属目视无法可靠判定的内部缺陷 |
+| coin tap | n. | 硬币敲击法 | 敲击结构、凭声音清脆或沉闷判断脱粘的常用手段 |
+| disbond | n. | 脱粘 | 胶接面分离，敲击时发出沉闷的“咚”声 |
+| solenoid | n. | 电磁铁（螺线管） | 自动敲击中代替锤子、在同一区域产生多次冲击的驱动件 |
+| transducer | n. | 换能器 | 超声检测中把电信号与声波相互转换的元件 |
+| through transmission | n. | 穿透法 | 两个换能器分置被检区两侧、以信号损失判定缺陷的超声方法 |
+| pulse echo | n. | 脉冲回波法 | 单探头兼作发射与接收，靠回波幅值和返回时间判断缺陷 |
+| phased array | n. | 相控阵 | 同时使用 64 个传感器、显著加快扫查速度的超声仪器 |
+| radiography | n. | 射线照相 | 用 X 射线穿透部件、在胶片上记录吸收差异的检测方法 |
+| thermography | n. | 热成像 | 通过表面温度分布差异判断脱粘、进水、减薄等缺陷 |
+| moisture meter | n. | 水分仪 | 利用水的射频功率损耗探测蜂窝芯内水分，常用于雷达罩 |
 
 ## 4. 语法解析
 
-TODO
+### ① Once 引导的时间状语从句 + 方式状语
+**原句**：Once damage is detected, the affected area needs to be inspected closer using flashlights, magnifying glasses, mirrors, and borescopes.
+**拆解**：Once damage is detected 为时间状语从句，用被动语态；主句主语 the affected area，谓语 needs to be inspected（need 后接不定式被动式）；closer 为程度状语；using... 为现在分词短语作方式状语。
+**要点**：once 在此是连词“一旦”，不是副词“一次”。needs to be inspected 是“需要被检查”，主语 area 是动作的承受者，所以用不定式被动式；closer 修饰 inspect，不是修饰 area。
+
+### ② 长并列主语 + 定语从句
+**原句**：Resin starvation, resin richness, wrinkles, ply bridging, discoloration (due to overheating, lightning strike, etc.), impact damage by any cause, foreign matter, blisters, and disbonding are some of the discrepancies that can be detected with a visual inspection.
+**拆解**：主语为九个名词短语的并列，从 Resin starvation 到 disbonding；括号内 due to... 说明变色成因；谓语 are，表语 some of the discrepancies；that can be detected... 为定语从句修饰 discrepancies，with a visual inspection 为方式状语。
+**要点**：并列主语很长，谓语 are 直到最后才出现，阅读时先数清并列项、再找谓语。that 从句修饰的是 discrepancies（异常），不是最后一个并列项 disbonding；被动语态 can be detected 保留了情态动词。
+
+### ③ except that 引导的名词性从句
+**原句**：This test is very similar to the manual tap test except that a solenoid is used instead of a hammer.
+**拆解**：主句 This test is very similar to the manual tap test，be similar to 为固定搭配；except that 引导名词性从句作例外说明，从句为被动 a solenoid is used，instead of a hammer 为替代状语。
+**要点**：except that 后必须接完整从句（有自己的主语和谓语），而 except for 后接名词短语，二者不可混用。is used 的被动语态强调“用的是电磁铁”而非“电磁铁做了什么”。
+
+### ④ Since 原因状语从句 + 双重定语从句
+**原句**：Since the method records changes in total density through its thickness, it is not a preferred method for detecting defects such as delaminations that are in a plane that is normal to the ray direction.
+**拆解**：Since 引导原因状语从句，records 为谓语、changes in total density 为宾语；主句 it is not a preferred method for detecting defects；such as delaminations 为举例，后接 that are in a plane 定语从句，其中又套 that is normal to the ray direction 定语从句修饰 plane。
+**要点**：两个 that 从句分属不同层次：第一个修饰 delaminations，第二个修饰 plane，中间的 in a plane 是第一个从句的表语。not a preferred method 是“不是首选”，不是“不能”，语气要译准。
+
+### ⑤ Because 原因状语从句 + that 定语从句
+**原句**：Because defect free areas conduct heat more efficiently than areas with defects, the amount of heat that is either absorbed or reflected indicates the quality of the bond.
+**拆解**：Because 引导原因状语从句，conduct heat 为动宾，more efficiently than... 为比较状语；主句主语 the amount of heat，后接 that is either absorbed or reflected 定语从句；谓语 indicates，宾语 the quality of the bond。
+**要点**：either... or... 在定语从句内并列两个过去分词，说明热量“不是被吸收就是被反射”。主句谓语 indicates 与主语中心词 amount 保持一致，of heat 只是修饰语。
+
+### ⑥ 被动语态 + 三个并列方向状语
+**原句**：A high-frequency (usually several MHz) sound wave is introduced into the part and may be directed to travel normal to the part surface, or along the surface of the part, or at some predefined angle to the part surface.
+**拆解**：主语 A high-frequency sound wave，括号内为补充说明；谓语为 is introduced 与 may be directed 两个被动式的并列；to travel... 为不定式作主语补足语；后面三个 or 引出并列的方向状语。
+**要点**：may be directed to travel 中的 to travel 说明声波“被引导去传播”，不是目的状语。三个方向状语由 or 并列，分别表示垂直、沿表面和成预定角度，翻译时保持三项并列结构。

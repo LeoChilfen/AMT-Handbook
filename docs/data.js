@@ -3832,7 +3832,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "07",
   "titleEn": "Advanced Composite Materials",
-  "count": 6,
+  "count": 7,
   "cards": [
    {
     "slug": "airframe-ch07-01",
@@ -3869,6 +3869,12 @@ window.AMT_CARDS = [
     "seq": "06",
     "title": "Composite Honeycomb Sandwich Repairs",
     "file": "06-composite-honeycomb-sandwich-repairs.md"
+   },
+   {
+    "slug": "airframe-ch07-07",
+    "seq": "07",
+    "title": "Transparent Plastics",
+    "file": "07-transparent-plastics.md"
    }
   ]
  },
@@ -4465,7 +4471,7 @@ window.AMT_CARDS = [
   "bookZh": "机体",
   "num": "16",
   "titleEn": "Cabin Environmental Control Systems",
-  "count": 4,
+  "count": 5,
   "cards": [
    {
     "slug": "airframe-ch16-01",
@@ -4484,6 +4490,12 @@ window.AMT_CARDS = [
     "seq": "03",
     "title": "Aircraft Pressurization Systems",
     "file": "03-aircraft-pressurization-systems.md"
+   },
+   {
+    "slug": "airframe-ch16-04",
+    "seq": "04",
+    "title": "Air Conditioning Systems",
+    "file": "04-air-conditioning-systems.md"
    },
    {
     "slug": "airframe-ch16-05",

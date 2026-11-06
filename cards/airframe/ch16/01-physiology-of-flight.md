@@ -50,14 +50,92 @@ Aircraft that utilize exhaust shroud-type heating systems or combustion heaters 
 
 ## 2. 中文翻译
 
-TODO
+### 大气组成
+
+构成地球大气的气体混合物通常称为空气。它主要由78%的氮和21%的氧组成。其余1%由含量更少的不同气体构成，其中一些对人体生命很重要，例如二氧化碳、水蒸气和臭氧。图16-1以占总混合物的比例，给出了各种气体各自的百分比。
+
+随着高度增加，所有大气气体的总量迅速减少。但在距地表约50英里以下，氮与氧的相对比例保持不变。二氧化碳的百分比也相当稳定，而水蒸气和臭氧的含量则有所变化。
+
+氮是一种惰性气体，不直接被人用于生命过程；但许多含氮化合物对所有生物都是必不可少的。
+
+大气中少量的二氧化碳在光合作用中被植物利用。因此，包括人在内所有动物的食物供应都依赖它。二氧化碳还有助于调节人和其他动物的呼吸。
+
+大气中水蒸气的含量是可变的，但即使在海平面潮湿条件下，也很少超过5%。水在大气中也以冰晶形式存在。大气中各种形态的水从太阳吸收的能量，远远多于其他气体。水在天气形成中起着重要作用。
+
+臭氧是氧的一种形态，每个分子含三个氧原子，而不是通常的两个。大气中大部分臭氧，是在平流层顶部附近一个称为臭氧层的区域，由氧与太阳射线相互作用形成的。这对生物很重要，因为臭氧滤掉了太阳大部分有害的紫外线（UV）辐射。臭氧也可由放电产生，例如雷击。它有一种淡淡的气味，有点像弱氯气，雷雨过后可能闻到。极光和宇宙射线也可能产生臭氧。臭氧对地球上的生物以及上层大气的环流都极为重要。
+
+### 人的呼吸与循环
+
+#### 氧与缺氧
+
+大气中含量第二多的物质——氧，是大多数生命过程所必需的。没有氧，人和动物会很快死亡。正常供氧减少会改变人的状态，引起身体机能、思维过程和可维持的意识程度发生重要变化。供氧不足所导致的身心迟钝状态称为缺氧（hypoxia）。
+
+有几种情况可导致缺氧。在航空器运行中，缺氧是由高空肺内氧压下降引起的。空气中仍含通常的21%的氧，但氧能被血液吸收的速率取决于氧压。压力越大，越能把氧从肺泡推入血流；压力降低时，被压入并被血液吸收的氧就减少。
+
+在海平面，肺内氧压约为3磅/平方英寸（psi）。这足以使血液氧饱和，使身心正常运作。随着高度增加，这一压力下降。在海平面以上7,000英尺以下，可用的氧量和氧压仍足以使血液氧饱和。但在7,000英尺以上，氧压越来越不足以使血液饱和。在平均海平面（MSL）10,000英尺处，血液氧饱和仅为正常值的约90%。在此高度长时间停留可导致头痛和疲劳，二者都是缺氧症状。在15,000英尺MSL，向血流的氧输送降至81%饱和度。这通常导致困倦、头痛、嘴唇和指甲发紫、脉搏和呼吸加快。更糟的是，视力和判断力受损，飞机的安全操作受到威胁。更高处，压力下降使进入血流的氧更少；在22,000英尺MSL饱和度仅68%。在25,000英尺MSL停留5分钟（此时向血液的氧输送降至约50%饱和度）会导致失去意识。
+
+#### 过度换气
+
+飞行员关心的另一种生理现象是过度换气（hyperventilation）。其症状与缺氧非常相似。当体内各种细胞利用血液送来的氧和养分时，二氧化碳是副产物；血液把这些二氧化碳带到肺部呼出。
+
+二氧化碳在体内起调节呼吸深度和频率的作用。血液中二氧化碳水平高会触发快速而深长的呼吸以把它排出，同时也促使摄入更多氧，供活跃的细胞使用。二氧化碳水平低则使呼吸变得平缓，导致氧摄入减少。因此，血液中存在氧与二氧化碳的平衡。
+
+有时恐惧、惊慌或疼痛会引发人呼吸过速，随之而来的是血液中二氧化碳减少，尽管身体并不需要这样。较低的二氧化碳水平向身体发出"可用氧已足够"的信号，血管因而收缩，导致类似缺氧的症状，因为输送到细胞的氧不足。注意，上一节所述的缺氧发生时不伴有过度换气那样的快速呼吸。过度换气通常可通过让当事人镇静下来、恢复正常呼吸而缓解，这能恢复血流中的氧／二氧化碳平衡。
+
+#### 一氧化碳中毒
+
+一氧化碳是一种无色无味的气体，由碳氢燃料（如航空所用燃料）不完全燃烧产生。人体并不需要这种气体，但它的存在会妨碍体内维持足够的氧水平，导致缺氧。这也称为一氧化碳中毒。与所有形式的缺氧一样，长时间接触一氧化碳可导致失去意识甚至死亡。
+
+血红蛋白是血液中附着肺内氧、并将其循环到体内细胞供使用的物质。一氧化碳比氧更容易附着到血红蛋白上。若肺内存在一氧化碳，血红蛋白就会附着它而不附着氧，这导致细胞得不到所需的氧量。氧不足会产生类似缺氧的症状。
+
+一氧化碳中毒的真正危险在于：长时间接触微量一氧化碳，与短时间接触高浓度一样容易造成缺氧，其影响的发生可能非常隐蔽。
+
+驾驶舱和客舱内使用一氧化碳探测器，向机组警告这一无声的危险。现有多种类型的一氧化碳探测器可提醒飞行员该气体的存在：有些永久安装在仪表板上，有些则是便携式。最简单的一氧化碳探测器是装在硬纸板上的化学试片，挂在或粘在驾驶舱内某处；当存在一氧化碳时，试片因化学反应而变色。更复杂的探测器以百万分率（ppm）给出数字输出，或点亮指示灯和／或发出声响报警。便携式一氧化碳测试装置若被污染，可通过更换新的指示元件恢复使用。
+
+采用排气罩式加温系统或燃烧式加热器的飞机，更容易由这些装置把一氧化碳带入客舱。一旦检测到一氧化碳，查明其来源非常重要。凡燃烧源同时又是客舱热源时，都要定期进行各种泄漏检查和裂纹检查。
 
 ## 3. 专业词汇
 
 | 英文 | 词性 | 中文 | 本节语境 |
 | --- | --- | --- | --- |
-TODO
+| inert gas | n. | 惰性气体 | 氮不参与人的生命过程，故称为惰性气体 |
+| photosynthesis | n. | 光合作用 | 植物借此利用大气中少量二氧化碳，构成食物链的起点 |
+| ozone layer | n. | 臭氧层 | 平流层顶部臭氧集中的区域，滤除大部分太阳紫外线 |
+| ultraviolet (UV) radiation | n. | 紫外线辐射 | 太阳辐射中有害的部分，被臭氧层滤除 |
+| hypoxia | n. | 缺氧 | 供氧不足引起的身心迟钝状态，是本节的核心概念 |
+| alveoli | n. | 肺泡 | 肺内氧进入血液的微小气囊，氧压在这里把氧推入血流 |
+| oxygen pressure | n. | 氧压 | 决定氧被压入血液快慢的压力，随高度升高而下降 |
+| saturation | n. | 饱和度 | 血液被氧饱和的程度，如10,000英尺时仅为正常的90% |
+| mean sea level (MSL) | n. | 平均海平面 | 高度基准，文中给出10,000、15,000英尺等MSL高度 |
+| hyperventilation | n. | 过度换气 | 恐惧、惊慌或疼痛引起的呼吸过速，使血中二氧化碳偏低 |
+| hemoglobin | n. | 血红蛋白 | 血液中运氧的物质，对一氧化碳的亲和力高于氧 |
+| carbon monoxide poisoning | n. | 一氧化碳中毒 | 一氧化碳占据血红蛋白、使细胞缺氧的中毒形式 |
+| exhaust shroud-type heating system | n. | 排气罩式加温系统 | 用排气管外套加热客舱空气，易把一氧化碳带入客舱 |
+| combustion heater | n. | 燃烧式加热器 | 机上燃烧燃油取暖的装置，是客舱一氧化碳的另一来源 |
 
 ## 4. 语法解析
 
-TODO
+### ① 比较级 far more ... than 引起的倒装
+**原句**：All forms of water in the atmosphere absorb far more energy from the sun than do the other gases.
+**拆解**：主语 All forms of water + 介词短语 in the atmosphere 作后置定语；谓语 absorb，宾语 far more energy，状语 from the sun；than 引导的比较从句中，主语 the other gases 后置，助动词 do 提前，形成 than do the other gases 的倒装。
+**要点**：than 从句若主语较长或为了强调，常把 do / does / did 提到主语前，本质仍是 the other gases do (absorb)。这里 far 修饰比较级 more，表示程度差别很大，不能译成"更多一点"。
+
+### ② 过去分词短语作后置定语 + 被动谓语
+**原句**：The resultant sluggish condition of mind and body produced by insufficient oxygen is called hypoxia.
+**拆解**：主语中心词 condition，of mind and body 说明范围，过去分词短语 produced by insufficient oxygen 作后置定语修饰 condition；谓语为被动语态 is called，补语 hypoxia 是术语的定义。
+**要点**：produced 的逻辑主语是 condition（状态由缺氧"造成"），所以用过去分词；若误当成句子谓语，就会把 is called 读丢。本句是典型的"术语 + 被动定义"句式，翻译常处理成"……称为……"。
+
+### ③ 表语从句 + as ... as 同级比较
+**原句**：A real danger of carbon monoxide poisoning is that long exposure to slight traces of carbon monoxide can result in oxygen deprivation just as easily as short-term exposure to a concentrated amount.
+**拆解**：主语 A real danger of carbon monoxide poisoning；系动词 is 后接 that 引导的表语从句。从句主语 long exposure to slight traces of carbon monoxide，谓语 can result in，宾语 oxygen deprivation；just as easily as 引出同级比较对象 short-term exposure to a concentrated amount。
+**要点**：that 从句在 is 之后作表语，说明"危险"的具体内容，不是定语从句。just 加强 as ... as 的语气，意为"同样轻易"；比较的两端是"长时间接触微量"与"短时间接触高浓度"，读时不要漏掉任一端。
+
+### ④ 时间状语从句 + 过去分词短语作定语
+**原句**：When various cells in the body use oxygen and food delivered to them by the blood, carbon dioxide is a by-product.
+**拆解**：When 引导时间状语从句，从句主语 various cells in the body，谓语 use，宾语为并列的 oxygen and food；过去分词短语 delivered to them by the blood 作后置定语修饰 food（them 指 cells）。主句 carbon dioxide is a by-product 为主系表结构。
+**要点**：delivered 只修饰紧邻的 food，不修饰 oxygen——氧由血液"运送"的是结合在血红蛋白上的氧，而养分才是"送达"细胞的。分词短语紧跟名词时，先判断它修饰哪个词再翻译。
+
+### ⑤ 双宾语动词 + 分词短语作结果状语
+**原句**：The lower carbon dioxide level signals the body that there is enough oxygen available and blood vessels constrict, causing hypoxia-like symptoms because insufficient oxygen is being delivered to the cells.
+**拆解**：主语 The lower carbon dioxide level，谓语 signals（双宾语动词），间接宾语 the body，直接宾语为 that 引导的宾语从句 there is enough oxygen available；and 连接并列分句 blood vessels constrict；逗号后 causing ... 为现在分词短语作结果状语，其中又套 because 引导的原因状语从句（用现在进行时被动 is being delivered）。
+**要点**：signals the body that ... 是 signal sb. that ... 的搭配，that 从句是直接宾语而非同位语。causing 的逻辑主语是前面整件事（血管收缩），不是 blood vessels 单独一个词；分词结果状语常译成"从而……"。
