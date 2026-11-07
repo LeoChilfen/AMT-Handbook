@@ -10,6 +10,8 @@ The drawings for a component are composed largely of symbols and conventions rep
 
 Section line symbols show the kind of material from which the part is to be constructed. The material may not be indicated symbolically if its exact specification is shown elsewhere on the drawing. In this case, the more easily drawn symbol for cast iron is used for the sectioning, and the material specification is listed in the bill of materials or indicated in a note. The illustration shows a few standard material symbols.
 
+### Shape Symbols
+
 Symbols can be used to excellent advantage when needed to show the shape of an object. Typical shape symbols used on aircraft drawings are shown. Shape symbols are usually shown on a drawing as a revolved or removed section.
 
 ### Electrical Symbols
