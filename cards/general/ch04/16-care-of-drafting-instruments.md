@@ -10,14 +10,6 @@ T-squares, triangles, and scales should not be used or placed where their surfac
 
 Compasses, dividers, and pens provide better results with less annoyance, if they are correctly shaped and sharpened and are not damaged by careless handling. Store drawing instruments in a place where they are not likely to be damaged by contact with other tools or equipment. Protect compass and divider points by inserting them into a piece of soft rubber or similar material. Never store ink pens without first cleaning and drying them thoroughly.
 
-SQUARE SECTION (METAL) SQUARE SECTION (WOOD)
-
-ROUND SECTION (SOLID) ROUND SECTION (TUBULAR)
-
-ANGLE SECTION (METAL) CHANNEL SECTION (METAL)
-
-I-BEAM (METAL) SQUARE SECTION (TABULAR)
-
 ## 2. 中文翻译
 
 好的绘图仪器是昂贵的精密工具。在使用和存放期间给予适当的爱护，可以延长其使用寿命。
