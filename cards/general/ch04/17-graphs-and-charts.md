@@ -10,6 +10,8 @@ Graphs and charts are frequently used to convey information graphically or infor
 
 When interpreting information shown on graphs and charts, it is extremely important that all the notes and legend information be carefully understood to eliminate any misinterpretation of the information presented.
 
+### Nomograms
+
 A nomogram is a graph that usually consists of three sets of data. Knowledge of any two sets of data enables the interpreter to obtain the value for the third unknown corresponding value. One type of nomogram consists of three parallel scales graduated for different variables, so that when a straight edge connects any two values, the third can be read directly. Other types may use values on the “x” and “y” axes of a graph with the third corresponding value determined by the intersection of the “x” and “y” values with one of a series of curved lines. The illustration is an example of a nomogram that shows the relationship between aviation fuels, specific weight, and temperature.
 
 ## 2. 中文翻译
