@@ -16,7 +16,7 @@ The amount of buoyant force available to an object can be calculated by using th
 
 Buoyant Force = V olume of Object × Density of Fluid Displaced If the buoyant force is more than the object weighs, the object will float. If the buoyant force is less than the object weighs, the object will sink. For the object that sinks, its measurable weight will be less by the weight of the displaced fluid.
 
-Example: A 10-ft3 object weighing 700 lb is placed in pure water. Will the object float? If the object sinks, what is its measurable weight in the submerged condition? If the object floats, how many cubic feet of its volume is below the water line?
+Example: A 10-ft³ object weighing 700 lb is placed in pure water. Will the object float? If the object sinks, what is its measurable weight in the submerged condition? If the object floats, how many cubic feet of its volume is below the water line?
 
 Buoyant Force = V olume of Object × Density of Fluid Displaced = 10 (62.4)
 
@@ -24,15 +24,15 @@ Buoyant Force = V olume of Object × Density of Fluid Displaced = 10 (62.4)
 
 Two good examples of buoyancy are a helium filled airship and a seaplane on floats. An airship is able to float in the atmosphere and a seaplane is able to float on water. That means both have more buoyant force than weight. Take the DeHavilland Twin Otter seaplane, with a gross takeoff weight of 12,500 lb. At a minimum, the floats on this airplane must be large enough to displace a weight in water equal to the airplane’s weight. According to Title 14 of the Code of Federal Regulations (14 CFR) part 23, the floats must be 80 percent larger than the minimum needed to support the airplane. For this airplane, the necessary size of the floats would be calculated as follows:
 
-Divide the airplane weight by the density of water. 12,500 ÷ 62.4 = 200.3 ft3 Multiply this volume by 80%. 200.3 × 80% = 160.2 ft3 Add the two volumes together to get the total volume of the floats.
+Divide the airplane weight by the density of water. 12,500 ÷ 62.4 = 200.3 ft³ Multiply this volume by 80%. 200.3 × 80% = 160.2 ft³ Add the two volumes together to get the total volume of the floats.
 
-200.3 + 160.2 = 360.5 ft3 For the Twin Otter, it is obvious that much of the volume of the floats is out of the water. This is accomplished by making sure the floats have at least 80 percent more volume than the minimum necessary. Some of the large Goodyear airships have a volume of 230,000 ft 3. Since the fluid they are submerged in is air, 0.11 cu'
+200.3 + 160.2 = 360.5 ft³ For the Twin Otter, it is obvious that much of the volume of the floats is out of the water. This is accomplished by making sure the floats have at least 80 percent more volume than the minimum necessary. Some of the large Goodyear airships have a volume of 230,000 ft³. Since the fluid they are submerged in is air, 0.11 cu'
 
-To find the buoyant force of the airship, the volume of the airship is multiplied by the density of air (.07651 lb⁄ft3). For this Goodyear airship, the buoyant force is 17,597 lb.
+To find the buoyant force of the airship, the volume of the airship is multiplied by the density of air (.07651 lb⁄ft³). For this Goodyear airship, the buoyant force is 17,597 lb.
 
 The forward and aft ballonets are air chambers within the airship. Through the air scoop, air can be pumped into the ballonets or evacuated from the ballonets in order to control the weight of the airship. Controlling the weight of the airship controls how much positive or negative lift it has. Although the airship is classified as a lighter-than-air aircraft, it is in fact flown in a condition slightly heavier than air.
 
-The pressure exerted on the bottom of a container by a liquid is determined by the height of the liquid and not by the shape of the container. Three different shapes and sizes of containers are full of colored water. Even though they are different shapes and have different volumes of liquid, each one has a height of 231 inches. Each one would exert a pressure on the bottom of 8.34 psi because of this height. The container on the left, with a surface area of 1 in 2, contains a volume of 231 in 3 (one gallon). One gallon of water weighs 8.34 lb, which is why the pressure on the bottom is 8.34 psi.
+The pressure exerted on the bottom of a container by a liquid is determined by the height of the liquid and not by the shape of the container. Three different shapes and sizes of containers are full of colored water. Even though they are different shapes and have different volumes of liquid, each one has a height of 231 inches. Each one would exert a pressure on the bottom of 8.34 psi because of this height. The container on the left, with a surface area of 1 in², contains a volume of 231 in³ (one gallon). One gallon of water weighs 8.34 lb, which is why the pressure on the bottom is 8.34 psi.
 
 Still thinking about these containers, if the pressure was measured half way down, it would be half of 8.34, or 4.17 psi. In other words, the pressure is adjustable by varying the height of the column. Pressure based on the column height of a fluid is known as static pressure. With liquids, such as gasoline, it is sometimes referred to as a head of pressure. For example, if a carburetor needs to have 2 psi supplied to its inlet, or head of pressure, this could be accomplished by having the fuel tank positioned the appropriate number of inches higher than the carburetor.
 
@@ -50,31 +50,31 @@ Force = Pressure × Area In this formula, the force is in units of pounds, the p
 
 Pressure = Force ÷ Area and Area = Force ÷ Pressure An easy and convenient way to remember the formulas for Pascal’s law, and the relationship between the variables, is with a triangle. If the variable we want to solve for is covered up, the position of the remaining two variables shows the proper math relationship. For example, if the “A,” or area, is covered up, what remains is the “F” on the top and the “P” on the bottom, meaning force divided by pressure.
 
-A simple hydraulic system has 5 lb force acting on a piston with a 1⁄2-in2 surface area. Based on Pascal’s law, the pressure in the system would be equal to the force applied divided by the area of the piston, or 10 psi. The pressure of 10 psi is present everywhere in the fluid.
+A simple hydraulic system has 5 lb force acting on a piston with a 1⁄2-in² surface area. Based on Pascal’s law, the pressure in the system would be equal to the force applied divided by the area of the piston, or 10 psi. The pressure of 10 psi is present everywhere in the fluid.
 
-This hydraulic system is a little more complex than the previous one. The input force of 5 lb is acting on a 1⁄2-in2 piston, creating a pressure of 10 psi. The input cylinder and piston is connected to a second cylinder, which contains a 5-in2 piston. The pressure of 10 psi created by the input piston pushes on the piston in the second cylinder, creating an output force of 50 pounds.
+This hydraulic system is a little more complex than the previous one. The input force of 5 lb is acting on a 1⁄2-in² piston, creating a pressure of 10 psi. The input cylinder and piston is connected to a second cylinder, which contains a 5-in² piston. The pressure of 10 psi created by the input piston pushes on the piston in the second cylinder, creating an output force of 50 pounds.
 
 Often, the purpose of a hydraulic system is to generate a large output force, with the input force being much less. The input force is 5 lb and the output force is 50 lb, or 10 times greater. The relationship between the output force and the input force, as discussed earlier in this chapter, is known as mechanical advantage. The mechanical advantage would be 50 divided by 5, or 10. The following formulas can be used to calculate mechanical advantage.
 
 Mechanical Advantage = Force Out ÷ Force In or Mechanical Advantage = Distance Out ÷ Distance In Earlier in this chapter when simple machines, such as levers and gears were discussed, it was identified that no machine allows us to gain work. The same statement holds true for a hydraulic system, that we get no more work out of a hydraulic system than we put in. Since work is equal to force times distance, if we gain force with a hydraulic system, we must lose distance. We only get the same work out, if the system is 100 percent efficient.
 
-In order to think about the distance that the output piston will move in response to the movement of the input piston, the volume of fluid displaced must be considered. In the study of geometry, one learns that the volume of a cylinder is equal to the cylinder’s surface area multiplied by its height. So, when a piston of 2 in2 moves down in a cylinder a distance of 10 in, it displaces a volume of fluid equal to 20 in 3 (2 in2 × 10 in). The 20 in3 displaced by the first piston is what moves over to the second cylinder and causes its piston to move. In a simple two-piston hydraulic system, the relationship between the piston area and the distance moved is shown by the following formula. Input Piston Area (Distance Moved) = Output Piston Area (Distance Moved)
+In order to think about the distance that the output piston will move in response to the movement of the input piston, the volume of fluid displaced must be considered. In the study of geometry, one learns that the volume of a cylinder is equal to the cylinder’s surface area multiplied by its height. So, when a piston of 2 in² moves down in a cylinder a distance of 10 in, it displaces a volume of fluid equal to 20 in³ (2 in² × 10 in). The 20 in³ displaced by the first piston is what moves over to the second cylinder and causes its piston to move. In a simple two-piston hydraulic system, the relationship between the piston area and the distance moved is shown by the following formula. Input Piston Area (Distance Moved) = Output Piston Area (Distance Moved)
 
 This formula shows that the volume in is equal to the volume out. A small input piston moves a distance of 20 inches, and the larger output piston only moves a distance of 1 inch.
 
-Example: A two-piston hydraulic system, has an input piston with an area of 1⁄4 in2 and an output piston with an area of 15 in 2. An input force of 50 lb is applied, and the input piston moves 30 inches. What is the pressure in the system, how much force is generated by the output piston, how far would the output piston move, and what is the mechanical advantage?
+Example: A two-piston hydraulic system, has an input piston with an area of 1⁄4 in² and an output piston with an area of 15 in². An input force of 50 lb is applied, and the input piston moves 30 inches. What is the pressure in the system, how much force is generated by the output piston, how far would the output piston move, and what is the mechanical advantage?
 
 Pressure = Force ÷ Area = 50 ÷ 1⁄4 = 200 psi Force = Pressure × Area = 200 × 15 = 3,000 lb Mechanical Advantage = Force Out ÷ Force In = 3,000 ÷ 50 = 60 Input Piston Area (Distance Moved) = Output Piston Area (Distance Moved)
 
 1⁄4 (30) = 15 (Distance Moved)
 
-1⁄4 (30) ÷ 15 = Distance Moved Distance Moved = 1⁄2 in Part of understanding Pascal’s law and hydraulics involves utilizing formulas, and recognizing the relationship between the individual variables. Before the numbers are plugged into the formulas, it is often possible to analyze the variables in the system and come to a realization about what is happening. For example, look at the variables in the system and notice that the output piston is 20 times larger than the input piston, 5 in 2 compared to 1⁄4 in2. That comparison tells us that the output force will be 20 times greater than the input force, and also that the output piston will only move 1⁄20 as far. Without doing any formula based calculations, we can conclude that the hydraulic system in question has a mechanical advantage of 20.
+1⁄4 (30) ÷ 15 = Distance Moved Distance Moved = 1⁄2 in Part of understanding Pascal’s law and hydraulics involves utilizing formulas, and recognizing the relationship between the individual variables. Before the numbers are plugged into the formulas, it is often possible to analyze the variables in the system and come to a realization about what is happening. For example, look at the variables in the system and notice that the output piston is 20 times larger than the input piston, 5 in² compared to 1⁄4 in². That comparison tells us that the output force will be 20 times greater than the input force, and also that the output piston will only move 1⁄20 as far. Without doing any formula based calculations, we can conclude that the hydraulic system in question has a mechanical advantage of 20.
 
 ### Bernoulli’s Principle
 
 Bernoulli’s principle was originally stated to explain the action of a liquid flowing through the varying cross-sectional areas of tubes.
 
-¼ in 2 (20 in) = 5 in (distance)
+¼ in² (20 in) = 5 in (distance)
 
 Consider a tube in which the cross-sectional area gradually decreases to a minimum diameter in its center section. A tube constructed in this manner is called a “venturi,” or “venturi tube.” Where the cross-sectional area is decreasing, the passageway is referred to as a converging duct. As the passageway starts to spread out, it is referred to as a diverging duct.
 
@@ -98,7 +98,7 @@ Bernoulli’s principle is extremely important in understanding how some of the 
 
 浮力 = 物体体积 × 所排开流体的密度。如果浮力大于物体的重量，物体就会浮起来；如果浮力小于物体的重量，物体就会下沉。对于下沉的物体，其可测得的重量会减少，减少的量等于所排开流体的重量。
 
-例：把一个体积 10 ft3、重 700 lb 的物体放入纯水。该物体会浮起来吗？如果下沉，它在浸没状态下的可测重量是多少？如果浮起，它有多少立方英尺的体积在水面以下？
+例：把一个体积 10 ft³、重 700 lb 的物体放入纯水。该物体会浮起来吗？如果下沉，它在浸没状态下的可测重量是多少？如果浮起，它有多少立方英尺的体积在水面以下？
 
 浮力 = 物体体积 × 所排开流体的密度 = 10 (62.4)
 
@@ -106,15 +106,15 @@ Bernoulli’s principle is extremely important in understanding how some of the 
 
 浮力的两个很好的例子是充氦气的飞艇和装浮筒的水上飞机。飞艇能够浮在大气中，水上飞机能够浮在水面上，这说明两者的浮力都大于重量。以德哈维兰“双水獭”水上飞机为例，其最大起飞重量为 12,500 lb。这架飞机的浮筒至少必须大到能在水中排开与该机重量相等的重量。按照《联邦法规》第 14 编（14 CFR）第 23 部，浮筒必须比支撑该机所需的最小体积大 80%。对这架飞机来说，浮筒的必要尺寸可计算如下：
 
-用飞机重量除以水的密度。12,500 ÷ 62.4 = 200.3 ft3。把这个体积乘以 80%。200.3 × 80% = 160.2 ft3。把这两个体积相加，就得到浮筒的总体积。
+用飞机重量除以水的密度。12,500 ÷ 62.4 = 200.3 ft³。把这个体积乘以 80%。200.3 × 80% = 160.2 ft³。把这两个体积相加，就得到浮筒的总体积。
 
-200.3 + 160.2 = 360.5 ft3。对“双水獭”来说，很明显浮筒的大部分体积都在水面以上。这一点是通过确保浮筒体积至少比所需的最小体积大 80% 来实现的。一些大型固特异飞艇的体积达 230,000 ft3。由于它们所浸没其中的流体是空气，……（原文此处数字被截断，无正文）
+200.3 + 160.2 = 360.5 ft³。对“双水獭”来说，很明显浮筒的大部分体积都在水面以上。这一点是通过确保浮筒体积至少比所需的最小体积大 80% 来实现的。一些大型固特异飞艇的体积达 230,000 ft³。由于它们所浸没其中的流体是空气，……（原文此处数字被截断，无正文）
 
-要计算飞艇所受的浮力，就把飞艇的体积乘以空气的密度（.07651 lb⁄ft3）。对于这艘固特异飞艇，浮力为 17,597 lb。
+要计算飞艇所受的浮力，就把飞艇的体积乘以空气的密度（.07651 lb⁄ft³）。对于这艘固特异飞艇，浮力为 17,597 lb。
 
 前气囊和后气囊是飞艇内部的空气腔。通过进气口，可以把空气泵入气囊，或从气囊中抽走，以控制飞艇的重量。控制飞艇的重量，也就控制了它具有多大的正升力或负升力。尽管飞艇被归类为轻于空气的航空器，实际上它是在略重于空气的状态下飞行的。
 
-液体对容器底部产生的压力，取决于液体的高度，而与容器的形状无关。三个形状和大小不同的容器里都装满了染色水。尽管形状不同、液体体积也不同，但每一个的液柱高度都是 231 英寸。由于这一高度，每一个容器对底部产生的压力都是 8.34 psi。左边那个容器的表面积为 1 in2，所盛的体积为 231 in3（1 加仑）。1 加仑水重 8.34 lb，这就是底部压力为 8.34 psi 的原因。
+液体对容器底部产生的压力，取决于液体的高度，而与容器的形状无关。三个形状和大小不同的容器里都装满了染色水。尽管形状不同、液体体积也不同，但每一个的液柱高度都是 231 英寸。由于这一高度，每一个容器对底部产生的压力都是 8.34 psi。左边那个容器的表面积为 1 in²，所盛的体积为 231 in³（1 加仑）。1 加仑水重 8.34 lb，这就是底部压力为 8.34 psi 的原因。
 
 还是回到这些容器：如果在半深处测量压力，读数将是 8.34 的一半，即 4.17 psi。换句话说，压力可以通过改变液柱高度来调节。以流体液柱高度为基础的压力称为静压力。对于汽油之类的液体，有时把它称为压头。例如，如果一台汽化器需要在其进口处获得 2 psi 的供油压力，即压头，可以把油箱放到比汽化器高出相应英寸数的位置来实现。
 
@@ -132,31 +132,31 @@ Bernoulli’s principle is extremely important in understanding how some of the 
 
 压力 = 力 ÷ 面积，面积 = 力 ÷ 压力。记住帕斯卡定律的公式以及各变量之间的关系，有一种简单方便的办法，就是使用一个三角形。把要求解的变量盖住，剩下两个变量的位置就显示出正确的数学关系。例如，若把“A”（面积）盖住，剩下的就是上面的“F”和下面的“P”，即力除以压力。
 
-这套简单的液压系统，有 5 lb 的力作用在表面积为 1⁄2 in2 的活塞上。根据帕斯卡定律，系统中的压力等于所施加的力除以活塞面积，即 10 psi。10 psi 的压力存在于流体中的各处。
+这套简单的液压系统，有 5 lb 的力作用在表面积为 1⁄2 in² 的活塞上。根据帕斯卡定律，系统中的压力等于所施加的力除以活塞面积，即 10 psi。10 psi 的压力存在于流体中的各处。
 
-这套液压系统比前一套略复杂一些。5 lb 的输入力作用在 1⁄2 in2 的活塞上，产生 10 psi 的压力。输入圆筒与活塞同第二个圆筒相连，该圆筒内装有 5 in2 的活塞。输入活塞产生的 10 psi 压力推动第二个圆筒中的活塞，产生 50 磅的输出力。
+这套液压系统比前一套略复杂一些。5 lb 的输入力作用在 1⁄2 in² 的活塞上，产生 10 psi 的压力。输入圆筒与活塞同第二个圆筒相连，该圆筒内装有 5 in² 的活塞。输入活塞产生的 10 psi 压力推动第二个圆筒中的活塞，产生 50 磅的输出力。
 
 液压系统的目的，常常就是要用小得多的输入力产生很大的输出力。输入力为 5 lb，输出力为 50 lb，即大 10 倍。输出力与输入力之间的关系，如本章前面所述，称为机械效益。机械效益为 50 除以 5，即 10。下列公式可用来计算机械效益。
 
 机械效益 = 输出力 ÷ 输入力，或 机械效益 = 输出距离 ÷ 输入距离。本章前面讨论杠杆和齿轮等简单机械时曾指出，没有任何机械能让我们获得功。同样的说法对液压系统也成立：从液压系统中得到的功，不会多于我们输入的功。由于功等于力乘距离，所以如果液压系统使我们获得了力，我们就必然失去距离。只有在系统效率为 100% 时，输出的功才与输入相同。
 
-为了考虑输出活塞随输入活塞移动而移动的距离，就必须考虑被排开的流体体积。在学习几何时，人们知道圆筒的体积等于圆筒的截面积乘以其高度。因此，当一只 2 in2 的活塞在圆筒中下移 10 in 时，它排开的流体体积等于 20 in3（2 in2 × 10 in）。第一只活塞所排开的这 20 in3 流体进入第二个圆筒，并推动其活塞移动。在简单的双活塞液压系统中，活塞面积与移动距离之间的关系由下列公式表示。输入活塞面积（移动距离）= 输出活塞面积（移动距离）
+为了考虑输出活塞随输入活塞移动而移动的距离，就必须考虑被排开的流体体积。在学习几何时，人们知道圆筒的体积等于圆筒的截面积乘以其高度。因此，当一只 2 in² 的活塞在圆筒中下移 10 in 时，它排开的流体体积等于 20 in³（2 in² × 10 in）。第一只活塞所排开的这 20 in³ 流体进入第二个圆筒，并推动其活塞移动。在简单的双活塞液压系统中，活塞面积与移动距离之间的关系由下列公式表示。输入活塞面积（移动距离）= 输出活塞面积（移动距离）
 
 这个公式表明，输入的体积等于输出的体积。小的输入活塞移动了 20 英寸，而较大的输出活塞只移动了 1 英寸。
 
-例：一套双活塞液压系统，输入活塞面积为 1⁄4 in2，输出活塞面积为 15 in2。施加 50 lb 的输入力，输入活塞移动 30 英寸。系统中的压力是多少？输出活塞产生多大的力？输出活塞移动多远？机械效益是多少？
+例：一套双活塞液压系统，输入活塞面积为 1⁄4 in²，输出活塞面积为 15 in²。施加 50 lb 的输入力，输入活塞移动 30 英寸。系统中的压力是多少？输出活塞产生多大的力？输出活塞移动多远？机械效益是多少？
 
 压力 = 力 ÷ 面积 = 50 ÷ 1⁄4 = 200 psi　力 = 压力 × 面积 = 200 × 15 = 3,000 lb　机械效益 = 输出力 ÷ 输入力 = 3,000 ÷ 50 = 60　输入活塞面积（移动距离）= 输出活塞面积（移动距离）
 
 1⁄4 (30) = 15（移动距离）
 
-1⁄4 (30) ÷ 15 = 移动距离　移动距离 = 1⁄2 in。理解帕斯卡定律和液压技术的一部分工作，就在于运用公式并认清各个变量之间的关系。在把数字代入公式之前，往往可以先分析系统中的变量，从而认识到正在发生什么。例如，看系统中的变量会发现，输出活塞比输入活塞大 20 倍，即 5 in2 对 1⁄4 in2。这一比较告诉我们，输出力将是输入力的 20 倍，同时输出活塞的移动距离只有输入活塞的 1/20。完全不做基于公式的计算，我们也可以断定，所讨论的这套液压系统的机械效益为 20。
+1⁄4 (30) ÷ 15 = 移动距离　移动距离 = 1⁄2 in。理解帕斯卡定律和液压技术的一部分工作，就在于运用公式并认清各个变量之间的关系。在把数字代入公式之前，往往可以先分析系统中的变量，从而认识到正在发生什么。例如，看系统中的变量会发现，输出活塞比输入活塞大 20 倍，即 5 in² 对 1⁄4 in²。这一比较告诉我们，输出力将是输入力的 20 倍，同时输出活塞的移动距离只有输入活塞的 1/20。完全不做基于公式的计算，我们也可以断定，所讨论的这套液压系统的机械效益为 20。
 
 ### 伯努利原理
 
 伯努利原理最初是为了解释液体流经截面积变化的管道时的行为而提出的。
 
-¼ in2 (20 in) = 5 in（距离）
+¼ in² (20 in) = 5 in（距离）
 
 有一段管道，其截面积逐渐减小，在中段达到最小直径。这样构造的管道称为“文丘里管”，或称“文丘里”。截面积逐渐减小的那一段通道称为收敛管；通道开始扩大的那一段，则称为扩张管。
 
@@ -173,7 +173,7 @@ Bernoulli’s principle is extremely important in understanding how some of the 
 | fluid | n. | 流体 | 能流动的物质，液体与气体都属此类 |
 | buoyant force | n.phr. | 浮力 | 流体对浸没物体施加的向上之力 |
 | Archimedes’ principle | 专有名词 | 阿基米德原理 | 浮力等于物体所排开流体的重量 |
-| density | n. | 密度 | 单位体积的重量，本节水取 62.4 lb⁄ft3 |
+| density | n. | 密度 | 单位体积的重量，本节水取 62.4 lb⁄ft³ |
 | static pressure | n.phr. | 静压力 | 由流体液柱高度产生的压力 |
 | ram pressure | n.phr. | 冲压 | 由流体速度转化而来的那部分压力 |
 | total pressure | n.phr. | 全压 | 冲压与静压力相加之和 |

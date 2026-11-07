@@ -28,11 +28,11 @@ The exosphere, or mesosphere, is the outer layer of the atmosphere. It begins at
 
 ### Atmospheric Pressure
 
-The human body is under pressure, since it exists at the bottom of a sea of air. This pressure is due to the weight of the atmosphere. On a standard day at sea level, if a 1-in2 column of air extending to the top of the atmosphere was weighed, it would weigh 14.7 lb. That is why standard day atmospheric pressure is said to be 14.7 pounds per square inch (14.7 psi).
+The human body is under pressure, since it exists at the bottom of a sea of air. This pressure is due to the weight of the atmosphere. On a standard day at sea level, if a 1-in² column of air extending to the top of the atmosphere was weighed, it would weigh 14.7 lb. That is why standard day atmospheric pressure is said to be 14.7 pounds per square inch (14.7 psi).
 
 Since atmospheric pressure at any altitude is due to the weight of air above it, pressure decreases with increased altitude. Obviously, the total weight of air above an area at 15,000 ft would be less than the total weight of the air above an area at 10,000 ft.
 
-Atmospheric pressure is often measured by a mercury barometer. A glass tube somewhat over 30 inches in length is sealed at one end and then filled with mercury. It is then inverted and the open end placed in a dish of mercury. Immediately, the mercury level in the inverted tube will drop a short distance, leaving a small volume of mercury vapor at nearly zero absolute pressure in the tube just above the top of the liquid mercury column. Gravity acting on the mercury in the tube will try to make the mercury run out. Atmospheric pressure pushing down on the mercury in the open container tries to make the mercury stay in the tube. At some point these two forces (gravity and atmospheric pressure) will equilibrate out and the mercury will stabilize at a certain height in the tube. Under standard day atmospheric conditions, the air in a 1 square inch column extending to the top of the atmosphere would weigh 14.7 lb. A 1-in2 column of mercury, 29.92 inches tall, would also weigh 14.7 lb. That is why 14.7 psi is equal to 29.92 "Hg.
+Atmospheric pressure is often measured by a mercury barometer. A glass tube somewhat over 30 inches in length is sealed at one end and then filled with mercury. It is then inverted and the open end placed in a dish of mercury. Immediately, the mercury level in the inverted tube will drop a short distance, leaving a small volume of mercury vapor at nearly zero absolute pressure in the tube just above the top of the liquid mercury column. Gravity acting on the mercury in the tube will try to make the mercury run out. Atmospheric pressure pushing down on the mercury in the open container tries to make the mercury stay in the tube. At some point these two forces (gravity and atmospheric pressure) will equilibrate out and the mercury will stabilize at a certain height in the tube. Under standard day atmospheric conditions, the air in a 1 square inch column extending to the top of the atmosphere would weigh 14.7 lb. A 1-in² column of mercury, 29.92 inches tall, would also weigh 14.7 lb. That is why 14.7 psi is equal to 29.92 "Hg.
 
 A second means of measuring atmospheric pressure is with an aneroid barometer. This mechanical instrument is a much better choice than a mercury barometer for use on airplanes. Aneroid barometers, or altimeters, are used to indicate altitude in flight. The calibrations are made in thousands of feet rather than in psi or inches of mercury. For example, the standard pressure at sea level is 29.92 "Hg, or 14.7 psi. At 10,000 feet above sea level, standard pressure is 20.58 "Hg, or 10.10 psi. Altimeters are calibrated so that if the pressure exerted by the atmosphere is 10.10 psi, the altimeter will point to 10,000 ft.
 
@@ -104,11 +104,11 @@ Pressure at 0 altitude (P0) = 29.92 "Hg Temperature at 0 altitude (T0) = 15 °C 
 
 ### 大气压力
 
-人体处于压力之下，因为它存在于一片空气海洋的底部。这一压力来自大气的重量。在标准日的海平面，若把一根截面积 1 in2、一直延伸到大气顶部的空气柱称重，它重 14.7 lb。这就是为什么标准日的大气压力被说成 14.7 磅每平方英寸（14.7 psi）。
+人体处于压力之下，因为它存在于一片空气海洋的底部。这一压力来自大气的重量。在标准日的海平面，若把一根截面积 1 in²、一直延伸到大气顶部的空气柱称重，它重 14.7 lb。这就是为什么标准日的大气压力被说成 14.7 磅每平方英寸（14.7 psi）。
 
 既然任何高度上的大气压力都来自其上方空气的重量，压力便随高度上升而减小。显然，15,000 ft 处某一区域上方的空气总重量，小于 10,000 ft 处同一区域上方的空气总重量。
 
-大气压力常用水银气压计测量。一根长度略超过 30 英寸的玻璃管，一端封死，然后灌满水银。接着把它倒过来，开口端插入一盘水银中。倒置管中的水银面会立刻下降一小段，在水银柱顶端上方留下一小段体积、绝对压力几乎为零的水银蒸气。作用在管中水银上的重力力图使水银流出；压在开口容器水银面上的大气压力则力图使水银留在管内。到某一点，这两个力（重力和大气压力）达到平衡，水银便在管内某一高度稳定下来。在标准日大气条件下，一根截面积 1 平方英寸、延伸到大气顶部的空气柱重 14.7 lb；一根截面积 1 in2、高 29.92 英寸的水银柱同样重 14.7 lb。这就是 14.7 psi 等于 29.92 "Hg 的原因。
+大气压力常用水银气压计测量。一根长度略超过 30 英寸的玻璃管，一端封死，然后灌满水银。接着把它倒过来，开口端插入一盘水银中。倒置管中的水银面会立刻下降一小段，在水银柱顶端上方留下一小段体积、绝对压力几乎为零的水银蒸气。作用在管中水银上的重力力图使水银流出；压在开口容器水银面上的大气压力则力图使水银留在管内。到某一点，这两个力（重力和大气压力）达到平衡，水银便在管内某一高度稳定下来。在标准日大气条件下，一根截面积 1 平方英寸、延伸到大气顶部的空气柱重 14.7 lb；一根截面积 1 in²、高 29.92 英寸的水银柱同样重 14.7 lb。这就是 14.7 psi 等于 29.92 "Hg 的原因。
 
 测量大气压力的第二种手段是无液气压计。这种机械式仪器用在飞机上，比水银气压计合适得多。无液气压计，也就是高度表，在飞行中用来指示高度。其刻度以千英尺为单位，而不是以 psi 或英寸水银柱为单位。例如，海平面的标准压力为 29.92 "Hg，即 14.7 psi；海拔 10,000 ft 处的标准压力为 20.58 "Hg，即 10.10 psi。高度表的校准使得：若大气施加的压力为 10.10 psi，高度表就指向 10,000 ft。
 

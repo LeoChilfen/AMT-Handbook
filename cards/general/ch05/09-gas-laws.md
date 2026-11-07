@@ -14,7 +14,7 @@ Such phenomena as these have been explained and set forth in the form of laws pe
 
 As previously stated, compressibility is an outstanding characteristic of gases. The English scientist, Robert Boyle, was among the first to study this characteristic that he called the “springiness of air.” By direct measurement he discovered that when the temperature of a combined sample of gas was kept constant and the absolute pressure doubled, the volume was reduced to half the former value. As the applied absolute pressure was decreased, the resulting volume increased. From these observations, he concluded that for a constant temperature the product of the volume and absolute pressure of an enclosed gas remains constant. Boyle’s law is normally stated: “The volume of an enclosed dry gas varies inversely with its absolute pressure, provided the temperature remains constant.” The following formula is used for Boyle’s law calculations. Remember, pressure needs to be in the absolute.
 
-V olume 1 × Pressure 1 = V olume 2 × Pressure 2 or V1P1 = V2P2 Example: 10 ft3 of nitrogen is under a pressure of 500 psia. If the volume is reduced to 7 ft3, what will the new pressure be?
+V olume 1 × Pressure 1 = V olume 2 × Pressure 2 or V1P1 = V2P2 Example: 10 ft³ of nitrogen is under a pressure of 500 psia. If the volume is reduced to 7 ft³, what will the new pressure be?
 
 V 1P1 = V2P2 10 (500) = 7 (P2)
 
@@ -24,7 +24,7 @@ The French scientist, Jacques Charles, provided much of the foundation for the m
 
 V olume 1 × Absolute Temperature 2 = V olume 2 × Absolute Temperature 1 or V1T2 = V2T1 Charles’ law also works if the volume is held constant, and pressure and temperature are the variables. In this case, the formula would be as follows: P1T2 = P2T1 For this second formula, pressure and temperature must be in the absolute.
 
-Example: A 15-ft3 cylinder of oxygen is at a temperature of 70 °F and a pressure of 750 psig. The cylinder is placed in the sun and the temperature of the oxygen increases to 140 °F. What would be the new pressure in psig?
+Example: A 15-ft³ cylinder of oxygen is at a temperature of 70 °F and a pressure of 750 psig. The cylinder is placed in the sun and the temperature of the oxygen increases to 140 °F. What would be the new pressure in psig?
 
 70 degrees Fahrenheit = 530 degrees Rankine 140 degrees Fahrenheit = 600 degrees Rankine 750 psig + 14.7 = 764.7 psia P1T2 = P2T1 764.7 (600) = P2 (530)
 
@@ -36,7 +36,7 @@ P1 (V1) ÷ T1 = P2 (V2) ÷ T2 or P1 (V1) (T2) = P2 (V2) (T1)
 
 When using the general gas law formula, temperature and pressure must be in the absolute.
 
-Example: 20 ft 3 of the gas argon is compressed to 15 ft 3. The gas starts out at a temperature of 60 °F and a pressure of 1,000 psig. After being compressed, its temperature is 90 °F. What would its new pressure be in psig?
+Example: 20 ft³ of the gas argon is compressed to 15 ft³. The gas starts out at a temperature of 60 °F and a pressure of 1,000 psig. After being compressed, its temperature is 90 °F. What would its new pressure be in psig?
 
 60 degrees Fahrenheit = 520 degrees Rankine 90 degrees Fahrenheit = 550 degrees Rankine 1,000 psig + 14.7 = 1,014.7 psia P1 (V1) (T2) = P2 (V2) (T1)
 
@@ -58,7 +58,7 @@ If a mixture of two or more gases that do not combine chemically is placed in a 
 
 如前所述，可压缩性是气体的一项突出特性。英国科学家罗伯特·玻意耳是最早研究这一特性的人之一，他把这种特性称为“空气的弹性”。通过直接测量他发现：如果使一份混合气体样品的温度保持不变，而让绝对压力加倍，体积就会减小为原来的一半；如果所施加的绝对压力减小，体积则会增大。根据这些观察，他得出结论：温度不变时，密闭气体的体积与绝对压力的乘积保持不变。玻意耳定律通常表述为：“密闭干气体的体积与其绝对压力成反比，前提是温度保持不变。”计算玻意耳定律时使用下列公式。请记住，压力必须取绝对压力。
 
-体积 1 × 压力 1 = 体积 2 × 压力 2，或 V1P1 = V2P2。例：10 ft3 的氮气处于 500 psia 的压力之下。如果体积减小到 7 ft3，新的压力是多少？
+体积 1 × 压力 1 = 体积 2 × 压力 2，或 V1P1 = V2P2。例：10 ft³ 的氮气处于 500 psia 的压力之下。如果体积减小到 7 ft³，新的压力是多少？
 
 V1P1 = V2P2　10 (500) = 7 (P2)
 
@@ -68,7 +68,7 @@ V1P1 = V2P2　10 (500) = 7 (P2)
 
 体积 1 × 绝对温度 2 = 体积 2 × 绝对温度 1，或 V1T2 = V2T1。如果体积保持不变，以压力和温度为变量，查理定律同样适用。在这种情况下，公式如下：P1T2 = P2T1。使用第二个公式时，压力和温度都必须取绝对值。
 
-例：一个 15 ft3 的氧气瓶，温度为 70 °F，压力为 750 psig。把这个钢瓶放在阳光下，氧气的温度升高到 140 °F。新的压力（psig）是多少？
+例：一个 15 ft³ 的氧气瓶，温度为 70 °F，压力为 750 psig。把这个钢瓶放在阳光下，氧气的温度升高到 140 °F。新的压力（psig）是多少？
 
 70 华氏度 = 530 兰氏度　140 华氏度 = 600 兰氏度　750 psig + 14.7 = 764.7 psia　P1T2 = P2T1　764.7 (600) = P2 (530)
 
@@ -80,7 +80,7 @@ P1 (V1) ÷ T1 = P2 (V2) ÷ T2，或 P1 (V1) (T2) = P2 (V2) (T1)
 
 使用通用气体定律公式时，温度和压力都必须取绝对值。
 
-例：20 ft3 的氩气被压缩到 15 ft3。该气体初始温度为 60 °F，压力为 1,000 psig。压缩之后，它的温度是 90 °F。它的新压力（psig）是多少？
+例：20 ft³ 的氩气被压缩到 15 ft³。该气体初始温度为 60 °F，压力为 1,000 psig。压缩之后，它的温度是 90 °F。它的新压力（psig）是多少？
 
 60 华氏度 = 520 兰氏度　90 华氏度 = 550 兰氏度　1,000 psig + 14.7 = 1,014.7 psia　P1 (V1) (T2) = P2 (V2) (T1)
 
@@ -103,7 +103,7 @@ P2 = 1,431 psia　P2 = 1,416.3 psig
 | partial pressure | n.phr. | 分压力 | 混合气体中某一组分单独占据整个空间时的压力 |
 | Dalton’s law | 专有名词 | 道尔顿定律 | 不发生化学反应的气体混合物，其总压力等于各分压力之和 |
 | general gas law | n.phr. | 通用气体定律 | 玻意耳定律与查理定律合并所得的公式 |
-| volume | n. | 体积 | 气体所占的空间，本节例题中单位为 ft3 |
+| volume | n. | 体积 | 气体所占的空间，本节例题中单位为 ft³ |
 | vary inversely | v.phr. | 成反比变化 | 描述体积随绝对压力升高而减小 |
 | enclosed | adj. | 密闭的 | 修饰被封在容器内的干气体 |
 

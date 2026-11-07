@@ -34,7 +34,7 @@ In the converging part of the venturi, velocity would increase and static pressu
 
 The air reaching the leading edge of the wing separates into two separate flows. Some of the air goes over the top of the wing and some travels along the bottom. The air going over the top, because of the curvature, has farther to travel. With a greater distance to travel, the air going over the top must move at a greater velocity. The higher velocity on the top causes the static pressure on the top to be less than it is on the bottom, and this difference in static pressures is what creates lift.
 
-For this wing, imagine it is 5 ft. wide and 15 ft. long, for a surface area of 75 ft 2 (10,800 in2). If the difference in static pressure between the top and bottom is 0.1 psi, there will be 1⁄10 lb of lift for each square inch of surface area. Since there are 10,800 in2 of surface area, there would be 1,080 lb of lift (0.1 × 10,800).
+For this wing, imagine it is 5 ft. wide and 15 ft. long, for a surface area of 75 ft² (10,800 in²). If the difference in static pressure between the top and bottom is 0.1 psi, there will be 1⁄10 lb of lift for each square inch of surface area. Since there are 10,800 in² of surface area, there would be 1,080 lb of lift (0.1 × 10,800).
 
 ### Lift and Newton’s Third Law
 
@@ -410,7 +410,7 @@ To land a powered parachute, the first action the pilot takes is to reduce engin
 
 到达机翼前缘的空气分成两股独立的气流。一部分流过机翼上表面，一部分沿下表面流过。由于翼型的弯度，流经上表面的空气要走更长的距离。距离更长，上表面的空气就必须以更大的速度运动。上表面速度较高，使其静压低于下表面，而正是这一静压差产生了升力。
 
-对于这只机翼，设想它宽 5 ft、长 15 ft，表面积为 75 ft2（10,800 in2）。如果上下表面的静压差为 0.1 psi，那么每平方英寸表面积就能产生 1/10 lb 的升力。由于表面积为 10,800 in2，总升力就是 1,080 lb（0.1 × 10,800）。
+对于这只机翼，设想它宽 5 ft、长 15 ft，表面积为 75 ft²（10,800 in²）。如果上下表面的静压差为 0.1 psi，那么每平方英寸表面积就能产生 1/10 lb 的升力。由于表面积为 10,800 in²，总升力就是 1,080 lb（0.1 × 10,800）。
 
 ### 升力与牛顿第三定律
 
