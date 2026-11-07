@@ -34,9 +34,9 @@ Impenetrability means that no two objects can occupy the same place at the same 
 
 #### Density
 
-The density of a substance is its weight per unit volume. The unit volume selected for use in the English system of measurement is 1 cubic foot (ft 3). In the metric system, it is 1 cubic centimeter (cm3). Therefore, density is expressed in pounds per cubic foot (lb⁄ft 3) or in grams per cubic centimeter (g⁄cm 3).
+The density of a substance is its weight per unit volume. The unit volume selected for use in the English system of measurement is 1 cubic foot (ft³). In the metric system, it is 1 cubic centimeter (cm³). Therefore, density is expressed in pounds per cubic foot (lb⁄ft³) or in grams per cubic centimeter (g⁄cm³).
 
-To find the density of a substance, its weight and volume must be known. Its weight is then divided by its volume to find the weight per unit volume. For example, the liquid which fills a certain container weighs 1,497.6 lb. The container is 4 ft long, 3 ft wide and 2 ft deep. Its volume is 24 ft 3 (4 ft. × 3 ft. × 2 ft.). If 24 ft3 of liquid weighs 1,497.6 lb, then 1 ft3 weighs 1,497.6 ÷ 24, or 62.4 lb. Therefore, the density of the liquid is 62.4 lb/ft3. This is the density of water at 4 °C (Centigrade) and is usually used as the standard for comparing densities of other substances. In the metric system, the density of water is 1 g⁄cm3. The standard temperature of 4 °C is used when measuring the density of liquids and solids. Changes in temperature will not change the weight of a substance, but will change the volume of the substance by expansion or contraction, thus changing its weight per unit volume.
+To find the density of a substance, its weight and volume must be known. Its weight is then divided by its volume to find the weight per unit volume. For example, the liquid which fills a certain container weighs 1,497.6 lb. The container is 4 ft long, 3 ft wide and 2 ft deep. Its volume is 24 ft³ (4 ft. × 3 ft. × 2 ft.). If 24 ft³ of liquid weighs 1,497.6 lb, then 1 ft³ weighs 1,497.6 ÷ 24, or 62.4 lb. Therefore, the density of the liquid is 62.4 lb/ft³. This is the density of water at 4 °C (Centigrade) and is usually used as the standard for comparing densities of other substances. In the metric system, the density of water is 1 g⁄cm³. The standard temperature of 4 °C is used when measuring the density of liquids and solids. Changes in temperature will not change the weight of a substance, but will change the volume of the substance by expansion or contraction, thus changing its weight per unit volume.
 
 The procedure for finding density applies to all substances; however, it is necessary to consider the pressure when finding the density of gases. Pressure is more critical when measuring the density of gases than it is for other substances. The density of a gas increases in direct proportion to the pressure exerted on it. Standard conditions for the measurement of the densities of gases have been established at 0 °C for temperature and a pressure of 76 cm of mercury (Hg), which is the average pressure of the atmosphere at sea level. Density is computed based on these conditions for all gases.
 
@@ -54,7 +54,7 @@ Specific Gravity = Density of the substance / Density of water
 
 The same formulas are used to find the density of gases by substituting air or hydrogen for water.
 
-Specific gravity is not expressed in units, but as pure numbers. For example, if a certain hydraulic fluid has a specific gravity of 0.8, 1 ft3 of the liquid weighs 0.8 times as much as 1 ft 3 of water: 62.4 times 0.8, or 49.92 lb.
+Specific gravity is not expressed in units, but as pure numbers. For example, if a certain hydraulic fluid has a specific gravity of 0.8, 1 ft³ of the liquid weighs 0.8 times as much as 1 ft³ of water: 62.4 times 0.8, or 49.92 lb.
 
 Specific gravity and density are independent of the size of the sample under consideration and depend only upon the substance of which it is made.
 
@@ -68,21 +68,31 @@ An example of the use of the hydrometer is to determine the specific gravity of 
 
 ### 物质的特性
 
+#### 质量与重量
+
 质量是衡量物体中物质多少的尺度。换言之，就是物体中有多少个分子、多少个原子；更具体地说，就是物体中有多少个质子、中子和电子。无论把物体带到宇宙中的何处，还是其状态发生变化，物体的质量都不会改变。改变物体质量的唯一办法是增加或取出原子。用数学式表示，质量可写成：
 
-质量 = 重量 ÷ 重力加速度 地球上的重力加速度为 32.2 英尺每二次方秒（32.2 fps/s）。在地球上重 32.2 磅（lb）的物体，其质量称为 1 斯勒格（slug）。1 斯勒格是这样一份质量：当施加 1 磅的力时，它以 1 英尺/秒² 的加速度加速。换言之，在标准大气条件下（即重力加速度等于 32.2 fps/s），1 斯勒格的质量等于 32.2 lb。
+质量 = 重量 ÷ 重力加速度
+
+地球上的重力加速度为 32.2 英尺每二次方秒（32.2 fps/s）。在地球上重 32.2 磅（lb）的物体，其质量称为 1 斯勒格（slug）。1 斯勒格是这样一份质量：当施加 1 磅的力时，它以 1 英尺/秒² 的加速度加速。换言之，在标准大气条件下（即重力加速度等于 32.2 fps/s），1 斯勒格的质量等于 32.2 lb。
 
 重量是衡量重力作用于物体质量所产生的拉力的尺度。物体的质量越大，在地球重力作用下就越重。物体要变得没有重量，唯一的办法是重力消失，因为物体的质量不可能消失。我们看到航天飞机上的航天员时，会觉得他们处于失重状态。尽管航天飞机远离地球表面，重力并未完全消失，航天员也并非没有重量。航天员和航天飞机实际上处于自由落体状态，因此相对于航天飞机而言，航天员看起来是失重的。用数学式表示，重量可写成：
 
 重量 = 质量 × 重力
 
+#### 引力
+
 引力是物质粒子之间相互作用的力，它倾向于把粒子拉在一起。艾萨克·牛顿爵士称之为“万有引力定律”。牛顿阐明了每个物质粒子如何吸引其他每一个粒子，人如何被束缚在地球上，行星又如何被吸引在太阳系中。
+
+#### 多孔性
 
 多孔性是指物质具有孔隙或空隙，在形成混合物时较小的颗粒可以嵌入其中。这有时也称为粒状——由细小颗粒构成，或看起来由细小颗粒构成。
 
 #### 不可入性
 
 不可入性是指任何两个物体不能在同一时间占据同一位置。因此，两部分物质不能同时占据同一空间。
+
+#### 密度
 
 物质的密度是其单位体积的重量。英制计量中选用的单位体积是 1 立方英尺（ft³），公制中是 1 立方厘米（cm³）。因此，密度用磅每立方英尺（lb/ft³）或克每立方厘米（g/cm³）表示。
 
@@ -96,7 +106,13 @@ An example of the use of the hydrometer is to determine the specific gravity of 
 
 求液体和固体比重时使用以下公式。
 
-比重 = 物质重量 ÷ 同体积水的重量，或 比重 = 物质密度 ÷ 水的密度。求气体的相应数值时，以空气或氢代替水，所用公式相同。
+比重 = 物质重量 ÷ 同体积水的重量
+
+或
+
+比重 = 物质密度 ÷ 水的密度。
+
+求气体的相应数值时，以空气或氢代替水，所用公式相同。
 
 比重不带单位，而用纯数表示。例如，某种液压油的比重为 0.8，则 1 ft³ 该液体的重量是 1 ft³ 水的 0.8 倍：62.4 × 0.8，即 49.92 lb。
 
