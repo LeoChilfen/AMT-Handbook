@@ -114,7 +114,7 @@ Fine crack-like apertures require a longer penetrating time than defects such as
 
 5. When the part to be inspected is made of a material susceptible to magnetism, it should be inspected by a magnetic particle inspection method if the equipment is available.
 
-6. V isible penetrant-type developer, when applied to the surface of a part, dries to a smooth, white coating.
+6. Visible penetrant-type developer, when applied to the surface of a part, dries to a smooth, white coating.
 
 As the developer dries, bright red indications appear where there are surface defects. If no red indications appear, there are no surface defects. 7. When conducting the fluorescent penetrant-type inspection, the defects show up (under black light) as a brilliant yellow-green color and the sound areas appear deep blue-violet.
 

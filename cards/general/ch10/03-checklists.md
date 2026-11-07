@@ -104,7 +104,7 @@ C. Fabric or skin—for abrasion, tears, cuts, defects, distortion, and deterior
 
 A. Propeller assembly—for cracks, nicks, bends, and oil leakage.
 
-B. Bolts—for proper torquing and safe tying.
+B. Bolts—for proper torquing and safetying.
 
 C. Anti-icing devices—for proper operation and obvious defects.
 

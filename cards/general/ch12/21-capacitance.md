@@ -96,7 +96,7 @@ If C1 = 10 μF, C2 = 5 μF and C3 = 8 μF Then = + + CT 10 μF 5 μF 8 μF 1 1 1
 
 When capacitors are connected in parallel, the effective plate area increases, and the total capacitance is the sum of the individual capacitances. The figure shows a simplified parallel circuit. The total charging current from the source divides at the junction of the parallel branches. There is a separate charging current through each branch so that a different charge can be stored by each capacitor. Using Kirchhoff’s Current Law, the sum of all of the charging currents is then equal to the total current. The sum of the charges (Q) on the capacitors is equal to the total charge. The voltages (E) across all of the parallel branches are equal. With all of this in mind, a general equation for capacitors in parallel can be determined as:
 
-Q T = Q1 + Q2 + Q3 Because Q = CE: CTET = C1E1 + C2E2 + C3E3 V oltages can be factored out because:
+Q T = Q1 + Q2 + Q3 Because Q = CE: CTET = C1E1 + C2E2 + C3E3 Voltages can be factored out because:
 
 E T = E1 + E2 + E3 Leaving us with the equation for capacitors in parallel:
 

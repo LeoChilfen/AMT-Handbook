@@ -74,7 +74,7 @@ Protruding head (tension)
 
 “L” at end of part number indicates cetyl alcohol lubricant. A. Drill out corrosion or damage to existing hole to 1/64 oversize.
 
-A286 Stainless steel (passivate) C B A Part Number Breakdown JK5511 A 04 N 08 L JK5511 A 04 N 08 L Basic part number Material code 1 Fastener s hank diameter in 32nds Surface finish N = No finish C = C hemical film per MIL-C -554 Length in sixteenth inch increments (Required installation length by breaking off at proper groove)
+A286 Stainless steel (passivate) C B A Part Number Breakdown JK5511 A 04 N 08 L JK5511 A 04 N 08 L Basic part number Material code 1 Fasteners hank diameter in 32nds Surface finish N = No finish C = Chemical film per MIL-C -554 Length in sixteenth inch increments (Required installation length by breaking off at proper groove)
 
 JK5512 JK5516( )45( )( )
 
@@ -82,7 +82,7 @@ Sleeve Part Number Bolt Size Sleeve Length Acres Sleeve for 1⁄64 Oversize Bolt
 
 13⁄64 17⁄64 21⁄64 25⁄64 12 16 16 16 21 NOTES:
 
-Acres sleeve, JK5533 1⁄64 oversize available in A286 ste el only Acres sleeve length in sixteenth-inch increments 1 2 Material Material Code 5052 Aluminum alloy ½ hard 6061 Aluminum alloy (T6 condition)
+Acres sleeve, JK5533 1⁄64 oversize available in A286 steel only Acres sleeve length in sixteenth-inch increments 1 2 Material Material Code 5052 Aluminum alloy ½ hard 6061 Aluminum alloy (T6 condition)
 
 Installation Procedure 1/8 #6 5/32 #8 #10 ¼ 5/16 3/8 9/64 23 11/64 15 5 14 21/64 25/64 0.1406 0.1540 0.1719 0.1800 0.2055 0.2660 0.3281 0.3908 28 24 18 16 6 17/64 0.1405 0.1520 0.1695 0.1770 0.2040 0.2656 Bolt Size Standard Fit Close Fit Drill Number Drill Diameter Drill Number Drill Diameter Hole Preparation 7/32 9/32 11/32 13/32 13/64 17/64 21/64 25/64 0.2187 0.2812 0.3437 0.4062 Bolt Size Drill N umber Drill Diameter Hole Preparation for 1⁄64 Oversize Bolt Existing fastener Acres sleeve Structure1/64 Oversize hole Acres sleeve installation 1/8 — 3/8 diameter 7 x 19 1/16 — 3/32 diameter 7 x 7 MS20663 Double shank ball end terminal MS20664 Single shank ball end terminal AN665 Rod end terminal AN666 Threaded cable terminal MS20667 Fork end cable terminal AN668/MS20668 Eye end cable terminal Pin eyeSwaged terminal Barrel Length (threads ﬂush with ends of barrel)
 

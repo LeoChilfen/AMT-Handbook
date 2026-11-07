@@ -18,7 +18,7 @@ When a helicopter is being weighed, the location of both longitudinal and latera
 
 Before a helicopter is weighed, it must be leveled longitudinally and laterally. This can be done with a spirit Weight (lb)
 
-1,400 180 140 210 100 228 2,258 Item Aircraft Empty Weight Pilot Front Passengers Rear Passengers Baggage Fu el Tot al Moment (in-lb)
+1,400 180 140 210 100 228 2,258 Item Aircraft Empty Weight Pilot Front Passengers Rear Passengers Baggage Fuel Total Moment (in-lb)
 
 53,900 6,000 4,500 15,000 9,200 10,800 99,400 2,400 2,300 2,200 2,100 2,000 1,900 1,800 1,700 1,600 1,500 50 55 60 65 70 75 80 85 90 95 100 105 110 115 Load Aircraft Weight (lb)
 

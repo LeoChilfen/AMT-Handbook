@@ -28,17 +28,17 @@ Solve for current, ERI = The variables, E = 12 V and RT = 20 Ω Substitute varia
 
 ### Voltage Drops & Further Application of Ohm’s Law
 
-The example circuit is used to illustrate the idea of voltage drop. It is important to differentiate between voltage and voltage drop when discussing series circuits. V oltage drop refers to the loss in electrical pressure or emf caused by forcing electrons through a resistor. Because there are two resistors in the example, there are separate voltage drops. Each drop is associated with each individual resistor. The amount of electrical pressure required to force a given number of electrons through a resistance is proportional to the size of the resistor.
+The example circuit is used to illustrate the idea of voltage drop. It is important to differentiate between voltage and voltage drop when discussing series circuits. Voltage drop refers to the loss in electrical pressure or emf caused by forcing electrons through a resistor. Because there are two resistors in the example, there are separate voltage drops. Each drop is associated with each individual resistor. The amount of electrical pressure required to force a given number of electrons through a resistance is proportional to the size of the resistor.
 
 The values used to illustrate the idea of voltage drop are:
 
 Current, I = 1 mA R 1 = 1 kΩ R 2 = 3 kΩ R 3 = 5 kΩ The voltage drop across each resistor is calculated using Ohm’s Law. The drop for each resistor is the product of each resistance and the total current in the circuit. Keep in mind that the same current flows through series resistor.
 
-V oltage across R1: E1 = IT (R1)
+Voltage across R1: E1 = IT (R1)
 
-E1 = 1 mA (1 kΩ) = 1 volt V oltage across R2: E2 = IT (R2)
+E1 = 1 mA (1 kΩ) = 1 volt Voltage across R2: E2 = IT (R2)
 
-E2 = 1 mA (3 kΩ) = 3 volt V oltage across R3: E3 = IT (R3)
+E2 = 1 mA (3 kΩ) = 3 volt Voltage across R3: E3 = IT (R3)
 
 E3 = 1 mA (5 kΩ) = 5 volt The source voltage can now be determined, which can then be used to confirm the calculations for each voltage drop. Using Ohm’s Law:
 
@@ -64,15 +64,15 @@ ET = + 1.5v − 1.5v + 1.5v = +1.5 volts
 
 ### Kirchhoff’s Voltage Law
 
-A law of basic importance to the analysis of an electrical circuit is Kirchhoff’s V oltage Law. This law simply states that the algebraic sum of all voltages around a closed path or loop is zero. Another way of saying it: the sum of all the voltage drops equals the total source voltage. A simplified formula showing this law is shown below:
+A law of basic importance to the analysis of an electrical circuit is Kirchhoff’s Voltage Law. This law simply states that the algebraic sum of all voltages around a closed path or loop is zero. Another way of saying it: the sum of all the voltage drops equals the total source voltage. A simplified formula showing this law is shown below:
 
 With three resistors in the circuit: E S – E1 – E2 – E3 … –EN = 0 volts Notice that the sign of the source is opposite that of the individual voltage drops. Therefore, the algebraic sum equals zero. Written another way:
 
 E S = E1 + E2 + E3 … +EN The source voltage equals the sum of the voltage drops. The polarity of the voltage drop is determined by the direction of the current flow. When going around the circuit, notice that the polarity of the resistor is opposite that of the source voltage. The positive on the resistor is facing the positive on the source, and the negative on the resistor is facing the negative on the source.
 
-The very basic idea of Kirchhoff’s V oltage Law is illustrated here. There are two resistors in this example. One has a drop of 14 volts and the other has a drop of 10 volts. The source voltage must equal the sum of the voltage drops around the circuit. By inspection, it is easy to determine the source voltage as 24 volts.
+The very basic idea of Kirchhoff’s Voltage Law is illustrated here. There are two resistors in this example. One has a drop of 14 volts and the other has a drop of 10 volts. The source voltage must equal the sum of the voltage drops around the circuit. By inspection, it is easy to determine the source voltage as 24 volts.
 
-A series circuit has three voltage drops and one voltage source rated at 24 volts. Two of the voltage drops are known. However, the third is not known. Using Kirchhoff’s V oltage Law, the third voltage drop can be determined.
+A series circuit has three voltage drops and one voltage source rated at 24 volts. Two of the voltage drops are known. However, the third is not known. Using Kirchhoff’s Voltage Law, the third voltage drop can be determined.
 
 With three resistors in the circuit: E S – E1 – E2 – E3 = 0 volts Substitute the known values:
 
@@ -82,15 +82,15 @@ E1 = (200 mA) (10 Ω)
 
 1.5V 1.5V + 1.5V − +−+− 1.5V 1.5V + ES=24V − 14V 10V +− +− + 10V E224VES − + − + 12V E1 − + ?
 
-V oltage drop across R1 E1 = 2 volts E2 = I (R2)
+Voltage drop across R1 E1 = 2 volts E2 = I (R2)
 
 E2 = (200 mA) (50 Ω)
 
-V oltage drop across R2 E2 = 10 volts E3 = I (R3)
+Voltage drop across R2 E2 = 10 volts E3 = I (R3)
 
 E3 = (200 mA) (100 Ω)
 
-V oltage drop across R3 E3 = 20 volts Kirchhoff’s V oltage Law is now employed to determine the voltage drop across E4.
+Voltage drop across R3 E3 = 20 volts Kirchhoff’s Voltage Law is now employed to determine the voltage drop across E4.
 
 With four resistors in the circuit E S – E1 – E2 – E3 – E4 = 0 volts Substituting values:
 
@@ -100,7 +100,7 @@ Ohm’s Law: EIR = Specific application: E4IR4 = Substitute values: 68 V200 mAR4
 
 ### Voltage Dividers
 
-V oltage dividers are devices that make it possible to obtain more than one voltage from a single power source. A voltage divider usually consists of a resistor, or resistors connected in series, with fixed or movable contacts and two fixed terminal contacts. As current flows through the resistor, different voltages can be obtained between the contacts.
+Voltage dividers are devices that make it possible to obtain more than one voltage from a single power source. A voltage divider usually consists of a resistor, or resistors connected in series, with fixed or movable contacts and two fixed terminal contacts. As current flows through the resistor, different voltages can be obtained between the contacts.
 
 Series circuits are used for voltage dividers. The voltage divider rule allows the technician to calculate the voltage across one or a combination of series resistors without having to first calculate the current in the circuit. Because the current flows through each resistor, the voltage drops are proportional to the ohmic values of the constituent resistors. To understand how a voltage divider works, examine the voltage divider carefully and observe the following:
 
@@ -140,11 +140,11 @@ Current: ESRTI = The current equation can now be substituted into the equation f
 
 Substitute: ES RT EX = ( )(RX) Algebraic rearrange: RX RT EX = ( )(ES) This equation is the general voltage divider formula. The explanation of this formula is that the voltage drop across any resistor or combination of resistors in a series circuit is equal to the ratio of the resistance value to the total resistance, divided by the value of the source voltage. A network of three resistors and one voltage source illustrates this.
 
-RX RT EX = ( ) ES R T = 100 Ω + 300 Ω + 600 Ω = 1,000 Ω E S = 10 V V oltage drop over 100 Ω resistor is:
+RX RT EX = ( ) ES R T = 100 Ω + 300 Ω + 600 Ω = 1,000 Ω E S = 10 V Voltage drop over 100 Ω resistor is:
 
-100 Ω 1,000 ΩEX = ( ) 100 V E 100Ω = 10 V V oltage drop over 300 Ω resistor is:
+100 Ω 1,000 ΩEX = ( ) 100 V E 100Ω = 10 V Voltage drop over 300 Ω resistor is:
 
-300 Ω 1,000 ΩEX = ( ) 100 V E 100 Ω = 30 V V oltage drop over 600 Ω resistor is:
+300 Ω 1,000 ΩEX = ( ) 100 V E 100 Ω = 30 V Voltage drop over 600 Ω resistor is:
 
 600 Ω 1,000 ΩEX = ( ) 100 V E 100Ω = 60 V + − + − + − + − + − R1 R2 ES R3 R4 E3 E4 E2 E1 100 Ω 300 Ω 600 Ω + − + − + − + − R1 R2ES100 v R3 Checking work E T = 10 V + 30 V + 60 V = 100 V
 

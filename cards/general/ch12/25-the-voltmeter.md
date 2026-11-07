@@ -14,7 +14,7 @@ RM = = 19k Ω 950 mV50 μA Therefore, for 1 volt full-scale deflection, the tota
 
 ### Voltmeter Sensitivity
 
-V oltmeter sensitivity is defined in terms of resistance per volt (Ω/V). The meter used in the previous example has a sensitivity of 20k Ω and a full-scale deflection of 1 volt.
+Voltmeter sensitivity is defined in terms of resistance per volt (Ω/V). The meter used in the previous example has a sensitivity of 20k Ω and a full-scale deflection of 1 volt.
 
 ### Multiple Range Voltmeters
 

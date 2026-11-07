@@ -44,7 +44,7 @@ E × I = EQ × Et = Et = power For a simple DC electrical system, power dissipat
 
 General Power Formula P = I (E)
 
-Where P = Power I = Current E = V olts If a circuit has a known voltage of 24 volts and a current of 2 amps, then the power in the circuit is:
+Where P = Power I = Current E = Volts If a circuit has a known voltage of 24 volts and a current of 2 amps, then the power in the circuit is:
 
 P = 48W Now recall Ohm’s Laws that state E = I(R). If we now substitute IR for E in the general formula, we get a formula that uses only current I and resistance R to determine the power in a circuit.
 

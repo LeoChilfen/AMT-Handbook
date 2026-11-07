@@ -14,11 +14,11 @@ Archimedes (287–212 B.C.) performed similar experiments. As a result, he disco
 
 The amount of buoyant force available to an object can be calculated by using the following formula:
 
-Buoyant Force = V olume of Object × Density of Fluid Displaced If the buoyant force is more than the object weighs, the object will float. If the buoyant force is less than the object weighs, the object will sink. For the object that sinks, its measurable weight will be less by the weight of the displaced fluid.
+Buoyant Force = Volume of Object × Density of Fluid Displaced If the buoyant force is more than the object weighs, the object will float. If the buoyant force is less than the object weighs, the object will sink. For the object that sinks, its measurable weight will be less by the weight of the displaced fluid.
 
 Example: A 10-ft³ object weighing 700 lb is placed in pure water. Will the object float? If the object sinks, what is its measurable weight in the submerged condition? If the object floats, how many cubic feet of its volume is below the water line?
 
-Buoyant Force = V olume of Object × Density of Fluid Displaced = 10 (62.4)
+Buoyant Force = Volume of Object × Density of Fluid Displaced = 10 (62.4)
 
 = 624 lb The object will sink because the buoyant force is less than the object weighs. The difference between the buoyant force and the object’s weight will be its measurable weight, or 76 lb.
 

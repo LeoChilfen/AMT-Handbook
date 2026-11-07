@@ -32,7 +32,7 @@ The wing nut, AN350, is intended for use where the desired tightness can be obta
 
 As their name implies, self-locking nuts need no auxiliary means of safetying but have a safetying feature included as an integral part of their construction. Many types of self-locking nuts have been designed and their use has become quite widespread. Common applications are:
 
-• At tachment of antifriction bearings and control pulleys
+• Attachment of antifriction bearings and control pulleys
 
 • Attachment of accessories, anchor nuts around inspection holes, and small tank installation openings
 

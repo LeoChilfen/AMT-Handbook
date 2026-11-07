@@ -116,7 +116,7 @@ True power of any AC circuit is commonly referred to as the working power of the
 
 #### Apparent Power Defined
 
-Apparent power in an AC circuit is sometimes referred to as the reactive power of a circuit. Apparent power is the power consumed by the entire circuit, including both the resistance and the reactance. Apparent power is symbolized by the letter S and is measured in volt-amps (V A). Apparent power is a product of the effective voltage multiplied by the effective current. Apparent power is calculated by the formula:
+Apparent power in an AC circuit is sometimes referred to as the reactive power of a circuit. Apparent power is the power consumed by the entire circuit, including both the resistance and the reactance. Apparent power is symbolized by the letter S and is measured in volt-amps (VA). Apparent power is a product of the effective voltage multiplied by the effective current. Apparent power is calculated by the formula:
 
 S = I2 × Z Only when the AC circuit is made up of pure resistance is the apparent power equal to the true power. When there is capacitance or inductance in the circuit, the current and voltage are not exactly in phase, and the true power is less than the apparent power. The true power is obtained by a wattmeter reading. The ratio of the true power to the apparent power is called the power factor and is usually expressed in percent. In equation form, the relationship is:
 

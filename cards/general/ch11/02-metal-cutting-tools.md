@@ -148,7 +148,7 @@ Typical procedures for sharpening drills are as follows:
 
 4. Slowly place the cutting edge of the drill against the grinding wheel. Gradually lower the shank of the drill as you twist the drill in a clockwise direction. Maintain pressure against the grinding surface only until you reach the heel of the drill.
 
-5. Check the res ults of grinding with a gauge to determine whether or not the lips are the same length and at a 59° angle.
+5. Check the results of grinding with a gauge to determine whether or not the lips are the same length and at a 59° angle.
 
 Alternatively, there are commercially available twist drill grinders available, as well as attachments for bench grinders that ensure consistent, even sharpening of twist drills.
 

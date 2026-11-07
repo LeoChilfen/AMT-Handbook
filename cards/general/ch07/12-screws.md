@@ -12,7 +12,7 @@ Commonly used screws are classified in four groups: 1. Structural screws, which 
 
 2. Machine screws, which include most types used for general repair.
 
-3. Se lf-tapping screws, which are used for attaching lighter parts.
+3. Self-tapping screws, which are used for attaching lighter parts.
 
 4. Drive screws, which are not actually screws but nails. They are driven into metal parts with a mallet or hammer and their heads are not slotted or recessed.
 
