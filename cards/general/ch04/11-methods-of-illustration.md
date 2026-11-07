@@ -18,53 +18,71 @@ In orthographic projection, there are six possible views of an object, because a
 
 It is seldom necessary to show all six views to portray an object clearly; therefore, only those views necessary to illustrate the required characteristics of the object are drawn. One-, two-, and three-view drawings are the most common. Regardless of the number of views used, the arrangement is generally as shown, with the front view as principal view. If the right-side view is shown, it will be to the right of the front view. If the left-side view is shown, it will be to the left of the front view. The top and bottom views, if included, will be shown in their respective positions relative to the front view.
 
-One-view drawings are commonly used for objects of 200.0 150.0 100.0 50.0 BL 0.0 50.0 100.0 150.0 200.0 230.0 230.0 BUTTOCK LINE (BL)
-
-RBL 229.5 LEMAC FS 133.1 RBL 63.1 MAC 47.7"RBL 87.7TYPICAL LBL LBL 63.1 LBL 229.5 LBL 77.3 RBL 77.3 BL 0.0 WATER LINE (WL)
-
-FUSELAGE STATION (FS)
-
-150.0 50.0 0.0 50.0 100.0 150.0 200.0 250.0 300.0 350.0 WL100.0 NOTE Reference datum located at fuselage station 0.0 WL 165.5 FS 350.2 FS 222.0FS 100.0FS 55.6 FS 38.3 FS 157.5 uniform thickness, such as gaskets, shims, and plates. A dimensional note gives the thickness. One-view drawings are also commonly used for cylindrical, spherical, or square parts if all the necessary dimensions can be properly shown in one view. When space is limited and two views must be shown, symmetrical objects are often represented by half views, as illustrated.
+One-view drawings are commonly used for objects of uniform thickness, such as gaskets, shims, and plates. A dimensional note gives the thickness. One-view drawings are also commonly used for cylindrical, spherical, or square parts if all the necessary dimensions can be properly shown in one view. When space is limited and two views must be shown, symmetrical objects are often represented by half views, as illustrated.
 
 Aircraft drawings seldom show more than two principal or complete views of an object. Instead, there will be usually one complete view and one or more detail views or sectional views.
 
-Detail View A detail view shows only a part of the object, but in greater detail and to a larger scale than the principal view. The part that is shown in detail elsewhere on the drawing is usually encircled by a heavy line on the principal view. The principal view shows the complete object, while the detail view is an enlarged drawing of a portion of the object.
+Detail View
+
+A detail view shows only a part of the object, but in greater detail and to a larger scale than the principal view. The part that is shown in detail elsewhere on the drawing is usually encircled by a heavy line on the principal view. The principal view shows the complete object, while the detail view is an enlarged drawing of a portion of the object.
 
 #### Pictorial Drawings
 
 A pictorial drawing is like a photograph. It shows an object as it appears to the eye, but it is not satisfactory for showing complex forms and shapes. Pictorial drawings are useful in showing the general appearance of an object and are used extensively with orthographic projection drawings. Pictorial drawings are used in Aircraft Maintenance Manuals (AMM), Structural Repair Manuals (SRM), and Illustrated Parts Catalogues (IPC). Four types of pictorial drawings used frequently by aircraft engineers and technicians are: perspective, isometric, oblique, and exploded view.
 
-Perspective Drawings A perspective view shows an object as it appears to an observer. It most closely resembles the way an object would look in a photograph. Because of perspective, some of the lines of an object are not parallel and therefore the actual angles and dimensions are not accurate.
+Perspective Drawings
 
-Isometric Drawings An isometric view uses a combination of the views of an orthographic projection and tilts the object forward so that portions of all three views can be seen in one view. This provides the observer with a three-dimensional view of the object. Unlike a perspective drawing where lines converge and dimensions are not true, lines in an isometric drawing are parallel and dimensioned as they are in an orthographic projection.
+A perspective view shows an object as it appears to an observer. It most closely resembles the way an object would look in a photograph. Because of perspective, some of the lines of an object are not parallel and therefore the actual angles and dimensions are not accurate.
 
-Oblique Drawings An oblique view is like an isometric view, except for one distinct difference. In an oblique drawing, two of the three drawing axes are always at right angles to each other.
+Isometric Drawings
 
-Exploded View Drawings An exploded view drawing is a pictorial drawing of two or more parts that fit together as an assembly. The view shows the individual parts and their relative position to the other parts before they are assembled.
+An isometric view uses a combination of the views of an orthographic projection and tilts the object forward so that portions of all three views can be seen in one view. This provides the observer with a three-dimensional view of the object. Unlike a perspective drawing where lines converge and dimensions are not true, lines in an isometric drawing are parallel and dimensioned as they are in an orthographic projection.
+
+Oblique Drawings
+
+An oblique view is like an isometric view, except for one distinct difference. In an oblique drawing, two of the three drawing axes are always at right angles to each other.
+
+Exploded View
+
+Drawings An exploded view drawing is a pictorial drawing of two or more parts that fit together as an assembly. The view shows the individual parts and their relative position to the other parts before they are assembled.
 
 Exploded view drawings are often used in IPCs that are used to order parts. The exploded view drawing has numbers and the numbers correspond to a list of part numbers. Exploded views are also used in Maintenance Instruction Manuals (MIM) for the assembly and repair of aircraft components. These drawings are often accompanied by notes that explain the assembly process.
 
+#### Diagrams
+
 A diagram may be defined as a graphic representation of an assembly or system, indicating the various parts and expressing the methods or principles of operation. There are many types of diagrams; however, those that the aviation mechanic is concerned with during the performance of their job may be grouped into four classes or types: installation, schematic, block, and wiring diagrams.
 
-Installation Diagrams The illustration is an example of an installation diagram. This is a diagram of the installation of the flight guidance control components of an aircraft. It identifies each of the components in the systems and shows their location in the aircraft. Each number (1, 2, 3, and 4) on the detail shows the location of the individual flight guidance system components within the flight deck of the aircraft. Installation diagrams are used extensively in aircraft maintenance and repair manuals, and are invaluable in identifying and locating components and understanding the operation of various systems.
+Installation Diagrams
 
-Schematic Diagrams Schematic diagrams do not indicate the location of the individual components in the aircraft nor do they show the actual size and shape of the components, but rather locate components with respect to each other within the system. Schematics show the principle of operation of an aircraft system and are often used for troubleshooting and training purposes.
+The illustration is an example of an installation diagram. This is a diagram of the installation of the flight guidance control components of an aircraft. It identifies each of the components in the systems and shows their location in the aircraft. Each number (1, 2, 3, and 4) on the detail shows the location of the individual flight guidance system components within the flight deck of the aircraft. Installation diagrams are used extensively in aircraft maintenance and repair manuals, and are invaluable in identifying and locating components and understanding the operation of various systems.
+
+Schematic Diagrams
+
+Schematic diagrams do not indicate the location of the individual components in the aircraft nor do they show the actual size and shape of the components, but rather locate components with respect to each other within the system. Schematics show the principle of operation of an aircraft system and are often used for troubleshooting and training purposes.
 
 The illustration shows a schematic diagram of an aircraft air conditioning system. High-speed bleed air from the engine is combined with cold air in the mixing chamber and distributed via a manifold to various parts of the aircraft.
 
 Note that each line is coded for ease of reading and tracing the flow. Each component is identified by name, and its location within the system can be ascertained by noting the lines that lead into and out of the unit. Schematic diagrams and installation diagrams are used extensively in aircraft manuals.
 
-Block Diagrams Block diagrams are used to show a simplified relationship of a more complex system of components. Individual components are drawn as a rectangle (block) with lines connecting it to other components (blocks) that it interfaces with during operation.
+Block Diagrams
 
-Wiring Diagrams Wiring diagrams show the electrical wiring and circuitry, coded for identification, of all the electrical appliances and devices used on aircraft. These diagrams, even for relatively simple circuits, can be quite complicated. For technicians involved with electrical repairs and installations, a thorough knowledge of wiring diagrams and electrical schematics is essential.
+Block diagrams are used to show a simplified relationship of a more complex system of components. Individual components are drawn as a rectangle (block) with lines connecting it to other components (blocks) that it interfaces with during operation.
+
+Wiring Diagrams
+
+Wiring diagrams show the electrical wiring and circuitry, coded for identification, of all the electrical appliances and devices used on aircraft. These diagrams, even for relatively simple circuits, can be quite complicated. For technicians involved with electrical repairs and installations, a thorough knowledge of wiring diagrams and electrical schematics is essential.
+
+#### Flowcharts
 
 Flowcharts are used to illustrate a sequence or flow of events. There are two types of flow charts most frequently used in the aviation industry: troubleshooting flowcharts and logic flowcharts.
 
-Troubleshooting Flowchart Troubleshooting flowcharts are frequently used for the detection of faulty components. They often consist of a series of yes or no questions. If the answer to a question is yes, one course of action is followed.
+Troubleshooting Flowchart
 
-If the answer is no, a different course of action is followed. In this simple manner, a logical solution to a problem may be achieved. The illustration shows a flow chart to determine the repair options for a composite structure.
+Troubleshooting flowcharts are frequently used for the detection of faulty components. They often consist of a series of yes or no questions. If the answer to a question is yes, one course of action is followed.If the answer is no, a different course of action is followed. In this simple manner, a logical solution to a problem may be achieved. The illustration shows a flow chart to determine the repair options for a composite structure.
 
-Logic Flowchart Another type of flowchart, developed specifically for analysis of digitally-controlled components and systems, is the logic flowchart. A logic flowchart uses standardized symbols to indicate specific types of logic gates and their relationship to other digital devices in a system. Since digital systems make use of binary mathematics consisting of 1s and 0s, voltage or no voltage, a light pulse or no light pulse, and so forth, logic flowcharts consist of individual components that take an input and provide an output that is either the same as the input or opposite. By analyzing the input or multiple inputs, it is possible to determine the digital output or outputs.
+Logic Flowchart
+
+Another type of flowchart, developed specifically for analysis of digitally-controlled components and systems, is the logic flowchart. A logic flowchart uses standardized symbols to indicate specific types of logic gates and their relationship to other digital devices in a system. Since digital systems make use of binary mathematics consisting of 1s and 0s, voltage or no voltage, a light pulse or no light pulse, and so forth, logic flowcharts consist of individual components that take an input and provide an output that is either the same as the input or opposite. By analyzing the input or multiple inputs, it is possible to determine the digital output or outputs.
 
 ## 2. 中文翻译
 
