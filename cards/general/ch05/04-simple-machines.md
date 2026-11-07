@@ -16,7 +16,7 @@ A machine is any device with which work may be accomplished. For example, machin
 
 5. Machines can be used to change the direction of a force. An example of this use is the flag hoist. A downward force on one side of the rope exerts an upward force on the other side, raising the flag toward the top of the pole.
 
-There are only six simple machines. They are the lever, the pulley, the wheel and axle, the inclined plane, the screw, and the gear. Physicists, however, recognize only two basic principles in machines: the lever and the inclined plane.The pulley (block and tackle), the wheel and axle, and gears operate on the machine principle of the lever. The wedge and the screw use the principle of the inclined plane.
+There are only six simple machines. They are the lever, the pulley, the wheel and axle, the inclined plane, the screw, and the gear. Physicists, however, recognize only two basic principles in machines: the lever and the inclined plane. The pulley (block and tackle), the wheel and axle, and gears operate on the machine principle of the lever. The wedge and the screw use the principle of the inclined plane.
 
 An understanding of the principles of simple machines provides a necessary foundation for the study of compound machines, which are combinations of two or more simple machines.
 
