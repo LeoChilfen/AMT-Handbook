@@ -8,21 +8,31 @@ Matter is the foundation, or the building blocks, for any discussion of physics.
 
 ### Characteristics of Matter
 
+#### Mass & Weight
+
 Mass is a measure of the quantity of matter in an object. In other words, how many molecules are in the object, how many atoms are in the object, or to be more specific, how many protons, neutrons, and electrons are in the object. The mass of an object does not change regardless of where you take it in the universe, or with a change of state. The only way to change the mass of an object is to add or take away atoms. Mathematically, mass can be stated as follows:
 
-Mass = Weight ÷ Acceleration due to gravity The acceleration due to gravity here on earth is 32.2 feet per second per second (32.2 fps/s). An object weighing 32.2 pounds (lb) here on earth is said to have a mass of 1 slug. A slug is a quantity of mass that will accelerate at a rate of 1 ft. /s2 when a force of 1 pound is applied. In other words, under standard atmospheric condition, which is that gravity is equal to 32.2 fps/s, a mass of one slug would be equal to 32.2 lb.
+Mass = Weight ÷ Acceleration due to gravity
+
+The acceleration due to gravity here on earth is 32.2 feet per second per second (32.2 fps/s). An object weighing 32.2 pounds (lb) here on earth is said to have a mass of 1 slug. A slug is a quantity of mass that will accelerate at a rate of 1 ft. /s^2 when a force of 1 pound is applied. In other words, under standard atmospheric condition, which is that gravity is equal to 32.2 fps/s, a mass of one slug would be equal to 32.2 lb.
 
 Weight is a measure of the pull from gravity acting on the mass of an object. The more mass an object has, the more it will weigh under the earth’s force of gravity. The only way for an object to be weightless is for gravity to go away, because it is not possible for the mass of an object to disappear. When we view astronauts on the space shuttle, it appears that they are weightless. Even though the shuttle is far from the surface of the earth, the force of gravity has not completely gone away, and the astronauts are not weightless. The astronauts and the space shuttle are actually in a state of free fall, so relative to the shuttle the astronauts appear to be weightless. Mathematically, weight can be stated as follows:
 
 Weight = Mass × Gravity
 
+#### Attraction
+
 Attraction is mutual force acting between particles of matter, which tends to draw them together. Sir Isaac Newton called this the “Law of Universal Gravitation.” Newton showed how each particle of matter attracts every other particle, how people are bound to the earth, and how the planets are attracted in the solar system.
+
+#### Porosity
 
 Porosity means having pores or spaces where smaller particles may fit when a mixture takes place. This is sometimes referred to as granular—consisting or appearing to consist of small grains or granules.
 
 #### Impenetrability
 
 Impenetrability means that no two objects can occupy the same place at the same time. Thus, two portions of matter cannot at the same time occupy the same space.
+
+#### Density
 
 The density of a substance is its weight per unit volume. The unit volume selected for use in the English system of measurement is 1 cubic foot (ft 3). In the metric system, it is 1 cubic centimeter (cm3). Therefore, density is expressed in pounds per cubic foot (lb⁄ft 3) or in grams per cubic centimeter (g⁄cm 3).
 
@@ -36,7 +46,13 @@ It is often necessary to compare the density of one substance with another subst
 
 The following formulas are used to find the specific gravity of liquids and solids.
 
-Specific Gravity = Weight of an equal volume of waterWeight of the substance or Specific Gravity = Density of waterDensity of the substance The same formulas are used to find the density of gases by substituting air or hydrogen for water.
+Specific Gravity = Weight of the substance / Weight of an equal volume of water
+
+or
+
+Specific Gravity = Density of the substance / Density of water
+
+The same formulas are used to find the density of gases by substituting air or hydrogen for water.
 
 Specific gravity is not expressed in units, but as pure numbers. For example, if a certain hydraulic fluid has a specific gravity of 0.8, 1 ft3 of the liquid weighs 0.8 times as much as 1 ft 3 of water: 62.4 times 0.8, or 49.92 lb.
 
