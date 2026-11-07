@@ -12,9 +12,13 @@ The rules and conventional practices for making mechanical drawings are followed
 
 ### Sketching Techniques
 
-To make a sketch, first determine what views are necessary to portray the object. Then block in the views using light construction lines. Next, complete the details, darken the object outline, and sketch extension and dimension lines. Complete the drawing by adding notes, dimensions, title, date, and when necessary, the sketcher’s name. The steps in making a sketch of an object are illustrated.
+To make a sketch, first determine what views are necessary to portray the object. Then block in the views using light construction lines. Next, complete the details, darken the object outline, and sketch extension and dimension lines. Complete the drawing by adding notes, dimensions, title, date, and when necessary, the sketcher’s name.
+
+### Basic Shapes
 
 Depending on the complexity of the sketch, basic shapes may be drawn in freehand or by use of templates. If the sketch is quite complicated or the technician is required to make frequent sketches, use of a variety of templates and other drafting tools is highly recommended.
+
+### Repair Sketches
 
 A sketch is frequently drawn for repairs or for use in manufacturing a replacement part. Such a sketch must provide all necessary information to those who must make the repair or manufacture the part.
 
