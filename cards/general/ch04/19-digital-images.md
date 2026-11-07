@@ -4,21 +4,9 @@
 
 ## 1. 原文
 
-Though not a drawing, a digital image created by a digital camera can be extremely helpful to aviation maintenance technicians in evaluating and sharing information concerning the airworthiness or other information about aircraft. Digital images can be rapidly transmitted over the World Wide Web as attachments to e-mail messages. Images of structural fatigue cracks, failed parts, or other flaws, as well as desired design and paint schemes, are just a few examples of the types of digital images that might be shared by any number of users over the Internet. The illustration is a digital image of damage to a composite structure taken with a simple digital camera.
+Though not a drawing, a digital image created by a digital camera can be extremely helpful to aviation maintenance technicians in evaluating and sharing information concerning the airworthiness or other information about aircraft. Digital images can be rapidly transmitted over the World Wide Web as attachments to e-mail messages. Images of structural fatigue cracks, failed parts, or other flaws, as well as desired design and paint schemes, are just a few examples of the types of digital images that might be shared by any number of users over the Internet.
 
 To provide information about the extent of the damage, a measurement scale, or other object, such as a coin, can be placed near the area of concern before the picture is taken. Also, within the text of the e-mail, the technician should state the exact location of the damage, referenced to fuselage station, wing station, and so forth.
-
-7.5 7.0 6.5 6.0 5.5 −40 −30 −20 −10 0 10 20 30 40 Specific Weight (lb/US gal)
-
-Density Variation of Aviation Fuel Based on Average Specific Gravity
-
-Fuel Aviation Kerosene Jet A and Jet A1 Jet B (JP-4)
-
-AV Gas Grade 100/130 0.785 0.812 0.703 Average Specific Gravity at 15 °C (59 °F)
-
-NOTE: The fuel quantity indicator is calibrated for correct indication when using Aviation Kerosene Jet A and Jet A1. When using other fuels, multiply the indicated fuel quantity in pounds by 0.99 for Jet B (JP-4) or by 0.98 for Aviation Gasoline (100/130) to obtain actual fuel quantity in pounds.
-
-Aviation Gasoline Grade 100/130 Aviation Kerosene Jet A & Jet A1 Jet B (JP-4)
 
 ## 2. 中文翻译
 
