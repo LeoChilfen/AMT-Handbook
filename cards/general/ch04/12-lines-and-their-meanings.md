@@ -8,7 +8,11 @@ Every drawing is composed of lines. Lines mark the boundaries, edges, and inters
 
 Most drawings use three widths, or intensities, of lines: thin, medium, or thick. These lines may vary somewhat on different drawings, but there is a noticeable difference between a thin and a thick line, with the width of the medium line somewhere between the two.
 
+### Centerlines
+
 Centerlines are made up of alternate long and short dashes. They indicate the center of an object or part of an object. Where centerlines cross, the short dashes intersect Output Relay AC Input AC Input AC Input Phase A Phase B Phase C Voltage Selector Comparator Reference Voltage DO PU Power Amplifier Signal Conditioning and Balancing Signal Conditioning and Balancing Signal Conditioning and Balancing symmetrically. In the case of very small circles, the centerlines may be shown unbroken.
+
+### Dimension Lines
 
 A dimension line is a light solid line, broken at the midpoint for insertion of measurement indications, and having opposite pointing arrowheads at each end to show origin and termination of a measurement. They are generally parallel to the line that the dimension is given for, placed outside the outline of the object, and between views if more than one view is shown.
 
@@ -18,17 +22,27 @@ In dimensioning distances between holes in an object, dimensions are usually giv
 
 The dimensions given for tolerances signify the amount of clearance allowable between moving parts. A positive allowance is indicated for a part that is to slide or revolve upon another part. A negative allowance is one given for a force fit. Whenever possible, the tolerance and allowances for desired fits conform to those set up in the American Standard for Tolerances, Allowances, and Gauges for Metal Fits. The classes of fits specified in the standard may be indicated on assembly drawings.
 
+### Extension Lines
+
 Extensions are used to extend the line showing the side or edge of a figure for placing a dimension to that side or edge. They are very narrow and have a short break where they extend from the object and extend a short distance past the arrow of the dimensioning line.
 
 ### Sectioning Lines
 
 Sectioning lines indicate the exposed surfaces of an object in a sectional view. They are generally thin full lines, but may vary with the kind of material shown in section.
 
+### Phantom Lines
+
 Phantom lines indicate the alternate position of parts of the object or the relative position of a missing part. They are composed of one long and two short evenly spaced dashes.
+
+### Break Lines
 
 Break lines indicate that a portion of the object is not shown on the drawing. Short breaks are made by solid, freehand lines. For long breaks, solid ruled lines with zigzags are used. Shafts, rods, tubes, and other such parts that have a portion of their length broken out have the ends of the break drawn as indicated.
 
+### Leader Lines
+
 Leader lines are solid lines with one arrowhead. They indicate a part or portion that a note, number, or other reference applies.
+
+### Hidden Lines
 
 Hidden lines indicate invisible edges or contours. Hidden lines consist of short dashes evenly spaced and are frequently referred to as dash lines.
 
@@ -36,9 +50,9 @@ Hidden lines indicate invisible edges or contours. Hidden lines consist of short
 
 The outline or visible line is used for all lines on the drawing representing visible lines on the object. This is a medium-to-wide line that represents edges and surfaces that can be seen when the object is viewed directly.
 
-Stitch lines are used to indicate the stitching or sewing lines on an article and consists of a series of very short dashes, approximately half the length of dash or hidden lines, evenly spaced. Long lines of stitching may be indicated by a series of stitch lines connected by phantom lines.
+### Stitch Lines
 
-EXCESSIVE QUALITY CHECK / NDT PERMANENT COMPOSITE REPAIR ACCORDING TO APPROVED GUIDELINES RETURN TO SERVICE SUBMIT/ CHECK SCHEME WITH MANUFACTURER /OEM APPROVED TEMPORARY REPAIR IMPROVISE AND RETURN TO REPAIR WORKSHOP TEMPORARY REPAIR REPAIR TYPE DAMAGE ASSESSMENT SCRAP COMPLEX REPAIR EASY REPAIR
+Stitch lines are used to indicate the stitching or sewing lines on an article and consists of a series of very short dashes, approximately half the length of dash or hidden lines, evenly spaced. Long lines of stitching may be indicated by a series of stitch lines connected by phantom lines.
 
 ### Cutting Plane and Viewing Plane Lines
 
