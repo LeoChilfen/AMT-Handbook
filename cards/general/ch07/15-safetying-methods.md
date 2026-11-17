@@ -42,7 +42,7 @@ Bulkhead AN3102 receptacle AN3057 adapterAN3106 plug tubular in shape and is slo
 
 图中所示安全丝按右旋螺纹安装。对左旋螺纹，安全丝的走向相反。
 
-（原文此处为图注碎片，无对应正文）
+图注：用保险丝固定的阀、油杯、放油开关与 AN 标准带孔圆柱头螺钉。
 
 ……呈管状，全长开有槽。该销用手工具装入，在压入到位的过程中被压缩。卷销对孔壁施加的压力使它保持在位，直到有意用冲销（drift punch）或销冲（pin punch）将其取出。
 

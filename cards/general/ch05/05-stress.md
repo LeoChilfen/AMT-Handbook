@@ -44,9 +44,9 @@ A deflecting beam style of torque wrench uses the strain on the drive end of the
 
 对物体施加剪切应力时，力试图把物体切断或切开，就像刀切黄油一样。常用于把钢缆固定在机体某部件上的铰链螺栓承受着剪切应力。叉形接头固定在钢缆的端部，（此处夹有一组标注文字：Circumference（Effort arm））
 
-（此处为标注文字：Distance between threads（Resistance arm），略）
+图内标注：螺纹之间的距离（阻力臂）。
 
-（此处为标注文字：Resistance arm、Effort arm、Rivet head、Rivet shank、Bucking bar、Force from rivet gun）而叉形接头用铰链螺栓连接在机体上的耳环上。钢缆受拉时，叉形接头试图切断铰链螺栓而从耳环上滑脱。这种螺栓的设计要能承受很高的剪切载荷。
+图内标注：阻力臂、动力臂、铆钉头、铆钉杆、顶铁、铆枪的作用力。而叉形接头用铰链螺栓连接在机体上的耳环上。钢缆受拉时，叉形接头试图切断铰链螺栓而从耳环上滑脱。这种螺栓的设计要能承受很高的剪切载荷。
 
 如果作用在物体上的应力足够大，就会使物体改变形状或发生变形。物质的一个特性是它倾向于具有弹性，也就是说，施加力时它会被迫变形，而力去除后又能恢复原状。物体因施加力而变形时，就说该物体产生了应变。
 

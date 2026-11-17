@@ -68,7 +68,7 @@ To compute the cross-sectional area of a conductor in square mils, the length in
 
 R = 20 欧姆（恒定）
 
-（原文此处为图注碎片）要求 I（安培）时，把拇指盖在 I 上，按图示用 E 除以 R。
+图注：欧姆定律三量的三种求法（图中 A、B、C 三格）——求 I（安培）时，把拇指盖住 I，按图示用 E 除以 R。
 
 要求 R（欧姆）时，把拇指盖在 R 上，按图示相除。
 

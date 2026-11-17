@@ -60,7 +60,7 @@ Example: 218 landing gear bolts need to be divided between 7 aircraft. How many 
 
 例：218 个起落架螺栓要分给 7 架飞机，每架飞机分得多少个螺栓？
 
-（原文此处为位值表与竖式除法的抽排数据：位值表标题 Place Value、Ten Thousands、Thousands、Hundreds、Tens、Ones，随后是 35、269、12,749 三个数的位值示例，以及 218 ÷ 7 的竖式。）本例中，七架飞机每架分得 31 个螺栓，还余 1 个。
+算式：218 ÷ 7 = 31 余 1。本例中，七架飞机每架分得 31 个螺栓，还余 1 个。
 
 ## 3. 专业词汇
 

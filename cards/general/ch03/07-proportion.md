@@ -68,7 +68,7 @@ Therefore, to fly 750 miles, 60 gallons of gasoline is required.
 
 这里的比是「英里比加仑」，因此比例式列为：
 
-（原文此处为整页分数—小数—毫米换算表的抽排数据，原文无正文。）Miles Gallons 300 24 = 750 G
+比例式：300 ∕ 24 = 750 ∕ G（原文此处为分数式，抽文中分子分母被排平）
 
 解出 G：（750 × 24）÷ 300 = 60
 
