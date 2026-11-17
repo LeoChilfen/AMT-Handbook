@@ -10,7 +10,7 @@ Most drawings use three widths, or intensities, of lines: thin, medium, or thick
 
 ### Centerlines
 
-Centerlines are made up of alternate long and short dashes. They indicate the center of an object or part of an object. Where centerlines cross, the short dashes intersect Output Relay AC Input AC Input AC Input Phase A Phase B Phase C Voltage Selector Comparator Reference Voltage DO PU Power Amplifier Signal Conditioning and Balancing Signal Conditioning and Balancing Signal Conditioning and Balancing symmetrically. In the case of very small circles, the centerlines may be shown unbroken.
+Centerlines are made up of alternate long and short dashes. They indicate the center of an object or part of an object. Where centerlines cross, the short dashes intersect symmetrically. In the case of very small circles, the centerlines may be shown unbroken.
 
 ### Dimension Lines
 
