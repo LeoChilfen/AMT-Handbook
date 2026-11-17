@@ -151,8 +151,8 @@ R = 9 5 = ? 1 因为 9 ÷ 5 = 1.8，所以 9 5 = 1.8 1
 
 ### ⑥ 目的状语 + 祈使句连用
 
-**原句**：To solve for SP, multiply 40 × 160, then divide by 10.
+**原句**：To solve for Sp, multiply 40 × 160, then divide by 10.
 
-**拆解**：To solve for SP 是不定式作目的状语；主句由两个祈使句构成：multiply 40 × 160 与 then divide by 10，用 then 表示先后顺序。
+**拆解**：To solve for Sp 是不定式作目的状语；主句由两个祈使句构成：multiply 40 × 160 与 then divide by 10，用 then 表示先后顺序。
 
 **要点**：solve for X 意为「解出 X」，是数学、工程英语的高频搭配。多个祈使句用逗号加 then/and 串联，表示连续操作步骤；divide by 10 中的 by 引出除数。

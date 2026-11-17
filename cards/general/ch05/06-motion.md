@@ -175,11 +175,11 @@ F = 5,124 lb 推力（此处夹有一组标注文字：Vector C = 飞机的运�
 
 ### ② 关系代词省略的定语从句作后置修饰
 
-**原句**：If the distance the object moves remains the same for a given period of time, the motion may be described as uniform.
+**原句**：When an object is at different points in space at different times, that object is said to be in motion, and if the distance the object moves remains the same for a given period of time, the motion may be described as uniform.
 
-**拆解**：If 引导条件状语从句，其主语 the distance 后紧跟 the object moves（省略了关系代词 that/which 的定语从句）；主句 the motion may be described as uniform 为被动语态 + 主语补足语。
+**拆解**：整句由 and 连接两个并列主句。前一句 When an object is at different points in space at different times 为时间状语从句，主句 that object is said to be in motion 是被动结构；后一句由 if 引导条件状语从句，其主语 the distance 后紧跟 the object moves（省略了关系代词 that/which 的定语从句），主句 the motion may be described as uniform 为被动语态 + 主语补足语。
 
-**要点**：the distance the object moves 直译是「物体移动的距离」，中文习惯把定语前置；这类「先行词 + 主谓」无连接词的排列是手册英语的高频结构，判断靠语义而非形式标记。
+**要点**：the distance the object moves 直译是「物体移动的距离」，中文习惯把定语前置；这类「先行词 + 主谓」无连接词的排列是手册英语的高频结构，判断靠语义而非形式标记；长句里 and if 连接的是两个并列主句，不要把 if 从句误当成与前一句共用一个主句。
 
 ### ③ both … and … 与 in which 的双重限定
 

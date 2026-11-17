@@ -94,7 +94,7 @@ Helicoils are available for the following threads: unified coarse, unified fine,
 ## 4. 语法解析
 
 ### ① It is important that + 虚拟语气
-**原句**：It is very important that all bolts or nuts, except the self- locking type, be safetied after installation.
+**原句**：It is very important that all bolts or nuts, except the self-locking type, be safetied after installation.
 **拆解**：It 为形式主语，真正主语是 that 从句；从句谓语用动词原形 be safetied（省去 should 的虚拟语气），except the self-locking type 为插入语，修饰 bolts or nuts。
 **要点**：It is important/necessary/required that 后面的从句要用「(should) + 动词原形」，所以这里是 be safetied 而不是 are safetied；这一结构在维修手册里用来强调硬性要求。safety 作动词是「打保险」，过去分词 safetied 的 y 变 i 再加 ed。
 

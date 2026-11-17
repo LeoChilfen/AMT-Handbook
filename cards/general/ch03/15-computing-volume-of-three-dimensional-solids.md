@@ -174,10 +174,10 @@ v = 1⁄3 × π × radius² × height = 1⁄3 × π × r² × h
 **拆解**：前半句 There are many three-dimensional solids 为存在句；but 连接后半句，主语 the most common（最常见的几种）承前省略了 three-dimensional solids，谓语 are，表语由五个并列名词充当。
 **要点**：the most common 后面省略中心词是英语常见的“形容词名词化”用法，翻译时要补出“立体”；并列项超过三个时，最后两项之间用 and，前面用逗号。
 
-### ② be expressed in + 计量单位
-**原句**：Volume is expressed in cubic units.
-**拆解**：主语 Volume，谓语 is expressed（被动语态），in cubic units 为介词短语，表示计量的单位。
-**要点**：表示“用某单位表示”固定用 be expressed in，介词不能用 by 或 with；cubic units 是复数泛指，不加冠词。
+### ② 并列句中承前省略谓语 + be expressed in
+**原句**：Cubic inches or cubic centimeters are used for small spaces and cubic feet or cubic meters for larger spaces.
+**拆解**：and 连接两个结构平行的分句：前一分句 Cubic inches or cubic centimeters are used for small spaces 主语是两项并列、谓语 are used 为被动；后一分句 cubic feet or cubic meters for larger spaces 承前省略了 are used，只剩主语与状语。
+**要点**：并列句里重复的谓语常被省略，翻译时要把 are used 补出来（「大空间则用立方英尺或立方公尺」）；体积、容积的量纲用立方单位表示，英语写作 be expressed in cubic units，介词不能用 by 或 with。
 
 ### ③ 现在分词短语作后置定语
 **原句**：A solid having the shape of a can, a length of pipe, or a barrel is called a cylinder.

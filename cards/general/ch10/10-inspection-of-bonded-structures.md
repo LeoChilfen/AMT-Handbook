@@ -454,8 +454,8 @@ X 射线设备和放射性同位素源的辐射对活组织有破坏作用。普
 ## 4. 语法解析
 
 ### ① 前置长状语 + develop to the point that 结果从句
-**原句**：In rapidly rotating, reciprocating, vibrating, and other highly-stressed aircraft parts, small defects often develop to the point that they cause complete failure of the part.
-**拆解**：句首 In … aircraft parts 为地点／范围状语，内部由四个并列定语（rotating, reciprocating, vibrating, highly-stressed）修饰 parts；主句为 small defects often develop to the point；that 从句说明「发展到什么程度」，是同位／结果从句。
+**原句**：In rapidly rotating, reciprocating, vibrating, and other highly stressed aircraft parts, small defects often develop to the point that they cause complete failure of the part.
+**拆解**：句首 In … aircraft parts 为地点／范围状语，内部由四个并列定语（rotating, reciprocating, vibrating, highly stressed）修饰 parts；主句为 small defects often develop to the point；that 从句说明「发展到什么程度」，是同位／结果从句。
 **要点**：to the point that ＝「到了……的程度」，比 so … that 更强调发展过程的终点；四个并列形容词最后一项前才加 and；技术文常把范围状语提前，使主句主语 defects 紧跟其后，翻译时应先状后主。
 
 ### ② be defined as + such as 列举 + and the like

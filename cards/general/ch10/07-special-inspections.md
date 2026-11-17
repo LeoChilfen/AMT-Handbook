@@ -345,7 +345,7 @@ ATA iSpec 2200 系统 示例系统 分系统 标题 21 空调 21-00 总则 21-10
 **要点**：depend on／upon 意为「取决于」，本身就含被动意味，不能用 be depended on；not only 与 but also 后必须接同类成分，这里是两个 upon 短语；induced by 是「由……引起」的固定分词搭配。
 
 ### ④ because of + 形式主语 it + whether or not 宾语从句
-**原句**：Because of the difficulty in estimating vertical velocity at the time of contact, it is hard to judge whether or not a landing has been sufficiently severe to cause structural damage.
+**原句**：However, because of the difficulty in estimating vertical velocity at the time of contact, it is hard to judge whether or not a landing has been sufficiently severe to cause structural damage.
 **拆解**：Because of 引导原因状语，只能接名词短语；主句 it 是形式主语，真正主语为不定式 to judge …；whether or not 引导宾语从句，从句用现在完成时 has been；sufficiently … to cause 是「足够……以致」结构。
 **要点**：because of 后不能接句子，接句子要用 because；difficulty in doing sth 中的 in 不能换成 to do；it is hard to judge 里的 it 不可换成 that，也不能省。
 

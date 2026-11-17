@@ -58,9 +58,9 @@ Keep in mind that not all aircraft have all these systems installed. Small and s
 **要点**：if + 现在分词要求分词逻辑主语与主句主语一致；find information in section 24 用主动，转成被动即 information is found in section 24，被动句保留了「信息在何处找到」的焦点。
 
 ### ⑤ 插入的并列介词短语 + have sth done
-**原句**：Late model aircraft, both over and under the 12,500-pound designation, have their parts manuals and maintenance manuals arranged according to the ATA- coded system.
+**原句**：Late model aircraft, both over and under the 12,500-pound designation, have their parts manuals and maintenance manuals arranged according to the ATA-coded system.
 **拆解**：主语 Late model aircraft 后插入 both over and under the 12,500-pound designation 作补充说明；谓语是 have sth done 结构——have their parts manuals and maintenance manuals arranged（使其手册按……编排），arranged 为过去分词作宾语补足语；according to the ATA-coded system 为方式状语。
-**要点**：both over and under 是「既高于又低于」的并列，意为「无论是否超过」，不是「两者都超过」；12,500-pound 是「数词 + 名词 + 连字符」构成的复合形容词，名词用单数；have sth done 表示「让某事处于某种状态」，与 have sb do（让某人做）不同；原文 ATA- coded 在连字符后多一个空格，属版面抽取留下的排版现象，语义即 ATA-coded。
+**要点**：both over and under 是「既高于又低于」的并列，意为「无论是否超过」，不是「两者都超过」；12,500-pound 是「数词 + 名词 + 连字符」构成的复合形容词，名词用单数；have sth done 表示「让某事处于某种状态」，与 have sb do（让某人做）不同；ATA 章节编号体系源自 ATA Spec 100，后来演变为 ATA iSpec 2200，手册与部件的编排单位都与 ATA 章节号一一对应。
 
 ### ⑥ 祈使句 + that 宾语从句 + 部分否定
 **原句**：Keep in mind that not all aircraft have all these systems installed.

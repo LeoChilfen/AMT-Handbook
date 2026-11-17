@@ -314,7 +314,7 @@ EX =（600 Ω/1,000 Ω）（100 V），E100Ω = 60 V。（原文此处为图注�
 ## 4. 语法解析
 
 ### ① be classified as + because + so that 结果从句
-**原句**：This is classified as a series circuit because the components are connected end-to- end, so that the same current flows through each component equally.
+**原句**：This is classified as a series circuit because the components are connected end-to-end, so that the same current flows through each component equally.
 **拆解**：主句 This is classified as a series circuit 为被动；because 引导原因状语从句，从句谓语 are connected 亦为被动；so that 引导结果状语从句，主语 the same current，谓语 flows，through each component 为地点状语，equally 为方式状语。
 **要点**：be classified as 意为“被归类为”，as 后接名词而非形容词；so that 表结果时从句常含情态动词，此处用陈述语气表示事实结果；end-to-end 是复合副词，作方式状语，不能拆成 in end to end。
 

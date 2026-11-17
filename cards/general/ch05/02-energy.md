@@ -121,7 +121,7 @@ KE = 372,670,000 ft-lb
 **拆解**：句首 To use the formula 为不定式短语作目的状语；主句由 and 连接两个并列分句：we will show the mass as weight divided by gravity 和 the velocity of the object will be in feet per second；divided by gravity 为过去分词短语作后置定语修饰 weight。
 **要点**：show A as B 表示「把 A 表示为 B」；第二个分句另起主语 the velocity，说明 and 连接的是两个完整分句而不是两个宾语，阅读时应先找第二个主语再判断结构。目的状语用逗号与主句分开，逻辑主语是 we。
 
-### ⑤ 过去分词后置定语 + 三项并列句
-**原句**：Examples of the first group are water in an elevated reservoir or an airplane raised off the ground with jacks; a stretched bungee cord on a Piper Tri-Pacer or compressed spring are examples of the second group; and energy in aviation gasoline, food, or storage batteries are examples of the third group.
-**拆解**：全句由分号隔开三个并列分句，每个分句都是「表语 + are examples of…」结构；raised off the ground with jacks 与 stretched 均为过去分词作后置定语，分别修饰 an airplane 和 bungee cord；compressed 修饰 spring。
-**要点**：过去分词作定语表被动或完成，raised、stretched、compressed 都表示「已被……的」；分号在此分隔三个结构平行的长分句，比逗号更清楚地显示层次。翻译时三个分句保持同样句式，读起来才有列举感。
+### ⑤ or 并列 + 过去分词后置定语
+**原句**：Examples of the first group are water in an elevated reservoir or an airplane raised off the ground with jacks
+**拆解**：主语 Examples of the first group，系动词 are，表语由 or 连接的两项并列名词短语组成：water in an elevated reservoir 与 an airplane raised off the ground with jacks；in an elevated reservoir 为介词短语后置修饰 water，raised off the ground with jacks 为过去分词短语后置修饰 an airplane。
+**要点**：过去分词作定语表被动或完成，raised 相当于 which is raised off the ground；or 在此连接两个同类例子（「或者」），不是否定并列；原文后面还用分号继续列举第二、三组势能，读这种长句先按分号切分，再看每组内部的 or 并列。才有列举感。

@@ -83,10 +83,10 @@ I2 + I3 = IT。记得 IT = 10.9 mA，IT – I2 = I3。又记得 I2 = 6.54 mA，�
 **拆解**：While 引导让步状语从句，从句谓语 appear to be 表“看起来”的判断；主句主语 the same rules 后接 that 定语从句（have been used for…），谓语 can be applied to 为被动。
 **要点**：while 在此表让步“虽然”，与表时间的“当……时”要区分；appear to be + 形容词意为“看起来……”；apply A to B 变被动后为 A can be applied to B，介词 to 不能丢。
 
-### ③ 不定式作表语并列 + that 宾语从句套定语从句
-**原句**：The first step in the simplification process is to isolate the group R2 and R3 and recognize that they are a parallel network that can be reduced to an equivalent resistor.
-**拆解**：主语 The first step in the simplification process，谓语 is，表语为两个并列不定式 to isolate… and recognize…；recognize 后接 that 宾语从句，从句中 a parallel network 又带 that 定语从句（can be reduced to an equivalent resistor）。
-**要点**：主语为 step 时表语常用不定式，说明“该做的是”；isolate 意为“隔离出来”；be reduced to 是“被化简为”，与上文 reduce 呼应。
+### ③ that 宾语从句中的定语从句 + be reduced to
+**原句**：recognize that they are a parallel network that can be reduced to an equivalent resistor
+**拆解**：recognize 的宾语是 that 引导的从句 they are a parallel network；从句里 a parallel network 又带一个 that 定语从句 that can be reduced to an equivalent resistor，其中 can be reduced to 为被动语态 + 介词 to 引出化简的结果。
+**要点**：注意区分这里的两个 that：第一个是引导宾语从句的连接词，第二个是定语从句的关系代词（在从句中作主语）；be reduced to 是“被化简为”，to 引出结果，与上文用并联电阻公式化简的步骤呼应。
 
 ### ④ with 独立主格 + 被动谓语
 **原句**：With the total resistance RT now determined, the total IT can be determined.
@@ -94,6 +94,6 @@ I2 + I3 = IT。记得 IT = 10.9 mA，IT – I2 = I3。又记得 I2 = 6.54 mA，�
 **要点**：独立主格中 determine 与 RT 是被动关系，故用过去分词 determined；主句的 can be determined 与独立主格中的 determined 同词不同语法功能，注意区分；with 结构可改写为 Now that the total resistance RT has been determined。
 
 ### ⑤ provide A to B + before + 动名词
-**原句**：The voltage source provides a current out to resistor R1, then to the group of resistors R2 and R3 and then to the next resistor R4 before returning to the voltage source.
-**拆解**：主句谓语 provides a current out to…，then to… and then to… 为并列的方向状语；before returning 为介词 + 动名词，逻辑主语与主句主语 the voltage source 一致。
+**原句**：then to the group of resistors R2 and R3 and then to the next resistor R4 before returning to the voltage source.
+**拆解**：then to the group of resistors R2 and R3 与 and then to the next resistor R4 是承前省略 provides a current 的并列成分，说明电流依次流经的电阻；before returning to the voltage source 为介词 + 动名词作时间状语，逻辑主语与主句主语 the voltage source 一致。
 **要点**：provide A to B 意为“把 A 提供给 B”，out 为副词表“送出”；then to 承前省略了 provides a current；before doing 表示“在……之前”，主语相同时不能用 before it returns 之外的从句形式随意替换语序。
