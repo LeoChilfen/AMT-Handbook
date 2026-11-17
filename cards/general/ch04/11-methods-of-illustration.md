@@ -42,9 +42,9 @@ Oblique Drawings
 
 An oblique view is like an isometric view, except for one distinct difference. In an oblique drawing, two of the three drawing axes are always at right angles to each other.
 
-Exploded View
+Exploded View Drawings
 
-Drawings An exploded view drawing is a pictorial drawing of two or more parts that fit together as an assembly. The view shows the individual parts and their relative position to the other parts before they are assembled.
+An exploded view drawing is a pictorial drawing of two or more parts that fit together as an assembly. The view shows the individual parts and their relative position to the other parts before they are assembled.
 
 Exploded view drawings are often used in IPCs that are used to order parts. The exploded view drawing has numbers and the numbers correspond to a list of part numbers. Exploded views are also used in Maintenance Instruction Manuals (MIM) for the assembly and repair of aircraft components. These drawings are often accompanied by notes that explain the assembly process.
 
