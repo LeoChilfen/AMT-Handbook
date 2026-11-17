@@ -224,11 +224,11 @@ TCDS 分为一节或多节。每一节以一个罗马数字标识，其后是该
 | airworthiness directive (AD) | n.phr. | 适航指令 | 具强制性的联邦航空法规 |
 | overhaul | n./v. | 翻修 | overhaul manual 翻修手册 |
 | illustrated parts catalog | n.phr. | 图解零件目录 | 部件分解与分解图 |
-| wiring diagram | n.phr. | 线路图 | 布线、接线用图 |
-| type certificate data sheet (TCDS) | n.phr. | 型号合格证数据表 | 型号设计与限制 |
+| wiring diagram | n.phr. | 线路图 | 线路图手册收集定义机上设备布线与接线的图、图和清单 |
+| type certificate data sheet (TCDS) | n.phr. | 型号合格证数据表 | 描述型号设计，并列出相应 CFR 部规定的各项限制 |
 | conformity check | n.phr. | 符合性检查 | 核实飞机符合 TCDS |
 | supplemental type certificate (STC) | n.phr. | 补充型号合格证 | 未获授权改装时颁发 |
-| datum | n. | 基准 | 距基准的英寸数 |
+| datum | n. | 基准 | 重心范围以距基准的英寸数给出，运输类飞机也可用 %MAC 表示 |
 | placard | n. | 标牌 | required placards 必备标牌 |
 
 ## 4. 语法解析

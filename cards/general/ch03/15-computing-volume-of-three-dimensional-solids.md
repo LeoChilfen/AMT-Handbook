@@ -105,7 +105,7 @@ volume = π × radius² × height of the cylinder = π r² × h
 
 圆柱体体积最重要的应用之一，是求往复式发动机气缸的活塞排量。活塞排量是往复式发动机全部活塞在曲轴转一转的过程中扫过的总容积（以立方英寸、立方厘米或升计）。活塞排量的公式为：
 
-Piston Displacement = π × (bore divided by 2)2 × stroke × (# cylinders)（原文此处括号外的 2 为上标，即求平方）
+Piston Displacement = π × (bore divided by 2)2 × stroke × (# cylinders)（原文括号外的 2 为上标，即求平方）
 
 发动机的缸径是气缸的内径；行程是活塞在气缸内移动的距离。
 

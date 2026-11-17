@@ -30,7 +30,7 @@ The Functions of Numbers chart is included in this chapter for convenience in ma
 
 • N 的立方（N³）
 
-• N 的平方根（原文此处为根号 N，根号符号在抽文中丢失）
+• N 的平方根（原文为根号 N，抽取时根号丢失）
 
 • N 的立方根（∛N）
 

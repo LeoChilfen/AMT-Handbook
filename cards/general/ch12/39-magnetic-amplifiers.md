@@ -78,7 +78,7 @@ The DC control winding, acting in opposition to the reference winding, either in
 
 1. 假设线圈 A 中有 1 安培电流，A 绕有 10 匝导线。如果线圈 B 也绕有 10 匝导线，那么在线圈 B 上接有合适负载时，便可得到 1 安培的输出。
 
-2. 通过给线圈 C 通直流电，磁放大器线圈的铁心可以被进一步磁化。假设线圈 C 的匝数合适，并且在通入 30 毫安之后，铁心被磁化到这样的程度：线圈 A 上的 1 安培只在线圈 B 上产生 0.24 安培的输出（原文此处为图注碎片：Input Transformer coupled amplifier Output Q1 Q2T1 VCC Input Positive feedback Negative feedback Output Input Output，混入正文，无对应正文）。
+2. 通过给线圈 C 通直流电，磁放大器线圈的铁心可以被进一步磁化。假设线圈 C 的匝数合适，并且在通入 30 毫安之后，铁心被磁化到这样的程度：线圈 A 上的 1 安培只在线圈 B 上产生 0.24 安培的输出。
 
 3. 通过把线圈 C 的直流输入做成从 0 到 30 毫安的连续可变量，并在线圈 A 上保持 1 安培的输入，在本例中就有可能把线圈 B 的输出控制到 0.24 安培至 1 安培之间的任意值。
 

@@ -237,7 +237,7 @@ Empty Weight CG Range Maximum Weight No. of Seats Maximum Baggage Fuel Capacity 
 | adverse-loaded CG check | n.phr. | 不利装载重心检查 | 用极端装载验证重心不越限 |
 | minimum fuel | n.phr. | 最小油量 | 按 METO 马力除以 2 计算的油量 |
 | METO hp | n.phr. | 最大连续功率马力 | 计算最小油量所用的功率基准 |
-| baggage compartment | n.phr. | 行李舱 | 装载行李的隔舱 |
+| baggage compartment | n.phr. | 行李舱 | 现代飞机常有多排座椅和不止一个行李舱，改装后须核算各种装载都不能使重心越界 |
 
 ## 4. 语法解析
 
